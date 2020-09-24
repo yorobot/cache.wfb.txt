@@ -1,0 +1,439 @@
+60 datafiles:
+[1/60] >2018/1-seriea.txt< - 1 section(s):
+    534 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2018, 20 team refs, 38 round defs
+[2/60] >2003/brasileirao-seriea.txt< - 1 section(s):
+    698 lines, 552 matches - Campeonato Brasileiro Série A (br.1) 2003, 24 team refs, 46 round defs
+[3/60] >2017/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[4/60] >2017/brasileirao-seriec.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[5/60] >2017/brasileirao-serieb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[6/60] >2017/brasileirao-seried.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[7/60] >2008/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[8/60] >2009/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[9/60] >2015/mineiro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[10/60] >2015/copadobrasil.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[11/60] >2015/paranaense.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[12/60] >2015/paulistao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[13/60] >2015/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[14/60] >2015/gauchao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[15/60] >2015/brasileirao-serieb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[16/60] >2015/carioca.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[17/60] >2020/1-seriea.txt< - 1 section(s):
+    485 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
+[18/60] >2004/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[19/60] >2016/mineiro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[20/60] >2016/copadobrasil.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[21/60] >2016/paranaense.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[22/60] >2016/paulistao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[23/60] >2016/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[24/60] >2016/gauchao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[25/60] >2016/brasileirao-serieb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[26/60] >2016/carioca.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[27/60] >2016/primeira-liga.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[28/60] >2005/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[29/60] >2011/mineiro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[30/60] >2011/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[31/60] >2011/gauchao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[32/60] >2011/brasileirao-serieb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[33/60] >2011/carioca.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[34/60] >2012/mineiro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[35/60] >2012/paranaense.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[36/60] >2012/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[37/60] >2012/gauchao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[38/60] >2012/brasileirao-serieb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[39/60] >2012/carioca.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[40/60] >2007/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[41/60] >2019/1-seriea.txt< - 1 section(s):
+    524 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2019, 20 team refs, 38 round defs
+[42/60] >2006/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[43/60] >2013/mineiro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[44/60] >2013/copadobrasil.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[45/60] >2013/paranaense.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[46/60] >2013/paulistao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[47/60] >2013/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[48/60] >2013/gauchao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[49/60] >2013/brasileirao-serieb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[50/60] >2013/carioca.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[51/60] >2013/cb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[52/60] >2010/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[53/60] >2014/mineiro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[54/60] >2014/copadobrasil.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[55/60] >2014/paranaense.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[56/60] >2014/paulistao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[57/60] >2014/brasileirao-seriea.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[58/60] >2014/gauchao.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[59/60] >2014/brasileirao-serieb.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[60/60] >2014/carioca.txt< - 0 section(s):
+  !! ERROR: NO sections found
+
+
+[1/60] >2018/1-seriea.txt< - 1 section(s):
+    534 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2018
+      20 teams (referenced):
+        38× América MG
+        38× Atlético MG
+        38× Atlético PR
+        38× Botafogo RJ
+        38× CR Vasco da Gama
+        38× Ceára SC
+        38× Chapecoense
+        38× Corinthians SP
+        38× Cruzeiro MG
+        38× EC Bahia
+        38× EC Vitória
+        38× Flamengo RJ
+        38× Fluminense RJ
+        38× Grêmio RS
+        38× Internacional Porto Alegre
+        38× Palmeiras SP
+        38× Paraná Clube
+        38× Santos SP
+        38× Sport Recife
+        38× São Paulo FC
+      38 rounds (referenced):
+        Rodada 1, 10 matches
+        Rodada 2, 10 matches
+        Rodada 3 ×2, 10 matches
+        Rodada 4, 10 matches
+        Rodada 5, 10 matches
+        Rodada 6, 10 matches
+        Rodada 7, 10 matches
+        Rodada 8, 10 matches
+        Rodada 9, 10 matches
+        Rodada 10, 10 matches
+        Rodada 11, 10 matches
+        Rodada 12, 10 matches
+        Rodada 13, 10 matches
+        Rodada 14, 10 matches
+        Rodada 15 ×2, 10 matches
+        Rodada 16, 10 matches
+        Rodada 17, 10 matches
+        Rodada 20 ×3, 10 matches
+        Rodada 18, 10 matches
+        Rodada 19, 10 matches
+        Rodada 21, 10 matches
+        Rodada 22, 10 matches
+        Rodada 23, 10 matches
+        Rodada 24, 10 matches
+        Rodada 25, 10 matches
+        Rodada 26, 10 matches
+        Rodada 27, 10 matches
+        Rodada 28 ×2, 10 matches
+        Rodada 29, 10 matches
+        Rodada 30, 10 matches
+        Rodada 31, 10 matches
+        Rodada 32, 10 matches
+        Rodada 33, 10 matches
+        Rodada 34, 10 matches
+        Rodada 35, 10 matches
+        Rodada 36, 10 matches
+        Rodada 37, 10 matches
+        Rodada 38, 10 matches
+[2/60] >2003/brasileirao-seriea.txt< - 1 section(s):
+    698 lines, 552 matches - Campeonato Brasileiro Série A (br.1) 2003
+      24 teams (referenced):
+        46× Atlético-MG ⇒ Atlético MG
+        46× Atlético-PR ⇒ Atlético PR
+        46× Bahia ⇒ EC Bahia
+        46× Corinthians ⇒ Corinthians SP
+        46× Coritiba ⇒ Coritiba PR
+        46× Criciúma ⇒ Criciúma EC
+        46× Cruzeiro ⇒ Cruzeiro MG
+        46× Figueirense
+        46× Flamengo ⇒ Flamengo RJ
+        46× Fluminense ⇒ Fluminense RJ
+        46× Fortaleza ⇒ Fortaleza EC
+        46× Goiás ⇒ Goiás EC
+        46× Grêmio ⇒ Grêmio RS
+        46× Guarani ⇒ Guarani FC
+        46× Internacional ⇒ Internacional Porto Alegre
+        46× Juventude ⇒ Esporte Clube Juventude
+        46× Paraná ⇒ Paraná Clube
+        46× Paysandu ⇒ Paysandu SC
+        46× Ponte Preta
+        46× Santos ⇒ Santos SP
+        46× São Caetano ⇒ AD São Caetano
+        46× São Paulo ⇒ São Paulo FC
+        46× Vasco ⇒ CR Vasco da Gama
+        46× Vitória ⇒ EC Vitória
+      46 rounds (referenced):
+        1ª Rodada, 12 matches
+        2ª Rodada, 12 matches
+        3ª Rodada, 12 matches
+        4ª Rodada, 12 matches
+        5ª Rodada, 12 matches
+        6ª Rodada, 12 matches
+        7ª Rodada, 12 matches
+        8ª Rodada, 12 matches
+        9ª Rodada, 12 matches
+        10ª Rodada, 12 matches
+        11ª Rodada, 12 matches
+        12ª Rodada, 12 matches
+        13ª Rodada, 12 matches
+        14ª Rodada, 12 matches
+        15ª Rodada, 12 matches
+        16ª Rodada, 12 matches
+        17ª Rodada, 12 matches
+        18ª Rodada, 12 matches
+        19ª Rodada, 12 matches
+        20ª Rodada, 12 matches
+        21ª Rodada, 12 matches
+        22ª Rodada, 12 matches
+        23ª Rodada, 12 matches
+        24ª Rodada, 12 matches
+        25ª Rodada, 12 matches
+        26ª Rodada, 12 matches
+        27ª Rodada, 12 matches
+        28ª Rodada, 12 matches
+        29ª Rodada, 12 matches
+        30ª Rodada, 12 matches
+        31ª Rodada, 12 matches
+        32ª Rodada, 12 matches
+        33ª Rodada, 12 matches
+        34ª Rodada, 12 matches
+        35ª Rodada, 12 matches
+        36ª Rodada, 12 matches
+        37ª Rodada, 12 matches
+        38ª Rodada, 12 matches
+        39ª Rodada, 12 matches
+        40ª Rodada, 12 matches
+        41ª Rodada, 12 matches
+        42ª Rodada, 12 matches
+        43ª Rodada, 12 matches
+        44ª Rodada, 12 matches
+        45ª Rodada, 12 matches
+        46ª Rodada, 12 matches
+[3/60] >2017/brasileirao-seriea.txt< - 0 section(s):
+[4/60] >2017/brasileirao-seriec.txt< - 0 section(s):
+[5/60] >2017/brasileirao-serieb.txt< - 0 section(s):
+[6/60] >2017/brasileirao-seried.txt< - 0 section(s):
+[7/60] >2008/brasileirao-seriea.txt< - 0 section(s):
+[8/60] >2009/brasileirao-seriea.txt< - 0 section(s):
+[9/60] >2015/mineiro.txt< - 0 section(s):
+[10/60] >2015/copadobrasil.txt< - 0 section(s):
+[11/60] >2015/paranaense.txt< - 0 section(s):
+[12/60] >2015/paulistao.txt< - 0 section(s):
+[13/60] >2015/brasileirao-seriea.txt< - 0 section(s):
+[14/60] >2015/gauchao.txt< - 0 section(s):
+[15/60] >2015/brasileirao-serieb.txt< - 0 section(s):
+[16/60] >2015/carioca.txt< - 0 section(s):
+[17/60] >2020/1-seriea.txt< - 1 section(s):
+    485 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
+      20 teams (referenced):
+        38× Atlético GO
+        38× Atlético MG
+        38× Atlético PR
+        38× Botafogo RJ
+        38× CR Vasco da Gama
+        38× Ceára SC
+        38× Corinthians SP
+        38× Coritiba PR
+        38× EC Bahia
+        38× Flamengo RJ
+        38× Fluminense RJ
+        38× Fortaleza EC
+        38× Goiás EC
+        38× Grêmio RS
+        38× Internacional Porto Alegre
+        38× Palmeiras SP
+        38× RB Bragantino
+        38× Santos SP
+        38× Sport Recife
+        38× São Paulo FC
+      38 rounds (referenced):
+        Rodada 1 ×2, 10 matches
+        Rodada 2, 10 matches
+        Rodada 3, 10 matches
+        Rodada 4, 10 matches
+        Rodada 5 ×2, 10 matches
+        Rodada 11 ×3, 10 matches
+        Rodada 6, 10 matches
+        Rodada 7, 10 matches
+        Rodada 8, 10 matches
+        Rodada 9, 10 matches
+        Rodada 10, 10 matches
+        Rodada 12, 10 matches
+        Rodada 13, 10 matches
+        Rodada 14, 10 matches
+        Rodada 15, 10 matches
+        Rodada 16, 10 matches
+        Rodada 17, 10 matches
+        Rodada 18, 10 matches
+        Rodada 19, 10 matches
+        Rodada 20, 10 matches
+        Rodada 21, 10 matches
+        Rodada 22, 10 matches
+        Rodada 23, 10 matches
+        Rodada 24, 10 matches
+        Rodada 25, 10 matches
+        Rodada 26, 10 matches
+        Rodada 27, 10 matches
+        Rodada 28, 10 matches
+        Rodada 29, 10 matches
+        Rodada 30, 10 matches
+        Rodada 32, 10 matches
+        Rodada 31, 10 matches
+        Rodada 33, 10 matches
+        Rodada 34, 10 matches
+        Rodada 35, 10 matches
+        Rodada 36, 10 matches
+        Rodada 37, 10 matches
+        Rodada 38, 10 matches
+[18/60] >2004/brasileirao-seriea.txt< - 0 section(s):
+[19/60] >2016/mineiro.txt< - 0 section(s):
+[20/60] >2016/copadobrasil.txt< - 0 section(s):
+[21/60] >2016/paranaense.txt< - 0 section(s):
+[22/60] >2016/paulistao.txt< - 0 section(s):
+[23/60] >2016/brasileirao-seriea.txt< - 0 section(s):
+[24/60] >2016/gauchao.txt< - 0 section(s):
+[25/60] >2016/brasileirao-serieb.txt< - 0 section(s):
+[26/60] >2016/carioca.txt< - 0 section(s):
+[27/60] >2016/primeira-liga.txt< - 0 section(s):
+[28/60] >2005/brasileirao-seriea.txt< - 0 section(s):
+[29/60] >2011/mineiro.txt< - 0 section(s):
+[30/60] >2011/brasileirao-seriea.txt< - 0 section(s):
+[31/60] >2011/gauchao.txt< - 0 section(s):
+[32/60] >2011/brasileirao-serieb.txt< - 0 section(s):
+[33/60] >2011/carioca.txt< - 0 section(s):
+[34/60] >2012/mineiro.txt< - 0 section(s):
+[35/60] >2012/paranaense.txt< - 0 section(s):
+[36/60] >2012/brasileirao-seriea.txt< - 0 section(s):
+[37/60] >2012/gauchao.txt< - 0 section(s):
+[38/60] >2012/brasileirao-serieb.txt< - 0 section(s):
+[39/60] >2012/carioca.txt< - 0 section(s):
+[40/60] >2007/brasileirao-seriea.txt< - 0 section(s):
+[41/60] >2019/1-seriea.txt< - 1 section(s):
+    524 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2019
+      20 teams (referenced):
+        38× Atlético MG
+        38× Atlético PR
+        38× Avaí FC
+        38× Botafogo RJ
+        38× CR Vasco da Gama
+        38× CS Alagoano
+        38× Ceára SC
+        38× Chapecoense
+        38× Corinthians SP
+        38× Cruzeiro MG
+        38× EC Bahia
+        38× Flamengo RJ
+        38× Fluminense RJ
+        38× Fortaleza EC
+        38× Goiás EC
+        38× Grêmio RS
+        38× Internacional Porto Alegre
+        38× Palmeiras SP
+        38× Santos SP
+        38× São Paulo FC
+      38 rounds (referenced):
+        Rodada 1, 10 matches
+        Rodada 2, 10 matches
+        Rodada 3, 10 matches
+        Rodada 4, 10 matches
+        Rodada 5, 10 matches
+        Rodada 6, 10 matches
+        Rodada 7 ×2, 10 matches
+        Rodada 8, 10 matches
+        Rodada 9, 10 matches
+        Rodada 10, 10 matches
+        Rodada 11, 10 matches
+        Rodada 12, 10 matches
+        Rodada 13 ×2, 10 matches
+        Rodada 14, 10 matches
+        Rodada 15, 10 matches
+        Rodada 16 ×2, 10 matches
+        Rodada 17, 10 matches
+        Rodada 18, 10 matches
+        Rodada 19, 10 matches
+        Rodada 20, 10 matches
+        Rodada 21 ×2, 10 matches
+        Rodada 22, 10 matches
+        Rodada 23, 10 matches
+        Rodada 24, 10 matches
+        Rodada 25, 10 matches
+        Rodada 26, 10 matches
+        Rodada 27, 10 matches
+        Rodada 28, 10 matches
+        Rodada 29, 10 matches
+        Rodada 30, 10 matches
+        Rodada 31, 10 matches
+        Rodada 32, 10 matches
+        Rodada 34 ×2, 10 matches
+        Rodada 33, 10 matches
+        Rodada 35, 10 matches
+        Rodada 36, 10 matches
+        Rodada 37, 10 matches
+        Rodada 38, 10 matches
+[42/60] >2006/brasileirao-seriea.txt< - 0 section(s):
+[43/60] >2013/mineiro.txt< - 0 section(s):
+[44/60] >2013/copadobrasil.txt< - 0 section(s):
+[45/60] >2013/paranaense.txt< - 0 section(s):
+[46/60] >2013/paulistao.txt< - 0 section(s):
+[47/60] >2013/brasileirao-seriea.txt< - 0 section(s):
+[48/60] >2013/gauchao.txt< - 0 section(s):
+[49/60] >2013/brasileirao-serieb.txt< - 0 section(s):
+[50/60] >2013/carioca.txt< - 0 section(s):
+[51/60] >2013/cb.txt< - 0 section(s):
+[52/60] >2010/brasileirao-seriea.txt< - 0 section(s):
+[53/60] >2014/mineiro.txt< - 0 section(s):
+[54/60] >2014/copadobrasil.txt< - 0 section(s):
+[55/60] >2014/paranaense.txt< - 0 section(s):
+[56/60] >2014/paulistao.txt< - 0 section(s):
+[57/60] >2014/brasileirao-seriea.txt< - 0 section(s):
+[58/60] >2014/gauchao.txt< - 0 section(s):
+[59/60] >2014/brasileirao-serieb.txt< - 0 section(s):
+[60/60] >2014/carioca.txt< - 0 section(s):

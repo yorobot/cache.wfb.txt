@@ -1,0 +1,1004 @@
+15 datafiles:
+[1/15] >2019-20/2-serieb.txt< - 1 section(s):
+    525 lines, 380 matches - Serie B (it.2) 2019/20, 20 team refs, 38 round defs
+[2/15] >2019-20/1-seriea.txt< - 1 section(s):
+    532 lines, 380 matches - Serie A (it.1) 2019/20, 20 team refs, 38 round defs
+[3/15] >2018-19/2-serieb.txt< - 1 section(s):
+    502 lines, 342 matches - Serie B (it.2) 2018/19, 19 team refs, 38 round defs
+[4/15] >2018-19/1-seriea.txt< - 1 section(s):
+    535 lines, 380 matches - Serie A (it.1) 2018/19, 20 team refs, 38 round defs
+[5/15] >2016-17/2-serieb.txt< - 1 section(s):
+    631 lines, 462 matches - Serie B (it.2) 2016/17, 22 team refs, 42 round defs
+[6/15] >2016-17/1-seriea.txt< - 1 section(s):
+    522 lines, 380 matches - Serie A (it.1) 2016/17, 20 team refs, 38 round defs
+[7/15] >2015-16/2-serieb.txt< - 1 section(s):
+    633 lines, 462 matches - Serie B (it.2) 2015/16, 22 team refs, 42 round defs
+  !! 1 error(s) / warn(s):
+    WARN: 1 unmatched lines: ["AC Cesena (1940-2018)    0-2  Bari"]
+[8/15] >2015-16/1-seriea.txt< - 1 section(s):
+    516 lines, 380 matches - Serie A (it.1) 2015/16, 20 team refs, 38 round defs
+[9/15] >2013-14/2-serieb.txt< - 1 section(s):
+    605 lines, 462 matches - Serie B (it.2) 2013/14, 22 team refs, 42 round defs
+  !! 1 error(s) / warn(s):
+    WARN: 1 unmatched lines: ["AC Cesena (1940-2018)    0-2  Spezia"]
+[10/15] >2013-14/1-seriea.txt< - 1 section(s):
+    519 lines, 380 matches - Serie A (it.1) 2013/14, 20 team refs, 38 round defs
+[11/15] >2017-18/2-serieb.txt< - 1 section(s):
+    628 lines, 462 matches - Serie B (it.2) 2017/18, 22 team refs, 42 round defs
+  !! 1 error(s) / warn(s):
+    WARN: 1 unmatched lines: ["AC Cesena (1940-2018)    0-2  Ascoli"]
+[12/15] >2017-18/1-seriea.txt< - 1 section(s):
+    515 lines, 380 matches - Serie A (it.1) 2017/18, 20 team refs, 38 round defs
+[13/15] >2020-21/1-seriea.txt< - 1 section(s):
+    456 lines, 380 matches - Serie A (it.1) 2020/21, 20 team refs, 38 round defs
+[14/15] >2014-15/2-serieb.txt< - 1 section(s):
+    619 lines, 462 matches - Serie B (it.2) 2014/15, 22 team refs, 42 round defs
+[15/15] >2014-15/1-seriea.txt< - 1 section(s):
+    524 lines, 380 matches - Serie A (it.1) 2014/15, 20 team refs, 38 round defs
+
+
+[1/15] >2019-20/2-serieb.txt< - 1 section(s):
+    525 lines, 380 matches - Serie B (it.2) 2019/20
+      20 teams (referenced):
+        38× AC Chievo Verona
+        38× AC Perugia
+        38× AC Pisa
+        38× AS Livorno Calcio
+        38× Ascoli
+        38× Benevento
+        38× Cittadella
+        38× Cosenza Calcio
+        38× Cremonese ⇒ US Cremonese
+        38× Empoli
+        38× FC Crotone
+        38× Frosinone
+        38× Pescara
+        38× Pordenone Calcio
+        38× SS Juve Stabia
+        38× Salernitana
+        38× Spezia
+        38× Trapani Calcio
+        38× Venezia
+        38× Virtus Entella
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata ×2, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata ×2, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[2/15] >2019-20/1-seriea.txt< - 1 section(s):
+    532 lines, 380 matches - Serie A (it.1) 2019/20
+      20 teams (referenced):
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Bologna FC
+        38× Brescia ⇒ Brescia Calcio
+        38× Cagliari Calcio
+        38× FC Internazionale Milano
+        38× Genoa CFC
+        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Juventus
+        38× Parma
+        38× SPAL ⇒ SPAL Ferrara
+        38× SS Lazio
+        38× SSC Napoli
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Lecce
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata ×2, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata ×2, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata ×2, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[3/15] >2018-19/2-serieb.txt< - 1 section(s):
+    502 lines, 342 matches - Serie B (it.2) 2018/19
+      19 teams (referenced):
+        36× AC Perugia
+        36× AS Livorno Calcio
+        36× Ascoli
+        36× Benevento
+        36× Brescia ⇒ Brescia Calcio
+        36× Calcio Foggia 1920
+        36× Calcio Padova
+        36× Carpi
+        36× Cittadella
+        36× Cosenza Calcio
+        36× Cremonese ⇒ US Cremonese
+        36× FC Crotone
+        36× Hellas Verona FC ⇒ Hellas Verona
+        36× Palermo
+        36× Pescara
+        36× Salernitana
+        36× Spezia
+        36× US Lecce
+        36× Venezia
+      38 rounds (referenced):
+        1^ Giornata, 9 matches
+        2^ Giornata, 9 matches
+        3^ Giornata, 9 matches
+        4^ Giornata, 9 matches
+        5^ Giornata, 9 matches
+        6^ Giornata, 9 matches
+        7^ Giornata, 9 matches
+        8^ Giornata, 9 matches
+        9^ Giornata, 9 matches
+        10^ Giornata ×2, 9 matches
+        11^ Giornata, 9 matches
+        12^ Giornata, 9 matches
+        13^ Giornata, 9 matches
+        14^ Giornata, 9 matches
+        15^ Giornata, 9 matches
+        16^ Giornata, 9 matches
+        17^ Giornata, 9 matches
+        18^ Giornata, 9 matches
+        19^ Giornata, 9 matches
+        20^ Giornata, 9 matches
+        21^ Giornata, 9 matches
+        22^ Giornata ×2, 9 matches
+        23^ Giornata, 9 matches
+        24^ Giornata, 9 matches
+        25^ Giornata, 9 matches
+        26^ Giornata, 9 matches
+        27^ Giornata, 9 matches
+        28^ Giornata, 9 matches
+        29^ Giornata, 9 matches
+        30^ Giornata, 9 matches
+        31^ Giornata, 9 matches
+        32^ Giornata, 9 matches
+        33^ Giornata, 9 matches
+        34^ Giornata, 9 matches
+        35^ Giornata, 9 matches
+        36^ Giornata, 9 matches
+        37^ Giornata, 9 matches
+        38^ Giornata, 9 matches
+[4/15] >2018-19/1-seriea.txt< - 1 section(s):
+    535 lines, 380 matches - Serie A (it.1) 2018/19
+      20 teams (referenced):
+        38× AC Chievo Verona
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Bologna FC
+        38× Cagliari Calcio
+        38× Empoli
+        38× FC Internazionale Milano
+        38× Frosinone
+        38× Genoa CFC
+        38× Juventus
+        38× Parma
+        38× SPAL ⇒ SPAL Ferrara
+        38× SS Lazio
+        38× SSC Napoli
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata ×3, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata ×2, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[5/15] >2016-17/2-serieb.txt< - 1 section(s):
+    631 lines, 462 matches - Serie B (it.2) 2016/17
+      22 teams (referenced):
+        42× AC Cesena ⇒ AC Cesena (1940-2018)
+        42× AC Perugia
+        42× AC Pisa
+        42× Ascoli
+        42× Avellino
+        42× Bari
+        42× Benevento
+        42× Brescia ⇒ Brescia Calcio
+        42× Carpi
+        42× Cittadella
+        42× Frosinone
+        42× Hellas Verona FC ⇒ Hellas Verona
+        42× LR Vicenza Virtus
+        42× Novara
+        42× Pro Vercelli
+        42× SPAL Ferrara
+        42× SSD Latina Calcio
+        42× Salernitana
+        42× Spezia
+        42× Ternana
+        42× Trapani Calcio
+        42× Virtus Entella
+      42 rounds (referenced):
+        1^ Giornata ×2, 11 matches
+        2^ Giornata ×2, 11 matches
+        3^ Giornata, 11 matches
+        4^ Giornata, 11 matches
+        5^ Giornata, 11 matches
+        6^ Giornata, 11 matches
+        7^ Giornata, 11 matches
+        8^ Giornata, 11 matches
+        9^ Giornata, 11 matches
+        10^ Giornata, 11 matches
+        11^ Giornata, 11 matches
+        12^ Giornata, 11 matches
+        13^ Giornata ×2, 11 matches
+        14^ Giornata, 11 matches
+        15^ Giornata, 11 matches
+        16^ Giornata, 11 matches
+        17^ Giornata, 11 matches
+        18^ Giornata, 11 matches
+        19^ Giornata, 11 matches
+        20^ Giornata, 11 matches
+        21^ Giornata, 11 matches
+        22^ Giornata ×2, 11 matches
+        23^ Giornata, 11 matches
+        24^ Giornata, 11 matches
+        25^ Giornata, 11 matches
+        26^ Giornata, 11 matches
+        27^ Giornata, 11 matches
+        28^ Giornata, 11 matches
+        29^ Giornata, 11 matches
+        30^ Giornata, 11 matches
+        31^ Giornata, 11 matches
+        32^ Giornata, 11 matches
+        33^ Giornata, 11 matches
+        34^ Giornata, 11 matches
+        35^ Giornata, 11 matches
+        36^ Giornata, 11 matches
+        37^ Giornata, 11 matches
+        38^ Giornata, 11 matches
+        39^ Giornata, 11 matches
+        40^ Giornata, 11 matches
+        41^ Giornata, 11 matches
+        42^ Giornata, 11 matches
+[6/15] >2016-17/1-seriea.txt< - 1 section(s):
+    522 lines, 380 matches - Serie A (it.1) 2016/17
+      20 teams (referenced):
+        38× AC Chievo Verona
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Bologna FC
+        38× Cagliari Calcio
+        38× Empoli
+        38× FC Crotone
+        38× FC Internazionale Milano
+        38× Genoa CFC
+        38× Juventus
+        38× Palermo
+        38× Pescara
+        38× SS Lazio
+        38× SSC Napoli
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata ×2, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata, 10 matches
+        18^ Giornata ×2, 10 matches
+        19^ Giornata ×2, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[7/15] >2015-16/2-serieb.txt< - 1 section(s):
+    633 lines, 462 matches - Serie B (it.2) 2015/16
+!! 1 unmatched lines:
+   >AC Cesena (1940-2018)    0-2  Bari<
+      22 teams (referenced):
+        42× AC Perugia
+        42× AS Livorno Calcio
+        42× Ascoli
+        42× Avellino
+        42× Brescia ⇒ Brescia Calcio
+        42× Cagliari Calcio
+        42× Como 1907
+        42× FC Crotone
+        42× LR Vicenza Virtus
+        42× Modena FC
+        42× Novara
+        42× Pescara
+        42× Pro Vercelli
+        42× SSD Latina Calcio
+        42× Salernitana
+        42× Spezia
+        42× Ternana
+        42× Trapani Calcio
+        42× Virtus Entella
+        42× Virtus Lanciano
+        41× AC Cesena ⇒ AC Cesena (1940-2018)
+        41× Bari
+      42 rounds (referenced):
+        1^ Giornata ×2, 11 matches
+        2^ Giornata, 11 matches
+        3^ Giornata, 11 matches
+        4^ Giornata, 11 matches
+        5^ Giornata, 11 matches
+        6^ Giornata, 11 matches
+        7^ Giornata, 11 matches
+        8^ Giornata, 11 matches
+        9^ Giornata, 11 matches
+        10^ Giornata ×2, 11 matches
+        11^ Giornata, 11 matches
+        12^ Giornata, 11 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 11 matches
+        15^ Giornata, 11 matches
+        16^ Giornata, 11 matches
+        17^ Giornata, 11 matches
+        18^ Giornata, 11 matches
+        19^ Giornata, 11 matches
+        20^ Giornata, 11 matches
+        21^ Giornata ×2, 11 matches
+        22^ Giornata, 11 matches
+        23^ Giornata, 11 matches
+        24^ Giornata, 11 matches
+        25^ Giornata, 11 matches
+        26^ Giornata, 11 matches
+        27^ Giornata, 11 matches
+        28^ Giornata, 11 matches
+        29^ Giornata, 11 matches
+        30^ Giornata, 11 matches
+        31^ Giornata, 11 matches
+        32^ Giornata, 11 matches
+        33^ Giornata, 11 matches
+        34^ Giornata, 11 matches
+        35^ Giornata, 11 matches
+        36^ Giornata, 11 matches
+        37^ Giornata, 11 matches
+        38^ Giornata, 11 matches
+        39^ Giornata, 11 matches
+        40^ Giornata, 11 matches
+        41^ Giornata, 11 matches
+        42^ Giornata, 11 matches
+[8/15] >2015-16/1-seriea.txt< - 1 section(s):
+    516 lines, 380 matches - Serie A (it.1) 2015/16
+      20 teams (referenced):
+        38× AC Chievo Verona
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Bologna FC
+        38× Carpi
+        38× Empoli
+        38× FC Internazionale Milano
+        38× Frosinone
+        38× Genoa CFC
+        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Juventus
+        38× Palermo
+        38× SS Lazio
+        38× SSC Napoli
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata ×2, 10 matches
+        17^ Giornata, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[9/15] >2013-14/2-serieb.txt< - 1 section(s):
+    605 lines, 462 matches - Serie B (it.2) 2013/14
+!! 1 unmatched lines:
+   >AC Cesena (1940-2018)    0-2  Spezia<
+      22 teams (referenced):
+        42× Avellino
+        42× Bari
+        42× Brescia ⇒ Brescia Calcio
+        42× Calcio Padova
+        42× Carpi
+        42× Cittadella
+        42× Empoli
+        42× FC Crotone
+        42× Modena FC
+        42× Novara
+        42× Palermo
+        42× Pescara
+        42× Reggina 1914
+        42× SS Juve Stabia
+        42× SS Robur Siena
+        42× SSD Latina Calcio
+        42× Ternana
+        42× Trapani Calcio
+        42× Varese Calcio
+        42× Virtus Lanciano
+        41× AC Cesena ⇒ AC Cesena (1940-2018)
+        41× Spezia
+      42 rounds (referenced):
+        1^ Giornata, 11 matches
+        2^ Giornata ×2, 11 matches
+        3^ Giornata, 11 matches
+        4^ Giornata, 11 matches
+        5^ Giornata, 11 matches
+        6^ Giornata, 11 matches
+        7^ Giornata, 11 matches
+        8^ Giornata, 11 matches
+        9^ Giornata, 11 matches
+        10^ Giornata, 11 matches
+        11^ Giornata, 11 matches
+        12^ Giornata, 11 matches
+        13^ Giornata, 11 matches
+        14^ Giornata, 11 matches
+        15^ Giornata, 11 matches
+        16^ Giornata, 11 matches
+        17^ Giornata, 11 matches
+        18^ Giornata, 11 matches
+        19^ Giornata, 11 matches
+        20^ Giornata ×2, 11 matches
+        21^ Giornata, 11 matches
+        22^ Giornata, 11 matches
+        23^ Giornata, 11 matches
+        24^ Giornata, 11 matches
+        25^ Giornata, 11 matches
+        26^ Giornata, 11 matches
+        27^ Giornata, 11 matches
+        28^ Giornata, 11 matches
+        29^ Giornata, 11 matches
+        30^ Giornata, 11 matches
+        31^ Giornata, 11 matches
+        32^ Giornata, 11 matches
+        33^ Giornata, 11 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 11 matches
+        36^ Giornata, 11 matches
+        37^ Giornata, 11 matches
+        38^ Giornata, 11 matches
+        39^ Giornata, 11 matches
+        40^ Giornata, 11 matches
+        41^ Giornata, 11 matches
+        42^ Giornata, 11 matches
+[10/15] >2013-14/1-seriea.txt< - 1 section(s):
+    519 lines, 380 matches - Serie A (it.1) 2013/14
+      20 teams (referenced):
+        38× AC Chievo Verona
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Livorno Calcio
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Bologna FC
+        38× Cagliari Calcio
+        38× Calcio Catania
+        38× FC Internazionale Milano
+        38× Genoa CFC
+        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Juventus
+        38× Parma
+        38× SS Lazio
+        38× SSC Napoli
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata ×2, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[11/15] >2017-18/2-serieb.txt< - 1 section(s):
+    628 lines, 462 matches - Serie B (it.2) 2017/18
+!! 1 unmatched lines:
+   >AC Cesena (1940-2018)    0-2  Ascoli<
+      22 teams (referenced):
+        42× AC Perugia
+        42× Avellino
+        42× Bari
+        42× Brescia ⇒ Brescia Calcio
+        42× Calcio Foggia 1920
+        42× Carpi
+        42× Cittadella
+        42× Cremonese ⇒ US Cremonese
+        42× Empoli
+        42× Frosinone
+        42× Novara
+        42× Palermo
+        42× Parma
+        42× Pescara
+        42× Pro Vercelli
+        42× Salernitana
+        42× Spezia
+        42× Ternana
+        42× Venezia
+        42× Virtus Entella
+        41× AC Cesena ⇒ AC Cesena (1940-2018)
+        41× Ascoli
+      42 rounds (referenced):
+        1^ Giornata, 11 matches
+        2^ Giornata, 11 matches
+        3^ Giornata, 11 matches
+        4^ Giornata, 11 matches
+        5^ Giornata ×2, 11 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 11 matches
+        8^ Giornata, 11 matches
+        9^ Giornata, 11 matches
+        10^ Giornata, 11 matches
+        11^ Giornata, 11 matches
+        12^ Giornata, 11 matches
+        13^ Giornata, 11 matches
+        14^ Giornata, 11 matches
+        15^ Giornata, 11 matches
+        16^ Giornata, 11 matches
+        17^ Giornata, 11 matches
+        18^ Giornata, 11 matches
+        19^ Giornata, 11 matches
+        20^ Giornata, 11 matches
+        21^ Giornata, 11 matches
+        22^ Giornata, 11 matches
+        23^ Giornata, 11 matches
+        24^ Giornata, 11 matches
+        25^ Giornata, 11 matches
+        26^ Giornata, 11 matches
+        27^ Giornata, 11 matches
+        28^ Giornata ×3, 11 matches
+        29^ Giornata ×2, 11 matches
+        30^ Giornata, 11 matches
+        31^ Giornata, 11 matches
+        32^ Giornata, 11 matches
+        33^ Giornata, 11 matches
+        34^ Giornata, 11 matches
+        35^ Giornata, 11 matches
+        36^ Giornata, 11 matches
+        37^ Giornata, 11 matches
+        38^ Giornata, 11 matches
+        39^ Giornata, 11 matches
+        40^ Giornata, 11 matches
+        41^ Giornata, 11 matches
+        42^ Giornata, 11 matches
+[12/15] >2017-18/1-seriea.txt< - 1 section(s):
+    515 lines, 380 matches - Serie A (it.1) 2017/18
+      20 teams (referenced):
+        38× AC Chievo Verona
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Benevento
+        38× Bologna FC
+        38× Cagliari Calcio
+        38× FC Crotone
+        38× FC Internazionale Milano
+        38× Genoa CFC
+        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Juventus
+        38× SPAL ⇒ SPAL Ferrara
+        38× SS Lazio
+        38× SSC Napoli
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata ×2, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata ×2, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata, 10 matches
+        26^ Giornata ×2, 10 matches
+        27^ Giornata ×2, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[13/15] >2020-21/1-seriea.txt< - 1 section(s):
+    456 lines, 380 matches - Serie A (it.1) 2020/21
+      20 teams (referenced):
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Benevento
+        38× Bologna FC
+        38× Cagliari Calcio
+        38× FC Crotone
+        38× FC Internazionale Milano
+        38× Genoa CFC
+        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Juventus
+        38× Parma
+        38× SS Lazio
+        38× SSC Napoli
+        38× Spezia
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata, 10 matches
+        25^ Giornata, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
+[14/15] >2014-15/2-serieb.txt< - 1 section(s):
+    619 lines, 462 matches - Serie B (it.2) 2014/15
+      22 teams (referenced):
+        42× AC Perugia
+        42× AS Livorno Calcio
+        42× Avellino
+        42× Bari
+        42× Bologna FC
+        42× Brescia ⇒ Brescia Calcio
+        42× Calcio Catania
+        42× Carpi
+        42× Cittadella
+        42× FC Crotone
+        42× Frosinone
+        42× LR Vicenza Virtus
+        42× Modena FC
+        42× Pescara
+        42× Pro Vercelli
+        42× SSD Latina Calcio
+        42× Spezia
+        42× Ternana
+        42× Trapani Calcio
+        42× Varese Calcio
+        42× Virtus Entella
+        42× Virtus Lanciano
+      42 rounds (referenced):
+        1^ Giornata ×2, 11 matches
+        2^ Giornata, 11 matches
+        3^ Giornata, 11 matches
+        4^ Giornata, 11 matches
+        5^ Giornata, 11 matches
+        6^ Giornata, 11 matches
+        7^ Giornata, 11 matches
+        8^ Giornata ×2, 11 matches
+        9^ Giornata, 11 matches
+        10^ Giornata, 11 matches
+        11^ Giornata, 11 matches
+        12^ Giornata, 11 matches
+        13^ Giornata, 11 matches
+        14^ Giornata ×2, 11 matches
+        15^ Giornata, 11 matches
+        16^ Giornata, 11 matches
+        17^ Giornata, 11 matches
+        18^ Giornata, 11 matches
+        19^ Giornata, 11 matches
+        20^ Giornata, 11 matches
+        21^ Giornata, 11 matches
+        22^ Giornata, 11 matches
+        23^ Giornata, 11 matches
+        24^ Giornata, 11 matches
+        25^ Giornata ×2, 11 matches
+        26^ Giornata, 11 matches
+        27^ Giornata, 11 matches
+        28^ Giornata, 11 matches
+        29^ Giornata, 11 matches
+        30^ Giornata, 11 matches
+        31^ Giornata, 11 matches
+        32^ Giornata, 11 matches
+        33^ Giornata ×2, 11 matches
+        34^ Giornata, 11 matches
+        35^ Giornata, 11 matches
+        36^ Giornata, 11 matches
+        37^ Giornata, 11 matches
+        38^ Giornata, 11 matches
+        39^ Giornata, 11 matches
+        40^ Giornata, 11 matches
+        41^ Giornata, 11 matches
+        42^ Giornata, 11 matches
+[15/15] >2014-15/1-seriea.txt< - 1 section(s):
+    524 lines, 380 matches - Serie A (it.1) 2014/15
+      20 teams (referenced):
+        38× AC Cesena ⇒ AC Cesena (1940-2018)
+        38× AC Chievo Verona
+        38× AC Milan
+        38× ACF Fiorentina
+        38× AS Roma
+        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Cagliari Calcio
+        38× Empoli
+        38× FC Internazionale Milano
+        38× Genoa CFC
+        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Juventus
+        38× Palermo
+        38× Parma
+        38× SS Lazio
+        38× SSC Napoli
+        38× Torino FC
+        38× UC Sampdoria
+        38× US Sassuolo Calcio
+        38× Udinese Calcio
+      38 rounds (referenced):
+        1^ Giornata, 10 matches
+        2^ Giornata, 10 matches
+        3^ Giornata, 10 matches
+        4^ Giornata, 10 matches
+        5^ Giornata, 10 matches
+        6^ Giornata, 10 matches
+        7^ Giornata, 10 matches
+        8^ Giornata, 10 matches
+        9^ Giornata, 10 matches
+        10^ Giornata, 10 matches
+        11^ Giornata, 10 matches
+        12^ Giornata, 10 matches
+        13^ Giornata, 10 matches
+        14^ Giornata, 10 matches
+        15^ Giornata, 10 matches
+        16^ Giornata, 10 matches
+        17^ Giornata, 10 matches
+        18^ Giornata, 10 matches
+        19^ Giornata, 10 matches
+        20^ Giornata, 10 matches
+        21^ Giornata, 10 matches
+        22^ Giornata, 10 matches
+        23^ Giornata, 10 matches
+        24^ Giornata ×2, 10 matches
+        25^ Giornata ×2, 10 matches
+        26^ Giornata, 10 matches
+        27^ Giornata, 10 matches
+        28^ Giornata, 10 matches
+        29^ Giornata, 10 matches
+        30^ Giornata, 10 matches
+        31^ Giornata, 10 matches
+        32^ Giornata, 10 matches
+        33^ Giornata, 10 matches
+        34^ Giornata, 10 matches
+        35^ Giornata, 10 matches
+        36^ Giornata, 10 matches
+        37^ Giornata, 10 matches
+        38^ Giornata, 10 matches
