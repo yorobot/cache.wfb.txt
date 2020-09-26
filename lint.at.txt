@@ -86,13 +86,13 @@
 [41/52] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
     127 lines, 80 matches - Bundesliga (at.1) 2017/18, 10 team refs, 16 round defs
 [42/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
+    258 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
 [43/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
     181 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<, 12 team refs, 22 round defs
 [44/52] >2020-21/2-liga2.txt< - 1 section(s):
-    316 lines, 240 matches - 2. Liga (at.2) 2020/21, 16 team refs, 30 round defs
+    317 lines, 240 matches - 2. Liga (at.2) 2020/21, 16 team refs, 30 round defs
 [45/52] >2020-21/cup.txt< - 1 section(s):
-    40 lines, 31 matches - ÖFB Cup (at.cup) 2020/21, 62 team refs, 1 round defs
+    58 lines, 46 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 2 round defs
 [46/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
     156 lines, 95 matches - Bundesliga (at.1) 2014/15, 10 team refs, 19 round defs
 [47/52] >2014-15/2-liga1-ii.txt< - 1 section(s):
@@ -1812,7 +1812,7 @@
         35. Runde, 5 matches
         36. Runde, 5 matches
 [42/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
+    258 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
       13 teams (referenced):
         24× 1. Wiener Neustädter SC
         24× ASK-BSC Bruck/Leitha
@@ -1893,7 +1893,7 @@
         21. Runde, 6 matches
         22. Runde, 6 matches
 [44/52] >2020-21/2-liga2.txt< - 1 section(s):
-    316 lines, 240 matches - 2. Liga (at.2) 2020/21
+    317 lines, 240 matches - 2. Liga (at.2) 2020/21
       16 teams (referenced):
         30× Austria Klagenfurt
         30× Austria Lustenau
@@ -1943,72 +1943,74 @@
         29. Runde, 8 matches
         30. Runde, 8 matches
 [45/52] >2020-21/cup.txt< - 1 section(s):
-    40 lines, 31 matches - ÖFB Cup (at.cup) 2020/21
-      62 teams (referenced):
-        1. Wiener Neustädter SC
-        ASK Elektra Wien
+    58 lines, 46 matches - ÖFB Cup (at.cup) 2020/21
+      63 teams (referenced):
+        2× 1. Wiener Neustädter SC
+        2× ASK Elektra Wien
+        2× Austria Klagenfurt
+        2× FC Admira Wacker Mödling
+        2× FC Blau-Weiß Linz
+        2× FC RB Salzburg
+        2× FC Wacker Innsbruck
+        2× FK Austria Wien
+        2× First Vienna FC
+        2× Floridsdorfer AC
+        2× Kapfenberger SV
+        2× LASK Linz
+        2× SCR Altach
+        2× SK Rapid Wien
+        2× SK Vorwärts Steyr
+        2× SKN St. Pölten
+        2× SKU Amstetten
+        2× SV Horn
+        2× SV Lafnitz
+        2× SV Ried
+        2× SV Seekirchen
+        2× SV Stripfing
+        2× SV Wörgl
+        2× SVG Reichenau
+        2× TSV Hartberg
+        2× USV Allerheiligen
+        2× WSG Tirol
+        2× Wiener Sport-Club
+        2× Wolfsberger AC
         ASK-BSC Bruck/Leitha
+        ASKÖ Gmünd
         ASV Draßburg
         ASV Schrems
         ASV Siegendorf
         ATSV Stadl-Paura
         ATSV Wolfsberg
-        Austria Klagenfurt
         Austria Lustenau
         Dornbirner SV
-        FC Admira Wacker Mödling
-        FC Blau-Weiß Linz
         FC Deutschkreutz
         FC Dornbirn 1913
         FC Gleisdorf 09
         FC Liefering
         FC Marchfeld
-        FC RB Salzburg
-        FC Wacker Innsbruck
-        FK Austria Wien
-        First Vienna FC
-        Floridsdorfer AC
         Grazer AK
-        Kapfenberger SV
-        LASK Linz
         SC Neusiedl am See
         SC Retz
         SC Schwaz
         SC Team Wiener Linien
         SC Weiz
-        SCR Altach
-        SK Rapid Wien
         SK Sturm Graz
         SK Treibach
-        SK Vorwärts Steyr
-        SKN St. Pölten
-        SKU Amstetten
         SV Grödig
-        SV Horn
         SV Innsbruck
-        SV Lafnitz
-        SV Ried
-        SV Seekirchen
         SV St. Jakob/Rosental
-        SV Stripfing
         SV Wallern
-        SV Wörgl
-        SVG Reichenau
         SW Bregenz
-        TSV Hartberg
         TSV St. Johann
         TuS Bad Gleichenberg
-        USV Allerheiligen
         USV St. Anna
         Union Gurten
         Union Vöcklamarkt
         VfB Hohenems
         WSC Hertha Wels
-        WSG Tirol
-        Wiener Sport-Club
-        Wolfsberger AC
-      1 rounds (referenced):
+      2 rounds (referenced):
         1. Runde, 31 matches
+        2. Runde, 15 matches
 [46/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
     156 lines, 95 matches - Bundesliga (at.1) 2014/15
       10 teams (referenced):

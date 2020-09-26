@@ -20,7 +20,7 @@
 [10/14] >2017-18/1-ligue1.txt< - 1 section(s):
     532 lines, 380 matches - Ligue 1 (fr.1) 2017/18, 20 team refs, 38 round defs
 [11/14] >2020-21/2-ligue2.txt< - 1 section(s):
-    461 lines, 380 matches - Ligue 2 (fr.2) 2020/21, 20 team refs, 38 round defs
+    463 lines, 380 matches - Ligue 2 (fr.2) 2020/21, 20 team refs, 38 round defs
 [12/14] >2020-21/1-ligue1.txt< - 1 section(s):
     473 lines, 380 matches - Ligue 1 (fr.1) 2020/21, 20 team refs, 38 round defs
 [13/14] >2014-15/2-ligue2.txt< - 1 section(s):
@@ -650,7 +650,7 @@
         Journée 37, 10 matches
         Journée 38, 10 matches
 [11/14] >2020-21/2-ligue2.txt< - 1 section(s):
-    461 lines, 380 matches - Ligue 2 (fr.2) 2020/21
+    463 lines, 380 matches - Ligue 2 (fr.2) 2020/21
       20 teams (referenced):
         38× AC Ajaccio
         38× AJ Auxerre
@@ -675,7 +675,7 @@
       38 rounds (referenced):
         Journée 1, 10 matches
         Journée 2, 10 matches
-        Journée 3, 10 matches
+        Journée 3 ×2, 10 matches
         Journée 4, 10 matches
         Journée 5, 10 matches
         Journée 6, 10 matches

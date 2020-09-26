@@ -24,7 +24,7 @@
 [12/13] >2013-14/1-clausura.txt< - 1 section(s):
     20 lines, 18 matches - México Primera División (mx.1) 2013/14, stage: >Clausura<, 18 team refs, 2 round defs
 [13/13] >2020-21/1-apertura.txt< - 1 section(s):
-    238 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<, 18 team refs, 17 round defs
+    242 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<, 18 team refs, 17 round defs
 
 
 [1/13] >2019-20/1-clausura.txt< - 1 section(s):
@@ -362,7 +362,7 @@
         Jornada 1  //  3, 4 y 5 de enero, 9 matches
         Jornada 2  //  10, 11 y 12 de enero, 9 matches
 [13/13] >2020-21/1-apertura.txt< - 1 section(s):
-    238 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<
+    242 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<
       18 teams (referenced):
         17× Atlético San Luis
         17× CD Guadalajara Chivas
@@ -393,8 +393,8 @@
         Jornada 8, 9 matches
         Jornada 9, 9 matches
         Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
+        Jornada 11 ×2, 9 matches
+        Jornada 12 ×2, 9 matches
         Jornada 13, 9 matches
         Jornada 14, 9 matches
         Jornada 15, 9 matches

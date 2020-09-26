@@ -30,7 +30,7 @@
 [12/15] >2017-18/1-seriea.txt< - 1 section(s):
     515 lines, 380 matches - Serie A (it.1) 2017/18, 20 team refs, 38 round defs
 [13/15] >2020-21/1-seriea.txt< - 1 section(s):
-    456 lines, 380 matches - Serie A (it.1) 2020/21, 20 team refs, 38 round defs
+    466 lines, 380 matches - Serie A (it.1) 2020/21, 20 team refs, 38 round defs
 [14/15] >2014-15/2-serieb.txt< - 1 section(s):
     619 lines, 462 matches - Serie B (it.2) 2014/15, 22 team refs, 42 round defs
 [15/15] >2014-15/1-seriea.txt< - 1 section(s):
@@ -811,19 +811,19 @@
         37^ Giornata, 10 matches
         38^ Giornata, 10 matches
 [13/15] >2020-21/1-seriea.txt< - 1 section(s):
-    456 lines, 380 matches - Serie A (it.1) 2020/21
+    466 lines, 380 matches - Serie A (it.1) 2020/21
       20 teams (referenced):
         38× AC Milan
         38× ACF Fiorentina
         38× AS Roma
-        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Atalanta Bergamo
         38× Benevento
         38× Bologna FC
         38× Cagliari Calcio
         38× FC Crotone
         38× FC Internazionale Milano
         38× Genoa CFC
-        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Hellas Verona
         38× Juventus
         38× Parma
         38× SS Lazio
@@ -834,7 +834,7 @@
         38× US Sassuolo Calcio
         38× Udinese Calcio
       38 rounds (referenced):
-        1^ Giornata, 10 matches
+        1^ Giornata ×2, 10 matches
         2^ Giornata, 10 matches
         3^ Giornata, 10 matches
         4^ Giornata, 10 matches

@@ -208,13 +208,13 @@
 [94/117] >2009-10/3-league1.txt< - 1 section(s):
     738 lines, 552 matches - League One (eng.3) 2009/10, 24 team refs, 46 round defs
 [95/117] >2020-21/2-championship.txt< - 1 section(s):
-    661 lines, 552 matches - Championship (eng.2) 2020/21, 24 team refs, 46 round defs
+    666 lines, 552 matches - Championship (eng.2) 2020/21, 24 team refs, 46 round defs
 [96/117] >2020-21/1-premierleague.txt< - 1 section(s):
     467 lines, 380 matches - Premier League (eng.1) 2020/21, 20 team refs, 38 round defs
 [97/117] >2020-21/4-league2.txt< - 1 section(s):
     644 lines, 552 matches - League Two (eng.4) 2020/21, 24 team refs, 46 round defs
 [98/117] >2020-21/3-league1.txt< - 1 section(s):
-    646 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
+    648 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
 [99/117] >2003-04/4-division3.txt< - 1 section(s):
     707 lines, 552 matches - League Two (eng.4) 2003/04, 24 team refs, 46 round defs
 [100/117] >2003-04/1-premierleague.txt< - 1 section(s):
@@ -6134,7 +6134,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [95/117] >2020-21/2-championship.txt< - 1 section(s):
-    661 lines, 552 matches - Championship (eng.2) 2020/21
+    666 lines, 552 matches - Championship (eng.2) 2020/21
       24 teams (referenced):
         46× AFC Bournemouth
         46× Barnsley FC
@@ -6344,7 +6344,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [98/117] >2020-21/3-league1.txt< - 1 section(s):
-    646 lines, 552 matches - League One (eng.3) 2020/21
+    648 lines, 552 matches - League One (eng.3) 2020/21
       24 teams (referenced):
         46× AFC Wimbledon
         46× Accrington Stanley FC
