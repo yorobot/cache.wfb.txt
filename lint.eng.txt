@@ -154,7 +154,7 @@
 [70/118] >archive/1990s/1998-99/4-division3.txt< - 1 section(s):
     721 lines, 552 matches - League Two (eng.4) 1998/99, 24 team refs, 46 round defs
 [71/118] >archive/1990s/1998-99/1-premierleague.txt< - 1 section(s):
-    537 lines, 380 matches - Premier League (eng.1) 1998/99, 20 team refs, 38 round defs
+    538 lines, 380 matches - Premier League (eng.1) 1998/99, 20 team refs, 38 round defs
 [72/118] >archive/1990s/1998-99/3-division2.txt< - 1 section(s):
     747 lines, 552 matches - League One (eng.3) 1998/99, 24 team refs, 46 round defs
 [73/118] >archive/1990s/1998-99/2-division1.txt< - 1 section(s):
@@ -208,15 +208,15 @@
 [94/118] >2009-10/3-league1.txt< - 1 section(s):
     738 lines, 552 matches - League One (eng.3) 2009/10, 24 team refs, 46 round defs
 [95/118] >2020-21/2-championship.txt< - 1 section(s):
-    666 lines, 552 matches - Championship (eng.2) 2020/21, 24 team refs, 46 round defs
+    667 lines, 552 matches - Championship (eng.2) 2020/21, 24 team refs, 46 round defs
 [96/118] >2020-21/1-premierleague.txt< - 1 section(s):
-    467 lines, 380 matches - Premier League (eng.1) 2020/21, 20 team refs, 38 round defs
+    468 lines, 380 matches - Premier League (eng.1) 2020/21, 20 team refs, 38 round defs
 [97/118] >2020-21/5-nationalleague.txt< - 1 section(s):
-    644 lines, 552 matches - National League (eng.5) 2020/21, 24 team refs, 46 round defs
+    646 lines, 552 matches - National League (eng.5) 2020/21, 24 team refs, 46 round defs
 [98/118] >2020-21/4-league2.txt< - 1 section(s):
-    644 lines, 552 matches - League Two (eng.4) 2020/21, 24 team refs, 46 round defs
+    647 lines, 552 matches - League Two (eng.4) 2020/21, 24 team refs, 46 round defs
 [99/118] >2020-21/3-league1.txt< - 1 section(s):
-    648 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
+    654 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
 [100/118] >2003-04/4-division3.txt< - 1 section(s):
     707 lines, 552 matches - League Two (eng.4) 2003/04, 24 team refs, 46 round defs
 [101/118] >2003-04/1-premierleague.txt< - 1 section(s):
@@ -4582,27 +4582,27 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [71/118] >archive/1990s/1998-99/1-premierleague.txt< - 1 section(s):
-    537 lines, 380 matches - Premier League (eng.1) 1998/99
+    538 lines, 380 matches - Premier League (eng.1) 1998/99
       20 teams (referenced):
-        38× Arsenal ⇒ Arsenal FC
-        38× Aston Villa ⇒ Aston Villa FC
-        38× Blackburn ⇒ Blackburn Rovers FC
-        38× Charlton ⇒ Charlton Athletic FC
-        38× Chelsea ⇒ Chelsea FC
-        38× Coventry ⇒ Coventry City FC
-        38× Derby ⇒ Derby County FC
-        38× Everton ⇒ Everton FC
-        38× Leeds ⇒ Leeds United FC
-        38× Leicester ⇒ Leicester City FC
-        38× Liverpool ⇒ Liverpool FC
+        38× Arsenal FC
+        38× Aston Villa FC
+        38× Blackburn Rovers FC
+        38× Charlton Athletic FC
+        38× Chelsea FC
+        38× Coventry City FC
+        38× Derby County FC
+        38× Everton FC
+        38× Leeds United FC
+        38× Leicester City FC
+        38× Liverpool FC
         38× Manchester United ⇒ Manchester United FC
-        38× Middlesbrough ⇒ Middlesbrough FC
-        38× Newcastle Utd ⇒ Newcastle United FC
-        38× Nottingham Forest ⇒ Nottingham Forest FC
-        38× Sheffield Wed ⇒ Sheffield Wednesday FC
-        38× Southampton ⇒ Southampton FC
-        38× Tottenham ⇒ Tottenham Hotspur FC
-        38× West Ham ⇒ West Ham United FC
+        38× Middlesbrough FC
+        38× Newcastle United FC
+        38× Nottingham Forest FC
+        38× Sheffield Wednesday ⇒ Sheffield Wednesday FC
+        38× Southampton FC
+        38× Tottenham Hotspur FC
+        38× West Ham United FC
         38× Wimbledon FC
       38 rounds (referenced):
         Matchday 1, 10 matches
@@ -6136,7 +6136,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [95/118] >2020-21/2-championship.txt< - 1 section(s):
-    666 lines, 552 matches - Championship (eng.2) 2020/21
+    667 lines, 552 matches - Championship (eng.2) 2020/21
       24 teams (referenced):
         46× AFC Bournemouth
         46× Barnsley FC
@@ -6210,7 +6210,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [96/118] >2020-21/1-premierleague.txt< - 1 section(s):
-    467 lines, 380 matches - Premier League (eng.1) 2020/21
+    468 lines, 380 matches - Premier League (eng.1) 2020/21
       20 teams (referenced):
         38× Arsenal FC
         38× Aston Villa FC
@@ -6272,7 +6272,7 @@
         Matchday 37, 10 matches
         Matchday 38, 10 matches
 [97/118] >2020-21/5-nationalleague.txt< - 1 section(s):
-    644 lines, 552 matches - National League (eng.5) 2020/21
+    646 lines, 552 matches - National League (eng.5) 2020/21
       24 teams (referenced):
         46× Aldershot Town FC
         46× Altrincham FC
@@ -6346,7 +6346,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [98/118] >2020-21/4-league2.txt< - 1 section(s):
-    644 lines, 552 matches - League Two (eng.4) 2020/21
+    647 lines, 552 matches - League Two (eng.4) 2020/21
       24 teams (referenced):
         46× Barrow AFC
         46× Bolton Wanderers FC
@@ -6375,7 +6375,7 @@
       46 rounds (referenced):
         Matchday 1, 12 matches
         Matchday 2, 12 matches
-        Matchday 3, 12 matches
+        Matchday 3 ×2, 12 matches
         Matchday 4, 12 matches
         Matchday 5, 12 matches
         Matchday 6, 12 matches
@@ -6420,7 +6420,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [99/118] >2020-21/3-league1.txt< - 1 section(s):
-    648 lines, 552 matches - League One (eng.3) 2020/21
+    654 lines, 552 matches - League One (eng.3) 2020/21
       24 teams (referenced):
         46× AFC Wimbledon
         46× Accrington Stanley FC
@@ -6451,14 +6451,14 @@
         Matchday 2, 12 matches
         Matchday 3, 12 matches
         Matchday 4, 12 matches
-        Matchday 5, 12 matches
+        Matchday 5 ×3, 12 matches
+        Matchday 12 ×2, 12 matches
         Matchday 6, 12 matches
         Matchday 7, 12 matches
         Matchday 8, 12 matches
         Matchday 9, 12 matches
         Matchday 10, 12 matches
         Matchday 11, 12 matches
-        Matchday 12, 12 matches
         Matchday 13, 12 matches
         Matchday 14, 12 matches
         Matchday 15, 12 matches

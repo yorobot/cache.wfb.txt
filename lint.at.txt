@@ -86,13 +86,13 @@
 [41/52] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
     127 lines, 80 matches - Bundesliga (at.1) 2017/18, 10 team refs, 16 round defs
 [42/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    258 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
+    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
 [43/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
-    181 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<, 12 team refs, 22 round defs
+    189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<, 12 team refs, 22 round defs
 [44/52] >2020-21/2-liga2.txt< - 1 section(s):
-    317 lines, 240 matches - 2. Liga (at.2) 2020/21, 16 team refs, 30 round defs
+    318 lines, 240 matches - 2. Liga (at.2) 2020/21, 16 team refs, 30 round defs
 [45/52] >2020-21/cup.txt< - 1 section(s):
-    58 lines, 46 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 2 round defs
+    61 lines, 47 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 2 round defs
 [46/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
     156 lines, 95 matches - Bundesliga (at.1) 2014/15, 10 team refs, 19 round defs
 [47/52] >2014-15/2-liga1-ii.txt< - 1 section(s):
@@ -1812,7 +1812,7 @@
         35. Runde, 5 matches
         36. Runde, 5 matches
 [42/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    258 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
+    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
       13 teams (referenced):
         24× 1. Wiener Neustädter SC
         24× ASK-BSC Bruck/Leitha
@@ -1855,7 +1855,7 @@
         25. Runde, 6 matches
         26. Runde, 6 matches
 [43/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
-    181 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<
+    189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<
       12 teams (referenced):
         22× FC Admira Wacker Mödling
         22× FC RB Salzburg
@@ -1893,7 +1893,7 @@
         21. Runde, 6 matches
         22. Runde, 6 matches
 [44/52] >2020-21/2-liga2.txt< - 1 section(s):
-    317 lines, 240 matches - 2. Liga (at.2) 2020/21
+    318 lines, 240 matches - 2. Liga (at.2) 2020/21
       16 teams (referenced):
         30× Austria Klagenfurt
         30× Austria Lustenau
@@ -1943,7 +1943,7 @@
         29. Runde, 8 matches
         30. Runde, 8 matches
 [45/52] >2020-21/cup.txt< - 1 section(s):
-    58 lines, 46 matches - ÖFB Cup (at.cup) 2020/21
+    61 lines, 47 matches - ÖFB Cup (at.cup) 2020/21
       63 teams (referenced):
         2× 1. Wiener Neustädter SC
         2× ASK Elektra Wien
@@ -1959,6 +1959,7 @@
         2× LASK Linz
         2× SCR Altach
         2× SK Rapid Wien
+        2× SK Sturm Graz
         2× SK Vorwärts Steyr
         2× SKN St. Pölten
         2× SKU Amstetten
@@ -1971,6 +1972,7 @@
         2× SVG Reichenau
         2× TSV Hartberg
         2× USV Allerheiligen
+        2× VfB Hohenems
         2× WSG Tirol
         2× Wiener Sport-Club
         2× Wolfsberger AC
@@ -1994,7 +1996,6 @@
         SC Schwaz
         SC Team Wiener Linien
         SC Weiz
-        SK Sturm Graz
         SK Treibach
         SV Grödig
         SV Innsbruck
@@ -2006,11 +2007,10 @@
         USV St. Anna
         Union Gurten
         Union Vöcklamarkt
-        VfB Hohenems
         WSC Hertha Wels
       2 rounds (referenced):
         1. Runde, 31 matches
-        2. Runde, 15 matches
+        2. Runde, 16 matches
 [46/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
     156 lines, 95 matches - Bundesliga (at.1) 2014/15
       10 teams (referenced):

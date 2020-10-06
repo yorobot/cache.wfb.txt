@@ -70,7 +70,7 @@
 [35/40] >2017-18/1-apertura_liguilla.txt< - 1 section(s):
     27 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
 [36/40] >2020-21/1-apertura.txt< - 1 section(s):
-    242 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<, 18 team refs, 17 round defs
+    241 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<, 18 team refs, 17 round defs
 [37/40] >2014-15/1-clausura.txt< - 1 section(s):
     221 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Clausura<, 18 team refs, 17 round defs
 [38/40] >2014-15/1-apertura.txt< - 1 section(s):
@@ -1042,7 +1042,7 @@
         Semifinales, 4 matches
         Final, 2 matches
 [36/40] >2020-21/1-apertura.txt< - 1 section(s):
-    242 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<
+    241 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<
       18 teams (referenced):
         17× Atlético San Luis
         17× CD Guadalajara Chivas

@@ -1,279 +1,377 @@
-123 datafiles:
-[1/123] >pacific/australia/2018-19/1-aleague.txt< - 2 section(s):
+171 datafiles:
+[1/171] >pacific/australia/2018-19/1-aleague.txt< - 2 section(s):
     255 lines, 135 matches - A-League (au.1) 2018/19, stage: >Regular Season<, 10 team refs, 27 round defs
     13 lines, 5 matches - A-League (au.1) 2018/19, stage: >Finals<, 6 team refs, 3 round defs
-[2/123] >asia/japan/2020/1-j1league.txt< - 1 section(s):
+[2/171] >asia/japan/2020/1-j1league.txt< - 1 section(s):
     418 lines, 306 matches - J. League (jp.1) 2020, 18 team refs, 34 round defs
-[3/123] >asia/japan/2019/1-j1league.txt< - 1 section(s):
+[3/171] >asia/japan/2019/1-j1league.txt< - 1 section(s):
     415 lines, 306 matches - J. League (jp.1) 2019, 18 team refs, 34 round defs
-[4/123] >asia/china/2018/1-superleague.txt< - 1 section(s):
+[4/171] >asia/china/2018/1-superleague.txt< - 1 section(s):
     344 lines, 240 matches - Super League (cn.1) 2018, 16 team refs, 30 round defs
-[5/123] >asia/china/2020/1-superleague.txt< - 1 section(s):
+[5/171] >asia/china/2020/1-superleague.txt< - 1 section(s):
     175 lines, 112 matches - Super League (cn.1) 2020, 16 team refs, 14 round defs
-[6/123] >asia/china/2019/1-superleague.txt< - 1 section(s):
+[6/171] >asia/china/2019/1-superleague.txt< - 1 section(s):
     358 lines, 240 matches - Super League (cn.1) 2019, 16 team refs, 30 round defs
-[7/123] >south-america/argentina/2019-20/1-primeradivision.txt< - 1 section(s):
+[7/171] >south-america/argentina/2019-20/1-primeradivision.txt< - 1 section(s):
     392 lines, 276 matches - Primera Division (ar.1) 2019/20, 24 team refs, 23 round defs
-[8/123] >south-america/argentina/2018-19/1-primeradivision.txt< - 1 section(s):
+[8/171] >south-america/argentina/2018-19/1-primeradivision.txt< - 1 section(s):
     477 lines, 325 matches - Primera Division (ar.1) 2018/19, 26 team refs, 25 round defs
-[9/123] >europe/denmark/2019-20/1-superligaen-ii.txt< - 3 section(s):
+[9/171] >europe/denmark/2019-20/1-superligaen-ii.txt< - 3 section(s):
     55 lines, 30 matches - Superligaen (dk.1) 2019/20, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     46 lines, 24 matches - Superligaen (dk.1) 2019/20, stage: >Playoffs - Relegation<, 8 team refs, 6 round defs
     13 lines, 5 matches - Superligaen (dk.1) 2019/20, stage: >Europa League Finals<, 4 team refs, 3 round defs
-[10/123] >europe/denmark/2019-20/1-superligaen-i.txt< - 1 section(s):
+[10/171] >europe/denmark/2019-20/1-superligaen-i.txt< - 1 section(s):
     291 lines, 182 matches - Superligaen (dk.1) 2019/20, stage: >Regular Season<, 14 team refs, 26 round defs
-[11/123] >europe/denmark/2018-19/1-superligaen-ii.txt< - 3 section(s):
+[11/171] >europe/denmark/2018-19/1-superligaen-ii.txt< - 3 section(s):
     60 lines, 30 matches - Superligaen (dk.1) 2018/19, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     46 lines, 24 matches - Superligaen (dk.1) 2018/19, stage: >Playoffs - Relegation<, 8 team refs, 6 round defs
     15 lines, 7 matches - Superligaen (dk.1) 2018/19, stage: >Europa League Finals<, 5 team refs, 3 round defs
-[12/123] >europe/denmark/2018-19/1-superligaen-i.txt< - 1 section(s):
+[12/171] >europe/denmark/2018-19/1-superligaen-i.txt< - 1 section(s):
     303 lines, 182 matches - Superligaen (dk.1) 2018/19, stage: >Regular Season<, 14 team refs, 26 round defs
-[13/123] >europe/denmark/2020-21/1-superligaen-i.txt< - 1 section(s):
-    183 lines, 132 matches - Superligaen (dk.1) 2020/21, stage: >Regular Season<, 12 team refs, 22 round defs
-[14/123] >europe/hungary/2018-19/1-nbi.txt< - 1 section(s):
+[13/171] >europe/denmark/2020-21/1-superligaen-i.txt< - 1 section(s):
+    192 lines, 132 matches - Superligaen (dk.1) 2020/21, stage: >Regular Season<, 12 team refs, 22 round defs
+[14/171] >europe/hungary/2018-19/1-nbi.txt< - 1 section(s):
     282 lines, 198 matches - First League (hu.1) 2018/19, 12 team refs, 33 round defs
-[15/123] >europe/hungary/2020-21/1-nbi.txt< - 1 section(s):
+[15/171] >europe/hungary/2020-21/1-nbi.txt< - 1 section(s):
     281 lines, 198 matches - First League (hu.1) 2020/21, 12 team refs, 33 round defs
-[16/123] >europe/russia/2019-20/2-division1.txt< - 1 section(s):
+[16/171] >europe/russia/2019-20/2-division1.txt< - 1 section(s):
     468 lines, 380 matches - 1. Division (ru.2) 2019/20, 20 team refs, 38 round defs
-[17/123] >europe/russia/2019-20/1-premierliga.txt< - 1 section(s):
+[17/171] >europe/russia/2019-20/1-premierliga.txt< - 1 section(s):
     361 lines, 240 matches - Premier League (ru.1) 2019/20, 16 team refs, 30 round defs
-[18/123] >europe/russia/2018-19/1-premierliga.txt< - 1 section(s):
+[18/171] >europe/russia/2018-19/1-premierliga.txt< - 1 section(s):
     367 lines, 240 matches - Premier League (ru.1) 2018/19, 16 team refs, 30 round defs
-[19/123] >europe/russia/2011-12/1-premierliga-ii.txt< - 2 section(s):
+[19/171] >europe/russia/2011-12/1-premierliga-ii.txt< - 2 section(s):
     97 lines, 56 matches - Premier League (ru.1) 2011/12, stage: >Playoffs - Championship<, 8 team refs, 14 round defs
     102 lines, 56 matches - Premier League (ru.1) 2011/12, stage: >Playoffs - Relegation<, 8 team refs, 14 round defs
-[20/123] >europe/russia/2011-12/1-premierliga-i.txt< - 1 section(s):
+[20/171] >europe/russia/2011-12/1-premierliga-i.txt< - 1 section(s):
     345 lines, 240 matches - Premier League (ru.1) 2011/12, stage: >Regular Season<, 16 team refs, 30 round defs
-[21/123] >europe/russia/2008/1-premierliga.txt< - 1 section(s):
+[21/171] >europe/russia/2008/1-premierliga.txt< - 1 section(s):
     360 lines, 240 matches - Premier League (ru.1) 2008, 16 team refs, 30 round defs
-[22/123] >europe/russia/2009/1-premierliga.txt< - 1 section(s):
+[22/171] >europe/russia/2009/1-premierliga.txt< - 1 section(s):
     341 lines, 240 matches - Premier League (ru.1) 2009, 16 team refs, 30 round defs
-[23/123] >europe/russia/2004/1-premierliga.txt< - 1 section(s):
+[23/171] >europe/russia/2004/1-premierliga.txt< - 1 section(s):
     350 lines, 240 matches - Premier League (ru.1) 2004, 17 team refs, 30 round defs
-[24/123] >europe/russia/2016-17/1-premierliga.txt< - 1 section(s):
+[24/171] >europe/russia/2016-17/1-premierliga.txt< - 1 section(s):
     362 lines, 240 matches - Premier League (ru.1) 2016/17, 16 team refs, 30 round defs
-[25/123] >europe/russia/2012-13/1-premierliga.txt< - 1 section(s):
+[25/171] >europe/russia/2012-13/1-premierliga.txt< - 1 section(s):
     372 lines, 240 matches - Premier League (ru.1) 2012/13, 16 team refs, 30 round defs
-[26/123] >europe/russia/2005/1-premierliga.txt< - 1 section(s):
+[26/171] >europe/russia/2005/1-premierliga.txt< - 1 section(s):
     341 lines, 240 matches - Premier League (ru.1) 2005, 16 team refs, 30 round defs
-[27/123] >europe/russia/2015-16/1-premierliga.txt< - 1 section(s):
+[27/171] >europe/russia/2015-16/1-premierliga.txt< - 1 section(s):
     367 lines, 240 matches - Premier League (ru.1) 2015/16, 16 team refs, 30 round defs
-[28/123] >europe/russia/2013-14/1-premierliga.txt< - 1 section(s):
+[28/171] >europe/russia/2013-14/1-premierliga.txt< - 1 section(s):
     370 lines, 240 matches - Premier League (ru.1) 2013/14, 16 team refs, 30 round defs
-[29/123] >europe/russia/2007/1-premierliga.txt< - 1 section(s):
+[29/171] >europe/russia/2007/1-premierliga.txt< - 1 section(s):
     348 lines, 240 matches - Premier League (ru.1) 2007, 16 team refs, 30 round defs
-[30/123] >europe/russia/2017-18/1-premierliga.txt< - 1 section(s):
+[30/171] >europe/russia/2017-18/1-premierliga.txt< - 1 section(s):
     365 lines, 240 matches - Premier League (ru.1) 2017/18, 16 team refs, 30 round defs
-[31/123] >europe/russia/2020-21/1-premierliga.txt< - 1 section(s):
+[31/171] >europe/russia/2020-21/1-premierliga.txt< - 1 section(s):
     316 lines, 240 matches - Premier League (ru.1) 2020/21, 16 team refs, 30 round defs
-[32/123] >europe/russia/2006/1-premierliga.txt< - 1 section(s):
+[32/171] >europe/russia/2006/1-premierliga.txt< - 1 section(s):
     347 lines, 240 matches - Premier League (ru.1) 2006, 16 team refs, 30 round defs
-[33/123] >europe/russia/2014-15/1-premierliga.txt< - 1 section(s):
+[33/171] >europe/russia/2014-15/1-premierliga.txt< - 1 section(s):
     366 lines, 240 matches - Premier League (ru.1) 2014/15, 16 team refs, 30 round defs
-[34/123] >europe/russia/2010/1-premierliga.txt< - 1 section(s):
+[34/171] >europe/russia/2010/1-premierliga.txt< - 1 section(s):
     360 lines, 240 matches - Premier League (ru.1) 2010, 16 team refs, 30 round defs
-[35/123] >europe/czech-republic/2018-19/1-firstleague-i.txt< - 1 section(s):
+[35/171] >europe/czech-republic/2018-19/1-firstleague-i.txt< - 1 section(s):
     375 lines, 240 matches - First League (cz.1) 2018/19, stage: >Regular Season<, 16 team refs, 30 round defs
-[36/123] >europe/czech-republic/2018-19/1-firstleague-ii.txt< - 3 section(s):
+[36/171] >europe/czech-republic/2018-19/1-firstleague-ii.txt< - 3 section(s):
     28 lines, 15 matches - First League (cz.1) 2018/19, stage: >Playoffs - Championship<, 6 team refs, 5 round defs
     12 lines, 6 matches - First League (cz.1) 2018/19, stage: >Europa League Play-off<, 4 team refs, 2 round defs
     26 lines, 15 matches - First League (cz.1) 2018/19, stage: >Playoffs - Relegation<, 6 team refs, 5 round defs
-[37/123] >europe/czech-republic/2020-21/1-firstleague-i.txt< - 1 section(s):
+[37/171] >europe/czech-republic/2020-21/1-firstleague-i.txt< - 1 section(s):
     387 lines, 306 matches - First League (cz.1) 2020/21, stage: >Regular Season<, 18 team refs, 34 round defs
-[38/123] >europe/turkey/2019-20/1-superlig.txt< - 1 section(s):
-    467 lines, 306 matches - Süper Lig (tr.1) 2019/20, 18 team refs, 34 round defs
-[39/123] >europe/turkey/2019-20/2-lig1.txt< - 1 section(s):
+[38/171] >europe/turkey/2019-20/1-superlig.txt< - 1 section(s):
+    470 lines, 306 matches - Süper Lig (tr.1) 2019/20, 18 team refs, 34 round defs
+[39/171] >europe/turkey/2019-20/2-lig1.txt< - 1 section(s):
     455 lines, 306 matches - 1. Lig (tr.2) 2019/20, 18 team refs, 34 round defs
-[40/123] >europe/turkey/2020-21/1-superlig.txt< - 1 section(s):
+[40/171] >europe/turkey/2018-19/1-superlig.txt< - 1 section(s):
+    470 lines, 306 matches - Süper Lig (tr.1) 2018/19, 18 team refs, 34 round defs
+[41/171] >europe/turkey/2016-17/1-superlig.txt< - 1 section(s):
+    461 lines, 306 matches - Süper Lig (tr.1) 2016/17, 18 team refs, 34 round defs
+[42/171] >europe/turkey/2012-13/1-superlig.txt< - 1 section(s):
+    465 lines, 306 matches - Süper Lig (tr.1) 2012/13, 18 team refs, 34 round defs
+[43/171] >europe/turkey/2015-16/1-superlig.txt< - 1 section(s):
+    463 lines, 306 matches - Süper Lig (tr.1) 2015/16, 18 team refs, 34 round defs
+[44/171] >europe/turkey/2013-14/1-superlig.txt< - 1 section(s):
+    464 lines, 306 matches - Süper Lig (tr.1) 2013/14, 18 team refs, 34 round defs
+[45/171] >europe/turkey/2017-18/1-superlig.txt< - 1 section(s):
+    467 lines, 306 matches - Süper Lig (tr.1) 2017/18, 18 team refs, 34 round defs
+[46/171] >europe/turkey/2020-21/1-superlig.txt< - 1 section(s):
     515 lines, 420 matches - Süper Lig (tr.1) 2020/21, 21 team refs, 42 round defs
-[41/123] >europe/greece/2018-19/1-superleague.txt< - 1 section(s):
+[47/171] >europe/turkey/2014-15/1-superlig.txt< - 1 section(s):
+    458 lines, 306 matches - Süper Lig (tr.1) 2014/15, 18 team refs, 34 round defs
+[48/171] >europe/greece/2019-20/1-superleague-i.txt< - 1 section(s):
+    267 lines, 182 matches - Super League (gr.1) 2019/20, stage: >Regular Season<, 14 team refs, 26 round defs
+[49/171] >europe/greece/2019-20/1-superleague-ii.txt< - 2 section(s):
+    56 lines, 30 matches - Super League (gr.1) 2019/20, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
+    51 lines, 28 matches - Super League (gr.1) 2019/20, stage: >Playoffs - Relegation<, 8 team refs, 7 round defs
+[50/171] >europe/greece/2018-19/1-superleague.txt< - 1 section(s):
     352 lines, 240 matches - Super League (gr.1) 2018/19, 16 team refs, 30 round defs
-[42/123] >europe/greece/2020-21/1-superleague.txt< - 1 section(s):
-    36 lines, 21 matches - Super League (gr.1) 2020/21, 14 team refs, 3 round defs
-[43/123] >europe/slovakia/2019-20/1-superliga-ii.txt< - 3 section(s):
+[51/171] >europe/greece/2011-12/1-superleague-i.txt< - 1 section(s):
+    355 lines, 240 matches - Super League (gr.1) 2011/12, stage: >Regular Season<, 16 team refs, 30 round defs
+[52/171] >europe/greece/2011-12/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2011/12, stage: >Playoffs<, 4 team refs, 6 round defs
+[53/171] >europe/greece/2010-11/1-superleague-i.txt< - 1 section(s):
+    331 lines, 240 matches - Super League (gr.1) 2010/11, stage: >Regular Season<, 16 team refs, 30 round defs
+[54/171] >europe/greece/2010-11/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2010/11, stage: >Playoffs<, 4 team refs, 6 round defs
+[55/171] >europe/greece/2016-17/1-superleague-i.txt< - 1 section(s):
+    355 lines, 240 matches - Super League (gr.1) 2016/17, stage: >Regular Season<, 16 team refs, 30 round defs
+[56/171] >europe/greece/2016-17/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2016/17, stage: >Playoffs<, 4 team refs, 6 round defs
+[57/171] >europe/greece/2012-13/1-superleague-i.txt< - 1 section(s):
+    356 lines, 240 matches - Super League (gr.1) 2012/13, stage: >Regular Season<, 16 team refs, 30 round defs
+[58/171] >europe/greece/2012-13/1-superleague-ii.txt< - 2 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2012/13, stage: >Playoffs<, 4 team refs, 6 round defs
+    3 lines, 1 matches - Super League (gr.1) 2012/13, stage: >Match 6th Place<, 2 team refs, 1 round defs
+[59/171] >europe/greece/2015-16/1-superleague-i.txt< - 1 section(s):
+    357 lines, 240 matches - Super League (gr.1) 2015/16, stage: >Regular Season<, 16 team refs, 30 round defs
+[60/171] >europe/greece/2015-16/1-superleague-ii.txt< - 1 section(s):
+    25 lines, 12 matches - Super League (gr.1) 2015/16, stage: >Playoffs<, 4 team refs, 6 round defs
+[61/171] >europe/greece/2013-14/1-superleague-i.txt< - 1 section(s):
+    432 lines, 306 matches - Super League (gr.1) 2013/14, stage: >Regular Season<, 18 team refs, 34 round defs
+[62/171] >europe/greece/2013-14/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2013/14, stage: >Playoffs<, 4 team refs, 6 round defs
+[63/171] >europe/greece/2017-18/1-superleague.txt< - 1 section(s):
+    355 lines, 240 matches - Super League (gr.1) 2017/18, 16 team refs, 30 round defs
+[64/171] >europe/greece/2020-21/1-superleague-i.txt< - 1 section(s):
+    260 lines, 182 matches - Super League (gr.1) 2020/21, stage: >Regular Season<, 14 team refs, 26 round defs
+[65/171] >europe/greece/2014-15/1-superleague-i.txt< - 1 section(s):
+    439 lines, 306 matches - Super League (gr.1) 2014/15, stage: >Regular Season<, 18 team refs, 34 round defs
+[66/171] >europe/greece/2014-15/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2014/15, stage: >Playoffs<, 4 team refs, 6 round defs
+[67/171] >europe/slovakia/2019-20/1-superliga-ii.txt< - 3 section(s):
     29 lines, 15 matches - First League (sk.1) 2019/20, stage: >Playoffs - Championship<, 6 team refs, 5 round defs
     26 lines, 15 matches - First League (sk.1) 2019/20, stage: >Playoffs - Relegation<, 6 team refs, 5 round defs
     7 lines, 3 matches - First League (sk.1) 2019/20, stage: >Europa League Finals<, 4 team refs, 2 round defs
-[44/123] >europe/slovakia/2019-20/1-superliga-i.txt< - 1 section(s):
+[68/171] >europe/slovakia/2019-20/1-superliga-i.txt< - 1 section(s):
     198 lines, 132 matches - First League (sk.1) 2019/20, stage: >Regular Season<, 12 team refs, 22 round defs
-[45/123] >europe/slovakia/2018-19/1-superliga-ii.txt< - 2 section(s):
+[69/171] >europe/slovakia/2018-19/1-superliga-ii.txt< - 2 section(s):
     57 lines, 30 matches - First League (sk.1) 2018/19, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     51 lines, 30 matches - First League (sk.1) 2018/19, stage: >Playoffs - Relegation<, 6 team refs, 10 round defs
-[46/123] >europe/slovakia/2018-19/1-superliga-i.txt< - 1 section(s):
+[70/171] >europe/slovakia/2018-19/1-superliga-i.txt< - 1 section(s):
     193 lines, 132 matches - First League (sk.1) 2018/19, stage: >Regular Season<, 12 team refs, 22 round defs
-[47/123] >europe/slovakia/2020-21/1-superliga-i.txt< - 1 section(s):
+[71/171] >europe/slovakia/2020-21/1-superliga-i.txt< - 1 section(s):
     179 lines, 132 matches - First League (sk.1) 2020/21, stage: >Regular Season<, 12 team refs, 22 round defs
-[48/123] >europe/romania/2019-20/1-liga1-ii.txt< - 2 section(s):
+[72/171] >europe/romania/2019-20/1-liga1-ii.txt< - 2 section(s):
     71 lines, 30 matches - Liga 1 (ro.1) 2019/20, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     114 lines, 56 matches - Liga 1 (ro.1) 2019/20, stage: >Playoffs - Relegation<, 8 team refs, 14 round defs
-[49/123] >europe/romania/2019-20/1-liga1-i.txt< - 1 section(s):
+[73/171] >europe/romania/2019-20/1-liga1-i.txt< - 1 section(s):
     312 lines, 182 matches - Liga 1 (ro.1) 2019/20, stage: >Regular Season<, 14 team refs, 26 round defs
-[50/123] >europe/romania/2018-19/1-liga1-ii.txt< - 2 section(s):
+[74/171] >europe/romania/2018-19/1-liga1-ii.txt< - 2 section(s):
     68 lines, 30 matches - Liga 1 (ro.1) 2018/19, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     109 lines, 56 matches - Liga 1 (ro.1) 2018/19, stage: >Playoffs - Relegation<, 8 team refs, 14 round defs
-[51/123] >europe/romania/2018-19/1-liga1-i.txt< - 1 section(s):
+[75/171] >europe/romania/2018-19/1-liga1-i.txt< - 1 section(s):
     310 lines, 182 matches - Liga 1 (ro.1) 2018/19, stage: >Regular Season<, 14 team refs, 26 round defs
-[52/123] >europe/romania/2011-12/1-liga1.txt< - 1 section(s):
+[76/171] >europe/romania/2011-12/1-liga1.txt< - 1 section(s):
     477 lines, 306 matches - Liga 1 (ro.1) 2011/12, 18 team refs, 34 round defs
-[53/123] >europe/romania/2010-11/1-liga1.txt< - 1 section(s):
+[77/171] >europe/romania/2010-11/1-liga1.txt< - 1 section(s):
     465 lines, 306 matches - Liga 1 (ro.1) 2010/11, 18 team refs, 34 round defs
-[54/123] >europe/romania/2016-17/1-liga1-ii.txt< - 2 section(s):
+[78/171] >europe/romania/2016-17/1-liga1-ii.txt< - 2 section(s):
     65 lines, 30 matches - Liga 1 (ro.1) 2016/17, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     115 lines, 56 matches - Liga 1 (ro.1) 2016/17, stage: >Playoffs - Relegation<, 8 team refs, 14 round defs
-[55/123] >europe/romania/2016-17/1-liga1-i.txt< - 1 section(s):
+[79/171] >europe/romania/2016-17/1-liga1-i.txt< - 1 section(s):
     314 lines, 182 matches - Liga 1 (ro.1) 2016/17, stage: >Regular Season<, 14 team refs, 26 round defs
-[56/123] >europe/romania/2012-13/1-liga1.txt< - 1 section(s):
+[80/171] >europe/romania/2012-13/1-liga1.txt< - 1 section(s):
     475 lines, 306 matches - Liga 1 (ro.1) 2012/13, 18 team refs, 34 round defs
-[57/123] >europe/romania/2015-16/1-liga1-ii.txt< - 2 section(s):
+[81/171] >europe/romania/2015-16/1-liga1-ii.txt< - 2 section(s):
     69 lines, 30 matches - Liga 1 (ro.1) 2015/16, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     116 lines, 56 matches - Liga 1 (ro.1) 2015/16, stage: >Playoffs - Relegation<, 8 team refs, 14 round defs
-[58/123] >europe/romania/2015-16/1-liga1-i.txt< - 1 section(s):
+[82/171] >europe/romania/2015-16/1-liga1-i.txt< - 1 section(s):
     308 lines, 182 matches - Liga 1 (ro.1) 2015/16, stage: >Regular Season<, 14 team refs, 26 round defs
-[59/123] >europe/romania/2013-14/1-liga1.txt< - 1 section(s):
+[83/171] >europe/romania/2013-14/1-liga1.txt< - 1 section(s):
     480 lines, 306 matches - Liga 1 (ro.1) 2013/14, 18 team refs, 34 round defs
-[60/123] >europe/romania/2017-18/1-liga1-ii.txt< - 2 section(s):
+[84/171] >europe/romania/2017-18/1-liga1-ii.txt< - 2 section(s):
     68 lines, 30 matches - Liga 1 (ro.1) 2017/18, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     118 lines, 56 matches - Liga 1 (ro.1) 2017/18, stage: >Playoffs - Relegation<, 8 team refs, 14 round defs
-[61/123] >europe/romania/2017-18/1-liga1-i.txt< - 1 section(s):
+[85/171] >europe/romania/2017-18/1-liga1-i.txt< - 1 section(s):
     312 lines, 182 matches - Liga 1 (ro.1) 2017/18, stage: >Regular Season<, 14 team refs, 26 round defs
-[62/123] >europe/romania/2020-21/1-liga1-i.txt< - 1 section(s):
-    315 lines, 240 matches - Liga 1 (ro.1) 2020/21, stage: >Regular Season<, 16 team refs, 30 round defs
-[63/123] >europe/romania/2014-15/1-liga1.txt< - 1 section(s):
+[86/171] >europe/romania/2020-21/1-liga1-i.txt< - 1 section(s):
+    318 lines, 240 matches - Liga 1 (ro.1) 2020/21, stage: >Regular Season<, 16 team refs, 30 round defs
+[87/171] >europe/romania/2014-15/1-liga1.txt< - 1 section(s):
     472 lines, 306 matches - Liga 1 (ro.1) 2014/15, 18 team refs, 34 round defs
-[64/123] >europe/netherlands/2019-20/1-eredivisie.txt< - 1 section(s):
+[88/171] >europe/netherlands/2019-20/1-eredivisie.txt< - 1 section(s):
     438 lines, 306 matches - Eredivisie (nl.1) 2019/20, 18 team refs, 34 round defs
-[65/123] >europe/netherlands/2018-19/1-eredivisie.txt< - 1 section(s):
+[89/171] >europe/netherlands/2018-19/1-eredivisie.txt< - 1 section(s):
     437 lines, 306 matches - Eredivisie (nl.1) 2018/19, 18 team refs, 34 round defs
-[66/123] >europe/netherlands/2020-21/1-eredivisie.txt< - 1 section(s):
+[90/171] >europe/netherlands/2011-12/1-eredivisie.txt< - 1 section(s):
+    437 lines, 306 matches - Eredivisie (nl.1) 2011/12, 18 team refs, 34 round defs
+[91/171] >europe/netherlands/2010-11/1-eredivisie.txt< - 1 section(s):
+    434 lines, 306 matches - Eredivisie (nl.1) 2010/11, 18 team refs, 34 round defs
+[92/171] >europe/netherlands/2016-17/1-eredivisie.txt< - 1 section(s):
+    433 lines, 306 matches - Eredivisie (nl.1) 2016/17, 18 team refs, 34 round defs
+[93/171] >europe/netherlands/2012-13/1-eredivisie.txt< - 1 section(s):
+    431 lines, 306 matches - Eredivisie (nl.1) 2012/13, 18 team refs, 34 round defs
+[94/171] >europe/netherlands/2015-16/1-eredivisie.txt< - 1 section(s):
+    434 lines, 306 matches - Eredivisie (nl.1) 2015/16, 18 team refs, 34 round defs
+[95/171] >europe/netherlands/2013-14/1-eredivisie.txt< - 1 section(s):
+    441 lines, 306 matches - Eredivisie (nl.1) 2013/14, 18 team refs, 34 round defs
+[96/171] >europe/netherlands/2017-18/1-eredivisie.txt< - 1 section(s):
+    435 lines, 306 matches - Eredivisie (nl.1) 2017/18, 18 team refs, 34 round defs
+[97/171] >europe/netherlands/2020-21/1-eredivisie.txt< - 1 section(s):
     409 lines, 306 matches - Eredivisie (nl.1) 2020/21, 18 team refs, 34 round defs
-[67/123] >europe/portugal/2019-20/1-primeiraliga.txt< - 1 section(s):
-    467 lines, 306 matches - Primeira Liga (pt.1) 2019/20, 18 team refs, 34 round defs
-[68/123] >europe/portugal/2018-19/1-primeiraliga.txt< - 1 section(s):
+[98/171] >europe/netherlands/2014-15/1-eredivisie.txt< - 1 section(s):
+    433 lines, 306 matches - Eredivisie (nl.1) 2014/15, 18 team refs, 34 round defs
+[99/171] >europe/portugal/2019-20/1-primeiraliga.txt< - 1 section(s):
+    469 lines, 306 matches - Primeira Liga (pt.1) 2019/20, 18 team refs, 34 round defs
+[100/171] >europe/portugal/2018-19/1-primeiraliga.txt< - 1 section(s):
     460 lines, 306 matches - Primeira Liga (pt.1) 2018/19, 18 team refs, 34 round defs
-[69/123] >europe/portugal/2020-21/2-segundaliga.txt< - 1 section(s):
-    389 lines, 306 matches - Segunda Liga (pt.2) 2020/21, 18 team refs, 34 round defs
-[70/123] >europe/portugal/2020-21/1-primeiraliga.txt< - 1 section(s):
+[101/171] >europe/portugal/2011-12/1-primeiraliga.txt< - 1 section(s):
+    382 lines, 240 matches - Primeira Liga (pt.1) 2011/12, 16 team refs, 30 round defs
+[102/171] >europe/portugal/2010-11/1-primeiraliga.txt< - 1 section(s):
+    380 lines, 240 matches - Primeira Liga (pt.1) 2010/11, 16 team refs, 30 round defs
+[103/171] >europe/portugal/2016-17/1-primeiraliga.txt< - 1 section(s):
+    469 lines, 306 matches - Primeira Liga (pt.1) 2016/17, 18 team refs, 34 round defs
+[104/171] >europe/portugal/2012-13/1-primeiraliga.txt< - 1 section(s):
+    373 lines, 240 matches - Primeira Liga (pt.1) 2012/13, 16 team refs, 30 round defs
+[105/171] >europe/portugal/2015-16/1-primeiraliga.txt< - 1 section(s):
+    465 lines, 306 matches - Primeira Liga (pt.1) 2015/16, 18 team refs, 34 round defs
+[106/171] >europe/portugal/2013-14/1-primeiraliga.txt< - 1 section(s):
+    375 lines, 240 matches - Primeira Liga (pt.1) 2013/14, 16 team refs, 30 round defs
+[107/171] >europe/portugal/2017-18/1-primeiraliga.txt< - 1 section(s):
+    472 lines, 306 matches - Primeira Liga (pt.1) 2017/18, 18 team refs, 34 round defs
+[108/171] >europe/portugal/2020-21/2-segundaliga.txt< - 1 section(s):
+    390 lines, 306 matches - Segunda Liga (pt.2) 2020/21, 18 team refs, 34 round defs
+[109/171] >europe/portugal/2020-21/1-primeiraliga.txt< - 1 section(s):
     382 lines, 306 matches - Primeira Liga (pt.1) 2020/21, 18 team refs, 34 round defs
-[71/123] >europe/belgium/2019-20/1-firstdivisiona-i.txt< - 1 section(s):
+[110/171] >europe/portugal/2014-15/1-primeiraliga.txt< - 1 section(s):
+    459 lines, 306 matches - Primeira Liga (pt.1) 2014/15, 18 team refs, 34 round defs
+[111/171] >europe/belgium/2019-20/1-firstdivisiona-i.txt< - 1 section(s):
     362 lines, 240 matches - First Division A (be.1) 2019/20, stage: >Regular Season<, 16 team refs, 30 round defs
-[72/123] >europe/belgium/2018-19/1-firstdivisiona-ii.txt< - 3 section(s):
+[112/171] >europe/belgium/2018-19/1-firstdivisiona-ii.txt< - 3 section(s):
     64 lines, 30 matches - First Division A (be.1) 2018/19, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     92 lines, 60 matches - First Division A (be.1) 2018/19, stage: >Playoffs - Europa League<, 12 team refs, 10 round defs
     6 lines, 2 matches - First Division A (be.1) 2018/19, stage: >Playoffs - Europa League - Finals<, 3 team refs, 2 round defs
-[73/123] >europe/belgium/2018-19/1-firstdivisiona-i.txt< - 1 section(s):
+[113/171] >europe/belgium/2018-19/1-firstdivisiona-i.txt< - 1 section(s):
     355 lines, 240 matches - First Division A (be.1) 2018/19, stage: >Regular Season<, 16 team refs, 30 round defs
-[74/123] >europe/belgium/2020-21/1-firstdivisiona-i.txt< - 1 section(s):
+[114/171] >europe/belgium/2020-21/1-firstdivisiona-i.txt< - 1 section(s):
     400 lines, 306 matches - First Division A (be.1) 2020/21, stage: >Regular Season<, 18 team refs, 34 round defs
-[75/123] >europe/croatia/2019-20/1-hnl.txt< - 1 section(s):
+[115/171] >europe/croatia/2019-20/1-hnl.txt< - 1 section(s):
     319 lines, 180 matches - 1. HNL (hr.1) 2019/20, 10 team refs, 36 round defs
-[76/123] >europe/croatia/2018-19/1-hnl.txt< - 1 section(s):
+[116/171] >europe/croatia/2018-19/1-hnl.txt< - 1 section(s):
     324 lines, 180 matches - 1. HNL (hr.1) 2018/19, 10 team refs, 36 round defs
-[77/123] >europe/croatia/2020-21/1-hnl.txt< - 1 section(s):
+[117/171] >europe/croatia/2020-21/1-hnl.txt< - 1 section(s):
     16 lines, 10 matches - 1. HNL (hr.1) 2020/21, 10 team refs, 2 round defs
-[78/123] >europe/finland/2020/1-veikkausliiga-i.txt< - 1 section(s):
-    205 lines, 132 matches - Veikkausliiga (fi.1) 2020, stage: >Regular Season<, 12 team refs, 22 round defs
-[79/123] >europe/finland/2019/1-veikkausliiga-i.txt< - 1 section(s):
+[118/171] >europe/finland/2020/1-veikkausliiga-i.txt< - 1 section(s):
+    206 lines, 132 matches - Veikkausliiga (fi.1) 2020, stage: >Regular Season<, 12 team refs, 22 round defs
+[119/171] >europe/finland/2019/1-veikkausliiga-i.txt< - 1 section(s):
     205 lines, 132 matches - Veikkausliiga (fi.1) 2019, stage: >Regular Season<, 12 team refs, 6 round defs
-[80/123] >europe/finland/2019/1-veikkausliiga-ii.txt< - 3 section(s):
+[120/171] >europe/finland/2019/1-veikkausliiga-ii.txt< - 3 section(s):
     27 lines, 15 matches - Veikkausliiga (fi.1) 2019, stage: >Playoffs - Championship<, 6 team refs, 5 round defs
     28 lines, 15 matches - Veikkausliiga (fi.1) 2019, stage: >Playoffs - Challenger<, 6 team refs, 5 round defs
     12 lines, 5 matches - Veikkausliiga (fi.1) 2019, stage: >Europa League Finals<, 5 team refs, 3 round defs
-[81/123] >europe/iceland/2020/1-urvalsdeild.txt< - 1 section(s):
+[121/171] >europe/iceland/2020/1-urvalsdeild.txt< - 1 section(s):
     206 lines, 132 matches - Urvalsdeild (is.1) 2020, 12 team refs, 22 round defs
-[82/123] >europe/iceland/2019/1-urvalsdeild.txt< - 1 section(s):
+[122/171] >europe/iceland/2019/1-urvalsdeild.txt< - 1 section(s):
     208 lines, 132 matches - Urvalsdeild (is.1) 2019, 12 team refs, 22 round defs
-[83/123] >europe/sweden/2020/1-allsvenskan.txt< - 1 section(s):
+[123/171] >europe/sweden/2020/1-allsvenskan.txt< - 1 section(s):
     342 lines, 240 matches - Allsvenskan (se.1) 2020, 16 team refs, 30 round defs
-[84/123] >europe/sweden/2020/2-superettan.txt< - 1 section(s):
+[124/171] >europe/sweden/2020/2-superettan.txt< - 1 section(s):
     350 lines, 240 matches - Superettan (se.2) 2020, 16 team refs, 30 round defs
-[85/123] >europe/sweden/2019/1-allsvenskan.txt< - 1 section(s):
+[125/171] >europe/sweden/2019/1-allsvenskan.txt< - 1 section(s):
     364 lines, 240 matches - Allsvenskan (se.1) 2019, 16 team refs, 30 round defs
-[86/123] >europe/sweden/2019/2-superettan.txt< - 1 section(s):
+[126/171] >europe/sweden/2019/2-superettan.txt< - 1 section(s):
     387 lines, 240 matches - Superettan (se.2) 2019, 16 team refs, 30 round defs
-[87/123] >europe/scotland/2019-20/1-premiership-i.txt< - 1 section(s):
+[127/171] >europe/scotland/2019-20/1-premiership-i.txt< - 1 section(s):
     299 lines, 198 matches - Premiership (sco.1) 2019/20, stage: >Regular Season<, 12 team refs, 33 round defs
-[88/123] >europe/scotland/2018-19/1-premiership-ii.txt< - 2 section(s):
+[128/171] >europe/scotland/2018-19/1-premiership-ii.txt< - 2 section(s):
     30 lines, 15 matches - Premiership (sco.1) 2018/19, stage: >Playoffs - Championship<, 6 team refs, 5 round defs
     26 lines, 15 matches - Premiership (sco.1) 2018/19, stage: >Playoffs - Relegation<, 6 team refs, 5 round defs
-[89/123] >europe/scotland/2018-19/1-premiership-i.txt< - 1 section(s):
+[129/171] >europe/scotland/2018-19/1-premiership-i.txt< - 1 section(s):
     304 lines, 198 matches - Premiership (sco.1) 2018/19, stage: >Regular Season<, 12 team refs, 33 round defs
-[90/123] >europe/scotland/2020-21/1-premiership-i.txt< - 1 section(s):
-    277 lines, 198 matches - Premiership (sco.1) 2020/21, stage: >Regular Season<, 12 team refs, 33 round defs
-[91/123] >europe/ukraine/2019-20/1-premierleague-ii.txt< - 3 section(s):
+[130/171] >europe/scotland/2020-21/1-premiership-i.txt< - 1 section(s):
+    278 lines, 198 matches - Premiership (sco.1) 2020/21, stage: >Regular Season<, 12 team refs, 33 round defs
+[131/171] >europe/ukraine/2019-20/1-premierleague-ii.txt< - 3 section(s):
     60 lines, 30 matches - Premier League (ua.1) 2019/20, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     60 lines, 30 matches - Premier League (ua.1) 2019/20, stage: >Playoffs - Relegation<, 6 team refs, 10 round defs
     7 lines, 3 matches - Premier League (ua.1) 2019/20, stage: >Europa League Finals<, 4 team refs, 2 round defs
-[92/123] >europe/ukraine/2019-20/1-premierleague-i.txt< - 1 section(s):
+[132/171] >europe/ukraine/2019-20/1-premierleague-i.txt< - 1 section(s):
     209 lines, 132 matches - Premier League (ua.1) 2019/20, stage: >Regular Season<, 12 team refs, 22 round defs
-[93/123] >europe/ukraine/2018-19/1-premierleague-ii.txt< - 2 section(s):
+[133/171] >europe/ukraine/2018-19/1-premierleague-ii.txt< - 2 section(s):
     51 lines, 30 matches - Premier League (ua.1) 2018/19, stage: >Playoffs - Championship<, 6 team refs, 10 round defs
     52 lines, 30 matches - Premier League (ua.1) 2018/19, stage: >Playoffs - Relegation<, 6 team refs, 10 round defs
-[94/123] >europe/ukraine/2018-19/1-premierleague-i.txt< - 1 section(s):
+[134/171] >europe/ukraine/2018-19/1-premierleague-i.txt< - 1 section(s):
     214 lines, 132 matches - Premier League (ua.1) 2018/19, stage: >Regular Season<, 12 team refs, 22 round defs
-[95/123] >europe/poland/2019-20/1-ekstraklasa-i.txt< - 1 section(s):
+[135/171] >europe/poland/2019-20/1-ekstraklasa-i.txt< - 1 section(s):
     369 lines, 240 matches - Ekstraklasa (pl.1) 2019/20, stage: >Regular Season<, 16 team refs, 30 round defs
-[96/123] >europe/poland/2019-20/1-ekstraklasa-ii.txt< - 2 section(s):
+[136/171] >europe/poland/2019-20/1-ekstraklasa-ii.txt< - 2 section(s):
     48 lines, 28 matches - Ekstraklasa (pl.1) 2019/20, stage: >Playoffs - Championship<, 8 team refs, 7 round defs
     47 lines, 28 matches - Ekstraklasa (pl.1) 2019/20, stage: >Playoffs - Relegation<, 8 team refs, 7 round defs
-[97/123] >europe/poland/2018-19/1-ekstraklasa-i.txt< - 1 section(s):
+[137/171] >europe/poland/2018-19/1-ekstraklasa-i.txt< - 1 section(s):
     379 lines, 240 matches - Ekstraklasa (pl.1) 2018/19, stage: >Regular Season<, 16 team refs, 30 round defs
-[98/123] >europe/poland/2018-19/1-ekstraklasa-ii.txt< - 2 section(s):
+[138/171] >europe/poland/2018-19/1-ekstraklasa-ii.txt< - 2 section(s):
     47 lines, 28 matches - Ekstraklasa (pl.1) 2018/19, stage: >Playoffs - Championship<, 8 team refs, 7 round defs
     47 lines, 28 matches - Ekstraklasa (pl.1) 2018/19, stage: >Playoffs - Relegation<, 8 team refs, 7 round defs
-[99/123] >europe/poland/2020-21/1-ekstraklasa-i.txt< - 1 section(s):
-    316 lines, 240 matches - Ekstraklasa (pl.1) 2020/21, stage: >Regular Season<, 16 team refs, 30 round defs
-[100/123] >europe/luxembourg/2019-20/1-nationaldivision.txt< - 1 section(s):
+[139/171] >europe/poland/2020-21/1-ekstraklasa-i.txt< - 1 section(s):
+    318 lines, 240 matches - Ekstraklasa (pl.1) 2020/21, stage: >Regular Season<, 16 team refs, 30 round defs
+[140/171] >europe/luxembourg/2019-20/1-nationaldivision.txt< - 1 section(s):
     259 lines, 182 matches - Luxembourger First Division (lu.1) 2019/20, 14 team refs, 26 round defs
-[101/123] >europe/luxembourg/2018-19/1-nationaldivision.txt< - 1 section(s):
+[141/171] >europe/luxembourg/2018-19/1-nationaldivision.txt< - 1 section(s):
     258 lines, 182 matches - Luxembourger First Division (lu.1) 2018/19, 14 team refs, 26 round defs
-[102/123] >europe/luxembourg/2020-21/1-nationaldivision.txt< - 1 section(s):
-    307 lines, 240 matches - Luxembourger First Division (lu.1) 2020/21, 16 team refs, 30 round defs
-[103/123] >europe/switzerland/2019-20/2-challengeleague.txt< - 1 section(s):
+[142/171] >europe/luxembourg/2020-21/1-nationaldivision.txt< - 1 section(s):
+    308 lines, 240 matches - Luxembourger First Division (lu.1) 2020/21, 16 team refs, 30 round defs
+[143/171] >europe/switzerland/2019-20/2-challengeleague.txt< - 1 section(s):
     307 lines, 180 matches - Challenge League (ch.2) 2019/20, 10 team refs, 36 round defs
-[104/123] >europe/switzerland/2019-20/1-superleague.txt< - 1 section(s):
-    295 lines, 180 matches - Super League (ch.1) 2019/20, 10 team refs, 36 round defs
-[105/123] >europe/switzerland/2020-21/2-challengeleague.txt< - 1 section(s):
-    137 lines, 90 matches - Challenge League (ch.2) 2020/21, 10 team refs, 18 round defs
-[106/123] >europe/switzerland/2020-21/1-superleague.txt< - 1 section(s):
+[144/171] >europe/switzerland/2019-20/1-superleague.txt< - 1 section(s):
+    296 lines, 180 matches - Super League (ch.1) 2019/20, 10 team refs, 36 round defs
+[145/171] >europe/switzerland/2018-19/1-superleague.txt< - 1 section(s):
+    293 lines, 180 matches - Super League (ch.1) 2018/19, 10 team refs, 36 round defs
+[146/171] >europe/switzerland/2011-12/1-superleague.txt< - 1 section(s):
+    292 lines, 180 matches - Super League (ch.1) 2011/12, 10 team refs, 36 round defs
+[147/171] >europe/switzerland/2010-11/1-superleague.txt< - 1 section(s):
+    294 lines, 180 matches - Super League (ch.1) 2010/11, 10 team refs, 36 round defs
+[148/171] >europe/switzerland/2016-17/1-superleague.txt< - 1 section(s):
+    289 lines, 180 matches - Super League (ch.1) 2016/17, 10 team refs, 36 round defs
+[149/171] >europe/switzerland/2012-13/1-superleague.txt< - 1 section(s):
+    297 lines, 180 matches - Super League (ch.1) 2012/13, 10 team refs, 36 round defs
+[150/171] >europe/switzerland/2015-16/1-superleague.txt< - 1 section(s):
+    292 lines, 180 matches - Super League (ch.1) 2015/16, 10 team refs, 36 round defs
+[151/171] >europe/switzerland/2013-14/1-superleague.txt< - 1 section(s):
+    295 lines, 180 matches - Super League (ch.1) 2013/14, 10 team refs, 36 round defs
+[152/171] >europe/switzerland/2017-18/1-superleague.txt< - 1 section(s):
+    293 lines, 180 matches - Super League (ch.1) 2017/18, 10 team refs, 36 round defs
+[153/171] >europe/switzerland/2020-21/2-challengeleague.txt< - 1 section(s):
+    138 lines, 90 matches - Challenge League (ch.2) 2020/21, 10 team refs, 18 round defs
+[154/171] >europe/switzerland/2020-21/1-superleague.txt< - 1 section(s):
     136 lines, 90 matches - Super League (ch.1) 2020/21, 10 team refs, 18 round defs
-[107/123] >europe/switzerland/2014-15/1-superleague.txt< - 1 section(s):
-    268 lines, 180 matches - Super League (ch.1) 2014/15, 10 team refs, 36 round defs
-[108/123] >europe/ireland/2020/1-premierdivision.txt< - 1 section(s):
-    301 lines, 180 matches - Premier Division (ie.1) 2020, 10 team refs, 36 round defs
-[109/123] >europe/ireland/2019/1-premierdivision.txt< - 1 section(s):
+[155/171] >europe/switzerland/2014-15/1-superleague.txt< - 1 section(s):
+    296 lines, 180 matches - Super League (ch.1) 2014/15, 10 team refs, 36 round defs
+[156/171] >europe/ireland/2020/1-premierdivision.txt< - 1 section(s):
+    162 lines, 90 matches - Premier Division (ie.1) 2020, 10 team refs, 18 round defs
+[157/171] >europe/ireland/2019/1-premierdivision.txt< - 1 section(s):
     296 lines, 180 matches - Premier Division (ie.1) 2019, 10 team refs, 36 round defs
-[110/123] >europe/norway/2020/1-eliteserien.txt< - 1 section(s):
+[158/171] >europe/norway/2020/1-eliteserien.txt< - 1 section(s):
     320 lines, 240 matches - Tippeligaen (no.1) 2020, 16 team refs, 30 round defs
-[111/123] >europe/norway/2019/1-eliteserien.txt< - 1 section(s):
+[159/171] >europe/norway/2019/1-eliteserien.txt< - 1 section(s):
     360 lines, 240 matches - Tippeligaen (no.1) 2019, 16 team refs, 30 round defs
-[112/123] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
+[160/171] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[113/123] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
+[161/171] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[114/123] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
+[162/171] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[115/123] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
+[163/171] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[116/123] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
+[164/171] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[117/123] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
+[165/171] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[118/123] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
+[166/171] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[119/123] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
+[167/171] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[120/123] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
+[168/171] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[121/123] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
+[169/171] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[122/123] >north-america/major-league-soccer/2010/mls.txt< - 0 section(s):
+[170/171] >north-america/major-league-soccer/2010/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[123/123] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
+[171/171] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
 
 
-[1/123] >pacific/australia/2018-19/1-aleague.txt< - 2 section(s):
+[1/171] >pacific/australia/2018-19/1-aleague.txt< - 2 section(s):
     255 lines, 135 matches - A-League (au.1) 2018/19, stage: >Regular Season<
       10 teams (referenced):
         27× Adelaide United
@@ -326,7 +424,7 @@
         Elimination finals, 2 matches
         Semi-finals, 2 matches
         Grand Final, 1 matches
-[2/123] >asia/japan/2020/1-j1league.txt< - 1 section(s):
+[2/171] >asia/japan/2020/1-j1league.txt< - 1 section(s):
     418 lines, 306 matches - J. League (jp.1) 2020
       18 teams (referenced):
         34× Cerezo Osaka
@@ -382,7 +480,7 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[3/123] >asia/japan/2019/1-j1league.txt< - 1 section(s):
+[3/171] >asia/japan/2019/1-j1league.txt< - 1 section(s):
     415 lines, 306 matches - J. League (jp.1) 2019
       18 teams (referenced):
         34× Cerezo Osaka
@@ -438,7 +536,7 @@
         Matchday 32 ×2, 9 matches
         Matchday 33, 9 matches
         Matchday 34, 9 matches
-[4/123] >asia/china/2018/1-superleague.txt< - 1 section(s):
+[4/171] >asia/china/2018/1-superleague.txt< - 1 section(s):
     344 lines, 240 matches - Super League (cn.1) 2018
       16 teams (referenced):
         30× Beijing Renhe
@@ -488,7 +586,7 @@
         Matchday 28, 8 matches
         Matchday 29, 8 matches
         Matchday 30, 8 matches
-[5/123] >asia/china/2020/1-superleague.txt< - 1 section(s):
+[5/171] >asia/china/2020/1-superleague.txt< - 1 section(s):
     175 lines, 112 matches - Super League (cn.1) 2020
       16 teams (referenced):
         14× Beijing Sinobo Guoan
@@ -522,7 +620,7 @@
         Round 12, 8 matches
         Round 13, 8 matches
         Round 14, 8 matches
-[6/123] >asia/china/2019/1-superleague.txt< - 1 section(s):
+[6/171] >asia/china/2019/1-superleague.txt< - 1 section(s):
     358 lines, 240 matches - Super League (cn.1) 2019
       16 teams (referenced):
         30× Beijing Renhe
@@ -572,7 +670,7 @@
         Matchday 28, 8 matches
         Matchday 29, 8 matches
         Matchday 30, 8 matches
-[7/123] >south-america/argentina/2019-20/1-primeradivision.txt< - 1 section(s):
+[7/171] >south-america/argentina/2019-20/1-primeradivision.txt< - 1 section(s):
     392 lines, 276 matches - Primera Division (ar.1) 2019/20
       24 teams (referenced):
         23× Argentinos Juniors
@@ -623,7 +721,7 @@
         Jornada 21, 12 matches
         Jornada 22, 12 matches
         Jornada 23, 12 matches
-[8/123] >south-america/argentina/2018-19/1-primeradivision.txt< - 1 section(s):
+[8/171] >south-america/argentina/2018-19/1-primeradivision.txt< - 1 section(s):
     477 lines, 325 matches - Primera Division (ar.1) 2018/19
       26 teams (referenced):
         25× Argentinos Juniors
@@ -678,7 +776,7 @@
         Jornada 23, 13 matches
         Jornada 24, 13 matches
         Jornada 25, 13 matches
-[9/123] >europe/denmark/2019-20/1-superligaen-ii.txt< - 3 section(s):
+[9/171] >europe/denmark/2019-20/1-superligaen-ii.txt< - 3 section(s):
     55 lines, 30 matches - Superligaen (dk.1) 2019/20, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× AGF Aarhus
@@ -725,7 +823,7 @@
         Round 1, 2 matches
         Round 2, 2 matches
         Final, 1 matches
-[10/123] >europe/denmark/2019-20/1-superligaen-i.txt< - 1 section(s):
+[10/171] >europe/denmark/2019-20/1-superligaen-i.txt< - 1 section(s):
     291 lines, 182 matches - Superligaen (dk.1) 2019/20, stage: >Regular Season<
       14 teams (referenced):
         26× AC Horsens
@@ -769,7 +867,7 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[11/123] >europe/denmark/2018-19/1-superligaen-ii.txt< - 3 section(s):
+[11/171] >europe/denmark/2018-19/1-superligaen-ii.txt< - 3 section(s):
     60 lines, 30 matches - Superligaen (dk.1) 2018/19, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× Brøndby IF
@@ -817,7 +915,7 @@
         Round 1, 4 matches
         Round 2, 2 matches
         Final, 1 matches
-[12/123] >europe/denmark/2018-19/1-superligaen-i.txt< - 1 section(s):
+[12/171] >europe/denmark/2018-19/1-superligaen-i.txt< - 1 section(s):
     303 lines, 182 matches - Superligaen (dk.1) 2018/19, stage: >Regular Season<
       14 teams (referenced):
         26× AC Horsens
@@ -861,8 +959,8 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[13/123] >europe/denmark/2020-21/1-superligaen-i.txt< - 1 section(s):
-    183 lines, 132 matches - Superligaen (dk.1) 2020/21, stage: >Regular Season<
+[13/171] >europe/denmark/2020-21/1-superligaen-i.txt< - 1 section(s):
+    192 lines, 132 matches - Superligaen (dk.1) 2020/21, stage: >Regular Season<
       12 teams (referenced):
         22× AC Horsens
         22× AGF Aarhus
@@ -899,7 +997,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[14/123] >europe/hungary/2018-19/1-nbi.txt< - 1 section(s):
+[14/171] >europe/hungary/2018-19/1-nbi.txt< - 1 section(s):
     282 lines, 198 matches - First League (hu.1) 2018/19
       12 teams (referenced):
         33× Budapest Honvéd FC
@@ -948,7 +1046,7 @@
         Matchday 31, 6 matches
         Matchday 32, 6 matches
         Matchday 33, 6 matches
-[15/123] >europe/hungary/2020-21/1-nbi.txt< - 1 section(s):
+[15/171] >europe/hungary/2020-21/1-nbi.txt< - 1 section(s):
     281 lines, 198 matches - First League (hu.1) 2020/21
       12 teams (referenced):
         33× Budafoki MTE
@@ -997,7 +1095,7 @@
         Round 31, 6 matches
         Round 32, 6 matches
         Round 33, 6 matches
-[16/123] >europe/russia/2019-20/2-division1.txt< - 1 section(s):
+[16/171] >europe/russia/2019-20/2-division1.txt< - 1 section(s):
     468 lines, 380 matches - 1. Division (ru.2) 2019/20
       20 teams (referenced):
         38× FC Armavir
@@ -1059,7 +1157,7 @@
         Matchday 36, 10 matches
         Matchday 37, 10 matches
         Matchday 38, 10 matches
-[17/123] >europe/russia/2019-20/1-premierliga.txt< - 1 section(s):
+[17/171] >europe/russia/2019-20/1-premierliga.txt< - 1 section(s):
     361 lines, 240 matches - Premier League (ru.1) 2019/20
       16 teams (referenced):
         30× Akhmat Grozny
@@ -1109,7 +1207,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[18/123] >europe/russia/2018-19/1-premierliga.txt< - 1 section(s):
+[18/171] >europe/russia/2018-19/1-premierliga.txt< - 1 section(s):
     367 lines, 240 matches - Premier League (ru.1) 2018/19
       16 teams (referenced):
         30× Akhmat Grozny
@@ -1159,7 +1257,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[19/123] >europe/russia/2011-12/1-premierliga-ii.txt< - 2 section(s):
+[19/171] >europe/russia/2011-12/1-premierliga-ii.txt< - 2 section(s):
     97 lines, 56 matches - Premier League (ru.1) 2011/12, stage: >Playoffs - Championship<
       8 teams (referenced):
         14× Dynamo Moskva
@@ -1210,7 +1308,7 @@
         Round 42, 4 matches
         Round 43, 4 matches
         Round 44, 4 matches
-[20/123] >europe/russia/2011-12/1-premierliga-i.txt< - 1 section(s):
+[20/171] >europe/russia/2011-12/1-premierliga-i.txt< - 1 section(s):
     345 lines, 240 matches - Premier League (ru.1) 2011/12, stage: >Regular Season<
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1260,7 +1358,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[21/123] >europe/russia/2008/1-premierliga.txt< - 1 section(s):
+[21/171] >europe/russia/2008/1-premierliga.txt< - 1 section(s):
     360 lines, 240 matches - Premier League (ru.1) 2008
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1310,7 +1408,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[22/123] >europe/russia/2009/1-premierliga.txt< - 1 section(s):
+[22/171] >europe/russia/2009/1-premierliga.txt< - 1 section(s):
     341 lines, 240 matches - Premier League (ru.1) 2009
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1360,7 +1458,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[23/123] >europe/russia/2004/1-premierliga.txt< - 1 section(s):
+[23/171] >europe/russia/2004/1-premierliga.txt< - 1 section(s):
     350 lines, 240 matches - Premier League (ru.1) 2004
       17 teams (referenced):
         30× Dynamo Moskva
@@ -1411,7 +1509,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[24/123] >europe/russia/2016-17/1-premierliga.txt< - 1 section(s):
+[24/171] >europe/russia/2016-17/1-premierliga.txt< - 1 section(s):
     362 lines, 240 matches - Premier League (ru.1) 2016/17
       16 teams (referenced):
         30× Arsenal Tula
@@ -1461,7 +1559,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[25/123] >europe/russia/2012-13/1-premierliga.txt< - 1 section(s):
+[25/171] >europe/russia/2012-13/1-premierliga.txt< - 1 section(s):
     372 lines, 240 matches - Premier League (ru.1) 2012/13
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1511,7 +1609,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[26/123] >europe/russia/2005/1-premierliga.txt< - 1 section(s):
+[26/171] >europe/russia/2005/1-premierliga.txt< - 1 section(s):
     341 lines, 240 matches - Premier League (ru.1) 2005
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1561,7 +1659,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[27/123] >europe/russia/2015-16/1-premierliga.txt< - 1 section(s):
+[27/171] >europe/russia/2015-16/1-premierliga.txt< - 1 section(s):
     367 lines, 240 matches - Premier League (ru.1) 2015/16
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1611,7 +1709,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[28/123] >europe/russia/2013-14/1-premierliga.txt< - 1 section(s):
+[28/171] >europe/russia/2013-14/1-premierliga.txt< - 1 section(s):
     370 lines, 240 matches - Premier League (ru.1) 2013/14
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1661,7 +1759,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[29/123] >europe/russia/2007/1-premierliga.txt< - 1 section(s):
+[29/171] >europe/russia/2007/1-premierliga.txt< - 1 section(s):
     348 lines, 240 matches - Premier League (ru.1) 2007
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1711,7 +1809,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[30/123] >europe/russia/2017-18/1-premierliga.txt< - 1 section(s):
+[30/171] >europe/russia/2017-18/1-premierliga.txt< - 1 section(s):
     365 lines, 240 matches - Premier League (ru.1) 2017/18
       16 teams (referenced):
         30× Akhmat Grozny
@@ -1761,7 +1859,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[31/123] >europe/russia/2020-21/1-premierliga.txt< - 1 section(s):
+[31/171] >europe/russia/2020-21/1-premierliga.txt< - 1 section(s):
     316 lines, 240 matches - Premier League (ru.1) 2020/21
       16 teams (referenced):
         30× Akhmat Grozny
@@ -1811,7 +1909,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[32/123] >europe/russia/2006/1-premierliga.txt< - 1 section(s):
+[32/171] >europe/russia/2006/1-premierliga.txt< - 1 section(s):
     347 lines, 240 matches - Premier League (ru.1) 2006
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1861,7 +1959,7 @@
         Round 27, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[33/123] >europe/russia/2014-15/1-premierliga.txt< - 1 section(s):
+[33/171] >europe/russia/2014-15/1-premierliga.txt< - 1 section(s):
     366 lines, 240 matches - Premier League (ru.1) 2014/15
       16 teams (referenced):
         30× Arsenal Tula
@@ -1911,7 +2009,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[34/123] >europe/russia/2010/1-premierliga.txt< - 1 section(s):
+[34/171] >europe/russia/2010/1-premierliga.txt< - 1 section(s):
     360 lines, 240 matches - Premier League (ru.1) 2010
       16 teams (referenced):
         30× Dynamo Moskva
@@ -1961,7 +2059,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[35/123] >europe/czech-republic/2018-19/1-firstleague-i.txt< - 1 section(s):
+[35/171] >europe/czech-republic/2018-19/1-firstleague-i.txt< - 1 section(s):
     375 lines, 240 matches - First League (cz.1) 2018/19, stage: >Regular Season<
       16 teams (referenced):
         30× 1. FC Slovácko
@@ -2011,7 +2109,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[36/123] >europe/czech-republic/2018-19/1-firstleague-ii.txt< - 3 section(s):
+[36/171] >europe/czech-republic/2018-19/1-firstleague-ii.txt< - 3 section(s):
     28 lines, 15 matches - First League (cz.1) 2018/19, stage: >Playoffs - Championship<
       6 teams (referenced):
         5× AC Sparta Praha
@@ -2049,7 +2147,7 @@
         Round 33, 3 matches
         Round 34, 3 matches
         Round 35, 3 matches
-[37/123] >europe/czech-republic/2020-21/1-firstleague-i.txt< - 1 section(s):
+[37/171] >europe/czech-republic/2020-21/1-firstleague-i.txt< - 1 section(s):
     387 lines, 306 matches - First League (cz.1) 2020/21, stage: >Regular Season<
       18 teams (referenced):
         34× 1. FC Slovácko
@@ -2105,63 +2203,63 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[38/123] >europe/turkey/2019-20/1-superlig.txt< - 1 section(s):
-    467 lines, 306 matches - Süper Lig (tr.1) 2019/20
+[38/171] >europe/turkey/2019-20/1-superlig.txt< - 1 section(s):
+    470 lines, 306 matches - Süper Lig (tr.1) 2019/20
       18 teams (referenced):
         34× Alanyaspor
         34× Antalyaspor
-        34× Beşiktaş İstanbul JK ⇒ Beşiktaş İstanbul
+        34× Beşiktaş İstanbul
         34× Denizlispor
-        34× Fenerbahçe İstanbul SK ⇒ Fenerbahçe İstanbul
-        34× Galatasaray İstanbul AŞ ⇒ Galatasaray İstanbul
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
         34× Gazişehir Gaziantep FK
         34× Gençlerbirliği Ankara SK
         34× Göztepe İzmir
-        34× Kasımpaşa İstanbul SK ⇒ Kasımpaşa İstanbul
+        34× Kasımpaşa İstanbul
         34× Kayserispor
         34× Konyaspor
         34× MKE Ankaragücü
         34× Sivasspor
-        34× Trabzonspor AŞ ⇒ Trabzonspor
+        34× Trabzonspor
         34× Yeni Malatyaspor
         34× Çaykur Rizespor
         34× İstanbul Başakşehir
       34 rounds (referenced):
-        Matchday 1, 9 matches
-        Matchday 2, 9 matches
-        Matchday 3, 9 matches
-        Matchday 4, 9 matches
-        Matchday 5, 9 matches
-        Matchday 6, 9 matches
-        Matchday 7, 9 matches
-        Matchday 8, 9 matches
-        Matchday 9, 9 matches
-        Matchday 10, 9 matches
-        Matchday 11, 9 matches
-        Matchday 12, 9 matches
-        Matchday 13, 9 matches
-        Matchday 14, 9 matches
-        Matchday 15, 9 matches
-        Matchday 16, 9 matches
-        Matchday 17, 9 matches
-        Matchday 18, 9 matches
-        Matchday 19 ×2, 9 matches
-        Matchday 20, 9 matches
-        Matchday 21 ×2, 9 matches
-        Matchday 22, 9 matches
-        Matchday 23, 9 matches
-        Matchday 24, 9 matches
-        Matchday 25, 9 matches
-        Matchday 26, 9 matches
-        Matchday 27, 9 matches
-        Matchday 28, 9 matches
-        Matchday 29, 9 matches
-        Matchday 30, 9 matches
-        Matchday 31, 9 matches
-        Matchday 32, 9 matches
-        Matchday 33, 9 matches
-        Matchday 34, 9 matches
-[39/123] >europe/turkey/2019-20/2-lig1.txt< - 1 section(s):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19 ×2, 9 matches
+        Round 20, 9 matches
+        Round 21 ×2, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[39/171] >europe/turkey/2019-20/2-lig1.txt< - 1 section(s):
     455 lines, 306 matches - 1. Lig (tr.2) 2019/20
       18 teams (referenced):
         34× Adana Demirspor
@@ -2217,7 +2315,343 @@
         Matchday 32, 9 matches
         Matchday 33, 9 matches
         Matchday 34, 9 matches
-[40/123] >europe/turkey/2020-21/1-superlig.txt< - 1 section(s):
+[40/171] >europe/turkey/2018-19/1-superlig.txt< - 1 section(s):
+    470 lines, 306 matches - Süper Lig (tr.1) 2018/19
+      18 teams (referenced):
+        34× Akhisarspor
+        34× Alanyaspor
+        34× Antalyaspor
+        34× BB Erzurumspor
+        34× Beşiktaş İstanbul
+        34× Bursaspor
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
+        34× Göztepe İzmir
+        34× Kasımpaşa İstanbul
+        34× Kayserispor
+        34× Konyaspor
+        34× MKE Ankaragücü
+        34× Sivasspor
+        34× Trabzonspor
+        34× Yeni Malatyaspor
+        34× Çaykur Rizespor
+        34× İstanbul Başakşehir
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[41/171] >europe/turkey/2016-17/1-superlig.txt< - 1 section(s):
+    461 lines, 306 matches - Süper Lig (tr.1) 2016/17
+      18 teams (referenced):
+        34× Adanaspor
+        34× Akhisarspor
+        34× Alanyaspor
+        34× Antalyaspor
+        34× Beşiktaş İstanbul
+        34× Bursaspor
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
+        34× Gaziantepspor
+        34× Gençlerbirliği Ankara SK
+        34× Kardemir Karabükspor
+        34× Kasımpaşa İstanbul
+        34× Kayserispor
+        34× Konyaspor
+        34× Osmanlıspor Ankara
+        34× Trabzonspor
+        34× Çaykur Rizespor
+        34× İstanbul Başakşehir
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18 ×2, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[42/171] >europe/turkey/2012-13/1-superlig.txt< - 1 section(s):
+    465 lines, 306 matches - Süper Lig (tr.1) 2012/13
+      18 teams (referenced):
+        34× Akhisarspor
+        34× Antalyaspor
+        34× Beşiktaş İstanbul
+        34× Bursaspor
+        34× Elazığspor
+        34× Eskişehirspor
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
+        34× Gaziantepspor
+        34× Gençlerbirliği Ankara SK
+        34× Kardemir Karabükspor
+        34× Kasımpaşa İstanbul
+        34× Kayserispor
+        34× Mersin İdmanyurdu
+        34× Orduspor
+        34× Sivasspor
+        34× Trabzonspor
+        34× İstanbul Başakşehir
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15 ×2, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[43/171] >europe/turkey/2015-16/1-superlig.txt< - 1 section(s):
+    463 lines, 306 matches - Süper Lig (tr.1) 2015/16
+      18 teams (referenced):
+        34× Akhisarspor
+        34× Antalyaspor
+        34× Beşiktaş İstanbul
+        34× Bursaspor
+        34× Eskişehirspor
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
+        34× Gaziantepspor
+        34× Gençlerbirliği Ankara SK
+        34× Kasımpaşa İstanbul
+        34× Kayserispor
+        34× Konyaspor
+        34× Mersin İdmanyurdu
+        34× Osmanlıspor Ankara
+        34× Sivasspor
+        34× Trabzonspor
+        34× Çaykur Rizespor
+        34× İstanbul Başakşehir
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18 ×2, 9 matches
+        Round 19 ×2, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26 ×2, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[44/171] >europe/turkey/2013-14/1-superlig.txt< - 1 section(s):
+    464 lines, 306 matches - Süper Lig (tr.1) 2013/14
+      18 teams (referenced):
+        34× Akhisarspor
+        34× Antalyaspor
+        34× Beşiktaş İstanbul
+        34× Bursaspor
+        34× Elazığspor
+        34× Eskişehirspor
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
+        34× Gaziantepspor
+        34× Gençlerbirliği Ankara SK
+        34× Kardemir Karabükspor
+        34× Kasımpaşa İstanbul
+        34× Kayseri Erciyesspor
+        34× Kayserispor
+        34× Konyaspor
+        34× Sivasspor
+        34× Trabzonspor
+        34× Çaykur Rizespor
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15 ×2, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[45/171] >europe/turkey/2017-18/1-superlig.txt< - 1 section(s):
+    467 lines, 306 matches - Süper Lig (tr.1) 2017/18
+      18 teams (referenced):
+        34× Akhisarspor
+        34× Alanyaspor
+        34× Antalyaspor
+        34× Beşiktaş İstanbul
+        34× Bursaspor
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
+        34× Gençlerbirliği Ankara SK
+        34× Göztepe İzmir
+        34× Kardemir Karabükspor
+        34× Kasımpaşa İstanbul
+        34× Kayserispor
+        34× Konyaspor
+        34× Osmanlıspor Ankara
+        34× Sivasspor
+        34× Trabzonspor
+        34× Yeni Malatyaspor
+        34× İstanbul Başakşehir
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[46/171] >europe/turkey/2020-21/1-superlig.txt< - 1 section(s):
     515 lines, 420 matches - Süper Lig (tr.1) 2020/21
       21 teams (referenced):
         40× Alanyaspor
@@ -2284,7 +2718,145 @@
         Round 40, 10 matches
         Round 41, 10 matches
         Round 42, 10 matches
-[41/123] >europe/greece/2018-19/1-superleague.txt< - 1 section(s):
+[47/171] >europe/turkey/2014-15/1-superlig.txt< - 1 section(s):
+    458 lines, 306 matches - Süper Lig (tr.1) 2014/15
+      18 teams (referenced):
+        34× Akhisarspor
+        34× Balıkesirspor
+        34× Beşiktaş İstanbul
+        34× Bursaspor
+        34× Eskişehirspor
+        34× Fenerbahçe İstanbul
+        34× Galatasaray İstanbul
+        34× Gaziantepspor
+        34× Gençlerbirliği Ankara SK
+        34× Kardemir Karabükspor
+        34× Kasımpaşa İstanbul
+        34× Kayseri Erciyesspor
+        34× Konyaspor
+        34× Mersin İdmanyurdu
+        34× Sivasspor
+        34× Trabzonspor
+        34× Çaykur Rizespor
+        34× İstanbul Başakşehir
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[48/171] >europe/greece/2019-20/1-superleague-i.txt< - 1 section(s):
+    267 lines, 182 matches - Super League (gr.1) 2019/20, stage: >Regular Season<
+      14 teams (referenced):
+        26× AE Larissa FC
+        26× AEK Athens FC
+        26× Aris Thessaloniki FC
+        26× Asteras Tripolis FC
+        26× Atromitos FC
+        26× OFI Crete FC
+        26× Olympiacos Piraeus FC
+        26× PAOK FC
+        26× PAS Lamia 1964
+        26× Panathinaikos FC
+        26× Panetolikos GFS
+        26× Panionios GSS
+        26× Volos FC
+        26× Xanthi FC
+      26 rounds (referenced):
+        Round 1, 7 matches
+        Round 2, 7 matches
+        Round 3, 7 matches
+        Round 4, 7 matches
+        Round 5, 7 matches
+        Round 6, 7 matches
+        Round 7, 7 matches
+        Round 8, 7 matches
+        Round 9, 7 matches
+        Round 10, 7 matches
+        Round 11, 7 matches
+        Round 12, 7 matches
+        Round 13, 7 matches
+        Round 14, 7 matches
+        Round 15, 7 matches
+        Round 16, 7 matches
+        Round 17, 7 matches
+        Round 18, 7 matches
+        Round 19, 7 matches
+        Round 20, 7 matches
+        Round 21, 7 matches
+        Round 22, 7 matches
+        Round 23, 7 matches
+        Round 24, 7 matches
+        Round 25, 7 matches
+        Round 26, 7 matches
+[49/171] >europe/greece/2019-20/1-superleague-ii.txt< - 2 section(s):
+    56 lines, 30 matches - Super League (gr.1) 2019/20, stage: >Playoffs - Championship<
+      6 teams (referenced):
+        10× AEK Athens FC
+        10× Aris Thessaloniki FC
+        10× OFI Crete FC
+        10× Olympiacos Piraeus FC
+        10× PAOK FC
+        10× Panathinaikos FC
+      10 rounds (referenced):
+        Round 1, 3 matches
+        Round 2, 3 matches
+        Round 3, 3 matches
+        Round 4, 3 matches
+        Round 5, 3 matches
+        Round 6, 3 matches
+        Round 7, 3 matches
+        Round 8, 3 matches
+        Round 9, 3 matches
+        Round 10, 3 matches
+    51 lines, 28 matches - Super League (gr.1) 2019/20, stage: >Playoffs - Relegation<
+      8 teams (referenced):
+        7× AE Larissa FC
+        7× Asteras Tripolis FC
+        7× Atromitos FC
+        7× PAS Lamia 1964
+        7× Panetolikos GFS
+        7× Panionios GSS
+        7× Volos FC
+        7× Xanthi FC
+      7 rounds (referenced):
+        Round 1 ×2, 4 matches
+        Round 2, 4 matches
+        Round 3, 4 matches
+        Round 4, 4 matches
+        Round 5, 4 matches
+        Round 6, 4 matches
+        Round 7, 4 matches
+[50/171] >europe/greece/2018-19/1-superleague.txt< - 1 section(s):
     352 lines, 240 matches - Super League (gr.1) 2018/19
       16 teams (referenced):
         30× AE Larissa FC
@@ -2304,58 +2876,597 @@
         30× Panionios GSS
         30× Xanthi FC
       30 rounds (referenced):
-        Matchday 1, 8 matches
-        Matchday 2, 8 matches
-        Matchday 3, 8 matches
-        Matchday 4, 8 matches
-        Matchday 5, 8 matches
-        Matchday 6, 8 matches
-        Matchday 7, 8 matches
-        Matchday 8, 8 matches
-        Matchday 9, 8 matches
-        Matchday 10, 8 matches
-        Matchday 11, 8 matches
-        Matchday 12, 8 matches
-        Matchday 13, 8 matches
-        Matchday 14, 8 matches
-        Matchday 16, 8 matches
-        Matchday 17, 8 matches
-        Matchday 18, 8 matches
-        Matchday 15, 8 matches
-        Matchday 19, 8 matches
-        Matchday 20, 8 matches
-        Matchday 21, 8 matches
-        Matchday 22, 8 matches
-        Matchday 23, 8 matches
-        Matchday 24, 8 matches
-        Matchday 25, 8 matches
-        Matchday 26, 8 matches
-        Matchday 27, 8 matches
-        Matchday 28, 8 matches
-        Matchday 29, 8 matches
-        Matchday 30, 8 matches
-[42/123] >europe/greece/2020-21/1-superleague.txt< - 1 section(s):
-    36 lines, 21 matches - Super League (gr.1) 2020/21
+        Round 1, 8 matches
+        Round 2, 8 matches
+        Round 3, 8 matches
+        Round 4, 8 matches
+        Round 5, 8 matches
+        Round 6, 8 matches
+        Round 7, 8 matches
+        Round 8, 8 matches
+        Round 9, 8 matches
+        Round 10, 8 matches
+        Round 11, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+        Round 16, 8 matches
+        Round 17, 8 matches
+        Round 18, 8 matches
+        Round 15, 8 matches
+        Round 19, 8 matches
+        Round 20, 8 matches
+        Round 21, 8 matches
+        Round 22, 8 matches
+        Round 23, 8 matches
+        Round 24, 8 matches
+        Round 25, 8 matches
+        Round 26, 8 matches
+        Round 27, 8 matches
+        Round 28, 8 matches
+        Round 29, 8 matches
+        Round 30, 8 matches
+[51/171] >europe/greece/2011-12/1-superleague-i.txt< - 1 section(s):
+    355 lines, 240 matches - Super League (gr.1) 2011/12, stage: >Regular Season<
+      16 teams (referenced):
+        30× AEK Athens FC
+        30× Aris Thessaloniki FC
+        30× Asteras Tripolis FC
+        30× Atromitos FC
+        30× Doxa Dramas FC
+        30× Ergotelis FC
+        30× Kerkyra FC
+        30× Levadiakos FC
+        30× OFI Crete FC
+        30× Olympiacos Piraeus FC
+        30× PAOK FC
+        30× PAS Giannina FC
+        30× Panathinaikos FC
+        30× Panetolikos GFS
+        30× Panionios GSS
+        30× Xanthi FC
+      30 rounds (referenced):
+        Round 1 ×4, 8 matches
+        Round 2 ×4, 8 matches
+        Round 3 ×2, 8 matches
+        Round 4 ×2, 8 matches
+        Round 5 ×2, 8 matches
+        Round 6 ×2, 8 matches
+        Round 7 ×2, 8 matches
+        Round 8 ×2, 8 matches
+        Round 9 ×2, 8 matches
+        Round 10, 8 matches
+        Round 11, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+        Round 15, 8 matches
+        Round 16, 8 matches
+        Round 17, 8 matches
+        Round 18, 8 matches
+        Round 19, 8 matches
+        Round 20, 8 matches
+        Round 21, 8 matches
+        Round 22, 8 matches
+        Round 23, 8 matches
+        Round 24, 8 matches
+        Round 25, 8 matches
+        Round 26, 8 matches
+        Round 27, 8 matches
+        Round 28, 8 matches
+        Round 29, 8 matches
+        Round 30, 8 matches
+[52/171] >europe/greece/2011-12/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2011/12, stage: >Playoffs<
+      4 teams (referenced):
+        6× AEK Athens FC
+        6× Atromitos FC
+        6× PAOK FC
+        6× Panathinaikos FC
+      6 rounds (referenced):
+        Round 1, 2 matches
+        Round 2, 2 matches
+        Round 3, 2 matches
+        Round 4, 2 matches
+        Round 5, 2 matches
+        Round 6, 2 matches
+[53/171] >europe/greece/2010-11/1-superleague-i.txt< - 1 section(s):
+    331 lines, 240 matches - Super League (gr.1) 2010/11, stage: >Regular Season<
+      16 teams (referenced):
+        30× AE Larissa FC
+        30× AEK Athens FC
+        30× Aris Thessaloniki FC
+        30× Asteras Tripolis FC
+        30× Atromitos FC
+        30× Ergotelis FC
+        30× Iraklis 1908 Thessaloniki FC
+        30× Kavala FC
+        30× Kerkyra FC
+        30× Olympiacos Piraeus FC
+        30× Olympiacos Volou 1937 FC
+        30× PAOK FC
+        30× Panathinaikos FC
+        30× Panionios GSS
+        30× Panserraikos FC
+        30× Xanthi FC
+      30 rounds (referenced):
+        Round 1, 8 matches
+        Round 2, 8 matches
+        Round 3, 8 matches
+        Round 4, 8 matches
+        Round 5, 8 matches
+        Round 6, 8 matches
+        Round 7, 8 matches
+        Round 8, 8 matches
+        Round 9, 8 matches
+        Round 10 ×2, 8 matches
+        Round 11, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+        Round 15, 8 matches
+        Round 16, 8 matches
+        Round 17, 8 matches
+        Round 18, 8 matches
+        Round 19, 8 matches
+        Round 20, 8 matches
+        Round 21, 8 matches
+        Round 22, 8 matches
+        Round 23 ×2, 8 matches
+        Round 24, 8 matches
+        Round 25, 8 matches
+        Round 26, 8 matches
+        Round 27, 8 matches
+        Round 28, 8 matches
+        Round 29, 8 matches
+        Round 30, 8 matches
+[54/171] >europe/greece/2010-11/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2010/11, stage: >Playoffs<
+      4 teams (referenced):
+        6× AEK Athens FC
+        6× Olympiacos Volou 1937 FC
+        6× PAOK FC
+        6× Panathinaikos FC
+      6 rounds (referenced):
+        Round 1, 2 matches
+        Round 2, 2 matches
+        Round 3, 2 matches
+        Round 4, 2 matches
+        Round 5, 2 matches
+        Round 6, 2 matches
+[55/171] >europe/greece/2016-17/1-superleague-i.txt< - 1 section(s):
+    355 lines, 240 matches - Super League (gr.1) 2016/17, stage: >Regular Season<
+      16 teams (referenced):
+        30× AE Larissa FC
+        30× AEK Athens FC
+        30× Asteras Tripolis FC
+        30× Atromitos FC
+        30× Iraklis 1908 Thessaloniki FC
+        30× Kerkyra FC
+        30× Levadiakos FC
+        30× Olympiacos Piraeus FC
+        30× PAOK FC
+        30× PAS Giannina FC
+        30× Panathinaikos FC
+        30× Panetolikos GFS
+        30× Panionios GSS
+        30× Platanias FC
+        30× Veria FC
+        30× Xanthi FC
+      30 rounds (referenced):
+        Round 3, 8 matches
+        Round 4, 8 matches
+        Round 5, 8 matches
+        Round 6, 8 matches
+        Round 7 ×2, 8 matches
+        Round 8, 8 matches
+        Round 9, 8 matches
+        Round 10, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+        Round 15, 8 matches
+        Round 1, 8 matches
+        Round 2 ×2, 8 matches
+        Round 11 ×2, 8 matches
+        Round 16, 8 matches
+        Round 17, 8 matches
+        Round 18, 8 matches
+        Round 19, 8 matches
+        Round 20, 8 matches
+        Round 21, 8 matches
+        Round 22, 8 matches
+        Round 23, 8 matches
+        Round 24, 8 matches
+        Round 25, 8 matches
+        Round 26, 8 matches
+        Round 27, 8 matches
+        Round 28, 8 matches
+        Round 29, 8 matches
+        Round 30, 8 matches
+[56/171] >europe/greece/2016-17/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2016/17, stage: >Playoffs<
+      4 teams (referenced):
+        6× AEK Athens FC
+        6× PAOK FC
+        6× Panathinaikos FC
+        6× Panionios GSS
+      6 rounds (referenced):
+        Round 1, 2 matches
+        Round 2, 2 matches
+        Round 3, 2 matches
+        Round 4, 2 matches
+        Round 5, 2 matches
+        Round 6, 2 matches
+[57/171] >europe/greece/2012-13/1-superleague-i.txt< - 1 section(s):
+    356 lines, 240 matches - Super League (gr.1) 2012/13, stage: >Regular Season<
+      16 teams (referenced):
+        30× AEK Athens FC
+        30× Aris Thessaloniki FC
+        30× Asteras Tripolis FC
+        30× Atromitos FC
+        30× Kerkyra FC
+        30× Levadiakos FC
+        30× OFI Crete FC
+        30× Olympiacos Piraeus FC
+        30× PAOK FC
+        30× PAS Giannina FC
+        30× Panathinaikos FC
+        30× Panionios GSS
+        30× Panthrakikos FC
+        30× Platanias FC
+        30× Veria FC
+        30× Xanthi FC
+      30 rounds (referenced):
+        Round 1, 8 matches
+        Round 2, 8 matches
+        Round 3, 8 matches
+        Round 4, 8 matches
+        Round 5, 8 matches
+        Round 6, 8 matches
+        Round 7, 8 matches
+        Round 8, 8 matches
+        Round 9, 8 matches
+        Round 10, 8 matches
+        Round 11, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+        Round 15, 8 matches
+        Round 16, 8 matches
+        Round 17, 8 matches
+        Round 18, 8 matches
+        Round 19, 8 matches
+        Round 20, 8 matches
+        Round 21, 8 matches
+        Round 22, 8 matches
+        Round 23, 8 matches
+        Round 24, 8 matches
+        Round 25, 8 matches
+        Round 26, 8 matches
+        Round 27, 8 matches
+        Round 28, 8 matches
+        Round 29, 8 matches
+        Round 30, 8 matches
+[58/171] >europe/greece/2012-13/1-superleague-ii.txt< - 2 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2012/13, stage: >Playoffs<
+      4 teams (referenced):
+        6× Asteras Tripolis FC
+        6× Atromitos FC
+        6× PAOK FC
+        6× PAS Giannina FC
+      6 rounds (referenced):
+        Round 1, 2 matches
+        Round 2, 2 matches
+        Round 3, 2 matches
+        Round 4, 2 matches
+        Round 5, 2 matches
+        Round 6, 2 matches
+    3 lines, 1 matches - Super League (gr.1) 2012/13, stage: >Match 6th Place<
+      2 teams (referenced):
+        Panathinaikos FC
+        Xanthi FC
+      1 rounds (referenced):
+        Final, 1 matches
+[59/171] >europe/greece/2015-16/1-superleague-i.txt< - 1 section(s):
+    357 lines, 240 matches - Super League (gr.1) 2015/16, stage: >Regular Season<
+      16 teams (referenced):
+        30× AEK Athens FC
+        30× AEL Kalloni FC
+        30× Asteras Tripolis FC
+        30× Atromitos FC
+        30× Iraklis 1908 Thessaloniki FC
+        30× Levadiakos FC
+        30× Olympiacos Piraeus FC
+        30× PAOK FC
+        30× PAS Giannina FC
+        30× Panathinaikos FC
+        30× Panetolikos GFS
+        30× Panionios GSS
+        30× Panthrakikos FC
+        30× Platanias FC
+        30× Veria FC
+        30× Xanthi FC
+      30 rounds (referenced):
+        Round 1, 8 matches
+        Round 2, 8 matches
+        Round 3, 8 matches
+        Round 4, 8 matches
+        Round 5, 8 matches
+        Round 6, 8 matches
+        Round 7, 8 matches
+        Round 8, 8 matches
+        Round 9, 8 matches
+        Round 10, 8 matches
+        Round 11, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+        Round 15, 8 matches
+        Round 16 ×3, 8 matches
+        Round 17, 8 matches
+        Round 18, 8 matches
+        Round 19, 8 matches
+        Round 20, 8 matches
+        Round 21, 8 matches
+        Round 22, 8 matches
+        Round 23, 8 matches
+        Round 24, 8 matches
+        Round 25 ×2, 8 matches
+        Round 26, 8 matches
+        Round 27, 8 matches
+        Round 28, 8 matches
+        Round 29, 8 matches
+        Round 30, 8 matches
+[60/171] >europe/greece/2015-16/1-superleague-ii.txt< - 1 section(s):
+    25 lines, 12 matches - Super League (gr.1) 2015/16, stage: >Playoffs<
+      4 teams (referenced):
+        6× AEK Athens FC
+        6× PAOK FC
+        6× Panathinaikos FC
+        6× Panionios GSS
+      6 rounds (referenced):
+        Round 1, 2 matches
+        Round 2, 2 matches
+        Round 3, 2 matches
+        Round 4, 2 matches
+        Round 5, 2 matches
+        Round 6, 2 matches
+[61/171] >europe/greece/2013-14/1-superleague-i.txt< - 1 section(s):
+    432 lines, 306 matches - Super League (gr.1) 2013/14, stage: >Regular Season<
+      18 teams (referenced):
+        34× AEL Kalloni FC
+        34× Apollon Smyrnis FC
+        34× Aris Thessaloniki FC
+        34× Asteras Tripolis FC
+        34× Atromitos FC
+        34× Ergotelis FC
+        34× Levadiakos FC
+        34× OFI Crete FC
+        34× Olympiacos Piraeus FC
+        34× PAOK FC
+        34× PAS Giannina FC
+        34× Panathinaikos FC
+        34× Panetolikos GFS
+        34× Panionios GSS
+        34× Panthrakikos FC
+        34× Platanias FC
+        34× Veria FC
+        34× Xanthi FC
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[62/171] >europe/greece/2013-14/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2013/14, stage: >Playoffs<
+      4 teams (referenced):
+        6× Asteras Tripolis FC
+        6× Atromitos FC
+        6× PAOK FC
+        6× Panathinaikos FC
+      6 rounds (referenced):
+        Round 1, 2 matches
+        Round 2, 2 matches
+        Round 3, 2 matches
+        Round 4, 2 matches
+        Round 5, 2 matches
+        Round 6, 2 matches
+[63/171] >europe/greece/2017-18/1-superleague.txt< - 1 section(s):
+    355 lines, 240 matches - Super League (gr.1) 2017/18
+      16 teams (referenced):
+        30× AE Larissa FC
+        30× AEK Athens FC
+        30× Apollon Smyrnis FC
+        30× Asteras Tripolis FC
+        30× Atromitos FC
+        30× Kerkyra FC
+        30× Levadiakos FC
+        30× Olympiacos Piraeus FC
+        30× PAOK FC
+        30× PAS Giannina FC
+        30× PAS Lamia 1964
+        30× Panathinaikos FC
+        30× Panetolikos GFS
+        30× Panionios GSS
+        30× Platanias FC
+        30× Xanthi FC
+      30 rounds (referenced):
+        Round 1, 8 matches
+        Round 2, 8 matches
+        Round 3, 8 matches
+        Round 4, 8 matches
+        Round 5, 8 matches
+        Round 6, 8 matches
+        Round 7, 8 matches
+        Round 8, 8 matches
+        Round 9, 8 matches
+        Round 10, 8 matches
+        Round 11, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+        Round 15, 8 matches
+        Round 16, 8 matches
+        Round 17, 8 matches
+        Round 18, 8 matches
+        Round 19, 8 matches
+        Round 20, 8 matches
+        Round 21, 8 matches
+        Round 22, 8 matches
+        Round 23, 8 matches
+        Round 24, 8 matches
+        Round 25 ×2, 8 matches
+        Round 26, 8 matches
+        Round 27, 8 matches
+        Round 28, 8 matches
+        Round 29, 8 matches
+        Round 30, 8 matches
+[64/171] >europe/greece/2020-21/1-superleague-i.txt< - 1 section(s):
+    260 lines, 182 matches - Super League (gr.1) 2020/21, stage: >Regular Season<
       14 teams (referenced):
-        3× AE Larissa FC
-        3× AEK Athens FC
-        3× Apollon Smyrnis FC
-        3× Aris Thessaloniki FC
-        3× Asteras Tripolis FC
-        3× Atromitos FC
-        3× OFI Crete FC
-        3× Olympiacos Piraeus FC
-        3× PAOK FC
-        3× PAS Giannina FC
-        3× PAS Lamia 1964
-        3× Panathinaikos FC
-        3× Panetolikos GFS
-        3× Volos FC
-      3 rounds (referenced):
+        26× AE Larissa FC
+        26× AEK Athens FC
+        26× Apollon Smyrnis FC
+        26× Aris Thessaloniki FC
+        26× Asteras Tripolis FC
+        26× Atromitos FC
+        26× OFI Crete FC
+        26× Olympiacos Piraeus FC
+        26× PAOK FC
+        26× PAS Giannina FC
+        26× PAS Lamia 1964
+        26× Panathinaikos FC
+        26× Panetolikos GFS
+        26× Volos FC
+      26 rounds (referenced):
         Round 1 ×2, 7 matches
         Round 2, 7 matches
         Round 3, 7 matches
-[43/123] >europe/slovakia/2019-20/1-superliga-ii.txt< - 3 section(s):
+        Round 4 ×2, 7 matches
+        Round 20 ×3, 7 matches
+        Round 26 ×4, 7 matches
+        Round 5, 7 matches
+        Round 6, 7 matches
+        Round 7, 7 matches
+        Round 8, 7 matches
+        Round 9, 7 matches
+        Round 10, 7 matches
+        Round 11, 7 matches
+        Round 12, 7 matches
+        Round 13, 7 matches
+        Round 14, 7 matches
+        Round 15, 7 matches
+        Round 16, 7 matches
+        Round 17, 7 matches
+        Round 18, 7 matches
+        Round 19, 7 matches
+        Round 21 ×3, 7 matches
+        Round 22, 7 matches
+        Round 23, 7 matches
+        Round 24, 7 matches
+        Round 25, 7 matches
+[65/171] >europe/greece/2014-15/1-superleague-i.txt< - 1 section(s):
+    439 lines, 306 matches - Super League (gr.1) 2014/15, stage: >Regular Season<
+      18 teams (referenced):
+        34× AEL Kalloni FC
+        34× Asteras Tripolis FC
+        34× Atromitos FC
+        34× Ergotelis FC
+        34× Kerkyra FC
+        34× Levadiakos FC
+        34× Niki Volou FC
+        34× OFI Crete FC
+        34× Olympiacos Piraeus FC
+        34× PAOK FC
+        34× PAS Giannina FC
+        34× Panathinaikos FC
+        34× Panetolikos GFS
+        34× Panionios GSS
+        34× Panthrakikos FC
+        34× Platanias FC
+        34× Veria FC
+        34× Xanthi FC
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 12, 9 matches
+        Round 6, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 11, 9 matches
+        Round 18 ×2, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26 ×2, 9 matches
+        Round 27 ×2, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31 ×3, 9 matches
+        Round 32 ×2, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[66/171] >europe/greece/2014-15/1-superleague-ii.txt< - 1 section(s):
+    24 lines, 12 matches - Super League (gr.1) 2014/15, stage: >Playoffs<
+      4 teams (referenced):
+        6× Asteras Tripolis FC
+        6× Atromitos FC
+        6× PAOK FC
+        6× Panathinaikos FC
+      6 rounds (referenced):
+        Round 1, 2 matches
+        Round 2, 2 matches
+        Round 3, 2 matches
+        Round 4, 2 matches
+        Round 5, 2 matches
+        Round 6, 2 matches
+[67/171] >europe/slovakia/2019-20/1-superliga-ii.txt< - 3 section(s):
     29 lines, 15 matches - First League (sk.1) 2019/20, stage: >Playoffs - Championship<
       6 teams (referenced):
         5× FC DAC 1904 Dunajská Streda
@@ -2393,7 +3504,7 @@
       2 rounds (referenced):
         Semifinals, 2 matches
         Final, 1 matches
-[44/123] >europe/slovakia/2019-20/1-superliga-i.txt< - 1 section(s):
+[68/171] >europe/slovakia/2019-20/1-superliga-i.txt< - 1 section(s):
     198 lines, 132 matches - First League (sk.1) 2019/20, stage: >Regular Season<
       12 teams (referenced):
         22× AS Trenčín
@@ -2431,7 +3542,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[45/123] >europe/slovakia/2018-19/1-superliga-ii.txt< - 2 section(s):
+[69/171] >europe/slovakia/2018-19/1-superliga-ii.txt< - 2 section(s):
     57 lines, 30 matches - First League (sk.1) 2018/19, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× FC DAC 1904 Dunajská Streda
@@ -2470,7 +3581,7 @@
         Round 8, 3 matches
         Round 9, 3 matches
         Round 10, 3 matches
-[46/123] >europe/slovakia/2018-19/1-superliga-i.txt< - 1 section(s):
+[70/171] >europe/slovakia/2018-19/1-superliga-i.txt< - 1 section(s):
     193 lines, 132 matches - First League (sk.1) 2018/19, stage: >Regular Season<
       12 teams (referenced):
         22× AS Trenčín
@@ -2508,7 +3619,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[47/123] >europe/slovakia/2020-21/1-superliga-i.txt< - 1 section(s):
+[71/171] >europe/slovakia/2020-21/1-superliga-i.txt< - 1 section(s):
     179 lines, 132 matches - First League (sk.1) 2020/21, stage: >Regular Season<
       12 teams (referenced):
         22× AS Trenčín
@@ -2546,7 +3657,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[48/123] >europe/romania/2019-20/1-liga1-ii.txt< - 2 section(s):
+[72/171] >europe/romania/2019-20/1-liga1-ii.txt< - 2 section(s):
     71 lines, 30 matches - Liga 1 (ro.1) 2019/20, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× Astra Giurgiu
@@ -2591,7 +3702,7 @@
         Round 12 ×2, 4 matches
         Round 13, 4 matches
         Round 14, 4 matches
-[49/123] >europe/romania/2019-20/1-liga1-i.txt< - 1 section(s):
+[73/171] >europe/romania/2019-20/1-liga1-i.txt< - 1 section(s):
     312 lines, 182 matches - Liga 1 (ro.1) 2019/20, stage: >Regular Season<
       14 teams (referenced):
         26× Astra Giurgiu
@@ -2635,7 +3746,7 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[50/123] >europe/romania/2018-19/1-liga1-ii.txt< - 2 section(s):
+[74/171] >europe/romania/2018-19/1-liga1-ii.txt< - 2 section(s):
     68 lines, 30 matches - Liga 1 (ro.1) 2018/19, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× Astra Giurgiu
@@ -2680,7 +3791,7 @@
         Round 12, 4 matches
         Round 13, 4 matches
         Round 14, 4 matches
-[51/123] >europe/romania/2018-19/1-liga1-i.txt< - 1 section(s):
+[75/171] >europe/romania/2018-19/1-liga1-i.txt< - 1 section(s):
     310 lines, 182 matches - Liga 1 (ro.1) 2018/19, stage: >Regular Season<
       14 teams (referenced):
         26× Astra Giurgiu
@@ -2724,7 +3835,7 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[52/123] >europe/romania/2011-12/1-liga1.txt< - 1 section(s):
+[76/171] >europe/romania/2011-12/1-liga1.txt< - 1 section(s):
     477 lines, 306 matches - Liga 1 (ro.1) 2011/12
       18 teams (referenced):
         34× ASA Târgu Mureș ⇒ ASA Târgu Mureș (2008-2018)
@@ -2780,7 +3891,7 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34 ×2, 9 matches
-[53/123] >europe/romania/2010-11/1-liga1.txt< - 1 section(s):
+[77/171] >europe/romania/2010-11/1-liga1.txt< - 1 section(s):
     465 lines, 306 matches - Liga 1 (ro.1) 2010/11
       18 teams (referenced):
         34× ASA Târgu Mureș ⇒ ASA Târgu Mureș (2008-2018)
@@ -2836,7 +3947,7 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[54/123] >europe/romania/2016-17/1-liga1-ii.txt< - 2 section(s):
+[78/171] >europe/romania/2016-17/1-liga1-ii.txt< - 2 section(s):
     65 lines, 30 matches - Liga 1 (ro.1) 2016/17, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× Astra Giurgiu
@@ -2881,7 +3992,7 @@
         Round 12, 4 matches
         Round 13, 4 matches
         Round 14, 4 matches
-[55/123] >europe/romania/2016-17/1-liga1-i.txt< - 1 section(s):
+[79/171] >europe/romania/2016-17/1-liga1-i.txt< - 1 section(s):
     314 lines, 182 matches - Liga 1 (ro.1) 2016/17, stage: >Regular Season<
       14 teams (referenced):
         26× ASA Târgu Mureș ⇒ ASA Târgu Mureș (2008-2018)
@@ -2925,7 +4036,7 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[56/123] >europe/romania/2012-13/1-liga1.txt< - 1 section(s):
+[80/171] >europe/romania/2012-13/1-liga1.txt< - 1 section(s):
     475 lines, 306 matches - Liga 1 (ro.1) 2012/13
       18 teams (referenced):
         34× Astra Giurgiu
@@ -2981,7 +4092,7 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[57/123] >europe/romania/2015-16/1-liga1-ii.txt< - 2 section(s):
+[81/171] >europe/romania/2015-16/1-liga1-ii.txt< - 2 section(s):
     69 lines, 30 matches - Liga 1 (ro.1) 2015/16, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× ASA Târgu Mureș ⇒ ASA Târgu Mureș (2008-2018)
@@ -3026,7 +4137,7 @@
         Round 12, 4 matches
         Round 13, 4 matches
         Round 14, 4 matches
-[58/123] >europe/romania/2015-16/1-liga1-i.txt< - 1 section(s):
+[82/171] >europe/romania/2015-16/1-liga1-i.txt< - 1 section(s):
     308 lines, 182 matches - Liga 1 (ro.1) 2015/16, stage: >Regular Season<
       14 teams (referenced):
         26× ASA Târgu Mureș ⇒ ASA Târgu Mureș (2008-2018)
@@ -3070,7 +4181,7 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[59/123] >europe/romania/2013-14/1-liga1.txt< - 1 section(s):
+[83/171] >europe/romania/2013-14/1-liga1.txt< - 1 section(s):
     480 lines, 306 matches - Liga 1 (ro.1) 2013/14
       18 teams (referenced):
         34× Astra Giurgiu
@@ -3126,7 +4237,7 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[60/123] >europe/romania/2017-18/1-liga1-ii.txt< - 2 section(s):
+[84/171] >europe/romania/2017-18/1-liga1-ii.txt< - 2 section(s):
     68 lines, 30 matches - Liga 1 (ro.1) 2017/18, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× Astra Giurgiu
@@ -3171,7 +4282,7 @@
         Round 12, 4 matches
         Round 13, 4 matches
         Round 14, 4 matches
-[61/123] >europe/romania/2017-18/1-liga1-i.txt< - 1 section(s):
+[85/171] >europe/romania/2017-18/1-liga1-i.txt< - 1 section(s):
     312 lines, 182 matches - Liga 1 (ro.1) 2017/18, stage: >Regular Season<
       14 teams (referenced):
         26× Astra Giurgiu
@@ -3215,8 +4326,8 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[62/123] >europe/romania/2020-21/1-liga1-i.txt< - 1 section(s):
-    315 lines, 240 matches - Liga 1 (ro.1) 2020/21, stage: >Regular Season<
+[86/171] >europe/romania/2020-21/1-liga1-i.txt< - 1 section(s):
+    318 lines, 240 matches - Liga 1 (ro.1) 2020/21, stage: >Regular Season<
       16 teams (referenced):
         30× Astra Giurgiu
         30× CFR Cluj
@@ -3265,7 +4376,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[63/123] >europe/romania/2014-15/1-liga1.txt< - 1 section(s):
+[87/171] >europe/romania/2014-15/1-liga1.txt< - 1 section(s):
     472 lines, 306 matches - Liga 1 (ro.1) 2014/15
       18 teams (referenced):
         34× ASA Târgu Mureș ⇒ ASA Târgu Mureș (2008-2018)
@@ -3321,7 +4432,7 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[64/123] >europe/netherlands/2019-20/1-eredivisie.txt< - 1 section(s):
+[88/171] >europe/netherlands/2019-20/1-eredivisie.txt< - 1 section(s):
     438 lines, 306 matches - Eredivisie (nl.1) 2019/20
       18 teams (referenced):
         34× ADO Den Haag
@@ -3343,41 +4454,41 @@
         34× Vitesse Arnhem
         34× Willem II Tilburg
       34 rounds (referenced):
-        Matchday 1, 9 matches
-        Matchday 2, 9 matches
-        Matchday 3, 9 matches
-        Matchday 4 ×2, 9 matches
-        Matchday 5, 9 matches
-        Matchday 6, 9 matches
-        Matchday 7, 9 matches
-        Matchday 8, 9 matches
-        Matchday 9, 9 matches
-        Matchday 10, 9 matches
-        Matchday 11, 9 matches
-        Matchday 12, 9 matches
-        Matchday 13, 9 matches
-        Matchday 14, 9 matches
-        Matchday 15, 9 matches
-        Matchday 16, 9 matches
-        Matchday 17, 9 matches
-        Matchday 18, 9 matches
-        Matchday 19, 9 matches
-        Matchday 20, 9 matches
-        Matchday 21, 9 matches
-        Matchday 22 ×2, 9 matches
-        Matchday 23, 9 matches
-        Matchday 24, 9 matches
-        Matchday 25, 9 matches
-        Matchday 26, 9 matches
-        Matchday 27, 9 matches
-        Matchday 28, 9 matches
-        Matchday 29, 9 matches
-        Matchday 30, 9 matches
-        Matchday 31, 9 matches
-        Matchday 32, 9 matches
-        Matchday 33, 9 matches
-        Matchday 34, 9 matches
-[65/123] >europe/netherlands/2018-19/1-eredivisie.txt< - 1 section(s):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4 ×2, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22 ×2, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[89/171] >europe/netherlands/2018-19/1-eredivisie.txt< - 1 section(s):
     437 lines, 306 matches - Eredivisie (nl.1) 2018/19
       18 teams (referenced):
         34× ADO Den Haag
@@ -3399,41 +4510,433 @@
         34× Vitesse Arnhem
         34× Willem II Tilburg
       34 rounds (referenced):
-        Matchday 1, 9 matches
-        Matchday 2, 9 matches
-        Matchday 3, 9 matches
-        Matchday 4, 9 matches
-        Matchday 5, 9 matches
-        Matchday 6, 9 matches
-        Matchday 7, 9 matches
-        Matchday 8, 9 matches
-        Matchday 9, 9 matches
-        Matchday 10, 9 matches
-        Matchday 11 ×2, 9 matches
-        Matchday 12, 9 matches
-        Matchday 13, 9 matches
-        Matchday 14, 9 matches
-        Matchday 15, 9 matches
-        Matchday 16, 9 matches
-        Matchday 17, 9 matches
-        Matchday 18, 9 matches
-        Matchday 19, 9 matches
-        Matchday 20, 9 matches
-        Matchday 21, 9 matches
-        Matchday 22, 9 matches
-        Matchday 23, 9 matches
-        Matchday 24 ×2, 9 matches
-        Matchday 25, 9 matches
-        Matchday 26, 9 matches
-        Matchday 27, 9 matches
-        Matchday 28, 9 matches
-        Matchday 29, 9 matches
-        Matchday 30, 9 matches
-        Matchday 31, 9 matches
-        Matchday 32, 9 matches
-        Matchday 34, 9 matches
-        Matchday 33, 9 matches
-[66/123] >europe/netherlands/2020-21/1-eredivisie.txt< - 1 section(s):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11 ×2, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24 ×2, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 34, 9 matches
+        Round 33, 9 matches
+[90/171] >europe/netherlands/2011-12/1-eredivisie.txt< - 1 section(s):
+    437 lines, 306 matches - Eredivisie (nl.1) 2011/12
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× BV De Graafschap
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Heracles Almelo
+        34× NAC Breda
+        34× NEC Nijmegen
+        34× PSV Eindhoven
+        34× RKC Waalwijk
+        34× Roda JC Kerkrade
+        34× SBV Excelsior Rotterdam
+        34× SC Heerenveen
+        34× VVV Venlo
+        34× Vitesse Arnhem
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13 ×2, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20 ×2, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[91/171] >europe/netherlands/2010-11/1-eredivisie.txt< - 1 section(s):
+    434 lines, 306 matches - Eredivisie (nl.1) 2010/11
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× BV De Graafschap
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Heracles Almelo
+        34× NAC Breda
+        34× NEC Nijmegen
+        34× PSV Eindhoven
+        34× Roda JC Kerkrade
+        34× SBV Excelsior Rotterdam
+        34× SC Heerenveen
+        34× VVV Venlo
+        34× Vitesse Arnhem
+        34× Willem II Tilburg
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14 ×2, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17 ×2, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[92/171] >europe/netherlands/2016-17/1-eredivisie.txt< - 1 section(s):
+    433 lines, 306 matches - Eredivisie (nl.1) 2016/17
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Go Ahead Eagles
+        34× Heracles Almelo
+        34× NEC Nijmegen
+        34× PEC Zwolle
+        34× PSV Eindhoven
+        34× Roda JC Kerkrade
+        34× SBV Excelsior Rotterdam
+        34× SC Heerenveen
+        34× Sparta Rotterdam
+        34× Vitesse Arnhem
+        34× Willem II Tilburg
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[93/171] >europe/netherlands/2012-13/1-eredivisie.txt< - 1 section(s):
+    431 lines, 306 matches - Eredivisie (nl.1) 2012/13
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Heracles Almelo
+        34× NAC Breda
+        34× NEC Nijmegen
+        34× PEC Zwolle
+        34× PSV Eindhoven
+        34× RKC Waalwijk
+        34× Roda JC Kerkrade
+        34× SC Heerenveen
+        34× VVV Venlo
+        34× Vitesse Arnhem
+        34× Willem II Tilburg
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[94/171] >europe/netherlands/2015-16/1-eredivisie.txt< - 1 section(s):
+    434 lines, 306 matches - Eredivisie (nl.1) 2015/16
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× BV De Graafschap
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Heracles Almelo
+        34× NEC Nijmegen
+        34× PEC Zwolle
+        34× PSV Eindhoven
+        34× Roda JC Kerkrade
+        34× SBV Excelsior Rotterdam
+        34× SC Cambuur
+        34× SC Heerenveen
+        34× Vitesse Arnhem
+        34× Willem II Tilburg
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[95/171] >europe/netherlands/2013-14/1-eredivisie.txt< - 1 section(s):
+    441 lines, 306 matches - Eredivisie (nl.1) 2013/14
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Go Ahead Eagles
+        34× Heracles Almelo
+        34× NAC Breda
+        34× NEC Nijmegen
+        34× PEC Zwolle
+        34× PSV Eindhoven
+        34× RKC Waalwijk
+        34× Roda JC Kerkrade
+        34× SC Cambuur
+        34× SC Heerenveen
+        34× Vitesse Arnhem
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6 ×2, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9 ×2, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12 ×2, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20 ×2, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29 ×2, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[96/171] >europe/netherlands/2017-18/1-eredivisie.txt< - 1 section(s):
+    435 lines, 306 matches - Eredivisie (nl.1) 2017/18
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Heracles Almelo
+        34× NAC Breda
+        34× PEC Zwolle
+        34× PSV Eindhoven
+        34× Roda JC Kerkrade
+        34× SBV Excelsior Rotterdam
+        34× SC Heerenveen
+        34× Sparta Rotterdam
+        34× VVV Venlo
+        34× Vitesse Arnhem
+        34× Willem II Tilburg
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14, 9 matches
+        Round 15 ×3, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[97/171] >europe/netherlands/2020-21/1-eredivisie.txt< - 1 section(s):
     409 lines, 306 matches - Eredivisie (nl.1) 2020/21
       18 teams (referenced):
         34× ADO Den Haag
@@ -3489,8 +4992,64 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[67/123] >europe/portugal/2019-20/1-primeiraliga.txt< - 1 section(s):
-    467 lines, 306 matches - Primeira Liga (pt.1) 2019/20
+[98/171] >europe/netherlands/2014-15/1-eredivisie.txt< - 1 section(s):
+    433 lines, 306 matches - Eredivisie (nl.1) 2014/15
+      18 teams (referenced):
+        34× ADO Den Haag
+        34× AZ Alkmaar
+        34× Ajax Amsterdam
+        34× FC Dordrecht
+        34× FC Groningen
+        34× FC Twente
+        34× FC Utrecht
+        34× Feyenoord Rotterdam
+        34× Go Ahead Eagles
+        34× Heracles Almelo
+        34× NAC Breda
+        34× PEC Zwolle
+        34× PSV Eindhoven
+        34× SBV Excelsior Rotterdam
+        34× SC Cambuur
+        34× SC Heerenveen
+        34× Vitesse Arnhem
+        34× Willem II Tilburg
+      34 rounds (referenced):
+        Round 1, 9 matches
+        Round 2, 9 matches
+        Round 3, 9 matches
+        Round 4, 9 matches
+        Round 5, 9 matches
+        Round 6, 9 matches
+        Round 7, 9 matches
+        Round 8, 9 matches
+        Round 9, 9 matches
+        Round 10, 9 matches
+        Round 11, 9 matches
+        Round 12, 9 matches
+        Round 13, 9 matches
+        Round 14 ×2, 9 matches
+        Round 15, 9 matches
+        Round 16, 9 matches
+        Round 17, 9 matches
+        Round 18, 9 matches
+        Round 19, 9 matches
+        Round 20, 9 matches
+        Round 21, 9 matches
+        Round 22, 9 matches
+        Round 23, 9 matches
+        Round 24, 9 matches
+        Round 25, 9 matches
+        Round 26, 9 matches
+        Round 27, 9 matches
+        Round 28, 9 matches
+        Round 29, 9 matches
+        Round 30, 9 matches
+        Round 31, 9 matches
+        Round 32, 9 matches
+        Round 33, 9 matches
+        Round 34, 9 matches
+[99/171] >europe/portugal/2019-20/1-primeiraliga.txt< - 1 section(s):
+    469 lines, 306 matches - Primeira Liga (pt.1) 2019/20
       18 teams (referenced):
         34× Boavista FC
         34× CD Aves
@@ -3545,7 +5104,7 @@
         Jornada 32, 9 matches
         Jornada 33, 9 matches
         Jornada 34, 9 matches
-[68/123] >europe/portugal/2018-19/1-primeiraliga.txt< - 1 section(s):
+[100/171] >europe/portugal/2018-19/1-primeiraliga.txt< - 1 section(s):
     460 lines, 306 matches - Primeira Liga (pt.1) 2018/19
       18 teams (referenced):
         34× Boavista FC
@@ -3601,8 +5160,376 @@
         Jornada 32, 9 matches
         Jornada 33, 9 matches
         Jornada 34, 9 matches
-[69/123] >europe/portugal/2020-21/2-segundaliga.txt< - 1 section(s):
-    389 lines, 306 matches - Segunda Liga (pt.2) 2020/21
+[101/171] >europe/portugal/2011-12/1-primeiraliga.txt< - 1 section(s):
+    382 lines, 240 matches - Primeira Liga (pt.1) 2011/12
+      16 teams (referenced):
+        30× Académica de Coimbra
+        30× CD Feirense
+        30× CD Nacional Madeira
+        30× CS Marítimo
+        30× FC Paços de Ferreira
+        30× FC Porto
+        30× Gil Vicente FC
+        30× Rio Ave FC
+        30× SC Beira-Mar
+        30× SC Braga
+        30× SC Olhanense
+        30× SL Benfica
+        30× Sporting CP
+        30× União de Leiria
+        30× Vitória de Guimarães
+        30× Vitória de Setúbal
+      30 rounds (referenced):
+        Jornada 1, 8 matches
+        Jornada 2 ×2, 8 matches
+        Jornada 3 ×2, 8 matches
+        Jornada 4, 8 matches
+        Jornada 5, 8 matches
+        Jornada 6, 8 matches
+        Jornada 7, 8 matches
+        Jornada 8, 8 matches
+        Jornada 9, 8 matches
+        Jornada 10, 8 matches
+        Jornada 11, 8 matches
+        Jornada 12, 8 matches
+        Jornada 13, 8 matches
+        Jornada 14, 8 matches
+        Jornada 15, 8 matches
+        Jornada 16, 8 matches
+        Jornada 17, 8 matches
+        Jornada 18, 8 matches
+        Jornada 19, 8 matches
+        Jornada 20, 8 matches
+        Jornada 21, 8 matches
+        Jornada 22, 8 matches
+        Jornada 23, 8 matches
+        Jornada 24, 8 matches
+        Jornada 25, 8 matches
+        Jornada 26, 8 matches
+        Jornada 27, 8 matches
+        Jornada 28, 8 matches
+        Jornada 29, 8 matches
+        Jornada 30, 8 matches
+[102/171] >europe/portugal/2010-11/1-primeiraliga.txt< - 1 section(s):
+    380 lines, 240 matches - Primeira Liga (pt.1) 2010/11
+      16 teams (referenced):
+        30× Académica de Coimbra
+        30× CD Nacional Madeira
+        30× CS Marítimo
+        30× FC Paços de Ferreira
+        30× FC Porto
+        30× Naval 1º de Maio
+        30× Portimonense SC
+        30× Rio Ave FC
+        30× SC Beira-Mar
+        30× SC Braga
+        30× SC Olhanense
+        30× SL Benfica
+        30× Sporting CP
+        30× União de Leiria
+        30× Vitória de Guimarães
+        30× Vitória de Setúbal
+      30 rounds (referenced):
+        Jornada 1, 8 matches
+        Jornada 2, 8 matches
+        Jornada 3, 8 matches
+        Jornada 4, 8 matches
+        Jornada 5, 8 matches
+        Jornada 6, 8 matches
+        Jornada 7, 8 matches
+        Jornada 8, 8 matches
+        Jornada 9, 8 matches
+        Jornada 10, 8 matches
+        Jornada 11, 8 matches
+        Jornada 12, 8 matches
+        Jornada 13, 8 matches
+        Jornada 14, 8 matches
+        Jornada 15, 8 matches
+        Jornada 16, 8 matches
+        Jornada 17, 8 matches
+        Jornada 20 ×2, 8 matches
+        Jornada 18, 8 matches
+        Jornada 19, 8 matches
+        Jornada 21, 8 matches
+        Jornada 22, 8 matches
+        Jornada 23 ×2, 8 matches
+        Jornada 24, 8 matches
+        Jornada 25, 8 matches
+        Jornada 26, 8 matches
+        Jornada 27, 8 matches
+        Jornada 28, 8 matches
+        Jornada 29, 8 matches
+        Jornada 30, 8 matches
+[103/171] >europe/portugal/2016-17/1-primeiraliga.txt< - 1 section(s):
+    469 lines, 306 matches - Primeira Liga (pt.1) 2016/17
+      18 teams (referenced):
+        34× Boavista FC
+        34× CD Feirense
+        34× CD Nacional Madeira
+        34× CD Tondela
+        34× CS Marítimo
+        34× Estoril Praia
+        34× FC Arouca
+        34× FC Paços de Ferreira
+        34× FC Porto
+        34× GD Chaves
+        34× Moreirense FC
+        34× Os Belenenses
+        34× Rio Ave FC
+        34× SC Braga
+        34× SL Benfica
+        34× Sporting CP
+        34× Vitória de Guimarães
+        34× Vitória de Setúbal
+      34 rounds (referenced):
+        Jornada 1 ×2, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 15 ×2, 9 matches
+        Jornada 14, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+        Jornada 18, 9 matches
+        Jornada 19, 9 matches
+        Jornada 20, 9 matches
+        Jornada 21, 9 matches
+        Jornada 22, 9 matches
+        Jornada 23, 9 matches
+        Jornada 24, 9 matches
+        Jornada 25, 9 matches
+        Jornada 26, 9 matches
+        Jornada 27, 9 matches
+        Jornada 28, 9 matches
+        Jornada 29, 9 matches
+        Jornada 30, 9 matches
+        Jornada 31, 9 matches
+        Jornada 32, 9 matches
+        Jornada 33, 9 matches
+        Jornada 34, 9 matches
+[104/171] >europe/portugal/2012-13/1-primeiraliga.txt< - 1 section(s):
+    373 lines, 240 matches - Primeira Liga (pt.1) 2012/13
+      16 teams (referenced):
+        30× Académica de Coimbra
+        30× CD Nacional Madeira
+        30× CS Marítimo
+        30× Estoril Praia
+        30× FC Paços de Ferreira
+        30× FC Porto
+        30× Gil Vicente FC
+        30× Moreirense FC
+        30× Rio Ave FC
+        30× SC Beira-Mar
+        30× SC Braga
+        30× SC Olhanense
+        30× SL Benfica
+        30× Sporting CP
+        30× Vitória de Guimarães
+        30× Vitória de Setúbal
+      30 rounds (referenced):
+        Jornada 1, 8 matches
+        Jornada 2, 8 matches
+        Jornada 3, 8 matches
+        Jornada 4, 8 matches
+        Jornada 5, 8 matches
+        Jornada 6, 8 matches
+        Jornada 7, 8 matches
+        Jornada 8, 8 matches
+        Jornada 9, 8 matches
+        Jornada 10, 8 matches
+        Jornada 11, 8 matches
+        Jornada 12 ×2, 8 matches
+        Jornada 13, 8 matches
+        Jornada 14, 8 matches
+        Jornada 15, 8 matches
+        Jornada 16, 8 matches
+        Jornada 17, 8 matches
+        Jornada 18, 8 matches
+        Jornada 19, 8 matches
+        Jornada 20, 8 matches
+        Jornada 21, 8 matches
+        Jornada 22, 8 matches
+        Jornada 23, 8 matches
+        Jornada 24, 8 matches
+        Jornada 25, 8 matches
+        Jornada 26, 8 matches
+        Jornada 27, 8 matches
+        Jornada 28, 8 matches
+        Jornada 29, 8 matches
+        Jornada 30, 8 matches
+[105/171] >europe/portugal/2015-16/1-primeiraliga.txt< - 1 section(s):
+    465 lines, 306 matches - Primeira Liga (pt.1) 2015/16
+      18 teams (referenced):
+        34× Académica de Coimbra
+        34× Boavista FC
+        34× CD Nacional Madeira
+        34× CD Tondela
+        34× CS Marítimo
+        34× Estoril Praia
+        34× FC Arouca
+        34× FC Paços de Ferreira
+        34× FC Porto
+        34× Moreirense FC
+        34× Os Belenenses
+        34× Rio Ave FC
+        34× SC Braga
+        34× SL Benfica
+        34× Sporting CP
+        34× União da Madeira
+        34× Vitória de Guimarães
+        34× Vitória de Setúbal
+      34 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7 ×2, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9 ×2, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+        Jornada 18, 9 matches
+        Jornada 19, 9 matches
+        Jornada 20, 9 matches
+        Jornada 21, 9 matches
+        Jornada 22, 9 matches
+        Jornada 23, 9 matches
+        Jornada 24, 9 matches
+        Jornada 25, 9 matches
+        Jornada 26, 9 matches
+        Jornada 27, 9 matches
+        Jornada 28, 9 matches
+        Jornada 29, 9 matches
+        Jornada 30, 9 matches
+        Jornada 31, 9 matches
+        Jornada 32, 9 matches
+        Jornada 33, 9 matches
+        Jornada 34, 9 matches
+[106/171] >europe/portugal/2013-14/1-primeiraliga.txt< - 1 section(s):
+    375 lines, 240 matches - Primeira Liga (pt.1) 2013/14
+      16 teams (referenced):
+        30× Académica de Coimbra
+        30× CD Nacional Madeira
+        30× CS Marítimo
+        30× Estoril Praia
+        30× FC Arouca
+        30× FC Paços de Ferreira
+        30× FC Porto
+        30× Gil Vicente FC
+        30× Os Belenenses
+        30× Rio Ave FC
+        30× SC Braga
+        30× SC Olhanense
+        30× SL Benfica
+        30× Sporting CP
+        30× Vitória de Guimarães
+        30× Vitória de Setúbal
+      30 rounds (referenced):
+        Jornada 1, 8 matches
+        Jornada 2, 8 matches
+        Jornada 3, 8 matches
+        Jornada 4, 8 matches
+        Jornada 5, 8 matches
+        Jornada 6, 8 matches
+        Jornada 7, 8 matches
+        Jornada 8, 8 matches
+        Jornada 9, 8 matches
+        Jornada 10, 8 matches
+        Jornada 11, 8 matches
+        Jornada 12, 8 matches
+        Jornada 13, 8 matches
+        Jornada 14, 8 matches
+        Jornada 15, 8 matches
+        Jornada 16, 8 matches
+        Jornada 17, 8 matches
+        Jornada 18, 8 matches
+        Jornada 19, 8 matches
+        Jornada 20, 8 matches
+        Jornada 21, 8 matches
+        Jornada 22, 8 matches
+        Jornada 23, 8 matches
+        Jornada 24, 8 matches
+        Jornada 25, 8 matches
+        Jornada 26, 8 matches
+        Jornada 27, 8 matches
+        Jornada 28, 8 matches
+        Jornada 29, 8 matches
+        Jornada 30, 8 matches
+[107/171] >europe/portugal/2017-18/1-primeiraliga.txt< - 1 section(s):
+    472 lines, 306 matches - Primeira Liga (pt.1) 2017/18
+      18 teams (referenced):
+        34× Boavista FC
+        34× CD Aves
+        34× CD Feirense
+        34× CD Tondela
+        34× CS Marítimo
+        34× Estoril Praia
+        34× FC Paços de Ferreira
+        34× FC Porto
+        34× GD Chaves
+        34× Moreirense FC
+        34× Os Belenenses
+        34× Portimonense SC
+        34× Rio Ave FC
+        34× SC Braga
+        34× SL Benfica
+        34× Sporting CP
+        34× Vitória de Guimarães
+        34× Vitória de Setúbal
+      34 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+        Jornada 18 ×2, 9 matches
+        Jornada 19, 9 matches
+        Jornada 20, 9 matches
+        Jornada 21, 9 matches
+        Jornada 22, 9 matches
+        Jornada 23, 9 matches
+        Jornada 24, 9 matches
+        Jornada 25, 9 matches
+        Jornada 26, 9 matches
+        Jornada 27, 9 matches
+        Jornada 28, 9 matches
+        Jornada 29, 9 matches
+        Jornada 30, 9 matches
+        Jornada 31, 9 matches
+        Jornada 32, 9 matches
+        Jornada 33, 9 matches
+        Jornada 34, 9 matches
+[108/171] >europe/portugal/2020-21/2-segundaliga.txt< - 1 section(s):
+    390 lines, 306 matches - Segunda Liga (pt.2) 2020/21
       18 teams (referenced):
         34× Académica de Coimbra
         34× Académico Viseu
@@ -3657,7 +5584,7 @@
         Jornada 32, 9 matches
         Jornada 33, 9 matches
         Jornada 34, 9 matches
-[70/123] >europe/portugal/2020-21/1-primeiraliga.txt< - 1 section(s):
+[109/171] >europe/portugal/2020-21/1-primeiraliga.txt< - 1 section(s):
     382 lines, 306 matches - Primeira Liga (pt.1) 2020/21
       18 teams (referenced):
         34× Boavista FC
@@ -3713,7 +5640,63 @@
         Jornada 32, 9 matches
         Jornada 33, 9 matches
         Jornada 34, 9 matches
-[71/123] >europe/belgium/2019-20/1-firstdivisiona-i.txt< - 1 section(s):
+[110/171] >europe/portugal/2014-15/1-primeiraliga.txt< - 1 section(s):
+    459 lines, 306 matches - Primeira Liga (pt.1) 2014/15
+      18 teams (referenced):
+        34× Académica de Coimbra
+        34× Boavista FC
+        34× CD Nacional Madeira
+        34× CS Marítimo
+        34× Estoril Praia
+        34× FC Arouca
+        34× FC Paços de Ferreira
+        34× FC Penafiel
+        34× FC Porto
+        34× Gil Vicente FC
+        34× Moreirense FC
+        34× Os Belenenses
+        34× Rio Ave FC
+        34× SC Braga
+        34× SL Benfica
+        34× Sporting CP
+        34× Vitória de Guimarães
+        34× Vitória de Setúbal
+      34 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+        Jornada 18, 9 matches
+        Jornada 19, 9 matches
+        Jornada 20, 9 matches
+        Jornada 21, 9 matches
+        Jornada 22, 9 matches
+        Jornada 23, 9 matches
+        Jornada 24, 9 matches
+        Jornada 25, 9 matches
+        Jornada 26, 9 matches
+        Jornada 27, 9 matches
+        Jornada 28, 9 matches
+        Jornada 29, 9 matches
+        Jornada 30, 9 matches
+        Jornada 31, 9 matches
+        Jornada 32, 9 matches
+        Jornada 33, 9 matches
+        Jornada 34, 9 matches
+[111/171] >europe/belgium/2019-20/1-firstdivisiona-i.txt< - 1 section(s):
     362 lines, 240 matches - First Division A (be.1) 2019/20, stage: >Regular Season<
       16 teams (referenced):
         30× Cercle Brugge
@@ -3763,7 +5746,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[72/123] >europe/belgium/2018-19/1-firstdivisiona-ii.txt< - 3 section(s):
+[112/171] >europe/belgium/2018-19/1-firstdivisiona-ii.txt< - 3 section(s):
     64 lines, 30 matches - First Division A (be.1) 2018/19, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× Club Brugge
@@ -3816,7 +5799,7 @@
       2 rounds (referenced):
         Semifinals, 1 matches
         Final, 1 matches
-[73/123] >europe/belgium/2018-19/1-firstdivisiona-i.txt< - 1 section(s):
+[113/171] >europe/belgium/2018-19/1-firstdivisiona-i.txt< - 1 section(s):
     355 lines, 240 matches - First Division A (be.1) 2018/19, stage: >Regular Season<
       16 teams (referenced):
         30× Cercle Brugge
@@ -3866,7 +5849,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[74/123] >europe/belgium/2020-21/1-firstdivisiona-i.txt< - 1 section(s):
+[114/171] >europe/belgium/2020-21/1-firstdivisiona-i.txt< - 1 section(s):
     400 lines, 306 matches - First Division A (be.1) 2020/21, stage: >Regular Season<
       18 teams (referenced):
         34× Cercle Brugge
@@ -3899,7 +5882,7 @@
         Round 9, 9 matches
         Round 10, 9 matches
         Round 11, 9 matches
-        Round 12, 9 matches
+        Round 12 ×2, 9 matches
         Round 13, 9 matches
         Round 14, 9 matches
         Round 15, 9 matches
@@ -3922,7 +5905,7 @@
         Round 32, 9 matches
         Round 33, 9 matches
         Round 34, 9 matches
-[75/123] >europe/croatia/2019-20/1-hnl.txt< - 1 section(s):
+[115/171] >europe/croatia/2019-20/1-hnl.txt< - 1 section(s):
     319 lines, 180 matches - 1. HNL (hr.1) 2019/20
       10 teams (referenced):
         36× GNK Dinamo Zagreb
@@ -3972,7 +5955,7 @@
         Round 34, 5 matches
         Round 35, 5 matches
         Round 36, 5 matches
-[76/123] >europe/croatia/2018-19/1-hnl.txt< - 1 section(s):
+[116/171] >europe/croatia/2018-19/1-hnl.txt< - 1 section(s):
     324 lines, 180 matches - 1. HNL (hr.1) 2018/19
       10 teams (referenced):
         36× GNK Dinamo Zagreb
@@ -4022,7 +6005,7 @@
         Round 34, 5 matches
         Round 35, 5 matches
         Round 36, 5 matches
-[77/123] >europe/croatia/2020-21/1-hnl.txt< - 1 section(s):
+[117/171] >europe/croatia/2020-21/1-hnl.txt< - 1 section(s):
     16 lines, 10 matches - 1. HNL (hr.1) 2020/21
       10 teams (referenced):
         2× GNK Dinamo Zagreb
@@ -4038,8 +6021,8 @@
       2 rounds (referenced):
         Round 1, 5 matches
         Round 2, 5 matches
-[78/123] >europe/finland/2020/1-veikkausliiga-i.txt< - 1 section(s):
-    205 lines, 132 matches - Veikkausliiga (fi.1) 2020, stage: >Regular Season<
+[118/171] >europe/finland/2020/1-veikkausliiga-i.txt< - 1 section(s):
+    206 lines, 132 matches - Veikkausliiga (fi.1) 2020, stage: >Regular Season<
       12 teams (referenced):
         22× FC Haka Valkeakoski
         22× FC Honka Espoo
@@ -4076,7 +6059,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[79/123] >europe/finland/2019/1-veikkausliiga-i.txt< - 1 section(s):
+[119/171] >europe/finland/2019/1-veikkausliiga-i.txt< - 1 section(s):
     205 lines, 132 matches - Veikkausliiga (fi.1) 2019, stage: >Regular Season<
       12 teams (referenced):
         22× FC Honka Espoo
@@ -4098,7 +6081,7 @@
         Round 4, 23 matches
         Round 5, 29 matches
         Round 6, 2 matches
-[80/123] >europe/finland/2019/1-veikkausliiga-ii.txt< - 3 section(s):
+[120/171] >europe/finland/2019/1-veikkausliiga-ii.txt< - 3 section(s):
     27 lines, 15 matches - Veikkausliiga (fi.1) 2019, stage: >Playoffs - Championship<
       6 teams (referenced):
         5× FC Honka Espoo
@@ -4138,7 +6121,7 @@
         Round 1, 2 matches
         Round 2, 1 matches
         Final, 2 matches
-[81/123] >europe/iceland/2020/1-urvalsdeild.txt< - 1 section(s):
+[121/171] >europe/iceland/2020/1-urvalsdeild.txt< - 1 section(s):
     206 lines, 132 matches - Urvalsdeild (is.1) 2020
       12 teams (referenced):
         22× Breiðablik
@@ -4176,7 +6159,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[82/123] >europe/iceland/2019/1-urvalsdeild.txt< - 1 section(s):
+[122/171] >europe/iceland/2019/1-urvalsdeild.txt< - 1 section(s):
     208 lines, 132 matches - Urvalsdeild (is.1) 2019
       12 teams (referenced):
         22× Breiðablik
@@ -4214,7 +6197,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[83/123] >europe/sweden/2020/1-allsvenskan.txt< - 1 section(s):
+[123/171] >europe/sweden/2020/1-allsvenskan.txt< - 1 section(s):
     342 lines, 240 matches - Allsvenskan (se.1) 2020
       16 teams (referenced):
         30× AIK
@@ -4264,7 +6247,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[84/123] >europe/sweden/2020/2-superettan.txt< - 1 section(s):
+[124/171] >europe/sweden/2020/2-superettan.txt< - 1 section(s):
     350 lines, 240 matches - Superettan (se.2) 2020
       16 teams (referenced):
         30× AFC Eskilstuna
@@ -4314,7 +6297,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[85/123] >europe/sweden/2019/1-allsvenskan.txt< - 1 section(s):
+[125/171] >europe/sweden/2019/1-allsvenskan.txt< - 1 section(s):
     364 lines, 240 matches - Allsvenskan (se.1) 2019
       16 teams (referenced):
         30× AFC Eskilstuna
@@ -4364,7 +6347,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[86/123] >europe/sweden/2019/2-superettan.txt< - 1 section(s):
+[126/171] >europe/sweden/2019/2-superettan.txt< - 1 section(s):
     387 lines, 240 matches - Superettan (se.2) 2019
       16 teams (referenced):
         30× Dalkurd FF
@@ -4414,7 +6397,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[87/123] >europe/scotland/2019-20/1-premiership-i.txt< - 1 section(s):
+[127/171] >europe/scotland/2019-20/1-premiership-i.txt< - 1 section(s):
     299 lines, 198 matches - Premiership (sco.1) 2019/20, stage: >Regular Season<
       12 teams (referenced):
         33× Aberdeen FC
@@ -4463,7 +6446,7 @@
         Round 31, 6 matches
         Round 32, 6 matches
         Round 33, 6 matches
-[88/123] >europe/scotland/2018-19/1-premiership-ii.txt< - 2 section(s):
+[128/171] >europe/scotland/2018-19/1-premiership-ii.txt< - 2 section(s):
     30 lines, 15 matches - Premiership (sco.1) 2018/19, stage: >Playoffs - Championship<
       6 teams (referenced):
         5× Aberdeen FC
@@ -4492,7 +6475,7 @@
         Round 3, 3 matches
         Round 4, 3 matches
         Round 5, 3 matches
-[89/123] >europe/scotland/2018-19/1-premiership-i.txt< - 1 section(s):
+[129/171] >europe/scotland/2018-19/1-premiership-i.txt< - 1 section(s):
     304 lines, 198 matches - Premiership (sco.1) 2018/19, stage: >Regular Season<
       12 teams (referenced):
         33× Aberdeen FC
@@ -4541,8 +6524,8 @@
         Round 31, 6 matches
         Round 32, 6 matches
         Round 33, 6 matches
-[90/123] >europe/scotland/2020-21/1-premiership-i.txt< - 1 section(s):
-    277 lines, 198 matches - Premiership (sco.1) 2020/21, stage: >Regular Season<
+[130/171] >europe/scotland/2020-21/1-premiership-i.txt< - 1 section(s):
+    278 lines, 198 matches - Premiership (sco.1) 2020/21, stage: >Regular Season<
       12 teams (referenced):
         33× Aberdeen FC
         33× Celtic FC
@@ -4590,7 +6573,7 @@
         Round 31, 6 matches
         Round 32, 6 matches
         Round 33, 6 matches
-[91/123] >europe/ukraine/2019-20/1-premierleague-ii.txt< - 3 section(s):
+[131/171] >europe/ukraine/2019-20/1-premierleague-ii.txt< - 3 section(s):
     60 lines, 30 matches - Premier League (ua.1) 2019/20, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× Desna Chernihiv
@@ -4638,7 +6621,7 @@
       2 rounds (referenced):
         Semifinals, 2 matches
         Final, 1 matches
-[92/123] >europe/ukraine/2019-20/1-premierleague-i.txt< - 1 section(s):
+[132/171] >europe/ukraine/2019-20/1-premierleague-i.txt< - 1 section(s):
     209 lines, 132 matches - Premier League (ua.1) 2019/20, stage: >Regular Season<
       12 teams (referenced):
         22× Desna Chernihiv
@@ -4676,7 +6659,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[93/123] >europe/ukraine/2018-19/1-premierleague-ii.txt< - 2 section(s):
+[133/171] >europe/ukraine/2018-19/1-premierleague-ii.txt< - 2 section(s):
     51 lines, 30 matches - Premier League (ua.1) 2018/19, stage: >Playoffs - Championship<
       6 teams (referenced):
         10× FC Dynamo Kyiv
@@ -4715,7 +6698,7 @@
         Round 8, 3 matches
         Round 9, 3 matches
         Round 10, 3 matches
-[94/123] >europe/ukraine/2018-19/1-premierleague-i.txt< - 1 section(s):
+[134/171] >europe/ukraine/2018-19/1-premierleague-i.txt< - 1 section(s):
     214 lines, 132 matches - Premier League (ua.1) 2018/19, stage: >Regular Season<
       12 teams (referenced):
         22× Desna Chernihiv
@@ -4753,7 +6736,7 @@
         Round 20, 6 matches
         Round 21, 6 matches
         Round 22, 6 matches
-[95/123] >europe/poland/2019-20/1-ekstraklasa-i.txt< - 1 section(s):
+[135/171] >europe/poland/2019-20/1-ekstraklasa-i.txt< - 1 section(s):
     369 lines, 240 matches - Ekstraklasa (pl.1) 2019/20, stage: >Regular Season<
       16 teams (referenced):
         30× Arka Gdynia
@@ -4803,7 +6786,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[96/123] >europe/poland/2019-20/1-ekstraklasa-ii.txt< - 2 section(s):
+[136/171] >europe/poland/2019-20/1-ekstraklasa-ii.txt< - 2 section(s):
     48 lines, 28 matches - Ekstraklasa (pl.1) 2019/20, stage: >Playoffs - Championship<
       8 teams (referenced):
         7× Jagiellonia Białystok
@@ -4840,7 +6823,7 @@
         Round 35, 4 matches
         Round 36, 4 matches
         Round 37, 4 matches
-[97/123] >europe/poland/2018-19/1-ekstraklasa-i.txt< - 1 section(s):
+[137/171] >europe/poland/2018-19/1-ekstraklasa-i.txt< - 1 section(s):
     379 lines, 240 matches - Ekstraklasa (pl.1) 2018/19, stage: >Regular Season<
       16 teams (referenced):
         30× Arka Gdynia
@@ -4890,7 +6873,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[98/123] >europe/poland/2018-19/1-ekstraklasa-ii.txt< - 2 section(s):
+[138/171] >europe/poland/2018-19/1-ekstraklasa-ii.txt< - 2 section(s):
     47 lines, 28 matches - Ekstraklasa (pl.1) 2018/19, stage: >Playoffs - Championship<
       8 teams (referenced):
         7× Jagiellonia Białystok
@@ -4927,8 +6910,8 @@
         Round 35, 4 matches
         Round 36, 4 matches
         Round 37, 4 matches
-[99/123] >europe/poland/2020-21/1-ekstraklasa-i.txt< - 1 section(s):
-    316 lines, 240 matches - Ekstraklasa (pl.1) 2020/21, stage: >Regular Season<
+[139/171] >europe/poland/2020-21/1-ekstraklasa-i.txt< - 1 section(s):
+    318 lines, 240 matches - Ekstraklasa (pl.1) 2020/21, stage: >Regular Season<
       16 teams (referenced):
         30× Górnik Zabrze
         30× Jagiellonia Białystok
@@ -4977,7 +6960,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[100/123] >europe/luxembourg/2019-20/1-nationaldivision.txt< - 1 section(s):
+[140/171] >europe/luxembourg/2019-20/1-nationaldivision.txt< - 1 section(s):
     259 lines, 182 matches - Luxembourger First Division (lu.1) 2019/20
       14 teams (referenced):
         26× CS Fola Esch
@@ -5021,7 +7004,7 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[101/123] >europe/luxembourg/2018-19/1-nationaldivision.txt< - 1 section(s):
+[141/171] >europe/luxembourg/2018-19/1-nationaldivision.txt< - 1 section(s):
     258 lines, 182 matches - Luxembourger First Division (lu.1) 2018/19
       14 teams (referenced):
         26× CS Fola Esch
@@ -5065,8 +7048,8 @@
         Round 24, 7 matches
         Round 25, 7 matches
         Round 26, 7 matches
-[102/123] >europe/luxembourg/2020-21/1-nationaldivision.txt< - 1 section(s):
-    307 lines, 240 matches - Luxembourger First Division (lu.1) 2020/21
+[142/171] >europe/luxembourg/2020-21/1-nationaldivision.txt< - 1 section(s):
+    308 lines, 240 matches - Luxembourger First Division (lu.1) 2020/21
       16 teams (referenced):
         30× CS Fola Esch
         30× F91 Dudelange
@@ -5115,7 +7098,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[103/123] >europe/switzerland/2019-20/2-challengeleague.txt< - 1 section(s):
+[143/171] >europe/switzerland/2019-20/2-challengeleague.txt< - 1 section(s):
     307 lines, 180 matches - Challenge League (ch.2) 2019/20
       10 teams (referenced):
         36× FC Aarau
@@ -5165,8 +7148,8 @@
         Spieltag 34, 5 matches
         Spieltag 35, 5 matches
         Spieltag 36, 5 matches
-[104/123] >europe/switzerland/2019-20/1-superleague.txt< - 1 section(s):
-    295 lines, 180 matches - Super League (ch.1) 2019/20
+[144/171] >europe/switzerland/2019-20/1-superleague.txt< - 1 section(s):
+    296 lines, 180 matches - Super League (ch.1) 2019/20
       10 teams (referenced):
         36× BSC Young Boys
         36× FC Basel
@@ -5208,6 +7191,56 @@
         Spieltag 27, 5 matches
         Spieltag 28, 5 matches
         Spieltag 29, 5 matches
+        Spieltag 30 ×2, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[145/171] >europe/switzerland/2018-19/1-superleague.txt< - 1 section(s):
+    293 lines, 180 matches - Super League (ch.1) 2018/19
+      10 teams (referenced):
+        36× BSC Young Boys
+        36× FC Basel
+        36× FC Lugano
+        36× FC Luzern
+        36× FC Sion
+        36× FC St. Gallen
+        36× FC Thun
+        36× FC Zürich
+        36× Grasshoppers Zürich
+        36× Xamax Neuchâtel
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19 ×2, 5 matches
+        Spieltag 20, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27 ×2, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
         Spieltag 30, 5 matches
         Spieltag 31, 5 matches
         Spieltag 32, 5 matches
@@ -5215,8 +7248,358 @@
         Spieltag 34, 5 matches
         Spieltag 35, 5 matches
         Spieltag 36, 5 matches
-[105/123] >europe/switzerland/2020-21/2-challengeleague.txt< - 1 section(s):
-    137 lines, 90 matches - Challenge League (ch.2) 2020/21
+[146/171] >europe/switzerland/2011-12/1-superleague.txt< - 1 section(s):
+    292 lines, 180 matches - Super League (ch.1) 2011/12
+      10 teams (referenced):
+        36× BSC Young Boys
+        36× FC Basel
+        36× FC Lausanne
+        36× FC Luzern
+        36× FC Sion
+        36× FC Thun
+        36× FC Zürich
+        36× Grasshoppers Zürich
+        36× Servette FC
+        36× Xamax Neuchâtel
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2 ×2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19, 5 matches
+        Spieltag 20 ×2, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[147/171] >europe/switzerland/2010-11/1-superleague.txt< - 1 section(s):
+    294 lines, 180 matches - Super League (ch.1) 2010/11
+      10 teams (referenced):
+        36× AC Bellinzona
+        36× BSC Young Boys
+        36× FC Basel
+        36× FC Luzern
+        36× FC Sion
+        36× FC St. Gallen
+        36× FC Thun
+        36× FC Zürich
+        36× Grasshoppers Zürich
+        36× Xamax Neuchâtel
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8 ×2, 5 matches
+        Spieltag 9 ×2, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19, 5 matches
+        Spieltag 20, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[148/171] >europe/switzerland/2016-17/1-superleague.txt< - 1 section(s):
+    289 lines, 180 matches - Super League (ch.1) 2016/17
+      10 teams (referenced):
+        36× BSC Young Boys
+        36× FC Basel
+        36× FC Lausanne
+        36× FC Lugano
+        36× FC Luzern
+        36× FC Sion
+        36× FC St. Gallen
+        36× FC Thun
+        36× FC Vaduz
+        36× Grasshoppers Zürich
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19, 5 matches
+        Spieltag 20, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[149/171] >europe/switzerland/2012-13/1-superleague.txt< - 1 section(s):
+    297 lines, 180 matches - Super League (ch.1) 2012/13
+      10 teams (referenced):
+        36× BSC Young Boys
+        36× FC Basel
+        36× FC Lausanne
+        36× FC Luzern
+        36× FC Sion
+        36× FC St. Gallen
+        36× FC Thun
+        36× FC Zürich
+        36× Grasshoppers Zürich
+        36× Servette FC
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14 ×2, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19 ×2, 5 matches
+        Spieltag 20, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29 ×2, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[150/171] >europe/switzerland/2015-16/1-superleague.txt< - 1 section(s):
+    292 lines, 180 matches - Super League (ch.1) 2015/16
+      10 teams (referenced):
+        36× BSC Young Boys
+        36× FC Basel
+        36× FC Lugano
+        36× FC Luzern
+        36× FC Sion
+        36× FC St. Gallen
+        36× FC Thun
+        36× FC Vaduz
+        36× FC Zürich
+        36× Grasshoppers Zürich
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19, 5 matches
+        Spieltag 20 ×2, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23 ×2, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[151/171] >europe/switzerland/2013-14/1-superleague.txt< - 1 section(s):
+    295 lines, 180 matches - Super League (ch.1) 2013/14
+      10 teams (referenced):
+        36× BSC Young Boys
+        36× FC Aarau
+        36× FC Basel
+        36× FC Lausanne
+        36× FC Luzern
+        36× FC Sion
+        36× FC St. Gallen
+        36× FC Thun
+        36× FC Zürich
+        36× Grasshoppers Zürich
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7 ×2, 5 matches
+        Spieltag 8 ×2, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16 ×2, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19, 5 matches
+        Spieltag 20, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[152/171] >europe/switzerland/2017-18/1-superleague.txt< - 1 section(s):
+    293 lines, 180 matches - Super League (ch.1) 2017/18
+      10 teams (referenced):
+        36× BSC Young Boys
+        36× FC Basel
+        36× FC Lausanne
+        36× FC Lugano
+        36× FC Luzern
+        36× FC Sion
+        36× FC St. Gallen
+        36× FC Thun
+        36× FC Zürich
+        36× Grasshoppers Zürich
+      36 rounds (referenced):
+        Spieltag 1, 5 matches
+        Spieltag 2 ×2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 5, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19, 5 matches
+        Spieltag 20, 5 matches
+        Spieltag 21, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23 ×2, 5 matches
+        Spieltag 24 ×2, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[153/171] >europe/switzerland/2020-21/2-challengeleague.txt< - 1 section(s):
+    138 lines, 90 matches - Challenge League (ch.2) 2020/21
       10 teams (referenced):
         18× FC Aarau
         18× FC Chiasso
@@ -5247,7 +7630,7 @@
         Spieltag 16, 5 matches
         Spieltag 17, 5 matches
         Spieltag 18, 5 matches
-[106/123] >europe/switzerland/2020-21/1-superleague.txt< - 1 section(s):
+[154/171] >europe/switzerland/2020-21/1-superleague.txt< - 1 section(s):
     136 lines, 90 matches - Super League (ch.1) 2020/21
       10 teams (referenced):
         18× BSC Young Boys
@@ -5279,8 +7662,8 @@
         Spieltag 16, 5 matches
         Spieltag 17, 5 matches
         Spieltag 18, 5 matches
-[107/123] >europe/switzerland/2014-15/1-superleague.txt< - 1 section(s):
-    268 lines, 180 matches - Super League (ch.1) 2014/15
+[155/171] >europe/switzerland/2014-15/1-superleague.txt< - 1 section(s):
+    296 lines, 180 matches - Super League (ch.1) 2014/15
       10 teams (referenced):
         36× BSC Young Boys
         36× FC Aarau
@@ -5293,93 +7676,75 @@
         36× FC Zürich
         36× Grasshoppers Zürich
       36 rounds (referenced):
-        1. Spieltag, 5 matches
-        2. Spieltag, 5 matches
-        3. Spieltag, 5 matches
-        4. Spieltag, 5 matches
-        5. Spieltag, 5 matches
-        6. Spieltag, 5 matches
-        7. Spieltag, 5 matches
-        8. Spieltag, 5 matches
-        9. Spieltag, 5 matches
-        10. Spieltag, 5 matches
-        11. Spieltag, 5 matches
-        12. Spieltag, 5 matches
-        13. Spieltag, 5 matches
-        14. Spieltag, 5 matches
-        15. Spieltag, 5 matches
-        16. Spieltag, 5 matches
-        17. Spieltag, 5 matches
-        18. Spieltag, 5 matches
-        19. Spieltag, 5 matches
-        20. Spieltag, 5 matches
-        21. Spieltag, 5 matches
-        22. Spieltag, 5 matches
-        23. Spieltag, 5 matches
-        24. Spieltag, 5 matches
-        25. Spieltag, 5 matches
-        26. Spieltag, 5 matches
-        27. Spieltag, 5 matches
-        28. Spieltag, 5 matches
-        29. Spieltag, 5 matches
-        30. Spieltag, 5 matches
-        31. Spieltag, 5 matches
-        32. Spieltag, 5 matches
-        33. Spieltag, 5 matches
-        34. Spieltag, 5 matches
-        35. Spieltag, 5 matches
-        36. Spieltag, 5 matches
-[108/123] >europe/ireland/2020/1-premierdivision.txt< - 1 section(s):
-    301 lines, 180 matches - Premier Division (ie.1) 2020
+        Spieltag 1, 5 matches
+        Spieltag 5 ×2, 5 matches
+        Spieltag 2, 5 matches
+        Spieltag 3, 5 matches
+        Spieltag 4, 5 matches
+        Spieltag 6, 5 matches
+        Spieltag 7, 5 matches
+        Spieltag 8, 5 matches
+        Spieltag 9, 5 matches
+        Spieltag 10, 5 matches
+        Spieltag 11, 5 matches
+        Spieltag 12, 5 matches
+        Spieltag 13 ×2, 5 matches
+        Spieltag 14, 5 matches
+        Spieltag 15, 5 matches
+        Spieltag 16, 5 matches
+        Spieltag 17, 5 matches
+        Spieltag 18, 5 matches
+        Spieltag 19 ×2, 5 matches
+        Spieltag 20, 5 matches
+        Spieltag 21 ×2, 5 matches
+        Spieltag 22, 5 matches
+        Spieltag 23, 5 matches
+        Spieltag 24, 5 matches
+        Spieltag 25, 5 matches
+        Spieltag 26, 5 matches
+        Spieltag 27, 5 matches
+        Spieltag 28, 5 matches
+        Spieltag 29, 5 matches
+        Spieltag 30, 5 matches
+        Spieltag 31, 5 matches
+        Spieltag 32, 5 matches
+        Spieltag 33, 5 matches
+        Spieltag 34, 5 matches
+        Spieltag 35, 5 matches
+        Spieltag 36, 5 matches
+[156/171] >europe/ireland/2020/1-premierdivision.txt< - 1 section(s):
+    162 lines, 90 matches - Premier Division (ie.1) 2020
       10 teams (referenced):
-        36× Bohemian FC
-        36× Cork City FC
-        36× Derry City FC
-        36× Dundalk FC
-        36× Finn Harps FC
-        36× Shamrock Rovers FC
-        36× Shelbourne FC
-        36× Sligo Rovers FC
-        36× St Patrick's Athletic FC
-        36× Waterford FC
-      36 rounds (referenced):
+        18× Bohemian FC
+        18× Cork City FC
+        18× Derry City FC
+        18× Dundalk FC
+        18× Finn Harps FC
+        18× Shamrock Rovers FC
+        18× Shelbourne FC
+        18× Sligo Rovers FC
+        18× St Patrick's Athletic FC
+        18× Waterford FC
+      18 rounds (referenced):
         Round 1, 5 matches
         Round 2, 5 matches
         Round 3 ×2, 5 matches
         Round 4 ×2, 5 matches
         Round 5, 5 matches
-        Round 25 ×2, 5 matches
-        Round 19, 5 matches
-        Round 20, 5 matches
-        Round 21, 5 matches
-        Round 22, 5 matches
-        Round 23, 5 matches
-        Round 24, 5 matches
-        Round 26, 5 matches
-        Round 27, 5 matches
-        Round 28 ×2, 5 matches
-        Round 6 ×2, 5 matches
+        Round 6, 5 matches
         Round 7, 5 matches
-        Round 29, 5 matches
         Round 8, 5 matches
         Round 9, 5 matches
-        Round 30, 5 matches
         Round 10 ×2, 5 matches
-        Round 11 ×2, 5 matches
-        Round 31, 5 matches
+        Round 11, 5 matches
         Round 12 ×2, 5 matches
-        Round 32, 5 matches
         Round 13, 5 matches
-        Round 14, 5 matches
-        Round 33, 5 matches
         Round 15 ×2, 5 matches
-        Round 34, 5 matches
-        Round 16 ×3, 5 matches
-        Round 35 ×2, 5 matches
-        Round 17 ×2, 5 matches
-        Round 36, 5 matches
+        Round 14, 5 matches
+        Round 16, 5 matches
+        Round 17, 5 matches
         Round 18, 5 matches
-[109/123] >europe/ireland/2019/1-premierdivision.txt< - 1 section(s):
+[157/171] >europe/ireland/2019/1-premierdivision.txt< - 1 section(s):
     296 lines, 180 matches - Premier Division (ie.1) 2019
       10 teams (referenced):
         36× Bohemian FC
@@ -5429,7 +7794,7 @@
         Round 34 ×2, 5 matches
         Round 35, 5 matches
         Round 36, 5 matches
-[110/123] >europe/norway/2020/1-eliteserien.txt< - 1 section(s):
+[158/171] >europe/norway/2020/1-eliteserien.txt< - 1 section(s):
     320 lines, 240 matches - Tippeligaen (no.1) 2020
       16 teams (referenced):
         30× Aalesunds FK
@@ -5479,7 +7844,7 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[111/123] >europe/norway/2019/1-eliteserien.txt< - 1 section(s):
+[159/171] >europe/norway/2019/1-eliteserien.txt< - 1 section(s):
     360 lines, 240 matches - Tippeligaen (no.1) 2019
       16 teams (referenced):
         30× Bodø/Glimt
@@ -5529,15 +7894,15 @@
         Round 28, 8 matches
         Round 29, 8 matches
         Round 30, 8 matches
-[112/123] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
-[113/123] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
-[114/123] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
-[115/123] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
-[116/123] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
-[117/123] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
-[118/123] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
-[119/123] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
-[120/123] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
-[121/123] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
-[122/123] >north-america/major-league-soccer/2010/mls.txt< - 0 section(s):
-[123/123] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
+[160/171] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
+[161/171] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
+[162/171] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
+[163/171] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
+[164/171] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
+[165/171] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
+[166/171] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
+[167/171] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
+[168/171] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
+[169/171] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
+[170/171] >north-america/major-league-soccer/2010/mls.txt< - 0 section(s):
+[171/171] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
