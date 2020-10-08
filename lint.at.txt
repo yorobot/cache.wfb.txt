@@ -1,595 +1,115 @@
 52 datafiles:
-[1/52] >2019-20/1-bundesliga-i.txt< - 1 section(s):
-    200 lines, 132 matches - Bundesliga (at.1) 2019/20, stage: >Grunddurchgang<, 12 team refs, 22 round defs
-[2/52] >2019-20/2-liga2.txt< - 1 section(s):
-    349 lines, 240 matches - 2. Liga (at.2) 2019/20, 16 team refs, 30 round defs
-[3/52] >2019-20/cup.txt< - 1 section(s):
-    82 lines, 63 matches - ÖFB Cup (at.cup) 2019/20, 64 team refs, 6 round defs
-[4/52] >2019-20/1-bundesliga-ii.txt< - 3 section(s):
-    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Meister<, 6 team refs, 10 round defs
-    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Qualifikation<, 6 team refs, 10 round defs
-    8 lines, 3 matches - Bundesliga (at.1) 2019/20, stage: >Europa League Play-off<, 3 team refs, 2 round defs
-[5/52] >2018-19/1-bundesliga-i.txt< - 1 section(s):
-    198 lines, 132 matches - Bundesliga (at.1) 2018/19, stage: >Grunddurchgang<, 12 team refs, 22 round defs
-[6/52] >2018-19/2-liga2.txt< - 1 section(s):
-    354 lines, 240 matches - 2. Liga (at.2) 2018/19, 16 team refs, 30 round defs
-[7/52] >2018-19/cup.txt< - 1 section(s):
+[1/52] >2011-12/cup.txt< - 1 section(s):
+    81 lines, 63 matches - ÖFB Cup (at.cup) 2011/12, 64 team refs, 6 round defs
+[2/52] >2011-12/2-liga1-i.txt< - 1 section(s):
+    153 lines, 105 matches - 2. Liga (at.2) 2011/12, 10 team refs, 21 round defs
+[3/52] >2011-12/1-bundesliga-i.txt< - 1 section(s):
+    152 lines, 95 matches - Bundesliga (at.1) 2011/12, 10 team refs, 19 round defs
+[4/52] >2011-12/2-liga1-ii.txt< - 1 section(s):
+    110 lines, 75 matches - 2. Liga (at.2) 2011/12, 10 team refs, 15 round defs
+[5/52] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
+    137 lines, 85 matches - Bundesliga (at.1) 2011/12, 10 team refs, 17 round defs
+[6/52] >2014-15/cup.txt< - 1 section(s):
+    83 lines, 63 matches - ÖFB Cup (at.cup) 2014/15, 64 team refs, 6 round defs
+[7/52] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
+    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2014/15, 14 team refs, 13 round defs
+[8/52] >2014-15/2-liga1-i.txt< - 1 section(s):
+    150 lines, 100 matches - 2. Liga (at.2) 2014/15, 10 team refs, 20 round defs
+[9/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
+    156 lines, 95 matches - Bundesliga (at.1) 2014/15, 10 team refs, 19 round defs
+[10/52] >2014-15/2-liga1-ii.txt< - 1 section(s):
+    115 lines, 80 matches - 2. Liga (at.2) 2014/15, 10 team refs, 16 round defs
+[11/52] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
+    141 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2014/15, 14 team refs, 13 round defs
+[12/52] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
+    142 lines, 85 matches - Bundesliga (at.1) 2014/15, 10 team refs, 17 round defs
+[13/52] >2018-19/cup.txt< - 1 section(s):
     84 lines, 63 matches - ÖFB Cup (at.cup) 2018/19, 64 team refs, 6 round defs
-[8/52] >2018-19/1-bundesliga-ii.txt< - 3 section(s):
+[14/52] >2018-19/1-bundesliga-i.txt< - 1 section(s):
+    198 lines, 132 matches - Bundesliga (at.1) 2018/19, stage: >Grunddurchgang<, 12 team refs, 22 round defs
+[15/52] >2018-19/2-liga2.txt< - 1 section(s):
+    354 lines, 240 matches - 2. Liga (at.2) 2018/19, 16 team refs, 30 round defs
+[16/52] >2018-19/1-bundesliga-ii.txt< - 3 section(s):
     50 lines, 30 matches - Bundesliga (at.1) 2018/19, stage: >Finaldurchgang - Meister<, 6 team refs, 10 round defs
     50 lines, 30 matches - Bundesliga (at.1) 2018/19, stage: >Finaldurchgang - Qualifikation<, 6 team refs, 10 round defs
     8 lines, 3 matches - Bundesliga (at.1) 2018/19, stage: >Europa League Play-off<, 3 team refs, 2 round defs
-[9/52] >2011-12/1-bundesliga-i.txt< - 1 section(s):
-    152 lines, 95 matches - Bundesliga (at.1) 2011/12, 10 team refs, 19 round defs
-[10/52] >2011-12/2-liga1-ii.txt< - 1 section(s):
-    110 lines, 75 matches - 2. Liga (at.2) 2011/12, 10 team refs, 15 round defs
-[11/52] >2011-12/cup.txt< - 1 section(s):
-    81 lines, 63 matches - ÖFB Cup (at.cup) 2011/12, 64 team refs, 6 round defs
-[12/52] >2011-12/2-liga1-i.txt< - 1 section(s):
-    153 lines, 105 matches - 2. Liga (at.2) 2011/12, 10 team refs, 21 round defs
-[13/52] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
-    137 lines, 85 matches - Bundesliga (at.1) 2011/12, 10 team refs, 17 round defs
-[14/52] >2010-11/1-bundesliga-i.txt< - 1 section(s):
-    156 lines, 95 matches - Bundesliga (at.1) 2010/11, 10 team refs, 19 round defs
-[15/52] >2010-11/2-liga1-ii.txt< - 1 section(s):
-    111 lines, 75 matches - 2. Liga (at.2) 2010/11, 10 team refs, 15 round defs
-[16/52] >2010-11/2-liga1-i.txt< - 1 section(s):
-    153 lines, 105 matches - 2. Liga (at.2) 2010/11, 10 team refs, 21 round defs
-[17/52] >2010-11/1-bundesliga-ii.txt< - 1 section(s):
-    136 lines, 85 matches - Bundesliga (at.1) 2010/11, 10 team refs, 17 round defs
-[18/52] >2016-17/1-bundesliga-i.txt< - 1 section(s):
-    160 lines, 100 matches - Bundesliga (at.1) 2016/17, 10 team refs, 20 round defs
-[19/52] >2016-17/2-liga1-ii.txt< - 1 section(s):
-    120 lines, 80 matches - 2. Liga (at.2) 2016/17, 10 team refs, 16 round defs
-[20/52] >2016-17/cup.txt< - 1 section(s):
-    81 lines, 63 matches - ÖFB Cup (at.cup) 2016/17, 64 team refs, 6 round defs
-[21/52] >2016-17/2-liga1-i.txt< - 1 section(s):
-    144 lines, 100 matches - 2. Liga (at.2) 2016/17, 10 team refs, 20 round defs
-[22/52] >2016-17/1-bundesliga-ii.txt< - 1 section(s):
-    126 lines, 80 matches - Bundesliga (at.1) 2016/17, 10 team refs, 16 round defs
-[23/52] >2012-13/1-bundesliga-i.txt< - 1 section(s):
-    162 lines, 99 matches - Bundesliga (at.1) 2012/13, 10 team refs, 20 round defs
-[24/52] >2012-13/cup.txt< - 1 section(s):
-    83 lines, 63 matches - ÖFB Cup (at.cup) 2012/13, 64 team refs, 6 round defs
-[25/52] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
-    132 lines, 81 matches - Bundesliga (at.1) 2012/13, 10 team refs, 17 round defs
-[26/52] >2015-16/1-bundesliga-i.txt< - 1 section(s):
-    160 lines, 100 matches - Bundesliga (at.1) 2015/16, 10 team refs, 20 round defs
-[27/52] >2015-16/2-liga1-ii.txt< - 1 section(s):
-    123 lines, 85 matches - 2. Liga (at.2) 2015/16, 10 team refs, 17 round defs
-[28/52] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
-    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2015/16, 14 team refs, 13 round defs
-[29/52] >2015-16/cup.txt< - 1 section(s):
+[17/52] >2015-16/cup.txt< - 1 section(s):
     82 lines, 63 matches - ÖFB Cup (at.cup) 2015/16, 64 team refs, 6 round defs
-[30/52] >2015-16/2-liga1-i.txt< - 1 section(s):
-    139 lines, 95 matches - 2. Liga (at.2) 2015/16, 10 team refs, 19 round defs
-[31/52] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
+[18/52] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
     117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2015/16, 14 team refs, 13 round defs
-[32/52] >2015-16/1-bundesliga-ii.txt< - 1 section(s):
+[19/52] >2015-16/2-liga1-i.txt< - 1 section(s):
+    139 lines, 95 matches - 2. Liga (at.2) 2015/16, 10 team refs, 19 round defs
+[20/52] >2015-16/1-bundesliga-i.txt< - 1 section(s):
+    160 lines, 100 matches - Bundesliga (at.1) 2015/16, 10 team refs, 20 round defs
+[21/52] >2015-16/2-liga1-ii.txt< - 1 section(s):
+    123 lines, 85 matches - 2. Liga (at.2) 2015/16, 10 team refs, 17 round defs
+[22/52] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
+    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2015/16, 14 team refs, 13 round defs
+[23/52] >2015-16/1-bundesliga-ii.txt< - 1 section(s):
     126 lines, 80 matches - Bundesliga (at.1) 2015/16, 10 team refs, 16 round defs
-[33/52] >2013-14/1-bundesliga-i.txt< - 1 section(s):
-    171 lines, 104 matches - Bundesliga (at.1) 2013/14, 10 team refs, 21 round defs
-[34/52] >2013-14/cup.txt< - 1 section(s):
-    83 lines, 63 matches - ÖFB Cup (at.cup) 2013/14, 64 team refs, 6 round defs
-[35/52] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
-    122 lines, 76 matches - Bundesliga (at.1) 2013/14, 10 team refs, 16 round defs
-[36/52] >2017-18/1-bundesliga-i.txt< - 1 section(s):
-    160 lines, 100 matches - Bundesliga (at.1) 2017/18, 10 team refs, 20 round defs
-[37/52] >2017-18/2-liga1-ii.txt< - 1 section(s):
-    123 lines, 80 matches - 2. Liga (at.2) 2017/18, 10 team refs, 16 round defs
-[38/52] >2017-18/cup.txt< - 1 section(s):
+[24/52] >2017-18/cup.txt< - 1 section(s):
     84 lines, 63 matches - ÖFB Cup (at.cup) 2017/18, 64 team refs, 6 round defs
-[39/52] >2017-18/2-liga1-i.txt< - 1 section(s):
+[25/52] >2017-18/2-liga1-i.txt< - 1 section(s):
     146 lines, 100 matches - 2. Liga (at.2) 2017/18, 10 team refs, 20 round defs
-[40/52] >2017-18/1-bundesliga-relegation.txt< - 1 section(s):
+[26/52] >2017-18/1-bundesliga-relegation.txt< - 1 section(s):
     6 lines, 2 matches - Bundesliga - Relegation (at.rel.1) 2017/18, 2 team refs, 2 round defs
-[41/52] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
+[27/52] >2017-18/1-bundesliga-i.txt< - 1 section(s):
+    160 lines, 100 matches - Bundesliga (at.1) 2017/18, 10 team refs, 20 round defs
+[28/52] >2017-18/2-liga1-ii.txt< - 1 section(s):
+    123 lines, 80 matches - 2. Liga (at.2) 2017/18, 10 team refs, 16 round defs
+[29/52] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
     127 lines, 80 matches - Bundesliga (at.1) 2017/18, 10 team refs, 16 round defs
-[42/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
-[43/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
-    189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<, 12 team refs, 22 round defs
-[44/52] >2020-21/2-liga2.txt< - 1 section(s):
-    318 lines, 240 matches - 2. Liga (at.2) 2020/21, 16 team refs, 30 round defs
-[45/52] >2020-21/cup.txt< - 1 section(s):
+[30/52] >2013-14/cup.txt< - 1 section(s):
+    83 lines, 63 matches - ÖFB Cup (at.cup) 2013/14, 64 team refs, 6 round defs
+[31/52] >2013-14/1-bundesliga-i.txt< - 1 section(s):
+    171 lines, 104 matches - Bundesliga (at.1) 2013/14, 10 team refs, 21 round defs
+[32/52] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
+    122 lines, 76 matches - Bundesliga (at.1) 2013/14, 10 team refs, 16 round defs
+[33/52] >2020-21/cup.txt< - 1 section(s):
     61 lines, 47 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 2 round defs
-[46/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
-    156 lines, 95 matches - Bundesliga (at.1) 2014/15, 10 team refs, 19 round defs
-[47/52] >2014-15/2-liga1-ii.txt< - 1 section(s):
-    115 lines, 80 matches - 2. Liga (at.2) 2014/15, 10 team refs, 16 round defs
-[48/52] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
-    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2014/15, 14 team refs, 13 round defs
-[49/52] >2014-15/cup.txt< - 1 section(s):
-    83 lines, 63 matches - ÖFB Cup (at.cup) 2014/15, 64 team refs, 6 round defs
-[50/52] >2014-15/2-liga1-i.txt< - 1 section(s):
-    150 lines, 100 matches - 2. Liga (at.2) 2014/15, 10 team refs, 20 round defs
-[51/52] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
-    141 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2014/15, 14 team refs, 13 round defs
-[52/52] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
-    142 lines, 85 matches - Bundesliga (at.1) 2014/15, 10 team refs, 17 round defs
+[34/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
+    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
+[35/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
+    189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<, 12 team refs, 22 round defs
+[36/52] >2020-21/2-liga2.txt< - 1 section(s):
+    318 lines, 240 matches - 2. Liga (at.2) 2020/21, 16 team refs, 30 round defs
+[37/52] >2010-11/2-liga1-i.txt< - 1 section(s):
+    153 lines, 105 matches - 2. Liga (at.2) 2010/11, 10 team refs, 21 round defs
+[38/52] >2010-11/1-bundesliga-i.txt< - 1 section(s):
+    156 lines, 95 matches - Bundesliga (at.1) 2010/11, 10 team refs, 19 round defs
+[39/52] >2010-11/2-liga1-ii.txt< - 1 section(s):
+    111 lines, 75 matches - 2. Liga (at.2) 2010/11, 10 team refs, 15 round defs
+[40/52] >2010-11/1-bundesliga-ii.txt< - 1 section(s):
+    136 lines, 85 matches - Bundesliga (at.1) 2010/11, 10 team refs, 17 round defs
+[41/52] >2019-20/cup.txt< - 1 section(s):
+    82 lines, 63 matches - ÖFB Cup (at.cup) 2019/20, 64 team refs, 6 round defs
+[42/52] >2019-20/1-bundesliga-i.txt< - 1 section(s):
+    200 lines, 132 matches - Bundesliga (at.1) 2019/20, stage: >Grunddurchgang<, 12 team refs, 22 round defs
+[43/52] >2019-20/2-liga2.txt< - 1 section(s):
+    349 lines, 240 matches - 2. Liga (at.2) 2019/20, 16 team refs, 30 round defs
+[44/52] >2019-20/1-bundesliga-ii.txt< - 3 section(s):
+    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Meister<, 6 team refs, 10 round defs
+    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Qualifikation<, 6 team refs, 10 round defs
+    8 lines, 3 matches - Bundesliga (at.1) 2019/20, stage: >Europa League Play-off<, 3 team refs, 2 round defs
+[45/52] >2012-13/cup.txt< - 1 section(s):
+    83 lines, 63 matches - ÖFB Cup (at.cup) 2012/13, 64 team refs, 6 round defs
+[46/52] >2012-13/1-bundesliga-i.txt< - 1 section(s):
+    162 lines, 99 matches - Bundesliga (at.1) 2012/13, 10 team refs, 20 round defs
+[47/52] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
+    132 lines, 81 matches - Bundesliga (at.1) 2012/13, 10 team refs, 17 round defs
+[48/52] >2016-17/cup.txt< - 1 section(s):
+    81 lines, 63 matches - ÖFB Cup (at.cup) 2016/17, 64 team refs, 6 round defs
+[49/52] >2016-17/2-liga1-i.txt< - 1 section(s):
+    144 lines, 100 matches - 2. Liga (at.2) 2016/17, 10 team refs, 20 round defs
+[50/52] >2016-17/1-bundesliga-i.txt< - 1 section(s):
+    160 lines, 100 matches - Bundesliga (at.1) 2016/17, 10 team refs, 20 round defs
+[51/52] >2016-17/2-liga1-ii.txt< - 1 section(s):
+    120 lines, 80 matches - 2. Liga (at.2) 2016/17, 10 team refs, 16 round defs
+[52/52] >2016-17/1-bundesliga-ii.txt< - 1 section(s):
+    126 lines, 80 matches - Bundesliga (at.1) 2016/17, 10 team refs, 16 round defs
 
 
-[1/52] >2019-20/1-bundesliga-i.txt< - 1 section(s):
-    200 lines, 132 matches - Bundesliga (at.1) 2019/20, stage: >Grunddurchgang<
-      12 teams (referenced):
-        22× FC Admira Wacker Mödling
-        22× FC RB Salzburg
-        22× FK Austria Wien
-        22× LASK Linz
-        22× SCR Altach
-        22× SK Rapid Wien
-        22× SK Sturm Graz
-        22× SKN St. Pölten
-        22× SV Mattersburg
-        22× TSV Hartberg
-        22× WSG Tirol
-        22× Wolfsberger AC
-      22 rounds (referenced):
-        1. Runde, 6 matches
-        2. Runde, 6 matches
-        3. Runde, 6 matches
-        4. Runde, 6 matches
-        5. Runde, 6 matches
-        6. Runde, 6 matches
-        7. Runde, 6 matches
-        8. Runde, 6 matches
-        9. Runde, 6 matches
-        10. Runde, 6 matches
-        11. Runde, 6 matches
-        12. Runde, 6 matches
-        13. Runde, 6 matches
-        14. Runde, 6 matches
-        15. Runde, 6 matches
-        16. Runde, 6 matches
-        17. Runde, 6 matches
-        18. Runde, 6 matches
-        19. Runde, 6 matches
-        20. Runde, 6 matches
-        21. Runde, 6 matches
-        22. Runde, 6 matches
-[2/52] >2019-20/2-liga2.txt< - 1 section(s):
-    349 lines, 240 matches - 2. Liga (at.2) 2019/20
-      16 teams (referenced):
-        30× Austria Lustenau
-        30× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
-        30× FC Dornbirn ⇒ FC Dornbirn 1913
-        30× FC Juniors OÖ
-        30× FC Liefering
-        30× FC Wacker Innsbruck
-        30× Floridsdorfer AC
-        30× Grazer AK
-        30× Kapfenberger SV
-        30× SK Austria Klagenfurt ⇒ Austria Klagenfurt
-        30× SKU Amstetten
-        30× SV Horn
-        30× SV Lafnitz
-        30× SV Ried
-        30× Vorwärts Steyr ⇒ SK Vorwärts Steyr
-        30× Young Violets ⇒ Young Violets Austria Wien
-      30 rounds (referenced):
-        1. Runde, 8 matches
-        2. Runde, 8 matches
-        3. Runde, 8 matches
-        4. Runde, 8 matches
-        5. Runde, 8 matches
-        6. Runde, 8 matches
-        7. Runde, 8 matches
-        8. Runde, 8 matches
-        9. Runde, 8 matches
-        10. Runde, 8 matches
-        11. Runde, 8 matches
-        12. Runde, 8 matches
-        13. Runde, 8 matches
-        14. Runde, 8 matches
-        15. Runde, 8 matches
-        16. Runde, 8 matches
-        17. Runde, 8 matches
-        18. Runde, 8 matches
-        19. Runde, 8 matches
-        20. Runde, 8 matches
-        21. Runde, 8 matches
-        22. Runde, 8 matches
-        23. Runde, 8 matches
-        24. Runde, 8 matches
-        25. Runde, 8 matches
-        26. Runde, 8 matches
-        27. Runde, 8 matches
-        28. Runde, 8 matches
-        29. Runde, 8 matches
-        30. Runde, 8 matches
-[3/52] >2019-20/cup.txt< - 1 section(s):
-    82 lines, 63 matches - ÖFB Cup (at.cup) 2019/20
-      64 teams (referenced):
-        6× Austria Lustenau
-        6× FC RB Salzburg
-        5× FC Wacker Innsbruck
-        5× LASK Linz
-        4× SK Sturm Graz
-        4× SKN St. Pölten
-        4× SKU Amstetten
-        4× WSG Tirol
-        3× ASK Ebreichsdorf
-        3× FC Gleisdorf 09
-        3× Kapfenberger SV
-        3× SCR Altach
-        3× SV Ried
-        3× USV St. Anna
-        3× Union Gurten
-        3× Wolfsberger AC
-        2× ATSV Wolfsberg
-        2× Austria Klagenfurt
-        2× FC Admira Wacker Mödling
-        2× FC Blau-Weiß Linz
-        2× FC Dornbirn 1913
-        2× FC Juniors OÖ
-        2× FC Marchfeld Donauauen ⇒ FC Marchfeld
-        2× FK Austria Wien
-        2× Floridsdorfer AC
-        2× Grazer AK
-        2× SK Rapid Wien
-        2× SK Vorwärts Steyr
-        2× SV Horn
-        2× SV Mattersburg
-        2× WSC Hertha Wels
-        2× Wiener Viktoria
-        ASK Elektra Wien
-        ASK-BSC Bruck/Leitha
-        ASKÖ Köttmannsdorf
-        ASV Draßburg
-        ATSV Stadl-Paura
-        FC Kitzbühel
-        FC Kufstein
-        FC Langenegg
-        FC Mauerwerk
-        FC Wolfurt
-        FC Zell am See
-        FCM Traiskirchen
-        SAK Klagenfurt
-        SC Kalsdorf
-        SC Neusiedl am See
-        SC Pinkafeld
-        SC Schwaz
-        SC-ESV Parndorf
-        SK Treibach
-        SV Gloggnitz
-        SV Hall
-        SV Lafnitz
-        SV Leobendorf
-        SV Seekirchen
-        TSV Hartberg
-        TuS Bad Gleichenberg
-        USK Anif
-        USV Allerheiligen
-        Union Edelweiß Linz
-        Union Vöcklamarkt
-        VfB Hohenems
-        Wiener Sport-Club
-      6 rounds (referenced):
-        1. Runde, 32 matches
-        2. Runde, 16 matches
-        Achtelfinale, 8 matches
-        Viertelfinale, 4 matches
-        Halbfinale, 2 matches
-        Finale, 1 matches
-[4/52] >2019-20/1-bundesliga-ii.txt< - 3 section(s):
-    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Meister<
-      6 teams (referenced):
-        10× FC RB Salzburg
-        10× LASK Linz
-        10× SK Rapid Wien
-        10× SK Sturm Graz
-        10× TSV Hartberg
-        10× Wolfsberger AC
-      10 rounds (referenced):
-        23. Runde, 3 matches
-        24. Runde, 3 matches
-        25. Runde, 3 matches
-        26. Runde, 3 matches
-        27. Runde, 3 matches
-        28. Runde, 3 matches
-        29. Runde, 3 matches
-        30. Runde, 3 matches
-        31. Runde, 3 matches
-        32. Runde, 3 matches
-    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Qualifikation<
-      6 teams (referenced):
-        10× FC Admira Wacker Mödling
-        10× FK Austria Wien
-        10× SCR Altach
-        10× SKN St. Pölten
-        10× SV Mattersburg
-        10× WSG Tirol
-      10 rounds (referenced):
-        23. Runde, 3 matches
-        24. Runde, 3 matches
-        25. Runde, 3 matches
-        26. Runde, 3 matches
-        27. Runde, 3 matches
-        28. Runde, 3 matches
-        29. Runde, 3 matches
-        30. Runde, 3 matches
-        31. Runde, 3 matches
-        32. Runde, 3 matches
-    8 lines, 3 matches - Bundesliga (at.1) 2019/20, stage: >Europa League Play-off<
-      3 teams (referenced):
-        3× FK Austria Wien
-        2× TSV Hartberg
-        SCR Altach
-      2 rounds (referenced):
-        Halbfinale, 1 matches
-        Finale, 2 matches
-[5/52] >2018-19/1-bundesliga-i.txt< - 1 section(s):
-    198 lines, 132 matches - Bundesliga (at.1) 2018/19, stage: >Grunddurchgang<
-      12 teams (referenced):
-        22× FC Admira Wacker Mödling
-        22× FC RB Salzburg
-        22× FC Wacker Innsbruck
-        22× FK Austria Wien
-        22× LASK Linz
-        22× SCR Altach
-        22× SK Rapid Wien
-        22× SK Sturm Graz
-        22× SKN St. Pölten
-        22× SV Mattersburg
-        22× TSV Hartberg
-        22× Wolfsberger AC
-      22 rounds (referenced):
-        1. Runde, 6 matches
-        2. Runde, 6 matches
-        3. Runde, 6 matches
-        4. Runde, 6 matches
-        5. Runde, 6 matches
-        6. Runde, 6 matches
-        7. Runde, 6 matches
-        8. Runde, 6 matches
-        9. Runde, 6 matches
-        10. Runde, 6 matches
-        11. Runde, 6 matches
-        12. Runde, 6 matches
-        13. Runde, 6 matches
-        14. Runde, 6 matches
-        15. Runde, 6 matches
-        16. Runde, 6 matches
-        17. Runde, 6 matches
-        18. Runde, 6 matches
-        19. Runde, 6 matches
-        20. Runde, 6 matches
-        21. Runde, 6 matches
-        22. Runde, 6 matches
-[6/52] >2018-19/2-liga2.txt< - 1 section(s):
-    354 lines, 240 matches - 2. Liga (at.2) 2018/19
-      16 teams (referenced):
-        30× Austria Lustenau
-        30× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
-        30× FC Juniors OÖ
-        30× FC Liefering
-        30× FC Wacker Innsbruck II
-        30× Floridsdorfer AC
-        30× Kapfenberger SV
-        30× SC Wiener Neustadt
-        30× SK Austria Klagenfurt ⇒ Austria Klagenfurt
-        30× SKU Amstetten
-        30× SV Horn
-        30× SV Lafnitz
-        30× SV Ried
-        30× Vorwärts Steyr ⇒ SK Vorwärts Steyr
-        30× WSG Wattens ⇒ WSG Tirol
-        30× Young Violets ⇒ Young Violets Austria Wien
-      30 rounds (referenced):
-        1. Runde, 8 matches
-        2. Runde, 8 matches
-        3. Runde, 8 matches
-        4. Runde, 8 matches
-        5. Runde, 8 matches
-        6. Runde, 8 matches
-        7. Runde, 8 matches
-        8. Runde, 8 matches
-        9. Runde, 8 matches
-        10. Runde, 8 matches
-        11. Runde, 8 matches
-        12. Runde, 8 matches
-        13. Runde, 8 matches
-        14. Runde, 8 matches
-        15. Runde, 8 matches
-        16. Runde ×2, 8 matches
-        17. Runde, 8 matches
-        18. Runde, 8 matches
-        19. Runde ×2, 8 matches
-        20. Runde, 8 matches
-        21. Runde, 8 matches
-        22. Runde, 8 matches
-        23. Runde, 8 matches
-        24. Runde, 8 matches
-        25. Runde, 8 matches
-        26. Runde, 8 matches
-        27. Runde, 8 matches
-        28. Runde, 8 matches
-        29. Runde, 8 matches
-        30. Runde, 8 matches
-[7/52] >2018-19/cup.txt< - 1 section(s):
-    84 lines, 63 matches - ÖFB Cup (at.cup) 2018/19
-      64 teams (referenced):
-        6× FC RB Salzburg
-        6× SK Rapid Wien
-        5× Grazer AK
-        5× LASK Linz
-        4× FK Austria Wien
-        4× SC Wiener Neustadt
-        4× SKN St. Pölten
-        4× TSV Hartberg
-        3× Austria Lustenau
-        3× FC Wacker Innsbruck
-        3× Floridsdorfer AC
-        3× Kapfenberger SV
-        3× SCR Altach
-        3× SV Lafnitz
-        3× SV Ried
-        3× Wolfsberger AC
-        2× ASK-BSC Bruck/Leitha
-        2× ATSV Stadl-Paura
-        2× Austria Klagenfurt
-        2× Deutschlandsberger SC
-        2× FC Pinzgau Saalfelden
-        2× FC Stadlau
-        2× SAK Klagenfurt
-        2× SC Neusiedl am See
-        2× SC Schwaz
-        2× SK Sturm Graz
-        2× SK Vorwärts Steyr
-        2× SV Horn
-        2× SV Leobendorf
-        2× SV Mattersburg
-        2× Union Vöcklamarkt
-        2× WSG Tirol
-        ASK Ebreichsdorf
-        ASKÖ Oedt
-        ASV Siegendorf
-        Dornbirner SV
-        FC Admira Wacker Mödling
-        FC Alberschwende
-        FC Blau-Weiß Linz
-        FC Dornbirn 1913
-        FC Gleisdorf 09
-        FC Kitzbühel
-        FC Kufstein
-        FC Lendorf
-        FC Marchfeld Donauauen ⇒ FC Marchfeld
-        FC Mauerwerk
-        FCM Traiskirchen
-        FV Austria XIII
-        SC Team Wiener Linien
-        SC-ESV Parndorf
-        SK Maria Saal
-        SKU Amstetten
-        SV Grödig
-        SV Neuberg
-        SV Straßwalchen
-        SVG Reichenau
-        USK Anif
-        USV Allerheiligen
-        USV Mettersdorf
-        USV Scheiblingkirchen-Warth
-        Union Gurten
-        VST Völkermarkt
-        VfB Hohenems
-        WSC Hertha Wels
-      6 rounds (referenced):
-        1. Runde, 32 matches
-        2. Runde, 16 matches
-        Achtelfinale, 8 matches
-        Viertelfinale, 4 matches
-        Halbfinale, 2 matches
-        Finale, 1 matches
-[8/52] >2018-19/1-bundesliga-ii.txt< - 3 section(s):
-    50 lines, 30 matches - Bundesliga (at.1) 2018/19, stage: >Finaldurchgang - Meister<
-      6 teams (referenced):
-        10× FC RB Salzburg
-        10× FK Austria Wien
-        10× LASK Linz
-        10× SK Sturm Graz
-        10× SKN St. Pölten
-        10× Wolfsberger AC
-      10 rounds (referenced):
-        23. Runde, 3 matches
-        24. Runde, 3 matches
-        25. Runde, 3 matches
-        26. Runde, 3 matches
-        27. Runde, 3 matches
-        28. Runde, 3 matches
-        29. Runde, 3 matches
-        30. Runde, 3 matches
-        31. Runde, 3 matches
-        32. Runde, 3 matches
-    50 lines, 30 matches - Bundesliga (at.1) 2018/19, stage: >Finaldurchgang - Qualifikation<
-      6 teams (referenced):
-        10× FC Admira Wacker Mödling
-        10× FC Wacker Innsbruck
-        10× SCR Altach
-        10× SK Rapid Wien
-        10× SV Mattersburg
-        10× TSV Hartberg
-      10 rounds (referenced):
-        23. Runde, 3 matches
-        24. Runde, 3 matches
-        25. Runde, 3 matches
-        26. Runde, 3 matches
-        27. Runde, 3 matches
-        28. Runde, 3 matches
-        29. Runde, 3 matches
-        30. Runde, 3 matches
-        31. Runde, 3 matches
-        32. Runde, 3 matches
-    8 lines, 3 matches - Bundesliga (at.1) 2018/19, stage: >Europa League Play-off<
-      3 teams (referenced):
-        3× SK Rapid Wien
-        2× SK Sturm Graz
-        SV Mattersburg
-      2 rounds (referenced):
-        Halbfinale, 1 matches
-        Finale, 2 matches
-[9/52] >2011-12/1-bundesliga-i.txt< - 1 section(s):
-    152 lines, 95 matches - Bundesliga (at.1) 2011/12
-      10 teams (referenced):
-        19× Austria Wien ⇒ FK Austria Wien
-        19× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        19× FC Wacker Innsbruck
-        19× Kapfenberger SV
-        19× RB Salzburg ⇒ FC RB Salzburg
-        19× Rapid Wien ⇒ SK Rapid Wien
-        19× SC Wiener Neustadt
-        19× SV Mattersburg
-        19× SV Ried
-        19× Sturm Graz ⇒ SK Sturm Graz
-      19 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-[10/52] >2011-12/2-liga1-ii.txt< - 1 section(s):
-    110 lines, 75 matches - 2. Liga (at.2) 2011/12
-      10 teams (referenced):
-        15× Austria Lustenau
-        15× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
-        15× FC Lustenau ⇒ FC Lustenau 07
-        15× First Vienna FC
-        15× LASK Linz
-        15× SCR Altach
-        15× SKN St. Pölten
-        15× SV Grödig
-        15× TSV Hartberg
-        15× WAC/St. Andrä ⇒ Wolfsberger AC
-      15 rounds (referenced):
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[11/52] >2011-12/cup.txt< - 1 section(s):
+[1/52] >2011-12/cup.txt< - 1 section(s):
     81 lines, 63 matches - ÖFB Cup (at.cup) 2011/12
       64 teams (referenced):
         6× FC RB Salzburg
@@ -663,7 +183,7 @@
         Viertelfinale, 4 matches
         Halbfinale, 2 matches
         Finale, 1 matches
-[12/52] >2011-12/2-liga1-i.txt< - 1 section(s):
+[2/52] >2011-12/2-liga1-i.txt< - 1 section(s):
     153 lines, 105 matches - 2. Liga (at.2) 2011/12
       10 teams (referenced):
         21× Austria Lustenau
@@ -698,7 +218,69 @@
         19. Runde, 5 matches
         20. Runde, 5 matches
         21. Runde, 5 matches
-[13/52] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
+[3/52] >2011-12/1-bundesliga-i.txt< - 1 section(s):
+    152 lines, 95 matches - Bundesliga (at.1) 2011/12
+      10 teams (referenced):
+        19× Austria Wien ⇒ FK Austria Wien
+        19× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        19× FC Wacker Innsbruck
+        19× Kapfenberger SV
+        19× RB Salzburg ⇒ FC RB Salzburg
+        19× Rapid Wien ⇒ SK Rapid Wien
+        19× SC Wiener Neustadt
+        19× SV Mattersburg
+        19× SV Ried
+        19× Sturm Graz ⇒ SK Sturm Graz
+      19 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+[4/52] >2011-12/2-liga1-ii.txt< - 1 section(s):
+    110 lines, 75 matches - 2. Liga (at.2) 2011/12
+      10 teams (referenced):
+        15× Austria Lustenau
+        15× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
+        15× FC Lustenau ⇒ FC Lustenau 07
+        15× First Vienna FC
+        15× LASK Linz
+        15× SCR Altach
+        15× SKN St. Pölten
+        15× SV Grödig
+        15× TSV Hartberg
+        15× WAC/St. Andrä ⇒ Wolfsberger AC
+      15 rounds (referenced):
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[5/52] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
     137 lines, 85 matches - Bundesliga (at.1) 2011/12
       10 teams (referenced):
         17× Austria Wien ⇒ FK Austria Wien
@@ -729,1383 +311,7 @@
         34. Runde, 5 matches
         35. Runde, 5 matches
         36. Runde, 5 matches
-[14/52] >2010-11/1-bundesliga-i.txt< - 1 section(s):
-    156 lines, 95 matches - Bundesliga (at.1) 2010/11
-      10 teams (referenced):
-        19× Austria Wien ⇒ FK Austria Wien
-        19× FC Wacker Innsbruck
-        19× Kapfenberger SV
-        19× LASK Linz
-        19× RB Salzburg ⇒ FC RB Salzburg
-        19× Rapid Wien ⇒ SK Rapid Wien
-        19× SC Wiener Neustadt
-        19× SV Mattersburg
-        19× SV Ried
-        19× Sturm Graz ⇒ SK Sturm Graz
-      19 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde ×2, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde ×2, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-[15/52] >2010-11/2-liga1-ii.txt< - 1 section(s):
-    111 lines, 75 matches - 2. Liga (at.2) 2010/11
-      10 teams (referenced):
-        15× Austria Lustenau
-        15× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        15× FC Gratkorn
-        15× FC Lustenau ⇒ FC Lustenau 07
-        15× First Vienna FC
-        15× SCR Altach
-        15× SKN St. Pölten
-        15× SV Grödig
-        15× TSV Hartberg
-        15× WAC/St. Andrä ⇒ Wolfsberger AC
-      15 rounds (referenced):
-        22. Runde ×2, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[16/52] >2010-11/2-liga1-i.txt< - 1 section(s):
-    153 lines, 105 matches - 2. Liga (at.2) 2010/11
-      10 teams (referenced):
-        21× Austria Lustenau
-        21× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        21× FC Gratkorn
-        21× FC Lustenau ⇒ FC Lustenau 07
-        21× First Vienna FC
-        21× SCR Altach
-        21× SKN St. Pölten
-        21× SV Grödig
-        21× TSV Hartberg
-        21× WAC/St. Andrä ⇒ Wolfsberger AC
-      21 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-        20. Runde, 5 matches
-        21. Runde, 5 matches
-[17/52] >2010-11/1-bundesliga-ii.txt< - 1 section(s):
-    136 lines, 85 matches - Bundesliga (at.1) 2010/11
-      10 teams (referenced):
-        17× Austria Wien ⇒ FK Austria Wien
-        17× FC Wacker Innsbruck
-        17× Kapfenberger SV
-        17× LASK Linz
-        17× RB Salzburg ⇒ FC RB Salzburg
-        17× Rapid Wien ⇒ SK Rapid Wien
-        17× SC Wiener Neustadt
-        17× SV Mattersburg
-        17× SV Ried
-        17× Sturm Graz ⇒ SK Sturm Graz
-      17 rounds (referenced):
-        20. Runde, 5 matches
-        21. Runde ×2, 5 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[18/52] >2016-17/1-bundesliga-i.txt< - 1 section(s):
-    160 lines, 100 matches - Bundesliga (at.1) 2016/17
-      10 teams (referenced):
-        20× Austria Wien ⇒ FK Austria Wien
-        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        20× RB Salzburg ⇒ FC RB Salzburg
-        20× Rapid Wien ⇒ SK Rapid Wien
-        20× SCR Altach
-        20× SKN St. Pölten
-        20× SV Mattersburg
-        20× SV Ried
-        20× Sturm Graz ⇒ SK Sturm Graz
-        20× Wolfsberger AC
-      20 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-        20. Runde, 5 matches
-[19/52] >2016-17/2-liga1-ii.txt< - 1 section(s):
-    120 lines, 80 matches - 2. Liga (at.2) 2016/17
-      10 teams (referenced):
-        16× Austria Lustenau
-        16× FC Blau-Weiß Linz
-        16× FC Liefering
-        16× FC Wacker Innsbruck
-        16× Floridsdorfer AC
-        16× Kapfenberger SV
-        16× LASK Linz
-        16× SC Wiener Neustadt
-        16× SV Horn
-        16× WSG Tirol
-      16 rounds (referenced):
-        21. Runde, 5 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde ×2, 5 matches
-        30. Runde, 5 matches
-        31. Runde ×2, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[20/52] >2016-17/cup.txt< - 1 section(s):
-    81 lines, 63 matches - ÖFB Cup (at.cup) 2016/17
-      64 teams (referenced):
-        6× FC RB Salzburg
-        6× SK Rapid Wien
-        5× FC Admira Wacker Mödling
-        5× LASK Linz
-        4× FK Austria Wien
-        4× Kapfenberger SV
-        4× SKN St. Pölten
-        4× SV Grödig
-        3× ASK Ebreichsdorf
-        3× FC Blau-Weiß Linz
-        3× Floridsdorfer AC
-        3× SC Wiener Neustadt
-        3× SK Sturm Graz
-        3× SKU Amstetten
-        3× SV Lafnitz
-        3× WSG Tirol
-        2× Austria Lustenau
-        2× FC Kitzbühel
-        2× FC Marchfeld Donauauen ⇒ FC Marchfeld
-        2× First Vienna FC
-        2× SC Kalsdorf
-        2× SC Ritzing
-        2× SC Schwaz
-        2× SCR Altach
-        2× SK Bad Wimsbach
-        2× SV Horn
-        2× SV Leobendorf
-        2× SV Mattersburg
-        2× SV Ried
-        2× TSV Hartberg
-        2× Union Gurten
-        2× Union St. Florian
-        ATSV Stadl-Paura
-        ATSV Wolfsberg
-        ATUS Ferlach
-        Austria Klagenfurt
-        Austria Salzburg
-        Deutschlandsberger SC
-        Dornbirner SV
-        FC Bergheim
-        FC Dornbirn 1913
-        FC Gleisdorf 09
-        FC Hard
-        FC Kufstein
-        FC Mauerwerk
-        FC Stadlau
-        FC Wacker Innsbruck
-        FCM Traiskirchen
-        SC Krems
-        SC Neusiedl am See
-        SC-ESV Parndorf
-        SK Treibach
-        SK Vorwärts Steyr
-        SV Grieskirchen
-        SV Wienerberg
-        SV Wörgl
-        SVg Purgstall
-        TSV St. Johann
-        USK Anif
-        USV Allerheiligen
-        USV Rudersdorf
-        VfB Hohenems
-        Wiener Sport-Club
-        Wolfsberger AC
-      6 rounds (referenced):
-        1. Runde, 32 matches
-        2. Runde, 16 matches
-        Achtelfinale, 8 matches
-        Viertelfinale, 4 matches
-        Halbfinale, 2 matches
-        Finale, 1 matches
-[21/52] >2016-17/2-liga1-i.txt< - 1 section(s):
-    144 lines, 100 matches - 2. Liga (at.2) 2016/17
-      10 teams (referenced):
-        20× Austria Lustenau
-        20× FC Blau-Weiß Linz
-        20× FC Liefering
-        20× FC Wacker Innsbruck
-        20× Floridsdorfer AC
-        20× Kapfenberger SV
-        20× LASK Linz
-        20× SC Wiener Neustadt
-        20× SV Horn
-        20× WSG Tirol
-      20 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-        20. Runde, 5 matches
-[22/52] >2016-17/1-bundesliga-ii.txt< - 1 section(s):
-    126 lines, 80 matches - Bundesliga (at.1) 2016/17
-      10 teams (referenced):
-        16× Austria Wien ⇒ FK Austria Wien
-        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        16× RB Salzburg ⇒ FC RB Salzburg
-        16× Rapid Wien ⇒ SK Rapid Wien
-        16× SCR Altach
-        16× SKN St. Pölten
-        16× SV Mattersburg
-        16× SV Ried
-        16× Sturm Graz ⇒ SK Sturm Graz
-        16× Wolfsberger AC
-      16 rounds (referenced):
-        21. Runde, 5 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[23/52] >2012-13/1-bundesliga-i.txt< - 1 section(s):
-    162 lines, 99 matches - Bundesliga (at.1) 2012/13
-      10 teams (referenced):
-        20× Austria Wien ⇒ FK Austria Wien
-        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        20× FC Wacker Innsbruck
-        20× RB Salzburg ⇒ FC RB Salzburg
-        20× Rapid Wien ⇒ SK Rapid Wien
-        20× SC Wiener Neustadt
-        20× SV Mattersburg
-        20× Sturm Graz ⇒ SK Sturm Graz
-        19× SV Ried
-        19× Wolfsberger AC
-      20 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde ×2, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-        20. Runde, 4 matches
-[24/52] >2012-13/cup.txt< - 1 section(s):
-    83 lines, 63 matches - ÖFB Cup (at.cup) 2012/13
-      64 teams (referenced):
-        6× FC Pasching
-        6× FK Austria Wien
-        5× FC RB Salzburg
-        5× SV Ried
-        4× FC Wacker Innsbruck
-        4× LASK Linz
-        4× SK Rapid Wien
-        4× Wolfsberger AC
-        3× Austria Klagenfurt
-        3× FC Lustenau 07
-        3× SC Kalsdorf
-        3× SCR Altach
-        3× SK Sturm Graz
-        3× SV Mattersburg
-        3× Villacher SV
-        3× Wiener Viktoria
-        2× 1. SC Sollenau
-        2× ASK Bad Vöslau
-        2× Austria Lustenau
-        2× FC Admira Wacker Mödling
-        2× FC Dornbirn 1913
-        2× FC Hard
-        2× Grazer AK
-        2× Kapfenberger SV
-        2× SC Wiener Neustadt
-        2× SV Grödig
-        2× SV Schwechat
-        2× SV Stegersbach
-        2× TSV Hartberg
-        2× TSV St. Johann
-        2× USV Allerheiligen
-        2× Union St. Florian
-        Austria Salzburg
-        DSV Leoben
-        Deutschlandsberger SC
-        FC Blau-Weiß Linz
-        FC Gratkorn
-        FC Kufstein
-        FC Pinzgau Saalfelden
-        FC Rohrendorf/Gedersdorf
-        FC Wolfurt
-        First Vienna FC
-        Floridsdorfer AC
-        SAK 1914
-        SAK Klagenfurt
-        SC Ostbahn XI
-        SC Retz
-        SC Schwaz
-        SC-ESV Parndorf
-        SCU Ardagger
-        SKN St. Pölten
-        SKU Amstetten
-        SV Gaflenz
-        SV Grün-Weiß Micheldorf
-        SV Heiligenkreuz
-        SV Horn
-        SV Oberwart
-        SV Reutte
-        SV Spittal/Drau
-        SV Wallern
-        SW Bregenz
-        Union Vöcklamarkt
-        WSG Tirol
-        Wiener Sport-Club
-      6 rounds (referenced):
-        1. Runde, 32 matches
-        2. Runde, 16 matches
-        Achtelfinale, 8 matches
-        Viertelfinale, 4 matches
-        Halbfinale, 2 matches
-        Finale, 1 matches
-[25/52] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
-    132 lines, 81 matches - Bundesliga (at.1) 2012/13
-      10 teams (referenced):
-        17× SV Ried
-        17× Wolfsberger AC
-        16× Austria Wien ⇒ FK Austria Wien
-        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        16× FC Wacker Innsbruck
-        16× RB Salzburg ⇒ FC RB Salzburg
-        16× Rapid Wien ⇒ SK Rapid Wien
-        16× SC Wiener Neustadt
-        16× SV Mattersburg
-        16× Sturm Graz ⇒ SK Sturm Graz
-      17 rounds (referenced):
-        21. Runde ×2, 5 matches
-        20. Runde, 1 matches
-        22. Runde, 5 matches
-        23. Runde ×2, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[26/52] >2015-16/1-bundesliga-i.txt< - 1 section(s):
-    160 lines, 100 matches - Bundesliga (at.1) 2015/16
-      10 teams (referenced):
-        20× Austria Wien ⇒ FK Austria Wien
-        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        20× RB Salzburg ⇒ FC RB Salzburg
-        20× Rapid Wien ⇒ SK Rapid Wien
-        20× SCR Altach
-        20× SV Grödig
-        20× SV Mattersburg
-        20× SV Ried
-        20× Sturm Graz ⇒ SK Sturm Graz
-        20× Wolfsberger AC
-      20 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-        20. Runde, 5 matches
-[27/52] >2015-16/2-liga1-ii.txt< - 1 section(s):
-    123 lines, 85 matches - 2. Liga (at.2) 2015/16
-      10 teams (referenced):
-        17× Austria Klagenfurt
-        17× Austria Lustenau
-        17× Austria Salzburg
-        17× FC Liefering
-        17× FC Wacker Innsbruck
-        17× Floridsdorfer AC
-        17× Kapfenberger SV
-        17× LASK Linz
-        17× SC Wiener Neustadt
-        17× SKN St. Pölten
-      17 rounds (referenced):
-        20. Runde, 5 matches
-        21. Runde, 5 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[28/52] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
-    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2015/16
-      14 teams (referenced):
-        13× SC Admira Gföhl
-        13× SC Echsenbach
-        13× SC St. Martin
-        13× SC Weißenkirchen
-        13× SV Horn II ⇒ Horn Amateure
-        13× SV Rehberg
-        13× SV Sieghartskirchen
-        13× SV Zwentendorf
-        13× USC Altenwörth
-        13× USC Grafenwörth
-        13× USC Schweiggers
-        13× USV Groß Gerungs
-        13× USV Langenlois
-        13× USV Raabs/Thaya
-      13 rounds (referenced):
-        26. Runde, 7 matches
-        14. Runde, 7 matches
-        15. Runde, 7 matches
-        16. Runde, 7 matches
-        17. Runde, 7 matches
-        18. Runde, 7 matches
-        19. Runde, 7 matches
-        20. Runde, 7 matches
-        21. Runde, 7 matches
-        22. Runde, 7 matches
-        23. Runde, 7 matches
-        24. Runde, 7 matches
-        25. Runde, 7 matches
-[29/52] >2015-16/cup.txt< - 1 section(s):
-    82 lines, 63 matches - ÖFB Cup (at.cup) 2015/16
-      64 teams (referenced):
-        6× FC Admira Wacker Mödling
-        6× FC RB Salzburg
-        5× FK Austria Wien
-        5× SKN St. Pölten
-        4× LASK Linz
-        4× SK Rapid Wien
-        4× SK Sturm Graz
-        4× SV Mattersburg
-        3× ASK Ebreichsdorf
-        3× Austria Salzburg
-        3× FC Lankowitz
-        3× FC Stadlau
-        3× FC Wacker Innsbruck
-        3× SCR Altach
-        3× SV Ried
-        3× WSG Tirol
-        2× Austria Klagenfurt
-        2× FC Hard
-        2× FC Lendorf
-        2× FC Wels
-        2× Floridsdorfer AC
-        2× Kapfenberger SV
-        2× SC Krems
-        2× SC Wiener Neustadt
-        2× SKU Amstetten
-        2× SV Horn
-        2× SV Seekirchen
-        2× SV Wallern
-        2× TSV St. Johann
-        2× Union Gurten
-        2× Wiener Sport-Club
-        2× Wolfsberger AC
-        1. SC Sollenau
-        ASK Kottingbrunn
-        ASKÖ Köttmannsdorf
-        ASV Annabichler SV 1923
-        ATSV Stadl-Paura
-        Austria Lustenau
-        Deutschlandsberger SC
-        FC Blau-Weiß Linz
-        FC Dornbirn 1913
-        FC Höchst
-        FC Kitzbühel
-        First Vienna FC
-        SC Golling
-        SC Red Star Penzing
-        SC Ritzing
-        SC Trausdorf
-        SC Weiz
-        SC-ESV Parndorf
-        SK Vorwärts Steyr
-        SV Grödig
-        SV Innsbruck
-        SV Lafnitz
-        SV Leobendorf
-        SV Oberwart
-        SV Schwechat
-        SVG Reichenau
-        SW Bregenz
-        TSV Hartberg
-        TSV Neumarkt
-        USC Eugendorf
-        USV Allerheiligen
-        VST Völkermarkt
-      6 rounds (referenced):
-        1. Runde, 32 matches
-        2. Runde, 16 matches
-        Achtelfinale, 8 matches
-        Viertelfinale, 4 matches
-        Halbfinale, 2 matches
-        Finale, 1 matches
-[30/52] >2015-16/2-liga1-i.txt< - 1 section(s):
-    139 lines, 95 matches - 2. Liga (at.2) 2015/16
-      10 teams (referenced):
-        19× Austria Klagenfurt
-        19× Austria Lustenau
-        19× Austria Salzburg
-        19× FC Liefering
-        19× FC Wacker Innsbruck
-        19× Floridsdorfer AC
-        19× Kapfenberger SV
-        19× LASK Linz
-        19× SC Wiener Neustadt
-        19× SKN St. Pölten
-      19 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde ×2, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-[31/52] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
-    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2015/16
-      14 teams (referenced):
-        13× SC Admira Gföhl
-        13× SC Echsenbach
-        13× SC St. Martin
-        13× SC Weißenkirchen
-        13× SV Horn II ⇒ Horn Amateure
-        13× SV Rehberg
-        13× SV Sieghartskirchen
-        13× SV Zwentendorf
-        13× USC Altenwörth
-        13× USC Grafenwörth
-        13× USC Schweiggers
-        13× USV Groß Gerungs
-        13× USV Langenlois
-        13× USV Raabs/Thaya
-      13 rounds (referenced):
-        1. Runde, 7 matches
-        2. Runde, 7 matches
-        3. Runde, 7 matches
-        4. Runde, 7 matches
-        5. Runde, 7 matches
-        6. Runde, 7 matches
-        7. Runde, 7 matches
-        8. Runde, 7 matches
-        9. Runde, 7 matches
-        10. Runde, 7 matches
-        11. Runde, 7 matches
-        12. Runde, 7 matches
-        13. Runde, 7 matches
-[32/52] >2015-16/1-bundesliga-ii.txt< - 1 section(s):
-    126 lines, 80 matches - Bundesliga (at.1) 2015/16
-      10 teams (referenced):
-        16× Austria Wien ⇒ FK Austria Wien
-        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        16× RB Salzburg ⇒ FC RB Salzburg
-        16× Rapid Wien ⇒ SK Rapid Wien
-        16× SCR Altach
-        16× SV Grödig
-        16× SV Mattersburg
-        16× SV Ried
-        16× Sturm Graz ⇒ SK Sturm Graz
-        16× Wolfsberger AC
-      16 rounds (referenced):
-        21. Runde, 5 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[33/52] >2013-14/1-bundesliga-i.txt< - 1 section(s):
-    171 lines, 104 matches - Bundesliga (at.1) 2013/14
-      10 teams (referenced):
-        21× Austria Wien ⇒ FK Austria Wien
-        21× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        21× FC Wacker Innsbruck
-        21× Rapid Wien ⇒ SK Rapid Wien
-        21× SV Grödig
-        21× SV Ried
-        21× Sturm Graz ⇒ SK Sturm Graz
-        21× Wolfsberger AC
-        20× RB Salzburg ⇒ FC RB Salzburg
-        20× SC Wiener Neustadt
-      21 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde ×2, 5 matches
-        16. Runde ×2, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 4 matches
-        20. Runde, 5 matches
-        21. Runde, 5 matches
-[34/52] >2013-14/cup.txt< - 1 section(s):
-    83 lines, 63 matches - ÖFB Cup (at.cup) 2013/14
-      64 teams (referenced):
-        6× FC RB Salzburg
-        6× SKN St. Pölten
-        5× SK Sturm Graz
-        5× SV Horn
-        4× FC Admira Wacker Mödling
-        4× SKU Amstetten
-        4× SV Ried
-        4× Wolfsberger AC
-        3× Austria Lustenau
-        3× FC Pasching
-        3× First Vienna FC
-        3× Kapfenberger SV
-        3× SAK Klagenfurt
-        3× SC Kalsdorf
-        3× SC-ESV Parndorf
-        3× SV Mattersburg
-        2× 1. SC Sollenau
-        2× Austria Klagenfurt
-        2× Austria Salzburg
-        2× Dornbirner SV
-        2× FC Lankowitz
-        2× FC Marchfeld Donauauen ⇒ FC Marchfeld
-        2× FC Wacker Innsbruck
-        2× FK Austria Wien
-        2× Floridsdorfer AC
-        2× LASK Linz
-        2× SC Pinkafeld
-        2× SC Wiener Neustadt
-        2× SCR Altach
-        2× SK Vorwärts Steyr
-        2× TSV Hartberg
-        2× Villacher SV
-        ASK Bad Vöslau
-        ASV Draßburg
-        ATSV Ober-Grafendorf
-        DSV Leoben
-        FC Blau-Weiß Linz
-        FC Dornbirn 1913
-        FC Gratkorn
-        FC Hard
-        FC Kitzbühel
-        FC Kufstein
-        FC St. Veit
-        SC Leopoldsdorf
-        SC Retz
-        SC Schwaz
-        SC Team Wiener Linien
-        SK Rapid Wien
-        SV Grödig
-        SV Lafnitz
-        SV Oberwart
-        SV Schwechat
-        SV Seekirchen
-        SV Stegersbach
-        SV Wals-Grünau
-        SW Bregenz
-        TSV Neumarkt
-        TSV St. Johann
-        USV Allerheiligen
-        Union St. Florian
-        Union Vöcklamarkt
-        WSG Tirol
-        Wiener Sport-Club
-        Wiener Viktoria
-      6 rounds (referenced):
-        1. Runde, 32 matches
-        2. Runde, 16 matches
-        Achtelfinale, 8 matches
-        Viertelfinale, 4 matches
-        Halbfinale, 2 matches
-        Finale, 1 matches
-[35/52] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
-    122 lines, 76 matches - Bundesliga (at.1) 2013/14
-      10 teams (referenced):
-        16× RB Salzburg ⇒ FC RB Salzburg
-        16× SC Wiener Neustadt
-        15× Austria Wien ⇒ FK Austria Wien
-        15× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        15× FC Wacker Innsbruck
-        15× Rapid Wien ⇒ SK Rapid Wien
-        15× SV Grödig
-        15× SV Ried
-        15× Sturm Graz ⇒ SK Sturm Graz
-        15× Wolfsberger AC
-      16 rounds (referenced):
-        19. Runde, 1 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[36/52] >2017-18/1-bundesliga-i.txt< - 1 section(s):
-    160 lines, 100 matches - Bundesliga (at.1) 2017/18
-      10 teams (referenced):
-        20× Austria Wien ⇒ FK Austria Wien
-        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        20× LASK ⇒ LASK Linz
-        20× RB Salzburg ⇒ FC RB Salzburg
-        20× Rapid Wien ⇒ SK Rapid Wien
-        20× SCR Altach
-        20× SKN St. Pölten
-        20× SV Mattersburg
-        20× Sturm Graz ⇒ SK Sturm Graz
-        20× Wolfsberger AC
-      20 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-        20. Runde, 5 matches
-[37/52] >2017-18/2-liga1-ii.txt< - 1 section(s):
-    123 lines, 80 matches - 2. Liga (at.2) 2017/18
-      10 teams (referenced):
-        16× Austria Lustenau
-        16× FC Blau-Weiß Linz
-        16× FC Liefering
-        16× FC Wacker Innsbruck
-        16× Floridsdorfer AC
-        16× Kapfenberger SV
-        16× SC Wiener Neustadt
-        16× SV Ried
-        16× TSV Hartberg
-        16× WSG Tirol
-      16 rounds (referenced):
-        21. Runde ×2, 5 matches
-        22. Runde ×4, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[38/52] >2017-18/cup.txt< - 1 section(s):
-    84 lines, 63 matches - ÖFB Cup (at.cup) 2017/18
-      64 teams (referenced):
-        6× FC RB Salzburg
-        6× SK Sturm Graz
-        5× SK Rapid Wien
-        5× SV Mattersburg
-        4× Austria Klagenfurt
-        4× SV Ried
-        4× SV Wimpassing
-        4× TSV Hartberg
-        3× ASKÖ Oedt
-        3× FC Wacker Innsbruck
-        3× FK Austria Wien
-        3× LASK Linz
-        3× SCR Altach
-        3× TuS Bad Gleichenberg
-        3× Union St. Florian
-        3× Wolfsberger AC
-        2× ASK Elektra Wien
-        2× ASK-BSC Bruck/Leitha
-        2× Austria Lustenau
-        2× FC Admira Wacker Mödling
-        2× FC Blau-Weiß Linz
-        2× FC Gleisdorf 09
-        2× Kapfenberger SV
-        2× SC Neusiedl am See
-        2× SC Weiz
-        2× SC-ESV Parndorf
-        2× SKU Amstetten
-        2× SV Grödig
-        2× SV Horn
-        2× USK Anif
-        2× Union Gurten
-        2× Union Vöcklamarkt
-        ASK Ebreichsdorf
-        ATSV Stadl-Paura
-        ATUS Ferlach
-        Deutschlandsberger SC
-        FC Dornbirn 1913
-        FC Hard
-        FC Kitzbühel
-        FC Kufstein
-        FC Lendorf
-        FC Marchfeld Donauauen ⇒ FC Marchfeld
-        FC Mauerwerk
-        FC Pinzgau Saalfelden
-        FC Schwarzach
-        FC Stadlau
-        FCM Traiskirchen
-        First Vienna FC
-        Floridsdorfer AC
-        SAK Klagenfurt
-        SC Bad Sauerbrunn
-        SC Kalsdorf
-        SC Schwaz
-        SC Wiener Neustadt
-        SK Vorwärts Steyr
-        SKN St. Pölten
-        SV Lafnitz
-        SV Seekirchen
-        SV Stripfing
-        SV Wörgl
-        TSV St. Johann
-        VfB Hohenems
-        WSG Tirol
-        Wiener Sport-Club
-      6 rounds (referenced):
-        1. Runde, 32 matches
-        2. Runde, 16 matches
-        Achtelfinale, 8 matches
-        Viertelfinale, 4 matches
-        Halbfinale, 2 matches
-        Finale, 1 matches
-[39/52] >2017-18/2-liga1-i.txt< - 1 section(s):
-    146 lines, 100 matches - 2. Liga (at.2) 2017/18
-      10 teams (referenced):
-        20× Austria Lustenau
-        20× FC Blau-Weiß Linz
-        20× FC Liefering
-        20× FC Wacker Innsbruck
-        20× Floridsdorfer AC
-        20× Kapfenberger SV
-        20× SC Wiener Neustadt
-        20× SV Ried
-        20× TSV Hartberg
-        20× WSG Tirol
-      20 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde, 5 matches
-        3. Runde ×2, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-        20. Runde, 5 matches
-[40/52] >2017-18/1-bundesliga-relegation.txt< - 1 section(s):
-    6 lines, 2 matches - Bundesliga - Relegation (at.rel.1) 2017/18
-      2 teams (referenced):
-        2× SC Wiener Neustadt
-        2× SKN St. Pölten
-      2 rounds (referenced):
-        Hinspiel, 1 matches
-        Rückspiel, 1 matches
-[41/52] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
-    127 lines, 80 matches - Bundesliga (at.1) 2017/18
-      10 teams (referenced):
-        16× Austria Wien ⇒ FK Austria Wien
-        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        16× LASK ⇒ LASK Linz
-        16× RB Salzburg ⇒ FC RB Salzburg
-        16× Rapid Wien ⇒ SK Rapid Wien
-        16× SCR Altach
-        16× SKN St. Pölten
-        16× SV Mattersburg
-        16× Sturm Graz ⇒ SK Sturm Graz
-        16× Wolfsberger AC
-      16 rounds (referenced):
-        21. Runde, 5 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[42/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
-      13 teams (referenced):
-        24× 1. Wiener Neustädter SC
-        24× ASK-BSC Bruck/Leitha
-        24× ASV Draßburg
-        24× FC Admira Wacker Mödling II
-        24× FC Marchfeld
-        24× FC Mauerwerk
-        24× FCM Traiskirchen
-        24× SC Neusiedl am See
-        24× SC Team Wiener Linien
-        24× SV Leobendorf
-        24× SV Stripfing
-        24× Wiener Sport-Club
-        24× Wiener Viktoria
-      26 rounds (referenced):
-        1. Runde ×2, 6 matches
-        2. Runde ×3, 6 matches
-        3. Runde ×2, 6 matches
-        4. Runde ×2, 6 matches
-        5. Runde, 6 matches
-        6. Runde, 6 matches
-        7. Runde, 6 matches
-        8. Runde, 6 matches
-        9. Runde, 6 matches
-        10. Runde, 6 matches
-        11. Runde, 6 matches
-        12. Runde, 6 matches
-        13. Runde, 6 matches
-        14. Runde, 6 matches
-        15. Runde, 6 matches
-        16. Runde, 6 matches
-        17. Runde, 6 matches
-        18. Runde, 6 matches
-        19. Runde, 6 matches
-        20. Runde, 6 matches
-        21. Runde, 6 matches
-        22. Runde, 6 matches
-        23. Runde, 6 matches
-        24. Runde, 6 matches
-        25. Runde, 6 matches
-        26. Runde, 6 matches
-[43/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
-    189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<
-      12 teams (referenced):
-        22× FC Admira Wacker Mödling
-        22× FC RB Salzburg
-        22× FK Austria Wien
-        22× LASK Linz
-        22× SCR Altach
-        22× SK Rapid Wien
-        22× SK Sturm Graz
-        22× SKN St. Pölten
-        22× SV Ried
-        22× TSV Hartberg
-        22× WSG Tirol
-        22× Wolfsberger AC
-      22 rounds (referenced):
-        1. Runde, 6 matches
-        2. Runde, 6 matches
-        3. Runde, 6 matches
-        4. Runde, 6 matches
-        5. Runde, 6 matches
-        6. Runde, 6 matches
-        7. Runde, 6 matches
-        8. Runde, 6 matches
-        9. Runde, 6 matches
-        10. Runde, 6 matches
-        11. Runde, 6 matches
-        12. Runde, 6 matches
-        13. Runde, 6 matches
-        14. Runde, 6 matches
-        15. Runde, 6 matches
-        16. Runde, 6 matches
-        17. Runde, 6 matches
-        18. Runde, 6 matches
-        19. Runde, 6 matches
-        20. Runde, 6 matches
-        21. Runde, 6 matches
-        22. Runde, 6 matches
-[44/52] >2020-21/2-liga2.txt< - 1 section(s):
-    318 lines, 240 matches - 2. Liga (at.2) 2020/21
-      16 teams (referenced):
-        30× Austria Klagenfurt
-        30× Austria Lustenau
-        30× FC Blau-Weiß Linz
-        30× FC Dornbirn 1913
-        30× FC Juniors OÖ
-        30× FC Liefering
-        30× FC Wacker Innsbruck
-        30× Floridsdorfer AC
-        30× Grazer AK
-        30× Kapfenberger SV
-        30× SK Rapid Wien II
-        30× SK Vorwärts Steyr
-        30× SKU Amstetten
-        30× SV Horn
-        30× SV Lafnitz
-        30× Young Violets Austria Wien
-      30 rounds (referenced):
-        1. Runde, 8 matches
-        2. Runde, 8 matches
-        3. Runde, 8 matches
-        4. Runde, 8 matches
-        5. Runde, 8 matches
-        6. Runde, 8 matches
-        7. Runde, 8 matches
-        8. Runde, 8 matches
-        9. Runde, 8 matches
-        10. Runde, 8 matches
-        11. Runde, 8 matches
-        12. Runde, 8 matches
-        13. Runde, 8 matches
-        14. Runde, 8 matches
-        15. Runde, 8 matches
-        16. Runde, 8 matches
-        17. Runde, 8 matches
-        18. Runde, 8 matches
-        19. Runde, 8 matches
-        20. Runde, 8 matches
-        21. Runde, 8 matches
-        22. Runde, 8 matches
-        23. Runde, 8 matches
-        24. Runde, 8 matches
-        25. Runde, 8 matches
-        26. Runde, 8 matches
-        27. Runde, 8 matches
-        28. Runde, 8 matches
-        29. Runde, 8 matches
-        30. Runde, 8 matches
-[45/52] >2020-21/cup.txt< - 1 section(s):
-    61 lines, 47 matches - ÖFB Cup (at.cup) 2020/21
-      63 teams (referenced):
-        2× 1. Wiener Neustädter SC
-        2× ASK Elektra Wien
-        2× Austria Klagenfurt
-        2× FC Admira Wacker Mödling
-        2× FC Blau-Weiß Linz
-        2× FC RB Salzburg
-        2× FC Wacker Innsbruck
-        2× FK Austria Wien
-        2× First Vienna FC
-        2× Floridsdorfer AC
-        2× Kapfenberger SV
-        2× LASK Linz
-        2× SCR Altach
-        2× SK Rapid Wien
-        2× SK Sturm Graz
-        2× SK Vorwärts Steyr
-        2× SKN St. Pölten
-        2× SKU Amstetten
-        2× SV Horn
-        2× SV Lafnitz
-        2× SV Ried
-        2× SV Seekirchen
-        2× SV Stripfing
-        2× SV Wörgl
-        2× SVG Reichenau
-        2× TSV Hartberg
-        2× USV Allerheiligen
-        2× VfB Hohenems
-        2× WSG Tirol
-        2× Wiener Sport-Club
-        2× Wolfsberger AC
-        ASK-BSC Bruck/Leitha
-        ASKÖ Gmünd
-        ASV Draßburg
-        ASV Schrems
-        ASV Siegendorf
-        ATSV Stadl-Paura
-        ATSV Wolfsberg
-        Austria Lustenau
-        Dornbirner SV
-        FC Deutschkreutz
-        FC Dornbirn 1913
-        FC Gleisdorf 09
-        FC Liefering
-        FC Marchfeld
-        Grazer AK
-        SC Neusiedl am See
-        SC Retz
-        SC Schwaz
-        SC Team Wiener Linien
-        SC Weiz
-        SK Treibach
-        SV Grödig
-        SV Innsbruck
-        SV St. Jakob/Rosental
-        SV Wallern
-        SW Bregenz
-        TSV St. Johann
-        TuS Bad Gleichenberg
-        USV St. Anna
-        Union Gurten
-        Union Vöcklamarkt
-        WSC Hertha Wels
-      2 rounds (referenced):
-        1. Runde, 31 matches
-        2. Runde, 16 matches
-[46/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
-    156 lines, 95 matches - Bundesliga (at.1) 2014/15
-      10 teams (referenced):
-        19× Austria Wien ⇒ FK Austria Wien
-        19× FC Admira Wacker ⇒ FC Admira Wacker Mödling
-        19× RB Salzburg ⇒ FC RB Salzburg
-        19× Rapid Wien ⇒ SK Rapid Wien
-        19× SC Wiener Neustadt
-        19× SCR Altach
-        19× SV Grödig
-        19× SV Ried
-        19× Sturm Graz ⇒ SK Sturm Graz
-        19× Wolfsberger AC
-      19 rounds (referenced):
-        1. Runde, 5 matches
-        2. Runde ×2, 5 matches
-        3. Runde, 5 matches
-        4. Runde, 5 matches
-        5. Runde, 5 matches
-        6. Runde, 5 matches
-        7. Runde, 5 matches
-        8. Runde, 5 matches
-        9. Runde, 5 matches
-        10. Runde, 5 matches
-        11. Runde, 5 matches
-        12. Runde, 5 matches
-        13. Runde, 5 matches
-        14. Runde, 5 matches
-        15. Runde, 5 matches
-        16. Runde, 5 matches
-        17. Runde, 5 matches
-        18. Runde, 5 matches
-        19. Runde, 5 matches
-[47/52] >2014-15/2-liga1-ii.txt< - 1 section(s):
-    115 lines, 80 matches - 2. Liga (at.2) 2014/15
-      10 teams (referenced):
-        16× Austria Lustenau
-        16× FC Liefering
-        16× FC Wacker Innsbruck
-        16× Floridsdorfer AC
-        16× Kapfenberger SV
-        16× LASK Linz
-        16× SKN St. Pölten
-        16× SV Horn
-        16× SV Mattersburg
-        16× TSV Hartberg
-      16 rounds (referenced):
-        21. Runde, 5 matches
-        22. Runde, 5 matches
-        23. Runde, 5 matches
-        24. Runde, 5 matches
-        25. Runde, 5 matches
-        26. Runde, 5 matches
-        27. Runde, 5 matches
-        28. Runde, 5 matches
-        29. Runde, 5 matches
-        30. Runde, 5 matches
-        31. Runde, 5 matches
-        32. Runde, 5 matches
-        33. Runde, 5 matches
-        34. Runde, 5 matches
-        35. Runde, 5 matches
-        36. Runde, 5 matches
-[48/52] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
-    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2014/15
-      14 teams (referenced):
-        13× Horn Amateure
-        13× SC Echsenbach
-        13× SC Guntersdorf
-        13× SC St. Martin
-        13× SC Weißenkirchen
-        13× SV Rehberg
-        13× SV Sieghartskirchen
-        13× SV Zwentendorf
-        13× USC Altenwörth
-        13× USC Grafenwörth
-        13× USC Kirchberg/W.
-        13× USC Schweiggers
-        13× USV Groß Gerungs
-        13× USV Langenlois
-      13 rounds (referenced):
-        26. Runde, 7 matches
-        14. Runde, 7 matches
-        15. Runde, 7 matches
-        16. Runde, 7 matches
-        17. Runde, 7 matches
-        18. Runde, 7 matches
-        19. Runde, 7 matches
-        20. Runde, 7 matches
-        21. Runde, 7 matches
-        22. Runde, 7 matches
-        23. Runde, 7 matches
-        24. Runde, 7 matches
-        25. Runde, 7 matches
-[49/52] >2014-15/cup.txt< - 1 section(s):
+[6/52] >2014-15/cup.txt< - 1 section(s):
     83 lines, 63 matches - ÖFB Cup (at.cup) 2014/15
       64 teams (referenced):
         6× FC RB Salzburg
@@ -2179,7 +385,38 @@
         Viertelfinale, 4 matches
         Halbfinale, 2 matches
         Finale, 1 matches
-[50/52] >2014-15/2-liga1-i.txt< - 1 section(s):
+[7/52] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
+    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2014/15
+      14 teams (referenced):
+        13× Horn Amateure
+        13× SC Echsenbach
+        13× SC Guntersdorf
+        13× SC St. Martin
+        13× SC Weißenkirchen
+        13× SV Rehberg
+        13× SV Sieghartskirchen
+        13× SV Zwentendorf
+        13× USC Altenwörth
+        13× USC Grafenwörth
+        13× USC Kirchberg/W.
+        13× USC Schweiggers
+        13× USV Groß Gerungs
+        13× USV Langenlois
+      13 rounds (referenced):
+        26. Runde, 7 matches
+        14. Runde, 7 matches
+        15. Runde, 7 matches
+        16. Runde, 7 matches
+        17. Runde, 7 matches
+        18. Runde, 7 matches
+        19. Runde, 7 matches
+        20. Runde, 7 matches
+        21. Runde, 7 matches
+        22. Runde, 7 matches
+        23. Runde, 7 matches
+        24. Runde, 7 matches
+        25. Runde, 7 matches
+[8/52] >2014-15/2-liga1-i.txt< - 1 section(s):
     150 lines, 100 matches - 2. Liga (at.2) 2014/15
       10 teams (referenced):
         20× Austria Lustenau
@@ -2213,7 +450,70 @@
         18. Runde, 5 matches
         19. Runde, 5 matches
         20. Runde, 5 matches
-[51/52] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
+[9/52] >2014-15/1-bundesliga-i.txt< - 1 section(s):
+    156 lines, 95 matches - Bundesliga (at.1) 2014/15
+      10 teams (referenced):
+        19× Austria Wien ⇒ FK Austria Wien
+        19× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        19× RB Salzburg ⇒ FC RB Salzburg
+        19× Rapid Wien ⇒ SK Rapid Wien
+        19× SC Wiener Neustadt
+        19× SCR Altach
+        19× SV Grödig
+        19× SV Ried
+        19× Sturm Graz ⇒ SK Sturm Graz
+        19× Wolfsberger AC
+      19 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde ×2, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+[10/52] >2014-15/2-liga1-ii.txt< - 1 section(s):
+    115 lines, 80 matches - 2. Liga (at.2) 2014/15
+      10 teams (referenced):
+        16× Austria Lustenau
+        16× FC Liefering
+        16× FC Wacker Innsbruck
+        16× Floridsdorfer AC
+        16× Kapfenberger SV
+        16× LASK Linz
+        16× SKN St. Pölten
+        16× SV Horn
+        16× SV Mattersburg
+        16× TSV Hartberg
+      16 rounds (referenced):
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[11/52] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
     141 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2014/15
       14 teams (referenced):
         13× Horn Amateure
@@ -2244,7 +544,7 @@
         11. Runde, 7 matches
         12. Runde, 7 matches
         13. Runde, 7 matches
-[52/52] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
+[12/52] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
     142 lines, 85 matches - Bundesliga (at.1) 2014/15
       10 teams (referenced):
         17× Austria Wien ⇒ FK Austria Wien
@@ -2273,5 +573,1705 @@
         32. Runde, 5 matches
         33. Runde, 5 matches
         34. Runde ×2, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[13/52] >2018-19/cup.txt< - 1 section(s):
+    84 lines, 63 matches - ÖFB Cup (at.cup) 2018/19
+      64 teams (referenced):
+        6× FC RB Salzburg
+        6× SK Rapid Wien
+        5× Grazer AK
+        5× LASK Linz
+        4× FK Austria Wien
+        4× SC Wiener Neustadt
+        4× SKN St. Pölten
+        4× TSV Hartberg
+        3× Austria Lustenau
+        3× FC Wacker Innsbruck
+        3× Floridsdorfer AC
+        3× Kapfenberger SV
+        3× SCR Altach
+        3× SV Lafnitz
+        3× SV Ried
+        3× Wolfsberger AC
+        2× ASK-BSC Bruck/Leitha
+        2× ATSV Stadl-Paura
+        2× Austria Klagenfurt
+        2× Deutschlandsberger SC
+        2× FC Pinzgau Saalfelden
+        2× FC Stadlau
+        2× SAK Klagenfurt
+        2× SC Neusiedl am See
+        2× SC Schwaz
+        2× SK Sturm Graz
+        2× SK Vorwärts Steyr
+        2× SV Horn
+        2× SV Leobendorf
+        2× SV Mattersburg
+        2× Union Vöcklamarkt
+        2× WSG Tirol
+        ASK Ebreichsdorf
+        ASKÖ Oedt
+        ASV Siegendorf
+        Dornbirner SV
+        FC Admira Wacker Mödling
+        FC Alberschwende
+        FC Blau-Weiß Linz
+        FC Dornbirn 1913
+        FC Gleisdorf 09
+        FC Kitzbühel
+        FC Kufstein
+        FC Lendorf
+        FC Marchfeld Donauauen ⇒ FC Marchfeld
+        FC Mauerwerk
+        FCM Traiskirchen
+        FV Austria XIII
+        SC Team Wiener Linien
+        SC-ESV Parndorf
+        SK Maria Saal
+        SKU Amstetten
+        SV Grödig
+        SV Neuberg
+        SV Straßwalchen
+        SVG Reichenau
+        USK Anif
+        USV Allerheiligen
+        USV Mettersdorf
+        USV Scheiblingkirchen-Warth
+        Union Gurten
+        VST Völkermarkt
+        VfB Hohenems
+        WSC Hertha Wels
+      6 rounds (referenced):
+        1. Runde, 32 matches
+        2. Runde, 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[14/52] >2018-19/1-bundesliga-i.txt< - 1 section(s):
+    198 lines, 132 matches - Bundesliga (at.1) 2018/19, stage: >Grunddurchgang<
+      12 teams (referenced):
+        22× FC Admira Wacker Mödling
+        22× FC RB Salzburg
+        22× FC Wacker Innsbruck
+        22× FK Austria Wien
+        22× LASK Linz
+        22× SCR Altach
+        22× SK Rapid Wien
+        22× SK Sturm Graz
+        22× SKN St. Pölten
+        22× SV Mattersburg
+        22× TSV Hartberg
+        22× Wolfsberger AC
+      22 rounds (referenced):
+        1. Runde, 6 matches
+        2. Runde, 6 matches
+        3. Runde, 6 matches
+        4. Runde, 6 matches
+        5. Runde, 6 matches
+        6. Runde, 6 matches
+        7. Runde, 6 matches
+        8. Runde, 6 matches
+        9. Runde, 6 matches
+        10. Runde, 6 matches
+        11. Runde, 6 matches
+        12. Runde, 6 matches
+        13. Runde, 6 matches
+        14. Runde, 6 matches
+        15. Runde, 6 matches
+        16. Runde, 6 matches
+        17. Runde, 6 matches
+        18. Runde, 6 matches
+        19. Runde, 6 matches
+        20. Runde, 6 matches
+        21. Runde, 6 matches
+        22. Runde, 6 matches
+[15/52] >2018-19/2-liga2.txt< - 1 section(s):
+    354 lines, 240 matches - 2. Liga (at.2) 2018/19
+      16 teams (referenced):
+        30× Austria Lustenau
+        30× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
+        30× FC Juniors OÖ
+        30× FC Liefering
+        30× FC Wacker Innsbruck II
+        30× Floridsdorfer AC
+        30× Kapfenberger SV
+        30× SC Wiener Neustadt
+        30× SK Austria Klagenfurt ⇒ Austria Klagenfurt
+        30× SKU Amstetten
+        30× SV Horn
+        30× SV Lafnitz
+        30× SV Ried
+        30× Vorwärts Steyr ⇒ SK Vorwärts Steyr
+        30× WSG Wattens ⇒ WSG Tirol
+        30× Young Violets ⇒ Young Violets Austria Wien
+      30 rounds (referenced):
+        1. Runde, 8 matches
+        2. Runde, 8 matches
+        3. Runde, 8 matches
+        4. Runde, 8 matches
+        5. Runde, 8 matches
+        6. Runde, 8 matches
+        7. Runde, 8 matches
+        8. Runde, 8 matches
+        9. Runde, 8 matches
+        10. Runde, 8 matches
+        11. Runde, 8 matches
+        12. Runde, 8 matches
+        13. Runde, 8 matches
+        14. Runde, 8 matches
+        15. Runde, 8 matches
+        16. Runde ×2, 8 matches
+        17. Runde, 8 matches
+        18. Runde, 8 matches
+        19. Runde ×2, 8 matches
+        20. Runde, 8 matches
+        21. Runde, 8 matches
+        22. Runde, 8 matches
+        23. Runde, 8 matches
+        24. Runde, 8 matches
+        25. Runde, 8 matches
+        26. Runde, 8 matches
+        27. Runde, 8 matches
+        28. Runde, 8 matches
+        29. Runde, 8 matches
+        30. Runde, 8 matches
+[16/52] >2018-19/1-bundesliga-ii.txt< - 3 section(s):
+    50 lines, 30 matches - Bundesliga (at.1) 2018/19, stage: >Finaldurchgang - Meister<
+      6 teams (referenced):
+        10× FC RB Salzburg
+        10× FK Austria Wien
+        10× LASK Linz
+        10× SK Sturm Graz
+        10× SKN St. Pölten
+        10× Wolfsberger AC
+      10 rounds (referenced):
+        23. Runde, 3 matches
+        24. Runde, 3 matches
+        25. Runde, 3 matches
+        26. Runde, 3 matches
+        27. Runde, 3 matches
+        28. Runde, 3 matches
+        29. Runde, 3 matches
+        30. Runde, 3 matches
+        31. Runde, 3 matches
+        32. Runde, 3 matches
+    50 lines, 30 matches - Bundesliga (at.1) 2018/19, stage: >Finaldurchgang - Qualifikation<
+      6 teams (referenced):
+        10× FC Admira Wacker Mödling
+        10× FC Wacker Innsbruck
+        10× SCR Altach
+        10× SK Rapid Wien
+        10× SV Mattersburg
+        10× TSV Hartberg
+      10 rounds (referenced):
+        23. Runde, 3 matches
+        24. Runde, 3 matches
+        25. Runde, 3 matches
+        26. Runde, 3 matches
+        27. Runde, 3 matches
+        28. Runde, 3 matches
+        29. Runde, 3 matches
+        30. Runde, 3 matches
+        31. Runde, 3 matches
+        32. Runde, 3 matches
+    8 lines, 3 matches - Bundesliga (at.1) 2018/19, stage: >Europa League Play-off<
+      3 teams (referenced):
+        3× SK Rapid Wien
+        2× SK Sturm Graz
+        SV Mattersburg
+      2 rounds (referenced):
+        Halbfinale, 1 matches
+        Finale, 2 matches
+[17/52] >2015-16/cup.txt< - 1 section(s):
+    82 lines, 63 matches - ÖFB Cup (at.cup) 2015/16
+      64 teams (referenced):
+        6× FC Admira Wacker Mödling
+        6× FC RB Salzburg
+        5× FK Austria Wien
+        5× SKN St. Pölten
+        4× LASK Linz
+        4× SK Rapid Wien
+        4× SK Sturm Graz
+        4× SV Mattersburg
+        3× ASK Ebreichsdorf
+        3× Austria Salzburg
+        3× FC Lankowitz
+        3× FC Stadlau
+        3× FC Wacker Innsbruck
+        3× SCR Altach
+        3× SV Ried
+        3× WSG Tirol
+        2× Austria Klagenfurt
+        2× FC Hard
+        2× FC Lendorf
+        2× FC Wels
+        2× Floridsdorfer AC
+        2× Kapfenberger SV
+        2× SC Krems
+        2× SC Wiener Neustadt
+        2× SKU Amstetten
+        2× SV Horn
+        2× SV Seekirchen
+        2× SV Wallern
+        2× TSV St. Johann
+        2× Union Gurten
+        2× Wiener Sport-Club
+        2× Wolfsberger AC
+        1. SC Sollenau
+        ASK Kottingbrunn
+        ASKÖ Köttmannsdorf
+        ASV Annabichler SV 1923
+        ATSV Stadl-Paura
+        Austria Lustenau
+        Deutschlandsberger SC
+        FC Blau-Weiß Linz
+        FC Dornbirn 1913
+        FC Höchst
+        FC Kitzbühel
+        First Vienna FC
+        SC Golling
+        SC Red Star Penzing
+        SC Ritzing
+        SC Trausdorf
+        SC Weiz
+        SC-ESV Parndorf
+        SK Vorwärts Steyr
+        SV Grödig
+        SV Innsbruck
+        SV Lafnitz
+        SV Leobendorf
+        SV Oberwart
+        SV Schwechat
+        SVG Reichenau
+        SW Bregenz
+        TSV Hartberg
+        TSV Neumarkt
+        USC Eugendorf
+        USV Allerheiligen
+        VST Völkermarkt
+      6 rounds (referenced):
+        1. Runde, 32 matches
+        2. Runde, 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[18/52] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 1 section(s):
+    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2015/16
+      14 teams (referenced):
+        13× SC Admira Gföhl
+        13× SC Echsenbach
+        13× SC St. Martin
+        13× SC Weißenkirchen
+        13× SV Horn II ⇒ Horn Amateure
+        13× SV Rehberg
+        13× SV Sieghartskirchen
+        13× SV Zwentendorf
+        13× USC Altenwörth
+        13× USC Grafenwörth
+        13× USC Schweiggers
+        13× USV Groß Gerungs
+        13× USV Langenlois
+        13× USV Raabs/Thaya
+      13 rounds (referenced):
+        26. Runde, 7 matches
+        14. Runde, 7 matches
+        15. Runde, 7 matches
+        16. Runde, 7 matches
+        17. Runde, 7 matches
+        18. Runde, 7 matches
+        19. Runde, 7 matches
+        20. Runde, 7 matches
+        21. Runde, 7 matches
+        22. Runde, 7 matches
+        23. Runde, 7 matches
+        24. Runde, 7 matches
+        25. Runde, 7 matches
+[19/52] >2015-16/2-liga1-i.txt< - 1 section(s):
+    139 lines, 95 matches - 2. Liga (at.2) 2015/16
+      10 teams (referenced):
+        19× Austria Klagenfurt
+        19× Austria Lustenau
+        19× Austria Salzburg
+        19× FC Liefering
+        19× FC Wacker Innsbruck
+        19× Floridsdorfer AC
+        19× Kapfenberger SV
+        19× LASK Linz
+        19× SC Wiener Neustadt
+        19× SKN St. Pölten
+      19 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde ×2, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+[20/52] >2015-16/1-bundesliga-i.txt< - 1 section(s):
+    160 lines, 100 matches - Bundesliga (at.1) 2015/16
+      10 teams (referenced):
+        20× Austria Wien ⇒ FK Austria Wien
+        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        20× RB Salzburg ⇒ FC RB Salzburg
+        20× Rapid Wien ⇒ SK Rapid Wien
+        20× SCR Altach
+        20× SV Grödig
+        20× SV Mattersburg
+        20× SV Ried
+        20× Sturm Graz ⇒ SK Sturm Graz
+        20× Wolfsberger AC
+      20 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
+[21/52] >2015-16/2-liga1-ii.txt< - 1 section(s):
+    123 lines, 85 matches - 2. Liga (at.2) 2015/16
+      10 teams (referenced):
+        17× Austria Klagenfurt
+        17× Austria Lustenau
+        17× Austria Salzburg
+        17× FC Liefering
+        17× FC Wacker Innsbruck
+        17× Floridsdorfer AC
+        17× Kapfenberger SV
+        17× LASK Linz
+        17× SC Wiener Neustadt
+        17× SKN St. Pölten
+      17 rounds (referenced):
+        20. Runde, 5 matches
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[22/52] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 1 section(s):
+    117 lines, 91 matches - Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) 2015/16
+      14 teams (referenced):
+        13× SC Admira Gföhl
+        13× SC Echsenbach
+        13× SC St. Martin
+        13× SC Weißenkirchen
+        13× SV Horn II ⇒ Horn Amateure
+        13× SV Rehberg
+        13× SV Sieghartskirchen
+        13× SV Zwentendorf
+        13× USC Altenwörth
+        13× USC Grafenwörth
+        13× USC Schweiggers
+        13× USV Groß Gerungs
+        13× USV Langenlois
+        13× USV Raabs/Thaya
+      13 rounds (referenced):
+        1. Runde, 7 matches
+        2. Runde, 7 matches
+        3. Runde, 7 matches
+        4. Runde, 7 matches
+        5. Runde, 7 matches
+        6. Runde, 7 matches
+        7. Runde, 7 matches
+        8. Runde, 7 matches
+        9. Runde, 7 matches
+        10. Runde, 7 matches
+        11. Runde, 7 matches
+        12. Runde, 7 matches
+        13. Runde, 7 matches
+[23/52] >2015-16/1-bundesliga-ii.txt< - 1 section(s):
+    126 lines, 80 matches - Bundesliga (at.1) 2015/16
+      10 teams (referenced):
+        16× Austria Wien ⇒ FK Austria Wien
+        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        16× RB Salzburg ⇒ FC RB Salzburg
+        16× Rapid Wien ⇒ SK Rapid Wien
+        16× SCR Altach
+        16× SV Grödig
+        16× SV Mattersburg
+        16× SV Ried
+        16× Sturm Graz ⇒ SK Sturm Graz
+        16× Wolfsberger AC
+      16 rounds (referenced):
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[24/52] >2017-18/cup.txt< - 1 section(s):
+    84 lines, 63 matches - ÖFB Cup (at.cup) 2017/18
+      64 teams (referenced):
+        6× FC RB Salzburg
+        6× SK Sturm Graz
+        5× SK Rapid Wien
+        5× SV Mattersburg
+        4× Austria Klagenfurt
+        4× SV Ried
+        4× SV Wimpassing
+        4× TSV Hartberg
+        3× ASKÖ Oedt
+        3× FC Wacker Innsbruck
+        3× FK Austria Wien
+        3× LASK Linz
+        3× SCR Altach
+        3× TuS Bad Gleichenberg
+        3× Union St. Florian
+        3× Wolfsberger AC
+        2× ASK Elektra Wien
+        2× ASK-BSC Bruck/Leitha
+        2× Austria Lustenau
+        2× FC Admira Wacker Mödling
+        2× FC Blau-Weiß Linz
+        2× FC Gleisdorf 09
+        2× Kapfenberger SV
+        2× SC Neusiedl am See
+        2× SC Weiz
+        2× SC-ESV Parndorf
+        2× SKU Amstetten
+        2× SV Grödig
+        2× SV Horn
+        2× USK Anif
+        2× Union Gurten
+        2× Union Vöcklamarkt
+        ASK Ebreichsdorf
+        ATSV Stadl-Paura
+        ATUS Ferlach
+        Deutschlandsberger SC
+        FC Dornbirn 1913
+        FC Hard
+        FC Kitzbühel
+        FC Kufstein
+        FC Lendorf
+        FC Marchfeld Donauauen ⇒ FC Marchfeld
+        FC Mauerwerk
+        FC Pinzgau Saalfelden
+        FC Schwarzach
+        FC Stadlau
+        FCM Traiskirchen
+        First Vienna FC
+        Floridsdorfer AC
+        SAK Klagenfurt
+        SC Bad Sauerbrunn
+        SC Kalsdorf
+        SC Schwaz
+        SC Wiener Neustadt
+        SK Vorwärts Steyr
+        SKN St. Pölten
+        SV Lafnitz
+        SV Seekirchen
+        SV Stripfing
+        SV Wörgl
+        TSV St. Johann
+        VfB Hohenems
+        WSG Tirol
+        Wiener Sport-Club
+      6 rounds (referenced):
+        1. Runde, 32 matches
+        2. Runde, 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[25/52] >2017-18/2-liga1-i.txt< - 1 section(s):
+    146 lines, 100 matches - 2. Liga (at.2) 2017/18
+      10 teams (referenced):
+        20× Austria Lustenau
+        20× FC Blau-Weiß Linz
+        20× FC Liefering
+        20× FC Wacker Innsbruck
+        20× Floridsdorfer AC
+        20× Kapfenberger SV
+        20× SC Wiener Neustadt
+        20× SV Ried
+        20× TSV Hartberg
+        20× WSG Tirol
+      20 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde ×2, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
+[26/52] >2017-18/1-bundesliga-relegation.txt< - 1 section(s):
+    6 lines, 2 matches - Bundesliga - Relegation (at.rel.1) 2017/18
+      2 teams (referenced):
+        2× SC Wiener Neustadt
+        2× SKN St. Pölten
+      2 rounds (referenced):
+        Hinspiel, 1 matches
+        Rückspiel, 1 matches
+[27/52] >2017-18/1-bundesliga-i.txt< - 1 section(s):
+    160 lines, 100 matches - Bundesliga (at.1) 2017/18
+      10 teams (referenced):
+        20× Austria Wien ⇒ FK Austria Wien
+        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        20× LASK ⇒ LASK Linz
+        20× RB Salzburg ⇒ FC RB Salzburg
+        20× Rapid Wien ⇒ SK Rapid Wien
+        20× SCR Altach
+        20× SKN St. Pölten
+        20× SV Mattersburg
+        20× Sturm Graz ⇒ SK Sturm Graz
+        20× Wolfsberger AC
+      20 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
+[28/52] >2017-18/2-liga1-ii.txt< - 1 section(s):
+    123 lines, 80 matches - 2. Liga (at.2) 2017/18
+      10 teams (referenced):
+        16× Austria Lustenau
+        16× FC Blau-Weiß Linz
+        16× FC Liefering
+        16× FC Wacker Innsbruck
+        16× Floridsdorfer AC
+        16× Kapfenberger SV
+        16× SC Wiener Neustadt
+        16× SV Ried
+        16× TSV Hartberg
+        16× WSG Tirol
+      16 rounds (referenced):
+        21. Runde ×2, 5 matches
+        22. Runde ×4, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[29/52] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
+    127 lines, 80 matches - Bundesliga (at.1) 2017/18
+      10 teams (referenced):
+        16× Austria Wien ⇒ FK Austria Wien
+        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        16× LASK ⇒ LASK Linz
+        16× RB Salzburg ⇒ FC RB Salzburg
+        16× Rapid Wien ⇒ SK Rapid Wien
+        16× SCR Altach
+        16× SKN St. Pölten
+        16× SV Mattersburg
+        16× Sturm Graz ⇒ SK Sturm Graz
+        16× Wolfsberger AC
+      16 rounds (referenced):
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[30/52] >2013-14/cup.txt< - 1 section(s):
+    83 lines, 63 matches - ÖFB Cup (at.cup) 2013/14
+      64 teams (referenced):
+        6× FC RB Salzburg
+        6× SKN St. Pölten
+        5× SK Sturm Graz
+        5× SV Horn
+        4× FC Admira Wacker Mödling
+        4× SKU Amstetten
+        4× SV Ried
+        4× Wolfsberger AC
+        3× Austria Lustenau
+        3× FC Pasching
+        3× First Vienna FC
+        3× Kapfenberger SV
+        3× SAK Klagenfurt
+        3× SC Kalsdorf
+        3× SC-ESV Parndorf
+        3× SV Mattersburg
+        2× 1. SC Sollenau
+        2× Austria Klagenfurt
+        2× Austria Salzburg
+        2× Dornbirner SV
+        2× FC Lankowitz
+        2× FC Marchfeld Donauauen ⇒ FC Marchfeld
+        2× FC Wacker Innsbruck
+        2× FK Austria Wien
+        2× Floridsdorfer AC
+        2× LASK Linz
+        2× SC Pinkafeld
+        2× SC Wiener Neustadt
+        2× SCR Altach
+        2× SK Vorwärts Steyr
+        2× TSV Hartberg
+        2× Villacher SV
+        ASK Bad Vöslau
+        ASV Draßburg
+        ATSV Ober-Grafendorf
+        DSV Leoben
+        FC Blau-Weiß Linz
+        FC Dornbirn 1913
+        FC Gratkorn
+        FC Hard
+        FC Kitzbühel
+        FC Kufstein
+        FC St. Veit
+        SC Leopoldsdorf
+        SC Retz
+        SC Schwaz
+        SC Team Wiener Linien
+        SK Rapid Wien
+        SV Grödig
+        SV Lafnitz
+        SV Oberwart
+        SV Schwechat
+        SV Seekirchen
+        SV Stegersbach
+        SV Wals-Grünau
+        SW Bregenz
+        TSV Neumarkt
+        TSV St. Johann
+        USV Allerheiligen
+        Union St. Florian
+        Union Vöcklamarkt
+        WSG Tirol
+        Wiener Sport-Club
+        Wiener Viktoria
+      6 rounds (referenced):
+        1. Runde, 32 matches
+        2. Runde, 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[31/52] >2013-14/1-bundesliga-i.txt< - 1 section(s):
+    171 lines, 104 matches - Bundesliga (at.1) 2013/14
+      10 teams (referenced):
+        21× Austria Wien ⇒ FK Austria Wien
+        21× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        21× FC Wacker Innsbruck
+        21× Rapid Wien ⇒ SK Rapid Wien
+        21× SV Grödig
+        21× SV Ried
+        21× Sturm Graz ⇒ SK Sturm Graz
+        21× Wolfsberger AC
+        20× RB Salzburg ⇒ FC RB Salzburg
+        20× SC Wiener Neustadt
+      21 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde ×2, 5 matches
+        16. Runde ×2, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 4 matches
+        20. Runde, 5 matches
+        21. Runde, 5 matches
+[32/52] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
+    122 lines, 76 matches - Bundesliga (at.1) 2013/14
+      10 teams (referenced):
+        16× RB Salzburg ⇒ FC RB Salzburg
+        16× SC Wiener Neustadt
+        15× Austria Wien ⇒ FK Austria Wien
+        15× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        15× FC Wacker Innsbruck
+        15× Rapid Wien ⇒ SK Rapid Wien
+        15× SV Grödig
+        15× SV Ried
+        15× Sturm Graz ⇒ SK Sturm Graz
+        15× Wolfsberger AC
+      16 rounds (referenced):
+        19. Runde, 1 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[33/52] >2020-21/cup.txt< - 1 section(s):
+    61 lines, 47 matches - ÖFB Cup (at.cup) 2020/21
+      63 teams (referenced):
+        2× 1. Wiener Neustädter SC
+        2× ASK Elektra Wien
+        2× Austria Klagenfurt
+        2× FC Admira Wacker Mödling
+        2× FC Blau-Weiß Linz
+        2× FC RB Salzburg
+        2× FC Wacker Innsbruck
+        2× FK Austria Wien
+        2× First Vienna FC
+        2× Floridsdorfer AC
+        2× Kapfenberger SV
+        2× LASK Linz
+        2× SCR Altach
+        2× SK Rapid Wien
+        2× SK Sturm Graz
+        2× SK Vorwärts Steyr
+        2× SKN St. Pölten
+        2× SKU Amstetten
+        2× SV Horn
+        2× SV Lafnitz
+        2× SV Ried
+        2× SV Seekirchen
+        2× SV Stripfing
+        2× SV Wörgl
+        2× SVG Reichenau
+        2× TSV Hartberg
+        2× USV Allerheiligen
+        2× VfB Hohenems
+        2× WSG Tirol
+        2× Wiener Sport-Club
+        2× Wolfsberger AC
+        ASK-BSC Bruck/Leitha
+        ASKÖ Gmünd
+        ASV Draßburg
+        ASV Schrems
+        ASV Siegendorf
+        ATSV Stadl-Paura
+        ATSV Wolfsberg
+        Austria Lustenau
+        Dornbirner SV
+        FC Deutschkreutz
+        FC Dornbirn 1913
+        FC Gleisdorf 09
+        FC Liefering
+        FC Marchfeld
+        Grazer AK
+        SC Neusiedl am See
+        SC Retz
+        SC Schwaz
+        SC Team Wiener Linien
+        SC Weiz
+        SK Treibach
+        SV Grödig
+        SV Innsbruck
+        SV St. Jakob/Rosental
+        SV Wallern
+        SW Bregenz
+        TSV St. Johann
+        TuS Bad Gleichenberg
+        USV St. Anna
+        Union Gurten
+        Union Vöcklamarkt
+        WSC Hertha Wels
+      2 rounds (referenced):
+        1. Runde, 31 matches
+        2. Runde, 16 matches
+[34/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
+    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
+      13 teams (referenced):
+        24× 1. Wiener Neustädter SC
+        24× ASK-BSC Bruck/Leitha
+        24× ASV Draßburg
+        24× FC Admira Wacker Mödling II
+        24× FC Marchfeld
+        24× FC Mauerwerk
+        24× FCM Traiskirchen
+        24× SC Neusiedl am See
+        24× SC Team Wiener Linien
+        24× SV Leobendorf
+        24× SV Stripfing
+        24× Wiener Sport-Club
+        24× Wiener Viktoria
+      26 rounds (referenced):
+        1. Runde ×2, 6 matches
+        2. Runde ×3, 6 matches
+        3. Runde ×2, 6 matches
+        4. Runde ×2, 6 matches
+        5. Runde, 6 matches
+        6. Runde, 6 matches
+        7. Runde, 6 matches
+        8. Runde, 6 matches
+        9. Runde, 6 matches
+        10. Runde, 6 matches
+        11. Runde, 6 matches
+        12. Runde, 6 matches
+        13. Runde, 6 matches
+        14. Runde, 6 matches
+        15. Runde, 6 matches
+        16. Runde, 6 matches
+        17. Runde, 6 matches
+        18. Runde, 6 matches
+        19. Runde, 6 matches
+        20. Runde, 6 matches
+        21. Runde, 6 matches
+        22. Runde, 6 matches
+        23. Runde, 6 matches
+        24. Runde, 6 matches
+        25. Runde, 6 matches
+        26. Runde, 6 matches
+[35/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
+    189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<
+      12 teams (referenced):
+        22× FC Admira Wacker Mödling
+        22× FC RB Salzburg
+        22× FK Austria Wien
+        22× LASK Linz
+        22× SCR Altach
+        22× SK Rapid Wien
+        22× SK Sturm Graz
+        22× SKN St. Pölten
+        22× SV Ried
+        22× TSV Hartberg
+        22× WSG Tirol
+        22× Wolfsberger AC
+      22 rounds (referenced):
+        1. Runde, 6 matches
+        2. Runde, 6 matches
+        3. Runde, 6 matches
+        4. Runde, 6 matches
+        5. Runde, 6 matches
+        6. Runde, 6 matches
+        7. Runde, 6 matches
+        8. Runde, 6 matches
+        9. Runde, 6 matches
+        10. Runde, 6 matches
+        11. Runde, 6 matches
+        12. Runde, 6 matches
+        13. Runde, 6 matches
+        14. Runde, 6 matches
+        15. Runde, 6 matches
+        16. Runde, 6 matches
+        17. Runde, 6 matches
+        18. Runde, 6 matches
+        19. Runde, 6 matches
+        20. Runde, 6 matches
+        21. Runde, 6 matches
+        22. Runde, 6 matches
+[36/52] >2020-21/2-liga2.txt< - 1 section(s):
+    318 lines, 240 matches - 2. Liga (at.2) 2020/21
+      16 teams (referenced):
+        30× Austria Klagenfurt
+        30× Austria Lustenau
+        30× FC Blau-Weiß Linz
+        30× FC Dornbirn 1913
+        30× FC Juniors OÖ
+        30× FC Liefering
+        30× FC Wacker Innsbruck
+        30× Floridsdorfer AC
+        30× Grazer AK
+        30× Kapfenberger SV
+        30× SK Rapid Wien II
+        30× SK Vorwärts Steyr
+        30× SKU Amstetten
+        30× SV Horn
+        30× SV Lafnitz
+        30× Young Violets Austria Wien
+      30 rounds (referenced):
+        1. Runde, 8 matches
+        2. Runde, 8 matches
+        3. Runde, 8 matches
+        4. Runde, 8 matches
+        5. Runde, 8 matches
+        6. Runde, 8 matches
+        7. Runde, 8 matches
+        8. Runde, 8 matches
+        9. Runde, 8 matches
+        10. Runde, 8 matches
+        11. Runde, 8 matches
+        12. Runde, 8 matches
+        13. Runde, 8 matches
+        14. Runde, 8 matches
+        15. Runde, 8 matches
+        16. Runde, 8 matches
+        17. Runde, 8 matches
+        18. Runde, 8 matches
+        19. Runde, 8 matches
+        20. Runde, 8 matches
+        21. Runde, 8 matches
+        22. Runde, 8 matches
+        23. Runde, 8 matches
+        24. Runde, 8 matches
+        25. Runde, 8 matches
+        26. Runde, 8 matches
+        27. Runde, 8 matches
+        28. Runde, 8 matches
+        29. Runde, 8 matches
+        30. Runde, 8 matches
+[37/52] >2010-11/2-liga1-i.txt< - 1 section(s):
+    153 lines, 105 matches - 2. Liga (at.2) 2010/11
+      10 teams (referenced):
+        21× Austria Lustenau
+        21× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        21× FC Gratkorn
+        21× FC Lustenau ⇒ FC Lustenau 07
+        21× First Vienna FC
+        21× SCR Altach
+        21× SKN St. Pölten
+        21× SV Grödig
+        21× TSV Hartberg
+        21× WAC/St. Andrä ⇒ Wolfsberger AC
+      21 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
+        21. Runde, 5 matches
+[38/52] >2010-11/1-bundesliga-i.txt< - 1 section(s):
+    156 lines, 95 matches - Bundesliga (at.1) 2010/11
+      10 teams (referenced):
+        19× Austria Wien ⇒ FK Austria Wien
+        19× FC Wacker Innsbruck
+        19× Kapfenberger SV
+        19× LASK Linz
+        19× RB Salzburg ⇒ FC RB Salzburg
+        19× Rapid Wien ⇒ SK Rapid Wien
+        19× SC Wiener Neustadt
+        19× SV Mattersburg
+        19× SV Ried
+        19× Sturm Graz ⇒ SK Sturm Graz
+      19 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde ×2, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde ×2, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+[39/52] >2010-11/2-liga1-ii.txt< - 1 section(s):
+    111 lines, 75 matches - 2. Liga (at.2) 2010/11
+      10 teams (referenced):
+        15× Austria Lustenau
+        15× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        15× FC Gratkorn
+        15× FC Lustenau ⇒ FC Lustenau 07
+        15× First Vienna FC
+        15× SCR Altach
+        15× SKN St. Pölten
+        15× SV Grödig
+        15× TSV Hartberg
+        15× WAC/St. Andrä ⇒ Wolfsberger AC
+      15 rounds (referenced):
+        22. Runde ×2, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[40/52] >2010-11/1-bundesliga-ii.txt< - 1 section(s):
+    136 lines, 85 matches - Bundesliga (at.1) 2010/11
+      10 teams (referenced):
+        17× Austria Wien ⇒ FK Austria Wien
+        17× FC Wacker Innsbruck
+        17× Kapfenberger SV
+        17× LASK Linz
+        17× RB Salzburg ⇒ FC RB Salzburg
+        17× Rapid Wien ⇒ SK Rapid Wien
+        17× SC Wiener Neustadt
+        17× SV Mattersburg
+        17× SV Ried
+        17× Sturm Graz ⇒ SK Sturm Graz
+      17 rounds (referenced):
+        20. Runde, 5 matches
+        21. Runde ×2, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[41/52] >2019-20/cup.txt< - 1 section(s):
+    82 lines, 63 matches - ÖFB Cup (at.cup) 2019/20
+      64 teams (referenced):
+        6× Austria Lustenau
+        6× FC RB Salzburg
+        5× FC Wacker Innsbruck
+        5× LASK Linz
+        4× SK Sturm Graz
+        4× SKN St. Pölten
+        4× SKU Amstetten
+        4× WSG Tirol
+        3× ASK Ebreichsdorf
+        3× FC Gleisdorf 09
+        3× Kapfenberger SV
+        3× SCR Altach
+        3× SV Ried
+        3× USV St. Anna
+        3× Union Gurten
+        3× Wolfsberger AC
+        2× ATSV Wolfsberg
+        2× Austria Klagenfurt
+        2× FC Admira Wacker Mödling
+        2× FC Blau-Weiß Linz
+        2× FC Dornbirn 1913
+        2× FC Juniors OÖ
+        2× FC Marchfeld Donauauen ⇒ FC Marchfeld
+        2× FK Austria Wien
+        2× Floridsdorfer AC
+        2× Grazer AK
+        2× SK Rapid Wien
+        2× SK Vorwärts Steyr
+        2× SV Horn
+        2× SV Mattersburg
+        2× WSC Hertha Wels
+        2× Wiener Viktoria
+        ASK Elektra Wien
+        ASK-BSC Bruck/Leitha
+        ASKÖ Köttmannsdorf
+        ASV Draßburg
+        ATSV Stadl-Paura
+        FC Kitzbühel
+        FC Kufstein
+        FC Langenegg
+        FC Mauerwerk
+        FC Wolfurt
+        FC Zell am See
+        FCM Traiskirchen
+        SAK Klagenfurt
+        SC Kalsdorf
+        SC Neusiedl am See
+        SC Pinkafeld
+        SC Schwaz
+        SC-ESV Parndorf
+        SK Treibach
+        SV Gloggnitz
+        SV Hall
+        SV Lafnitz
+        SV Leobendorf
+        SV Seekirchen
+        TSV Hartberg
+        TuS Bad Gleichenberg
+        USK Anif
+        USV Allerheiligen
+        Union Edelweiß Linz
+        Union Vöcklamarkt
+        VfB Hohenems
+        Wiener Sport-Club
+      6 rounds (referenced):
+        1. Runde, 32 matches
+        2. Runde, 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[42/52] >2019-20/1-bundesliga-i.txt< - 1 section(s):
+    200 lines, 132 matches - Bundesliga (at.1) 2019/20, stage: >Grunddurchgang<
+      12 teams (referenced):
+        22× FC Admira Wacker Mödling
+        22× FC RB Salzburg
+        22× FK Austria Wien
+        22× LASK Linz
+        22× SCR Altach
+        22× SK Rapid Wien
+        22× SK Sturm Graz
+        22× SKN St. Pölten
+        22× SV Mattersburg
+        22× TSV Hartberg
+        22× WSG Tirol
+        22× Wolfsberger AC
+      22 rounds (referenced):
+        1. Runde, 6 matches
+        2. Runde, 6 matches
+        3. Runde, 6 matches
+        4. Runde, 6 matches
+        5. Runde, 6 matches
+        6. Runde, 6 matches
+        7. Runde, 6 matches
+        8. Runde, 6 matches
+        9. Runde, 6 matches
+        10. Runde, 6 matches
+        11. Runde, 6 matches
+        12. Runde, 6 matches
+        13. Runde, 6 matches
+        14. Runde, 6 matches
+        15. Runde, 6 matches
+        16. Runde, 6 matches
+        17. Runde, 6 matches
+        18. Runde, 6 matches
+        19. Runde, 6 matches
+        20. Runde, 6 matches
+        21. Runde, 6 matches
+        22. Runde, 6 matches
+[43/52] >2019-20/2-liga2.txt< - 1 section(s):
+    349 lines, 240 matches - 2. Liga (at.2) 2019/20
+      16 teams (referenced):
+        30× Austria Lustenau
+        30× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
+        30× FC Dornbirn ⇒ FC Dornbirn 1913
+        30× FC Juniors OÖ
+        30× FC Liefering
+        30× FC Wacker Innsbruck
+        30× Floridsdorfer AC
+        30× Grazer AK
+        30× Kapfenberger SV
+        30× SK Austria Klagenfurt ⇒ Austria Klagenfurt
+        30× SKU Amstetten
+        30× SV Horn
+        30× SV Lafnitz
+        30× SV Ried
+        30× Vorwärts Steyr ⇒ SK Vorwärts Steyr
+        30× Young Violets ⇒ Young Violets Austria Wien
+      30 rounds (referenced):
+        1. Runde, 8 matches
+        2. Runde, 8 matches
+        3. Runde, 8 matches
+        4. Runde, 8 matches
+        5. Runde, 8 matches
+        6. Runde, 8 matches
+        7. Runde, 8 matches
+        8. Runde, 8 matches
+        9. Runde, 8 matches
+        10. Runde, 8 matches
+        11. Runde, 8 matches
+        12. Runde, 8 matches
+        13. Runde, 8 matches
+        14. Runde, 8 matches
+        15. Runde, 8 matches
+        16. Runde, 8 matches
+        17. Runde, 8 matches
+        18. Runde, 8 matches
+        19. Runde, 8 matches
+        20. Runde, 8 matches
+        21. Runde, 8 matches
+        22. Runde, 8 matches
+        23. Runde, 8 matches
+        24. Runde, 8 matches
+        25. Runde, 8 matches
+        26. Runde, 8 matches
+        27. Runde, 8 matches
+        28. Runde, 8 matches
+        29. Runde, 8 matches
+        30. Runde, 8 matches
+[44/52] >2019-20/1-bundesliga-ii.txt< - 3 section(s):
+    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Meister<
+      6 teams (referenced):
+        10× FC RB Salzburg
+        10× LASK Linz
+        10× SK Rapid Wien
+        10× SK Sturm Graz
+        10× TSV Hartberg
+        10× Wolfsberger AC
+      10 rounds (referenced):
+        23. Runde, 3 matches
+        24. Runde, 3 matches
+        25. Runde, 3 matches
+        26. Runde, 3 matches
+        27. Runde, 3 matches
+        28. Runde, 3 matches
+        29. Runde, 3 matches
+        30. Runde, 3 matches
+        31. Runde, 3 matches
+        32. Runde, 3 matches
+    50 lines, 30 matches - Bundesliga (at.1) 2019/20, stage: >Finaldurchgang - Qualifikation<
+      6 teams (referenced):
+        10× FC Admira Wacker Mödling
+        10× FK Austria Wien
+        10× SCR Altach
+        10× SKN St. Pölten
+        10× SV Mattersburg
+        10× WSG Tirol
+      10 rounds (referenced):
+        23. Runde, 3 matches
+        24. Runde, 3 matches
+        25. Runde, 3 matches
+        26. Runde, 3 matches
+        27. Runde, 3 matches
+        28. Runde, 3 matches
+        29. Runde, 3 matches
+        30. Runde, 3 matches
+        31. Runde, 3 matches
+        32. Runde, 3 matches
+    8 lines, 3 matches - Bundesliga (at.1) 2019/20, stage: >Europa League Play-off<
+      3 teams (referenced):
+        3× FK Austria Wien
+        2× TSV Hartberg
+        SCR Altach
+      2 rounds (referenced):
+        Halbfinale, 1 matches
+        Finale, 2 matches
+[45/52] >2012-13/cup.txt< - 1 section(s):
+    83 lines, 63 matches - ÖFB Cup (at.cup) 2012/13
+      64 teams (referenced):
+        6× FC Pasching
+        6× FK Austria Wien
+        5× FC RB Salzburg
+        5× SV Ried
+        4× FC Wacker Innsbruck
+        4× LASK Linz
+        4× SK Rapid Wien
+        4× Wolfsberger AC
+        3× Austria Klagenfurt
+        3× FC Lustenau 07
+        3× SC Kalsdorf
+        3× SCR Altach
+        3× SK Sturm Graz
+        3× SV Mattersburg
+        3× Villacher SV
+        3× Wiener Viktoria
+        2× 1. SC Sollenau
+        2× ASK Bad Vöslau
+        2× Austria Lustenau
+        2× FC Admira Wacker Mödling
+        2× FC Dornbirn 1913
+        2× FC Hard
+        2× Grazer AK
+        2× Kapfenberger SV
+        2× SC Wiener Neustadt
+        2× SV Grödig
+        2× SV Schwechat
+        2× SV Stegersbach
+        2× TSV Hartberg
+        2× TSV St. Johann
+        2× USV Allerheiligen
+        2× Union St. Florian
+        Austria Salzburg
+        DSV Leoben
+        Deutschlandsberger SC
+        FC Blau-Weiß Linz
+        FC Gratkorn
+        FC Kufstein
+        FC Pinzgau Saalfelden
+        FC Rohrendorf/Gedersdorf
+        FC Wolfurt
+        First Vienna FC
+        Floridsdorfer AC
+        SAK 1914
+        SAK Klagenfurt
+        SC Ostbahn XI
+        SC Retz
+        SC Schwaz
+        SC-ESV Parndorf
+        SCU Ardagger
+        SKN St. Pölten
+        SKU Amstetten
+        SV Gaflenz
+        SV Grün-Weiß Micheldorf
+        SV Heiligenkreuz
+        SV Horn
+        SV Oberwart
+        SV Reutte
+        SV Spittal/Drau
+        SV Wallern
+        SW Bregenz
+        Union Vöcklamarkt
+        WSG Tirol
+        Wiener Sport-Club
+      6 rounds (referenced):
+        1. Runde, 32 matches
+        2. Runde, 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[46/52] >2012-13/1-bundesliga-i.txt< - 1 section(s):
+    162 lines, 99 matches - Bundesliga (at.1) 2012/13
+      10 teams (referenced):
+        20× Austria Wien ⇒ FK Austria Wien
+        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        20× FC Wacker Innsbruck
+        20× RB Salzburg ⇒ FC RB Salzburg
+        20× Rapid Wien ⇒ SK Rapid Wien
+        20× SC Wiener Neustadt
+        20× SV Mattersburg
+        20× Sturm Graz ⇒ SK Sturm Graz
+        19× SV Ried
+        19× Wolfsberger AC
+      20 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde ×2, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 4 matches
+[47/52] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
+    132 lines, 81 matches - Bundesliga (at.1) 2012/13
+      10 teams (referenced):
+        17× SV Ried
+        17× Wolfsberger AC
+        16× Austria Wien ⇒ FK Austria Wien
+        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        16× FC Wacker Innsbruck
+        16× RB Salzburg ⇒ FC RB Salzburg
+        16× Rapid Wien ⇒ SK Rapid Wien
+        16× SC Wiener Neustadt
+        16× SV Mattersburg
+        16× Sturm Graz ⇒ SK Sturm Graz
+      17 rounds (referenced):
+        21. Runde ×2, 5 matches
+        20. Runde, 1 matches
+        22. Runde, 5 matches
+        23. Runde ×2, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[48/52] >2016-17/cup.txt< - 1 section(s):
+    81 lines, 63 matches - ÖFB Cup (at.cup) 2016/17
+      64 teams (referenced):
+        6× FC RB Salzburg
+        6× SK Rapid Wien
+        5× FC Admira Wacker Mödling
+        5× LASK Linz
+        4× FK Austria Wien
+        4× Kapfenberger SV
+        4× SKN St. Pölten
+        4× SV Grödig
+        3× ASK Ebreichsdorf
+        3× FC Blau-Weiß Linz
+        3× Floridsdorfer AC
+        3× SC Wiener Neustadt
+        3× SK Sturm Graz
+        3× SKU Amstetten
+        3× SV Lafnitz
+        3× WSG Tirol
+        2× Austria Lustenau
+        2× FC Kitzbühel
+        2× FC Marchfeld Donauauen ⇒ FC Marchfeld
+        2× First Vienna FC
+        2× SC Kalsdorf
+        2× SC Ritzing
+        2× SC Schwaz
+        2× SCR Altach
+        2× SK Bad Wimsbach
+        2× SV Horn
+        2× SV Leobendorf
+        2× SV Mattersburg
+        2× SV Ried
+        2× TSV Hartberg
+        2× Union Gurten
+        2× Union St. Florian
+        ATSV Stadl-Paura
+        ATSV Wolfsberg
+        ATUS Ferlach
+        Austria Klagenfurt
+        Austria Salzburg
+        Deutschlandsberger SC
+        Dornbirner SV
+        FC Bergheim
+        FC Dornbirn 1913
+        FC Gleisdorf 09
+        FC Hard
+        FC Kufstein
+        FC Mauerwerk
+        FC Stadlau
+        FC Wacker Innsbruck
+        FCM Traiskirchen
+        SC Krems
+        SC Neusiedl am See
+        SC-ESV Parndorf
+        SK Treibach
+        SK Vorwärts Steyr
+        SV Grieskirchen
+        SV Wienerberg
+        SV Wörgl
+        SVg Purgstall
+        TSV St. Johann
+        USK Anif
+        USV Allerheiligen
+        USV Rudersdorf
+        VfB Hohenems
+        Wiener Sport-Club
+        Wolfsberger AC
+      6 rounds (referenced):
+        1. Runde, 32 matches
+        2. Runde, 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[49/52] >2016-17/2-liga1-i.txt< - 1 section(s):
+    144 lines, 100 matches - 2. Liga (at.2) 2016/17
+      10 teams (referenced):
+        20× Austria Lustenau
+        20× FC Blau-Weiß Linz
+        20× FC Liefering
+        20× FC Wacker Innsbruck
+        20× Floridsdorfer AC
+        20× Kapfenberger SV
+        20× LASK Linz
+        20× SC Wiener Neustadt
+        20× SV Horn
+        20× WSG Tirol
+      20 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
+[50/52] >2016-17/1-bundesliga-i.txt< - 1 section(s):
+    160 lines, 100 matches - Bundesliga (at.1) 2016/17
+      10 teams (referenced):
+        20× Austria Wien ⇒ FK Austria Wien
+        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        20× RB Salzburg ⇒ FC RB Salzburg
+        20× Rapid Wien ⇒ SK Rapid Wien
+        20× SCR Altach
+        20× SKN St. Pölten
+        20× SV Mattersburg
+        20× SV Ried
+        20× Sturm Graz ⇒ SK Sturm Graz
+        20× Wolfsberger AC
+      20 rounds (referenced):
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
+[51/52] >2016-17/2-liga1-ii.txt< - 1 section(s):
+    120 lines, 80 matches - 2. Liga (at.2) 2016/17
+      10 teams (referenced):
+        16× Austria Lustenau
+        16× FC Blau-Weiß Linz
+        16× FC Liefering
+        16× FC Wacker Innsbruck
+        16× Floridsdorfer AC
+        16× Kapfenberger SV
+        16× LASK Linz
+        16× SC Wiener Neustadt
+        16× SV Horn
+        16× WSG Tirol
+      16 rounds (referenced):
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde ×2, 5 matches
+        30. Runde, 5 matches
+        31. Runde ×2, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
+[52/52] >2016-17/1-bundesliga-ii.txt< - 1 section(s):
+    126 lines, 80 matches - Bundesliga (at.1) 2016/17
+      10 teams (referenced):
+        16× Austria Wien ⇒ FK Austria Wien
+        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        16× RB Salzburg ⇒ FC RB Salzburg
+        16× Rapid Wien ⇒ SK Rapid Wien
+        16× SCR Altach
+        16× SKN St. Pölten
+        16× SV Mattersburg
+        16× SV Ried
+        16× Sturm Graz ⇒ SK Sturm Graz
+        16× Wolfsberger AC
+      16 rounds (referenced):
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
         35. Runde, 5 matches
         36. Runde, 5 matches
