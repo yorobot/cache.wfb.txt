@@ -327,9 +327,9 @@
 [151/165] >france/2017-18/1-ligue1.txt< - 1 section(s):
     532 lines, 380 matches - Ligue 1 (fr.1) 2017/18, 20 team refs, 38 round defs
 [152/165] >france/2020-21/2-ligue2.txt< - 1 section(s):
-    463 lines, 380 matches - Ligue 2 (fr.2) 2020/21, 20 team refs, 38 round defs
+    464 lines, 380 matches - Ligue 2 (fr.2) 2020/21, 20 team refs, 38 round defs
 [153/165] >france/2020-21/1-ligue1.txt< - 1 section(s):
-    473 lines, 380 matches - Ligue 1 (fr.1) 2020/21, 20 team refs, 38 round defs
+    481 lines, 380 matches - Ligue 1 (fr.1) 2020/21, 20 team refs, 38 round defs
 [154/165] >france/2019-20/2-ligue2.txt< - 1 section(s):
     510 lines, 380 matches - Ligue 2 (fr.2) 2019/20, 20 team refs, 38 round defs
 [155/165] >france/2019-20/1-ligue1.txt< - 1 section(s):
@@ -7564,7 +7564,7 @@
         Journée 37, 10 matches
         Journée 38, 10 matches
 [152/165] >france/2020-21/2-ligue2.txt< - 1 section(s):
-    463 lines, 380 matches - Ligue 2 (fr.2) 2020/21
+    464 lines, 380 matches - Ligue 2 (fr.2) 2020/21
       20 teams (referenced):
         38× AC Ajaccio
         38× AJ Auxerre
@@ -7626,7 +7626,7 @@
         Journée 37, 10 matches
         Journée 38, 10 matches
 [153/165] >france/2020-21/1-ligue1.txt< - 1 section(s):
-    473 lines, 380 matches - Ligue 1 (fr.1) 2020/21
+    481 lines, 380 matches - Ligue 1 (fr.1) 2020/21
       20 teams (referenced):
         38× AS Monaco
         38× AS Saint-Étienne

@@ -66,9 +66,9 @@
 [32/52] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
     122 lines, 76 matches - Bundesliga (at.1) 2013/14, 10 team refs, 16 round defs
 [33/52] >2020-21/cup.txt< - 1 section(s):
-    61 lines, 47 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 2 round defs
+    71 lines, 53 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 3 round defs
 [34/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
+    267 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
 [35/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
     189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<, 12 team refs, 22 round defs
 [36/52] >2020-21/2-liga2.txt< - 1 section(s):
@@ -1398,23 +1398,24 @@
         35. Runde, 5 matches
         36. Runde, 5 matches
 [33/52] >2020-21/cup.txt< - 1 section(s):
-    61 lines, 47 matches - ÖFB Cup (at.cup) 2020/21
+    71 lines, 53 matches - ÖFB Cup (at.cup) 2020/21
       63 teams (referenced):
+        3× ASK Elektra Wien
+        3× Austria Klagenfurt
+        3× FC RB Salzburg
+        3× FC Wacker Innsbruck
+        3× FK Austria Wien
+        3× First Vienna FC
+        3× Floridsdorfer AC
+        3× LASK Linz
+        3× SCR Altach
+        3× SK Rapid Wien
+        3× SK Sturm Graz
+        3× TSV Hartberg
         2× 1. Wiener Neustädter SC
-        2× ASK Elektra Wien
-        2× Austria Klagenfurt
         2× FC Admira Wacker Mödling
         2× FC Blau-Weiß Linz
-        2× FC RB Salzburg
-        2× FC Wacker Innsbruck
-        2× FK Austria Wien
-        2× First Vienna FC
-        2× Floridsdorfer AC
         2× Kapfenberger SV
-        2× LASK Linz
-        2× SCR Altach
-        2× SK Rapid Wien
-        2× SK Sturm Graz
         2× SK Vorwärts Steyr
         2× SKN St. Pölten
         2× SKU Amstetten
@@ -1425,7 +1426,6 @@
         2× SV Stripfing
         2× SV Wörgl
         2× SVG Reichenau
-        2× TSV Hartberg
         2× USV Allerheiligen
         2× VfB Hohenems
         2× WSG Tirol
@@ -1463,11 +1463,12 @@
         Union Gurten
         Union Vöcklamarkt
         WSC Hertha Wels
-      2 rounds (referenced):
+      3 rounds (referenced):
         1. Runde, 31 matches
         2. Runde, 16 matches
+        3. Runde, 6 matches
 [34/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    259 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
+    267 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
       13 teams (referenced):
         24× 1. Wiener Neustädter SC
         24× ASK-BSC Bruck/Leitha
@@ -1483,15 +1484,15 @@
         24× Wiener Sport-Club
         24× Wiener Viktoria
       26 rounds (referenced):
-        1. Runde ×2, 6 matches
-        2. Runde ×3, 6 matches
-        3. Runde ×2, 6 matches
-        4. Runde ×2, 6 matches
-        5. Runde, 6 matches
+        1. Runde ×3, 6 matches
+        2. Runde ×4, 6 matches
+        3. Runde, 6 matches
+        4. Runde ×3, 6 matches
+        5. Runde ×2, 6 matches
         6. Runde, 6 matches
         7. Runde, 6 matches
         8. Runde, 6 matches
-        9. Runde, 6 matches
+        9. Runde ×2, 6 matches
         10. Runde, 6 matches
         11. Runde, 6 matches
         12. Runde, 6 matches

@@ -190,13 +190,13 @@
 [86/118] >2013-14/2-championship.txt< - 1 section(s):
     686 lines, 552 matches - Championship (eng.2) 2013/14, 24 team refs, 46 round defs
 [87/118] >2020-21/3-league1.txt< - 1 section(s):
-    654 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
+    656 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
 [88/118] >2020-21/4-league2.txt< - 1 section(s):
-    647 lines, 552 matches - League Two (eng.4) 2020/21, 24 team refs, 46 round defs
+    649 lines, 552 matches - League Two (eng.4) 2020/21, 24 team refs, 46 round defs
 [89/118] >2020-21/5-nationalleague.txt< - 1 section(s):
-    646 lines, 552 matches - National League (eng.5) 2020/21, 24 team refs, 46 round defs
+    602 lines, 506 matches - National League (eng.5) 2020/21, 23 team refs, 46 round defs
 [90/118] >2020-21/1-premierleague.txt< - 1 section(s):
-    468 lines, 380 matches - Premier League (eng.1) 2020/21, 20 team refs, 38 round defs
+    475 lines, 380 matches - Premier League (eng.1) 2020/21, 20 team refs, 38 round defs
 [91/118] >2020-21/2-championship.txt< - 1 section(s):
     667 lines, 552 matches - Championship (eng.2) 2020/21, 24 team refs, 46 round defs
 [92/118] >2003-04/4-division3.txt< - 1 section(s):
@@ -5554,7 +5554,7 @@
         Matchday 45, 12 matches
         Matchday 46, 14 matches
 [87/118] >2020-21/3-league1.txt< - 1 section(s):
-    654 lines, 552 matches - League One (eng.3) 2020/21
+    656 lines, 552 matches - League One (eng.3) 2020/21
       24 teams (referenced):
         46× AFC Wimbledon
         46× Accrington Stanley FC
@@ -5584,7 +5584,7 @@
         Matchday 1, 12 matches
         Matchday 2, 12 matches
         Matchday 3, 12 matches
-        Matchday 4, 12 matches
+        Matchday 4 ×2, 12 matches
         Matchday 5 ×3, 12 matches
         Matchday 12 ×2, 12 matches
         Matchday 6, 12 matches
@@ -5628,7 +5628,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [88/118] >2020-21/4-league2.txt< - 1 section(s):
-    647 lines, 552 matches - League Two (eng.4) 2020/21
+    649 lines, 552 matches - League Two (eng.4) 2020/21
       24 teams (referenced):
         46× Barrow AFC
         46× Bolton Wanderers FC
@@ -5658,7 +5658,7 @@
         Matchday 1, 12 matches
         Matchday 2, 12 matches
         Matchday 3 ×2, 12 matches
-        Matchday 4, 12 matches
+        Matchday 4 ×2, 12 matches
         Matchday 5, 12 matches
         Matchday 6, 12 matches
         Matchday 7, 12 matches
@@ -5702,81 +5702,80 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [89/118] >2020-21/5-nationalleague.txt< - 1 section(s):
-    646 lines, 552 matches - National League (eng.5) 2020/21
-      24 teams (referenced):
-        46× Aldershot Town FC
-        46× Altrincham FC
-        46× Barnet FC
-        46× Boreham Wood FC
-        46× Bromley FC
-        46× Chesterfield FC
-        46× Dagenham & Redbridge FC
-        46× Dover Athletic FC
-        46× Eastleigh FC
-        46× FC Halifax Town
-        46× Hartlepool United FC
-        46× King's Lynn FC
-        46× Macclesfield Town FC
-        46× Maidenhead United FC
-        46× Notts County FC
-        46× Solihull Moors FC
-        46× Stockport County FC
-        46× Sutton United FC
-        46× Torquay United FC
-        46× Wealdstone FC
-        46× Weymouth FC
-        46× Woking FC
-        46× Wrexham AFC
-        46× Yeovil Town FC
+    602 lines, 506 matches - National League (eng.5) 2020/21
+      23 teams (referenced):
+        44× Aldershot Town FC
+        44× Altrincham FC
+        44× Barnet FC
+        44× Boreham Wood FC
+        44× Bromley FC
+        44× Chesterfield FC
+        44× Dagenham & Redbridge FC
+        44× Dover Athletic FC
+        44× Eastleigh FC
+        44× FC Halifax Town
+        44× Hartlepool United FC
+        44× King's Lynn FC
+        44× Maidenhead United FC
+        44× Notts County FC
+        44× Solihull Moors FC
+        44× Stockport County FC
+        44× Sutton United FC
+        44× Torquay United FC
+        44× Wealdstone FC
+        44× Weymouth FC
+        44× Woking FC
+        44× Wrexham AFC
+        44× Yeovil Town FC
       46 rounds (referenced):
-        Matchday 1, 12 matches
-        Matchday 2, 12 matches
-        Matchday 3, 12 matches
-        Matchday 4, 12 matches
-        Matchday 5, 12 matches
-        Matchday 6, 12 matches
-        Matchday 7, 12 matches
-        Matchday 8, 12 matches
-        Matchday 9, 12 matches
-        Matchday 10, 12 matches
-        Matchday 11, 12 matches
-        Matchday 12, 12 matches
-        Matchday 13, 12 matches
-        Matchday 14, 12 matches
-        Matchday 15, 12 matches
-        Matchday 16, 12 matches
-        Matchday 17, 12 matches
-        Matchday 18, 12 matches
-        Matchday 19, 12 matches
-        Matchday 20, 12 matches
-        Matchday 21, 12 matches
-        Matchday 22, 12 matches
-        Matchday 23, 12 matches
-        Matchday 24, 12 matches
-        Matchday 25, 12 matches
-        Matchday 26, 12 matches
-        Matchday 27, 12 matches
-        Matchday 28, 12 matches
-        Matchday 29, 12 matches
-        Matchday 30, 12 matches
-        Matchday 31, 12 matches
-        Matchday 32, 12 matches
-        Matchday 33, 12 matches
-        Matchday 34, 12 matches
-        Matchday 35, 12 matches
-        Matchday 36, 12 matches
-        Matchday 37, 12 matches
-        Matchday 38, 12 matches
-        Matchday 39, 12 matches
-        Matchday 40, 12 matches
-        Matchday 41, 12 matches
-        Matchday 42, 12 matches
-        Matchday 43, 12 matches
-        Matchday 44, 12 matches
-        Matchday 45, 12 matches
-        Matchday 46, 12 matches
+        Matchday 1 ×2, 11 matches
+        Matchday 2, 11 matches
+        Matchday 3, 11 matches
+        Matchday 4, 11 matches
+        Matchday 5, 11 matches
+        Matchday 6, 11 matches
+        Matchday 7, 11 matches
+        Matchday 8, 11 matches
+        Matchday 9, 11 matches
+        Matchday 10, 11 matches
+        Matchday 11, 11 matches
+        Matchday 12, 11 matches
+        Matchday 13, 11 matches
+        Matchday 14, 11 matches
+        Matchday 15, 11 matches
+        Matchday 16, 11 matches
+        Matchday 17, 11 matches
+        Matchday 18, 11 matches
+        Matchday 19, 11 matches
+        Matchday 20, 11 matches
+        Matchday 21, 11 matches
+        Matchday 22, 11 matches
+        Matchday 23, 11 matches
+        Matchday 24, 11 matches
+        Matchday 25, 11 matches
+        Matchday 26, 11 matches
+        Matchday 27, 11 matches
+        Matchday 28, 11 matches
+        Matchday 29, 11 matches
+        Matchday 30, 11 matches
+        Matchday 31, 11 matches
+        Matchday 32, 11 matches
+        Matchday 33, 11 matches
+        Matchday 34, 11 matches
+        Matchday 35, 11 matches
+        Matchday 36, 11 matches
+        Matchday 37, 11 matches
+        Matchday 38, 11 matches
+        Matchday 39, 11 matches
+        Matchday 40, 11 matches
+        Matchday 41, 11 matches
+        Matchday 42, 11 matches
+        Matchday 43, 11 matches
+        Matchday 44, 11 matches
+        Matchday 45, 11 matches
+        Matchday 46, 11 matches
 [90/118] >2020-21/1-premierleague.txt< - 1 section(s):
-    468 lines, 380 matches - Premier League (eng.1) 2020/21
+    475 lines, 380 matches - Premier League (eng.1) 2020/21
       20 teams (referenced):
         38× Arsenal FC
         38× Aston Villa FC

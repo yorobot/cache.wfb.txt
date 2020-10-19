@@ -1,6 +1,6 @@
 62 datafiles:
 [1/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    484 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
+    495 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
 [2/62] >brazil/2008/brasileirao-seriea.txt< - 0 section(s):
   !! ERROR: NO sections found
 [3/62] >brazil/2010/brasileirao-seriea.txt< - 0 section(s):
@@ -126,7 +126,7 @@
 
 
 [1/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    484 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
+    495 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
       20 teams (referenced):
         38× Atlético GO
         38× Atlético MG
@@ -166,8 +166,8 @@
         Rodada 15, 10 matches
         Rodada 16, 10 matches
         Rodada 17, 10 matches
+        Rodada 19 ×2, 10 matches
         Rodada 18, 10 matches
-        Rodada 19, 10 matches
         Rodada 20, 10 matches
         Rodada 21, 10 matches
         Rodada 22, 10 matches
