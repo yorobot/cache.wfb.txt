@@ -104,7 +104,7 @@
 [50/52] >2020-21/1-bundesliga-i.txt< - 1 section(s):
     189 lines, 132 matches - Bundesliga (at.1) 2020/21, stage: >Grunddurchgang<, 12 team refs, 22 round defs
 [51/52] >2020-21/cup.txt< - 1 section(s):
-    71 lines, 53 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 3 round defs
+    78 lines, 53 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 3 round defs
 [52/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
     267 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
 
@@ -2164,7 +2164,7 @@
         21. Runde, 6 matches
         22. Runde, 6 matches
 [51/52] >2020-21/cup.txt< - 1 section(s):
-    71 lines, 53 matches - ÖFB Cup (at.cup) 2020/21
+    78 lines, 53 matches - ÖFB Cup (at.cup) 2020/21
       63 teams (referenced):
         3× ASK Elektra Wien
         3× Austria Klagenfurt
@@ -2231,8 +2231,8 @@
         WSC Hertha Wels
       3 rounds (referenced):
         1. Runde, 31 matches
-        2. Runde, 16 matches
-        3. Runde, 6 matches
+        2. Runde ×3, 16 matches
+        3. Runde ×3, 6 matches
 [52/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
     267 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
       13 teams (referenced):
