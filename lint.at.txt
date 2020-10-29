@@ -106,7 +106,7 @@
 [51/52] >2020-21/cup.txt< - 1 section(s):
     78 lines, 53 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 3 round defs
 [52/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    267 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
+    272 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21, 13 team refs, 26 round defs
 
 
 [1/52] >2013-14/1-bundesliga-i.txt< - 1 section(s):
@@ -2234,7 +2234,7 @@
         2. Runde ×3, 16 matches
         3. Runde ×3, 6 matches
 [52/52] >2020-21/3-regionalliga-ost.txt< - 1 section(s):
-    267 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
+    272 lines, 156 matches - Regionalliga Ost (at.3.o) 2020/21
       13 teams (referenced):
         24× 1. Wiener Neustädter SC
         24× ASK-BSC Bruck/Leitha
@@ -2255,10 +2255,10 @@
         3. Runde, 6 matches
         4. Runde ×3, 6 matches
         5. Runde ×2, 6 matches
-        6. Runde, 6 matches
+        6. Runde ×3, 6 matches
         7. Runde, 6 matches
         8. Runde, 6 matches
-        9. Runde ×2, 6 matches
+        9. Runde ×3, 6 matches
         10. Runde, 6 matches
         11. Runde, 6 matches
         12. Runde, 6 matches

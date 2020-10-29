@@ -34,7 +34,7 @@
 [14/16] >2014-15/2-serieb.txt< - 1 section(s):
     619 lines, 462 matches - Serie B (it.2) 2014/15, 22 team refs, 42 round defs
 [15/16] >2020-21/1-seriea.txt< - 1 section(s):
-    486 lines, 380 matches - Serie A (it.1) 2020/21, 20 team refs, 38 round defs
+    487 lines, 380 matches - Serie A (it.1) 2020/21, 20 team refs, 38 round defs
 [16/16] >2020-21/2-serieb.txt< - 1 section(s):
     473 lines, 380 matches - Serie B (it.2) 2020/21, 20 team refs, 38 round defs
 
@@ -943,7 +943,7 @@
         41^ Giornata, 11 matches
         42^ Giornata, 11 matches
 [15/16] >2020-21/1-seriea.txt< - 1 section(s):
-    486 lines, 380 matches - Serie A (it.1) 2020/21
+    487 lines, 380 matches - Serie A (it.1) 2020/21
       20 teams (referenced):
         38× AC Milan
         38× ACF Fiorentina
