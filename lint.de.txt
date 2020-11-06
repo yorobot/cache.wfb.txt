@@ -197,7 +197,7 @@
 [96/100] >2020-21/cup.txt< - 1 section(s):
     61 lines, 41 matches - DFB Pokal (de.cup) 2020/21, 65 team refs, 6 round defs
 [97/100] >2020-21/3-liga3.txt< - 1 section(s):
-    489 lines, 380 matches - 3. Liga (de.3) 2020/21, 20 team refs, 38 round defs
+    490 lines, 380 matches - 3. Liga (de.3) 2020/21, 20 team refs, 38 round defs
 [98/100] >2020-21/2-bundesliga2.txt< - 1 section(s):
     406 lines, 306 matches - 2. Bundesliga (de.2) 2020/21, 18 team refs, 34 round defs
 [99/100] >2020-21/1-bundesliga.txt< - 1 section(s):
@@ -5176,7 +5176,7 @@
         Halbfinale, 2 matches
         Finale, 1 matches
 [97/100] >2020-21/3-liga3.txt< - 1 section(s):
-    489 lines, 380 matches - 3. Liga (de.3) 2020/21
+    490 lines, 380 matches - 3. Liga (de.3) 2020/21
       20 teams (referenced):
         38× 1. FC Kaiserslautern
         38× 1. FC Magdeburg
@@ -5205,7 +5205,7 @@
         Spieltag 4 ×2, 10 matches
         Spieltag 5 ×2, 10 matches
         Spieltag 6, 10 matches
-        Spieltag 7, 10 matches
+        Spieltag 7 ×2, 10 matches
         Spieltag 8, 10 matches
         Spieltag 9, 10 matches
         Spieltag 10, 10 matches
