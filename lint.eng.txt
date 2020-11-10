@@ -246,7 +246,7 @@
 [111/118] >2020-21/1-premierleague.txt< - 1 section(s):
     481 lines, 380 matches - Premier League (eng.1) 2020/21, 20 team refs, 38 round defs
 [112/118] >2020-21/5-nationalleague.txt< - 1 section(s):
-    613 lines, 506 matches - National League (eng.5) 2020/21, 23 team refs, 46 round defs
+    619 lines, 506 matches - National League (eng.5) 2020/21, 23 team refs, 46 round defs
 [113/118] >2020-21/2-championship.txt< - 1 section(s):
     669 lines, 552 matches - Championship (eng.2) 2020/21, 24 team refs, 46 round defs
 [114/118] >2006-07/4-league2.txt< - 1 section(s):
@@ -7254,7 +7254,7 @@
         Matchday 37, 10 matches
         Matchday 38, 10 matches
 [112/118] >2020-21/5-nationalleague.txt< - 1 section(s):
-    613 lines, 506 matches - National League (eng.5) 2020/21
+    619 lines, 506 matches - National League (eng.5) 2020/21
       23 teams (referenced):
         44× Aldershot Town FC
         44× Altrincham FC
@@ -7285,8 +7285,9 @@
         Matchday 3, 11 matches
         Matchday 4 ×2, 11 matches
         Matchday 5 ×3, 11 matches
-        Matchday 6, 11 matches
-        Matchday 7 ×2, 11 matches
+        Matchday 6 ×2, 11 matches
+        Matchday 7 ×3, 11 matches
+        Matchday 38 ×2, 11 matches
         Matchday 9 ×2, 11 matches
         Matchday 8, 11 matches
         Matchday 10, 11 matches
@@ -7317,7 +7318,6 @@
         Matchday 35, 11 matches
         Matchday 36, 11 matches
         Matchday 37, 11 matches
-        Matchday 38, 11 matches
         Matchday 39, 11 matches
         Matchday 40, 11 matches
         Matchday 41, 11 matches

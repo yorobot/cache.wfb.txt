@@ -48,7 +48,7 @@
 [24/165] >france/2014-15/2-ligue2.txt< - 1 section(s):
     521 lines, 380 matches - Ligue 2 (fr.2) 2014/15, 20 team refs, 38 round defs
 [25/165] >france/2020-21/1-ligue1.txt< - 1 section(s):
-    483 lines, 380 matches - Ligue 1 (fr.1) 2020/21, 20 team refs, 38 round defs
+    485 lines, 380 matches - Ligue 1 (fr.1) 2020/21, 20 team refs, 38 round defs
 [26/165] >france/2020-21/2-ligue2.txt< - 1 section(s):
     467 lines, 380 matches - Ligue 2 (fr.2) 2020/21, 20 team refs, 38 round defs
 [27/165] >iceland/2020/1-urvalsdeild.txt< - 1 section(s):
@@ -1751,7 +1751,7 @@
         Journée 37, 10 matches
         Journée 38, 10 matches
 [25/165] >france/2020-21/1-ligue1.txt< - 1 section(s):
-    483 lines, 380 matches - Ligue 1 (fr.1) 2020/21
+    485 lines, 380 matches - Ligue 1 (fr.1) 2020/21
       20 teams (referenced):
         38× AS Monaco
         38× AS Saint-Étienne
