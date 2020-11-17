@@ -6,7 +6,7 @@
 [3/18] >asia/china/2019/1-superleague.txt< - 1 section(s):
     358 lines, 240 matches - Super League (cn.1) 2019, 16 team refs, 30 round defs
 [4/18] >asia/japan/2020/1-j1league.txt< - 1 section(s):
-    418 lines, 306 matches - J. League (jp.1) 2020, 18 team refs, 34 round defs
+    454 lines, 306 matches - J. League (jp.1) 2020, 18 team refs, 34 round defs
 [5/18] >asia/japan/2019/1-j1league.txt< - 1 section(s):
     415 lines, 306 matches - J. League (jp.1) 2019, 18 team refs, 34 round defs
 [6/18] >pacific/australia/2018-19/1-aleague.txt< - 2 section(s):
@@ -173,7 +173,7 @@
         Matchday 29, 8 matches
         Matchday 30, 8 matches
 [4/18] >asia/japan/2020/1-j1league.txt< - 1 section(s):
-    418 lines, 306 matches - J. League (jp.1) 2020
+    454 lines, 306 matches - J. League (jp.1) 2020
       18 teams (referenced):
         34× Cerezo Osaka
         34× FC Tokyo
@@ -206,14 +206,14 @@
         Round 10 ×2, 9 matches
         Round 11 ×2, 9 matches
         Round 12 ×2, 9 matches
-        Round 24 ×4, 9 matches
-        Round 26 ×3, 9 matches
+        Round 24 ×5, 9 matches
+        Round 26 ×5, 9 matches
         Round 29 ×3, 9 matches
         Round 13 ×2, 9 matches
         Round 14, 9 matches
         Round 15, 9 matches
         Round 16, 9 matches
-        Round 25 ×4, 9 matches
+        Round 25 ×3, 9 matches
         Round 17, 9 matches
         Round 18, 9 matches
         Round 19, 9 matches
@@ -221,12 +221,12 @@
         Round 21, 9 matches
         Round 22, 9 matches
         Round 23, 9 matches
-        Round 27, 9 matches
-        Round 28, 9 matches
-        Round 30, 9 matches
-        Round 31, 9 matches
-        Round 32, 9 matches
-        Round 33, 9 matches
+        Round 33 ×4, 9 matches
+        Round 28 ×3, 9 matches
+        Round 30 ×3, 9 matches
+        Round 32 ×4, 9 matches
+        Round 31 ×4, 9 matches
+        Round 27 ×2, 9 matches
         Round 34, 9 matches
 [5/18] >asia/japan/2019/1-j1league.txt< - 1 section(s):
     415 lines, 306 matches - J. League (jp.1) 2019

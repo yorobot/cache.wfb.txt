@@ -6,7 +6,7 @@
 [3/62] >brazil/2007/brasileirao-seriea.txt< - 0 section(s):
   !! ERROR: NO sections found
 [4/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    500 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
+    520 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
 [5/62] >brazil/2008/brasileirao-seriea.txt< - 0 section(s):
   !! ERROR: NO sections found
 [6/62] >brazil/2014/paulistao.txt< - 0 section(s):
@@ -233,7 +233,7 @@
         Jornada 25, 13 matches
 [3/62] >brazil/2007/brasileirao-seriea.txt< - 0 section(s):
 [4/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    500 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
+    520 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
       20 teams (referenced):
         38× Atlético GO
         38× Atlético MG
@@ -256,13 +256,13 @@
         38× Sport Recife
         38× São Paulo FC
       38 rounds (referenced):
-        Rodada 1 ×2, 10 matches
+        Rodada 1 ×3, 10 matches
         Rodada 2, 10 matches
         Rodada 3, 10 matches
         Rodada 4, 10 matches
         Rodada 5 ×2, 10 matches
         Rodada 11 ×3, 10 matches
-        Rodada 6, 10 matches
+        Rodada 6 ×3, 10 matches
         Rodada 7, 10 matches
         Rodada 8, 10 matches
         Rodada 9, 10 matches
@@ -271,15 +271,15 @@
         Rodada 13, 10 matches
         Rodada 14, 10 matches
         Rodada 15, 10 matches
-        Rodada 16 ×2, 10 matches
+        Rodada 16 ×3, 10 matches
         Rodada 17, 10 matches
-        Rodada 18 ×2, 10 matches
+        Rodada 18 ×3, 10 matches
         Rodada 19, 10 matches
         Rodada 20, 10 matches
         Rodada 21, 10 matches
         Rodada 22, 10 matches
-        Rodada 23, 10 matches
-        Rodada 24, 10 matches
+        Rodada 23 ×2, 10 matches
+        Rodada 24 ×2, 10 matches
         Rodada 25, 10 matches
         Rodada 26, 10 matches
         Rodada 27, 10 matches

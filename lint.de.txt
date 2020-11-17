@@ -195,13 +195,13 @@
 [95/100] >2007-08/1-bundesliga.txt< - 1 section(s):
     438 lines, 306 matches - Bundesliga (de.1) 2007/08, 18 team refs, 34 round defs
 [96/100] >2020-21/cup.txt< - 1 section(s):
-    61 lines, 41 matches - DFB Pokal (de.cup) 2020/21, 65 team refs, 6 round defs
+    77 lines, 55 matches - DFB Pokal (de.cup) 2020/21, 65 team refs, 6 round defs
 [97/100] >2020-21/3-liga3.txt< - 1 section(s):
-    490 lines, 380 matches - 3. Liga (de.3) 2020/21, 20 team refs, 38 round defs
+    499 lines, 380 matches - 3. Liga (de.3) 2020/21, 20 team refs, 38 round defs
 [98/100] >2020-21/2-bundesliga2.txt< - 1 section(s):
-    406 lines, 306 matches - 2. Bundesliga (de.2) 2020/21, 18 team refs, 34 round defs
+    415 lines, 306 matches - 2. Bundesliga (de.2) 2020/21, 18 team refs, 34 round defs
 [99/100] >2020-21/1-bundesliga.txt< - 1 section(s):
-    398 lines, 306 matches - Bundesliga (de.1) 2020/21, 18 team refs, 34 round defs
+    403 lines, 306 matches - Bundesliga (de.1) 2020/21, 18 team refs, 34 round defs
 [100/100] >2006-07/1-bundesliga.txt< - 1 section(s):
     435 lines, 306 matches - Bundesliga (de.1) 2006/07, 18 team refs, 34 round defs
 
@@ -5101,82 +5101,82 @@
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
 [96/100] >2020-21/cup.txt< - 1 section(s):
-    61 lines, 41 matches - DFB Pokal (de.cup) 2020/21
+    77 lines, 55 matches - DFB Pokal (de.cup) 2020/21
       65 teams (referenced):
-        18× N. N.
+        14× N. N.
+        2× 1. FC Köln
+        2× 1. FC Union Berlin
+        2× 1. FSV Mainz 05
+        2× Bayer 04 Leverkusen
+        2× Bayern München
+        2× Bor. Mönchengladbach
+        2× Borussia Dortmund
+        2× Dynamo Dresden
+        2× Eintracht Braunschweig
+        2× Eintracht Frankfurt
+        2× FC Augsburg
+        2× FC Schalke 04
+        2× Fortuna Düsseldorf
+        2× Hannover 96
+        2× Holstein Kiel
+        2× RB Leipzig
+        2× Rot-Weiss Essen
+        2× SC Freiburg
+        2× SC Paderborn 07
+        2× SSV Jahn Regensburg
+        2× SSV Ulm 1846
+        2× SV Darmstadt 98
+        2× SV Elversberg
+        2× SV Sandhausen
+        2× SV Wehen Wiesbaden
+        2× SpVgg Greuther Fürth
+        2× TSG 1899 Hoffenheim
+        2× VfB Stuttgart
+        2× VfL Bochum
+        2× VfL Osnabrück
+        2× VfL Wolfsburg
+        2× Werder Bremen
         1. FC Düren
         1. FC Heidenheim
         1. FC Kaiserslautern
-        1. FC Köln
         1. FC Magdeburg
         1. FC Nürnberg
         1. FC Rielasingen-Arlen
         1. FC Schweinfurt 05
-        1. FC Union Berlin
-        1. FSV Mainz 05
         Arminia Bielefeld
-        Bayer 04 Leverkusen
-        Bayern München
-        Bor. Mönchengladbach
-        Borussia Dortmund
         Chemnitzer FC
-        Dynamo Dresden
-        Eintracht Braunschweig
-        Eintracht Frankfurt
         Eintracht Norderstedt
-        FC Augsburg
         FC Carl Zeiss Jena
         FC Erzgebirge Aue
         FC Ingolstadt 04
         FC Oberneuland
-        FC Schalke 04
         FC St. Pauli
         FV Engers 07
-        Fortuna Düsseldorf
         Hamburger SV
-        Hannover 96
         Hansa Rostock
         Hertha BSC
-        Holstein Kiel
         Karlsruher SC
         MSV Duisburg
         MTV Eintracht Celle
-        RB Leipzig
         RSV Meinerzhagen
-        Rot-Weiss Essen
-        SC Freiburg
-        SC Paderborn 07
         SC Wiedenbrück
-        SSV Jahn Regensburg
-        SSV Ulm 1846
-        SV Darmstadt 98
-        SV Elversberg
-        SV Sandhausen
         SV Todesfelde
         SV Waldhof Mannheim
-        SV Wehen Wiesbaden
-        SpVgg Greuther Fürth
-        TSG 1899 Hoffenheim
         TSV 1860 München
         TSV Havelse
         TSV Steinbach Haiger
         Union Fürstenwalde
         VSG Altglienicke
-        VfB Stuttgart
-        VfL Bochum
-        VfL Osnabrück
-        VfL Wolfsburg
-        Werder Bremen
         Würzburger Kickers
       6 rounds (referenced):
         1. Runde, 32 matches
-        2. Runde, 2 matches
+        2. Runde, 16 matches
         Achtelfinale, 2 matches
         Viertelfinale, 2 matches
         Halbfinale, 2 matches
         Finale, 1 matches
 [97/100] >2020-21/3-liga3.txt< - 1 section(s):
-    490 lines, 380 matches - 3. Liga (de.3) 2020/21
+    499 lines, 380 matches - 3. Liga (de.3) 2020/21
       20 teams (referenced):
         38× 1. FC Kaiserslautern
         38× 1. FC Magdeburg
@@ -5238,7 +5238,7 @@
         Spieltag 37, 10 matches
         Spieltag 38, 10 matches
 [98/100] >2020-21/2-bundesliga2.txt< - 1 section(s):
-    406 lines, 306 matches - 2. Bundesliga (de.2) 2020/21
+    415 lines, 306 matches - 2. Bundesliga (de.2) 2020/21
       18 teams (referenced):
         34× 1. FC Heidenheim
         34× 1. FC Nürnberg
@@ -5294,7 +5294,7 @@
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
 [99/100] >2020-21/1-bundesliga.txt< - 1 section(s):
-    398 lines, 306 matches - Bundesliga (de.1) 2020/21
+    403 lines, 306 matches - Bundesliga (de.1) 2020/21
       18 teams (referenced):
         34× 1. FC Köln
         34× 1. FC Union Berlin
