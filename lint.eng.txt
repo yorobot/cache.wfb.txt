@@ -240,9 +240,9 @@
 [108/118] >2007-08/2-championship.txt< - 1 section(s):
     708 lines, 552 matches - Championship (eng.2) 2007/08, 24 team refs, 46 round defs
 [109/118] >2020-21/4-league2.txt< - 1 section(s):
-    654 lines, 552 matches - League Two (eng.4) 2020/21, 24 team refs, 46 round defs
+    657 lines, 552 matches - League Two (eng.4) 2020/21, 24 team refs, 46 round defs
 [110/118] >2020-21/3-league1.txt< - 1 section(s):
-    659 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
+    665 lines, 552 matches - League One (eng.3) 2020/21, 24 team refs, 46 round defs
 [111/118] >2020-21/1-premierleague.txt< - 1 section(s):
     482 lines, 380 matches - Premier League (eng.1) 2020/21, 20 team refs, 38 round defs
 [112/118] >2020-21/5-nationalleague.txt< - 1 section(s):
@@ -7044,7 +7044,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [109/118] >2020-21/4-league2.txt< - 1 section(s):
-    654 lines, 552 matches - League Two (eng.4) 2020/21
+    657 lines, 552 matches - League Two (eng.4) 2020/21
       24 teams (referenced):
         46× Barrow AFC
         46× Bolton Wanderers FC
@@ -7079,8 +7079,8 @@
         Matchday 6, 12 matches
         Matchday 7, 12 matches
         Matchday 8, 12 matches
-        Matchday 9, 12 matches
-        Matchday 10, 12 matches
+        Matchday 9 ×2, 12 matches
+        Matchday 10 ×2, 12 matches
         Matchday 11 ×2, 12 matches
         Matchday 12, 12 matches
         Matchday 13, 12 matches
@@ -7118,7 +7118,7 @@
         Matchday 45, 12 matches
         Matchday 46, 12 matches
 [110/118] >2020-21/3-league1.txt< - 1 section(s):
-    659 lines, 552 matches - League One (eng.3) 2020/21
+    665 lines, 552 matches - League One (eng.3) 2020/21
       24 teams (referenced):
         46× AFC Wimbledon
         46× Accrington Stanley FC
@@ -7150,10 +7150,10 @@
         Matchday 3, 12 matches
         Matchday 4 ×2, 12 matches
         Matchday 5 ×3, 12 matches
-        Matchday 12 ×2, 12 matches
+        Matchday 12 ×4, 12 matches
         Matchday 6, 12 matches
         Matchday 7, 12 matches
-        Matchday 8, 12 matches
+        Matchday 8 ×2, 12 matches
         Matchday 9 ×2, 12 matches
         Matchday 10, 12 matches
         Matchday 11, 12 matches

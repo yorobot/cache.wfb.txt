@@ -6,7 +6,7 @@
 [3/62] >brazil/2007/brasileirao-seriea.txt< - 0 section(s):
   !! ERROR: NO sections found
 [4/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    520 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
+    533 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
 [5/62] >brazil/2008/brasileirao-seriea.txt< - 0 section(s):
   !! ERROR: NO sections found
 [6/62] >brazil/2014/paulistao.txt< - 0 section(s):
@@ -233,7 +233,7 @@
         Jornada 25, 13 matches
 [3/62] >brazil/2007/brasileirao-seriea.txt< - 0 section(s):
 [4/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    520 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
+    533 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
       20 teams (referenced):
         38× Atlético GO
         38× Atlético MG
