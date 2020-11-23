@@ -28,9 +28,9 @@
 [14/18] >2017-18/2-liga2.txt< - 1 section(s):
     647 lines, 462 matches - Segunda División (es.2) 2017/18, 22 team refs, 42 round defs
 [15/18] >2019-20/1-liga.txt< - 1 section(s):
-    531 lines, 380 matches - Primera División (es.1) 2019/20, 20 team refs, 38 round defs
+    536 lines, 380 matches - Primera División (es.1) 2019/20, 20 team refs, 38 round defs
 [16/18] >2019-20/2-liga2.txt< - 1 section(s):
-    634 lines, 462 matches - Segunda División (es.2) 2019/20, 22 team refs, 42 round defs
+    635 lines, 462 matches - Segunda División (es.2) 2019/20, 22 team refs, 42 round defs
 [17/18] >2013-14/1-liga.txt< - 1 section(s):
     554 lines, 380 matches - Primera División (es.1) 2013/14, 20 team refs, 38 round defs
 [18/18] >2013-14/2-liga2.txt< - 1 section(s):
@@ -948,7 +948,7 @@
         Jornada 41, 11 matches
         Jornada 42, 11 matches
 [15/18] >2019-20/1-liga.txt< - 1 section(s):
-    531 lines, 380 matches - Primera División (es.1) 2019/20
+    536 lines, 380 matches - Primera División (es.1) 2019/20
       20 teams (referenced):
         38× Athletic Club Bilbao
         38× Atlético Madrid
@@ -1010,7 +1010,7 @@
         Jornada 37, 10 matches
         Jornada 38, 10 matches
 [16/18] >2019-20/2-liga2.txt< - 1 section(s):
-    634 lines, 462 matches - Segunda División (es.2) 2019/20
+    635 lines, 462 matches - Segunda División (es.2) 2019/20
       22 teams (referenced):
         42× AD Alcorcón
         42× Albacete Balompié

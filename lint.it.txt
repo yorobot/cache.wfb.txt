@@ -30,7 +30,7 @@
 [13/16] >2019-20/2-serieb.txt< - 1 section(s):
     525 lines, 380 matches - Serie B (it.2) 2019/20, 20 team refs, 38 round defs
 [14/16] >2019-20/1-seriea.txt< - 1 section(s):
-    532 lines, 380 matches - Serie A (it.1) 2019/20, 20 team refs, 38 round defs
+    537 lines, 380 matches - Serie A (it.1) 2019/20, 20 team refs, 38 round defs
 [15/16] >2013-14/2-serieb.txt< - 1 section(s):
     605 lines, 462 matches - Serie B (it.2) 2013/14, 22 team refs, 42 round defs
   !! 1 error(s) / warn(s):
@@ -821,7 +821,6 @@
         38× Benevento
         38× Cittadella
         38× Cosenza Calcio
-        38× Cremonese ⇒ US Cremonese
         38× Empoli
         38× FC Crotone
         38× Frosinone
@@ -831,6 +830,7 @@
         38× Salernitana
         38× Spezia
         38× Trapani Calcio
+        38× US Cremonese
         38× Venezia
         38× Virtus Entella
       38 rounds (referenced):
@@ -873,21 +873,21 @@
         37^ Giornata, 10 matches
         38^ Giornata, 10 matches
 [14/16] >2019-20/1-seriea.txt< - 1 section(s):
-    532 lines, 380 matches - Serie A (it.1) 2019/20
+    537 lines, 380 matches - Serie A (it.1) 2019/20
       20 teams (referenced):
         38× AC Milan
         38× ACF Fiorentina
         38× AS Roma
-        38× Atalanta BC ⇒ Atalanta Bergamo
+        38× Atalanta Bergamo
         38× Bologna FC
-        38× Brescia ⇒ Brescia Calcio
+        38× Brescia Calcio
         38× Cagliari Calcio
         38× FC Internazionale Milano
         38× Genoa CFC
-        38× Hellas Verona FC ⇒ Hellas Verona
+        38× Hellas Verona
         38× Juventus
         38× Parma
-        38× SPAL ⇒ SPAL Ferrara
+        38× SPAL Ferrara
         38× SS Lazio
         38× SSC Napoli
         38× Torino FC
@@ -912,7 +912,7 @@
         14^ Giornata, 10 matches
         15^ Giornata, 10 matches
         16^ Giornata, 10 matches
-        17^ Giornata ×2, 10 matches
+        17^ Giornata ×3, 10 matches
         18^ Giornata, 10 matches
         19^ Giornata, 10 matches
         20^ Giornata, 10 matches
