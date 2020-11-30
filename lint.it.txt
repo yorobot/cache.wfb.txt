@@ -1,6 +1,6 @@
 16 datafiles:
 [1/16] >2020-21/2-serieb.txt< - 1 section(s):
-    484 lines, 380 matches - Serie B (it.2) 2020/21, 20 team refs, 38 round defs
+    488 lines, 380 matches - Serie B (it.2) 2020/21, 20 team refs, 38 round defs
 [2/16] >2020-21/1-seriea.txt< - 1 section(s):
     487 lines, 380 matches - Serie A (it.1) 2020/21, 20 team refs, 38 round defs
 [3/16] >2015-16/2-serieb.txt< - 1 section(s):
@@ -40,7 +40,7 @@
 
 
 [1/16] >2020-21/2-serieb.txt< - 1 section(s):
-    484 lines, 380 matches - Serie B (it.2) 2020/21
+    488 lines, 380 matches - Serie B (it.2) 2020/21
       20 teams (referenced):
         38× AC Chievo Verona
         38× AC Pisa
@@ -69,11 +69,11 @@
         4^ Giornata, 10 matches
         5^ Giornata ×3, 10 matches
         6^ Giornata, 10 matches
-        7^ Giornata, 10 matches
+        7^ Giornata ×2, 10 matches
         8^ Giornata, 10 matches
         9^ Giornata, 10 matches
         10^ Giornata, 10 matches
-        11^ Giornata ×2, 10 matches
+        11^ Giornata, 10 matches
         12^ Giornata, 10 matches
         13^ Giornata, 10 matches
         14^ Giornata, 10 matches

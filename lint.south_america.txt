@@ -102,7 +102,7 @@
 [51/62] >brazil/2015/paranaense.txt< - 0 section(s):
   !! ERROR: NO sections found
 [52/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    533 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
+    522 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
 [53/62] >brazil/2006/brasileirao-seriea.txt< - 0 section(s):
   !! ERROR: NO sections found
 [54/62] >brazil/2013/carioca.txt< - 0 section(s):
@@ -476,7 +476,7 @@
 [50/62] >brazil/2015/copadobrasil.txt< - 0 section(s):
 [51/62] >brazil/2015/paranaense.txt< - 0 section(s):
 [52/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    533 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
+    522 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
       20 teams (referenced):
         38× Atlético GO
         38× Atlético MG

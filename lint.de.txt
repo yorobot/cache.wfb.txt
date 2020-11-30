@@ -10,7 +10,7 @@
 [5/100] >2020-21/1-bundesliga.txt< - 1 section(s):
     403 lines, 306 matches - Bundesliga (de.1) 2020/21, 18 team refs, 34 round defs
 [6/100] >2020-21/3-liga3.txt< - 1 section(s):
-    499 lines, 380 matches - 3. Liga (de.3) 2020/21, 20 team refs, 38 round defs
+    516 lines, 380 matches - 3. Liga (de.3) 2020/21, 20 team refs, 38 round defs
 [7/100] >2020-21/2-bundesliga2.txt< - 1 section(s):
     415 lines, 306 matches - 2. Bundesliga (de.2) 2020/21, 18 team refs, 34 round defs
 [8/100] >2020-21/cup.txt< - 1 section(s):
@@ -471,7 +471,7 @@
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
 [6/100] >2020-21/3-liga3.txt< - 1 section(s):
-    499 lines, 380 matches - 3. Liga (de.3) 2020/21
+    516 lines, 380 matches - 3. Liga (de.3) 2020/21
       20 teams (referenced):
         38× 1. FC Kaiserslautern
         38× 1. FC Magdeburg
@@ -501,9 +501,9 @@
         Spieltag 5 ×2, 10 matches
         Spieltag 6, 10 matches
         Spieltag 7 ×2, 10 matches
-        Spieltag 8, 10 matches
-        Spieltag 9, 10 matches
-        Spieltag 10, 10 matches
+        Spieltag 8 ×2, 10 matches
+        Spieltag 9 ×4, 10 matches
+        Spieltag 10 ×2, 10 matches
         Spieltag 11, 10 matches
         Spieltag 12, 10 matches
         Spieltag 13, 10 matches

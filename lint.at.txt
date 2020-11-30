@@ -22,7 +22,7 @@
 [11/52] >2020-21/2-liga2.txt< - 1 section(s):
     323 lines, 240 matches - 2. Liga (at.2) 2020/21, 16 team refs, 30 round defs
 [12/52] >2020-21/cup.txt< - 1 section(s):
-    75 lines, 55 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 3 round defs
+    76 lines, 55 matches - ÖFB Cup (at.cup) 2020/21, 63 team refs, 3 round defs
 [13/52] >2015-16/2-liga1-i.txt< - 1 section(s):
     139 lines, 95 matches - 2. Liga (at.2) 2015/16, 10 team refs, 19 round defs
 [14/52] >2015-16/1-bundesliga-i.txt< - 1 section(s):
@@ -582,7 +582,7 @@
         29. Runde, 8 matches
         30. Runde, 8 matches
 [12/52] >2020-21/cup.txt< - 1 section(s):
-    75 lines, 55 matches - ÖFB Cup (at.cup) 2020/21
+    76 lines, 55 matches - ÖFB Cup (at.cup) 2020/21
       63 teams (referenced):
         3× ASK Elektra Wien
         3× Austria Klagenfurt

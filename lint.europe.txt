@@ -293,9 +293,9 @@
 [134/165] >turkey/2013-14/1-superlig.txt< - 1 section(s):
     464 lines, 306 matches - Süper Lig (tr.1) 2013/14, 18 team refs, 34 round defs
 [135/165] >france/2020-21/2-ligue2.txt< - 1 section(s):
-    469 lines, 380 matches - Ligue 2 (fr.2) 2020/21, 20 team refs, 38 round defs
+    477 lines, 380 matches - Ligue 2 (fr.2) 2020/21, 20 team refs, 38 round defs
 [136/165] >france/2020-21/1-ligue1.txt< - 1 section(s):
-    489 lines, 380 matches - Ligue 1 (fr.1) 2020/21, 20 team refs, 38 round defs
+    492 lines, 380 matches - Ligue 1 (fr.1) 2020/21, 20 team refs, 38 round defs
 [137/165] >france/2015-16/2-ligue2.txt< - 1 section(s):
     520 lines, 380 matches - Ligue 2 (fr.2) 2015/16, 20 team refs, 38 round defs
 [138/165] >france/2015-16/1-ligue1.txt< - 1 section(s):
@@ -6554,7 +6554,7 @@
         Round 33, 9 matches
         Round 34, 9 matches
 [135/165] >france/2020-21/2-ligue2.txt< - 1 section(s):
-    469 lines, 380 matches - Ligue 2 (fr.2) 2020/21
+    477 lines, 380 matches - Ligue 2 (fr.2) 2020/21
       20 teams (referenced):
         38× AC Ajaccio
         38× AJ Auxerre
@@ -6585,13 +6585,13 @@
         Journée 6, 10 matches
         Journée 7, 10 matches
         Journée 8 ×2, 10 matches
-        Journée 9, 10 matches
+        Journée 9 ×2, 10 matches
         Journée 10, 10 matches
-        Journée 11, 10 matches
+        Journée 11 ×2, 10 matches
         Journée 12, 10 matches
         Journée 13, 10 matches
         Journée 14, 10 matches
-        Journée 15, 10 matches
+        Journée 15 ×2, 10 matches
         Journée 16, 10 matches
         Journée 17, 10 matches
         Journée 18, 10 matches
@@ -6616,7 +6616,7 @@
         Journée 37, 10 matches
         Journée 38, 10 matches
 [136/165] >france/2020-21/1-ligue1.txt< - 1 section(s):
-    489 lines, 380 matches - Ligue 1 (fr.1) 2020/21
+    492 lines, 380 matches - Ligue 1 (fr.1) 2020/21
       20 teams (referenced):
         38× AS Monaco
         38× AS Saint-Étienne
