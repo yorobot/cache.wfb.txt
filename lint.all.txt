@@ -14,53 +14,54 @@
 ==== italy ====
 3 error(s) / warn(s):
 !! ERROR: 2015-16/2-serieb.txt[1] - WARN: 1 unmatched lines: ["AC Cesena (1940-2018)    0-2  Bari"]
-!! ERROR: 2017-18/2-serieb.txt[1] - WARN: 1 unmatched lines: ["AC Cesena (1940-2018)    0-2  Ascoli"]
 !! ERROR: 2013-14/2-serieb.txt[1] - WARN: 1 unmatched lines: ["AC Cesena (1940-2018)    0-2  Spezia"]
+!! ERROR: 2017-18/2-serieb.txt[1] - WARN: 1 unmatched lines: ["AC Cesena (1940-2018)    0-2  Ascoli"]
 
 ==== europe ====
 0 errors / warns
 
 ==== europe-champions-league ====
 33 error(s) / warn(s):
+!! ERROR: 2015-16/cl.txt[1] - WARN: too many name matches (3) found for >Arsenal<
+!! ERROR: 2015-16/cl.txt[1] - WARN: too many name matches (2) found for >Barcelona<
+!! ERROR: 2015-16/cl.txt[1] - WARN: too many name matches (2) found for >Valencia<
+!! ERROR: 2015-16/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
+!! ERROR: 2015-16/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
+!! ERROR: 2014-15/cl.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
+!! ERROR: 2014-15/cl.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
+!! ERROR: 2014-15/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
+!! ERROR: 2014-15/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
 !! ERROR: 2012-13/cl.txt[1] - WARN: too many name matches (3) found for >Arsenal<
 !! ERROR: 2012-13/cl.txt[1] - WARN: too many name matches (2) found for >Barcelona<
 !! ERROR: 2012-13/cl.txt[1] - WARN: too many name matches (2) found for >Valencia<
 !! ERROR: 2012-13/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
 !! ERROR: 2012-13/cl_finals.txt[1] - WARN: too many name matches (2) found for >Valencia<
 !! ERROR: 2012-13/el_finals.txt[1] - WARN: too many name matches (2) found for >Liverpool<
+!! ERROR: 2018-19/cl.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
+!! ERROR: 2018-19/cl_finals.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
+!! ERROR: 2013-14/cl.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
+!! ERROR: 2013-14/cl_finals.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
+!! ERROR: 2013-14/cl_playoffs.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
 !! ERROR: 2011-12/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
 !! ERROR: 2011-12/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
 !! ERROR: 2011-12/el_finals.txt[1] - WARN: too many name matches (2) found for >Valencia<
-!! ERROR: 2015-16/cl.txt[1] - WARN: too many name matches (3) found for >Arsenal<
-!! ERROR: 2015-16/cl.txt[1] - WARN: too many name matches (2) found for >Barcelona<
-!! ERROR: 2015-16/cl.txt[1] - WARN: too many name matches (2) found for >Valencia<
-!! ERROR: 2015-16/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
-!! ERROR: 2015-16/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
-!! ERROR: 2016-17/cl.txt[1] - WARN: too many name matches (3) found for >Arsenal<
-!! ERROR: 2016-17/cl.txt[1] - WARN: too many name matches (2) found for >Barcelona<
-!! ERROR: 2016-17/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
-!! ERROR: 2016-17/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
-!! ERROR: 2014-15/cl.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
-!! ERROR: 2014-15/cl.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
-!! ERROR: 2014-15/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
-!! ERROR: 2014-15/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
-!! ERROR: 2018-19/cl.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
-!! ERROR: 2018-19/cl_finals.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
 !! ERROR: 2017-18/cl.txt[1] - WARN: too many name matches (2) found for >Barcelona<
 !! ERROR: 2017-18/cl.txt[1] - WARN: too many name matches (2) found for >Liverpool<
 !! ERROR: 2017-18/cl_finals.txt[1] - WARN: too many name matches (2) found for >Liverpool<
 !! ERROR: 2017-18/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
+!! ERROR: 2016-17/cl.txt[1] - WARN: too many name matches (3) found for >Arsenal<
+!! ERROR: 2016-17/cl.txt[1] - WARN: too many name matches (2) found for >Barcelona<
+!! ERROR: 2016-17/cl_finals.txt[1] - WARN: too many name matches (2) found for >Barcelona<
+!! ERROR: 2016-17/cl_finals.txt[1] - WARN: too many name matches (3) found for >Arsenal<
 !! ERROR: 2019-20/cl.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
 !! ERROR: 2019-20/cl_finals.txt[1] - WARN: too many name matches (2) found for >Liverpool FC<
-!! ERROR: 2013-14/cl.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
-!! ERROR: 2013-14/cl_finals.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
-!! ERROR: 2013-14/cl_playoffs.txt[1] - WARN: too many name matches (2) found for >Arsenal FC<
 
 ==== mexico ====
 0 errors / warns
 
 ==== south-america ====
-0 errors / warns
+1 error(s) / warn(s):
+!! ERROR: brazil/2020/1-seriea.txt[1] - WARN: 1 unmatched lines: ["22.00"]
 
 ==== world ====
 0 errors / warns

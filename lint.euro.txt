@@ -1,74 +1,59 @@
 24 datafiles:
-[1/24] >2016--france_quali/euro_i.txt< - 0 section(s):
+[1/24] >1960--france/euro.txt< - 0 section(s):
   !! ERROR: NO sections found
-[2/24] >2016--france_quali/euro_h.txt< - 0 section(s):
+[2/24] >1972--belgium/euro.txt< - 0 section(s):
   !! ERROR: NO sections found
-[3/24] >2016--france_quali/euro_c.txt< - 0 section(s):
+[3/24] >1992--sweden/euro.txt< - 0 section(s):
   !! ERROR: NO sections found
-[4/24] >2016--france_quali/euro_g.txt< - 0 section(s):
+[4/24] >1964--spain/euro.txt< - 0 section(s):
   !! ERROR: NO sections found
-[5/24] >2016--france_quali/euro_d.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[6/24] >2016--france_quali/euro_e.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[7/24] >2016--france_quali/euro_f.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[8/24] >2016--france_quali/euro_a.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[9/24] >2016--france_quali/euro_b.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[10/24] >1972--belgium/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[11/24] >1980--italy/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[12/24] >1968--italy/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[13/24] >1988--west-germany/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[14/24] >1984--france/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[15/24] >1976--yugoslavia/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[16/24] >2000--belgium-netherlands/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[17/24] >1992--sweden/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[18/24] >1996--england/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[19/24] >1960--france/euro.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[20/24] >2008--austria-switzerland/euro.txt< - 1 section(s):
+[5/24] >2008--austria-switzerland/euro.txt< - 1 section(s):
     45 lines, 31 matches - Euro (euro) 2008, 16 team refs, 4 group defs, 4 group refs, 3 round defs, 3 round defs
-[21/24] >2004--portugal/euro.txt< - 0 section(s):
+[6/24] >1984--france/euro.txt< - 0 section(s):
   !! ERROR: NO sections found
-[22/24] >2012--poland-ukraine/euro.txt< - 1 section(s):
+[7/24] >1976--yugoslavia/euro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[8/24] >1980--italy/euro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[9/24] >1996--england/euro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[10/24] >2004--portugal/euro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[11/24] >1988--west-germany/euro.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[12/24] >2012--poland-ukraine/euro.txt< - 1 section(s):
     45 lines, 31 matches - Euro (euro) 2012, 16 team refs, 4 group defs, 4 group refs, 3 round defs, 3 round defs
-[23/24] >1964--spain/euro.txt< - 0 section(s):
+[13/24] >2000--belgium-netherlands/euro.txt< - 0 section(s):
   !! ERROR: NO sections found
-[24/24] >2016--france/euro.txt< - 1 section(s):
+[14/24] >2016--france/euro.txt< - 1 section(s):
     70 lines, 51 matches - Euro (euro) 2016, 24 team refs, 6 group defs, 6 group refs, 3 round defs, 4 round defs
+[15/24] >2016--france_quali/euro_e.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[16/24] >2016--france_quali/euro_c.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[17/24] >2016--france_quali/euro_h.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[18/24] >2016--france_quali/euro_f.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[19/24] >2016--france_quali/euro_d.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[20/24] >2016--france_quali/euro_a.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[21/24] >2016--france_quali/euro_g.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[22/24] >2016--france_quali/euro_b.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[23/24] >2016--france_quali/euro_i.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[24/24] >1968--italy/euro.txt< - 0 section(s):
+  !! ERROR: NO sections found
 
 
-[1/24] >2016--france_quali/euro_i.txt< - 0 section(s):
-[2/24] >2016--france_quali/euro_h.txt< - 0 section(s):
-[3/24] >2016--france_quali/euro_c.txt< - 0 section(s):
-[4/24] >2016--france_quali/euro_g.txt< - 0 section(s):
-[5/24] >2016--france_quali/euro_d.txt< - 0 section(s):
-[6/24] >2016--france_quali/euro_e.txt< - 0 section(s):
-[7/24] >2016--france_quali/euro_f.txt< - 0 section(s):
-[8/24] >2016--france_quali/euro_a.txt< - 0 section(s):
-[9/24] >2016--france_quali/euro_b.txt< - 0 section(s):
-[10/24] >1972--belgium/euro.txt< - 0 section(s):
-[11/24] >1980--italy/euro.txt< - 0 section(s):
-[12/24] >1968--italy/euro.txt< - 0 section(s):
-[13/24] >1988--west-germany/euro.txt< - 0 section(s):
-[14/24] >1984--france/euro.txt< - 0 section(s):
-[15/24] >1976--yugoslavia/euro.txt< - 0 section(s):
-[16/24] >2000--belgium-netherlands/euro.txt< - 0 section(s):
-[17/24] >1992--sweden/euro.txt< - 0 section(s):
-[18/24] >1996--england/euro.txt< - 0 section(s):
-[19/24] >1960--france/euro.txt< - 0 section(s):
-[20/24] >2008--austria-switzerland/euro.txt< - 1 section(s):
+[1/24] >1960--france/euro.txt< - 0 section(s):
+[2/24] >1972--belgium/euro.txt< - 0 section(s):
+[3/24] >1992--sweden/euro.txt< - 0 section(s):
+[4/24] >1964--spain/euro.txt< - 0 section(s):
+[5/24] >2008--austria-switzerland/euro.txt< - 1 section(s):
     45 lines, 31 matches - Euro (euro) 2008
       16 teams (referenced):
         6× Germany
@@ -100,8 +85,13 @@
         Quarter-finals, 4 matches
         Semi-finals, 2 matches
         Final, 1 matches
-[21/24] >2004--portugal/euro.txt< - 0 section(s):
-[22/24] >2012--poland-ukraine/euro.txt< - 1 section(s):
+[6/24] >1984--france/euro.txt< - 0 section(s):
+[7/24] >1976--yugoslavia/euro.txt< - 0 section(s):
+[8/24] >1980--italy/euro.txt< - 0 section(s):
+[9/24] >1996--england/euro.txt< - 0 section(s):
+[10/24] >2004--portugal/euro.txt< - 0 section(s):
+[11/24] >1988--west-germany/euro.txt< - 0 section(s):
+[12/24] >2012--poland-ukraine/euro.txt< - 1 section(s):
     45 lines, 31 matches - Euro (euro) 2012
       16 teams (referenced):
         6× Italy
@@ -133,8 +123,8 @@
         Quarter-finals, 4 matches
         Semi-finals, 2 matches
         Final, 1 matches
-[23/24] >1964--spain/euro.txt< - 0 section(s):
-[24/24] >2016--france/euro.txt< - 1 section(s):
+[13/24] >2000--belgium-netherlands/euro.txt< - 0 section(s):
+[14/24] >2016--france/euro.txt< - 1 section(s):
     70 lines, 51 matches - Euro (euro) 2016
       24 teams (referenced):
         7× France
@@ -177,3 +167,13 @@
         Quarter-finals, 4 matches
         Semi-finals, 2 matches
         Final, 1 matches
+[15/24] >2016--france_quali/euro_e.txt< - 0 section(s):
+[16/24] >2016--france_quali/euro_c.txt< - 0 section(s):
+[17/24] >2016--france_quali/euro_h.txt< - 0 section(s):
+[18/24] >2016--france_quali/euro_f.txt< - 0 section(s):
+[19/24] >2016--france_quali/euro_d.txt< - 0 section(s):
+[20/24] >2016--france_quali/euro_a.txt< - 0 section(s):
+[21/24] >2016--france_quali/euro_g.txt< - 0 section(s):
+[22/24] >2016--france_quali/euro_b.txt< - 0 section(s):
+[23/24] >2016--france_quali/euro_i.txt< - 0 section(s):
+[24/24] >1968--italy/euro.txt< - 0 section(s):

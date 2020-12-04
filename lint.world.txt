@@ -1,246 +1,44 @@
 18 datafiles:
-[1/18] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
+[1/18] >asia/japan/2020/1-j1league.txt< - 1 section(s):
+    454 lines, 306 matches - J. League (jp.1) 2020, 18 team refs, 34 round defs
+[2/18] >asia/japan/2019/1-j1league.txt< - 1 section(s):
+    415 lines, 306 matches - J. League (jp.1) 2019, 18 team refs, 34 round defs
+[3/18] >asia/china/2020/1-superleague.txt< - 1 section(s):
+    175 lines, 112 matches - Super League (cn.1) 2020, 16 team refs, 14 round defs
+[4/18] >asia/china/2018/1-superleague.txt< - 1 section(s):
+    344 lines, 240 matches - Super League (cn.1) 2018, 16 team refs, 30 round defs
+[5/18] >asia/china/2019/1-superleague.txt< - 1 section(s):
+    358 lines, 240 matches - Super League (cn.1) 2019, 16 team refs, 30 round defs
+[6/18] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[2/18] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[3/18] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[4/18] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[5/18] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[6/18] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[7/18] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
+[7/18] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
 [8/18] >north-america/major-league-soccer/2010/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[9/18] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
+[9/18] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[10/18] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
+[10/18] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[11/18] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
+[11/18] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[12/18] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
+[12/18] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
   !! ERROR: NO sections found
-[13/18] >asia/china/2018/1-superleague.txt< - 1 section(s):
-    344 lines, 240 matches - Super League (cn.1) 2018, 16 team refs, 30 round defs
-[14/18] >asia/china/2019/1-superleague.txt< - 1 section(s):
-    358 lines, 240 matches - Super League (cn.1) 2019, 16 team refs, 30 round defs
-[15/18] >asia/china/2020/1-superleague.txt< - 1 section(s):
-    175 lines, 112 matches - Super League (cn.1) 2020, 16 team refs, 14 round defs
-[16/18] >asia/japan/2019/1-j1league.txt< - 1 section(s):
-    415 lines, 306 matches - J. League (jp.1) 2019, 18 team refs, 34 round defs
-[17/18] >asia/japan/2020/1-j1league.txt< - 1 section(s):
-    454 lines, 306 matches - J. League (jp.1) 2020, 18 team refs, 34 round defs
+[13/18] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[14/18] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[15/18] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[16/18] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[17/18] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
+  !! ERROR: NO sections found
 [18/18] >pacific/australia/2018-19/1-aleague.txt< - 2 section(s):
     255 lines, 135 matches - A-League (au.1) 2018/19, stage: >Regular Season<, 10 team refs, 27 round defs
     13 lines, 5 matches - A-League (au.1) 2018/19, stage: >Finals<, 6 team refs, 3 round defs
 
 
-[1/18] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
-[2/18] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
-[3/18] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
-[4/18] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
-[5/18] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
-[6/18] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
-[7/18] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
-[8/18] >north-america/major-league-soccer/2010/mls.txt< - 0 section(s):
-[9/18] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
-[10/18] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
-[11/18] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
-[12/18] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
-[13/18] >asia/china/2018/1-superleague.txt< - 1 section(s):
-    344 lines, 240 matches - Super League (cn.1) 2018
-      16 teams (referenced):
-        30× Beijing Renhe
-        30× Beijing Sinobo Guoan
-        30× Changchun Yatai
-        30× Chongqing Dangdai Lifan
-        30× Dalian Yifang
-        30× Guangzhou Evergrande Taobao
-        30× Guangzhou R&F
-        30× Guizhou Hengfeng
-        30× Hebei China Fortune
-        30× Henan Jianye
-        30× Jiangsu Suning
-        30× Shandong Luneng Taishan
-        30× Shanghai SIPG
-        30× Shanghai Shenxin
-        30× Tianjin TEDA
-        30× Tianjin Tianhai
-      30 rounds (referenced):
-        Matchday 1, 8 matches
-        Matchday 2, 8 matches
-        Matchday 3, 8 matches
-        Matchday 4, 8 matches
-        Matchday 5, 8 matches
-        Matchday 6, 8 matches
-        Matchday 7, 8 matches
-        Matchday 8, 8 matches
-        Matchday 9, 8 matches
-        Matchday 10, 8 matches
-        Matchday 11, 8 matches
-        Matchday 12, 8 matches
-        Matchday 13 ×2, 8 matches
-        Matchday 14, 8 matches
-        Matchday 15, 8 matches
-        Matchday 16, 8 matches
-        Matchday 17, 8 matches
-        Matchday 18, 8 matches
-        Matchday 19, 8 matches
-        Matchday 20, 8 matches
-        Matchday 21, 8 matches
-        Matchday 22, 8 matches
-        Matchday 23, 8 matches
-        Matchday 24, 8 matches
-        Matchday 25, 8 matches
-        Matchday 26, 8 matches
-        Matchday 27, 8 matches
-        Matchday 28, 8 matches
-        Matchday 29, 8 matches
-        Matchday 30, 8 matches
-[14/18] >asia/china/2019/1-superleague.txt< - 1 section(s):
-    358 lines, 240 matches - Super League (cn.1) 2019
-      16 teams (referenced):
-        30× Beijing Renhe
-        30× Beijing Sinobo Guoan
-        30× Chongqing Dangdai Lifan
-        30× Dalian Yifang
-        30× Guangzhou Evergrande Taobao
-        30× Guangzhou R&F
-        30× Hebei China Fortune
-        30× Henan Jianye
-        30× Jiangsu Suning
-        30× Shandong Luneng Taishan
-        30× Shanghai SIPG
-        30× Shanghai Shenxin
-        30× Shenzhen FC
-        30× Tianjin TEDA
-        30× Tianjin Tianhai
-        30× Wuhan Zall
-      30 rounds (referenced):
-        Matchday 1, 8 matches
-        Matchday 2, 8 matches
-        Matchday 3, 8 matches
-        Matchday 4 ×2, 8 matches
-        Matchday 5, 8 matches
-        Matchday 6, 8 matches
-        Matchday 7, 8 matches
-        Matchday 8, 8 matches
-        Matchday 9, 8 matches
-        Matchday 10, 8 matches
-        Matchday 11, 8 matches
-        Matchday 12, 8 matches
-        Matchday 13, 8 matches
-        Matchday 14, 8 matches
-        Matchday 15, 8 matches
-        Matchday 16, 8 matches
-        Matchday 17, 8 matches
-        Matchday 18, 8 matches
-        Matchday 19, 8 matches
-        Matchday 20, 8 matches
-        Matchday 21, 8 matches
-        Matchday 23 ×2, 8 matches
-        Matchday 22, 8 matches
-        Matchday 24 ×2, 8 matches
-        Matchday 25 ×2, 8 matches
-        Matchday 26, 8 matches
-        Matchday 27, 8 matches
-        Matchday 28, 8 matches
-        Matchday 29, 8 matches
-        Matchday 30, 8 matches
-[15/18] >asia/china/2020/1-superleague.txt< - 1 section(s):
-    175 lines, 112 matches - Super League (cn.1) 2020
-      16 teams (referenced):
-        14× Beijing Sinobo Guoan
-        14× Chongqing Dangdai Lifan
-        14× Dalian Yifang
-        14× Guangzhou Evergrande Taobao
-        14× Guangzhou R&F
-        14× Hebei China Fortune
-        14× Henan Jianye
-        14× Jiangsu Suning
-        14× Qingdao Huanghai FC
-        14× Shandong Luneng Taishan
-        14× Shanghai Greenland Shenhua
-        14× Shanghai SIPG
-        14× Shenzhen FC
-        14× Shijiazhuang Ever Bright
-        14× Tianjin TEDA
-        14× Wuhan Zall
-      14 rounds (referenced):
-        Round 1, 8 matches
-        Round 2, 8 matches
-        Round 3, 8 matches
-        Round 4, 8 matches
-        Round 5, 8 matches
-        Round 6, 8 matches
-        Round 7, 8 matches
-        Round 8, 8 matches
-        Round 9, 8 matches
-        Round 10, 8 matches
-        Round 11, 8 matches
-        Round 12, 8 matches
-        Round 13, 8 matches
-        Round 14, 8 matches
-[16/18] >asia/japan/2019/1-j1league.txt< - 1 section(s):
-    415 lines, 306 matches - J. League (jp.1) 2019
-      18 teams (referenced):
-        34× Cerezo Osaka
-        34× FC Tokyo
-        34× Gamba Osaka
-        34× Hokkaido Consadole Sapporo
-        34× Júbilo Iwata
-        34× Kashima Antlers
-        34× Kawasaki Frontale
-        34× Matsumoto Yamaga
-        34× Nagoya Grampus
-        34× Oita Trinita
-        34× Sagan Tosu
-        34× Sanfrecce Hiroshima
-        34× Shimizu S-Pulse
-        34× Shonan Bellmare
-        34× Urawa Red Diamonds
-        34× Vegalta Sendai
-        34× Vissel Kobe
-        34× Yokohama F. Marinos
-      34 rounds (referenced):
-        Matchday 1, 9 matches
-        Matchday 2, 9 matches
-        Matchday 3, 9 matches
-        Matchday 4, 9 matches
-        Matchday 5, 9 matches
-        Matchday 6, 9 matches
-        Matchday 7, 9 matches
-        Matchday 8, 9 matches
-        Matchday 9, 9 matches
-        Matchday 10, 9 matches
-        Matchday 11, 9 matches
-        Matchday 12, 9 matches
-        Matchday 13, 9 matches
-        Matchday 14, 9 matches
-        Matchday 15, 9 matches
-        Matchday 16 ×2, 9 matches
-        Matchday 17, 9 matches
-        Matchday 18, 9 matches
-        Matchday 19, 9 matches
-        Matchday 20, 9 matches
-        Matchday 21, 9 matches
-        Matchday 22, 9 matches
-        Matchday 23, 9 matches
-        Matchday 24, 9 matches
-        Matchday 25, 9 matches
-        Matchday 26, 9 matches
-        Matchday 27, 9 matches
-        Matchday 28, 9 matches
-        Matchday 29, 9 matches
-        Matchday 31 ×2, 9 matches
-        Matchday 30, 9 matches
-        Matchday 32 ×2, 9 matches
-        Matchday 33, 9 matches
-        Matchday 34, 9 matches
-[17/18] >asia/japan/2020/1-j1league.txt< - 1 section(s):
+[1/18] >asia/japan/2020/1-j1league.txt< - 1 section(s):
     454 lines, 306 matches - J. League (jp.1) 2020
       18 teams (referenced):
         34× Cerezo Osaka
@@ -296,6 +94,208 @@
         Round 31 ×4, 9 matches
         Round 27 ×2, 9 matches
         Round 34, 9 matches
+[2/18] >asia/japan/2019/1-j1league.txt< - 1 section(s):
+    415 lines, 306 matches - J. League (jp.1) 2019
+      18 teams (referenced):
+        34× Cerezo Osaka
+        34× FC Tokyo
+        34× Gamba Osaka
+        34× Hokkaido Consadole Sapporo
+        34× Júbilo Iwata
+        34× Kashima Antlers
+        34× Kawasaki Frontale
+        34× Matsumoto Yamaga
+        34× Nagoya Grampus
+        34× Oita Trinita
+        34× Sagan Tosu
+        34× Sanfrecce Hiroshima
+        34× Shimizu S-Pulse
+        34× Shonan Bellmare
+        34× Urawa Red Diamonds
+        34× Vegalta Sendai
+        34× Vissel Kobe
+        34× Yokohama F. Marinos
+      34 rounds (referenced):
+        Matchday 1, 9 matches
+        Matchday 2, 9 matches
+        Matchday 3, 9 matches
+        Matchday 4, 9 matches
+        Matchday 5, 9 matches
+        Matchday 6, 9 matches
+        Matchday 7, 9 matches
+        Matchday 8, 9 matches
+        Matchday 9, 9 matches
+        Matchday 10, 9 matches
+        Matchday 11, 9 matches
+        Matchday 12, 9 matches
+        Matchday 13, 9 matches
+        Matchday 14, 9 matches
+        Matchday 15, 9 matches
+        Matchday 16 ×2, 9 matches
+        Matchday 17, 9 matches
+        Matchday 18, 9 matches
+        Matchday 19, 9 matches
+        Matchday 20, 9 matches
+        Matchday 21, 9 matches
+        Matchday 22, 9 matches
+        Matchday 23, 9 matches
+        Matchday 24, 9 matches
+        Matchday 25, 9 matches
+        Matchday 26, 9 matches
+        Matchday 27, 9 matches
+        Matchday 28, 9 matches
+        Matchday 29, 9 matches
+        Matchday 31 ×2, 9 matches
+        Matchday 30, 9 matches
+        Matchday 32 ×2, 9 matches
+        Matchday 33, 9 matches
+        Matchday 34, 9 matches
+[3/18] >asia/china/2020/1-superleague.txt< - 1 section(s):
+    175 lines, 112 matches - Super League (cn.1) 2020
+      16 teams (referenced):
+        14× Beijing Sinobo Guoan
+        14× Chongqing Dangdai Lifan
+        14× Dalian Yifang
+        14× Guangzhou Evergrande Taobao
+        14× Guangzhou R&F
+        14× Hebei China Fortune
+        14× Henan Jianye
+        14× Jiangsu Suning
+        14× Qingdao Huanghai FC
+        14× Shandong Luneng Taishan
+        14× Shanghai Greenland Shenhua
+        14× Shanghai SIPG
+        14× Shenzhen FC
+        14× Shijiazhuang Ever Bright
+        14× Tianjin TEDA
+        14× Wuhan Zall
+      14 rounds (referenced):
+        Round 1, 8 matches
+        Round 2, 8 matches
+        Round 3, 8 matches
+        Round 4, 8 matches
+        Round 5, 8 matches
+        Round 6, 8 matches
+        Round 7, 8 matches
+        Round 8, 8 matches
+        Round 9, 8 matches
+        Round 10, 8 matches
+        Round 11, 8 matches
+        Round 12, 8 matches
+        Round 13, 8 matches
+        Round 14, 8 matches
+[4/18] >asia/china/2018/1-superleague.txt< - 1 section(s):
+    344 lines, 240 matches - Super League (cn.1) 2018
+      16 teams (referenced):
+        30× Beijing Renhe
+        30× Beijing Sinobo Guoan
+        30× Changchun Yatai
+        30× Chongqing Dangdai Lifan
+        30× Dalian Yifang
+        30× Guangzhou Evergrande Taobao
+        30× Guangzhou R&F
+        30× Guizhou Hengfeng
+        30× Hebei China Fortune
+        30× Henan Jianye
+        30× Jiangsu Suning
+        30× Shandong Luneng Taishan
+        30× Shanghai SIPG
+        30× Shanghai Shenxin
+        30× Tianjin TEDA
+        30× Tianjin Tianhai
+      30 rounds (referenced):
+        Matchday 1, 8 matches
+        Matchday 2, 8 matches
+        Matchday 3, 8 matches
+        Matchday 4, 8 matches
+        Matchday 5, 8 matches
+        Matchday 6, 8 matches
+        Matchday 7, 8 matches
+        Matchday 8, 8 matches
+        Matchday 9, 8 matches
+        Matchday 10, 8 matches
+        Matchday 11, 8 matches
+        Matchday 12, 8 matches
+        Matchday 13 ×2, 8 matches
+        Matchday 14, 8 matches
+        Matchday 15, 8 matches
+        Matchday 16, 8 matches
+        Matchday 17, 8 matches
+        Matchday 18, 8 matches
+        Matchday 19, 8 matches
+        Matchday 20, 8 matches
+        Matchday 21, 8 matches
+        Matchday 22, 8 matches
+        Matchday 23, 8 matches
+        Matchday 24, 8 matches
+        Matchday 25, 8 matches
+        Matchday 26, 8 matches
+        Matchday 27, 8 matches
+        Matchday 28, 8 matches
+        Matchday 29, 8 matches
+        Matchday 30, 8 matches
+[5/18] >asia/china/2019/1-superleague.txt< - 1 section(s):
+    358 lines, 240 matches - Super League (cn.1) 2019
+      16 teams (referenced):
+        30× Beijing Renhe
+        30× Beijing Sinobo Guoan
+        30× Chongqing Dangdai Lifan
+        30× Dalian Yifang
+        30× Guangzhou Evergrande Taobao
+        30× Guangzhou R&F
+        30× Hebei China Fortune
+        30× Henan Jianye
+        30× Jiangsu Suning
+        30× Shandong Luneng Taishan
+        30× Shanghai SIPG
+        30× Shanghai Shenxin
+        30× Shenzhen FC
+        30× Tianjin TEDA
+        30× Tianjin Tianhai
+        30× Wuhan Zall
+      30 rounds (referenced):
+        Matchday 1, 8 matches
+        Matchday 2, 8 matches
+        Matchday 3, 8 matches
+        Matchday 4 ×2, 8 matches
+        Matchday 5, 8 matches
+        Matchday 6, 8 matches
+        Matchday 7, 8 matches
+        Matchday 8, 8 matches
+        Matchday 9, 8 matches
+        Matchday 10, 8 matches
+        Matchday 11, 8 matches
+        Matchday 12, 8 matches
+        Matchday 13, 8 matches
+        Matchday 14, 8 matches
+        Matchday 15, 8 matches
+        Matchday 16, 8 matches
+        Matchday 17, 8 matches
+        Matchday 18, 8 matches
+        Matchday 19, 8 matches
+        Matchday 20, 8 matches
+        Matchday 21, 8 matches
+        Matchday 23 ×2, 8 matches
+        Matchday 22, 8 matches
+        Matchday 24 ×2, 8 matches
+        Matchday 25 ×2, 8 matches
+        Matchday 26, 8 matches
+        Matchday 27, 8 matches
+        Matchday 28, 8 matches
+        Matchday 29, 8 matches
+        Matchday 30, 8 matches
+[6/18] >north-america/major-league-soccer/2005/mls.txt< - 0 section(s):
+[7/18] >north-america/major-league-soccer/2016/mls.txt< - 0 section(s):
+[8/18] >north-america/major-league-soccer/2010/mls.txt< - 0 section(s):
+[9/18] >north-america/major-league-soccer/2015/mls.txt< - 0 section(s):
+[10/18] >north-america/major-league-soccer/2008/mls.txt< - 0 section(s):
+[11/18] >north-america/major-league-soccer/2007/mls.txt< - 0 section(s):
+[12/18] >north-america/major-league-soccer/2006/mls.txt< - 0 section(s):
+[13/18] >north-america/major-league-soccer/2011/mls.txt< - 0 section(s):
+[14/18] >north-america/major-league-soccer/2014/mls.txt< - 0 section(s):
+[15/18] >north-america/major-league-soccer/2013/mls.txt< - 0 section(s):
+[16/18] >north-america/major-league-soccer/2009/mls.txt< - 0 section(s):
+[17/18] >north-america/major-league-soccer/2012/mls.txt< - 0 section(s):
 [18/18] >pacific/australia/2018-19/1-aleague.txt< - 2 section(s):
     255 lines, 135 matches - A-League (au.1) 2018/19, stage: >Regular Season<
       10 teams (referenced):
