@@ -60,8 +60,7 @@
 0 errors / warns
 
 ==== south-america ====
-1 error(s) / warn(s):
-!! ERROR: brazil/2020/1-seriea.txt[1] - WARN: 1 unmatched lines: ["22.00"]
+0 errors / warns
 
 ==== world ====
 0 errors / warns

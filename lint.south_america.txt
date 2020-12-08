@@ -4,9 +4,7 @@
 [2/62] >brazil/2005/brasileirao-seriea.txt< - 0 section(s):
   !! ERROR: NO sections found
 [3/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    536 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
-  !! 1 error(s) / warn(s):
-    WARN: 1 unmatched lines: ["22.00"]
+    533 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020, 20 team refs, 38 round defs
 [4/62] >brazil/2016/gauchao.txt< - 0 section(s):
   !! ERROR: NO sections found
 [5/62] >brazil/2016/brasileirao-seriea.txt< - 0 section(s):
@@ -203,9 +201,7 @@
         46ª Rodada, 12 matches
 [2/62] >brazil/2005/brasileirao-seriea.txt< - 0 section(s):
 [3/62] >brazil/2020/1-seriea.txt< - 1 section(s):
-    536 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
-!! 1 unmatched lines:
-   >22.00<
+    533 lines, 380 matches - Campeonato Brasileiro Série A (br.1) 2020
       20 teams (referenced):
         38× Atlético GO
         38× Atlético MG
@@ -250,7 +246,7 @@
         Rodada 20, 10 matches
         Rodada 21, 10 matches
         Rodada 22, 10 matches
-        Rodada 23 ×3, 10 matches
+        Rodada 23 ×2, 10 matches
         Rodada 24 ×2, 10 matches
         Rodada 25, 10 matches
         Rodada 26, 10 matches
