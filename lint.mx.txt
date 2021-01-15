@@ -1,465 +1,87 @@
 40 datafiles:
-[1/40] >2017-18/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[2/40] >2017-18/1-clausura.txt< - 1 section(s):
-    220 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Clausura<, 18 team refs, 17 round defs
-[3/40] >2017-18/1-clausura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[4/40] >2017-18/1-apertura.txt< - 1 section(s):
-    223 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Apertura<, 18 team refs, 17 round defs
-[5/40] >2015-16/1-apertura_liguilla.txt< - 1 section(s):
-    24 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[6/40] >2015-16/1-clausura.txt< - 1 section(s):
-    223 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Clausura<, 18 team refs, 17 round defs
-[7/40] >2015-16/1-clausura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[8/40] >2015-16/1-apertura.txt< - 1 section(s):
-    227 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Apertura<, 18 team refs, 17 round defs
-[9/40] >2013-14/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[10/40] >2013-14/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Clausura<, 18 team refs, 17 round defs
-[11/40] >2013-14/1-clausura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[12/40] >2013-14/1-apertura.txt< - 1 section(s):
-    225 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Apertura<, 18 team refs, 17 round defs
-[13/40] >2016-17/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2016/17, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[14/40] >2016-17/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2016/17, stage: >Clausura<, 18 team refs, 17 round defs
-[15/40] >2016-17/1-clausura_liguilla.txt< - 1 section(s):
+[1/40] >2016-17/1-clausura_liguilla.txt< - 1 section(s):
     25 lines, 14 matches - México Primera División (mx.1) 2016/17, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[16/40] >2016-17/1-apertura.txt< - 1 section(s):
+[2/40] >2016-17/1-apertura.txt< - 1 section(s):
     219 lines, 153 matches - México Primera División (mx.1) 2016/17, stage: >Apertura<, 18 team refs, 17 round defs
-[17/40] >2014-15/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[18/40] >2014-15/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Clausura<, 18 team refs, 17 round defs
-[19/40] >2014-15/1-clausura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[20/40] >2014-15/1-apertura.txt< - 1 section(s):
-    226 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Apertura<, 18 team refs, 17 round defs
-[21/40] >2020-21/1-apertura.txt< - 1 section(s):
-    239 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<, 18 team refs, 17 round defs
-[22/40] >2018-19/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2018/19, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[23/40] >2018-19/1-clausura.txt< - 1 section(s):
-    225 lines, 153 matches - México Primera División (mx.1) 2018/19, stage: >Clausura<, 18 team refs, 17 round defs
-[24/40] >2018-19/1-clausura_liguilla.txt< - 1 section(s):
+[3/40] >2016-17/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2016/17, stage: >Clausura<, 18 team refs, 17 round defs
+[4/40] >2016-17/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2016/17, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[5/40] >2018-19/1-clausura_liguilla.txt< - 1 section(s):
     27 lines, 14 matches - México Primera División (mx.1) 2018/19, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[25/40] >2018-19/1-apertura.txt< - 1 section(s):
+[6/40] >2018-19/1-apertura.txt< - 1 section(s):
     220 lines, 153 matches - México Primera División (mx.1) 2018/19, stage: >Apertura<, 18 team refs, 17 round defs
-[26/40] >2019-20/1-apertura_liguilla.txt< - 1 section(s):
-    26 lines, 14 matches - México Primera División (mx.1) 2019/20, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[27/40] >2019-20/1-clausura.txt< - 1 section(s):
-    228 lines, 153 matches - México Primera División (mx.1) 2019/20, stage: >Clausura<, 18 team refs, 17 round defs
-[28/40] >2019-20/1-apertura.txt< - 1 section(s):
-    247 lines, 171 matches - México Primera División (mx.1) 2019/20, stage: >Apertura<, 19 team refs, 19 round defs
-[29/40] >2010-11/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2010/11, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[30/40] >2010-11/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2010/11, stage: >Clausura<, 18 team refs, 17 round defs
-[31/40] >2010-11/1-clausura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2010/11, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[32/40] >2010-11/1-apertura.txt< - 1 section(s):
-    223 lines, 153 matches - México Primera División (mx.1) 2010/11, stage: >Apertura<, 18 team refs, 17 round defs
-[33/40] >2011-12/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2011/12, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[34/40] >2011-12/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2011/12, stage: >Clausura<, 18 team refs, 17 round defs
-[35/40] >2011-12/1-clausura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2011/12, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[36/40] >2011-12/1-apertura.txt< - 1 section(s):
-    219 lines, 153 matches - México Primera División (mx.1) 2011/12, stage: >Apertura<, 18 team refs, 17 round defs
-[37/40] >2012-13/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2012/13, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
-[38/40] >2012-13/1-clausura.txt< - 1 section(s):
-    220 lines, 153 matches - México Primera División (mx.1) 2012/13, stage: >Clausura<, 18 team refs, 17 round defs
-[39/40] >2012-13/1-clausura_liguilla.txt< - 1 section(s):
+[7/40] >2018-19/1-clausura.txt< - 1 section(s):
+    225 lines, 153 matches - México Primera División (mx.1) 2018/19, stage: >Clausura<, 18 team refs, 17 round defs
+[8/40] >2018-19/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2018/19, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[9/40] >2015-16/1-clausura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
+[10/40] >2015-16/1-apertura.txt< - 1 section(s):
+    227 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Apertura<, 18 team refs, 17 round defs
+[11/40] >2015-16/1-clausura.txt< - 1 section(s):
+    223 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Clausura<, 18 team refs, 17 round defs
+[12/40] >2015-16/1-apertura_liguilla.txt< - 1 section(s):
+    24 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[13/40] >2012-13/1-clausura_liguilla.txt< - 1 section(s):
     27 lines, 14 matches - México Primera División (mx.1) 2012/13, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
-[40/40] >2012-13/1-apertura.txt< - 1 section(s):
+[14/40] >2012-13/1-apertura.txt< - 1 section(s):
     224 lines, 153 matches - México Primera División (mx.1) 2012/13, stage: >Apertura<, 18 team refs, 17 round defs
+[15/40] >2012-13/1-clausura.txt< - 1 section(s):
+    220 lines, 153 matches - México Primera División (mx.1) 2012/13, stage: >Clausura<, 18 team refs, 17 round defs
+[16/40] >2012-13/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2012/13, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[17/40] >2019-20/1-apertura.txt< - 1 section(s):
+    247 lines, 171 matches - México Primera División (mx.1) 2019/20, stage: >Apertura<, 19 team refs, 19 round defs
+[18/40] >2019-20/1-clausura.txt< - 1 section(s):
+    228 lines, 153 matches - México Primera División (mx.1) 2019/20, stage: >Clausura<, 18 team refs, 17 round defs
+[19/40] >2019-20/1-apertura_liguilla.txt< - 1 section(s):
+    26 lines, 14 matches - México Primera División (mx.1) 2019/20, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[20/40] >2014-15/1-clausura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
+[21/40] >2014-15/1-apertura.txt< - 1 section(s):
+    226 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Apertura<, 18 team refs, 17 round defs
+[22/40] >2014-15/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Clausura<, 18 team refs, 17 round defs
+[23/40] >2014-15/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[24/40] >2010-11/1-clausura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2010/11, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
+[25/40] >2010-11/1-apertura.txt< - 1 section(s):
+    223 lines, 153 matches - México Primera División (mx.1) 2010/11, stage: >Apertura<, 18 team refs, 17 round defs
+[26/40] >2010-11/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2010/11, stage: >Clausura<, 18 team refs, 17 round defs
+[27/40] >2010-11/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2010/11, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[28/40] >2011-12/1-clausura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2011/12, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
+[29/40] >2011-12/1-apertura.txt< - 1 section(s):
+    219 lines, 153 matches - México Primera División (mx.1) 2011/12, stage: >Apertura<, 18 team refs, 17 round defs
+[30/40] >2011-12/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2011/12, stage: >Clausura<, 18 team refs, 17 round defs
+[31/40] >2011-12/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2011/12, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[32/40] >2013-14/1-clausura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
+[33/40] >2013-14/1-apertura.txt< - 1 section(s):
+    225 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Apertura<, 18 team refs, 17 round defs
+[34/40] >2013-14/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Clausura<, 18 team refs, 17 round defs
+[35/40] >2013-14/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[36/40] >2017-18/1-clausura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Clausura - Liguilla<, 8 team refs, 3 round defs
+[37/40] >2017-18/1-apertura.txt< - 1 section(s):
+    223 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Apertura<, 18 team refs, 17 round defs
+[38/40] >2017-18/1-clausura.txt< - 1 section(s):
+    220 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Clausura<, 18 team refs, 17 round defs
+[39/40] >2017-18/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Apertura - Liguilla<, 8 team refs, 3 round defs
+[40/40] >2020-21/1-apertura.txt< - 1 section(s):
+    239 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<, 18 team refs, 17 round defs
 
 
-[1/40] >2017-18/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× CF Monterrey
-        6× Tigres UANL
-        4× Club América
-        4× Monarcas Morelia
-        2× Club Atlas
-        2× Club León
-        2× Cruz Azul
-        2× Deportivo Toluca FC
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[2/40] >2017-18/1-clausura.txt< - 1 section(s):
-    220 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Clausura<
-      18 teams (referenced):
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Necaxa
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Lobos BUAP
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[3/40] >2017-18/1-clausura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Clausura - Liguilla<
-      8 teams (referenced):
-        6× Deportivo Toluca FC
-        6× Santos Laguna
-        4× Club América
-        4× Club Tijuana
-        2× CF Monterrey
-        2× Monarcas Morelia
-        2× Pumas UNAM
-        2× Tigres UANL
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[4/40] >2017-18/1-apertura.txt< - 1 section(s):
-    223 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Apertura<
-      18 teams (referenced):
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Necaxa
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Lobos BUAP
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8 ×2, 9 matches
-        Jornada 9, 9 matches
-        Jornada 11 ×2, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 10, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[5/40] >2015-16/1-apertura_liguilla.txt< - 1 section(s):
-    24 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× Pumas UNAM
-        6× Tigres UANL
-        4× Club América
-        4× Deportivo Toluca FC
-        2× Club León
-        2× Club Puebla
-        2× Jaguares Chiapas
-        2× Tiburones Rojos Veracruz
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[6/40] >2015-16/1-clausura.txt< - 1 section(s):
-    223 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Clausura<
-      18 teams (referenced):
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Dorados Sinaloa
-        17× Jaguares Chiapas
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6 ×2, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[7/40] >2015-16/1-clausura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Clausura - Liguilla<
-      8 teams (referenced):
-        6× CF Monterrey
-        6× CF Pachuca
-        4× Club América
-        4× Club León
-        2× CD Guadalajara Chivas
-        2× Monarcas Morelia
-        2× Santos Laguna
-        2× Tigres UANL
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[8/40] >2015-16/1-apertura.txt< - 1 section(s):
-    227 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Apertura<
-      18 teams (referenced):
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Dorados Sinaloa
-        17× Jaguares Chiapas
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2 ×2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12 ×3, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14 ×2, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[9/40] >2013-14/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× Club América
-        6× Club León
-        4× Deportivo Toluca FC
-        4× Santos Laguna
-        2× Cruz Azul
-        2× Monarcas Morelia
-        2× Querétaro FC
-        2× Tigres UANL
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[10/40] >2013-14/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Clausura<
-      18 teams (referenced):
-        17× Atlante FC
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Jaguares Chiapas
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[11/40] >2013-14/1-clausura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Clausura - Liguilla<
-      8 teams (referenced):
-        6× CF Pachuca
-        6× Club León
-        4× Deportivo Toluca FC
-        4× Santos Laguna
-        2× Club América
-        2× Club Tijuana
-        2× Cruz Azul
-        2× Pumas UNAM
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[12/40] >2013-14/1-apertura.txt< - 1 section(s):
-    225 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Apertura<
-      18 teams (referenced):
-        17× Atlante FC
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Jaguares Chiapas
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1 ×2, 9 matches
-        Jornada 2 ×2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[13/40] >2016-17/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2016/17, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× Club América
-        6× Tigres UANL
-        4× Club León
-        4× Club Necaxa
-        2× CD Guadalajara Chivas
-        2× CF Pachuca
-        2× Club Tijuana
-        2× Pumas UNAM
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[14/40] >2016-17/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2016/17, stage: >Clausura<
-      18 teams (referenced):
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Necaxa
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Jaguares Chiapas
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1 ×2, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 10, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[15/40] >2016-17/1-clausura_liguilla.txt< - 1 section(s):
+[1/40] >2016-17/1-clausura_liguilla.txt< - 1 section(s):
     25 lines, 14 matches - México Primera División (mx.1) 2016/17, stage: >Clausura - Liguilla<
       8 teams (referenced):
         6× CD Guadalajara Chivas
@@ -474,7 +96,7 @@
         Cuartos de Final, 8 matches
         Semifinales, 4 matches
         Final, 2 matches
-[16/40] >2016-17/1-apertura.txt< - 1 section(s):
+[2/40] >2016-17/1-apertura.txt< - 1 section(s):
     219 lines, 153 matches - México Primera División (mx.1) 2016/17, stage: >Apertura<
       18 teams (referenced):
         17× CD Guadalajara Chivas
@@ -513,170 +135,8 @@
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[17/40] >2014-15/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× Club América
-        6× Tigres UANL
-        4× CF Monterrey
-        4× Deportivo Toluca FC
-        2× CF Pachuca
-        2× Club Atlas
-        2× Jaguares Chiapas
-        2× Pumas UNAM
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[18/40] >2014-15/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Clausura<
-      18 teams (referenced):
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Jaguares Chiapas
-        17× Leones Negros U. de G.
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[19/40] >2014-15/1-clausura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Clausura - Liguilla<
-      8 teams (referenced):
-        6× Querétaro FC
-        6× Santos Laguna
-        4× CD Guadalajara Chivas
-        4× CF Pachuca
-        2× Club América
-        2× Club Atlas
-        2× Tiburones Rojos Veracruz
-        2× Tigres UANL
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[20/40] >2014-15/1-apertura.txt< - 1 section(s):
-    226 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Apertura<
-      18 teams (referenced):
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× Jaguares Chiapas
-        17× Leones Negros U. de G.
-        17× Monarcas Morelia
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tiburones Rojos Veracruz
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3 ×2, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8 ×2, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11, 9 matches
-        Jornada 12, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[21/40] >2020-21/1-apertura.txt< - 1 section(s):
-    239 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<
-      18 teams (referenced):
-        17× Atlético San Luis
-        17× CD Guadalajara Chivas
-        17× CF Monterrey
-        17× CF Pachuca
-        17× Club América
-        17× Club Atlas
-        17× Club León
-        17× Club Necaxa
-        17× Club Puebla
-        17× Club Tijuana
-        17× Cruz Azul
-        17× Deportivo Toluca FC
-        17× FC Juárez
-        17× Mazatlán FC
-        17× Pumas UNAM
-        17× Querétaro FC
-        17× Santos Laguna
-        17× Tigres UANL
-      17 rounds (referenced):
-        Jornada 1, 9 matches
-        Jornada 2, 9 matches
-        Jornada 3, 9 matches
-        Jornada 4, 9 matches
-        Jornada 5, 9 matches
-        Jornada 6, 9 matches
-        Jornada 7, 9 matches
-        Jornada 8, 9 matches
-        Jornada 9, 9 matches
-        Jornada 10, 9 matches
-        Jornada 11 ×2, 9 matches
-        Jornada 12 ×2, 9 matches
-        Jornada 13, 9 matches
-        Jornada 14, 9 matches
-        Jornada 15, 9 matches
-        Jornada 16, 9 matches
-        Jornada 17, 9 matches
-[22/40] >2018-19/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2018/19, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× Club América
-        6× Cruz Azul
-        4× CF Monterrey
-        4× Pumas UNAM
-        2× Deportivo Toluca FC
-        2× Querétaro FC
-        2× Santos Laguna
-        2× Tigres UANL
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[23/40] >2018-19/1-clausura.txt< - 1 section(s):
-    225 lines, 153 matches - México Primera División (mx.1) 2018/19, stage: >Clausura<
+[3/40] >2016-17/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2016/17, stage: >Clausura<
       18 teams (referenced):
         17× CD Guadalajara Chivas
         17× CF Monterrey
@@ -689,7 +149,7 @@
         17× Club Tijuana
         17× Cruz Azul
         17× Deportivo Toluca FC
-        17× Lobos BUAP
+        17× Jaguares Chiapas
         17× Monarcas Morelia
         17× Pumas UNAM
         17× Querétaro FC
@@ -706,15 +166,30 @@
         Jornada 7, 9 matches
         Jornada 8, 9 matches
         Jornada 9, 9 matches
-        Jornada 10, 9 matches
         Jornada 11, 9 matches
         Jornada 12, 9 matches
         Jornada 13, 9 matches
+        Jornada 10, 9 matches
         Jornada 14, 9 matches
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[24/40] >2018-19/1-clausura_liguilla.txt< - 1 section(s):
+[4/40] >2016-17/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2016/17, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× Club América
+        6× Tigres UANL
+        4× Club León
+        4× Club Necaxa
+        2× CD Guadalajara Chivas
+        2× CF Pachuca
+        2× Club Tijuana
+        2× Pumas UNAM
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[5/40] >2018-19/1-clausura_liguilla.txt< - 1 section(s):
     27 lines, 14 matches - México Primera División (mx.1) 2018/19, stage: >Clausura - Liguilla<
       8 teams (referenced):
         6× Club León
@@ -729,7 +204,7 @@
         Cuartos de Final, 8 matches
         Semifinales, 4 matches
         Final, 2 matches
-[25/40] >2018-19/1-apertura.txt< - 1 section(s):
+[6/40] >2018-19/1-apertura.txt< - 1 section(s):
     220 lines, 153 matches - México Primera División (mx.1) 2018/19, stage: >Apertura<
       18 teams (referenced):
         17× CD Guadalajara Chivas
@@ -768,25 +243,9 @@
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[26/40] >2019-20/1-apertura_liguilla.txt< - 1 section(s):
-    26 lines, 14 matches - México Primera División (mx.1) 2019/20, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× CF Monterrey
-        6× Club América
-        4× Club Necaxa
-        4× Monarcas Morelia
-        2× Club León
-        2× Querétaro FC
-        2× Santos Laguna
-        2× Tigres UANL
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[27/40] >2019-20/1-clausura.txt< - 1 section(s):
-    228 lines, 153 matches - México Primera División (mx.1) 2019/20, stage: >Clausura<
+[7/40] >2018-19/1-clausura.txt< - 1 section(s):
+    225 lines, 153 matches - México Primera División (mx.1) 2018/19, stage: >Clausura<
       18 teams (referenced):
-        17× Atlético San Luis
         17× CD Guadalajara Chivas
         17× CF Monterrey
         17× CF Pachuca
@@ -798,11 +257,12 @@
         17× Club Tijuana
         17× Cruz Azul
         17× Deportivo Toluca FC
-        17× FC Juárez
+        17× Lobos BUAP
         17× Monarcas Morelia
         17× Pumas UNAM
         17× Querétaro FC
         17× Santos Laguna
+        17× Tiburones Rojos Veracruz
         17× Tigres UANL
       17 rounds (referenced):
         Jornada 1 ×2, 9 matches
@@ -822,7 +282,238 @@
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[28/40] >2019-20/1-apertura.txt< - 1 section(s):
+[8/40] >2018-19/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2018/19, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× Club América
+        6× Cruz Azul
+        4× CF Monterrey
+        4× Pumas UNAM
+        2× Deportivo Toluca FC
+        2× Querétaro FC
+        2× Santos Laguna
+        2× Tigres UANL
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[9/40] >2015-16/1-clausura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Clausura - Liguilla<
+      8 teams (referenced):
+        6× CF Monterrey
+        6× CF Pachuca
+        4× Club América
+        4× Club León
+        2× CD Guadalajara Chivas
+        2× Monarcas Morelia
+        2× Santos Laguna
+        2× Tigres UANL
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[10/40] >2015-16/1-apertura.txt< - 1 section(s):
+    227 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Apertura<
+      18 teams (referenced):
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Dorados Sinaloa
+        17× Jaguares Chiapas
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tiburones Rojos Veracruz
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2 ×2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12 ×3, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14 ×2, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[11/40] >2015-16/1-clausura.txt< - 1 section(s):
+    223 lines, 153 matches - México Primera División (mx.1) 2015/16, stage: >Clausura<
+      18 teams (referenced):
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Dorados Sinaloa
+        17× Jaguares Chiapas
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tiburones Rojos Veracruz
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6 ×2, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[12/40] >2015-16/1-apertura_liguilla.txt< - 1 section(s):
+    24 lines, 14 matches - México Primera División (mx.1) 2015/16, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× Pumas UNAM
+        6× Tigres UANL
+        4× Club América
+        4× Deportivo Toluca FC
+        2× Club León
+        2× Club Puebla
+        2× Jaguares Chiapas
+        2× Tiburones Rojos Veracruz
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[13/40] >2012-13/1-clausura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2012/13, stage: >Clausura - Liguilla<
+      8 teams (referenced):
+        6× Club América
+        6× Cruz Azul
+        4× CF Monterrey
+        4× Santos Laguna
+        2× Club Atlas
+        2× Monarcas Morelia
+        2× Pumas UNAM
+        2× Tigres UANL
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[14/40] >2012-13/1-apertura.txt< - 1 section(s):
+    224 lines, 153 matches - México Primera División (mx.1) 2012/13, stage: >Apertura<
+      18 teams (referenced):
+        17× Atlante FC
+        17× Atlético San Luis
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Jaguares Chiapas
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13 ×3, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[15/40] >2012-13/1-clausura.txt< - 1 section(s):
+    220 lines, 153 matches - México Primera División (mx.1) 2012/13, stage: >Clausura<
+      18 teams (referenced):
+        17× Atlante FC
+        17× Atlético San Luis
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Jaguares Chiapas
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[16/40] >2012-13/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2012/13, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× Club Tijuana
+        6× Deportivo Toluca FC
+        4× Club América
+        4× Club León
+        2× CD Guadalajara Chivas
+        2× CF Monterrey
+        2× Cruz Azul
+        2× Monarcas Morelia
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[17/40] >2019-20/1-apertura.txt< - 1 section(s):
     247 lines, 171 matches - México Primera División (mx.1) 2019/20, stage: >Apertura<
       19 teams (referenced):
         18× Atlético San Luis
@@ -864,48 +555,32 @@
         Jornada 17, 9 matches
         Jornada 18, 9 matches
         Jornada 19, 9 matches
-[29/40] >2010-11/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2010/11, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× CF Monterrey
-        6× Santos Laguna
-        4× Club América
-        4× Pumas UNAM
-        2× Atlético San Luis
-        2× CF Pachuca
-        2× Cruz Azul
-        2× Jaguares Chiapas
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[30/40] >2010-11/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2010/11, stage: >Clausura<
+[18/40] >2019-20/1-clausura.txt< - 1 section(s):
+    228 lines, 153 matches - México Primera División (mx.1) 2019/20, stage: >Clausura<
       18 teams (referenced):
-        17× Atlante FC
         17× Atlético San Luis
         17× CD Guadalajara Chivas
         17× CF Monterrey
         17× CF Pachuca
         17× Club América
         17× Club Atlas
+        17× Club León
         17× Club Necaxa
         17× Club Puebla
+        17× Club Tijuana
         17× Cruz Azul
         17× Deportivo Toluca FC
-        17× Estudiantes UAG
-        17× Jaguares Chiapas
+        17× FC Juárez
         17× Monarcas Morelia
         17× Pumas UNAM
         17× Querétaro FC
         17× Santos Laguna
         17× Tigres UANL
       17 rounds (referenced):
-        Jornada 1, 9 matches
+        Jornada 1 ×2, 9 matches
         Jornada 2, 9 matches
         Jornada 3, 9 matches
         Jornada 4, 9 matches
-        Jornada 14 ×2, 9 matches
         Jornada 5, 9 matches
         Jornada 6, 9 matches
         Jornada 7, 9 matches
@@ -915,10 +590,134 @@
         Jornada 11, 9 matches
         Jornada 12, 9 matches
         Jornada 13, 9 matches
+        Jornada 14, 9 matches
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[31/40] >2010-11/1-clausura_liguilla.txt< - 1 section(s):
+[19/40] >2019-20/1-apertura_liguilla.txt< - 1 section(s):
+    26 lines, 14 matches - México Primera División (mx.1) 2019/20, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× CF Monterrey
+        6× Club América
+        4× Club Necaxa
+        4× Monarcas Morelia
+        2× Club León
+        2× Querétaro FC
+        2× Santos Laguna
+        2× Tigres UANL
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[20/40] >2014-15/1-clausura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Clausura - Liguilla<
+      8 teams (referenced):
+        6× Querétaro FC
+        6× Santos Laguna
+        4× CD Guadalajara Chivas
+        4× CF Pachuca
+        2× Club América
+        2× Club Atlas
+        2× Tiburones Rojos Veracruz
+        2× Tigres UANL
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[21/40] >2014-15/1-apertura.txt< - 1 section(s):
+    226 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Apertura<
+      18 teams (referenced):
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Jaguares Chiapas
+        17× Leones Negros U. de G.
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tiburones Rojos Veracruz
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3 ×2, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8 ×2, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[22/40] >2014-15/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2014/15, stage: >Clausura<
+      18 teams (referenced):
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Jaguares Chiapas
+        17× Leones Negros U. de G.
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tiburones Rojos Veracruz
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[23/40] >2014-15/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2014/15, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× Club América
+        6× Tigres UANL
+        4× CF Monterrey
+        4× Deportivo Toluca FC
+        2× CF Pachuca
+        2× Club Atlas
+        2× Jaguares Chiapas
+        2× Pumas UNAM
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[24/40] >2010-11/1-clausura_liguilla.txt< - 1 section(s):
     25 lines, 14 matches - México Primera División (mx.1) 2010/11, stage: >Clausura - Liguilla<
       8 teams (referenced):
         6× Monarcas Morelia
@@ -933,7 +732,7 @@
         Cuartos de Final, 8 matches
         Semifinales, 4 matches
         Final, 2 matches
-[32/40] >2010-11/1-apertura.txt< - 1 section(s):
+[25/40] >2010-11/1-apertura.txt< - 1 section(s):
     223 lines, 153 matches - México Primera División (mx.1) 2010/11, stage: >Apertura<
       18 teams (referenced):
         17× Atlante FC
@@ -972,23 +771,8 @@
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[33/40] >2011-12/1-apertura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2011/12, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× Santos Laguna
-        6× Tigres UANL
-        4× Monarcas Morelia
-        4× Querétaro FC
-        2× CD Guadalajara Chivas
-        2× CF Pachuca
-        2× Cruz Azul
-        2× Jaguares Chiapas
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[34/40] >2011-12/1-clausura.txt< - 1 section(s):
-    221 lines, 153 matches - México Primera División (mx.1) 2011/12, stage: >Clausura<
+[26/40] >2010-11/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2010/11, stage: >Clausura<
       18 teams (referenced):
         17× Atlante FC
         17× Atlético San Luis
@@ -997,8 +781,8 @@
         17× CF Pachuca
         17× Club América
         17× Club Atlas
+        17× Club Necaxa
         17× Club Puebla
-        17× Club Tijuana
         17× Cruz Azul
         17× Deportivo Toluca FC
         17× Estudiantes UAG
@@ -1013,6 +797,7 @@
         Jornada 2, 9 matches
         Jornada 3, 9 matches
         Jornada 4, 9 matches
+        Jornada 14 ×2, 9 matches
         Jornada 5, 9 matches
         Jornada 6, 9 matches
         Jornada 7, 9 matches
@@ -1022,11 +807,25 @@
         Jornada 11, 9 matches
         Jornada 12, 9 matches
         Jornada 13, 9 matches
-        Jornada 14, 9 matches
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[35/40] >2011-12/1-clausura_liguilla.txt< - 1 section(s):
+[27/40] >2010-11/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2010/11, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× CF Monterrey
+        6× Santos Laguna
+        4× Club América
+        4× Pumas UNAM
+        2× Atlético San Luis
+        2× CF Pachuca
+        2× Cruz Azul
+        2× Jaguares Chiapas
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[28/40] >2011-12/1-clausura_liguilla.txt< - 1 section(s):
     27 lines, 14 matches - México Primera División (mx.1) 2011/12, stage: >Clausura - Liguilla<
       8 teams (referenced):
         6× CF Monterrey
@@ -1041,7 +840,7 @@
         Cuartos de Final, 8 matches
         Semifinales, 4 matches
         Final, 2 matches
-[36/40] >2011-12/1-apertura.txt< - 1 section(s):
+[29/40] >2011-12/1-apertura.txt< - 1 section(s):
     219 lines, 153 matches - México Primera División (mx.1) 2011/12, stage: >Apertura<
       18 teams (referenced):
         17× Atlante FC
@@ -1080,23 +879,8 @@
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[37/40] >2012-13/1-apertura_liguilla.txt< - 1 section(s):
-    25 lines, 14 matches - México Primera División (mx.1) 2012/13, stage: >Apertura - Liguilla<
-      8 teams (referenced):
-        6× Club Tijuana
-        6× Deportivo Toluca FC
-        4× Club América
-        4× Club León
-        2× CD Guadalajara Chivas
-        2× CF Monterrey
-        2× Cruz Azul
-        2× Monarcas Morelia
-      3 rounds (referenced):
-        Cuartos de Final, 8 matches
-        Semifinales, 4 matches
-        Final, 2 matches
-[38/40] >2012-13/1-clausura.txt< - 1 section(s):
-    220 lines, 153 matches - México Primera División (mx.1) 2012/13, stage: >Clausura<
+[30/40] >2011-12/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2011/12, stage: >Clausura<
       18 teams (referenced):
         17× Atlante FC
         17× Atlético San Luis
@@ -1105,11 +889,11 @@
         17× CF Pachuca
         17× Club América
         17× Club Atlas
-        17× Club León
         17× Club Puebla
         17× Club Tijuana
         17× Cruz Azul
         17× Deportivo Toluca FC
+        17× Estudiantes UAG
         17× Jaguares Chiapas
         17× Monarcas Morelia
         17× Pumas UNAM
@@ -1134,26 +918,40 @@
         Jornada 15, 9 matches
         Jornada 16, 9 matches
         Jornada 17, 9 matches
-[39/40] >2012-13/1-clausura_liguilla.txt< - 1 section(s):
-    27 lines, 14 matches - México Primera División (mx.1) 2012/13, stage: >Clausura - Liguilla<
+[31/40] >2011-12/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2011/12, stage: >Apertura - Liguilla<
       8 teams (referenced):
-        6× Club América
-        6× Cruz Azul
-        4× CF Monterrey
-        4× Santos Laguna
-        2× Club Atlas
-        2× Monarcas Morelia
-        2× Pumas UNAM
-        2× Tigres UANL
+        6× Santos Laguna
+        6× Tigres UANL
+        4× Monarcas Morelia
+        4× Querétaro FC
+        2× CD Guadalajara Chivas
+        2× CF Pachuca
+        2× Cruz Azul
+        2× Jaguares Chiapas
       3 rounds (referenced):
         Cuartos de Final, 8 matches
         Semifinales, 4 matches
         Final, 2 matches
-[40/40] >2012-13/1-apertura.txt< - 1 section(s):
-    224 lines, 153 matches - México Primera División (mx.1) 2012/13, stage: >Apertura<
+[32/40] >2013-14/1-clausura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Clausura - Liguilla<
+      8 teams (referenced):
+        6× CF Pachuca
+        6× Club León
+        4× Deportivo Toluca FC
+        4× Santos Laguna
+        2× Club América
+        2× Club Tijuana
+        2× Cruz Azul
+        2× Pumas UNAM
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[33/40] >2013-14/1-apertura.txt< - 1 section(s):
+    225 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Apertura<
       18 teams (referenced):
         17× Atlante FC
-        17× Atlético San Luis
         17× CD Guadalajara Chivas
         17× CF Monterrey
         17× CF Pachuca
@@ -1169,6 +967,46 @@
         17× Pumas UNAM
         17× Querétaro FC
         17× Santos Laguna
+        17× Tiburones Rojos Veracruz
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1 ×2, 9 matches
+        Jornada 2 ×2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[34/40] >2013-14/1-clausura.txt< - 1 section(s):
+    221 lines, 153 matches - México Primera División (mx.1) 2013/14, stage: >Clausura<
+      18 teams (referenced):
+        17× Atlante FC
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Jaguares Chiapas
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tiburones Rojos Veracruz
         17× Tigres UANL
       17 rounds (referenced):
         Jornada 1, 9 matches
@@ -1183,7 +1021,169 @@
         Jornada 10, 9 matches
         Jornada 11, 9 matches
         Jornada 12, 9 matches
-        Jornada 13 ×3, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[35/40] >2013-14/1-apertura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2013/14, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× Club América
+        6× Club León
+        4× Deportivo Toluca FC
+        4× Santos Laguna
+        2× Cruz Azul
+        2× Monarcas Morelia
+        2× Querétaro FC
+        2× Tigres UANL
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[36/40] >2017-18/1-clausura_liguilla.txt< - 1 section(s):
+    25 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Clausura - Liguilla<
+      8 teams (referenced):
+        6× Deportivo Toluca FC
+        6× Santos Laguna
+        4× Club América
+        4× Club Tijuana
+        2× CF Monterrey
+        2× Monarcas Morelia
+        2× Pumas UNAM
+        2× Tigres UANL
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[37/40] >2017-18/1-apertura.txt< - 1 section(s):
+    223 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Apertura<
+      18 teams (referenced):
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Necaxa
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Lobos BUAP
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tiburones Rojos Veracruz
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8 ×2, 9 matches
+        Jornada 9, 9 matches
+        Jornada 11 ×2, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 10, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[38/40] >2017-18/1-clausura.txt< - 1 section(s):
+    220 lines, 153 matches - México Primera División (mx.1) 2017/18, stage: >Clausura<
+      18 teams (referenced):
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Necaxa
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× Lobos BUAP
+        17× Monarcas Morelia
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tiburones Rojos Veracruz
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11, 9 matches
+        Jornada 12, 9 matches
+        Jornada 13, 9 matches
+        Jornada 14, 9 matches
+        Jornada 15, 9 matches
+        Jornada 16, 9 matches
+        Jornada 17, 9 matches
+[39/40] >2017-18/1-apertura_liguilla.txt< - 1 section(s):
+    27 lines, 14 matches - México Primera División (mx.1) 2017/18, stage: >Apertura - Liguilla<
+      8 teams (referenced):
+        6× CF Monterrey
+        6× Tigres UANL
+        4× Club América
+        4× Monarcas Morelia
+        2× Club Atlas
+        2× Club León
+        2× Cruz Azul
+        2× Deportivo Toluca FC
+      3 rounds (referenced):
+        Cuartos de Final, 8 matches
+        Semifinales, 4 matches
+        Final, 2 matches
+[40/40] >2020-21/1-apertura.txt< - 1 section(s):
+    239 lines, 153 matches - México Primera División (mx.1) 2020/21, stage: >Apertura<
+      18 teams (referenced):
+        17× Atlético San Luis
+        17× CD Guadalajara Chivas
+        17× CF Monterrey
+        17× CF Pachuca
+        17× Club América
+        17× Club Atlas
+        17× Club León
+        17× Club Necaxa
+        17× Club Puebla
+        17× Club Tijuana
+        17× Cruz Azul
+        17× Deportivo Toluca FC
+        17× FC Juárez
+        17× Mazatlán FC
+        17× Pumas UNAM
+        17× Querétaro FC
+        17× Santos Laguna
+        17× Tigres UANL
+      17 rounds (referenced):
+        Jornada 1, 9 matches
+        Jornada 2, 9 matches
+        Jornada 3, 9 matches
+        Jornada 4, 9 matches
+        Jornada 5, 9 matches
+        Jornada 6, 9 matches
+        Jornada 7, 9 matches
+        Jornada 8, 9 matches
+        Jornada 9, 9 matches
+        Jornada 10, 9 matches
+        Jornada 11 ×2, 9 matches
+        Jornada 12 ×2, 9 matches
+        Jornada 13, 9 matches
         Jornada 14, 9 matches
         Jornada 15, 9 matches
         Jornada 16, 9 matches
