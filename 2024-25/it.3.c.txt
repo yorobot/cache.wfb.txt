@@ -1,0 +1,561 @@
+= IT 3 C 2024/25
+
+# Date       Fri Aug/23 2024 - Sun Apr/27 2025 (247d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Aug/23]
+  20.45  Juventus II              3-4 (1-3)  Audace Cerignola
+         Latina Calcio            1-1 (0-0)  Casertana FC
+         Giugliano                1-0 (1-0)  Taranto FC
+[Sat Aug/24]
+  18.00  Sorrento Calcio          0-0  Calcio Catania
+[Sun Aug/25]
+  18.00  AZ Picerno               4-1 (0-0)  US Avellino
+  20.45  ACR Messina              2-2 (0-1)  Potenza
+         FC Turris                0-2 (0-2)  SS Monopoli 1966
+[Mon Aug/26]
+  20.45  Benevento Calcio         2-1 (0-1)  Cavese
+         Foggia Calcio            2-2 (1-1)  Trapani Calcio
+  20.30  FC Crotone               2-0 (2-0)  Team Altamura
+
+
+Matchday 2
+[Fri Aug/30]
+  20.45  Audace Cerignola         2-0 (1-0)  ACR Messina
+         Casertana FC             2-3 (2-2)  Juventus II
+         Taranto FC               1-1 (1-0)  Latina Calcio
+[Sat Aug/31]
+  20.45  SS Monopoli 1966         0-1 (0-1)  Sorrento Calcio
+[Sun Sep/1]
+  20.45  Trapani Calcio           0-3 (0-1)  AZ Picerno
+  18.00  Potenza                  2-0 (1-0)  FC Turris
+[Mon Sep/2]
+  20.45  Cavese                   2-1 (1-1)  FC Crotone
+         Team Altamura            0-2 (0-1)  Foggia Calcio
+  21.15  Calcio Catania           1-0 (1-0)  Benevento Calcio
+  20.45  US Avellino              1-1 (0-1)  Giugliano
+
+
+Matchday 3
+[Sat Sep/7]
+  18.30  AZ Picerno               0-0  Casertana FC
+         Juventus II              1-3 (0-1)  Calcio Catania
+  20.45  ACR Messina              4-1 (1-1)  Taranto FC
+         FC Crotone               1-2 (1-1)  Trapani Calcio
+         FC Turris                2-0 (1-0)  Latina Calcio
+[Sun Sep/8]
+  20.45  US Avellino              0-0  Audace Cerignola
+         Benevento Calcio         4-1 (3-1)  Potenza
+         Foggia Calcio            1-4 (1-2)  SS Monopoli 1966
+         Giugliano                0-0  Cavese
+  18.30  Sorrento Calcio          2-1 (1-0)  Team Altamura
+
+
+Matchday 4
+[Fri Sep/13]
+  20.45  Taranto FC               0-0  Trapani Calcio
+         Potenza                  1-0 (0-0)  Sorrento Calcio
+[Sat Sep/14]
+  18.30  FC Crotone               2-0 (1-0)  ACR Messina
+         SS Monopoli 1966         0-0  Juventus II
+  20.45  Casertana FC             0-0  FC Turris
+         Calcio Catania           0-0  AZ Picerno
+[Sun Sep/15]
+  20.45  Cavese                   1-1 (0-0)  US Avellino
+         Team Altamura            0-2 (0-0)  Benevento Calcio
+         Audace Cerignola         3-1 (0-1)  Giugliano
+[Mon Sep/16]
+  20.30  Latina Calcio            0-0  Foggia Calcio
+
+
+Matchday 5
+[Fri Sep/20]
+  20.45  ACR Messina              2-2 (2-0)  Casertana FC
+[Sat Sep/21]
+  20.45  US Avellino              0-1 (0-1)  Latina Calcio
+         Cavese                   0-1 (0-1)  SS Monopoli 1966
+         Taranto FC               1-2 (1-0)  Team Altamura
+  18.30  Sorrento Calcio          0-0  FC Turris
+[Sun Sep/22]
+  16.15  Trapani Calcio           1-1 (1-0)  Juventus II
+  18.30  Giugliano                3-2 (1-0)  Calcio Catania
+  20.45  Audace Cerignola         0-1 (0-0)  Potenza
+         AZ Picerno               5-2 (4-1)  FC Crotone
+         Benevento Calcio         4-0 (2-0)  Foggia Calcio
+
+
+Matchday 6
+[Tue Sep/24]
+  20.45  Team Altamura            0-0  Cavese
+         FC Turris                0-0  US Avellino
+         Casertana FC             2-0 (0-0)  Taranto FC
+[Wed Sep/25]
+  18.30  Potenza                  1-5 (1-2)  Trapani Calcio
+  20.45  Calcio Catania           0-0  Audace Cerignola
+         FC Crotone               1-2 (1-0)  Sorrento Calcio
+         Foggia Calcio            1-2 (1-2)  Giugliano
+         Latina Calcio            1-1 (1-1)  ACR Messina
+[Thu Sep/26]
+  20.45  SS Monopoli 1966         1-0 (0-0)  Benevento Calcio
+  18.30  Juventus II              1-1 (0-0)  AZ Picerno
+
+
+Matchday 7
+[Sat Sep/28]
+  18.30  Taranto FC               2-2 (1-1)  Sorrento Calcio
+[Sun Sep/29]
+  18.30  Audace Cerignola         0-0  Casertana FC
+         Cavese                   1-0 (1-0)  Latina Calcio
+         Trapani Calcio           4-0 (2-0)  FC Turris
+  20.45  US Avellino              2-1 (2-0)  Foggia Calcio
+         Calcio Catania           1-0 (0-0)  SS Monopoli 1966
+         Giugliano                2-3 (1-1)  Team Altamura
+         Potenza                  3-3 (1-2)  FC Crotone
+[Mon Sep/30]
+  20.45  Benevento Calcio         4-1 (3-1)  Juventus II
+  20.30  AZ Picerno               2-0 (0-0)  ACR Messina
+
+
+Matchday 8
+[Fri Oct/4]
+  20.30  Foggia Calcio            2-0 (0-0)  Taranto FC
+[Sat Oct/5]
+  15.00  Juventus II              2-3 (1-2)  Potenza
+  17.30  AZ Picerno               1-1 (0-1)  Cavese
+         Team Altamura            0-1 (0-1)  SS Monopoli 1966
+[Sun Oct/6]
+  12.30  Latina Calcio            0-1 (0-0)  Giugliano
+  15.00  ACR Messina              0-0  Benevento Calcio
+         Casertana FC             1-3 (1-1)  Calcio Catania
+         Sorrento Calcio          1-1 (1-1)  Trapani Calcio
+  17.30  FC Turris                0-3 (0-1)  Audace Cerignola
+[Mon Oct/7]
+  20.30  FC Crotone               -  US Avellino
+
+
+Matchday 9
+[Fri Oct/11]
+  20.30  Cavese                   -  FC Turris
+         Trapani Calcio           -  ACR Messina
+         Audace Cerignola         -  Sorrento Calcio
+[Sat Oct/12]
+  15.00  Giugliano                -  Juventus II
+         SS Monopoli 1966         -  FC Crotone
+  17.30  Calcio Catania           -  Team Altamura
+[Sun Oct/13]
+  17.30  Taranto FC               -  AZ Picerno
+  19.30  US Avellino              -  Casertana FC
+  19.45  Potenza                  -  Foggia Calcio
+  15.00  Benevento Calcio         -  Latina Calcio
+
+
+Matchday 10
+[Sat Oct/19]
+  15.00  Sorrento Calcio          -  Benevento Calcio
+  17.30  FC Turris                -  Giugliano
+  15.00  Latina Calcio            -  Team Altamura
+[Sun Oct/20]
+  AZ Picerno               -  Potenza
+  Casertana FC             -  Cavese
+  15.00  Foggia Calcio            -  Calcio Catania
+         Juventus II              -  US Avellino
+         Trapani Calcio           -  Audace Cerignola
+  17.30  ACR Messina              -  SS Monopoli 1966
+  19.30  FC Crotone               -  Taranto FC
+
+
+Matchday 11
+[Sat Oct/26]
+  15.00  SS Monopoli 1966         -  Trapani Calcio
+  17.30  Audace Cerignola         -  AZ Picerno
+  15.00  Cavese                   -  Potenza
+[Sun Oct/27]
+  15.00  US Avellino              -  ACR Messina
+         Calcio Catania           -  Latina Calcio
+         Taranto FC               -  FC Turris
+         Team Altamura            -  Juventus II
+  15.30  Benevento Calcio         -  Casertana FC
+  17.30  Giugliano                -  FC Crotone
+         Sorrento Calcio          -  Foggia Calcio
+
+
+Matchday 12
+[Wed Oct/30]
+  ACR Messina              -  Cavese
+  Casertana FC             -  Team Altamura
+  FC Crotone               -  Benevento Calcio
+  Foggia Calcio            -  Audace Cerignola
+  Juventus II              -  Sorrento Calcio
+  Latina Calcio            -  SS Monopoli 1966
+  Potenza                  -  Taranto FC
+  FC Turris                -  Calcio Catania
+  18.30  AZ Picerno               -  Giugliano
+  20.45  Trapani Calcio           -  US Avellino
+
+
+Matchday 13
+[Sun Nov/3]
+  Audace Cerignola         -  FC Crotone
+  US Avellino              -  Taranto FC
+  Benevento Calcio         -  FC Turris
+  Calcio Catania           -  ACR Messina
+  Cavese                   -  Foggia Calcio
+  Giugliano                -  Trapani Calcio
+  Juventus II              -  Latina Calcio
+  SS Monopoli 1966         -  AZ Picerno
+  Sorrento Calcio          -  Casertana FC
+  Team Altamura            -  Potenza
+
+
+Matchday 14
+[Sun Nov/10]
+  ACR Messina              -  Giugliano
+  AZ Picerno               -  Benevento Calcio
+  Casertana FC             -  SS Monopoli 1966
+  FC Crotone               -  Calcio Catania
+  Foggia Calcio            -  Juventus II
+  Latina Calcio            -  Sorrento Calcio
+  Potenza                  -  US Avellino
+  Taranto FC               -  Audace Cerignola
+  Trapani Calcio           -  Cavese
+  FC Turris                -  Team Altamura
+
+
+Matchday 15
+[Sun Nov/17]
+  Benevento Calcio         -  US Avellino
+  Calcio Catania           -  Trapani Calcio
+  Cavese                   -  Taranto FC
+  Foggia Calcio            -  Casertana FC
+  Giugliano                -  Potenza
+  Juventus II              -  FC Turris
+  Latina Calcio            -  FC Crotone
+  SS Monopoli 1966         -  Audace Cerignola
+  Sorrento Calcio          -  AZ Picerno
+  Team Altamura            -  ACR Messina
+
+
+Matchday 16
+[Sun Nov/24]
+  ACR Messina              -  Sorrento Calcio
+  Audace Cerignola         -  Cavese
+  US Avellino              -  Calcio Catania
+  AZ Picerno               -  Team Altamura
+  Casertana FC             -  Giugliano
+  FC Crotone               -  Juventus II
+  Potenza                  -  SS Monopoli 1966
+  Taranto FC               -  Benevento Calcio
+  Trapani Calcio           -  Latina Calcio
+  FC Turris                -  Foggia Calcio
+
+
+Matchday 17
+[Sun Dec/1]
+  Benevento Calcio         -  Audace Cerignola
+  Casertana FC             -  Potenza
+  Calcio Catania           -  Cavese
+  Foggia Calcio            -  FC Crotone
+  Juventus II              -  Taranto FC
+  Latina Calcio            -  AZ Picerno
+  SS Monopoli 1966         -  US Avellino
+  Sorrento Calcio          -  Giugliano
+  Team Altamura            -  Trapani Calcio
+  FC Turris                -  ACR Messina
+
+
+Matchday 18
+[Sun Dec/8]
+  ACR Messina              -  Foggia Calcio
+  Audace Cerignola         -  Team Altamura
+  US Avellino              -  Sorrento Calcio
+  AZ Picerno               -  FC Turris
+  Cavese                   -  Juventus II
+  FC Crotone               -  Casertana FC
+  Giugliano                -  SS Monopoli 1966
+  Potenza                  -  Latina Calcio
+  Taranto FC               -  Calcio Catania
+  Trapani Calcio           -  Benevento Calcio
+
+
+Matchday 19
+[Sun Dec/15]
+  Benevento Calcio         -  Giugliano
+  Casertana FC             -  Trapani Calcio
+  Calcio Catania           -  Potenza
+  Foggia Calcio            -  AZ Picerno
+  Juventus II              -  ACR Messina
+  Latina Calcio            -  Audace Cerignola
+  SS Monopoli 1966         -  Taranto FC
+  Sorrento Calcio          -  Cavese
+  Team Altamura            -  US Avellino
+  FC Turris                -  FC Crotone
+
+
+Matchday 20
+[Sun Dec/22]
+  Potenza                  -  ACR Messina
+  US Avellino              -  AZ Picerno
+  Cavese                   -  Benevento Calcio
+  Team Altamura            -  FC Crotone
+  Trapani Calcio           -  Foggia Calcio
+  Taranto FC               -  Giugliano
+  Audace Cerignola         -  Juventus II
+  Casertana FC             -  Latina Calcio
+  Calcio Catania           -  Sorrento Calcio
+  SS Monopoli 1966         -  FC Turris
+
+
+Matchday 21
+[Sun Jan/5]
+  ACR Messina              -  Audace Cerignola
+  Giugliano                -  US Avellino
+  Juventus II              -  Casertana FC
+  Benevento Calcio         -  Calcio Catania
+  FC Crotone               -  Cavese
+  Sorrento Calcio          -  SS Monopoli 1966
+  FC Turris                -  Potenza
+  Latina Calcio            -  Taranto FC
+  Foggia Calcio            -  Team Altamura
+  AZ Picerno               -  Trapani Calcio
+
+
+Matchday 22
+[Sun Jan/12]
+  Taranto FC               -  ACR Messina
+  Audace Cerignola         -  US Avellino
+  Casertana FC             -  AZ Picerno
+  Potenza                  -  Benevento Calcio
+  Trapani Calcio           -  FC Crotone
+  SS Monopoli 1966         -  Foggia Calcio
+  Cavese                   -  Giugliano
+  Calcio Catania           -  Juventus II
+  Team Altamura            -  Sorrento Calcio
+  Latina Calcio            -  FC Turris
+
+
+Matchday 23
+[Sun Jan/19]
+  Giugliano                -  Audace Cerignola
+  FC Turris                -  Casertana FC
+  AZ Picerno               -  Calcio Catania
+  US Avellino              -  Cavese
+  ACR Messina              -  FC Crotone
+  Foggia Calcio            -  Latina Calcio
+  Juventus II              -  SS Monopoli 1966
+  Sorrento Calcio          -  Potenza
+  Trapani Calcio           -  Taranto FC
+  Benevento Calcio         -  Team Altamura
+
+
+Matchday 24
+[Sun Jan/26]
+  Casertana FC             -  ACR Messina
+  Potenza                  -  Audace Cerignola
+  Latina Calcio            -  US Avellino
+  FC Crotone               -  AZ Picerno
+  Foggia Calcio            -  Benevento Calcio
+  SS Monopoli 1966         -  Cavese
+  Calcio Catania           -  Giugliano
+  FC Turris                -  Sorrento Calcio
+  Team Altamura            -  Taranto FC
+  Juventus II              -  Trapani Calcio
+
+
+Matchday 25
+[Sun Feb/2]
+  Taranto FC               -  Casertana FC
+  Audace Cerignola         -  Calcio Catania
+  Sorrento Calcio          -  FC Crotone
+  Giugliano                -  Foggia Calcio
+  AZ Picerno               -  Juventus II
+  ACR Messina              -  Latina Calcio
+  Benevento Calcio         -  SS Monopoli 1966
+  Trapani Calcio           -  Potenza
+  Cavese                   -  Team Altamura
+  US Avellino              -  FC Turris
+
+
+Matchday 26
+[Sun Feb/9]
+  Casertana FC             -  Audace Cerignola
+  Foggia Calcio            -  US Avellino
+  ACR Messina              -  AZ Picerno
+  Juventus II              -  Benevento Calcio
+  SS Monopoli 1966         -  Calcio Catania
+  Latina Calcio            -  Cavese
+  Team Altamura            -  Giugliano
+  FC Crotone               -  Potenza
+  Sorrento Calcio          -  Taranto FC
+  FC Turris                -  Trapani Calcio
+
+
+Matchday 27
+[Sun Feb/16]
+  Benevento Calcio         -  ACR Messina
+  Cavese                   -  AZ Picerno
+  Calcio Catania           -  Casertana FC
+  US Avellino              -  FC Crotone
+  Taranto FC               -  Foggia Calcio
+  Potenza                  -  Juventus II
+  Giugliano                -  Latina Calcio
+  Trapani Calcio           -  Sorrento Calcio
+  SS Monopoli 1966         -  Team Altamura
+  Audace Cerignola         -  FC Turris
+
+
+Matchday 28
+[Sun Feb/23]
+  Sorrento Calcio          -  Audace Cerignola
+  Casertana FC             -  US Avellino
+  Latina Calcio            -  Benevento Calcio
+  Team Altamura            -  Calcio Catania
+  FC Turris                -  Cavese
+  Juventus II              -  Giugliano
+  FC Crotone               -  SS Monopoli 1966
+  Foggia Calcio            -  Potenza
+  AZ Picerno               -  Taranto FC
+  ACR Messina              -  Trapani Calcio
+
+
+Matchday 29
+[Sun Mar/2]
+  SS Monopoli 1966         -  ACR Messina
+  Potenza                  -  AZ Picerno
+  Cavese                   -  Casertana FC
+  Taranto FC               -  FC Crotone
+  Calcio Catania           -  Foggia Calcio
+  US Avellino              -  Juventus II
+  Team Altamura            -  Latina Calcio
+  Benevento Calcio         -  Sorrento Calcio
+  Audace Cerignola         -  Trapani Calcio
+  Giugliano                -  FC Turris
+
+
+Matchday 30
+[Sun Mar/9]
+  AZ Picerno               -  Audace Cerignola
+  ACR Messina              -  US Avellino
+  Casertana FC             -  Benevento Calcio
+  Latina Calcio            -  Calcio Catania
+  Potenza                  -  Cavese
+  FC Crotone               -  Giugliano
+  Trapani Calcio           -  SS Monopoli 1966
+  Foggia Calcio            -  Sorrento Calcio
+  FC Turris                -  Taranto FC
+  Juventus II              -  Team Altamura
+
+
+Matchday 31
+[Wed Mar/12]
+  Cavese                   -  ACR Messina
+  Giugliano                -  AZ Picerno
+  Team Altamura            -  Casertana FC
+  Benevento Calcio         -  FC Crotone
+  Audace Cerignola         -  Foggia Calcio
+  Sorrento Calcio          -  Juventus II
+  SS Monopoli 1966         -  Latina Calcio
+  Taranto FC               -  Potenza
+  US Avellino              -  Trapani Calcio
+  Calcio Catania           -  FC Turris
+
+
+Matchday 32
+[Sun Mar/16]
+  FC Crotone               -  Audace Cerignola
+  Taranto FC               -  US Avellino
+  FC Turris                -  Benevento Calcio
+  ACR Messina              -  Calcio Catania
+  Foggia Calcio            -  Cavese
+  Trapani Calcio           -  Giugliano
+  Latina Calcio            -  Juventus II
+  AZ Picerno               -  SS Monopoli 1966
+  Casertana FC             -  Sorrento Calcio
+  Potenza                  -  Team Altamura
+
+
+Matchday 33
+[Sun Mar/23]
+  Giugliano                -  ACR Messina
+  Benevento Calcio         -  AZ Picerno
+  SS Monopoli 1966         -  Casertana FC
+  Calcio Catania           -  FC Crotone
+  Juventus II              -  Foggia Calcio
+  Sorrento Calcio          -  Latina Calcio
+  US Avellino              -  Potenza
+  Audace Cerignola         -  Taranto FC
+  Cavese                   -  Trapani Calcio
+  Team Altamura            -  FC Turris
+
+
+Matchday 34
+[Sun Mar/30]
+  US Avellino              -  Benevento Calcio
+  Trapani Calcio           -  Calcio Catania
+  Taranto FC               -  Cavese
+  Casertana FC             -  Foggia Calcio
+  Potenza                  -  Giugliano
+  FC Turris                -  Juventus II
+  FC Crotone               -  Latina Calcio
+  Audace Cerignola         -  SS Monopoli 1966
+  AZ Picerno               -  Sorrento Calcio
+  ACR Messina              -  Team Altamura
+
+
+Matchday 35
+[Sun Apr/6]
+  Sorrento Calcio          -  ACR Messina
+  Cavese                   -  Audace Cerignola
+  Calcio Catania           -  US Avellino
+  Team Altamura            -  AZ Picerno
+  Giugliano                -  Casertana FC
+  Juventus II              -  FC Crotone
+  SS Monopoli 1966         -  Potenza
+  Benevento Calcio         -  Taranto FC
+  Latina Calcio            -  Trapani Calcio
+  Foggia Calcio            -  FC Turris
+
+
+Matchday 36
+[Sun Apr/13]
+  Audace Cerignola         -  Benevento Calcio
+  Potenza                  -  Casertana FC
+  Cavese                   -  Calcio Catania
+  FC Crotone               -  Foggia Calcio
+  Taranto FC               -  Juventus II
+  AZ Picerno               -  Latina Calcio
+  US Avellino              -  SS Monopoli 1966
+  Giugliano                -  Sorrento Calcio
+  Trapani Calcio           -  Team Altamura
+  ACR Messina              -  FC Turris
+
+
+Matchday 37
+[Sat Apr/19]
+  Foggia Calcio            -  ACR Messina
+  Team Altamura            -  Audace Cerignola
+  Sorrento Calcio          -  US Avellino
+  FC Turris                -  AZ Picerno
+  Juventus II              -  Cavese
+  Casertana FC             -  FC Crotone
+  SS Monopoli 1966         -  Giugliano
+  Latina Calcio            -  Potenza
+  Calcio Catania           -  Taranto FC
+  Benevento Calcio         -  Trapani Calcio
+
+
+Matchday 38
+[Sun Apr/27]
+  Giugliano                -  Benevento Calcio
+  Trapani Calcio           -  Casertana FC
+  Potenza                  -  Calcio Catania
+  AZ Picerno               -  Foggia Calcio
+  ACR Messina              -  Juventus II
+  Audace Cerignola         -  Latina Calcio
+  Taranto FC               -  SS Monopoli 1966
+  Cavese                   -  Sorrento Calcio
+  US Avellino              -  Team Altamura
+  FC Crotone               -  FC Turris

@@ -1,0 +1,635 @@
+= IT 3 C 2023/24
+
+# Date       Fri Sep/1 2023 - Sun May/19 2024 (261d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Sep/1]
+  20.45  Giugliano                1-0 (0-0)  Sorrento Calcio
+  19.45  Calcio Catania           0-1 (0-0)  FC Crotone
+[Sat Sep/2]
+  20.45  US Avellino              0-2 (0-1)  Latina Calcio
+         Audace Cerignola         2-2 (1-1)  ACR Messina
+[Sun Sep/3]
+  20.45  Monterosi FC             1-3 (0-0)  SS Juve Stabia
+         Potenza                  2-1 (0-0)  Brindisi
+         Taranto FC               2-0 (0-0)  Foggia Calcio
+         FC Turris                3-1 (2-1)  Benevento Calcio
+         Virtus Francavilla       0-1 (0-0)  AZ Picerno
+
+
+Matchday 2
+[Sat Sep/9]
+  18.30  Sorrento Calcio          2-2 (1-1)  Audace Cerignola
+[Sun Sep/10]
+  20.45  FC Crotone               2-3 (0-2)  FC Turris
+         SS Monopoli 1966         2-2 (2-2)  Monterosi FC
+         Latina Calcio            2-1 (1-1)  Potenza
+[Mon Sep/11]
+  20.45  AZ Picerno               1-1 (1-0)  Taranto FC
+         Benevento Calcio         1-0 (1-0)  Virtus Francavilla
+         Foggia Calcio            1-0 (0-0)  Giugliano
+         SS Juve Stabia           1-0 (0-0)  US Avellino
+
+
+Matchday 3
+[Sun Sep/17]
+  20.45  Casertana FC             0-0  Benevento Calcio
+         Virtus Francavilla       3-1 (1-1)  FC Crotone
+         US Avellino              0-0  Foggia Calcio
+         Calcio Catania           2-0 (1-0)  AZ Picerno
+         Potenza                  2-1 (1-1)  SS Monopoli 1966
+         FC Turris                3-2 (2-2)  Sorrento Calcio
+[Mon Sep/18]
+  20.45  Giugliano                0-0  SS Juve Stabia
+         Audace Cerignola         3-1 (2-1)  Brindisi
+         Monterosi FC             2-2 (0-1)  Latina Calcio
+
+
+Matchday 4
+[Thu Sep/21]
+  20.45  SS Juve Stabia           3-0 (2-0)  Potenza
+         AZ Picerno               4-0 (1-0)  Giugliano
+  18.30  Sorrento Calcio          0-1 (0-0)  US Avellino
+  20.45  Foggia Calcio            0-0  Virtus Francavilla
+  18.30  ACR Messina              3-3 (2-1)  FC Turris
+         Benevento Calcio         2-1 (2-0)  Taranto FC
+         Brindisi                 2-1 (0-1)  Monterosi FC
+  20.45  FC Crotone               1-1 (0-0)  Audace Cerignola
+  18.30  Latina Calcio            1-1 (1-1)  Casertana FC
+  20.45  SS Monopoli 1966         0-0  Calcio Catania
+
+
+Matchday 5
+[Sun Sep/24]
+  20.45  US Avellino              4-0 (0-0)  SS Monopoli 1966
+         Virtus Francavilla       1-0 (1-0)  ACR Messina
+         FC Crotone               1-0 (1-0)  Sorrento Calcio
+         Potenza                  1-1 (0-1)  Casertana FC
+[Mon Sep/25]
+  20.45  FC Turris                1-3 (1-2)  AZ Picerno
+         Monterosi FC             2-3 (1-2)  Taranto FC
+         Giugliano                0-3 (0-1)  Latina Calcio
+         Calcio Catania           0-2 (0-0)  Foggia Calcio
+         Audace Cerignola         0-0  SS Juve Stabia
+         Brindisi                 0-1 (0-1)  Benevento Calcio
+
+
+Matchday 1
+[Wed Sep/27]
+  20.45  Casertana FC             1-1 (1-0)  SS Monopoli 1966
+
+
+Matchday 6
+[Sat Sep/30]
+  16.15  Latina Calcio            1-3 (1-3)  Brindisi
+  18.30  Potenza                  1-0 (0-0)  Monterosi FC
+[Sun Oct/1]
+  18.30  SS Juve Stabia           1-0 (0-0)  SS Monopoli 1966
+  20.45  AZ Picerno               1-1 (1-0)  Sorrento Calcio
+  18.30  Foggia Calcio            2-1 (0-0)  FC Turris
+  14.00  ACR Messina              1-0 (1-0)  US Avellino
+         Casertana FC             0-4 (0-2)  Calcio Catania
+  16.15  Virtus Francavilla       1-1 (1-0)  Giugliano
+  18.30  Benevento Calcio         3-2 (0-1)  FC Crotone
+[Mon Oct/2]
+  15.00  Taranto FC               0-0  Audace Cerignola
+
+
+Matchday 7
+[Sun Oct/8]
+  20.45  SS Monopoli 1966         2-2 (1-2)  Foggia Calcio
+  18.30  Giugliano                2-1 (0-1)  Taranto FC
+  20.45  Audace Cerignola         0-0  Benevento Calcio
+  14.00  Sorrento Calcio          1-0 (1-0)  ACR Messina
+         Monterosi FC             0-1 (0-1)  Casertana FC
+  16.15  Calcio Catania           1-1 (0-1)  Latina Calcio
+         FC Crotone               2-1 (2-1)  AZ Picerno
+  18.30  FC Turris                1-3 (0-1)  Virtus Francavilla
+[Mon Oct/9]
+  20.45  US Avellino              4-1 (4-1)  Potenza
+[Tue Oct/10]
+  18.30  Brindisi                 1-1 (0-1)  SS Juve Stabia
+
+
+Matchday 2
+[Wed Oct/11]
+  20.45  ACR Messina              1-1 (0-0)  Casertana FC
+
+
+Matchday 8
+[Sat Oct/14]
+  14.00  Monterosi FC             0-3 (0-2)  Audace Cerignola
+  16.15  Foggia Calcio            2-0 (2-0)  Brindisi
+[Sun Oct/15]
+  16.15  Latina Calcio            3-2 (3-0)  SS Monopoli 1966
+         Virtus Francavilla       1-5 (1-3)  Sorrento Calcio
+  14.00  ACR Messina              1-0 (1-0)  Giugliano
+         Benevento Calcio         2-2 (0-1)  AZ Picerno
+         SS Juve Stabia           1-0 (1-0)  Calcio Catania
+  16.15  Taranto FC               2-1 (2-0)  FC Crotone
+[Mon Oct/16]
+  20.30  Potenza                  2-3 (0-2)  FC Turris
+  20.45  Casertana FC             0-2 (0-1)  US Avellino
+
+
+Matchday 9
+[Fri Oct/20]
+  20.45  AZ Picerno               1-1 (0-0)  ACR Messina
+         SS Monopoli 1966         3-0 (1-0)  Virtus Francavilla
+[Sat Oct/21]
+  18.30  Sorrento Calcio          0-1 (0-0)  Benevento Calcio
+  20.45  FC Turris                1-2 (0-1)  SS Juve Stabia
+  18.30  Audace Cerignola         2-0 (1-0)  Latina Calcio
+         FC Crotone               2-1 (1-1)  Foggia Calcio
+         Giugliano                0-0  Potenza
+[Sun Oct/22]
+  18.30  US Avellino              2-1 (0-1)  Monterosi FC
+  16.15  Calcio Catania           1-0 (0-0)  Taranto FC
+  14.00  Brindisi                 1-4 (0-3)  Casertana FC
+
+
+Matchday 10
+[Wed Oct/25]
+  20.45  Taranto FC               3-1 (2-1)  FC Turris
+         Casertana FC             2-1 (1-0)  SS Juve Stabia
+  18.30  Giugliano                1-2 (1-1)  FC Crotone
+         Monterosi FC             1-1 (0-1)  Calcio Catania
+         US Avellino              1-0 (0-0)  Audace Cerignola
+         Latina Calcio            1-0 (0-0)  Virtus Francavilla
+  20.45  SS Monopoli 1966         1-1 (1-0)  AZ Picerno
+[Thu Oct/26]
+  20.45  Foggia Calcio            0-0  Benevento Calcio
+  18.30  ACR Messina              0-1 (0-0)  Brindisi
+  20.45  Potenza                  3-0 (2-0)  Sorrento Calcio
+
+
+Matchday 11
+[Sun Oct/29]
+  20.45  Virtus Francavilla       1-2 (1-1)  Taranto FC
+  18.30  AZ Picerno               2-0 (0-0)  Foggia Calcio
+  14.00  FC Crotone               3-3 (2-1)  ACR Messina
+  16.00  Calcio Catania           0-2 (0-1)  US Avellino
+  16.15  Sorrento Calcio          0-2 (0-1)  Monterosi FC
+  18.30  SS Juve Stabia           1-0 (1-0)  Latina Calcio
+  20.45  Brindisi                 1-2 (0-1)  SS Monopoli 1966
+  18.30  FC Turris                0-1 (0-1)  Giugliano
+         Audace Cerignola         2-4 (0-2)  Casertana FC
+[Mon Oct/30]
+  20.45  Benevento Calcio         1-0 (1-0)  Potenza
+
+
+Matchday 2
+[Wed Nov/1]
+  16.15  Brindisi                 0-2 (0-0)  Calcio Catania
+
+
+Matchday 3
+[Wed Nov/1]
+  18.30  Taranto FC               2-0 (2-0)  ACR Messina
+
+
+Matchday 12
+[Sat Nov/4]
+  18.30  US Avellino              1-1 (0-1)  Virtus Francavilla
+         Latina Calcio            0-0  FC Crotone
+  20.45  Foggia Calcio            1-1 (0-1)  Sorrento Calcio
+  16.15  Monterosi FC             1-3 (1-2)  AZ Picerno
+[Sun Nov/5]
+  14.00  Potenza                  1-0 (1-0)  Calcio Catania
+  18.30  ACR Messina              0-1 (0-0)  Benevento Calcio
+         Giugliano                3-0 (1-0)  Brindisi
+         Taranto FC               0-2 (0-1)  SS Juve Stabia
+  20.45  Casertana FC             1-0 (1-0)  FC Turris
+[Mon Nov/6]
+  20.45  SS Monopoli 1966         2-2 (1-0)  Audace Cerignola
+
+
+Matchday 13
+[Sat Nov/11]
+  20.45  Virtus Francavilla       2-3 (2-2)  Casertana FC
+[Sun Nov/12]
+  14.00  FC Crotone               2-1 (1-1)  Monterosi FC
+         FC Turris                0-1 (0-1)  SS Monopoli 1966
+  16.15  ACR Messina              0-3 (0-1)  Latina Calcio
+  18.30  Audace Cerignola         1-0 (0-0)  Calcio Catania
+         Brindisi                 0-4 (0-2)  US Avellino
+         Sorrento Calcio          1-0 (0-0)  Taranto FC
+[Mon Nov/13]
+  20.45  Benevento Calcio         2-2 (1-0)  Giugliano
+         SS Juve Stabia           0-0  Foggia Calcio
+  20.30  AZ Picerno               3-1 (3-0)  Potenza
+
+
+Matchday 14
+[Sat Nov/18]
+  14.00  Calcio Catania           2-1 (1-0)  FC Turris
+  16.15  Latina Calcio            0-3 (0-1)  AZ Picerno
+         Casertana FC             1-1 (1-0)  FC Crotone
+  18.30  Taranto FC               1-0 (0-0)  Brindisi
+[Sun Nov/19]
+  16.15  Foggia Calcio            2-0 (1-0)  ACR Messina
+         SS Monopoli 1966         3-0 (1-0)  Benevento Calcio
+         US Avellino              1-3 (1-1)  Giugliano
+  18.30  SS Juve Stabia           0-0  Sorrento Calcio
+         Potenza                  2-2 (0-1)  Audace Cerignola
+  14.00  Monterosi FC             1-0 (0-0)  Virtus Francavilla
+
+
+Matchday 15
+[Fri Nov/24]
+  20.45  Foggia Calcio            1-2 (0-1)  Latina Calcio
+[Sat Nov/25]
+  16.15  ACR Messina              0-1 (0-1)  SS Juve Stabia
+[Sun Nov/26]
+  16.15  FC Crotone               2-1 (1-0)  Potenza
+         Giugliano                0-1 (0-0)  Calcio Catania
+  18.30  AZ Picerno               2-0 (1-0)  US Avellino
+         Sorrento Calcio          2-0 (0-0)  SS Monopoli 1966
+         FC Turris                1-1 (0-1)  Audace Cerignola
+[Mon Nov/27]
+  20.45  Benevento Calcio         2-1 (2-0)  Monterosi FC
+         Taranto FC               0-1 (0-1)  Casertana FC
+  20.30  Virtus Francavilla       2-0 (1-0)  Brindisi
+
+
+Matchday 16
+[Sat Dec/2]
+  16.15  Monterosi FC             0-2 (0-1)  ACR Messina
+[Sun Dec/3]
+  16.00  SS Juve Stabia           1-0 (1-0)  Benevento Calcio
+  20.45  Audace Cerignola         0-1 (0-1)  AZ Picerno
+         Brindisi                 0-2 (0-1)  FC Crotone
+         Calcio Catania           1-1 (0-1)  Virtus Francavilla
+         US Avellino              0-0  FC Turris
+[Mon Dec/4]
+  20.45  Potenza                  1-2 (1-1)  Taranto FC
+         SS Monopoli 1966         1-3 (0-3)  Giugliano
+         Latina Calcio            0-2 (0-1)  Sorrento Calcio
+         Casertana FC             2-1 (2-0)  Foggia Calcio
+
+
+Matchday 17
+[Fri Dec/8]
+  17.00  AZ Picerno               0-0  Casertana FC
+[Sat Dec/9]
+  18.30  Giugliano                3-1 (1-0)  Monterosi FC
+  20.45  ACR Messina              1-0 (0-0)  Calcio Catania
+         FC Turris                1-1 (0-1)  Latina Calcio
+  18.30  FC Crotone               1-1 (1-1)  SS Juve Stabia
+[Sun Dec/10]
+  18.30  Benevento Calcio         0-1 (0-1)  US Avellino
+         Foggia Calcio            0-0  Potenza
+  16.15  Sorrento Calcio          0-2 (0-2)  Brindisi
+[Mon Dec/11]
+  20.30  Taranto FC               1-0 (1-0)  SS Monopoli 1966
+  20.45  Virtus Francavilla       3-3 (1-2)  Audace Cerignola
+
+
+Matchday 18
+[Sat Dec/16]
+  18.30  SS Juve Stabia           3-0 (1-0)  Virtus Francavilla
+  16.15  Potenza                  0-0  ACR Messina
+[Sun Dec/17]
+  18.30  Monterosi FC             3-3 (2-1)  FC Turris
+         SS Monopoli 1966         0-3 (0-2)  FC Crotone
+         US Avellino              0-0  Taranto FC
+  20.45  Brindisi                 1-1 (0-0)  AZ Picerno
+[Mon Dec/18]
+  20.45  Calcio Catania           0-1 (0-1)  Sorrento Calcio
+         Latina Calcio            0-0  Benevento Calcio
+         Casertana FC             3-1 (1-0)  Giugliano
+         Audace Cerignola         2-0 (1-0)  Foggia Calcio
+
+
+Matchday 19
+[Fri Dec/22]
+  18.30  AZ Picerno               0-2 (0-0)  SS Juve Stabia
+         FC Turris                3-1 (3-0)  Brindisi
+  20.45  ACR Messina              1-1 (1-1)  SS Monopoli 1966
+         FC Crotone               0-1 (0-1)  US Avellino
+         Taranto FC               2-1 (1-1)  Latina Calcio
+[Sat Dec/23]
+  18.30  Benevento Calcio         0-4 (0-1)  Calcio Catania
+         Foggia Calcio            2-1 (2-0)  Monterosi FC
+  20.45  Giugliano                0-1 (0-1)  Audace Cerignola
+         Virtus Francavilla       0-1 (0-1)  Potenza
+  16.30  Sorrento Calcio          1-1 (0-1)  Casertana FC
+
+
+Matchday 20
+[Sat Jan/6]
+  14.00  AZ Picerno               3-0 (1-0)  Virtus Francavilla
+         SS Monopoli 1966         1-2 (0-0)  Casertana FC
+  16.15  Benevento Calcio         3-2 (1-0)  FC Turris
+         Foggia Calcio            1-2 (1-2)  Taranto FC
+         Latina Calcio            0-5 (0-5)  US Avellino
+[Sun Jan/7]
+  16.15  Sorrento Calcio          2-0 (1-0)  Giugliano
+  18.30  Brindisi                 0-4 (0-2)  Potenza
+         FC Crotone               3-0 (1-0)  Calcio Catania
+         SS Juve Stabia           2-2 (1-0)  Monterosi FC
+  14.00  ACR Messina              1-2 (0-0)  Audace Cerignola
+
+
+Matchday 21
+[Fri Jan/12]
+  20.45  Taranto FC               1-1 (0-0)  AZ Picerno
+         Giugliano                4-1 (1-1)  Foggia Calcio
+[Sat Jan/13]
+  16.15  Potenza                  2-0 (1-0)  Latina Calcio
+  18.30  FC Turris                0-4 (0-2)  FC Crotone
+  20.45  Calcio Catania           4-0 (1-0)  Brindisi
+         Monterosi FC             2-1 (1-0)  SS Monopoli 1966
+         US Avellino              2-2 (2-1)  SS Juve Stabia
+         Virtus Francavilla       1-2 (0-0)  Benevento Calcio
+[Sun Jan/14]
+  20.45  Audace Cerignola         1-2 (0-1)  Sorrento Calcio
+  14.00  Casertana FC             0-2 (0-1)  ACR Messina
+
+
+Matchday 22
+[Fri Jan/19]
+  20.45  Latina Calcio            1-0 (0-0)  Monterosi FC
+[Sat Jan/20]
+  20.45  Brindisi                 1-1 (0-0)  Audace Cerignola
+         FC Crotone               1-1 (0-1)  Virtus Francavilla
+         Foggia Calcio            1-3 (1-2)  US Avellino
+[Sun Jan/21]
+  14.45  Sorrento Calcio          2-1 (0-1)  FC Turris
+  20.45  SS Juve Stabia           0-0  Giugliano
+         SS Monopoli 1966         1-0 (1-0)  Potenza
+  14.00  ACR Messina              1-0 (0-0)  Taranto FC
+[Mon Jan/22]
+  20.45  Benevento Calcio         1-0 (0-0)  Casertana FC
+
+
+Matchday 23
+[Fri Jan/26]
+  20.45  Virtus Francavilla       1-0 (1-0)  Foggia Calcio
+[Sat Jan/27]
+  16.15  Potenza                  1-3 (0-2)  SS Juve Stabia
+  18.30  Monterosi FC             0-0  Brindisi
+  20.45  Audace Cerignola         4-2 (0-2)  FC Crotone
+         Casertana FC             1-1 (1-0)  Latina Calcio
+         FC Turris                2-2 (1-0)  ACR Messina
+         Giugliano                1-1 (0-1)  AZ Picerno
+[Sun Jan/28]
+  20.45  Calcio Catania           1-1 (1-0)  SS Monopoli 1966
+  16.15  Taranto FC               2-2 (1-1)  Benevento Calcio
+[Mon Jan/29]
+  20.45  US Avellino              0-1 (0-0)  Sorrento Calcio
+
+
+Matchday 24
+[Fri Feb/2]
+  20.45  Foggia Calcio            1-1 (1-1)  Calcio Catania
+         Latina Calcio            0-1 (0-1)  Giugliano
+         SS Juve Stabia           4-0 (2-0)  Audace Cerignola
+         AZ Picerno               1-0 (0-0)  FC Turris
+[Sat Feb/3]
+  16.15  ACR Messina              3-2 (2-2)  Virtus Francavilla
+         Sorrento Calcio          1-1 (1-1)  FC Crotone
+  20.45  SS Monopoli 1966         0-1 (0-1)  US Avellino
+         Taranto FC               2-1 (1-1)  Monterosi FC
+         Casertana FC             0-0  Potenza
+[Sun Feb/4]
+  14.00  Benevento Calcio         2-0 (2-0)  Brindisi
+
+
+Matchday 22
+[Tue Feb/6]
+  14.00  AZ Picerno               1-0 (1-0)  Calcio Catania
+
+
+Matchday 25
+[Sat Feb/10]
+  20.45  Monterosi FC             1-1 (1-0)  Potenza
+[Sun Feb/11]
+  14.00  Brindisi                 1-2 (0-0)  Latina Calcio
+         Giugliano                2-1 (1-0)  Virtus Francavilla
+         SS Monopoli 1966         1-3 (1-0)  SS Juve Stabia
+  16.15  US Avellino              0-1 (0-1)  ACR Messina
+         Calcio Catania           0-0  Casertana FC
+  18.30  Audace Cerignola         0-0  Taranto FC
+         Sorrento Calcio          0-2 (0-1)  AZ Picerno
+         FC Turris                2-0 (1-0)  Foggia Calcio
+[Mon Feb/12]
+  20.30  FC Crotone               0-0  Benevento Calcio
+
+
+Matchday 26
+[Wed Feb/14]
+  18.30  Taranto FC               1-0 (0-0)  Giugliano
+         Latina Calcio            1-0 (0-0)  Calcio Catania
+  20.45  SS Juve Stabia           0-0  Brindisi
+         Potenza                  2-2 (1-0)  US Avellino
+         Virtus Francavilla       0-0  FC Turris
+  18.30  ACR Messina              2-0 (0-0)  Sorrento Calcio
+[Thu Feb/15]
+  18.30  AZ Picerno               0-0  FC Crotone
+         Casertana FC             4-3 (1-2)  Monterosi FC
+  20.45  Benevento Calcio         1-1 (1-0)  Audace Cerignola
+         Foggia Calcio            3-2 (2-1)  SS Monopoli 1966
+
+
+Matchday 27
+[Sun Feb/18]
+  18.30  SS Monopoli 1966         0-1 (0-1)  Latina Calcio
+  20.45  Audace Cerignola         1-2 (1-2)  Monterosi FC
+         Calcio Catania           2-0 (1-0)  SS Juve Stabia
+         FC Crotone               2-2 (1-0)  Taranto FC
+         AZ Picerno               1-2 (1-0)  Benevento Calcio
+  18.30  Giugliano                1-0 (0-0)  ACR Messina
+[Mon Feb/19]
+  20.45  Brindisi                 0-2 (0-1)  Foggia Calcio
+         Sorrento Calcio          1-0 (0-0)  Virtus Francavilla
+         FC Turris                1-0 (0-0)  Potenza
+         US Avellino              2-1 (2-1)  Casertana FC
+
+
+Matchday 28
+[Sat Feb/24]
+  16.15  Taranto FC               1-0 (1-0)  Calcio Catania
+[Sun Feb/25]
+  18.30  Monterosi FC             1-1 (0-1)  US Avellino
+         Potenza                  1-0 (1-0)  Giugliano
+         Casertana FC             2-1 (1-0)  Brindisi
+  20.45  Latina Calcio            2-2 (0-0)  Audace Cerignola
+  14.00  ACR Messina              2-2 (0-2)  AZ Picerno
+[Mon Feb/26]
+  20.45  Benevento Calcio         4-0 (0-0)  Sorrento Calcio
+         Foggia Calcio            2-1 (0-0)  FC Crotone
+         SS Juve Stabia           1-0 (1-0)  FC Turris
+         Virtus Francavilla       0-0  SS Monopoli 1966
+
+
+Matchday 29
+[Sat Mar/2]
+  20.45  Benevento Calcio         1-0 (0-0)  Foggia Calcio
+         FC Crotone               2-3 (2-0)  Giugliano
+         Sorrento Calcio          1-1 (0-0)  Potenza
+  18.30  Brindisi                 1-3 (0-1)  ACR Messina
+[Sun Mar/3]
+  14.00  Calcio Catania           1-1 (0-1)  Monterosi FC
+         Virtus Francavilla       1-0 (0-0)  Latina Calcio
+  18.30  Audace Cerignola         1-1 (1-0)  US Avellino
+         AZ Picerno               0-0  SS Monopoli 1966
+         FC Turris                1-1 (0-0)  Taranto FC
+[Mon Mar/4]
+  20.30  SS Juve Stabia           1-0 (0-0)  Casertana FC
+
+
+Matchday 30
+[Wed Mar/6]
+  18.30  ACR Messina              0-1 (0-0)  FC Crotone
+         Foggia Calcio            2-0 (1-0)  AZ Picerno
+         SS Monopoli 1966         2-2 (1-0)  Brindisi
+         US Avellino              5-2 (3-0)  Calcio Catania
+  20.45  Giugliano                2-1 (1-0)  FC Turris
+         Taranto FC               1-0 (0-0)  Virtus Francavilla
+[Thu Mar/7]
+  18.30  Latina Calcio            1-3 (0-2)  SS Juve Stabia
+  20.30  Potenza                  0-2 (0-2)  Benevento Calcio
+  20.45  Casertana FC             1-1 (0-0)  Audace Cerignola
+  18.30  Monterosi FC             1-0 (1-0)  Sorrento Calcio
+
+
+Matchday 31
+[Sun Mar/10]
+  14.00  Brindisi                 0-0  Giugliano
+  16.15  Calcio Catania           0-0  Potenza
+  18.30  Benevento Calcio         1-1 (1-0)  ACR Messina
+  20.45  Audace Cerignola         1-3 (1-1)  SS Monopoli 1966
+         FC Crotone               1-3 (0-0)  Latina Calcio
+         Sorrento Calcio          1-1 (0-0)  Foggia Calcio
+         Virtus Francavilla       0-0  US Avellino
+[Mon Mar/11]
+  20.45  AZ Picerno               5-1 (1-0)  Monterosi FC
+         FC Turris                1-0 (1-0)  Casertana FC
+         SS Juve Stabia           2-1 (0-0)  Taranto FC
+
+
+Matchday 32
+[Fri Mar/15]
+  20.45  Calcio Catania           2-1 (1-0)  Audace Cerignola
+[Sat Mar/16]
+  18.30  Latina Calcio            1-1 (1-1)  ACR Messina
+  20.45  Giugliano                1-2 (1-0)  Benevento Calcio
+  18.30  US Avellino              2-0 (1-0)  Brindisi
+[Sun Mar/17]
+  18.30  Taranto FC               0-0  Sorrento Calcio
+         Casertana FC             2-0 (1-0)  Virtus Francavilla
+  20.45  Foggia Calcio            2-1 (1-1)  SS Juve Stabia
+         Monterosi FC             1-0 (1-0)  FC Crotone
+         SS Monopoli 1966         0-0  FC Turris
+[Mon Mar/18]
+  20.30  Potenza                  1-0 (1-0)  AZ Picerno
+
+
+Matchday 33
+[Sat Mar/23]
+  14.00  ACR Messina              0-3 (0-1)  Foggia Calcio
+         Benevento Calcio         0-1 (0-0)  SS Monopoli 1966
+         AZ Picerno               0-2 (0-2)  Latina Calcio
+         Sorrento Calcio          1-2 (0-1)  SS Juve Stabia
+         Virtus Francavilla       2-0 (0-0)  Monterosi FC
+  17.30  Giugliano                3-2 (1-1)  US Avellino
+[Sun Mar/24]
+  16.15  Audace Cerignola         2-1 (1-0)  Potenza
+  18.30  Brindisi                 0-2 (0-2)  Taranto FC
+  14.00  FC Turris                2-1 (2-0)  Calcio Catania
+[Mon Mar/25]
+  20.30  FC Crotone               0-0  Casertana FC
+
+
+Matchday 34
+[Thu Mar/28]
+  20.45  Calcio Catania           2-3 (1-0)  Giugliano
+[Sat Mar/30]
+  14.00  Monterosi FC             1-1 (0-0)  Benevento Calcio
+         SS Monopoli 1966         1-0 (1-0)  Sorrento Calcio
+         Casertana FC             1-0 (1-0)  Taranto FC
+  16.15  SS Juve Stabia           4-1 (3-0)  ACR Messina
+  18.30  Potenza                  2-2 (2-1)  FC Crotone
+         Latina Calcio            3-0 (1-0)  Foggia Calcio
+  20.45  Audace Cerignola         0-0  FC Turris
+         Brindisi                 2-0 (2-0)  Virtus Francavilla
+         US Avellino              6-1 (1-0)  AZ Picerno
+
+
+Matchday 35
+[Fri Apr/5]
+  20.45  Foggia Calcio            0-2 (0-0)  Casertana FC
+[Sat Apr/6]
+  18.30  Giugliano                0-1 (0-0)  SS Monopoli 1966
+         Taranto FC               2-0 (1-0)  Potenza
+  16.15  Sorrento Calcio          3-1 (1-0)  Latina Calcio
+[Sun Apr/7]
+  14.00  ACR Messina              2-1 (2-0)  Monterosi FC
+  18.30  Virtus Francavilla       1-0 (0-0)  Calcio Catania
+  20.45  FC Crotone               1-2 (1-1)  Brindisi
+         AZ Picerno               2-1 (1-0)  Audace Cerignola
+         FC Turris                0-4 (0-2)  US Avellino
+[Mon Apr/8]
+  20.30  Benevento Calcio         0-0  SS Juve Stabia
+
+
+Matchday 36
+[Sat Apr/13]
+  16.15  Brindisi                 2-0 (1-0)  Sorrento Calcio
+         Monterosi FC             3-1 (1-0)  Giugliano
+  18.30  Potenza                  0-3 (0-1)  Foggia Calcio
+[Sun Apr/14]
+  18.30  Casertana FC             2-1 (1-0)  AZ Picerno
+  20.45  Audace Cerignola         3-0 (1-0)  Virtus Francavilla
+         Calcio Catania           1-0 (1-0)  ACR Messina
+         SS Monopoli 1966         1-2 (0-0)  Taranto FC
+  18.30  Latina Calcio            1-2 (1-1)  FC Turris
+[Mon Apr/15]
+  20.45  US Avellino              1-0 (0-0)  Benevento Calcio
+  20.30  SS Juve Stabia           1-1 (1-0)  FC Crotone
+
+
+Matchday 37
+[Sun Apr/21]
+  20.00  ACR Messina              2-2 (0-1)  Potenza
+         Benevento Calcio         4-0 (1-0)  Latina Calcio
+         FC Crotone               3-1 (0-1)  SS Monopoli 1966
+         Foggia Calcio            1-2 (1-1)  Audace Cerignola
+         AZ Picerno               0-0  Brindisi
+         Sorrento Calcio          3-2 (0-0)  Calcio Catania
+         Taranto FC               1-0 (0-0)  US Avellino
+         FC Turris                0-0  Monterosi FC
+         Virtus Francavilla       1-1 (0-0)  SS Juve Stabia
+         Giugliano                1-1 (0-1)  Casertana FC
+
+
+Matchday 38
+[Sat Apr/27]
+  18.30  Audace Cerignola         3-0 (3-0)  Giugliano
+         Brindisi                 1-2 (1-2)  FC Turris
+         Calcio Catania           1-0 (1-0)  Benevento Calcio
+         SS Juve Stabia           3-2 (2-1)  AZ Picerno
+         Monterosi FC             1-0 (0-0)  Foggia Calcio
+         Potenza                  0-0  Virtus Francavilla
+         SS Monopoli 1966         2-1 (1-0)  ACR Messina
+         US Avellino              1-0 (0-0)  FC Crotone
+         Latina Calcio            1-2 (0-2)  Taranto FC
+         Casertana FC             5-2 (3-1)  Sorrento Calcio
+
+
+== Playout
+
+Finalrunde
+[Sun May/12]
+  18.00  Virtus Francavilla       1-1 (0-0)  SS Monopoli 1966
+         Monterosi FC             0-1 (0-0)  Potenza
+[Sun May/19]
+  20.30  SS Monopoli 1966         1-1 (0-1)  Virtus Francavilla
+         Potenza                  1-1 (0-0)  Monterosi FC
