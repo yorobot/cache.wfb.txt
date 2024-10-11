@@ -1,0 +1,554 @@
+= EG 1 2017/18
+
+# Date       Fri Sep/8 2017 - Sun May/20 2018 (254d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Fri Sep/8]
+  17.00  El Daklyeh               1-1 (0-0)  PetroJet FC
+  19.30  Al Mokawloon             3-0 (3-0)  El Raja Sporting Club
+[Sat Sep/9]
+  15.00  Tanta                    0-0  Al Nasr FC
+  17.30  Ittihad El Iskandary     2-4 (2-1)  Ismaily
+  20.15  El Entag El Harby        1-1 (1-1)  Zamalek
+[Sun Sep/10]
+  15.00  El Assiouty Sport        1-1 (1-0)  Misr lel-Maqasah SC
+  17.30  Al Masry Club            1-0 (1-0)  Wadi Degla SC
+  20.15  Al Ahly SC               1-1 (0-1)  Tala'ea El Gaish SC
+[Mon Sep/11]
+  19.00  ENPPI                    1-1 (0-1)  Smouha Sporting Club
+
+
+Matchday 2
+[Thu Sep/14]
+  17.00  PetroJet FC              0-1 (0-0)  Al Masry Club
+  19.30  Tala'ea El Gaish SC      2-2 (1-2)  El Entag El Harby
+[Fri Sep/15]
+  19.00  El Raja Sporting Club    0-2 (0-1)  El Assiouty Sport
+[Sat Sep/16]
+  15.00  Al Nasr FC               2-3 (0-0)  Ittihad El Iskandary
+  17.00  Wadi Degla SC            2-1 (1-0)  ENPPI
+[Sun Sep/17]
+  15.00  Smouha Sporting Club     2-0 (1-0)  Tanta
+  17.30  Ismaily                  1-1 (0-1)  Al Mokawloon
+  20.15  Zamalek                  3-0 (0-0)  El Daklyeh
+[Sun Dec/10]
+  19.00  Misr lel-Maqasah SC      3-2 (1-1)  Al Ahly SC
+
+
+Matchday 3
+[Thu Sep/21]
+  15.00  ENPPI                    0-2 (0-1)  PetroJet FC
+  17.30  Smouha Sporting Club     1-1 (0-0)  Al Nasr FC
+  20.00  El Entag El Harby        1-0 (0-0)  Misr lel-Maqasah SC
+[Fri Sep/22]
+  15.00  Tanta                    3-1 (1-0)  Wadi Degla SC
+  17.30  Al Mokawloon             3-2 (1-1)  Ittihad El Iskandary
+  20.15  Al Masry Club            1-2 (1-0)  Zamalek
+[Sat Sep/23]
+  15.00  El Assiouty Sport        0-2 (0-1)  Ismaily
+  17.00  El Daklyeh               1-2 (0-0)  Tala'ea El Gaish SC
+[Mon Oct/16]
+  19.00  Al Ahly SC               4-1 (3-0)  El Raja Sporting Club
+
+
+Matchday 4
+[Wed Sep/27]
+  17.00  El Raja Sporting Club    0-2 (0-0)  El Entag El Harby
+[Thu Sep/28]
+  15.00  Al Nasr FC               1-2 (1-0)  Al Mokawloon
+  17.30  Tala'ea El Gaish SC      0-4 (0-2)  Al Masry Club
+  20.00  Wadi Degla SC            0-1 (0-0)  Smouha Sporting Club
+[Fri Sep/29]
+  17.00  Ittihad El Iskandary     2-0 (0-0)  El Assiouty Sport
+  20.00  Zamalek                  0-0  ENPPI
+[Sat Sep/30]
+  15.00  PetroJet FC              1-1 (0-0)  Tanta
+  17.15  El Daklyeh               2-1 (1-0)  Misr lel-Maqasah SC
+[Mon Nov/20]
+  19.00  Ismaily                  0-2 (0-0)  Al Ahly SC
+
+
+Matchday 5
+[Wed Oct/11]
+  14.45  El Daklyeh               2-0 (1-0)  El Raja Sporting Club
+  17.00  Smouha Sporting Club     0-0  PetroJet FC
+  19.30  Wadi Degla SC            1-1 (1-0)  Al Nasr FC
+[Thu Oct/12]
+  14.45  El Assiouty Sport        1-1 (0-1)  Al Mokawloon
+  17.00  Al Masry Club            3-2 (1-1)  Misr lel-Maqasah SC
+  20.00  Al Ahly SC               2-0 (1-0)  Ittihad El Iskandary
+[Fri Oct/13]
+  14.45  El Entag El Harby        0-1 (0-0)  Ismaily
+  17.30  Tanta                    1-1 (0-0)  Zamalek
+  20.00  ENPPI                    1-1 (0-0)  Tala'ea El Gaish SC
+
+
+Matchday 6
+[Thu Oct/19]
+  14.45  Al Nasr FC               2-2 (0-1)  El Assiouty Sport
+         Tala'ea El Gaish SC      0-0  Tanta
+  17.00  ENPPI                    2-1 (1-1)  Misr lel-Maqasah SC
+  19.30  Ittihad El Iskandary     1-1 (0-0)  El Entag El Harby
+[Fri Oct/20]
+  14.45  El Raja Sporting Club    0-0  Al Masry Club
+         PetroJet FC              2-2 (0-1)  Wadi Degla SC
+  17.00  Ismaily                  2-1 (2-1)  El Daklyeh
+  20.00  Zamalek                  0-3 (0-1)  Smouha Sporting Club
+[Thu Feb/8]
+  19.00  Al Mokawloon             0-3 (0-2)  Al Ahly SC
+
+
+Matchday 7
+[Thu Oct/26]
+  14.45  Tanta                    3-3 (3-0)  Misr lel-Maqasah SC
+  17.00  Smouha Sporting Club     0-1 (0-0)  Tala'ea El Gaish SC
+[Fri Oct/27]
+  14.45  El Daklyeh               2-2 (2-1)  Ittihad El Iskandary
+  16.45  Al Masry Club            1-2 (1-1)  Ismaily
+  17.00  ENPPI                    2-0 (0-0)  El Raja Sporting Club
+  19.30  El Entag El Harby        2-3 (0-1)  Al Mokawloon
+[Sat Oct/28]
+  14.45  PetroJet FC              2-0 (2-0)  Al Nasr FC
+[Sun Oct/29]
+  19.00  Wadi Degla SC            0-3 (0-0)  Zamalek
+[Wed Dec/6]
+  19.00  Al Ahly SC               1-0 (0-0)  El Assiouty Sport
+
+
+Matchday 8
+[Thu Nov/2]
+  14.45  Al Mokawloon             1-1 (0-0)  El Daklyeh
+  17.00  Ismaily                  1-1 (1-1)  ENPPI
+[Fri Nov/3]
+  14.45  El Raja Sporting Club    0-1 (0-0)  Tanta
+  18.00  Zamalek                  3-0 (2-0)  PetroJet FC
+[Sat Nov/4]
+  14.45  El Assiouty Sport        3-1 (3-1)  El Entag El Harby
+  17.00  Ittihad El Iskandary     0-1 (0-1)  Al Masry Club
+  19.30  Tala'ea El Gaish SC      0-0  Wadi Degla SC
+[Sun Nov/5]
+  17.30  Misr lel-Maqasah SC      2-0 (0-0)  Smouha Sporting Club
+[Tue Jan/2]
+  19.00  Al Nasr FC               0-4 (0-2)  Al Ahly SC
+
+
+Matchday 9
+[Wed Nov/15]
+  14.45  El Daklyeh               2-0 (2-0)  El Assiouty Sport
+  17.00  ENPPI                    2-0 (0-0)  Ittihad El Iskandary
+  19.30  Wadi Degla SC            3-3 (2-1)  Misr lel-Maqasah SC
+[Thu Nov/16]
+  14.45  Tanta                    0-1 (0-1)  Ismaily
+  17.00  Smouha Sporting Club     1-0 (0-0)  El Raja Sporting Club
+  20.00  El Entag El Harby        1-2 (1-1)  Al Ahly SC
+[Fri Nov/17]
+  17.00  PetroJet FC              2-0 (2-0)  Tala'ea El Gaish SC
+  20.00  Zamalek                  2-1 (1-0)  Al Nasr FC
+[Sat Nov/18]
+  17.00  Al Masry Club            1-0 (0-0)  Al Mokawloon
+
+
+Matchday 10
+[Tue Nov/21]
+  18.00  Ittihad El Iskandary     1-1 (0-0)  Tanta
+[Wed Nov/22]
+  14.45  El Raja Sporting Club    3-3 (2-0)  Wadi Degla SC
+  17.00  Misr lel-Maqasah SC      2-0 (1-0)  PetroJet FC
+[Thu Nov/23]
+  14.45  El Assiouty Sport        1-2 (1-2)  Al Masry Club
+  17.00  Al Nasr FC               0-1 (0-1)  El Entag El Harby
+  19.30  Al Mokawloon             2-2 (2-0)  ENPPI
+[Fri Nov/24]
+  17.00  Ismaily                  1-0 (1-0)  Smouha Sporting Club
+  20.00  Al Ahly SC               2-0 (1-0)  El Daklyeh
+[Wed Jan/3]
+  19.00  Tala'ea El Gaish SC      1-0 (0-0)  Zamalek
+
+
+Matchday 11
+[Mon Nov/27]
+  14.45  PetroJet FC              0-1 (0-0)  El Raja Sporting Club
+  17.00  Tala'ea El Gaish SC      1-3 (0-2)  Al Nasr FC
+  20.00  Zamalek                  1-3 (1-2)  Misr lel-Maqasah SC
+[Tue Nov/28]
+  14.45  Tanta                    0-1 (0-0)  Al Mokawloon
+  17.00  ENPPI                    0-0  El Assiouty Sport
+  20.00  Al Masry Club            0-2 (0-1)  Al Ahly SC
+[Wed Nov/29]
+  14.45  El Daklyeh               0-1 (0-0)  El Entag El Harby
+  17.00  Smouha Sporting Club     1-1 (1-0)  Ittihad El Iskandary
+  19.30  Wadi Degla SC            1-2 (0-1)  Ismaily
+
+
+Matchday 12
+[Sat Dec/2]
+  14.45  El Assiouty Sport        2-1 (1-0)  Tanta
+  17.15  El Raja Sporting Club    1-1 (1-0)  Zamalek
+  20.00  Al Ahly SC               4-1 (2-1)  ENPPI
+[Sun Dec/3]
+  14.45  Ismaily                  0-0  PetroJet FC
+  17.00  Ittihad El Iskandary     4-0 (1-0)  Wadi Degla SC
+  19.30  Al Mokawloon             0-3 (0-2)  Smouha Sporting Club
+[Mon Dec/4]
+  14.45  Al Nasr FC               0-0  El Daklyeh
+  17.00  El Entag El Harby        1-1 (0-1)  Al Masry Club
+  19.30  Misr lel-Maqasah SC      4-0 (1-0)  Tala'ea El Gaish SC
+
+
+Matchday 13
+[Wed Dec/13]
+  14.45  Tala'ea El Gaish SC      2-1 (1-0)  El Raja Sporting Club
+  17.00  Al Masry Club            1-1 (0-0)  El Daklyeh
+  19.30  ENPPI                    2-0 (1-0)  El Entag El Harby
+[Thu Dec/14]
+  14.45  Misr lel-Maqasah SC      1-4 (1-1)  Al Nasr FC
+  17.00  Wadi Degla SC            2-0 (2-0)  Al Mokawloon
+  20.00  Zamalek                  0-1 (0-0)  Ismaily
+[Fri Dec/15]
+  14.45  Smouha Sporting Club     1-3 (1-1)  El Assiouty Sport
+  17.00  Tanta                    1-1 (0-1)  Al Ahly SC
+  19.30  PetroJet FC              2-0 (0-0)  Ittihad El Iskandary
+
+
+Matchday 14
+[Mon Dec/18]
+  17.00  Al Nasr FC               2-3 (2-1)  Al Masry Club
+  19.30  El Daklyeh               1-2 (0-0)  ENPPI
+[Tue Dec/19]
+  14.45  El Raja Sporting Club    1-1 (1-0)  Misr lel-Maqasah SC
+  17.00  El Entag El Harby        1-0 (0-0)  Tanta
+         Ismaily                  1-1 (1-1)  Tala'ea El Gaish SC
+  19.30  Al Mokawloon             2-0 (1-0)  PetroJet FC
+[Wed Dec/20]
+  14.45  El Assiouty Sport        0-2 (0-0)  Wadi Degla SC
+  17.00  Ittihad El Iskandary     0-2 (0-1)  Zamalek
+  20.00  Al Ahly SC               2-1 (1-0)  Smouha Sporting Club
+
+
+Matchday 15
+[Fri Dec/22]
+  17.00  ENPPI                    2-1 (2-0)  Al Masry Club
+[Sat Dec/23]
+  14.45  El Raja Sporting Club    0-0  Al Nasr FC
+         Tanta                    1-2 (1-0)  El Daklyeh
+  17.00  Misr lel-Maqasah SC      1-4 (0-3)  Ismaily
+[Sun Dec/24]
+  14.45  PetroJet FC              1-2 (0-0)  El Assiouty Sport
+  17.00  Smouha Sporting Club     2-1 (1-0)  El Entag El Harby
+[Mon Dec/25]
+  16.00  Tala'ea El Gaish SC      0-0  Ittihad El Iskandary
+  19.00  Wadi Degla SC            1-1 (0-0)  Al Ahly SC
+[Tue Dec/26]
+  19.00  Zamalek                  1-0 (1-0)  Al Mokawloon
+
+
+Matchday 16
+[Wed Dec/27]
+  14.45  ENPPI                    1-1 (0-1)  Al Nasr FC
+  17.00  Ismaily                  5-0 (0-0)  El Raja Sporting Club
+[Thu Dec/28]
+  17.00  Al Masry Club            6-3 (3-2)  Tanta
+[Fri Dec/29]
+  15.00  Ittihad El Iskandary     2-2 (1-1)  Misr lel-Maqasah SC
+  18.00  Al Ahly SC               3-0 (0-0)  PetroJet FC
+[Sat Dec/30]
+  14.45  El Assiouty Sport        0-1 (0-0)  Zamalek
+         El Daklyeh               0-0  Smouha Sporting Club
+  17.00  Al Mokawloon             0-2 (0-1)  Tala'ea El Gaish SC
+  19.30  El Entag El Harby        2-0 (1-0)  Wadi Degla SC
+
+
+Matchday 17
+[Thu Jan/4]
+  14.30  El Raja Sporting Club    0-0  Ittihad El Iskandary
+  17.00  Misr lel-Maqasah SC      0-2 (0-1)  Al Mokawloon
+[Fri Jan/5]
+  14.30  Tanta                    0-1 (0-1)  ENPPI
+  17.00  PetroJet FC              1-0 (0-0)  El Entag El Harby
+         Smouha Sporting Club     3-2 (1-0)  Al Masry Club
+  19.30  Wadi Degla SC            1-2 (1-1)  El Daklyeh
+[Mon Jan/8]
+  19.00  Zamalek                  0-3 (0-2)  Al Ahly SC
+[Tue Jan/9]
+  18.00  Tala'ea El Gaish SC      2-1 (1-0)  El Assiouty Sport
+  20.00  Al Nasr FC               2-3 (1-0)  Ismaily
+
+
+Matchday 18
+[Sat Jan/13]
+  14.30  El Raja Sporting Club    1-0 (0-0)  Al Mokawloon
+         Misr lel-Maqasah SC      0-0  El Assiouty Sport
+  17.00  Ismaily                  0-0  Ittihad El Iskandary
+  19.30  Al Nasr FC               1-2 (1-1)  Tanta
+[Sun Jan/14]
+  14.30  PetroJet FC              1-1 (1-0)  El Daklyeh
+  17.00  Smouha Sporting Club     4-0 (1-0)  ENPPI
+  20.00  Zamalek                  0-0  El Entag El Harby
+[Tue Jan/16]
+  17.00  Wadi Degla SC            0-0  Al Masry Club
+  20.00  Tala'ea El Gaish SC      0-2 (0-1)  Al Ahly SC
+
+
+Matchday 19
+[Wed Jan/17]
+  14.30  El Assiouty Sport        3-1 (2-1)  El Raja Sporting Club
+  17.00  Ittihad El Iskandary     3-0 (0-0)  Al Nasr FC
+  19.30  Al Mokawloon             2-0 (1-0)  Ismaily
+[Thu Jan/18]
+  18.00  El Daklyeh               1-2 (0-1)  Zamalek
+[Fri Jan/19]
+  14.30  Tanta                    1-0 (1-0)  Smouha Sporting Club
+[Sat Jan/20]
+  14.45  Al Masry Club            2-1 (1-1)  PetroJet FC
+  17.00  ENPPI                    1-0 (1-0)  Wadi Degla SC
+  19.30  El Entag El Harby        1-0 (0-0)  Tala'ea El Gaish SC
+[Sun Jan/21]
+  19.00  Al Ahly SC               2-1 (0-1)  Misr lel-Maqasah SC
+
+
+Matchday 20
+[Mon Jan/22]
+  14.30  Ittihad El Iskandary     1-1 (1-0)  Al Mokawloon
+  17.00  Ismaily                  1-1 (1-1)  El Assiouty Sport
+[Tue Jan/23]
+  17.00  Al Nasr FC               0-2 (0-2)  Smouha Sporting Club
+[Wed Jan/24]
+  14.30  Wadi Degla SC            0-0  Tanta
+  17.00  PetroJet FC              1-0 (0-0)  ENPPI
+         Tala'ea El Gaish SC      0-2 (0-1)  El Daklyeh
+  20.00  Zamalek                  0-1 (0-0)  Al Masry Club
+[Thu Jan/25]
+  14.30  El Raja Sporting Club    1-3 (1-0)  Al Ahly SC
+  17.00  Misr lel-Maqasah SC      3-1 (2-0)  El Entag El Harby
+
+
+Matchday 21
+[Sun Jan/28]
+  14.30  El Assiouty Sport        1-1 (0-1)  Ittihad El Iskandary
+  17.00  Al Mokawloon             2-2 (1-2)  Al Nasr FC
+[Mon Jan/29]
+  14.30  Tanta                    0-0  PetroJet FC
+  17.00  Smouha Sporting Club     2-1 (1-0)  Wadi Degla SC
+  19.30  El Entag El Harby        2-1 (1-1)  El Raja Sporting Club
+[Tue Jan/30]
+  17.00  Misr lel-Maqasah SC      2-2 (0-1)  El Daklyeh
+  20.00  Al Ahly SC               1-0 (0-0)  Ismaily
+[Wed Jan/31]
+  17.00  Al Masry Club            0-0  Tala'ea El Gaish SC
+  20.00  ENPPI                    0-0  Zamalek
+
+
+Matchday 22
+[Fri Feb/2]
+  14.45  Al Mokawloon             1-1 (0-0)  El Assiouty Sport
+  17.00  PetroJet FC              2-1 (0-0)  Smouha Sporting Club
+  19.30  Al Nasr FC               0-1 (0-1)  Wadi Degla SC
+[Sat Feb/3]
+  14.30  El Raja Sporting Club    0-1 (0-0)  El Daklyeh
+  17.00  Ismaily                  2-0 (1-0)  El Entag El Harby
+[Sun Feb/4]
+  14.30  Tala'ea El Gaish SC      1-0 (0-0)  ENPPI
+  17.15  Ittihad El Iskandary     0-3 (0-1)  Al Ahly SC
+  20.00  Zamalek                  2-1 (2-1)  Tanta
+[Mon Feb/5]
+  17.00  Misr lel-Maqasah SC      1-4 (0-2)  Al Masry Club
+
+
+Matchday 23
+[Fri Feb/9]
+  14.45  El Daklyeh               0-0  Ismaily
+  17.00  Wadi Degla SC            2-1 (0-0)  PetroJet FC
+  19.30  El Entag El Harby        3-2 (1-0)  Ittihad El Iskandary
+[Sat Feb/10]
+  14.30  El Assiouty Sport        5-1 (2-1)  Al Nasr FC
+  17.15  Smouha Sporting Club     0-1 (0-0)  Zamalek
+[Mon Feb/12]
+  14.30  Tanta                    0-1 (0-1)  Tala'ea El Gaish SC
+  18.00  Al Ahly SC               5-2 (2-1)  Al Mokawloon
+[Thu Feb/15]
+  19.30  Al Masry Club            0-0  El Raja Sporting Club
+[Fri Mar/30]
+  18.00  Misr lel-Maqasah SC      0-0  ENPPI
+
+
+Matchday 24
+[Fri Feb/9]
+  14.45  El Raja Sporting Club    3-0 (0-0)  ENPPI
+[Wed Feb/14]
+  17.00  Zamalek                  1-0 (0-0)  Wadi Degla SC
+  19.30  Ittihad El Iskandary     2-1 (1-0)  El Daklyeh
+[Thu Feb/15]
+  17.00  Al Nasr FC               0-1 (0-0)  PetroJet FC
+[Fri Feb/16]
+  14.30  Misr lel-Maqasah SC      0-0  Tanta
+  17.15  El Assiouty Sport        0-1 (0-0)  Al Ahly SC
+  19.30  Tala'ea El Gaish SC      0-1 (0-1)  Smouha Sporting Club
+         Al Mokawloon             1-1 (1-0)  El Entag El Harby
+[Fri May/11]
+  19.00  Ismaily                  1-1 (0-1)  Al Masry Club
+
+
+Matchday 25
+[Sun Feb/18]
+  19.30  ENPPI                    2-0 (0-0)  Ismaily
+[Mon Feb/19]
+  17.00  PetroJet FC              1-3 (0-3)  Zamalek
+  20.00  Al Ahly SC               5-0 (3-0)  Al Nasr FC
+[Tue Feb/20]
+  14.30  Tanta                    0-0  El Raja Sporting Club
+  17.00  El Daklyeh               1-2 (1-0)  Al Mokawloon
+         El Entag El Harby        1-0 (1-0)  El Assiouty Sport
+  19.30  Wadi Degla SC            1-0 (0-0)  Tala'ea El Gaish SC
+[Sat Mar/31]
+  18.00  Al Masry Club            0-2 (0-0)  Ittihad El Iskandary
+[Tue Apr/3]
+  18.00  Smouha Sporting Club     1-0 (1-0)  Misr lel-Maqasah SC
+
+
+Matchday 26
+[Thu Feb/22]
+  17.00  Ittihad El Iskandary     1-1 (0-0)  ENPPI
+  20.00  Al Nasr FC               1-2 (1-2)  Zamalek
+[Fri Feb/23]
+  17.00  Tala'ea El Gaish SC      1-2 (0-0)  PetroJet FC
+[Sat Feb/24]
+  14.30  El Raja Sporting Club    0-0  Smouha Sporting Club
+         El Assiouty Sport        4-2 (2-1)  El Daklyeh
+  17.00  Ismaily                  2-2 (0-1)  Tanta
+  20.00  Al Ahly SC               2-1 (1-1)  El Entag El Harby
+[Sun Feb/25]
+  17.00  Al Mokawloon             1-2 (1-1)  Al Masry Club
+  19.30  Misr lel-Maqasah SC      2-0 (1-0)  Wadi Degla SC
+
+
+Matchday 27
+[Tue Feb/27]
+  20.00  Zamalek                  3-0 (3-0)  Tala'ea El Gaish SC
+[Wed Feb/28]
+  14.45  Tanta                    0-1 (0-0)  Ittihad El Iskandary
+  18.00  El Daklyeh               0-3 (0-0)  Al Ahly SC
+[Thu Mar/1]
+  14.45  Wadi Degla SC            2-3 (0-1)  El Raja Sporting Club
+  17.00  El Entag El Harby        1-1 (1-1)  Al Nasr FC
+         Smouha Sporting Club     1-2 (1-1)  Ismaily
+  19.30  ENPPI                    3-2 (2-0)  Al Mokawloon
+[Fri Mar/2]
+  16.00  PetroJet FC              0-0  Misr lel-Maqasah SC
+  18.30  Al Masry Club            3-1 (2-0)  El Assiouty Sport
+
+
+Matchday 28
+[Mon Mar/5]
+  15.00  Al Mokawloon             1-1 (1-0)  Tanta
+  17.30  Ittihad El Iskandary     2-0 (1-0)  Smouha Sporting Club
+  20.00  El Entag El Harby        1-1 (0-1)  El Daklyeh
+[Tue Mar/6]
+  15.00  El Assiouty Sport        1-1 (0-0)  ENPPI
+  17.00  Ismaily                  2-1 (1-0)  Wadi Degla SC
+[Wed Mar/7]
+  15.00  El Raja Sporting Club    1-1 (1-1)  PetroJet FC
+  17.30  Al Nasr FC               1-0 (1-0)  Tala'ea El Gaish SC
+[Sun Apr/8]
+  17.00  Misr lel-Maqasah SC      1-0 (0-0)  Zamalek
+[Sun May/20]
+  22.00  Al Ahly SC               2-0 (1-0)  Al Masry Club
+
+
+Matchday 29
+[Sun Mar/11]
+  19.00  ENPPI                    0-1 (0-1)  Al Ahly SC
+[Mon Mar/12]
+  19.00  Al Masry Club            0-0  El Entag El Harby
+[Tue Mar/13]
+  17.30  Tala'ea El Gaish SC      1-0 (0-0)  Misr lel-Maqasah SC
+[Wed Mar/14]
+  15.00  Tanta                    1-1 (0-1)  El Assiouty Sport
+  17.30  Wadi Degla SC            1-0 (0-0)  Ittihad El Iskandary
+  20.00  Zamalek                  4-1 (3-0)  El Raja Sporting Club
+[Thu Mar/15]
+  15.00  PetroJet FC              0-1 (0-1)  Ismaily
+  17.30  Smouha Sporting Club     3-0 (0-0)  Al Mokawloon
+  20.00  El Daklyeh               1-1 (0-1)  Al Nasr FC
+
+
+Matchday 30
+[Mon Mar/19]
+  15.00  El Raja Sporting Club    1-0 (1-0)  Tala'ea El Gaish SC
+         El Assiouty Sport        0-0  Smouha Sporting Club
+  17.15  Al Mokawloon             0-0  Wadi Degla SC
+         Al Nasr FC               0-1 (0-1)  Misr lel-Maqasah SC
+  19.30  Ittihad El Iskandary     2-2 (0-0)  PetroJet FC
+         El Entag El Harby        1-1 (1-0)  ENPPI
+[Mon Apr/2]
+  17.30  Ismaily                  3-1 (1-1)  Zamalek
+  20.30  Al Ahly SC               2-1 (0-0)  Tanta
+[Sun Apr/29]
+  19.00  El Daklyeh               0-3 (0-2)  Al Masry Club
+
+
+Matchday 31
+[Thu Apr/5]
+  17.00  PetroJet FC              1-1 (0-0)  Al Mokawloon
+  19.30  Wadi Degla SC            0-2 (0-1)  El Assiouty Sport
+[Fri Apr/6]
+  18.00  ENPPI                    3-3 (1-2)  El Daklyeh
+[Sat Apr/7]
+  15.00  Tanta                    0-2 (0-2)  El Entag El Harby
+  17.30  Tala'ea El Gaish SC      1-1 (0-0)  Ismaily
+[Sun Apr/8]
+  19.30  Smouha Sporting Club     0-0  Al Ahly SC
+[Thu Apr/12]
+  17.00  Al Masry Club            2-1 (0-1)  Al Nasr FC
+  20.00  Zamalek                  1-2 (1-0)  Ittihad El Iskandary
+[Fri Apr/13]
+  17.00  Misr lel-Maqasah SC      3-0 (0-0)  El Raja Sporting Club
+
+
+Matchday 32
+[Mon Apr/16]
+  15.30  El Assiouty Sport        3-2 (0-1)  PetroJet FC
+  18.00  Ittihad El Iskandary     0-0  Tala'ea El Gaish SC
+  20.00  Al Nasr FC               3-1 (2-1)  El Raja Sporting Club
+[Tue Apr/17]
+  15.30  El Daklyeh               2-0 (0-0)  Tanta
+  17.30  El Entag El Harby        0-0  Smouha Sporting Club
+         Al Ahly SC               1-0 (1-0)  Wadi Degla SC
+[Wed Apr/18]
+  17.30  Ismaily                  2-1 (1-0)  Misr lel-Maqasah SC
+  20.00  Al Mokawloon             0-0  Zamalek
+[Wed May/2]
+  16.30  Al Masry Club            1-1 (0-0)  ENPPI
+
+
+Matchday 33
+[Sat Apr/21]
+  18.00  Tanta                    1-2 (0-0)  Al Masry Club
+         Smouha Sporting Club     1-0 (0-0)  El Daklyeh
+         Wadi Degla SC            2-1 (1-1)  El Entag El Harby
+  20.15  Al Nasr FC               1-2 (1-1)  ENPPI
+[Sun Apr/22]
+  15.30  El Raja Sporting Club    0-0  Ismaily
+  17.45  PetroJet FC              1-2 (0-1)  Al Ahly SC
+  20.00  Zamalek                  2-1 (1-0)  El Assiouty Sport
+[Mon Apr/23]
+  18.00  Tala'ea El Gaish SC      4-5 (1-2)  Al Mokawloon
+  20.15  Misr lel-Maqasah SC      2-0 (2-0)  Ittihad El Iskandary
+
+
+Matchday 34
+[Wed Apr/25]
+  15.45  El Daklyeh               1-1 (0-1)  Wadi Degla SC
+         ENPPI                    3-1 (3-0)  Tanta
+  18.00  Al Masry Club            2-1 (0-0)  Smouha Sporting Club
+[Thu Apr/26]
+  15.45  El Assiouty Sport        1-1 (1-1)  Tala'ea El Gaish SC
+  20.00  Al Ahly SC               1-2 (0-2)  Zamalek
+[Fri Apr/27]
+  15.45  Ittihad El Iskandary     2-2 (1-0)  El Raja Sporting Club
+  18.00  Ismaily                  2-0 (0-0)  Al Nasr FC
+  20.15  Al Mokawloon             0-1 (0-1)  Misr lel-Maqasah SC
+         El Entag El Harby        2-1 (1-0)  PetroJet FC
