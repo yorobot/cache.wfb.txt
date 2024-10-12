@@ -2,6 +2,39 @@
 
 - [ ] fix parse errors
 
+try
+
+```
+Achilles'29 II v UDI'19/Beter Bed
+UDI '19/Beter Bed
+
+Qingdao Pijiu (Beer) v August 1st (Army Team)
+
+  "parse error - skipping >1°< @51,52",
+  "17.00  Estrela Amadora          2-1 (1-0)  Naval 1° de Maio"],
+ ["C:/sports/cache.wfb.txt/2005-06/pt.1.txt",
+  "parse error - skipping >1°< @15,16",
+  "21.30  Naval 1° de Maio         2-2 (1-2)  Boavista"],
+
+["C:/sports/cache.wfb.txt/archive/1990s/1998-99/fr.cup.txt",
+  "parse error - skipping >d`Or< @21,22",
+  "14.00  ASC Monts d`Or Chasselay  0-3 (0-1)  Grenoble Foot 38"],
+```
+
+Bayi or August First Football Team,
+known fully as the People's Liberation Army Bayi Football Club
+
+
+Qingdao Hainiu Football Club
+is a Chinese professional football club based in Qingdao, Shandong
+...
+Qingdao Beer
+
+
+- rename August 1st (Army Team) to ____ ???
+- rename Qingdao Pijiu (Beer)  to ____ ???
+
+
 ```
 !!   698 parse error(s) in 5142 datafiles(s)
 
