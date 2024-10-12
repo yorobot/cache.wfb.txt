@@ -1,0 +1,433 @@
+= CL 1 2018
+
+# Date       Fri Feb/2 - Sun Dec/2 2018 (303d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Feb/2]
+  20.00  Universidad Católica     2-1 (1-0)  Deportes Temuco
+[Sat Feb/3]
+  12.00  Antofagasta              1-2 (0-1)  Colo-Colo
+  17.30  Palestino                1-2 (1-0)  Unión La Calera
+  20.00  Universidad de Concepción  0-2 (0-1)  O'Higgins
+[Sun Feb/4]
+  12.00  Everton                  2-3 (1-1)  Deportes Iquique
+  18.00  Universidad de Chile     1-2 (1-1)  Unión Española
+  20.30  Audax Italiano           2-4 (0-1)  Huachipato
+[Mon Feb/5]
+  20.00  San Luis                 1-0 (0-0)  Curicó Unido
+
+
+Matchday 2
+[Fri Feb/9]
+  19.00  Unión La Calera          1-3 (0-2)  Antofagasta
+  21.30  Unión Española           2-2 (0-1)  Palestino
+[Sat Feb/10]
+  18.00  Deportes Iquique         1-2 (0-1)  Universidad de Chile
+  20.30  Deportes Temuco          1-1 (0-0)  Universidad de Concepción
+[Sun Feb/11]
+  12.00  Huachipato               1-1 (1-1)  San Luis
+  18.00  Curicó Unido             1-3 (0-2)  Universidad Católica
+  20.30  Colo-Colo                3-2 (2-0)  Audax Italiano
+[Mon Feb/12]
+  20.00  O'Higgins                1-2 (0-1)  Everton
+
+
+Matchday 3
+[Fri Feb/16]
+  20.00  Universidad de Chile     3-0 (1-0)  San Luis
+[Sat Feb/17]
+  12.00  Everton                  0-1 (0-1)  Universidad Católica
+  18.00  Palestino                2-1 (0-0)  Colo-Colo
+  20.30  Universidad de Concepción  0-0  Curicó Unido
+[Sun Feb/18]
+  12.00  Deportes Iquique         0-1 (0-1)  Unión La Calera
+  18.00  O'Higgins                2-1 (1-0)  Huachipato
+  20.30  Unión Española           1-1 (1-1)  Antofagasta
+[Mon Feb/19]
+  20.00  Audax Italiano           1-1 (0-1)  Deportes Temuco
+
+
+Matchday 4
+[Fri Feb/23]
+  20.00  Colo-Colo                1-1 (0-1)  O'Higgins
+[Sat Feb/24]
+  12.00  Huachipato               3-0 (3-0)  Universidad de Concepción
+  18.00  San Luis                 0-1 (0-1)  Palestino
+  20.30  Universidad Católica     1-0 (0-0)  Unión La Calera
+[Sun Feb/25]
+  12.00  Antofagasta              2-1 (0-1)  Deportes Iquique
+  18.00  Deportes Temuco          0-1 (0-0)  Universidad de Chile
+  20.30  Audax Italiano           1-0 (0-0)  Everton
+[Mon Feb/26]
+  20.00  Curicó Unido             4-4 (1-2)  Unión Española
+
+
+Matchday 5
+[Fri Mar/2]
+  17.30  Palestino                1-1 (0-1)  Audax Italiano
+  20.00  Everton                  2-1 (1-0)  San Luis
+[Sat Mar/3]
+  18.00  Colo-Colo                2-1 (1-1)  Huachipato
+  20.30  Unión Española           2-3 (0-1)  Universidad de Concepción
+[Sun Mar/4]
+  18.00  Deportes Iquique         0-1 (0-0)  Universidad Católica
+  20.30  Universidad de Chile     2-0 (1-0)  Antofagasta
+[Mon Mar/5]
+  18.30  Unión La Calera          0-0  Curicó Unido
+  21.00  O'Higgins                2-0 (1-0)  Deportes Temuco
+
+
+Matchday 6
+[Fri Mar/16]
+  20.00  Deportes Temuco          3-2 (1-0)  Palestino
+[Sat Mar/17]
+  12.00  Everton                  0-1 (0-0)  Universidad de Chile
+  20.30  Curicó Unido             3-0 (1-0)  Audax Italiano
+[Sun Mar/18]
+  12.00  Universidad de Concepción  2-1 (0-1)  Colo-Colo
+  18.00  San Luis                 0-0  Deportes Iquique
+         Antofagasta              3-2 (2-2)  O'Higgins
+  20.30  Universidad Católica     3-1 (1-1)  Unión Española
+[Mon Mar/19]
+  20.00  Huachipato               2-0 (0-0)  Unión La Calera
+
+
+Matchday 7
+[Fri Mar/30]
+  18.00  Audax Italiano           2-3 (1-1)  Universidad de Chile
+[Sat Mar/31]
+  12.30  Colo-Colo                1-0 (1-0)  Universidad Católica
+  15.30  Huachipato               2-0 (1-0)  Everton
+  18.00  O'Higgins                4-0 (2-0)  San Luis
+  20.30  Curicó Unido             1-1 (0-1)  Deportes Temuco
+[Sun Apr/1]
+  12.30  Deportes Iquique         1-3 (1-1)  Universidad de Concepción
+  15.00  Palestino                1-1 (1-0)  Antofagasta
+  17.30  Unión La Calera          1-0 (1-0)  Unión Española
+
+
+Matchday 8
+[Fri Apr/6]
+  20.00  Deportes Temuco          0-4 (0-0)  Deportes Iquique
+[Sat Apr/7]
+  12.00  Everton                  1-3 (0-3)  Unión La Calera
+  15.00  Antofagasta              0-0  Huachipato
+  17.30  Universidad de Chile     2-1 (2-0)  Curicó Unido
+  20.00  Universidad de Concepción  1-0 (0-0)  Audax Italiano
+[Sun Apr/8]
+  15.00  San Luis                 1-0 (0-0)  Colo-Colo
+  17.30  Universidad Católica     2-1 (2-1)  Palestino
+  20.00  Unión Española           2-0 (0-0)  O'Higgins
+
+
+Matchday 9
+[Fri Apr/13]
+  20.00  Unión La Calera          1-3 (0-1)  Universidad de Concepción
+[Sat Apr/14]
+  12.00  Palestino                2-1 (2-1)  Everton
+  15.00  O'Higgins                0-1 (0-1)  Universidad Católica
+  17.30  Huachipato               0-0  Deportes Temuco
+  20.00  Curicó Unido             3-4 (3-1)  Antofagasta
+[Sun Apr/15]
+  12.00  Universidad de Chile     1-3 (1-1)  Colo-Colo
+  15.00  Deportes Iquique         0-1 (0-1)  Unión Española
+  20.00  Audax Italiano           1-1 (0-0)  San Luis
+
+
+Matchday 10
+[Fri Apr/20]
+  20.00  Unión Española           2-1 (1-0)  Huachipato
+[Sat Apr/21]
+  12.00  Deportes Iquique         2-1 (1-0)  Palestino
+  17.30  Colo-Colo                2-0 (1-0)  Deportes Temuco
+  20.00  Universidad de Concepción  2-0 (0-0)  Everton
+[Sun Apr/22]
+  12.00  O'Higgins                2-2 (0-0)  Curicó Unido
+  15.00  Unión La Calera          6-1 (3-0)  Universidad de Chile
+  17.30  Universidad Católica     1-0 (0-0)  Audax Italiano
+  20.00  Antofagasta              1-0 (1-0)  San Luis
+
+
+Matchday 11
+[Sat Apr/28]
+  12.00  Curicó Unido             0-0  Colo-Colo
+  15.00  Huachipato               2-2 (0-1)  Deportes Iquique
+  17.30  Everton                  1-1 (0-1)  Unión Española
+  20.00  Audax Italiano           0-0  Antofagasta
+[Sun Apr/29]
+  12.00  Palestino                2-3 (1-0)  O'Higgins
+  15.00  Deportes Temuco          0-2 (0-0)  Unión La Calera
+  17.30  Universidad de Chile     1-2 (0-0)  Universidad de Concepción
+  20.00  San Luis                 1-1 (0-0)  Universidad Católica
+
+
+Matchday 12
+[Fri May/4]
+  20.00  Unión Española           4-0 (2-0)  San Luis
+[Sat May/5]
+  12.00  Deportes Iquique         2-2 (1-0)  Curicó Unido
+  15.00  Antofagasta              3-2 (2-0)  Deportes Temuco
+  17.30  Unión La Calera          1-0 (0-0)  Audax Italiano
+  20.00  Universidad Católica     3-1 (1-1)  Huachipato
+[Sun May/6]
+  12.00  O'Higgins                0-1 (0-1)  Universidad de Chile
+  15.00  Palestino                1-2 (0-0)  Universidad de Concepción
+  17.30  Colo-Colo                3-1 (1-1)  Everton
+
+
+Matchday 13
+[Fri May/11]
+  20.00  Colo-Colo                0-0  Deportes Iquique
+[Sat May/12]
+  12.00  San Luis                 1-2 (1-0)  Unión La Calera
+  15.00  Huachipato               1-1 (0-0)  Palestino
+  20.00  Everton                  1-1 (0-1)  Curicó Unido
+[Sun May/13]
+  12.00  Universidad Católica     1-1 (1-0)  Universidad de Chile
+  15.00  Deportes Temuco          2-0 (2-0)  Unión Española
+  17.30  Audax Italiano           1-2 (1-1)  O'Higgins
+  20.00  Universidad de Concepción  3-2 (1-2)  Antofagasta
+
+
+Matchday 14
+[Fri May/18]
+  20.00  Universidad de Chile     1-2 (1-2)  Palestino
+[Sat May/19]
+  12.00  Deportes Iquique         1-1 (0-0)  Audax Italiano
+  15.00  Unión La Calera          4-0 (2-0)  O'Higgins
+  17.30  Unión Española           3-2 (0-1)  Colo-Colo
+[Sun May/20]
+  15.00  Antofagasta              3-2 (0-1)  Everton
+  17.30  Universidad de Concepción  0-0  Universidad Católica
+  20.00  Curicó Unido             2-1 (1-1)  Huachipato
+[Mon May/21]
+  15.00  Deportes Temuco          2-2 (1-0)  San Luis
+
+
+Matchday 15
+[Sat May/26]
+  12.00  San Luis                 0-3 (0-3)  Universidad de Concepción
+  15.00  Huachipato               0-1 (0-0)  Universidad de Chile
+  17.30  O'Higgins                2-1 (0-1)  Deportes Iquique
+  20.00  Universidad Católica     0-0  Antofagasta
+[Sun May/27]
+  12.00  Palestino                2-1 (2-0)  Curicó Unido
+  15.00  Everton                  2-2 (0-1)  Deportes Temuco
+  17.30  Audax Italiano           1-1 (1-1)  Unión Española
+[Mon May/28]
+  20.00  Colo-Colo                0-2 (0-0)  Unión La Calera
+
+
+Matchday 16
+[Fri Jul/20]
+  20.00  Universidad de Concepción  3-2 (2-0)  Palestino
+[Sat Jul/21]
+  12.00  Unión La Calera          1-2 (0-0)  Colo-Colo
+  15.00  Deportes Temuco          1-1 (0-0)  Antofagasta
+  17.30  Universidad Católica     2-2 (2-2)  Deportes Iquique
+  20.00  Unión Española           2-4 (1-1)  Audax Italiano
+[Sun Jul/22]
+  12.00  Curicó Unido             1-0 (0-0)  San Luis
+  17.30  Universidad de Chile     2-2 (1-0)  Huachipato
+  20.00  Everton                  0-1 (0-1)  O'Higgins
+
+
+Matchday 17
+[Fri Jul/27]
+  20.00  Huachipato               1-1 (0-1)  Unión Española
+[Sat Jul/28]
+  12.00  Palestino                2-2 (1-0)  Universidad Católica
+  15.00  Antofagasta              4-0 (0-0)  Universidad de Chile
+  20.00  Audax Italiano           4-1 (2-0)  Universidad de Concepción
+[Sun Jul/29]
+  12.00  Deportes Iquique         1-1 (1-1)  Everton
+  15.00  San Luis                 1-2 (1-0)  Deportes Temuco
+  17.30  Colo-Colo                2-0 (0-0)  Curicó Unido
+  20.00  O'Higgins                2-3 (1-2)  Unión La Calera
+
+
+Matchday 18
+[Fri Aug/3]
+  20.00  Unión La Calera          1-1 (0-1)  Palestino
+[Sat Aug/4]
+  15.00  Deportes Temuco          1-0 (0-0)  Colo-Colo
+  17.30  Universidad Católica     2-1 (0-1)  Everton
+  20.00  Universidad de Concepción  1-0 (0-0)  Huachipato
+[Sun Aug/5]
+  12.00  San Luis                 2-0 (2-0)  O'Higgins
+  15.00  Antofagasta              2-0 (2-0)  Curicó Unido
+  17.30  Universidad de Chile     1-2 (0-2)  Audax Italiano
+  20.00  Unión Española           0-0  Deportes Iquique
+
+
+Matchday 19
+[Fri Aug/10]
+  20.00  Everton                  1-0 (0-0)  Universidad de Concepción
+[Sat Aug/11]
+  12.00  Palestino                1-1 (0-1)  Deportes Temuco
+  15.00  Unión La Calera          2-2 (1-0)  Universidad Católica
+  17.30  Unión Española           1-4 (1-3)  Universidad de Chile
+  20.00  Curicó Unido             0-0  Deportes Iquique
+[Sun Aug/12]
+  15.00  O'Higgins                0-3 (0-2)  Antofagasta
+  17.30  Colo-Colo                3-2 (2-1)  San Luis
+  20.00  Huachipato               1-0 (1-0)  Audax Italiano
+
+
+Matchday 20
+[Fri Aug/17]
+  20.00  Audax Italiano           3-1 (1-1)  Palestino
+[Sat Aug/18]
+  12.00  San Luis                 0-2 (0-1)  Unión Española
+  15.00  Antofagasta              0-2 (0-1)  Unión La Calera
+  17.30  Universidad de Chile     1-0 (0-0)  O'Higgins
+  20.00  Everton                  0-0  Huachipato
+[Sun Aug/19]
+  12.00  Deportes Iquique         2-1 (0-0)  Colo-Colo
+  15.00  Universidad de Concepción  0-0  Deportes Temuco
+  17.30  Universidad Católica     2-1 (1-1)  Curicó Unido
+
+
+Matchday 21
+[Fri Aug/24]
+  20.00  Curicó Unido             1-0 (0-0)  Universidad de Concepción
+[Sat Aug/25]
+  12.00  Colo-Colo                1-0 (0-0)  Universidad de Chile
+  15.00  Deportes Temuco          1-1 (1-1)  Everton
+  17.30  Huachipato               0-0  Antofagasta
+  20.00  O'Higgins                1-1 (1-0)  Unión Española
+[Sun Aug/26]
+  12.00  Palestino                0-1 (0-1)  San Luis
+  17.30  Unión La Calera          1-0 (0-0)  Deportes Iquique
+  20.00  Audax Italiano           0-0  Universidad Católica
+
+
+Matchday 22
+[Fri Aug/31]
+  20.00  Universidad de Chile     2-1 (1-0)  Deportes Temuco
+[Sat Sep/1]
+  12.00  Deportes Iquique         3-1 (3-0)  O'Higgins
+  15.00  San Luis                 0-0  Audax Italiano
+  17.30  Unión Española           1-1 (0-1)  Universidad Católica
+  20.00  Universidad de Concepción  2-1 (0-0)  Unión La Calera
+[Sun Sep/2]
+  12.00  Everton                  4-2 (3-1)  Colo-Colo
+  15.00  Antofagasta              1-0 (0-0)  Palestino
+  17.30  Huachipato               1-0 (0-0)  Curicó Unido
+
+
+Matchday 23
+[Fri Sep/21]
+  20.00  Deportes Temuco          0-4 (0-1)  Huachipato
+[Sat Sep/22]
+  12.00  Palestino                1-1 (0-1)  Unión Española
+  15.00  Audax Italiano           3-1 (2-1)  Deportes Iquique
+  17.30  Unión La Calera          0-4 (0-1)  Everton
+  20.00  Universidad Católica     2-1 (0-1)  San Luis
+[Sun Sep/23]
+  12.00  Universidad de Concepción  3-1 (2-0)  Universidad de Chile
+  15.00  Curicó Unido             1-0 (1-0)  O'Higgins
+  17.30  Colo-Colo                3-4 (3-1)  Antofagasta
+
+
+Matchday 24
+[Fri Sep/28]
+  20.00  San Luis                 2-4 (1-2)  Huachipato
+[Sat Sep/29]
+  12.00  Deportes Iquique         2-1 (1-1)  Deportes Temuco
+  15.00  Universidad de Chile     1-0 (1-0)  Unión La Calera
+  17.30  O'Higgins                2-2 (1-2)  Palestino
+  20.00  Everton                  1-0 (1-0)  Audax Italiano
+[Sun Sep/30]
+  12.00  Universidad Católica     1-0 (0-0)  Colo-Colo
+  17.30  Antofagasta              1-0 (0-0)  Universidad de Concepción
+  20.00  Unión Española           2-1 (1-1)  Curicó Unido
+
+
+Matchday 25
+[Sat Oct/6]
+  12.00  Deportes Temuco          0-1 (0-1)  O'Higgins
+  15.00  Palestino                1-3 (0-2)  Universidad de Chile
+  17.30  Huachipato               3-0 (0-0)  Universidad Católica
+  20.00  Audax Italiano           4-0 (1-0)  Unión La Calera
+[Sun Oct/7]
+  15.00  Curicó Unido             3-1 (1-1)  Everton
+  17.30  San Luis                 1-1 (0-1)  Antofagasta
+  20.00  Colo-Colo                1-1 (0-0)  Unión Española
+[Mon Oct/8]
+  20.00  Universidad de Concepción  3-0 (1-0)  Deportes Iquique
+
+
+Matchday 26
+[Fri Oct/19]
+  20.00  Unión Española           2-1 (0-0)  Deportes Temuco
+[Sat Oct/20]
+  12.00  O'Higgins                1-1 (1-1)  Colo-Colo
+  15.00  Curicó Unido             0-0  Palestino
+  17.30  Unión La Calera          0-2 (0-0)  Huachipato
+  20.00  Universidad Católica     1-0 (0-0)  Universidad de Concepción
+[Sun Oct/21]
+  12.00  Deportes Iquique         2-2 (0-0)  San Luis
+  15.00  Antofagasta              1-1 (1-0)  Audax Italiano
+  20.00  Universidad de Chile     2-0 (1-0)  Everton
+
+
+Matchday 27
+[Fri Oct/26]
+  20.00  Universidad de Concepción  1-0 (1-0)  Unión Española
+[Sat Oct/27]
+  12.00  Universidad de Chile     2-0 (1-0)  Universidad Católica
+  15.00  Unión La Calera          0-1 (0-1)  San Luis
+  20.15  Huachipato               0-1 (0-1)  O'Higgins
+[Sun Oct/28]
+  12.00  Palestino                5-1 (1-0)  Deportes Iquique
+  15.00  Everton                  3-2 (2-2)  Antofagasta
+  17.30  Audax Italiano           1-1 (0-0)  Colo-Colo
+  20.00  Deportes Temuco          1-2 (0-1)  Curicó Unido
+
+
+Matchday 28
+[Fri Nov/2]
+  18.00  O'Higgins                4-2 (2-2)  Universidad de Concepción
+[Sat Nov/3]
+  12.00  Deportes Iquique         2-0 (1-0)  Huachipato
+  15.00  Deportes Temuco          2-1 (0-1)  Audax Italiano
+  17.30  Unión Española           2-2 (0-2)  Everton
+[Sun Nov/4]
+  15.30  Antofagasta              1-1 (1-0)  Universidad Católica
+  18.00  Curicó Unido             2-0 (1-0)  Unión La Calera
+  20.30  Colo-Colo                0-0  Palestino
+[Sat Nov/10]
+  17.00  San Luis                 1-2 (0-0)  Universidad de Chile
+
+
+Matchday 29
+[Fri Nov/23]
+  20.00  Audax Italiano           4-1 (2-0)  Curicó Unido
+[Sat Nov/24]
+  12.00  Huachipato               1-2 (1-0)  Colo-Colo
+         Antofagasta              1-1 (1-1)  Unión Española
+  20.00  Everton                  3-0 (2-0)  Palestino
+         Unión La Calera          0-1 (0-1)  Deportes Temuco
+[Sun Nov/25]
+  17.30  Universidad de Chile     0-0  Deportes Iquique
+         Universidad de Concepción  2-0 (2-0)  San Luis
+         Universidad Católica     1-0 (1-0)  O'Higgins
+
+
+Matchday 30
+[Wed Nov/28]
+  20.00  San Luis                 1-2 (0-0)  Everton
+[Thu Nov/29]
+  20.30  Unión Española           1-1 (0-1)  Unión La Calera
+         O'Higgins                4-0 (0-0)  Audax Italiano
+[Sun Dec/2]
+  12.00  Deportes Iquique         0-2 (0-1)  Antofagasta
+  17.30  Curicó Unido             1-2 (1-2)  Universidad de Chile
+         Deportes Temuco          1-2 (1-0)  Universidad Católica
+         Palestino                3-0 (2-0)  Huachipato
+         Colo-Colo                0-2 (0-0)  Universidad de Concepción

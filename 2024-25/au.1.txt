@@ -1,0 +1,381 @@
+= AU 1 2024/25
+
+# Date       Fri Oct/18 2024 - Sat May/31 2025 (225d)
+# Teams      20
+# Matches    176
+# Stages     Regular Season (169)  Finals (7)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Oct/18]
+  19.35  Central Coast Mariners   -  Melbourne Victory
+[Sat Oct/19]
+  15.00  Auckland FC              -  Brisbane Roar
+  17.00  Newcastle United Jets    -  Melbourne City FC
+  19.35  Western Sydney Wanderers  -  Sydney FC
+[Sun Oct/20]
+  14.00  Wellington Phoenix       -  Western United
+  16.00  Macarthur FC             -  Perth Glory
+
+
+Matchday 2
+[Fri Oct/25]
+  19.35  Macarthur FC             -  Newcastle United Jets
+[Sat Oct/26]
+  17.00  Adelaide United          -  Central Coast Mariners
+  19.35  Melbourne City FC        -  Melbourne Victory
+  21.45  Perth Glory              -  Wellington Phoenix
+[Sun Oct/27]
+  14.00  Auckland FC              -  Sydney FC
+  16.00  Western United           -  Western Sydney Wanderers
+
+
+Matchday 3
+[Fri Nov/1]
+  19.35  Brisbane Roar            -  Sydney FC
+[Sat Nov/2]
+  15.00  Wellington Phoenix       -  Auckland FC
+  17.00  Central Coast Mariners   -  Perth Glory
+  19.35  Western Sydney Wanderers  -  Adelaide United
+[Sun Nov/3]
+  16.00  Melbourne Victory        -  Macarthur FC
+[Mon Nov/4]
+  19.00  Western United           -  Melbourne City FC
+
+
+Matchday 4
+[Fri Nov/8]
+  19.35  Western Sydney Wanderers  -  Newcastle United Jets
+[Sat Nov/9]
+  17.00  Melbourne Victory        -  Brisbane Roar
+  19.35  Adelaide United          -  Western United
+[Sun Nov/10]
+  16.00  Central Coast Mariners   -  Wellington Phoenix
+  18.00  Sydney FC                -  Macarthur FC
+  20.45  Perth Glory              -  Melbourne City FC
+
+
+Matchday 5
+[Fri Nov/22]
+  17.30  Perth Glory              -  Western United
+  20.00  Newcastle United Jets    -  Central Coast Mariners
+[Sat Nov/23]
+  17.00  Brisbane Roar            -  Adelaide United
+  19.35  Sydney FC                -  Western Sydney Wanderers
+[Sun Nov/24]
+  13.30  Wellington Phoenix       -  Melbourne Victory
+  16.00  Macarthur FC             -  Auckland FC
+
+
+Matchday 6
+[Fri Nov/29]
+  19.35  Adelaide United          -  Perth Glory
+[Sat Nov/30]
+  15.00  Auckland FC              -  Newcastle United Jets
+  17.00  Melbourne City FC        -  Western Sydney Wanderers
+  19.35  Western United           -  Melbourne Victory
+[Sun Dec/1]
+  17.00  Macarthur FC             -  Brisbane Roar
+
+
+Matchday 7
+[Fri Dec/6]
+  19.35  Brisbane Roar            -  Melbourne City FC
+[Sat Dec/7]
+  15.00  Auckland FC              -  Wellington Phoenix
+  17.00  Newcastle United Jets    -  Adelaide United
+  18.00  Western United           -  Macarthur FC
+[Sun Dec/8]
+  17.00  Melbourne Victory        -  Perth Glory
+  18.00  Central Coast Mariners   -  Sydney FC
+
+
+Matchday 8
+[Fri Dec/13]
+  19.35  Central Coast Mariners   -  Adelaide United
+[Sat Dec/14]
+  15.00  Wellington Phoenix       -  Macarthur FC
+  17.00  Sydney FC                -  Western United
+  19.35  Western Sydney Wanderers  -  Brisbane Roar
+  21.45  Perth Glory              -  Newcastle United Jets
+[Sun Dec/15]
+  17.00  Melbourne City FC        -  Auckland FC
+
+
+Matchday 9
+[Fri Dec/20]
+  19.35  Adelaide United          -  Sydney FC
+[Sat Dec/21]
+  15.00  Auckland FC              -  Western United
+  17.00  Brisbane Roar            -  Perth Glory
+  19.35  Melbourne Victory        -  Melbourne City FC
+[Sun Dec/22]
+  17.00  Western Sydney Wanderers  -  Wellington Phoenix
+[Mon Dec/23]
+  21.00  Macarthur FC             -  Central Coast Mariners
+
+
+Matchday 10
+[Fri Dec/27]
+  19.35  Adelaide United          -  Western Sydney Wanderers
+  22.45  Perth Glory              -  Macarthur FC
+[Sat Dec/28]
+  15.00  Wellington Phoenix       -  Newcastle United Jets
+  17.00  Central Coast Mariners   -  Auckland FC
+  19.35  Sydney FC                -  Melbourne Victory
+[Sun Dec/29]
+  17.00  Western United           -  Brisbane Roar
+
+
+Matchday 11
+[Tue Dec/31]
+  21.00  Central Coast Mariners   -  Melbourne City FC
+[Wed Jan/1]
+  15.00  Auckland FC              -  Melbourne Victory
+  18.00  Western Sydney Wanderers  -  Macarthur FC
+[Tue Jan/7]
+  20.00  Brisbane Roar            -  Newcastle United Jets
+[Wed Jan/8]
+  19.00  Sydney FC                -  Perth Glory
+
+
+Matchday 12
+[Fri Jan/3]
+  17.00  Melbourne City FC        -  Wellington Phoenix
+  19.35  Brisbane Roar            -  Central Coast Mariners
+  21.45  Perth Glory              -  Western United
+[Sat Jan/4]
+  17.00  Newcastle United Jets    -  Sydney FC
+  19.35  Melbourne Victory        -  Western Sydney Wanderers
+[Mon Jan/6]
+  19.00  Macarthur FC             -  Adelaide United
+
+
+Matchday 13
+[Fri Jan/10]
+  19.35  Melbourne Victory        -  Western United
+[Sat Jan/11]
+  15.00  Wellington Phoenix       -  Adelaide United
+  17.00  Melbourne City FC        -  Brisbane Roar
+  19.35  Sydney FC                -  Central Coast Mariners
+  21.45  Perth Glory              -  Auckland FC
+[Sun Jan/12]
+  17.00  Newcastle United Jets    -  Macarthur FC
+
+
+Matchday 14
+[Tue Jan/14]
+  21.45  Perth Glory              -  Western Sydney Wanderers
+[Wed Jan/15]
+  17.00  Wellington Phoenix       -  Sydney FC
+[Wed Jan/22]
+  19.30  Adelaide United          -  Auckland FC
+[Wed Jan/29]
+  19.00  Western United           -  Central Coast Mariners
+[Wed Mar/12]
+  19.00  Melbourne City FC        -  Newcastle United Jets
+
+
+Matchday 15
+[Fri Jan/17]
+  17.00  Western United           -  Newcastle United Jets
+  19.35  Western Sydney Wanderers  -  Central Coast Mariners
+[Sat Jan/18]
+  15.00  Auckland FC              -  Melbourne City FC
+  17.00  Sydney FC                -  Brisbane Roar
+  19.35  Adelaide United          -  Melbourne Victory
+[Mon Jan/20]
+  19.00  Macarthur FC             -  Wellington Phoenix
+
+
+Matchday 16
+[Fri Jan/24]
+  19.35  Melbourne Victory        -  Sydney FC
+[Sat Jan/25]
+  15.00  Wellington Phoenix       -  Central Coast Mariners
+  17.00  Newcastle United Jets    -  Perth Glory
+  19.35  Macarthur FC             -  Melbourne City FC
+[Sun Jan/26]
+  17.00  Western Sydney Wanderers  -  Auckland FC
+[Tue Apr/22]
+  19.00  Brisbane Roar            -  Adelaide United
+
+
+Matchday 17
+[Tue Jan/7]
+  18.00  Melbourne City FC        -  Western United
+[Fri Jan/31]
+  19.35  Brisbane Roar            -  Western Sydney Wanderers
+[Sat Feb/1]
+  15.00  Auckland FC              -  Macarthur FC
+  17.00  Sydney FC                -  Adelaide United
+  19.35  Central Coast Mariners   -  Newcastle United Jets
+  21.45  Perth Glory              -  Melbourne Victory
+
+
+Matchday 18
+[Thu Feb/6]
+  15.00  Wellington Phoenix       -  Brisbane Roar
+[Fri Feb/7]
+  19.35  Adelaide United          -  Melbourne City FC
+  21.45  Perth Glory              -  Central Coast Mariners
+[Sat Feb/8]
+  17.00  Newcastle United Jets    -  Melbourne Victory
+  19.35  Sydney FC                -  Western Sydney Wanderers
+[Sun Feb/9]
+  17.00  Macarthur FC             -  Western United
+
+
+Matchday 19
+[Fri Feb/14]
+  19.35  Melbourne Victory        -  Wellington Phoenix
+[Sat Feb/15]
+  17.00  Melbourne City FC        -  Perth Glory
+  18.00  Western United           -  Auckland FC
+  19.35  Adelaide United          -  Newcastle United Jets
+[Sun Feb/16]
+  17.00  Western Sydney Wanderers  -  Macarthur FC
+
+
+Matchday 20
+[Fri Feb/21]
+  19.35  Newcastle United Jets    -  Brisbane Roar
+[Sat Feb/22]
+  15.00  Auckland FC              -  Wellington Phoenix
+  17.00  Central Coast Mariners   -  Western Sydney Wanderers
+  19.35  Melbourne Victory        -  Melbourne City FC
+  21.45  Perth Glory              -  Sydney FC
+[Sun Feb/23]
+  17.00  Western United           -  Adelaide United
+
+
+Matchday 21
+[Fri Feb/28]
+  17.30  Wellington Phoenix       -  Melbourne City FC
+  19.35  Central Coast Mariners   -  Western United
+[Sat Mar/1]
+  17.00  Auckland FC              -  Adelaide United
+  19.00  Brisbane Roar            -  Melbourne Victory
+  19.35  Macarthur FC             -  Sydney FC
+[Sun Mar/2]
+  17.00  Western Sydney Wanderers  -  Perth Glory
+
+
+Matchday 22
+[Fri Mar/7]
+  19.35  Melbourne City FC        -  Macarthur FC
+[Sat Mar/8]
+  17.00  Adelaide United          -  Brisbane Roar
+  18.00  Western United           -  Wellington Phoenix
+  19.35  Melbourne Victory        -  Central Coast Mariners
+[Sun Mar/9]
+  17.00  Newcastle United Jets    -  Auckland FC
+
+
+Matchday 23
+[Fri Mar/14]
+  19.35  Adelaide United          -  Macarthur FC
+[Sat Mar/15]
+  17.00  Sydney FC                -  Wellington Phoenix
+  19.35  Western Sydney Wanderers  -  Melbourne Victory
+  21.45  Perth Glory              -  Brisbane Roar
+[Sun Mar/16]
+  15.00  Auckland FC              -  Central Coast Mariners
+  17.00  Newcastle United Jets    -  Western United
+
+
+Matchday 24
+[Fri Mar/28]
+  19.35  Macarthur FC             -  Newcastle United Jets
+[Sat Mar/29]
+  15.00  Wellington Phoenix       -  Western Sydney Wanderers
+  17.00  Sydney FC                -  Melbourne City FC
+  19.35  Melbourne Victory        -  Adelaide United
+[Sun Mar/30]
+  15.00  Central Coast Mariners   -  Perth Glory
+  17.00  Brisbane Roar            -  Auckland FC
+
+
+Matchday 25
+[Fri Apr/4]
+  19.35  Brisbane Roar            -  Macarthur FC
+[Sat Apr/5]
+  15.00  Auckland FC              -  Western Sydney Wanderers
+  17.00  Melbourne City FC        -  Central Coast Mariners
+  18.00  Western United           -  Perth Glory
+  19.35  Adelaide United          -  Sydney FC
+[Sun Apr/6]
+  17.00  Newcastle United Jets    -  Wellington Phoenix
+
+
+Matchday 26
+[Fri Apr/11]
+  19.35  Melbourne City FC        -  Brisbane Roar
+[Sat Apr/12]
+  15.00  Wellington Phoenix       -  Melbourne Victory
+  17.00  Sydney FC                -  Auckland FC
+  19.35  Newcastle United Jets    -  Central Coast Mariners
+  21.45  Perth Glory              -  Adelaide United
+[Sun Apr/13]
+  17.00  Western Sydney Wanderers  -  Western United
+
+
+Matchday 27
+[Thu Apr/17]
+  19.35  Brisbane Roar            -  Western United
+[Fri Apr/18]
+  19.35  Adelaide United          -  Wellington Phoenix
+[Sat Apr/19]
+  17.00  Melbourne Victory        -  Auckland FC
+  19.35  Western Sydney Wanderers  -  Melbourne City FC
+[Sun Apr/20]
+  15.00  Sydney FC                -  Newcastle United Jets
+  17.00  Central Coast Mariners   -  Macarthur FC
+
+
+Matchday 28
+[Fri Apr/25]
+  19.35  Macarthur FC             -  Melbourne Victory
+[Sat Apr/26]
+  15.00  Brisbane Roar            -  Wellington Phoenix
+  17.00  Newcastle United Jets    -  Western Sydney Wanderers
+  19.35  Melbourne City FC        -  Adelaide United
+[Sun Apr/27]
+  15.00  Auckland FC              -  Perth Glory
+  17.00  Western United           -  Sydney FC
+
+
+Matchday 29
+[Fri May/2]
+  17.30  Wellington Phoenix       -  Perth Glory
+  19.35  Central Coast Mariners   -  Brisbane Roar
+[Sat May/3]
+  17.00  Melbourne City FC        -  Sydney FC
+  18.00  Western United           -  Auckland FC
+  19.35  Macarthur FC             -  Western Sydney Wanderers
+[Sun May/4]
+  17.00  Melbourne Victory        -  Newcastle United Jets
+
+
+== Finals
+
+Elimination Final
+[Fri May/9]
+         3. Punktrunde            -  6. Punktrunde
+         4. Punktrunde            -  5. Punktrunde
+
+
+Semi-Final
+[Fri May/16]
+         Sieger EF                -  1. Punktrunde
+         Sieger EF                -  2. Punktrunde
+[Fri May/23]
+         1. Punktrunde            -  Sieger EF
+         2. Punktrunde            -  Sieger EF
+
+
+Final
+[Sat May/31]
+         N.N.                     -  N.N.

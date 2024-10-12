@@ -1,0 +1,545 @@
+= CR 1 2015/16
+
+# Date       Sat Aug/1 2015 - Sat May/14 2016 (287d)
+# Teams      12
+# Matches    276
+# Stages     Invierno (132)  Invierno Playoffs (6)  Verano (132)  Verano Playoffs (6)
+
+
+== Invierno
+
+Matchday 1
+[Sat Aug/1]
+  20.00  CS Herediano             2-0 (1-0)  AD Carmelita
+[Sun Aug/2]
+  11.00  Municipal Liberia        2-0 (1-0)  UCR Fútbol Club
+  13.00  Limón FC                 2-2 (2-1)  CS Cartaginés
+  15.00  Belén FC                 0-2 (0-2)  Deportivo Saprissa
+  15.30  Santos de Guápiles       1-0 (0-0)  Municipal Pérez Zeledón
+  17.00  LD Alajuelense           3-0 (1-0)  Club Sport Uruguay
+
+
+Matchday 2
+[Sun Aug/9]
+  11.00  UCR Fútbol Club          0-1 (0-0)  Limón FC
+         Deportivo Saprissa       2-2 (2-0)  Santos de Guápiles
+  13.00  Municipal Pérez Zeledón  1-1 (0-0)  AD Carmelita
+  15.00  Club Sport Uruguay       0-1 (0-1)  CS Herediano
+  16.00  CS Cartaginés            2-1 (0-1)  Belén FC
+  17.00  LD Alajuelense           1-1 (0-0)  Municipal Liberia
+
+
+Matchday 3
+[Wed Aug/12]
+  15.00  Limón FC                 0-2 (0-0)  LD Alajuelense
+  20.00  Municipal Liberia        0-1 (0-0)  Club Sport Uruguay
+         Belén FC                 3-2 (2-0)  UCR Fútbol Club
+         AD Carmelita             0-3 (0-1)  Deportivo Saprissa
+         CS Herediano             1-0 (1-0)  Municipal Pérez Zeledón
+[Thu Aug/13]
+  20.00  Santos de Guápiles       3-0 (2-0)  CS Cartaginés
+
+
+Matchday 4
+[Sun Aug/16]
+  11.00  CS Cartaginés            1-1 (1-1)  AD Carmelita
+         UCR Fútbol Club          0-2 (0-1)  Santos de Guápiles
+  13.00  Municipal Liberia        0-0  Limón FC
+  14.30  Club Sport Uruguay       4-3 (1-1)  Municipal Pérez Zeledón
+  17.00  Deportivo Saprissa       0-0  CS Herediano
+         LD Alajuelense           0-0  Belén FC
+
+
+Matchday 5
+[Sat Aug/22]
+  20.00  AD Carmelita             1-0 (0-0)  UCR Fútbol Club
+[Sun Aug/23]
+  11.00  Municipal Pérez Zeledón  0-1 (0-1)  Deportivo Saprissa
+  15.30  Santos de Guápiles       0-2 (0-1)  LD Alajuelense
+  17.15  CS Herediano             2-0 (0-0)  CS Cartaginés
+[Thu Aug/27]
+  20.00  Belén FC                 1-1 (0-0)  Municipal Liberia
+[Wed Sep/2]
+  15.00  Limón FC                 1-0 (1-0)  Club Sport Uruguay
+
+
+Matchday 6
+[Sat Aug/29]
+  20.00  Club Sport Uruguay       2-0 (0-0)  Deportivo Saprissa
+[Sun Aug/30]
+  11.00  CS Cartaginés            1-1 (0-0)  Municipal Pérez Zeledón
+  13.00  Limón FC                 4-1 (2-1)  Belén FC
+  15.00  UCR Fútbol Club          2-1 (1-1)  CS Herediano
+  15.30  Municipal Liberia        3-0 (1-0)  Santos de Guápiles
+  17.15  LD Alajuelense           3-0 (2-0)  AD Carmelita
+
+
+Matchday 7
+[Sat Sep/5]
+  20.00  AD Carmelita             1-0 (1-0)  Municipal Liberia
+[Sun Sep/6]
+  11.00  Municipal Pérez Zeledón  0-3 (0-3)  UCR Fútbol Club
+  15.30  Santos de Guápiles       4-2 (1-2)  Limón FC
+  16.30  Belén FC                 1-1 (1-1)  Club Sport Uruguay
+[Wed Sep/23]
+  20.00  CS Herediano             0-0  LD Alajuelense
+[Sun Nov/29]
+  11.00  Deportivo Saprissa       2-3 (2-2)  CS Cartaginés
+
+
+Matchday 8
+[Wed Sep/9]
+  15.00  Limón FC                 1-0 (1-0)  AD Carmelita
+         Belén FC                 5-1 (1-1)  Santos de Guápiles
+  20.00  Club Sport Uruguay       2-0 (1-0)  CS Cartaginés
+         Municipal Liberia        1-3 (0-2)  CS Herediano
+[Wed Sep/16]
+  20.00  LD Alajuelense           1-0 (1-0)  Municipal Pérez Zeledón
+[Wed Sep/23]
+  20.00  UCR Fútbol Club          2-2 (0-1)  Deportivo Saprissa
+
+
+Matchday 9
+[Sun Sep/13]
+  11.00  CS Cartaginés            1-0 (0-0)  UCR Fútbol Club
+  14.00  Municipal Pérez Zeledón  2-0 (1-0)  Municipal Liberia
+         Santos de Guápiles       1-1 (1-0)  Club Sport Uruguay
+  16.30  CS Herediano             2-0 (0-0)  Limón FC
+  17.00  Deportivo Saprissa       1-2 (1-0)  LD Alajuelense
+[Mon Sep/14]
+  20.00  AD Carmelita             2-1 (0-1)  Belén FC
+
+
+Matchday 10
+[Sun Sep/20]
+  11.00  UCR Fútbol Club          0-1 (0-1)  LD Alajuelense
+         Deportivo Saprissa       3-0 (0-0)  Limón FC
+  14.30  Municipal Pérez Zeledón  2-2 (1-0)  Belén FC
+  16.00  CS Cartaginés            2-1 (0-0)  Municipal Liberia
+  16.30  CS Herediano             2-2 (1-2)  Santos de Guápiles
+[Mon Sep/21]
+  20.00  AD Carmelita             1-0 (0-0)  Club Sport Uruguay
+
+
+Matchday 11
+[Sat Sep/26]
+  20.00  Belén FC                 0-1 (0-1)  CS Herediano
+[Sun Sep/27]
+  11.00  Municipal Liberia        1-1 (1-0)  Deportivo Saprissa
+  15.00  Limón FC                 4-4 (2-0)  Municipal Pérez Zeledón
+         Club Sport Uruguay       2-2 (0-0)  UCR Fútbol Club
+  15.30  Santos de Guápiles       1-1 (1-0)  AD Carmelita
+  17.00  LD Alajuelense           3-0 (1-0)  CS Cartaginés
+
+
+Matchday 12
+[Sat Oct/3]
+  19.00  Club Sport Uruguay       2-0 (2-0)  LD Alajuelense
+[Sun Oct/4]
+  11.00  CS Herediano             0-1 (0-0)  AD Carmelita
+         Municipal Pérez Zeledón  1-3 (0-1)  Santos de Guápiles
+  14.30  UCR Fútbol Club          6-0 (5-0)  Municipal Liberia
+  16.00  CS Cartaginés            3-1 (0-1)  Limón FC
+[Wed Dec/2]
+  20.00  Deportivo Saprissa       3-0 (1-0)  Belén FC
+
+
+Matchday 13
+[Sun Oct/11]
+  11.00  CS Herediano             3-1 (3-1)  Club Sport Uruguay
+  14.15  Limón FC                 2-0 (1-0)  UCR Fútbol Club
+  15.00  AD Carmelita             1-1 (0-1)  Municipal Pérez Zeledón
+  16.30  Belén FC                 1-2 (0-1)  CS Cartaginés
+[Wed Oct/21]
+  20.00  Municipal Liberia        2-2 (2-1)  LD Alajuelense
+[Sun Nov/22]
+  15.30  Santos de Guápiles       0-4 (0-3)  Deportivo Saprissa
+
+
+Matchday 14
+[Wed Oct/14]
+  15.00  UCR Fútbol Club          2-0 (1-0)  Belén FC
+  20.00  CS Cartaginés            0-0  Santos de Guápiles
+         Club Sport Uruguay       1-1 (1-0)  Municipal Liberia
+[Wed Nov/25]
+  20.00  Deportivo Saprissa       3-0 (2-0)  AD Carmelita
+         LD Alajuelense           1-1 (1-1)  Limón FC
+[Sun Dec/6]
+  11.00  Municipal Pérez Zeledón  0-2 (0-2)  CS Herediano
+
+
+Matchday 15
+[Sat Oct/17]
+  20.00  CS Herediano             0-0  Deportivo Saprissa
+[Sun Oct/18]
+  11.00  Municipal Pérez Zeledón  1-1 (0-0)  Club Sport Uruguay
+  14.30  Limón FC                 5-0 (3-0)  Municipal Liberia
+  15.30  Santos de Guápiles       2-2 (0-0)  UCR Fútbol Club
+  17.30  Belén FC                 1-5 (0-4)  LD Alajuelense
+[Mon Oct/19]
+  20.00  AD Carmelita             1-2 (1-1)  CS Cartaginés
+
+
+Matchday 16
+[Sat Oct/24]
+  18.00  Club Sport Uruguay       3-3 (2-1)  Limón FC
+  20.00  CS Cartaginés            0-2 (0-2)  CS Herediano
+[Sun Oct/25]
+  11.00  UCR Fútbol Club          1-0 (1-0)  AD Carmelita
+         Deportivo Saprissa       5-0 (3-0)  Municipal Pérez Zeledón
+  14.00  Municipal Liberia        2-3 (1-2)  Belén FC
+  17.00  LD Alajuelense           2-0 (1-0)  Santos de Guápiles
+
+
+Matchday 17
+[Wed Oct/28]
+  14.30  Municipal Pérez Zeledón  0-2 (0-1)  CS Cartaginés
+  15.00  Santos de Guápiles       2-0 (0-0)  Municipal Liberia
+  20.00  CS Herediano             0-2 (0-1)  UCR Fútbol Club
+         Deportivo Saprissa       3-1 (1-0)  Club Sport Uruguay
+         AD Carmelita             0-2 (0-1)  LD Alajuelense
+[Thu Oct/29]
+  20.00  Belén FC                 2-2 (2-1)  Limón FC
+
+
+Matchday 18
+[Sun Nov/1]
+  11.00  CS Cartaginés            3-3 (1-0)  Deportivo Saprissa
+  12.00  LD Alajuelense           2-3 (2-1)  CS Herediano
+  13.00  UCR Fútbol Club          0-1 (0-0)  Municipal Pérez Zeledón
+  14.30  Limón FC                 2-2 (1-2)  Santos de Guápiles
+  15.00  Municipal Liberia        5-0 (2-0)  AD Carmelita
+  16.30  Club Sport Uruguay       1-2 (0-0)  Belén FC
+
+
+Matchday 19
+[Wed Nov/4]
+  15.00  Santos de Guápiles       3-1 (1-1)  Belén FC
+  20.00  AD Carmelita             1-2 (0-1)  Limón FC
+         Deportivo Saprissa       1-0 (1-0)  UCR Fútbol Club
+         CS Herediano             3-0 (0-0)  Municipal Liberia
+[Sun Nov/22]
+  11.00  Municipal Pérez Zeledón  2-7 (1-3)  LD Alajuelense
+[Sun Dec/6]
+  16.00  CS Cartaginés            2-1 (1-1)  Club Sport Uruguay
+
+
+Matchday 20
+[Sat Nov/7]
+  20.00  Club Sport Uruguay       1-2 (1-1)  Santos de Guápiles
+[Sun Nov/8]
+  11.00  Municipal Liberia        2-1 (0-1)  Municipal Pérez Zeledón
+  12.00  LD Alajuelense           1-0 (0-0)  Deportivo Saprissa
+  13.30  UCR Fútbol Club          1-2 (0-2)  CS Cartaginés
+  14.30  Limón FC                 2-1 (1-1)  CS Herediano
+  16.30  Belén FC                 0-0  AD Carmelita
+
+
+Matchday 21
+[Sun Nov/15]
+  11.00  Belén FC                 0-1 (0-0)  Municipal Pérez Zeledón
+         Municipal Liberia        3-2 (1-1)  CS Cartaginés
+  16.30  Club Sport Uruguay       2-0 (1-0)  AD Carmelita
+[Sun Nov/29]
+  15.30  Santos de Guápiles       0-1 (0-1)  CS Herediano
+  17.30  LD Alajuelense           1-3 (0-3)  UCR Fútbol Club
+[Sun Dec/6]
+  13.30  Limón FC                 2-1 (0-0)  Deportivo Saprissa
+
+
+Matchday 22
+[Wed Dec/9]
+  15.00  Municipal Pérez Zeledón  1-2 (1-0)  Limón FC
+         CS Herediano             1-2 (0-1)  Belén FC
+         CS Cartaginés            1-1 (1-0)  LD Alajuelense
+         AD Carmelita             0-1 (0-0)  Santos de Guápiles
+         UCR Fútbol Club          2-0 (1-0)  Club Sport Uruguay
+         Deportivo Saprissa       5-0 (1-0)  Municipal Liberia
+
+
+== Invierno Playoffs
+
+Semifinals
+[Sun Dec/13]
+  14.00  Limón FC                 0-0  LD Alajuelense
+  17.00  Deportivo Saprissa       3-0 (2-0)  CS Herediano
+[Wed Dec/16]
+  20.00  LD Alajuelense           3-0 (1-0)  Limón FC
+[Thu Dec/17]
+  20.00  CS Herediano             2-0 (0-0)  Deportivo Saprissa
+
+
+Final
+[Sun Dec/20]
+  17.00  Deportivo Saprissa       2-0 (0-0)  LD Alajuelense
+[Wed Dec/23]
+  19.00  LD Alajuelense           1-2 (0-1)  Deportivo Saprissa
+
+
+== Verano
+
+Matchday 1
+[Sat Jan/16]
+         Municipal Pérez Zeledón  3-0  Santos de Guápiles       [awarded]
+  20.00  Club Sport Uruguay       1-0 (1-0)  LD Alajuelense
+[Sun Jan/17]
+  14.30  CS Cartaginés            1-0 (1-0)  Limón FC
+  15.00  UCR Fútbol Club          3-1 (1-1)  Municipal Liberia
+  17.00  CS Herediano             3-1 (2-1)  AD Carmelita
+         Deportivo Saprissa       2-1 (2-1)  Belén FC
+
+
+Matchday 2
+[Sun Jan/24]
+         Santos de Guápiles       0-3  Deportivo Saprissa       [awarded]
+[Sat Jan/23]
+  20.00  CS Herediano             2-0 (1-0)  Club Sport Uruguay
+[Sun Jan/24]
+  13.30  Municipal Liberia        1-2 (1-1)  LD Alajuelense
+         AD Carmelita             1-2 (1-1)  Municipal Pérez Zeledón
+  14.00  Limón FC                 1-1 (0-1)  UCR Fútbol Club
+  16.30  Belén FC                 1-0 (0-0)  CS Cartaginés
+
+
+Matchday 3
+[Tue Jan/26]
+  20.00  Club Sport Uruguay       1-1 (1-0)  Municipal Liberia
+[Wed Jan/27]
+  15.00  Municipal Pérez Zeledón  2-2 (1-0)  CS Herediano
+[Thu Jan/28]
+         CS Cartaginés            3-0  Santos de Guápiles       [awarded]
+[Wed Jan/27]
+  18.00  UCR Fútbol Club          1-1 (0-1)  Belén FC
+  20.00  Deportivo Saprissa       4-0 (2-0)  AD Carmelita
+         LD Alajuelense           4-0 (3-0)  Limón FC
+
+
+Matchday 4
+[Sat Jan/30]
+  20.00  CS Herediano             2-0 (1-0)  Deportivo Saprissa
+[Sun Jan/31]
+  13.30  Municipal Pérez Zeledón  4-0 (2-0)  Club Sport Uruguay
+  14.00  Limón FC                 0-1 (0-1)  Municipal Liberia
+  15.00  AD Carmelita             1-1 (0-0)  CS Cartaginés
+  15.30  Santos de Guápiles       0-0  UCR Fútbol Club
+  16.30  Belén FC                 1-1 (1-0)  LD Alajuelense
+
+
+Matchday 5
+[Wed Feb/3]
+  18.00  UCR Fútbol Club          3-2 (0-2)  AD Carmelita
+  19.00  Club Sport Uruguay       1-1 (0-0)  Limón FC
+[Thu Feb/4]
+  15.00  Municipal Liberia        0-0  Belén FC
+  19.00  CS Cartaginés            1-0  CS Herediano
+  20.00  Deportivo Saprissa       0-1 (0-1)  Municipal Pérez Zeledón
+         LD Alajuelense           4-2 (1-1)  Santos de Guápiles
+
+
+Matchday 6
+[Tue Feb/9]
+  20.00  CS Herediano             2-1 (0-1)  UCR Fútbol Club
+         AD Carmelita             0-1 (0-0)  LD Alajuelense
+[Wed Feb/10]
+  15.00  Municipal Pérez Zeledón  0-2 (0-0)  CS Cartaginés
+         Santos de Guápiles       0-1 (0-1)  Municipal Liberia
+  20.00  Deportivo Saprissa       3-0 (1-0)  Club Sport Uruguay
+[Thu Feb/11]
+  20.00  Belén FC                 3-0 (2-0)  Limón FC
+
+
+Matchday 7
+[Sat Feb/13]
+  20.00  LD Alajuelense           2-1 (1-1)  CS Herediano
+[Sun Feb/14]
+  13.30  UCR Fútbol Club          0-1 (0-1)  Municipal Pérez Zeledón
+  14.00  Limón FC                 2-4 (1-2)  Santos de Guápiles
+  15.00  Municipal Liberia        1-1 (1-1)  AD Carmelita
+  16.00  CS Cartaginés            1-4 (0-3)  Deportivo Saprissa
+  16.30  Club Sport Uruguay       1-2 (1-1)  Belén FC
+
+
+Matchday 8
+[Wed Feb/17]
+  15.00  Santos de Guápiles       0-2 (0-2)  Belén FC
+  15.30  Municipal Pérez Zeledón  2-2 (0-1)  LD Alajuelense
+  20.00  AD Carmelita             0-1 (0-1)  Limón FC
+         Deportivo Saprissa       3-0 (3-0)  UCR Fútbol Club
+         CS Cartaginés            2-2 (2-0)  Club Sport Uruguay
+         CS Herediano             2-0 (1-0)  Municipal Liberia
+
+
+Matchday 9
+[Sat Feb/20]
+  20.00  Club Sport Uruguay       2-1 (2-0)  Santos de Guápiles
+[Sun Feb/21]
+  13.30  Municipal Liberia        3-2 (2-0)  Municipal Pérez Zeledón
+  14.00  Belén FC                 1-0 (0-0)  AD Carmelita
+         Limón FC                 0-1 (0-1)  CS Herediano
+  15.30  UCR Fútbol Club          1-0 (1-0)  CS Cartaginés
+  16.30  LD Alajuelense           1-0 (1-0)  Deportivo Saprissa
+
+
+Matchday 10
+[Wed Feb/24]
+  15.00  Limón FC                 1-2 (1-1)  Deportivo Saprissa
+         Belén FC                 1-0 (0-0)  Municipal Pérez Zeledón
+  15.35  Municipal Liberia        2-1 (0-0)  CS Cartaginés
+  20.00  LD Alajuelense           4-0 (2-0)  UCR Fútbol Club
+         Santos de Guápiles       0-2 (0-1)  CS Herediano
+[Thu Feb/25]
+  20.00  Club Sport Uruguay       2-2 (1-2)  AD Carmelita
+
+
+Matchday 11
+[Sat Feb/27]
+  20.00  CS Herediano             1-0 (0-0)  Belén FC
+[Sun Feb/28]
+  14.00  CS Cartaginés            3-3 (1-1)  LD Alajuelense
+  15.00  Municipal Pérez Zeledón  2-0 (1-0)  Limón FC
+         UCR Fútbol Club          0-0  Club Sport Uruguay
+  16.00  Deportivo Saprissa       2-1 (2-1)  Municipal Liberia
+  19.00  AD Carmelita             0-5 (0-2)  Santos de Guápiles
+
+
+Matchday 12
+[Sat Mar/5]
+  20.00  LD Alajuelense           4-0 (0-0)  Club Sport Uruguay
+[Sun Mar/6]
+  13.30  Municipal Liberia        1-2 (0-1)  UCR Fútbol Club
+  14.00  Limón FC                 1-0 (1-0)  CS Cartaginés
+  15.30  Santos de Guápiles       3-1 (1-1)  Municipal Pérez Zeledón
+  16.00  AD Carmelita             2-2 (0-1)  CS Herediano
+  16.30  Belén FC                 3-0 (1-0)  Deportivo Saprissa
+
+
+Matchday 13
+[Tue Mar/8]
+  20.00  Club Sport Uruguay       0-1 (0-1)  CS Herediano
+[Wed Mar/9]
+  15.00  UCR Fútbol Club          4-0 (2-0)  Limón FC
+  15.35  Municipal Pérez Zeledón  1-2 (0-2)  AD Carmelita
+  20.00  LD Alajuelense           4-0 (2-0)  Municipal Liberia
+         CS Cartaginés            1-0 (0-0)  Belén FC
+[Thu Mar/10]
+  20.00  Deportivo Saprissa       1-0 (0-0)  Santos de Guápiles
+
+
+Matchday 14
+[Sat Mar/12]
+  20.00  CS Herediano             2-0 (0-0)  Municipal Pérez Zeledón
+[Sun Mar/13]
+  13.30  Municipal Liberia        0-2 (0-0)  Club Sport Uruguay
+  14.00  Limón FC                 1-0 (1-0)  LD Alajuelense
+  15.00  AD Carmelita             1-3 (0-2)  Deportivo Saprissa
+  15.30  Santos de Guápiles       0-0  CS Cartaginés
+  16.30  Belén FC                 2-2 (0-1)  UCR Fútbol Club
+
+
+Matchday 15
+[Sat Mar/19]
+  15.00  UCR Fútbol Club          1-0 (1-0)  Santos de Guápiles
+  20.00  LD Alajuelense           1-3 (1-2)  Belén FC
+[Sun Mar/20]
+  13.30  CS Cartaginés            2-3 (1-2)  AD Carmelita
+  15.00  Municipal Liberia        1-0 (1-0)  Limón FC
+  16.00  Deportivo Saprissa       1-0 (1-0)  CS Herediano
+  16.30  Club Sport Uruguay       3-0 (2-0)  Municipal Pérez Zeledón
+
+
+Matchday 16
+[Wed Mar/23]
+  15.00  Belén FC                 1-0 (1-0)  Municipal Liberia
+[Sat Mar/26]
+  20.00  CS Herediano             1-0 (1-0)  CS Cartaginés
+[Sun Mar/27]
+  15.00  AD Carmelita             2-4 (0-1)  UCR Fútbol Club
+         Limón FC                 3-1 (3-0)  Club Sport Uruguay
+[Wed Mar/30]
+  20.00  Santos de Guápiles       0-2 (0-0)  LD Alajuelense
+[Wed Apr/6]
+  15.00  Municipal Pérez Zeledón  2-1 (1-1)  Deportivo Saprissa
+
+
+Matchday 17
+[Sat Apr/2]
+  20.00  Club Sport Uruguay       0-1 (0-1)  Deportivo Saprissa
+[Sun Apr/3]
+  13.30  Municipal Liberia        3-0 (3-0)  Santos de Guápiles
+  14.00  Limón FC                 2-1 (1-0)  Belén FC
+  16.00  CS Cartaginés            2-1 (0-1)  Municipal Pérez Zeledón
+  16.30  UCR Fútbol Club          1-2 (1-0)  CS Herediano
+[Mon Apr/4]
+  20.00  LD Alajuelense           3-0 (1-0)  AD Carmelita
+
+
+Matchday 18
+[Sat Apr/9]
+  20.00  CS Herediano             2-1 (2-0)  LD Alajuelense
+[Sun Apr/10]
+  13.30  Municipal Pérez Zeledón  2-0 (1-0)  UCR Fútbol Club
+  15.00  Santos de Guápiles       1-0 (0-0)  Limón FC
+         AD Carmelita             1-0 (0-0)  Municipal Liberia
+  16.30  Belén FC                 2-0 (1-0)  Club Sport Uruguay
+  17.00  Deportivo Saprissa       2-0 (2-0)  CS Cartaginés
+
+
+Matchday 19
+[Wed Apr/13]
+  15.00  Limón FC                 1-4 (0-0)  AD Carmelita
+         Belén FC                 1-1 (0-0)  Santos de Guápiles
+  20.00  UCR Fútbol Club          1-2 (1-1)  Deportivo Saprissa
+         LD Alajuelense           4-1 (2-1)  Municipal Pérez Zeledón
+         Municipal Liberia        1-0 (1-0)  CS Herediano
+[Thu Apr/14]
+  20.00  Club Sport Uruguay       0-1 (0-1)  CS Cartaginés
+
+
+Matchday 20
+[Sun Apr/17]
+  14.00  CS Cartaginés            2-1 (1-0)  UCR Fútbol Club
+  15.00  Municipal Pérez Zeledón  1-0 (1-0)  Municipal Liberia
+         AD Carmelita             0-0  Belén FC
+         Santos de Guápiles       1-0 (0-0)  Club Sport Uruguay
+  17.00  Deportivo Saprissa       1-0 (0-0)  LD Alajuelense
+  19.00  CS Herediano             4-0 (2-0)  Limón FC
+
+
+Matchday 21
+[Wed Apr/20]
+  15.00  Municipal Pérez Zeledón  0-1 (0-0)  Belén FC
+         CS Cartaginés            1-0 (1-0)  Municipal Liberia
+  20.00  UCR Fútbol Club          2-1 (0-1)  LD Alajuelense
+         AD Carmelita             1-0 (1-0)  Club Sport Uruguay
+         Deportivo Saprissa       0-0  Limón FC
+[Thu Apr/21]
+  20.00  CS Herediano             2-0 (1-0)  Santos de Guápiles
+
+
+Matchday 22
+[Sun Apr/24]
+  15.00  Municipal Liberia        1-1 (1-1)  Deportivo Saprissa
+         Belén FC                 0-1 (0-0)  CS Herediano
+         Santos de Guápiles       0-1 (0-1)  AD Carmelita
+         Limón FC                 1-0 (1-0)  Municipal Pérez Zeledón
+         LD Alajuelense           3-1 (2-1)  CS Cartaginés
+         Club Sport Uruguay       0-1 (0-0)  UCR Fútbol Club
+
+
+== Verano Playoffs
+
+Semifinals
+[Sat Apr/30]
+  20.00  LD Alajuelense           2-0 (1-0)  Deportivo Saprissa
+[Sun May/1]
+  19.00  Belén FC                 1-1 (1-1)  CS Herediano
+[Wed May/4]
+  19.00  CS Herediano             1-1 (0-0)  Belén FC
+  20.00  Deportivo Saprissa       1-3 (0-1)  LD Alajuelense
+
+
+Final
+[Mon May/9]
+  20.00  LD Alajuelense           0-1 (0-0)  CS Herediano
+[Sat May/14]
+  20.00  CS Herediano             2-0 (1-0)  LD Alajuelense

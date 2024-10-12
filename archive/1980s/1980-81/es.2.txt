@@ -1,0 +1,538 @@
+= ES 2 1980/81
+
+# Date       Sun Sep/7 1980 - Sun May/24 1981 (259d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Sep/7]
+         Castilla CF              1-0  Barakaldo CF
+         Racing Santander         1-1  Atlético Madrileño
+         CE Sabadell              0-1  Cádiz CF
+         Rayo Vallecano           3-1  Linares CF
+         Elche CF                 2-1  Real Oviedo
+         Recreativo Huelva        1-1  CD Castellón
+         AgD Ceuta                2-0  CD Málaga
+         Burgos CF                1-1  Levante UD
+         Club Getafe Deportivo    0-2  CD Alavés
+         CF Palencia              0-0  Granada CF
+
+
+Matchday 2
+[Sun Sep/14]
+         CD Castellón             2-0  Racing Santander
+         Cádiz CF                 2-0  AgD Ceuta
+         CD Alavés                1-1  Castilla CF
+         Levante UD               2-1  Elche CF
+         Atlético Madrileño       3-2  Burgos CF
+         Real Oviedo              0-0  CE Sabadell
+         Barakaldo CF             2-1  CF Palencia
+         CD Málaga                0-0  Club Getafe Deportivo
+         Granada CF               1-3  Rayo Vallecano
+         Linares CF               0-0  Recreativo Huelva
+
+
+Matchday 3
+[Sun Sep/21]
+         Castilla CF              2-0  CD Málaga
+         Racing Santander         0-0  Linares CF
+         CE Sabadell              0-0  Levante UD
+         Rayo Vallecano           1-0  Recreativo Huelva
+         Elche CF                 4-0  Atlético Madrileño
+         AgD Ceuta                3-2  Real Oviedo
+         Burgos CF                0-1  CD Castellón
+         Club Getafe Deportivo    0-0  Cádiz CF
+         Granada CF               0-0  Barakaldo CF
+         CF Palencia              1-0  CD Alavés
+
+
+Matchday 4
+[Sun Sep/28]
+         CD Castellón             3-0  Elche CF
+         Cádiz CF                 2-1  Castilla CF
+         CD Alavés                1-1  Granada CF
+         Levante UD               2-1  AgD Ceuta
+         Atlético Madrileño       1-1  CE Sabadell
+         Recreativo Huelva        0-0  Racing Santander
+         Real Oviedo              4-0  Club Getafe Deportivo
+         Barakaldo CF             0-0  Rayo Vallecano
+         CD Málaga                0-0  CF Palencia
+         Linares CF               2-0  Burgos CF
+
+
+Matchday 5
+[Sun Oct/5]
+         Castilla CF              2-1  Real Oviedo
+         CE Sabadell              1-1  CD Castellón
+         Rayo Vallecano           0-0  Racing Santander
+         Elche CF                 2-0  Linares CF
+         AgD Ceuta                3-3  Atlético Madrileño
+         Barakaldo CF             2-2  CD Alavés
+         Burgos CF                3-0  Recreativo Huelva
+         Club Getafe Deportivo    2-0  Levante UD
+         Granada CF               0-0  CD Málaga
+         CF Palencia              2-1  Cádiz CF
+
+
+Matchday 6
+[Sun Oct/12]
+         Racing Santander         2-3  Burgos CF
+         CD Castellón             2-1  AgD Ceuta
+         Cádiz CF                 1-0  Granada CF
+         CD Alavés                1-0  Rayo Vallecano
+         Levante UD               0-0  Castilla CF
+         Atlético Madrileño       2-2  Club Getafe Deportivo
+         Recreativo Huelva        0-0  Elche CF
+         Real Oviedo              2-1  CF Palencia
+         CD Málaga                1-1  Barakaldo CF
+         Linares CF               3-1  CE Sabadell
+
+
+Matchday 7
+[Sun Oct/19]
+         Castilla CF              1-1  Atlético Madrileño
+         CE Sabadell              0-0  Recreativo Huelva
+         Rayo Vallecano           2-0  Burgos CF
+         CD Alavés                1-1  CD Málaga
+         Elche CF                 0-4  Racing Santander
+         AgD Ceuta                0-0  Linares CF
+         Barakaldo CF             2-0  Cádiz CF
+         Club Getafe Deportivo    1-1  CD Castellón
+         Granada CF               2-0  Real Oviedo
+         CF Palencia              1-0  Levante UD
+
+
+Matchday 8
+[Sun Oct/26]
+         Racing Santander         3-0  CE Sabadell
+         CD Castellón             0-0  Castilla CF
+         Cádiz CF                 1-0  CD Alavés
+         Levante UD               0-0  Granada CF
+         Atlético Madrileño       3-0  CF Palencia
+         Recreativo Huelva        1-0  AgD Ceuta
+         Real Oviedo              3-0  Barakaldo CF
+         Burgos CF                1-1  Elche CF
+         CD Málaga                1-0  Rayo Vallecano
+         Linares CF               2-0  Club Getafe Deportivo
+
+
+Matchday 9
+[Sun Nov/2]
+         Castilla CF              3-0  Linares CF
+         CE Sabadell              1-5  Burgos CF
+         Rayo Vallecano           0-2  Elche CF
+         CD Alavés                3-0  Real Oviedo
+         AgD Ceuta                0-1  Racing Santander
+         Barakaldo CF             1-0  Levante UD
+         Club Getafe Deportivo    1-0  Recreativo Huelva
+         CD Málaga                2-1  Cádiz CF
+         Granada CF               1-0  Atlético Madrileño
+         CF Palencia              1-1  CD Castellón
+
+
+Matchday 10
+[Sun Nov/9]
+         Racing Santander         3-0  Club Getafe Deportivo
+         CD Castellón             3-1  Granada CF
+         Cádiz CF                 1-1  Rayo Vallecano
+         Levante UD               2-0  CD Alavés
+         Atlético Madrileño       1-0  Barakaldo CF
+         Elche CF                 2-3  CE Sabadell
+         Recreativo Huelva        2-0  Castilla CF
+         Real Oviedo              2-2  CD Málaga
+         Burgos CF                1-0  AgD Ceuta
+         Linares CF               0-0  CF Palencia
+
+
+Matchday 11
+[Sun Nov/16]
+         Castilla CF              4-1  Racing Santander
+         Cádiz CF                 1-1  Real Oviedo
+         Rayo Vallecano           1-0  CE Sabadell
+         CD Alavés                4-1  Atlético Madrileño
+         AgD Ceuta                1-1  Elche CF
+         Barakaldo CF             2-0  CD Castellón
+         Club Getafe Deportivo    0-0  Burgos CF
+         CD Málaga                0-3  Levante UD
+         Granada CF               3-1  Linares CF
+         CF Palencia              0-1  Recreativo Huelva
+
+
+Matchday 12
+[Sun Nov/23]
+         Racing Santander         2-0  CF Palencia
+         CD Castellón             1-1  CD Alavés
+         CE Sabadell              3-0  AgD Ceuta
+         Levante UD               1-0  Cádiz CF
+         Atlético Madrileño       1-2  CD Málaga
+         Elche CF                 2-1  Club Getafe Deportivo
+         Recreativo Huelva        4-1  Granada CF
+         Real Oviedo              0-2  Rayo Vallecano
+         Burgos CF                1-0  Castilla CF
+         Linares CF               1-0  Barakaldo CF
+
+
+Matchday 13
+[Sun Nov/30]
+         Castilla CF              1-2  Elche CF
+         Cádiz CF                 1-0  Atlético Madrileño
+         Rayo Vallecano           2-0  AgD Ceuta
+         CD Alavés                4-1  Linares CF
+         Real Oviedo              1-0  Levante UD
+         Barakaldo CF             2-0  Recreativo Huelva
+         Club Getafe Deportivo    4-2  CE Sabadell
+         CD Málaga                0-0  CD Castellón
+         Granada CF               0-0  Racing Santander
+         CF Palencia              0-1  Burgos CF
+
+
+Matchday 14
+[Sun Dec/7]
+         Racing Santander         3-0  Barakaldo CF
+         CD Castellón             3-1  Cádiz CF
+         CE Sabadell              1-0  Castilla CF
+         Levante UD               0-0  Rayo Vallecano
+         Atlético Madrileño       1-0  Real Oviedo
+         Elche CF                 1-1  CF Palencia
+         Recreativo Huelva        1-0  CD Alavés
+         AgD Ceuta                3-2  Club Getafe Deportivo
+         Burgos CF                1-1  Granada CF
+         Linares CF               0-2  CD Málaga
+
+
+Matchday 15
+[Sun Dec/14]
+         Castilla CF              2-1  AgD Ceuta
+         Cádiz CF                 4-1  Linares CF
+         Rayo Vallecano           1-1  Club Getafe Deportivo
+         CD Alavés                3-0  Racing Santander
+         Levante UD               3-1  Atlético Madrileño
+         Real Oviedo              1-1  CD Castellón
+         Barakaldo CF             1-1  Burgos CF
+         CD Málaga                2-1  Recreativo Huelva
+         Granada CF               1-1  Elche CF
+         CF Palencia              1-0  CE Sabadell
+
+
+Matchday 16
+[Sun Dec/21]
+         Racing Santander         3-2  CD Málaga
+         CD Castellón             0-1  Levante UD
+         CE Sabadell              3-1  Granada CF
+         Atlético Madrileño       1-1  Rayo Vallecano
+         Elche CF                 4-1  Barakaldo CF
+         Recreativo Huelva        1-1  Cádiz CF
+         AgD Ceuta                1-2  CF Palencia
+         Burgos CF                0-1  CD Alavés
+         Club Getafe Deportivo    1-1  Castilla CF
+         Linares CF               0-0  Real Oviedo
+
+
+Matchday 17
+[Sun Dec/28]
+         Cádiz CF                 1-2  Racing Santander
+         Rayo Vallecano           2-0  Castilla CF
+         CD Alavés                1-1  Elche CF
+         Levante UD               1-0  Linares CF
+         Atlético Madrileño       1-0  CD Castellón
+         Real Oviedo              1-1  Recreativo Huelva
+         Barakaldo CF             1-1  CE Sabadell
+         CD Málaga                1-0  Burgos CF
+         Granada CF               1-1  AgD Ceuta
+         CF Palencia              2-0  Club Getafe Deportivo
+
+
+Matchday 18
+[Sun Jan/4]
+         Castilla CF              1-0  CF Palencia
+         Racing Santander         1-0  Real Oviedo
+         CE Sabadell              2-0  CD Alavés
+         Rayo Vallecano           0-0  CD Castellón
+         Elche CF                 2-2  CD Málaga
+         Recreativo Huelva        3-1  Levante UD
+         AgD Ceuta                1-0  Barakaldo CF
+         Burgos CF                4-1  Cádiz CF
+         Club Getafe Deportivo    3-2  Granada CF
+         Linares CF               1-2  Atlético Madrileño
+
+
+Matchday 19
+[Sun Jan/11]
+         CD Castellón             2-1  Linares CF
+         Cádiz CF                 2-0  Elche CF
+         CD Alavés                2-0  AgD Ceuta
+         Levante UD               2-0  Racing Santander
+         Atlético Madrileño       3-0  Recreativo Huelva
+         Real Oviedo              2-1  Burgos CF
+         Barakaldo CF             4-2  Club Getafe Deportivo
+         CD Málaga                1-1  CE Sabadell
+         Granada CF               2-1  Castilla CF
+         CF Palencia              2-0  Rayo Vallecano
+
+
+Matchday 20
+[Sun Jan/18]
+         CD Castellón             1-1  Recreativo Huelva
+         Cádiz CF                 2-3  CE Sabadell
+         CD Alavés                2-0  Club Getafe Deportivo
+         Levante UD               2-0  Burgos CF
+         Atlético Madrileño       2-1  Racing Santander
+         Real Oviedo              1-1  Elche CF
+         Barakaldo CF             2-1  Castilla CF
+         CD Málaga                2-1  AgD Ceuta
+         Granada CF               2-0  CF Palencia
+         Linares CF               0-0  Rayo Vallecano
+
+
+Matchday 21
+[Sun Jan/25]
+         Castilla CF              3-2  CD Alavés
+         Racing Santander         1-1  CD Castellón
+         CE Sabadell              0-1  Real Oviedo
+         Rayo Vallecano           1-0  Granada CF
+         Elche CF                 2-0  Levante UD
+         Recreativo Huelva        1-0  Linares CF
+         AgD Ceuta                3-1  Cádiz CF
+         Burgos CF                0-1  Atlético Madrileño
+         Club Getafe Deportivo    3-0  CD Málaga
+         CF Palencia              0-0  Barakaldo CF
+
+
+Matchday 22
+[Sun Feb/1]
+         CD Castellón             4-1  Burgos CF
+         Cádiz CF                 3-0  Club Getafe Deportivo
+         CD Alavés                1-0  CF Palencia
+         Levante UD               0-1  CE Sabadell
+         Atlético Madrileño       1-0  Elche CF
+         Recreativo Huelva        1-0  Rayo Vallecano
+         Real Oviedo              0-0  AgD Ceuta
+         Barakaldo CF             2-1  Granada CF
+         CD Málaga                3-3  Castilla CF
+         Linares CF               0-0  Racing Santander
+
+
+Matchday 23
+[Sun Feb/8]
+         Castilla CF              1-2  Cádiz CF
+         Racing Santander         2-1  Recreativo Huelva
+         CE Sabadell              3-0  Atlético Madrileño
+         Rayo Vallecano           3-1  Barakaldo CF
+         Elche CF                 4-0  CD Castellón
+         AgD Ceuta                1-0  Levante UD
+         Burgos CF                3-2  Linares CF
+         Club Getafe Deportivo    1-2  Real Oviedo
+         Granada CF               1-0  CD Alavés
+         CF Palencia              0-1  CD Málaga
+
+
+Matchday 24
+[Sun Feb/15]
+         Racing Santander         2-1  Rayo Vallecano
+         CD Castellón             2-1  CE Sabadell
+         Cádiz CF                 3-1  CF Palencia
+         CD Alavés                2-0  Barakaldo CF
+         Levante UD               2-2  Club Getafe Deportivo
+         Atlético Madrileño       3-0  AgD Ceuta
+         Recreativo Huelva        1-1  Burgos CF
+         Real Oviedo              1-0  Castilla CF
+         CD Málaga                2-0  Granada CF
+         Linares CF               1-0  Elche CF
+
+
+Matchday 25
+[Sun Feb/22]
+         Castilla CF              1-2  Levante UD
+         CE Sabadell              1-0  Linares CF
+         Rayo Vallecano           1-0  CD Alavés
+         Elche CF                 1-0  Recreativo Huelva
+         AgD Ceuta                0-0  CD Castellón
+         Barakaldo CF             3-1  CD Málaga
+         Burgos CF                4-0  Racing Santander
+         Club Getafe Deportivo    1-1  Atlético Madrileño
+         Granada CF               0-0  Cádiz CF
+         CF Palencia              0-0  Real Oviedo
+
+
+Matchday 26
+[Sun Mar/1]
+         Racing Santander         2-2  Elche CF
+         CD Castellón             0-0  Club Getafe Deportivo
+         Cádiz CF                 4-0  Barakaldo CF
+         Levante UD               1-0  CF Palencia
+         Atlético Madrileño       1-3  Castilla CF
+         Recreativo Huelva        0-1  CE Sabadell
+         Real Oviedo              1-1  Granada CF
+         Burgos CF                2-2  Rayo Vallecano
+         CD Málaga                2-2  CD Alavés
+         Linares CF               2-0  AgD Ceuta
+
+
+Matchday 27
+[Sun Mar/8]
+         Castilla CF              0-0  CD Castellón
+         CE Sabadell              2-1  Racing Santander
+         Rayo Vallecano           0-0  CD Málaga
+         CD Alavés                1-2  Cádiz CF
+         Elche CF                 2-1  Burgos CF
+         AgD Ceuta                1-0  Recreativo Huelva
+         Barakaldo CF             0-0  Real Oviedo
+         Club Getafe Deportivo    1-2  Linares CF
+         Granada CF               1-0  Levante UD
+         CF Palencia              2-0  Atlético Madrileño
+
+
+Matchday 28
+[Sun Mar/15]
+         Racing Santander         2-0  AgD Ceuta
+         CD Castellón             4-2  CF Palencia
+         Cádiz CF                 0-1  CD Málaga
+         Levante UD               1-0  Barakaldo CF
+         Atlético Madrileño       3-1  Granada CF
+         Elche CF                 1-1  Rayo Vallecano
+         Recreativo Huelva        0-1  Club Getafe Deportivo
+         Real Oviedo              1-0  CD Alavés
+         Burgos CF                1-1  CE Sabadell
+         Linares CF               2-0  Castilla CF
+
+
+Matchday 29
+[Sun Mar/22]
+         Castilla CF              3-1  Recreativo Huelva
+         CE Sabadell              1-2  Elche CF
+         Rayo Vallecano           1-0  Cádiz CF
+         CD Alavés                1-0  Levante UD
+         AgD Ceuta                3-0  Burgos CF
+         Barakaldo CF             1-0  Atlético Madrileño
+         Club Getafe Deportivo    2-2  Racing Santander
+         CD Málaga                1-0  Real Oviedo
+         Granada CF               2-1  CD Castellón
+         CF Palencia              1-0  Linares CF
+
+
+Matchday 30
+[Sun Mar/29]
+         Racing Santander         2-1  Castilla CF
+         CD Castellón             1-0  Barakaldo CF
+         CE Sabadell              0-0  Rayo Vallecano
+         Levante UD               2-4  CD Málaga
+         Atlético Madrileño       1-2  CD Alavés
+         Elche CF                 2-0  AgD Ceuta
+         Recreativo Huelva        0-0  CF Palencia
+         Real Oviedo              1-1  Cádiz CF
+         Burgos CF                0-1  Club Getafe Deportivo
+         Linares CF               2-3  Granada CF
+
+
+Matchday 31
+[Sun Apr/5]
+         Castilla CF              5-1  Burgos CF
+         Cádiz CF                 2-0  Levante UD
+         Rayo Vallecano           1-1  Real Oviedo
+         CD Alavés                0-1  CD Castellón
+         AgD Ceuta                0-0  CE Sabadell
+         Barakaldo CF             1-2  Linares CF
+         Club Getafe Deportivo    2-0  Elche CF
+         CD Málaga                0-1  Atlético Madrileño
+         Granada CF               2-1  Recreativo Huelva
+         CF Palencia              1-0  Racing Santander
+
+
+Matchday 32
+[Sun Apr/12]
+         Racing Santander         2-0  Granada CF
+         CD Castellón             0-0  CD Málaga
+         CE Sabadell              2-1  Club Getafe Deportivo
+         Levante UD               2-2  Real Oviedo
+         Atlético Madrileño       1-1  Cádiz CF
+         Elche CF                 2-1  Castilla CF
+         Recreativo Huelva        1-0  Barakaldo CF
+         AgD Ceuta                1-0  Rayo Vallecano
+         Burgos CF                2-1  CF Palencia
+         Linares CF               0-0  CD Alavés
+
+
+Matchday 33
+[Sun Apr/19]
+         Castilla CF              0-1  CE Sabadell
+         Cádiz CF                 3-0  CD Castellón
+         Rayo Vallecano           0-0  Levante UD
+         CD Alavés                3-0  Recreativo Huelva
+         Real Oviedo              1-0  Atlético Madrileño
+         Barakaldo CF             0-1  Racing Santander
+         Club Getafe Deportivo    2-0  AgD Ceuta
+         CD Málaga                1-2  Linares CF
+         Granada CF               0-1  Burgos CF
+         CF Palencia              3-0  Elche CF
+
+
+Matchday 34
+[Sun Apr/26]
+         Racing Santander         1-0  CD Alavés
+         CD Castellón             3-1  Real Oviedo
+         CE Sabadell              1-0  CF Palencia
+         Atlético Madrileño       2-3  Levante UD
+         Elche CF                 1-1  Granada CF
+         Recreativo Huelva        1-1  CD Málaga
+         AgD Ceuta                0-3  Castilla CF
+         Burgos CF                1-0  Barakaldo CF
+         Club Getafe Deportivo    0-0  Rayo Vallecano
+         Linares CF               1-0  Cádiz CF
+
+
+Matchday 35
+[Sun May/3]
+         Castilla CF              1-1  Club Getafe Deportivo
+         Cádiz CF                 3-1  Recreativo Huelva
+         Rayo Vallecano           3-0  Atlético Madrileño
+         CD Alavés                1-1  Burgos CF
+         Levante UD               1-0  CD Castellón
+         Real Oviedo              0-0  Linares CF
+         Barakaldo CF             0-1  Elche CF
+         CD Málaga                3-0  Racing Santander
+         Granada CF               0-1  CE Sabadell
+         CF Palencia              1-0  AgD Ceuta
+
+
+Matchday 36
+[Sun May/10]
+         Castilla CF              0-2  Rayo Vallecano
+         Racing Santander         0-1  Cádiz CF
+         CD Castellón             2-0  Atlético Madrileño
+         CE Sabadell              3-2  Barakaldo CF
+         Elche CF                 3-2  CD Alavés
+         Recreativo Huelva        2-0  Real Oviedo
+         AgD Ceuta                3-0  Granada CF
+         Burgos CF                2-1  CD Málaga
+         Club Getafe Deportivo    2-1  CF Palencia
+         Linares CF               3-1  Levante UD
+
+
+Matchday 37
+[Sun May/17]
+         CD Castellón             2-0  Rayo Vallecano
+         Cádiz CF                 3-0  Burgos CF
+         CD Alavés                2-0  CE Sabadell
+         Levante UD               0-2  Recreativo Huelva
+         Atlético Madrileño       1-1  Linares CF
+         Real Oviedo              1-2  Racing Santander
+         Barakaldo CF             2-0  AgD Ceuta
+         CD Málaga                0-2  Elche CF
+         Granada CF               0-0  Club Getafe Deportivo
+         CF Palencia              1-2  Castilla CF
+
+
+Matchday 38
+[Sun May/24]
+         Castilla CF              1-0  Granada CF
+         Racing Santander         1-0  Levante UD
+         CE Sabadell              3-5  CD Málaga
+         Rayo Vallecano           2-1  CF Palencia
+         Elche CF                 1-2  Cádiz CF
+         Recreativo Huelva        3-0  Atlético Madrileño
+         AgD Ceuta                2-1  CD Alavés
+         Burgos CF                1-2  Real Oviedo
+         Club Getafe Deportivo    1-1  Barakaldo CF
+         Linares CF               2-1  CD Castellón

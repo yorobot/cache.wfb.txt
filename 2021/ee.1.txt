@@ -1,0 +1,372 @@
+= EE 1 2021
+
+# Date       Sat Mar/13 - Sun Dec/5 2021 (267d)
+# Teams      10
+# Matches    156
+# Stages     Regular Season (135)  Relegation (6)  Championship (15)
+
+
+# Regular Season
+
+Matchday 1
+[Sun Apr/4]
+  13.00  Tallinna JK Legion       1-1 (0-1)  Paide Linnameeskond
+[Sun Jun/13]
+  13.00  FC Flora                 2-0 (1-0)  Pärnu JK Vaprus
+[Sat Jun/26]
+  13.00  FCI Levadia              3-0 (1-0)  FC Kuressaare
+[Wed Jun/30]
+  18.00  JK Nõmme Kalju           5-1 (2-0)  Tulevik Viljandi
+[Tue Jul/13]
+  17.00  JK Tammeka               3-2 (1-0)  JK Narva Trans
+
+
+Matchday 2
+[Sat Mar/20]
+  13.00  FC Kuressaare            1-3 (1-1)  JK Tammeka
+  16.00  FCI Levadia              4-3 (3-3)  Tallinna JK Legion
+  19.00  JK Narva Trans           1-1 (1-0)  Pärnu JK Vaprus
+[Sun Mar/21]
+  15.00  Tulevik Viljandi         0-1 (0-0)  Paide Linnameeskond
+[Fri Jun/25]
+  20.00  FC Flora                 1-0 (0-0)  JK Nõmme Kalju
+
+
+Matchday 3
+[Sat Mar/13]
+  13.00  FCI Levadia              5-0 (3-0)  Pärnu JK Vaprus
+  16.00  FC Kuressaare            2-3 (1-1)  Tulevik Viljandi
+[Sun Mar/14]
+  13.00  Paide Linnameeskond      5-1 (1-0)  JK Narva Trans
+[Sun Mar/28]
+  13.00  Tallinna JK Legion       0-1 (0-0)  JK Nõmme Kalju
+[Mon Jun/21]
+  17.00  JK Tammeka               0-3 (0-3)  FC Flora
+
+
+Matchday 4
+[Sat Apr/3]
+  13.00  JK Nõmme Kalju           0-1 (0-1)  JK Narva Trans
+[Sun Apr/4]
+  15.00  Tulevik Viljandi         0-4 (0-2)  FCI Levadia
+[Fri Jun/25]
+  18.00  JK Tammeka               0-2 (0-1)  Paide Linnameeskond
+[Thu Jul/1]
+  20.30  Pärnu JK Vaprus          1-4 (0-3)  Tallinna JK Legion
+[Sun Oct/24]
+  15.00  FC Flora                 2-2 (1-0)  FC Kuressaare
+
+
+Matchday 5
+[Wed Apr/7]
+  17.30  FC Kuressaare            0-2 (0-1)  JK Nõmme Kalju
+  19.30  JK Narva Trans           0-0  Tallinna JK Legion
+[Fri Jun/25]
+  18.00  Tulevik Viljandi         3-1 (1-1)  Pärnu JK Vaprus
+[Thu Jul/1]
+  18.00  FCI Levadia              2-1 (2-0)  JK Tammeka
+[Sat Jul/31]
+  19.00  Paide Linnameeskond      0-0  FC Flora
+
+
+Matchday 6
+[Sat Apr/10]
+  13.00  Paide Linnameeskond      1-0 (1-0)  FC Kuressaare
+[Sun Apr/11]
+  13.00  Pärnu JK Vaprus          1-2 (1-1)  JK Tammeka
+         JK Narva Trans           6-2 (2-1)  Tulevik Viljandi
+  15.00  FCI Levadia              1-0 (0-0)  JK Nõmme Kalju
+  19.00  Tallinna JK Legion       1-2 (1-1)  FC Flora
+
+
+Matchday 7
+[Fri Apr/16]
+  19.00  JK Tammeka               1-1 (0-1)  Tulevik Viljandi
+         Tallinna JK Legion       1-0 (1-0)  FC Kuressaare
+[Sat Apr/17]
+  16.00  FC Flora                 5-0 (4-0)  JK Narva Trans
+[Sun Apr/18]
+  15.00  FCI Levadia              0-4 (0-4)  Paide Linnameeskond
+  19.00  JK Nõmme Kalju           0-1 (0-0)  Pärnu JK Vaprus
+
+
+Matchday 8
+[Tue Apr/20]
+  18.45  Tulevik Viljandi         3-3 (1-1)  FC Flora
+  19.00  JK Tammeka               0-1 (0-0)  Tallinna JK Legion
+[Wed Apr/21]
+  17.30  FC Kuressaare            2-1 (1-0)  Pärnu JK Vaprus
+  19.30  Paide Linnameeskond      2-1 (0-1)  JK Nõmme Kalju
+  20.00  FCI Levadia              3-2 (2-0)  JK Narva Trans
+
+
+Matchday 9
+[Sat Apr/24]
+  16.00  Tallinna JK Legion       2-1 (1-0)  Tulevik Viljandi
+[Sun Apr/25]
+  13.00  Pärnu JK Vaprus          1-3 (1-2)  Paide Linnameeskond
+         JK Narva Trans           2-0 (1-0)  FC Kuressaare
+  15.00  FC Flora                 0-0  FCI Levadia
+  19.00  JK Nõmme Kalju           4-1 (0-0)  JK Tammeka
+
+
+Matchday 10
+[Fri Apr/30]
+  19.00  FC Kuressaare            0-4 (0-1)  FC Flora
+[Sat May/1]
+  16.00  Paide Linnameeskond      1-0 (1-0)  Tallinna JK Legion
+  19.00  Tulevik Viljandi         1-3 (0-1)  JK Nõmme Kalju
+[Sun May/2]
+  15.00  JK Tammeka               1-2 (1-1)  FCI Levadia
+[Sun Jul/4]
+  19.00  Pärnu JK Vaprus          2-1 (2-0)  JK Narva Trans
+
+
+Matchday 11
+[Tue May/4]
+  19.00  FC Kuressaare            2-2 (1-1)  Paide Linnameeskond
+[Wed May/5]
+  17.30  FCI Levadia              4-1 (2-0)  Tulevik Viljandi
+  19.00  JK Narva Trans           2-1 (0-1)  JK Tammeka
+  19.30  JK Nõmme Kalju           1-2 (0-1)  FC Flora
+[Tue May/11]
+  18.00  Tallinna JK Legion       7-1 (2-0)  Pärnu JK Vaprus
+
+
+Matchday 12
+[Sat May/8]
+  13.00  FC Flora                 2-1 (1-0)  Tallinna JK Legion
+  16.00  JK Tammeka               0-1 (0-0)  FC Kuressaare
+  19.00  JK Narva Trans           1-2 (0-2)  JK Nõmme Kalju
+[Sun May/9]
+  15.00  Paide Linnameeskond      1-2 (1-1)  FCI Levadia
+[Mon Jun/21]
+  17.00  Pärnu JK Vaprus          -  Tulevik Viljandi         [cancelled]
+
+
+Matchday 13
+[Sat May/15]
+  13.00  Tulevik Viljandi         1-2 (0-0)  FC Kuressaare
+         Pärnu JK Vaprus          0-4 (0-1)  FCI Levadia
+  16.00  Tallinna JK Legion       3-0 (0-0)  JK Narva Trans
+[Sun May/16]
+  15.00  JK Nõmme Kalju           0-0  Paide Linnameeskond
+[Wed Oct/27]
+  19.00  FC Flora                 9-0 (3-0)  JK Tammeka
+
+
+Matchday 14
+[Tue May/18]
+  18.00  FC Kuressaare            1-2 (0-0)  JK Narva Trans
+[Wed May/19]
+  18.00  Paide Linnameeskond      0-1 (0-0)  Tulevik Viljandi
+  19.00  Pärnu JK Vaprus          1-7 (0-5)  JK Nõmme Kalju
+  20.00  FCI Levadia              2-4 (0-3)  FC Flora
+[Sun Jul/4]
+  15.00  JK Tammeka               0-2 (0-0)  Tallinna JK Legion
+
+
+Matchday 15
+[Tue May/25]
+  19.00  Tulevik Viljandi         1-0 (0-0)  Tallinna JK Legion
+         Paide Linnameeskond      2-1 (1-1)  Pärnu JK Vaprus
+[Wed May/26]
+  18.00  JK Tammeka               2-2 (2-1)  JK Nõmme Kalju
+  19.00  FC Kuressaare            2-3 (0-2)  FCI Levadia
+  20.00  JK Narva Trans           0-2 (0-1)  FC Flora
+
+
+Matchday 16
+[Sat May/29]
+  13.00  JK Narva Trans           0-1 (0-0)  Paide Linnameeskond
+  16.00  FC Flora                 3-0 (1-0)  Tulevik Viljandi
+  19.00  Tallinna JK Legion       2-3 (0-2)  FCI Levadia
+[Sun May/30]
+  15.00  JK Tammeka               2-2 (0-1)  Pärnu JK Vaprus
+  19.00  JK Nõmme Kalju           2-0 (0-0)  FC Kuressaare
+
+
+Matchday 17
+[Fri Jul/16]
+  19.30  Pärnu JK Vaprus          0-4 (0-3)  FC Flora
+[Sat Jul/17]
+  16.00  Tulevik Viljandi         0-1 (0-1)  JK Narva Trans
+  19.00  FC Kuressaare            1-1 (1-1)  Tallinna JK Legion
+[Sun Jul/18]
+  15.00  FCI Levadia              4-1 (2-0)  JK Nõmme Kalju
+  19.00  Paide Linnameeskond      1-1 (1-1)  JK Tammeka
+
+
+Matchday 18
+[Wed Jun/30]
+  20.00  FC Flora                 3-3 (2-0)  Paide Linnameeskond
+[Fri Jul/30]
+  19.30  Pärnu JK Vaprus          2-1 (1-1)  FC Kuressaare
+[Sat Jul/31]
+  13.00  Tulevik Viljandi         5-3 (3-1)  JK Tammeka
+[Sun Aug/1]
+  15.00  JK Nõmme Kalju           3-1 (2-0)  Tallinna JK Legion
+  19.00  JK Narva Trans           1-4 (0-3)  FCI Levadia
+
+
+Matchday 19
+[Fri Aug/6]
+  19.30  Tallinna JK Legion       2-1 (0-1)  Pärnu JK Vaprus
+[Sat Aug/7]
+  16.00  FCI Levadia              3-0 (2-0)  FC Kuressaare
+  19.00  Paide Linnameeskond      3-1 (1-0)  Tulevik Viljandi
+[Sun Aug/8]
+  15.00  JK Tammeka               0-3 (0-0)  JK Nõmme Kalju
+[Wed Sep/22]
+  19.00  FC Flora                 5-2 (2-1)  JK Narva Trans
+
+
+Matchday 20
+[Fri Aug/13]
+  20.00  FCI Levadia              4-0 (2-0)  JK Tammeka
+[Sat Aug/14]
+  16.00  Tallinna JK Legion       0-0  JK Narva Trans
+  19.00  FC Kuressaare            1-0 (0-0)  FC Flora
+[Sun Aug/15]
+  15.00  Pärnu JK Vaprus          1-1 (0-0)  Paide Linnameeskond
+  17.00  JK Nõmme Kalju           3-1 (1-1)  Tulevik Viljandi
+
+
+Matchday 21
+[Fri Aug/20]
+  16.00  Tulevik Viljandi         1-0 (1-0)  Pärnu JK Vaprus
+  18.30  Tallinna JK Legion       1-2 (0-1)  Paide Linnameeskond
+[Sat Aug/21]
+  16.00  JK Nõmme Kalju           1-1 (0-0)  JK Narva Trans
+[Sun Aug/22]
+  15.00  FC Kuressaare            2-0 (1-0)  JK Tammeka
+[Wed Dec/1]
+  19.30  FCI Levadia              1-5 (0-3)  FC Flora
+
+
+Matchday 22
+[Fri Aug/27]
+  18.30  Tulevik Viljandi         4-1 (3-0)  JK Tammeka
+[Sat Aug/28]
+  16.00  JK Narva Trans           3-0 (3-0)  Pärnu JK Vaprus
+  18.30  Paide Linnameeskond      4-1 (1-0)  FC Kuressaare
+[Sun Aug/29]
+  15.00  FCI Levadia              2-1 (1-0)  JK Nõmme Kalju
+  19.00  FC Flora                 5-1 (2-1)  Tallinna JK Legion
+
+
+Matchday 23
+[Fri Sep/10]
+  18.00  Tallinna JK Legion       3-1 (2-0)  JK Tammeka
+[Sat Sep/11]
+  13.00  JK Narva Trans           1-0 (0-0)  Tulevik Viljandi
+  16.00  JK Nõmme Kalju           0-3 (0-2)  FC Kuressaare
+[Sun Sep/12]
+  13.00  Pärnu JK Vaprus          0-6 (0-1)  FC Flora
+  15.00  Paide Linnameeskond      0-3 (0-2)  FCI Levadia
+
+
+Matchday 24
+[Sat Sep/18]
+  13.00  Tallinna JK Legion       3-1 (1-1)  Tulevik Viljandi
+  16.00  FC Kuressaare            6-0 (0-0)  Pärnu JK Vaprus
+  19.00  FCI Levadia              3-0 (1-0)  JK Narva Trans
+[Sun Sep/19]
+  15.00  FC Flora                 2-0 (2-0)  JK Nõmme Kalju
+  19.00  JK Tammeka               2-5 (0-5)  Paide Linnameeskond
+
+
+Matchday 25
+[Sat Sep/25]
+  16.00  Tallinna JK Legion       1-2 (1-1)  FCI Levadia
+[Sun Sep/26]
+  13.00  Tulevik Viljandi         2-2 (0-0)  FC Flora
+  15.00  JK Nõmme Kalju           3-2 (1-1)  Paide Linnameeskond
+  16.50  JK Narva Trans           2-2 (0-1)  FC Kuressaare
+[Wed Oct/20]
+  18.00  Pärnu JK Vaprus          1-2 (1-1)  JK Tammeka
+
+
+Matchday 26
+[Sat Oct/2]
+  13.00  Paide Linnameeskond      4-0 (2-0)  JK Narva Trans
+  16.00  JK Nõmme Kalju           2-2 (0-2)  Tallinna JK Legion
+[Sun Oct/3]
+  15.00  FC Kuressaare            1-0 (0-0)  Tulevik Viljandi
+  19.00  FC Flora                 3-0 (2-0)  JK Tammeka
+[Sat Oct/9]
+  16.00  FCI Levadia              5-0 (2-0)  Pärnu JK Vaprus
+
+
+Matchday 27
+[Sat Oct/16]
+  13.00  Pärnu JK Vaprus          1-4 (1-1)  JK Nõmme Kalju
+  16.00  Tulevik Viljandi         3-2 (1-1)  FCI Levadia
+  19.00  JK Tammeka               2-1 (1-1)  JK Narva Trans
+[Sun Oct/17]
+  13.00  FC Kuressaare            0-2 (0-1)  Tallinna JK Legion
+  15.00  Paide Linnameeskond      1-1 (1-0)  FC Flora
+
+
+== Relegation
+
+Matchday 28
+[Sat Oct/30]
+  16.00  Pärnu JK Vaprus          1-2 (1-0)  Tulevik Viljandi
+  19.00  JK Tammeka               1-0 (0-0)  FC Kuressaare
+
+
+Matchday 29
+[Fri Nov/5]
+  19.00  JK Tammeka               2-0 (0-0)  Tulevik Viljandi
+[Sat Nov/6]
+  19.00  Pärnu JK Vaprus          0-4 (0-3)  FC Kuressaare
+
+
+Matchday 30
+[Fri Nov/19]
+  19.00  Tulevik Viljandi         0-2 (0-0)  FC Kuressaare
+[Sun Nov/21]
+  13.00  JK Tammeka               2-3 (1-1)  Pärnu JK Vaprus
+
+
+== Championship
+
+Matchday 28
+[Sat Oct/30]
+  13.00  Paide Linnameeskond      4-0 (2-0)  Tallinna JK Legion
+[Sun Oct/31]
+  13.00  JK Narva Trans           0-2 (0-0)  FC Flora
+  15.00  JK Nõmme Kalju           1-2 (0-0)  FCI Levadia
+
+
+Matchday 29
+[Sat Nov/6]
+  13.00  FCI Levadia              2-2 (1-1)  Tallinna JK Legion
+[Sun Nov/7]
+  13.00  JK Narva Trans           1-5 (0-0)  Paide Linnameeskond
+  15.00  JK Nõmme Kalju           0-1 (0-0)  FC Flora
+
+
+Matchday 30
+[Sat Nov/20]
+  13.00  JK Narva Trans           0-0  JK Nõmme Kalju
+  16.00  Tallinna JK Legion       0-2 (0-1)  FC Flora
+[Sun Nov/21]
+  15.00  FCI Levadia              1-0 (1-0)  Paide Linnameeskond
+
+
+Matchday 31
+[Sat Nov/27]
+  13.00  Tallinna JK Legion       2-2 (2-1)  JK Nõmme Kalju
+[Sun Nov/28]
+  13.00  JK Narva Trans           0-2 (0-0)  FCI Levadia
+  15.00  FC Flora                 3-0 (2-0)  Paide Linnameeskond
+
+
+Matchday 32
+[Sat Dec/4]
+  13.00  Tallinna JK Legion       0-2 (0-0)  JK Narva Trans
+  19.00  Paide Linnameeskond      5-3 (1-2)  JK Nõmme Kalju
+[Sun Dec/5]
+  13.00  FC Flora                 2-2 (1-1)  FCI Levadia

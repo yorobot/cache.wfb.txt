@@ -1,0 +1,672 @@
+= RO 1 2020/21
+
+# Date       Fri Aug/21 2020 - Sun May/30 2021 (282d)
+# Teams      16
+# Matches    317
+# Stages     Regular Season (240)  Relegation (45)  Championship (30)  European Playoff (2)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/21]
+  18.15  Argeș Pitești            2-3 (0-1)  FC Botoşani
+[Sat Aug/22]
+  15.30  FC Viitorul Constanța    1-1 (1-1)  UTA Arad
+  18.00  Sepsi OSK                0-1 (0-0)  CS Universitatea Craiova
+         Astra Giurgiu            0-3 (0-2)  FCSB
+[Sun Aug/23]
+  18.00  Academica Clinceni       1-2 (0-1)  CFR Cluj
+  16.00  FC Politehnica Iași      1-0 (1-0)  Chindia Târgoviște
+[Mon Aug/24]
+  21.00  Dinamo Bucureşti         1-1 (0-1)  FC Hermannstadt
+  18.00  FC Voluntari             2-1 (1-0)  Gaz Metan Mediaş
+
+
+Matchday 2
+[Fri Aug/28]
+  18.00  Gaz Metan Mediaş         2-0 (1-0)  Argeș Pitești
+  21.00  UTA Arad                 0-0  FC Voluntari
+[Sat Aug/29]
+  21.00  CFR Cluj                 0-0  Sepsi OSK
+  18.00  FC Hermannstadt          2-2 (1-0)  Academica Clinceni
+[Sun Aug/30]
+  18.00  CS Universitatea Craiova  2-0 (2-0)  Astra Giurgiu
+  21.00  FCSB                     3-0 (1-0)  FC Viitorul Constanța
+  15.30  FC Botoşani              4-0 (0-0)  FC Politehnica Iași
+[Mon Aug/31]
+  21.00  Chindia Târgoviște       1-0 (1-0)  Dinamo Bucureşti
+
+
+Matchday 3
+[Fri Sep/11]
+  21.00  Dinamo Bucureşti         1-1 (0-1)  FC Botoşani
+  18.00  Argeș Pitești            1-1 (0-1)  UTA Arad
+[Sat Sep/12]
+  15.30  Academica Clinceni       0-0  Chindia Târgoviște
+  18.00  FC Politehnica Iași      1-4 (1-2)  Gaz Metan Mediaş
+  21.00  FC Voluntari             2-1 (1-0)  FCSB
+[Sun Sep/13]
+  21.30  CFR Cluj                 1-0 (0-0)  FC Hermannstadt
+  19.00  Astra Giurgiu            2-2 (1-1)  Sepsi OSK
+[Mon Sep/14]
+  21.00  FC Viitorul Constanța    1-4 (1-1)  CS Universitatea Craiova
+
+
+Matchday 4
+[Fri Sep/18]
+  21.00  Astra Giurgiu            0-2 (0-1)  CFR Cluj
+  18.00  Chindia Târgoviște       1-3 (1-2)  FC Hermannstadt
+[Sat Sep/19]
+  21.45  CS Universitatea Craiova  2-1 (1-0)  FC Voluntari
+  19.00  Sepsi OSK                1-1 (0-1)  FC Viitorul Constanța
+[Sun Sep/20]
+  16.30  FC Botoşani              0-0  Academica Clinceni
+  18.45  UTA Arad                 2-3 (1-1)  FC Politehnica Iași
+  21.30  FCSB                     3-0 (2-0)  Argeș Pitești
+[Mon Sep/21]
+  21.00  Gaz Metan Mediaş         1-3 (0-0)  Dinamo Bucureşti
+
+
+Matchday 5
+[Fri Sep/25]
+  21.00  Argeș Pitești            1-2 (0-2)  CS Universitatea Craiova
+  18.00  FC Voluntari             1-2 (1-0)  Sepsi OSK
+[Sat Sep/26]
+  21.30  FC Viitorul Constanța    4-1 (3-0)  Astra Giurgiu
+  14.45  Academica Clinceni       2-0 (0-0)  Gaz Metan Mediaş
+[Sun Sep/27]
+  21.45  FC Politehnica Iași      5-2 (3-1)  FCSB
+  19.00  CFR Cluj                 0-0  Chindia Târgoviște
+[Mon Sep/28]
+  18.00  FC Hermannstadt          2-1 (1-1)  FC Botoşani
+  21.00  Dinamo Bucureşti         0-1 (0-1)  UTA Arad
+
+
+Matchday 6
+[Fri Oct/2]
+  21.00  CS Universitatea Craiova  1-0 (0-0)  FC Politehnica Iași
+[Sat Oct/3]
+  18.00  Astra Giurgiu            2-3 (0-1)  FC Voluntari
+  21.00  FCSB                     3-2 (2-2)  Dinamo Bucureşti
+  15.30  Sepsi OSK                1-0 (0-0)  Argeș Pitești
+[Sun Oct/4]
+  13.30  FC Botoşani              0-2 (0-0)  Chindia Târgoviște
+  18.30  Gaz Metan Mediaş         1-1 (1-0)  FC Hermannstadt
+  21.30  FC Viitorul Constanța    1-1 (1-0)  CFR Cluj
+[Mon Oct/5]
+  21.00  UTA Arad                 0-0  Academica Clinceni
+
+
+Matchday 7
+[Fri Oct/16]
+  21.00  Argeș Pitești            1-0 (0-0)  Astra Giurgiu
+[Sat Oct/17]
+  14.00  Chindia Târgoviște       1-0 (0-0)  Gaz Metan Mediaş
+  16.30  FC Politehnica Iași      1-4 (0-3)  Sepsi OSK
+  21.30  CFR Cluj                 2-1 (1-1)  FC Botoşani
+[Sun Oct/18]
+  21.30  Dinamo Bucureşti         0-1 (0-1)  CS Universitatea Craiova
+  18.45  FC Hermannstadt          1-1 (1-0)  UTA Arad
+[Mon Oct/19]
+  21.00  Academica Clinceni       0-2 (0-0)  FCSB
+  18.00  FC Voluntari             0-2 (0-0)  FC Viitorul Constanța
+
+
+Matchday 8
+[Fri Oct/23]
+  21.00  CS Universitatea Craiova  0-1 (0-0)  Academica Clinceni
+  18.00  Gaz Metan Mediaş         1-2 (0-1)  FC Botoşani
+[Sat Oct/24]
+  14.00  UTA Arad                 1-0 (0-0)  Chindia Târgoviște
+  19.30  Astra Giurgiu            4-0 (0-0)  FC Politehnica Iași
+  21.45  Sepsi OSK                2-0 (1-0)  Dinamo Bucureşti
+[Sun Oct/25]
+  21.30  FC Voluntari             0-1 (0-0)  CFR Cluj
+  18.45  FC Viitorul Constanța    2-2 (0-1)  Argeș Pitești
+[Mon Oct/26]
+  21.00  FCSB                     5-0 (4-0)  FC Hermannstadt
+
+
+Matchday 9
+[Fri Oct/30]
+  18.00  Argeș Pitești            2-1 (1-0)  FC Voluntari
+[Sat Oct/31]
+  19.15  FC Botoşani              2-3 (2-1)  UTA Arad
+  21.45  FC Hermannstadt          0-1 (0-1)  CS Universitatea Craiova
+  12.30  Academica Clinceni       2-0 (2-0)  Sepsi OSK
+[Sun Nov/1]
+  18.00  FC Politehnica Iași      0-3  FC Viitorul Constanța    [awarded]
+  21.00  CFR Cluj                 1-2 (0-1)  Gaz Metan Mediaş
+[Mon Nov/2]
+  21.00  Chindia Târgoviște       0-2 (0-1)  FCSB
+
+
+Matchday 10
+[Fri Nov/6]
+  17.00  Astra Giurgiu            0-2 (0-0)  Academica Clinceni
+  21.30  CS Universitatea Craiova  0-1 (0-1)  Chindia Târgoviște
+[Sat Nov/7]
+  14.30  FC Voluntari             4-0 (2-0)  FC Politehnica Iași
+  17.00  Sepsi OSK                1-1 (0-0)  FC Hermannstadt
+  21.45  FCSB                     4-1 (1-1)  FC Botoşani
+[Sun Nov/8]
+  21.00  FC Viitorul Constanța    2-1 (0-0)  Dinamo Bucureşti
+  18.00  Argeș Pitești            0-2 (0-2)  CFR Cluj
+[Mon Nov/9]
+  20.30  UTA Arad                 1-3 (1-2)  Gaz Metan Mediaş
+
+
+Matchday 9
+[Sat Nov/14]
+  21.00  Dinamo Bucureşti         1-1 (0-0)  Astra Giurgiu
+
+
+Matchday 11
+[Fri Nov/20]
+  20.30  Dinamo Bucureşti         3-0 (0-0)  FC Voluntari
+  17.30  FC Politehnica Iași      1-1 (1-0)  Argeș Pitești
+[Sat Nov/21]
+  19.30  FC Botoşani              0-0  CS Universitatea Craiova
+  13.00  Academica Clinceni       1-0 (1-0)  FC Viitorul Constanța
+[Sun Nov/22]
+  20.00  CFR Cluj                 0-1 (0-0)  UTA Arad
+  17.00  FC Hermannstadt          0-1 (0-0)  Astra Giurgiu
+[Mon Nov/23]
+  18.00  Chindia Târgoviște       1-2 (1-0)  Sepsi OSK
+  21.00  Gaz Metan Mediaş         2-3 (1-2)  FCSB
+
+
+Matchday 12
+[Fri Dec/4]
+  20.30  Argeș Pitești            0-1 (0-1)  Dinamo Bucureşti
+  17.15  FC Voluntari             3-3 (2-2)  Academica Clinceni
+[Sat Dec/5]
+  21.30  FCSB                     3-0 (0-0)  UTA Arad
+  14.30  Sepsi OSK                2-2 (0-1)  FC Botoşani
+[Sun Dec/6]
+  18.30  FC Politehnica Iași      0-2 (0-1)  CFR Cluj
+[Mon Dec/7]
+  19.00  CS Universitatea Craiova  3-1 (2-0)  Gaz Metan Mediaş
+  16.45  Astra Giurgiu            0-0  Chindia Târgoviște
+
+
+Matchday 13
+[Fri Dec/11]
+  20.30  Dinamo Bucureşti         4-1 (1-1)  FC Politehnica Iași
+  18.00  FC Botoşani              1-1 (0-0)  Astra Giurgiu
+[Sat Dec/12]
+  17.00  Gaz Metan Mediaş         0-3 (0-2)  Sepsi OSK
+  19.30  Chindia Târgoviște       1-1 (0-1)  FC Viitorul Constanța
+[Sun Dec/13]
+  11.30  Academica Clinceni       1-0 (0-0)  Argeș Pitești
+  18.15  FC Hermannstadt          3-2 (1-2)  FC Voluntari
+  21.00  CFR Cluj                 2-0 (1-0)  FCSB
+[Mon Dec/14]
+  19.00  UTA Arad                 1-2 (1-2)  CS Universitatea Craiova
+
+
+Matchday 14
+[Tue Dec/15]
+  18.45  Astra Giurgiu            3-0 (3-0)  Gaz Metan Mediaş
+  21.00  FC Viitorul Constanța    1-2 (0-1)  FC Botoşani
+[Wed Dec/16]
+  17.00  Argeș Pitești            2-2 (0-1)  FC Hermannstadt
+  15.00  FC Politehnica Iași      0-0  Academica Clinceni
+  19.30  FC Voluntari             0-2 (0-0)  Chindia Târgoviște
+[Thu Dec/17]
+  17.30  Sepsi OSK                3-0 (1-0)  UTA Arad
+  20.30  Dinamo Bucureşti         0-2 (0-2)  CFR Cluj
+[Fri Dec/18]
+  20.30  CS Universitatea Craiova  0-2 (0-1)  FCSB
+
+
+Matchday 15
+[Sat Dec/19]
+  15.00  Chindia Târgoviște       2-2 (2-1)  Argeș Pitești
+  20.30  Gaz Metan Mediaş         1-0 (0-0)  FC Viitorul Constanța
+[Sun Dec/20]
+  21.00  Academica Clinceni       1-1 (0-0)  Dinamo Bucureşti
+  14.00  FC Hermannstadt          0-1 (0-0)  FC Politehnica Iași
+  16.30  FC Botoşani              1-1 (0-0)  FC Voluntari
+[Mon Dec/21]
+  20.30  FCSB                     1-1 (1-1)  Sepsi OSK
+  17.30  UTA Arad                 0-6 (0-2)  Astra Giurgiu
+[Tue Dec/22]
+  21.00  CFR Cluj                 0-0  CS Universitatea Craiova
+
+
+Matchday 12
+[Sun Jan/10]
+  19.00  FC Viitorul Constanța    2-1 (1-1)  FC Hermannstadt
+
+
+Matchday 16
+[Tue Jan/12]
+  19.45  CS Universitatea Craiova  0-0  Sepsi OSK
+  17.00  Gaz Metan Mediaş         2-0 (0-0)  FC Voluntari
+[Wed Jan/13]
+  19.00  FC Hermannstadt          0-2 (0-2)  Dinamo Bucureşti
+  17.00  Chindia Târgoviște       1-1 (1-0)  FC Politehnica Iași
+[Thu Jan/14]
+  20.00  CFR Cluj                 3-1 (1-0)  Academica Clinceni
+  17.00  FC Botoşani              0-1 (0-0)  Argeș Pitești
+[Fri Jan/15]
+  17.00  UTA Arad                 0-0  FC Viitorul Constanța
+  20.00  FCSB                     3-0 (0-0)  Astra Giurgiu
+
+
+Matchday 17
+[Sat Jan/16]
+  20.00  Dinamo Bucureşti         0-1 (0-0)  Chindia Târgoviște
+[Sun Jan/17]
+  16.45  Sepsi OSK                0-1 (0-0)  CFR Cluj
+  19.00  Academica Clinceni       0-0  FC Hermannstadt
+  14.30  Argeș Pitești            1-1 (1-0)  Gaz Metan Mediaş
+[Mon Jan/18]
+  20.00  Astra Giurgiu            1-1 (1-1)  CS Universitatea Craiova
+  17.00  FC Politehnica Iași      0-1 (0-0)  FC Botoşani
+[Tue Jan/19]
+  20.00  FC Viitorul Constanța    2-2 (1-0)  FCSB
+  17.00  FC Voluntari             0-1 (0-0)  UTA Arad
+
+
+Matchday 18
+[Fri Jan/22]
+  17.00  Chindia Târgoviște       2-1 (2-0)  Academica Clinceni
+  20.00  FCSB                     2-1 (1-0)  FC Voluntari
+[Sat Jan/23]
+  16.30  UTA Arad                 1-2 (0-0)  Argeș Pitești
+  21.00  CS Universitatea Craiova  1-1 (1-0)  FC Viitorul Constanța
+  12.30  Sepsi OSK                4-1 (3-0)  Astra Giurgiu
+[Sun Jan/24]
+  18.00  Gaz Metan Mediaş         2-1 (2-0)  FC Politehnica Iași
+  20.00  FC Botoşani              4-0 (3-0)  Dinamo Bucureşti
+[Mon Jan/25]
+  20.30  FC Hermannstadt          1-3 (1-1)  CFR Cluj
+
+
+Matchday 19
+[Tue Jan/26]
+  17.30  FC Voluntari             1-1 (1-1)  CS Universitatea Craiova
+  19.45  Argeș Pitești            0-0  FCSB
+  15.30  FC Viitorul Constanța    3-3 (2-1)  Sepsi OSK
+[Wed Jan/27]
+  14.30  Academica Clinceni       2-1 (1-1)  FC Botoşani
+  17.30  FC Politehnica Iași      1-2 (1-0)  UTA Arad
+  20.00  Dinamo Bucureşti         2-1 (2-1)  Gaz Metan Mediaş
+[Thu Jan/28]
+  20.00  CFR Cluj                 1-1 (0-1)  Astra Giurgiu
+  17.00  FC Hermannstadt          1-1 (1-0)  Chindia Târgoviște
+
+
+Matchday 20
+[Fri Jan/29]
+  20.00  CS Universitatea Craiova  1-1 (0-0)  Argeș Pitești
+[Sat Jan/30]
+  14.15  Sepsi OSK                2-2 (2-0)  FC Voluntari
+  20.15  FCSB                     3-1 (1-0)  FC Politehnica Iași
+  12.15  Gaz Metan Mediaş         1-1 (0-0)  Academica Clinceni
+[Sun Jan/31]
+  12.00  FC Botoşani              1-0 (1-0)  FC Hermannstadt
+  14.00  Astra Giurgiu            1-1 (0-1)  FC Viitorul Constanța
+  20.45  UTA Arad                 0-1 (0-1)  Dinamo Bucureşti
+[Mon Feb/1]
+  20.00  Chindia Târgoviște       0-1 (0-0)  CFR Cluj
+
+
+Matchday 21
+[Tue Feb/2]
+  20.00  FC Politehnica Iași      0-3 (0-2)  CS Universitatea Craiova
+[Wed Feb/3]
+  17.30  FC Voluntari             1-3 (0-2)  Astra Giurgiu
+  20.45  Dinamo Bucureşti         0-1 (0-1)  FCSB
+  15.00  FC Hermannstadt          1-1 (0-0)  Gaz Metan Mediaş
+[Thu Feb/4]
+  17.30  Chindia Târgoviște       2-3 (2-2)  FC Botoşani
+  20.00  CFR Cluj                 2-1 (1-0)  FC Viitorul Constanța
+  13.30  Academica Clinceni       0-3 (0-1)  UTA Arad
+
+
+Matchday 22
+[Fri Feb/5]
+  20.30  Sepsi OSK                3-3 (3-1)  FC Politehnica Iași
+[Sat Feb/6]
+  14.00  Astra Giurgiu            0-2 (0-0)  Argeș Pitești
+  21.00  CS Universitatea Craiova  1-0 (1-0)  Dinamo Bucureşti
+[Sun Feb/7]
+  13.30  UTA Arad                 1-1 (0-0)  FC Hermannstadt
+  20.30  FCSB                     0-1 (0-0)  Academica Clinceni
+  18.00  Gaz Metan Mediaş         1-0 (1-0)  Chindia Târgoviște
+[Mon Feb/8]
+  17.30  FC Viitorul Constanța    0-1 (0-1)  FC Voluntari
+  20.30  FC Botoşani              2-1 (2-1)  CFR Cluj
+
+
+Matchday 23
+[Fri Feb/12]
+  20.00  Argeș Pitești            1-0 (0-0)  FC Viitorul Constanța
+[Sat Feb/13]
+  21.00  Dinamo Bucureşti         0-0  Sepsi OSK
+  14.30  Chindia Târgoviște       1-1 (1-0)  UTA Arad
+[Sun Feb/14]
+  12.15  FC Politehnica Iași      2-3 (1-3)  Astra Giurgiu
+  14.30  Academica Clinceni       0-0  CS Universitatea Craiova
+  19.45  FC Hermannstadt          1-0 (1-0)  FCSB
+[Mon Feb/15]
+  17.30  FC Botoşani              2-1 (0-0)  Gaz Metan Mediaş
+  20.30  CFR Cluj                 0-0  FC Voluntari
+
+
+Matchday 21
+[Tue Feb/16]
+  19.00  Argeș Pitești            1-1 (0-1)  Sepsi OSK
+
+
+Matchday 24
+[Fri Feb/19]
+  20.30  CS Universitatea Craiova  1-0 (1-0)  FC Hermannstadt
+  17.30  FC Voluntari             0-1 (0-1)  Argeș Pitești
+[Sat Feb/20]
+  20.00  FCSB                     1-0 (1-0)  Chindia Târgoviște
+  17.00  Sepsi OSK                0-0  Academica Clinceni
+[Sun Feb/21]
+  18.00  Gaz Metan Mediaş         0-1 (0-0)  CFR Cluj
+  20.30  Astra Giurgiu            2-0 (2-0)  Dinamo Bucureşti
+[Mon Feb/22]
+  17.30  UTA Arad                 0-0  FC Botoşani
+
+
+Matchday 25
+[Fri Feb/26]
+  20.30  Dinamo Bucureşti         0-5 (0-3)  FC Viitorul Constanța
+[Sat Feb/27]
+  12.30  Gaz Metan Mediaş         1-2 (0-1)  UTA Arad
+  15.00  Academica Clinceni       1-1 (1-0)  Astra Giurgiu
+  20.00  Chindia Târgoviște       1-0 (0-0)  CS Universitatea Craiova
+[Sun Feb/28]
+  18.00  FC Hermannstadt          1-2 (1-1)  Sepsi OSK
+  20.30  FC Botoşani              0-2 (0-0)  FCSB
+[Mon Mar/1]
+  20.30  CFR Cluj                 5-0 (2-0)  Argeș Pitești
+  17.30  FC Politehnica Iași      0-2 (0-1)  FC Voluntari
+
+
+Matchday 26
+[Fri Mar/5]
+  17.30  Sepsi OSK                0-1 (0-0)  Chindia Târgoviște
+  20.30  FC Viitorul Constanța    1-1 (0-1)  Academica Clinceni
+[Sat Mar/6]
+  14.30  CS Universitatea Craiova  1-0 (1-0)  FC Botoşani
+  21.30  UTA Arad                 0-1 (0-0)  CFR Cluj
+[Sun Mar/7]
+  15.00  Astra Giurgiu            2-1 (1-1)  FC Hermannstadt
+  20.30  FCSB                     1-0 (0-0)  Gaz Metan Mediaş
+[Mon Mar/8]
+  17.30  Argeș Pitești            2-1 (1-0)  FC Politehnica Iași
+  20.30  FC Voluntari             1-1 (0-1)  Dinamo Bucureşti
+
+
+Matchday 27
+[Fri Mar/12]
+  20.30  Gaz Metan Mediaş         0-2 (0-0)  CS Universitatea Craiova
+[Sat Mar/13]
+  12.00  Academica Clinceni       0-1 (0-1)  FC Voluntari
+  14.30  FC Hermannstadt          0-0  FC Viitorul Constanța
+  20.00  UTA Arad                 0-1 (0-1)  FCSB
+[Sun Mar/14]
+  18.45  Chindia Târgoviște       0-1 (0-0)  Astra Giurgiu
+  20.45  CFR Cluj                 4-0 (2-0)  FC Politehnica Iași
+[Mon Mar/15]
+  20.30  Dinamo Bucureşti         1-2 (0-1)  Argeș Pitești
+  17.30  FC Botoşani              1-2 (0-1)  Sepsi OSK
+
+
+Matchday 28
+[Tue Mar/16]
+  19.00  CS Universitatea Craiova  2-0 (0-0)  UTA Arad
+[Wed Mar/17]
+  17.30  FC Viitorul Constanța    0-0  Chindia Târgoviște
+[Thu Mar/18]
+  17.00  Astra Giurgiu            1-1 (0-1)  FC Botoşani
+[Fri Mar/19]
+  17.30  FC Voluntari             1-0 (0-0)  FC Hermannstadt
+  20.30  FCSB                     3-0 (0-0)  CFR Cluj
+[Sat Mar/20]
+  19.15  Argeș Pitești            1-1 (0-0)  Academica Clinceni
+  21.30  FC Politehnica Iași      1-0 (0-0)  Dinamo Bucureşti
+[Sun Mar/21]
+  16.00  Sepsi OSK                1-1 (1-0)  Gaz Metan Mediaş
+
+
+Matchday 29
+[Fri Apr/2]
+  20.30  Gaz Metan Mediaş         0-0  Astra Giurgiu
+  17.30  Academica Clinceni       2-1 (0-1)  FC Politehnica Iași
+[Sat Apr/3]
+  15.00  FC Hermannstadt          4-1 (1-1)  Argeș Pitești
+[Sun Apr/4]
+  15.00  FC Botoşani              1-0 (0-0)  FC Viitorul Constanța
+  17.30  UTA Arad                 2-0 (1-0)  Sepsi OSK
+  20.30  FCSB                     0-0  CS Universitatea Craiova
+[Mon Apr/5]
+  20.30  CFR Cluj                 1-0 (0-0)  Dinamo Bucureşti
+  17.30  Chindia Târgoviște       1-0 (1-0)  FC Voluntari
+
+
+Matchday 24
+[Thu Apr/8]
+  19.00  FC Viitorul Constanța    1-2 (0-0)  FC Politehnica Iași
+
+
+Matchday 30
+[Fri Apr/9]
+  20.30  Dinamo Bucureşti         1-3 (0-3)  Academica Clinceni
+         Argeș Pitești            3-1 (0-1)  Chindia Târgoviște
+         FC Voluntari             1-1 (0-1)  FC Botoşani
+  17.30  Astra Giurgiu            0-0  UTA Arad
+[Sat Apr/10]
+  19.00  Sepsi OSK                1-1 (0-1)  FCSB
+[Sun Apr/11]
+  21.30  CS Universitatea Craiova  0-0  CFR Cluj
+[Mon Apr/12]
+  17.30  FC Politehnica Iași      1-0 (1-0)  FC Hermannstadt
+  20.30  FC Viitorul Constanța    0-2 (0-2)  Gaz Metan Mediaş
+
+
+== Relegation
+
+Matchday 1
+[Fri Apr/16]
+  20.30  Astra Giurgiu            0-0  Dinamo Bucureşti
+  17.30  UTA Arad                 1-0 (0-0)  FC Viitorul Constanța
+[Sat Apr/17]
+  15.00  Chindia Târgoviște       2-0 (1-0)  FC Hermannstadt
+  17.30  Gaz Metan Mediaş         1-1 (1-1)  FC Voluntari
+[Sun Apr/18]
+  13.30  Argeș Pitești            0-0  FC Politehnica Iași
+
+
+Matchday 2
+[Tue Apr/20]
+  21.30  Dinamo Bucureşti         0-1 (0-1)  UTA Arad
+  16.45  FC Hermannstadt          1-3 (0-0)  Astra Giurgiu
+  19.00  FC Viitorul Constanța    1-0 (0-0)  Gaz Metan Mediaş
+[Wed Apr/21]
+  16.45  Argeș Pitești            0-1 (0-0)  Chindia Târgoviște
+[Thu Apr/22]
+  17.30  FC Politehnica Iași      0-1 (0-1)  FC Voluntari
+
+
+Matchday 3
+[Fri Apr/23]
+  17.30  UTA Arad                 0-1 (0-0)  FC Hermannstadt
+  20.30  Gaz Metan Mediaş         4-1 (3-1)  Dinamo Bucureşti
+[Sat Apr/24]
+  17.30  Astra Giurgiu            0-1 (0-0)  Argeș Pitești
+[Sun Apr/25]
+  15.00  Chindia Târgoviște       2-0 (1-0)  FC Politehnica Iași
+[Mon Apr/26]
+  20.30  FC Voluntari             1-0 (1-0)  FC Viitorul Constanța
+
+
+Matchday 4
+[Tue Apr/27]
+  19.00  Argeș Pitești            4-1 (2-1)  UTA Arad
+  16.30  FC Hermannstadt          1-2 (1-2)  Gaz Metan Mediaş
+[Wed Apr/28]
+  14.00  Chindia Târgoviște       0-0  Astra Giurgiu
+[Thu Apr/29]
+  14.30  FC Politehnica Iași      0-3 (0-2)  FC Viitorul Constanța
+  17.00  Dinamo Bucureşti         2-0 (0-0)  FC Voluntari
+
+
+Matchday 5
+[Fri Apr/30]
+  17.30  Gaz Metan Mediaş         1-1 (1-0)  Argeș Pitești
+[Sat May/1]
+  15.00  UTA Arad                 0-1 (0-0)  Chindia Târgoviște
+[Sun May/2]
+  16.00  FC Voluntari             0-1 (0-1)  FC Hermannstadt
+  18.30  FC Viitorul Constanța    1-2 (0-0)  Dinamo Bucureşti
+  13.30  Astra Giurgiu            1-2 (0-2)  FC Politehnica Iași
+
+
+Matchday 6
+[Tue May/4]
+  19.00  Chindia Târgoviște       1-1 (0-0)  Gaz Metan Mediaş
+[Wed May/5]
+  12.00  Astra Giurgiu            1-2 (0-1)  UTA Arad
+  14.15  FC Hermannstadt          0-0  FC Viitorul Constanța
+  16.30  FC Politehnica Iași      1-2 (1-1)  Dinamo Bucureşti
+[Thu May/6]
+  14.30  Argeș Pitești            3-0 (1-0)  FC Voluntari
+
+
+Matchday 7
+[Sat May/8]
+  21.15  Dinamo Bucureşti         2-0 (1-0)  FC Hermannstadt
+  13.30  Gaz Metan Mediaş         2-1 (0-0)  Astra Giurgiu
+[Sun May/9]
+  14.00  UTA Arad                 1-2 (0-2)  FC Politehnica Iași
+  16.30  FC Viitorul Constanța    1-0 (0-0)  Argeș Pitești
+[Mon May/10]
+  16.45  FC Voluntari             0-0  Chindia Târgoviște
+
+
+Matchday 8
+[Fri May/14]
+  20.30  Chindia Târgoviște       0-2 (0-0)  FC Viitorul Constanța
+[Sat May/15]
+  16.30  Astra Giurgiu            0-3 (0-1)  FC Voluntari
+  14.00  FC Politehnica Iași      0-1 (0-0)  FC Hermannstadt
+[Sun May/16]
+  16.30  Argeș Pitești            1-2 (0-1)  Dinamo Bucureşti
+  14.00  UTA Arad                 1-0 (0-0)  Gaz Metan Mediaş
+
+
+Matchday 9
+[Wed May/19]
+  18.30  Gaz Metan Mediaş         4-2 (3-0)  FC Politehnica Iași
+         Dinamo Bucureşti         0-0  Chindia Târgoviște
+         FC Hermannstadt          1-0 (0-0)  Argeș Pitești
+         FC Viitorul Constanța    1-0 (0-0)  Astra Giurgiu
+         FC Voluntari             0-0  UTA Arad
+
+
+== Championship
+
+Matchday 1
+[Sat Apr/17]
+  20.30  CS Universitatea Craiova  0-0  Sepsi OSK
+[Sun Apr/18]
+  21.00  FCSB                     2-1 (0-1)  FC Botoşani
+  18.30  CFR Cluj                 3-0 (0-0)  Academica Clinceni
+
+
+Matchday 2
+[Wed Apr/21]
+  21.30  Sepsi OSK                0-1 (0-1)  CFR Cluj
+  19.00  FC Botoşani              1-1 (1-0)  CS Universitatea Craiova
+[Thu Apr/22]
+  20.15  Academica Clinceni       0-2 (0-1)  FCSB
+
+
+Matchday 3
+[Sat Apr/24]
+  20.30  CFR Cluj                 1-2 (0-1)  CS Universitatea Craiova
+[Sun Apr/25]
+  21.30  FCSB                     1-2 (0-1)  Sepsi OSK
+  19.15  FC Botoşani              2-1 (1-0)  Academica Clinceni
+
+
+Matchday 4
+[Wed Apr/28]
+  19.00  CFR Cluj                 2-0 (2-0)  FC Botoşani
+  16.30  Sepsi OSK                1-0 (1-0)  Academica Clinceni
+[Thu Apr/29]
+  19.45  CS Universitatea Craiova  2-0 (1-0)  FCSB
+
+
+Matchday 5
+[Sat May/1]
+  17.30  FC Botoşani              2-1 (1-0)  Sepsi OSK
+[Sun May/2]
+  21.00  Academica Clinceni       1-0 (0-0)  CS Universitatea Craiova
+[Mon May/3]
+  20.30  FCSB                     1-1 (1-0)  CFR Cluj
+
+
+Matchday 6
+[Wed May/5]
+  19.00  Sepsi OSK                2-0 (1-0)  CS Universitatea Craiova
+[Thu May/6]
+  17.00  Academica Clinceni       0-1 (0-1)  CFR Cluj
+  19.45  FC Botoşani              1-3 (1-2)  FCSB
+
+
+Matchday 7
+[Sun May/9]
+  19.00  CS Universitatea Craiova  2-3 (1-2)  FC Botoşani
+[Mon May/10]
+  19.00  CFR Cluj                 0-1 (0-1)  Sepsi OSK
+  21.30  FCSB                     2-2 (1-2)  Academica Clinceni
+
+
+Matchday 8
+[Fri May/14]
+  17.30  Academica Clinceni       4-3 (1-3)  FC Botoşani
+[Sat May/15]
+  21.30  CS Universitatea Craiova  1-3 (1-1)  CFR Cluj
+[Sun May/16]
+  22.00  Sepsi OSK                2-2 (0-0)  FCSB
+
+
+Matchday 9
+[Tue May/18]
+  20.30  FC Botoşani              0-1 (0-0)  CFR Cluj
+[Wed May/19]
+  21.30  FCSB                     0-1 (0-0)  CS Universitatea Craiova
+[Thu May/20]
+  20.30  Academica Clinceni       2-1 (1-1)  Sepsi OSK
+
+
+Matchday 10
+[Tue May/25]
+  20.30  CFR Cluj                 2-0 (1-0)  FCSB
+[Wed May/26]
+  18.30  CS Universitatea Craiova  0-0  Academica Clinceni
+[Thu May/27]
+  17.30  Sepsi OSK                1-0 (0-0)  FC Botoşani
+
+
+== European Playoff
+
+Round 1
+[Thu May/27]
+  20.30  Chindia Târgoviște       2-3 (1-1)  FC Viitorul Constanța
+
+
+Final
+[Sun May/30]
+  20.30  Sepsi OSK                1-0 (1-0)  FC Viitorul Constanța

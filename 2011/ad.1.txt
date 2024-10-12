@@ -1,0 +1,82 @@
+= AD 1 2011
+
+# Date       Sun Feb/6 - Sun Mar/20 2011 (42d)
+# Teams      8
+# Matches    24
+# Stages     Relegation (12)  Playoff (12)
+
+
+== Relegation
+
+Matchday 1
+[Sun Feb/6]
+  16.00  FC Encamp                0-1  CE Principat
+  18.00  Casa Estrella del Benfica  0-5  Inter Club d'Escaldes
+
+
+Matchday 2
+[Sun Feb/13]
+  18.00  Casa Estrella del Benfica  2-3  FC Encamp
+  12.00  Inter Club d'Escaldes    0-0  CE Principat
+
+
+Matchday 3
+[Sun Feb/20]
+  12.00  Inter Club d'Escaldes    1-2  FC Encamp
+  18.00  CE Principat             4-1  Casa Estrella del Benfica
+
+
+Matchday 4
+[Sun Feb/27]
+  12.00  Inter Club d'Escaldes    1-1  Casa Estrella del Benfica
+  18.00  CE Principat             8-0  FC Encamp
+
+
+Matchday 5
+[Sun Mar/6]
+  16.00  FC Encamp                4-1  Casa Estrella del Benfica
+         CE Principat             4-1  Inter Club d'Escaldes
+
+
+Matchday 6
+[Sun Mar/20]
+  16.00  Casa Estrella del Benfica  0-13  CE Principat
+         FC Encamp                1-3  Inter Club d'Escaldes
+
+
+== Playoff
+
+Matchday 1
+[Sun Feb/6]
+  12.00  UE Sant Julià            3-1  UE Santa Coloma
+         FC Lusitanos             1-1  FC Santa Coloma
+
+
+Matchday 2
+[Sun Feb/13]
+  16.00  FC Lusitanos             1-1  UE Sant Julià
+  12.00  FC Santa Coloma          1-0  UE Santa Coloma
+
+
+Matchday 3
+[Sun Feb/20]
+  12.00  UE Santa Coloma          2-1  FC Lusitanos
+  16.00  FC Santa Coloma          1-0  UE Sant Julià
+
+
+Matchday 4
+[Sun Feb/27]
+  12.00  UE Santa Coloma          0-2  UE Sant Julià
+  16.00  FC Santa Coloma          3-2  FC Lusitanos
+
+
+Matchday 5
+[Sun Mar/6]
+  12.00  UE Sant Julià            1-1  FC Lusitanos
+         UE Santa Coloma          0-1  FC Santa Coloma
+
+
+Matchday 6
+[Sun Mar/20]
+  12.00  FC Lusitanos             3-0  UE Santa Coloma
+         UE Sant Julià            1-1  FC Santa Coloma

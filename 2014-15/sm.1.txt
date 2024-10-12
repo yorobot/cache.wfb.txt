@@ -1,0 +1,277 @@
+= SM 1 2014/15
+
+# Date       Fri Sep/12 2014 - Sun Apr/19 2015 (219d)
+# Teams      15
+# Matches    154
+
+
+
+Matchday 1
+[Fri Sep/12]
+  21.15  FC Domagnano             1-3  SS Folgore/Falciano
+[Sat Sep/13]
+  15.00  AC Juvenes/Dogana        0-0  SC Faetano
+         FC Fiorentino            2-1  SS San Giovanni
+         SS Murata                1-3  SP Tre Fiori
+[Sun Sep/14]
+  15.00  SP La Fiorita            3-3  SP Tre Penne
+         SP Cailungo              1-4  SS Virtus
+         SS Pennarossa            1-1  AC Libertas
+
+
+Matchday 2
+[Fri Sep/19]
+  21.15  SP Tre Penne             2-1  SS Pennarossa
+[Sat Sep/20]
+  15.00  AC Libertas              1-4  SS Folgore/Falciano
+         SS San Giovanni          1-4  SP La Fiorita
+         SS Virtus                0-0  SP Tre Fiori
+[Sun Sep/21]
+  15.00  SC Faetano               0-2  SS Murata
+         FC Fiorentino            1-2  FC Domagnano
+         SS Cosmos                0-3  AC Juvenes/Dogana
+
+
+Matchday 3
+[Fri Sep/26]
+  21.15  SS Murata                5-2  SS Cosmos
+[Sat Sep/27]
+  15.00  AC Libertas              4-2  SS San Giovanni
+         SP La Fiorita            1-2  FC Fiorentino
+         FC Domagnano             1-1  SP Tre Penne
+[Sun Sep/28]
+  15.00  SP Tre Fiori             2-0  SC Faetano
+         SS Folgore/Falciano      3-1  SS Pennarossa
+         AC Juvenes/Dogana        3-0  SP Cailungo
+
+
+Matchday 4
+[Fri Oct/3]
+  21.15  FC Domagnano             0-1  SP La Fiorita
+[Sat Oct/4]
+  15.00  FC Fiorentino            0-0  AC Libertas
+         SC Faetano               1-2  SS Virtus
+         SS San Giovanni          1-3  SS Pennarossa
+[Sun Oct/5]
+  15.00  SP Tre Penne             0-1  SS Folgore/Falciano
+         SP Cailungo              1-1  SS Cosmos
+         AC Juvenes/Dogana        2-2  SS Murata
+
+
+Matchday 5
+[Fri Oct/17]
+  21.15  AC Libertas              1-0  SP La Fiorita
+[Sat Oct/18]
+  15.00  SS Pennarossa            0-1  FC Domagnano
+         SS Murata                1-5  SP Cailungo
+         SS Cosmos                2-3  SS Virtus
+[Sun Oct/19]
+  15.00  SP Tre Penne             0-2  FC Fiorentino
+         SS Folgore/Falciano      0-0  SS San Giovanni
+         SP Tre Fiori             0-1  AC Juvenes/Dogana
+
+
+Matchday 6
+[Sat Oct/25]
+  15.00  SP Tre Fiori             3-1  SP Cailungo
+         SC Faetano               1-1  SS Cosmos
+         FC Fiorentino            3-2  SS Folgore/Falciano
+         AC Libertas              1-0  SP Tre Penne
+[Sun Oct/26]
+  15.00  SS Virtus                0-0  SS Murata
+         SS San Giovanni          1-2  FC Domagnano
+         SP La Fiorita            0-2  SS Pennarossa
+
+
+Matchday 7
+[Fri Oct/31]
+  21.15  SS San Giovanni          1-3  SP Tre Penne
+[Sat Nov/1]
+  15.00  SS Folgore/Falciano      2-2  SP La Fiorita
+         SS Virtus                0-3  AC Juvenes/Dogana
+         SS Pennarossa            2-1  FC Fiorentino
+[Sun Nov/2]
+  15.00  SS Cosmos                0-0  SP Tre Fiori
+         FC Domagnano             0-0  AC Libertas
+         SP Cailungo              1-2  SC Faetano
+
+
+Matchday 8
+[Fri Nov/7]
+  21.15  SP Tre Fiori             2-4  SS Folgore/Falciano
+[Sat Nov/8]
+  15.00  SP La Fiorita            2-1  AC Juvenes/Dogana
+         SS Virtus                2-1  SS Pennarossa
+         SS Murata                1-1  FC Fiorentino
+[Sun Nov/9]
+  15.00  AC Libertas              1-0  SC Faetano
+         SS Cosmos                1-1  SS San Giovanni
+         SP Cailungo              2-1  SP Tre Penne
+
+
+Matchday 9
+[Sat Nov/22]
+  15.00  SC Faetano               1-2  SS San Giovanni
+         SP Tre Penne             1-0  SS Cosmos
+         SS Pennarossa            2-0  SP Cailungo
+         FC Domagnano             1-0  SP Tre Fiori
+[Sun Nov/23]
+  15.00  SS Murata                1-1  SS Folgore/Falciano
+         FC Fiorentino            1-2  AC Juvenes/Dogana
+         SS Virtus                0-1  SP La Fiorita
+
+
+Matchday 10
+[Sat Nov/29]
+  15.00  SS Cosmos                0-1  FC Fiorentino
+         AC Libertas              0-0  SP Cailungo
+         SP Tre Penne             1-1  SC Faetano
+         SS San Giovanni          1-1  SS Murata
+[Sun Nov/30]
+  15.00  AC Juvenes/Dogana        1-1  SS Pennarossa
+         FC Domagnano             1-1  SS Virtus
+         SP Tre Fiori             2-1  SP La Fiorita
+
+
+Matchday 11
+[Sat Dec/6]
+  15.00  SC Faetano               2-0  FC Domagnano
+         SS Pennarossa            0-1  SP Tre Fiori
+  18.15  AC Libertas              0-1  SS Virtus
+  15.00  SS San Giovanni          0-6  AC Juvenes/Dogana
+[Sun Dec/7]
+  15.00  SP Tre Penne             1-3  SS Murata
+         SP Cailungo              1-1  FC Fiorentino
+         SS Folgore/Falciano      2-0  SS Cosmos
+
+
+Matchday 12
+[Sat Dec/13]
+  15.00  AC Juvenes/Dogana        3-1  SP Tre Penne
+         SP Cailungo              2-0  SS Folgore/Falciano
+         SS Cosmos                0-4  SS Pennarossa
+         SS Murata                0-1  FC Domagnano
+[Sun Dec/14]
+  15.00  SP La Fiorita            0-1  SC Faetano
+         SS Virtus                4-0  SS San Giovanni
+         SP Tre Fiori             2-0  AC Libertas
+
+
+Matchday 13
+[Sat Jan/31]
+  15.00  SS San Giovanni          1-3  SP Tre Fiori
+         AC Libertas              3-0  SS Cosmos
+         SP La Fiorita            3-2  SP Cailungo
+         SS Folgore/Falciano      2-0  SC Faetano
+[Sun Feb/1]
+  15.00  FC Domagnano             0-1  AC Juvenes/Dogana
+         FC Fiorentino            1-0  SS Virtus
+         SS Pennarossa            2-1  SS Murata
+
+
+Matchday 14
+[Sat Feb/7]
+  16.00  AC Libertas              1-0  SS Murata
+  18.15  SP Tre Fiori             1-0  FC Fiorentino
+         AC Juvenes/Dogana        0-2  SS Folgore/Falciano
+  15.00  SS Virtus                1-3  SP Tre Penne
+[Sun Feb/8]
+  15.00  SS Pennarossa            2-3  SC Faetano
+         SP Cailungo              2-0  FC Domagnano
+         SS Cosmos                1-1  SP La Fiorita
+
+
+Matchday 15
+[Sat Feb/14]
+  15.00  FC Domagnano             3-0  SS Cosmos
+         SC Faetano               1-1  FC Fiorentino
+         SP La Fiorita            1-0  SS Murata
+         SS San Giovanni          0-1  SP Cailungo
+[Sun Feb/15]
+  15.00  SS Virtus                1-2  SS Folgore/Falciano
+         SP Tre Penne             2-1  SP Tre Fiori
+         AC Libertas              0-2  AC Juvenes/Dogana
+
+
+Matchday 16
+[Sat Feb/21]
+  15.00  SC Faetano               1-0  AC Juvenes/Dogana
+         AC Libertas              1-1  SS Pennarossa
+         SP Tre Penne             1-3  SP La Fiorita
+         SS Virtus                3-2  SP Cailungo
+[Sun Feb/22]
+  15.00  SS Folgore/Falciano      2-1  FC Domagnano
+         SP Tre Fiori             4-1  SS Murata
+         SS San Giovanni          0-2  FC Fiorentino
+
+
+Matchday 17
+[Sat Feb/28]
+  15.00  FC Domagnano             1-0  FC Fiorentino
+         SS Murata                1-3  SC Faetano
+         AC Juvenes/Dogana        3-2  SS Cosmos
+         SP Tre Fiori             5-0  SS Virtus
+[Sun Mar/1]
+  15.00  SP La Fiorita            3-1  SS San Giovanni
+         SS Pennarossa            3-1  SP Tre Penne
+         SS Folgore/Falciano      0-0  AC Libertas
+
+
+Matchday 18
+[Sat Mar/7]
+  15.00  SS Pennarossa            1-0  SS Folgore/Falciano
+         SC Faetano               2-1  SP Tre Fiori
+         SS Cosmos                1-3  SS Murata
+         SP Cailungo              1-1  AC Juvenes/Dogana
+[Sun Mar/8]
+  15.00  FC Fiorentino            0-2  SP La Fiorita
+         SP Tre Penne             0-4  FC Domagnano
+         SS San Giovanni          0-4  AC Libertas
+
+
+Matchday 19
+[Sat Mar/14]
+  15.00  SS Folgore/Falciano      3-1  SP Tre Penne
+         SS Murata                0-1  AC Juvenes/Dogana
+         SS Cosmos                0-1  SP Cailungo
+         SP La Fiorita            5-2  FC Domagnano
+[Sun Mar/15]
+  15.00  SS Pennarossa            3-1  SS San Giovanni
+         AC Libertas              1-1  FC Fiorentino
+         SS Virtus                0-0  SC Faetano
+
+
+Matchday 20
+[Sat Mar/21]
+  15.00  FC Fiorentino            1-0  SP Tre Penne
+         SS San Giovanni          0-4  SS Folgore/Falciano
+         SP La Fiorita            1-1  AC Libertas
+         AC Juvenes/Dogana        0-1  SP Tre Fiori
+[Sun Mar/22]
+  15.00  SP Cailungo              3-0  SS Murata
+         SS Virtus                3-0  SS Cosmos
+         FC Domagnano             2-1  SS Pennarossa
+
+
+Matchday 21
+[Sat Apr/11]
+  15.00  SS Folgore/Falciano      3-1  FC Fiorentino
+         FC Domagnano             3-2  SS San Giovanni
+         SS Pennarossa            1-2  SP La Fiorita
+         SP Tre Penne             0-3  AC Libertas
+[Sun Apr/12]
+  15.00  SS Murata                3-1  SS Virtus
+         SS Cosmos                1-4  SC Faetano
+         SP Cailungo              1-0  SP Tre Fiori
+
+
+Matchday 22
+[Sat Apr/18]
+  15.30  AC Libertas              0-1  FC Domagnano
+         SP Tre Penne             2-5  SS San Giovanni
+         SP La Fiorita            1-1  SS Folgore/Falciano
+         FC Fiorentino            2-1  SS Pennarossa
+[Sun Apr/19]
+  15.30  SP Tre Fiori             5-1  SS Cosmos
+         AC Juvenes/Dogana        2-1  SS Virtus
+         SC Faetano               3-1  SP Cailungo

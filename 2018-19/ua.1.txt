@@ -1,0 +1,412 @@
+= UA 1 2018/19
+
+# Date       Sun Jul/22 2018 - Thu May/30 2019 (312d)
+# Teams      12
+# Matches    192
+# Stages     Regular Season (132)  Relegation (30)  Championship (30)
+
+
+# Regular Season
+
+Matchday 1
+[Sun Jul/22]
+  14.00  Zorya Lugansk            2-1 (0-1)  FK Mariupol
+  17.00  Karpaty Lviv             0-2 (0-0)  FK Oleksandriya
+  19.30  Arsenal Kiev             0-2 (0-1)  FK Lviv
+[Mon Jul/23]
+  19.00  Chernomorets Odessa      2-1 (1-0)  Olimpik Donetsk
+[Wed Jul/25]
+  19.00  Desna Chernigov          0-2 (0-1)  Shakhtar Donetsk
+         Dinamo Kiev              1-0 (1-0)  Vorskla Poltava
+
+
+Matchday 2
+[Sat Jul/28]
+  17.00  FK Oleksandriya          1-0 (0-0)  Zorya Lugansk
+  19.30  FK Lviv                  0-1 (0-0)  Dinamo Kiev
+[Sun Jul/29]
+  17.00  Karpaty Lviv             1-0 (1-0)  Chernomorets Odessa
+         Olimpik Donetsk          1-0 (0-0)  Vorskla Poltava
+  19.30  FK Mariupol              1-4 (0-2)  Desna Chernigov
+         Shakhtar Donetsk         3-0 (3-0)  Arsenal Kiev
+
+
+Matchday 3
+[Fri Aug/3]
+  19.00  Dinamo Kiev              1-0 (0-0)  Shakhtar Donetsk
+[Sat Aug/4]
+  17.00  Vorskla Poltava          1-0 (0-0)  FK Lviv
+  19.30  Zorya Lugansk            1-1 (1-0)  Chernomorets Odessa
+[Sun Aug/5]
+  17.00  Karpaty Lviv             2-2 (2-0)  Olimpik Donetsk
+  19.30  Arsenal Kiev             1-2 (1-2)  FK Mariupol
+         Desna Chernigov          0-2 (0-1)  FK Oleksandriya
+
+
+Matchday 4
+[Fri Aug/10]
+  19.00  Olimpik Donetsk          1-1 (0-0)  FK Lviv
+[Sat Aug/11]
+  19.30  Shakhtar Donetsk         4-1 (0-1)  Vorskla Poltava
+[Sun Aug/12]
+  17.00  Karpaty Lviv             0-1 (0-0)  Zorya Lugansk
+         FK Oleksandriya          1-0 (0-0)  Arsenal Kiev
+  19.30  Chernomorets Odessa      1-0 (0-0)  Desna Chernigov
+[Wed Sep/26]
+  17.00  FK Mariupol              0-2 (0-2)  Dinamo Kiev
+
+
+Matchday 5
+[Fri Aug/17]
+  19.00  Arsenal Kiev             1-1 (1-1)  Chernomorets Odessa
+[Sat Aug/18]
+  17.00  FK Lviv                  0-2 (0-1)  Shakhtar Donetsk
+  19.30  Dinamo Kiev              1-0 (0-0)  FK Oleksandriya
+[Sun Aug/19]
+  17.00  Desna Chernigov          2-2 (2-0)  Karpaty Lviv
+  19.30  Zorya Lugansk            0-0  Olimpik Donetsk
+         Vorskla Poltava          2-1 (1-1)  FK Mariupol
+
+
+Matchday 6
+[Fri Aug/24]
+  19.00  Olimpik Donetsk          2-5 (1-4)  Shakhtar Donetsk
+[Sat Aug/25]
+  17.00  FK Oleksandriya          2-0 (2-0)  Vorskla Poltava
+  19.30  Chernomorets Odessa      1-1 (0-0)  Dinamo Kiev
+[Sun Aug/26]
+  19.30  Karpaty Lviv             1-2 (0-2)  Arsenal Kiev
+         FK Mariupol              2-2 (0-1)  FK Lviv
+         Zorya Lugansk            0-2 (0-1)  Desna Chernigov
+
+
+Matchday 7
+[Fri Aug/31]
+  19.00  Vorskla Poltava          2-1 (0-0)  Chernomorets Odessa
+[Sat Sep/1]
+  19.30  Shakhtar Donetsk         2-0 (1-0)  FK Mariupol
+[Sun Sep/2]
+  14.00  Desna Chernigov          0-1 (0-0)  Olimpik Donetsk
+  17.00  FK Lviv                  2-2 (2-0)  FK Oleksandriya
+  19.30  Arsenal Kiev             0-5 (0-3)  Zorya Lugansk
+         Dinamo Kiev              0-2 (0-2)  Karpaty Lviv
+
+
+Matchday 8
+[Fri Sep/14]
+  19.00  Desna Chernigov          1-0 (1-0)  Arsenal Kiev
+[Sat Sep/15]
+  14.00  FK Oleksandriya          0-2 (0-1)  Shakhtar Donetsk
+  17.00  Karpaty Lviv             0-1 (0-0)  Vorskla Poltava
+[Sun Sep/16]
+  14.00  Olimpik Donetsk          1-3 (1-1)  FK Mariupol
+  17.00  Zorya Lugansk            1-1 (1-0)  Dinamo Kiev
+  19.30  Chernomorets Odessa      0-1 (0-1)  FK Lviv
+
+
+Matchday 9
+[Sat Sep/22]
+  14.00  FK Mariupol              1-0 (1-0)  FK Oleksandriya
+  17.00  FK Lviv                  1-1 (0-0)  Karpaty Lviv
+  19.30  Arsenal Kiev             1-3 (0-1)  Olimpik Donetsk
+[Sun Sep/23]
+  17.00  Dinamo Kiev              4-0 (1-0)  Desna Chernigov
+         Shakhtar Donetsk         3-0 (0-0)  Chernomorets Odessa
+  19.30  Vorskla Poltava          2-1 (0-0)  Zorya Lugansk
+
+
+Matchday 10
+[Fri Sep/28]
+  19.00  Karpaty Lviv             1-6 (0-5)  Shakhtar Donetsk
+[Sat Sep/29]
+  14.00  Olimpik Donetsk          2-3 (2-1)  FK Oleksandriya
+[Sun Sep/30]
+  14.00  Desna Chernigov          0-2 (0-1)  Vorskla Poltava
+  17.00  Chernomorets Odessa      0-1 (0-0)  FK Mariupol
+         Zorya Lugansk            0-0  FK Lviv
+  19.30  Arsenal Kiev             0-1 (0-1)  Dinamo Kiev
+
+
+Matchday 11
+[Sat Oct/6]
+  14.00  FK Mariupol              1-1 (0-1)  Karpaty Lviv
+  17.00  FK Oleksandriya          3-2 (1-1)  Chernomorets Odessa
+[Sun Oct/7]
+  14.00  FK Lviv                  1-3 (0-2)  Desna Chernigov
+  17.00  Dinamo Kiev              1-0 (1-0)  Olimpik Donetsk
+         Shakhtar Donetsk         1-1 (1-0)  Zorya Lugansk
+  19.30  Vorskla Poltava          0-2 (0-0)  Arsenal Kiev
+
+
+Matchday 12
+[Fri Oct/19]
+  19.00  Shakhtar Donetsk         1-0 (0-0)  Desna Chernigov
+[Sat Oct/20]
+  14.00  FK Mariupol              3-2 (2-0)  Zorya Lugansk
+  17.00  Vorskla Poltava          0-1 (0-1)  Dinamo Kiev
+[Sun Oct/21]
+  14.00  FK Lviv                  1-0 (1-0)  Arsenal Kiev
+  17.00  Olimpik Donetsk          1-0 (0-0)  Chernomorets Odessa
+  19.30  FK Oleksandriya          2-1 (2-0)  Karpaty Lviv
+
+
+Matchday 13
+[Sat Oct/27]
+  14.00  Desna Chernigov          2-0 (1-0)  FK Mariupol
+  17.00  Arsenal Kiev             0-3 (0-1)  Shakhtar Donetsk
+         Zorya Lugansk            0-0  FK Oleksandriya
+[Sun Oct/28]
+  14.00  Chernomorets Odessa      0-5 (0-1)  Karpaty Lviv
+  17.00  Dinamo Kiev              0-1 (0-1)  FK Lviv
+  19.30  Vorskla Poltava          2-1 (1-1)  Olimpik Donetsk
+
+
+Matchday 14
+[Sat Nov/3]
+  14.00  FK Mariupol              1-0 (0-0)  Arsenal Kiev
+  17.00  Shakhtar Donetsk         2-1 (0-1)  Dinamo Kiev
+  19.30  Olimpik Donetsk          1-2 (0-1)  Karpaty Lviv
+[Sun Nov/4]
+  14.00  FK Oleksandriya          1-1 (0-0)  Desna Chernigov
+  17.00  FK Lviv                  0-2 (0-2)  Vorskla Poltava
+  19.30  Chernomorets Odessa      0-3 (0-1)  Zorya Lugansk
+
+
+Matchday 15
+[Sat Nov/10]
+  14.00  FK Lviv                  1-1 (1-0)  Olimpik Donetsk
+  17.00  Desna Chernigov          2-0 (0-0)  Chernomorets Odessa
+         Zorya Lugansk            2-1 (1-1)  Karpaty Lviv
+  19.30  Arsenal Kiev             0-3 (0-1)  FK Oleksandriya
+[Sun Nov/11]
+  17.00  Dinamo Kiev              4-0 (1-0)  FK Mariupol
+  19.30  Vorskla Poltava          0-2 (0-2)  Shakhtar Donetsk
+
+
+Matchday 16
+[Fri Nov/23]
+  19.00  Shakhtar Donetsk         0-0  FK Lviv
+[Sat Nov/24]
+  14.00  Karpaty Lviv             0-2 (0-2)  Desna Chernigov
+         FK Mariupol              1-0 (0-0)  Vorskla Poltava
+[Sun Nov/25]
+  14.00  Olimpik Donetsk          1-1 (0-0)  Zorya Lugansk
+  17.00  Chernomorets Odessa      2-1 (0-0)  Arsenal Kiev
+  19.30  FK Oleksandriya          2-1 (1-1)  Dinamo Kiev
+
+
+Matchday 17
+[Sat Dec/1]
+  15.00  Desna Chernigov          0-2 (0-1)  Zorya Lugansk
+  17.00  Arsenal Kiev             1-1 (1-0)  Karpaty Lviv
+[Sun Dec/2]
+  14.00  FK Lviv                  2-2 (2-1)  FK Mariupol
+  17.00  Shakhtar Donetsk         2-2 (1-0)  Olimpik Donetsk
+[Mon Dec/3]
+  17.00  Vorskla Poltava          0-1 (0-1)  FK Oleksandriya
+  18.30  Dinamo Kiev              2-0 (1-0)  Chernomorets Odessa
+
+
+Matchday 18
+[Fri Dec/7]
+  17.00  FK Mariupol              0-3 (0-0)  Shakhtar Donetsk
+[Sat Dec/8]
+  14.00  Karpaty Lviv             0-4 (0-1)  Dinamo Kiev
+         Zorya Lugansk            3-0 (1-0)  Arsenal Kiev
+  17.00  Chernomorets Odessa      0-1 (0-1)  Vorskla Poltava
+[Sun Dec/9]
+  14.00  Olimpik Donetsk          1-1 (0-0)  Desna Chernigov
+  17.00  FK Oleksandriya          1-2 (0-2)  FK Lviv
+
+
+Matchday 19
+[Sat Feb/23]
+  14.00  FK Mariupol              2-1 (1-1)  Olimpik Donetsk
+  17.00  FK Lviv                  0-1 (0-1)  Chernomorets Odessa
+[Sun Feb/24]
+  14.00  Arsenal Kiev             0-2 (0-1)  Desna Chernigov
+  17.00  Vorskla Poltava          0-4 (0-1)  Karpaty Lviv
+[Mon Feb/25]
+  18.30  Dinamo Kiev              5-0 (3-0)  Zorya Lugansk
+  19.00  Shakhtar Donetsk         2-0 (2-0)  FK Oleksandriya
+
+
+Matchday 20
+[Sat Mar/2]
+  14.00  Desna Chernigov          1-2 (0-1)  Dinamo Kiev
+  17.00  Chernomorets Odessa      0-1 (0-0)  Shakhtar Donetsk
+[Sun Mar/3]
+  14.00  Olimpik Donetsk          0-1 (0-1)  Arsenal Kiev
+         Zorya Lugansk            3-0 (1-0)  Vorskla Poltava
+  17.00  Karpaty Lviv             0-1 (0-1)  FK Lviv
+         FK Oleksandriya          1-1 (0-1)  FK Mariupol
+
+
+Matchday 21
+[Sat Mar/9]
+  14.00  FK Mariupol              0-0  Chernomorets Odessa
+  17.00  Vorskla Poltava          0-0  Desna Chernigov
+  19.30  FK Lviv                  0-0  Zorya Lugansk
+[Sun Mar/10]
+  17.00  Dinamo Kiev              4-0 (4-0)  Arsenal Kiev
+         Shakhtar Donetsk         5-0 (3-0)  Karpaty Lviv
+  19.30  FK Oleksandriya          1-1 (0-0)  Olimpik Donetsk
+
+
+Matchday 22
+[Sat Mar/16]
+  14.00  Chernomorets Odessa      0-3 (0-3)  FK Oleksandriya
+  17.00  Zorya Lugansk            0-1 (0-1)  Shakhtar Donetsk
+[Sun Mar/17]
+  17.00  Desna Chernigov          0-1 (0-0)  FK Lviv
+         Karpaty Lviv             1-1 (1-1)  FK Mariupol
+  19.30  Olimpik Donetsk          1-2 (1-2)  Dinamo Kiev
+[Mon Mar/18]
+  17.00  Arsenal Kiev             2-2 (1-1)  Vorskla Poltava
+
+
+== Relegation
+
+Matchday 1
+[Tue Apr/2]
+  17.00  Karpaty Lviv             4-0 (2-0)  Vorskla Poltava
+[Sat Apr/6]
+  14.00  Olimpik Donetsk          0-2 (0-1)  Desna Chernigov
+  17.00  Chernomorets Odessa      1-3 (0-3)  Arsenal Kiev
+
+
+Matchday 2
+[Sun Apr/14]
+  14.00  Desna Chernigov          2-1 (1-1)  Karpaty Lviv
+  17.00  Arsenal Kiev             1-0 (0-0)  Vorskla Poltava
+  19.30  Chernomorets Odessa      1-1 (0-1)  Olimpik Donetsk
+
+
+Matchday 3
+[Tue Apr/23]
+  17.00  Olimpik Donetsk          2-0 (2-0)  Arsenal Kiev
+  18.00  Karpaty Lviv             0-0  Chernomorets Odessa
+  19.30  Vorskla Poltava          3-3 (0-3)  Desna Chernigov
+
+
+Matchday 4
+[Sat Apr/27]
+  14.00  Chernomorets Odessa      1-2 (1-0)  Vorskla Poltava
+  17.00  Olimpik Donetsk          3-2 (1-1)  Karpaty Lviv
+[Mon Apr/29]
+  17.00  Arsenal Kiev             2-0 (2-0)  Desna Chernigov
+
+
+Matchday 5
+[Sun May/5]
+  14.00  Olimpik Donetsk          1-1 (0-1)  Vorskla Poltava
+  17.00  Desna Chernigov          2-4 (2-1)  Chernomorets Odessa
+         Karpaty Lviv             1-2 (0-1)  Arsenal Kiev
+
+
+Matchday 6
+[Sun May/12]
+  14.00  Desna Chernigov          2-1 (1-0)  Olimpik Donetsk
+         Arsenal Kiev             3-3 (0-1)  Chernomorets Odessa
+  19.30  Vorskla Poltava          1-1 (1-0)  Karpaty Lviv
+
+
+Matchday 7
+[Sat May/18]
+  14.00  Vorskla Poltava          2-0 (1-0)  Arsenal Kiev
+  17.00  Karpaty Lviv             2-0 (0-0)  Desna Chernigov
+  19.30  Olimpik Donetsk          2-1 (1-0)  Chernomorets Odessa
+
+
+Matchday 8
+[Tue May/21]
+  17.00  Desna Chernigov          0-1 (0-1)  Vorskla Poltava
+         Chernomorets Odessa      3-1 (1-0)  Karpaty Lviv
+  19.30  Arsenal Kiev             1-1 (1-1)  Olimpik Donetsk
+
+
+Matchday 9
+[Sat May/25]
+  17.00  Karpaty Lviv             3-3 (1-1)  Olimpik Donetsk
+         Vorskla Poltava          1-2 (0-1)  Chernomorets Odessa
+         Desna Chernigov          1-0 (1-0)  Arsenal Kiev
+
+
+Matchday 10
+[Wed May/29]
+  17.00  Arsenal Kiev             2-3 (1-3)  Karpaty Lviv
+         Vorskla Poltava          2-2 (2-0)  Olimpik Donetsk
+         Chernomorets Odessa      3-0 (0-0)  Desna Chernigov
+
+
+== Championship
+
+Matchday 1
+[Wed Apr/3]
+  17.00  FK Oleksandriya          0-1 (0-1)  Shakhtar Donetsk
+  18.30  Zorya Lugansk            2-3 (1-0)  Dinamo Kiev
+  19.30  FK Lviv                  2-3 (1-0)  FK Mariupol
+
+
+Matchday 2
+[Sat Apr/13]
+  14.00  FK Mariupol              0-1 (0-0)  Dinamo Kiev
+  17.00  Shakhtar Donetsk         3-0 (1-0)  Zorya Lugansk
+  19.30  FK Lviv                  1-2 (0-0)  FK Oleksandriya
+
+
+Matchday 3
+[Wed Apr/24]
+  17.00  Zorya Lugansk            2-1 (0-1)  FK Lviv
+         FK Oleksandriya          2-1 (2-1)  FK Mariupol
+  18.30  Dinamo Kiev              0-0  Shakhtar Donetsk
+
+
+Matchday 4
+[Sun Apr/28]
+  14.00  FK Mariupol              0-1 (0-1)  Shakhtar Donetsk
+  17.00  FK Oleksandriya          0-2 (0-1)  Zorya Lugansk
+  19.30  FK Lviv                  0-1 (0-1)  Dinamo Kiev
+
+
+Matchday 5
+[Sat May/4]
+  14.00  Zorya Lugansk            0-1 (0-1)  FK Mariupol
+  17.00  Dinamo Kiev              1-1 (0-1)  FK Oleksandriya
+  19.30  Shakhtar Donetsk         5-0 (1-0)  FK Lviv
+
+
+Matchday 6
+[Sat May/11]
+  14.00  FK Mariupol              2-0 (0-0)  FK Lviv
+  17.00  Dinamo Kiev              1-1 (1-0)  Zorya Lugansk
+  19.30  Shakhtar Donetsk         2-1 (1-1)  FK Oleksandriya
+
+
+Matchday 7
+[Sat May/18]
+  17.00  Dinamo Kiev              2-1 (1-0)  FK Mariupol
+[Sun May/19]
+  14.00  FK Oleksandriya          0-1 (0-0)  FK Lviv
+  17.00  Zorya Lugansk            0-1 (0-1)  Shakhtar Donetsk
+
+
+Matchday 8
+[Wed May/22]
+  17.00  FK Lviv                  0-0  Zorya Lugansk
+         FK Mariupol              1-1 (1-1)  FK Oleksandriya
+  19.30  Shakhtar Donetsk         1-1 (0-1)  Dinamo Kiev
+
+
+Matchday 9
+[Sun May/26]
+  17.00  Dinamo Kiev              2-1 (0-1)  FK Lviv
+  19.30  Zorya Lugansk            3-1 (2-1)  FK Oleksandriya
+         Shakhtar Donetsk         4-0 (0-0)  FK Mariupol
+
+
+Matchday 10
+[Thu May/30]
+  17.00  FK Mariupol              3-1 (0-1)  Zorya Lugansk
+  19.30  FK Oleksandriya          0-2 (0-1)  Dinamo Kiev
+         FK Lviv                  0-3 (0-0)  Shakhtar Donetsk

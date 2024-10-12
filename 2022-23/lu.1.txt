@@ -1,0 +1,385 @@
+= LU 1 2022/23
+
+# Date       Sat Aug/6 2022 - Sun May/21 2023 (288d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sat Aug/6]
+  19.00  Etzella Ettelbruck       2-0 (0-0)  Union Titus Pétange
+[Sun Aug/7]
+  16.00  CS FOLA Esch             2-1 (1-1)  UNA Strassen
+         FC Differdange 03        2-3 (1-0)  RFCU Luxemburg
+         UN Käerjéng              1-1 (1-1)  FC Wiltz 71
+         FC Mondercange           5-1 (3-1)  Victoria Rosport
+         US Mondorf               2-0 (0-0)  US Hostert
+  19.00  Swift Hesperange         4-2 (1-1)  Progrès Niedercorn
+[Mon Aug/8]
+  19.30  F91 Dudelange            5-0 (4-0)  Jeunesse Esch
+
+
+Matchday 2
+[Sat Aug/13]
+  17.00  RFCU Luxemburg           1-0 (0-0)  US Mondorf
+  19.00  Union Titus Pétange      2-3 (2-1)  CS FOLA Esch
+[Sun Aug/14]
+  16.00  FC Wiltz 71              3-1 (1-1)  Victoria Rosport
+  18.00  UNA Strassen             3-2 (2-1)  FC Differdange 03
+  18.30  Progrès Niedercorn       2-3 (1-1)  F91 Dudelange
+  19.00  US Hostert               0-4 (0-1)  Swift Hesperange
+         Jeunesse Esch            0-0  UN Käerjéng
+  19.30  FC Mondercange           1-2 (1-0)  Etzella Ettelbruck
+
+
+Matchday 3
+[Sat Aug/20]
+  16.00  Victoria Rosport         1-1 (0-1)  Jeunesse Esch
+  19.00  CS FOLA Esch             0-0  Etzella Ettelbruck
+         Swift Hesperange         2-0 (1-0)  RFCU Luxemburg
+[Sun Aug/21]
+  16.00  FC Differdange 03        1-1 (1-0)  Union Titus Pétange
+         UN Käerjéng              1-1 (0-0)  Progrès Niedercorn
+         US Mondorf               1-2 (1-0)  UNA Strassen
+         FC Wiltz 71              1-4 (0-1)  FC Mondercange
+  18.30  F91 Dudelange            3-1 (0-1)  US Hostert
+
+
+Matchday 4
+[Fri Aug/26]
+  20.00  US Hostert               0-1 (0-1)  UN Käerjéng
+[Sun Aug/28]
+  16.00  Etzella Ettelbruck       0-2 (0-0)  FC Differdange 03
+         Progrès Niedercorn       1-0 (1-0)  Victoria Rosport
+         Jeunesse Esch            1-0 (1-0)  FC Wiltz 71
+         UNA Strassen             0-4 (0-1)  Swift Hesperange
+         Union Titus Pétange      4-1 (2-0)  US Mondorf
+  18.30  FC Mondercange           3-0 (0-0)  CS FOLA Esch
+         RFCU Luxemburg           2-4 (1-2)  F91 Dudelange
+
+
+Matchday 5
+[Sat Sep/3]
+  19.00  Swift Hesperange         3-3 (1-3)  Union Titus Pétange
+[Sun Sep/4]
+  16.00  F91 Dudelange            3-1 (1-1)  UNA Strassen
+         FC Differdange 03        6-0 (3-0)  CS FOLA Esch
+         Jeunesse Esch            1-1 (0-0)  FC Mondercange
+         UN Käerjéng              0-5 (0-1)  RFCU Luxemburg
+         US Mondorf               3-0 (1-0)  Etzella Ettelbruck
+         Victoria Rosport         2-2 (0-0)  US Hostert
+         FC Wiltz 71              1-2 (0-1)  Progrès Niedercorn
+
+
+Matchday 6
+[Sat Sep/10]
+  18.30  RFCU Luxemburg           2-2 (1-1)  Victoria Rosport
+  19.00  Etzella Ettelbruck       0-4 (0-2)  Swift Hesperange
+[Sun Sep/11]
+  16.00  US Hostert               2-3 (0-2)  FC Wiltz 71
+         FC Mondercange           0-0  FC Differdange 03
+         UNA Strassen             0-2 (0-0)  UN Käerjéng
+         Union Titus Pétange      1-2 (0-2)  F91 Dudelange
+  17.00  CS FOLA Esch             0-1 (0-0)  US Mondorf
+  18.30  Progrès Niedercorn       2-1 (2-0)  Jeunesse Esch
+
+
+Matchday 7
+[Sun Sep/18]
+  16.00  F91 Dudelange            4-0 (2-0)  Etzella Ettelbruck
+         Swift Hesperange         8-1 (2-0)  CS FOLA Esch
+         Jeunesse Esch            1-2 (0-0)  US Hostert
+         UN Käerjéng              0-1 (0-0)  Union Titus Pétange
+         US Mondorf               0-1 (0-1)  FC Differdange 03
+         Victoria Rosport         0-0  UNA Strassen
+         FC Wiltz 71              1-1 (0-0)  RFCU Luxemburg
+  18.30  Progrès Niedercorn       4-0 (2-0)  FC Mondercange
+
+
+Matchday 8
+[Sun Oct/9]
+  15.00  CS FOLA Esch             0-2 (0-2)  F91 Dudelange
+         Etzella Ettelbruck       1-1 (0-0)  UN Käerjéng
+         FC Differdange 03        1-2 (0-2)  Swift Hesperange
+         US Hostert               1-0 (1-0)  Progrès Niedercorn
+         FC Mondercange           1-2 (0-1)  US Mondorf
+         RFCU Luxemburg           2-1 (1-0)  Jeunesse Esch
+         UNA Strassen             4-3 (3-2)  FC Wiltz 71
+         Union Titus Pétange      5-1 (3-0)  Victoria Rosport
+
+
+Matchday 9
+[Sun Oct/16]
+  15.00  F91 Dudelange            3-1 (1-0)  FC Differdange 03
+         Progrès Niedercorn       0-0  RFCU Luxemburg
+         US Hostert               0-0  FC Mondercange
+         Jeunesse Esch            2-0 (2-0)  UNA Strassen
+         UN Käerjéng              3-2 (2-0)  CS FOLA Esch
+         Victoria Rosport         3-1 (1-0)  Etzella Ettelbruck
+         FC Wiltz 71              0-2 (0-1)  Union Titus Pétange
+  16.00  Swift Hesperange         4-2 (2-0)  US Mondorf
+
+
+Matchday 10
+[Sun Oct/23]
+  15.00  CS FOLA Esch             4-1 (3-0)  Victoria Rosport
+         Etzella Ettelbruck       1-2 (0-0)  FC Wiltz 71
+         FC Differdange 03        2-2 (0-1)  UN Käerjéng
+         RFCU Luxemburg           2-1 (2-0)  US Hostert
+         UNA Strassen             0-1 (0-0)  Progrès Niedercorn
+         Union Titus Pétange      0-0  Jeunesse Esch
+  16.00  FC Mondercange           1-2 (0-1)  Swift Hesperange
+         US Mondorf               0-7 (0-4)  F91 Dudelange
+
+
+Matchday 11
+[Sun Nov/6]
+  15.00  F91 Dudelange            0-4 (0-2)  Swift Hesperange
+         US Hostert               1-0 (0-0)  UNA Strassen
+         Jeunesse Esch            6-0 (3-0)  Etzella Ettelbruck
+         Victoria Rosport         2-3 (1-0)  FC Differdange 03
+         FC Wiltz 71              5-1 (1-1)  CS FOLA Esch
+  15.30  Progrès Niedercorn       2-3 (1-2)  Union Titus Pétange
+  16.00  UN Käerjéng              0-2 (0-2)  US Mondorf
+         RFCU Luxemburg           2-2 (0-1)  FC Mondercange
+
+
+Matchday 12
+[Sun Nov/13]
+  15.00  CS FOLA Esch             1-3 (1-2)  Jeunesse Esch
+         Etzella Ettelbruck       0-1 (0-0)  Progrès Niedercorn
+         FC Differdange 03        2-1 (1-1)  FC Wiltz 71
+         US Mondorf               1-6 (0-3)  Victoria Rosport
+         UNA Strassen             1-4 (0-1)  RFCU Luxemburg
+         Union Titus Pétange      4-1 (3-0)  US Hostert
+  16.00  Swift Hesperange         4-2 (1-2)  UN Käerjéng
+         FC Mondercange           2-3 (1-1)  F91 Dudelange
+
+
+Matchday 13
+[Sat Nov/26]
+  16.00  Jeunesse Esch            1-0 (0-0)  FC Differdange 03
+[Sun Nov/27]
+  15.00  Progrès Niedercorn       3-2 (2-0)  CS FOLA Esch
+         RFCU Luxemburg           0-2 (0-1)  Union Titus Pétange
+         UNA Strassen             2-0 (0-0)  FC Mondercange
+         Victoria Rosport         0-0  Swift Hesperange
+  15.30  FC Wiltz 71              4-4 (2-2)  US Mondorf
+  16.00  US Hostert               0-3 (0-0)  Etzella Ettelbruck
+         UN Käerjéng              2-4 (1-2)  F91 Dudelange
+
+
+Matchday 14
+[Sat Dec/3]
+  16.00  Etzella Ettelbruck       0-1 (0-1)  RFCU Luxemburg
+  18.00  FC Mondercange           1-1 (0-1)  UN Käerjéng
+[Sun Dec/4]
+  14.30  F91 Dudelange            2-0 (0-0)  Victoria Rosport
+  15.00  CS FOLA Esch             0-1 (0-1)  US Hostert
+         FC Differdange 03        2-3 (2-1)  Progrès Niedercorn
+         Union Titus Pétange      0-1 (0-0)  UNA Strassen
+  16.00  Swift Hesperange         4-2 (2-2)  FC Wiltz 71
+         US Mondorf               3-1 (1-1)  Jeunesse Esch
+
+
+Matchday 15
+[Sat Dec/10]
+  15.00  US Hostert               0-5 (0-1)  FC Differdange 03
+  15.30  Union Titus Pétange      5-2 (4-2)  FC Mondercange
+  16.00  Swift Hesperange         2-0 (1-0)  Jeunesse Esch
+  17.00  Victoria Rosport         3-0 (1-0)  UN Käerjéng
+[Sun Dec/11]
+  15.00  RFCU Luxemburg           4-2 (3-0)  CS FOLA Esch
+         UNA Strassen             4-1 (2-0)  Etzella Ettelbruck
+         FC Wiltz 71              0-3 (0-0)  F91 Dudelange
+  16.00  Progrès Niedercorn       4-2 (2-0)  US Mondorf
+
+
+Matchday 16
+[Sun Feb/12]
+  14.30  F91 Dudelange            1-4 (0-2)  Progrès Niedercorn
+  16.00  CS FOLA Esch             1-2 (1-1)  Union Titus Pétange
+         Etzella Ettelbruck       1-2 (0-0)  FC Mondercange
+         FC Differdange 03        0-1 (0-1)  UNA Strassen
+         Swift Hesperange         5-1 (3-1)  US Hostert
+         UN Käerjéng              1-4 (0-3)  Jeunesse Esch
+         US Mondorf               0-1 (0-1)  RFCU Luxemburg
+         Victoria Rosport         0-0  FC Wiltz 71
+
+
+Matchday 17
+[Sat Feb/18]
+  18.00  FC Mondercange           0-3 (0-2)  FC Wiltz 71
+[Sun Feb/19]
+  15.00  Progrès Niedercorn       1-0 (0-0)  UN Käerjéng
+  16.00  Etzella Ettelbruck       0-4 (0-2)  CS FOLA Esch
+         US Hostert               0-4 (0-2)  F91 Dudelange
+         Jeunesse Esch            2-0 (0-0)  Victoria Rosport
+         RFCU Luxemburg           1-3 (0-1)  Swift Hesperange
+         UNA Strassen             0-1 (0-0)  US Mondorf
+         Union Titus Pétange      4-2 (1-2)  FC Differdange 03
+
+
+Matchday 18
+[Sun Feb/26]
+  15.00  F91 Dudelange            0-1 (0-0)  RFCU Luxemburg
+  16.00  CS FOLA Esch             2-0 (1-0)  FC Mondercange
+         FC Differdange 03        6-0 (2-0)  Etzella Ettelbruck
+         Swift Hesperange         3-0 (3-0)  UNA Strassen
+         UN Käerjéng              0-0  US Hostert
+         US Mondorf               2-0 (2-0)  Union Titus Pétange
+         Victoria Rosport         2-3 (2-0)  Progrès Niedercorn
+         FC Wiltz 71              3-2 (2-0)  Jeunesse Esch
+
+
+Matchday 19
+[Sat Mar/4]
+  18.00  CS FOLA Esch             3-2 (1-1)  FC Differdange 03
+         FC Mondercange           1-2 (0-1)  Jeunesse Esch
+[Sun Mar/5]
+  16.00  Etzella Ettelbruck       0-3 (0-1)  US Mondorf
+         Progrès Niedercorn       3-0 (3-0)  FC Wiltz 71
+         US Hostert               1-3 (1-2)  Victoria Rosport
+         RFCU Luxemburg           1-1 (1-1)  UN Käerjéng
+         UNA Strassen             1-2 (1-1)  F91 Dudelange
+         Union Titus Pétange      2-1 (2-1)  Swift Hesperange
+
+
+Matchday 20
+[Sat Mar/11]
+  15.00  F91 Dudelange            0-1 (0-0)  Union Titus Pétange
+[Sun Mar/12]
+  16.00  FC Differdange 03        2-0 (1-0)  FC Mondercange
+         Swift Hesperange         2-2 (1-1)  Etzella Ettelbruck
+         Jeunesse Esch            0-1 (0-0)  Progrès Niedercorn
+         UN Käerjéng              1-2 (1-1)  UNA Strassen
+         US Mondorf               5-0 (2-0)  CS FOLA Esch
+         Victoria Rosport         4-2 (2-1)  RFCU Luxemburg
+         FC Wiltz 71              2-2 (0-1)  US Hostert
+
+
+Matchday 21
+[Fri Mar/17]
+  20.00  Union Titus Pétange      4-1 (2-0)  UN Käerjéng
+[Sun Mar/19]
+  16.00  CS FOLA Esch             0-1 (0-0)  Swift Hesperange
+         Etzella Ettelbruck       2-5 (1-5)  F91 Dudelange
+         FC Differdange 03        2-1 (0-0)  US Mondorf
+         US Hostert               0-1 (0-1)  Jeunesse Esch
+         FC Mondercange           3-3 (1-1)  Progrès Niedercorn
+         RFCU Luxemburg           0-1 (0-0)  FC Wiltz 71
+         UNA Strassen             2-2 (1-1)  Victoria Rosport
+
+
+Matchday 22
+[Wed Mar/29]
+  20.00  F91 Dudelange            2-1 (1-0)  CS FOLA Esch
+         Progrès Niedercorn       6-0 (3-0)  US Hostert
+         Swift Hesperange         4-0 (0-0)  FC Differdange 03
+         Jeunesse Esch            1-1 (1-1)  RFCU Luxemburg
+         US Mondorf               4-1 (1-1)  FC Mondercange
+         Victoria Rosport         0-2 (0-2)  Union Titus Pétange
+         FC Wiltz 71              2-1 (1-0)  UNA Strassen
+[Wed Apr/5]
+  20.00  UN Käerjéng              0-3 (0-1)  Etzella Ettelbruck
+
+
+Matchday 23
+[Sun Apr/2]
+  16.00  CS FOLA Esch             3-2 (0-0)  UN Käerjéng
+         Etzella Ettelbruck       1-5 (0-3)  Victoria Rosport
+         FC Differdange 03        0-4 (0-2)  F91 Dudelange
+         FC Mondercange           1-0 (0-0)  US Hostert
+         US Mondorf               0-4 (0-2)  Swift Hesperange
+         RFCU Luxemburg           1-2 (0-0)  Progrès Niedercorn
+         UNA Strassen             2-1 (1-0)  Jeunesse Esch
+         Union Titus Pétange      2-1 (1-0)  FC Wiltz 71
+
+
+Matchday 24
+[Sat Apr/8]
+  16.00  F91 Dudelange            4-0 (3-0)  US Mondorf
+         Jeunesse Esch            2-2 (0-0)  Union Titus Pétange
+  18.00  Progrès Niedercorn       2-1 (2-1)  UNA Strassen
+         Swift Hesperange         2-1 (1-1)  FC Mondercange
+         US Hostert               1-1 (0-0)  RFCU Luxemburg
+         UN Käerjéng              0-8 (0-4)  FC Differdange 03
+         Victoria Rosport         3-0 (2-0)  CS FOLA Esch
+         FC Wiltz 71              3-0 (1-0)  Etzella Ettelbruck
+
+
+Matchday 25
+[Sun Apr/16]
+  16.00  CS FOLA Esch             1-2 (1-1)  FC Wiltz 71
+         Etzella Ettelbruck       3-0 (0-0)  Jeunesse Esch
+         FC Differdange 03        4-0 (2-0)  Victoria Rosport
+         Swift Hesperange         4-3 (1-1)  F91 Dudelange
+         FC Mondercange           0-1 (0-0)  RFCU Luxemburg
+         US Mondorf               1-1 (0-1)  UN Käerjéng
+         UNA Strassen             2-0 (1-0)  US Hostert
+         Union Titus Pétange      0-2 (0-0)  Progrès Niedercorn
+
+
+Matchday 26
+[Sat Apr/22]
+  16.00  Victoria Rosport         1-1 (0-0)  US Mondorf
+  18.00  FC Wiltz 71              1-2 (0-0)  FC Differdange 03
+[Sun Apr/23]
+  16.00  F91 Dudelange            5-1 (1-1)  FC Mondercange
+         Progrès Niedercorn       3-1 (1-0)  Etzella Ettelbruck
+         US Hostert               0-2 (0-2)  Union Titus Pétange
+         Jeunesse Esch            3-1 (3-0)  CS FOLA Esch
+         UN Käerjéng              0-6 (0-4)  Swift Hesperange
+         RFCU Luxemburg           0-1 (0-0)  UNA Strassen
+
+
+Matchday 27
+[Sat Apr/29]
+  19.30  FC Mondercange           0-0  UNA Strassen
+[Sun Apr/30]
+  16.00  CS FOLA Esch             0-4 (0-3)  Progrès Niedercorn
+         Etzella Ettelbruck       1-1 (1-0)  US Hostert
+         F91 Dudelange            4-0 (1-0)  UN Käerjéng
+         FC Differdange 03        0-2 (0-1)  Jeunesse Esch
+         Swift Hesperange         5-1 (3-1)  Victoria Rosport
+         US Mondorf               3-0 (0-0)  FC Wiltz 71
+         Union Titus Pétange      1-1 (1-0)  RFCU Luxemburg
+
+
+Matchday 28
+[Fri May/5]
+  20.00  Jeunesse Esch            0-2 (0-2)  US Mondorf
+[Sat May/6]
+  18.00  Progrès Niedercorn       2-0 (0-0)  FC Differdange 03
+[Sun May/7]
+  16.00  US Hostert               0-1 (0-1)  CS FOLA Esch
+         UN Käerjéng              2-2 (0-1)  FC Mondercange
+         RFCU Luxemburg           2-2 (1-1)  Etzella Ettelbruck
+         UNA Strassen             0-3 (0-3)  Union Titus Pétange
+         Victoria Rosport         2-1 (0-0)  F91 Dudelange
+         FC Wiltz 71              0-6 (0-3)  Swift Hesperange
+
+
+Matchday 29
+[Sun May/14]
+  16.00  CS FOLA Esch             1-1 (1-0)  RFCU Luxemburg
+         Etzella Ettelbruck       3-0 (1-0)  UNA Strassen
+         F91 Dudelange            1-1 (1-0)  FC Wiltz 71
+         FC Differdange 03        1-0 (0-0)  US Hostert
+         Jeunesse Esch            1-1 (0-0)  Swift Hesperange
+         UN Käerjéng              2-1 (1-1)  Victoria Rosport
+         FC Mondercange           4-1 (2-1)  Union Titus Pétange
+         US Mondorf               0-1 (0-1)  Progrès Niedercorn
+
+
+Matchday 30
+[Sun May/21]
+  16.00  Progrès Niedercorn       2-2 (1-1)  Swift Hesperange
+         US Hostert               2-5 (0-3)  US Mondorf
+         Jeunesse Esch            4-2 (3-1)  F91 Dudelange
+         RFCU Luxemburg           0-1 (0-0)  FC Differdange 03
+         UNA Strassen             1-0 (0-0)  CS FOLA Esch
+         Union Titus Pétange      3-2 (1-0)  Etzella Ettelbruck
+         Victoria Rosport         1-2 (0-1)  FC Mondercange
+         FC Wiltz 71              2-3 (0-2)  UN Käerjéng

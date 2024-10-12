@@ -1,0 +1,624 @@
+= ES 2 1950/51
+
+# Date       Sun Sep/10 1950 - Sun May/6 1951 (238d)
+# Teams      32
+# Matches    482
+
+
+
+Matchday 1
+[Sun Sep/10]
+         CA Osasuna               4-0  UD Huesca
+         CD Logroñés              0-0  Real Oviedo
+         Gimnàstic de Tarragona   2-3  CF Badalona
+         Girona FC                1-2  UE Sant Andreu
+         Real Zaragoza            4-0  SG Lucense
+         Gimnástica Torrelavega   4-2  CE Sabadell
+         Sporting Gijón           6-1  CD Numancia
+         UD Orensana              2-3  Racing Ferrol
+         Atlético Tetuán          3-0  AD Ceuta
+         UD Cartagena             2-4  UD Las Palmas
+         Granada CF               4-0  RCD Mallorca
+         RB Linense               3-1  Hércules CF
+         AD Plus Ultra            5-1  Levante UD
+         UD Melilla               6-1  Albacete
+         CD Mestalla              2-0  RCD Córdoba
+
+
+Matchday 2
+[Sun Sep/17]
+         CF Badalona              3-0  CA Osasuna
+         Barakaldo CF             1-6  Sporting Gijón
+         CD Numancia              1-0  Girona FC
+         CE Sabadell              5-2  UD Orensana
+         Racing Ferrol            1-2  Real Zaragoza
+         SG Lucense               2-1  Gimnàstic de Tarragona
+         UD Huesca                5-0  CD Logroñés
+         UE Sant Andreu           4-3  Gimnástica Torrelavega
+         Albacete                 1-1  UD Salamanca
+         Hércules CF              5-1  AD Plus Ultra
+         Levante UD               2-0  UD Melilla
+         RCD Córdoba              3-2  Granada CF
+         RCD Mallorca             2-2  Atlético Tetuán
+         AD Ceuta                 2-1  RB Linense
+         UD Las Palmas            2-0  CD Mestalla
+
+
+Matchday 3
+[Sun Sep/24]
+         CA Osasuna               3-3  SG Lucense
+         CD Logroñés              3-1  CF Badalona
+         Gimnàstic de Tarragona   2-1  Racing Ferrol
+         Girona FC                5-1  Barakaldo CF
+         Real Zaragoza            1-2  CE Sabadell
+         Gimnástica Torrelavega   1-1  CD Numancia
+         Real Oviedo              0-1  UD Huesca
+         UD Orensana              2-0  UE Sant Andreu
+         Albacete                 2-0  Levante UD
+         Atlético Tetuán          1-1  RCD Córdoba
+         Granada CF               4-1  UD Las Palmas
+         RB Linense               3-2  RCD Mallorca
+         AD Plus Ultra            5-1  AD Ceuta
+         UD Melilla               6-1  Hércules CF
+         UD Salamanca             4-1  UD Cartagena
+
+
+Matchday 4
+[Sun Oct/1]
+         CF Badalona              1-0  Real Oviedo
+         Barakaldo CF             1-2  Gimnástica Torrelavega
+         CD Numancia              5-2  UD Orensana
+         CE Sabadell              2-1  Gimnàstic de Tarragona
+         Racing Ferrol            2-1  CA Osasuna
+         Sporting Gijón           2-0  Girona FC
+         SG Lucense               1-3  CD Logroñés
+         UE Sant Andreu           3-7  Real Zaragoza
+         UD Cartagena             4-1  CD Mestalla
+         Hércules CF              6-1  Albacete
+         Levante UD               2-2  UD Salamanca
+         RCD Córdoba              7-1  RB Linense
+         RCD Mallorca             4-0  AD Plus Ultra
+         AD Ceuta                 2-1  UD Melilla
+         UD Las Palmas            1-0  Atlético Tetuán
+
+
+Matchday 5
+[Sun Oct/8]
+         CA Osasuna               1-1  CE Sabadell
+         CD Logroñés              3-1  Racing Ferrol
+         Gimnàstic de Tarragona   2-3  UE Sant Andreu
+         Real Zaragoza            2-1  CD Numancia
+         Gimnástica Torrelavega   2-7  Sporting Gijón
+         Real Oviedo              2-2  SG Lucense
+         UD Huesca                3-0  CF Badalona
+         UD Orensana              2-2  Barakaldo CF
+         Albacete                 6-0  AD Ceuta
+         Granada CF               5-2  UD Cartagena
+         Levante UD               0-2  Hércules CF
+         RB Linense               1-3  UD Las Palmas
+         AD Plus Ultra            1-0  RCD Córdoba
+         UD Melilla               4-2  RCD Mallorca
+         UD Salamanca             3-0  CD Mestalla
+
+
+Matchday 6
+[Sun Oct/15]
+         Barakaldo CF             1-1  Real Zaragoza
+         CD Numancia              4-1  Gimnàstic de Tarragona
+         CE Sabadell              2-1  CD Logroñés
+         Girona FC                6-1  Gimnástica Torrelavega
+         Racing Ferrol            1-1  Real Oviedo
+         Sporting Gijón           7-0  UD Orensana
+         SG Lucense               2-1  UD Huesca
+         UE Sant Andreu           5-0  CA Osasuna
+         UD Cartagena             2-1  Atlético Tetuán
+         Hércules CF              4-0  UD Salamanca
+         RCD Córdoba              6-1  UD Melilla
+         RCD Mallorca             6-1  Albacete
+         AD Ceuta                 1-1  Levante UD
+         UD Las Palmas            1-0  AD Plus Ultra
+         CD Mestalla              4-1  Granada CF
+
+
+Matchday 7
+[Sun Oct/22]
+         CF Badalona              2-2  SG Lucense
+         CA Osasuna               2-0  CD Numancia
+         CD Logroñés              3-1  UE Sant Andreu
+         Gimnàstic de Tarragona   5-3  Barakaldo CF
+         Real Zaragoza            1-0  Sporting Gijón
+         Real Oviedo              5-1  CE Sabadell
+         UD Huesca                3-2  Racing Ferrol
+         UD Orensana              3-1  Girona FC
+         Albacete                 1-1  RCD Córdoba
+         Atlético Tetuán          9-2  CD Mestalla
+         Hércules CF              3-1  AD Ceuta
+         Levante UD               3-3  RCD Mallorca
+         RB Linense               3-0  UD Cartagena
+         UD Melilla               3-0  UD Las Palmas
+         UD Salamanca             2-1  Granada CF
+
+
+Matchday 8
+[Sun Oct/29]
+         Barakaldo CF             2-0  CA Osasuna
+         CD Numancia              1-1  CD Logroñés
+         CE Sabadell              3-1  UD Huesca
+         Girona FC                1-1  Real Zaragoza
+         Racing Ferrol            2-0  CF Badalona
+         Gimnástica Torrelavega   4-1  UD Orensana
+         Sporting Gijón           3-0  Gimnàstic de Tarragona
+         UE Sant Andreu           3-3  Real Oviedo
+         UD Cartagena             1-1  AD Plus Ultra
+         Granada CF               1-1  Atlético Tetuán
+         RCD Córdoba              6-2  Levante UD
+         RCD Mallorca             4-2  Hércules CF
+         AD Ceuta                 5-2  UD Salamanca
+         UD Las Palmas            6-0  Albacete
+         CD Mestalla              3-0  RB Linense
+
+
+Matchday 9
+[Sun Nov/5]
+         CF Badalona              1-3  CE Sabadell
+         CA Osasuna               2-1  Sporting Gijón
+         CD Logroñés              2-0  Barakaldo CF
+         Gimnàstic de Tarragona   2-2  Girona FC
+         Real Zaragoza            2-0  Gimnástica Torrelavega
+         Real Oviedo              9-1  CD Numancia
+         SG Lucense               1-1  Racing Ferrol
+         UD Huesca                0-1  UE Sant Andreu
+         Hércules CF              2-2  RCD Córdoba
+         Levante UD               1-0  UD Las Palmas
+         RB Linense               2-1  Granada CF
+         AD Plus Ultra            2-0  CD Mestalla
+         AD Ceuta                 4-1  RCD Mallorca
+         UD Melilla               1-1  UD Cartagena
+         UD Salamanca             0-0  Atlético Tetuán
+
+
+Matchday 10
+[Sun Nov/12]
+         Barakaldo CF             4-1  Real Oviedo
+         CD Numancia              1-0  UD Huesca
+         CE Sabadell              7-0  SG Lucense
+         Girona FC                4-2  CA Osasuna
+         Gimnástica Torrelavega   3-1  Gimnàstic de Tarragona
+         Sporting Gijón           6-1  CD Logroñés
+         UD Orensana              1-1  Real Zaragoza
+         UE Sant Andreu           3-4  CF Badalona
+         Atlético Tetuán          3-2  RB Linense
+         UD Cartagena             3-1  Albacete
+         Granada CF               2-0  AD Plus Ultra
+         RCD Córdoba              4-1  AD Ceuta
+         RCD Mallorca             2-1  UD Salamanca
+         UD Las Palmas            2-1  Hércules CF
+         CD Mestalla              2-2  UD Melilla
+
+
+Matchday 11
+[Sun Nov/19]
+         CF Badalona              2-2  CD Numancia
+         CA Osasuna               8-1  Gimnástica Torrelavega
+         CD Logroñés              6-3  Girona FC
+         Gimnàstic de Tarragona   4-3  UD Orensana
+         Racing Ferrol            1-0  CE Sabadell
+         Real Oviedo              0-3  Sporting Gijón
+         SG Lucense               2-1  UE Sant Andreu
+         UD Huesca                3-0  Barakaldo CF
+         Albacete                 0-1  CD Mestalla
+         Levante UD               2-2  UD Cartagena
+         RCD Córdoba              4-3  RCD Mallorca
+         AD Plus Ultra            2-1  Atlético Tetuán
+         AD Ceuta                 2-1  UD Las Palmas
+         UD Melilla               2-2  Granada CF
+         UD Salamanca             2-2  RB Linense
+
+
+Matchday 12
+[Sun Nov/26]
+         UE Sant Andreu           2-0  Racing Ferrol
+         Barakaldo CF             2-1  CF Badalona
+         Gimnástica Torrelavega   2-1  CD Logroñés
+         Real Zaragoza            3-1  Gimnàstic de Tarragona
+         Girona FC                4-1  Real Oviedo
+         Sporting Gijón           3-0  UD Huesca
+         UD Orensana              5-1  CA Osasuna
+         CD Numancia              2-1  SG Lucense
+         UD Las Palmas            0-2  RCD Mallorca
+         RB Linense               2-0  AD Plus Ultra
+         UD Cartagena             2-2  Hércules CF
+         Granada CF               2-1  Albacete
+         UD Salamanca             5-0  RCD Córdoba
+         CD Mestalla              1-1  Levante UD
+         Atlético Tetuán          0-1  UD Melilla
+
+
+Matchday 13
+[Sun Dec/3]
+         UD Huesca                3-1  Girona FC
+         CF Badalona              0-3  Sporting Gijón
+         CA Osasuna               1-2  Real Zaragoza
+         CD Logroñés              5-0  UD Orensana
+         CE Sabadell              1-1  UE Sant Andreu
+         Racing Ferrol            0-0  CD Numancia
+         Real Oviedo              5-1  Gimnástica Torrelavega
+         SG Lucense               0-1  Barakaldo CF
+         Levante UD               2-0  Granada CF
+         UD Melilla               3-1  RB Linense
+         UD Las Palmas            1-3  RCD Córdoba
+         Albacete                 3-1  Atlético Tetuán
+         AD Plus Ultra            2-2  UD Salamanca
+         AD Ceuta                 3-1  UD Cartagena
+         Hércules CF              4-1  CD Mestalla
+
+
+Matchday 14
+[Sun Dec/10]
+         Gimnàstic de Tarragona   4-2  CA Osasuna
+         Barakaldo CF             3-0  Racing Ferrol
+         CD Numancia              2-2  CE Sabadell
+         Girona FC                1-0  CF Badalona
+         Real Zaragoza            2-2  CD Logroñés
+         Gimnástica Torrelavega   4-2  UD Huesca
+         Sporting Gijón           7-0  SG Lucense
+         UD Orensana              0-1  Real Oviedo
+         Atlético Tetuán          4-0  Levante UD
+         UD Cartagena             2-1  RCD Mallorca
+         Granada CF               2-0  Hércules CF
+         RB Linense               3-3  Albacete
+         AD Plus Ultra            2-1  UD Melilla
+         UD Salamanca             7-0  UD Las Palmas
+         CD Mestalla              3-2  AD Ceuta
+
+
+Matchday 15
+[Sun Dec/17]
+         CF Badalona              4-1  Gimnástica Torrelavega
+         CD Logroñés              5-1  Gimnàstic de Tarragona
+         CE Sabadell              4-1  Barakaldo CF
+         Racing Ferrol            1-1  Sporting Gijón
+         Real Oviedo              3-1  Real Zaragoza
+         SG Lucense               3-0  Girona FC
+         UD Huesca                3-3  UD Orensana
+         UE Sant Andreu           4-3  CD Numancia
+         Albacete                 1-2  AD Plus Ultra
+         Hércules CF              3-4  Atlético Tetuán
+         Levante UD               3-0  RB Linense
+         RCD Córdoba              1-1  UD Cartagena
+         RCD Mallorca             0-1  CD Mestalla
+         AD Ceuta                 3-3  Granada CF
+         UD Salamanca             1-0  UD Melilla
+
+
+Matchday 16
+[Sun Dec/31]
+         Barakaldo CF             3-1  UE Sant Andreu
+         CA Osasuna               3-1  CD Logroñés
+         Gimnàstic de Tarragona   1-3  Real Oviedo
+         Girona FC                3-2  Racing Ferrol
+         Real Zaragoza            3-0  UD Huesca
+         Gimnástica Torrelavega   1-1  SG Lucense
+         Sporting Gijón           4-1  CE Sabadell
+         UD Orensana              4-1  CF Badalona
+         Albacete                 8-0  UD Melilla
+         Hércules CF              0-1  RB Linense
+         Levante UD               3-0  AD Plus Ultra
+         RCD Córdoba              0-0  CD Mestalla
+         RCD Mallorca             0-3  Granada CF
+         AD Ceuta                 0-0  Atlético Tetuán
+         UD Las Palmas            4-1  UD Cartagena
+
+
+Matchday 17
+[Sun Jan/7]
+         CF Badalona              1-1  Real Zaragoza
+         CD Numancia              5-3  Barakaldo CF
+         CE Sabadell              3-0  Girona FC
+         Racing Ferrol            2-0  Gimnástica Torrelavega
+         Real Oviedo              2-1  CA Osasuna
+         SG Lucense               0-0  UD Orensana
+         UD Huesca                3-1  Gimnàstic de Tarragona
+         UE Sant Andreu           3-2  Sporting Gijón
+         Atlético Tetuán          3-0  RCD Mallorca
+         Granada CF               2-1  RCD Córdoba
+         RB Linense               3-0  AD Ceuta
+         AD Plus Ultra            3-1  Hércules CF
+         UD Melilla               5-2  Levante UD
+         UD Salamanca             5-0  Albacete
+         CD Mestalla              3-1  UD Las Palmas
+
+
+Matchday 18
+[Sun Jan/14]
+         CF Badalona              0-1  Gimnàstic de Tarragona
+         CD Numancia              1-2  Sporting Gijón
+         CE Sabadell              6-1  Gimnástica Torrelavega
+         Racing Ferrol            2-0  UD Orensana
+         Real Oviedo              4-3  CD Logroñés
+         SG Lucense               3-1  Real Zaragoza
+         UD Huesca                3-0  CA Osasuna
+         UE Sant Andreu           3-4  Girona FC
+         UD Cartagena             4-0  UD Salamanca
+         Hércules CF              4-1  UD Melilla
+         Levante UD               4-0  Albacete
+         RCD Córdoba              3-2  Atlético Tetuán
+         RCD Mallorca             3-1  RB Linense
+         AD Ceuta                 3-1  AD Plus Ultra
+         UD Las Palmas            3-1  Granada CF
+
+
+Matchday 19
+[Sun Jan/21]
+         CA Osasuna               0-1  CF Badalona
+         CD Logroñés              2-2  UD Huesca
+         Gimnàstic de Tarragona   4-1  SG Lucense
+         Girona FC                3-1  CD Numancia
+         Real Zaragoza            2-0  Racing Ferrol
+         Gimnástica Torrelavega   1-1  UE Sant Andreu
+         Sporting Gijón           1-0  Barakaldo CF
+         UD Orensana              1-0  CE Sabadell
+         Albacete                 4-1  Hércules CF
+         Atlético Tetuán          2-1  UD Las Palmas
+         RB Linense               4-1  RCD Córdoba
+         AD Plus Ultra            3-2  RCD Mallorca
+         UD Melilla               4-1  AD Ceuta
+         UD Salamanca             4-2  Levante UD
+         CD Mestalla              7-0  UD Cartagena
+
+
+Matchday 20
+[Sun Jan/28]
+         CF Badalona              2-2  CD Logroñés
+         Barakaldo CF             3-1  Girona FC
+         CD Numancia              1-1  Gimnástica Torrelavega
+         CE Sabadell              1-5  Real Zaragoza
+         Racing Ferrol            2-0  Gimnàstic de Tarragona
+         SG Lucense               0-1  CA Osasuna
+         UD Huesca                2-0  Real Oviedo
+         UE Sant Andreu           6-1  UD Orensana
+         UD Cartagena             3-1  Granada CF
+         Hércules CF              3-1  Levante UD
+         RCD Córdoba              2-0  AD Plus Ultra
+         RCD Mallorca             4-2  UD Melilla
+         AD Ceuta                 1-0  Albacete
+         UD Las Palmas            3-1  RB Linense
+         CD Mestalla              1-1  UD Salamanca
+
+
+Matchday 21
+[Sun Feb/4]
+         CA Osasuna               1-0  Racing Ferrol
+         CD Logroñés              6-1  SG Lucense
+         Gimnàstic de Tarragona   1-1  CE Sabadell
+         Girona FC                4-1  Sporting Gijón
+         Real Zaragoza            8-3  UE Sant Andreu
+         Gimnástica Torrelavega   5-0  Barakaldo CF
+         Real Oviedo              3-1  CF Badalona
+         UD Orensana              2-0  CD Numancia
+         UD Melilla               3-2  RCD Córdoba
+         Atlético Tetuán          6-2  UD Cartagena
+         Granada CF               0-0  CD Mestalla
+         Levante UD               1-0  AD Ceuta
+         AD Plus Ultra            0-2  UD Las Palmas
+         Albacete                 1-1  RCD Mallorca
+         UD Salamanca             1-1  Hércules CF
+
+
+Matchday 22
+[Sun Feb/11]
+         CF Badalona              2-1  UD Huesca
+         Barakaldo CF             1-0  UD Orensana
+         CD Numancia              2-2  Real Zaragoza
+         CE Sabadell              2-0  CA Osasuna
+         Racing Ferrol            3-1  CD Logroñés
+         Sporting Gijón           2-0  Gimnástica Torrelavega
+         SG Lucense               4-0  Real Oviedo
+         UE Sant Andreu           2-1  Gimnàstic de Tarragona
+         UD Cartagena             4-1  RB Linense
+         Granada CF               3-2  UD Salamanca
+         RCD Córdoba              6-4  Albacete
+         RCD Mallorca             1-1  Levante UD
+         AD Ceuta                 1-1  Hércules CF
+         UD Las Palmas            3-2  UD Melilla
+         CD Mestalla              1-2  Atlético Tetuán
+
+
+Matchday 23
+[Sun Feb/18]
+         CA Osasuna               2-1  UE Sant Andreu
+         CD Logroñés              3-2  CE Sabadell
+         Gimnàstic de Tarragona   2-0  CD Numancia
+         Real Zaragoza            1-0  Barakaldo CF
+         Gimnástica Torrelavega   2-0  Girona FC
+         Real Oviedo              5-0  Racing Ferrol
+         UD Huesca                3-2  SG Lucense
+         UD Orensana              4-2  Sporting Gijón
+         Albacete                 0-0  UD Las Palmas
+         Atlético Tetuán          5-1  Granada CF
+         Hércules CF              5-0  RCD Mallorca
+         Levante UD               1-1  RCD Córdoba
+         RB Linense               1-2  CD Mestalla
+         AD Plus Ultra            2-1  UD Cartagena
+         UD Salamanca             4-1  AD Ceuta
+
+
+Matchday 24
+[Sun Feb/25]
+         Barakaldo CF             2-2  Gimnàstic de Tarragona
+         CD Numancia              3-1  CA Osasuna
+         CE Sabadell              6-2  Real Oviedo
+         Girona FC                3-0  UD Orensana
+         Racing Ferrol            2-3  UD Huesca
+         Sporting Gijón           6-2  Real Zaragoza
+         SG Lucense               2-1  CF Badalona
+         UE Sant Andreu           1-0  CD Logroñés
+         Atlético Tetuán          4-0  UD Salamanca
+         UD Cartagena             6-3  UD Melilla
+         Granada CF               2-1  RB Linense
+         RCD Córdoba              3-3  Hércules CF
+         RCD Mallorca             4-0  AD Ceuta
+         UD Las Palmas            3-2  Levante UD
+         CD Mestalla              1-1  AD Plus Ultra
+
+
+Matchday 25
+[Sun Mar/4]
+         CF Badalona              5-0  Racing Ferrol
+         CA Osasuna               0-0  Barakaldo CF
+         CD Logroñés              2-2  CD Numancia
+         Gimnàstic de Tarragona   0-3  Sporting Gijón
+         Real Zaragoza            2-0  Girona FC
+         Real Oviedo              4-0  UE Sant Andreu
+         UD Huesca                6-0  CE Sabadell
+         UD Orensana              2-1  Gimnástica Torrelavega
+         Albacete                 1-4  UD Cartagena
+         Hércules CF              2-1  UD Las Palmas
+         RB Linense               3-2  Atlético Tetuán
+         AD Plus Ultra            4-0  Granada CF
+         AD Ceuta                 2-1  RCD Córdoba
+         UD Melilla               2-1  CD Mestalla
+         UD Salamanca             4-0  RCD Mallorca
+
+
+Matchday 26
+[Sun Mar/11]
+         Barakaldo CF             2-1  CD Logroñés
+         CD Numancia              3-4  Real Oviedo
+         CE Sabadell              4-0  CF Badalona
+         Girona FC                0-1  Gimnàstic de Tarragona
+         Racing Ferrol            3-0  SG Lucense
+         Gimnástica Torrelavega   2-1  Real Zaragoza
+         Sporting Gijón           5-0  CA Osasuna
+         UE Sant Andreu           4-2  UD Huesca
+         Atlético Tetuán          1-0  AD Plus Ultra
+         UD Cartagena             2-2  Levante UD
+         Granada CF               2-3  UD Melilla
+         RB Linense               4-0  UD Salamanca
+         RCD Mallorca             3-1  RCD Córdoba
+         UD Las Palmas            5-1  AD Ceuta
+         CD Mestalla              6-2  Albacete
+
+
+Matchday 27
+[Sun Mar/18]
+         CF Badalona              2-2  UE Sant Andreu
+         CA Osasuna               5-2  Girona FC
+         CD Logroñés              0-2  Sporting Gijón
+         Gimnàstic de Tarragona   3-1  Gimnástica Torrelavega
+         Real Zaragoza            4-0  UD Orensana
+         Real Oviedo              3-2  Barakaldo CF
+         SG Lucense               4-0  CE Sabadell
+         UD Huesca                6-1  CD Numancia
+         AD Plus Ultra            3-0  RB Linense
+         Hércules CF              3-2  UD Cartagena
+         Levante UD               2-0  CD Mestalla
+         RCD Córdoba              1-3  UD Salamanca
+         RCD Mallorca             2-1  UD Las Palmas
+         Albacete                 1-3  Granada CF
+         UD Melilla               1-2  Atlético Tetuán
+
+
+Matchday 28
+[Sun Mar/25]
+         Barakaldo CF             1-1  UD Huesca
+         CD Numancia              1-2  CF Badalona
+         CE Sabadell              2-0  Racing Ferrol
+         Girona FC                4-0  CD Logroñés
+         Gimnástica Torrelavega   1-4  CA Osasuna
+         Sporting Gijón           3-0  Real Oviedo
+         UD Orensana              2-0  Gimnàstic de Tarragona
+         UE Sant Andreu           4-1  SG Lucense
+         Atlético Tetuán          5-0  Albacete
+         UD Cartagena             4-1  AD Ceuta
+         Granada CF               3-1  Levante UD
+         RB Linense               3-0  UD Melilla
+         RCD Córdoba              4-1  UD Las Palmas
+         UD Salamanca             2-1  AD Plus Ultra
+         CD Mestalla              1-1  Hércules CF
+
+
+Matchday 29
+[Sun Apr/1]
+         UD Huesca                1-1  Sporting Gijón
+         SG Lucense               5-2  CD Numancia
+         Real Oviedo              4-1  Girona FC
+         Racing Ferrol            3-0  UE Sant Andreu
+         Gimnàstic de Tarragona   1-0  Real Zaragoza
+         CD Logroñés              1-1  Gimnástica Torrelavega
+         CF Badalona              5-1  Barakaldo CF
+         CA Osasuna               2-0  UD Orensana
+         UD Melilla               4-2  AD Plus Ultra
+         UD Las Palmas            3-0  UD Salamanca
+         AD Ceuta                 5-3  CD Mestalla
+         RCD Mallorca             6-1  UD Cartagena
+         Levante UD               3-2  Atlético Tetuán
+         Hércules CF              5-0  Granada CF
+         Albacete                 1-3  RB Linense
+
+
+Matchday 30
+[Sun Apr/8]
+         UE Sant Andreu           1-1  CE Sabadell
+         Barakaldo CF             6-0  SG Lucense
+         CD Numancia              0-0  Racing Ferrol
+         Girona FC                2-2  UD Huesca
+         Real Zaragoza            4-2  CA Osasuna
+         Gimnástica Torrelavega   2-1  Real Oviedo
+         Sporting Gijón           2-1  CF Badalona
+         UD Orensana              2-1  CD Logroñés
+         AD Plus Ultra            3-2  Albacete
+         Atlético Tetuán          3-0  Hércules CF
+         UD Cartagena             1-1  RCD Córdoba
+         UD Melilla               2-2  UD Salamanca
+         CD Mestalla              4-3  RCD Mallorca
+         Granada CF               1-0  AD Ceuta
+         RB Linense               3-0  Levante UD
+
+
+Matchday 31
+[Sun Apr/15]
+         CF Badalona              6-3  Girona FC
+         CD Logroñés              3-2  Real Zaragoza
+         CE Sabadell              5-2  CD Numancia
+         Racing Ferrol            3-0  Barakaldo CF
+         Real Oviedo              2-4  UD Orensana
+         SG Lucense               1-0  Sporting Gijón
+         UD Huesca                1-0  Gimnástica Torrelavega
+         CA Osasuna               3-1  Gimnàstic de Tarragona
+
+
+Matchday 32
+[Sun Apr/22]
+         Barakaldo CF             7-1  CE Sabadell
+         CD Numancia              0-1  UE Sant Andreu
+         Gimnàstic de Tarragona   5-1  CD Logroñés
+         Girona FC                0-0  SG Lucense
+         Real Zaragoza            2-0  Real Oviedo
+         Gimnástica Torrelavega   2-0  CF Badalona
+         Sporting Gijón           3-1  Racing Ferrol
+         UD Orensana              5-1  UD Huesca
+
+
+Matchday 33
+[Sun Apr/29]
+         CD Logroñés              1-2  CA Osasuna
+         CE Sabadell              2-0  Sporting Gijón
+         Racing Ferrol            1-0  Girona FC
+         CF Badalona              3-2  UD Orensana
+         SG Lucense               4-0  Gimnástica Torrelavega
+         UD Huesca                2-0  Real Zaragoza
+         UE Sant Andreu           2-1  Barakaldo CF
+         Real Oviedo              2-2  Gimnàstic de Tarragona
+
+
+Matchday 34
+[Sun May/6]
+         Barakaldo CF             4-0  CD Numancia
+         CA Osasuna               3-1  Real Oviedo
+         Gimnàstic de Tarragona   3-1  UD Huesca
+         Girona FC                0-0  CE Sabadell
+         Real Zaragoza            2-0  CF Badalona
+         Gimnástica Torrelavega   2-0  Racing Ferrol
+         Sporting Gijón           6-2  UE Sant Andreu
+         UD Orensana              2-1  SG Lucense

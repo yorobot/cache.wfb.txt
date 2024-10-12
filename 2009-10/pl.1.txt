@@ -1,0 +1,423 @@
+= PL 1 2009/10
+
+# Date       Fri Jul/31 2009 - Sat May/15 2010 (288d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Jul/31]
+  17.45  Polonia Bytom            1-0 (0-0)  GKS Bełchatów
+  20.00  Lechia Gdańsk            2-1 (2-1)  Arka Gdynia
+[Sat Aug/1]
+  15.30  Wisła Kraków             2-0 (2-0)  Ruch Chorzów
+  17.00  Jagiellonia Białystok    2-1 (0-1)  Odra Wodzisław
+  19.15  Śląsk Wrocław            2-0 (1-0)  KS Cracovia
+[Sun Aug/2]
+  17.00  Piast Gliwice            1-3 (0-0)  Lech Poznań
+  19.15  Korona Kielce            4-0 (2-0)  Polonia Warszawa
+         Legia Warszawa           4-0 (1-0)  Zagłębie Lubin
+
+
+Matchday 2
+[Fri Aug/7]
+  17.45  KS Cracovia              2-6 (1-3)  Lechia Gdańsk
+  20.00  Zagłębie Lubin           1-4 (0-2)  Wisła Kraków
+[Sat Aug/8]
+  16.30  Odra Wodzisław           0-1 (0-1)  Polonia Bytom
+  18.15  GKS Bełchatów            1-1 (0-1)  Jagiellonia Białystok
+  18.45  Ruch Chorzów             2-0 (1-0)  Piast Gliwice
+[Sun Aug/9]
+  14.45  Polonia Warszawa         3-2 (0-1)  Śląsk Wrocław
+  17.00  Korona Kielce            0-5 (0-2)  Lech Poznań
+         Arka Gdynia              0-1 (0-0)  Legia Warszawa
+
+
+Matchday 3
+[Fri Aug/14]
+  17.45  Ruch Chorzów             1-0 (1-0)  Arka Gdynia
+  20.00  Śląsk Wrocław            2-1 (1-1)  Polonia Bytom
+[Sat Aug/15]
+  14.45  Piast Gliwice            4-1 (2-1)  Zagłębie Lubin
+  17.00  Jagiellonia Białystok    2-0 (1-0)  Korona Kielce
+  19.15  Legia Warszawa           0-0  KS Cracovia
+  20.45  Wisła Kraków             3-0 (2-0)  GKS Bełchatów
+[Sun Aug/16]
+  18.45  Lechia Gdańsk            0-2 (0-0)  Odra Wodzisław
+  19.15  Lech Poznań              2-4 (1-1)  Polonia Warszawa
+
+
+Matchday 4
+[Fri Aug/21]
+  17.45  Zagłębie Lubin           0-1 (0-1)  Ruch Chorzów
+  20.00  Arka Gdynia              0-1 (0-1)  Wisła Kraków
+[Sat Aug/22]
+  14.45  GKS Bełchatów            0-1 (0-1)  Piast Gliwice
+  17.00  Polonia Bytom            1-0 (1-0)  Korona Kielce
+  18.15  Jagiellonia Białystok    2-0 (1-0)  Śląsk Wrocław
+  19.15  Polonia Warszawa         0-1 (0-1)  Lechia Gdańsk
+[Sun Aug/23]
+  14.45  KS Cracovia              1-0 (0-0)  Lech Poznań
+  16.45  Odra Wodzisław           1-0 (0-0)  Legia Warszawa
+
+
+Matchday 5
+[Fri Aug/28]
+  17.45  Piast Gliwice            2-1 (1-0)  Odra Wodzisław
+  20.00  Legia Warszawa           1-0 (1-0)  Polonia Bytom
+[Sat Aug/29]
+  14.45  Ruch Chorzów             2-0 (1-0)  Polonia Warszawa
+  16.00  Wisła Kraków             2-1 (2-0)  Jagiellonia Białystok
+  17.00  Lechia Gdańsk            1-1 (0-1)  Śląsk Wrocław
+  19.15  Korona Kielce            1-1 (0-1)  KS Cracovia
+[Sun Aug/30]
+  14.45  Zagłębie Lubin           0-2 (0-1)  Arka Gdynia
+  16.45  Lech Poznań              2-2 (0-1)  GKS Bełchatów
+
+
+Matchday 6
+[Fri Sep/11]
+  17.45  Odra Wodzisław           0-2 (0-1)  Korona Kielce
+  20.00  Polonia Bytom            4-0 (2-0)  Piast Gliwice
+[Sat Sep/12]
+  14.45  GKS Bełchatów            2-1 (0-0)  Ruch Chorzów
+  17.00  KS Cracovia              1-1 (1-0)  Arka Gdynia
+  18.15  Śląsk Wrocław            0-0  Legia Warszawa
+  19.15  Jagiellonia Białystok    2-3 (2-2)  Lech Poznań
+[Sun Sep/13]
+  14.45  Polonia Warszawa         0-1 (0-0)  Zagłębie Lubin
+  16.45  Lechia Gdańsk            0-1 (0-0)  Wisła Kraków
+
+
+Matchday 7
+[Fri Sep/18]
+  17.45  Zagłębie Lubin           1-1 (0-0)  GKS Bełchatów
+  20.00  Legia Warszawa           2-0 (1-0)  Lechia Gdańsk
+[Sat Sep/19]
+  14.45  Arka Gdynia              0-0  Polonia Warszawa
+  17.00  Korona Kielce            1-1 (0-0)  Śląsk Wrocław
+  18.15  Lech Poznań              1-0 (1-0)  Odra Wodzisław
+  19.15  Ruch Chorzów             2-0 (1-0)  KS Cracovia
+[Sun Sep/20]
+  14.45  Piast Gliwice            0-0  Jagiellonia Białystok
+  16.45  Wisła Kraków             1-1 (0-1)  Polonia Bytom
+
+
+Matchday 8
+[Fri Sep/25]
+  20.00  Lechia Gdańsk            1-0 (0-0)  Zagłębie Lubin
+         Legia Warszawa           2-0 (0-0)  Lech Poznań
+[Sat Sep/26]
+  14.45  Odra Wodzisław           0-1 (0-1)  GKS Bełchatów
+  17.00  Korona Kielce            3-2 (0-1)  Piast Gliwice
+  18.15  Wisła Kraków             2-1 (2-1)  Polonia Warszawa
+  19.15  Jagiellonia Białystok    0-0  KS Cracovia
+[Sun Sep/27]
+  14.45  Śląsk Wrocław            0-0  Ruch Chorzów
+  17.15  Polonia Bytom            3-1 (2-0)  Arka Gdynia
+
+
+Matchday 9
+[Fri Oct/2]
+  17.45  KS Cracovia              1-1 (1-0)  Zagłębie Lubin
+  20.00  Śląsk Wrocław            1-3 (0-1)  Wisła Kraków
+[Sat Oct/3]
+  14.45  Odra Wodzisław           1-3 (0-2)  Ruch Chorzów
+  16.15  Jagiellonia Białystok    2-0 (1-0)  Legia Warszawa
+  17.00  GKS Bełchatów            1-0 (1-0)  Korona Kielce
+  19.15  Polonia Bytom            1-1 (1-0)  Lechia Gdańsk
+[Sun Oct/4]
+  14.45  Polonia Warszawa         0-2 (0-0)  Piast Gliwice
+         Arka Gdynia              1-1 (1-0)  Lech Poznań
+
+
+Matchday 10
+[Fri Oct/16]
+  17.45  GKS Bełchatów            2-0 (1-0)  Śląsk Wrocław
+  20.00  Ruch Chorzów             1-0 (1-0)  Lechia Gdańsk
+[Sat Oct/17]
+  14.45  KS Cracovia              1-2 (1-1)  Polonia Bytom
+  16.10  Piast Gliwice            1-1 (0-0)  Legia Warszawa
+  17.00  Polonia Warszawa         2-1 (1-0)  Odra Wodzisław
+  19.15  Korona Kielce            1-2 (1-1)  Arka Gdynia
+[Sun Oct/18]
+  14.45  Zagłębie Lubin           0-0  Jagiellonia Białystok
+  17.00  Lech Poznań              1-0 (0-0)  Wisła Kraków
+
+
+Matchday 11
+[Fri Oct/23]
+  17.45  Arka Gdynia              0-0  Jagiellonia Białystok
+  20.00  Polonia Bytom            0-1 (0-0)  Ruch Chorzów
+[Sat Oct/24]
+  14.45  GKS Bełchatów            3-0 (2-0)  Polonia Warszawa
+  16.15  Legia Warszawa           5-2 (1-1)  Korona Kielce
+  17.00  Wisła Kraków             2-1 (1-0)  Piast Gliwice
+  19.15  Śląsk Wrocław            2-0 (0-0)  Zagłębie Lubin
+[Sun Oct/25]
+  14.45  Odra Wodzisław           1-0 (0-0)  KS Cracovia
+  17.15  Lechia Gdańsk            0-0  Lech Poznań
+
+
+Matchday 12
+[Thu Oct/29]
+  20.00  Zagłębie Lubin           2-0 (0-0)  Polonia Bytom
+[Fri Oct/30]
+  17.45  KS Cracovia              0-1 (0-0)  GKS Bełchatów
+  20.00  Korona Kielce            2-3 (0-2)  Wisła Kraków
+         Piast Gliwice            0-2 (0-1)  Lechia Gdańsk
+[Sat Oct/31]
+  13.45  Arka Gdynia              2-0 (2-0)  Odra Wodzisław
+  16.00  Lech Poznań              1-0 (1-0)  Śląsk Wrocław
+  18.30  Legia Warszawa           2-0 (2-0)  Ruch Chorzów
+         Jagiellonia Białystok    1-0 (0-0)  Polonia Warszawa
+
+
+Matchday 13
+[Fri Nov/6]
+  17.45  Odra Wodzisław           1-2 (1-1)  Zagłębie Lubin
+  20.00  Lechia Gdańsk            1-1 (1-0)  Korona Kielce
+         Wisła Kraków             0-1 (0-1)  Legia Warszawa
+[Sat Nov/7]
+  14.45  Śląsk Wrocław            2-1 (2-0)  Piast Gliwice
+  17.00  GKS Bełchatów            1-0 (0-0)  Arka Gdynia
+  18.15  Polonia Bytom            1-1 (0-0)  Lech Poznań
+  19.15  Polonia Warszawa         0-1 (0-1)  KS Cracovia
+[Sun Nov/8]
+  14.45  Ruch Chorzów             5-2 (3-1)  Jagiellonia Białystok
+
+
+Matchday 14
+[Fri Nov/20]
+  17.45  Korona Kielce            3-3 (2-1)  Zagłębie Lubin
+  20.00  Polonia Bytom            1-1 (1-1)  Jagiellonia Białystok
+         Legia Warszawa           1-1 (0-0)  Polonia Warszawa
+[Sat Nov/21]
+  14.45  Piast Gliwice            2-2 (1-1)  Arka Gdynia
+  17.00  Lech Poznań              3-1 (2-0)  Ruch Chorzów
+         Lechia Gdańsk            0-2 (0-1)  GKS Bełchatów
+  19.15  Śląsk Wrocław            4-0 (4-0)  Odra Wodzisław
+[Sun Nov/22]
+  17.00  Wisła Kraków             0-1 (0-0)  KS Cracovia
+
+
+Matchday 15
+[Fri Nov/27]
+  20.00  Polonia Warszawa         1-0 (0-0)  Polonia Bytom
+         Zagłębie Lubin           0-1 (0-1)  Lech Poznań
+[Sat Nov/28]
+  14.45  KS Cracovia              3-2 (2-1)  Piast Gliwice
+  16.15  GKS Bełchatów            0-1 (0-0)  Legia Warszawa
+  17.00  Jagiellonia Białystok    0-0  Lechia Gdańsk
+  19.15  Ruch Chorzów             0-0  Korona Kielce
+[Sun Nov/29]
+  14.45  Odra Wodzisław           1-3 (0-3)  Wisła Kraków
+  17.15  Arka Gdynia              1-1 (1-1)  Śląsk Wrocław
+
+
+Matchday 16
+[Wed Nov/25]
+  18.30  Arka Gdynia              1-2 (0-1)  Lechia Gdańsk
+[Fri Dec/4]
+  20.00  Zagłębie Lubin           0-0  Legia Warszawa
+[Sat Dec/5]
+  14.45  KS Cracovia              1-0 (1-0)  Śląsk Wrocław
+  16.15  GKS Bełchatów            2-2 (1-1)  Polonia Bytom
+  17.00  Odra Wodzisław           2-2 (1-0)  Jagiellonia Białystok
+  19.15  Lech Poznań              1-1 (1-1)  Piast Gliwice
+[Sun Dec/6]
+  14.45  Ruch Chorzów             1-3 (0-0)  Wisła Kraków
+         Polonia Warszawa         1-1 (1-0)  Korona Kielce
+
+
+Matchday 17
+[Fri Dec/11]
+  17.45  Piast Gliwice            1-2 (1-2)  Ruch Chorzów
+  20.00  Wisła Kraków             1-0 (1-0)  Zagłębie Lubin
+[Sat Dec/12]
+  14.45  Lechia Gdańsk            1-0 (0-0)  KS Cracovia
+  16.15  Lech Poznań              2-0 (0-0)  Korona Kielce
+  17.00  Polonia Bytom            1-1 (0-1)  Odra Wodzisław
+  19.15  Śląsk Wrocław            1-0 (0-0)  Polonia Warszawa
+[Sun Dec/13]
+  14.45  Legia Warszawa           1-0 (0-0)  Arka Gdynia
+         Jagiellonia Białystok    2-1 (1-0)  GKS Bełchatów
+
+
+Matchday 18
+[Fri Feb/26]
+  17.45  Odra Wodzisław           0-0  Lechia Gdańsk
+  20.00  KS Cracovia              1-2 (1-0)  Legia Warszawa
+[Sat Feb/27]
+  14.45  Korona Kielce            1-0 (1-0)  Jagiellonia Białystok
+  16.15  GKS Bełchatów            1-0 (1-0)  Wisła Kraków
+  17.00  Polonia Bytom            0-0  Śląsk Wrocław
+  19.15  Arka Gdynia              0-3 (0-1)  Ruch Chorzów
+[Sun Feb/28]
+  14.45  Zagłębie Lubin           1-1 (1-0)  Piast Gliwice
+  17.00  Polonia Warszawa         0-3 (0-1)  Lech Poznań
+
+
+Matchday 19
+[Fri Mar/5]
+  17.45  Korona Kielce            1-0 (0-0)  Polonia Bytom
+  20.00  Wisła Kraków             0-1 (0-1)  Arka Gdynia
+[Sat Mar/6]
+  14.45  Śląsk Wrocław            1-2 (0-1)  Jagiellonia Białystok
+  16.15  Lech Poznań              3-1 (2-1)  KS Cracovia
+  17.00  Lechia Gdańsk            1-1 (1-0)  Polonia Warszawa
+  19.15  Ruch Chorzów             0-2 (0-0)  Zagłębie Lubin
+[Sun Mar/7]
+  14.15  Legia Warszawa           0-1 (0-1)  Odra Wodzisław
+  14.45  Piast Gliwice            1-2 (0-2)  GKS Bełchatów
+
+
+Matchday 20
+[Fri Mar/12]
+  17.45  Odra Wodzisław           2-0 (1-0)  Piast Gliwice
+  20.00  Jagiellonia Białystok    0-0  Wisła Kraków
+[Sat Mar/13]
+  14.45  KS Cracovia              3-0 (2-0)  Korona Kielce
+  17.00  Polonia Warszawa         1-1 (1-1)  Ruch Chorzów
+  18.15  Polonia Bytom            1-0 (0-0)  Legia Warszawa
+  19.15  Śląsk Wrocław            1-2 (1-1)  Lechia Gdańsk
+[Sun Mar/14]
+  14.45  Arka Gdynia              0-2 (0-1)  Zagłębie Lubin
+  17.00  GKS Bełchatów            1-1 (0-1)  Lech Poznań
+
+
+Matchday 21
+[Fri Mar/19]
+  17.45  Arka Gdynia              2-0 (0-0)  KS Cracovia
+  20.00  Ruch Chorzów             1-0 (0-0)  GKS Bełchatów
+[Sat Mar/20]
+  14.45  Legia Warszawa           1-1 (1-0)  Śląsk Wrocław
+  16.00  Wisła Kraków             3-0 (0-0)  Lechia Gdańsk
+  17.00  Korona Kielce            1-1 (1-0)  Odra Wodzisław
+  19.15  Zagłębie Lubin           2-0 (0-0)  Polonia Warszawa
+[Sun Mar/21]
+  14.45  Piast Gliwice            1-0 (1-0)  Polonia Bytom
+  17.00  Lech Poznań              2-0 (1-0)  Jagiellonia Białystok
+
+
+Matchday 22
+[Fri Mar/26]
+  17.45  GKS Bełchatów            1-3 (0-1)  Zagłębie Lubin
+  20.00  Lechia Gdańsk            2-3 (2-1)  Legia Warszawa
+[Sat Mar/27]
+  14.45  Polonia Warszawa         2-1 (0-1)  Arka Gdynia
+  17.00  KS Cracovia              1-4 (0-1)  Ruch Chorzów
+  18.15  Polonia Bytom            1-3 (1-1)  Wisła Kraków
+  19.15  Śląsk Wrocław            1-1 (0-1)  Korona Kielce
+[Sun Mar/28]
+  14.45  Jagiellonia Białystok    2-0 (1-0)  Piast Gliwice
+  17.00  Odra Wodzisław           0-0  Lech Poznań
+
+
+Matchday 23
+[Wed Mar/31]
+  18.15  Arka Gdynia              2-2 (0-1)  Polonia Bytom
+[Thu Apr/1]
+  17.45  KS Cracovia              0-1 (0-0)  Jagiellonia Białystok
+  20.00  GKS Bełchatów            3-0 (1-0)  Odra Wodzisław
+[Sat Apr/3]
+  14.45  Piast Gliwice            1-0 (0-0)  Korona Kielce
+  16.15  Polonia Warszawa         0-1 (0-0)  Wisła Kraków
+  17.00  Zagłębie Lubin           2-2 (2-1)  Lechia Gdańsk
+  19.00  Lech Poznań              1-0 (0-0)  Legia Warszawa
+  19.15  Ruch Chorzów             0-0  Śląsk Wrocław
+
+
+Matchday 24
+[Fri Apr/9]
+  17.45  Zagłębie Lubin           0-0  KS Cracovia
+  20.00  Lech Poznań              2-0 (1-0)  Arka Gdynia
+[Mon Apr/19]
+  17.45  Piast Gliwice            0-2 (0-1)  Polonia Warszawa
+  20.00  Legia Warszawa           2-1 (2-0)  Jagiellonia Białystok
+[Tue Apr/20]
+  16.30  Lechia Gdańsk            0-0  Polonia Bytom
+  18.45  Ruch Chorzów             3-2 (1-1)  Odra Wodzisław
+         Wisła Kraków             1-0 (1-0)  Śląsk Wrocław
+  21.00  Korona Kielce            1-1 (0-0)  GKS Bełchatów
+
+
+Matchday 25
+[Fri Apr/23]
+  17.45  Arka Gdynia              1-2 (1-1)  Korona Kielce
+  20.00  Legia Warszawa           3-0 (2-0)  Piast Gliwice
+[Sat Apr/24]
+  12.30  Polonia Bytom            1-2 (1-1)  KS Cracovia
+  14.45  Jagiellonia Białystok    0-0  Zagłębie Lubin
+  16.00  Wisła Kraków             0-0  Lech Poznań
+  17.00  Śląsk Wrocław            0-0  GKS Bełchatów
+  19.15  Odra Wodzisław           2-1 (0-1)  Polonia Warszawa
+[Sun Apr/25]
+  17.00  Lechia Gdańsk            1-1 (1-1)  Ruch Chorzów
+
+
+Matchday 26
+[Mon Apr/26]
+  20.00  Korona Kielce            0-1 (0-0)  Legia Warszawa
+[Tue Apr/27]
+  16.00  KS Cracovia              1-0 (1-0)  Odra Wodzisław
+  18.15  Polonia Warszawa         0-0  GKS Bełchatów
+  18.45  Piast Gliwice            1-4 (1-1)  Wisła Kraków
+  20.45  Zagłębie Lubin           1-1 (0-0)  Śląsk Wrocław
+[Wed Apr/28]
+  16.30  Ruch Chorzów             2-1 (0-1)  Polonia Bytom
+  18.45  Lech Poznań              2-1 (1-1)  Lechia Gdańsk
+         Jagiellonia Białystok    2-1 (0-1)  Arka Gdynia
+
+
+Matchday 27
+[Fri Apr/30]
+  17.45  GKS Bełchatów            3-0 (2-0)  KS Cracovia
+  20.00  Wisła Kraków             0-1 (0-1)  Korona Kielce
+[Sat May/1]
+  14.45  Lechia Gdańsk            0-1 (0-1)  Piast Gliwice
+  17.00  Odra Wodzisław           2-1 (1-0)  Arka Gdynia
+  18.15  Ruch Chorzów             1-0 (0-0)  Legia Warszawa
+  19.15  Polonia Warszawa         2-0 (1-0)  Jagiellonia Białystok
+[Sun May/2]
+  14.45  Polonia Bytom            2-1 (0-1)  Zagłębie Lubin
+  17.00  Śląsk Wrocław            0-3 (0-1)  Lech Poznań
+
+
+Matchday 28
+[Thu May/6]
+  18.30  Arka Gdynia              2-1 (1-1)  GKS Bełchatów
+[Fri May/7]
+  17.45  KS Cracovia              1-2 (1-1)  Polonia Warszawa
+  20.00  Jagiellonia Białystok    1-0 (0-0)  Ruch Chorzów
+[Sat May/8]
+  14.45  Piast Gliwice            2-2 (0-1)  Śląsk Wrocław
+  16.00  Legia Warszawa           0-3 (0-1)  Wisła Kraków
+  17.00  Zagłębie Lubin           2-1 (1-0)  Odra Wodzisław
+  18.30  Lech Poznań              3-0 (3-0)  Polonia Bytom
+  19.15  Korona Kielce            1-0 (0-0)  Lechia Gdańsk
+
+
+Matchday 29
+[Tue May/11]
+  19.00  Polonia Warszawa         1-0 (1-0)  Legia Warszawa
+         Odra Wodzisław           2-4 (0-0)  Śląsk Wrocław
+         GKS Bełchatów            2-1 (1-1)  Lechia Gdańsk
+         Zagłębie Lubin           2-2 (1-0)  Korona Kielce
+         Ruch Chorzów             1-2 (0-0)  Lech Poznań
+         Arka Gdynia              2-1 (1-0)  Piast Gliwice
+         Jagiellonia Białystok    0-0  Polonia Bytom
+         KS Cracovia              1-1 (0-0)  Wisła Kraków
+
+
+Matchday 30
+[Sat May/15]
+  17.00  Polonia Bytom            1-0 (1-0)  Polonia Warszawa
+         Wisła Kraków             1-1 (1-0)  Odra Wodzisław
+         Lech Poznań              2-0 (1-0)  Zagłębie Lubin
+         Lechia Gdańsk            2-0 (1-0)  Jagiellonia Białystok
+         Legia Warszawa           2-2 (1-0)  GKS Bełchatów
+         Śląsk Wrocław            2-1 (0-1)  Arka Gdynia
+         Piast Gliwice            0-1 (0-0)  KS Cracovia
+         Korona Kielce            3-0 (1-0)  Ruch Chorzów

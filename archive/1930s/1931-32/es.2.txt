@@ -1,0 +1,165 @@
+= ES 2 1931/32
+
+# Date       Sun Nov/22 1931 - Sun Apr/3 1932 (133d)
+# Teams      10
+# Matches    87
+
+
+
+Matchday 1
+[Sun Nov/22]
+         Real Oviedo              6-2  Atlético Madrid
+         Sevilla FC               4-1  RC Celta
+         Real Murcia              3-0  Catalunya FC
+         CD Castellón             2-2  Real Betis
+         Deportivo La Coruña      3-2  Sporting Gijón
+
+
+Matchday 2
+[Sun Nov/29]
+         Catalunya FC             2-3  Real Oviedo
+         RC Celta                 3-2  CD Castellón
+         Sporting Gijón           1-0  Sevilla FC
+         Atlético Madrid          4-1  Deportivo La Coruña
+         Real Betis               4-1  Real Murcia
+
+
+Matchday 3
+[Sun Dec/20]
+         Real Oviedo              4-1  RC Celta
+         Atlético Madrid          2-0  CD Castellón
+         Deportivo La Coruña      3-0  Catalunya FC
+         Sevilla FC               2-3  Real Betis
+         Real Murcia              4-1  Sporting Gijón
+
+
+Matchday 4
+[Sun Dec/27]
+         Catalunya FC             2-1  Atlético Madrid
+         Sevilla FC               3-5  Real Oviedo
+         Sporting Gijón           4-1  Real Betis
+         CD Castellón             4-2  Deportivo La Coruña
+         RC Celta                 3-1  Real Murcia
+
+
+Matchday 5
+[Sun Jan/3]
+         RC Celta                 2-1  Deportivo La Coruña
+         Real Oviedo              5-0  CD Castellón
+         Atlético Madrid          2-2  Sporting Gijón
+         Real Betis               2-1  Catalunya FC
+         Real Murcia              3-1  Sevilla FC
+
+
+Matchday 6
+[Sun Jan/10]
+         Sporting Gijón           3-1  RC Celta
+         Deportivo La Coruña      2-0  Real Oviedo
+         Real Betis               5-1  Atlético Madrid
+         CD Castellón             1-0  Real Murcia
+         Catalunya FC             0-2  Sevilla FC
+
+
+Matchday 7
+[Sun Jan/17]
+         Real Murcia              6-1  Deportivo La Coruña
+         Sevilla FC               3-1  CD Castellón
+         Real Oviedo              1-0  Real Betis
+         RC Celta                 1-2  Atlético Madrid
+         Catalunya FC             0-1  Sporting Gijón
+
+
+Matchday 8
+[Sun Jan/24]
+         Deportivo La Coruña      4-2  Sevilla FC
+         CD Castellón             2-0  Catalunya FC
+         Sporting Gijón           3-3  Real Oviedo
+         Real Betis               3-1  RC Celta
+         Atlético Madrid          4-0  Real Murcia
+
+
+Matchday 9
+[Sun Jan/31]
+         Sevilla FC               3-0  Atlético Madrid
+         Real Murcia              2-0  Real Oviedo
+         Sporting Gijón           2-0  CD Castellón
+         Deportivo La Coruña      0-0  Real Betis
+         Catalunya FC             3-3  RC Celta
+
+
+Matchday 10
+[Sun Feb/7]
+         RC Celta                 4-0  Sevilla FC
+         Sporting Gijón           4-1  Deportivo La Coruña
+         Catalunya FC             1-2  Real Murcia
+         Real Betis               4-0  CD Castellón
+         Atlético Madrid          1-0  Real Oviedo
+
+
+Matchday 11
+[Sun Feb/14]
+         Sevilla FC               1-0  Sporting Gijón
+         Real Murcia              2-2  Real Betis
+         CD Castellón             3-2  RC Celta
+         Real Oviedo              2-1  Catalunya FC
+         Deportivo La Coruña      3-0  Atlético Madrid
+
+
+Matchday 12
+[Sun Feb/21]
+         RC Celta                 1-3  Real Oviedo
+         Real Betis               1-1  Sevilla FC
+         Sporting Gijón           3-0  Real Murcia
+         CD Castellón             3-2  Atlético Madrid
+         Catalunya FC             1-2  Deportivo La Coruña
+
+
+Matchday 13
+[Sun Feb/28]
+         Real Oviedo              2-1  Sevilla FC
+         Deportivo La Coruña      2-0  CD Castellón
+         Real Betis               3-0  Sporting Gijón
+         Real Murcia              6-2  RC Celta
+         Atlético Madrid          0-1  Catalunya FC
+
+
+Matchday 14
+[Sun Mar/6]
+         Sevilla FC               0-1  Real Murcia
+         Catalunya FC             0-1  Real Betis
+         CD Castellón             2-0  Real Oviedo
+         Deportivo La Coruña      5-0  RC Celta
+         Sporting Gijón           1-1  Atlético Madrid
+
+
+Matchday 15
+[Sun Mar/13]
+         Atlético Madrid          10-1  Real Betis
+         Real Oviedo              6-0  Deportivo La Coruña
+         Real Murcia              3-1  CD Castellón
+         RC Celta                 2-2  Sporting Gijón
+
+
+Matchday 16
+[Sun Mar/20]
+         Real Betis               4-2  Real Oviedo
+         CD Castellón             2-0  Sevilla FC
+         Deportivo La Coruña      2-1  Real Murcia
+         Atlético Madrid          4-2  RC Celta
+         Sporting Gijón           3-1  Catalunya FC
+
+
+Matchday 17
+[Sun Mar/27]
+         Real Oviedo              0-1  Sporting Gijón
+         Real Murcia              4-0  Atlético Madrid
+         RC Celta                 1-1  Real Betis
+         Sevilla FC               2-0  Deportivo La Coruña
+
+
+Matchday 18
+[Sun Apr/3]
+         Real Betis               3-1  Deportivo La Coruña
+         CD Castellón             3-0  Sporting Gijón
+         Atlético Madrid          3-2  Sevilla FC
+         Real Oviedo              6-0  Real Murcia

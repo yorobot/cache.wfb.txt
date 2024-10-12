@@ -1,0 +1,368 @@
+= CH 1 2011/12
+
+# Date       Sat Jul/16 2011 - Wed May/23 2012 (312d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Jul/16]
+  17.45  FC Sion                  1-0 (0-0)  FC Zürich
+  20.15  BSC Young Boys           1-1 (0-0)  FC Basel
+[Sun Jul/17]
+  16.00  Neuchâtel Xamax FC       0-3 (0-1)  FC Luzern
+         Servette FC              1-2 (1-2)  FC Thun
+[Wed Jul/20]
+  19.45  Grasshopper Club Zürich  2-0 (0-0)  FC Lausanne-Sport
+
+
+Matchday 2
+[Sat Jul/23]
+  17.45  FC Sion                  1-2 (0-1)  BSC Young Boys
+         FC Zürich                2-3 (0-0)  Servette FC
+[Sun Jul/24]
+  16.00  FC Thun                  3-0 (1-0)  Grasshopper Club Zürich
+         FC Basel                 2-0 (2-0)  Neuchâtel Xamax FC
+[Wed Aug/3]
+  19.45  FC Lausanne-Sport        0-1 (0-0)  FC Luzern
+
+
+Matchday 3
+[Sat Jul/30]
+  17.45  Grasshopper Club Zürich  2-2 (0-0)  FC Basel
+         FC Lausanne-Sport        2-1 (1-0)  FC Zürich
+[Sun Jul/31]
+  16.00  FC Luzern                0-0  FC Thun
+         Neuchâtel Xamax FC       0-3 (0-1)  FC Sion
+         BSC Young Boys           1-1 (1-1)  Servette FC
+
+
+Matchday 4
+[Sat Aug/6]
+  17.45  FC Basel                 3-3 (2-2)  FC Sion
+         Servette FC              4-2 (3-1)  FC Lausanne-Sport
+[Sun Aug/7]
+  16.00  FC Luzern                1-1 (0-0)  BSC Young Boys
+         FC Thun                  0-0  Neuchâtel Xamax FC
+         FC Zürich                6-0 (1-0)  Grasshopper Club Zürich
+
+
+Matchday 5
+[Sat Aug/13]
+  17.45  FC Basel                 1-2 (1-0)  FC Zürich
+         FC Sion                  1-1 (0-1)  FC Luzern
+[Sun Aug/14]
+  16.00  Neuchâtel Xamax FC       0-0  Servette FC
+         Grasshopper Club Zürich  0-3 (0-1)  BSC Young Boys
+         FC Thun                  5-2 (2-1)  FC Lausanne-Sport
+
+
+Matchday 6
+[Sat Aug/20]
+  17.45  FC Luzern                3-1 (2-1)  FC Basel
+         Servette FC              3-4 (1-2)  Grasshopper Club Zürich
+         FC Zürich                0-2 (0-0)  Neuchâtel Xamax FC
+[Sun Aug/21]
+  16.00  BSC Young Boys           0-2 (0-1)  FC Thun
+  17.15  FC Lausanne-Sport        0-2 (0-0)  FC Sion
+
+
+Matchday 7
+[Sat Aug/27]
+  17.45  Grasshopper Club Zürich  0-1 (0-1)  FC Luzern
+         Neuchâtel Xamax FC       2-2 (1-1)  FC Lausanne-Sport
+[Sun Aug/28]
+  16.00  FC Basel                 2-1 (1-0)  FC Thun
+         FC Sion                  0-4 (0-3)  Servette FC
+         BSC Young Boys           2-3 (1-0)  FC Zürich
+
+
+Matchday 8
+[Sat Sep/10]
+  17.45  FC Luzern                3-1 (0-0)  FC Zürich
+  19.45  Servette FC              0-4 (0-1)  FC Basel
+[Sun Sep/11]
+  16.00  FC Lausanne-Sport        0-3 (0-2)  BSC Young Boys
+         Neuchâtel Xamax FC       2-0 (1-0)  Grasshopper Club Zürich
+         FC Thun                  0-3 (0-2)  FC Sion
+
+
+Matchday 9
+[Wed Sep/21]
+  19.45  FC Basel                 6-0 (4-0)  FC Lausanne-Sport
+         BSC Young Boys           4-1 (2-1)  Neuchâtel Xamax FC
+         FC Zürich                0-0  FC Thun
+[Thu Sep/22]
+  19.45  Servette FC              0-2 (0-2)  FC Luzern
+         FC Sion                  2-0 (2-0)  Grasshopper Club Zürich
+
+
+Matchday 10
+[Sat Sep/24]
+  17.45  FC Thun                  1-1 (0-0)  FC Basel
+         FC Zürich                1-2 (0-1)  BSC Young Boys
+[Sun Sep/25]
+  16.00  Grasshopper Club Zürich  0-1 (0-0)  Neuchâtel Xamax FC
+         FC Lausanne-Sport        0-0  Servette FC
+         FC Luzern                2-0 (1-0)  FC Sion
+
+
+Matchday 11
+[Sat Oct/1]
+  17.45  FC Basel                 3-0 (2-0)  Servette FC
+         Neuchâtel Xamax FC       4-0 (2-0)  FC Thun
+[Sun Oct/2]
+  16.00  Grasshopper Club Zürich  3-0 (1-1)  FC Zürich
+         FC Sion                  1-0 (0-0)  FC Lausanne-Sport
+         BSC Young Boys           1-0 (0-0)  FC Luzern
+
+
+Matchday 12
+[Sat Oct/22]
+  17.45  FC Lausanne-Sport        1-0 (1-0)  FC Thun
+         FC Luzern                1-2 (0-1)  Neuchâtel Xamax FC
+[Sun Oct/23]
+  16.00  Servette FC              0-2 (0-1)  FC Sion
+         BSC Young Boys           0-1 (0-0)  Grasshopper Club Zürich
+         FC Zürich                0-1 (0-0)  FC Basel
+
+
+Matchday 13
+[Wed Oct/26]
+  19.45  Grasshopper Club Zürich  1-4 (0-1)  Servette FC
+         FC Sion                  0-1 (0-1)  FC Basel
+         FC Thun                  0-2 (0-1)  FC Zürich
+[Thu Oct/27]
+  19.45  FC Luzern                2-0 (0-0)  FC Lausanne-Sport
+         Neuchâtel Xamax FC       0-0  BSC Young Boys
+
+
+Matchday 14
+[Sat Oct/29]
+  17.45  FC Sion                  2-0 (0-0)  FC Thun
+  19.45  FC Basel                 4-1 (3-0)  Grasshopper Club Zürich
+[Sun Oct/30]
+  16.00  Servette FC              2-1 (1-1)  Neuchâtel Xamax FC
+         BSC Young Boys           4-1 (2-1)  FC Lausanne-Sport
+         FC Zürich                1-1 (0-0)  FC Luzern
+
+
+Matchday 15
+[Sat Nov/5]
+  17.45  FC Lausanne-Sport        2-3 (2-2)  FC Basel
+         FC Thun                  3-1 (0-0)  FC Luzern
+[Sun Nov/6]
+  16.00  Grasshopper Club Zürich  2-1 (2-1)  FC Sion
+         Neuchâtel Xamax FC       3-1 (2-1)  FC Zürich
+         Servette FC              1-0 (1-0)  BSC Young Boys
+
+
+Matchday 16
+[Sat Nov/19]
+  17.45  FC Basel                 1-0 (1-0)  BSC Young Boys
+         FC Thun                  3-0 (1-0)  Servette FC
+[Sun Nov/20]
+  16.00  FC Luzern                2-1 (0-0)  Grasshopper Club Zürich
+         FC Sion                  2-0 (2-0)  Neuchâtel Xamax FC
+         FC Zürich                4-1 (2-1)  FC Lausanne-Sport
+
+
+Matchday 17
+[Sat Dec/3]
+  17.45  FC Basel                 1-0 (0-0)  FC Luzern
+         FC Lausanne-Sport        1-3 (0-2)  Neuchâtel Xamax FC
+[Sun Dec/4]
+  16.00  Grasshopper Club Zürich  1-0 (0-0)  FC Thun
+         Servette FC              0-1 (0-1)  FC Zürich
+         BSC Young Boys           1-1 (1-1)  FC Sion
+
+
+Matchday 18
+[Sat Dec/10]
+  17.45  FC Thun                  1-1 (1-1)  BSC Young Boys
+         FC Zürich                1-1 (1-0)  FC Sion
+[Sun Dec/11]
+  16.00  FC Lausanne-Sport        2-1 (2-0)  Grasshopper Club Zürich
+         FC Luzern                1-2 (1-1)  Servette FC
+         Neuchâtel Xamax FC       1-1 (0-0)  FC Basel
+
+
+Matchday 19
+[Sat Feb/4]
+         Neuchâtel Xamax FC       -  FC Lausanne-Sport        [cancelled]
+  17.45  FC Luzern                1-1 (1-0)  FC Zürich
+[Sun Feb/5]
+  16.00  FC Basel                 0-0  FC Sion
+         Grasshopper Club Zürich  0-1 (0-1)  FC Thun
+         BSC Young Boys           3-1 (3-0)  Servette FC
+
+
+Matchday 20
+[Sat Feb/11]
+  17.45  FC Thun                  1-1 (0-0)  FC Luzern
+[Sun Feb/12]
+         Servette FC              -  Neuchâtel Xamax FC       [cancelled]
+  16.00  FC Sion                  0-1 (0-0)  BSC Young Boys
+         FC Zürich                2-0 (0-0)  Grasshopper Club Zürich
+[Wed Apr/4]
+  18.30  FC Lausanne-Sport        0-2 (0-0)  FC Basel
+
+
+Matchday 21
+[Thu Feb/16]
+  20.15  BSC Young Boys           2-2 (1-0)  FC Basel
+[Sat Feb/18]
+         Neuchâtel Xamax FC       -  FC Sion                  [cancelled]
+  17.45  FC Zürich                1-1 (1-0)  FC Thun
+[Sun Feb/19]
+  16.00  FC Lausanne-Sport        0-0  FC Luzern
+         Servette FC              3-1 (0-0)  Grasshopper Club Zürich
+
+
+Matchday 22
+[Sat Feb/25]
+         FC Thun                  -  Neuchâtel Xamax FC       [cancelled]
+  17.45  FC Luzern                2-0 (2-0)  BSC Young Boys
+         FC Basel                 1-0 (0-0)  FC Zürich
+[Sun Feb/26]
+  16.00  Grasshopper Club Zürich  0-0  FC Lausanne-Sport
+         FC Sion                  0-1 (0-0)  Servette FC
+
+
+Matchday 23
+[Sat Mar/3]
+  17.45  FC Thun                  1-0 (0-0)  Servette FC
+         FC Zürich                0-1 (0-1)  FC Sion
+[Sun Mar/4]
+         Neuchâtel Xamax FC       -  Grasshopper Club Zürich  [cancelled]
+  16.00  FC Basel                 3-1 (1-0)  FC Luzern
+         FC Lausanne-Sport        0-0  BSC Young Boys
+
+
+Matchday 24
+[Sat Mar/10]
+  17.45  Grasshopper Club Zürich  0-2 (0-2)  FC Basel
+         FC Sion                  1-0 (1-0)  FC Thun
+[Sun Mar/11]
+         BSC Young Boys           -  Neuchâtel Xamax FC       [cancelled]
+  16.00  FC Lausanne-Sport        0-1 (0-1)  FC Zürich
+         Servette FC              2-1 (0-0)  FC Luzern
+
+
+Matchday 25
+[Sat Mar/17]
+  17.45  Grasshopper Club Zürich  2-0 (0-0)  BSC Young Boys
+         FC Luzern                0-0  FC Sion
+[Sun Mar/18]
+         Neuchâtel Xamax FC       -  FC Basel                 [cancelled]
+  16.00  Servette FC              1-1 (0-1)  FC Zürich
+         FC Thun                  2-0 (1-0)  FC Lausanne-Sport
+
+
+Matchday 26
+[Sat Mar/24]
+         FC Zürich                -  Neuchâtel Xamax FC       [cancelled]
+  17.45  FC Basel                 5-0 (1-0)  Servette FC
+[Sun Mar/25]
+  16.00  FC Luzern                1-0 (1-0)  Grasshopper Club Zürich
+         FC Sion                  1-0 (0-0)  FC Lausanne-Sport
+         BSC Young Boys           4-0 (2-0)  FC Thun
+
+
+Matchday 27
+[Sat Mar/31]
+  17.45  Grasshopper Club Zürich  0-2 (0-1)  FC Sion
+         FC Thun                  2-3 (1-2)  FC Basel
+[Sun Apr/1]
+         Neuchâtel Xamax FC       -  FC Luzern                [cancelled]
+  16.00  FC Lausanne-Sport        3-1 (1-1)  Servette FC
+         FC Zürich                2-2 (1-0)  BSC Young Boys
+
+
+Matchday 28
+[Sat Apr/7]
+         Grasshopper Club Zürich  -  Neuchâtel Xamax FC       [cancelled]
+  17.45  FC Luzern                1-1 (0-1)  FC Basel
+         FC Sion                  2-1 (0-1)  FC Zürich
+[Mon Apr/9]
+  16.00  BSC Young Boys           1-3 (0-2)  FC Lausanne-Sport
+         Servette FC              0-2 (0-1)  FC Thun
+
+
+Matchday 29
+[Sat Apr/14]
+  17.45  FC Lausanne-Sport        1-0 (1-0)  FC Thun
+         BSC Young Boys           2-2 (1-1)  Grasshopper Club Zürich
+[Sun Apr/15]
+         FC Basel                 -  Neuchâtel Xamax FC       [cancelled]
+  16.00  Servette FC              2-2 (0-1)  FC Sion
+         FC Zürich                0-0  FC Luzern
+
+
+Matchday 30
+[Sat Apr/21]
+  17.45  FC Luzern                3-1 (2-0)  Servette FC
+         FC Thun                  0-0  Grasshopper Club Zürich
+[Sun Apr/22]
+         Neuchâtel Xamax FC       -  BSC Young Boys           [cancelled]
+  16.00  FC Sion                  0-3 (0-0)  FC Basel
+         FC Zürich                2-0 (1-0)  FC Lausanne-Sport
+
+
+Matchday 31
+[Sat Apr/28]
+         Neuchâtel Xamax FC       -  FC Zürich                [cancelled]
+  17.45  Grasshopper Club Zürich  2-2 (0-2)  FC Luzern
+         Servette FC              2-1 (0-0)  BSC Young Boys
+[Sun Apr/29]
+  16.00  FC Basel                 3-1 (1-1)  FC Lausanne-Sport
+         FC Thun                  1-1 (0-1)  FC Sion
+
+
+Matchday 32
+[Tue May/1]
+         FC Luzern                -  Neuchâtel Xamax FC       [cancelled]
+  19.45  BSC Young Boys           1-0 (1-0)  FC Zürich
+[Wed May/2]
+  19.45  FC Basel                 2-1 (1-1)  FC Thun
+         Grasshopper Club Zürich  0-3 (0-1)  Servette FC
+  20.15  FC Lausanne-Sport        1-0 (1-0)  FC Sion
+
+
+Matchday 33
+[Sat May/5]
+         Neuchâtel Xamax FC       -  FC Thun                  [cancelled]
+  19.45  BSC Young Boys           2-2 (1-0)  FC Luzern
+[Sun May/6]
+  16.00  FC Sion                  3-2 (2-2)  Grasshopper Club Zürich
+         Servette FC              0-0  FC Lausanne-Sport
+         FC Zürich                1-5 (1-2)  FC Basel
+
+
+Matchday 34
+[Sat May/12]
+         FC Sion                  -  Neuchâtel Xamax FC       [cancelled]
+  17.45  FC Basel                 6-3 (2-1)  Grasshopper Club Zürich
+         FC Luzern                3-2 (0-0)  FC Lausanne-Sport
+[Sun May/13]
+  16.00  FC Thun                  2-2 (2-1)  BSC Young Boys
+         FC Zürich                0-1 (0-0)  Servette FC
+
+
+Matchday 35
+[Sun May/20]
+         FC Lausanne-Sport        -  Neuchâtel Xamax FC       [cancelled]
+  16.00  Grasshopper Club Zürich  0-1 (0-0)  FC Zürich
+         FC Luzern                0-1 (0-0)  FC Thun
+         Servette FC              2-1 (1-0)  FC Basel
+         BSC Young Boys           3-0 (1-0)  FC Sion
+
+
+Matchday 36
+[Wed May/23]
+         Neuchâtel Xamax FC       -  Servette FC              [cancelled]
+  20.15  FC Basel                 1-2 (1-1)  BSC Young Boys
+         FC Lausanne-Sport        2-1 (1-1)  Grasshopper Club Zürich
+         FC Sion                  1-3 (1-1)  FC Luzern
+         FC Thun                  2-4 (0-0)  FC Zürich

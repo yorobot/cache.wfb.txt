@@ -1,0 +1,597 @@
+= IT 3 C 2019/20
+
+# Date       Sat Aug/24 2019 - Tue Jun/30 2020 (311d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Aug/24]
+  20.45  FC Rieti                 1-3 (1-2)  Ternana Calcio
+[Sun Aug/25]
+  15.00  US Avellino              3-6 (1-2)  Calcio Catania
+  16.30  US Catanzaro             2-1 (2-0)  SSD Città di Teramo
+         Virtus Francavilla       1-1 (1-0)  Reggina 1914
+  17.30  Potenza                  1-0 (0-0)  Casertana FC
+         Rende                    0-1 (0-1)  Bisceglie
+         ASD Sicula Leonzio       0-2 (0-1)  SSC Bari
+  18.30  SS Monopoli 1966         1-0 (0-0)  Vibonese Calcio
+         Viterbese                2-1 (1-0)  Paganese Calcio
+  20.45  Cavese                   1-1 (0-1)  AZ Picerno
+
+
+Matchday 2
+[Sat Aug/31]
+  17.30  Paganese Calcio          2-0 (2-0)  SS Monopoli 1966
+[Sun Sep/1]
+  15.00  AZ Picerno               2-1 (0-0)  FC Rieti
+         Ternana Calcio           1-0 (0-0)  Potenza
+  17.30  SSC Bari                 1-3 (0-1)  Viterbese
+         Bisceglie                1-1 (1-0)  US Catanzaro
+         Casertana FC             2-0 (1-0)  Rende
+         Calcio Catania           2-1 (1-1)  Virtus Francavilla
+         Reggina 1914             5-1 (3-1)  Cavese
+         Vibonese Calcio          0-1 (0-0)  US Avellino
+
+
+Matchday 3
+[Sat Sep/7]
+  20.45  US Avellino              2-0 (1-0)  SSD Città di Teramo
+[Sun Sep/8]
+  17.30  Viterbese                1-2 (0-2)  AZ Picerno
+  15.00  Cavese                   1-1 (0-1)  Vibonese Calcio
+         SS Monopoli 1966         0-1 (0-0)  US Catanzaro
+         Reggina 1914             3-0 (2-0)  Bisceglie
+         Rende                    1-2 (1-1)  Ternana Calcio
+         FC Rieti                 1-2 (1-0)  SSC Bari
+         ASD Sicula Leonzio       2-2 (1-1)  Paganese Calcio
+  16.30  Virtus Francavilla       1-1 (0-0)  Casertana FC
+  17.30  Potenza                  2-0 (2-0)  Calcio Catania
+
+
+Matchday 4
+[Sat Sep/14]
+  20.45  Casertana FC             6-1 (6-1)  FC Rieti
+[Sun Sep/15]
+  17.30  Bisceglie                0-3 (0-2)  Potenza
+  15.00  Calcio Catania           1-0 (0-0)  Viterbese
+         Paganese Calcio          2-2 (0-0)  Virtus Francavilla
+         SSD Città di Teramo      2-0 (1-0)  Cavese
+         Ternana Calcio           0-2 (0-0)  SS Monopoli 1966
+  17.30  AZ Picerno               2-3 (1-2)  US Avellino
+         US Catanzaro             3-1 (0-0)  ASD Sicula Leonzio
+         Vibonese Calcio          3-0 (2-0)  Rende
+[Mon Sep/16]
+  20.45  SSC Bari                 1-1 (0-1)  Reggina 1914
+
+
+Matchday 5
+[Sat Sep/21]
+  16.00  Rende                    1-1 (0-1)  SSD Città di Teramo
+[Sun Sep/22]
+  20.45  Cavese                   1-0 (0-0)  Paganese Calcio
+  15.00  SS Monopoli 1966         4-2 (1-1)  Calcio Catania
+         AZ Picerno               1-1 (0-1)  Casertana FC
+         FC Rieti                 1-1 (1-0)  Potenza
+         ASD Sicula Leonzio       1-2 (0-1)  Ternana Calcio
+         Viterbese                2-1 (2-0)  US Catanzaro
+  17.30  US Avellino              0-1 (0-0)  Bisceglie
+         Reggina 1914             2-0 (1-0)  Vibonese Calcio
+         Virtus Francavilla       1-0 (0-0)  SSC Bari
+
+
+Matchday 6
+[Wed Sep/25]
+  20.45  Potenza                  0-0  ASD Sicula Leonzio
+  15.00  Ternana Calcio           1-1 (0-0)  Reggina 1914
+  16.00  Vibonese Calcio          3-1 (2-0)  AZ Picerno
+  18.30  US Avellino              0-1 (0-1)  Virtus Francavilla
+         Bisceglie                0-0  Casertana FC
+         Paganese Calcio          5-1 (1-1)  Rende
+         SSD Città di Teramo      1-1 (0-0)  Viterbese
+  20.45  SSC Bari                 1-1 (1-1)  SS Monopoli 1966
+         Calcio Catania           4-0 (2-0)  Cavese
+         US Catanzaro             2-0 (1-0)  FC Rieti
+
+
+Matchday 7
+[Sat Sep/28]
+  20.45  AZ Picerno               0-1 (0-1)  SSC Bari
+[Sun Sep/29]
+  17.30  Viterbese                2-2 (1-0)  Vibonese Calcio
+  15.00  Casertana FC             2-1 (2-0)  US Catanzaro
+         Cavese                   2-0 (0-0)  US Avellino
+         Reggina 1914             1-0 (1-0)  Calcio Catania
+         ASD Sicula Leonzio       2-1 (1-0)  Bisceglie
+         Virtus Francavilla       1-2 (0-1)  Ternana Calcio
+  17.30  SS Monopoli 1966         2-0 (2-0)  SSD Città di Teramo
+         Rende                    0-1 (0-1)  Potenza
+         FC Rieti                 1-2 (0-1)  Paganese Calcio
+
+
+Matchday 8
+[Sat Oct/5]
+  20.45  SSD Città di Teramo      1-1 (0-0)  FC Rieti
+[Sun Oct/6]
+  17.30  Bisceglie                2-2 (2-1)  AZ Picerno
+  15.00  US Avellino              0-0  Rende
+         SSC Bari                 4-0 (2-0)  Cavese
+         Potenza                  3-0 (1-0)  Viterbese
+         Ternana Calcio           3-2 (1-1)  Calcio Catania
+  17.30  Vibonese Calcio          3-1 (2-1)  Casertana FC
+         US Catanzaro             3-1 (1-1)  Virtus Francavilla
+         Paganese Calcio          1-1 (0-1)  Reggina 1914
+         ASD Sicula Leonzio       1-2 (1-1)  SS Monopoli 1966
+
+
+Matchday 2
+[Wed Oct/9]
+  14.30  SSD Città di Teramo      2-0 (1-0)  ASD Sicula Leonzio
+
+
+Matchday 9
+[Sat Oct/12]
+  20.45  Reggina 1914             1-0 (0-0)  US Catanzaro
+[Sun Oct/13]
+  15.00  Calcio Catania           1-0 (0-0)  AZ Picerno
+         Potenza                  1-0 (0-0)  SSD Città di Teramo
+         Rende                    0-1 (0-0)  Cavese
+         Virtus Francavilla       6-2 (3-0)  Vibonese Calcio
+  17.30  SSC Bari                 2-0 (0-0)  Ternana Calcio
+         Casertana FC             1-1 (1-1)  ASD Sicula Leonzio
+         Paganese Calcio          3-1 (0-1)  US Avellino
+         FC Rieti                 0-1 (0-0)  SS Monopoli 1966
+         Viterbese                1-0 (0-0)  Bisceglie
+
+
+Matchday 10
+[Sat Oct/19]
+  18.30  Viterbese                6-1 (1-1)  Rende
+  16.00  AZ Picerno               0-0  Virtus Francavilla
+[Sun Oct/20]
+  15.00  US Avellino              2-2 (1-0)  SSC Bari
+         Bisceglie                0-1 (0-1)  Ternana Calcio
+         SS Monopoli 1966         1-2 (1-1)  Reggina 1914
+         ASD Sicula Leonzio       1-2 (0-0)  FC Rieti
+         Vibonese Calcio          5-0 (2-0)  Calcio Catania
+  17.30  US Catanzaro             0-2 (0-1)  Potenza
+         Cavese                   0-0  Casertana FC
+         SSD Città di Teramo      2-1 (2-0)  Paganese Calcio
+
+
+Matchday 11
+[Wed Oct/23]
+  15.00  Virtus Francavilla       0-2 (0-1)  SSD Città di Teramo
+  18.30  Paganese Calcio          2-2 (0-1)  Vibonese Calcio
+         Potenza                  0-0  Cavese
+         Rende                    2-0 (2-0)  ASD Sicula Leonzio
+         Ternana Calcio           0-1 (0-1)  US Avellino
+  20.45  SSC Bari                 2-0 (1-0)  US Catanzaro
+         Casertana FC             2-1 (0-0)  SS Monopoli 1966
+         Calcio Catania           1-1 (1-0)  Bisceglie
+         Reggina 1914             4-1 (2-1)  AZ Picerno
+         FC Rieti                 4-2 (3-1)  Viterbese
+
+
+Matchday 12
+[Sun Oct/27]
+  15.00  US Avellino              1-2 (0-0)  Reggina 1914
+         Calcio Catania           0-0  SSC Bari
+         AZ Picerno               2-0 (2-0)  Paganese Calcio
+         Viterbese                2-0 (1-0)  ASD Sicula Leonzio
+  17.30  Bisceglie                0-1 (0-1)  Virtus Francavilla
+         US Catanzaro             1-1 (1-1)  Rende
+         SS Monopoli 1966         3-0 (1-0)  Potenza
+         SSD Città di Teramo      4-3 (2-1)  Casertana FC
+         Vibonese Calcio          1-1 (1-0)  Ternana Calcio
+  20.45  Cavese                   0-2 (0-1)  FC Rieti
+
+
+Matchday 13
+[Sat Nov/2]
+  20.45  US Catanzaro             3-1 (2-1)  US Avellino
+[Sun Nov/3]
+  15.00  SSC Bari                 2-2 (1-0)  Vibonese Calcio
+         Rende                    1-2 (1-2)  SS Monopoli 1966
+         FC Rieti                 1-1 (1-1)  Virtus Francavilla
+         ASD Sicula Leonzio       3-1 (2-0)  Cavese
+         Ternana Calcio           2-1 (1-1)  AZ Picerno
+  17.30  Casertana FC             2-2 (0-1)  Viterbese
+         Potenza                  0-3 (0-2)  Reggina 1914
+         SSD Città di Teramo      1-0 (1-0)  Bisceglie
+
+
+Matchday 14
+[Sat Nov/9]
+  18.30  Vibonese Calcio          5-1 (1-0)  FC Rieti
+[Sun Nov/10]
+  15.00  Virtus Francavilla       1-1 (0-1)  Rende
+         Cavese                   2-2 (0-1)  US Catanzaro
+         SS Monopoli 1966         1-0 (1-0)  Viterbese
+         AZ Picerno               3-1 (1-0)  SSD Città di Teramo
+         Reggina 1914             2-0 (1-0)  Casertana FC
+  17.30  Calcio Catania           2-1 (0-1)  ASD Sicula Leonzio
+         Bisceglie                0-3 (0-2)  SSC Bari
+         Ternana Calcio           2-0 (0-0)  Paganese Calcio
+[Mon Nov/11]
+  20.45  US Avellino              0-2 (0-2)  Potenza
+
+
+Matchday 15
+[Sat Nov/16]
+  20.45  SS Monopoli 1966         2-1 (2-1)  Bisceglie
+[Sun Nov/17]
+  20.45  US Catanzaro             3-0 (0-0)  Calcio Catania
+  15.00  Casertana FC             2-0 (2-0)  US Avellino
+         Paganese Calcio          0-1 (0-0)  SSC Bari
+         Rende                    1-0 (1-0)  AZ Picerno
+         FC Rieti                 0-3  Reggina 1914             [awarded]
+         ASD Sicula Leonzio       1-1 (1-1)  Virtus Francavilla
+  16.00  SSD Città di Teramo      1-1 (0-0)  Ternana Calcio
+  17.30  Potenza                  1-0 (0-0)  Vibonese Calcio
+         Viterbese                0-1 (0-0)  Cavese
+
+
+Matchday 16
+[Sat Nov/23]
+  20.45  Reggina 1914             4-1 (2-0)  Rende
+         Ternana Calcio           2-1 (1-0)  Viterbese
+[Sun Nov/24]
+  15.00  Cavese                   1-0 (1-0)  SS Monopoli 1966
+         Bisceglie                2-2 (2-1)  Paganese Calcio
+         Calcio Catania           1-1 (0-1)  Casertana FC
+  17.30  SSC Bari                 1-1 (1-0)  SSD Città di Teramo
+  15.00  AZ Picerno               1-1 (1-0)  ASD Sicula Leonzio
+         Virtus Francavilla       3-4 (2-2)  Potenza
+  17.30  US Avellino              3-1 (3-1)  FC Rieti
+
+
+Matchday 17
+[Sun Dec/1]
+  20.00  Potenza                  1-0 (0-0)  AZ Picerno
+  17.30  Viterbese                0-1 (0-1)  US Avellino
+  12.30  SS Monopoli 1966         3-0 (1-0)  Virtus Francavilla
+  15.00  US Catanzaro             1-3 (0-1)  Ternana Calcio
+         Cavese                   2-2 (1-0)  Bisceglie
+         Rende                    0-3 (0-2)  SSC Bari
+         FC Rieti                 1-4 (0-1)  Calcio Catania
+         SSD Città di Teramo      0-3 (0-2)  Reggina 1914
+  17.30  Casertana FC             1-3 (1-2)  Paganese Calcio
+         ASD Sicula Leonzio       2-7 (0-4)  Vibonese Calcio
+
+
+Matchday 18
+[Sat Dec/7]
+  17.30  Paganese Calcio          1-1 (1-0)  US Catanzaro
+[Sun Dec/8]
+  15.00  FC Rieti                 2-2 (1-1)  Bisceglie
+  17.30  SSC Bari                 2-1 (2-1)  Potenza
+  14.30  US Avellino              3-1 (1-1)  ASD Sicula Leonzio
+  15.00  Calcio Catania           1-0 (1-0)  Rende
+         AZ Picerno               0-1 (0-1)  SS Monopoli 1966
+         Reggina 1914             1-0 (0-0)  Viterbese
+         Virtus Francavilla       1-0 (1-0)  Cavese
+         Vibonese Calcio          0-0  SSD Città di Teramo
+  17.30  Ternana Calcio           0-1 (0-1)  Casertana FC
+
+
+Matchday 13
+[Wed Dec/11]
+  14.30  Paganese Calcio          3-1 (2-0)  Calcio Catania
+
+
+Matchday 16
+[Wed Dec/11]
+  20.30  Vibonese Calcio          0-0  US Catanzaro
+
+
+Matchday 19
+[Sat Dec/14]
+  21.00  Cavese                   1-1 (1-1)  Ternana Calcio
+[Sun Dec/15]
+  15.15  Rende                    1-0 (0-0)  FC Rieti
+         SSD Città di Teramo      1-1 (0-0)  Calcio Catania
+         Viterbese                2-1 (0-0)  Virtus Francavilla
+  17.45  Bisceglie                1-1 (0-0)  Vibonese Calcio
+         Casertana FC             0-3 (0-0)  SSC Bari
+         US Catanzaro             1-0 (0-0)  AZ Picerno
+         SS Monopoli 1966         0-2 (0-1)  US Avellino
+         Potenza                  1-0 (0-0)  Paganese Calcio
+         ASD Sicula Leonzio       1-2 (0-0)  Reggina 1914
+
+
+Matchday 21
+[Sat Jan/11]
+  14.30  FC Rieti                 0-1 (0-0)  AZ Picerno
+  15.00  Cavese                   3-0 (1-0)  Reggina 1914
+[Sun Jan/12]
+  15.00  Virtus Francavilla       0-0  Calcio Catania
+  17.30  SS Monopoli 1966         0-1 (0-0)  Paganese Calcio
+  15.00  Potenza                  0-1 (0-0)  Ternana Calcio
+         US Catanzaro             2-1 (1-0)  Bisceglie
+         US Avellino              1-1 (1-1)  Vibonese Calcio
+         ASD Sicula Leonzio       0-1 (0-1)  SSD Città di Teramo
+         Viterbese                1-1 (1-0)  SSC Bari
+  17.30  Rende                    2-2 (2-1)  Casertana FC
+
+
+Matchday 22
+[Sat Jan/18]
+  14.30  AZ Picerno               0-1 (0-0)  Viterbese
+[Sun Jan/19]
+  15.00  SSC Bari                 5-2 (1-0)  FC Rieti
+         Bisceglie                1-2 (1-0)  Reggina 1914
+         Casertana FC             1-1 (1-0)  Virtus Francavilla
+         Calcio Catania           1-1 (1-1)  Potenza
+  17.30  SSD Città di Teramo      1-0 (0-0)  US Avellino
+  15.00  Paganese Calcio          0-0  ASD Sicula Leonzio
+         Ternana Calcio           3-1 (2-0)  Rende
+         Vibonese Calcio          0-1 (0-0)  Cavese
+  17.30  US Catanzaro             1-2 (1-0)  SS Monopoli 1966
+
+
+Matchday 20
+[Wed Jan/22]
+  20.45  Ternana Calcio           3-0 (1-0)  FC Rieti
+         Reggina 1914             1-2 (1-0)  Virtus Francavilla
+         SSC Bari                 1-0 (1-0)  ASD Sicula Leonzio
+  18.30  Vibonese Calcio          0-1 (0-1)  SS Monopoli 1966
+         Bisceglie                1-0 (0-0)  Rende
+  15.30  Casertana FC             0-0  Potenza
+  15.00  Paganese Calcio          0-0  Viterbese
+         Calcio Catania           3-1 (1-1)  US Avellino
+  14.30  AZ Picerno               3-1 (1-0)  Cavese
+  18.00  SSD Città di Teramo      1-0 (1-0)  US Catanzaro
+
+
+Matchday 23
+[Sat Jan/25]
+  20.45  Rende                    1-1 (0-0)  Vibonese Calcio
+[Sun Jan/26]
+  15.00  SS Monopoli 1966         0-0  Ternana Calcio
+         Reggina 1914             1-1 (0-0)  SSC Bari
+         Virtus Francavilla       2-0 (1-0)  Paganese Calcio
+         Viterbese                2-0 (0-0)  Calcio Catania
+  17.30  US Avellino              1-1 (1-0)  AZ Picerno
+         Cavese                   1-0 (0-0)  SSD Città di Teramo
+         Potenza                  1-0 (0-0)  Bisceglie
+         FC Rieti                 1-0 (0-0)  Casertana FC
+[Mon Jan/27]
+  14.30  ASD Sicula Leonzio       1-2 (0-2)  US Catanzaro
+
+
+Matchday 24
+[Sat Feb/1]
+  20.45  Paganese Calcio          0-0  Cavese
+[Sun Feb/2]
+  15.00  Bisceglie                1-1 (1-1)  US Avellino
+         Casertana FC             1-1 (0-0)  AZ Picerno
+         Calcio Catania           0-2 (0-1)  SS Monopoli 1966
+         Potenza                  1-1 (1-1)  FC Rieti
+         SSD Città di Teramo      3-0 (1-0)  Rende
+         Ternana Calcio           0-0  ASD Sicula Leonzio
+  17.30  SSC Bari                 2-0 (1-0)  Virtus Francavilla
+         US Catanzaro             4-0 (1-0)  Viterbese
+         Vibonese Calcio          0-1 (0-1)  Reggina 1914
+
+
+Matchday 25
+[Sat Feb/8]
+  15.00  FC Rieti                 1-4 (0-2)  US Catanzaro
+[Sun Feb/9]
+  15.00  Casertana FC             0-0  Bisceglie
+         AZ Picerno               0-0  Vibonese Calcio
+         Rende                    0-0  Paganese Calcio
+         ASD Sicula Leonzio       4-1 (3-0)  Potenza
+  17.30  Cavese                   0-1 (0-1)  Calcio Catania
+         SS Monopoli 1966         2-2 (1-1)  SSC Bari
+         Virtus Francavilla       1-1 (1-0)  US Avellino
+         Viterbese                2-0 (1-0)  SSD Città di Teramo
+[Mon Feb/10]
+  20.45  Reggina 1914             1-0 (1-0)  Ternana Calcio
+
+
+Matchday 26
+[Sat Feb/15]
+  18.00  SSD Città di Teramo      0-3 (0-3)  SS Monopoli 1966
+[Sun Feb/16]
+  14.30  Vibonese Calcio          3-2 (2-0)  Viterbese
+  15.00  Bisceglie                0-1 (0-0)  ASD Sicula Leonzio
+         Calcio Catania           0-0  Reggina 1914
+         US Catanzaro             1-1 (1-1)  Casertana FC
+  17.30  US Avellino              0-0  Cavese
+         SSC Bari                 3-0 (2-0)  AZ Picerno
+         Paganese Calcio          3-1 (2-1)  FC Rieti
+         Potenza                  2-2 (1-1)  Rende
+         Ternana Calcio           0-2 (0-1)  Virtus Francavilla
+
+
+Matchday 27
+[Sat Feb/22]
+  15.00  FC Rieti                 0-2 (0-0)  SSD Città di Teramo
+  20.45  Virtus Francavilla       4-0 (2-0)  US Catanzaro
+[Sun Feb/23]
+  15.00  Cavese                   1-1 (0-1)  SSC Bari
+         SS Monopoli 1966         0-1 (0-0)  ASD Sicula Leonzio
+         Reggina 1914             3-0 (0-0)  Paganese Calcio
+         Viterbese                1-3 (0-1)  Potenza
+  17.30  Casertana FC             1-2 (1-0)  Vibonese Calcio
+         AZ Picerno               1-0 (0-0)  Bisceglie
+         Rende                    0-1 (0-0)  US Avellino
+  15.00  Calcio Catania           0-0  Ternana Calcio
+
+
+Matchday 28
+[Wed Feb/26]
+  15.00  US Avellino              1-0 (0-0)  Paganese Calcio
+         AZ Picerno               1-2 (1-2)  Calcio Catania
+         ASD Sicula Leonzio       2-2 (1-2)  Casertana FC
+  16.30  Vibonese Calcio          2-1 (1-1)  Virtus Francavilla
+  18.30  Bisceglie                0-1 (0-1)  Viterbese
+         Cavese                   2-1 (1-1)  Rende
+         SSD Città di Teramo      0-1 (0-0)  Potenza
+  20.45  US Catanzaro             0-1 (0-0)  Reggina 1914
+         SS Monopoli 1966         1-0 (0-0)  FC Rieti
+         Ternana Calcio           2-2 (0-0)  SSC Bari
+
+
+Matchday 29
+[Sat Feb/29]
+  20.45  Casertana FC             2-0 (0-0)  Cavese
+[Sun Mar/1]
+  15.00  Reggina 1914             0-2 (0-0)  SS Monopoli 1966
+         Rende                    0-0  Viterbese
+         FC Rieti                 1-2 (0-1)  ASD Sicula Leonzio
+  15.30  Calcio Catania           2-1 (1-1)  Vibonese Calcio
+  17.30  SSC Bari                 2-1 (1-0)  US Avellino
+         Paganese Calcio          0-0  SSD Città di Teramo
+         Potenza                  2-0 (2-0)  US Catanzaro
+         Ternana Calcio           2-2 (2-0)  Bisceglie
+         Virtus Francavilla       1-2 (1-1)  AZ Picerno
+
+
+Matchday 30
+[Sat Mar/7]
+  15.00  Vibonese Calcio          1-1 (0-0)  Paganese Calcio
+[Sun Mar/8]
+  15.00  US Avellino              2-0 (1-0)  Ternana Calcio
+         Bisceglie                0-1 (0-0)  Calcio Catania
+         SS Monopoli 1966         0-1 (0-0)  Casertana FC
+         AZ Picerno               0-2 (0-1)  Reggina 1914
+  17.30  ASD Sicula Leonzio       1-0 (0-0)  Rende
+         SSD Città di Teramo      0-1 (0-1)  Virtus Francavilla
+         Viterbese                0-1 (0-0)  FC Rieti
+[Mon Mar/9]
+  20.45  US Catanzaro             1-1 (0-1)  SSC Bari
+  17.30  Cavese                   0-0  Potenza
+
+
+Matchday 31
+[Sat Mar/14]
+         Potenza                  -  SS Monopoli 1966         [cancelled]
+[Sun Mar/15]
+         SSC Bari                 -  Calcio Catania           [cancelled]
+         Casertana FC             -  SSD Città di Teramo      [cancelled]
+         Paganese Calcio          -  AZ Picerno               [cancelled]
+         Reggina 1914             -  US Avellino              [cancelled]
+         Rende                    -  US Catanzaro             [cancelled]
+         FC Rieti                 -  Cavese                   [cancelled]
+         ASD Sicula Leonzio       -  Viterbese                [cancelled]
+         Ternana Calcio           -  Vibonese Calcio          [cancelled]
+         Virtus Francavilla       -  Bisceglie                [cancelled]
+
+
+Matchday 32
+[Sat Mar/21]
+         Vibonese Calcio          -  SSC Bari                 [cancelled]
+[Sun Mar/22]
+         US Avellino              -  US Catanzaro             [cancelled]
+         Bisceglie                -  SSD Città di Teramo      [cancelled]
+         Calcio Catania           -  Paganese Calcio          [cancelled]
+         Cavese                   -  ASD Sicula Leonzio       [cancelled]
+         SS Monopoli 1966         -  Rende                    [cancelled]
+         AZ Picerno               -  Ternana Calcio           [cancelled]
+         Reggina 1914             -  Potenza                  [cancelled]
+         Virtus Francavilla       -  FC Rieti                 [cancelled]
+[Tue Mar/24]
+         Viterbese                -  Casertana FC             [cancelled]
+
+
+Matchday 33
+[Wed Mar/25]
+         SSC Bari                 -  Bisceglie                [cancelled]
+         Casertana FC             -  Reggina 1914             [cancelled]
+         US Catanzaro             -  Cavese                   [cancelled]
+         Paganese Calcio          -  Ternana Calcio           [cancelled]
+         Potenza                  -  US Avellino              [cancelled]
+         Rende                    -  Virtus Francavilla       [cancelled]
+         FC Rieti                 -  Vibonese Calcio          [cancelled]
+         ASD Sicula Leonzio       -  Calcio Catania           [cancelled]
+         SSD Città di Teramo      -  AZ Picerno               [cancelled]
+         Viterbese                -  SS Monopoli 1966         [cancelled]
+
+
+Matchday 34
+[Sun Mar/29]
+         US Avellino              -  Casertana FC             [cancelled]
+         Bisceglie                -  SS Monopoli 1966         [cancelled]
+         Calcio Catania           -  US Catanzaro             [cancelled]
+         Cavese                   -  Viterbese                [cancelled]
+         AZ Picerno               -  Rende                    [cancelled]
+         Reggina 1914             -  FC Rieti                 [cancelled]
+         Ternana Calcio           -  SSD Città di Teramo      [cancelled]
+         Vibonese Calcio          -  Potenza                  [cancelled]
+         Virtus Francavilla       -  ASD Sicula Leonzio       [cancelled]
+[Mon Mar/30]
+         SSC Bari                 -  Paganese Calcio          [cancelled]
+
+
+Matchday 35
+[Sat Apr/4]
+         FC Rieti                 -  US Avellino              [cancelled]
+[Sun Apr/5]
+         Casertana FC             -  Calcio Catania           [cancelled]
+         US Catanzaro             -  Vibonese Calcio          [cancelled]
+         SS Monopoli 1966         -  Cavese                   [cancelled]
+         Paganese Calcio          -  Bisceglie                [cancelled]
+         Potenza                  -  Virtus Francavilla       [cancelled]
+         Rende                    -  Reggina 1914             [cancelled]
+         ASD Sicula Leonzio       -  AZ Picerno               [cancelled]
+         SSD Città di Teramo      -  SSC Bari                 [cancelled]
+         Viterbese                -  Ternana Calcio           [cancelled]
+
+
+Matchday 36
+[Sat Apr/11]
+         US Avellino              -  Viterbese                [cancelled]
+         SSC Bari                 -  Rende                    [cancelled]
+         Bisceglie                -  Cavese                   [cancelled]
+         Calcio Catania           -  FC Rieti                 [cancelled]
+         Paganese Calcio          -  Casertana FC             [cancelled]
+         AZ Picerno               -  Potenza                  [cancelled]
+         Reggina 1914             -  SSD Città di Teramo      [cancelled]
+         Ternana Calcio           -  US Catanzaro             [cancelled]
+         Vibonese Calcio          -  ASD Sicula Leonzio       [cancelled]
+         Virtus Francavilla       -  SS Monopoli 1966         [cancelled]
+
+
+Matchday 37
+[Sun Apr/19]
+         Bisceglie                -  FC Rieti                 [cancelled]
+         Casertana FC             -  Ternana Calcio           [cancelled]
+         US Catanzaro             -  Paganese Calcio          [cancelled]
+         Cavese                   -  Virtus Francavilla       [cancelled]
+         SS Monopoli 1966         -  AZ Picerno               [cancelled]
+         Potenza                  -  SSC Bari                 [cancelled]
+         Rende                    -  Calcio Catania           [cancelled]
+         ASD Sicula Leonzio       -  US Avellino              [cancelled]
+         SSD Città di Teramo      -  Vibonese Calcio          [cancelled]
+         Viterbese                -  Reggina 1914             [cancelled]
+
+
+Matchday 38
+[Sun Apr/26]
+         US Avellino              -  SS Monopoli 1966         [cancelled]
+         SSC Bari                 -  Casertana FC             [cancelled]
+         Calcio Catania           -  SSD Città di Teramo      [cancelled]
+         Paganese Calcio          -  Potenza                  [cancelled]
+         AZ Picerno               -  US Catanzaro             [cancelled]
+         Reggina 1914             -  ASD Sicula Leonzio       [cancelled]
+         FC Rieti                 -  Rende                    [cancelled]
+         Ternana Calcio           -  Cavese                   [cancelled]
+         Vibonese Calcio          -  Bisceglie                [cancelled]
+         Virtus Francavilla       -  Viterbese                [cancelled]
+
+
+== Playout
+
+Finals
+[Sat Jun/27]
+  19.00  Bisceglie                0-1 (0-1)  ASD Sicula Leonzio
+  18.00  Rende                    1-0 (0-0)  AZ Picerno
+[Tue Jun/30]
+  19.00  ASD Sicula Leonzio       1-0 (0-0)  Bisceglie
+  18.00  AZ Picerno               3-0 (2-0)  Rende

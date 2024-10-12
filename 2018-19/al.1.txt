@@ -1,0 +1,377 @@
+= AL 1 2018/19
+
+# Date       Fri Aug/17 2018 - Thu May/30 2019 (286d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Aug/17]
+  19.45  KF Skënderbeu            1-0 (0-0)  FK Partizani
+[Sat Aug/18]
+  16.45  Luftëtari Gjirokastër    0-1 (0-0)  KS Kastrioti
+  19.45  KF Tiranë                0-1 (0-0)  KS Kamza
+[Sun Aug/19]
+  16.45  FK Kukësi                1-1 (1-0)  KF Laçi
+  19.45  KF Teuta Durrës          0-0  Flamurtari Vlorë
+
+
+Matchday 2
+[Fri Aug/24]
+  19.45  KF Tiranë                0-0  KF Teuta Durrës
+[Sat Aug/25]
+  16.45  KS Kamza                 0-1 (0-0)  FK Partizani
+         KF Laçi                  2-1 (0-1)  Luftëtari Gjirokastër
+[Sun Aug/26]
+  16.45  KS Kastrioti             0-3 (0-2)  KF Skënderbeu
+  19.45  Flamurtari Vlorë         1-0 (1-0)  FK Kukësi
+
+
+Matchday 3
+[Fri Aug/31]
+  19.45  KF Skënderbeu            1-1 (1-1)  KF Laçi
+[Sat Sep/1]
+  16.45  Luftëtari Gjirokastër    0-1 (0-1)  Flamurtari Vlorë
+  19.45  FK Partizani             1-0 (1-0)  KS Kastrioti
+[Sun Sep/2]
+  16.45  FK Kukësi                3-1 (2-0)  KF Tiranë
+  19.45  KF Teuta Durrës          1-0 (0-0)  KS Kamza
+
+
+Matchday 4
+[Sat Sep/15]
+  15.45  KS Kamza                 2-0 (2-0)  KS Kastrioti
+  18.45  KF Teuta Durrës          0-1 (0-1)  FK Kukësi
+[Sun Sep/16]
+  15.45  KF Laçi                  0-0  FK Partizani
+  18.45  KF Tiranë                3-1 (2-1)  Luftëtari Gjirokastër
+[Mon Sep/17]
+  19.45  Flamurtari Vlorë         0-2 (0-0)  KF Skënderbeu
+
+
+Matchday 5
+[Fri Sep/21]
+  19.45  FK Partizani             2-0 (1-0)  Flamurtari Vlorë
+[Sat Sep/22]
+  15.45  Luftëtari Gjirokastër    3-1 (0-0)  KF Teuta Durrës
+  18.45  KF Skënderbeu            1-1 (0-1)  KF Tiranë
+[Sun Sep/23]
+  15.45  KS Kastrioti             1-1 (0-0)  KF Laçi
+  18.45  FK Kukësi                1-0 (1-0)  KS Kamza
+
+
+Matchday 6
+[Fri Sep/28]
+  19.45  KF Tiranë                0-1 (0-1)  FK Partizani
+[Sat Sep/29]
+  15.45  FK Kukësi                1-0 (0-0)  Luftëtari Gjirokastër
+         KS Kamza                 0-1 (0-0)  KF Laçi
+  18.45  Flamurtari Vlorë         4-0 (2-0)  KS Kastrioti
+         KF Teuta Durrës          2-0 (1-0)  KF Skënderbeu
+
+
+Matchday 7
+[Wed Oct/3]
+  13.45  KS Kastrioti             2-3 (1-2)  KF Tiranë
+         KF Laçi                  1-0 (0-0)  Flamurtari Vlorë
+         Luftëtari Gjirokastër    1-0 (0-0)  KS Kamza
+  16.45  FK Partizani             3-0 (2-0)  KF Teuta Durrës
+[Thu Oct/4]
+  17.45  KF Skënderbeu            1-0 (1-0)  FK Kukësi
+
+
+Matchday 8
+[Sun Oct/7]
+  13.45  KS Kamza                 2-2 (1-1)  Flamurtari Vlorë
+         Luftëtari Gjirokastër    0-2 (0-0)  KF Skënderbeu
+  16.45  KF Tiranë                0-1 (0-0)  KF Laçi
+         KF Teuta Durrës          2-0 (1-0)  KS Kastrioti
+[Mon Oct/8]
+  17.45  FK Kukësi                0-1 (0-1)  FK Partizani
+
+
+Matchday 9
+[Sat Oct/20]
+  14.00  KS Kastrioti             1-2 (1-0)  FK Kukësi
+         KF Laçi                  0-3 (0-2)  KF Teuta Durrës
+[Sun Oct/21]
+  14.00  KF Skënderbeu            2-0 (1-0)  KS Kamza
+  17.00  FK Partizani             2-1 (1-1)  Luftëtari Gjirokastër
+[Mon Oct/22]
+  18.00  Flamurtari Vlorë         1-0 (0-0)  KF Tiranë
+
+
+Matchday 10
+[Sat Oct/27]
+  14.00  KS Kamza                 1-1 (0-0)  KF Tiranë
+  17.00  Flamurtari Vlorë         1-1 (1-1)  KF Teuta Durrës
+[Sun Oct/28]
+  14.00  KS Kastrioti             0-2 (0-0)  Luftëtari Gjirokastër
+         KF Laçi                  0-1 (0-0)  FK Kukësi
+[Mon Oct/29]
+  19.00  FK Partizani             0-2 (0-0)  KF Skënderbeu
+
+
+Matchday 11
+[Fri Nov/2]
+  14.00  FK Kukësi                1-2 (0-2)  Flamurtari Vlorë
+         KF Teuta Durrës          2-1 (0-1)  KF Tiranë
+[Sat Nov/3]
+  14.00  Luftëtari Gjirokastër    0-1 (0-0)  KF Laçi
+  17.00  FK Partizani             1-0 (0-0)  KS Kamza
+         KF Skënderbeu            1-0 (1-0)  KS Kastrioti
+
+
+Matchday 12
+[Tue Nov/6]
+  18.00  KF Tiranë                0-0  FK Kukësi
+[Wed Nov/7]
+  14.00  KS Kamza                 1-3 (1-0)  KF Teuta Durrës
+         KS Kastrioti             1-2 (1-2)  FK Partizani
+         KF Laçi                  2-0 (1-0)  KF Skënderbeu
+  17.00  Flamurtari Vlorë         0-0  Luftëtari Gjirokastër
+
+
+Matchday 13
+[Sun Nov/11]
+  14.00  KS Kastrioti             3-0 (2-0)  KS Kamza
+         Luftëtari Gjirokastër    2-1 (0-1)  KF Tiranë
+  17.00  FK Partizani             1-0 (0-0)  KF Laçi
+         KF Skënderbeu            1-0 (0-0)  Flamurtari Vlorë
+[Mon Nov/12]
+  17.00  FK Kukësi                1-1 (0-1)  KF Teuta Durrës
+
+
+Matchday 14
+[Fri Nov/23]
+  18.00  Flamurtari Vlorë         1-0 (1-0)  FK Partizani
+[Sat Nov/24]
+  14.00  KF Tiranë                1-1 (1-1)  KF Skënderbeu
+  17.00  KF Teuta Durrës          1-0 (1-0)  Luftëtari Gjirokastër
+[Sun Nov/25]
+  14.00  KS Kamza                 0-2 (0-2)  FK Kukësi
+         KF Laçi                  2-1 (0-0)  KS Kastrioti
+
+
+Matchday 15
+[Fri Nov/30]
+  18.00  FK Partizani             2-1 (0-0)  KF Tiranë
+[Sat Dec/1]
+  14.00  Luftëtari Gjirokastër    0-1 (0-0)  FK Kukësi
+  17.00  KF Skënderbeu            0-1 (0-1)  KF Teuta Durrës
+[Sun Dec/2]
+  14.00  KS Kastrioti             1-0 (1-0)  Flamurtari Vlorë
+         KF Laçi                  0-0  KS Kamza
+
+
+Matchday 16
+[Fri Dec/7]
+  14.00  FK Kukësi                1-0 (0-0)  KF Skënderbeu
+[Sat Dec/8]
+  14.00  KF Tiranë                4-0 (2-0)  KS Kastrioti
+  17.00  KF Teuta Durrës          1-1 (1-0)  FK Partizani
+[Sun Dec/9]
+  13.30  KS Kamza                 1-0 (1-0)  Luftëtari Gjirokastër
+  17.00  Flamurtari Vlorë         1-0 (1-0)  KF Laçi
+
+
+Matchday 17
+[Fri Dec/14]
+  18.00  FK Partizani             0-0  FK Kukësi
+[Sat Dec/15]
+  14.00  KF Laçi                  2-1 (2-0)  KF Tiranë
+  17.00  Flamurtari Vlorë         1-0 (0-0)  KS Kamza
+[Sun Dec/16]
+  14.00  KS Kastrioti             0-4 (0-1)  KF Teuta Durrës
+  17.00  KF Skënderbeu            2-3 (2-2)  Luftëtari Gjirokastër
+
+
+Matchday 18
+[Fri Dec/21]
+  13.30  KS Kamza                 1-0 (1-0)  KF Skënderbeu
+  16.30  KF Tiranë                1-0 (0-0)  Flamurtari Vlorë
+[Sat Dec/22]
+  17.00  KF Teuta Durrës          1-1 (0-1)  KF Laçi
+[Sun Dec/23]
+  13.30  FK Kukësi                2-0 (2-0)  KS Kastrioti
+         Luftëtari Gjirokastër    1-1 (0-1)  FK Partizani
+
+
+Matchday 19
+[Fri Jan/25]
+  17.00  KF Skënderbeu            0-1 (0-1)  FK Partizani
+[Sat Jan/26]
+  14.00  FK Kukësi                0-0  KF Laçi
+[Sun Jan/27]
+  14.00  Luftëtari Gjirokastër    1-5 (0-2)  KS Kastrioti
+  17.00  KF Tiranë                4-1 (0-1)  KS Kamza
+         KF Teuta Durrës          1-1 (1-1)  Flamurtari Vlorë
+
+
+Matchday 20
+[Fri Feb/1]
+  18.00  KF Tiranë                1-1 (1-1)  KF Teuta Durrës
+[Sat Feb/2]
+  14.00  KS Kastrioti             2-1 (0-0)  KF Skënderbeu
+  17.00  Flamurtari Vlorë         1-2 (1-2)  FK Kukësi
+[Sun Feb/3]
+  14.00  KS Kamza                 0-1 (0-0)  FK Partizani
+         KF Laçi                  0-2 (0-2)  Luftëtari Gjirokastër
+
+
+Matchday 21
+[Sat Feb/9]
+  17.00  FK Partizani             2-0 (0-0)  KS Kastrioti
+[Sun Feb/10]
+  14.00  FK Kukësi                0-1 (0-0)  KF Tiranë
+         Luftëtari Gjirokastër    0-0  Flamurtari Vlorë
+  17.00  KF Teuta Durrës          0-0  KS Kamza
+[Mon Feb/11]
+  18.00  KF Skënderbeu            2-1 (0-0)  KF Laçi
+
+
+Matchday 22
+[Fri Feb/15]
+  18.00  KF Teuta Durrës          2-1 (0-1)  FK Kukësi
+[Sun Feb/17]
+  14.00  KS Kamza                 0-1 (0-0)  KS Kastrioti
+         KF Laçi                  1-0 (1-0)  FK Partizani
+  17.00  Flamurtari Vlorë         2-0 (0-0)  KF Skënderbeu
+         KF Tiranë                1-1 (0-1)  Luftëtari Gjirokastër
+
+
+Matchday 23
+[Fri Feb/22]
+  18.00  KF Skënderbeu            1-2 (1-1)  KF Tiranë
+[Sat Feb/23]
+  14.00  Luftëtari Gjirokastër    1-0 (1-0)  KF Teuta Durrës
+  17.00  FK Partizani             3-1 (1-1)  Flamurtari Vlorë
+[Sun Feb/24]
+  14.00  FK Kukësi                3-2 (1-1)  KS Kamza
+         KS Kastrioti             1-1 (0-1)  KF Laçi
+
+
+Matchday 24
+[Fri Mar/1]
+  18.00  KF Tiranë                0-0  FK Partizani
+[Sat Mar/2]
+  14.00  FK Kukësi                3-0 (2-0)  Luftëtari Gjirokastër
+  17.00  KF Teuta Durrës          2-2 (1-0)  KF Skënderbeu
+[Sun Mar/3]
+  14.00  KS Kamza                 1-1 (0-0)  KF Laçi
+  17.00  Flamurtari Vlorë         1-1 (1-0)  KS Kastrioti
+
+
+Matchday 25
+[Sat Mar/9]
+  14.00  Luftëtari Gjirokastër    3-0  KS Kamza                 [awarded]
+[Sat Mar/16]
+  17.00  KF Skënderbeu            1-0 (1-0)  FK Kukësi
+[Sun Mar/17]
+  14.00  KS Kastrioti             1-0 (1-0)  KF Tiranë
+         KF Laçi                  0-0  Flamurtari Vlorë
+  17.00  FK Partizani             3-0 (2-0)  KF Teuta Durrës
+
+
+Matchday 26
+[Fri Mar/29]
+  18.00  FK Kukësi                1-1 (0-0)  FK Partizani
+[Sat Mar/30]
+         KS Kamza                 0-3  Flamurtari Vlorë         [awarded]
+  14.00  Luftëtari Gjirokastër    1-0 (0-0)  KF Skënderbeu
+  17.00  KF Tiranë                1-1 (1-0)  KF Laçi
+         KF Teuta Durrës          1-0 (1-0)  KS Kastrioti
+
+
+Matchday 27
+[Sat Apr/6]
+         KF Skënderbeu            3-0  KS Kamza                 [awarded]
+  15.45  KS Kastrioti             2-1 (0-1)  FK Kukësi
+         KF Laçi                  5-0 (2-0)  KF Teuta Durrës
+  18.45  Flamurtari Vlorë         1-0 (1-0)  KF Tiranë
+         FK Partizani             1-3 (1-2)  Luftëtari Gjirokastër
+
+
+Matchday 28
+[Wed Apr/10]
+         KS Kamza                 0-3  KF Tiranë                [awarded]
+  15.30  KS Kastrioti             1-0 (1-0)  Luftëtari Gjirokastër
+         KF Laçi                  0-1 (0-0)  FK Kukësi
+  18.30  Flamurtari Vlorë         3-1 (1-0)  KF Teuta Durrës
+         FK Partizani             2-0 (1-0)  KF Skënderbeu
+
+
+Matchday 29
+[Sat Apr/13]
+         FK Partizani             3-0  KS Kamza                 [awarded]
+[Sun Apr/14]
+  15.45  FK Kukësi                1-2 (0-1)  Flamurtari Vlorë
+         Luftëtari Gjirokastër    1-0 (0-0)  KF Laçi
+  18.45  KF Skënderbeu            4-0 (3-0)  KS Kastrioti
+         KF Teuta Durrës          1-3 (0-1)  KF Tiranë
+
+
+Matchday 30
+[Sat Apr/20]
+         KS Kamza                 0-3  KF Teuta Durrës          [awarded]
+  16.00  KS Kastrioti             1-1 (0-0)  FK Partizani
+         KF Laçi                  1-0 (1-0)  KF Skënderbeu
+  19.00  Flamurtari Vlorë         1-1 (0-0)  Luftëtari Gjirokastër
+         KF Tiranë                0-2 (0-1)  FK Kukësi
+
+
+Matchday 31
+[Sat Apr/27]
+         KS Kastrioti             3-0  KS Kamza                 [awarded]
+  19.00  FK Partizani             1-1 (0-1)  KF Laçi
+[Sun Apr/28]
+  16.00  FK Kukësi                0-0  KF Teuta Durrës
+         Luftëtari Gjirokastër    1-1 (0-1)  KF Tiranë
+  19.00  KF Skënderbeu            2-0 (1-0)  Flamurtari Vlorë
+
+
+Matchday 32
+[Sat May/4]
+         KS Kamza                 0-3  FK Kukësi                [awarded]
+  15.00  Flamurtari Vlorë         0-3 (0-1)  FK Partizani
+         KF Laçi                  1-1 (0-0)  KS Kastrioti
+         KF Tiranë                1-0 (0-0)  KF Skënderbeu
+         KF Teuta Durrës          0-0  Luftëtari Gjirokastër
+
+
+Matchday 33
+[Sun May/12]
+         KF Laçi                  3-0  KS Kamza                 [awarded]
+  16.30  KS Kastrioti             2-0 (1-0)  Flamurtari Vlorë
+         Luftëtari Gjirokastër    3-2 (1-0)  FK Kukësi
+         FK Partizani             2-1 (1-1)  KF Tiranë
+         KF Skënderbeu            1-2 (0-1)  KF Teuta Durrës
+
+
+Matchday 34
+[Sat May/18]
+  16.30  FK Kukësi                0-3 (0-2)  KF Skënderbeu
+         Flamurtari Vlorë         1-0 (1-0)  KF Laçi
+         KF Tiranë                0-0  KS Kastrioti
+         KF Teuta Durrës          2-0 (1-0)  FK Partizani
+  17.00  KS Kamza                 0-3  Luftëtari Gjirokastër    [awarded]
+
+
+Matchday 35
+[Sat May/25]
+         Flamurtari Vlorë         3-0  KS Kamza                 [awarded]
+[Sun May/26]
+  16.30  KS Kastrioti             2-1 (0-0)  KF Teuta Durrës
+         KF Laçi                  1-3 (0-2)  KF Tiranë
+         FK Partizani             1-1 (0-0)  FK Kukësi
+         KF Skënderbeu            2-0 (1-0)  Luftëtari Gjirokastër
+
+
+Matchday 36
+[Thu May/30]
+         KS Kamza                 0-3  KF Skënderbeu            [awarded]
+  16.00  FK Kukësi                3-1 (0-1)  KS Kastrioti
+         KF Tiranë                3-0 (0-0)  Flamurtari Vlorë
+         Luftëtari Gjirokastër    1-1 (1-0)  FK Partizani
+         KF Teuta Durrës          2-0 (0-0)  KF Laçi

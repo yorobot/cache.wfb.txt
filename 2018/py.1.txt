@@ -1,0 +1,560 @@
+= PY 1 2018
+
+# Date       Fri Feb/2 - Sat Dec/8 2018 (309d)
+# Teams      12
+# Matches    264
+# Stages     Apertura (132)  Clausura (132)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/2]
+  20.20  Sportivo Luqueño         2-2 (1-0)  Libertad
+[Sat Feb/3]
+  18.00  General Díaz             1-1 (0-0)  Deportivo Capiatá
+  20.20  Guaraní                  6-2 (2-0)  Sol de América
+[Sun Feb/4]
+  18.00  Deportivo Santaní        1-0 (0-0)  3 de Febrero
+  20.20  Club Nacional            2-1 (2-1)  Cerro Porteño
+[Mon Feb/5]
+  19.00  Independiente CG         1-2 (1-2)  Club Olimpia
+
+
+Matchday 2
+[Fri Feb/9]
+  18.00  Deportivo Capiatá        4-1 (1-0)  Sportivo Luqueño
+  20.20  Independiente CG         0-3  Club Nacional            [awarded]
+[Sat Feb/10]
+  18.00  Sol de América           3-2 (2-2)  Deportivo Santaní
+  20.20  Libertad                 2-0 (1-0)  Guaraní
+[Sun Feb/11]
+  18.00  3 de Febrero             1-1 (1-1)  Cerro Porteño
+[Mon Feb/12]
+  19.00  Club Olimpia             3-1 (1-1)  General Díaz
+
+
+Matchday 3
+[Fri Feb/16]
+  18.00  Deportivo Santaní        1-2 (1-0)  Libertad
+  20.15  General Díaz             1-1 (0-1)  Independiente CG
+[Sat Feb/17]
+  19.30  Cerro Porteño            2-0 (0-0)  Sol de América
+[Sun Feb/18]
+  19.00  Sportivo Luqueño         2-2 (2-2)  Club Olimpia
+[Mon Feb/19]
+  18.00  Club Nacional            0-0  3 de Febrero
+  20.15  Guaraní                  2-1 (2-1)  Deportivo Capiatá
+
+
+Matchday 4
+[Fri Feb/23]
+  20.00  Libertad                 1-1 (1-0)  Cerro Porteño
+[Sat Feb/24]
+  17.45  Independiente CG         4-1 (1-1)  Sportivo Luqueño
+  20.00  Sol de América           4-1 (1-1)  3 de Febrero
+[Sun Feb/25]
+  17.45  Deportivo Capiatá        2-1 (1-1)  Deportivo Santaní
+  20.00  General Díaz             1-2 (0-1)  Club Nacional
+[Mon Feb/26]
+  19.00  Club Olimpia             5-2 (1-1)  Guaraní
+
+
+Matchday 5
+[Fri Mar/2]
+  18.00  Club Nacional            1-1 (0-0)  Sol de América
+  20.15  Sportivo Luqueño         2-0 (1-0)  General Díaz
+[Sun Mar/4]
+  09.30  Deportivo Santaní        1-5 (0-1)  Club Olimpia
+  17.45  Cerro Porteño            2-2 (0-0)  Deportivo Capiatá
+  19.50  3 de Febrero             1-4 (0-1)  Libertad
+[Mon Mar/5]
+  19.30  Guaraní                  0-1 (0-1)  Independiente CG
+
+
+Matchday 6
+[Fri Mar/9]
+  18.00  Deportivo Capiatá        2-1 (1-0)  3 de Febrero
+  20.15  Libertad                 1-2 (1-0)  Sol de América
+[Sat Mar/10]
+  17.00  Club Olimpia             1-0 (1-0)  Cerro Porteño
+  19.20  Independiente CG         1-0 (1-0)  Deportivo Santaní
+[Sun Mar/11]
+  17.45  General Díaz             0-3 (0-1)  Guaraní
+[Mon Mar/12]
+  17.45  Sportivo Luqueño         1-3 (1-2)  Club Nacional
+
+
+Matchday 7
+[Tue Mar/13]
+  19.00  Sol de América           5-1 (3-0)  Deportivo Capiatá
+[Wed Mar/14]
+  17.45  Deportivo Santaní        0-1 (0-0)  General Díaz
+[Thu Mar/15]
+  17.45  Guaraní                  1-4 (0-2)  Sportivo Luqueño
+  19.45  3 de Febrero             0-4 (0-2)  Club Olimpia
+[Wed Mar/21]
+  17.40  Club Nacional            1-1 (1-0)  Libertad
+  19.50  Cerro Porteño            4-0 (1-0)  Independiente CG
+
+
+Matchday 8
+[Sat Mar/17]
+  18.00  General Díaz             1-0 (0-0)  Cerro Porteño
+  20.10  Deportivo Capiatá        2-4 (1-2)  Libertad
+[Sun Mar/18]
+  17.45  Guaraní                  1-4 (0-2)  Club Nacional
+  19.45  Independiente CG         1-1 (1-1)  3 de Febrero
+[Mon Mar/19]
+  17.45  Sportivo Luqueño         0-0  Deportivo Santaní
+  20.00  Club Olimpia             3-3 (1-3)  Sol de América
+
+
+Matchday 9
+[Sat Mar/24]
+  17.30  3 de Febrero             2-2 (1-1)  General Díaz
+  19.40  Deportivo Santaní        2-0 (1-0)  Guaraní
+[Sun Mar/25]
+  17.00  Cerro Porteño            2-0 (1-0)  Sportivo Luqueño
+  19.10  Club Nacional            4-0 (2-0)  Deportivo Capiatá
+[Mon Mar/26]
+  17.50  Sol de América           0-1 (0-1)  Independiente CG
+[Wed Apr/11]
+  19.15  Libertad                 0-1 (0-0)  Club Olimpia
+
+
+Matchday 10
+[Thu Mar/29]
+  18.00  Independiente CG         3-1 (2-0)  Libertad
+[Sat Mar/31]
+  19.30  Guaraní                  0-4 (0-1)  Cerro Porteño
+[Sun Apr/1]
+  16.00  Deportivo Santaní        1-1 (0-0)  Club Nacional
+  17.00  Club Olimpia             1-0 (0-0)  Deportivo Capiatá
+  19.15  General Díaz             1-1 (1-0)  Sol de América
+[Mon Apr/2]
+  18.30  Sportivo Luqueño         1-1 (1-0)  3 de Febrero
+
+
+Matchday 11
+[Fri Apr/6]
+  17.30  Deportivo Capiatá        2-1 (1-0)  Independiente CG
+  19.45  3 de Febrero             1-2 (1-1)  Guaraní
+[Sat Apr/7]
+  17.15  Club Nacional            0-0  Club Olimpia
+  19.30  Libertad                 1-0 (0-0)  General Díaz
+[Sun Apr/8]
+  17.00  Cerro Porteño            0-0  Deportivo Santaní
+  19.10  Sol de América           3-1 (1-0)  Sportivo Luqueño
+
+
+Matchday 12
+[Fri Apr/13]
+  17.45  Deportivo Capiatá        1-1 (0-0)  General Díaz
+  20.00  Cerro Porteño            5-0 (1-0)  Club Nacional
+[Sat Apr/14]
+  17.15  3 de Febrero             0-0  Deportivo Santaní
+  19.30  Libertad                 1-2 (1-2)  Sportivo Luqueño
+[Sun Apr/15]
+  17.45  Club Olimpia             4-2 (2-0)  Independiente CG
+[Mon Apr/16]
+  19.00  Sol de América           0-0  Guaraní
+
+
+Matchday 13
+[Fri Apr/20]
+  17.30  Club Nacional            1-0 (1-0)  Independiente CG
+  19.45  General Díaz             1-2 (0-2)  Club Olimpia
+[Sat Apr/21]
+  17.50  Cerro Porteño            3-1 (1-1)  3 de Febrero
+  19.50  Guaraní                  0-2 (0-0)  Libertad
+[Mon Apr/23]
+  17.40  Deportivo Santaní        2-0 (0-0)  Sol de América
+  19.50  Sportivo Luqueño         1-2 (0-1)  Deportivo Capiatá
+
+
+Matchday 14
+[Fri Apr/27]
+  17.30  Independiente CG         2-3 (2-2)  General Díaz
+  19.45  Sol de América           0-3 (0-3)  Cerro Porteño
+[Sat Apr/28]
+  17.00  3 de Febrero             1-1 (0-0)  Club Nacional
+  19.10  Deportivo Capiatá        0-1 (0-0)  Guaraní
+[Sun Apr/29]
+  16.50  Club Olimpia             3-0 (2-0)  Sportivo Luqueño
+  19.00  Libertad                 1-1 (0-0)  Deportivo Santaní
+
+
+Matchday 15
+[Thu May/3]
+  19.15  3 de Febrero             2-1 (0-1)  Sol de América
+[Fri May/4]
+  17.20  Sportivo Luqueño         1-1 (0-1)  Independiente CG
+  19.30  Guaraní                  0-0  Club Olimpia
+[Sat May/5]
+  17.30  Deportivo Santaní        3-3 (2-1)  Deportivo Capiatá
+[Sun May/6]
+  17.30  Club Nacional            3-1 (3-0)  General Díaz
+  20.15  Cerro Porteño            0-2 (0-1)  Libertad
+
+
+Matchday 16
+[Tue May/8]
+  17.30  Independiente CG         2-1 (1-1)  Guaraní
+  19.45  Club Olimpia             2-1 (0-1)  Deportivo Santaní
+[Wed May/9]
+  17.30  General Díaz             2-1 (0-1)  Sportivo Luqueño
+  19.45  Deportivo Capiatá        2-3 (0-1)  Cerro Porteño
+[Thu May/10]
+  19.15  Libertad                 2-0 (1-0)  3 de Febrero
+[Thu May/17]
+  19.45  Sol de América           1-0 (0-0)  Club Nacional
+
+
+Matchday 17
+[Sat May/12]
+  16.00  Cerro Porteño            1-0 (0-0)  Club Olimpia
+  18.15  Deportivo Santaní        1-1 (1-1)  Independiente CG
+[Sun May/13]
+  17.30  Club Nacional            0-2 (0-1)  Sportivo Luqueño
+  19.45  Guaraní                  2-2 (2-0)  General Díaz
+[Mon May/14]
+  17.30  3 de Febrero             3-0 (1-0)  Deportivo Capiatá
+  19.45  Sol de América           3-3 (1-3)  Libertad
+
+
+Matchday 18
+[Sat May/19]
+  10.00  General Díaz             1-0 (0-0)  Deportivo Santaní
+  17.00  Sportivo Luqueño         0-1 (0-0)  Guaraní
+  19.10  Independiente CG         0-3 (0-2)  Cerro Porteño
+[Sun May/20]
+  17.30  Club Olimpia             3-2 (2-2)  3 de Febrero
+[Mon May/21]
+  17.30  Deportivo Capiatá        1-1 (0-1)  Sol de América
+  19.45  Libertad                 0-0  Club Nacional
+
+
+Matchday 19
+[Fri May/25]
+  17.30  3 de Febrero             0-2 (0-1)  Independiente CG
+  19.40  Club Nacional            3-0 (0-0)  Guaraní
+[Sat May/26]
+  19.30  Libertad                 3-2 (0-0)  Deportivo Capiatá
+[Sun May/27]
+  16.30  Cerro Porteño            4-1 (1-0)  General Díaz
+         Sol de América           0-3 (0-1)  Club Olimpia
+  18.40  Deportivo Santaní        3-0 (2-0)  Sportivo Luqueño
+
+
+Matchday 20
+[Tue May/29]
+  19.40  Deportivo Capiatá        0-1 (0-0)  Club Nacional
+[Wed May/30]
+  17.00  Guaraní                  1-1 (0-0)  Deportivo Santaní
+  19.15  Club Olimpia             2-1 (2-0)  Libertad
+         Sportivo Luqueño         1-1 (0-0)  Cerro Porteño
+[Thu May/31]
+  17.30  General Díaz             3-2 (0-0)  3 de Febrero
+  19.40  Independiente CG         3-1 (0-0)  Sol de América
+
+
+Matchday 21
+[Sat Jun/2]
+  18.30  Club Nacional            0-0  Deportivo Santaní
+[Sun Jun/3]
+  16.30  Deportivo Capiatá        2-2 (1-1)  Club Olimpia
+  18.45  Libertad                 1-0 (0-0)  Independiente CG
+[Mon Jun/4]
+  17.00  Sol de América           4-3 (1-0)  General Díaz
+  19.40  3 de Febrero             0-2 (0-1)  Sportivo Luqueño
+[Tue Jun/5]
+  19.00  Cerro Porteño            2-1 (1-1)  Guaraní
+
+
+Matchday 22
+[Fri Jun/8]
+  17.30  Independiente CG         3-1 (2-0)  Deportivo Capiatá
+  19.40  Sportivo Luqueño         0-1 (0-1)  Sol de América
+[Sat Jun/9]
+  16.30  General Díaz             0-2 (0-1)  Libertad
+  18.40  Deportivo Santaní        1-1 (1-0)  Cerro Porteño
+[Sun Jun/10]
+  17.15  Club Olimpia             4-2 (1-1)  Club Nacional
+  19.20  Guaraní                  1-1 (0-0)  3 de Febrero
+
+
+== Clausura
+
+Matchday 1
+[Tue Jul/17]
+  16.50  3 de Febrero             1-1 (1-0)  General Díaz
+  19.00  Club Nacional            1-2 (1-0)  Club Olimpia
+[Wed Jul/18]
+  16.50  Guaraní                  1-0 (0-0)  Deportivo Capiatá
+  19.00  Independiente CG         0-1 (0-1)  Cerro Porteño
+[Thu Jul/19]
+  19.00  Libertad                 2-3 (2-1)  Sportivo Luqueño
+[Wed Jul/25]
+  19.00  Sol de América           1-1 (0-0)  Deportivo Santaní
+
+
+Matchday 2
+[Sat Jul/21]
+  15.30  Deportivo Santaní        1-3 (0-1)  3 de Febrero
+  17.45  General Díaz             1-1 (1-1)  Club Olimpia
+[Sun Jul/22]
+  15.30  Cerro Porteño            1-1 (1-1)  Guaraní
+  19.00  Sportivo Luqueño         2-2 (0-0)  Sol de América
+[Mon Jul/23]
+  16.50  Independiente CG         2-2 (1-2)  Club Nacional
+  19.00  Deportivo Capiatá        1-1 (1-0)  Libertad
+
+
+Matchday 3
+[Fri Jul/27]
+  19.00  Guaraní                  0-0  Independiente CG
+[Sat Jul/28]
+  17.45  Libertad                 1-1 (1-1)  Cerro Porteño
+[Sun Jul/29]
+  15.30  Club Olimpia             0-1 (0-1)  Deportivo Santaní
+  18.30  Club Nacional            1-1 (1-0)  General Díaz
+[Mon Jul/30]
+  16.50  Sol de América           2-2 (1-2)  Deportivo Capiatá
+  19.00  3 de Febrero             0-2 (0-0)  Sportivo Luqueño
+
+
+Matchday 4
+[Fri Aug/3]
+  16.50  Independiente CG         1-0 (0-0)  Libertad
+  19.00  Cerro Porteño            2-0 (0-0)  Sol de América
+[Sat Aug/4]
+  15.30  Deportivo Capiatá        2-1 (0-1)  3 de Febrero
+  19.00  Guaraní                  1-1 (1-1)  Club Nacional
+[Sun Aug/5]
+  15.30  Sportivo Luqueño         0-1 (0-1)  Club Olimpia
+  17.45  Deportivo Santaní        3-1 (1-1)  General Díaz
+
+
+Matchday 5
+[Thu Aug/9]
+  18.00  Sol de América           2-1 (2-0)  Independiente CG
+[Fri Aug/10]
+  17.00  General Díaz             2-2 (0-1)  Sportivo Luqueño
+  19.00  Club Nacional            3-1 (1-0)  Deportivo Santaní
+[Sun Aug/12]
+  15.30  Club Olimpia             4-1 (2-1)  Deportivo Capiatá
+  17.45  Libertad                 3-0 (1-0)  Guaraní
+[Mon Aug/13]
+  18.00  3 de Febrero             1-3 (0-1)  Cerro Porteño
+
+
+Matchday 6
+[Sat Aug/18]
+  16.00  Independiente CG         1-4 (0-1)  3 de Febrero
+  19.00  Guaraní                  2-1 (1-1)  Sol de América
+[Sun Aug/19]
+  15.30  Cerro Porteño            0-2 (0-1)  Club Olimpia
+  18.30  Sportivo Luqueño         1-0 (0-0)  Deportivo Santaní
+[Mon Aug/20]
+  17.00  Deportivo Capiatá        3-1 (2-1)  General Díaz
+  19.10  Libertad                 1-0 (0-0)  Club Nacional
+
+
+Matchday 7
+[Fri Aug/24]
+  17.00  Sol de América           0-2 (0-0)  Libertad
+  19.10  3 de Febrero             2-1 (0-1)  Guaraní
+[Sat Aug/25]
+  16.00  General Díaz             1-4 (1-1)  Cerro Porteño
+  18.10  Club Nacional            3-1 (1-0)  Sportivo Luqueño
+[Sun Aug/26]
+  15.30  Deportivo Santaní        0-1 (0-1)  Deportivo Capiatá
+  17.45  Club Olimpia             3-2 (2-1)  Independiente CG
+
+
+Matchday 8
+[Fri Aug/31]
+  19.10  Deportivo Capiatá        2-1 (0-1)  Sportivo Luqueño
+[Sat Sep/1]
+  16.00  Sol de América           1-1 (1-0)  Club Nacional
+[Sun Sep/2]
+  15.30  Independiente CG         2-2 (0-1)  General Díaz
+  17.45  Guaraní                  0-3 (0-1)  Club Olimpia
+[Mon Sep/3]
+  17.15  Libertad                 0-0  3 de Febrero
+  19.30  Cerro Porteño            1-1 (0-1)  Deportivo Santaní
+
+
+Matchday 9
+[Fri Sep/7]
+  19.00  Deportivo Santaní        0-0  Independiente CG
+[Sat Sep/8]
+  16.00  Sportivo Luqueño         1-2 (0-1)  Cerro Porteño
+  18.30  3 de Febrero             0-2 (0-1)  Sol de América
+[Sun Sep/9]
+  15.30  General Díaz             3-1 (1-0)  Guaraní
+  17.45  Club Olimpia             1-0 (0-0)  Libertad
+[Mon Sep/10]
+  19.15  Club Nacional            3-1 (1-0)  Deportivo Capiatá
+
+
+Matchday 10
+[Fri Sep/14]
+  17.00  Independiente CG         1-1 (1-1)  Sportivo Luqueño
+  19.15  Libertad                 1-0 (1-0)  General Díaz
+[Sat Sep/15]
+  16.30  Sol de América           2-1 (1-0)  Club Olimpia
+  18.45  Guaraní                  1-0 (0-0)  Deportivo Santaní
+[Sun Sep/16]
+  15.45  3 de Febrero             1-3 (1-3)  Club Nacional
+  18.00  Cerro Porteño            1-0 (1-0)  Deportivo Capiatá
+
+
+Matchday 11
+[Fri Sep/21]
+  17.45  General Díaz             1-0 (1-0)  Sol de América
+  19.50  Sportivo Luqueño         0-3 (0-1)  Guaraní
+[Sat Sep/22]
+  17.45  Club Olimpia             1-0 (0-0)  3 de Febrero
+  20.00  Deportivo Santaní        1-0 (1-0)  Libertad
+[Sun Sep/23]
+  17.35  Club Nacional            0-3 (0-0)  Cerro Porteño
+  19.40  Deportivo Capiatá        3-0 (1-0)  Independiente CG
+
+
+Matchday 12
+[Fri Sep/28]
+  19.00  Deportivo Capiatá        1-1 (1-0)  Guaraní
+[Sat Sep/29]
+  17.45  Deportivo Santaní        2-1 (1-0)  Sol de América
+  20.00  Cerro Porteño            2-0 (0-0)  Independiente CG
+[Sun Sep/30]
+  17.35  Club Olimpia             2-0 (0-0)  Club Nacional
+  19.40  Sportivo Luqueño         0-0  Libertad
+[Mon Oct/1]
+  19.00  General Díaz             1-5 (0-1)  3 de Febrero
+
+
+Matchday 13
+[Fri Oct/5]
+  19.50  Sol de América           1-0 (1-0)  Sportivo Luqueño
+[Sat Oct/6]
+  17.45  3 de Febrero             0-0  Deportivo Santaní
+  20.00  Guaraní                  0-1 (0-0)  Cerro Porteño
+[Sun Oct/7]
+  17.40  Club Olimpia             2-2 (1-1)  General Díaz
+  19.45  Club Nacional            0-3 (0-1)  Independiente CG
+[Mon Oct/8]
+  19.30  Libertad                 3-0 (1-0)  Deportivo Capiatá
+
+
+Matchday 14
+[Fri Oct/12]
+  18.00  Sportivo Luqueño         1-1 (1-0)  3 de Febrero
+  20.15  Independiente CG         1-0 (0-0)  Guaraní
+[Sat Oct/13]
+  19.00  Deportivo Capiatá        0-1 (0-1)  Sol de América
+[Sun Oct/14]
+  18.00  General Díaz             1-2 (0-1)  Club Nacional
+[Mon Oct/15]
+  19.00  Deportivo Santaní        0-5 (0-1)  Club Olimpia
+[Tue Oct/16]
+  19.30  Cerro Porteño            0-1 (0-0)  Libertad
+
+
+Matchday 15
+[Fri Oct/19]
+  19.30  3 de Febrero             0-0  Deportivo Capiatá
+[Sat Oct/20]
+  18.00  General Díaz             4-0 (1-0)  Deportivo Santaní
+  20.00  Club Nacional            0-0  Guaraní
+[Sun Oct/21]
+  17.00  Sol de América           2-1 (0-1)  Cerro Porteño
+  19.10  Club Olimpia             4-2 (2-0)  Sportivo Luqueño
+[Mon Oct/22]
+  19.30  Libertad                 2-1 (1-1)  Independiente CG
+
+
+Matchday 16
+[Sat Oct/27]
+  17.45  Independiente CG         2-2 (0-0)  Sol de América
+  20.00  Sportivo Luqueño         2-0 (1-0)  General Díaz
+[Sun Oct/28]
+  17.30  Deportivo Capiatá        1-4 (1-3)  Club Olimpia
+  19.30  Cerro Porteño            1-1 (0-0)  3 de Febrero
+[Mon Oct/29]
+  18.00  Deportivo Santaní        3-0 (1-0)  Club Nacional
+  20.00  Guaraní                  2-2 (1-1)  Libertad
+
+
+Matchday 17
+[Fri Nov/2]
+  19.00  General Díaz             2-3 (1-2)  Deportivo Capiatá
+[Sat Nov/3]
+  19.00  3 de Febrero             4-1 (1-0)  Independiente CG
+[Sun Nov/4]
+  17.00  Club Olimpia             2-2 (1-1)  Cerro Porteño
+  19.10  Club Nacional            1-2 (0-0)  Libertad
+[Mon Nov/5]
+  17.45  Deportivo Santaní        1-0 (1-0)  Sportivo Luqueño
+  20.00  Sol de América           3-2 (2-0)  Guaraní
+
+
+Matchday 18
+[Sat Nov/10]
+  17.50  Independiente CG         1-1 (1-0)  Club Olimpia
+  20.00  Libertad                 4-0 (1-0)  Sol de América
+[Sun Nov/11]
+  17.50  Cerro Porteño            3-1 (1-0)  General Díaz
+  19.50  Guaraní                  5-0 (3-0)  3 de Febrero
+[Mon Nov/12]
+  17.45  Deportivo Capiatá        0-2 (0-1)  Deportivo Santaní
+  20.00  Sportivo Luqueño         1-1 (1-1)  Club Nacional
+
+
+Matchday 19
+[Sat Nov/17]
+  18.00  3 de Febrero             4-4 (1-1)  Libertad
+  19.50  Sportivo Luqueño         1-1 (0-0)  Deportivo Capiatá
+[Sun Nov/18]
+  17.40  General Díaz             2-1 (1-1)  Independiente CG
+  19.50  Club Nacional            0-0  Sol de América
+[Wed Nov/28]
+  19.50  Deportivo Santaní        2-2 (1-1)  Cerro Porteño
+         Club Olimpia             4-1 (1-0)  Guaraní
+
+
+Matchday 20
+[Fri Nov/23]
+  18.00  Sol de América           3-1 (1-0)  3 de Febrero
+  20.10  Guaraní                  0-2 (0-1)  General Díaz
+[Sat Nov/24]
+  19.50  Cerro Porteño            0-1 (0-0)  Sportivo Luqueño
+         Libertad                 0-2 (0-1)  Club Olimpia
+[Sun Nov/25]
+  18.00  Deportivo Capiatá        1-1 (0-1)  Club Nacional
+  20.00  Independiente CG         0-0  Deportivo Santaní
+
+
+Matchday 21
+[Fri Nov/30]
+  19.00  Club Nacional            4-2 (1-1)  3 de Febrero
+[Sat Dec/1]
+  19.00  General Díaz             1-1 (0-0)  Libertad
+  19.40  Deportivo Santaní        2-2 (1-2)  Guaraní
+         Sportivo Luqueño         1-0 (0-0)  Independiente CG
+[Sun Dec/2]
+  18.30  Deportivo Capiatá        2-4 (1-2)  Cerro Porteño
+         Club Olimpia             3-2 (1-1)  Sol de América
+
+
+Matchday 22
+[Thu Dec/6]
+  18.00  Libertad                 3-1 (1-0)  Deportivo Santaní
+  20.15  Cerro Porteño            1-1 (0-1)  Club Nacional
+[Sat Dec/8]
+  17.45  Guaraní                  3-0 (0-0)  Sportivo Luqueño
+         Independiente CG         2-0 (1-0)  Deportivo Capiatá
+         Sol de América           1-0 (0-0)  General Díaz
+  20.00  3 de Febrero             1-0 (0-0)  Club Olimpia

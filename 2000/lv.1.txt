@@ -1,0 +1,257 @@
+= LV 1 2000
+
+# Date       Sat Apr/8 - Sat Nov/4 2000 (210d)
+# Teams      8
+# Matches    112
+
+
+
+Matchday 1
+[Sat Apr/8]
+         FK Ventspils             0-1  Skonto FC
+         FK Liepājas Metalurgs    1-0  Policijas FK
+         LU/Daugava Rīga          2-2  FK Valmiera
+         FC Dinaburg              1-2  FK Rīga
+
+
+Matchday 2
+[Sat Apr/15]
+         FK Ventspils             2-1  FK Rīga
+         FK Valmiera              0-3  Skonto FC
+         Policijas FK             0-0  LU/Daugava Rīga
+         FC Dinaburg              1-3  FK Liepājas Metalurgs
+
+
+Matchday 3
+[Sat Apr/22]
+         FK Ventspils             3-0  FK Valmiera
+         Policijas FK             0-5  Skonto FC
+         FK Liepājas Metalurgs    2-0  FK Rīga
+         LU/Daugava Rīga          2-1  FC Dinaburg
+
+
+Matchday 4
+[Sun Apr/30]
+         FK Valmiera              0-0  FK Rīga
+         Policijas FK             0-1  FK Ventspils
+         FK Liepājas Metalurgs    5-2  LU/Daugava Rīga
+         FC Dinaburg              1-2  Skonto FC
+
+
+Matchday 5
+[Sat May/6]
+         FK Ventspils             2-0  FC Dinaburg
+         FK Valmiera              1-0  Policijas FK
+         FK Liepājas Metalurgs    1-3  Skonto FC
+         LU/Daugava Rīga          0-3  FK Rīga
+
+
+Matchday 6
+[Sun May/14]
+         FK Rīga                  2-0  Policijas FK
+         FK Liepājas Metalurgs    1-1  FK Ventspils
+         LU/Daugava Rīga          0-9  Skonto FC
+         FC Dinaburg              0-1  FK Valmiera
+
+
+Matchday 7
+[Sun May/21]
+         Policijas FK             0-2  FC Dinaburg
+[Mon May/22]
+         FK Ventspils             4-0  LU/Daugava Rīga
+         FK Valmiera              0-3  FK Liepājas Metalurgs
+         FK Rīga                  1-3  Skonto FC
+
+
+Matchday 8
+[Tue May/30]
+         FK Valmiera              5-2  LU/Daugava Rīga
+         Skonto FC                2-2  FK Ventspils
+         Policijas FK             0-2  FK Liepājas Metalurgs
+[Wed May/31]
+         FK Rīga                  1-2  FC Dinaburg
+
+
+Matchday 9
+[Mon Jun/5]
+         FK Rīga                  1-3  FK Ventspils
+[Tue Jun/6]
+         LU/Daugava Rīga          1-1  Policijas FK
+[Wed Jun/7]
+         FK Valmiera              1-2  Skonto FC
+         FK Liepājas Metalurgs    0-1  FC Dinaburg
+
+
+Matchday 10
+[Sat Jun/10]
+         FK Valmiera              0-2  FK Ventspils
+         Skonto FC                2-0  Policijas FK
+         FC Dinaburg              1-1  LU/Daugava Rīga
+[Sun Jun/11]
+         FK Rīga                  0-4  FK Liepājas Metalurgs
+
+
+Matchday 11
+[Tue Jun/13]
+         Skonto FC                3-0  FC Dinaburg
+[Wed Jun/14]
+         FK Ventspils             5-3  Policijas FK
+         LU/Daugava Rīga          0-3  FK Liepājas Metalurgs
+[Fri Jun/16]
+         FK Rīga                  0-0  FK Valmiera
+
+
+Matchday 12
+[Wed Jun/21]
+         Skonto FC                0-0  FK Liepājas Metalurgs
+         Policijas FK             1-0  FK Valmiera
+[Thu Jun/22]
+         LU/Daugava Rīga          1-2  FK Rīga
+[Tue Jul/25]
+         FC Dinaburg              0-1  FK Ventspils
+
+
+Matchday 13
+[Wed Jun/28]
+         FK Ventspils             0-0  FK Liepājas Metalurgs
+         FK Valmiera              1-0  FC Dinaburg
+         Skonto FC                4-0  LU/Daugava Rīga
+[Thu Jun/29]
+         Policijas FK             1-4  FK Rīga
+
+
+Matchday 14
+[Tue Jul/4]
+         Skonto FC                4-0  FK Rīga
+         FK Liepājas Metalurgs    2-1  FK Valmiera
+         LU/Daugava Rīga          0-3  FK Ventspils
+[Fri Aug/11]
+         FC Dinaburg              0-0  Policijas FK
+
+
+Matchday 15
+[Sat Jul/8]
+         Skonto FC                0-0  FK Ventspils
+         LU/Daugava Rīga          1-1  FK Valmiera
+[Sun Jul/9]
+         Policijas FK             2-3  FK Liepājas Metalurgs
+[Sun Jul/30]
+         FC Dinaburg              0-0  FK Rīga
+
+
+Matchday 16
+[Sat Jul/15]
+         Skonto FC                4-0  FK Valmiera
+         FK Rīga                  0-2  FK Ventspils
+         FC Dinaburg              1-2  FK Liepājas Metalurgs
+[Sun Jul/16]
+         Policijas FK             1-0  LU/Daugava Rīga
+
+
+Matchday 17
+[Sat Jul/22]
+         LU/Daugava Rīga          2-4  FC Dinaburg
+[Sun Jul/30]
+         FK Ventspils             3-3  FK Valmiera
+[Fri Aug/4]
+         FK Liepājas Metalurgs    3-0  FK Rīga
+[Sat Aug/5]
+         Policijas FK             0-8  Skonto FC
+
+
+Matchday 18
+[Fri Aug/18]
+         Policijas FK             0-1  FK Ventspils
+[Sat Aug/19]
+         FK Valmiera              1-5  FK Rīga
+         FK Liepājas Metalurgs    5-1  LU/Daugava Rīga
+[Sun Aug/20]
+         FC Dinaburg              0-2  Skonto FC
+
+
+Matchday 19
+[Sat Aug/26]
+         FK Valmiera              3-0  Policijas FK
+[Sun Aug/27]
+         FK Ventspils             1-1  FC Dinaburg
+         Skonto FC                1-0  FK Liepājas Metalurgs
+         FK Rīga                  1-2  LU/Daugava Rīga
+
+
+Matchday 20
+[Thu Sep/7]
+         LU/Daugava Rīga          0-5  Skonto FC
+[Fri Sep/8]
+         FK Rīga                  4-1  Policijas FK
+         FK Liepājas Metalurgs    1-1  FK Ventspils
+         FC Dinaburg              2-0  FK Valmiera
+
+
+Matchday 21
+[Sun Sep/17]
+         FK Ventspils             2-0  LU/Daugava Rīga
+         FK Valmiera              1-1  FK Liepājas Metalurgs
+         Policijas FK             0-3  FC Dinaburg
+[Mon Sep/18]
+         FK Rīga                  0-4  Skonto FC
+
+
+Matchday 22
+[Sat Sep/23]
+         FK Ventspils             2-1  Skonto FC
+         FK Valmiera              0-0  LU/Daugava Rīga
+         FK Rīga                  0-1  FC Dinaburg
+         FK Liepājas Metalurgs    0-1  Policijas FK
+
+
+Matchday 23
+[Sat Sep/30]
+         Skonto FC                2-0  FK Valmiera
+         LU/Daugava Rīga          1-2  Policijas FK
+[Sun Oct/1]
+         FK Ventspils             3-1  FK Rīga
+         FK Liepājas Metalurgs    1-1  FC Dinaburg
+
+
+Matchday 24
+[Tue Oct/10]
+         Skonto FC                7-0  Policijas FK
+         FC Dinaburg              2-0  LU/Daugava Rīga
+[Wed Oct/11]
+         FK Valmiera              0-3  FK Ventspils
+         FK Rīga                  1-2  FK Liepājas Metalurgs
+
+
+Matchday 25
+[Sat Oct/14]
+         Skonto FC                2-0  FC Dinaburg
+[Sun Oct/15]
+         FK Ventspils             1-0  Policijas FK
+         FK Rīga                  2-2  FK Valmiera
+         LU/Daugava Rīga          0-1  FK Liepājas Metalurgs
+
+
+Matchday 26
+[Sat Oct/21]
+         FC Dinaburg              1-2  FK Ventspils
+         FK Rīga                  2-1  LU/Daugava Rīga
+[Sun Oct/22]
+         Policijas FK             0-0  FK Valmiera
+         FK Liepājas Metalurgs    1-3  Skonto FC
+
+
+Matchday 27
+[Sat Oct/28]
+         FK Ventspils             2-2  FK Liepājas Metalurgs
+         FK Valmiera              1-3  FC Dinaburg
+         Policijas FK             0-2  FK Rīga
+[Sun Oct/29]
+         Skonto FC                2-1  LU/Daugava Rīga
+
+
+Matchday 28
+[Sat Nov/4]
+         Skonto FC                2-0  FK Rīga
+         FK Liepājas Metalurgs    2-1  FK Valmiera
+         LU/Daugava Rīga          1-3  FK Ventspils
+         FC Dinaburg              3-0  Policijas FK

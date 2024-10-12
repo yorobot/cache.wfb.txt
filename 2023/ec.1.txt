@@ -1,0 +1,462 @@
+= EC 1 2023
+
+# Date       Fri Feb/24 - Sun Dec/17 2023 (296d)
+# Teams      16
+# Matches    242
+# Stages     Primera Etapa (120)  Segunda Etapa (120)  Tercera Etapa (2)
+
+
+== Primera Etapa
+
+Matchday 1
+[Fri Feb/24]
+  19.00  Deportivo Cuenca         2-0 (1-0)  LDU Quito
+[Sat Feb/25]
+  14.00  Independiente del Valle  3-1 (2-1)  Mushuc Runa
+  16.30  Guayaquil City           1-1 (0-1)  Cumbayá
+  19.00  Gualaceo SC              2-1 (1-1)  Barcelona
+[Sun Feb/26]
+  14.00  Técnico Universitario    4-1 (2-0)  Universidad Catolica
+  16.30  Aucas                    0-2 (0-1)  El Nacional
+  19.00  Emelec                   2-0 (2-0)  Libertad de Loja
+[Mon Feb/27]
+  19.00  Delfín SC                1-1 (1-0)  Orense SC
+
+
+Matchday 2
+[Fri Mar/3]
+  19.00  Libertad de Loja         3-1 (0-1)  Deportivo Cuenca
+[Sat Mar/4]
+  14.00  El Nacional              3-2 (2-0)  Técnico Universitario
+  16.30  LDU Quito                1-1 (1-1)  Aucas
+  19.00  Barcelona                5-0 (2-0)  Delfín SC
+[Sun Mar/5]
+  14.00  Mushuc Runa              2-1 (1-1)  Gualaceo SC
+  16.30  Universidad Catolica     3-0 (2-0)  Guayaquil City
+  19.00  Orense SC                2-1 (0-0)  Emelec
+[Mon Mar/6]
+  19.00  Cumbayá                  1-0 (1-0)  Independiente del Valle
+
+
+Matchday 3
+[Fri Mar/17]
+  19.00  Gualaceo SC              2-1 (1-1)  Orense SC
+[Sat Mar/18]
+  14.00  Delfín SC                3-2 (2-1)  Libertad de Loja
+  16.30  Guayaquil City           4-1 (2-1)  Mushuc Runa
+  19.00  Independiente del Valle  1-0 (1-0)  Barcelona
+[Sun Mar/19]
+  14.00  Aucas                    4-1 (1-1)  Universidad Catolica
+  16.30  El Nacional              0-2 (0-0)  LDU Quito
+  19.00  Emelec                   1-0 (1-0)  Técnico Universitario
+[Mon Mar/20]
+  19.00  Deportivo Cuenca         1-0 (0-0)  Cumbayá
+
+
+Matchday 4
+[Fri Mar/31]
+  17.30  Universidad Catolica     2-3 (2-2)  Independiente del Valle
+  20.00  LDU Quito                6-1 (4-0)  Gualaceo SC
+[Sat Apr/1]
+  14.00  Libertad de Loja         2-2 (1-1)  Aucas
+  16.30  Barcelona                1-0 (0-0)  Mushuc Runa
+  19.00  Delfín SC                3-2 (1-1)  Emelec
+[Sun Apr/2]
+  14.00  Técnico Universitario    3-0 (2-0)  Deportivo Cuenca
+  16.30  Cumbayá                  2-0 (2-0)  El Nacional
+  19.00  Orense SC                3-2 (2-2)  Guayaquil City
+
+
+Matchday 5
+[Fri Apr/7]
+  19.00  Orense SC                2-0 (2-0)  Deportivo Cuenca
+[Sat Apr/8]
+  13.00  Gualaceo SC              1-1 (1-1)  Técnico Universitario
+  15.30  El Nacional              1-2 (1-1)  Universidad Catolica
+  18.00  Independiente del Valle  3-0 (2-0)  Delfín SC
+[Sun Apr/9]
+  13.00  Mushuc Runa              2-1 (1-0)  Libertad de Loja
+  15.30  Guayaquil City           1-2 (1-0)  LDU Quito
+  18.00  Aucas                    2-1 (1-0)  Emelec
+[Mon Apr/10]
+  19.00  Barcelona                4-1 (1-1)  Cumbayá
+
+
+Matchday 6
+[Fri Apr/14]
+  19.00  Libertad de Loja         0-0  Independiente del Valle
+[Sat Apr/15]
+  12.30  Técnico Universitario    0-1 (0-0)  Aucas
+  15.00  Deportivo Cuenca         4-1 (1-1)  Guayaquil City
+  18.00  LDU Quito                0-1 (0-1)  Barcelona
+[Sun Apr/16]
+  13.00  Cumbayá                  1-0 (1-0)  Gualaceo SC
+  15.30  Delfín SC                3-0 (1-0)  Mushuc Runa
+[Mon Apr/17]
+  12.00  Emelec                   1-2 (1-1)  El Nacional
+  19.00  Universidad Catolica     1-1 (0-0)  Orense SC
+
+
+Matchday 7
+[Fri Apr/21]
+  19.00  Guayaquil City           2-1 (0-1)  Delfín SC
+[Sat Apr/22]
+  13.00  Gualaceo SC              1-0 (0-0)  Universidad Catolica
+  15.30  Independiente del Valle  1-0 (1-0)  Técnico Universitario
+  18.00  Orense SC                2-1 (1-0)  LDU Quito
+[Sun Apr/23]
+  13.00  El Nacional              4-2 (2-2)  Libertad de Loja
+  15.30  Barcelona                2-1 (0-1)  Deportivo Cuenca
+  18.00  Mushuc Runa              0-0  Emelec
+[Mon Apr/24]
+  19.00  Aucas                    2-1 (1-0)  Cumbayá
+
+
+Matchday 8
+[Fri Apr/28]
+  17.30  Aucas                    1-0 (0-0)  Guayaquil City
+  20.00  Emelec                   2-3 (0-0)  Independiente del Valle
+[Sat Apr/29]
+  13.00  Deportivo Cuenca         1-2 (0-1)  Gualaceo SC
+  15.30  Universidad Catolica     0-4 (0-3)  LDU Quito
+  18.00  Técnico Universitario    2-2 (1-0)  Barcelona
+[Sun Apr/30]
+  13.00  Cumbayá                  1-1 (0-0)  Mushuc Runa
+  15.30  Libertad de Loja         0-0  Orense SC
+  18.00  Delfín SC                2-0 (1-0)  El Nacional
+
+
+Matchday 9
+[Fri May/5]
+  19.00  Orense SC                2-1 (1-1)  Técnico Universitario
+[Sat May/6]
+  13.00  Universidad Catolica     1-0 (1-0)  Deportivo Cuenca
+  15.30  Guayaquil City           1-1 (0-0)  Libertad de Loja
+  18.00  Gualaceo SC              1-2 (1-0)  Independiente del Valle
+[Sun May/7]
+  13.00  Mushuc Runa              0-1 (0-1)  El Nacional
+  15.30  Cumbayá                  0-0  Emelec
+  18.00  Barcelona                5-1 (2-0)  Aucas
+[Mon May/8]
+  19.00  LDU Quito                1-1 (0-0)  Delfín SC
+
+
+Matchday 10
+[Fri May/12]
+  19.00  Deportivo Cuenca         3-0 (1-0)  Mushuc Runa
+[Sat May/13]
+  13.00  El Nacional              3-1 (3-0)  Orense SC
+  15.30  Aucas                    1-0 (1-0)  Gualaceo SC
+  18.00  Libertad de Loja         2-2 (0-2)  Barcelona
+[Sun May/14]
+  13.00  Delfín SC                0-0  Universidad Catolica
+  15.30  Independiente del Valle  4-0 (1-0)  Guayaquil City
+  18.00  Emelec                   1-1 (1-0)  LDU Quito
+[Mon May/15]
+  19.00  Técnico Universitario    0-0  Cumbayá
+
+
+Matchday 11
+[Fri May/19]
+  17.30  LDU Quito                2-1 (1-0)  Técnico Universitario
+  20.00  Barcelona                2-0 (0-0)  Orense SC
+[Sat May/20]
+  13.00  Mushuc Runa              0-0  Aucas
+  15.30  Deportivo Cuenca         1-2 (0-1)  Independiente del Valle
+  18.00  Universidad Catolica     3-2 (1-0)  Emelec
+[Sun May/21]
+  13.00  Gualaceo SC              1-1 (0-0)  Libertad de Loja
+  15.30  Cumbayá                  0-1 (0-1)  Delfín SC
+  18.00  Guayaquil City           3-1 (1-0)  El Nacional
+
+
+Matchday 12
+[Fri May/26]
+  19.00  Libertad de Loja         2-2 (0-1)  Universidad Catolica
+[Sat May/27]
+  13.00  Técnico Universitario    1-0 (1-0)  Mushuc Runa
+  15.30  Orense SC                1-0 (0-0)  Cumbayá
+  18.00  Delfín SC                1-0 (0-0)  Gualaceo SC
+[Sun May/28]
+  13.00  Aucas                    0-2 (0-1)  Deportivo Cuenca
+  15.30  Independiente del Valle  2-3 (2-0)  LDU Quito
+  18.00  El Nacional              4-1 (2-1)  Barcelona
+[Mon May/29]
+  19.00  Emelec                   0-0  Guayaquil City
+
+
+Matchday 13
+[Fri Jun/2]
+  17.00  Independiente del Valle  2-0 (1-0)  Aucas
+  19.30  LDU Quito                4-2 (1-2)  Libertad de Loja
+[Sat Jun/3]
+  15.00  Mushuc Runa              3-1 (1-0)  Orense SC
+  18.00  Barcelona                1-3 (0-0)  Emelec
+[Sun Jun/4]
+  13.00  Cumbayá                  0-1 (0-1)  Universidad Catolica
+  15.30  Técnico Universitario    3-0 (1-0)  Guayaquil City
+  18.00  Gualaceo SC              3-4 (1-1)  El Nacional
+[Mon Jun/5]
+  19.00  Deportivo Cuenca         4-0 (3-0)  Delfín SC
+
+
+Matchday 14
+[Fri Jun/9]
+  19.00  Universidad Catolica     3-2 (3-0)  Mushuc Runa
+[Sat Jun/10]
+  13.00  Libertad de Loja         1-0 (0-0)  Técnico Universitario
+  15.30  LDU Quito                0-0  Cumbayá
+  18.00  El Nacional              3-1 (1-1)  Deportivo Cuenca
+[Sun Jun/11]
+  13.00  Delfín SC                2-0 (1-0)  Aucas
+  15.30  Guayaquil City           1-2 (0-2)  Barcelona
+  18.00  Orense SC                0-2 (0-1)  Independiente del Valle
+[Mon Jun/12]
+  19.00  Emelec                   0-0  Gualaceo SC
+
+
+Matchday 15
+[Fri Jun/16]
+  19.00  Independiente del Valle  3-4 (1-2)  El Nacional
+[Sat Jun/17]
+  13.00  Cumbayá                  2-1 (1-0)  Libertad de Loja
+  15.30  Gualaceo SC              2-1 (0-0)  Guayaquil City
+  18.00  Mushuc Runa              2-2 (0-0)  LDU Quito
+[Sun Jun/18]
+  15.30  Deportivo Cuenca         3-2 (1-1)  Emelec
+  18.00  Barcelona                1-2 (0-2)  Universidad Catolica
+[Mon Jun/19]
+  19.00  Técnico Universitario    3-0 (2-0)  Delfín SC
+[Fri Jun/23]
+  19.00  Aucas                    2-0 (1-0)  Orense SC
+
+
+== Segunda Etapa
+
+Matchday 1
+[Fri Aug/4]
+  19.00  Libertad de Loja         0-0  Emelec
+[Sat Aug/5]
+  13.00  Universidad Catolica     0-0  Técnico Universitario
+  15.30  Orense SC                0-0  Delfín SC
+  18.00  El Nacional              2-2 (1-2)  Aucas
+[Sun Aug/6]
+  13.00  Mushuc Runa              1-0 (0-0)  Independiente del Valle
+  15.30  Cumbayá                  2-2 (1-1)  Guayaquil City
+  18.00  Barcelona                2-0 (1-0)  Gualaceo SC
+[Mon Aug/7]
+  19.00  LDU Quito                2-0 (1-0)  Deportivo Cuenca
+
+
+Matchday 2
+[Fri Aug/11]
+  17.30  Guayaquil City           0-0  Universidad Catolica
+  20.00  Gualaceo SC              0-0  Mushuc Runa
+[Sat Aug/12]
+  13.00  Deportivo Cuenca         2-1 (1-0)  Libertad de Loja
+  15.30  Técnico Universitario    3-3 (0-2)  El Nacional
+  18.00  Delfín SC                1-1 (1-0)  Barcelona
+[Sun Aug/13]
+  13.00  Independiente del Valle  2-0 (1-0)  Cumbayá
+  15.30  Emelec                   0-0  Orense SC
+  18.00  Aucas                    0-0  LDU Quito
+
+
+Matchday 3
+[Wed Aug/16]
+  16.30  Mushuc Runa              3-0 (3-0)  Guayaquil City
+  19.00  Orense SC                2-0 (1-0)  Gualaceo SC
+[Thu Aug/17]
+  14.00  Libertad de Loja         1-3 (0-1)  Delfín SC
+  16.30  Universidad Catolica     2-2 (1-0)  Aucas
+  19.00  Técnico Universitario    0-0  Emelec
+[Fri Aug/18]
+  15.00  Cumbayá                  1-1 (1-0)  Deportivo Cuenca
+  17.30  LDU Quito                0-0  El Nacional
+  20.00  Barcelona                1-1 (0-0)  Independiente del Valle
+
+
+Matchday 4
+[Fri Aug/25]
+  19.00  El Nacional              2-2 (1-2)  Cumbayá
+[Sat Aug/26]
+  13.00  Independiente del Valle  0-1 (0-0)  Universidad Catolica
+  15.30  Guayaquil City           1-0 (1-0)  Orense SC
+  18.00  Mushuc Runa              2-2 (0-1)  Barcelona
+[Sun Aug/27]
+  13.00  Aucas                    1-2 (0-0)  Libertad de Loja
+  15.30  Emelec                   0-1 (0-0)  Delfín SC
+  18.00  Gualaceo SC              1-3 (0-1)  LDU Quito
+[Mon Aug/28]
+  19.00  Deportivo Cuenca         1-1 (1-0)  Técnico Universitario
+
+
+Matchday 5
+[Fri Sep/1]
+  19.00  Delfín SC                1-0 (0-0)  Independiente del Valle
+[Sat Sep/2]
+  13.00  Libertad de Loja         0-1 (0-1)  Mushuc Runa
+  15.30  Universidad Catolica     1-1 (0-0)  El Nacional
+  18.00  Emelec                   0-0  Aucas
+[Sun Sep/3]
+  13.00  Deportivo Cuenca         1-0 (0-0)  Orense SC
+  15.30  Técnico Universitario    4-0 (4-0)  Gualaceo SC
+  18.00  Cumbayá                  2-2 (1-1)  Barcelona
+[Mon Sep/4]
+  19.00  LDU Quito                2-0 (1-0)  Guayaquil City
+
+
+Matchday 6
+[Fri Sep/15]
+  19.00  Orense SC                1-2 (1-1)  Universidad Catolica
+[Sat Sep/16]
+  13.00  Mushuc Runa              2-0 (1-0)  Delfín SC
+  15.30  Guayaquil City           0-0  Deportivo Cuenca
+  18.00  El Nacional              1-1 (1-0)  Emelec
+[Sun Sep/17]
+  12.30  Aucas                    2-4 (2-3)  Técnico Universitario
+  15.00  Independiente del Valle  2-0 (1-0)  Libertad de Loja
+  18.00  Barcelona                1-0 (1-0)  LDU Quito
+[Mon Sep/18]
+  19.00  Gualaceo SC              0-3 (0-0)  Cumbayá
+
+
+Matchday 7
+[Fri Sep/22]
+  19.00  LDU Quito                1-0 (0-0)  Orense SC
+[Sat Sep/23]
+  13.00  Universidad Catolica     0-0  Gualaceo SC
+  15.30  Emelec                   3-1 (1-1)  Mushuc Runa
+  18.00  Técnico Universitario    2-2 (0-1)  Independiente del Valle
+[Sun Sep/24]
+  14.00  Cumbayá                  1-1 (0-0)  Aucas
+  16.30  Delfín SC                1-0 (0-0)  Guayaquil City
+  19.00  Deportivo Cuenca         1-2 (0-0)  Barcelona
+[Mon Sep/25]
+  19.00  Libertad de Loja         0-1 (0-0)  El Nacional
+
+
+Matchday 8
+[Fri Sep/29]
+  19.00  Gualaceo SC              1-1 (0-0)  Deportivo Cuenca
+[Sat Sep/30]
+  13.00  Mushuc Runa              1-1 (1-1)  Cumbayá
+  15.30  El Nacional              2-2 (0-2)  Delfín SC
+  18.00  Independiente del Valle  2-1 (1-1)  Emelec
+[Sun Oct/1]
+  13.00  Guayaquil City           0-1 (0-1)  Aucas
+  15.30  Orense SC                3-0 (1-0)  Libertad de Loja
+  18.00  Barcelona                1-0 (1-0)  Técnico Universitario
+[Wed Nov/1]
+  19.00  LDU Quito                1-0 (0-0)  Universidad Catolica
+
+
+Matchday 9
+[Fri Oct/6]
+  19.00  Deportivo Cuenca         2-3 (1-2)  Universidad Catolica
+[Sat Oct/7]
+  13.00  Técnico Universitario    2-1 (2-0)  Orense SC
+  15.30  Emelec                   3-0 (1-0)  Cumbayá
+  18.00  Aucas                    3-2 (1-2)  Barcelona
+[Sun Oct/8]
+  13.00  El Nacional              2-0 (0-0)  Mushuc Runa
+  15.30  Independiente del Valle  2-0 (2-0)  Gualaceo SC
+  18.00  Delfín SC                0-0  LDU Quito
+[Mon Oct/9]
+  19.00  Libertad de Loja         1-0 (0-0)  Guayaquil City
+
+
+Matchday 10
+[Fri Oct/20]
+  19.00  Orense SC                1-1 (0-1)  El Nacional
+[Sat Oct/21]
+  13.00  Cumbayá                  0-1 (0-1)  Técnico Universitario
+  15.30  Mushuc Runa              1-1 (1-1)  Deportivo Cuenca
+  18.00  Barcelona                1-0 (1-0)  Libertad de Loja
+[Sun Oct/22]
+  12.30  Gualaceo SC              1-2 (1-0)  Aucas
+  15.00  Guayaquil City           0-2 (0-2)  Independiente del Valle
+  18.00  LDU Quito                1-0 (0-0)  Emelec
+[Mon Oct/23]
+  19.00  Universidad Catolica     2-2 (1-0)  Delfín SC
+
+
+Matchday 11
+[Fri Oct/27]
+  19.00  Libertad de Loja         3-0 (1-0)  Gualaceo SC
+[Sat Oct/28]
+  13.00  Independiente del Valle  2-0 (1-0)  Deportivo Cuenca
+  18.00  Emelec                   2-1 (0-0)  Universidad Catolica
+[Sun Oct/29]
+  13.00  Delfín SC                4-0 (2-0)  Cumbayá
+  15.30  Aucas                    4-0 (1-0)  Mushuc Runa
+  18.00  Orense SC                2-3 (2-1)  Barcelona
+[Mon Oct/30]
+  19.00  El Nacional              2-0 (1-0)  Guayaquil City
+[Wed Nov/8]
+  19.00  Técnico Universitario    0-2 (0-1)  LDU Quito
+
+
+Matchday 12
+[Fri Nov/3]
+  19.00  Deportivo Cuenca         0-0  Aucas
+[Sat Nov/4]
+  13.00  Gualaceo SC              2-2 (1-2)  Delfín SC
+  15.30  Guayaquil City           0-0  Emelec
+  18.00  LDU Quito                2-0 (2-0)  Independiente del Valle
+[Sun Nov/5]
+  12.30  Mushuc Runa              1-0 (0-0)  Técnico Universitario
+  15.00  Cumbayá                  0-1 (0-0)  Orense SC
+  18.00  Barcelona                3-2 (1-1)  El Nacional
+[Mon Nov/6]
+  19.00  Universidad Catolica     0-0  Libertad de Loja
+
+
+Matchday 13
+[Fri Nov/10]
+  19.00  Orense SC                1-0 (1-0)  Mushuc Runa
+[Sat Nov/11]
+  13.00  Universidad Catolica     1-0 (0-0)  Cumbayá
+  15.30  Guayaquil City           1-0 (0-0)  Técnico Universitario
+  18.00  Aucas                    2-0 (1-0)  Independiente del Valle
+[Sun Nov/12]
+  12.30  El Nacional              4-2 (0-1)  Gualaceo SC
+  15.00  Libertad de Loja         0-2 (0-0)  LDU Quito
+  18.00  Emelec                   0-0  Barcelona
+[Mon Nov/13]
+  19.00  Delfín SC                0-0  Deportivo Cuenca
+
+
+Matchday 14
+[Sat Nov/25]
+  18.00  Aucas                    0-0  Delfín SC
+         Deportivo Cuenca         1-0 (0-0)  El Nacional
+         Independiente del Valle  2-2 (1-0)  Orense SC
+         Mushuc Runa              0-2 (0-1)  Universidad Catolica
+[Sun Nov/26]
+  18.00  Barcelona                2-1 (0-0)  Guayaquil City
+         Cumbayá                  1-2 (0-0)  LDU Quito
+         Gualaceo SC              0-2 (0-1)  Emelec
+         Técnico Universitario    1-1 (0-0)  Libertad de Loja
+
+
+Matchday 15
+[Sat Dec/2]
+  12.30  El Nacional              2-1 (0-1)  Independiente del Valle
+  15.00  Guayaquil City           0-2 (0-1)  Gualaceo SC
+         Libertad de Loja         3-1 (2-0)  Cumbayá
+  18.00  LDU Quito                3-1 (2-1)  Mushuc Runa
+[Sun Dec/3]
+  18.00  Delfín SC                2-2 (1-0)  Técnico Universitario
+         Emelec                   2-1 (0-1)  Deportivo Cuenca
+         Orense SC                1-2 (1-1)  Aucas
+         Universidad Catolica     0-1 (0-0)  Barcelona
+
+
+== Tercera Etapa
+
+Final
+[Sun Dec/10]
+  16.30  Independiente del Valle  0-0  LDU Quito
+[Sun Dec/17]
+  16.30  LDU Quito                3-0 pen. (1-1, 1-1)  Independiente del Valle

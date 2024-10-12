@@ -1,0 +1,367 @@
+= CH 1 2016/17
+
+# Date       Sat Jul/23 2016 - Fri Jun/2 2017 (314d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Jul/23]
+  17.45  FC Lugano                1-2 (0-1)  FC Luzern
+  20.00  FC St. Gallen            0-2 (0-0)  BSC Young Boys
+[Sun Jul/24]
+  13.45  Grasshopper Club Zürich  2-0 (1-0)  FC Lausanne-Sport
+         FC Thun                  1-1 (1-0)  FC Vaduz
+  16.00  FC Basel                 3-0 (2-0)  FC Sion
+
+
+Matchday 2
+[Sat Jul/30]
+  17.45  FC Sion                  2-1 (1-0)  FC St. Gallen
+  20.00  BSC Young Boys           1-2 (1-0)  FC Lugano
+[Sun Jul/31]
+  13.45  FC Lausanne-Sport        4-4 (2-2)  FC Thun
+         FC Vaduz                 1-5 (1-3)  FC Basel
+  16.00  FC Luzern                4-3 (2-0)  Grasshopper Club Zürich
+
+
+Matchday 3
+[Sat Aug/6]
+  17.45  BSC Young Boys           4-1 (1-1)  FC Thun
+  20.00  FC Sion                  1-3 (0-1)  FC Lausanne-Sport
+[Sun Aug/7]
+  13.45  FC Lugano                0-2 (0-0)  FC Vaduz
+         FC Luzern                2-3 (2-1)  FC Basel
+  16.00  FC St. Gallen            2-1 (1-0)  Grasshopper Club Zürich
+
+
+Matchday 4
+[Wed Aug/10]
+  19.45  FC Lugano                3-1 (2-0)  FC Sion
+         FC Vaduz                 1-3 (0-2)  FC Luzern
+  20.30  FC Basel                 3-0 (0-0)  BSC Young Boys
+[Thu Aug/11]
+  19.45  FC Lausanne-Sport        1-0 (0-0)  FC St. Gallen
+         FC Thun                  2-1 (1-1)  Grasshopper Club Zürich
+
+
+Matchday 5
+[Sat Aug/20]
+  17.45  BSC Young Boys           7-2 (3-1)  FC Lausanne-Sport
+  20.00  FC Basel                 4-1 (1-0)  FC Lugano
+[Sun Aug/21]
+  13.45  Grasshopper Club Zürich  2-1 (0-1)  FC Sion
+         FC Luzern                3-0 (1-0)  FC Thun
+  16.00  FC Vaduz                 2-0 (1-0)  FC St. Gallen
+
+
+Matchday 6
+[Sat Aug/27]
+  17.45  FC Lugano                1-1 (0-0)  FC Lausanne-Sport
+  20.00  FC Sion                  3-1 (1-0)  FC Vaduz
+[Sun Aug/28]
+  13.45  Grasshopper Club Zürich  4-1 (1-0)  BSC Young Boys
+         FC St. Gallen            3-0 (0-0)  FC Luzern
+  16.00  FC Thun                  0-3 (0-3)  FC Basel
+
+
+Matchday 7
+[Sat Sep/10]
+  20.00  FC Basel                 3-1 (2-1)  Grasshopper Club Zürich
+         BSC Young Boys           2-1 (2-0)  FC Luzern
+[Sun Sep/11]
+  13.45  FC Lausanne-Sport        5-0 (3-0)  FC Vaduz
+         FC Sion                  1-0 (1-0)  FC Thun
+  16.00  FC St. Gallen            0-2 (0-1)  FC Lugano
+
+
+Matchday 8
+[Tue Sep/20]
+  19.45  FC Thun                  1-2 (0-0)  FC St. Gallen
+[Wed Sep/21]
+  19.45  FC Luzern                2-2 (0-1)  FC Sion
+         FC Vaduz                 0-0  BSC Young Boys
+  20.30  FC Lausanne-Sport        1-2 (1-0)  FC Basel
+[Thu Sep/22]
+  19.45  FC Lugano                2-0 (1-0)  Grasshopper Club Zürich
+
+
+Matchday 9
+[Sat Sep/24]
+  17.45  FC Luzern                1-3 (1-1)  FC Lausanne-Sport
+  20.00  FC St. Gallen            1-3 (1-1)  FC Basel
+[Sun Sep/25]
+  13.45  Grasshopper Club Zürich  2-1 (1-0)  FC Vaduz
+         FC Thun                  2-2 (0-0)  FC Lugano
+  16.00  FC Sion                  0-0  BSC Young Boys
+
+
+Matchday 10
+[Sat Oct/1]
+  17.45  FC Vaduz                 2-5 (2-2)  FC Sion
+  20.00  FC Basel                 1-1 (0-1)  FC Thun
+[Sun Oct/2]
+  13.45  FC Lausanne-Sport        4-1 (3-0)  FC Lugano
+         BSC Young Boys           2-2 (1-1)  FC St. Gallen
+  16.00  Grasshopper Club Zürich  3-2 (2-1)  FC Luzern
+
+
+Matchday 11
+[Sat Oct/15]
+  17.45  FC Thun                  1-0 (0-0)  FC Lausanne-Sport
+  20.00  FC Basel                 3-0 (1-0)  FC Luzern
+[Sun Oct/16]
+  13.45  FC Sion                  4-2 (3-0)  Grasshopper Club Zürich
+         FC St. Gallen            0-2 (0-1)  FC Vaduz
+  16.00  FC Lugano                0-0  BSC Young Boys
+
+
+Matchday 12
+[Sat Oct/22]
+  17.45  FC Vaduz                 2-3 (0-1)  FC Thun
+  20.00  FC Lugano                2-2 (0-0)  FC Basel
+[Sun Oct/23]
+  13.45  BSC Young Boys           4-0 (2-0)  Grasshopper Club Zürich
+  16.00  FC Lausanne-Sport        0-2 (0-1)  FC Sion
+         FC Luzern                3-0 (1-0)  FC St. Gallen
+
+
+Matchday 13
+[Sat Oct/29]
+  17.45  FC Sion                  5-1 (3-1)  FC Lugano
+  20.00  Grasshopper Club Zürich  0-2 (0-2)  FC Basel
+[Sun Oct/30]
+  13.45  FC Lausanne-Sport        2-3 (1-0)  FC Luzern
+         BSC Young Boys           5-0 (1-0)  FC Vaduz
+  16.00  FC St. Gallen            0-0  FC Thun
+
+
+Matchday 14
+[Sat Nov/5]
+  17.45  FC Thun                  2-3 (0-2)  FC Sion
+  20.00  FC Basel                 2-1 (0-1)  FC Lausanne-Sport
+[Sun Nov/6]
+  13.45  FC Lugano                2-3 (1-1)  FC St. Gallen
+         FC Vaduz                 0-0  Grasshopper Club Zürich
+  16.00  FC Luzern                2-2 (1-0)  BSC Young Boys
+
+
+Matchday 15
+[Sat Nov/19]
+  17.45  Grasshopper Club Zürich  1-1 (1-0)  FC Thun
+  20.00  FC Basel                 6-0 (2-0)  FC Vaduz
+[Sun Nov/20]
+  13.45  FC St. Gallen            2-0 (0-0)  FC Lausanne-Sport
+         BSC Young Boys           4-3 (1-2)  FC Sion
+  16.00  FC Luzern                2-1 (1-0)  FC Lugano
+
+
+Matchday 16
+[Sat Nov/26]
+  17.45  FC Thun                  1-2 (0-0)  FC Luzern
+  20.00  Grasshopper Club Zürich  2-2 (1-1)  FC St. Gallen
+[Sun Nov/27]
+  13.45  FC Lausanne-Sport        1-2 (0-0)  BSC Young Boys
+         FC Vaduz                 5-1 (0-0)  FC Lugano
+  16.00  FC Sion                  1-2 (0-1)  FC Basel
+
+
+Matchday 17
+[Sat Dec/3]
+  17.45  FC Luzern                3-0 (1-0)  FC Vaduz
+  20.00  BSC Young Boys           3-1 (1-0)  FC Basel
+[Sun Dec/4]
+  13.45  FC Lausanne-Sport        1-2 (0-2)  Grasshopper Club Zürich
+         FC Lugano                1-1 (0-0)  FC Thun
+  16.00  FC St. Gallen            2-1 (0-1)  FC Sion
+
+
+Matchday 18
+[Sat Dec/10]
+  17.45  FC Vaduz                 1-1 (0-0)  FC Lausanne-Sport
+  20.00  FC Basel                 1-0 (0-0)  FC St. Gallen
+[Sun Dec/11]
+  13.45  Grasshopper Club Zürich  0-0  FC Lugano
+         FC Sion                  3-1 (1-0)  FC Luzern
+  16.00  FC Thun                  2-3 (1-1)  BSC Young Boys
+
+
+Matchday 19
+[Sat Feb/4]
+  17.45  Grasshopper Club Zürich  0-1 (0-1)  FC Thun
+  20.00  FC Basel                 4-0 (3-0)  FC Lugano
+[Sun Feb/5]
+  13.45  FC Lausanne-Sport        4-4 (2-1)  FC Luzern
+         FC Vaduz                 1-1 (0-1)  FC St. Gallen
+  16.00  BSC Young Boys           3-1 (2-0)  FC Sion
+
+
+Matchday 20
+[Sat Feb/11]
+  17.45  FC Thun                  0-2 (0-0)  FC Basel
+  20.00  FC Lugano                3-0 (2-0)  Grasshopper Club Zürich
+[Sun Feb/12]
+  13.45  FC Sion                  4-2 (0-1)  FC Vaduz
+         FC St. Gallen            2-1 (0-0)  FC Lausanne-Sport
+  16.00  FC Luzern                4-1 (3-1)  BSC Young Boys
+
+
+Matchday 21
+[Sat Feb/18]
+  17.45  FC Luzern                1-1 (0-1)  FC Thun
+  20.00  BSC Young Boys           2-2 (1-0)  FC St. Gallen
+[Sun Feb/19]
+  13.45  FC Basel                 4-3 (1-2)  FC Lausanne-Sport
+         FC Vaduz                 1-1 (1-0)  FC Lugano
+  16.00  Grasshopper Club Zürich  0-1 (0-1)  FC Sion
+
+
+Matchday 22
+[Sat Feb/25]
+  17.45  FC Thun                  4-3 (2-1)  FC Vaduz
+  20.00  Grasshopper Club Zürich  2-3 (1-3)  BSC Young Boys
+[Sun Feb/26]
+  13.45  FC Basel                 3-1 (2-1)  FC Luzern
+         FC Lausanne-Sport        0-1 (0-1)  FC Sion
+  16.00  FC St. Gallen            0-1 (0-0)  FC Lugano
+
+
+Matchday 23
+[Sat Mar/4]
+  17.45  FC Lugano                2-1 (1-1)  FC Lausanne-Sport
+         BSC Young Boys           3-2 (1-2)  FC Thun
+[Sun Mar/5]
+  13.45  FC Sion                  1-2 (0-1)  FC St. Gallen
+         FC Vaduz                 1-1 (1-1)  FC Basel
+  16.00  FC Luzern                1-1 (0-1)  Grasshopper Club Zürich
+
+
+Matchday 24
+[Sat Mar/11]
+  17.45  Grasshopper Club Zürich  1-2 (0-1)  FC Vaduz
+  20.00  FC St. Gallen            1-1 (0-0)  FC Luzern
+[Sun Mar/12]
+  13.45  FC Lausanne-Sport        0-0  BSC Young Boys
+         FC Thun                  5-2 (4-0)  FC Lugano
+  16.00  FC Sion                  0-1 (0-0)  FC Basel
+
+
+Matchday 25
+[Sat Mar/18]
+  17.45  FC Luzern                0-0  FC Sion
+  20.00  FC Basel                 1-0 (1-0)  Grasshopper Club Zürich
+[Sun Mar/19]
+  13.45  FC Lugano                0-2 (0-0)  BSC Young Boys
+         FC Thun                  2-2 (1-1)  FC St. Gallen
+  16.00  FC Vaduz                 0-1 (0-0)  FC Lausanne-Sport
+
+
+Matchday 26
+[Sat Apr/1]
+  17.45  FC Sion                  2-1 (0-0)  FC Thun
+  20.00  FC St. Gallen            0-3 (0-2)  FC Basel
+[Sun Apr/2]
+  13.45  FC Luzern                0-2 (0-1)  FC Lugano
+         BSC Young Boys           3-2 (1-1)  FC Vaduz
+  16.00  FC Lausanne-Sport        0-0  Grasshopper Club Zürich
+
+
+Matchday 27
+[Sat Apr/8]
+  17.45  FC Thun                  2-4 (1-1)  FC Lausanne-Sport
+  20.00  Grasshopper Club Zürich  3-1 (1-1)  FC St. Gallen
+[Sun Apr/9]
+  13.45  FC Lugano                4-2 (3-2)  FC Sion
+         FC Vaduz                 0-2 (0-1)  FC Luzern
+  16.00  FC Basel                 1-1 (0-1)  BSC Young Boys
+
+
+Matchday 28
+[Sat Apr/15]
+  17.45  FC Vaduz                 0-1 (0-1)  FC Sion
+  20.00  FC Lausanne-Sport        0-4 (0-2)  FC Basel
+[Mon Apr/17]
+  13.45  FC Lugano                2-1 (0-0)  FC Thun
+         BSC Young Boys           0-1 (0-0)  Grasshopper Club Zürich
+  16.00  FC Luzern                2-0 (0-0)  FC St. Gallen
+
+
+Matchday 29
+[Sat Apr/22]
+  17.45  Grasshopper Club Zürich  4-1 (2-1)  FC Luzern
+  20.00  FC Basel                 2-2 (1-1)  FC Vaduz
+[Sun Apr/23]
+  13.45  FC St. Gallen            1-2 (0-0)  FC Thun
+         BSC Young Boys           1-2 (0-1)  FC Lugano
+  16.00  FC Sion                  0-1 (0-0)  FC Lausanne-Sport
+
+
+Matchday 30
+[Fri Apr/28]
+  19.45  FC Luzern                1-2 (0-1)  FC Basel
+[Sat Apr/29]
+  17.45  FC Lausanne-Sport        1-3 (1-2)  FC Vaduz
+[Sun Apr/30]
+  13.45  FC St. Gallen            0-2 (0-0)  BSC Young Boys
+         FC Thun                  2-1 (1-1)  FC Sion
+  16.00  Grasshopper Club Zürich  0-1 (0-1)  FC Lugano
+
+
+Matchday 31
+[Sat May/6]
+  17.45  FC Thun                  3-1 (0-1)  FC Luzern
+  20.00  FC Vaduz                 2-4 (1-1)  Grasshopper Club Zürich
+[Sun May/7]
+  13.45  FC Lausanne-Sport        0-1 (0-0)  FC St. Gallen
+         FC Lugano                2-2 (0-1)  FC Basel
+  16.00  FC Sion                  0-1 (0-1)  BSC Young Boys
+
+
+Matchday 32
+[Sat May/13]
+  17.45  FC Sion                  2-0 (1-0)  FC Lugano
+  20.00  FC St. Gallen            2-0 (1-0)  FC Vaduz
+[Sun May/14]
+  13.45  FC Basel                 3-3 (1-1)  FC Thun
+         Grasshopper Club Zürich  1-1 (1-0)  FC Lausanne-Sport
+  16.00  BSC Young Boys           4-1 (3-1)  FC Luzern
+
+
+Matchday 33
+[Tue May/16]
+  19.45  FC Lugano                3-2 (2-0)  FC St. Gallen
+[Wed May/17]
+  19.45  FC Luzern                0-3 (0-2)  FC Lausanne-Sport
+         FC Vaduz                 1-0 (0-0)  BSC Young Boys
+  20.30  FC Thun                  3-1 (0-1)  Grasshopper Club Zürich
+[Thu May/18]
+  19.45  FC Basel                 2-2 (1-1)  FC Sion
+
+
+Matchday 34
+[Sat May/20]
+  17.45  FC Lausanne-Sport        0-0  FC Thun
+  20.00  FC Lugano                2-1 (1-0)  FC Vaduz
+[Sun May/21]
+  13.45  FC Sion                  2-3 (0-2)  FC Luzern
+         FC St. Gallen            4-1 (1-1)  Grasshopper Club Zürich
+  16.00  BSC Young Boys           2-1 (1-1)  FC Basel
+
+
+Matchday 35
+[Sun May/28]
+  16.00  Grasshopper Club Zürich  1-3 (0-1)  FC Basel
+         FC Lausanne-Sport        1-2 (1-0)  FC Lugano
+         FC Luzern                2-2 (1-1)  FC Vaduz
+         FC St. Gallen            1-1 (0-0)  FC Sion
+         FC Thun                  0-0  BSC Young Boys
+
+
+Matchday 36
+[Fri Jun/2]
+  20.30  FC Basel                 4-1 (1-1)  FC St. Gallen
+         FC Lugano                0-1 (0-0)  FC Luzern
+         FC Sion                  1-1 (0-0)  Grasshopper Club Zürich
+         FC Vaduz                 1-3 (1-2)  FC Thun
+         BSC Young Boys           2-0 (2-0)  FC Lausanne-Sport

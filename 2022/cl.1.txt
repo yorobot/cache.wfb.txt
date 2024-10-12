@@ -1,0 +1,448 @@
+= CL 1 2022
+
+# Date       Fri Feb/4 - Sun Nov/6 2022 (275d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Feb/4]
+  20.00  O'Higgins                3-0 (3-0)  La Serena
+[Sat Feb/5]
+  18.00  Unión Española           1-1 (1-0)  Palestino
+  20.30  Coquimbo Unido           2-3 (2-1)  Universidad Católica
+[Sun Feb/6]
+  12.00  Antofagasta              0-1 (0-0)  Cobresal
+  18.00  Unión La Calera          2-4 (0-1)  Universidad de Chile
+  20.30  Colo-Colo                2-0 (0-0)  Everton
+[Mon Feb/7]
+  18.00  Audax Italiano           1-2 (1-0)  Ñublense
+  20.30  Curicó Unido             4-0 (1-0)  Huachipato
+
+
+Matchday 2
+[Fri Feb/11]
+  18.00  Palestino                1-0 (1-0)  O'Higgins
+  20.30  Everton                  2-0 (1-0)  Coquimbo Unido
+[Sat Feb/12]
+  18.00  Huachipato               2-1 (1-1)  Audax Italiano
+  20.30  Universidad de Chile     2-1 (1-0)  Antofagasta
+[Sun Feb/13]
+  18.00  La Serena                1-1 (0-1)  Colo-Colo
+  20.30  Universidad Católica     2-1 (1-0)  Unión Española
+[Mon Feb/14]
+  18.00  Ñublense                 0-0  Unión La Calera
+  20.30  Cobresal                 2-3 (0-2)  Curicó Unido
+
+
+Matchday 3
+[Fri Feb/18]
+  18.00  O'Higgins                1-1 (1-1)  Huachipato
+  20.30  Unión Española           1-1 (1-1)  Everton
+[Sat Feb/19]
+  18.00  Colo-Colo                1-1 (1-0)  Audax Italiano
+  20.30  Antofagasta              2-2 (1-1)  La Serena
+[Sun Feb/20]
+  12.00  Coquimbo Unido           2-2 (0-2)  Palestino
+  18.00  Unión La Calera          0-2 (0-0)  Cobresal
+  20.30  Universidad Católica     1-0 (0-0)  Curicó Unido
+[Mon Feb/21]
+  18.00  Ñublense                 3-2 (1-1)  Universidad de Chile
+
+
+Matchday 4
+[Fri Feb/25]
+  20.00  Unión La Calera          1-1 (1-0)  Everton
+[Sat Feb/26]
+  12.00  La Serena                1-1 (1-0)  Coquimbo Unido
+  18.00  Cobresal                 1-1 (1-1)  Ñublense
+  20.30  Audax Italiano           0-3 (0-2)  Antofagasta
+[Sun Feb/27]
+  12.00  Huachipato               1-0 (0-0)  Colo-Colo
+  18.00  Palestino                3-2 (1-1)  Universidad Católica
+[Mon Feb/28]
+  18.00  Curicó Unido             0-1 (0-0)  Unión Española
+  20.30  Universidad de Chile     0-1 (0-1)  O'Higgins
+
+
+Matchday 5
+[Fri Mar/4]
+  18.00  Palestino                0-0  Unión La Calera
+  20.30  Ñublense                 3-1 (2-0)  La Serena
+[Sat Mar/5]
+  12.00  Coquimbo Unido           3-2 (3-0)  Antofagasta
+  18.00  Unión Española           1-0 (0-0)  Huachipato
+  20.30  Everton                  1-1 (1-1)  Curicó Unido
+[Sun Mar/6]
+  12.00  Colo-Colo                4-1 (3-0)  Universidad de Chile
+  18.00  O'Higgins                2-2 (0-1)  Audax Italiano
+  20.30  Cobresal                 3-1 (2-1)  Universidad Católica
+
+
+Matchday 6
+[Fri Mar/11]
+  18.00  La Serena                2-3 (1-1)  Cobresal
+[Sat Mar/12]
+  12.00  Coquimbo Unido           0-1 (0-0)  Ñublense
+  18.00  Universidad Católica     0-1 (0-0)  Everton
+  20.30  Unión La Calera          1-0 (0-0)  Huachipato
+[Sun Mar/13]
+  18.00  Curicó Unido             5-0 (4-0)  O'Higgins
+  20.30  Audax Italiano           3-1 (1-0)  Palestino
+[Mon Mar/14]
+  18.00  Antofagasta              0-1 (0-0)  Colo-Colo
+[Sun Mar/27]
+  16.00  Universidad de Chile     2-0 (1-0)  Unión Española
+
+
+Matchday 7
+[Thu Mar/17]
+  20.30  Universidad de Chile     1-1 (0-0)  Curicó Unido
+[Sat Mar/19]
+  18.00  O'Higgins                2-1 (2-0)  Universidad Católica
+  20.30  Cobresal                 2-1 (0-1)  Coquimbo Unido
+[Sun Mar/20]
+  12.00  Huachipato               2-3 (0-3)  La Serena
+  17.30  Palestino                0-5 (0-3)  Colo-Colo
+  20.30  Everton                  0-0  Audax Italiano
+[Mon Mar/21]
+  18.00  Antofagasta              0-0  Unión La Calera
+  20.30  Unión Española           1-0 (1-0)  Ñublense
+
+
+Matchday 8
+[Thu Mar/31]
+  19.00  Colo-Colo                4-0 (2-0)  Unión La Calera
+[Fri Apr/1]
+  17.30  La Serena                1-3 (1-0)  Everton
+  20.30  O'Higgins                2-1 (0-0)  Coquimbo Unido
+[Sat Apr/2]
+  15.00  Ñublense                 1-1 (0-0)  Antofagasta
+  18.00  Universidad Católica     2-1 (2-0)  Universidad de Chile
+[Sun Apr/3]
+  15.00  Huachipato               1-0 (0-0)  Cobresal
+  17.30  Audax Italiano           0-1 (0-0)  Unión Española
+[Mon Apr/4]
+  20.30  Curicó Unido             0-0  Palestino
+
+
+Matchday 9
+[Sat Apr/9]
+  15.00  Everton                  0-1 (0-0)  Huachipato
+  17.30  Coquimbo Unido           1-0 (0-0)  Universidad de Chile
+  20.00  Universidad Católica     0-2 (0-1)  La Serena
+[Sun Apr/10]
+  12.30  Cobresal                 0-1 (0-1)  Audax Italiano
+  15.00  Palestino                1-1 (1-0)  Ñublense
+  17.30  Unión Española           2-1 (0-1)  Colo-Colo
+  20.00  Unión La Calera          0-0  Curicó Unido
+[Sat Apr/30]
+  12.00  Antofagasta              1-0 (0-0)  O'Higgins
+
+
+Matchday 10
+[Fri Apr/15]
+  16.30  La Serena                1-2 (1-1)  Unión Española
+[Sat Apr/16]
+  15.00  Audax Italiano           1-1 (0-1)  Coquimbo Unido
+  17.30  Universidad de Chile     0-0  Palestino
+[Sun Apr/17]
+  12.30  Curicó Unido             2-0 (1-0)  Antofagasta
+  15.30  Huachipato               1-0 (0-0)  Universidad Católica
+  18.00  Colo-Colo                2-1 (2-1)  Cobresal
+[Mon Apr/18]
+  18.00  Ñublense                 2-1 (0-0)  Everton
+  20.30  Unión La Calera          0-0  O'Higgins
+
+
+Matchday 11
+[Fri Apr/22]
+  20.00  Everton                  0-0  Palestino
+[Sat Apr/23]
+  12.30  Antofagasta              0-0  Huachipato
+  15.00  La Serena                1-3 (0-2)  Curicó Unido
+[Sun Apr/24]
+  12.30  Universidad Católica     1-1 (1-0)  Colo-Colo
+  17.30  O'Higgins                1-0 (1-0)  Ñublense
+  20.00  Coquimbo Unido           3-2 (0-1)  Unión La Calera
+[Tue Apr/26]
+  20.00  Unión Española           2-2 (0-1)  Cobresal
+[Fri Apr/29]
+  14.00  Audax Italiano           2-0 (0-0)  Universidad de Chile
+
+
+Matchday 12
+[Sat May/7]
+  15.00  O'Higgins                2-2 (2-1)  Unión Española
+  17.30  Universidad de Chile     2-0 (0-0)  La Serena
+[Sun May/8]
+  12.00  Palestino                1-0 (1-0)  Antofagasta
+  17.30  Ñublense                 4-0 (3-0)  Universidad Católica
+  20.00  Coquimbo Unido           1-2 (1-1)  Huachipato
+[Mon May/9]
+  15.00  Cobresal                 0-0  Everton
+  18.00  Curicó Unido             1-2 (0-2)  Colo-Colo
+  20.30  Unión La Calera          1-0 (1-0)  Audax Italiano
+
+
+Matchday 13
+[Fri May/13]
+  18.00  Universidad Católica     3-0 (0-0)  Unión La Calera
+  20.30  Unión Española           2-0 (0-0)  Antofagasta
+[Sat May/14]
+  12.30  La Serena                0-0  Palestino
+  15.30  Everton                  2-1 (1-0)  Universidad de Chile
+  18.00  Colo-Colo                4-0 (3-0)  Coquimbo Unido
+[Sun May/15]
+  14.45  Cobresal                 2-0 (0-0)  O'Higgins
+  17.30  Huachipato               1-3 (0-1)  Ñublense
+[Mon May/16]
+  20.30  Curicó Unido             4-1 (2-1)  Audax Italiano
+
+
+Matchday 14
+[Fri May/20]
+  19.00  Coquimbo Unido           2-4 (1-1)  Unión Española
+[Sat May/21]
+  15.00  Audax Italiano           3-2 (2-1)  Universidad Católica
+         Antofagasta              2-2 (0-1)  Everton
+  17.30  Universidad de Chile     3-2 (1-0)  Huachipato
+  20.00  Unión La Calera          1-1 (0-0)  La Serena
+[Sun May/22]
+  12.00  Palestino                3-1 (2-0)  Cobresal
+  15.00  O'Higgins                1-1 (1-0)  Colo-Colo
+  20.00  Ñublense                 3-1 (1-1)  Curicó Unido
+
+
+Matchday 15
+[Fri May/27]
+  20.30  Curicó Unido             3-0 (3-0)  Coquimbo Unido
+[Sat May/28]
+  15.00  La Serena                3-2 (2-0)  Audax Italiano
+  17.30  Cobresal                 1-0 (1-0)  Universidad de Chile
+  20.00  Huachipato               2-1 (1-1)  Palestino
+[Sun May/29]
+  17.30  Universidad Católica     1-0 (1-0)  Antofagasta
+  20.00  Unión Española           1-1 (0-1)  Unión La Calera
+[Mon May/30]
+  18.00  Colo-Colo                0-0  Ñublense
+  20.30  Everton                  0-0  O'Higgins
+
+
+Matchday 16
+[Thu Jun/30]
+  19.00  Ñublense                 1-2 (0-0)  Audax Italiano
+[Fri Jul/1]
+  18.00  Everton                  1-1 (1-1)  Colo-Colo
+[Sat Jul/2]
+  15.00  Palestino                1-0 (1-0)  Unión Española
+  17.30  Universidad de Chile     2-1 (0-0)  Unión La Calera
+  20.00  Huachipato               2-2 (1-0)  Curicó Unido
+[Sun Jul/3]
+  15.00  La Serena                1-0 (0-0)  O'Higgins
+  17.30  Universidad Católica     2-0 (0-0)  Coquimbo Unido
+  20.00  Cobresal                 2-1 (1-1)  Antofagasta
+
+
+Matchday 17
+[Fri Jul/8]
+  20.30  O'Higgins                1-2 (1-1)  Palestino
+[Sat Jul/9]
+  15.00  Curicó Unido             1-0 (0-0)  Cobresal
+  17.30  Audax Italiano           1-1 (0-1)  Huachipato
+  20.00  Coquimbo Unido           1-1 (0-1)  Everton
+[Sun Jul/10]
+  15.30  Antofagasta              1-1 (0-0)  Universidad de Chile
+  18.00  Colo-Colo                3-0 (3-0)  La Serena
+  20.30  Unión La Calera          2-2 (1-1)  Ñublense
+[Wed Oct/19]
+  19.00  Unión Española           1-2 (0-1)  Universidad Católica
+
+
+Matchday 18
+[Sat Jul/16]
+  13.15  Palestino                5-1 (1-1)  Coquimbo Unido
+  15.45  Audax Italiano           1-2 (0-0)  Colo-Colo
+  18.15  Cobresal                 3-1 (1-1)  Unión La Calera
+  20.45  Everton                  2-1 (2-0)  Unión Española
+[Sun Jul/17]
+  12.30  La Serena                0-1 (0-0)  Antofagasta
+  15.00  Universidad de Chile     0-1 (0-0)  Ñublense
+  17.30  Curicó Unido             3-2 (0-2)  Universidad Católica
+  20.00  Huachipato               1-2 (0-1)  O'Higgins
+
+
+Matchday 19
+[Fri Jul/22]
+  19.00  Ñublense                 3-2 (1-1)  Cobresal
+[Sat Jul/23]
+  12.30  Antofagasta              2-3 (0-3)  Audax Italiano
+  15.00  Coquimbo Unido           2-0 (0-0)  La Serena
+  17.30  Colo-Colo                1-0 (0-0)  Huachipato
+  20.00  Everton                  0-1 (0-0)  Unión La Calera
+[Sun Jul/24]
+  15.00  O'Higgins                1-0 (0-0)  Universidad de Chile
+  17.30  Universidad Católica     0-1 (0-0)  Palestino
+[Mon Jul/25]
+  18.00  Unión Española           1-3 (1-1)  Curicó Unido
+
+
+Matchday 20
+[Fri Jul/29]
+  18.00  Huachipato               2-5 (1-3)  Unión Española
+  20.30  Unión La Calera          2-2 (1-1)  Palestino
+[Sat Jul/30]
+  12.30  Antofagasta              2-1 (2-0)  Coquimbo Unido
+  15.00  La Serena                3-0 (1-0)  Ñublense
+  18.00  Universidad Católica     1-0 (0-0)  Cobresal
+  20.30  Curicó Unido             0-4 (0-3)  Everton
+[Sun Jul/31]
+  13.30  Universidad de Chile     1-3 (1-1)  Colo-Colo
+  18.00  Audax Italiano           2-1 (0-0)  O'Higgins
+
+
+Matchday 21
+[Sat Aug/6]
+  12.30  O'Higgins                0-0  Curicó Unido
+  15.00  Cobresal                 1-1 (1-0)  La Serena
+  17.30  Everton                  1-1 (0-0)  Universidad Católica
+[Sun Aug/7]
+  13.15  Palestino                3-3 (3-1)  Audax Italiano
+  15.45  Unión Española           1-1 (1-1)  Universidad de Chile
+  18.15  Colo-Colo                1-0 (0-0)  Antofagasta
+  20.45  Ñublense                 2-1 (1-0)  Coquimbo Unido
+[Mon Aug/8]
+  17.30  Huachipato               3-4 (1-3)  Unión La Calera
+
+
+Matchday 22
+[Thu Aug/11]
+  20.15  Universidad Católica     2-2 (1-1)  O'Higgins
+[Fri Aug/12]
+  20.30  Coquimbo Unido           3-1 (1-0)  Cobresal
+[Sat Aug/13]
+  13.15  Audax Italiano           1-0 (0-0)  Everton
+  15.45  Curicó Unido             3-1 (1-0)  Universidad de Chile
+  20.30  Unión La Calera          1-1 (1-0)  Antofagasta
+[Sun Aug/14]
+  15.00  La Serena                0-1 (0-1)  Huachipato
+  17.30  Colo-Colo                1-0 (0-0)  Palestino
+  20.00  Ñublense                 1-2 (1-0)  Unión Española
+
+
+Matchday 23
+[Fri Aug/26]
+  20.00  Everton                  4-0 (1-0)  La Serena
+[Sat Aug/27]
+  12.00  Palestino                2-1 (1-0)  Curicó Unido
+  15.00  Universidad de Chile     0-3 (0-1)  Universidad Católica
+  18.00  Coquimbo Unido           0-1 (0-0)  O'Higgins
+[Sun Aug/28]
+  12.30  Antofagasta              1-0 (0-0)  Ñublense
+  15.00  Cobresal                 2-0 (0-0)  Huachipato
+  17.30  Unión La Calera          2-1 (0-1)  Colo-Colo
+  20.00  Unión Española           2-3 (0-3)  Audax Italiano
+
+
+Matchday 24
+[Wed Sep/7]
+  15.30  Universidad de Chile     0-0  Coquimbo Unido
+  20.30  Audax Italiano           2-2 (0-2)  Cobresal
+[Thu Sep/8]
+  18.00  Colo-Colo                4-0 (3-0)  Unión Española
+  20.30  Curicó Unido             2-0 (1-0)  Unión La Calera
+[Fri Sep/9]
+  18.00  O'Higgins                1-0 (1-0)  Antofagasta
+  20.30  Huachipato               1-1 (1-0)  Everton
+[Sat Sep/10]
+  15.00  La Serena                0-4 (0-2)  Universidad Católica
+  17.30  Ñublense                 2-0 (1-0)  Palestino
+
+
+Matchday 25
+[Tue Sep/13]
+  18.00  Coquimbo Unido           0-1 (0-0)  Audax Italiano
+  20.30  O'Higgins                2-2 (1-1)  Unión La Calera
+[Wed Sep/14]
+  15.30  Unión Española           0-1 (0-1)  La Serena
+  17.00  Cobresal                 0-2 (0-1)  Colo-Colo
+  18.00  Everton                  1-1 (0-0)  Ñublense
+  20.30  Universidad Católica     1-0 (0-0)  Huachipato
+[Thu Sep/15]
+  15.30  Palestino                1-2 (0-2)  Universidad de Chile
+  18.00  Antofagasta              0-0  Curicó Unido
+
+
+Matchday 26
+[Fri Sep/30]
+  20.00  Unión La Calera          2-0 (2-0)  Coquimbo Unido
+[Sat Oct/1]
+  12.00  Huachipato               1-0 (0-0)  Antofagasta
+  15.00  Palestino                1-4 (1-1)  Everton
+  20.00  Curicó Unido             1-0 (0-0)  La Serena
+[Sun Oct/2]
+  12.00  Ñublense                 2-2 (1-1)  O'Higgins
+  18.00  Cobresal                 2-0 (1-0)  Unión Española
+[Mon Oct/3]
+  18.00  Universidad de Chile     2-3 (1-1)  Audax Italiano
+[Tue Oct/4]
+  19.00  Colo-Colo                0-0  Universidad Católica
+
+
+Matchday 27
+[Fri Oct/7]
+  19.00  Huachipato               0-1 (0-1)  Coquimbo Unido
+[Sat Oct/8]
+  15.00  Universidad Católica     2-2 (2-0)  Ñublense
+  20.00  Unión Española           0-0  O'Higgins
+[Sun Oct/9]
+  12.30  La Serena                1-2 (0-1)  Universidad de Chile
+  17.30  Colo-Colo                1-1 (1-1)  Curicó Unido
+  20.15  Everton                  3-3 (1-1)  Cobresal
+[Mon Oct/10]
+  17.30  Audax Italiano           0-2 (0-1)  Unión La Calera
+[Sat Oct/15]
+         Antofagasta              0-3  Palestino                [awarded]
+
+
+Matchday 28
+[Fri Oct/21]
+  19.30  O'Higgins                1-0 (1-0)  Cobresal
+[Sat Oct/22]
+  17.30  Ñublense                 2-0 (1-0)  Huachipato
+  20.00  Universidad de Chile     1-1 (1-0)  Everton
+[Sun Oct/23]
+  15.00  Antofagasta              2-0 (1-0)  Unión Española
+         Coquimbo Unido           0-2 (0-1)  Colo-Colo
+         Palestino                5-0 (2-0)  La Serena
+  19.00  Unión La Calera          4-0 (3-0)  Universidad Católica
+[Mon Oct/24]
+  20.30  Audax Italiano           1-1 (1-0)  Curicó Unido
+
+
+Matchday 29
+[Sat Oct/29]
+  20.00  Cobresal                 1-0 (1-0)  Palestino
+[Sun Oct/30]
+  12.30  Huachipato               4-0 (3-0)  Universidad de Chile
+  15.00  Everton                  3-0 (1-0)  Antofagasta
+         La Serena                2-1 (0-1)  Unión La Calera
+         Unión Española           1-3 (0-0)  Coquimbo Unido
+  17.30  Colo-Colo                2-0 (0-0)  O'Higgins
+[Mon Oct/31]
+  17.30  Curicó Unido             1-2 (1-1)  Ñublense
+  20.00  Universidad Católica     0-0  Audax Italiano
+
+
+Matchday 30
+[Sat Nov/5]
+  12.30  O'Higgins                2-0 (2-0)  Everton
+         Palestino                5-0 (2-0)  Huachipato
+         Universidad de Chile     3-4 (3-2)  Cobresal
+[Sun Nov/6]
+  16.00  Audax Italiano           3-0 (2-0)  La Serena
+         Antofagasta              0-2 (0-1)  Universidad Católica
+         Coquimbo Unido           1-1 (0-0)  Curicó Unido
+         Ñublense                 1-1 (1-1)  Colo-Colo
+  19.00  Unión La Calera          2-1 (2-1)  Unión Española

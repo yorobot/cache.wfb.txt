@@ -1,0 +1,656 @@
+= CO 1 2013
+
+# Date       Fri Feb/1 - Sun Dec/15 2013 (317d)
+# Teams      18
+# Matches    376
+# Stages     Apertura (162)  Apertura Playoffs (26)  Clausura (162)  Clausura Playoffs (26)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/1]
+  19.45  Deportes Quindío         0-1 (0-0)  Deportivo Pasto
+[Sat Feb/2]
+  15.15  Alianza Petrolera        0-3 (0-1)  Santa Fe
+  17.30  Patriotas FC             1-1 (1-0)  Boyacá Chicó
+         Deportivo Cali           2-1 (1-0)  Once Caldas
+  19.45  Atlético Nacional        3-0 (1-0)  Atlético Huila
+[Sun Feb/3]
+  15.15  Atlético Junior          4-0 (1-0)  Envigado FC
+  17.30  Millonarios              3-1 (2-0)  La Equidad
+  19.45  Deportes Tolima          1-0 (0-0)  Independiente Medellín
+[Mon Feb/4]
+  15.00  Itagüi Ditaires          0-0  Cúcuta Deportivo
+
+
+Matchday 2
+[Fri Feb/8]
+  18.00  La Equidad               0-1 (0-0)  Alianza Petrolera
+  20.00  Deportivo Pasto          3-2 (2-1)  Patriotas FC
+[Sat Feb/9]
+  15.15  Atlético Huila           1-1 (0-0)  Itagüi Ditaires
+  17.30  Boyacá Chicó             1-2 (0-1)  Deportivo Cali
+         Santa Fe                 2-2 (1-0)  Atlético Nacional
+  19.45  Once Caldas              2-1 (0-1)  Atlético Junior
+[Sun Feb/10]
+  15.15  Envigado FC              2-2 (0-1)  Deportes Tolima
+  17.30  Independiente Medellín   0-0  Millonarios
+  19.45  Cúcuta Deportivo         2-0 (1-0)  Deportes Quindío
+
+
+Matchday 3
+[Fri Feb/15]
+  19.45  Deportes Quindío         0-0  Atlético Huila
+[Sat Feb/16]
+  15.15  Patriotas FC             1-3 (0-0)  Cúcuta Deportivo
+  17.30  Atlético Junior          2-2 (1-2)  Boyacá Chicó
+         Millonarios              1-0 (1-0)  Envigado FC
+  19.45  Atlético Nacional        4-0 (2-0)  Alianza Petrolera
+[Sun Feb/17]
+  15.15  Itagüi Ditaires          4-0 (2-0)  Santa Fe
+  17.30  Deportes Tolima          2-2 (2-1)  Once Caldas
+         La Equidad               1-0 (0-0)  Independiente Medellín
+  19.45  Deportivo Cali           2-2 (1-0)  Deportivo Pasto
+
+
+Matchday 4
+[Fri Feb/22]
+  19.45  Envigado FC              1-0 (1-0)  La Equidad
+[Sat Feb/23]
+  15.15  Atlético Huila           1-0 (1-0)  Patriotas FC
+  17.30  Once Caldas              1-0 (0-0)  Millonarios
+         Boyacá Chicó             3-0 (2-0)  Deportes Tolima
+  19.45  Atlético Nacional        1-1 (0-1)  Itagüi Ditaires
+[Sun Feb/24]
+  15.15  Alianza Petrolera        0-1 (0-1)  Independiente Medellín
+  17.30  Deportivo Pasto          1-0 (0-0)  Atlético Junior
+         Cúcuta Deportivo         0-0  Deportivo Cali
+  19.45  Santa Fe                 2-0 (2-0)  Deportes Quindío
+
+
+Matchday 5
+[Fri Mar/1]
+  19.45  Deportivo Cali           0-1 (0-1)  Atlético Huila
+[Sat Mar/2]
+  15.15  Itagüi Ditaires          3-0 (1-0)  Alianza Petrolera
+  17.30  Patriotas FC             1-1 (0-0)  Santa Fe
+         Millonarios              2-1 (1-0)  Boyacá Chicó
+  19.45  La Equidad               0-0  Once Caldas
+[Sun Mar/3]
+  15.15  Deportes Tolima          3-0 (2-0)  Deportivo Pasto
+  17.30  Atlético Junior          0-2 (0-1)  Cúcuta Deportivo
+         Independiente Medellín   0-1 (0-1)  Envigado FC
+  19.45  Deportes Quindío         0-0  Atlético Nacional
+
+
+Matchday 6
+[Fri Mar/8]
+  19.45  Boyacá Chicó             2-2 (0-2)  La Equidad
+[Sat Mar/9]
+  15.15  Itagüi Ditaires          1-1 (1-0)  Deportes Quindío
+  19.45  Cúcuta Deportivo         2-1 (1-0)  Deportes Tolima
+[Sun Mar/10]
+  15.15  Alianza Petrolera        1-2 (1-1)  Envigado FC
+         Atlético Huila           1-1 (0-0)  Atlético Junior
+  17.30  Atlético Nacional        3-3 (1-0)  Patriotas FC
+         Santa Fe                 3-1 (0-1)  Deportivo Cali
+  19.45  Once Caldas              2-1 (1-1)  Independiente Medellín
+[Sun Mar/24]
+  17.30  Deportivo Pasto          2-1 (1-1)  Millonarios
+
+
+Matchday 7
+[Fri Mar/15]
+  19.45  La Equidad               0-0  Deportivo Pasto
+[Sat Mar/16]
+  15.15  Patriotas FC             0-0  Itagüi Ditaires
+  17.30  Deportivo Cali           1-1 (0-1)  Atlético Nacional
+         Deportes Tolima          2-0 (1-0)  Atlético Huila
+  19.45  Independiente Medellín   3-1 (1-0)  Boyacá Chicó
+[Sun Mar/17]
+  15.15  Atlético Junior          2-3 (1-2)  Santa Fe
+  17.30  Deportes Quindío         2-3 (1-2)  Alianza Petrolera
+         Millonarios              2-1 (0-0)  Cúcuta Deportivo
+  19.45  Envigado FC              0-2 (0-0)  Once Caldas
+
+
+Matchday 8
+[Sat Mar/30]
+  15.15  Itagüi Ditaires          0-3 (0-1)  Deportivo Cali
+  17.30  Deportivo Pasto          1-0 (1-0)  Independiente Medellín
+         Atlético Huila           0-0  Millonarios
+  19.45  Boyacá Chicó             2-0 (1-0)  Envigado FC
+[Sun Mar/31]
+  15.15  Alianza Petrolera        1-1 (0-1)  Once Caldas
+  17.30  Cúcuta Deportivo         0-1 (0-0)  La Equidad
+         Atlético Nacional        2-1 (2-0)  Atlético Junior
+  19.45  Deportes Quindío         0-0  Patriotas FC
+[Wed Apr/24]
+  19.45  Santa Fe                 1-2 (1-1)  Deportes Tolima
+
+
+Matchday 9
+[Fri Apr/5]
+  19.45  Atlético Huila           2-2 (1-1)  Deportes Tolima
+[Sat Apr/6]
+  15.15  Boyacá Chicó             0-0  Patriotas FC
+  17.30  Deportivo Pasto          1-2 (0-2)  Deportivo Cali
+         Santa Fe                 1-3 (0-1)  Millonarios
+  19.45  Independiente Medellín   0-0  Atlético Nacional
+[Sun Apr/7]
+  15.15  Alianza Petrolera        0-0  La Equidad
+  17.30  Envigado FC              1-2 (0-1)  Itagüi Ditaires
+         Cúcuta Deportivo         1-2 (1-0)  Atlético Junior
+  19.45  Once Caldas              1-2 (0-1)  Deportes Quindío
+
+
+Matchday 10
+[Fri Apr/12]
+  19.45  Deportes Tolima          4-0 (4-0)  Atlético Nacional
+[Sat Apr/13]
+  15.15  Envigado FC              1-1 (0-0)  Deportivo Pasto
+  17.30  Millonarios              0-1 (0-1)  Santa Fe
+         La Equidad               4-0 (3-0)  Atlético Huila
+  19.45  Atlético Junior          3-2 (2-2)  Itagüi Ditaires
+[Sun Apr/14]
+  15.15  Once Caldas              2-2 (2-2)  Boyacá Chicó
+  17.30  Deportivo Cali           4-0 (3-0)  Deportes Quindío
+         Independiente Medellín   1-1 (1-0)  Cúcuta Deportivo
+  19.45  Patriotas FC             0-0  Alianza Petrolera
+
+
+Matchday 11
+[Wed Feb/27]
+  19.45  Santa Fe                 3-1 (2-0)  La Equidad
+[Sun Mar/24]
+  15.15  Itagüi Ditaires          3-2 (2-1)  Deportes Tolima
+[Tue Apr/16]
+  20.10  Atlético Nacional        2-1 (0-0)  Millonarios
+[Wed Apr/17]
+  15.15  Alianza Petrolera        3-1 (2-0)  Boyacá Chicó
+  18.00  Atlético Huila           3-2 (2-0)  Independiente Medellín
+  19.45  Patriotas FC             1-1 (0-0)  Deportivo Cali
+  20.00  Deportes Quindío         0-1 (0-0)  Atlético Junior
+[Thu Apr/18]
+  18.00  Deportivo Pasto          1-1 (0-1)  Once Caldas
+  20.10  Cúcuta Deportivo         3-0 (3-0)  Envigado FC
+
+
+Matchday 12
+[Fri Apr/19]
+  19.45  Millonarios              1-2 (0-0)  Itagüi Ditaires
+[Sat Apr/20]
+  15.15  Deportes Tolima          2-0 (0-0)  Deportes Quindío
+  17.30  La Equidad               0-2 (0-1)  Atlético Nacional
+  19.45  Deportivo Cali           2-2 (1-0)  Alianza Petrolera
+         Independiente Medellín   2-2 (1-0)  Santa Fe
+[Sun Apr/21]
+  15.15  Once Caldas              2-0 (1-0)  Cúcuta Deportivo
+  17.30  Atlético Junior          2-0 (1-0)  Patriotas FC
+         Envigado FC              1-1 (1-0)  Atlético Huila
+  19.45  Boyacá Chicó             2-2 (0-0)  Deportivo Pasto
+
+
+Matchday 13
+[Sat Apr/27]
+  13.00  Itagüi Ditaires          1-0 (0-0)  La Equidad
+  15.15  Santa Fe                 1-0 (1-0)  Envigado FC
+  17.30  Deportes Quindío         0-0  Millonarios
+  19.45  Cúcuta Deportivo         0-1 (0-0)  Boyacá Chicó
+         Deportivo Cali           2-2 (1-1)  Atlético Junior
+[Sun Apr/28]
+  13.00  Patriotas FC             1-1 (0-0)  Deportes Tolima
+  15.15  Alianza Petrolera        1-1 (0-0)  Deportivo Pasto
+  17.30  Atlético Nacional        2-2 (0-1)  Independiente Medellín
+  19.45  Atlético Huila           0-1 (0-1)  Once Caldas
+
+
+Matchday 14
+[Fri May/3]
+  19.45  Atlético Junior          2-1 (1-0)  Alianza Petrolera
+[Sat May/4]
+  15.15  La Equidad               3-0 (2-0)  Deportes Quindío
+  17.30  Independiente Medellín   1-0 (1-0)  Itagüi Ditaires
+  19.45  Deportes Tolima          2-2 (1-1)  Deportivo Cali
+         Boyacá Chicó             2-1 (2-0)  Atlético Huila
+[Sun May/5]
+  13.00  Deportivo Pasto          2-1 (1-1)  Cúcuta Deportivo
+  15.15  Millonarios              4-1 (1-0)  Patriotas FC
+  17.30  Once Caldas              0-0  Santa Fe
+  19.45  Envigado FC              3-0 (1-0)  Atlético Nacional
+
+
+Matchday 15
+[Fri May/10]
+  19.45  Deportes Quindío         0-2 (0-1)  Independiente Medellín
+[Sat May/11]
+  15.15  Itagüi Ditaires          1-1 (0-1)  Envigado FC
+  17.30  Santa Fe                 4-3 (2-0)  Boyacá Chicó
+  19.45  Atlético Junior          1-2 (0-2)  Deportes Tolima
+         Deportivo Cali           2-2 (1-2)  Millonarios
+[Sun May/12]
+  13.00  Patriotas FC             1-1 (0-1)  La Equidad
+  15.15  Alianza Petrolera        2-3 (1-3)  Cúcuta Deportivo
+  17.30  Atlético Huila           6-1 (2-0)  Deportivo Pasto
+[Mon May/13]
+  17.30  Atlético Nacional        2-1 (1-0)  Once Caldas
+
+
+Matchday 16
+[Fri May/17]
+  18.00  Envigado FC              0-1 (0-0)  Deportes Quindío
+  20.10  Cúcuta Deportivo         1-1 (0-0)  Atlético Huila
+[Sat May/18]
+  15.15  La Equidad               1-1 (0-0)  Deportivo Cali
+  17.30  Boyacá Chicó             2-3 (1-1)  Atlético Nacional
+  19.45  Deportes Tolima          2-1 (0-1)  Alianza Petrolera
+         Millonarios              3-0 (1-0)  Atlético Junior
+[Sun May/19]
+  15.15  Independiente Medellín   2-1 (0-0)  Patriotas FC
+  17.30  Once Caldas              1-2 (1-2)  Itagüi Ditaires
+  19.45  Deportivo Pasto          1-1 (0-1)  Santa Fe
+
+
+Matchday 17
+[Sat May/25]
+  15.15  Itagüi Ditaires          3-0 (1-0)  Boyacá Chicó
+  17.30  Santa Fe                 3-2 (1-0)  Cúcuta Deportivo
+  19.45  Atlético Junior          0-0  La Equidad
+[Sun May/26]
+  13.00  Patriotas FC             1-1 (1-1)  Envigado FC
+  15.15  Alianza Petrolera        1-0 (1-0)  Atlético Huila
+         Deportes Quindío         1-1 (0-0)  Once Caldas
+  17.30  Atlético Nacional        1-0 (1-0)  Deportivo Pasto
+         Deportivo Cali           2-0 (0-0)  Independiente Medellín
+         Deportes Tolima          1-2 (0-2)  Millonarios
+
+
+Matchday 18
+[Sat Jun/1]
+  15.15  Boyacá Chicó             1-1 (0-1)  Deportes Quindío
+  17.30  La Equidad               1-0 (0-0)  Deportes Tolima
+  19.45  Cúcuta Deportivo         1-1 (0-0)  Atlético Nacional
+         Deportivo Pasto          1-1 (0-0)  Itagüi Ditaires
+         Once Caldas              2-0 (0-0)  Patriotas FC
+         Independiente Medellín   1-0 (1-0)  Atlético Junior
+[Sun Jun/2]
+  15.15  Atlético Huila           1-1 (1-1)  Santa Fe
+  17.30  Envigado FC              1-2 (0-0)  Deportivo Cali
+[Mon Jun/3]
+  15.15  Millonarios              1-2 (0-1)  Alianza Petrolera
+
+
+== Apertura Playoffs
+
+Group
+[Sat Jun/15]
+  17.30  Millonarios              4-2 (1-1)  Once Caldas
+  19.45  Deportivo Cali           1-1 (0-1)  Santa Fe
+[Wed Jun/19]
+  19.10  Santa Fe                 1-0 (1-0)  Millonarios
+  20.10  Once Caldas              1-1 (1-0)  Deportivo Cali
+[Sat Jun/22]
+  17.30  Santa Fe                 1-0 (1-0)  Once Caldas
+  19.45  Deportivo Cali           1-0 (1-0)  Millonarios
+[Wed Jun/26]
+  19.10  Millonarios              1-1 (0-0)  Deportivo Cali
+  20.30  Once Caldas              1-2 (1-2)  Santa Fe
+[Sat Jun/29]
+  17.30  Millonarios              2-1 (0-1)  Santa Fe
+  19.45  Deportivo Cali           1-2 (1-1)  Once Caldas
+[Thu Jul/4]
+  19.45  Once Caldas              2-3 (1-1)  Millonarios
+[Sat Jul/6]
+  19.45  Santa Fe                 1-1 (0-0)  Deportivo Cali
+[Sun Jun/16]
+  15.15  Itagüi Ditaires          1-3 (0-1)  Deportes Tolima
+  17.30  Deportivo Pasto          2-1 (0-0)  Atlético Nacional
+[Thu Jun/20]
+  18.00  Deportes Tolima          2-1 (1-0)  Deportivo Pasto
+  20.10  Atlético Nacional        1-2 (0-1)  Itagüi Ditaires
+[Sun Jun/23]
+  15.00  Itagüi Ditaires          2-3 (1-2)  Deportivo Pasto
+  17.15  Deportes Tolima          1-2 (0-0)  Atlético Nacional
+[Thu Jun/27]
+  20.10  Atlético Nacional        1-1 (0-1)  Deportes Tolima
+[Sun Jun/30]
+  17.30  Deportivo Pasto          0-1 (0-0)  Itagüi Ditaires
+[Wed Jul/3]
+  15.15  Itagüi Ditaires          1-2 (0-1)  Atlético Nacional
+  19.45  Deportivo Pasto          1-1 (1-0)  Deportes Tolima
+[Sun Jul/7]
+  17.30  Deportes Tolima          0-1 (0-0)  Itagüi Ditaires
+         Atlético Nacional        2-1 (1-1)  Deportivo Pasto
+
+
+Final
+[Sun Jul/14]
+  18.00  Atlético Nacional        0-0  Santa Fe
+[Wed Jul/17]
+  19.30  Santa Fe                 0-2 (0-1)  Atlético Nacional
+
+
+== Clausura
+
+Matchday 1
+[Fri Jul/26]
+  20.10  Atlético Huila           2-3 (2-0)  Atlético Nacional
+         Cúcuta Deportivo         1-2 (0-2)  Itagüi Ditaires
+[Sat Jul/27]
+  15.15  Boyacá Chicó             0-0  Patriotas FC
+  17.30  Deportivo Pasto          1-0 (1-0)  Deportes Quindío
+  19.45  La Equidad               1-1 (0-1)  Millonarios
+[Sun Jul/28]
+  15.15  Independiente Medellín   1-1 (1-1)  Deportes Tolima
+  17.30  Once Caldas              0-3 (0-1)  Deportivo Cali
+  19.45  Envigado FC              0-1 (0-1)  Atlético Junior
+[Tue Jul/30]
+  19.45  Santa Fe                 2-2 (0-0)  Alianza Petrolera
+
+
+Matchday 2
+[Fri Aug/2]
+  20.10  Deportivo Cali           1-1 (1-1)  Boyacá Chicó
+[Sat Aug/3]
+  15.15  Itagüi Ditaires          1-0 (0-0)  Atlético Huila
+  17.30  Patriotas FC             1-1 (1-1)  Deportivo Pasto
+  19.45  Atlético Junior          1-0 (1-0)  Once Caldas
+         Atlético Nacional        1-1 (0-0)  Santa Fe
+[Sun Aug/4]
+  15.15  Alianza Petrolera        1-2 (0-1)  La Equidad
+         Deportes Quindío         0-3 (0-0)  Cúcuta Deportivo
+  17.30  Deportes Tolima          1-0 (0-0)  Envigado FC
+  19.45  Millonarios              2-2 (1-2)  Independiente Medellín
+
+
+Matchday 3
+[Fri Aug/9]
+  20.10  Cúcuta Deportivo         2-3 (2-1)  Patriotas FC
+[Sat Aug/10]
+  15.15  Alianza Petrolera        1-2 (1-2)  Atlético Nacional
+  17.30  Santa Fe                 2-1 (0-0)  Itagüi Ditaires
+  19.45  Deportivo Pasto          1-1 (1-1)  Deportivo Cali
+         Once Caldas              4-0 (1-0)  Deportes Tolima
+[Sun Aug/11]
+  15.15  Boyacá Chicó             1-1 (0-1)  Atlético Junior
+  17.30  Atlético Huila           1-1 (1-1)  Deportes Quindío
+         Envigado FC              2-1 (1-0)  Millonarios
+  19.45  Independiente Medellín   2-1 (1-0)  La Equidad
+
+
+Matchday 4
+[Fri Aug/16]
+  20.10  La Equidad               0-0  Envigado FC
+[Sat Aug/17]
+  15.15  Itagüi Ditaires          0-4 (0-0)  Atlético Nacional
+  17.30  Deportes Tolima          1-1 (1-0)  Boyacá Chicó
+  19.45  Millonarios              3-0 (3-0)  Once Caldas
+         Deportes Quindío         0-2 (0-0)  Santa Fe
+[Sun Aug/18]
+  15.15  Atlético Junior          0-1 (0-0)  Deportivo Pasto
+  17.30  Independiente Medellín   0-1 (0-0)  Alianza Petrolera
+         Deportivo Cali           2-1 (0-0)  Cúcuta Deportivo
+  19.45  Patriotas FC             2-1 (2-0)  Atlético Huila
+
+
+Matchday 5
+[Wed Aug/21]
+  15.15  Atlético Huila           1-0 (1-0)  Deportivo Cali
+  18.00  Envigado FC              0-4 (0-2)  Independiente Medellín
+  20.10  Santa Fe                 2-1 (1-1)  Patriotas FC
+         Cúcuta Deportivo         1-5 (1-3)  Atlético Junior
+[Thu Aug/22]
+  20.10  Once Caldas              2-2 (0-1)  La Equidad
+[Sat Sep/7]
+  17.30  Boyacá Chicó             1-1 (0-0)  Millonarios
+  19.45  Atlético Nacional        2-1 (1-0)  Deportes Quindío
+[Sun Sep/8]
+  15.15  Alianza Petrolera        1-0 (0-0)  Itagüi Ditaires
+  17.30  Deportivo Pasto          1-1 (0-1)  Deportes Tolima
+
+
+Matchday 6
+[Sat Aug/24]
+  15.15  Deportes Quindío         0-2 (0-1)  Itagüi Ditaires
+  19.45  Deportes Tolima          2-1 (1-0)  Cúcuta Deportivo
+         Deportivo Cali           2-0 (1-0)  Santa Fe
+[Sun Aug/25]
+  13.00  La Equidad               5-2 (4-1)  Boyacá Chicó
+  15.15  Independiente Medellín   1-2 (0-2)  Once Caldas
+  17.30  Millonarios              4-0 (1-0)  Deportivo Pasto
+         Atlético Junior          2-1 (2-0)  Atlético Huila
+  19.45  Envigado FC              0-0  Alianza Petrolera
+[Sun Oct/13]
+  19.45  Patriotas FC             1-0 (0-0)  Atlético Nacional
+
+
+Matchday 7
+[Wed Aug/28]
+  15.15  Alianza Petrolera        1-1 (0-1)  Deportes Quindío
+  18.00  Atlético Huila           1-1 (1-0)  Deportes Tolima
+  20.10  Santa Fe                 3-0 (1-0)  Atlético Junior
+         Cúcuta Deportivo         0-1 (0-0)  Millonarios
+[Thu Aug/29]
+  20.10  Atlético Nacional        2-0 (1-0)  Deportivo Cali
+         Once Caldas              2-1 (0-1)  Envigado FC
+[Thu Sep/5]
+  15.15  Itagüi Ditaires          2-0 (1-0)  Patriotas FC
+[Wed Sep/11]
+  19.45  Boyacá Chicó             3-1 (2-1)  Independiente Medellín
+[Sun Oct/13]
+  17.30  Deportivo Pasto          4-1 (2-0)  La Equidad
+
+
+Matchday 8
+[Sat Aug/31]
+  17.30  Millonarios              3-2 (2-1)  Atlético Huila
+[Sun Sep/1]
+  13.00  Envigado FC              2-2 (0-1)  Boyacá Chicó
+  15.15  Independiente Medellín   0-0  Deportivo Pasto
+         Patriotas FC             3-0 (2-0)  Deportes Quindío
+  17.30  Atlético Junior          0-1 (0-0)  Atlético Nacional
+         Deportivo Cali           1-0 (0-0)  Itagüi Ditaires
+  19.45  Once Caldas              1-1 (0-1)  Alianza Petrolera
+[Mon Sep/2]
+  18.00  La Equidad               0-0  Cúcuta Deportivo
+[Sat Oct/12]
+  17.30  Deportes Tolima          1-1 (0-0)  Santa Fe
+
+
+Matchday 9
+[Sat Sep/14]
+  13.00  La Equidad               4-0 (2-0)  Alianza Petrolera
+  15.15  Deportes Quindío         2-1 (0-0)  Once Caldas
+  17.00  Atlético Junior          1-1 (1-1)  Cúcuta Deportivo
+  17.30  Atlético Nacional        2-0 (2-0)  Independiente Medellín
+  19.45  Patriotas FC             1-0 (1-0)  Boyacá Chicó
+[Sun Sep/15]
+  15.15  Itagüi Ditaires          0-1 (0-1)  Envigado FC
+  17.00  Millonarios              0-0  Santa Fe
+  17.30  Deportes Tolima          1-0 (0-0)  Atlético Huila
+  19.45  Deportivo Cali           0-0  Deportivo Pasto
+
+
+Matchday 10
+[Fri Sep/20]
+  15.15  Itagüi Ditaires          4-0 (3-0)  Atlético Junior
+[Sat Sep/21]
+  15.15  Alianza Petrolera        0-0  Patriotas FC
+  17.00  Santa Fe                 0-0  Millonarios
+  17.30  Deportivo Pasto          0-0  Envigado FC
+  19.45  Atlético Nacional        2-0 (0-0)  Deportes Tolima
+[Sun Sep/22]
+  15.15  Cúcuta Deportivo         0-1 (0-0)  Independiente Medellín
+  17.00  Deportes Quindío         0-5 (0-1)  Deportivo Cali
+  17.30  Atlético Huila           1-1 (0-0)  La Equidad
+  19.45  Boyacá Chicó             0-1 (0-0)  Once Caldas
+
+
+Matchday 11
+[Wed Sep/18]
+  20.10  Once Caldas              1-1 (0-0)  Deportivo Pasto
+[Wed Sep/25]
+  18.00  Envigado FC              2-0 (1-0)  Cúcuta Deportivo
+         Deportivo Cali           1-1 (1-0)  Patriotas FC
+  20.10  La Equidad               1-1 (1-1)  Santa Fe
+         Independiente Medellín   4-0 (4-0)  Atlético Huila
+         Atlético Junior          3-0 (2-0)  Deportes Quindío
+[Thu Sep/26]
+  20.10  Boyacá Chicó             1-2 (0-0)  Alianza Petrolera
+[Tue Oct/8]
+  19.45  Millonarios              0-2 (0-2)  Atlético Nacional
+[Wed Oct/16]
+  19.45  Deportes Tolima          1-1 (0-0)  Itagüi Ditaires
+
+
+Matchday 12
+[Sat Sep/28]
+  15.15  Atlético Huila           2-1 (1-1)  Envigado FC
+  17.00  Patriotas FC             0-2 (0-1)  Atlético Junior
+  17.30  Cúcuta Deportivo         0-0  Once Caldas
+  19.45  Deportes Quindío         1-0 (1-0)  Deportes Tolima
+[Sun Sep/29]
+  13.00  Itagüi Ditaires          2-2 (2-0)  Millonarios
+  15.15  Alianza Petrolera        0-2 (0-1)  Deportivo Cali
+  17.00  Santa Fe                 1-1 (0-0)  Independiente Medellín
+  17.30  Atlético Nacional        0-0  La Equidad
+  19.45  Deportivo Pasto          4-3 (1-1)  Boyacá Chicó
+
+
+Matchday 13
+[Tue Oct/1]
+  20.10  Deportes Tolima          1-1 (1-0)  Patriotas FC
+[Wed Oct/2]
+  18.00  Deportivo Pasto          2-1 (1-0)  Alianza Petrolera
+         Independiente Medellín   1-1 (0-0)  Atlético Nacional
+  20.10  Millonarios              2-0 (2-0)  Deportes Quindío
+         Atlético Junior          1-1 (0-1)  Deportivo Cali
+  20.15  Envigado FC              2-1 (0-0)  Santa Fe
+[Thu Oct/3]
+  18.00  Boyacá Chicó             3-1 (1-0)  Cúcuta Deportivo
+  20.10  Once Caldas              2-0 (1-0)  Atlético Huila
+[Thu Oct/10]
+  17.30  La Equidad               2-0 (1-0)  Itagüi Ditaires
+
+
+Matchday 14
+[Sat Oct/5]
+  15.15  Alianza Petrolera        1-1 (1-0)  Atlético Junior
+  17.00  Patriotas FC             2-2 (1-1)  Millonarios
+  17.30  Atlético Nacional        4-1 (4-0)  Envigado FC
+  19.45  Deportivo Cali           0-0  Deportes Tolima
+[Sun Oct/6]
+  13.00  Deportes Quindío         1-0 (0-0)  La Equidad
+  15.15  Itagüi Ditaires          1-0 (0-0)  Independiente Medellín
+  17.00  Santa Fe                 1-0 (0-0)  Once Caldas
+  17.30  Cúcuta Deportivo         1-2 (1-1)  Deportivo Pasto
+  19.45  Atlético Huila           2-1 (0-1)  Boyacá Chicó
+
+
+Matchday 15
+[Fri Oct/18]
+  19.45  Deportivo Pasto          2-2 (1-1)  Atlético Huila
+[Sat Oct/19]
+  15.15  Envigado FC              1-1 (0-0)  Itagüi Ditaires
+  17.00  Deportes Tolima          3-3 (2-2)  Atlético Junior
+  17.30  Once Caldas              0-1 (0-1)  Atlético Nacional
+  19.45  Millonarios              1-0 (0-0)  Deportivo Cali
+[Sun Oct/20]
+  15.15  Cúcuta Deportivo         2-0 (1-0)  Alianza Petrolera
+  17.00  Boyacá Chicó             0-2 (0-1)  Santa Fe
+  17.30  La Equidad               1-0 (0-0)  Patriotas FC
+  19.45  Independiente Medellín   1-0 (0-0)  Deportes Quindío
+
+
+Matchday 16
+[Fri Oct/25]
+  19.45  Patriotas FC             0-0  Independiente Medellín
+[Sat Oct/26]
+  15.15  Alianza Petrolera        2-1 (0-1)  Deportes Tolima
+  17.00  Santa Fe                 2-0 (1-0)  Deportivo Pasto
+  17.30  Deportivo Cali           1-0 (1-0)  La Equidad
+  19.45  Atlético Huila           2-2 (2-0)  Cúcuta Deportivo
+[Sun Oct/27]
+  15.15  Atlético Junior          3-2 (3-1)  Millonarios
+         Itagüi Ditaires          0-4 (0-4)  Once Caldas
+  17.30  Atlético Nacional        0-1 (0-1)  Boyacá Chicó
+  19.45  Deportes Quindío         1-2 (1-1)  Envigado FC
+
+
+Matchday 17
+[Sat Nov/2]
+  17.30  Atlético Huila           2-0 (0-0)  Alianza Petrolera
+         Cúcuta Deportivo         1-0 (0-0)  Santa Fe
+         Once Caldas              3-0 (0-0)  Deportes Quindío
+         Envigado FC              1-1 (0-0)  Patriotas FC
+[Sun Nov/3]
+  15.15  Independiente Medellín   3-1 (0-0)  Deportivo Cali
+         Millonarios              2-1 (2-1)  Deportes Tolima
+         La Equidad               2-2 (2-1)  Atlético Junior
+  17.30  Deportivo Pasto          1-1 (0-0)  Atlético Nacional
+         Boyacá Chicó             0-2 (0-2)  Itagüi Ditaires
+
+
+Matchday 18
+[Sat Nov/9]
+  15.15  Alianza Petrolera        0-1 (0-0)  Millonarios
+  17.30  Deportes Quindío         2-1 (1-1)  Boyacá Chicó
+         Atlético Nacional        1-2 (1-1)  Cúcuta Deportivo
+[Sun Nov/10]
+  15.15  Deportes Tolima          3-1 (1-1)  La Equidad
+         Atlético Junior          3-2 (3-1)  Independiente Medellín
+         Patriotas FC             0-1 (0-0)  Once Caldas
+         Itagüi Ditaires          1-0 (0-0)  Deportivo Pasto
+         Santa Fe                 3-4 (3-3)  Atlético Huila
+         Deportivo Cali           1-1 (0-0)  Envigado FC
+
+
+== Clausura Playoffs
+
+Group
+[Sat Nov/16]
+  15.15  Itagüi Ditaires          0-1 (0-1)  Atlético Junior
+[Thu Nov/21]
+  18.00  Atlético Nacional        3-2 (2-0)  Itagüi Ditaires
+  20.10  Atlético Junior          3-2 (2-0)  Santa Fe
+[Sun Nov/24]
+  15.15  Itagüi Ditaires          1-2 (0-1)  Santa Fe
+  17.30  Atlético Junior          0-0  Atlético Nacional
+[Thu Nov/28]
+  19.45  Santa Fe                 0-2 (0-2)  Atlético Nacional
+[Sun Dec/1]
+  15.15  Santa Fe                 0-2 (0-0)  Itagüi Ditaires
+  19.00  Atlético Nacional        2-1 (1-0)  Atlético Junior
+[Thu Dec/5]
+  19.45  Santa Fe                 2-1 (2-1)  Atlético Junior
+         Itagüi Ditaires          0-4 (0-3)  Atlético Nacional
+[Sun Dec/8]
+  17.23  Atlético Nacional        2-1 (1-0)  Santa Fe
+  17.30  Atlético Junior          4-1 (3-1)  Itagüi Ditaires
+[Sat Nov/16]
+  17.30  Deportivo Cali           3-2 (1-1)  Deportivo Pasto
+[Wed Nov/20]
+  20.10  Millonarios              0-1 (0-1)  Deportivo Cali
+         Deportivo Pasto          2-1 (1-1)  Once Caldas
+[Sat Nov/23]
+  17.00  Millonarios              2-0 (0-0)  Deportivo Pasto
+  19.45  Once Caldas              1-2 (1-0)  Deportivo Cali
+[Thu Nov/28]
+  09.00  Once Caldas              2-1 (1-1)  Millonarios
+[Sat Nov/30]
+  17.45  Deportivo Pasto          4-1 (0-1)  Millonarios
+  19.45  Deportivo Cali           1-0 (1-0)  Once Caldas
+[Wed Dec/4]
+  18.00  Once Caldas              3-1 (2-0)  Deportivo Pasto
+  20.10  Deportivo Cali           4-2 (2-1)  Millonarios
+[Sat Dec/7]
+  17.30  Millonarios              3-1 (0-1)  Once Caldas
+  19.45  Deportivo Pasto          3-2 (3-1)  Deportivo Cali
+
+
+Final
+[Wed Dec/11]
+  20.30  Deportivo Cali           0-0  Atlético Nacional
+[Sun Dec/15]
+  17.30  Atlético Nacional        2-0 (1-0)  Deportivo Cali

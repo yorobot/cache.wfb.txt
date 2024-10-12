@@ -1,0 +1,81 @@
+= NIR 1 2015
+
+# Date       Sat Apr/4 - Sat Apr/25 2015 (21d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat Apr/4]
+  15.00  Cliftonville FC          4-0  Portadown FC
+         Glenavon FC              4-0  Glentoran FC
+[Tue Apr/21]
+  19.45  Linfield FC              3-1  Crusaders FC
+
+
+Matchday 2
+[Tue Apr/7]
+  15.00  Glenavon FC              5-0  Cliftonville FC
+  19.45  Glentoran FC             1-2  Linfield FC
+         Portadown FC             1-0  Crusaders FC
+
+
+Matchday 3
+[Sat Apr/11]
+  15.00  Cliftonville FC          0-1  Crusaders FC
+         Glentoran FC             0-0  Portadown FC
+         Linfield FC              0-2  Glenavon FC
+
+
+Matchday 4
+[Sat Apr/18]
+  15.00  Cliftonville FC          2-2  Linfield FC
+         Crusaders FC             2-0  Glentoran FC
+         Glenavon FC              3-2  Portadown FC
+
+
+Matchday 5
+[Sat Apr/25]
+  15.00  Crusaders FC             4-0  Glenavon FC
+         Glentoran FC             1-0  Cliftonville FC
+         Portadown FC             1-1  Linfield FC
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/4]
+  15.00  Ballinamallard United FC  1-0  Dungannon Swifts
+         Coleraine FC             0-1  Ballymena United
+         Warrenpoint Town         5-1  Institute FC Drumahoe
+
+
+Matchday 2
+[Tue Apr/7]
+  19.45  Ballinamallard United FC  2-0  Institute FC Drumahoe
+         Ballymena United         2-1  Warrenpoint Town
+         Dungannon Swifts         1-0  Coleraine FC
+
+
+Matchday 3
+[Sat Apr/11]
+  15.00  Coleraine FC             1-2  Ballinamallard United FC
+         Dungannon Swifts         1-1  Warrenpoint Town
+         Institute FC Drumahoe    1-2  Ballymena United
+
+
+Matchday 4
+[Sat Apr/18]
+  15.00  Ballymena United         2-1  Ballinamallard United FC
+         Coleraine FC             2-1  Warrenpoint Town
+         Dungannon Swifts         1-1  Institute FC Drumahoe
+
+
+Matchday 5
+[Sat Apr/25]
+  14.00  Ballymena United         1-0  Dungannon Swifts
+  15.00  Ballinamallard United FC  3-3  Warrenpoint Town
+         Coleraine FC             3-1  Institute FC Drumahoe

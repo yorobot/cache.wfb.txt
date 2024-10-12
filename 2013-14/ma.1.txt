@@ -1,0 +1,452 @@
+= MA 1 2013/14
+
+# Date       Tue Feb/19 2013 - Mon May/26 2014 (461d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Aug/23]
+  20.00  FAR de Rabat             0-1  FUS de Rabat
+[Sat Aug/24]
+  17.00  AS Salé                  2-2  Hassania US Agadir
+[Sun Aug/25]
+  17.00  RS Berkane               0-1  Moghreb de Tétouan
+  19.00  Raja Casablanca          1-1  Olympique de Safi
+  21.00  CR Al Hoceima            1-2  Maghrib de Fès
+[Mon Aug/26]
+  18.00  Difaâ d'el Jadida        0-0  Wydad AC
+  20.00  Wydad de Fès             1-1  Kawkab AC Marrakech
+[Tue Aug/27]
+  19.00  KAC de Kénitra           1-1  Olympique de Khouribga
+
+
+Matchday 2
+[Fri Aug/30]
+  20.00  Olympique de Safi        0-1  RS Berkane
+[Sat Aug/31]
+  17.00  Maghrib de Fès           1-1  FAR de Rabat
+  20.00  Moghreb de Tétouan       1-0  CR Al Hoceima
+[Sun Sep/1]
+  16.00  Hassania US Agadir       1-0  Difaâ d'el Jadida
+  17.00  Kawkab AC Marrakech      1-0  AS Salé
+  18.00  Olympique de Khouribga   1-0  Raja Casablanca
+  20.00  Wydad AC                 3-0  KAC de Kénitra
+[Wed Sep/4]
+  20.00  FUS de Rabat             0-0  Wydad de Fès
+
+
+Matchday 3
+[Fri Sep/20]
+  20.00  KAC de Kénitra           1-1  Raja Casablanca
+[Sat Sep/21]
+  15.00  Wydad de Fès             3-4  Maghrib de Fès
+  16.00  CR Al Hoceima            1-1  Olympique de Safi
+  16.30  Wydad AC                 1-2  Hassania US Agadir
+[Sun Sep/22]
+  14.00  Difaâ d'el Jadida        3-0  Kawkab AC Marrakech
+  16.00  RS Berkane               1-1  Olympique de Khouribga
+  19.00  FAR de Rabat             1-3  Moghreb de Tétouan
+[Sun Oct/13]
+  14.30  AS Salé                  1-1  FUS de Rabat
+
+
+Matchday 4
+[Fri Sep/27]
+  20.00  Maghrib de Fès           0-2  AS Salé
+[Sat Sep/28]
+  15.00  Moghreb de Tétouan       1-0  Wydad de Fès
+  19.00  Olympique de Safi        1-2  FAR de Rabat
+[Sun Sep/29]
+  15.00  Hassania US Agadir       2-2  KAC de Kénitra
+         Raja Casablanca          0-0  RS Berkane
+  17.00  Kawkab AC Marrakech      2-0  Wydad AC
+  19.00  Olympique de Khouribga   0-0  CR Al Hoceima
+[Mon Sep/30]
+  19.00  FUS de Rabat             1-1  Difaâ d'el Jadida
+
+
+Matchday 5
+[Fri Oct/4]
+  19.30  Hassania US Agadir       3-4  Kawkab AC Marrakech
+[Sat Oct/5]
+  15.00  FAR de Rabat             0-0  Olympique de Khouribga
+  17.00  Wydad de Fès             1-3  Olympique de Safi
+  19.00  KAC de Kénitra           2-0  RS Berkane
+[Sun Oct/6]
+  15.00  AS Salé                  0-1  Moghreb de Tétouan
+  18.00  CR Al Hoceima            0-2  Raja Casablanca
+[Mon Oct/7]
+  16.30  Difaâ d'el Jadida        1-0  Maghrib de Fès
+[Wed Oct/23]
+  19.30  Wydad AC                 2-0  FUS de Rabat
+
+
+Matchday 6
+[Fri Oct/25]
+  19.30  Olympique de Khouribga   2-1  Wydad de Fès
+[Sat Oct/26]
+  15.00  RS Berkane               0-2  CR Al Hoceima
+[Sun Oct/27]
+  14.30  Kawkab AC Marrakech      1-0  KAC de Kénitra
+         Moghreb de Tétouan       0-0  Difaâ d'el Jadida
+  16.00  Raja Casablanca          1-0  FAR de Rabat
+  16.30  Olympique de Safi        1-1  AS Salé
+  19.00  Maghrib de Fès           0-1  Wydad AC
+[Mon Oct/28]
+  19.00  FUS de Rabat             2-2  Hassania US Agadir
+
+
+Matchday 7
+[Fri Nov/1]
+  19.00  FAR de Rabat             0-0  RS Berkane
+[Sat Nov/2]
+  15.00  Kawkab AC Marrakech      1-1  FUS de Rabat
+         AS Salé                  0-0  Olympique de Khouribga
+  19.00  Wydad AC                 2-2  Moghreb de Tétouan
+[Sun Nov/3]
+  14.30  Difaâ d'el Jadida        1-1  Olympique de Safi
+         KAC de Kénitra           1-0  CR Al Hoceima
+  16.30  Hassania US Agadir       2-1  Maghrib de Fès
+  19.00  Wydad de Fès             0-1  Raja Casablanca
+
+
+Matchday 8
+[Fri Nov/8]
+  19.00  Maghrib de Fès           1-1  Kawkab AC Marrakech
+[Sat Nov/9]
+  15.00  Olympique de Safi        2-2  Wydad AC
+         RS Berkane               2-0  Wydad de Fès
+  19.00  Raja Casablanca          2-1  AS Salé
+[Sun Nov/10]
+  13.00  FUS de Rabat             1-1  KAC de Kénitra
+  14.00  Moghreb de Tétouan       1-1  Hassania US Agadir
+  16.00  Olympique de Khouribga   1-1  Difaâ d'el Jadida
+  18.30  CR Al Hoceima            2-1  FAR de Rabat
+
+
+Matchday 9
+[Fri Nov/15]
+  19.00  Wydad de Fès             0-0  CR Al Hoceima
+[Sat Nov/16]
+  16.00  Hassania US Agadir       2-1  Olympique de Safi
+[Sun Nov/17]
+  15.00  Kawkab AC Marrakech      2-1  Moghreb de Tétouan
+         AS Salé                  1-2  RS Berkane
+  17.00  KAC de Kénitra           0-0  FAR de Rabat
+  19.00  Wydad AC                 3-1  Olympique de Khouribga
+[Wed Nov/20]
+  13.00  FUS de Rabat             3-0  Maghrib de Fès
+[Thu Nov/28]
+  15.00  Difaâ d'el Jadida        1-0  Raja Casablanca
+
+
+Matchday 10
+[Fri Nov/22]
+  19.00  CR Al Hoceima            1-0  AS Salé
+[Sat Nov/23]
+  14.30  FAR de Rabat             0-1  Wydad de Fès
+  17.00  Olympique de Safi        1-0  Kawkab AC Marrakech
+  19.00  Olympique de Khouribga   0-0  Hassania US Agadir
+[Sun Nov/24]
+  13.00  RS Berkane               0-0  Difaâ d'el Jadida
+  15.00  Raja Casablanca          1-1  Wydad AC
+  17.30  Maghrib de Fès           0-1  KAC de Kénitra
+[Mon Nov/25]
+  19.00  Moghreb de Tétouan       0-0  FUS de Rabat
+
+
+Matchday 11
+[Fri Nov/29]
+  19.00  Wydad AC                 3-2  RS Berkane
+[Sat Nov/30]
+  14.30  AS Salé                  1-2  FAR de Rabat
+  18.00  FUS de Rabat             1-0  Olympique de Safi
+[Sun Dec/1]
+  15.00  Kawkab AC Marrakech      0-0  Olympique de Khouribga
+         KAC de Kénitra           1-0  Wydad de Fès
+  18.30  Maghrib de Fès           1-1  Moghreb de Tétouan
+[Mon Dec/2]
+  15.00  Difaâ d'el Jadida        2-1  CR Al Hoceima
+[Tue Dec/3]
+  15.00  Hassania US Agadir       1-0  Raja Casablanca
+
+
+Matchday 12
+[Fri Dec/6]
+  19.00  Olympique de Safi        1-1  Maghrib de Fès
+[Sat Dec/7]
+  15.00  Moghreb de Tétouan       0-0  KAC de Kénitra
+  19.00  Wydad de Fès             1-0  AS Salé
+[Sun Dec/8]
+  14.00  RS Berkane               1-0  Hassania US Agadir
+         CR Al Hoceima            2-0  Wydad AC
+  15.00  FAR de Rabat             1-0  Difaâ d'el Jadida
+  19.00  Olympique de Khouribga   0-3  FUS de Rabat             [awarded]
+[Thu Jan/2]
+  19.00  Raja Casablanca          0-0  Kawkab AC Marrakech
+
+
+Matchday 13
+[Fri Dec/13]
+  19.00  KAC de Kénitra           1-1  AS Salé
+[Sun Dec/15]
+  14.30  Kawkab AC Marrakech      0-0  RS Berkane
+  15.00  Wydad AC                 2-1  FAR de Rabat
+         Difaâ d'el Jadida        4-1  Wydad de Fès
+  19.00  Moghreb de Tétouan       2-1  Olympique de Safi
+[Mon Dec/16]
+  19.00  Maghrib de Fès           3-1  Olympique de Khouribga
+[Thu Jan/2]
+  14.30  Hassania US Agadir       1-0  CR Al Hoceima
+[Sat Feb/1]
+  17.00  FUS de Rabat             1-0  Raja Casablanca
+
+
+Matchday 14
+[Tue Feb/19]
+  18.00  Raja Casablanca          1-0  Maghrib de Fès
+[Sat Dec/21]
+  14.00  CR Al Hoceima            0-1  Kawkab AC Marrakech
+[Sun Dec/22]
+  14.30  RS Berkane               1-1  FUS de Rabat
+         AS Salé                  1-0  Difaâ d'el Jadida
+  15.00  FAR de Rabat             2-0  Hassania US Agadir
+  18.00  KAC de Kénitra           1-1  Olympique de Safi
+[Mon Dec/23]
+  17.00  Olympique de Khouribga   1-2  Moghreb de Tétouan
+  19.00  Wydad de Fès             0-2  Wydad AC
+
+
+Matchday 15
+[Fri Dec/27]
+  19.00  FUS de Rabat             2-0  CR Al Hoceima
+[Sat Dec/28]
+  14.30  Moghreb de Tétouan       1-0  Raja Casablanca
+  16.00  Hassania US Agadir       4-3  Wydad de Fès
+  19.00  Maghrib de Fès           1-4  RS Berkane
+[Sun Dec/29]
+  14.00  Difaâ d'el Jadida        2-1  KAC de Kénitra
+  15.00  Olympique de Safi        2-0  Olympique de Khouribga
+  16.00  Kawkab AC Marrakech      1-0  FAR de Rabat
+  18.30  Wydad AC                 1-1  AS Salé
+
+
+Matchday 16
+[Sat Feb/8]
+  13.00  RS Berkane               0-0  Olympique de Safi
+  19.00  Wydad de Fès             0-1  FUS de Rabat
+[Sun Feb/9]
+  15.00  AS Salé                  0-3  Kawkab AC Marrakech
+  16.00  KAC de Kénitra           1-1  Wydad AC
+  18.30  CR Al Hoceima            2-1  Moghreb de Tétouan
+[Wed Mar/12]
+  15.00  Difaâ d'el Jadida        1-0  Hassania US Agadir
+  19.00  Raja Casablanca          1-0  Olympique de Khouribga
+[Thu Mar/13]
+  15.30  FAR de Rabat             2-1  Maghrib de Fès
+
+
+Matchday 17
+[Sat Feb/15]
+  15.00  Maghrib de Fès           0-0  Wydad de Fès
+  19.00  Hassania US Agadir       1-0  Wydad AC
+[Sun Feb/16]
+  15.00  FUS de Rabat             1-0  AS Salé
+         Olympique de Safi        1-2  CR Al Hoceima
+  18.30  Olympique de Khouribga   1-0  RS Berkane
+[Wed Mar/19]
+  19.00  Raja Casablanca          5-0  KAC de Kénitra
+[Wed Apr/2]
+  18.00  Moghreb de Tétouan       1-1  FAR de Rabat
+  20.00  Kawkab AC Marrakech      0-0  Difaâ d'el Jadida
+
+
+Matchday 18
+[Fri Feb/21]
+  19.00  Wydad de Fès             1-2  Moghreb de Tétouan
+[Sat Feb/22]
+  14.00  CR Al Hoceima            1-0  Olympique de Khouribga
+  16.00  Wydad AC                 0-0  Kawkab AC Marrakech
+         KAC de Kénitra           0-0  Hassania US Agadir
+[Sun Feb/23]
+  13.00  AS Salé                  1-0  Maghrib de Fès
+  15.00  RS Berkane               1-1  Raja Casablanca
+         Difaâ d'el Jadida        1-0  FUS de Rabat
+  18.30  FAR de Rabat             3-2  Olympique de Safi
+
+
+Matchday 19
+[Sat Mar/1]
+  15.00  Moghreb de Tétouan       2-1  AS Salé
+         Kawkab AC Marrakech      2-0  Hassania US Agadir
+[Sun Mar/2]
+  14.00  RS Berkane               0-0  KAC de Kénitra
+  15.00  Olympique de Safi        0-1  Wydad de Fès
+  16.00  FUS de Rabat             0-0  Wydad AC
+  18.30  Olympique de Khouribga   0-1  FAR de Rabat
+[Thu Mar/27]
+  19.00  Raja Casablanca          3-1  CR Al Hoceima
+[Wed Apr/9]
+  19.00  Maghrib de Fès           2-2  Difaâ d'el Jadida
+
+
+Matchday 20
+[Fri Mar/7]
+  16.00  Wydad de Fès             3-0  Olympique de Khouribga   [awarded]
+[Sat Mar/8]
+  14.00  KAC de Kénitra           0-0  Kawkab AC Marrakech
+  16.00  Hassania US Agadir       2-1  FUS de Rabat
+[Sun Mar/9]
+  15.00  AS Salé                  0-0  Olympique de Safi
+  18.30  CR Al Hoceima            1-0  RS Berkane
+[Wed Apr/16]
+  17.00  FAR de Rabat             1-3  Raja Casablanca
+[Wed Apr/23]
+  17.00  Wydad AC                 0-0  Maghrib de Fès
+[Wed Apr/30]
+  19.00  Difaâ d'el Jadida        1-1  Moghreb de Tétouan
+
+
+Matchday 21
+[Fri Mar/14]
+  19.00  Moghreb de Tétouan       1-0  Wydad AC
+[Sat Mar/15]
+  15.00  CR Al Hoceima            0-1  KAC de Kénitra
+  19.00  FUS de Rabat             0-0  Kawkab AC Marrakech
+[Sun Mar/16]
+  14.00  RS Berkane               1-1  FAR de Rabat
+  15.00  Olympique de Khouribga   1-1  AS Salé
+  16.00  Olympique de Safi        1-1  Difaâ d'el Jadida
+  18.30  Raja Casablanca          4-0  Wydad de Fès
+[Mon Mar/17]
+  19.00  Maghrib de Fès           3-1  Hassania US Agadir
+
+
+Matchday 22
+[Sat Mar/22]
+  15.00  FAR de Rabat             1-1  CR Al Hoceima
+         Wydad de Fès             0-0  RS Berkane
+  19.00  Wydad AC                 1-0  Olympique de Safi
+[Sun Mar/23]
+  14.00  AS Salé                  1-0  Raja Casablanca
+  15.00  Kawkab AC Marrakech      1-0  Maghrib de Fès
+  16.00  KAC de Kénitra           2-3  FUS de Rabat
+  18.30  Hassania US Agadir       1-2  Moghreb de Tétouan
+[Wed May/7]
+  21.00  Difaâ d'el Jadida        1-0  Olympique de Khouribga
+
+
+Matchday 23
+[Sat Mar/29]
+  16.00  Maghrib de Fès           1-1  FUS de Rabat
+  19.00  Moghreb de Tétouan       2-0  Kawkab AC Marrakech
+[Sun Mar/30]
+  15.00  RS Berkane               2-2  AS Salé
+         FAR de Rabat             0-0  KAC de Kénitra
+  17.00  Olympique de Safi        1-0  Hassania US Agadir
+  19.00  Olympique de Khouribga   0-2  Wydad AC
+[Tue Apr/1]
+  17.00  CR Al Hoceima            1-1  Wydad de Fès
+[Sun May/11]
+  19.00  Raja Casablanca          1-0  Difaâ d'el Jadida
+
+
+Matchday 24
+[Thu Apr/3]
+  17.00  Wydad AC                 0-2  Raja Casablanca
+[Sat Apr/5]
+  18.30  KAC de Kénitra           0-1  Maghrib de Fès
+  20.30  Hassania US Agadir       0-1  Olympique de Khouribga
+[Sun Apr/6]
+  15.00  Difaâ d'el Jadida        0-0  RS Berkane
+  15.30  AS Salé                  1-0  CR Al Hoceima
+  18.00  FUS de Rabat             1-0  Moghreb de Tétouan
+[Mon Apr/7]
+  17.00  Wydad de Fès             1-1  FAR de Rabat
+  19.00  Kawkab AC Marrakech      1-1  Olympique de Safi
+
+
+Matchday 25
+[Sat Apr/12]
+  15.00  FAR de Rabat             1-0  AS Salé
+  16.00  RS Berkane               3-0  Wydad AC
+  19.00  Raja Casablanca          3-1  Hassania US Agadir
+[Sun Apr/13]
+  15.00  Olympique de Khouribga   0-4  Kawkab AC Marrakech
+         Olympique de Safi        1-0  FUS de Rabat
+  17.00  CR Al Hoceima            1-0  Difaâ d'el Jadida
+  19.00  Wydad de Fès             2-3  KAC de Kénitra
+[Mon Apr/14]
+  19.00  Moghreb de Tétouan       1-1  Maghrib de Fès
+
+
+Matchday 26
+[Sat Apr/19]
+  15.30  AS Salé                  0-0  Wydad de Fès
+  18.00  Wydad AC                 2-0  CR Al Hoceima
+  20.00  Maghrib de Fès           1-0  Olympique de Safi
+[Sun Apr/20]
+  16.00  KAC de Kénitra           0-1  Moghreb de Tétouan
+  17.00  Kawkab AC Marrakech      0-0  Raja Casablanca
+  18.30  FUS de Rabat             0-2  Olympique de Khouribga
+[Mon Apr/21]
+  19.00  Hassania US Agadir       2-2  RS Berkane
+[Wed May/14]
+  19.00  Difaâ d'el Jadida        1-1  FAR de Rabat
+
+
+Matchday 27
+[Sat Apr/26]
+  15.00  Olympique de Safi        1-1  Moghreb de Tétouan
+  17.00  CR Al Hoceima            1-1  Hassania US Agadir
+  19.30  Raja Casablanca          1-0  FUS de Rabat
+[Sun Apr/27]
+  15.00  FAR de Rabat             1-1  Wydad AC
+         AS Salé                  1-0  KAC de Kénitra
+  17.00  RS Berkane               0-0  Kawkab AC Marrakech
+  19.00  Olympique de Khouribga   2-1  Maghrib de Fès
+[Wed May/21]
+  19.00  Wydad de Fès             0-0  Difaâ d'el Jadida
+
+
+Matchday 28
+[Sat May/3]
+  16.00  Olympique de Safi        1-0  KAC de Kénitra
+  17.00  FUS de Rabat             0-0  RS Berkane
+  19.30  Wydad AC                 1-1  Wydad de Fès
+[Sun May/4]
+  14.30  Moghreb de Tétouan       2-0  Olympique de Khouribga
+  17.00  Maghrib de Fès           0-1  Raja Casablanca
+         Difaâ d'el Jadida        3-2  AS Salé
+  19.00  Hassania US Agadir       1-2  FAR de Rabat
+[Mon May/5]
+  19.00  Kawkab AC Marrakech      1-2  CR Al Hoceima
+
+
+Matchday 29
+[Sat May/17]
+  15.00  CR Al Hoceima            1-3  FUS de Rabat
+  17.00  Wydad de Fès             2-1  Hassania US Agadir
+[Sun May/18]
+  16.00  AS Salé                  2-2  Wydad AC
+         RS Berkane               0-0  Maghrib de Fès
+         Olympique de Khouribga   2-1  Olympique de Safi
+         KAC de Kénitra           1-1  Difaâ d'el Jadida
+  17.00  Raja Casablanca          5-0  Moghreb de Tétouan
+[Mon May/19]
+  19.00  FAR de Rabat             1-1  Kawkab AC Marrakech
+
+
+Matchday 30
+[Sun May/25]
+  17.00  Olympique de Safi        1-0  Raja Casablanca
+         Hassania US Agadir       2-1  AS Salé
+         Olympique de Khouribga   2-0  KAC de Kénitra
+         Kawkab AC Marrakech      2-2  Wydad de Fès
+         Maghrib de Fès           1-0  CR Al Hoceima
+         Moghreb de Tétouan       2-1  RS Berkane
+[Mon May/26]
+  18.00  FUS de Rabat             2-1  FAR de Rabat
+  19.00  Wydad AC                 1-1  Difaâ d'el Jadida

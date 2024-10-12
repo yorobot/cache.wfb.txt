@@ -1,0 +1,448 @@
+= IT 1 1933/34
+
+# Date       Sun Sep/10 1933 - Tue May/15 1934 (247d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sun Sep/10]
+         Bologna FC               4-1  US Alessandria 1912
+         Brescia Calcio           1-0  AS Roma
+         ACF Fiorentina           1-0  AC Milan
+         Genova 1893 Circolo del Calcio  3-0  Pro Vercelli
+         Juventus                 4-1  US Livorno
+         Lazio Roma               1-0  Palermo FBC
+         Calcio Padova            1-0  Torino FC
+         US Triestina             4-1  SSC Napoli
+         Inter                    9-0  Casale
+
+
+Matchday 2
+[Sun Sep/17]
+         Palermo FBC              2-1  Bologna FC
+         Torino FC                4-1  ACF Fiorentina
+         Pro Vercelli             0-0  Inter
+         Calcio Padova            1-1  US Livorno
+         US Alessandria 1912      2-1  Juventus
+         AC Milan                 4-2  Lazio Roma
+         Casale                   1-0  Brescia Calcio
+         AS Roma                  0-0  US Triestina
+         SSC Napoli               0-0  Genova 1893 Circolo del Calcio
+
+
+Matchday 3
+[Sun Sep/24]
+         Brescia Calcio           1-0  Torino FC
+         Palermo FBC              3-2  US Livorno
+         Lazio Roma               1-1  Pro Vercelli
+         Juventus                 6-1  Casale
+         ACF Fiorentina           1-3  AS Roma
+         Bologna FC               2-1  AC Milan
+         Inter                    2-1  SSC Napoli
+         US Alessandria 1912      3-0  Calcio Padova
+         Genova 1893 Circolo del Calcio  0-1  US Triestina
+
+
+Matchday 4
+[Sun Oct/1]
+         Calcio Padova            1-2  Inter
+         AS Roma                  2-3  Juventus
+         Torino FC                1-1  US Alessandria 1912
+         Pro Vercelli             2-1  Brescia Calcio
+         AC Milan                 3-1  US Livorno
+         Casale                   2-1  Genova 1893 Circolo del Calcio
+         ACF Fiorentina           4-1  Palermo FBC
+         US Triestina             1-1  Bologna FC
+         SSC Napoli               2-1  Lazio Roma
+
+
+Matchday 5
+[Sun Oct/8]
+         Casale                   0-2  AS Roma
+         Pro Vercelli             1-1  US Triestina
+         US Livorno               3-0  ACF Fiorentina
+         Lazio Roma               3-2  Calcio Padova
+         Genova 1893 Circolo del Calcio  2-2  AC Milan
+         Brescia Calcio           1-1  Palermo FBC
+         Bologna FC               3-0  SSC Napoli
+         Inter                    4-1  US Alessandria 1912
+         Juventus                 4-0  Torino FC
+
+
+Matchday 6
+[Sun Oct/15]
+         SSC Napoli               0-0  US Livorno
+         Torino FC                1-1  Lazio Roma
+         AS Roma                  2-0  Pro Vercelli
+         US Triestina             0-0  Inter
+         AC Milan                 4-0  Brescia Calcio
+         ACF Fiorentina           3-0  Bologna FC
+         US Alessandria 1912      3-1  Genova 1893 Circolo del Calcio
+         Palermo FBC              0-1  Juventus
+         Calcio Padova            2-0  Casale
+
+
+Matchday 7
+[Sun Oct/29]
+         Juventus                 1-1  US Triestina
+         Pro Vercelli             7-2  ACF Fiorentina
+         Palermo FBC              2-1  US Alessandria 1912
+         AC Milan                 2-2  Calcio Padova
+         Lazio Roma               3-2  Genova 1893 Circolo del Calcio
+         Casale                   3-2  Torino FC
+         Brescia Calcio           1-1  SSC Napoli
+         Bologna FC               1-0  AS Roma
+         US Livorno               2-2  Inter
+
+
+Matchday 8
+[Wed Nov/1]
+         Calcio Padova            1-1  Pro Vercelli
+         Inter                    3-0  AC Milan
+         US Triestina             1-0  Palermo FBC
+         Torino FC                5-0  US Livorno
+         AS Roma                  5-0  Lazio Roma
+         US Alessandria 1912      4-1  Casale
+         ACF Fiorentina           2-0  Brescia Calcio
+         Genova 1893 Circolo del Calcio  1-0  Bologna FC
+         SSC Napoli               2-0  Juventus
+
+
+Matchday 9
+[Sun Nov/5]
+         Juventus                 5-0  ACF Fiorentina
+         Pro Vercelli             1-0  Torino FC
+         SSC Napoli               3-0  Palermo FBC
+         AC Milan                 1-0  AS Roma
+         Lazio Roma               1-4  Inter
+         Casale                   1-1  US Triestina
+         Brescia Calcio           2-1  US Alessandria 1912
+         Bologna FC               3-0  Calcio Padova
+         US Livorno               0-0  Genova 1893 Circolo del Calcio
+
+
+Matchday 10
+[Sun Nov/12]
+         AS Roma                  0-0  US Livorno
+         Genova 1893 Circolo del Calcio  3-1  Brescia Calcio
+         US Triestina             2-2  AC Milan
+         Torino FC                0-1  Bologna FC
+         US Alessandria 1912      0-1  Pro Vercelli
+         ACF Fiorentina           2-0  Lazio Roma
+         Inter                    3-2  Juventus
+         Palermo FBC              3-0  Casale
+         Calcio Padova            3-1  SSC Napoli
+
+
+Matchday 11
+[Sun Nov/19]
+         Juventus                 8-1  Genova 1893 Circolo del Calcio
+         SSC Napoli               1-2  AS Roma
+         AC Milan                 4-0  Torino FC
+         Lazio Roma               1-0  US Alessandria 1912
+         Casale                   2-2  ACF Fiorentina
+         Brescia Calcio           1-0  Calcio Padova
+         Bologna FC               0-1  Inter
+         Palermo FBC              2-1  Pro Vercelli
+         US Livorno               2-1  US Triestina
+
+
+Matchday 12
+[Sun Nov/26]
+         Lazio Roma               3-0  US Livorno
+         Pro Vercelli             0-0  SSC Napoli
+         US Triestina             1-1  Torino FC
+         Calcio Padova            3-1  Palermo FBC
+         Genova 1893 Circolo del Calcio  1-0  AS Roma
+         Bologna FC               2-0  Casale
+         US Alessandria 1912      1-1  AC Milan
+         Inter                    2-4  ACF Fiorentina
+         Juventus                 5-1  Brescia Calcio
+
+
+Matchday 13
+[Sun Dec/10]
+         US Livorno               1-1  Pro Vercelli
+         Torino FC                2-1  Palermo FBC
+         AS Roma                  0-1  Inter
+         AC Milan                 3-1  Juventus
+         US Triestina             2-1  Calcio Padova
+         ACF Fiorentina           2-1  Genova 1893 Circolo del Calcio
+         Casale                   1-1  Lazio Roma
+         Brescia Calcio           1-2  Bologna FC
+         SSC Napoli               2-1  US Alessandria 1912
+
+
+Matchday 14
+[Sun Dec/17]
+         Calcio Padova            1-0  AS Roma
+         Pro Vercelli             4-1  Casale
+         Torino FC                0-0  SSC Napoli
+         Palermo FBC              2-1  AC Milan
+         US Livorno               0-0  Brescia Calcio
+         Lazio Roma               2-0  US Triestina
+         Bologna FC               2-2  Juventus
+         US Alessandria 1912      3-1  ACF Fiorentina
+         Inter                    5-0  Genova 1893 Circolo del Calcio
+
+
+Matchday 15
+[Sun Dec/24]
+         Casale                   4-4  US Livorno
+         SSC Napoli               1-0  AC Milan
+         US Triestina             0-1  Brescia Calcio
+         AS Roma                  5-1  US Alessandria 1912
+         Pro Vercelli             2-0  Bologna FC
+         Inter                    0-0  Torino FC
+         ACF Fiorentina           3-0  Calcio Padova
+         Genova 1893 Circolo del Calcio  1-1  Palermo FBC
+         Juventus                 2-2  Lazio Roma
+
+
+Matchday 16
+[Sun Dec/31]
+         AC Milan                 2-0  Pro Vercelli
+         US Triestina             2-3  ACF Fiorentina
+         Torino FC                3-1  Genova 1893 Circolo del Calcio
+         Palermo FBC              0-0  AS Roma
+         SSC Napoli               2-1  Casale
+         US Livorno               3-2  US Alessandria 1912
+         Lazio Roma               3-3  Bologna FC
+         Brescia Calcio           1-1  Inter
+         Calcio Padova            1-2  Juventus
+
+
+Matchday 17
+[Sun Jan/7]
+         AC Milan                 6-1  Casale
+         ACF Fiorentina           0-1  SSC Napoli
+         AS Roma                  4-0  Torino FC
+         Palermo FBC              1-1  Inter
+         US Alessandria 1912      1-0  US Triestina
+         Brescia Calcio           0-0  Lazio Roma
+         Bologna FC               1-0  US Livorno
+         Juventus                 3-0  Pro Vercelli
+         Genova 1893 Circolo del Calcio  1-0  Calcio Padova
+
+
+Matchday 18
+[Sun Jan/14]
+         AC Milan                 2-0  ACF Fiorentina
+         AS Roma                  2-1  Brescia Calcio
+         Pro Vercelli             2-0  Genova 1893 Circolo del Calcio
+         SSC Napoli               2-0  US Triestina
+         US Livorno               0-0  Juventus
+         Casale                   0-1  Inter
+         US Alessandria 1912      2-2  Bologna FC
+         Torino FC                4-2  Calcio Padova
+         Palermo FBC              1-0  Lazio Roma
+
+
+Matchday 19
+[Sun Jan/21]
+         US Triestina             1-1  AS Roma
+         US Livorno               3-1  Calcio Padova
+         Juventus                 3-1  US Alessandria 1912
+         Lazio Roma               4-0  AC Milan
+         ACF Fiorentina           1-1  Torino FC
+         Brescia Calcio           3-1  Casale
+         Inter                    2-0  Pro Vercelli
+         Bologna FC               4-1  Palermo FBC
+         Genova 1893 Circolo del Calcio  1-1  SSC Napoli
+
+
+Matchday 20
+[Sun Jan/28]
+         Torino FC                1-0  Brescia Calcio
+         US Triestina             1-0  Genova 1893 Circolo del Calcio
+         AS Roma                  2-1  ACF Fiorentina
+         Pro Vercelli             2-0  Lazio Roma
+         SSC Napoli               2-1  Inter
+         AC Milan                 1-1  Bologna FC
+         US Livorno               3-1  Palermo FBC
+         Casale                   0-3  Juventus
+         Calcio Padova            1-0  US Alessandria 1912
+
+
+Matchday 21
+[Sun Feb/4]
+         Brescia Calcio           1-0  Pro Vercelli
+         Palermo FBC              0-0  ACF Fiorentina
+         US Livorno               4-0  AC Milan
+         Lazio Roma               0-2  SSC Napoli
+         US Alessandria 1912      3-1  Torino FC
+         Genova 1893 Circolo del Calcio  5-0  Casale
+         Bologna FC               2-0  US Triestina
+         Inter                    1-0  Calcio Padova
+         Juventus                 3-1  AS Roma
+
+
+Matchday 22
+[Sun Feb/18]
+         SSC Napoli               1-0  Bologna FC
+         Torino FC                1-2  Juventus
+         AS Roma                  1-0  Casale
+         US Triestina             2-1  Pro Vercelli
+         AC Milan                 1-0  Genova 1893 Circolo del Calcio
+         ACF Fiorentina           1-0  US Livorno
+         US Alessandria 1912      0-2  Inter
+         Palermo FBC              2-2  Brescia Calcio
+         Calcio Padova            2-0  Lazio Roma
+
+
+Matchday 23
+[Sun Feb/25]
+         US Livorno               0-1  SSC Napoli
+         Pro Vercelli             1-2  AS Roma
+         Lazio Roma               1-0  Torino FC
+         Juventus                 1-1  Palermo FBC
+         Casale                   0-0  Calcio Padova
+         Brescia Calcio           3-0  AC Milan
+         Inter                    2-1  US Triestina
+         Bologna FC               0-0  ACF Fiorentina
+         Genova 1893 Circolo del Calcio  1-0  US Alessandria 1912
+
+
+Matchday 24
+[Sun Mar/4]
+         Genova 1893 Circolo del Calcio  1-2  Lazio Roma
+         US Triestina             0-1  Juventus
+         Torino FC                5-2  Casale
+         AS Roma                  0-1  Bologna FC
+         US Alessandria 1912      2-1  Palermo FBC
+         SSC Napoli               1-0  Brescia Calcio
+         ACF Fiorentina           1-1  Pro Vercelli
+         Inter                    1-2  US Livorno
+         Calcio Padova            0-0  AC Milan
+
+
+Matchday 25
+[Sun Mar/11]
+         US Livorno               2-0  Torino FC
+         Pro Vercelli             4-0  Calcio Padova
+         Palermo FBC              2-1  US Triestina
+         AC Milan                 1-2  Inter
+         Juventus                 2-0  SSC Napoli
+         Casale                   2-1  US Alessandria 1912
+         Brescia Calcio           4-0  ACF Fiorentina
+         Bologna FC               3-0  Genova 1893 Circolo del Calcio
+         Lazio Roma               3-3  AS Roma
+
+
+Matchday 26
+[Sun Mar/18]
+         Genova 1893 Circolo del Calcio  2-0  US Livorno
+         US Alessandria 1912      1-0  Brescia Calcio
+         US Triestina             2-0  Casale
+         Torino FC                0-0  Pro Vercelli
+         AS Roma                  1-1  AC Milan
+         Calcio Padova            0-0  Bologna FC
+         ACF Fiorentina           2-2  Juventus
+         Inter                    8-1  Lazio Roma
+         Palermo FBC              1-2  SSC Napoli
+
+
+Matchday 27
+[Sun Mar/25]
+         Juventus                 0-0  Inter
+         SSC Napoli               1-1  Calcio Padova
+         AC Milan                 0-1  US Triestina
+         Pro Vercelli             1-0  US Alessandria 1912
+         Casale                   2-2  Palermo FBC
+         Brescia Calcio           3-1  Genova 1893 Circolo del Calcio
+         Bologna FC               2-2  Torino FC
+         US Livorno               1-3  AS Roma
+         Lazio Roma               2-2  ACF Fiorentina
+
+
+Matchday 28
+[Sun Apr/1]
+         Genova 1893 Circolo del Calcio  0-2  Juventus
+         US Triestina             0-1  US Livorno
+         Torino FC                3-3  AC Milan
+         AS Roma                  1-2  SSC Napoli
+         Calcio Padova            2-1  Brescia Calcio
+         ACF Fiorentina           2-2  Casale
+         Inter                    2-0  Bologna FC
+         US Alessandria 1912      3-2  Lazio Roma
+         Pro Vercelli             3-0  Palermo FBC
+
+
+Matchday 29
+[Sun Apr/8]
+         US Livorno               4-1  Lazio Roma
+         Palermo FBC              2-1  Calcio Padova
+         Torino FC                2-1  US Triestina
+         AS Roma                  3-0  Genova 1893 Circolo del Calcio
+         Brescia Calcio           1-2  Juventus
+         SSC Napoli               1-0  Pro Vercelli
+         ACF Fiorentina           1-0  Inter
+         Casale                   0-3  Bologna FC
+         AC Milan                 3-0  US Alessandria 1912
+
+
+Matchday 30
+[Thu Apr/12]
+         Palermo FBC              0-0  Torino FC
+         Pro Vercelli             0-0  US Livorno
+         Calcio Padova            2-0  US Triestina
+         Lazio Roma               2-1  Casale
+         Genova 1893 Circolo del Calcio  1-2  ACF Fiorentina
+         Bologna FC               4-1  Brescia Calcio
+         US Alessandria 1912      1-0  SSC Napoli
+         Inter                    0-0  AS Roma
+         Juventus                 4-0  AC Milan
+
+
+Matchday 32
+[Sun Apr/22]
+         AC Milan                 0-2  SSC Napoli
+         Bologna FC               4-1  Pro Vercelli
+         US Alessandria 1912      1-1  AS Roma
+         Brescia Calcio           3-2  US Triestina
+         Lazio Roma               0-2  Juventus
+         Calcio Padova            0-0  ACF Fiorentina
+         Torino FC                1-0  Inter
+         Palermo FBC              2-0  Genova 1893 Circolo del Calcio
+         US Livorno               5-0  Casale
+
+
+Matchday 33
+[Thu Apr/26]
+         Casale                   1-4  SSC Napoli
+         AS Roma                  2-1  Palermo FBC
+         Pro Vercelli             2-1  AC Milan
+         Juventus                 5-1  Calcio Padova
+         US Alessandria 1912      2-1  US Livorno
+         ACF Fiorentina           1-1  US Triestina
+         Bologna FC               0-0  Lazio Roma
+         Inter                    1-0  Brescia Calcio
+         Genova 1893 Circolo del Calcio  2-2  Torino FC
+
+
+Matchday 34
+[Sun Apr/29]
+         Lazio Roma               3-2  Brescia Calcio
+         Torino FC                3-1  AS Roma
+         Pro Vercelli             0-2  Juventus
+         US Triestina             3-0  US Alessandria 1912
+         US Livorno               0-0  Bologna FC
+         Calcio Padova            0-0  Genova 1893 Circolo del Calcio
+         Casale                   0-0  AC Milan
+         Inter                    3-1  Palermo FBC
+         SSC Napoli               1-1  ACF Fiorentina
+
+
+Matchday 31
+[Tue May/15]
+         AC Milan                 1-0  Palermo FBC
+         Casale                   1-1  Pro Vercelli
+         ACF Fiorentina           0-0  US Alessandria 1912
+         Juventus                 4-2  Bologna FC
+         SSC Napoli               5-2  Torino FC
+         AS Roma                  2-0  Calcio Padova
+         US Triestina             4-2  Lazio Roma
+         Genova 1893 Circolo del Calcio  0-0  Inter
+         Brescia Calcio           1-1  US Livorno

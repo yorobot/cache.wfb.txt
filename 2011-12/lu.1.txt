@@ -1,0 +1,320 @@
+= LU 1 2011/12
+
+# Date       Fri Aug/5 2011 - Sun May/13 2012 (282d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Fri Aug/5]
+  19.30  US Hostert               0-2  Progrès Niedercorn
+[Sat Aug/6]
+  18.00  RM Hamm Benfica          2-3  UN Käerjéng
+  18.30  F91 Dudelange            0-1  RFCU Luxemburg
+  19.00  Union 05 Kayl-Tétange    1-0  US Rumelange
+         Jeunesse Esch            2-0  CS Pétange
+         CS Grevenmacher          2-1  CS FOLA Esch
+[Wed Sep/14]
+  19.30  FC Differdange 03        6-1  Swift Hesperange
+
+
+Matchday 2
+[Sat Aug/13]
+  19.00  Progrès Niedercorn       0-1  CS Grevenmacher
+[Sun Aug/14]
+  16.00  Union 05 Kayl-Tétange    5-0  US Hostert
+         CS FOLA Esch             1-1  F91 Dudelange
+         RFCU Luxemburg           3-0  RM Hamm Benfica
+         UN Käerjéng              3-0  Jeunesse Esch
+  18.00  Swift Hesperange         3-0  US Rumelange
+  19.00  CS Pétange               0-0  FC Differdange 03
+
+
+Matchday 3
+[Fri Aug/19]
+  19.30  Jeunesse Esch            2-2  RFCU Luxemburg
+         CS Grevenmacher          4-0  US Hostert
+[Sat Aug/20]
+  18.00  US Rumelange             3-0  CS Pétange
+         F91 Dudelange            5-0  Progrès Niedercorn
+  19.00  Swift Hesperange         1-1  Union 05 Kayl-Tétange
+         RM Hamm Benfica          2-0  CS FOLA Esch
+[Sun Aug/21]
+  18.00  FC Differdange 03        5-0  UN Käerjéng
+
+
+Matchday 4
+[Wed Aug/24]
+  20.00  Union 05 Kayl-Tétange    3-3  CS Grevenmacher
+         US Hostert               1-9  F91 Dudelange
+         Progrès Niedercorn       0-2  RM Hamm Benfica
+         CS FOLA Esch             1-3  Jeunesse Esch
+         UN Käerjéng              2-1  US Rumelange
+         CS Pétange               0-3  Swift Hesperange
+[Wed Sep/28]
+  19.30  RFCU Luxemburg           1-0  FC Differdange 03
+
+
+Matchday 5
+[Sat Sep/10]
+  18.30  US Rumelange             0-3  RFCU Luxemburg
+  19.00  RM Hamm Benfica          3-1  US Hostert
+[Sun Sep/11]
+  16.00  CS Pétange               2-0  Union 05 Kayl-Tétange
+         Swift Hesperange         3-3  UN Käerjéng
+         FC Differdange 03        2-2  CS FOLA Esch
+         Jeunesse Esch            2-1  Progrès Niedercorn
+         F91 Dudelange            1-1  CS Grevenmacher
+
+
+Matchday 6
+[Sat Sep/17]
+  18.30  UN Käerjéng              3-2  CS Pétange
+  19.00  Union 05 Kayl-Tétange    1-3  F91 Dudelange
+[Sun Sep/18]
+  16.00  CS Grevenmacher          2-2  RM Hamm Benfica
+         US Hostert               1-6  Jeunesse Esch
+         Progrès Niedercorn       1-0  FC Differdange 03
+         CS FOLA Esch             0-0  US Rumelange
+         RFCU Luxemburg           1-3  Swift Hesperange
+
+
+Matchday 7
+[Sat Sep/24]
+  18.30  CS Pétange               1-1  RFCU Luxemburg
+[Sun Sep/25]
+  16.00  Swift Hesperange         1-2  CS FOLA Esch
+         US Rumelange             2-1  Progrès Niedercorn
+         FC Differdange 03        3-0  US Hostert
+         RM Hamm Benfica          1-4  F91 Dudelange
+  18.00  UN Käerjéng              1-2  Union 05 Kayl-Tétange
+  19.00  Jeunesse Esch            1-2  CS Grevenmacher
+
+
+Matchday 8
+[Fri Sep/30]
+  20.00  US Hostert               1-0  US Rumelange
+[Sat Oct/1]
+  18.30  F91 Dudelange            3-3  Jeunesse Esch
+         CS Grevenmacher          2-1  FC Differdange 03
+  19.00  CS FOLA Esch             0-1  CS Pétange
+[Sun Oct/2]
+  16.00  Union 05 Kayl-Tétange    3-2  RM Hamm Benfica
+         Progrès Niedercorn       1-0  Swift Hesperange
+         RFCU Luxemburg           1-2  UN Käerjéng
+
+
+Matchday 9
+[Sat Oct/15]
+  19.00  CS Pétange               0-1  Progrès Niedercorn
+  19.30  RFCU Luxemburg           3-3  Union 05 Kayl-Tétange
+[Sun Oct/16]
+  16.00  US Rumelange             0-5  CS Grevenmacher
+         FC Differdange 03        3-1  F91 Dudelange
+         Jeunesse Esch            2-3  RM Hamm Benfica
+  17.00  Swift Hesperange         1-3  US Hostert
+  18.00  UN Käerjéng              2-3  CS FOLA Esch
+
+
+Matchday 10
+[Sat Oct/22]
+  19.00  RM Hamm Benfica          1-2  FC Differdange 03
+         CS FOLA Esch             0-0  RFCU Luxemburg
+[Sun Oct/23]
+  16.00  Union 05 Kayl-Tétange    1-3  Jeunesse Esch
+         F91 Dudelange            2-0  US Rumelange
+         CS Grevenmacher          2-0  Swift Hesperange
+         US Hostert               0-1  CS Pétange
+         Progrès Niedercorn       0-0  UN Käerjéng
+
+
+Matchday 11
+[Fri Oct/28]
+  19.30  CS Grevenmacher          2-2  CS Pétange
+  20.00  UN Käerjéng              3-0  US Hostert
+[Sat Oct/29]
+  19.00  CS FOLA Esch             4-1  Union 05 Kayl-Tétange
+[Sun Oct/30]
+  16.00  RFCU Luxemburg           3-3  Progrès Niedercorn
+         Swift Hesperange         0-3  F91 Dudelange
+         FC Differdange 03        1-1  Jeunesse Esch
+  18.00  US Rumelange             1-3  RM Hamm Benfica
+
+
+Matchday 12
+[Sat Nov/5]
+  18.00  RM Hamm Benfica          8-2  Swift Hesperange
+[Sun Nov/6]
+  16.00  Union 05 Kayl-Tétange    2-6  FC Differdange 03
+         Jeunesse Esch            1-0  US Rumelange
+         F91 Dudelange            10-0  CS Pétange
+         CS Grevenmacher          2-0  UN Käerjéng
+         US Hostert               2-2  RFCU Luxemburg
+         Progrès Niedercorn       0-1  CS FOLA Esch
+
+
+Matchday 13
+[Sat Nov/19]
+  17.00  CS FOLA Esch             3-1  US Hostert
+[Sun Nov/20]
+  16.00  Progrès Niedercorn       2-0  Union 05 Kayl-Tétange
+         RFCU Luxemburg           1-1  CS Grevenmacher
+         UN Käerjéng              0-0  F91 Dudelange
+         CS Pétange               2-0  RM Hamm Benfica
+         US Rumelange             0-7  FC Differdange 03
+  17.00  Swift Hesperange         1-1  Jeunesse Esch
+
+
+Matchday 14
+[Sat Feb/25]
+  17.00  FC Differdange 03        2-1  CS Pétange
+  18.00  CS Grevenmacher          1-2  Progrès Niedercorn
+         F91 Dudelange            1-0  CS FOLA Esch
+         RM Hamm Benfica          4-0  RFCU Luxemburg
+         Jeunesse Esch            0-0  UN Käerjéng
+[Sun Feb/26]
+  16.00  US Rumelange             3-3  Swift Hesperange
+         US Hostert               0-3  Union 05 Kayl-Tétange
+
+
+Matchday 15
+[Sat Mar/3]
+  16.00  US Hostert               0-6  CS Grevenmacher
+  18.30  Union 05 Kayl-Tétange    2-0  Swift Hesperange
+[Sun Mar/4]
+  16.00  CS Pétange               0-0  US Rumelange
+         UN Käerjéng              1-1  FC Differdange 03
+         Progrès Niedercorn       1-2  F91 Dudelange
+         RFCU Luxemburg           1-3  Jeunesse Esch
+         CS FOLA Esch             2-0  RM Hamm Benfica
+
+
+Matchday 16
+[Sat Mar/10]
+  18.00  RM Hamm Benfica          2-0  Progrès Niedercorn
+[Sun Mar/11]
+  16.00  Swift Hesperange         3-1  CS Pétange
+         CS Grevenmacher          0-2  Union 05 Kayl-Tétange
+         F91 Dudelange            3-0  US Hostert
+         FC Differdange 03        2-2  RFCU Luxemburg
+         US Rumelange             2-0  UN Käerjéng
+  18.30  Jeunesse Esch            2-0  CS FOLA Esch
+
+
+Matchday 17
+[Sat Mar/17]
+  18.00  RFCU Luxemburg           3-1  US Rumelange
+         CS FOLA Esch             1-1  FC Differdange 03
+         CS Grevenmacher          0-2  F91 Dudelange
+         UN Käerjéng              1-0  Swift Hesperange
+         Progrès Niedercorn       1-1  Jeunesse Esch
+         US Hostert               1-2  RM Hamm Benfica
+  18.30  Union 05 Kayl-Tétange    1-2  CS Pétange
+
+
+Matchday 18
+[Wed Mar/21]
+  19.30  F91 Dudelange            2-0  Union 05 Kayl-Tétange
+         FC Differdange 03        2-3  Progrès Niedercorn
+         US Rumelange             1-1  CS FOLA Esch
+         RM Hamm Benfica          1-3  CS Grevenmacher
+         Swift Hesperange         1-0  RFCU Luxemburg
+         CS Pétange               0-2  UN Käerjéng
+  20.00  Jeunesse Esch            3-2  US Hostert
+
+
+Matchday 19
+[Sun Mar/25]
+  16.00  Union 05 Kayl-Tétange    0-0  UN Käerjéng
+         Progrès Niedercorn       4-2  US Rumelange
+         US Hostert               0-2  FC Differdange 03
+         RFCU Luxemburg           0-0  CS Pétange
+         CS FOLA Esch             4-1  Swift Hesperange
+         CS Grevenmacher          1-2  Jeunesse Esch
+         F91 Dudelange            1-0  RM Hamm Benfica
+
+
+Matchday 20
+[Fri Mar/30]
+  19.30  Swift Hesperange         1-0  Progrès Niedercorn
+[Sun Apr/1]
+  16.00  RM Hamm Benfica          1-0  Union 05 Kayl-Tétange
+         FC Differdange 03        0-0  CS Grevenmacher
+         US Rumelange             3-2  US Hostert
+         UN Käerjéng              3-2  RFCU Luxemburg
+  18.30  CS Pétange               2-1  CS FOLA Esch
+  19.00  Jeunesse Esch            2-1  F91 Dudelange
+
+
+Matchday 21
+[Thu Apr/5]
+  20.00  CS Grevenmacher          2-1  US Rumelange
+[Fri Apr/6]
+  19.30  CS FOLA Esch             4-0  UN Käerjéng
+         Progrès Niedercorn       1-2  CS Pétange
+         US Hostert               1-2  Swift Hesperange
+         RM Hamm Benfica          2-4  Jeunesse Esch
+  20.00  Union 05 Kayl-Tétange    2-0  RFCU Luxemburg
+[Sat Apr/7]
+  16.00  F91 Dudelange            1-1  FC Differdange 03
+
+
+Matchday 22
+[Sat Apr/14]
+  18.00  CS Pétange               3-0  US Hostert
+[Sun Apr/15]
+  16.00  FC Differdange 03        2-2  RM Hamm Benfica
+         US Rumelange             0-6  F91 Dudelange
+         UN Käerjéng              0-0  Progrès Niedercorn
+         RFCU Luxemburg           2-2  CS FOLA Esch
+         Jeunesse Esch            4-3  Union 05 Kayl-Tétange
+         Swift Hesperange         1-1  CS Grevenmacher
+
+
+Matchday 23
+[Fri Apr/20]
+  20.00  RM Hamm Benfica          9-1  US Rumelange
+[Sat Apr/21]
+  18.00  US Hostert               0-2  UN Käerjéng
+  19.00  Union 05 Kayl-Tétange    0-3  CS FOLA Esch
+[Sun Apr/22]
+  16.00  CS Pétange               0-2  CS Grevenmacher
+         F91 Dudelange            2-1  Swift Hesperange
+  18.30  Progrès Niedercorn       1-2  RFCU Luxemburg
+  19.00  Jeunesse Esch            1-2  FC Differdange 03
+
+
+Matchday 24
+[Sat Apr/28]
+  16.00  CS FOLA Esch             1-1  Progrès Niedercorn
+  18.00  UN Käerjéng              2-1  CS Grevenmacher
+         RFCU Luxemburg           3-3  US Hostert
+[Sun Apr/29]
+  16.00  Swift Hesperange         1-2  RM Hamm Benfica
+         CS Pétange               0-0  F91 Dudelange
+         FC Differdange 03        4-1  Union 05 Kayl-Tétange
+         US Rumelange             1-5  Jeunesse Esch
+
+
+Matchday 25
+[Sat May/5]
+  19.00  Jeunesse Esch            2-1  Swift Hesperange
+[Sun May/6]
+  16.00  CS Grevenmacher          2-1  RFCU Luxemburg
+         F91 Dudelange            4-1  UN Käerjéng
+         FC Differdange 03        6-1  US Rumelange
+         Union 05 Kayl-Tétange    1-1  Progrès Niedercorn
+         US Hostert               1-3  CS FOLA Esch
+         RM Hamm Benfica          0-4  CS Pétange
+
+
+Matchday 26
+[Sun May/13]
+  16.00  CS Pétange               3-0  Jeunesse Esch
+         RFCU Luxemburg           2-0  F91 Dudelange
+         CS FOLA Esch             1-2  CS Grevenmacher
+         US Rumelange             4-1  Union 05 Kayl-Tétange
+         Swift Hesperange         0-3  FC Differdange 03
+         UN Käerjéng              3-0  RM Hamm Benfica
+         Progrès Niedercorn       5-2  US Hostert

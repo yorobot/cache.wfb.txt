@@ -1,0 +1,395 @@
+= DK 1 2011/12
+
+# Date       Sat Jul/16 2011 - Wed May/23 2012 (312d)
+# Teams      12
+# Matches    198
+
+
+
+Matchday 1
+[Sat Jul/16]
+  17.00  Odense BK                2-0 (1-0)  FC Nordsjælland
+[Sun Jul/17]
+  14.00  FC Midtjylland           1-2 (1-1)  Silkeborg IF
+  16.00  AC Horsens               3-0 (1-0)  HB Køge
+         SønderjyskE              0-2 (0-1)  FC København
+  18.00  Brøndby IF               2-2 (1-0)  Aalborg BK
+[Mon Jul/18]
+  19.00  Aarhus GF                2-1 (1-0)  Lyngby BK
+
+
+Matchday 2
+[Sat Jul/23]
+  17.00  Silkeborg IF             0-1 (0-0)  Brøndby IF
+  19.00  FC København             2-2 (2-1)  Odense BK
+[Sun Jul/24]
+  14.00  FC Nordsjælland          1-1 (1-0)  AC Horsens
+  16.00  Lyngby BK                0-1 (0-0)  SønderjyskE
+         Aalborg BK               2-1 (0-0)  Aarhus GF
+[Mon Jul/25]
+  19.00  HB Køge                  2-3 (0-0)  FC Midtjylland
+
+
+Matchday 3
+[Sat Jul/30]
+  17.00  Aarhus GF                2-2 (0-1)  Odense BK
+  19.00  FC København             2-0 (1-0)  FC Nordsjælland
+[Sun Jul/31]
+  14.00  Silkeborg IF             1-1 (1-0)  SønderjyskE
+  16.00  Lyngby BK                3-1 (2-1)  HB Køge
+  18.00  Brøndby IF               1-4 (1-1)  AC Horsens
+[Mon Aug/1]
+  19.00  Aalborg BK               1-0 (1-0)  FC Midtjylland
+
+
+Matchday 4
+[Sat Aug/6]
+  17.00  SønderjyskE              3-1 (1-1)  Aarhus GF
+  19.05  AC Horsens               3-3 (2-2)  Aalborg BK
+[Sun Aug/7]
+  14.00  FC Midtjylland           2-1 (2-0)  Lyngby BK
+  16.00  HB Køge                  2-4 (0-1)  FC København
+         FC Nordsjælland          2-1 (0-1)  Silkeborg IF
+  18.00  Odense BK                2-1 (1-1)  Brøndby IF
+
+
+Matchday 5
+[Sat Aug/13]
+  17.00  Aalborg BK               2-1 (0-0)  Odense BK
+  19.00  FC København             2-0 (0-0)  FC Midtjylland
+[Sun Aug/14]
+  14.00  Lyngby BK                1-1 (0-1)  AC Horsens
+  16.00  Brøndby IF               2-2 (2-1)  SønderjyskE
+  18.00  FC Nordsjælland          2-0 (0-0)  HB Køge
+[Mon Aug/15]
+  19.00  Silkeborg IF             1-1 (1-1)  Aarhus GF
+
+
+Matchday 6
+[Sat Aug/20]
+  17.00  Odense BK                3-1 (3-0)  Lyngby BK
+  19.00  AC Horsens               0-1 (0-1)  FC København
+[Sun Aug/21]
+  14.00  FC Midtjylland           2-1 (2-0)  FC Nordsjælland
+  16.00  HB Køge                  3-0 (3-0)  Silkeborg IF
+  18.00  Aarhus GF                0-0  Brøndby IF
+[Mon Aug/22]
+  19.00  SønderjyskE              0-0  Aalborg BK
+
+
+Matchday 7
+[Sat Aug/27]
+  17.00  HB Køge                  1-4 (0-2)  Aalborg BK
+[Sun Aug/28]
+  14.00  Odense BK                2-4 (1-0)  SønderjyskE
+  16.00  FC Nordsjælland          4-0 (1-0)  Lyngby BK
+         FC København             2-1 (2-0)  Silkeborg IF
+  18.00  FC Midtjylland           2-1 (0-0)  Brøndby IF
+[Mon Aug/29]
+  19.00  AC Horsens               0-3 (0-1)  Aarhus GF
+
+
+Matchday 8
+[Sat Sep/10]
+  15.00  Lyngby BK                0-1 (0-1)  FC København
+  17.00  Silkeborg IF             1-3 (1-0)  Odense BK
+[Sun Sep/11]
+  14.00  Aalborg BK               1-2 (0-0)  FC Nordsjælland
+  16.00  SønderjyskE              1-3 (1-2)  AC Horsens
+  18.00  Brøndby IF               5-0 (2-0)  HB Køge
+[Mon Sep/12]
+  19.00  Aarhus GF                4-2 (1-1)  FC Midtjylland
+
+
+Matchday 9
+[Sat Sep/17]
+  17.00  HB Køge                  0-2 (0-2)  Aarhus GF
+[Sun Sep/18]
+  14.00  FC Midtjylland           2-0 (0-0)  SønderjyskE
+  16.00  Lyngby BK                0-2 (0-0)  Silkeborg IF
+         FC Nordsjælland          2-0 (0-0)  Brøndby IF
+  18.00  FC København             2-0 (0-0)  Aalborg BK
+[Mon Sep/19]
+  19.00  AC Horsens               4-3 (1-1)  Odense BK
+
+
+Matchday 10
+[Sat Sep/24]
+  15.00  Brøndby IF               1-2 (1-0)  FC København
+  17.30  Aarhus GF                1-0 (1-0)  FC Nordsjælland
+[Sun Sep/25]
+  14.00  Silkeborg IF             1-1 (1-0)  AC Horsens
+  16.00  SønderjyskE              0-0  HB Køge
+         Odense BK                1-4 (0-3)  FC Midtjylland
+[Mon Sep/26]
+  19.00  Aalborg BK               1-2 (1-1)  Lyngby BK
+
+
+Matchday 11
+[Sat Oct/1]
+  17.00  Silkeborg IF             1-1 (1-1)  Aalborg BK
+[Sun Oct/2]
+  14.00  Odense BK                2-1 (2-1)  HB Køge
+  16.00  Brøndby IF               1-0 (0-0)  Lyngby BK
+         FC Nordsjælland          1-0 (0-0)  SønderjyskE
+  18.00  FC København             1-1 (0-0)  Aarhus GF
+[Mon Oct/3]
+  19.00  FC Midtjylland           1-0 (0-0)  AC Horsens
+
+
+Matchday 12
+[Sat Oct/15]
+  17.00  FC Nordsjælland          1-0 (1-0)  Aalborg BK
+[Sun Oct/16]
+  14.00  Lyngby BK                2-3 (2-2)  Silkeborg IF
+  16.00  HB Køge                  1-3 (0-2)  SønderjyskE
+         Aarhus GF                0-0  Odense BK
+  18.00  FC Midtjylland           1-0 (0-0)  Brøndby IF
+[Mon Oct/17]
+  19.00  AC Horsens               2-0 (1-0)  FC København
+
+
+Matchday 13
+[Sat Oct/22]
+  17.00  Lyngby BK                1-1 (1-0)  Aarhus GF
+[Sun Oct/23]
+  14.00  SønderjyskE              1-4 (0-4)  AC Horsens
+  16.00  Aalborg BK               2-1 (1-1)  Odense BK
+         HB Køge                  1-1 (0-1)  FC Midtjylland
+  18.00  Silkeborg IF             2-1 (1-1)  Brøndby IF
+[Mon Oct/24]
+  19.00  FC København             1-3 (0-2)  FC Nordsjælland
+
+
+Matchday 14
+[Sat Oct/29]
+  17.00  AC Horsens               1-1 (0-1)  Silkeborg IF
+[Sun Oct/30]
+  14.00  Aarhus GF                2-0 (1-0)  HB Køge
+  16.00  FC Nordsjælland          0-1 (0-0)  Lyngby BK
+         Brøndby IF               1-1 (0-1)  Aalborg BK
+  18.00  Odense BK                1-3 (1-1)  FC København
+[Mon Oct/31]
+  19.00  FC Midtjylland           1-1 (1-1)  SønderjyskE
+
+
+Matchday 15
+[Sat Nov/5]
+  17.00  Aalborg BK               2-0 (1-0)  AC Horsens
+[Sun Nov/6]
+  14.00  Silkeborg IF             4-1 (2-0)  FC Midtjylland
+  16.00  HB Køge                  0-2 (0-1)  FC Nordsjælland
+         FC København             3-0 (0-0)  Lyngby BK
+  18.00  Odense BK                0-0  Brøndby IF
+[Mon Nov/7]
+  19.00  SønderjyskE              1-1 (0-1)  Aarhus GF
+
+
+Matchday 16
+[Sat Nov/19]
+  17.00  AC Horsens               0-1 (0-0)  Odense BK
+[Sun Nov/20]
+  13.30  Brøndby IF               2-1 (1-1)  FC København
+  16.00  Lyngby BK                2-2 (1-0)  HB Køge
+         FC Nordsjælland          2-0 (1-0)  SønderjyskE
+  18.00  FC Midtjylland           1-3 (1-1)  Aalborg BK
+[Mon Nov/21]
+  19.00  Aarhus GF                0-2 (0-2)  Silkeborg IF
+
+
+Matchday 17
+[Sat Nov/26]
+  17.00  Odense BK                2-3 (0-1)  FC Midtjylland
+[Sun Nov/27]
+  14.00  Silkeborg IF             1-2 (0-1)  FC Nordsjælland
+  16.00  SønderjyskE              3-1 (3-0)  Lyngby BK
+         FC København             2-1 (0-1)  HB Køge
+  18.00  Aalborg BK               0-2 (0-0)  Aarhus GF
+[Mon Nov/28]
+  19.00  Brøndby IF               0-1 (0-1)  AC Horsens
+
+
+Matchday 18
+[Sat Dec/3]
+  17.00  Silkeborg IF             4-2 (1-1)  Aalborg BK
+[Sun Dec/4]
+  14.00  FC Nordsjælland          0-0  FC Midtjylland
+  16.00  HB Køge                  1-1 (0-0)  Brøndby IF
+         Lyngby BK                1-2 (0-0)  AC Horsens
+  18.00  FC København             0-0  Aarhus GF
+[Mon Dec/5]
+  19.00  SønderjyskE              0-4 (0-2)  Odense BK
+
+
+Matchday 19
+[Sat Mar/3]
+  17.00  Aarhus GF                1-1 (1-1)  FC Nordsjælland
+[Sun Mar/4]
+  14.00  FC Midtjylland           1-2 (0-1)  Lyngby BK
+  16.00  Brøndby IF               1-0 (0-0)  SønderjyskE
+         AC Horsens               2-1 (0-0)  HB Køge
+  18.15  Aalborg BK               1-1 (0-0)  FC København
+[Mon Mar/5]
+  19.00  Odense BK                2-2 (1-0)  Silkeborg IF
+
+
+Matchday 20
+[Sat Mar/10]
+  17.00  Odense BK                0-1 (0-0)  FC Nordsjælland
+[Sun Mar/11]
+  14.00  Aalborg BK               1-0 (1-0)  Lyngby BK
+  16.00  Silkeborg IF             0-1 (0-0)  HB Køge
+         FC København             2-0 (1-0)  SønderjyskE
+  18.00  Brøndby IF               0-0  Aarhus GF
+[Mon Mar/12]
+  19.00  FC Midtjylland           4-1 (3-1)  AC Horsens
+
+
+Matchday 21
+[Sat Mar/17]
+  17.00  Aarhus GF                1-3 (0-1)  AC Horsens
+[Sun Mar/18]
+  14.00  Lyngby BK                1-0 (0-0)  Odense BK
+  16.00  FC Nordsjælland          1-2 (0-1)  Brøndby IF
+         SønderjyskE              2-4 (0-2)  Silkeborg IF
+  18.00  FC København             0-0  FC Midtjylland
+[Mon Mar/19]
+  19.00  HB Køge                  1-1 (1-0)  Aalborg BK
+
+
+Matchday 22
+[Sat Mar/24]
+  17.00  Aalborg BK               1-2 (0-1)  SønderjyskE
+[Sun Mar/25]
+  14.00  Odense BK                2-4 (0-1)  HB Køge
+  16.00  AC Horsens               0-2 (0-1)  FC Nordsjælland
+         Silkeborg IF             0-0  FC København
+  18.00  Brøndby IF               2-1 (2-1)  Lyngby BK
+[Mon Mar/26]
+  19.00  FC Midtjylland           0-2 (0-1)  Aarhus GF
+
+
+Matchday 23
+[Sat Mar/31]
+  17.00  AC Horsens               1-0 (1-0)  Aalborg BK
+[Sun Apr/1]
+  14.00  FC Midtjylland           2-2 (1-0)  Silkeborg IF
+  16.00  FC Nordsjælland          2-0 (2-0)  HB Køge
+         Lyngby BK                1-3 (0-1)  FC København
+  18.00  Brøndby IF               1-0 (1-0)  Odense BK
+[Mon Apr/2]
+  19.00  Aarhus GF                1-3 (0-2)  SønderjyskE
+
+
+Matchday 24
+[Wed Apr/4]
+  18.30  Aalborg BK               1-2 (1-2)  FC Midtjylland
+[Thu Apr/5]
+  14.00  SønderjyskE              1-0 (1-0)  FC Nordsjælland
+  16.00  HB Køge                  1-4 (0-1)  Lyngby BK
+         Silkeborg IF             2-1 (1-0)  Aarhus GF
+  18.00  FC København             3-1 (1-1)  Brøndby IF
+[Fri Apr/6]
+  18.00  Odense BK                0-1 (0-0)  AC Horsens
+
+
+Matchday 25
+[Sun Apr/8]
+  15.00  Aalborg BK               3-1 (1-1)  Silkeborg IF
+  17.00  FC Midtjylland           1-1 (0-0)  FC Nordsjælland
+[Mon Apr/9]
+  14.00  Odense BK                1-1 (1-0)  SønderjyskE
+  16.00  Brøndby IF               1-1 (1-1)  HB Køge
+         AC Horsens               0-0  Lyngby BK
+  18.00  Aarhus GF                0-0  FC København
+
+
+Matchday 26
+[Sat Apr/14]
+  17.00  FC Midtjylland           2-0 (2-0)  Odense BK
+[Sun Apr/15]
+  14.00  FC Nordsjælland          2-1 (1-0)  Silkeborg IF
+  16.00  Lyngby BK                0-4 (0-1)  SønderjyskE
+         HB Køge                  0-5 (0-1)  FC København
+  18.00  AC Horsens               2-0 (1-0)  Brøndby IF
+[Mon Apr/16]
+  19.00  Aarhus GF                1-1 (0-1)  Aalborg BK
+
+
+Matchday 27
+[Sat Apr/21]
+  17.00  Aalborg BK               0-2 (0-1)  FC Nordsjælland
+[Sun Apr/22]
+  14.00  Silkeborg IF             3-0 (2-0)  Lyngby BK
+  16.00  FC København             2-1 (1-0)  AC Horsens
+         SønderjyskE              2-1 (2-0)  HB Køge
+  18.00  Brøndby IF               0-2 (0-0)  FC Midtjylland
+[Mon Apr/23]
+  19.00  Odense BK                1-2 (1-2)  Aarhus GF
+
+
+Matchday 28
+[Sat Apr/28]
+  17.00  FC Nordsjælland          5-3 (2-3)  Aarhus GF
+[Sun Apr/29]
+  14.00  Lyngby BK                1-2 (0-0)  FC Midtjylland
+  16.00  HB Køge                  2-1 (0-0)  AC Horsens
+         SønderjyskE              3-3 (3-3)  Brøndby IF
+  18.00  FC København             3-0 (2-0)  Aalborg BK
+[Mon Apr/30]
+  19.00  Silkeborg IF             1-1 (1-1)  Odense BK
+
+
+Matchday 29
+[Wed May/2]
+  18.00  Aarhus GF                2-1 (1-0)  Lyngby BK
+  20.00  FC Nordsjælland          1-0 (0-0)  FC København
+[Thu May/3]
+  18.00  AC Horsens               5-0 (3-0)  SønderjyskE
+         FC Midtjylland           2-1 (1-0)  HB Køge
+  20.00  Brøndby IF               3-2 (1-1)  Silkeborg IF
+         Odense BK                1-2 (0-2)  Aalborg BK
+
+
+Matchday 30
+[Sat May/5]
+  17.00  Lyngby BK                0-2 (0-1)  FC Nordsjælland
+[Sun May/6]
+  14.00  HB Køge                  1-3 (0-1)  Aarhus GF
+  16.00  Silkeborg IF             0-1 (0-0)  AC Horsens
+         Aalborg BK               1-0 (0-0)  Brøndby IF
+  18.00  FC København             1-1 (0-0)  Odense BK
+[Mon May/7]
+  18.00  SønderjyskE              1-1 (1-0)  FC Midtjylland
+
+
+Matchday 31
+[Sat May/12]
+  14.00  AC Horsens               2-1 (2-1)  FC Midtjylland
+[Sun May/13]
+  14.00  Lyngby BK                3-2 (1-1)  Aalborg BK
+  16.00  SønderjyskE              2-2 (1-0)  FC København
+         HB Køge                  1-3 (1-1)  Silkeborg IF
+  18.00  Aarhus GF                5-1 (2-0)  Brøndby IF
+[Mon May/14]
+  19.00  FC Nordsjælland          0-0  Odense BK
+
+
+Matchday 32
+[Sun May/20]
+  16.00  FC Midtjylland           1-0 (0-0)  FC København
+         Silkeborg IF             1-1 (1-0)  SønderjyskE
+         AC Horsens               3-1 (1-1)  Aarhus GF
+         Brøndby IF               0-1 (0-0)  FC Nordsjælland
+         Aalborg BK               1-0 (0-0)  HB Køge
+         Odense BK                4-0 (2-0)  Lyngby BK
+
+
+Matchday 33
+[Wed May/23]
+  20.00  FC Nordsjælland          3-0 (1-0)  AC Horsens
+         Lyngby BK                1-0 (1-0)  Brøndby IF
+         SønderjyskE              5-0 (3-0)  Aalborg BK
+         HB Køge                  1-1 (0-1)  Odense BK
+         FC København             2-1 (1-0)  Silkeborg IF
+         Aarhus GF                0-2 (0-2)  FC Midtjylland

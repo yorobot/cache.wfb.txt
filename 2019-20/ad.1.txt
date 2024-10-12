@@ -1,0 +1,222 @@
+= AD 1 2019/20
+
+# Date       Sun Sep/15 2019 - Thu Jul/23 2020 (312d)
+# Teams      8
+# Matches    96
+# Stages     Regular Season (84)  Relegation (6)  Playoff (6)
+
+
+# Regular Season
+
+Matchday 1
+[Sun Sep/15]
+  14.00  FC Santa Coloma          2-0 (0-0)  Atlétic Escaldes
+  16.00  FC Ordino                2-1 (1-1)  UE Santa Coloma
+  18.00  Inter Club d'Escaldes    2-0 (1-0)  CE Carroi
+  12.00  UE Engordany             2-5 (1-2)  UE Sant Julià
+
+
+Matchday 2
+[Sun Sep/22]
+  12.00  UE Santa Coloma          2-2 (1-1)  FC Santa Coloma
+  14.00  UE Sant Julià            0-0  Inter Club d'Escaldes
+  16.00  Atlétic Escaldes         2-0 (2-0)  UE Engordany
+  18.00  CE Carroi                1-1 (0-0)  FC Ordino
+
+
+Matchday 3
+[Sun Sep/29]
+  14.00  UE Engordany             1-1 (1-0)  UE Santa Coloma
+  16.00  FC Santa Coloma          1-0 (1-0)  CE Carroi
+  18.00  UE Sant Julià            1-0 (1-0)  Atlétic Escaldes
+  12.00  Inter Club d'Escaldes    1-0 (0-0)  FC Ordino
+
+
+Matchday 4
+[Sun Oct/6]
+  12.00  Atlétic Escaldes         1-3 (1-1)  Inter Club d'Escaldes
+  14.00  CE Carroi                0-3 (0-1)  UE Engordany
+  16.00  UE Santa Coloma          1-0 (1-0)  UE Sant Julià
+  18.00  FC Ordino                0-5 (0-3)  FC Santa Coloma
+
+
+Matchday 5
+[Sun Oct/20]
+  14.00  UE Engordany             3-1 (1-1)  FC Ordino
+  16.00  Inter Club d'Escaldes    1-0 (1-0)  FC Santa Coloma
+  18.00  Atlétic Escaldes         0-1 (0-0)  UE Santa Coloma
+  12.00  UE Sant Julià            1-0 (0-0)  CE Carroi
+
+
+Matchday 6
+[Sun Oct/27]
+  14.00  Inter Club d'Escaldes    1-1 (0-1)  UE Santa Coloma
+  16.00  FC Ordino                1-3 (0-1)  UE Sant Julià
+  18.00  FC Santa Coloma          0-1 (0-1)  UE Engordany
+  12.00  CE Carroi                0-0  Atlétic Escaldes
+
+
+Matchday 7
+[Sun Nov/3]
+  12.00  UE Santa Coloma          1-0 (0-0)  CE Carroi
+  14.00  Atlétic Escaldes         2-0 (0-0)  FC Ordino
+  16.00  UE Engordany             1-1 (0-1)  Inter Club d'Escaldes
+  18.00  UE Sant Julià            0-3 (0-2)  FC Santa Coloma
+
+
+Matchday 8
+[Sat Nov/9]
+  18.15  CE Carroi                1-2 (1-2)  Inter Club d'Escaldes
+  16.00  Atlétic Escaldes         1-2 (1-1)  FC Santa Coloma
+[Sun Nov/10]
+  18.00  UE Santa Coloma          1-0 (1-0)  FC Ordino
+  12.00  UE Sant Julià            0-3 (0-0)  UE Engordany
+
+
+Matchday 9
+[Sun Nov/24]
+  14.00  Inter Club d'Escaldes    1-0 (0-0)  UE Sant Julià
+  16.00  UE Engordany             3-1 (1-1)  Atlétic Escaldes
+  18.00  FC Ordino                2-2 (0-0)  CE Carroi
+  12.00  FC Santa Coloma          2-0 (2-0)  UE Santa Coloma
+
+
+Matchday 10
+[Sun Dec/1]
+  12.00  FC Ordino                0-5 (0-1)  Inter Club d'Escaldes
+  14.00  CE Carroi                0-3 (0-2)  FC Santa Coloma
+  16.00  Atlétic Escaldes         0-0  UE Sant Julià
+  18.00  UE Santa Coloma          0-1 (0-0)  UE Engordany
+
+
+Matchday 11
+[Sun Dec/8]
+  14.00  UE Sant Julià            3-0 (0-0)  UE Santa Coloma
+  16.00  UE Engordany             3-1 (1-1)  CE Carroi
+  18.00  Inter Club d'Escaldes    1-2 (0-0)  Atlétic Escaldes
+  12.00  FC Santa Coloma          1-0 (0-0)  FC Ordino
+
+
+Matchday 12
+[Sun Dec/15]
+  14.00  CE Carroi                0-2 (0-0)  UE Sant Julià
+  16.00  FC Santa Coloma          1-1 (0-1)  Inter Club d'Escaldes
+  18.00  FC Ordino                1-2 (0-1)  UE Engordany
+  12.00  UE Santa Coloma          1-1 (0-1)  Atlétic Escaldes
+
+
+Matchday 13
+[Sun Feb/2]
+  12.00  UE Engordany             1-1 (1-0)  FC Santa Coloma
+  14.00  Atlétic Escaldes         1-2 (0-1)  CE Carroi
+  16.00  UE Sant Julià            3-2 (1-1)  FC Ordino
+  18.00  UE Santa Coloma          0-2 (0-0)  Inter Club d'Escaldes
+
+
+Matchday 14
+[Sun Feb/9]
+  14.00  Inter Club d'Escaldes    2-0 (2-0)  UE Engordany
+  16.00  CE Carroi                0-3 (0-2)  UE Santa Coloma
+  18.00  FC Santa Coloma          0-1 (0-0)  UE Sant Julià
+  12.00  FC Ordino                1-1 (0-0)  Atlétic Escaldes
+
+
+Matchday 15
+[Sun Feb/16]
+  14.00  FC Ordino                0-2 (0-0)  UE Santa Coloma
+  16.00  FC Santa Coloma          5-0 (2-0)  Atlétic Escaldes
+  18.00  Inter Club d'Escaldes    2-0 (1-0)  CE Carroi
+  12.00  UE Engordany             0-1 (0-1)  UE Sant Julià
+
+
+Matchday 16
+[Sun Feb/23]
+  12.00  UE Sant Julià            0-1 (0-1)  Inter Club d'Escaldes
+  14.00  UE Santa Coloma          1-4 (1-3)  FC Santa Coloma
+  16.00  CE Carroi                1-2 (1-1)  FC Ordino
+
+
+Matchday 17
+[Sun Mar/1]
+  12.00  FC Santa Coloma          4-0 (1-0)  CE Carroi
+  14.00  Inter Club d'Escaldes    5-0 (2-0)  FC Ordino
+  16.00  UE Engordany             1-1 (1-0)  UE Santa Coloma
+  18.00  UE Sant Julià            0-4 (0-2)  Atlétic Escaldes
+
+
+Matchday 16
+[Wed Mar/4]
+  20.45  Atlétic Escaldes         1-1 (0-0)  UE Engordany
+
+
+Matchday 18
+[Sun Mar/8]
+  14.00  CE Carroi                1-2 (0-1)  UE Engordany
+  16.00  UE Santa Coloma          3-1 (1-1)  UE Sant Julià
+  18.00  FC Ordino                0-3 (0-2)  FC Santa Coloma
+  12.00  Atlétic Escaldes         0-1 (0-1)  Inter Club d'Escaldes
+
+
+Matchday 19
+[Sun Jul/5]
+  11.00  Atlétic Escaldes         0-2 (0-1)  UE Santa Coloma
+         UE Sant Julià            1-0 (0-0)  CE Carroi
+  16.30  UE Engordany             3-1 (2-0)  FC Ordino
+  20.30  Inter Club d'Escaldes    1-1 (0-1)  FC Santa Coloma
+
+
+Matchday 20
+[Wed Jul/8]
+  20.30  FC Ordino                1-3 (0-1)  UE Sant Julià
+         Inter Club d'Escaldes    1-3 (0-1)  UE Santa Coloma
+[Thu Jul/9]
+  20.30  FC Santa Coloma          2-0 (0-0)  UE Engordany
+         CE Carroi                1-2 (0-0)  Atlétic Escaldes
+
+
+Matchday 21
+[Sun Jul/12]
+  11.00  Atlétic Escaldes         4-0 (1-0)  FC Ordino
+  19.30  UE Sant Julià            1-1 (0-1)  FC Santa Coloma
+         UE Engordany             2-3 (1-0)  Inter Club d'Escaldes
+  11.00  UE Santa Coloma          0-1 (0-1)  CE Carroi
+
+
+== Relegation
+
+Matchday 1
+[Wed Jul/15]
+  20.30  UE Santa Coloma          2-2 (1-1)  Atlétic Escaldes
+         FC Ordino                0-2 (0-0)  CE Carroi
+
+
+Matchday 2
+[Sun Jul/19]
+  11.00  FC Ordino                0-5 (0-3)  UE Santa Coloma
+         CE Carroi                0-2 (0-0)  Atlétic Escaldes
+
+
+Matchday 3
+[Wed Jul/22]
+  20.30  Atlétic Escaldes         5-0 (1-0)  FC Ordino
+         UE Santa Coloma          2-1 (1-1)  CE Carroi
+
+
+== Playoff
+
+Matchday 1
+[Thu Jul/16]
+  20.30  FC Santa Coloma          1-1 (0-0)  Inter Club d'Escaldes
+         UE Sant Julià            1-2 (1-1)  UE Engordany
+
+
+Matchday 2
+[Sun Jul/19]
+  19.30  UE Engordany             0-0  Inter Club d'Escaldes
+         UE Sant Julià            0-2 (0-0)  FC Santa Coloma
+
+
+Matchday 3
+[Thu Jul/23]
+  20.30  FC Santa Coloma          2-0 (1-0)  UE Engordany
+         Inter Club d'Escaldes    3-0 (2-0)  UE Sant Julià

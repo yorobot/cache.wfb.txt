@@ -1,0 +1,325 @@
+= UEFA EL 2016/17
+
+# Date       Thu Sep/15 2016 - Wed May/24 2017 (251d)
+# Teams      56
+# Matches    205
+
+
+
+Group
+[Thu Sep/15]
+  19.00  Feyenoord (NED)          1-0 (0-0)  Manchester United (ENG)
+         Zorya Lugansk (UKR)      1-1 (0-0)  Fenerbahçe (TUR)
+[Thu Sep/29]
+  21.05  Fenerbahçe (TUR)         1-0 (1-0)  Feyenoord (NED)
+         Manchester United (ENG)  1-0 (0-0)  Zorya Lugansk (UKR)
+[Thu Oct/20]
+  21.05  Manchester United (ENG)  4-1 (3-0)  Fenerbahçe (TUR)
+         Feyenoord (NED)          1-0 (0-0)  Zorya Lugansk (UKR)
+[Thu Nov/3]
+  19.00  Fenerbahçe (TUR)         2-1 (1-0)  Manchester United (ENG)
+         Zorya Lugansk (UKR)      1-1 (1-1)  Feyenoord (NED)
+[Thu Nov/24]
+  17.00  Fenerbahçe (TUR)         2-0 (0-0)  Zorya Lugansk (UKR)
+  21.05  Manchester United (ENG)  4-0 (1-0)  Feyenoord (NED)
+[Thu Dec/8]
+  19.00  Feyenoord (NED)          0-1 (0-1)  Fenerbahçe (TUR)
+         Zorya Lugansk (UKR)      0-2 (0-0)  Manchester United (ENG)
+[Thu Sep/15]
+  19.00  BSC Young Boys (SUI)     0-1 (0-1)  Olympiakos Piraeus (GRE)
+         APOEL Nikosia (CYP)      2-1 (0-1)  FK Astana (KAZ)
+[Thu Sep/29]
+  17.00  FK Astana (KAZ)          0-0  BSC Young Boys (SUI)
+  21.05  Olympiakos Piraeus (GRE)  0-1 (0-1)  APOEL Nikosia (CYP)
+[Thu Oct/20]
+  21.05  BSC Young Boys (SUI)     3-1 (1-1)  APOEL Nikosia (CYP)
+         Olympiakos Piraeus (GRE)  4-1 (3-0)  FK Astana (KAZ)
+[Thu Nov/3]
+  17.00  FK Astana (KAZ)          1-1 (1-1)  Olympiakos Piraeus (GRE)
+  19.00  APOEL Nikosia (CYP)      1-0 (0-0)  BSC Young Boys (SUI)
+[Thu Nov/24]
+  17.00  FK Astana (KAZ)          2-1 (0-1)  APOEL Nikosia (CYP)
+  21.05  Olympiakos Piraeus (GRE)  1-1 (0-0)  BSC Young Boys (SUI)
+[Thu Dec/8]
+  19.00  APOEL Nikosia (CYP)      2-0 (1-0)  Olympiakos Piraeus (GRE)
+         BSC Young Boys (SUI)     3-0 (0-0)  FK Astana (KAZ)
+[Thu Sep/15]
+  19.00  1. FSV Mainz 05 (GER)    1-1 (0-0)  AS Saint-Étienne (FRA)
+         RSC Anderlecht (BEL)     3-1 (2-1)  Gabala FK (AZE)
+[Thu Sep/29]
+  17.00  Gabala FK (AZE)          2-3 (0-1)  1. FSV Mainz 05 (GER)
+  21.05  AS Saint-Étienne (FRA)   1-1 (0-0)  RSC Anderlecht (BEL)
+[Thu Oct/20]
+  21.05  1. FSV Mainz 05 (GER)    1-1 (1-0)  RSC Anderlecht (BEL)
+         AS Saint-Étienne (FRA)   1-0 (0-0)  Gabala FK (AZE)
+[Thu Nov/3]
+  19.00  RSC Anderlecht (BEL)     6-1 (2-1)  1. FSV Mainz 05 (GER)
+         Gabala FK (AZE)          1-2 (1-1)  AS Saint-Étienne (FRA)
+[Thu Nov/24]
+  17.00  Gabala FK (AZE)          1-3 (1-1)  RSC Anderlecht (BEL)
+  21.05  AS Saint-Étienne (FRA)   0-0  1. FSV Mainz 05 (GER)
+[Thu Dec/8]
+  19.00  RSC Anderlecht (BEL)     2-3 (2-0)  AS Saint-Étienne (FRA)
+         1. FSV Mainz 05 (GER)    2-0 (2-0)  Gabala FK (AZE)
+[Thu Sep/15]
+  19.00  Maccabi Tel Aviv (ISR)   3-4 (1-0)  Zenit St. Petersburg (RUS)
+         AZ Alkmaar (NED)         1-1 (0-0)  Dundalk FC (IRL)
+[Thu Sep/29]
+  21.05  Zenit St. Petersburg (RUS)  5-0 (1-0)  AZ Alkmaar (NED)
+         Dundalk FC (IRL)         1-0 (0-0)  Maccabi Tel Aviv (ISR)
+[Thu Oct/20]
+  21.05  AZ Alkmaar (NED)         1-2 (0-1)  Maccabi Tel Aviv (ISR)
+         Dundalk FC (IRL)         1-2 (0-0)  Zenit St. Petersburg (RUS)
+[Thu Nov/3]
+  19.00  Maccabi Tel Aviv (ISR)   0-0  AZ Alkmaar (NED)
+         Zenit St. Petersburg (RUS)  2-1 (1-0)  Dundalk FC (IRL)
+[Thu Nov/24]
+  17.00  Zenit St. Petersburg (RUS)  2-0 (1-0)  Maccabi Tel Aviv (ISR)
+  21.05  Dundalk FC (IRL)         0-1 (0-1)  AZ Alkmaar (NED)
+[Thu Dec/8]
+  19.00  AZ Alkmaar (NED)         3-2 (2-0)  Zenit St. Petersburg (RUS)
+         Maccabi Tel Aviv (ISR)   2-1 (2-1)  Dundalk FC (IRL)
+[Thu Sep/15]
+  19.00  Viktoria Plzeň (CZE)     1-1 (1-1)  AS Roma (ITA)
+         Astra Giurgiu (ROU)      2-3 (1-2)  Austria Wien (AUT)
+[Thu Sep/29]
+  21.05  Austria Wien (AUT)       0-0  Viktoria Plzeň (CZE)
+         AS Roma (ITA)            4-0 (2-0)  Astra Giurgiu (ROU)
+[Thu Oct/20]
+  21.05  AS Roma (ITA)            3-3 (2-1)  Austria Wien (AUT)
+         Viktoria Plzeň (CZE)     1-2 (0-1)  Astra Giurgiu (ROU)
+[Thu Nov/3]
+  19.00  Austria Wien (AUT)       2-4 (1-2)  AS Roma (ITA)
+         Astra Giurgiu (ROU)      1-1 (1-1)  Viktoria Plzeň (CZE)
+[Thu Nov/24]
+  21.05  AS Roma (ITA)            4-1 (1-1)  Viktoria Plzeň (CZE)
+         Austria Wien (AUT)       1-2 (0-0)  Astra Giurgiu (ROU)
+[Thu Dec/8]
+  19.00  Viktoria Plzeň (CZE)     3-2 (1-2)  Austria Wien (AUT)
+         Astra Giurgiu (ROU)      0-0  AS Roma (ITA)
+[Thu Sep/15]
+  19.00  Rapid Wien (AUT)         3-2 (0-1)  KRC Genk (BEL)
+         Sassuolo Calcio (ITA)    3-0 (0-0)  Athletic Bilbao (ESP)
+[Thu Sep/29]
+  21.05  Athletic Bilbao (ESP)    1-0 (0-0)  Rapid Wien (AUT)
+         KRC Genk (BEL)           3-1 (2-0)  Sassuolo Calcio (ITA)
+[Thu Oct/20]
+  21.05  KRC Genk (BEL)           2-0 (1-0)  Athletic Bilbao (ESP)
+         Rapid Wien (AUT)         1-1 (1-0)  Sassuolo Calcio (ITA)
+[Thu Nov/3]
+  19.00  Athletic Bilbao (ESP)    5-3 (3-1)  KRC Genk (BEL)
+         Sassuolo Calcio (ITA)    2-2 (2-0)  Rapid Wien (AUT)
+[Thu Nov/24]
+  21.05  KRC Genk (BEL)           1-0 (1-0)  Rapid Wien (AUT)
+         Athletic Bilbao (ESP)    3-2 (1-1)  Sassuolo Calcio (ITA)
+[Thu Dec/8]
+  19.00  Rapid Wien (AUT)         1-1 (0-0)  Athletic Bilbao (ESP)
+[Fri Dec/9]
+  12.30  Sassuolo Calcio (ITA)    0-2 (0-0)  KRC Genk (BEL)
+[Thu Sep/15]
+  21.05  Standard Liège (BEL)     1-1 (1-1)  RC Celta (ESP)
+         Panathinaikos (GRE)      1-2 (1-1)  AFC Ajax (NED)
+[Thu Sep/29]
+  19.00  AFC Ajax (NED)           1-0 (1-0)  Standard Liège (BEL)
+         RC Celta (ESP)           2-0 (0-0)  Panathinaikos (GRE)
+[Thu Oct/20]
+  19.00  RC Celta (ESP)           2-2 (1-1)  AFC Ajax (NED)
+         Standard Liège (BEL)     2-2 (1-2)  Panathinaikos (GRE)
+[Thu Nov/3]
+  21.05  AFC Ajax (NED)           3-2 (1-0)  RC Celta (ESP)
+         Panathinaikos (GRE)      0-3 (0-0)  Standard Liège (BEL)
+[Thu Nov/24]
+  19.00  RC Celta (ESP)           1-1 (1-0)  Standard Liège (BEL)
+         AFC Ajax (NED)           2-0 (1-0)  Panathinaikos (GRE)
+[Thu Dec/8]
+  21.05  Standard Liège (BEL)     1-1 (0-1)  AFC Ajax (NED)
+         Panathinaikos (GRE)      0-2 (0-1)  RC Celta (ESP)
+[Thu Sep/15]
+  21.05  Sporting Braga (POR)     1-1 (1-1)  KAA Gent (BEL)
+         Atiker Konyaspor (TUR)   0-1 (0-0)  Shakhtar Donetsk (UKR)
+[Thu Sep/29]
+  19.00  Shakhtar Donetsk (UKR)   2-0 (1-0)  Sporting Braga (POR)
+         KAA Gent (BEL)           2-0 (2-0)  Atiker Konyaspor (TUR)
+[Thu Oct/20]
+  19.00  Shakhtar Donetsk (UKR)   5-0 (2-0)  KAA Gent (BEL)
+         Atiker Konyaspor (TUR)   1-1 (1-0)  Sporting Braga (POR)
+[Thu Nov/3]
+  21.05  KAA Gent (BEL)           3-5 (1-3)  Shakhtar Donetsk (UKR)
+         Sporting Braga (POR)     3-1 (2-1)  Atiker Konyaspor (TUR)
+[Thu Nov/24]
+  19.00  KAA Gent (BEL)           2-2 (2-2)  Sporting Braga (POR)
+         Shakhtar Donetsk (UKR)   4-0 (2-0)  Atiker Konyaspor (TUR)
+[Thu Dec/8]
+  17.00  Sporting Braga (POR)     2-4 (1-2)  Shakhtar Donetsk (UKR)
+         Atiker Konyaspor (TUR)   0-1 (0-0)  KAA Gent (BEL)
+
+
+Gruppe I
+[Thu Sep/15]
+  21.05  RB Salzburg (AUT)        0-1 (0-1)  FK Krasnodar (RUS)
+         OGC Nice (FRA)           0-1 (0-0)  FC Schalke 04 (GER)
+[Thu Sep/29]
+  19.00  FC Schalke 04 (GER)      3-1 (1-0)  RB Salzburg (AUT)
+         FK Krasnodar (RUS)       5-2 (2-1)  OGC Nice (FRA)
+[Thu Oct/20]
+  19.00  FK Krasnodar (RUS)       0-1 (0-1)  FC Schalke 04 (GER)
+         RB Salzburg (AUT)        0-1 (0-1)  OGC Nice (FRA)
+[Thu Nov/3]
+  21.05  FC Schalke 04 (GER)      2-0 (2-0)  FK Krasnodar (RUS)
+         OGC Nice (FRA)           0-2 (0-0)  RB Salzburg (AUT)
+[Thu Nov/24]
+  19.00  FK Krasnodar (RUS)       1-1 (0-1)  RB Salzburg (AUT)
+         FC Schalke 04 (GER)      2-0 (1-0)  OGC Nice (FRA)
+[Thu Dec/8]
+  21.05  RB Salzburg (AUT)        2-0 (1-0)  FC Schalke 04 (GER)
+         OGC Nice (FRA)           2-1 (0-0)  FK Krasnodar (RUS)
+
+
+Gruppe J
+[Thu Sep/15]
+  17.00  Qarabağ FK (AZE)         2-2 (1-1)  Slovan Liberec (CZE)
+  21.05  PAOK Saloniki (GRE)      0-0  ACF Fiorentina (ITA)
+[Thu Sep/29]
+  19.00  Slovan Liberec (CZE)     1-2 (1-1)  PAOK Saloniki (GRE)
+         ACF Fiorentina (ITA)     5-1 (3-0)  Qarabağ FK (AZE)
+[Thu Oct/20]
+  19.00  Slovan Liberec (CZE)     1-3 (0-2)  ACF Fiorentina (ITA)
+         Qarabağ FK (AZE)         2-0 (0-0)  PAOK Saloniki (GRE)
+[Thu Nov/3]
+  21.05  ACF Fiorentina (ITA)     3-0 (2-0)  Slovan Liberec (CZE)
+         PAOK Saloniki (GRE)      0-1 (0-0)  Qarabağ FK (AZE)
+[Thu Nov/24]
+  19.00  ACF Fiorentina (ITA)     2-3 (1-2)  PAOK Saloniki (GRE)
+         Slovan Liberec (CZE)     3-0 (1-0)  Qarabağ FK (AZE)
+[Thu Dec/8]
+  17.00  PAOK Saloniki (GRE)      2-0 (1-0)  Slovan Liberec (CZE)
+         Qarabağ FK (AZE)         1-2 (0-0)  ACF Fiorentina (ITA)
+
+
+Gruppe K
+[Thu Sep/15]
+  21.05  Southampton FC (ENG)     3-0 (2-0)  AC Sparta Praha (CZE)
+         Inter (ITA)              0-2 (0-0)  Hapoel Be'er Sheva (ISR)
+[Thu Sep/29]
+  19.00  AC Sparta Praha (CZE)    3-1 (2-0)  Inter (ITA)
+         Hapoel Be'er Sheva (ISR)  0-0  Southampton FC (ENG)
+[Thu Oct/20]
+  19.00  Inter (ITA)              1-0 (0-0)  Southampton FC (ENG)
+         Hapoel Be'er Sheva (ISR)  0-1 (0-0)  AC Sparta Praha (CZE)
+[Thu Nov/3]
+  21.05  Southampton FC (ENG)     2-1 (0-1)  Inter (ITA)
+         AC Sparta Praha (CZE)    2-0 (2-0)  Hapoel Be'er Sheva (ISR)
+[Thu Nov/24]
+  19.00  AC Sparta Praha (CZE)    1-0 (1-0)  Southampton FC (ENG)
+         Hapoel Be'er Sheva (ISR)  3-2 (0-2)  Inter (ITA)
+[Thu Dec/8]
+  21.05  Inter (ITA)              2-1 (1-0)  AC Sparta Praha (CZE)
+         Southampton FC (ENG)     1-1 (0-0)  Hapoel Be'er Sheva (ISR)
+
+
+Gruppe L
+[Thu Sep/15]
+  21.05  Villarreal CF (ESP)      2-1 (2-1)  FC Zürich (SUI)
+         Osmanlıspor FK (TUR)     2-0 (0-0)  FC Steaua Bucureşti (ROU)
+[Thu Sep/29]
+  19.00  FC Steaua Bucureşti (ROU)  1-1 (1-1)  Villarreal CF (ESP)
+         FC Zürich (SUI)          2-1 (1-0)  Osmanlıspor FK (TUR)
+[Thu Oct/20]
+  19.00  FC Steaua Bucureşti (ROU)  1-1 (0-0)  FC Zürich (SUI)
+         Osmanlıspor FK (TUR)     2-2 (2-0)  Villarreal CF (ESP)
+[Thu Nov/3]
+  21.05  FC Zürich (SUI)          0-0  FC Steaua Bucureşti (ROU)
+         Villarreal CF (ESP)      1-2 (0-1)  Osmanlıspor FK (TUR)
+[Thu Nov/24]
+  19.00  FC Zürich (SUI)          1-1 (0-1)  Villarreal CF (ESP)
+         FC Steaua Bucureşti (ROU)  2-1 (0-1)  Osmanlıspor FK (TUR)
+[Thu Dec/8]
+  17.00  Villarreal CF (ESP)      2-1 (1-0)  FC Steaua Bucureşti (ROU)
+         Osmanlıspor FK (TUR)     2-0 (0-0)  FC Zürich (SUI)
+
+
+Sechzehntelfinale
+[Thu Feb/16]
+  17.00  FK Krasnodar (RUS)       1-0 (1-0)  Fenerbahçe (TUR)
+  19.00  Astra Giurgiu (ROU)      2-2 (1-1)  KRC Genk (BEL)
+         PFC Ludogorets Razgrad (BUL)  1-2 (0-1)  FC København (DEN)
+         RC Celta (ESP)           0-1 (0-1)  Shakhtar Donetsk (UKR)
+         Olympiakos Piraeus (GRE)  0-0  Osmanlıspor FK (TUR)
+         KAA Gent (BEL)           1-0 (0-0)  Tottenham Hotspur (ENG)
+         FK Rostov (RUS)          4-0 (3-0)  AC Sparta Praha (CZE)
+         Bor. Mönchengladbach (GER)  0-1 (0-1)  ACF Fiorentina (ITA)
+         AZ Alkmaar (NED)         1-4 (0-2)  Olympique Lyonnais (FRA)
+  21.05  Athletic Bilbao (ESP)    3-2 (1-1)  APOEL Nikosia (CYP)
+         Legia Warszawa (POL)     0-0  AFC Ajax (NED)
+         RSC Anderlecht (BEL)     2-0 (2-0)  Zenit St. Petersburg (RUS)
+         Manchester United (ENG)  3-0 (1-0)  AS Saint-Étienne (FRA)
+         Villarreal CF (ESP)      0-4 (0-1)  AS Roma (ITA)
+         Hapoel Be'er Sheva (ISR)  1-3 (1-1)  Beşiktaş (TUR)
+         PAOK Saloniki (GRE)      0-3 (0-1)  FC Schalke 04 (GER)
+[Wed Feb/22]
+  18.00  AS Saint-Étienne (FRA)   0-1 (0-1)  Manchester United (ENG)
+         Fenerbahçe (TUR)         1-1 (1-1)  FK Krasnodar (RUS)
+         FC Schalke 04 (GER)      1-1 (1-1)  PAOK Saloniki (GRE)
+[Thu Feb/23]
+  17.00  Osmanlıspor FK (TUR)     0-3 (0-0)  Olympiakos Piraeus (GRE)
+  19.00  APOEL Nikosia (CYP)      2-0 (0-0)  Athletic Bilbao (ESP)
+         AFC Ajax (NED)           1-0 (0-0)  Legia Warszawa (POL)
+         Zenit St. Petersburg (RUS)  3-1 (1-0)  RSC Anderlecht (BEL)
+         AS Roma (ITA)            0-1 (0-1)  Villarreal CF (ESP)
+         Beşiktaş (TUR)           2-1 (1-0)  Hapoel Be'er Sheva (ISR)
+  21.05  KRC Genk (BEL)           1-0 (0-0)  Astra Giurgiu (ROU)
+         FC København (DEN)       0-0  PFC Ludogorets Razgrad (BUL)
+         Shakhtar Donetsk (UKR)   0-2 a.e.t. (0-1, 0-0)  RC Celta (ESP)
+         Tottenham Hotspur (ENG)  2-2 (1-1)  KAA Gent (BEL)
+         AC Sparta Praha (CZE)    1-1 (0-1)  FK Rostov (RUS)
+         ACF Fiorentina (ITA)     2-4 (2-1)  Bor. Mönchengladbach (GER)
+         Olympique Lyonnais (FRA)  7-1 (4-1)  AZ Alkmaar (NED)
+
+
+Round of 16
+[Thu Mar/9]
+  19.00  APOEL Nikosia (CYP)      0-1 (0-1)  RSC Anderlecht (BEL)
+         FK Rostov (RUS)          1-1 (0-1)  Manchester United (ENG)
+         FC København (DEN)       2-1 (1-1)  AFC Ajax (NED)
+  21.05  RC Celta (ESP)           2-1 (0-0)  FK Krasnodar (RUS)
+         FC Schalke 04 (GER)      1-1 (1-1)  Bor. Mönchengladbach (GER)
+         Olympique Lyonnais (FRA)  4-2 (1-2)  AS Roma (ITA)
+         Olympiakos Piraeus (GRE)  1-1 (1-0)  Beşiktaş (TUR)
+         KAA Gent (BEL)           2-5 (1-4)  KRC Genk (BEL)
+[Thu Mar/16]
+  19.00  FK Krasnodar (RUS)       0-2 (0-0)  RC Celta (ESP)
+         Beşiktaş (TUR)           4-1 (2-1)  Olympiakos Piraeus (GRE)
+         KRC Genk (BEL)           1-1 (1-0)  KAA Gent (BEL)
+  21.05  RSC Anderlecht (BEL)     1-0 (0-0)  APOEL Nikosia (CYP)
+         Bor. Mönchengladbach (GER)  2-2 (2-0)  FC Schalke 04 (GER)
+         AS Roma (ITA)            2-1 (1-1)  Olympique Lyonnais (FRA)
+         Manchester United (ENG)  1-0 (0-0)  FK Rostov (RUS)
+         AFC Ajax (NED)           2-0 (2-0)  FC København (DEN)
+
+
+Quarterfinals
+[Thu Apr/13]
+  21.05  RSC Anderlecht (BEL)     1-1 (0-1)  Manchester United (ENG)
+         RC Celta (ESP)           3-2 (3-1)  KRC Genk (BEL)
+         AFC Ajax (NED)           2-0 (1-0)  FC Schalke 04 (GER)
+  21.50  Olympique Lyonnais (FRA)  2-1 (0-1)  Beşiktaş (TUR)
+[Thu Apr/20]
+  21.05  Manchester United (ENG)  2-1 a.e.t. (1-1, 1-1)  RSC Anderlecht (BEL)
+         KRC Genk (BEL)           1-1 (0-0)  RC Celta (ESP)
+         FC Schalke 04 (GER)      3-2 a.e.t. (2-0, 0-0)  AFC Ajax (NED)
+         Beşiktaş (TUR)           6-7 pen. 2-1 a.e.t. (2-1, 1-1)  Olympique Lyonnais (FRA)
+
+
+Semifinals
+[Wed May/3]
+  18.45  AFC Ajax (NED)           4-1 (2-0)  Olympique Lyonnais (FRA)
+[Thu May/4]
+  21.05  RC Celta (ESP)           0-1 (0-0)  Manchester United (ENG)
+[Thu May/11]
+  21.05  Olympique Lyonnais (FRA)  3-1 (2-1)  AFC Ajax (NED)
+         Manchester United (ENG)  1-1 (1-0)  RC Celta (ESP)
+
+
+Final
+[Wed May/24]
+  20.45  AFC Ajax (NED)           0-2 (0-1)  Manchester United (ENG)

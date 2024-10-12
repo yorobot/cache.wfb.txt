@@ -1,0 +1,490 @@
+= FR 1 2001/02
+
+# Date       Fri Jul/27 2001 - Sat May/4 2002 (281d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Fri Jul/27]
+  20.45  Girondins Bordeaux       2-0 (2-0)  FC Nantes
+[Sat Jul/28]
+  17.15  Paris Saint-Germain      0-0  Lille OSC
+  20.00  AS Monaco                0-1 (0-0)  FC Sochaux
+         SC Bastia                1-1 (0-0)  CS Sedan
+         RC Lens                  2-0 (2-0)  Olympique Lyonnais
+         Stade Rennais            0-5 (0-1)  AJ Auxerre
+         Montpellier HSC          1-1 (0-1)  Olympique Marseille
+         ESTAC Troyes             3-0 (1-0)  EA Guingamp
+         FC Lorient               1-0 (0-0)  FC Metz
+
+
+Matchday 2
+[Fri Aug/3]
+  20.45  Olympique Marseille      0-0  Girondins Bordeaux
+[Sat Aug/4]
+  17.15  FC Nantes                1-2 (0-1)  RC Lens
+  20.00  EA Guingamp              1-0 (0-0)  SC Bastia
+         FC Sochaux               4-3 (3-2)  Stade Rennais
+         Olympique Lyonnais       2-0 (1-0)  CS Sedan
+         FC Metz                  2-1 (2-1)  ESTAC Troyes
+         AJ Auxerre               1-1 (0-1)  Paris Saint-Germain
+         AS Monaco                0-0  Montpellier HSC
+         Lille OSC                3-1 (0-0)  FC Lorient
+
+
+Matchday 3
+[Sat Aug/11]
+  17.15  Stade Rennais            3-0 (2-0)  AS Monaco
+  20.00  Paris Saint-Germain      1-0 (0-0)  FC Sochaux
+         Girondins Bordeaux       0-0  Lille OSC
+         RC Lens                  2-0 (0-0)  Olympique Marseille
+         Montpellier HSC          3-0 (1-0)  FC Metz
+         CS Sedan                 1-1 (1-0)  EA Guingamp
+         ESTAC Troyes             0-0  FC Nantes
+[Sun Aug/12]
+  18.00  FC Lorient               0-1 (0-1)  AJ Auxerre
+  20.45  SC Bastia                1-2 (0-1)  Olympique Lyonnais
+
+
+Matchday 4
+[Sat Aug/18]
+  17.15  AS Monaco                2-2 (1-0)  Paris Saint-Germain
+  20.00  Lille OSC                2-1 (0-0)  Montpellier HSC
+         FC Metz                  0-1 (0-1)  RC Lens
+         Olympique Lyonnais       3-0 (1-0)  EA Guingamp
+         FC Nantes                1-2 (1-2)  SC Bastia
+         Olympique Marseille      0-1 (0-0)  ESTAC Troyes
+         Stade Rennais            1-0 (0-0)  Girondins Bordeaux
+         FC Sochaux               2-2 (2-0)  FC Lorient
+[Sun Aug/19]
+  20.45  AJ Auxerre               2-1 (1-0)  CS Sedan
+
+
+Matchday 5
+[Sat Aug/25]
+  17.15  Girondins Bordeaux       1-1 (1-0)  AJ Auxerre
+  20.00  Paris Saint-Germain      3-0 (0-0)  Stade Rennais
+         SC Bastia                1-0 (1-0)  Olympique Marseille
+         Montpellier HSC          0-0  FC Sochaux
+         CS Sedan                 2-0 (0-0)  FC Metz
+         ESTAC Troyes             0-2 (0-1)  Olympique Lyonnais
+         FC Lorient               2-0 (2-0)  AS Monaco
+         EA Guingamp              1-0 (1-0)  FC Nantes
+[Sun Aug/26]
+  20.45  RC Lens                  1-1 (0-0)  Lille OSC
+
+
+Matchday 6
+[Sat Sep/8]
+  17.15  Olympique Marseille      0-0  Olympique Lyonnais
+  20.00  Paris Saint-Germain      2-2 (0-1)  RC Lens
+         AS Monaco                2-0 (1-0)  ESTAC Troyes
+         AJ Auxerre               1-0 (0-0)  Montpellier HSC
+         FC Metz                  0-1 (0-1)  SC Bastia
+         FC Nantes                1-1 (0-0)  CS Sedan
+         Stade Rennais            1-1 (0-0)  FC Lorient
+         Lille OSC                1-0 (0-0)  EA Guingamp
+[Sun Sep/9]
+  20.45  FC Sochaux               2-0 (1-0)  Girondins Bordeaux
+
+
+Matchday 7
+[Sat Sep/15]
+  17.15  Olympique Lyonnais       4-1 (2-1)  FC Nantes
+  20.00  SC Bastia                0-1 (0-0)  AJ Auxerre
+         RC Lens                  3-0 (2-0)  FC Sochaux
+         Montpellier HSC          0-0  Stade Rennais
+         ESTAC Troyes             0-1 (0-0)  Lille OSC
+         FC Lorient               1-1 (0-0)  Paris Saint-Germain
+         EA Guingamp              0-2 (0-0)  FC Metz
+[Sun Sep/16]
+  19.00  Girondins Bordeaux       0-0  AS Monaco
+  20.45  CS Sedan                 1-1 (1-1)  Olympique Marseille
+
+
+Matchday 8
+[Fri Sep/21]
+  20.45  Paris Saint-Germain      0-0  Montpellier HSC
+[Sat Sep/22]
+  17.15  AS Monaco                3-0 (1-0)  RC Lens
+  20.00  AJ Auxerre               2-2 (0-0)  EA Guingamp
+         FC Metz                  2-0 (1-0)  Olympique Lyonnais
+         Olympique Marseille      2-0 (0-0)  FC Nantes
+         Stade Rennais            0-1 (0-0)  ESTAC Troyes
+         Lille OSC                2-1 (0-0)  SC Bastia
+[Sun Sep/23]
+  20.00  FC Lorient               0-2 (0-0)  Girondins Bordeaux
+         FC Sochaux               3-0 (1-0)  CS Sedan
+
+
+Matchday 9
+[Sat Sep/29]
+  17.15  EA Guingamp              1-0 (1-0)  Olympique Marseille
+  20.00  Olympique Lyonnais       4-0 (3-0)  Stade Rennais
+         SC Bastia                1-0 (1-0)  AS Monaco
+         FC Nantes                0-0  FC Metz
+         RC Lens                  1-1 (1-1)  AJ Auxerre
+         Montpellier HSC          1-3 (0-2)  FC Lorient
+[Sun Sep/30]
+  18.00  CS Sedan                 1-1 (1-0)  Lille OSC
+         ESTAC Troyes             2-2 (0-2)  FC Sochaux
+  20.45  Girondins Bordeaux       1-0 (1-0)  Paris Saint-Germain
+
+
+Matchday 10
+[Sat Oct/13]
+  17.15  FC Metz                  0-2 (0-1)  Olympique Marseille
+  20.00  AS Monaco                2-0 (0-0)  CS Sedan
+         AJ Auxerre               1-3 (1-1)  ESTAC Troyes
+         Stade Rennais            2-1 (1-0)  EA Guingamp
+         Montpellier HSC          0-0  Girondins Bordeaux
+         FC Lorient               2-3 (1-3)  RC Lens
+         FC Sochaux               4-1 (2-0)  SC Bastia
+         Lille OSC                1-0 (0-0)  FC Nantes
+[Sun Oct/14]
+  20.45  Paris Saint-Germain      2-2 (1-2)  Olympique Lyonnais
+
+
+Matchday 11
+[Sat Oct/20]
+  17.15  Olympique Lyonnais       1-1 (0-1)  FC Sochaux
+  20.00  SC Bastia                1-2 (0-0)  Stade Rennais
+         FC Nantes                2-2 (0-0)  AJ Auxerre
+         Olympique Marseille      0-0  Lille OSC
+         RC Lens                  2-0 (1-0)  Montpellier HSC
+         EA Guingamp              2-1 (1-0)  AS Monaco
+[Sun Oct/21]
+  18.00  Girondins Bordeaux       1-0 (0-0)  FC Metz
+         ESTAC Troyes             4-2 (1-2)  FC Lorient
+  20.45  CS Sedan                 1-2 (0-0)  Paris Saint-Germain
+
+
+Matchday 12
+[Fri Oct/26]
+  20.45  AJ Auxerre               2-0 (2-0)  Olympique Marseille
+[Sat Oct/27]
+  17.15  Stade Rennais            1-2 (1-2)  RC Lens
+  20.00  Paris Saint-Germain      1-0 (1-0)  SC Bastia
+         AS Monaco                2-1 (0-0)  Olympique Lyonnais
+         Girondins Bordeaux       2-1 (0-1)  CS Sedan
+         Montpellier HSC          2-0 (1-0)  ESTAC Troyes
+         FC Lorient               6-2 (2-1)  EA Guingamp
+         FC Sochaux               0-1 (0-0)  FC Nantes
+         Lille OSC                2-0 (2-0)  FC Metz
+
+
+Matchday 13
+[Sat Nov/3]
+  17.15  FC Nantes                2-1 (2-0)  AS Monaco
+  20.00  SC Bastia                3-1 (0-1)  FC Lorient
+         Olympique Marseille      2-1 (1-0)  Stade Rennais
+         CS Sedan                 2-0 (1-0)  Montpellier HSC
+         EA Guingamp              0-0  FC Sochaux
+[Sun Nov/4]
+  18.00  FC Metz                  2-0 (1-0)  AJ Auxerre
+         ESTAC Troyes             1-0 (0-0)  Paris Saint-Germain
+         RC Lens                  0-0  Girondins Bordeaux
+  20.45  Olympique Lyonnais       4-2 (2-2)  Lille OSC
+
+
+Matchday 14
+[Fri Nov/16]
+  20.45  AS Monaco                1-1 (0-0)  Olympique Marseille
+[Sat Nov/17]
+  17.15  Stade Rennais            2-0 (0-0)  FC Nantes
+  20.00  Paris Saint-Germain      1-1 (0-0)  EA Guingamp
+         AJ Auxerre               2-1 (1-0)  Lille OSC
+         Girondins Bordeaux       2-3 (1-1)  ESTAC Troyes
+         RC Lens                  1-0 (1-0)  CS Sedan
+         Montpellier HSC          2-1 (1-0)  SC Bastia
+         FC Lorient               0-3 (0-3)  Olympique Lyonnais
+         FC Sochaux               2-0 (1-0)  FC Metz
+
+
+Matchday 15
+[Sat Nov/24]
+  17.15  Olympique Marseille      4-2 (2-1)  FC Sochaux
+  20.00  FC Metz                  1-0 (0-0)  AS Monaco
+         SC Bastia                1-2 (0-1)  Girondins Bordeaux
+         CS Sedan                 5-0 (4-0)  FC Lorient
+         ESTAC Troyes             1-1 (0-1)  RC Lens
+         EA Guingamp              2-2 (1-1)  Montpellier HSC
+[Sun Nov/25]
+  18.00  Olympique Lyonnais       3-0 (2-0)  AJ Auxerre
+         Lille OSC                1-0 (0-0)  Stade Rennais
+  20.45  FC Nantes                1-2 (1-0)  Paris Saint-Germain
+
+
+Matchday 16
+[Wed Nov/28]
+  18.00  Montpellier HSC          3-0 (1-0)  Olympique Lyonnais
+  20.30  AS Monaco                2-2 (1-1)  Lille OSC
+         Girondins Bordeaux       2-0 (1-0)  EA Guingamp
+         RC Lens                  7-0 (3-0)  SC Bastia
+         Stade Rennais            0-0  FC Metz
+         ESTAC Troyes             1-1 (1-1)  CS Sedan
+         FC Lorient               1-2 (1-0)  FC Nantes
+         FC Sochaux               1-2 (0-1)  AJ Auxerre
+[Thu Nov/29]
+  20.45  Paris Saint-Germain      0-0  Olympique Marseille
+
+
+Matchday 17
+[Sat Dec/8]
+  17.15  AJ Auxerre               2-0 (0-0)  AS Monaco
+  20.00  SC Bastia                2-0 (0-0)  ESTAC Troyes
+         FC Nantes                1-2 (0-0)  Montpellier HSC
+         Olympique Marseille      3-2 (1-1)  FC Lorient
+         CS Sedan                 0-0  Stade Rennais
+         EA Guingamp              1-0 (0-0)  RC Lens
+[Sun Dec/9]
+  18.00  FC Metz                  0-2 (0-0)  Paris Saint-Germain
+         Lille OSC                1-2 (1-1)  FC Sochaux
+  20.45  Olympique Lyonnais       1-0 (0-0)  Girondins Bordeaux
+
+
+Matchday 18
+[Tue Dec/18]
+  18.00  RC Lens                  3-0 (0-0)  FC Nantes
+  20.45  Girondins Bordeaux       0-0  Olympique Marseille
+[Wed Dec/19]
+  20.30  Paris Saint-Germain      0-0  AJ Auxerre
+         SC Bastia                3-0 (0-0)  EA Guingamp
+         Stade Rennais            1-1 (1-0)  FC Sochaux
+         CS Sedan                 2-1 (1-1)  Olympique Lyonnais
+         FC Lorient               2-4 (1-2)  Lille OSC
+[Wed Jan/16]
+  20.30  Montpellier HSC          1-1 (0-1)  AS Monaco
+         ESTAC Troyes             2-0 (0-0)  FC Metz
+
+
+Matchday 19
+[Fri Dec/21]
+  20.45  Olympique Marseille      1-2 (1-1)  RC Lens
+[Sat Dec/22]
+  17.15  FC Sochaux               0-2 (0-2)  Paris Saint-Germain
+  20.00  AS Monaco                3-1 (1-0)  Stade Rennais
+         FC Nantes                1-0 (0-0)  ESTAC Troyes
+         EA Guingamp              1-2 (1-0)  CS Sedan
+[Wed Jan/16]
+  20.30  AJ Auxerre               2-2 (1-0)  FC Lorient
+         Olympique Lyonnais       0-0  SC Bastia
+         Lille OSC                2-2 (0-1)  Girondins Bordeaux
+[Sat Feb/9]
+  18.00  FC Metz                  0-0  Montpellier HSC
+
+
+Matchday 20
+[Sat Jan/5]
+  20.00  Paris Saint-Germain      1-2 (1-0)  AS Monaco
+         Girondins Bordeaux       2-1 (1-1)  Stade Rennais
+         SC Bastia                0-2 (0-1)  FC Nantes
+         Montpellier HSC          2-0 (1-0)  Lille OSC
+         FC Lorient               1-1 (0-0)  FC Sochaux
+         EA Guingamp              2-4 (1-0)  Olympique Lyonnais
+[Sat Jan/26]
+  17.15  ESTAC Troyes             1-0 (0-0)  Olympique Marseille
+[Sat Mar/2]
+  17.15  RC Lens                  2-2 (0-1)  FC Metz
+[Sun Apr/21]
+  18.30  CS Sedan                 3-3 (2-2)  AJ Auxerre
+
+
+Matchday 21
+[Fri Jan/11]
+  20.45  Lille OSC                0-1 (0-0)  RC Lens
+[Sat Jan/12]
+  17.15  Stade Rennais            1-2 (0-2)  Paris Saint-Germain
+  20.00  AS Monaco                1-0 (0-0)  FC Lorient
+         FC Nantes                2-0 (0-0)  EA Guingamp
+         Olympique Marseille      2-2 (2-0)  SC Bastia
+         FC Sochaux               0-1 (0-1)  Montpellier HSC
+[Sat Feb/9]
+  18.00  Olympique Lyonnais       3-1 (1-1)  ESTAC Troyes
+[Sun Mar/10]
+  20.45  AJ Auxerre               0-1 (0-0)  Girondins Bordeaux
+[Tue Apr/9]
+  18.30  FC Metz                  2-3 (1-0)  CS Sedan
+
+
+Matchday 22
+[Wed Jan/23]
+  18.00  Girondins Bordeaux       0-1 (0-1)  FC Sochaux
+  20.30  Olympique Lyonnais       4-0 (4-0)  Olympique Marseille
+         SC Bastia                1-2 (0-2)  FC Metz
+         Montpellier HSC          0-0  AJ Auxerre
+         CS Sedan                 0-0  FC Nantes
+         ESTAC Troyes             3-0 (1-0)  AS Monaco
+         FC Lorient               2-0 (1-0)  Stade Rennais
+         EA Guingamp              0-0  Lille OSC
+[Thu Jan/24]
+  20.45  RC Lens                  1-1 (0-0)  Paris Saint-Germain
+
+
+Matchday 23
+[Tue Jan/29]
+  20.45  FC Nantes                3-0 (2-0)  Olympique Lyonnais
+[Wed Jan/30]
+  18.00  AS Monaco                3-1 (3-1)  Girondins Bordeaux
+  20.30  Paris Saint-Germain      5-0 (3-0)  FC Lorient
+         AJ Auxerre               1-0 (0-0)  SC Bastia
+         FC Metz                  2-4 (1-0)  EA Guingamp
+         Olympique Marseille      2-1 (1-0)  CS Sedan
+         Stade Rennais            2-0 (2-0)  Montpellier HSC
+         FC Sochaux               0-2 (0-2)  RC Lens
+[Sun Mar/3]
+  18.00  Lille OSC                1-0 (0-0)  ESTAC Troyes
+
+
+Matchday 24
+[Sat Feb/2]
+  17.15  Montpellier HSC          0-0  Paris Saint-Germain
+  20.00  Girondins Bordeaux       2-1 (1-1)  FC Lorient
+         Olympique Lyonnais       4-1 (1-1)  FC Metz
+         SC Bastia                1-0 (0-0)  Lille OSC
+         RC Lens                  1-0 (1-0)  AS Monaco
+         CS Sedan                 2-1 (1-1)  FC Sochaux
+         ESTAC Troyes             1-1 (1-1)  Stade Rennais
+         EA Guingamp              0-0  AJ Auxerre
+[Sun Feb/3]
+  20.45  FC Nantes                3-1 (3-1)  Olympique Marseille
+
+
+Matchday 25
+[Wed Feb/6]
+  18.00  Stade Rennais            2-2 (2-1)  Olympique Lyonnais
+  20.30  AS Monaco                1-1 (0-1)  SC Bastia
+         AJ Auxerre               1-0 (0-0)  RC Lens
+         FC Metz                  2-0 (1-0)  FC Nantes
+         Olympique Marseille      2-1 (1-1)  EA Guingamp
+         FC Lorient               1-0 (0-0)  Montpellier HSC
+         FC Sochaux               2-2 (1-1)  ESTAC Troyes
+         Lille OSC                1-1 (1-1)  CS Sedan
+[Thu Feb/7]
+  20.45  Paris Saint-Germain      1-0 (0-0)  Girondins Bordeaux
+
+
+Matchday 26
+[Sat Feb/16]
+  17.15  FC Nantes                0-1 (0-0)  Lille OSC
+  20.00  Girondins Bordeaux       3-1 (2-0)  Montpellier HSC
+         SC Bastia                3-0 (1-0)  FC Sochaux
+         RC Lens                  1-1 (1-1)  FC Lorient
+         CS Sedan                 0-0  AS Monaco
+         ESTAC Troyes             1-2 (0-1)  AJ Auxerre
+         EA Guingamp              1-1 (1-0)  Stade Rennais
+[Sun Feb/17]
+  20.00  Olympique Marseille      1-0 (1-0)  FC Metz
+  20.45  Olympique Lyonnais       3-0 (0-0)  Paris Saint-Germain
+
+
+Matchday 27
+[Sat Feb/23]
+  17.15  Montpellier HSC          1-2 (0-1)  RC Lens
+  20.00  Paris Saint-Germain      3-0 (1-0)  CS Sedan
+         AS Monaco                3-1 (2-1)  EA Guingamp
+         AJ Auxerre               2-1 (1-1)  FC Nantes
+         FC Metz                  1-2 (1-0)  Girondins Bordeaux
+         Stade Rennais            2-1 (1-1)  SC Bastia
+         FC Lorient               1-0 (0-0)  ESTAC Troyes
+[Sun Feb/24]
+  18.30  FC Sochaux               2-1 (1-0)  Olympique Lyonnais
+  20.45  Lille OSC                2-0 (1-0)  Olympique Marseille
+
+
+Matchday 28
+[Wed Mar/6]
+  18.00  SC Bastia                0-1 (0-0)  Paris Saint-Germain
+  20.30  FC Metz                  0-1 (0-1)  Lille OSC
+         Olympique Lyonnais       1-0 (0-0)  AS Monaco
+         FC Nantes                0-0  FC Sochaux
+         RC Lens                  2-0 (1-0)  Stade Rennais
+         CS Sedan                 1-0 (0-0)  Girondins Bordeaux
+         ESTAC Troyes             2-0 (1-0)  Montpellier HSC
+         EA Guingamp              4-3 (1-0)  FC Lorient
+[Mon Apr/1]
+  19.00  Olympique Marseille      3-0 (1-0)  AJ Auxerre
+
+
+Matchday 29
+[Sat Mar/16]
+  17.15  Stade Rennais            2-1 (0-0)  Olympique Marseille
+  20.00  Paris Saint-Germain      3-1 (0-1)  ESTAC Troyes
+         AS Monaco                1-2 (1-1)  FC Nantes
+         AJ Auxerre               3-2 (0-1)  FC Metz
+         Montpellier HSC          0-0  CS Sedan
+         FC Lorient               0-0  SC Bastia
+         FC Sochaux               1-0 (1-0)  EA Guingamp
+         Lille OSC                2-0 (1-0)  Olympique Lyonnais
+[Sun Mar/17]
+  20.45  Girondins Bordeaux       2-1 (0-0)  RC Lens
+
+
+Matchday 30
+[Sat Mar/23]
+  17.15  EA Guingamp              0-1 (0-1)  Paris Saint-Germain
+  20.00  FC Metz                  2-0 (1-0)  FC Sochaux
+         Olympique Lyonnais       2-0 (0-0)  FC Lorient
+         SC Bastia                3-0 (2-0)  Montpellier HSC
+         FC Nantes                3-1 (2-1)  Stade Rennais
+         CS Sedan                 1-1 (1-0)  RC Lens
+         ESTAC Troyes             2-0 (0-0)  Girondins Bordeaux
+         Lille OSC                2-3 (1-2)  AJ Auxerre
+[Sun Mar/24]
+  20.45  Olympique Marseille      1-1 (0-0)  AS Monaco
+
+
+Matchday 31
+[Sat Apr/6]
+  17.15  RC Lens                  0-0  ESTAC Troyes
+  20.00  Paris Saint-Germain      1-1 (0-1)  FC Nantes
+         AS Monaco                2-2 (1-1)  FC Metz
+         Girondins Bordeaux       2-1 (2-0)  SC Bastia
+         Stade Rennais            4-0 (1-0)  Lille OSC
+         Montpellier HSC          2-1 (1-1)  EA Guingamp
+         FC Lorient               1-1 (0-0)  CS Sedan
+         FC Sochaux               3-0 (2-0)  Olympique Marseille
+[Sun Apr/7]
+  20.45  AJ Auxerre               0-1 (0-0)  Olympique Lyonnais
+
+
+Matchday 32
+[Fri Apr/12]
+  20.45  Olympique Marseille      1-0 (0-0)  Paris Saint-Germain
+[Sat Apr/13]
+  17.15  AJ Auxerre               2-0 (0-0)  FC Sochaux
+  20.00  FC Metz                  3-1 (0-1)  Stade Rennais
+         Olympique Lyonnais       0-0  Montpellier HSC
+         SC Bastia                3-1 (0-1)  RC Lens
+         FC Nantes                2-0 (0-0)  FC Lorient
+         CS Sedan                 0-0  ESTAC Troyes
+         EA Guingamp              2-1 (1-0)  Girondins Bordeaux
+         Lille OSC                1-1 (0-1)  AS Monaco
+
+
+Matchday 33
+[Sat Apr/27]
+  20.00  Paris Saint-Germain      2-0 (0-0)  FC Metz
+         AS Monaco                1-1 (1-0)  AJ Auxerre
+         Girondins Bordeaux       0-1 (0-0)  Olympique Lyonnais
+         RC Lens                  4-1 (2-0)  EA Guingamp
+         Stade Rennais            1-0 (0-0)  CS Sedan
+         Montpellier HSC          3-0 (0-0)  FC Nantes
+         ESTAC Troyes             3-0 (0-0)  SC Bastia
+         FC Lorient               2-2 (0-1)  Olympique Marseille
+         FC Sochaux               0-0  Lille OSC
+
+
+Matchday 34
+[Sat May/4]
+  20.00  AJ Auxerre               2-3 (1-2)  Stade Rennais
+         FC Metz                  1-1 (1-1)  FC Lorient
+         Olympique Lyonnais       3-1 (2-1)  RC Lens
+         FC Nantes                2-1 (1-0)  Girondins Bordeaux
+         Olympique Marseille      1-0 (0-0)  Montpellier HSC
+         CS Sedan                 0-2 (0-0)  SC Bastia
+         FC Sochaux               3-0 (2-0)  AS Monaco
+         EA Guingamp              1-0 (0-0)  ESTAC Troyes
+         Lille OSC                1-0 (0-0)  Paris Saint-Germain

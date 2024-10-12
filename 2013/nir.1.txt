@@ -1,0 +1,80 @@
+= NIR 1 2013
+
+# Date       Tue Apr/2 - Sat Apr/27 2013 (25d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Tue Apr/2]
+  14.30  Cliftonville FC          3-1  Crusaders FC
+         Linfield FC              1-0  Glentoran FC
+         Ballinamallard United FC  1-1  Coleraine FC
+
+
+Matchday 2
+[Sat Apr/13]
+  15.00  Cliftonville FC          3-2  Linfield FC
+         Crusaders FC             2-1  Coleraine FC
+         Ballinamallard United FC  0-0  Glentoran FC
+
+
+Matchday 3
+[Tue Apr/16]
+  19.45  Glentoran FC             3-0  Cliftonville FC
+         Coleraine FC             1-1  Linfield FC
+         Crusaders FC             3-1  Ballinamallard United FC
+
+
+Matchday 4
+[Sat Apr/20]
+  15.00  Coleraine FC             0-2 (0-2)  Cliftonville FC
+         Crusaders FC             3-2  Glentoran FC
+         Linfield FC              0-1  Ballinamallard United FC
+
+
+Matchday 5
+[Sat Apr/27]
+  15.00  Linfield FC              1-2  Crusaders FC
+         Glentoran FC             1-1  Coleraine FC
+         Cliftonville FC          2-1  Ballinamallard United FC
+
+
+== Relegation
+
+Matchday 1
+[Tue Apr/2]
+  14.30  Dungannon Swifts         2-3  Glenavon FC
+         Lisburn Distillery       0-1  Donegal Celtic FC
+         Ballymena United         6-1  Portadown FC
+
+
+Matchday 2
+[Sat Apr/13]
+  15.00  Donegal Celtic FC        1-4  Ballymena United
+         Glenavon FC              7-0  Lisburn Distillery
+         Portadown FC             1-1  Dungannon Swifts
+
+
+Matchday 3
+[Tue Apr/16]
+  19.45  Lisburn Distillery       0-2  Ballymena United
+         Donegal Celtic FC        2-1  Dungannon Swifts
+         Glenavon FC              1-3  Portadown FC
+
+
+Matchday 4
+[Sat Apr/20]
+  15.00  Ballymena United         0-2  Glenavon FC
+         Lisburn Distillery       0-1  Dungannon Swifts
+         Donegal Celtic FC        1-2  Portadown FC
+
+
+Matchday 5
+[Sat Apr/27]
+  15.00  Ballymena United         1-2  Dungannon Swifts
+         Glenavon FC              3-1  Donegal Celtic FC
+         Portadown FC             1-0  Lisburn Distillery

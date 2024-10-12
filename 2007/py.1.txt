@@ -1,0 +1,520 @@
+= PY 1 2007
+
+# Date       Fri Feb/16 - Fri Dec/14 2007 (301d)
+# Teams      12
+# Matches    266
+# Stages     Apertura (132)  Clausura (132)  Jahresfinale (2)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/16]
+         Sol de América           0-2  Libertad
+[Sat Feb/17]
+         12 de Octubre de Itauguá  1-1  2 de Mayo
+         Tacuary                  2-0  3 de Febrero
+[Sun Feb/18]
+         Club Olimpia             1-1  Club Nacional
+         Cerro Porteño            1-0  Sportivo Luqueño
+         Sportivo Trinidense      3-2  Guaraní
+
+
+Matchday 2
+[Fri Feb/23]
+         2 de Mayo                0-1  Tacuary
+[Sat Feb/24]
+         Club Nacional            2-2  Sportivo Luqueño
+         Libertad                 2-2  Club Olimpia
+[Sun Feb/25]
+         Guaraní                  3-0  12 de Octubre de Itauguá
+         3 de Febrero             1-0  Sol de América
+         Sportivo Trinidense      0-3  Cerro Porteño
+
+
+Matchday 3
+[Fri Mar/2]
+         Cerro Porteño            3-1  Club Nacional
+[Sat Mar/3]
+         Tacuary                  0-0  Guaraní
+         Sol de América           1-1  2 de Mayo
+[Sun Mar/4]
+         Club Olimpia             2-2  3 de Febrero
+         12 de Octubre de Itauguá  1-1  Sportivo Trinidense
+[Wed Mar/14]
+         Sportivo Luqueño         0-1  Libertad
+
+
+Matchday 4
+[Fri Mar/9]
+         2 de Mayo                3-1  Club Olimpia
+[Sat Mar/10]
+         Sportivo Trinidense      0-2  Tacuary
+         3 de Febrero             1-1  Sportivo Luqueño
+[Sun Mar/11]
+         Guaraní                  1-2  Sol de América
+         Libertad                 1-1  Club Nacional
+[Wed May/2]
+         12 de Octubre de Itauguá  0-2  Cerro Porteño
+
+
+Matchday 5
+[Fri Mar/16]
+         Tacuary                  1-3  12 de Octubre de Itauguá
+[Sat Mar/17]
+         Club Nacional            0-1  3 de Febrero
+[Sun Mar/18]
+         Sportivo Luqueño         2-0  2 de Mayo
+         Club Olimpia             3-1  Guaraní
+         Sol de América           3-3  Sportivo Trinidense
+[Wed Mar/28]
+         Cerro Porteño            1-2  Libertad
+
+
+Matchday 6
+[Fri Mar/23]
+         Sportivo Trinidense      1-0  Club Olimpia
+         2 de Mayo                1-4  Club Nacional
+[Sat Mar/24]
+         Tacuary                  1-4  Cerro Porteño
+         12 de Octubre de Itauguá  2-1  Sol de América
+         Guaraní                  2-2  Sportivo Luqueño
+         3 de Febrero             1-0  Libertad
+
+
+Matchday 7
+[Sat Mar/31]
+         Cerro Porteño            3-1  3 de Febrero
+[Sun Apr/1]
+         Libertad                 3-0  2 de Mayo
+         Club Nacional            0-0  Guaraní
+         Sportivo Luqueño         4-3  Sportivo Trinidense
+         Club Olimpia             3-2  12 de Octubre de Itauguá
+         Sol de América           1-1  Tacuary
+
+
+Matchday 8
+[Sat Apr/7]
+         Sol de América           0-6  Cerro Porteño
+         Guaraní                  1-1  Libertad
+[Sun Apr/8]
+         Tacuary                  0-1  Club Olimpia
+         12 de Octubre de Itauguá  1-2  Sportivo Luqueño
+         Sportivo Trinidense      2-2  Club Nacional
+         2 de Mayo                0-0  3 de Febrero
+
+
+Matchday 9
+[Sat Apr/14]
+         Libertad                 4-0  Sportivo Trinidense
+         Club Nacional            1-0  12 de Octubre de Itauguá
+[Sun Apr/15]
+         Cerro Porteño            1-2  2 de Mayo
+         3 de Febrero             2-1  Guaraní
+         Sportivo Luqueño         2-0  Tacuary
+         Club Olimpia             1-0  Sol de América
+
+
+Matchday 10
+[Fri Apr/20]
+         Tacuary                  1-0  Club Nacional
+[Sat Apr/21]
+         Club Olimpia             0-1  Cerro Porteño
+         Sportivo Trinidense      2-2  3 de Febrero
+[Sun Apr/22]
+         Sol de América           2-4  Sportivo Luqueño
+         12 de Octubre de Itauguá  3-3  Libertad
+         Guaraní                  3-3  2 de Mayo
+
+
+Matchday 11
+[Fri Apr/27]
+         Libertad                 2-0  Tacuary
+[Sat Apr/28]
+         Cerro Porteño            2-1  Guaraní
+         Club Nacional            1-0  Sol de América
+[Sun Apr/29]
+         2 de Mayo                3-0  Sportivo Trinidense
+         3 de Febrero             1-2  12 de Octubre de Itauguá
+         Sportivo Luqueño         2-2  Club Olimpia
+
+
+Matchday 12
+[Sat May/5]
+         Club Nacional            0-1  Club Olimpia
+[Sun May/6]
+         2 de Mayo                2-1  12 de Octubre de Itauguá
+         3 de Febrero             4-1  Tacuary
+         Guaraní                  0-2  Sportivo Trinidense
+         Libertad                 0-0  Sol de América
+         Sportivo Luqueño         3-2  Cerro Porteño
+
+
+Matchday 13
+[Sat May/12]
+         Tacuary                  1-0  2 de Mayo
+         Sportivo Luqueño         2-1  Club Nacional
+[Sun May/13]
+         Sol de América           0-0  3 de Febrero
+         12 de Octubre de Itauguá  2-1  Guaraní
+         Cerro Porteño            1-0  Sportivo Trinidense
+         Club Olimpia             0-1  Libertad
+
+
+Matchday 14
+[Fri May/18]
+         Sportivo Trinidense      1-0  12 de Octubre de Itauguá
+         2 de Mayo                1-2  Sol de América
+[Sat May/19]
+         3 de Febrero             0-1  Club Olimpia
+[Sun May/20]
+         Guaraní                  1-0  Tacuary
+         Club Nacional            1-1  Cerro Porteño
+         Libertad                 0-2  Sportivo Luqueño
+
+
+Matchday 15
+[Wed May/23]
+         Sol de América           0-2  Guaraní
+         Tacuary                  1-1  Sportivo Trinidense
+         Sportivo Luqueño         2-0  3 de Febrero
+         Cerro Porteño            0-2  12 de Octubre de Itauguá
+         Club Olimpia             3-1  2 de Mayo
+[Wed May/30]
+         Club Nacional            0-1  Libertad
+
+
+Matchday 16
+[Sun May/27]
+         2 de Mayo                1-2  Sportivo Luqueño
+         Libertad                 0-1  Cerro Porteño
+         Guaraní                  1-2  Club Olimpia
+         3 de Febrero             1-0  Club Nacional
+         Sportivo Trinidense      1-1  Sol de América
+         12 de Octubre de Itauguá  1-1  Tacuary
+
+
+Matchday 17
+[Sat Jun/2]
+         Club Olimpia             3-1  Sportivo Trinidense
+[Sun Jun/3]
+         Sol de América           3-0  12 de Octubre de Itauguá
+         Sportivo Luqueño         3-0  Guaraní
+         Club Nacional            2-2  2 de Mayo
+         Libertad                 2-1  3 de Febrero
+         Cerro Porteño            6-1  Tacuary
+
+
+Matchday 18
+[Sat Jun/9]
+         Tacuary                  0-1  Sol de América
+         3 de Febrero             1-0  Cerro Porteño
+[Sun Jun/10]
+         Guaraní                  0-3  Club Nacional
+         Sportivo Trinidense      0-4  Sportivo Luqueño
+         2 de Mayo                0-0  Libertad
+         12 de Octubre de Itauguá  0-0  Club Olimpia
+
+
+Matchday 19
+[Sat Jun/16]
+         Club Nacional            2-1  Sportivo Trinidense
+         Sportivo Luqueño         4-1  12 de Octubre de Itauguá
+         3 de Febrero             0-0  2 de Mayo
+[Sun Jun/17]
+         Club Olimpia             2-2  Tacuary
+         Libertad                 0-0  Guaraní
+         Cerro Porteño            0-0  Sol de América
+
+
+Matchday 20
+[Fri Jun/22]
+         2 de Mayo                0-0  Cerro Porteño
+[Sat Jun/23]
+         Sol de América           0-1  Club Olimpia
+[Sun Jun/24]
+         Sportivo Trinidense      0-1  Libertad
+         12 de Octubre de Itauguá  0-2  Club Nacional
+         Tacuary                  0-1  Sportivo Luqueño
+         Guaraní                  1-2  3 de Febrero
+
+
+Matchday 21
+[Fri Jun/29]
+         2 de Mayo                3-3  Guaraní
+[Sat Jun/30]
+         Club Nacional            1-2  Tacuary
+[Sun Jul/1]
+         Libertad                 3-1  12 de Octubre de Itauguá
+         3 de Febrero             0-1  Sportivo Trinidense
+         Sportivo Luqueño         1-2  Sol de América
+         Cerro Porteño            0-0  Club Olimpia
+
+
+Matchday 22
+[Fri Jul/6]
+         Club Olimpia             0-0  Sportivo Luqueño
+[Sat Jul/7]
+         12 de Octubre de Itauguá  4-2  3 de Febrero
+         Guaraní                  2-4  Cerro Porteño
+         Tacuary                  2-1  Libertad
+         Sol de América           0-0  Club Nacional
+         Sportivo Trinidense      1-0  2 de Mayo
+
+
+== Clausura
+
+Matchday 1
+[Fri Aug/3]
+  19.00  Libertad                 3-2  Cerro Porteño
+[Sat Aug/4]
+  15.00  Sportivo Trinidense      1-3  Sportivo Luqueño
+[Sun Aug/5]
+  15.00  3 de Febrero             2-2  12 de Octubre de Itauguá
+         2 de Mayo                1-1  Guaraní
+         Club Nacional            1-0  Tacuary
+         Sol de América           1-2  Club Olimpia
+
+
+Matchday 2
+[Fri Aug/10]
+  19.00  Tacuary                  0-2  2 de Mayo
+[Sat Aug/11]
+  15.00  Guaraní                  0-1  Sportivo Trinidense
+         Sportivo Luqueño         0-0  12 de Octubre de Itauguá
+         Sol de América           0-0  3 de Febrero
+  17.10  Cerro Porteño            1-0  Club Nacional
+[Sun Aug/12]
+  16.00  Club Olimpia             0-0  Libertad
+
+
+Matchday 3
+[Wed Aug/15]
+  16.00  2 de Mayo                0-1  Cerro Porteño
+         Club Nacional            0-0  Club Olimpia
+         Libertad                 3-1  Sol de América
+         3 de Febrero             2-0  Sportivo Luqueño
+         12 de Octubre de Itauguá  1-0  Guaraní
+[Wed Aug/22]
+  16.00  Sportivo Trinidense      1-2  Tacuary
+
+
+Matchday 4
+[Sat Aug/18]
+  15.00  Tacuary                  1-0  12 de Octubre de Itauguá
+  16.00  Libertad                 2-1  3 de Febrero
+[Sun Aug/19]
+  15.00  Guaraní                  2-1  Sportivo Luqueño
+         Sol de América           3-3  Club Nacional
+         Cerro Porteño            0-0  Sportivo Trinidense
+  17.10  Club Olimpia             2-0  2 de Mayo
+
+
+Matchday 5
+[Sat Aug/25]
+  15.15  12 de Octubre de Itauguá  2-3  Cerro Porteño
+[Sun Aug/26]
+  15.00  Club Nacional            1-2  Libertad
+         Sportivo Luqueño         0-3  Tacuary
+  15.15  3 de Febrero             1-0  Guaraní
+         2 de Mayo                1-2  Sol de América
+  17.10  Sportivo Trinidense      0-0  Club Olimpia
+
+
+Matchday 6
+[Sat Sep/1]
+  15.15  Club Nacional            6-2  3 de Febrero
+  18.10  Club Olimpia             2-3  12 de Octubre de Itauguá
+  19.20  Libertad                 3-1  2 de Mayo
+[Sun Sep/2]
+  15.15  Sol de América           0-0  Sportivo Trinidense
+         Cerro Porteño            1-0  Sportivo Luqueño
+  19.00  Tacuary                  0-1  Guaraní
+
+
+Matchday 7
+[Fri Sep/7]
+  17.00  12 de Octubre de Itauguá  0-1  Sol de América
+  18.00  Sportivo Luqueño         1-2  Club Olimpia
+  20.00  2 de Mayo                2-1  Club Nacional
+[Sat Sep/8]
+  15.10  3 de Febrero             2-4  Tacuary
+         Sportivo Trinidense      1-2  Libertad
+[Sun Sep/9]
+  18.00  Guaraní                  1-4  Cerro Porteño
+
+
+Matchday 8
+[Wed Sep/12]
+  15.15  Club Nacional            1-1  Sportivo Trinidense
+         Sol de América           4-2  Sportivo Luqueño
+  16.20  Libertad                 1-0  12 de Octubre de Itauguá
+  18.20  Club Olimpia             1-0  Guaraní
+  19.00  2 de Mayo                1-2  3 de Febrero
+[Wed Sep/26]
+  19.00  Cerro Porteño            5-1  Tacuary
+
+
+Matchday 9
+[Sat Sep/15]
+  19.00  3 de Febrero             0-5  Cerro Porteño
+[Sun Sep/16]
+  15.45  Guaraní                  0-0  Sol de América
+         12 de Octubre de Itauguá  0-1  Club Nacional
+         Sportivo Trinidense      0-0  2 de Mayo
+  16.00  Sportivo Luqueño         0-1  Libertad
+  18.10  Tacuary                  0-1  Club Olimpia
+
+
+Matchday 10
+[Sat Sep/22]
+  15.30  Sol de América           1-1  Tacuary
+  19.00  Cerro Porteño            1-2  Club Olimpia
+[Sun Sep/23]
+  15.30  2 de Mayo                0-1  12 de Octubre de Itauguá
+         Sportivo Trinidense      1-0  3 de Febrero
+  16.00  Club Nacional            2-1  Sportivo Luqueño
+  18.00  Libertad                 2-1  Guaraní
+
+
+Matchday 11
+[Sat Sep/29]
+  15.30  Guaraní                  2-1  Club Nacional
+  19.00  3 de Febrero             1-1  Club Olimpia
+[Sun Sep/30]
+  15.15  Sportivo Luqueño         1-1  2 de Mayo
+  15.30  12 de Octubre de Itauguá  0-1  Sportivo Trinidense
+  16.00  Cerro Porteño            2-1  Sol de América
+  18.10  Tacuary                  1-1  Libertad
+
+
+Matchday 12
+[Fri Oct/5]
+  18.00  Club Olimpia             1-2  Sol de América
+[Sat Oct/6]
+  15.30  Guaraní                  4-0  2 de Mayo
+  18.00  Tacuary                  2-2  Club Nacional
+[Sun Oct/7]
+  15.30  Sportivo Luqueño         1-0  Sportivo Trinidense
+         12 de Octubre de Itauguá  2-0  3 de Febrero
+  16.00  Cerro Porteño            0-0  Libertad
+
+
+Matchday 13
+[Fri Oct/12]
+  19.00  Club Nacional            1-3  Cerro Porteño
+         3 de Febrero             0-1  Sol de América
+  20.00  2 de Mayo                0-0  Tacuary
+[Sun Oct/14]
+  15.30  Sportivo Trinidense      2-1  Guaraní
+         12 de Octubre de Itauguá  2-1  Sportivo Luqueño
+  17.30  Libertad                 0-1  Club Olimpia
+
+
+Matchday 14
+[Fri Oct/19]
+  19.00  Sol de América           0-1  Libertad
+[Sat Oct/20]
+  15.30  Sportivo Luqueño         2-1  3 de Febrero
+         Guaraní                  2-2  12 de Octubre de Itauguá
+  16.00  Cerro Porteño            4-0  2 de Mayo
+  18.00  Tacuary                  0-0  Sportivo Trinidense
+[Sun Oct/21]
+  18.00  Club Olimpia             2-3  Club Nacional
+
+
+Matchday 15
+[Wed Oct/24]
+  16.15  Club Nacional            3-1  Sol de América
+  16.30  Sportivo Luqueño         1-1  Guaraní
+  18.00  Sportivo Trinidense      0-1  Cerro Porteño
+         12 de Octubre de Itauguá  3-0  Tacuary
+  19.00  3 de Febrero             1-2  Libertad
+  20.00  2 de Mayo                1-3  Club Olimpia
+
+
+Matchday 16
+[Sat Oct/27]
+  18.30  Tacuary                  4-1  Sportivo Luqueño
+[Sun Oct/28]
+  16.15  Sol de América           6-0  2 de Mayo
+  16.30  Guaraní                  1-1  3 de Febrero
+         Cerro Porteño            4-1  12 de Octubre de Itauguá
+  18.00  Club Olimpia             2-1  Sportivo Trinidense
+  18.30  Libertad                 2-1  Club Nacional
+
+
+Matchday 17
+[Fri Nov/2]
+  20.00  2 de Mayo                1-3  Libertad
+[Sat Nov/3]
+  16.30  3 de Febrero             1-3  Club Nacional
+         Sportivo Trinidense      0-0  Sol de América
+  17.00  Guaraní                  1-0  Tacuary
+  17.30  Sportivo Luqueño         2-1  Cerro Porteño
+  19.30  12 de Octubre de Itauguá  0-3  Club Olimpia
+
+
+Matchday 18
+[Wed Nov/7]
+  17.00  Club Olimpia             5-1  Sportivo Luqueño
+         Sol de América           1-0  12 de Octubre de Itauguá
+         Club Nacional            1-0  2 de Mayo
+  19.00  Cerro Porteño            4-1  Guaraní
+         Libertad                 1-0  Sportivo Trinidense
+         Tacuary                  2-0  3 de Febrero
+
+
+Matchday 19
+[Sat Nov/10]
+  17.00  Guaraní                  2-0  Club Olimpia
+[Sun Nov/11]
+  15.30  3 de Febrero             2-1  2 de Mayo
+  16.30  Sportivo Trinidense      1-1  Club Nacional
+  17.00  Sportivo Luqueño         2-1  Sol de América
+         Tacuary                  3-3  Cerro Porteño
+  19.00  12 de Octubre de Itauguá  0-3  Libertad
+
+
+Matchday 20
+[Fri Nov/16]
+  19.00  Club Olimpia             1-1  Tacuary
+[Sun Nov/18]
+  17.00  2 de Mayo                1-1  Sportivo Trinidense
+         Club Nacional            0-0  12 de Octubre de Itauguá
+         Sol de América           2-1  Guaraní
+  19.00  Cerro Porteño            2-0  3 de Febrero
+         Libertad                 3-1  Sportivo Luqueño
+
+
+Matchday 21
+[Fri Nov/23]
+  19.00  Tacuary                  0-2  Sol de América
+[Sat Nov/24]
+  17.30  3 de Febrero             0-2  Sportivo Trinidense
+         12 de Octubre de Itauguá  2-2  2 de Mayo
+[Sun Nov/25]
+  17.00  Sportivo Luqueño         2-3  Club Nacional
+         Guaraní                  0-0  Libertad
+         Cerro Porteño            3-1  Club Olimpia
+
+
+Matchday 22
+[Fri Nov/30]
+  19.00  Libertad                 1-0  Tacuary
+         Club Olimpia             1-2  3 de Febrero
+[Sat Dec/1]
+  17.00  2 de Mayo                1-1  Sportivo Luqueño
+         Club Nacional            2-2  Guaraní
+         Sportivo Trinidense      1-2  12 de Octubre de Itauguá
+[Sun Dec/2]
+  17.00  Sol de América           2-2  Cerro Porteño
+
+
+== Jahresfinale
+
+Final
+[Sun Dec/9]
+  18.00  Sportivo Luqueño         1-1  Libertad
+[Fri Dec/14]
+  19.00  Libertad                 2-0  Sportivo Luqueño

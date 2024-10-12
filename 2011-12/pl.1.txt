@@ -1,0 +1,451 @@
+= PL 1 2011/12
+
+# Date       Fri Jul/29 2011 - Sun May/6 2012 (282d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Jul/29]
+  18.00  ŁKS Łódź                 0-5 (0-3)  Lech Poznań
+  20.30  Polonia Warszawa         1-0 (0-0)  Lechia Gdańsk
+[Sat Jul/30]
+  13.30  KS Cracovia              1-2 (1-0)  Korona Kielce
+  15.45  Ruch Chorzów             2-1 (0-0)  GKS Bełchatów
+  18.00  Widzew Łódź              1-1 (0-0)  Wisła Kraków
+[Sun Jul/31]
+  14.30  Śląsk Wrocław            1-1 (0-1)  Górnik Zabrze
+[Mon Aug/1]
+  18.30  Podbeskidzie Bielsko-Biała  2-2 (0-2)  Jagiellonia Białystok
+[Wed Nov/23]
+  18.30  Legia Warszawa           3-0 (1-0)  Zagłębie Lubin
+
+
+Matchday 2
+[Fri Aug/5]
+  18.00  Górnik Zabrze            1-1 (0-0)  Widzew Łódź
+  20.30  Zagłębie Lubin           1-1 (0-0)  Lech Poznań
+[Sat Aug/6]
+  13.30  GKS Bełchatów            6-0 (3-0)  Podbeskidzie Bielsko-Biała
+  15.45  Jagiellonia Białystok    2-1 (1-1)  Lechia Gdańsk
+  18.00  Polonia Warszawa         1-1 (1-0)  Wisła Kraków
+[Sun Aug/7]
+  14.30  Śląsk Wrocław            4-0 (3-0)  ŁKS Łódź
+  17.00  KS Cracovia              1-3 (0-2)  Legia Warszawa
+[Mon Aug/8]
+  18.30  Korona Kielce            2-2 (2-2)  Ruch Chorzów
+
+
+Matchday 3
+[Fri Aug/12]
+  18.00  Ruch Chorzów             0-1 (0-0)  Śląsk Wrocław
+  20.30  Legia Warszawa           3-1 (1-0)  Górnik Zabrze
+[Sat Aug/13]
+  13.30  Jagiellonia Białystok    1-1 (0-1)  Korona Kielce
+  15.45  Polonia Warszawa         2-0 (1-0)  ŁKS Łódź
+  18.00  Wisła Kraków             1-0 (0-0)  Zagłębie Lubin
+[Sun Aug/14]
+  14.30  Podbeskidzie Bielsko-Biała  0-0  Widzew Łódź
+  17.00  Lechia Gdańsk            1-1 (1-0)  KS Cracovia
+[Mon Aug/15]
+  18.30  GKS Bełchatów            0-3 (0-0)  Lech Poznań
+
+
+Matchday 4
+[Fri Aug/19]
+  18.00  Zagłębie Lubin           0-0  Podbeskidzie Bielsko-Biała
+  20.30  Lech Poznań              3-0 (2-0)  Ruch Chorzów
+[Sat Aug/20]
+  13.30  Górnik Zabrze            1-0 (0-0)  GKS Bełchatów
+  15.45  Widzew Łódź              1-0 (0-0)  Polonia Warszawa
+  18.00  Korona Kielce            0-0  Wisła Kraków
+[Sun Aug/21]
+  14.30  Jagiellonia Białystok    2-1 (1-0)  KS Cracovia
+  17.00  Legia Warszawa           1-2 (0-2)  Śląsk Wrocław
+[Mon Aug/22]
+  18.30  Lechia Gdańsk            0-0  ŁKS Łódź
+
+
+Matchday 5
+[Fri Aug/26]
+  18.00  Górnik Zabrze            2-1 (1-0)  Lech Poznań
+         Zagłębie Lubin           1-1 (1-0)  KS Cracovia
+[Sat Aug/27]
+  13.30  Podbeskidzie Bielsko-Biała  2-3 (0-2)  Korona Kielce
+  15.45  Polonia Warszawa         2-1 (1-1)  GKS Bełchatów
+  18.00  Wisła Kraków             0-1 (0-0)  Lechia Gdańsk
+[Sun Aug/28]
+  14.30  Śląsk Wrocław            1-2 (0-2)  Widzew Łódź
+  17.00  Ruch Chorzów             1-0 (0-0)  Jagiellonia Białystok
+[Mon Aug/29]
+  18.30  ŁKS Łódź                 1-3 (1-2)  Legia Warszawa
+
+
+Matchday 6
+[Fri Sep/9]
+  18.00  Ruch Chorzów             2-1 (1-0)  Zagłębie Lubin
+  20.30  Lech Poznań              0-1 (0-1)  Wisła Kraków
+[Sat Sep/10]
+  13.30  GKS Bełchatów            0-0  Widzew Łódź
+  15.45  Korona Kielce            2-1 (2-1)  Śląsk Wrocław
+  18.00  Legia Warszawa           1-2 (0-2)  Podbeskidzie Bielsko-Biała
+[Sun Sep/11]
+  14.30  KS Cracovia              0-1 (0-1)  ŁKS Łódź
+  17.00  Jagiellonia Białystok    3-2 (1-0)  Polonia Warszawa
+[Mon Sep/12]
+  18.30  Lechia Gdańsk            2-1 (0-1)  Górnik Zabrze
+
+
+Matchday 7
+[Fri Sep/16]
+  18.00  Widzew Łódź              0-0  Zagłębie Lubin
+  20.30  Lech Poznań              4-1 (1-1)  Jagiellonia Białystok
+[Sat Sep/17]
+  13.30  Podbeskidzie Bielsko-Biała  0-1 (0-1)  Ruch Chorzów
+  15.45  ŁKS Łódź                 1-1 (0-1)  Górnik Zabrze
+  18.00  Korona Kielce            1-0 (1-0)  Lechia Gdańsk
+[Sun Sep/18]
+  14.30  KS Cracovia              0-1 (0-0)  Śląsk Wrocław
+  17.00  Polonia Warszawa         2-1 (0-1)  Legia Warszawa
+[Mon Sep/19]
+  18.30  Wisła Kraków             2-0 (0-0)  GKS Bełchatów
+
+
+Matchday 8
+[Fri Sep/23]
+  18.00  Podbeskidzie Bielsko-Biała  1-0 (0-0)  Lechia Gdańsk
+  20.30  Śląsk Wrocław            3-1 (2-0)  Lech Poznań
+[Sat Sep/24]
+  13.30  Górnik Zabrze            0-1 (0-0)  KS Cracovia
+  15.45  Zagłębie Lubin           2-1 (1-1)  ŁKS Łódź
+  18.00  GKS Bełchatów            0-2 (0-0)  Legia Warszawa
+[Sun Sep/25]
+  14.30  Widzew Łódź              4-2 (1-1)  Jagiellonia Białystok
+  17.00  Wisła Kraków             3-2 (1-0)  Ruch Chorzów
+[Mon Sep/26]
+  18.30  Polonia Warszawa         0-0  Korona Kielce
+
+
+Matchday 9
+[Fri Sep/30]
+  18.00  ŁKS Łódź                 2-1 (0-0)  Podbeskidzie Bielsko-Biała
+  20.30  Lechia Gdańsk            0-0  GKS Bełchatów
+[Sat Oct/1]
+  13.30  Ruch Chorzów             3-1 (1-0)  Widzew Łódź
+  15.45  Jagiellonia Białystok    3-1 (2-1)  Zagłębie Lubin
+  18.00  KS Cracovia              0-3 (0-1)  Lech Poznań
+[Sun Oct/2]
+  14.30  Śląsk Wrocław            4-0 (2-0)  Polonia Warszawa
+  17.00  Legia Warszawa           2-0 (1-0)  Wisła Kraków
+[Mon Oct/3]
+  18.30  Korona Kielce            2-0 (2-0)  Górnik Zabrze
+
+
+Matchday 10
+[Fri Oct/14]
+  18.00  Podbeskidzie Bielsko-Biała  1-0 (0-0)  KS Cracovia
+  20.30  Lech Poznań              1-0 (0-0)  Korona Kielce
+[Sat Oct/15]
+  13.30  GKS Bełchatów            3-0 (2-0)  Śląsk Wrocław
+  15.45  Polonia Warszawa         1-1 (1-0)  Górnik Zabrze
+  18.00  Wisła Kraków             3-1 (0-0)  Jagiellonia Białystok
+[Sun Oct/16]
+  14.30  Zagłębie Lubin           0-1 (0-1)  Lechia Gdańsk
+  17.00  Ruch Chorzów             0-1 (0-1)  Legia Warszawa
+[Mon Oct/17]
+  18.30  Widzew Łódź              0-1 (0-0)  ŁKS Łódź
+
+
+Matchday 11
+[Fri Oct/21]
+  18.00  Zagłębie Lubin           3-1 (1-0)  Korona Kielce
+  20.30  Górnik Zabrze            1-2 (1-0)  Ruch Chorzów
+[Sat Oct/22]
+  13.30  Jagiellonia Białystok    1-0 (0-0)  GKS Bełchatów
+  15.45  Śląsk Wrocław            1-0 (1-0)  Podbeskidzie Bielsko-Biała
+  18.00  Lechia Gdańsk            0-0  Lech Poznań
+[Sun Oct/23]
+  14.30  ŁKS Łódź                 1-2 (1-1)  Wisła Kraków
+  17.00  Legia Warszawa           2-0 (0-0)  Widzew Łódź
+[Mon Oct/24]
+  18.30  KS Cracovia              0-0  Polonia Warszawa
+
+
+Matchday 12
+[Fri Oct/28]
+  18.00  Górnik Zabrze            2-0 (0-0)  Jagiellonia Białystok
+  20.30  Śląsk Wrocław            1-0 (0-0)  Lechia Gdańsk
+[Sat Oct/29]
+  13.30  GKS Bełchatów            2-1 (1-1)  Zagłębie Lubin
+  15.45  Widzew Łódź              1-0 (1-0)  KS Cracovia
+  18.00  Wisła Kraków             0-1 (0-1)  Podbeskidzie Bielsko-Biała
+[Sun Oct/30]
+  14.30  Korona Kielce            0-2 (0-0)  ŁKS Łódź
+  17.00  Lech Poznań              0-0  Legia Warszawa
+[Mon Oct/31]
+  18.30  Ruch Chorzów             0-1 (0-0)  Polonia Warszawa
+
+
+Matchday 13
+[Fri Nov/4]
+  18.00  Podbeskidzie Bielsko-Biała  1-1 (0-0)  Górnik Zabrze
+  20.30  Polonia Warszawa         1-0 (0-0)  Lech Poznań
+[Sat Nov/5]
+  13.30  Korona Kielce            2-2 (2-0)  GKS Bełchatów
+  15.45  ŁKS Łódź                 0-4 (0-1)  Ruch Chorzów
+  18.00  Lechia Gdańsk            0-0  Widzew Łódź
+[Sun Nov/6]
+  14.30  Zagłębie Lubin           1-5 (0-2)  Śląsk Wrocław
+  17.00  KS Cracovia              1-0 (1-0)  Wisła Kraków
+[Mon Nov/7]
+  18.30  Jagiellonia Białystok    0-0  Legia Warszawa
+
+
+Matchday 14
+[Fri Nov/18]
+  18.00  Zagłębie Lubin           1-0 (0-0)  Polonia Warszawa
+  20.30  Jagiellonia Białystok    0-2 (0-0)  Śląsk Wrocław
+[Sat Nov/19]
+  13.30  GKS Bełchatów            3-0 (1-0)  ŁKS Łódź
+  15.45  Ruch Chorzów             2-0 (0-0)  KS Cracovia
+  18.00  Legia Warszawa           3-0 (1-0)  Lechia Gdańsk
+[Sun Nov/20]
+  14.30  Widzew Łódź              0-0  Korona Kielce
+  17.00  Wisła Kraków             0-1 (0-0)  Górnik Zabrze
+[Mon Nov/21]
+  18.30  Podbeskidzie Bielsko-Biała  0-0  Lech Poznań
+
+
+Matchday 15
+[Fri Nov/25]
+  18.00  Polonia Warszawa         2-1 (0-1)  Podbeskidzie Bielsko-Biała
+  20.30  Śląsk Wrocław            0-1 (0-0)  Wisła Kraków
+[Sat Nov/26]
+  13.30  ŁKS Łódź                 1-1 (1-0)  Jagiellonia Białystok
+  15.45  Górnik Zabrze            4-1 (2-0)  Zagłębie Lubin
+  18.00  Korona Kielce            1-0 (1-0)  Legia Warszawa
+[Sun Nov/27]
+  14.30  KS Cracovia              2-1 (1-0)  GKS Bełchatów
+  17.00  Lech Poznań              0-1 (0-0)  Widzew Łódź
+[Mon Nov/28]
+  18.30  Lechia Gdańsk            1-0 (1-0)  Ruch Chorzów
+
+
+Matchday 16
+[Fri Dec/2]
+  18.00  GKS Bełchatów            1-1 (1-0)  Ruch Chorzów
+  20.30  Lechia Gdańsk            1-3 (1-3)  Polonia Warszawa
+[Sat Dec/3]
+  13.30  Korona Kielce            0-0  KS Cracovia
+  15.45  Jagiellonia Białystok    0-2 (0-1)  Podbeskidzie Bielsko-Biała
+  18.00  Lech Poznań              4-0 (4-0)  ŁKS Łódź
+[Sun Dec/4]
+  14.30  Górnik Zabrze            0-2 (0-1)  Śląsk Wrocław
+  17.00  Wisła Kraków             1-0 (1-0)  Widzew Łódź
+[Mon Dec/5]
+  18.30  Zagłębie Lubin           0-4 (0-2)  Legia Warszawa
+
+
+Matchday 17
+[Fri Dec/9]
+  18.00  Podbeskidzie Bielsko-Biała  1-0 (0-0)  GKS Bełchatów
+  20.30  Wisła Kraków             0-1 (0-0)  Polonia Warszawa
+[Sat Dec/10]
+  13.30  Ruch Chorzów             4-1 (3-1)  Korona Kielce
+  15.45  Widzew Łódź              2-0 (2-0)  Górnik Zabrze
+  18.00  Legia Warszawa           0-0  KS Cracovia
+[Sun Dec/11]
+  14.30  ŁKS Łódź                 1-2 (1-0)  Śląsk Wrocław
+  17.00  Lechia Gdańsk            0-1 (0-0)  Jagiellonia Białystok
+[Mon Dec/12]
+  18.30  Lech Poznań              3-2 (1-0)  Zagłębie Lubin
+
+
+Matchday 18
+[Fri Feb/17]
+  18.00  ŁKS Łódź                 0-2 (0-1)  Polonia Warszawa
+  20.30  Lech Poznań              0-1 (0-0)  GKS Bełchatów
+[Sat Feb/18]
+  13.30  Widzew Łódź              0-1 (0-0)  Podbeskidzie Bielsko-Biała
+  15.45  KS Cracovia              1-1 (0-0)  Lechia Gdańsk
+  18.00  Śląsk Wrocław            1-1 (1-0)  Ruch Chorzów
+[Sun Feb/19]
+  14.30  Zagłębie Lubin           2-2 (1-1)  Wisła Kraków
+  17.00  Górnik Zabrze            2-0 (1-0)  Legia Warszawa
+[Mon Feb/20]
+  18.30  Korona Kielce            2-0 (2-0)  Jagiellonia Białystok
+
+
+Matchday 19
+[Fri Feb/24]
+  18.00  ŁKS Łódź                 0-0  Lechia Gdańsk
+  20.30  Ruch Chorzów             3-0 (2-0)  Lech Poznań
+[Sat Feb/25]
+  13.30  Podbeskidzie Bielsko-Biała  1-0 (1-0)  Zagłębie Lubin
+  15.45  KS Cracovia              0-0  Jagiellonia Białystok
+  18.00  Polonia Warszawa         1-2 (0-2)  Widzew Łódź
+[Sun Feb/26]
+  14.30  Śląsk Wrocław            0-4 (0-3)  Legia Warszawa
+  17.00  Wisła Kraków             0-1 (0-0)  Korona Kielce
+[Mon Feb/27]
+  18.30  GKS Bełchatów            1-1 (0-0)  Górnik Zabrze
+
+
+Matchday 20
+[Fri Mar/2]
+  18.00  Korona Kielce            2-0 (2-0)  Podbeskidzie Bielsko-Biała
+  20.30  KS Cracovia              0-2 (0-0)  Zagłębie Lubin
+[Sat Mar/3]
+  13.30  GKS Bełchatów            2-1 (0-0)  Polonia Warszawa
+  15.45  Legia Warszawa           2-0 (1-0)  ŁKS Łódź
+  18.00  Lechia Gdańsk            0-2 (0-2)  Wisła Kraków
+[Sun Mar/4]
+  14.30  Widzew Łódź              2-2 (1-1)  Śląsk Wrocław
+  17.00  Jagiellonia Białystok    0-1 (0-0)  Ruch Chorzów
+[Wed Mar/28]
+  18.45  Lech Poznań              1-0 (0-0)  Górnik Zabrze
+
+
+Matchday 21
+[Fri Mar/9]
+  18.00  ŁKS Łódź                 2-2 (2-0)  KS Cracovia
+  20.30  Wisła Kraków             0-0  Lech Poznań
+[Sat Mar/10]
+  13.30  Górnik Zabrze            2-2 (0-2)  Lechia Gdańsk
+  15.45  Podbeskidzie Bielsko-Biała  0-1 (0-1)  Legia Warszawa
+  18.00  Zagłębie Lubin           1-1 (0-1)  Ruch Chorzów
+[Sun Mar/11]
+  14.30  Widzew Łódź              1-0 (1-0)  GKS Bełchatów
+  17.00  Śląsk Wrocław            1-2 (1-1)  Korona Kielce
+[Mon Mar/12]
+  18.30  Polonia Warszawa         4-1 (1-0)  Jagiellonia Białystok
+
+
+Matchday 22
+[Fri Mar/16]
+  18.00  Zagłębie Lubin           1-0 (0-0)  Widzew Łódź
+  20.30  Legia Warszawa           0-0  Polonia Warszawa
+[Sat Mar/17]
+  13.30  Górnik Zabrze            0-0  ŁKS Łódź
+  15.45  GKS Bełchatów            2-2 (1-0)  Wisła Kraków
+  18.00  Jagiellonia Białystok    2-0 (1-0)  Lech Poznań
+[Sun Mar/18]
+  14.30  Śląsk Wrocław            3-0 (3-0)  KS Cracovia
+  17.00  Ruch Chorzów             2-2 (2-0)  Podbeskidzie Bielsko-Biała
+[Mon Mar/19]
+  18.30  Lechia Gdańsk            0-0  Korona Kielce
+
+
+Matchday 23
+[Fri Mar/23]
+  18.00  Jagiellonia Białystok    4-1 (2-1)  Widzew Łódź
+  20.30  KS Cracovia              1-3 (0-2)  Górnik Zabrze
+[Sat Mar/24]
+  13.30  ŁKS Łódź                 1-2 (0-0)  Zagłębie Lubin
+  15.45  Lechia Gdańsk            2-3 (2-2)  Podbeskidzie Bielsko-Biała
+  18.00  Legia Warszawa           1-1 (1-0)  GKS Bełchatów
+[Sun Mar/25]
+  14.30  Lech Poznań              2-0 (0-0)  Śląsk Wrocław
+  17.00  Ruch Chorzów             1-0 (0-0)  Wisła Kraków
+[Mon Mar/26]
+  18.30  Korona Kielce            3-0 (0-0)  Polonia Warszawa
+
+
+Matchday 24
+[Fri Mar/30]
+  18.00  GKS Bełchatów            1-3 (0-1)  Lechia Gdańsk
+  20.30  Wisła Kraków             0-0  Legia Warszawa
+[Sat Mar/31]
+  13.30  Widzew Łódź              1-2 (0-1)  Ruch Chorzów
+  15.45  Podbeskidzie Bielsko-Biała  0-1 (0-1)  ŁKS Łódź
+  18.00  Lech Poznań              3-1 (2-1)  KS Cracovia
+[Sun Apr/1]
+  14.30  Górnik Zabrze            2-0 (2-0)  Korona Kielce
+  17.00  Polonia Warszawa         3-0 (1-0)  Śląsk Wrocław
+[Mon Apr/2]
+  18.30  Zagłębie Lubin           2-1 (1-0)  Jagiellonia Białystok
+
+
+Matchday 25
+[Wed Apr/4]
+  18.45  KS Cracovia              3-1 (1-1)  Podbeskidzie Bielsko-Biała
+[Thu Apr/5]
+  18.45  Górnik Zabrze            1-0 (0-0)  Polonia Warszawa
+[Sat Apr/7]
+  13.30  Legia Warszawa           2-0 (0-0)  Ruch Chorzów
+  15.45  Śląsk Wrocław            1-0 (0-0)  GKS Bełchatów
+  18.00  Jagiellonia Białystok    1-0 (1-0)  Wisła Kraków
+[Mon Apr/9]
+  13.45  ŁKS Łódź                 1-1 (0-0)  Widzew Łódź
+  16.00  Lechia Gdańsk            0-1 (0-1)  Zagłębie Lubin
+  18.30  Korona Kielce            2-2 (2-0)  Lech Poznań
+
+
+Matchday 26
+[Fri Apr/13]
+  18.00  GKS Bełchatów            2-0 (2-0)  Jagiellonia Białystok
+  20.30  Korona Kielce            0-2 (0-1)  Zagłębie Lubin
+[Sat Apr/14]
+  13.30  Podbeskidzie Bielsko-Biała  1-1 (0-0)  Śląsk Wrocław
+  15.45  Wisła Kraków             3-2 (2-0)  ŁKS Łódź
+  18.00  Widzew Łódź              1-1 (1-1)  Legia Warszawa
+[Sun Apr/15]
+  14.30  Lech Poznań              2-1 (1-0)  Lechia Gdańsk
+  17.00  Ruch Chorzów             0-0  Górnik Zabrze
+[Mon Apr/16]
+  18.30  Polonia Warszawa         2-1 (1-0)  KS Cracovia
+
+
+Matchday 27
+[Fri Apr/20]
+  18.00  KS Cracovia              0-0  Widzew Łódź
+  20.30  Polonia Warszawa         0-1 (0-0)  Ruch Chorzów
+[Sat Apr/21]
+  13.30  Legia Warszawa           0-1 (0-1)  Lech Poznań
+  15.45  Jagiellonia Białystok    2-1 (1-0)  Górnik Zabrze
+  18.00  Podbeskidzie Bielsko-Biała  1-3 (0-0)  Wisła Kraków
+[Sun Apr/22]
+  14.30  Zagłębie Lubin           1-1 (0-0)  GKS Bełchatów
+  17.00  Lechia Gdańsk            1-1 (0-0)  Śląsk Wrocław
+[Mon Apr/23]
+  18.30  ŁKS Łódź                 0-2 (0-2)  Korona Kielce
+
+
+Matchday 28
+[Fri Apr/27]
+  18.00  Górnik Zabrze            3-0 (1-0)  Podbeskidzie Bielsko-Biała
+  20.30  Lech Poznań              1-0 (0-0)  Polonia Warszawa
+[Sat Apr/28]
+  13.30  Widzew Łódź              0-1 (0-1)  Lechia Gdańsk
+  15.45  GKS Bełchatów            0-2 (0-2)  Korona Kielce
+  18.00  Ruch Chorzów             2-2 (1-2)  ŁKS Łódź
+[Sun Apr/29]
+  14.30  Śląsk Wrocław            2-1 (2-0)  Zagłębie Lubin
+  17.00  Legia Warszawa           1-1 (0-0)  Jagiellonia Białystok
+[Mon Apr/30]
+  18.30  Wisła Kraków             1-0 (1-0)  KS Cracovia
+
+
+Matchday 29
+[Thu May/3]
+  18.00  KS Cracovia              0-2 (0-0)  Ruch Chorzów
+         Górnik Zabrze            2-0 (1-0)  Wisła Kraków
+         Korona Kielce            0-2 (0-2)  Widzew Łódź
+         Lech Poznań              1-0 (0-0)  Podbeskidzie Bielsko-Biała
+         Lechia Gdańsk            1-0 (1-0)  Legia Warszawa
+         ŁKS Łódź                 1-1 (1-1)  GKS Bełchatów
+         Polonia Warszawa         0-4 (0-1)  Zagłębie Lubin
+         Śląsk Wrocław            3-1 (2-0)  Jagiellonia Białystok
+
+
+Matchday 30
+[Sun May/6]
+  17.00  GKS Bełchatów            2-2 (1-2)  KS Cracovia
+         Jagiellonia Białystok    2-1 (0-0)  ŁKS Łódź
+         Legia Warszawa           1-0 (0-0)  Korona Kielce
+         Podbeskidzie Bielsko-Biała  1-1 (0-1)  Polonia Warszawa
+         Ruch Chorzów             2-1 (2-0)  Lechia Gdańsk
+         Widzew Łódź              0-0  Lech Poznań
+         Wisła Kraków             0-1 (0-0)  Śląsk Wrocław
+         Zagłębie Lubin           2-1 (1-0)  Górnik Zabrze

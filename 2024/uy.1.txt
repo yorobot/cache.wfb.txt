@@ -1,0 +1,468 @@
+= UY 1 2024
+
+# Date       Fri Feb/16 - Sun Sep/22 2024 (219d)
+# Teams      16
+# Matches    209
+# Stages     Apertura (120)  Intermedio (57)  Clausura (32)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/16]
+  20.30  Nacional                 2-1 (0-0)  River Plate
+[Sat Feb/17]
+  19.15  Miramar Misiones         2-3 (0-2)  Progreso
+  21.30  Deportivo Maldonado      1-2 (0-0)  Boston River
+  17.00  Fénix                    1-2 (1-1)  Danubio
+[Sun Feb/18]
+  10.00  CA Cerro                 1-1 (1-0)  Montevideo Wanderers
+  17.00  Racing                   2-2 (1-0)  Liverpool
+  20.00  Cerro Largo              1-2 (1-0)  Peñarol
+
+
+Matchday 2
+[Fri Feb/23]
+  17.00  River Plate              3-1 (1-0)  Deportivo Maldonado
+  20.30  Montevideo Wanderers     0-1 (0-0)  Racing
+[Sat Feb/24]
+  20.00  Peñarol                  2-0 (2-0)  Miramar Misiones
+  17.00  Boston River             0-0  Danubio
+[Sun Feb/25]
+  10.00  Cerro Largo              0-0  Fénix
+  17.00  Liverpool                1-1 (1-0)  Nacional
+  19.30  Defensor Sporting        5-0 (1-0)  CA Cerro
+
+
+Matchday 3
+[Fri Mar/1]
+  19.30  Miramar Misiones         1-2 (0-0)  Cerro Largo
+  17.00  CA Cerro                 2-3 (2-1)  Progreso
+[Sat Mar/2]
+  17.00  River Plate              1-0 (0-0)  Danubio
+  10.00  Racing                   1-2 (1-1)  Defensor Sporting
+  20.00  Nacional                 3-0 (1-0)  Montevideo Wanderers
+[Sun Mar/3]
+  17.00  Liverpool                1-2 (1-2)  Deportivo Maldonado
+  20.00  Rampla Juniors           0-3 (0-1)  Peñarol
+  10.00  Fénix                    1-2 (0-0)  Boston River
+
+
+Matchday 4
+[Fri Mar/8]
+  20.30  Miramar Misiones         1-1 (0-0)  Fénix
+[Sat Mar/9]
+  16.30  River Plate              1-2 (1-1)  Boston River
+  19.30  Peñarol                  3-0 (1-0)  CA Cerro
+[Sun Mar/10]
+  16.30  Progreso                 4-3 (1-1)  Racing
+  10.00  Liverpool                1-2 (1-1)  Danubio
+  19.30  Defensor Sporting        3-3 (1-1)  Nacional
+[Mon Mar/11]
+  16.30  Cerro Largo              2-0 (1-0)  Rampla Juniors
+  19.00  Montevideo Wanderers     0-0  Deportivo Maldonado
+
+
+Matchday 5
+[Fri Mar/15]
+  19.30  Boston River             1-1 (0-1)  Liverpool
+[Sat Mar/16]
+  16.30  Fénix                    0-0  River Plate
+  19.30  Racing                   1-2 (0-2)  Peñarol
+[Sat Mar/23]
+  18.30  Nacional                 0-0  Progreso
+  21.00  Deportivo Maldonado      1-0 (0-0)  Defensor Sporting
+  13.30  Rampla Juniors           1-1 (0-0)  Miramar Misiones
+[Sun Mar/24]
+  16.00  Danubio                  0-2 (0-1)  Montevideo Wanderers
+  10.00  CA Cerro                 1-1 (0-1)  Cerro Largo
+
+
+Matchday 2
+[Wed Mar/27]
+  16.00  Progreso                 4-2 (2-1)  Rampla Juniors
+
+
+Matchday 6
+[Fri Mar/29]
+  12.30  Cerro Largo              0-2 (0-0)  Racing
+  16.00  Peñarol                  0-0  Nacional
+[Sat Mar/30]
+  19.00  Defensor Sporting        1-0 (0-0)  Danubio
+  13.30  Rampla Juniors           1-0 (1-0)  Fénix
+  16.00  Liverpool                1-1 (0-0)  River Plate
+[Sun Mar/31]
+  15.00  Progreso                 3-1 (2-1)  Deportivo Maldonado
+  17.30  Miramar Misiones         2-2 (2-1)  CA Cerro
+  20.00  Montevideo Wanderers     0-2 (0-2)  Boston River
+
+
+Matchday 7
+[Fri Apr/5]
+  19.00  Boston River             2-2 (0-1)  Defensor Sporting
+[Sat Apr/6]
+  18.00  Nacional                 1-0 (1-0)  Cerro Largo
+  10.00  River Plate              3-1 (2-1)  Montevideo Wanderers
+  12.30  Racing                   1-1 (1-1)  Miramar Misiones
+  15.00  Danubio                  1-1 (1-0)  Progreso
+[Sun Apr/7]
+  10.00  CA Cerro                 3-0 (3-0)  Rampla Juniors
+  15.00  Fénix                    1-3 (1-1)  Liverpool
+  18.00  Deportivo Maldonado      1-2 (1-0)  Peñarol
+
+
+Matchday 8
+[Sat Apr/13]
+  20.00  Deportivo Maldonado      0-1 (0-0)  Cerro Largo
+  15.00  Progreso                 1-0 (1-0)  Boston River
+  17.30  CA Cerro                 0-0  Fénix
+[Sun Apr/14]
+  10.00  Rampla Juniors           0-1 (0-1)  Racing
+  15.00  Defensor Sporting        2-1 (1-0)  River Plate
+  18.00  Peñarol                  2-0 (1-0)  Danubio
+[Tue Apr/16]
+  18.00  Montevideo Wanderers     2-3 (0-1)  Liverpool
+  20.30  Miramar Misiones         1-2 (1-1)  Nacional
+
+
+Matchday 9
+[Fri Apr/19]
+  15.30  Liverpool                1-1 (0-1)  Defensor Sporting
+  13.30  Racing                   1-1 (1-0)  CA Cerro
+[Sat Apr/20]
+  10.00  Danubio                  1-1 (1-0)  Cerro Largo
+  15.00  Boston River             1-3 (1-2)  Peñarol
+  18.00  Nacional                 6-2 (3-0)  Rampla Juniors
+  20.30  Deportivo Maldonado      1-2 (1-1)  Miramar Misiones
+[Sun Apr/21]
+  13.00  Fénix                    1-2 (0-1)  Montevideo Wanderers
+  15.30  River Plate              2-2 (1-1)  Progreso
+
+
+Matchday 1
+[Wed Apr/24]
+  15.00  Rampla Juniors           2-1 (1-1)  Defensor Sporting
+
+
+Matchday 10
+[Sat Apr/27]
+  15.00  Cerro Largo              2-0 (1-0)  Boston River
+  12.30  Rampla Juniors           1-1 (1-0)  Deportivo Maldonado
+[Sun Apr/28]
+  15.00  Progreso                 2-1 (0-1)  Liverpool
+  18.00  CA Cerro                 1-2 (0-1)  Nacional
+  20.30  Defensor Sporting        2-2 (1-0)  Montevideo Wanderers
+  10.00  Miramar Misiones         3-5 (1-2)  Danubio
+[Mon Apr/29]
+  15.00  Racing                   2-0 (1-0)  Fénix
+  20.00  Peñarol                  3-0 (2-0)  River Plate
+
+
+Matchday 11
+[Fri May/3]
+  15.00  Liverpool                2-2 (2-1)  Peñarol
+  20.00  Nacional                 4-2 (2-1)  Racing
+  12.30  Danubio                  1-1 (0-0)  Rampla Juniors
+[Sat May/4]
+  10.00  Boston River             3-1 (0-1)  Miramar Misiones
+  15.00  Montevideo Wanderers     2-0 (0-0)  Progreso
+[Sun May/5]
+  15.00  Fénix                    0-2 (0-1)  Defensor Sporting
+  17.30  Deportivo Maldonado      3-0 (2-0)  CA Cerro
+  10.00  River Plate              2-3 (2-2)  Cerro Largo
+
+
+Matchday 12
+[Fri May/10]
+  20.00  Nacional                 1-4 (0-4)  Fénix
+[Sat May/11]
+  10.00  CA Cerro                 2-0 (2-0)  Danubio
+  12.30  Miramar Misiones         0-0  River Plate
+  15.00  Racing                   0-1 (0-0)  Deportivo Maldonado
+  18.00  Peñarol                  1-0 (0-0)  Montevideo Wanderers
+[Sun May/12]
+  12.30  Rampla Juniors           0-1 (0-0)  Boston River
+  15.00  Progreso                 1-4 (0-1)  Defensor Sporting
+  10.00  Liverpool                2-1 (2-1)  Cerro Largo
+
+
+Matchday 13
+[Sat May/18]
+  12.30  Fénix                    1-0 (0-0)  Progreso
+  15.00  River Plate              0-2 (0-2)  Rampla Juniors
+  18.00  Defensor Sporting        0-2 (0-1)  Peñarol
+[Sun May/19]
+  15.00  Boston River             2-0 (0-0)  CA Cerro
+  17.30  Montevideo Wanderers     1-0 (1-0)  Cerro Largo
+  12.30  Danubio                  0-1 (0-0)  Racing
+[Mon May/20]
+  20.00  Deportivo Maldonado      0-2 (0-0)  Nacional
+  15.00  Liverpool                2-1 (0-0)  Miramar Misiones
+
+
+Matchday 14
+[Thu May/23]
+  20.00  Peñarol                  3-1 (0-1)  Progreso
+[Fri May/24]
+  15.00  Racing                   1-2 (1-0)  Boston River
+[Sat May/25]
+  15.00  Liverpool                1-2 (1-1)  Rampla Juniors
+  18.00  Nacional                 1-0 (0-0)  Danubio
+  12.30  Miramar Misiones         2-0 (1-0)  Montevideo Wanderers
+[Sun May/26]
+  12.30  CA Cerro                 3-2 (0-2)  River Plate
+  15.00  Defensor Sporting        3-1 (3-1)  Cerro Largo
+  17.30  Deportivo Maldonado      0-1 (0-0)  Fénix
+
+
+Matchday 15
+[Sat Jun/1]
+  17.30  Montevideo Wanderers     2-1 (1-0)  Rampla Juniors
+[Sun Jun/2]
+  15.00  Fénix                    0-1 (0-0)  Peñarol
+  17.30  Defensor Sporting        3-0 (1-0)  Miramar Misiones
+  10.00  River Plate              3-3 (0-2)  Racing
+[Mon Jun/3]
+  15.00  Danubio                  1-1 (0-0)  Deportivo Maldonado
+  12.30  Liverpool                0-3 (0-0)  CA Cerro
+[Tue Jun/4]
+  15.00  Progreso                 0-1 (0-0)  Cerro Largo
+  19.00  Boston River             1-3 (0-2)  Nacional
+
+
+== Intermedio
+
+Gruppe A
+[Sat Jun/8]
+  15.00  Racing                   2-1 (1-1)  Fénix
+  20.00  Deportivo Maldonado      0-2 (0-1)  Defensor Sporting
+
+
+Gruppe B
+[Sat Jun/8]
+  12.30  Liverpool                0-1 (0-1)  Miramar Misiones
+
+
+Gruppe A
+[Sat Jun/8]
+  17.30  Montevideo Wanderers     2-0 (1-0)  Peñarol
+[Sun Jun/9]
+  15.00  Progreso                 1-0 (1-0)  River Plate
+
+
+Gruppe B
+[Sun Jun/9]
+  12.30  Cerro Largo              2-2 (0-1)  Danubio
+  18.00  CA Cerro                 3-0 (1-0)  Nacional
+[Tue Jun/11]
+  15.00  Rampla Juniors           1-1 (0-1)  Boston River
+[Fri Jun/14]
+  19.00  Miramar Misiones         1-0 (1-0)  CA Cerro
+
+
+Gruppe A
+[Sat Jun/15]
+  15.00  River Plate              1-1 (0-1)  Deportivo Maldonado
+  20.00  Defensor Sporting        1-1 (0-1)  Progreso
+
+
+Gruppe B
+[Sat Jun/15]
+  17.30  Nacional                 2-1 (1-0)  Liverpool
+[Sun Jun/16]
+  15.00  Danubio                  2-0 (1-0)  Rampla Juniors
+
+
+Gruppe A
+[Sun Jun/16]
+  12.30  Fénix                    3-1 (1-0)  Montevideo Wanderers
+  18.00  Peñarol                  1-1 (0-0)  Racing
+
+
+Gruppe B
+[Mon Jun/17]
+  17.00  Boston River             0-2 (0-1)  Cerro Largo
+
+
+Gruppe A
+[Sat Jun/22]
+  12.30  Deportivo Maldonado      1-3 (1-1)  Fénix
+
+
+Gruppe B
+[Sat Jun/22]
+  10.00  CA Cerro                 0-0  Danubio
+
+
+Gruppe A
+[Sat Jun/22]
+  15.00  Racing                   0-1 (0-1)  Defensor Sporting
+  18.00  Progreso                 0-2 (0-0)  Peñarol
+[Sun Jun/23]
+  17.30  Montevideo Wanderers     1-3 (1-2)  River Plate
+
+
+Gruppe B
+[Sun Jun/23]
+  15.00  Cerro Largo              0-4 (0-2)  Nacional
+  12.30  Rampla Juniors           1-2 (0-1)  Miramar Misiones
+  10.00  Liverpool                1-0 (1-0)  Boston River
+[Sat Jul/6]
+  12.30  Boston River             2-0 (1-0)  CA Cerro
+  10.00  Cerro Largo              1-0 (1-0)  Liverpool
+
+
+Gruppe A
+[Sat Jul/6]
+  15.30  Peñarol                  1-1 (0-1)  Deportivo Maldonado
+
+
+Gruppe B
+[Sun Jul/7]
+  15.30  Nacional                 1-1 (0-0)  Rampla Juniors
+
+
+Gruppe A
+[Sun Jul/7]
+  12.30  Progreso                 3-2 (2-1)  Racing
+  18.00  Defensor Sporting        1-1 (0-1)  Montevideo Wanderers
+  10.00  Fénix                    1-0 (1-0)  River Plate
+
+
+Gruppe B
+[Sun Jul/7]
+  20.30  Miramar Misiones         2-3 (2-0)  Danubio
+
+
+Gruppe A
+[Fri Jul/12]
+  19.00  Deportivo Maldonado      1-1 (1-0)  Racing
+
+
+Gruppe B
+[Sat Jul/13]
+  17.30  Boston River             2-1 (1-1)  Miramar Misiones
+  15.00  Danubio                  0-6 (0-3)  Nacional
+  12.30  Rampla Juniors           3-2 (2-0)  Liverpool
+[Sun Jul/14]
+  10.00  CA Cerro                 0-1 (0-1)  Cerro Largo
+
+
+Gruppe A
+[Sun Jul/14]
+  17.30  Montevideo Wanderers     4-2 (2-1)  Progreso
+  15.00  River Plate              1-3 (1-1)  Peñarol
+  12.30  Fénix                    1-2 (0-2)  Defensor Sporting
+[Fri Jul/19]
+  19.00  Defensor Sporting        0-1 (0-1)  River Plate
+
+
+Gruppe B
+[Sat Jul/20]
+  15.30  Nacional                 4-0 (1-0)  Miramar Misiones
+  10.00  Cerro Largo              0-1 (0-0)  Rampla Juniors
+
+
+Gruppe A
+[Sat Jul/20]
+  12.30  Racing                   0-1 (0-1)  Montevideo Wanderers
+[Sun Jul/21]
+  16.00  Peñarol                  2-0 (1-0)  Fénix
+
+
+Gruppe B
+[Sun Jul/21]
+  10.00  Liverpool                0-1 (0-0)  CA Cerro
+  18.30  Boston River             1-2 (1-0)  Danubio
+
+
+Gruppe A
+[Sun Jul/21]
+  12.30  Progreso                 0-1 (0-0)  Deportivo Maldonado
+
+
+Gruppe B
+[Sat Jul/27]
+  10.00  Miramar Misiones         0-0  Cerro Largo
+
+
+Gruppe A
+[Sat Jul/27]
+  17.30  Montevideo Wanderers     1-0 (0-0)  Deportivo Maldonado
+         Peñarol                  1-0 (0-0)  Defensor Sporting
+  12.30  Fénix                    1-1 (1-1)  Progreso
+
+
+Gruppe B
+[Sun Jul/28]
+  12.30  CA Cerro                 4-1 (2-0)  Rampla Juniors
+  15.00  Nacional                 1-0 (1-0)  Boston River
+         Danubio                  2-0 (1-0)  Liverpool
+
+
+Gruppe A
+[Mon Jul/29]
+  15.00  River Plate              2-2 (0-2)  Racing
+
+
+Final
+[Sun Aug/4]
+  15.00  Peñarol                  7-8 pen. (1-1, 1-0)  Nacional
+
+
+== Clausura
+
+Matchday 1
+[Fri Aug/16]
+  19.00  Montevideo Wanderers     1-0 (1-0)  CA Cerro
+[Sat Aug/17]
+  14.00  Liverpool                1-1 (1-1)  Racing
+  19.30  Boston River             1-0 (0-0)  Deportivo Maldonado
+  17.00  Peñarol                  0-0  Cerro Largo
+[Sun Aug/18]
+  12.30  Danubio                  1-0 (0-0)  Fénix
+  18.00  River Plate              3-3 (2-1)  Nacional
+  15.00  Progreso                 0-0  Miramar Misiones
+  20.30  Defensor Sporting        1-2 (1-2)  Rampla Juniors
+
+
+Matchday 2
+[Sat Sep/7]
+  15.00  CA Cerro                 1-1 (1-0)  Defensor Sporting
+  18.00  Miramar Misiones         1-2 (1-0)  Peñarol
+  20.30  Deportivo Maldonado      0-1 (0-0)  River Plate
+  12.30  Racing                   0-1 (0-1)  Montevideo Wanderers
+[Sun Sep/8]
+  12.30  Fénix                    1-0 (0-0)  Cerro Largo
+  15.00  Danubio                  2-0 (0-0)  Boston River
+  18.00  Nacional                 1-0 (1-0)  Liverpool
+  10.00  Rampla Juniors           2-0 (1-0)  Progreso
+
+
+Matchday 3
+[Fri Sep/13]
+  19.30  Defensor Sporting        -  Racing
+[Sat Sep/14]
+  13.30  Cerro Largo              -  Miramar Misiones
+  16.00  Progreso                 -  CA Cerro
+  19.30  Peñarol                  -  Rampla Juniors
+[Sun Sep/15]
+  19.30  Montevideo Wanderers     -  Nacional
+  16.00  Deportivo Maldonado      -  Liverpool
+  13.30  Danubio                  -  River Plate
+[Mon Sep/16]
+  19.00  Boston River             -  Fénix
+
+
+Matchday 4
+[Fri Sep/20]
+  19.30  Deportivo Maldonado      -  Montevideo Wanderers
+[Sat Sep/21]
+  16.00  Racing                   -  Progreso
+  13.30  Rampla Juniors           -  Cerro Largo
+  19.00  Nacional                 -  Defensor Sporting
+[Sun Sep/22]
+  16.00  Danubio                  -  Liverpool
+  19.00  CA Cerro                 -  Peñarol
+  10.00  Fénix                    -  Miramar Misiones
+  13.30  Boston River             -  River Plate

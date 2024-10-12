@@ -1,0 +1,366 @@
+= IT 1 1971/72
+
+# Date       Sun Oct/3 1971 - Sun May/28 1972 (238d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Oct/3]
+         Inter                    2-0 (1-0)  Atalanta
+         Juventus                 4-2 (1-0)  US Catanzaro
+         AC Mantova               1-2 (0-0)  Torino FC
+         AS Roma                  1-0 (0-0)  Lanerossi Vicenza
+         Sampdoria                2-1 (2-1)  Bologna FC
+         AS Varese 1910           0-1 (0-1)  AC Milan
+         Cagliari Calcio          3-1 (2-0)  Hellas Verona
+         ACF Fiorentina           2-1 (1-1)  SSC Napoli
+
+
+Matchday 2
+[Sun Oct/17]
+         SSC Napoli               1-0 (0-0)  AC Mantova
+         Hellas Verona            1-0 (0-0)  Juventus
+         AS Roma                  1-0 (0-0)  Sampdoria
+         Atalanta                 2-1 (1-0)  Cagliari Calcio
+         US Catanzaro             0-2 (0-0)  Inter
+         Bologna FC               1-0 (0-0)  AS Varese 1910
+         AC Milan                 2-0 (1-0)  ACF Fiorentina
+         Torino FC                2-1 (1-1)  Lanerossi Vicenza
+
+
+Matchday 3
+[Sun Oct/24]
+         AS Varese 1910           2-2 (0-1)  Torino FC
+         SSC Napoli               0-0  Sampdoria
+         AC Mantova               1-1 (1-1)  Bologna FC
+         Juventus                 1-0 (1-0)  Atalanta
+         ACF Fiorentina           2-0 (2-0)  AS Roma
+         Cagliari Calcio          0-0  US Catanzaro
+         Lanerossi Vicenza        0-2 (0-1)  AC Milan
+         Inter                    4-1 (1-0)  Hellas Verona
+
+
+Matchday 4
+[Sun Oct/31]
+         Torino FC                1-0 (0-0)  Cagliari Calcio
+         Sampdoria                1-1 (1-0)  US Catanzaro
+         Hellas Verona            1-0 (1-0)  AC Mantova
+         Atalanta                 3-1 (0-0)  ACF Fiorentina
+         AC Milan                 1-4 (0-3)  Juventus
+         AS Roma                  3-1 (2-0)  Inter
+         Bologna FC               2-1 (2-0)  Lanerossi Vicenza
+         AS Varese 1910           0-1 (0-0)  SSC Napoli
+
+
+Matchday 5
+[Sun Nov/7]
+         Sampdoria                0-2 (0-1)  AC Milan
+         AC Mantova               1-0 (1-0)  Atalanta
+         Lanerossi Vicenza        2-1 (0-0)  Hellas Verona
+         Inter                    2-0 (0-0)  Torino FC
+         US Catanzaro             1-1 (1-0)  AS Varese 1910
+         Cagliari Calcio          2-1 (2-1)  SSC Napoli
+         Juventus                 2-1 (0-1)  AS Roma
+         ACF Fiorentina           2-1 (0-0)  Bologna FC
+
+
+Matchday 6
+[Sun Nov/14]
+         AC Mantova               1-1 (0-0)  US Catanzaro
+         AS Varese 1910           1-3 (1-2)  AS Roma
+         Torino FC                2-0 (1-0)  Sampdoria
+         Hellas Verona            0-0  ACF Fiorentina
+         AC Milan                 0-0  Cagliari Calcio
+         Bologna FC               1-2 (1-2)  Juventus
+         Atalanta                 1-3 (1-2)  Lanerossi Vicenza
+         SSC Napoli               0-0  Inter
+
+
+Matchday 7
+[Sun Nov/28]
+         US Catanzaro             1-1 (1-0)  Lanerossi Vicenza
+         ACF Fiorentina           1-1 (1-1)  Torino FC
+         Inter                    2-3 (2-2)  AC Milan
+         Juventus                 2-2 (1-1)  SSC Napoli
+         AS Roma                  3-1 (0-1)  AC Mantova
+         Sampdoria                1-0 (0-0)  Atalanta
+         AS Varese 1910           0-0  Hellas Verona
+         Cagliari Calcio          2-1 (1-0)  Bologna FC
+
+
+Matchday 8
+[Sun Dec/5]
+         Lanerossi Vicenza        6-2 (2-0)  SSC Napoli
+         AC Milan                 0-1 (0-0)  AC Mantova
+         AS Roma                  2-2 (0-1)  Cagliari Calcio
+         US Catanzaro             0-2 (0-0)  ACF Fiorentina
+         Atalanta                 1-0 (1-0)  AS Varese 1910
+         Bologna FC               0-3 (0-0)  Inter
+         Juventus                 2-1 (1-1)  Torino FC
+         Sampdoria                1-0 (1-0)  Hellas Verona
+
+
+Matchday 9
+[Sun Dec/12]
+         Hellas Verona            1-2 (1-1)  Atalanta
+         AS Varese 1910           0-1 (0-1)  Juventus
+         Torino FC                1-0 (1-0)  US Catanzaro
+         AC Mantova               1-2 (1-2)  Sampdoria
+         ACF Fiorentina           2-1 (1-1)  Lanerossi Vicenza
+         Bologna FC               0-2 (0-1)  AC Milan
+         SSC Napoli               4-0 (1-0)  AS Roma
+         Inter                    0-0  Cagliari Calcio
+
+
+Matchday 10
+[Sun Dec/19]
+         Juventus                 3-1 (2-1)  Sampdoria
+         Hellas Verona            0-0  Bologna FC
+         SSC Napoli               1-1 (1-1)  Torino FC
+         AC Milan                 3-0 (1-0)  AS Roma
+         Cagliari Calcio          0-0  ACF Fiorentina
+         Atalanta                 1-0 (1-0)  US Catanzaro
+         AC Mantova               2-2 (2-2)  AS Varese 1910
+         Lanerossi Vicenza        0-4 (0-0)  Inter
+
+
+Matchday 11
+[Sun Dec/26]
+         Sampdoria                2-0 (2-0)  AS Varese 1910
+         AS Roma                  1-0 (0-0)  Bologna FC
+         Lanerossi Vicenza        0-1 (0-1)  Cagliari Calcio
+         ACF Fiorentina           0-0  Inter
+         US Catanzaro             0-0  SSC Napoli
+         Atalanta                 0-0  Torino FC
+         AC Milan                 2-0 (2-0)  Hellas Verona
+         Juventus                 2-1 (0-0)  AC Mantova
+
+
+Matchday 12
+[Sun Jan/2]
+         AC Mantova               1-2 (1-2)  ACF Fiorentina
+         AS Varese 1910           0-2 (0-2)  Cagliari Calcio
+         Torino FC                0-0  AC Milan
+         Hellas Verona            1-1 (0-1)  SSC Napoli
+         Inter                    0-0  Juventus
+         Bologna FC               2-1 (2-0)  US Catanzaro
+         Sampdoria                1-1 (0-0)  Lanerossi Vicenza
+         AS Roma                  1-0 (1-0)  Atalanta
+
+
+Matchday 13
+[Sun Jan/9]
+         Torino FC                2-2 (2-1)  Hellas Verona
+         SSC Napoli               0-0  AC Milan
+         Inter                    4-4 (1-1)  Sampdoria
+         US Catanzaro             1-1 (0-1)  AS Roma
+         Cagliari Calcio          2-1 (1-0)  Juventus
+         Atalanta                 0-0  Bologna FC
+         Lanerossi Vicenza        1-0 (0-0)  AC Mantova
+         ACF Fiorentina           1-0 (0-0)  AS Varese 1910
+
+
+Matchday 14
+[Sun Jan/16]
+         AC Milan                 1-0 (0-0)  Atalanta
+         AS Varese 1910           0-0  Lanerossi Vicenza
+         Hellas Verona            0-0  US Catanzaro
+         AS Roma                  3-1 (0-0)  Torino FC
+         Juventus                 1-0 (0-0)  ACF Fiorentina
+         Bologna FC               2-2 (2-2)  SSC Napoli
+         Sampdoria                0-0  Cagliari Calcio
+         AC Mantova               1-6 (0-1)  Inter
+
+
+Matchday 15
+[Sun Jan/23]
+         Hellas Verona            1-1 (1-1)  AS Roma
+         Torino FC                1-0 (0-0)  Bologna FC
+         Lanerossi Vicenza        1-3 (1-2)  Juventus
+         ACF Fiorentina           0-0  Sampdoria
+         US Catanzaro             0-0  AC Milan
+         Cagliari Calcio          1-0 (1-0)  AC Mantova
+         SSC Napoli               2-1 (1-0)  Atalanta
+         Inter                    2-0 (0-0)  AS Varese 1910
+
+
+Matchday 16
+[Sun Jan/30]
+         SSC Napoli               0-0  ACF Fiorentina
+         Bologna FC               1-0 (0-0)  Sampdoria
+         Hellas Verona            0-2 (0-2)  Cagliari Calcio
+         Torino FC                1-0 (1-0)  AC Mantova
+         Atalanta                 1-0 (1-0)  Inter
+         US Catanzaro             1-0 (0-0)  Juventus
+         Lanerossi Vicenza        0-1 (0-0)  AS Roma
+         AC Milan                 3-1 (0-0)  AS Varese 1910
+
+
+Matchday 17
+[Sun Feb/6]
+         AS Varese 1910           0-0  Bologna FC
+         Sampdoria                1-0 (0-0)  AS Roma
+         Lanerossi Vicenza        0-0  Torino FC
+         Inter                    1-0 (0-0)  US Catanzaro
+         ACF Fiorentina           2-0 (0-0)  AC Milan
+         Cagliari Calcio          2-0 (0-0)  Atalanta
+         AC Mantova               0-0  SSC Napoli
+         Juventus                 4-0 (2-0)  Hellas Verona
+
+
+Matchday 18
+[Sun Feb/13]
+         AC Milan                 1-1 (0-0)  Lanerossi Vicenza
+         AS Roma                  0-0  ACF Fiorentina
+         Hellas Verona            2-0 (1-0)  Inter
+         Torino FC                2-0 (2-0)  AS Varese 1910
+         Atalanta                 0-0  Juventus
+         US Catanzaro             2-2 (0-0)  Cagliari Calcio
+         Bologna FC               1-1 (0-0)  AC Mantova
+         Sampdoria                1-2 (0-0)  SSC Napoli
+
+
+Matchday 19
+[Sun Feb/20]
+         SSC Napoli               3-0 (1-0)  AS Varese 1910
+         AC Mantova               1-0 (1-0)  Hellas Verona
+         Juventus                 1-1 (0-1)  AC Milan
+         ACF Fiorentina           2-0 (1-0)  Atalanta
+         US Catanzaro             1-0 (1-0)  Sampdoria
+         Cagliari Calcio          1-2 (0-1)  Torino FC
+         Lanerossi Vicenza        2-3 (1-0)  Bologna FC
+         Inter                    2-2 (1-1)  AS Roma
+
+
+Matchday 20
+[Sun Feb/27]
+         SSC Napoli               0-0  Cagliari Calcio
+         AS Roma                  1-1 (1-0)  Juventus
+         Hellas Verona            2-2 (2-1)  Lanerossi Vicenza
+         AS Varese 1910           1-1 (1-0)  US Catanzaro
+         Atalanta                 2-0 (1-0)  AC Mantova
+         AC Milan                 0-0  Sampdoria
+         Bologna FC               1-1 (1-0)  ACF Fiorentina
+         Torino FC                2-1 (1-0)  Inter
+
+
+Matchday 21
+[Sun Mar/12]
+         Sampdoria                2-1 (2-1)  Torino FC
+         AS Roma                  0-0  AS Varese 1910
+         Juventus                 2-1 (0-1)  Bologna FC
+         ACF Fiorentina           2-1 (1-0)  Hellas Verona
+         US Catanzaro             1-1 (1-0)  AC Mantova
+         Cagliari Calcio          2-1 (1-0)  AC Milan
+         Lanerossi Vicenza        1-0 (0-0)  Atalanta
+         Inter                    2-0 (1-0)  SSC Napoli
+
+
+Matchday 22
+[Sun Mar/19]
+         AC Mantova               0-2 (0-1)  AS Roma
+         AC Milan                 1-1 (0-0)  Inter
+         Hellas Verona            1-1 (1-1)  AS Varese 1910
+         Torino FC                2-1 (1-0)  ACF Fiorentina
+         Lanerossi Vicenza        2-0 (1-0)  US Catanzaro
+         Bologna FC               2-1 (1-1)  Cagliari Calcio
+         Atalanta                 0-0  Sampdoria
+         SSC Napoli               1-1 (0-1)  Juventus
+
+
+Matchday 23
+[Sun Mar/26]
+         AS Varese 1910           0-1 (0-0)  Atalanta
+         SSC Napoli               1-1 (0-0)  Lanerossi Vicenza
+         Hellas Verona            3-2 (1-1)  Sampdoria
+         Inter                    1-1 (0-0)  Bologna FC
+         ACF Fiorentina           1-0 (0-0)  US Catanzaro
+         Cagliari Calcio          1-0 (1-0)  AS Roma
+         Torino FC                2-1 (1-1)  Juventus
+         AC Mantova               0-0  AC Milan
+
+
+Matchday 24
+[Sun Apr/2]
+         Lanerossi Vicenza        0-1 (0-1)  ACF Fiorentina
+         AS Roma                  1-0 (0-0)  SSC Napoli
+         Sampdoria                0-0  AC Mantova
+         AC Milan                 1-0 (0-0)  Bologna FC
+         US Catanzaro             1-3 (0-2)  Torino FC
+         Atalanta                 0-0  Hellas Verona
+         Cagliari Calcio          2-1 (1-1)  Inter
+         Juventus                 1-0 (1-0)  AS Varese 1910
+
+
+Matchday 25
+[Sun Apr/9]
+         AS Varese 1910           2-4 (2-1)  AC Mantova
+         Torino FC                1-0 (0-0)  SSC Napoli
+         AS Roma                  1-2 (1-0)  AC Milan
+         ACF Fiorentina           0-1 (0-1)  Cagliari Calcio
+         US Catanzaro             1-1 (1-0)  Atalanta
+         Bologna FC               1-0 (0-0)  Hellas Verona
+         Sampdoria                0-0  Juventus
+         Inter                    2-1 (0-0)  Lanerossi Vicenza
+
+
+Matchday 26
+[Sun Apr/16]
+         AC Mantova               1-1 (1-0)  Juventus
+         SSC Napoli               0-0  US Catanzaro
+         Hellas Verona            1-1 (0-1)  AC Milan
+         AS Varese 1910           0-1 (0-1)  Sampdoria
+         Bologna FC               2-2 (2-1)  AS Roma
+         Inter                    1-1 (0-1)  ACF Fiorentina
+         Cagliari Calcio          3-0 (2-0)  Lanerossi Vicenza
+         Torino FC                1-0 (0-0)  Atalanta
+
+
+Matchday 27
+[Sun Apr/23]
+         AC Milan                 1-0 (0-0)  Torino FC
+         Juventus                 3-0 (2-0)  Inter
+         SSC Napoli               1-1 (1-1)  Hellas Verona
+         US Catanzaro             1-0 (0-0)  Bologna FC
+         Cagliari Calcio          1-1 (1-1)  AS Varese 1910
+         Atalanta                 1-1 (0-0)  AS Roma
+         Lanerossi Vicenza        1-0 (0-0)  Sampdoria
+         ACF Fiorentina           0-1 (0-0)  AC Mantova
+
+
+Matchday 28
+[Sun May/7]
+         AS Roma                  4-0 (0-0)  US Catanzaro
+         AS Varese 1910           1-1 (1-0)  ACF Fiorentina
+         Hellas Verona            0-0  Torino FC
+         Sampdoria                0-0  Inter
+         AC Mantova               0-1 (0-0)  Lanerossi Vicenza
+         Bologna FC               1-1 (0-1)  Atalanta
+         AC Milan                 3-0 (1-0)  SSC Napoli
+         Juventus                 2-1 (1-0)  Cagliari Calcio
+
+
+Matchday 29
+[Sun May/21]
+         Atalanta                 0-1 (0-0)  AC Milan
+         Cagliari Calcio          3-1 (3-0)  Sampdoria
+         US Catanzaro             0-0  Hellas Verona
+         ACF Fiorentina           1-1 (1-0)  Juventus
+         Inter                    2-0 (0-0)  AC Mantova
+         Lanerossi Vicenza        0-4 (0-0)  AS Varese 1910
+         SSC Napoli               0-0  Bologna FC
+         Torino FC                2-0 (2-0)  AS Roma
+
+
+Matchday 30
+[Sun May/28]
+         Sampdoria                0-0  ACF Fiorentina
+         AS Roma                  1-0 (0-0)  Hellas Verona
+         AC Milan                 1-0 (1-0)  US Catanzaro
+         AC Mantova               2-1 (0-1)  Cagliari Calcio
+         Juventus                 2-0 (2-0)  Lanerossi Vicenza
+         Atalanta                 3-1 (2-0)  SSC Napoli
+         AS Varese 1910           0-3 (0-1)  Inter
+         Bologna FC               2-3 (1-0)  Torino FC

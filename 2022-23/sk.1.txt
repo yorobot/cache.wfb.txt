@@ -1,0 +1,448 @@
+= SK 1 2022/23
+
+# Date       Fri Jul/15 2022 - Fri May/26 2023 (315d)
+# Teams      12
+# Matches    195
+# Stages     Regular Season (132)  Relegation (30)  ECL Playoffs (3)  Championship (30)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Jul/15]
+  20.30  MFK Zemplín Michalovce   2-0 (0-0)  Dukla Banská Bystrica
+[Sat Jul/16]
+  18.00  AS Trenčín               0-0  MŠK Žilina
+         Spartak Trnava           2-0 (1-0)  Zlaté Moravce
+  20.30  FK Železiarne Podbrezová  2-1 (1-0)  Slovan Bratislava
+[Sun Jul/17]
+  18.00  FC DAC 1904              2-1 (0-0)  Tatran Liptovský Mikuláš
+         MFK Skalica              0-2 (0-2)  MFK Ružomberok
+
+
+Matchday 2
+[Fri Jul/22]
+  20.30  Zlaté Moravce            2-2 (1-1)  MFK Skalica
+[Sat Jul/23]
+  18.00  Tatran Liptovský Mikuláš  1-1 (1-1)  MFK Zemplín Michalovce
+         Slovan Bratislava        4-0 (1-0)  AS Trenčín
+[Sun Jul/24]
+  17.00  MŠK Žilina               1-1 (1-0)  FC DAC 1904
+  18.00  MFK Ružomberok           2-2 (1-1)  FK Železiarne Podbrezová
+  20.30  Spartak Trnava           1-2 (0-1)  Dukla Banská Bystrica
+
+
+Matchday 3
+[Fri Jul/29]
+  17.00  MŠK Žilina               4-1 (2-0)  Dukla Banská Bystrica
+[Sat Jul/30]
+  18.00  MFK Skalica              2-0 (1-0)  AS Trenčín
+         Slovan Bratislava        4-2 (0-2)  MFK Zemplín Michalovce
+[Sun Jul/31]
+  18.00  FC DAC 1904              3-0 (1-0)  Zlaté Moravce
+         Spartak Trnava           1-1 (1-0)  FK Železiarne Podbrezová
+  20.30  Tatran Liptovský Mikuláš  0-0  MFK Ružomberok
+
+
+Matchday 4
+[Fri Aug/5]
+  20.30  AS Trenčín               3-1 (1-1)  MFK Zemplín Michalovce
+[Sat Aug/6]
+  18.00  Dukla Banská Bystrica    2-3 (2-0)  MFK Ružomberok
+         Zlaté Moravce            1-1 (1-1)  Tatran Liptovský Mikuláš
+[Sun Aug/7]
+  18.00  FK Železiarne Podbrezová  0-0  FC DAC 1904
+         Slovan Bratislava        3-0 (1-0)  MFK Skalica
+  20.30  Spartak Trnava           2-2 (0-1)  MŠK Žilina
+
+
+Matchday 5
+[Fri Aug/12]
+  20.30  MFK Skalica              1-1 (0-1)  FK Železiarne Podbrezová
+[Sat Aug/13]
+  16.00  MŠK Žilina               1-0 (0-0)  Zlaté Moravce
+  18.00  MFK Ružomberok           0-0  AS Trenčín
+[Sun Aug/14]
+  18.00  Tatran Liptovský Mikuláš  1-5 (1-1)  Slovan Bratislava
+         MFK Zemplín Michalovce   0-4 (0-1)  Spartak Trnava
+  20.30  FC DAC 1904              3-0 (1-0)  Dukla Banská Bystrica
+
+
+Matchday 6
+[Fri Aug/19]
+  20.30  FK Železiarne Podbrezová  3-1 (2-0)  Dukla Banská Bystrica
+[Sat Aug/20]
+  18.00  AS Trenčín               2-1 (1-0)  Tatran Liptovský Mikuláš
+         MFK Zemplín Michalovce   3-1 (1-0)  MFK Skalica
+         Spartak Trnava           3-1 (1-0)  FC DAC 1904
+         Zlaté Moravce            2-2 (0-1)  MFK Ružomberok
+[Sun Aug/21]
+  20.30  Slovan Bratislava        3-1 (2-0)  MŠK Žilina
+
+
+Matchday 7
+[Fri Aug/26]
+  16.00  MŠK Žilina               2-0 (1-0)  MFK Zemplín Michalovce
+[Sat Aug/27]
+  18.00  Dukla Banská Bystrica    4-2 (1-1)  Zlaté Moravce
+         FC DAC 1904              1-2 (1-0)  AS Trenčín
+         Tatran Liptovský Mikuláš  2-5 (0-2)  FK Železiarne Podbrezová
+         MFK Skalica              1-1 (0-0)  Spartak Trnava
+[Sun Aug/28]
+  20.30  MFK Ružomberok           0-1 (0-0)  Slovan Bratislava
+
+
+Matchday 8
+[Tue Aug/30]
+  18.00  FK Železiarne Podbrezová  0-0  Zlaté Moravce
+         MFK Skalica              1-0 (1-0)  MŠK Žilina
+  20.30  AS Trenčín               0-2 (0-1)  Dukla Banská Bystrica
+[Wed Aug/31]
+  18.00  MFK Zemplín Michalovce   1-1 (0-0)  MFK Ružomberok
+         Spartak Trnava           1-0 (0-0)  Tatran Liptovský Mikuláš
+  20.30  Slovan Bratislava        1-1 (0-1)  FC DAC 1904
+
+
+Matchday 9
+[Fri Sep/2]
+  16.30  MŠK Žilina               0-1 (0-0)  FK Železiarne Podbrezová
+[Sat Sep/3]
+  18.00  Dukla Banská Bystrica    0-1 (0-0)  Slovan Bratislava
+         FC DAC 1904              1-0 (0-0)  MFK Zemplín Michalovce
+         Tatran Liptovský Mikuláš  0-0  MFK Skalica
+         Zlaté Moravce            1-0 (1-0)  AS Trenčín
+[Sun Sep/4]
+  17.30  MFK Ružomberok           3-2 (3-1)  Spartak Trnava
+
+
+Matchday 10
+[Fri Sep/9]
+  17.30  MFK Ružomberok           0-2 (0-2)  MŠK Žilina
+[Sat Sep/10]
+  18.00  Tatran Liptovský Mikuláš  1-2 (1-0)  Dukla Banská Bystrica
+         MFK Skalica              1-1 (0-0)  FC DAC 1904
+[Sun Sep/11]
+  17.30  AS Trenčín               0-2 (0-1)  Spartak Trnava
+[Wed Oct/12]
+  16.30  MFK Zemplín Michalovce   1-0 (1-0)  FK Železiarne Podbrezová
+[Thu Nov/24]
+  18.30  Slovan Bratislava        4-1 (2-1)  Zlaté Moravce
+
+
+Matchday 11
+[Fri Sep/16]
+  17.30  Dukla Banská Bystrica    0-0  MFK Skalica
+[Sat Sep/17]
+  16.00  MŠK Žilina               4-2 (3-1)  Tatran Liptovský Mikuláš
+  18.00  FK Železiarne Podbrezová  2-0 (2-0)  AS Trenčín
+         Zlaté Moravce            0-1 (0-1)  MFK Zemplín Michalovce
+[Sun Sep/18]
+  17.30  Spartak Trnava           0-0  Slovan Bratislava
+[Thu Nov/24]
+  18.30  FC DAC 1904              1-0 (1-0)  MFK Ružomberok
+
+
+Matchday 12
+[Fri Sep/30]
+  17.30  MFK Ružomberok           2-0 (1-0)  MFK Skalica
+[Sat Oct/1]
+  18.00  Dukla Banská Bystrica    3-1 (1-0)  MFK Zemplín Michalovce
+         Tatran Liptovský Mikuláš  0-1 (0-1)  FC DAC 1904
+         MŠK Žilina               1-1 (0-0)  AS Trenčín
+[Sun Oct/2]
+  17.30  Slovan Bratislava        3-1 (0-0)  FK Železiarne Podbrezová
+  18.00  Zlaté Moravce            0-3 (0-1)  Spartak Trnava
+
+
+Matchday 13
+[Fri Oct/7]
+  17.30  FK Železiarne Podbrezová  0-2 (0-1)  MFK Ružomberok
+[Sat Oct/8]
+  18.00  Dukla Banská Bystrica    0-2 (0-1)  Spartak Trnava
+         MFK Skalica              0-2 (0-1)  Zlaté Moravce
+         MFK Zemplín Michalovce   1-2 (1-0)  Tatran Liptovský Mikuláš
+[Sun Oct/9]
+  17.30  FC DAC 1904              5-2 (2-1)  MŠK Žilina
+  18.00  AS Trenčín               4-0 (2-0)  Slovan Bratislava
+
+
+Matchday 14
+[Fri Oct/14]
+  17.30  Zlaté Moravce            2-2 (0-0)  FC DAC 1904
+[Sat Oct/15]
+  18.00  AS Trenčín               3-1 (0-0)  MFK Skalica
+         Dukla Banská Bystrica    2-1 (1-1)  MŠK Žilina
+         MFK Ružomberok           1-1 (0-1)  Tatran Liptovský Mikuláš
+[Sun Oct/16]
+  17.30  FK Železiarne Podbrezová  3-1 (2-0)  Spartak Trnava
+  19.00  MFK Zemplín Michalovce   0-1 (0-0)  Slovan Bratislava
+
+
+Matchday 15
+[Fri Oct/21]
+  17.30  MFK Skalica              1-4 (0-3)  Slovan Bratislava
+[Sat Oct/22]
+  15.00  Tatran Liptovský Mikuláš  1-2 (0-0)  Zlaté Moravce
+         MFK Ružomberok           1-1 (0-0)  Dukla Banská Bystrica
+         MFK Zemplín Michalovce   2-0 (0-0)  AS Trenčín
+         MŠK Žilina               1-2 (0-1)  Spartak Trnava
+[Sun Oct/23]
+  17.30  FC DAC 1904              2-1 (0-0)  FK Železiarne Podbrezová
+
+
+Matchday 16
+[Fri Oct/28]
+  17.30  Zlaté Moravce            4-0 (2-0)  MŠK Žilina
+[Sat Oct/29]
+  15.00  AS Trenčín               0-0  MFK Ružomberok
+         FK Železiarne Podbrezová  0-2 (0-1)  MFK Skalica
+[Sun Oct/30]
+  15.00  Slovan Bratislava        1-0 (0-0)  Tatran Liptovský Mikuláš
+  18.00  Dukla Banská Bystrica    1-3 (1-1)  FC DAC 1904
+[Thu Nov/24]
+  18.30  Spartak Trnava           4-1 (3-0)  MFK Zemplín Michalovce
+
+
+Matchday 17
+[Fri Nov/4]
+  17.30  Dukla Banská Bystrica    0-2 (0-1)  FK Železiarne Podbrezová
+[Sat Nov/5]
+  15.00  FC DAC 1904              1-0 (0-0)  Spartak Trnava
+         Tatran Liptovský Mikuláš  1-1 (0-0)  AS Trenčín
+         MFK Skalica              0-0  MFK Zemplín Michalovce
+[Sun Nov/6]
+  17.30  MŠK Žilina               4-1 (3-0)  Slovan Bratislava
+[Sun Nov/27]
+  15.30  MFK Ružomberok           2-2 (1-0)  Zlaté Moravce
+
+
+Matchday 18
+[Fri Nov/11]
+  17.30  Spartak Trnava           2-1 (0-1)  MFK Skalica
+[Sat Nov/12]
+  15.00  AS Trenčín               0-4 (0-0)  FC DAC 1904
+         FK Železiarne Podbrezová  1-0 (1-0)  Tatran Liptovský Mikuláš
+         MFK Zemplín Michalovce   3-2 (1-1)  MŠK Žilina
+         Zlaté Moravce            4-4 (0-1)  Dukla Banská Bystrica
+[Sun Nov/13]
+  17.30  Slovan Bratislava        2-0 (0-0)  MFK Ružomberok
+
+
+Matchday 19
+[Fri Feb/10]
+  17.30  Dukla Banská Bystrica    3-0 (2-0)  AS Trenčín
+[Sat Feb/11]
+  15.00  Tatran Liptovský Mikuláš  1-2 (1-1)  Spartak Trnava
+         MFK Ružomberok           1-0 (1-0)  MFK Zemplín Michalovce
+         MŠK Žilina               1-0 (0-0)  MFK Skalica
+         Zlaté Moravce            1-1 (0-1)  FK Železiarne Podbrezová
+[Sun Feb/12]
+  17.30  FC DAC 1904              1-1 (1-0)  Slovan Bratislava
+
+
+Matchday 20
+[Fri Feb/17]
+  17.30  Spartak Trnava           0-2 (0-0)  MFK Ružomberok
+[Sat Feb/18]
+  15.00  AS Trenčín               1-1 (1-0)  Zlaté Moravce
+         MFK Zemplín Michalovce   0-2 (0-1)  FC DAC 1904
+         Slovan Bratislava        2-2 (0-2)  Dukla Banská Bystrica
+[Sun Feb/19]
+  15.00  MFK Skalica              3-0 (1-0)  Tatran Liptovský Mikuláš
+  17.30  FK Železiarne Podbrezová  3-1 (1-0)  MŠK Žilina
+
+
+Matchday 21
+[Fri Feb/24]
+  17.30  FK Železiarne Podbrezová  2-2 (1-2)  MFK Zemplín Michalovce
+[Sat Feb/25]
+  15.00  Dukla Banská Bystrica    2-0 (1-0)  Tatran Liptovský Mikuláš
+         FC DAC 1904              2-1 (0-1)  MFK Skalica
+         Spartak Trnava           3-2 (3-0)  AS Trenčín
+         Zlaté Moravce            1-1 (0-1)  Slovan Bratislava
+[Sun Feb/26]
+  17.30  MŠK Žilina               2-0 (1-0)  MFK Ružomberok
+
+
+Matchday 22
+[Sat Mar/4]
+  16.30  AS Trenčín               1-1 (1-0)  FK Železiarne Podbrezová
+         Tatran Liptovský Mikuláš  1-2 (1-1)  MŠK Žilina
+         MFK Ružomberok           0-1 (0-0)  FC DAC 1904
+         MFK Skalica              1-2 (0-0)  Dukla Banská Bystrica
+         MFK Zemplín Michalovce   0-0  Zlaté Moravce
+         Slovan Bratislava        4-1 (3-0)  Spartak Trnava
+
+
+== Relegation
+
+Matchday 1
+[Fri Mar/10]
+  17.30  AS Trenčín               0-3 (0-1)  MFK Ružomberok
+[Sat Mar/11]
+  15.00  Tatran Liptovský Mikuláš  0-3 (0-2)  MFK Skalica
+         Zlaté Moravce            2-5 (0-3)  MFK Zemplín Michalovce
+
+
+Matchday 2
+[Sat Mar/18]
+  15.00  MFK Skalica              2-0 (2-0)  AS Trenčín
+         MFK Ružomberok           2-0 (0-0)  Zlaté Moravce
+         MFK Zemplín Michalovce   0-0  Tatran Liptovský Mikuláš
+
+
+Matchday 3
+[Fri Mar/31]
+  17.30  Zlaté Moravce            0-0  MFK Skalica
+[Sat Apr/1]
+  15.00  MFK Zemplín Michalovce   2-2 (0-0)  MFK Ružomberok
+  18.00  Tatran Liptovský Mikuláš  0-2 (0-0)  AS Trenčín
+
+
+Matchday 4
+[Sat Apr/8]
+  15.00  Zlaté Moravce            0-1 (0-1)  Tatran Liptovský Mikuláš
+  18.00  AS Trenčín               3-3 (1-1)  MFK Zemplín Michalovce
+         MFK Skalica              1-1 (0-1)  MFK Ružomberok
+
+
+Matchday 5
+[Sat Apr/15]
+  18.00  MFK Zemplín Michalovce   1-1 (1-0)  MFK Skalica
+         AS Trenčín               2-1 (0-0)  Zlaté Moravce
+         MFK Ružomberok           3-0 (1-0)  Tatran Liptovský Mikuláš
+
+
+Matchday 6
+[Fri Apr/21]
+  17.30  MFK Ružomberok           4-1 (2-0)  AS Trenčín
+[Sat Apr/22]
+  18.00  MFK Skalica              0-1 (0-0)  Zlaté Moravce
+         Tatran Liptovský Mikuláš  1-3 (1-3)  MFK Zemplín Michalovce
+
+
+Matchday 7
+[Fri Apr/28]
+  18.00  AS Trenčín               2-2 (0-2)  Tatran Liptovský Mikuláš
+[Sat Apr/29]
+  18.00  Zlaté Moravce            1-0 (0-0)  MFK Ružomberok
+         MFK Skalica              3-2 (2-1)  MFK Zemplín Michalovce
+
+
+Matchday 8
+[Sat May/6]
+  18.00  MFK Ružomberok           1-2 (0-1)  MFK Skalica
+         MFK Zemplín Michalovce   0-2 (0-2)  AS Trenčín
+         Tatran Liptovský Mikuláš  1-1 (1-1)  Zlaté Moravce
+
+
+Matchday 9
+[Fri May/12]
+  18.30  Zlaté Moravce            1-2 (1-1)  AS Trenčín
+[Sat May/13]
+  16.30  MFK Ružomberok           2-0 (0-0)  MFK Zemplín Michalovce
+         MFK Skalica              4-0 (1-0)  Tatran Liptovský Mikuláš
+
+
+Matchday 10
+[Sat May/20]
+  18.00  Tatran Liptovský Mikuláš  2-1 (1-1)  MFK Ružomberok
+         MFK Zemplín Michalovce   1-0 (1-0)  Zlaté Moravce
+         AS Trenčín               1-3 (1-1)  MFK Skalica
+
+
+== ECL Playoffs
+
+Semifinals
+[Tue May/23]
+  17.30  FK Železiarne Podbrezová  0-3 (0-3)  MFK Ružomberok
+         Dukla Banská Bystrica    1-3 (0-1)  MŠK Žilina
+
+
+Final
+[Fri May/26]
+  17.30  MŠK Žilina               3-1 (1-0)  MFK Ružomberok
+
+
+== Championship
+
+Matchday 1
+[Sat Mar/11]
+  15.00  Spartak Trnava           6-1 (3-0)  FK Železiarne Podbrezová
+[Sun Mar/12]
+  15.00  Slovan Bratislava        0-1 (0-1)  MŠK Žilina
+  17.30  Dukla Banská Bystrica    2-3 (0-3)  FC DAC 1904
+
+
+Matchday 2
+[Fri Mar/17]
+  18.30  MŠK Žilina               6-4 (1-2)  Dukla Banská Bystrica
+[Sun Mar/19]
+  15.00  FK Železiarne Podbrezová  1-2 (1-1)  Slovan Bratislava
+  17.30  FC DAC 1904              3-1 (1-0)  Spartak Trnava
+
+
+Matchday 3
+[Sat Apr/1]
+  18.00  Dukla Banská Bystrica    3-1 (2-1)  FK Železiarne Podbrezová
+[Sun Apr/2]
+  17.30  Spartak Trnava           0-0  Slovan Bratislava
+  19.30  FC DAC 1904              1-0 (1-0)  MŠK Žilina
+
+
+Matchday 4
+[Fri Apr/7]
+  17.30  FK Železiarne Podbrezová  3-2 (1-2)  MŠK Žilina
+[Sat Apr/8]
+  18.00  Dukla Banská Bystrica    2-0 (0-0)  Spartak Trnava
+[Sun Apr/9]
+  17.30  Slovan Bratislava        2-1 (0-0)  FC DAC 1904
+
+
+Matchday 5
+[Fri Apr/14]
+  17.30  FC DAC 1904              2-1 (0-1)  FK Železiarne Podbrezová
+[Sat Apr/15]
+  15.00  MŠK Žilina               1-1 (0-0)  Spartak Trnava
+[Sun Apr/16]
+  17.30  Slovan Bratislava        4-0 (1-0)  Dukla Banská Bystrica
+
+
+Matchday 6
+[Sat Apr/22]
+  18.00  FK Železiarne Podbrezová  1-2 (1-0)  Dukla Banská Bystrica
+[Sun Apr/23]
+  15.30  MŠK Žilina               2-4 (1-2)  Slovan Bratislava
+  17.30  Spartak Trnava           1-1 (1-0)  FC DAC 1904
+
+
+Matchday 7
+[Fri Apr/28]
+  20.30  Slovan Bratislava        1-0 (1-0)  Spartak Trnava
+[Sat Apr/29]
+  18.00  Dukla Banská Bystrica    1-1 (1-1)  MŠK Žilina
+[Sun Apr/30]
+  17.30  FK Železiarne Podbrezová  2-0 (1-0)  FC DAC 1904
+
+
+Matchday 8
+[Fri May/5]
+  17.30  MŠK Žilina               0-1 (0-1)  FK Železiarne Podbrezová
+[Sat May/6]
+  18.00  Spartak Trnava           0-1 (0-0)  Dukla Banská Bystrica
+[Sun May/7]
+  17.30  FC DAC 1904              2-3 (1-1)  Slovan Bratislava
+
+
+Matchday 9
+[Sat May/13]
+  16.30  MŠK Žilina               0-1 (0-0)  FC DAC 1904
+         Dukla Banská Bystrica    1-2 (0-1)  Slovan Bratislava
+         FK Železiarne Podbrezová  0-3 (0-1)  Spartak Trnava
+
+
+Matchday 10
+[Sat May/20]
+  18.00  Spartak Trnava           4-2 (2-1)  MŠK Žilina
+         FC DAC 1904              1-0 (1-0)  Dukla Banská Bystrica
+         Slovan Bratislava        0-1 (0-0)  FK Železiarne Podbrezová

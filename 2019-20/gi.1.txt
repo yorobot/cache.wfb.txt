@@ -1,0 +1,314 @@
+= GI 1 2019/20
+
+# Date       Mon Aug/12 2019 - Sun May/3 2020 (265d)
+# Teams      12
+# Matches    126
+# Stages     Regular Season (66)  Relegation (30)  Championship (30)
+
+
+# Regular Season
+
+Matchday 1
+[Mon Aug/12]
+  20.30  Lynx FC                  5-1 (3-1)  Mons Calpe S.C.
+[Tue Aug/13]
+  20.30  Manchester 62 FC         0-0  Boca Gibraltar
+[Wed Aug/14]
+  20.30  Lions Gibraltar          0-0  Europa Point FC
+[Thu Aug/15]
+  20.30  Glacis United FC         0-9 (0-3)  FCB Magpies
+[Fri Aug/16]
+  20.30  Europa FC                4-1 (0-0)  Lincoln Red Imps
+[Mon Aug/19]
+  20.30  St. Joseph's FC          7-0 (3-0)  College 1975 FC
+[Wed Aug/21]
+  18.15  Europa Point FC          0-5 (0-1)  Lynx FC
+[Thu Aug/22]
+  20.30  Lincoln Red Imps         8-0 (3-0)  Glacis United FC
+[Fri Aug/23]
+  20.30  FCB Magpies              2-0 (0-0)  Lions Gibraltar
+[Sat Aug/24]
+  20.30  St. Joseph's FC          3-0 (1-0)  Manchester 62 FC
+  18.15  College 1975 FC          1-9 (0-3)  Mons Calpe S.C.
+
+
+Matchday 2
+[Thu Sep/12]
+  20.30  Lions Gibraltar          0-0  Lynx FC
+[Fri Sep/13]
+  20.30  Glacis United FC         0-5 (0-3)  Mons Calpe S.C.
+[Sat Sep/14]
+  16.00  St. Joseph's FC          2-0 (0-0)  Boca Gibraltar
+[Sun Sep/15]
+  16.00  College 1975 FC          1-3 (0-2)  FCB Magpies
+  18.15  Europa FC                1-0 (1-0)  Europa Point FC
+[Thu Sep/19]
+  20.30  Boca Gibraltar           1-3 (1-2)  Lynx FC
+  18.15  Lincoln Red Imps         9-1 (3-0)  College 1975 FC
+[Fri Sep/20]
+  20.30  FCB Magpies              0-6 (0-2)  Europa FC
+[Sun Sep/22]
+  18.15  Mons Calpe S.C.          1-1 (1-1)  Lions Gibraltar
+  16.00  Europa Point FC          0-3 (0-0)  Glacis United FC
+[Wed Sep/25]
+  20.30  Europa FC                2-2 (0-1)  St. Joseph's FC
+[Sun Sep/29]
+  16.00  Lions Gibraltar          1-7 (0-2)  Lincoln Red Imps
+  18.15  Lynx FC                  2-0 (1-0)  FCB Magpies
+  20.30  Boca Gibraltar           1-1 (0-0)  Mons Calpe S.C.
+[Mon Sep/30]
+  20.30  College 1975 FC          0-3 (0-2)  Manchester 62 FC
+
+
+Matchday 3
+[Sat Oct/5]
+  16.00  Mons Calpe S.C.          0-2 (0-0)  Europa Point FC
+[Sat Oct/19]
+  18.15  FCB Magpies              1-3 (1-3)  Mons Calpe S.C.
+  16.00  Boca Gibraltar           1-1 (0-1)  Europa Point FC
+[Sun Oct/20]
+  18.15  Manchester 62 FC         0-7 (0-2)  Europa FC
+  16.00  St. Joseph's FC          8-1 (3-0)  Glacis United FC
+[Mon Oct/21]
+  20.30  Lincoln Red Imps         4-0 (2-0)  Lynx FC
+[Thu Oct/24]
+  20.30  College 1975 FC          0-4 (0-2)  Boca Gibraltar
+[Fri Oct/25]
+  20.30  Europa Point FC          2-3 (0-1)  FCB Magpies
+[Sat Oct/26]
+  18.15  Lions Gibraltar          0-4 (0-2)  St. Joseph's FC
+  16.00  Glacis United FC         2-3 (1-0)  Manchester 62 FC
+[Sun Oct/27]
+  16.00  Mons Calpe S.C.          0-2 (0-0)  Lincoln Red Imps
+[Thu Oct/31]
+  20.30  Manchester 62 FC         0-3 (0-1)  Lions Gibraltar
+
+
+Matchday 4
+[Fri Nov/1]
+  20.30  College 1975 FC          0-12 (0-7)  Europa FC
+[Sun Nov/3]
+  16.00  Lincoln Red Imps         3-0 (1-0)  Europa Point FC
+  18.15  St. Joseph's FC          1-1 (0-0)  Lynx FC
+[Mon Nov/4]
+  20.30  Boca Gibraltar           1-2 (0-1)  FCB Magpies
+[Thu Nov/21]
+  20.30  Lynx FC                  5-0 (1-0)  Manchester 62 FC
+[Fri Nov/22]
+  20.30  Glacis United FC         4-0 (0-0)  College 1975 FC
+[Sat Nov/23]
+  18.15  Europa FC                6-1 (2-0)  Boca Gibraltar
+  16.00  FCB Magpies              0-3 (0-1)  Lincoln Red Imps
+[Sun Nov/24]
+  18.15  Mons Calpe S.C.          0-6 (0-1)  St. Joseph's FC
+[Wed Nov/27]
+  20.30  Boca Gibraltar           1-8 (1-3)  Lincoln Red Imps
+[Thu Nov/28]
+  20.30  College 1975 FC          1-6 (0-1)  Lions Gibraltar
+[Fri Nov/29]
+  20.30  Europa FC                6-2 (2-1)  Glacis United FC
+[Sat Nov/30]
+  18.15  St. Joseph's FC          5-0 (3-0)  Europa Point FC
+  16.00  Manchester 62 FC         1-4 (1-2)  Mons Calpe S.C.
+
+
+Matchday 5
+[Wed Dec/4]
+  20.30  Lions Gibraltar          2-5 (2-1)  Europa FC
+[Thu Dec/5]
+  20.30  Glacis United FC         0-2 (0-2)  Boca Gibraltar
+[Fri Dec/6]
+  20.30  Lynx FC                  4-0 (1-0)  College 1975 FC
+[Sat Dec/7]
+  16.00  FCB Magpies              0-3 (0-1)  St. Joseph's FC
+  18.15  Europa Point FC          1-3 (1-2)  Manchester 62 FC
+[Tue Dec/10]
+  20.30  Glacis United FC         1-3 (0-1)  Lions Gibraltar
+[Wed Dec/11]
+  20.30  Europa FC                2-0 (0-0)  Lynx FC
+[Thu Dec/12]
+  20.30  Manchester 62 FC         0-2 (0-1)  FCB Magpies
+[Fri Dec/13]
+  20.30  St. Joseph's FC          2-1 (0-0)  Lincoln Red Imps
+[Mon Dec/16]
+  20.30  Europa Point FC          6-1 (3-0)  College 1975 FC
+[Tue Dec/17]
+  18.15  Mons Calpe S.C.          0-7 (0-3)  Europa FC
+  20.30  Lions Gibraltar          6-4 (4-1)  Boca Gibraltar
+[Wed Dec/18]
+  20.30  Lynx FC                  3-2 (2-2)  Glacis United FC
+[Thu Dec/19]
+  18.15  Lincoln Red Imps         2-0 (1-0)  Manchester 62 FC
+
+
+== Relegation
+
+Matchday 1
+[Tue Jan/14]
+  20.30  Boca Gibraltar           2-4 (0-2)  Europa Point FC
+[Wed Jan/15]
+  20.30  Manchester 62 FC         1-0 (0-0)  Glacis United FC
+[Thu Jan/16]
+  20.30  Mons Calpe S.C.          1-0 (0-0)  College 1975 FC
+
+
+Matchday 2
+[Tue Jan/21]
+  20.30  Mons Calpe S.C.          3-0 (1-0)  Manchester 62 FC
+[Wed Jan/22]
+  20.30  Glacis United FC         2-2 (0-0)  Boca Gibraltar
+[Thu Jan/23]
+  20.30  College 1975 FC          2-6 (1-2)  Europa Point FC
+
+
+Matchday 3
+[Tue Jan/28]
+  20.30  Boca Gibraltar           0-2 (0-0)  Mons Calpe S.C.
+[Wed Jan/29]
+  20.30  Manchester 62 FC         5-0 (2-0)  College 1975 FC
+[Thu Jan/30]
+  20.30  Europa Point FC          2-1 (1-1)  Glacis United FC
+
+
+Matchday 4
+[Sun Feb/2]
+  16.00  Manchester 62 FC         1-2 (1-1)  Boca Gibraltar
+[Thu Feb/6]
+  20.30  College 1975 FC          1-2 (0-1)  Glacis United FC
+[Sat Feb/8]
+  20.30  Mons Calpe S.C.          1-1 (1-1)  Europa Point FC
+
+
+Matchday 5
+[Wed Feb/19]
+  20.30  Europa Point FC          3-1 (1-0)  Manchester 62 FC
+[Thu Feb/20]
+  20.30  Boca Gibraltar           7-5 (1-1)  College 1975 FC
+[Sat Feb/22]
+  20.30  Glacis United FC         0-1 (0-0)  Mons Calpe S.C.
+
+
+Matchday 6
+[Tue Feb/25]
+  20.30  Europa Point FC          2-1 (1-1)  Boca Gibraltar
+[Wed Feb/26]
+  20.30  College 1975 FC          0-6 (0-4)  Mons Calpe S.C.
+[Thu Feb/27]
+  20.30  Glacis United FC         1-2 (1-1)  Manchester 62 FC
+
+
+Matchday 7
+[Tue Mar/10]
+  20.30  Europa Point FC          5-5 (0-3)  College 1975 FC
+[Thu Mar/12]
+  20.30  Manchester 62 FC         1-11 (0-4)  Mons Calpe S.C.
+[Sat Mar/14]
+         Boca Gibraltar           -  Glacis United FC         [cancelled]
+
+
+Matchday 8
+[Thu Mar/19]
+         College 1975 FC          -  Manchester 62 FC         [cancelled]
+[Sat Mar/21]
+         Glacis United FC         -  Europa Point FC          [cancelled]
+         Mons Calpe S.C.          -  Europa Point FC          [cancelled]
+
+
+Matchday 9
+[Fri Apr/3]
+         Glacis United FC         -  College 1975 FC          [cancelled]
+[Sat Apr/4]
+         Europa Point FC          -  Mons Calpe S.C.          [cancelled]
+[Sun Apr/5]
+         Boca Gibraltar           -  Manchester 62 FC         [cancelled]
+
+
+Matchday 10
+[Wed Apr/15]
+         College 1975 FC          -  Boca Gibraltar           [cancelled]
+[Thu Apr/16]
+         Mons Calpe S.C.          -  Glacis United FC         [cancelled]
+[Sun Apr/19]
+         Manchester 62 FC         -  Europa Point FC          [cancelled]
+
+
+== Championship
+
+Matchday 1
+[Fri Jan/17]
+  20.30  Europa FC                5-0 (1-0)  Lions Gibraltar
+[Sat Jan/18]
+  16.00  St. Joseph's FC          3-1 (1-1)  FCB Magpies
+  18.15  Lincoln Red Imps         5-0 (1-0)  Lynx FC
+
+
+Matchday 2
+[Fri Jan/24]
+  20.30  FCB Magpies              1-5 (0-3)  Lincoln Red Imps
+[Sat Jan/25]
+  18.15  Europa FC                3-1 (1-0)  St. Joseph's FC
+  16.00  Lions Gibraltar          2-3 (0-2)  Lynx FC
+
+
+Matchday 3
+[Fri Jan/31]
+  20.30  St. Joseph's FC          5-3 (3-3)  Lions Gibraltar
+[Sat Feb/1]
+  18.15  Lynx FC                  3-1 (2-0)  FCB Magpies
+  16.00  Lincoln Red Imps         0-2 (0-0)  Europa FC
+
+
+Matchday 4
+[Fri Feb/7]
+  20.30  Europa FC                5-0 (3-0)  Lynx FC
+[Sat Feb/8]
+  18.15  Lions Gibraltar          2-3 (1-2)  FCB Magpies
+  16.00  St. Joseph's FC          1-0 (0-0)  Lincoln Red Imps
+
+
+Matchday 5
+[Fri Feb/21]
+  20.30  Lincoln Red Imps         7-1 (2-1)  Lions Gibraltar
+[Sat Feb/22]
+  16.00  Lynx FC                  2-3 (1-2)  St. Joseph's FC
+  18.15  FCB Magpies              0-5 (0-2)  Europa FC
+
+
+Matchday 6
+[Fri Feb/28]
+  20.30  Lynx FC                  1-3 (0-2)  Lincoln Red Imps
+[Sat Feb/29]
+  18.15  FCB Magpies              1-2 (1-0)  St. Joseph's FC
+  16.00  Lions Gibraltar          0-7 (0-1)  Europa FC
+
+
+Matchday 7
+[Sat Mar/14]
+         St. Joseph's FC          -  Europa FC                [cancelled]
+[Sun Mar/15]
+         Lynx FC                  -  Lions Gibraltar          [cancelled]
+         Lincoln Red Imps         -  FCB Magpies              [cancelled]
+
+
+Matchday 8
+[Sat Apr/4]
+         Lions Gibraltar          -  St. Joseph's FC          [cancelled]
+         Europa FC                -  Lincoln Red Imps         [cancelled]
+[Sun Apr/5]
+         FCB Magpies              -  Lynx FC                  [cancelled]
+
+
+Matchday 9
+[Fri Apr/17]
+         Lincoln Red Imps         -  St. Joseph's FC          [cancelled]
+[Sat Apr/18]
+         Lynx FC                  -  Europa FC                [cancelled]
+         FCB Magpies              -  Lions Gibraltar          [cancelled]
+
+
+Matchday 10
+[Sat May/2]
+         Lions Gibraltar          -  Lincoln Red Imps         [cancelled]
+         St. Joseph's FC          -  Lynx FC                  [cancelled]
+[Sun May/3]
+         Europa FC                -  FCB Magpies              [cancelled]

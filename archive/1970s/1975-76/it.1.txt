@@ -1,0 +1,366 @@
+= IT 1 1975/76
+
+# Date       Sun Oct/5 1975 - Sun May/16 1976 (224d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Oct/5]
+         Inter                    0-0  AC Cesena
+         Juventus                 2-1 (2-0)  Hellas Verona
+         SSC Napoli               1-0 (0-0)  Calcio Como
+         AC Perugia               0-0  AC Milan
+         AS Roma                  1-1 (0-1)  Cagliari Calcio
+         Sampdoria                0-1 (0-0)  Lazio Roma
+         Ascoli Calcio            1-0 (0-0)  ACF Fiorentina
+         Bologna FC               1-0 (0-0)  Torino FC
+
+
+Matchday 2
+[Sun Oct/12]
+         Lazio Roma               1-1 (1-1)  Inter
+         Hellas Verona            1-0 (0-0)  Bologna FC
+         AC Milan                 1-0 (1-0)  Sampdoria
+         Cagliari Calcio          0-0  Ascoli Calcio
+         Calcio Como              2-2 (0-1)  Juventus
+         AC Cesena                2-0 (1-0)  AS Roma
+         ACF Fiorentina           1-1 (1-0)  SSC Napoli
+         Torino FC                3-0 (1-0)  AC Perugia
+
+
+Matchday 3
+[Sun Oct/19]
+         Sampdoria                1-0 (0-0)  Calcio Como
+         AS Roma                  2-0 (1-0)  Hellas Verona
+         AC Perugia               2-0 (0-0)  Lazio Roma
+         Juventus                 4-2 (2-1)  ACF Fiorentina
+         Bologna FC               1-1 (0-0)  AC Milan
+         Ascoli Calcio            1-1 (1-1)  Torino FC
+         SSC Napoli               2-0 (1-0)  AC Cesena
+         Inter                    1-0 (0-0)  Cagliari Calcio
+
+
+Matchday 4
+[Sun Nov/2]
+         AC Milan                 4-0 (2-0)  Ascoli Calcio
+         Lazio Roma               1-1 (0-0)  Bologna FC
+         Hellas Verona            2-4 (1-0)  SSC Napoli
+         Cagliari Calcio          0-1 (0-1)  Juventus
+         Calcio Como              0-0  AS Roma
+         ACF Fiorentina           3-1 (1-1)  AC Perugia
+         AC Cesena                1-1 (0-0)  Sampdoria
+         Torino FC                2-1 (1-0)  Inter
+
+
+Matchday 5
+[Sun Nov/9]
+         Sampdoria                0-0  Torino FC
+         AS Roma                  0-0  AC Milan
+         AC Perugia               2-0 (1-0)  Calcio Como
+         Juventus                 2-0 (0-0)  Lazio Roma
+         Bologna FC               1-1 (0-1)  ACF Fiorentina
+         Ascoli Calcio            0-0  AC Cesena
+         SSC Napoli               3-1 (0-1)  Cagliari Calcio
+         Inter                    3-0 (0-0)  Hellas Verona
+
+
+Matchday 6
+[Sun Nov/16]
+         Calcio Como              3-0 (0-0)  Inter
+         Torino FC                3-1 (2-1)  SSC Napoli
+         AC Milan                 0-1 (0-0)  Juventus
+         Hellas Verona            1-0 (1-0)  Ascoli Calcio
+         ACF Fiorentina           0-1 (0-1)  Sampdoria
+         AC Cesena                2-1 (1-0)  AC Perugia
+         Cagliari Calcio          1-2 (1-0)  Bologna FC
+         Lazio Roma               1-1 (0-0)  AS Roma
+
+
+Matchday 7
+[Sun Nov/30]
+         Bologna FC               1-1 (0-0)  Calcio Como
+         Cagliari Calcio          0-0  AC Perugia
+         Inter                    1-0 (0-0)  ACF Fiorentina
+         Juventus                 3-3 (0-2)  AC Cesena
+         SSC Napoli               1-0 (1-0)  AC Milan
+         AS Roma                  1-1 (0-0)  Torino FC
+         Hellas Verona            4-1 (3-1)  Sampdoria
+         Ascoli Calcio            2-1 (0-0)  Lazio Roma
+
+
+Matchday 8
+[Sun Dec/7]
+         AC Milan                 2-1 (0-0)  Inter
+         AC Perugia               1-0 (0-0)  Hellas Verona
+         Sampdoria                2-1 (2-1)  Cagliari Calcio
+         ACF Fiorentina           2-0 (1-0)  AS Roma
+         AC Cesena                0-0  Bologna FC
+         Calcio Como              0-0  Ascoli Calcio
+         Lazio Roma               0-1 (0-1)  SSC Napoli
+         Torino FC                2-0 (0-0)  Juventus
+
+
+Matchday 9
+[Sun Dec/14]
+         Hellas Verona            2-2 (1-2)  Lazio Roma
+         AS Roma                  1-0 (1-0)  Sampdoria
+         SSC Napoli               0-0  Ascoli Calcio
+         Juventus                 2-0 (1-0)  Inter
+         Cagliari Calcio          1-2 (0-0)  AC Cesena
+         Bologna FC               1-1 (1-0)  AC Perugia
+         AC Milan                 1-2 (0-1)  Torino FC
+         Calcio Como              0-1 (0-0)  ACF Fiorentina
+
+
+Matchday 10
+[Sun Dec/21]
+         ACF Fiorentina           0-1 (0-0)  AC Milan
+         Torino FC                1-0 (0-0)  Calcio Como
+         Sampdoria                0-1 (0-1)  Bologna FC
+         AC Perugia               0-1 (0-0)  AS Roma
+         AC Cesena                3-0 (2-0)  Hellas Verona
+         Ascoli Calcio            0-3 (0-2)  Juventus
+         Lazio Roma               3-0 (3-0)  Cagliari Calcio
+         Inter                    2-1 (1-0)  SSC Napoli
+
+
+Matchday 11
+[Tue Dec/30]
+         Hellas Verona            2-1 (1-1)  Cagliari Calcio
+         AC Perugia               0-0  Sampdoria
+         Juventus                 2-1 (1-1)  SSC Napoli
+         ACF Fiorentina           0-1 (0-1)  Torino FC
+         Calcio Como              1-4 (0-2)  AC Milan
+         Bologna FC               2-1 (1-1)  AS Roma
+         Lazio Roma               2-2 (1-1)  AC Cesena
+         Inter                    3-0 (1-0)  Ascoli Calcio
+
+
+Matchday 12
+[Mon Jan/12]
+         AC Cesena                1-1 (1-1)  ACF Fiorentina
+         Sampdoria                0-2  Inter                    [awarded]
+         AS Roma                  0-1 (0-0)  Juventus
+         Torino FC                2-1 (2-0)  Lazio Roma
+         Cagliari Calcio          1-0 (0-0)  Calcio Como
+         Ascoli Calcio            1-2 (1-0)  AC Perugia
+         SSC Napoli               2-2 (1-2)  Bologna FC
+         AC Milan                 1-0 (0-0)  Hellas Verona
+
+
+Matchday 13
+[Sun Jan/18]
+         Hellas Verona            3-2 (3-1)  Calcio Como
+         SSC Napoli               2-1 (0-0)  AS Roma
+         Juventus                 1-0 (1-0)  Bologna FC
+         AC Cesena                2-1 (1-0)  AC Milan
+         Cagliari Calcio          0-0  Torino FC
+         Ascoli Calcio            1-1 (1-0)  Sampdoria
+         Lazio Roma               1-2 (0-1)  ACF Fiorentina
+         Inter                    2-2 (2-1)  AC Perugia
+
+
+Matchday 14
+[Sun Jan/25]
+         AC Milan                 3-0 (0-0)  Lazio Roma
+         Sampdoria                0-2 (0-0)  Juventus
+         Torino FC                4-2 (0-0)  Hellas Verona
+         AC Perugia               2-2 (0-2)  SSC Napoli
+         Calcio Como              0-0  AC Cesena
+         Bologna FC               1-1 (0-0)  Ascoli Calcio
+         AS Roma                  1-1 (0-1)  Inter
+         ACF Fiorentina           3-0 (0-0)  Cagliari Calcio
+
+
+Matchday 15
+[Mon Feb/2]
+         Hellas Verona            1-2 (1-0)  ACF Fiorentina
+         SSC Napoli               0-0  Sampdoria
+         Juventus                 1-0 (0-0)  AC Perugia
+         AC Cesena                1-1 (1-1)  Torino FC
+         Cagliari Calcio          1-3 (0-0)  AC Milan
+         Ascoli Calcio            0-0  AS Roma
+         Lazio Roma               3-2 (1-1)  Calcio Como
+         Inter                    1-1 (0-1)  Bologna FC
+
+
+Matchday 16
+[Mon Feb/9]
+         AC Milan                 0-0  AC Perugia
+         AC Cesena                2-3 (0-1)  Inter
+         Hellas Verona            1-2 (1-0)  Juventus
+         Torino FC                3-1 (2-0)  Bologna FC
+         Cagliari Calcio          1-5 (1-2)  AS Roma
+         Calcio Como              0-1 (0-0)  SSC Napoli
+         ACF Fiorentina           0-0  Ascoli Calcio
+         Lazio Roma               1-1 (1-1)  Sampdoria
+
+
+Matchday 17
+[Sun Feb/15]
+         Sampdoria                0-1 (0-1)  AC Milan
+         AS Roma                  2-2 (1-0)  AC Cesena
+         SSC Napoli               1-2 (1-0)  ACF Fiorentina
+         Inter                    1-0 (0-0)  Lazio Roma
+         Bologna FC               0-0  Hellas Verona
+         Ascoli Calcio            1-1 (1-0)  Cagliari Calcio
+         AC Perugia               2-1 (1-1)  Torino FC
+         Juventus                 1-1 (0-0)  Calcio Como
+
+
+Matchday 18
+[Sun Feb/22]
+         ACF Fiorentina           1-1 (0-1)  Juventus
+         Lazio Roma               1-0 (1-0)  AC Perugia
+         Hellas Verona            0-1 (0-0)  AS Roma
+         Torino FC                3-1 (2-1)  Ascoli Calcio
+         Cagliari Calcio          0-0  Inter
+         Calcio Como              0-0  Sampdoria
+         AC Cesena                0-1 (0-1)  SSC Napoli
+         AC Milan                 3-1 (1-0)  Bologna FC
+
+
+Matchday 19
+[Sat Feb/28]
+         Sampdoria                0-1 (0-1)  AC Cesena
+         AS Roma                  2-1 (1-0)  Calcio Como
+         SSC Napoli               0-1 (0-1)  Hellas Verona
+         Inter                    1-0 (0-0)  Torino FC
+         Bologna FC               1-0 (0-0)  Lazio Roma
+         Ascoli Calcio            0-1 (0-1)  AC Milan
+         AC Perugia               2-1 (1-0)  ACF Fiorentina
+         Juventus                 1-0 (1-0)  Cagliari Calcio
+
+
+Matchday 20
+[Sun Mar/7]
+         ACF Fiorentina           1-2 (0-2)  Bologna FC
+         Lazio Roma               1-2 (1-1)  Juventus
+         Hellas Verona            1-1 (1-1)  Inter
+         Torino FC                2-0 (0-0)  Sampdoria
+         Cagliari Calcio          1-1 (0-1)  SSC Napoli
+         Calcio Como              0-0  AC Perugia
+         AC Cesena                3-1 (2-1)  Ascoli Calcio
+         AC Milan                 1-0 (0-0)  AS Roma
+
+
+Matchday 21
+[Sun Mar/14]
+         Sampdoria                0-0  ACF Fiorentina
+         AS Roma                  0-0  Lazio Roma
+         SSC Napoli               0-0  Torino FC
+         Inter                    2-1 (1-0)  Calcio Como
+         Bologna FC               0-0  Cagliari Calcio
+         Ascoli Calcio            2-0 (1-0)  Hellas Verona
+         AC Perugia               1-0 (1-0)  AC Cesena
+         Juventus                 1-1 (0-1)  AC Milan
+
+
+Matchday 22
+[Sun Mar/21]
+         Lazio Roma               3-1 (0-0)  Ascoli Calcio
+         AC Milan                 1-1 (1-0)  SSC Napoli
+         Torino FC                1-0 (1-0)  AS Roma
+         Sampdoria                2-0 (0-0)  Hellas Verona
+         ACF Fiorentina           0-0  Inter
+         Calcio Como              2-1 (1-0)  Bologna FC
+         AC Cesena                2-1 (0-1)  Juventus
+         AC Perugia               4-1 (1-1)  Cagliari Calcio
+
+
+Matchday 23
+[Sun Mar/28]
+         AS Roma                  2-2 (1-1)  ACF Fiorentina
+         Juventus                 0-2  Torino FC                [awarded]
+         Hellas Verona            3-1 (1-1)  AC Perugia
+         Cagliari Calcio          5-3 (3-0)  Sampdoria
+         Bologna FC               5-3 (2-2)  AC Cesena
+         Ascoli Calcio            1-1 (0-1)  Calcio Como
+         SSC Napoli               1-0 (0-0)  Lazio Roma
+         Inter                    0-1 (0-1)  AC Milan
+
+
+Matchday 24
+[Sun Apr/4]
+         Lazio Roma               1-1 (1-1)  Hellas Verona
+         Sampdoria                1-0 (0-0)  AS Roma
+         Torino FC                2-1 (1-0)  AC Milan
+         AC Perugia               1-1 (1-0)  Bologna FC
+         ACF Fiorentina           0-2  Calcio Como              [awarded]
+         Ascoli Calcio            0-0  SSC Napoli
+         AC Cesena                0-0  Cagliari Calcio
+         Inter                    1-0 (0-0)  Juventus
+
+
+Matchday 25
+[Sun Apr/11]
+         Hellas Verona            2-2 (0-0)  AC Cesena
+         AS Roma                  1-2 (1-1)  AC Perugia
+         AC Milan                 2-1 (2-0)  ACF Fiorentina
+         Calcio Como              0-1 (0-1)  Torino FC
+         Cagliari Calcio          2-1 (1-0)  Lazio Roma
+         Bologna FC               1-0 (1-0)  Sampdoria
+         SSC Napoli               3-1 (3-1)  Inter
+         Juventus                 2-1 (1-0)  Ascoli Calcio
+
+
+Matchday 26
+[Sun Apr/18]
+         AC Milan                 2-2 (1-1)  Calcio Como
+         SSC Napoli               1-1 (1-0)  Juventus
+         Torino FC                4-3 (2-1)  ACF Fiorentina
+         Sampdoria                3-1 (1-0)  AC Perugia
+         Ascoli Calcio            2-0 (0-0)  Inter
+         AC Cesena                0-0  Lazio Roma
+         Cagliari Calcio          0-2 (0-1)  Hellas Verona
+         AS Roma                  0-0  Bologna FC
+
+
+Matchday 27
+[Sun Apr/25]
+         AC Perugia               1-1 (1-0)  Ascoli Calcio
+         Juventus                 1-1 (1-0)  AS Roma
+         Hellas Verona            2-2 (1-1)  AC Milan
+         ACF Fiorentina           3-1 (1-0)  AC Cesena
+         Calcio Como              3-0 (2-0)  Cagliari Calcio
+         Bologna FC               2-0 (1-0)  SSC Napoli
+         Lazio Roma               1-1 (0-0)  Torino FC
+         Inter                    2-1 (1-1)  Sampdoria
+
+
+Matchday 28
+[Sun May/2]
+         AC Perugia               1-1 (0-1)  Inter
+         Sampdoria                1-0 (1-0)  Ascoli Calcio
+         Torino FC                5-1 (1-0)  Cagliari Calcio
+         AS Roma                  0-3 (0-2)  SSC Napoli
+         ACF Fiorentina           4-3 (2-1)  Lazio Roma
+         Bologna FC               1-4 (0-1)  Juventus
+         AC Milan                 2-1 (1-0)  AC Cesena
+         Calcio Como              2-1 (1-1)  Hellas Verona
+
+
+Matchday 29
+[Sun May/9]
+         Ascoli Calcio            0-0  Bologna FC
+         Cagliari Calcio          2-1 (1-1)  ACF Fiorentina
+         AC Cesena                2-0 (0-0)  Calcio Como
+         Inter                    2-0 (2-0)  AS Roma
+         Juventus                 2-0 (0-0)  Sampdoria
+         Lazio Roma               4-0 (2-0)  AC Milan
+         SSC Napoli               4-0 (2-0)  AC Perugia
+         Hellas Verona            0-0  Torino FC
+
+
+Matchday 30
+[Sun May/16]
+         Sampdoria                2-1 (1-0)  SSC Napoli
+         AS Roma                  1-1 (0-1)  Ascoli Calcio
+         AC Perugia               1-0 (0-0)  Juventus
+         AC Milan                 2-3 (1-0)  Cagliari Calcio
+         ACF Fiorentina           2-2 (2-0)  Hellas Verona
+         Bologna FC               1-2 (1-0)  Inter
+         Torino FC                1-1 (0-0)  AC Cesena
+         Calcio Como              2-2 (2-1)  Lazio Roma

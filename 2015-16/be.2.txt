@@ -1,0 +1,486 @@
+= BE 2 2015/16
+
+# Date       Fri Aug/7 2015 - Sat Apr/30 2016 (267d)
+# Teams      17
+# Matches    272
+
+
+
+Matchday 1
+[Fri Aug/7]
+  20.30  KSV Roeselare            0-2 (0-2)  RFC Seraing
+[Sat Aug/8]
+  18.00  Union Saint-Gilloise     0-1 (0-1)  KAS Eupen
+  20.00  Lommel United            3-1 (1-0)  KSK Heist
+         AFC Tubize               1-0 (1-0)  ASV Geel
+         Cercle Brugge            1-1 (0-1)  KFC Dessel Sport
+         SK Deinze                1-0 (0-0)  Patro Eisden MM
+  18.00  Excelsior Virton         2-1 (1-1)  White Star Bruxelles
+[Sun Aug/9]
+  15.00  KVV Coxyde               1-1 (0-0)  Lierse SK
+
+
+Matchday 2
+[Wed Aug/12]
+  20.30  ASV Geel                 1-1 (0-1)  Lommel United
+         KAS Eupen                5-1 (4-0)  SK Deinze
+         White Star Bruxelles     0-2 (0-1)  AFC Tubize
+         RFC Seraing              2-1 (0-0)  KVV Coxyde
+         KSK Heist                1-2 (0-0)  KSV Roeselare
+         KFC Dessel Sport         0-3 (0-1)  Royal Antwerp FC
+         Patro Eisden MM          0-2 (0-1)  Excelsior Virton
+
+
+Matchday 3
+[Sat Aug/29]
+  20.00  Royal Antwerp FC         2-0 (1-0)  Patro Eisden MM
+  18.00  Excelsior Virton         1-1 (0-1)  KSK Heist
+  20.00  AFC Tubize               3-1 (3-0)  RFC Seraing
+         Lommel United            0-0  White Star Bruxelles
+         KSV Roeselare            2-1 (1-1)  ASV Geel
+         SK Deinze                1-0 (1-0)  Lierse SK
+[Sun Aug/30]
+  15.00  Union Saint-Gilloise     4-0 (3-0)  KFC Dessel Sport
+         KVV Coxyde               0-2 (0-2)  KAS Eupen
+
+
+Matchday 4
+[Fri Sep/4]
+  20.30  Lierse SK                1-2 (1-1)  Union Saint-Gilloise
+[Sat Sep/5]
+  20.00  AFC Tubize               1-1 (1-1)  Excelsior Virton
+  19.30  KFC Dessel Sport         2-2 (1-1)  KAS Eupen
+  20.00  White Star Bruxelles     2-0 (0-0)  KSV Roeselare
+         Patro Eisden MM          1-1 (1-0)  Lommel United
+         KSK Heist                1-1 (0-0)  SK Deinze
+[Sun Sep/6]
+  15.00  RFC Seraing              0-3 (0-1)  Cercle Brugge
+         ASV Geel                 1-1 (1-1)  Royal Antwerp FC
+
+
+Matchday 2
+[Wed Sep/9]
+  20.30  Lierse SK                2-3 (1-2)  Cercle Brugge
+
+
+Matchday 5
+[Fri Sep/11]
+  20.30  Lommel United            4-1 (2-0)  Excelsior Virton
+[Sat Sep/12]
+  20.00  KSV Roeselare            0-0  AFC Tubize
+         SK Deinze                2-2 (2-1)  RFC Seraing
+         Cercle Brugge            3-3 (2-1)  ASV Geel
+         Royal Antwerp FC         1-0 (1-0)  White Star Bruxelles
+[Sun Sep/13]
+  15.00  KVV Coxyde               2-2 (1-1)  KSK Heist
+         Union Saint-Gilloise     1-1 (1-1)  Patro Eisden MM
+         KAS Eupen                1-4 (0-1)  Lierse SK
+
+
+Matchday 6
+[Fri Sep/18]
+  20.30  Lierse SK                3-1 (1-1)  KFC Dessel Sport
+         AFC Tubize               2-0 (1-0)  Lommel United
+[Sat Sep/19]
+  19.30  ASV Geel                 2-2 (2-0)  KVV Coxyde
+  20.00  Patro Eisden MM          0-1 (0-1)  Cercle Brugge
+         White Star Bruxelles     2-0 (1-0)  SK Deinze
+         RFC Seraing              0-3 (0-2)  Union Saint-Gilloise
+  18.00  Excelsior Virton         1-4 (0-1)  KSV Roeselare
+[Sun Sep/20]
+  15.00  KSK Heist                1-3 (1-0)  Royal Antwerp FC
+
+
+Matchday 7
+[Sat Sep/26]
+  19.30  KFC Dessel Sport         0-3 (0-0)  RFC Seraing
+  20.00  KAS Eupen                3-1 (1-0)  White Star Bruxelles
+         Royal Antwerp FC         4-0 (1-0)  AFC Tubize
+         Lommel United            2-0 (2-0)  KSV Roeselare
+[Sun Sep/27]
+  15.00  Union Saint-Gilloise     2-1 (0-0)  ASV Geel
+         KVV Coxyde               2-2 (1-1)  Patro Eisden MM
+  18.00  Cercle Brugge            2-0 (0-0)  KSK Heist
+  15.00  SK Deinze                2-1 (0-1)  Excelsior Virton
+
+
+Matchday 8
+[Fri Oct/2]
+  20.30  RFC Seraing              0-0  Royal Antwerp FC
+[Sat Oct/3]
+  18.00  Excelsior Virton         3-0 (2-0)  KVV Coxyde
+  19.30  ASV Geel                 2-2 (2-0)  SK Deinze
+  20.00  KSK Heist                1-5 (1-1)  KAS Eupen
+         White Star Bruxelles     4-2 (1-0)  Lierse SK
+         Lommel United            2-0 (0-0)  KFC Dessel Sport
+         AFC Tubize               2-1 (2-1)  Union Saint-Gilloise
+[Sun Oct/4]
+  15.00  KSV Roeselare            1-1 (1-0)  Cercle Brugge
+
+
+Matchday 9
+[Tue Oct/6]
+  20.30  Lierse SK                2-3 (0-1)  RFC Seraing
+[Wed Oct/7]
+  20.30  KFC Dessel Sport         0-3 (0-1)  White Star Bruxelles
+         SK Deinze                1-2 (0-1)  KSV Roeselare
+         Cercle Brugge            1-0 (0-0)  KVV Coxyde
+         ASV Geel                 1-1 (0-0)  KSK Heist
+         KAS Eupen                6-0 (3-0)  Patro Eisden MM
+         Union Saint-Gilloise     1-0 (0-0)  Lommel United
+         Royal Antwerp FC         1-1 (0-1)  Excelsior Virton
+
+
+Matchday 10
+[Sat Oct/10]
+  18.00  Excelsior Virton         0-0  ASV Geel
+         Patro Eisden MM          1-2 (0-1)  KFC Dessel Sport
+[Sun Oct/11]
+  15.00  KSV Roeselare            2-1 (0-0)  Lierse SK
+         Lommel United            0-1 (0-0)  Royal Antwerp FC
+         Cercle Brugge            4-0 (2-0)  KAS Eupen
+         White Star Bruxelles     4-1 (3-1)  KSK Heist
+         AFC Tubize               2-1 (1-1)  SK Deinze
+         KVV Coxyde               2-3 (1-2)  Union Saint-Gilloise
+
+
+Matchday 11
+[Fri Oct/16]
+  20.30  Lierse SK                2-2 (0-0)  Patro Eisden MM
+[Sat Oct/17]
+  19.30  KFC Dessel Sport         1-1 (0-1)  KVV Coxyde
+  20.00  SK Deinze                0-3 (0-2)  Lommel United
+         KSK Heist                1-6 (1-3)  AFC Tubize
+         Royal Antwerp FC         2-0 (1-0)  KSV Roeselare
+  19.30  ASV Geel                 2-2 (0-2)  White Star Bruxelles
+[Sun Oct/18]
+  15.00  KAS Eupen                2-0 (0-0)  RFC Seraing
+         Union Saint-Gilloise     2-1 (0-1)  Cercle Brugge
+
+
+Matchday 12
+[Fri Oct/23]
+  20.30  White Star Bruxelles     1-0 (1-0)  Union Saint-Gilloise
+[Sat Oct/24]
+  20.00  Patro Eisden MM          1-1 (1-1)  RFC Seraing
+         SK Deinze                1-1 (0-1)  Royal Antwerp FC
+         AFC Tubize               2-0 (1-0)  KVV Coxyde
+         KSV Roeselare            2-2 (1-0)  KAS Eupen
+  19.30  ASV Geel                 1-1 (1-1)  KFC Dessel Sport
+[Sun Oct/25]
+  15.00  Excelsior Virton         2-1 (0-1)  Cercle Brugge
+         KSK Heist                0-1 (0-1)  Lierse SK
+
+
+Matchday 13
+[Fri Oct/30]
+  20.30  Lierse SK                0-0  Royal Antwerp FC
+[Sat Oct/31]
+  20.00  Cercle Brugge            1-3 (0-2)  AFC Tubize
+         Patro Eisden MM          0-0  ASV Geel
+         RFC Seraing              0-5  White Star Bruxelles     [awarded]
+  19.30  KFC Dessel Sport         3-1 (1-1)  KSK Heist
+[Sun Nov/1]
+  15.00  KAS Eupen                2-0 (1-0)  Lommel United
+         Union Saint-Gilloise     3-1 (0-1)  Excelsior Virton
+         KVV Coxyde               2-2 (0-1)  SK Deinze
+
+
+Matchday 14
+[Sat Nov/7]
+  19.30  ASV Geel                 0-2 (0-1)  RFC Seraing
+  20.00  SK Deinze                0-2 (0-0)  KFC Dessel Sport
+         Lommel United            3-1 (2-1)  KVV Coxyde
+         KSV Roeselare            3-2 (2-1)  Patro Eisden MM
+         Royal Antwerp FC         0-1 (0-1)  Cercle Brugge
+         KSK Heist                1-3 (0-1)  Union Saint-Gilloise
+  18.00  Excelsior Virton         1-4 (1-2)  KAS Eupen
+[Sun Nov/8]
+  15.00  AFC Tubize               1-2 (0-1)  Lierse SK
+
+
+Matchday 15
+[Sat Nov/14]
+  20.00  Lierse SK                4-2 (1-0)  ASV Geel
+         RFC Seraing              1-0 (0-0)  Lommel United
+         Cercle Brugge            1-1 (0-0)  White Star Bruxelles
+         Patro Eisden MM          3-0 (2-0)  KSK Heist
+         KVV Coxyde               0-3 (0-2)  Royal Antwerp FC
+  19.30  KFC Dessel Sport         2-0 (0-0)  Excelsior Virton
+[Sun Nov/15]
+  15.00  KAS Eupen                0-1 (0-0)  AFC Tubize
+         Union Saint-Gilloise     1-3 (0-2)  KSV Roeselare
+
+
+Matchday 16
+[Sat Nov/21]
+  19.30  ASV Geel                 0-3 (0-2)  KAS Eupen
+  20.00  AFC Tubize               1-0 (0-0)  Patro Eisden MM
+         Lommel United            0-0  Lierse SK
+         KSV Roeselare            1-1 (1-0)  KFC Dessel Sport
+  18.00  Excelsior Virton         2-1 (1-1)  RFC Seraing
+[Sun Nov/22]
+  15.00  SK Deinze                1-4 (0-4)  Cercle Brugge
+  19.00  Royal Antwerp FC         2-0 (1-0)  Union Saint-Gilloise
+
+
+Matchday 17
+[Fri Nov/27]
+  20.30  Lierse SK                1-1 (1-1)  Excelsior Virton
+[Sat Nov/28]
+  19.30  KFC Dessel Sport         1-0 (0-0)  AFC Tubize
+  20.00  Patro Eisden MM          0-3 (0-1)  White Star Bruxelles
+         RFC Seraing              5-2 (3-2)  KSK Heist
+         KVV Coxyde               2-4 (0-2)  KSV Roeselare
+[Sun Nov/29]
+  15.00  Cercle Brugge            0-0  Lommel United
+
+
+Matchday 18
+[Fri Dec/4]
+  20.30  KAS Eupen                0-0  Union Saint-Gilloise
+         Lierse SK                3-1 (0-0)  KVV Coxyde
+[Sat Dec/5]
+  20.00  KSK Heist                1-2 (1-0)  Lommel United
+         RFC Seraing              1-2 (1-1)  KSV Roeselare
+  19.30  KFC Dessel Sport         0-3 (0-0)  Cercle Brugge
+         ASV Geel                 2-1 (1-0)  AFC Tubize
+  20.00  Patro Eisden MM          2-0 (1-0)  SK Deinze
+[Sun Dec/6]
+  15.00  White Star Bruxelles     1-0 (0-0)  Excelsior Virton
+
+
+Matchday 17
+[Wed Dec/9]
+  20.00  Union Saint-Gilloise     3-0 (2-0)  SK Deinze
+
+
+Matchday 19
+[Fri Dec/11]
+  20.30  AFC Tubize               2-2 (0-1)  White Star Bruxelles
+[Sat Dec/12]
+  20.00  Royal Antwerp FC         0-0  KFC Dessel Sport
+  18.00  Excelsior Virton         2-2 (0-1)  Patro Eisden MM
+  20.00  Lommel United            4-1 (3-0)  ASV Geel
+         SK Deinze                1-1 (0-0)  KAS Eupen
+         KSV Roeselare            3-2 (1-2)  KSK Heist
+[Sun Dec/13]
+  15.00  Cercle Brugge            2-2 (1-1)  Lierse SK
+         KVV Coxyde               0-3 (0-2)  RFC Seraing
+
+
+Matchday 17
+[Wed Dec/16]
+  20.30  KAS Eupen                3-4 (2-2)  Royal Antwerp FC
+
+
+Matchday 16
+[Wed Dec/16]
+  20.00  White Star Bruxelles     2-0 (0-0)  KVV Coxyde
+
+
+Matchday 20
+[Fri Dec/18]
+  20.30  RFC Seraing              0-2 (0-0)  AFC Tubize
+         Lierse SK                2-1 (0-0)  SK Deinze
+[Sat Dec/19]
+  19.30  ASV Geel                 4-3 (1-1)  KSV Roeselare
+  20.00  Patro Eisden MM          1-4 (0-1)  Royal Antwerp FC
+         KAS Eupen                0-0  KVV Coxyde
+         KSK Heist                4-1 (2-1)  Excelsior Virton
+  19.30  KFC Dessel Sport         1-3 (0-2)  Union Saint-Gilloise
+[Sun Dec/20]
+  15.00  White Star Bruxelles     1-0 (0-0)  Lommel United
+
+
+Matchday 21
+[Sat Jan/16]
+  20.00  Lommel United            5-1 (2-0)  Patro Eisden MM
+         SK Deinze                4-4 (2-1)  KSK Heist
+         KSV Roeselare            0-0  White Star Bruxelles
+         Royal Antwerp FC         2-1 (2-1)  ASV Geel
+         KAS Eupen                0-1 (0-0)  KFC Dessel Sport
+[Sun Jan/17]
+  15.00  Cercle Brugge            4-0 (2-0)  RFC Seraing
+
+
+Matchday 22
+[Sat Jan/23]
+  20.00  ASV Geel                 3-3 (2-1)  Cercle Brugge
+         Lierse SK                1-1 (1-0)  KAS Eupen
+         AFC Tubize               0-1 (0-0)  KSV Roeselare
+         White Star Bruxelles     0-4 (0-2)  Royal Antwerp FC
+         RFC Seraing              1-5 (0-2)  SK Deinze
+         KSK Heist                3-0 (1-0)  KVV Coxyde
+         Patro Eisden MM          2-1 (0-0)  Union Saint-Gilloise
+         Excelsior Virton         1-2 (0-1)  Lommel United
+
+
+Matchday 23
+[Fri Jan/29]
+  20.30  Lommel United            1-1 (1-0)  AFC Tubize
+         Cercle Brugge            1-1 (0-0)  Patro Eisden MM
+[Sat Jan/30]
+  20.00  Royal Antwerp FC         2-0 (0-0)  KSK Heist
+  19.30  KFC Dessel Sport         0-1 (0-0)  Lierse SK
+  20.00  KSV Roeselare            0-3 (0-2)  Excelsior Virton
+         SK Deinze                1-2 (1-0)  White Star Bruxelles
+[Sun Jan/31]
+  15.00  Union Saint-Gilloise     1-2 (0-1)  RFC Seraing
+         KVV Coxyde               0-2 (0-1)  ASV Geel
+
+
+Matchday 21
+[Wed Feb/3]
+  20.30  Union Saint-Gilloise     3-0 (1-0)  Lierse SK
+         Excelsior Virton         2-1 (2-0)  AFC Tubize
+
+
+Matchday 24
+[Fri Feb/5]
+  20.30  KSV Roeselare            1-0 (1-0)  Lommel United
+[Sat Feb/6]
+  18.00  Excelsior Virton         0-0  SK Deinze
+  19.30  ASV Geel                 2-1 (1-0)  Union Saint-Gilloise
+  20.00  White Star Bruxelles     4-2 (2-1)  KAS Eupen
+         Patro Eisden MM          0-3 (0-1)  KVV Coxyde
+         RFC Seraing              1-2 (0-0)  KFC Dessel Sport
+         KSK Heist                0-2 (0-2)  Cercle Brugge
+[Sun Feb/7]
+  15.00  AFC Tubize               2-1 (0-0)  Royal Antwerp FC
+
+
+Matchday 25
+[Fri Feb/12]
+  20.30  Royal Antwerp FC         0-1 (0-1)  RFC Seraing
+[Sat Feb/13]
+  19.30  KFC Dessel Sport         1-0 (0-0)  Lommel United
+  20.00  Lierse SK                1-3 (1-1)  White Star Bruxelles
+         KAS Eupen                3-1 (0-0)  KSK Heist
+         SK Deinze                0-0  ASV Geel
+[Sun Feb/14]
+  15.00  Union Saint-Gilloise     1-2 (0-2)  AFC Tubize
+         KVV Coxyde               3-3 (1-3)  Excelsior Virton
+         Cercle Brugge            2-1 (1-1)  KSV Roeselare
+
+
+Matchday 26
+[Fri Feb/19]
+  20.30  KSK Heist                2-1 (0-1)  ASV Geel
+         Lommel United            3-1 (1-1)  Union Saint-Gilloise
+[Sat Feb/20]
+  18.00  Excelsior Virton         1-2 (0-0)  Royal Antwerp FC
+  20.00  KSV Roeselare            2-2 (1-0)  SK Deinze
+         White Star Bruxelles     1-0 (1-0)  KFC Dessel Sport
+[Sun Feb/21]
+  15.00  KVV Coxyde               2-2 (1-0)  Cercle Brugge
+         Patro Eisden MM          1-2 (1-1)  KAS Eupen
+         RFC Seraing              0-2 (0-0)  Lierse SK
+
+
+Matchday 27
+[Fri Mar/4]
+  20.30  Lierse SK                0-0  KSV Roeselare
+[Sat Mar/5]
+  19.30  ASV Geel                 0-1 (0-0)  Excelsior Virton
+         KFC Dessel Sport         4-0 (1-0)  Patro Eisden MM
+  20.00  SK Deinze                0-2 (0-1)  AFC Tubize
+         Royal Antwerp FC         0-1 (0-1)  Lommel United
+         KSK Heist                1-0 (0-0)  White Star Bruxelles
+[Sun Mar/6]
+  15.00  Union Saint-Gilloise     0-0  KVV Coxyde
+         KAS Eupen                2-1 (1-0)  Cercle Brugge
+
+
+Matchday 28
+[Fri Mar/11]
+  20.30  Cercle Brugge            1-1 (0-1)  Union Saint-Gilloise
+[Sat Mar/12]
+  20.00  Patro Eisden MM          1-4 (1-1)  Lierse SK
+         Lommel United            3-3 (1-0)  SK Deinze
+         AFC Tubize               3-3 (1-2)  KSK Heist
+         White Star Bruxelles     2-1 (1-1)  ASV Geel
+         RFC Seraing              0-3 (0-1)  KAS Eupen
+[Sun Mar/13]
+  15.00  KVV Coxyde               0-1 (0-1)  KFC Dessel Sport
+         KSV Roeselare            0-1 (0-0)  Royal Antwerp FC
+
+
+Matchday 29
+[Fri Mar/18]
+  20.30  KAS Eupen                4-0 (2-0)  KSV Roeselare
+[Sat Mar/19]
+  19.30  KFC Dessel Sport         1-2 (0-1)  ASV Geel
+  20.00  Lierse SK                4-0 (2-0)  KSK Heist
+         Cercle Brugge            2-2 (2-1)  Excelsior Virton
+         RFC Seraing              3-1 (1-1)  Patro Eisden MM
+         Royal Antwerp FC         3-0 (2-0)  SK Deinze
+[Sun Mar/20]
+  15.00  KVV Coxyde               3-2 (1-0)  AFC Tubize
+         Union Saint-Gilloise     1-0 (1-0)  White Star Bruxelles
+
+
+Matchday 30
+[Fri Apr/1]
+  20.30  Royal Antwerp FC         0-1 (0-0)  Lierse SK
+[Sat Apr/2]
+  18.00  Excelsior Virton         0-0  Union Saint-Gilloise
+  19.30  ASV Geel                 0-0  Patro Eisden MM
+  20.00  KSK Heist                0-2 (0-0)  KFC Dessel Sport
+         White Star Bruxelles     1-0 (1-0)  RFC Seraing
+         Lommel United            0-3 (0-0)  KAS Eupen
+         SK Deinze                1-0 (0-0)  KVV Coxyde
+[Sun Apr/3]
+  15.00  AFC Tubize               2-0 (0-0)  Cercle Brugge
+
+
+Matchday 31
+[Fri Apr/8]
+  20.30  Lierse SK                2-1 (0-1)  AFC Tubize
+[Sat Apr/9]
+  20.00  RFC Seraing              4-1 (2-0)  ASV Geel
+         Patro Eisden MM          4-1 (1-1)  KSV Roeselare
+         KAS Eupen                2-1 (1-0)  Excelsior Virton
+  19.30  KFC Dessel Sport         2-0 (1-0)  SK Deinze
+[Sun Apr/10]
+  15.00  Union Saint-Gilloise     4-0 (2-0)  KSK Heist
+         KVV Coxyde               0-1 (0-1)  Lommel United
+  16.00  Cercle Brugge            2-2 (1-0)  Royal Antwerp FC
+
+
+Matchday 32
+[Fri Apr/15]
+  20.30  AFC Tubize               1-1 (1-0)  KAS Eupen
+[Sat Apr/16]
+  19.00  ASV Geel                 2-1 (1-1)  Lierse SK
+  20.00  Royal Antwerp FC         2-0 (0-0)  KVV Coxyde
+         KSK Heist                1-4 (0-3)  Patro Eisden MM
+         Lommel United            2-0 (0-0)  RFC Seraing
+         White Star Bruxelles     1-0 (0-0)  Cercle Brugge
+  18.00  Excelsior Virton         1-4 (1-3)  KFC Dessel Sport
+[Sun Apr/17]
+  15.00  KSV Roeselare            1-1 (0-1)  Union Saint-Gilloise
+
+
+Matchday 33
+[Sun Apr/24]
+  15.00  Cercle Brugge            1-0 (0-0)  SK Deinze
+         KAS Eupen                4-1 (1-0)  ASV Geel
+         KFC Dessel Sport         0-1 (0-1)  KSV Roeselare
+         Lierse SK                0-0  Lommel United
+         KVV Coxyde               0-5 (0-4)  White Star Bruxelles
+         RFC Seraing              3-0 (1-0)  Excelsior Virton
+         Union Saint-Gilloise     2-1 (0-0)  Royal Antwerp FC
+         Patro Eisden MM          0-1 (0-0)  AFC Tubize
+
+
+Matchday 34
+[Sat Apr/30]
+  20.00  White Star Bruxelles     3-0 (0-0)  Patro Eisden MM
+         SK Deinze                2-1 (1-0)  Union Saint-Gilloise
+         Lommel United            0-2 (0-0)  Cercle Brugge
+         AFC Tubize               1-2 (0-0)  KFC Dessel Sport
+         KSV Roeselare            4-1 (0-1)  KVV Coxyde
+         KSK Heist                2-2 (1-1)  RFC Seraing
+         Royal Antwerp FC         0-0  KAS Eupen
+         Excelsior Virton         2-3 (2-0)  Lierse SK

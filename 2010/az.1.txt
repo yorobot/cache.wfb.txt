@@ -1,0 +1,162 @@
+= AZ 1 2010
+
+# Date       Fri Mar/12 - Sun May/16 2010 (65d)
+# Teams      12
+# Matches    60
+# Stages     Relegation (30)  Championship (30)
+
+
+== Relegation
+
+Matchday 1
+[Fri Mar/12]
+  15.00  Simurq PFC               0-0  FK Karvan
+         Olimpik-Shuvalan         1-2  Standard Sumgayit
+[Sat Mar/13]
+  15.00  Turan PFK                1-2  FK Muğan
+
+
+Matchday 2
+[Sat Mar/20]
+  15.00  FK Karvan                0-0  FK Muğan
+         Standard Sumgayit        2-3  Turan PFK
+         Simurq PFC               0-3  Olimpik-Shuvalan
+
+
+Matchday 3
+[Sat Mar/27]
+  16.00  FK Muğan                 1-0  Standard Sumgayit
+         Turan PFK                0-0  Simurq PFC
+[Sun Mar/28]
+  16.00  Olimpik-Shuvalan         0-0  FK Karvan
+
+
+Matchday 4
+[Sat Apr/3]
+  16.00  Simurq PFC               1-0  FK Muğan
+         Olimpik-Shuvalan         4-1  Turan PFK
+[Sun Apr/4]
+  16.00  FK Karvan                1-2  Standard Sumgayit
+
+
+Matchday 5
+[Sat Apr/10]
+  16.00  FK Muğan                 2-1  Olimpik-Shuvalan
+         Standard Sumgayit        3-1  Simurq PFC
+[Sun Apr/11]
+  16.00  Turan PFK                2-0  FK Karvan
+
+
+Matchday 6
+[Sat Apr/17]
+  16.00  FK Karvan                0-0  Simurq PFC
+[Sun Apr/18]
+  16.00  Standard Sumgayit        0-1  Olimpik-Shuvalan
+         FK Muğan                 0-0  Turan PFK
+
+
+Matchday 7
+[Fri Apr/23]
+  16.00  Turan PFK                0-0  Standard Sumgayit
+         Olimpik-Shuvalan         0-0  Simurq PFC
+[Sat Apr/24]
+  16.00  FK Muğan                 2-3  FK Karvan
+
+
+Matchday 8
+[Sat May/1]
+  17.00  Standard Sumgayit        0-2  FK Muğan
+         Simurq PFC               2-1  Turan PFK
+         FK Karvan                0-1  Olimpik-Shuvalan
+
+
+Matchday 9
+[Sun May/9]
+  17.15  FK Muğan                 3-1  Simurq PFC
+         Turan PFK                0-0  Olimpik-Shuvalan
+         Standard Sumgayit        6-0  FK Karvan
+
+
+Matchday 10
+[Sun May/16]
+  17.15  Olimpik-Shuvalan         2-0  FK Muğan
+         Simurq PFC               0-4  Standard Sumgayit
+         FK Karvan                1-4  Turan PFK
+
+
+== Championship
+
+Matchday 1
+[Fri Mar/12]
+  14.00  FK Baku                  2-0  Qarabağ FK
+  18.00  Khazar Lankaran          4-1  Gabala FK
+[Sat Mar/13]
+  16.00  Inter Baku               1-1  Neftçi PFK
+
+
+Matchday 2
+[Sun Mar/21]
+  15.00  Neftçi PFK               1-0  FK Baku
+         Gabala FK                3-1  Qarabağ FK
+  16.10  Inter Baku               1-0  Khazar Lankaran
+
+
+Matchday 3
+[Sat Mar/27]
+  16.00  Qarabağ FK               1-1  Inter Baku
+  18.00  Khazar Lankaran          0-0  Neftçi PFK
+[Sun Mar/28]
+  16.00  FK Baku                  1-1  Gabala FK
+
+
+Matchday 4
+[Sat Apr/3]
+  16.00  Neftçi PFK               1-2  Gabala FK
+  18.00  Khazar Lankaran          2-1  Qarabağ FK
+[Sun Apr/4]
+  16.00  Inter Baku               1-1  FK Baku
+
+
+Matchday 5
+[Sat Apr/10]
+  16.00  Qarabağ FK               2-0  Neftçi PFK
+         Gabala FK                1-1  Inter Baku
+[Sun Apr/11]
+  16.00  FK Baku                  1-0  Khazar Lankaran
+
+
+Matchday 6
+[Sat Apr/17]
+  16.00  Gabala FK                1-2  Khazar Lankaran
+         Qarabağ FK               1-4  FK Baku
+[Sun Apr/18]
+  16.00  Neftçi PFK               1-0  Inter Baku
+
+
+Matchday 7
+[Fri Apr/23]
+  17.15  FK Baku                  1-1  Neftçi PFK
+  18.00  Khazar Lankaran          2-2  Inter Baku
+[Sat Apr/24]
+  17.00  Qarabağ FK               1-1  Gabala FK
+
+
+Matchday 8
+[Sat May/1]
+  17.00  Neftçi PFK               0-0  Khazar Lankaran
+  17.15  Gabala FK                1-0  FK Baku
+  18.00  Inter Baku               0-1  Qarabağ FK
+
+
+Matchday 9
+[Sun May/9]
+  17.15  Qarabağ FK               2-1  Khazar Lankaran
+         Gabala FK                0-0  Neftçi PFK
+         FK Baku                  0-0  Inter Baku
+
+
+Matchday 10
+[Sat May/15]
+  17.15  Neftçi PFK               0-0  Qarabağ FK
+         Inter Baku               4-1  Gabala FK
+         Khazar Lankaran          0-1  FK Baku

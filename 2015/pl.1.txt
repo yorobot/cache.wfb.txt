@@ -1,0 +1,132 @@
+= PL 1 2015
+
+# Date       Fri May/8 - Sun Jun/7 2015 (30d)
+# Teams      16
+# Matches    56
+# Stages     Relegation (28)  Playoffs (28)
+
+
+== Relegation
+
+Matchday 31
+[Fri May/8]
+  18.00  Korona Kielce            0-2 (0-1)  Ruch Chorzów
+[Sun May/10]
+  15.30  Podbeskidzie Bielsko-Biała  2-2 (0-0)  Zawisza Bydgoszcz
+  18.00  KS Cracovia              1-1 (1-0)  GKS Bełchatów
+[Mon May/11]
+  18.00  Piast Gliwice            2-3 (1-0)  Górnik Łęczna
+
+
+Matchday 32
+[Fri May/15]
+  18.00  Zawisza Bydgoszcz        3-1 (3-0)  Korona Kielce
+[Sat May/16]
+  15.30  Górnik Łęczna            0-3 (0-2)  KS Cracovia
+  18.00  GKS Bełchatów            0-2 (0-1)  Podbeskidzie Bielsko-Biała
+  20.30  Ruch Chorzów             1-1 (0-1)  Piast Gliwice
+
+
+Matchday 33
+[Tue May/19]
+  18.00  Korona Kielce            1-3 (0-2)  Górnik Łęczna
+         Podbeskidzie Bielsko-Biała  0-2 (0-0)  Ruch Chorzów
+  20.30  KS Cracovia              3-1 (0-0)  Zawisza Bydgoszcz
+         Piast Gliwice            6-3 (2-1)  GKS Bełchatów
+
+
+Matchday 34
+[Fri May/22]
+  18.00  Zawisza Bydgoszcz        1-1 (1-0)  Górnik Łęczna
+  20.30  KS Cracovia              1-1 (1-1)  Korona Kielce
+[Sun May/24]
+  15.30  Piast Gliwice            2-1 (1-0)  Podbeskidzie Bielsko-Biała
+[Mon May/25]
+  18.00  Ruch Chorzów             2-4 (0-1)  GKS Bełchatów
+
+
+Matchday 35
+[Fri May/29]
+  18.00  Podbeskidzie Bielsko-Biała  0-3 (0-0)  KS Cracovia
+  20.30  Korona Kielce            2-1 (1-0)  Piast Gliwice
+[Sat May/30]
+  15.30  Górnik Łęczna            0-1 (0-0)  Ruch Chorzów
+  18.00  GKS Bełchatów            1-4 (0-2)  Zawisza Bydgoszcz
+
+
+Matchday 36
+[Tue Jun/2]
+  20.30  KS Cracovia              1-0 (1-0)  Ruch Chorzów
+         GKS Bełchatów            2-2 (0-1)  Korona Kielce
+         Podbeskidzie Bielsko-Biała  1-0 (0-0)  Górnik Łęczna
+         Zawisza Bydgoszcz        0-0  Piast Gliwice
+
+
+Matchday 37
+[Fri Jun/5]
+  20.30  Górnik Łęczna            1-0 (1-0)  GKS Bełchatów
+         Korona Kielce            3-1 (2-1)  Podbeskidzie Bielsko-Biała
+         Piast Gliwice            0-3 (0-1)  KS Cracovia
+         Ruch Chorzów             3-2 (1-0)  Zawisza Bydgoszcz
+
+
+== Playoffs
+
+Matchday 31
+[Fri May/8]
+  20.30  Jagiellonia Białystok    1-1 (0-0)  Śląsk Wrocław
+[Sat May/9]
+  15.30  Legia Warszawa           1-2 (0-0)  Lech Poznań
+  18.00  Pogoń Szczecin           1-3 (1-0)  Lechia Gdańsk
+  20.30  Wisła Kraków             4-1 (1-1)  Górnik Zabrze
+
+
+Matchday 32
+[Fri May/15]
+  20.30  Lechia Gdańsk            2-2 (1-0)  Wisła Kraków
+[Sun May/17]
+  15.30  Górnik Zabrze            2-0 (0-0)  Pogoń Szczecin
+         Lech Poznań              1-3 (0-0)  Jagiellonia Białystok
+  18.00  Śląsk Wrocław            1-1 (1-1)  Legia Warszawa
+
+
+Matchday 33
+[Wed May/20]
+  18.00  Górnik Zabrze            0-1 (0-0)  Lechia Gdańsk
+         Lech Poznań              3-0 (3-0)  Śląsk Wrocław
+  20.30  Legia Warszawa           1-0 (0-0)  Jagiellonia Białystok
+         Wisła Kraków             2-2 (1-0)  Pogoń Szczecin
+
+
+Matchday 34
+[Sat May/23]
+  15.30  Śląsk Wrocław            1-1 (0-0)  Górnik Zabrze
+  18.00  Pogoń Szczecin           0-1 (0-0)  Legia Warszawa
+  20.30  Jagiellonia Białystok    2-1 (0-1)  Wisła Kraków
+[Sun May/24]
+  18.00  Lechia Gdańsk            1-2 (0-1)  Lech Poznań
+
+
+Matchday 35
+[Sat May/30]
+  20.30  Śląsk Wrocław            1-0 (0-0)  Lechia Gdańsk
+[Sun May/31]
+  15.30  Jagiellonia Białystok    3-2 (2-1)  Górnik Zabrze
+         Legia Warszawa           1-0 (0-0)  Wisła Kraków
+  18.00  Lech Poznań              1-0 (1-0)  Pogoń Szczecin
+
+
+Matchday 36
+[Wed Jun/3]
+  20.30  Górnik Zabrze            1-6 (1-4)  Lech Poznań
+         Lechia Gdańsk            0-0  Legia Warszawa
+         Pogoń Szczecin           1-3 (0-2)  Jagiellonia Białystok
+         Wisła Kraków             0-1 (0-0)  Śląsk Wrocław
+
+
+Matchday 37
+[Sun Jun/7]
+  18.00  Jagiellonia Białystok    4-2 (0-1)  Lechia Gdańsk
+         Lech Poznań              0-0  Wisła Kraków
+         Legia Warszawa           2-0 (1-0)  Górnik Zabrze
+         Śląsk Wrocław            2-1 (1-0)  Pogoń Szczecin

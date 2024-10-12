@@ -1,0 +1,85 @@
+= NIR 1 2011
+
+# Date       Sat Mar/26 - Sat Apr/30 2011 (35d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat Mar/26]
+  15.00  Cliftonville FC          1-2  Glentoran FC
+[Fri Apr/1]
+  19.45  Crusaders FC             0-1  Linfield FC
+[Tue Apr/19]
+  19.45  Portadown FC             1-0  Lisburn Distillery
+
+
+Matchday 2
+[Sat Apr/16]
+  15.00  Crusaders FC             4-1  Lisburn Distillery
+         Portadown FC             0-1  Cliftonville FC
+[Tue Apr/19]
+  19.45  Linfield FC              3-2  Glentoran FC
+
+
+Matchday 3
+[Sat Apr/23]
+  15.00  Linfield FC              1-0  Cliftonville FC
+         Crusaders FC             3-1  Portadown FC
+         Glentoran FC             2-1  Lisburn Distillery
+
+
+Matchday 4
+[Tue Apr/26]
+  15.00  Lisburn Distillery       0-4  Linfield FC
+         Cliftonville FC          3-0  Crusaders FC
+         Portadown FC             2-0  Glentoran FC
+
+
+Matchday 5
+[Sat Apr/30]
+  15.00  Linfield FC              1-0  Portadown FC
+         Glentoran FC             2-2  Crusaders FC
+         Lisburn Distillery       4-3  Cliftonville FC
+
+
+== Relegation
+
+Matchday 1
+[Thu Mar/31]
+  19.45  Glenavon FC              1-2  Dungannon Swifts
+[Fri Apr/1]
+  19.45  Coleraine FC             1-1  Ballymena United
+[Fri Apr/8]
+  19.45  Newry City FC            0-1  Donegal Celtic FC
+
+
+Matchday 2
+[Sat Apr/16]
+  15.00  Coleraine FC             3-1  Glenavon FC
+         Donegal Celtic FC        3-3  Ballymena United
+         Dungannon Swifts         1-0  Newry City FC
+
+
+Matchday 3
+[Sat Apr/23]
+  15.00  Coleraine FC             2-1  Dungannon Swifts
+         Ballymena United         1-0  Newry City FC
+         Glenavon FC              3-0  Donegal Celtic FC
+
+
+Matchday 4
+[Tue Apr/26]
+  15.00  Coleraine FC             3-1  Donegal Celtic FC
+         Ballymena United         0-2  Dungannon Swifts
+         Newry City FC            0-4  Glenavon FC
+
+
+Matchday 5
+[Sat Apr/30]
+  15.00  Newry City FC            0-2  Coleraine FC
+         Ballymena United         1-0  Glenavon FC
+         Donegal Celtic FC        1-2  Dungannon Swifts

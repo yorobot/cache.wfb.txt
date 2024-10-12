@@ -1,0 +1,511 @@
+= BE 1 2000/01
+
+# Date       Sat Aug/12 2000 - Sun May/20 2001 (281d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sat Aug/12]
+  20.00  KV Mechelen              0-0  KRC Genk
+         KVC Westerlo             2-1 (1-0)  Royal Antwerp FC
+         RAA La Louviére          0-0  Sporting Lokeren
+         Excelsior Mouscron       3-0 (1-0)  Germinal Beerschot
+         KSK Beveren              1-2 (1-1)  RSC Charleroi
+[Sun Aug/13]
+  15.00  K.S.C. Eendracht Aalst   1-3 (0-1)  Lierse SK
+         Club Brugge KV           6-2 (3-0)  KAA Gent
+  20.00  Sint-Truidense VV        0-0  RSC Anderlecht
+  15.00  KRC Harelbeke            3-4 (1-2)  Standard Liège
+
+
+Matchday 2
+[Sat Aug/19]
+  20.00  Royal Antwerp FC         0-1 (0-1)  KSK Beveren
+         Standard Liège           3-0 (0-0)  RAA La Louviére
+         Sint-Truidense VV        0-1 (0-0)  Lierse SK
+         KRC Genk                 3-1 (2-1)  K.S.C. Eendracht Aalst
+         Sporting Lokeren         2-0 (1-0)  Germinal Beerschot
+         RSC Charleroi            5-0 (2-0)  KRC Harelbeke
+         RSC Anderlecht           3-2 (1-1)  KVC Westerlo
+         KAA Gent                 2-1 (1-0)  KV Mechelen
+[Sun Aug/20]
+  20.00  Excelsior Mouscron       1-2 (1-1)  Club Brugge KV
+
+
+Matchday 3
+[Fri Aug/25]
+  20.00  Germinal Beerschot       1-0 (1-0)  Standard Liège
+[Sat Aug/26]
+  20.00  Sint-Truidense VV        2-2 (1-0)  KRC Genk
+         RSC Anderlecht           4-0 (2-0)  KSK Beveren
+         KV Mechelen              1-5 (0-2)  Excelsior Mouscron
+[Sun Aug/27]
+  15.00  K.S.C. Eendracht Aalst   1-4 (1-1)  KAA Gent
+         Club Brugge KV           3-1 (1-1)  Sporting Lokeren
+         RSC Charleroi            1-0 (1-0)  Royal Antwerp FC
+  20.00  KVC Westerlo             1-0 (0-0)  Lierse SK
+  15.00  KRC Harelbeke            2-2 (1-1)  RAA La Louviére
+
+
+Matchday 4
+[Tue Sep/5]
+  20.00  RSC Anderlecht           7-2 (3-1)  RSC Charleroi
+[Wed Sep/6]
+  20.00  Standard Liège           0-4 (0-1)  Club Brugge KV
+         KRC Genk                 1-2 (1-0)  KVC Westerlo
+         Sporting Lokeren         3-2 (0-2)  KV Mechelen
+         Lierse SK                3-0 (1-0)  KSK Beveren
+         RAA La Louviére          0-5 (0-3)  Germinal Beerschot
+         Excelsior Mouscron       2-0 (0-0)  K.S.C. Eendracht Aalst
+         KAA Gent                 2-1 (0-0)  Sint-Truidense VV
+         Royal Antwerp FC         2-0 (0-0)  KRC Harelbeke
+
+
+Matchday 5
+[Sat Sep/9]
+  20.00  KV Mechelen              0-4 (0-1)  Standard Liège
+         Royal Antwerp FC         0-3 (0-1)  RSC Anderlecht
+         KVC Westerlo             0-0  KAA Gent
+         Sint-Truidense VV        1-4 (1-2)  Excelsior Mouscron
+         RSC Charleroi            2-0 (0-0)  Lierse SK
+         KSK Beveren              2-0 (1-0)  KRC Genk
+[Sun Sep/10]
+  15.00  K.S.C. Eendracht Aalst   2-2 (2-1)  Sporting Lokeren
+         Club Brugge KV           3-0 (1-0)  RAA La Louviére
+         KRC Harelbeke            3-0 (2-0)  Germinal Beerschot
+
+
+Matchday 6
+[Sat Sep/16]
+  20.00  Standard Liège           7-0 (4-0)  K.S.C. Eendracht Aalst
+         Sporting Lokeren         2-1 (0-0)  Sint-Truidense VV
+         Lierse SK                4-1 (2-1)  Royal Antwerp FC
+         RAA La Louviére          2-2 (0-0)  KV Mechelen
+         Excelsior Mouscron       3-5 (1-3)  KVC Westerlo
+         RSC Anderlecht           4-3 (2-1)  KRC Harelbeke
+         KAA Gent                 5-0 (3-0)  KSK Beveren
+[Sun Sep/17]
+  15.00  Germinal Beerschot       2-3 (0-1)  Club Brugge KV
+         KRC Genk                 2-1 (0-1)  RSC Charleroi
+
+
+Matchday 7
+[Fri Sep/22]
+  20.00  RSC Anderlecht           5-2 (2-1)  Lierse SK
+[Sat Sep/23]
+  20.00  KV Mechelen              2-3 (0-0)  Germinal Beerschot
+         KVC Westerlo             1-1 (0-0)  Sporting Lokeren
+         Sint-Truidense VV        1-1 (0-1)  Standard Liège
+         RSC Charleroi            4-3 (2-0)  KAA Gent
+         KSK Beveren              0-0  Excelsior Mouscron
+[Sun Sep/24]
+  15.00  K.S.C. Eendracht Aalst   1-0 (0-0)  RAA La Louviére
+         KRC Harelbeke            0-6 (0-2)  Club Brugge KV
+
+
+Matchday 8
+[Fri Sep/29]
+  20.00  Excelsior Mouscron       3-0 (2-0)  RSC Charleroi
+[Sat Sep/30]
+  20.00  Germinal Beerschot       2-0 (0-0)  K.S.C. Eendracht Aalst
+         Standard Liège           5-3 (4-1)  KVC Westerlo
+         Sporting Lokeren         1-1 (1-1)  KSK Beveren
+         Lierse SK                4-1 (2-0)  KRC Harelbeke
+         RAA La Louviére          1-0 (1-0)  Sint-Truidense VV
+[Sun Oct/1]
+  15.00  Club Brugge KV           5-2 (2-1)  KV Mechelen
+         KAA Gent                 4-2 (2-2)  Royal Antwerp FC
+  20.00  KRC Genk                 1-1 (1-1)  RSC Anderlecht
+
+
+Matchday 9
+[Fri Oct/13]
+  20.00  Lierse SK                1-1 (0-0)  KRC Genk
+[Sat Oct/14]
+  20.00  RSC Anderlecht           2-1 (2-1)  KAA Gent
+         Royal Antwerp FC         1-0 (0-0)  Excelsior Mouscron
+         Sint-Truidense VV        3-2 (2-0)  Germinal Beerschot
+         RSC Charleroi            1-0 (0-0)  Sporting Lokeren
+         KSK Beveren              0-3 (0-2)  Standard Liège
+[Sun Oct/15]
+  15.00  KRC Harelbeke            1-0 (1-0)  KV Mechelen
+         K.S.C. Eendracht Aalst   0-2 (0-0)  Club Brugge KV
+         KVC Westerlo             2-1 (1-1)  RAA La Louviére
+
+
+Matchday 10
+[Fri Oct/20]
+  20.00  Standard Liège           4-0 (2-0)  RSC Charleroi
+[Sat Oct/21]
+  20.00  Germinal Beerschot       3-1 (1-0)  KVC Westerlo
+  18.00  Excelsior Mouscron       1-2 (0-0)  RSC Anderlecht
+  20.00  KRC Genk                 4-0 (2-0)  KRC Harelbeke
+         Sporting Lokeren         0-1 (0-0)  Royal Antwerp FC
+         RAA La Louviére          2-3 (0-2)  KSK Beveren
+         KAA Gent                 2-3 (2-1)  Lierse SK
+[Sun Oct/22]
+  15.00  KV Mechelen              4-1 (1-1)  K.S.C. Eendracht Aalst
+         Club Brugge KV           5-0 (2-0)  Sint-Truidense VV
+
+
+Matchday 11
+[Fri Oct/27]
+  20.00  Lierse SK                1-4 (0-3)  Excelsior Mouscron
+[Sat Oct/28]
+  20.00  Sint-Truidense VV        1-0 (0-0)  KV Mechelen
+         KRC Genk                 1-1 (0-0)  KAA Gent
+         RSC Charleroi            2-1 (2-0)  RAA La Louviére
+         KSK Beveren              2-1 (1-1)  Germinal Beerschot
+         RSC Anderlecht           8-0 (3-0)  Sporting Lokeren
+[Sun Oct/29]
+  15.00  KRC Harelbeke            2-4 (1-1)  K.S.C. Eendracht Aalst
+         Royal Antwerp FC         1-2 (1-0)  Standard Liège
+  20.00  KVC Westerlo             0-2 (0-0)  Club Brugge KV
+
+
+Matchday 7
+[Wed Nov/1]
+  15.00  Royal Antwerp FC         1-0 (0-0)  KRC Genk
+
+
+Matchday 12
+[Sat Nov/11]
+  20.00  Sporting Lokeren         2-0 (1-0)  Lierse SK
+         Germinal Beerschot       0-2 (0-0)  RSC Charleroi
+         KAA Gent                 2-1 (1-0)  KRC Harelbeke
+         KV Mechelen              0-1 (0-0)  KVC Westerlo
+[Sun Nov/12]
+  13.00  Standard Liège           1-1 (0-0)  RSC Anderlecht
+  15.00  K.S.C. Eendracht Aalst   4-1 (1-1)  Sint-Truidense VV
+         RAA La Louviére          2-2 (1-2)  Royal Antwerp FC
+         Excelsior Mouscron       2-0 (0-0)  KRC Genk
+         Club Brugge KV           6-0 (1-0)  KSK Beveren
+
+
+Matchday 13
+[Fri Nov/17]
+  20.00  RSC Charleroi            0-4 (0-1)  Club Brugge KV
+[Sat Nov/18]
+  20.00  KRC Genk                 0-0  Sporting Lokeren
+         Lierse SK                1-1 (0-0)  Standard Liège
+         KSK Beveren              1-1 (1-0)  KV Mechelen
+         RSC Anderlecht           2-0 (1-0)  RAA La Louviére
+         KAA Gent                 1-0 (0-0)  Excelsior Mouscron
+         KVC Westerlo             1-1 (1-1)  K.S.C. Eendracht Aalst
+[Sun Nov/19]
+  15.00  KRC Harelbeke            0-4 (0-1)  Sint-Truidense VV
+         Royal Antwerp FC         1-2 (0-0)  Germinal Beerschot
+
+
+Matchday 14
+[Fri Nov/24]
+  20.00  Standard Liège           2-1 (0-0)  KRC Genk
+[Sat Nov/25]
+  20.00  KV Mechelen              4-3 (2-0)  RSC Charleroi
+         Sint-Truidense VV        1-2 (1-1)  KVC Westerlo
+         Sporting Lokeren         1-1 (0-1)  KAA Gent
+         RAA La Louviére          0-2 (0-1)  Lierse SK
+         Germinal Beerschot       0-1 (0-0)  RSC Anderlecht
+         Excelsior Mouscron       4-3 (2-2)  KRC Harelbeke
+[Sun Nov/26]
+  15.00  Club Brugge KV           2-0 (0-0)  Royal Antwerp FC
+         K.S.C. Eendracht Aalst   1-1 (0-0)  KSK Beveren
+
+
+Matchday 15
+[Fri Dec/1]
+  20.30  RSC Anderlecht           2-0 (1-0)  Club Brugge KV
+[Sat Dec/2]
+  20.00  KRC Genk                 1-0 (1-0)  RAA La Louviére
+         Lierse SK                1-1 (1-0)  Germinal Beerschot
+         Excelsior Mouscron       2-1 (0-1)  Sporting Lokeren
+         RSC Charleroi            0-0  K.S.C. Eendracht Aalst
+         KAA Gent                 2-1 (0-1)  Standard Liège
+         Royal Antwerp FC         3-1 (0-0)  KV Mechelen
+[Sun Dec/3]
+  15.00  KSK Beveren              0-0  Sint-Truidense VV
+         KRC Harelbeke            0-4 (0-1)  KVC Westerlo
+
+
+Matchday 16
+[Fri Dec/8]
+  20.00  Standard Liège           3-3 (0-1)  Excelsior Mouscron
+[Sat Dec/9]
+  20.00  KVC Westerlo             1-2 (0-2)  KSK Beveren
+         Sint-Truidense VV        1-3 (1-2)  RSC Charleroi
+         RAA La Louviére          1-1 (0-0)  KAA Gent
+         Germinal Beerschot       5-1 (1-1)  KRC Genk
+         KV Mechelen              0-2 (0-1)  RSC Anderlecht
+[Sun Dec/10]
+  15.00  K.S.C. Eendracht Aalst   0-4 (0-2)  Royal Antwerp FC
+         Club Brugge KV           1-0 (1-0)  Lierse SK
+         KRC Harelbeke            1-6 (1-2)  Sporting Lokeren
+
+
+Matchday 17
+[Fri Dec/15]
+  20.00  RSC Charleroi            2-2 (0-1)  KVC Westerlo
+[Sat Dec/16]
+  20.00  Sporting Lokeren         2-1 (0-1)  Standard Liège
+         Lierse SK                1-1 (1-1)  KV Mechelen
+         Excelsior Mouscron       0-0  RAA La Louviére
+         KSK Beveren              2-1 (0-0)  KRC Harelbeke
+         RSC Anderlecht           3-0 (2-0)  K.S.C. Eendracht Aalst
+         KAA Gent                 3-1 (2-1)  Germinal Beerschot
+         Royal Antwerp FC         2-0 (0-0)  Sint-Truidense VV
+[Sun Dec/17]
+  20.00  KRC Genk                 0-1 (0-1)  Club Brugge KV
+
+
+Matchday 18
+[Wed Dec/20]
+  20.00  Royal Antwerp FC         1-3 (1-1)  KVC Westerlo
+         Standard Liège           3-0 (1-0)  KRC Harelbeke
+         KRC Genk                 3-1 (1-0)  KV Mechelen
+         Sporting Lokeren         3-1 (0-0)  RAA La Louviére
+         Lierse SK                2-0 (2-0)  K.S.C. Eendracht Aalst
+         Germinal Beerschot       4-1 (2-0)  Excelsior Mouscron
+         RSC Charleroi            5-0 (3-0)  KSK Beveren
+         RSC Anderlecht           3-2 (0-2)  Sint-Truidense VV
+
+
+Matchday 19
+[Fri Jan/19]
+  20.30  Club Brugge KV           2-2 (1-1)  Excelsior Mouscron
+[Sat Jan/20]
+  18.00  RAA La Louviére          0-4 (0-2)  Standard Liège
+  20.00  KV Mechelen              3-3 (0-3)  KAA Gent
+         KSK Beveren              2-1 (2-1)  Royal Antwerp FC
+         Germinal Beerschot       2-0 (0-0)  Sporting Lokeren
+         Lierse SK                2-1 (0-0)  Sint-Truidense VV
+[Sun Jan/21]
+  15.00  K.S.C. Eendracht Aalst   4-2 (1-2)  KRC Genk
+         KRC Harelbeke            1-0 (0-0)  RSC Charleroi
+
+
+Matchday 20
+[Sat Jan/27]
+  20.00  KAA Gent                 1-0 (1-0)  K.S.C. Eendracht Aalst
+         KSK Beveren              1-3 (0-2)  RSC Anderlecht
+         Royal Antwerp FC         1-1 (1-0)  RSC Charleroi
+         KRC Genk                 3-0 (0-0)  Sint-Truidense VV
+         Sporting Lokeren         2-2 (2-1)  Club Brugge KV
+         Lierse SK                1-2 (1-0)  KVC Westerlo
+[Sun Jan/28]
+  15.00  Excelsior Mouscron       4-2 (0-1)  KV Mechelen
+         Standard Liège           1-1 (1-0)  Germinal Beerschot
+         RAA La Louviére          0-2 (0-1)  KRC Harelbeke
+
+
+Matchday 21
+[Fri Feb/2]
+  20.30  RSC Charleroi            0-4 (0-1)  RSC Anderlecht
+[Sat Feb/3]
+  20.00  Germinal Beerschot       3-1 (1-0)  RAA La Louviére
+         KSK Beveren              2-1 (0-1)  Lierse SK
+         KV Mechelen              0-3 (0-3)  Sporting Lokeren
+         KVC Westerlo             5-0 (1-0)  KRC Genk
+         Sint-Truidense VV        0-1 (0-1)  KAA Gent
+[Sun Feb/4]
+  15.00  K.S.C. Eendracht Aalst   1-0 (1-0)  Excelsior Mouscron
+         KRC Harelbeke            2-0 (1-0)  Royal Antwerp FC
+         Club Brugge KV           1-1 (0-0)  Standard Liège
+
+
+Matchday 22
+[Fri Feb/9]
+  20.00  RAA La Louviére          1-1 (0-0)  Club Brugge KV
+         RSC Anderlecht           2-0 (1-0)  Royal Antwerp FC
+[Sat Feb/10]
+  20.00  Excelsior Mouscron       1-0 (1-0)  Sint-Truidense VV
+         KAA Gent                 3-1 (2-1)  KVC Westerlo
+         KRC Genk                 1-0 (0-0)  KSK Beveren
+         Sporting Lokeren         2-0 (0-0)  K.S.C. Eendracht Aalst
+         Lierse SK                2-0 (1-0)  RSC Charleroi
+         Germinal Beerschot       2-1 (0-0)  KRC Harelbeke
+[Sun Feb/11]
+  15.00  Standard Liège           2-0 (1-0)  KV Mechelen
+
+
+Matchday 23
+[Fri Feb/16]
+  20.00  KVC Westerlo             1-0 (0-0)  Excelsior Mouscron
+[Sat Feb/17]
+  20.00  RSC Charleroi            2-1 (0-1)  KRC Genk
+         Sint-Truidense VV        2-0 (1-0)  Sporting Lokeren
+         KV Mechelen              0-0  RAA La Louviére
+         Royal Antwerp FC         0-0  Lierse SK
+         KSK Beveren              1-1 (1-1)  KAA Gent
+[Sun Feb/18]
+  15.00  K.S.C. Eendracht Aalst   1-1 (0-0)  Standard Liège
+  20.00  Club Brugge KV           2-2 (1-2)  Germinal Beerschot
+  15.00  KRC Harelbeke            1-4 (1-2)  RSC Anderlecht
+
+
+Matchday 19
+[Sat Feb/24]
+  20.00  KVC Westerlo             2-2 (1-0)  RSC Anderlecht
+
+
+Matchday 18
+[Sat Feb/24]
+  15.00  KAA Gent                 0-2 (0-0)  Club Brugge KV
+
+
+Matchday 24
+[Sat Mar/3]
+  18.00  Lierse SK                0-0  RSC Anderlecht
+  20.00  Standard Liège           1-1 (0-1)  Sint-Truidense VV
+         KRC Genk                 1-1 (0-1)  Royal Antwerp FC
+         RAA La Louviére          3-0 (0-0)  K.S.C. Eendracht Aalst
+         Germinal Beerschot       4-1 (2-0)  KV Mechelen
+         Excelsior Mouscron       0-0  KSK Beveren
+         KAA Gent                 1-1 (1-1)  RSC Charleroi
+[Sun Mar/4]
+  15.00  Club Brugge KV           0-0  KRC Harelbeke
+         Sporting Lokeren         2-0 (0-0)  KVC Westerlo
+
+
+Matchday 25
+[Fri Mar/9]
+  20.00  KVC Westerlo             2-2 (1-2)  Standard Liège
+[Sat Mar/10]
+  20.00  KV Mechelen              1-1 (1-1)  Club Brugge KV
+         RSC Charleroi            1-3 (0-2)  Excelsior Mouscron
+         KSK Beveren              0-2 (0-2)  Sporting Lokeren
+         RSC Anderlecht           1-0 (1-0)  KRC Genk
+[Sun Mar/11]
+  15.00  KRC Harelbeke            1-0 (0-0)  Lierse SK
+         K.S.C. Eendracht Aalst   2-0 (1-0)  Germinal Beerschot
+         Sint-Truidense VV        1-1 (1-0)  RAA La Louviére
+  14.00  Royal Antwerp FC         1-0 (0-0)  KAA Gent
+
+
+Matchday 26
+[Sat Mar/17]
+  16.00  KAA Gent                 2-1 (0-0)  RSC Anderlecht
+  20.00  Standard Liège           4-2 (2-2)  KSK Beveren
+         KRC Genk                 2-0 (0-0)  Lierse SK
+         Sporting Lokeren         1-0 (0-0)  RSC Charleroi
+         RAA La Louviére          3-1 (2-0)  KVC Westerlo
+         Germinal Beerschot       1-0 (1-0)  Sint-Truidense VV
+         Excelsior Mouscron       3-2 (1-1)  Royal Antwerp FC
+[Sun Mar/18]
+  15.00  KV Mechelen              2-0 (1-0)  KRC Harelbeke
+         Club Brugge KV           1-1 (0-1)  K.S.C. Eendracht Aalst
+
+
+Matchday 27
+[Fri Mar/30]
+  20.30  RSC Anderlecht           3-3 (3-2)  Excelsior Mouscron
+[Sat Mar/31]
+  20.00  Royal Antwerp FC         2-1 (0-0)  Sporting Lokeren
+         KVC Westerlo             1-2 (0-1)  Germinal Beerschot
+         Sint-Truidense VV        1-2 (1-1)  Club Brugge KV
+         Lierse SK                2-0 (0-0)  KAA Gent
+[Sun Apr/1]
+  15.00  K.S.C. Eendracht Aalst   1-3 (0-3)  KV Mechelen
+         KSK Beveren              0-1 (0-1)  RAA La Louviére
+  20.00  RSC Charleroi            2-3 (1-0)  Standard Liège
+  15.00  KRC Harelbeke            1-2 (0-1)  KRC Genk
+
+
+Matchday 28
+[Fri Apr/6]
+  20.00  RAA La Louviére          1-1 (0-1)  RSC Charleroi
+[Sat Apr/7]
+  20.00  K.S.C. Eendracht Aalst   0-0  KRC Harelbeke
+         Standard Liège           0-1 (0-1)  Royal Antwerp FC
+         Sporting Lokeren         0-0  RSC Anderlecht
+         Germinal Beerschot       2-0 (1-0)  KSK Beveren
+         Excelsior Mouscron       1-2 (0-0)  Lierse SK
+         Club Brugge KV           2-2 (1-0)  KVC Westerlo
+         KAA Gent                 2-1 (0-0)  KRC Genk
+         KV Mechelen              1-2 (1-1)  Sint-Truidense VV
+
+
+Matchday 29
+[Fri Apr/13]
+  20.30  RSC Anderlecht           0-0  Standard Liège
+[Sat Apr/14]
+  20.00  Royal Antwerp FC         1-1 (1-0)  RAA La Louviére
+         KVC Westerlo             0-0  KV Mechelen
+         Sint-Truidense VV        1-0 (1-0)  K.S.C. Eendracht Aalst
+         KRC Genk                 4-0 (2-0)  Excelsior Mouscron
+         Lierse SK                1-4 (1-2)  Sporting Lokeren
+         RSC Charleroi            2-1 (0-1)  Germinal Beerschot
+         KSK Beveren              0-2 (0-1)  Club Brugge KV
+         KRC Harelbeke            2-1 (0-0)  KAA Gent
+
+
+Matchday 30
+[Fri Apr/20]
+  20.00  RAA La Louviére          0-1 (0-0)  RSC Anderlecht
+[Sat Apr/21]
+  20.00  Standard Liège           3-2 (1-0)  Lierse SK
+         Sint-Truidense VV        1-1 (0-0)  KRC Harelbeke
+         Sporting Lokeren         2-2 (0-1)  KRC Genk
+         Excelsior Mouscron       2-2 (1-0)  KAA Gent
+         KV Mechelen              2-2 (1-0)  KSK Beveren
+[Sun Apr/22]
+  15.00  Germinal Beerschot       3-1 (2-0)  Royal Antwerp FC
+         Club Brugge KV           1-0 (0-0)  RSC Charleroi
+         K.S.C. Eendracht Aalst   1-2 (1-1)  KVC Westerlo
+
+
+Matchday 31
+[Sat Apr/28]
+  20.00  KRC Genk                 2-2 (0-2)  Standard Liège
+         Lierse SK                1-2 (0-1)  RAA La Louviére
+         RSC Charleroi            4-2 (1-0)  KV Mechelen
+         KSK Beveren              1-0 (0-0)  K.S.C. Eendracht Aalst
+         RSC Anderlecht           7-0 (3-0)  Germinal Beerschot
+         KVC Westerlo             4-6 (3-1)  Sint-Truidense VV
+         KAA Gent                 3-2 (1-2)  Sporting Lokeren
+[Sun Apr/29]
+  15.00  Royal Antwerp FC         0-1 (0-0)  Club Brugge KV
+         KRC Harelbeke            0-1 (0-0)  Excelsior Mouscron
+
+
+Matchday 32
+[Fri May/4]
+  20.30  KV Mechelen              0-3 (0-1)  Royal Antwerp FC
+[Sat May/5]
+  18.00  Club Brugge KV           0-1 (0-1)  RSC Anderlecht
+  20.00  RAA La Louviére          2-1 (0-1)  KRC Genk
+         Sint-Truidense VV        1-0 (1-0)  KSK Beveren
+         Standard Liège           1-0 (0-0)  KAA Gent
+         Sporting Lokeren         2-1 (2-0)  Excelsior Mouscron
+         Germinal Beerschot       6-0 (1-0)  Lierse SK
+[Sun May/6]
+  15.00  K.S.C. Eendracht Aalst   4-0 (4-0)  RSC Charleroi
+         KVC Westerlo             1-0 (0-0)  KRC Harelbeke
+
+
+Matchday 33
+[Sat May/12]
+  20.00  Sporting Lokeren         3-0 (2-0)  KRC Harelbeke
+         RSC Charleroi            1-7 (0-2)  Sint-Truidense VV
+         KAA Gent                 2-2 (0-2)  RAA La Louviére
+         KRC Genk                 2-0 (2-0)  Germinal Beerschot
+         RSC Anderlecht           1-0 (1-0)  KV Mechelen
+         Royal Antwerp FC         0-0  K.S.C. Eendracht Aalst
+         Lierse SK                0-2 (0-1)  Club Brugge KV
+         Excelsior Mouscron       1-1 (1-1)  Standard Liège
+         KSK Beveren              1-4 (0-1)  KVC Westerlo
+
+
+Matchday 34
+[Sat May/19]
+  20.00  RAA La Louviére          1-3 (1-2)  Excelsior Mouscron
+[Sun May/20]
+  15.00  Standard Liège           0-5 (1-1)  Sporting Lokeren
+         Germinal Beerschot       1-3 (1-1)  KAA Gent
+         KV Mechelen              1-1 (1-1)  Lierse SK
+         KVC Westerlo             0-1 (0-0)  RSC Charleroi
+         Club Brugge KV           6-0 (1-0)  KRC Genk
+         KRC Harelbeke            3-2 (1-0)  KSK Beveren
+         Sint-Truidense VV        1-1 (0-1)  Royal Antwerp FC
+         K.S.C. Eendracht Aalst   1-5 (1-3)  RSC Anderlecht

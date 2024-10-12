@@ -1,0 +1,731 @@
+= ES 2 2019/20
+
+# Date       Sat Aug/17 2019 - Fri Aug/7 2020 (356d)
+# Teams      22
+# Matches    462
+
+
+
+Matchday 1
+[Sat Aug/17]
+  18.00  Racing Santander         0-1 (0-0)  Málaga CF
+  19.00  UD Almería               3-0 (0-0)  Albacete
+  20.00  Elche CF                 0-2 (0-2)  CF Fuenlabrada
+  21.00  Rayo Vallecano           2-2 (2-1)  CD Mirandés
+         Real Zaragoza            2-0 (1-0)  CD Tenerife
+  18.00  CD Lugo                  0-0  Extremadura UD
+[Sun Aug/18]
+  18.00  Deportivo La Coruña      3-2 (1-0)  Real Oviedo
+         CD Numancia              0-1 (0-0)  AD Alcorcón
+  18.30  Girona FC                1-1 (0-0)  Sporting Gijón
+  20.00  Cádiz CF                 3-1 (0-1)  SD Ponferradina
+         UD Las Palmas            0-1 (0-0)  SD Huesca
+
+
+Matchday 2
+[Fri Aug/23]
+  22.00  Albacete                 1-0 (0-0)  Girona FC
+[Sat Aug/24]
+  18.00  Real Oviedo              1-1 (1-0)  CD Lugo
+         Racing Santander         1-1 (1-0)  UD Almería
+  19.00  CD Mirandés              1-2 (0-0)  Cádiz CF
+  20.00  AD Alcorcón              1-2 (1-0)  Elche CF
+  21.00  Málaga CF                1-1 (0-0)  UD Las Palmas
+[Sun Aug/25]
+  18.00  Sporting Gijón           1-1 (1-0)  Rayo Vallecano
+  19.00  SD Huesca                3-1 (2-0)  Deportivo La Coruña
+  20.00  CD Tenerife              3-2 (1-0)  CD Numancia
+  21.00  Extremadura UD           1-2 (0-1)  CF Fuenlabrada
+  18.00  SD Ponferradina          1-1 (0-0)  Real Zaragoza
+
+
+Matchday 3
+[Fri Aug/30]
+  21.00  Real Zaragoza            1-0 (0-0)  Elche CF
+[Sat Aug/31]
+  18.00  CD Numancia              2-0 (0-0)  CD Mirandés
+  20.00  UD Almería               1-0 (1-0)  SD Huesca
+  21.00  UD Las Palmas            2-2 (0-1)  Racing Santander
+  18.00  CF Fuenlabrada           2-1 (1-1)  Real Oviedo
+[Sun Sep/1]
+  18.00  CD Lugo                  2-4 (1-2)  AD Alcorcón
+         Rayo Vallecano           3-1 (2-1)  Deportivo La Coruña
+         Sporting Gijón           2-0 (0-0)  Albacete
+  19.00  Girona FC                1-0 (1-0)  Málaga CF
+  20.00  SD Ponferradina          4-0 (1-0)  CD Tenerife
+  21.00  Cádiz CF                 2-1 (1-0)  Extremadura UD
+
+
+Matchday 4
+[Fri Sep/6]
+  21.00  Racing Santander         1-2 (0-1)  Cádiz CF
+[Sat Sep/7]
+  16.00  Deportivo La Coruña      0-1 (0-0)  Albacete
+  18.00  Málaga CF                0-1 (0-1)  UD Almería
+  20.00  Extremadura UD           0-0  CD Numancia
+         CF Fuenlabrada           1-1 (0-1)  SD Ponferradina
+  21.00  CD Tenerife              0-0  UD Las Palmas
+[Sun Sep/8]
+  16.00  Girona FC                3-1 (1-0)  Rayo Vallecano
+  18.00  Elche CF                 1-1 (1-0)  CD Lugo
+         CD Mirandés              2-1 (1-1)  Real Oviedo
+  18.30  AD Alcorcón              0-3 (0-2)  Real Zaragoza
+  12.00  SD Huesca                1-0 (0-0)  Sporting Gijón
+
+
+Matchday 5
+[Fri Sep/13]
+  21.00  Rayo Vallecano           2-0 (1-0)  Racing Santander
+[Sat Sep/14]
+  16.00  CD Numancia              1-0 (0-0)  SD Huesca
+  18.30  UD Las Palmas            0-3 (0-1)  UD Almería
+  20.30  Cádiz CF                 2-0 (1-0)  Girona FC
+         SD Ponferradina          1-1 (1-0)  AD Alcorcón
+  16.00  CD Mirandés              1-1 (0-0)  Málaga CF
+[Sun Sep/15]
+  12.00  Albacete                 0-4 (0-2)  CD Tenerife
+  16.00  Real Oviedo              0-2 (0-1)  Elche CF
+  18.00  Real Zaragoza            3-1 (1-0)  Extremadura UD
+  20.00  CD Lugo                  2-0 (2-0)  CF Fuenlabrada
+  21.00  Sporting Gijón           1-1 (1-0)  Deportivo La Coruña
+
+
+Matchday 6
+[Tue Sep/17]
+  19.00  UD Almería               3-1 (1-0)  Girona FC
+         Málaga CF                1-1 (1-0)  Rayo Vallecano
+         Racing Santander         4-0 (2-0)  CD Mirandés
+  21.00  AD Alcorcón              3-0 (1-0)  Cádiz CF
+[Wed Sep/18]
+  19.00  CD Lugo                  2-2 (2-0)  SD Ponferradina
+  21.00  Deportivo La Coruña      3-3 (0-1)  CD Numancia
+  19.00  SD Huesca                0-1 (0-1)  Albacete
+[Thu Sep/19]
+  19.00  Real Oviedo              1-1 (0-0)  Extremadura UD
+  22.00  UD Las Palmas            1-0 (0-0)  Sporting Gijón
+  19.00  Elche CF                 1-1 (1-0)  CD Tenerife
+
+
+Matchday 7
+[Fri Sep/20]
+  21.00  CD Mirandés              2-2 (2-1)  AD Alcorcón
+[Sat Sep/21]
+  20.30  Albacete                 1-0 (0-0)  Málaga CF
+  16.00  Cádiz CF                 0-0  Deportivo La Coruña
+  18.00  Real Zaragoza            0-0  CD Lugo
+  20.00  Rayo Vallecano           1-1 (0-0)  UD Almería
+[Sun Sep/22]
+  20.00  CD Tenerife              0-1 (0-0)  CF Fuenlabrada
+  12.00  SD Ponferradina          2-1 (0-0)  Real Oviedo
+  16.00  Girona FC                1-0 (0-0)  UD Las Palmas
+  18.00  CD Numancia              1-1 (1-1)  Elche CF
+         Sporting Gijón           1-1 (1-0)  Racing Santander
+  20.00  Extremadura UD           0-1 (0-1)  SD Huesca
+
+
+Matchday 8
+[Fri Sep/27]
+  21.00  UD Las Palmas            3-2 (2-0)  Albacete
+[Sat Sep/28]
+  16.00  CF Fuenlabrada           2-2 (0-1)  Rayo Vallecano
+  18.00  AD Alcorcón              0-2 (0-0)  Extremadura UD
+         SD Huesca                1-0 (1-0)  Girona FC
+  20.00  Elche CF                 1-0 (1-0)  SD Ponferradina
+         Racing Santander         0-0  CD Numancia
+[Sun Sep/29]
+  21.00  CD Lugo                  1-4 (1-2)  CD Tenerife
+  12.00  Málaga CF                0-0  Sporting Gijón
+  16.00  UD Almería               1-2 (0-0)  Cádiz CF
+  18.30  Real Oviedo              2-2 (1-1)  Real Zaragoza
+  21.00  Deportivo La Coruña      1-1 (0-0)  CD Mirandés
+
+
+Matchday 9
+[Tue Oct/1]
+  19.00  Albacete                 0-0  Racing Santander
+         Extremadura UD           2-0 (0-0)  Elche CF
+         CD Numancia              1-0 (1-0)  CF Fuenlabrada
+  21.00  Rayo Vallecano           1-1 (1-0)  AD Alcorcón
+[Wed Oct/2]
+  19.00  Cádiz CF                 1-0 (0-0)  SD Huesca
+  21.00  SD Ponferradina          0-2 (0-1)  UD Las Palmas
+  19.00  CD Mirandés              1-1 (0-0)  CD Lugo
+  21.00  CD Tenerife              0-1 (0-1)  Real Oviedo
+[Thu Oct/3]
+  21.00  Girona FC                3-1 (2-0)  Deportivo La Coruña
+  19.00  Sporting Gijón           4-2 (4-1)  UD Almería
+         Real Zaragoza            2-2 (1-1)  Málaga CF
+
+
+Matchday 10
+[Fri Oct/4]
+  21.00  AD Alcorcón              0-1 (0-0)  Albacete
+[Sat Oct/5]
+  16.00  CD Lugo                  0-2 (0-0)  UD Las Palmas
+  18.00  Elche CF                 1-1 (0-0)  Rayo Vallecano
+  20.00  SD Ponferradina          2-0 (1-0)  CD Mirandés
+  20.30  CD Tenerife              1-2 (1-1)  Extremadura UD
+[Sun Oct/6]
+  12.00  CF Fuenlabrada           2-0 (0-0)  Sporting Gijón
+  20.30  Racing Santander         0-3 (0-1)  Girona FC
+  16.00  Real Oviedo              1-1 (1-0)  CD Numancia
+         Real Zaragoza            0-2 (0-0)  Cádiz CF
+  18.30  Deportivo La Coruña      0-0  UD Almería
+  20.00  SD Huesca                2-0 (2-0)  Málaga CF
+
+
+Matchday 11
+[Fri Oct/11]
+  21.00  Rayo Vallecano           2-1 (1-1)  CD Tenerife
+[Sat Oct/12]
+  18.00  Málaga CF                1-2 (0-1)  Cádiz CF
+  12.00  Girona FC                0-2 (0-1)  Elche CF
+  16.00  UD Almería               0-0  CD Lugo
+         Sporting Gijón           1-3 (0-3)  AD Alcorcón
+  18.00  Extremadura UD           1-1 (1-0)  SD Ponferradina
+[Sun Oct/13]
+  12.00  CD Mirandés              2-1 (1-0)  CF Fuenlabrada
+  16.00  CD Numancia              0-1 (0-0)  Real Zaragoza
+  18.00  Albacete                 1-2 (1-0)  Real Oviedo
+         SD Huesca                1-1 (0-0)  Racing Santander
+  21.00  UD Las Palmas            3-0 (2-0)  Deportivo La Coruña
+
+
+Matchday 6
+[Wed Oct/16]
+  21.00  CF Fuenlabrada           2-1 (1-0)  Real Zaragoza
+
+
+Matchday 12
+[Fri Oct/18]
+  21.00  Cádiz CF                 2-0 (1-0)  UD Las Palmas
+[Sat Oct/19]
+  16.00  AD Alcorcón              2-2 (1-0)  UD Almería
+         SD Ponferradina          1-1 (1-0)  CD Numancia
+  18.00  Elche CF                 0-1 (0-1)  Sporting Gijón
+         CD Lugo                  3-2 (2-0)  SD Huesca
+  20.00  Extremadura UD           0-3 (0-1)  Rayo Vallecano
+[Sun Oct/20]
+  16.00  Deportivo La Coruña      0-2 (0-1)  Málaga CF
+  18.00  Real Oviedo              4-2 (2-1)  Girona FC
+         CD Tenerife              3-3 (2-1)  Racing Santander
+  21.00  Real Zaragoza            1-2 (0-1)  CD Mirandés
+  12.00  CF Fuenlabrada           0-1 (0-0)  Albacete
+
+
+Matchday 13
+[Fri Oct/25]
+  21.00  Albacete                 1-0 (0-0)  Cádiz CF
+[Sat Oct/26]
+  18.00  CD Mirandés              0-0  CD Tenerife
+         Racing Santander         1-1 (1-0)  Deportivo La Coruña
+  20.00  Málaga CF                2-1 (0-0)  Real Oviedo
+         CD Numancia              3-1 (1-1)  CD Lugo
+  16.00  Rayo Vallecano           1-3 (0-1)  SD Ponferradina
+[Sun Oct/27]
+  12.00  Girona FC                0-0  AD Alcorcón
+  16.00  Sporting Gijón           4-0 (2-0)  Real Zaragoza
+  18.00  SD Huesca                2-0 (1-0)  Elche CF
+         UD Las Palmas            1-3 (0-2)  CF Fuenlabrada
+  21.00  UD Almería               3-2 (0-0)  Extremadura UD
+
+
+Matchday 14
+[Fri Nov/1]
+  16.00  Cádiz CF                 3-1 (1-0)  Sporting Gijón
+  18.30  SD Ponferradina          1-0 (0-0)  Málaga CF
+  21.00  Real Oviedo              0-0  UD Almería
+  12.00  CD Numancia              1-0 (0-0)  Albacete
+[Sat Nov/2]
+  16.00  CF Fuenlabrada           1-1 (1-0)  Deportivo La Coruña
+  18.00  AD Alcorcón              1-0 (1-0)  Racing Santander
+  20.00  CD Tenerife              0-0  SD Huesca
+[Sun Nov/3]
+  16.00  CD Lugo                  1-0 (0-0)  Rayo Vallecano
+  18.30  Real Zaragoza            3-0 (2-0)  UD Las Palmas
+  20.00  Elche CF                 4-2 (2-1)  CD Mirandés
+  12.00  Extremadura UD           1-3 (0-2)  Girona FC
+
+
+Matchday 15
+[Fri Nov/8]
+  21.00  Girona FC                1-0 (0-0)  CD Tenerife
+[Sat Nov/9]
+  16.00  SD Huesca                3-1 (2-1)  Real Oviedo
+         CD Mirandés              2-0 (1-0)  Extremadura UD
+  18.00  Albacete                 0-1 (0-0)  CD Lugo
+         Sporting Gijón           0-1 (0-1)  CD Numancia
+  20.00  UD Las Palmas            1-1 (1-1)  AD Alcorcón
+[Sun Nov/10]
+  16.00  UD Almería               1-1 (1-0)  Real Zaragoza
+  18.00  Málaga CF                0-0  CF Fuenlabrada
+         Racing Santander         2-2 (0-0)  SD Ponferradina
+  21.00  Rayo Vallecano           1-1 (0-1)  Cádiz CF
+  12.00  Deportivo La Coruña      1-3 (1-1)  Elche CF
+
+
+Matchday 16
+[Sat Nov/16]
+  13.00  CF Fuenlabrada           3-2 (1-0)  SD Huesca
+  16.00  Extremadura UD           2-0 (2-0)  Deportivo La Coruña
+  18.30  Elche CF                 1-1 (0-0)  UD Almería
+         CD Numancia              2-2 (1-1)  Rayo Vallecano
+  21.00  Real Zaragoza            0-1 (0-0)  Albacete
+[Sun Nov/17]
+  12.00  SD Ponferradina          1-1 (0-0)  Girona FC
+  14.00  AD Alcorcón              1-0 (1-0)  Málaga CF
+  16.00  Real Oviedo              0-0  Sporting Gijón
+  18.30  CD Lugo                  1-1 (0-1)  Racing Santander
+         CD Mirandés              2-1 (2-1)  UD Las Palmas
+  21.00  CD Tenerife              1-1 (1-1)  Cádiz CF
+
+
+Matchday 17
+[Fri Nov/22]
+  21.00  Sporting Gijón           0-2 (0-0)  CD Tenerife
+[Sat Nov/23]
+  18.00  Deportivo La Coruña      0-0  AD Alcorcón
+         Racing Santander         3-0 (1-0)  Extremadura UD
+  20.00  SD Huesca                2-0 (1-0)  SD Ponferradina
+  16.00  Rayo Vallecano           0-1 (0-0)  Real Zaragoza
+[Sun Nov/24]
+  12.00  UD Almería               2-0 (2-0)  CD Numancia
+  16.00  Albacete                 1-2 (1-2)  CD Mirandés
+         Málaga CF                3-3 (1-2)  Elche CF
+  18.00  Girona FC                2-0 (0-0)  CF Fuenlabrada
+         UD Las Palmas            3-1 (2-0)  Real Oviedo
+  21.00  Cádiz CF                 2-1 (1-1)  CD Lugo
+
+
+Matchday 18
+[Fri Nov/29]
+  21.00  CD Numancia              0-0  Málaga CF
+[Sat Nov/30]
+  16.00  AD Alcorcón              0-2 (0-0)  SD Huesca
+         CD Mirandés              0-0  Sporting Gijón
+  18.00  SD Ponferradina          1-1 (0-1)  Albacete
+         CD Tenerife              1-3 (1-2)  UD Almería
+  21.00  Real Zaragoza            3-3 (1-2)  Girona FC
+[Sun Dec/1]
+  12.00  CF Fuenlabrada           1-0 (0-0)  Cádiz CF
+  16.00  Real Oviedo              2-1 (1-1)  Rayo Vallecano
+  18.00  Elche CF                 2-0 (1-0)  Racing Santander
+         CD Lugo                  0-0  Deportivo La Coruña
+  20.00  Extremadura UD           0-1 (0-1)  UD Las Palmas
+
+
+Matchday 19
+[Fri Dec/6]
+  16.00  Racing Santander         2-2 (1-0)  CF Fuenlabrada
+  18.30  AD Alcorcón              1-3 (1-2)  Real Oviedo
+  21.00  Málaga CF                2-0 (1-0)  CD Tenerife
+  12.00  Albacete                 1-1 (0-0)  Extremadura UD
+[Sat Dec/7]
+  16.00  SD Huesca                0-2 (0-1)  Rayo Vallecano
+  18.00  Sporting Gijón           1-0 (0-0)  SD Ponferradina
+  20.00  UD Almería               3-1 (0-1)  CD Mirandés
+[Sun Dec/8]
+  16.00  Deportivo La Coruña      1-3 (0-2)  Real Zaragoza
+  18.00  UD Las Palmas            3-1 (2-0)  CD Numancia
+  21.00  Cádiz CF                 0-0  Elche CF
+  12.00  Girona FC                3-1 (1-0)  CD Lugo
+
+
+Matchday 20
+[Fri Dec/13]
+  21.00  CD Numancia              2-0 (1-0)  Girona FC
+[Sat Dec/14]
+  18.00  SD Ponferradina          2-0 (2-0)  Deportivo La Coruña
+         CD Tenerife              0-0  AD Alcorcón
+  21.00  Real Zaragoza            2-0 (1-0)  Racing Santander
+  16.00  CD Mirandés              2-0 (0-0)  SD Huesca
+[Sun Dec/15]
+  12.00  Extremadura UD           0-0  Málaga CF
+  16.00  Real Oviedo              0-2 (0-1)  Cádiz CF
+  18.00  Elche CF                 2-3 (2-0)  UD Las Palmas
+         CD Lugo                  1-2 (0-1)  Sporting Gijón
+  20.00  CF Fuenlabrada           2-2 (0-0)  UD Almería
+
+
+Matchday 21
+[Fri Dec/20]
+  21.00  Deportivo La Coruña      2-1 (1-0)  CD Tenerife
+[Sat Dec/21]
+  16.00  Albacete                 0-1 (0-0)  Elche CF
+         Málaga CF                1-1 (1-0)  CD Lugo
+  18.00  UD Las Palmas            1-1 (1-1)  Rayo Vallecano
+         Sporting Gijón           0-1 (0-0)  Extremadura UD
+  21.00  Cádiz CF                 2-4 (1-1)  CD Numancia
+  20.00  Racing Santander         1-1 (1-1)  Real Oviedo
+[Sun Dec/22]
+  20.00  Girona FC                0-3 (0-1)  CD Mirandés
+  12.00  UD Almería               2-3 (1-0)  SD Ponferradina
+  16.00  SD Huesca                2-1 (1-1)  Real Zaragoza
+  18.00  AD Alcorcón              1-1 (1-0)  CF Fuenlabrada
+
+
+Matchday 22
+[Fri Jan/3]
+  19.00  Extremadura UD           0-0  AD Alcorcón
+[Sat Jan/4]
+  13.00  CF Fuenlabrada           0-0  UD Las Palmas
+  16.00  SD Ponferradina          0-0  Cádiz CF
+  18.00  CD Lugo                  0-4 (0-2)  UD Almería
+         CD Tenerife              4-2 (2-0)  Albacete
+  20.00  CD Mirandés              0-0  Racing Santander
+         Elche CF                 1-1 (0-0)  SD Huesca
+[Sun Jan/5]
+  21.00  Real Oviedo              1-1 (1-0)  Málaga CF
+  12.00  CD Numancia              0-1 (0-0)  Deportivo La Coruña
+  16.00  Rayo Vallecano           1-0 (1-0)  Girona FC
+[Tue Jan/7]
+  21.00  Real Zaragoza            2-0 (1-0)  Sporting Gijón
+
+
+Matchday 23
+[Tue Jan/14]
+  20.00  Málaga CF                1-0 (1-0)  SD Ponferradina
+  19.00  Albacete                 1-1 (1-0)  CF Fuenlabrada
+         Sporting Gijón           1-0 (0-0)  Elche CF
+  21.30  UD Las Palmas            0-1 (0-0)  Real Zaragoza
+[Wed Jan/15]
+  19.00  AD Alcorcón              2-2 (0-0)  CD Numancia
+         SD Huesca                2-1 (2-1)  CD Tenerife
+  20.00  Rayo Vallecano           1-0 (1-0)  CD Lugo
+  21.00  Cádiz CF                 3-3 (1-1)  CD Mirandés
+[Thu Jan/16]
+  19.00  Deportivo La Coruña      2-1 (1-1)  Racing Santander
+  20.00  Girona FC                3-1 (2-0)  Extremadura UD
+  21.00  UD Almería               2-0 (0-0)  Real Oviedo
+
+
+Matchday 24
+[Fri Jan/17]
+  21.00  CF Fuenlabrada           0-0  Málaga CF
+[Sat Jan/18]
+  18.15  CD Lugo                  1-0 (0-0)  Albacete
+  16.00  CD Numancia              2-0 (1-0)  Sporting Gijón
+  18.15  SD Ponferradina          1-1 (0-0)  Rayo Vallecano
+[Sun Jan/19]
+  16.00  Deportivo La Coruña      1-0 (0-0)  Cádiz CF
+  12.00  Elche CF                 1-1 (1-0)  AD Alcorcón
+  20.30  CD Tenerife              1-0 (1-0)  Girona FC
+  18.15  Real Oviedo              1-1 (0-0)  SD Huesca
+         Racing Santander         1-1 (0-0)  UD Las Palmas
+  20.30  Extremadura UD           1-2 (1-1)  UD Almería
+
+
+Matchday 25
+[Fri Jan/24]
+  21.00  Cádiz CF                 1-0 (0-0)  Racing Santander
+[Sat Jan/25]
+  18.15  UD Las Palmas            0-0  CD Tenerife
+  16.00  SD Huesca                2-1 (0-1)  CD Lugo
+         Sporting Gijón           1-0 (1-0)  CF Fuenlabrada
+  21.00  Real Zaragoza            1-0 (0-0)  CD Numancia
+[Sun Jan/26]
+  20.30  Girona FC                1-1 (0-0)  Real Oviedo
+  16.00  UD Almería               0-2 (0-0)  Elche CF
+  12.00  Málaga CF                2-2 (1-0)  CD Mirandés
+  16.00  Albacete                 0-1 (0-1)  Deportivo La Coruña
+  18.15  Rayo Vallecano           1-1 (0-0)  Extremadura UD
+         AD Alcorcón              3-1 (2-0)  SD Ponferradina
+
+
+Matchday 26
+[Fri Jan/31]
+  21.00  CD Tenerife              2-1 (2-0)  Sporting Gijón
+[Sat Feb/1]
+  18.15  SD Ponferradina          3-1 (2-0)  SD Huesca
+  21.00  Elche CF                 2-0 (1-0)  Málaga CF
+  16.00  Extremadura UD           1-0 (1-0)  CD Lugo
+  18.15  Deportivo La Coruña      2-1 (1-0)  UD Las Palmas
+[Sun Feb/2]
+  20.30  Racing Santander         1-1 (0-1)  AD Alcorcón
+         Real Oviedo              3-1 (1-1)  Albacete
+  12.00  CF Fuenlabrada           0-1 (0-1)  Girona FC
+  16.00  Cádiz CF                 1-1 (0-0)  Real Zaragoza
+  18.15  CD Mirandés              0-0  Rayo Vallecano
+         CD Numancia              1-1 (0-0)  UD Almería
+
+
+Matchday 27
+[Fri Feb/7]
+  21.00  UD Almería               0-1 (0-1)  Racing Santander
+[Sat Feb/8]
+  21.00  Real Zaragoza            0-0  CF Fuenlabrada
+  16.00  Girona FC                1-0 (0-0)  SD Huesca
+         Extremadura UD           2-4 (0-2)  CD Tenerife
+  18.15  UD Las Palmas            1-2 (0-1)  Cádiz CF
+[Sun Feb/9]
+  20.30  Málaga CF                2-1 (0-1)  CD Numancia
+  12.00  Albacete                 1-1 (0-1)  SD Ponferradina
+         AD Alcorcón              0-1 (0-0)  Deportivo La Coruña
+  18.15  Rayo Vallecano           1-1 (0-1)  Real Oviedo
+         CD Lugo                  2-2 (1-0)  Elche CF
+  16.00  Sporting Gijón           2-2 (1-1)  CD Mirandés
+
+
+Matchday 28
+[Fri Feb/14]
+  21.00  Deportivo La Coruña      2-2 (1-0)  Girona FC
+[Sat Feb/15]
+  21.00  Elche CF                 1-2 (1-2)  Real Zaragoza
+  18.15  Real Oviedo              1-2 (0-2)  AD Alcorcón
+  16.00  SD Huesca                3-2 (2-0)  UD Almería
+  18.15  CD Numancia              1-1 (0-0)  UD Las Palmas
+[Sun Feb/16]
+  20.30  CD Tenerife              0-0  Rayo Vallecano
+  12.00  CF Fuenlabrada           0-1 (0-0)  CD Lugo
+         CD Mirandés              1-1 (1-1)  Albacete
+  18.15  Racing Santander         0-2 (0-1)  Sporting Gijón
+         SD Ponferradina          0-0  Extremadura UD
+  16.00  Cádiz CF                 0-1 (0-0)  Málaga CF
+
+
+Matchday 24
+[Wed Feb/19]
+  21.00  CD Mirandés              1-1 (0-1)  Real Zaragoza
+
+
+Matchday 29
+[Fri Feb/21]
+  21.00  Sporting Gijón           1-0 (0-0)  Cádiz CF
+[Sat Feb/22]
+  18.15  CD Tenerife              1-0 (1-0)  Elche CF
+  16.00  AD Alcorcón              1-1 (1-1)  UD Las Palmas
+         UD Almería               0-0  CF Fuenlabrada
+  18.15  Girona FC                2-0 (2-0)  SD Ponferradina
+  20.30  Albacete                 2-1 (0-1)  CD Numancia
+[Sun Feb/23]
+  16.00  Real Zaragoza            3-1 (2-1)  Deportivo La Coruña
+  12.00  CD Lugo                  1-0 (1-0)  Real Oviedo
+  21.00  Rayo Vallecano           2-0 (0-0)  SD Huesca
+  18.15  Extremadura UD           3-2 (0-0)  CD Mirandés
+         Málaga CF                2-0 (2-0)  Racing Santander
+
+
+Matchday 30
+[Fri Feb/28]
+  21.00  UD Las Palmas            1-1 (0-0)  Málaga CF
+[Sat Feb/29]
+  16.00  SD Huesca                2-2 (1-1)  Extremadura UD
+         SD Ponferradina          1-0 (1-0)  Sporting Gijón
+  18.15  Cádiz CF                 2-1 (1-1)  UD Almería
+  20.30  Albacete                 1-1 (1-1)  Rayo Vallecano
+  21.00  Racing Santander         2-2 (0-0)  Real Zaragoza
+[Sun Mar/1]
+  16.00  Elche CF                 2-0 (1-0)  CD Numancia
+  12.00  CD Mirandés              1-1 (0-0)  Girona FC
+  16.00  Deportivo La Coruña      0-0  CD Lugo
+  18.15  Real Oviedo              1-0 (0-0)  CD Tenerife
+         CF Fuenlabrada           3-4 (1-3)  AD Alcorcón
+
+
+Matchday 31
+[Fri Mar/6]
+  21.00  CD Lugo                  1-1 (0-1)  Cádiz CF
+[Sat Mar/7]
+  21.00  UD Almería               4-0 (2-0)  Deportivo La Coruña
+  16.00  Extremadura UD           1-2 (0-1)  Real Oviedo
+         Girona FC                1-1 (1-0)  Albacete
+  18.15  SD Huesca                2-0 (2-0)  CF Fuenlabrada
+         CD Numancia              1-2 (0-0)  Racing Santander
+[Sun Mar/8]
+  20.30  CD Tenerife              1-0 (0-0)  SD Ponferradina
+  12.00  Rayo Vallecano           2-3 (1-0)  Elche CF
+  16.00  Málaga CF                0-1 (0-0)  Real Zaragoza
+  18.15  AD Alcorcón              1-2 (0-0)  CD Mirandés
+         Sporting Gijón           4-0 (0-0)  UD Las Palmas
+
+
+Matchday 20
+[Wed Jun/10]
+  20.00  Rayo Vallecano           1-0 (0-0)  Albacete
+
+
+Matchday 32
+[Fri Jun/12]
+  19.30  CF Fuenlabrada           1-0 (1-0)  CD Tenerife
+         Málaga CF                1-3 (1-2)  SD Huesca
+  21.45  Real Oviedo              0-0  SD Ponferradina
+  19.30  Elche CF                 1-1 (1-0)  Extremadura UD
+[Sat Jun/13]
+  17.00  Racing Santander         1-2 (1-0)  CD Lugo
+  19.30  UD Las Palmas            0-0  Girona FC
+  21.30  Real Zaragoza            1-3 (0-0)  AD Alcorcón
+[Sun Jun/14]
+  17.00  CD Mirandés              2-1 (1-0)  CD Numancia
+  19.30  Albacete                 0-1 (0-1)  UD Almería
+  21.30  Cádiz CF                 1-1 (0-0)  Rayo Vallecano
+  17.00  Deportivo La Coruña      0-0  Sporting Gijón
+
+
+Matchday 33
+[Mon Jun/15]
+  21.30  CD Tenerife              0-0  Málaga CF
+  19.30  SD Ponferradina          2-1 (1-1)  Elche CF
+[Tue Jun/16]
+  19.30  CD Lugo                  1-3 (0-1)  Real Zaragoza
+  21.45  Girona FC                0-0  Racing Santander
+[Wed Jun/17]
+  19.30  Extremadura UD           0-1 (0-1)  Albacete
+         Real Oviedo              2-2 (2-1)  Deportivo La Coruña
+  21.45  Rayo Vallecano           1-0 (0-0)  CF Fuenlabrada
+  19.30  UD Almería               0-1 (0-1)  UD Las Palmas
+[Thu Jun/18]
+  19.30  SD Huesca                1-2 (0-0)  CD Mirandés
+         CD Numancia              1-2 (1-1)  Cádiz CF
+  21.45  AD Alcorcón              0-2 (0-2)  Sporting Gijón
+
+
+Matchday 34
+[Fri Jun/19]
+  19.30  Elche CF                 1-0 (0-0)  Girona FC
+[Sat Jun/20]
+  19.30  UD Las Palmas            1-0 (0-0)  CD Lugo
+         Real Zaragoza            0-2 (0-1)  UD Almería
+  21.45  Málaga CF                1-1 (1-0)  Extremadura UD
+  17.00  Deportivo La Coruña      3-3 (0-2)  Rayo Vallecano
+[Sun Jun/21]
+  17.00  CD Mirandés              1-2 (1-1)  SD Ponferradina
+         Racing Santander         1-2 (0-1)  CD Tenerife
+  19.30  Albacete                 2-2 (1-0)  SD Huesca
+         Cádiz CF                 1-1 (0-0)  AD Alcorcón
+  21.45  CF Fuenlabrada           2-0 (1-0)  CD Numancia
+[Mon Jun/22]
+  21.45  Sporting Gijón           0-1 (0-0)  Real Oviedo
+
+
+Matchday 35
+[Tue Jun/23]
+  19.30  Elche CF                 0-1 (0-0)  Deportivo La Coruña
+         CD Lugo                  0-0  Málaga CF
+  21.45  Extremadura UD           1-2 (1-1)  Real Zaragoza
+[Wed Jun/24]
+  19.30  SD Huesca                1-1 (0-0)  Cádiz CF
+         CD Tenerife              4-1 (2-0)  CD Mirandés
+  21.45  Albacete                 0-0  UD Las Palmas
+         SD Ponferradina          1-1 (1-1)  Racing Santander
+  19.30  Girona FC                2-0 (2-0)  CD Numancia
+[Thu Jun/25]
+  19.30  UD Almería               0-1 (0-1)  AD Alcorcón
+         Rayo Vallecano           1-1 (0-1)  Sporting Gijón
+  21.45  Real Oviedo              0-0  CF Fuenlabrada
+
+
+Matchday 36
+[Sat Jun/27]
+  19.30  Cádiz CF                 0-2 (0-1)  CD Tenerife
+         UD Las Palmas            1-1 (1-1)  Elche CF
+  21.45  Racing Santander         1-2 (1-0)  Albacete
+  17.00  Deportivo La Coruña      2-1 (0-0)  SD Ponferradina
+[Sun Jun/28]
+  17.00  CD Mirandés              2-2 (1-2)  UD Almería
+         Sporting Gijón           2-0 (1-0)  CD Lugo
+  19.30  Málaga CF                2-0 (1-0)  Girona FC
+         CD Numancia              1-0 (1-0)  Real Oviedo
+  21.45  CF Fuenlabrada           1-1 (1-1)  Extremadura UD
+[Mon Jun/29]
+  21.45  Real Zaragoza            0-1 (0-0)  SD Huesca
+  21.00  AD Alcorcón              3-2 (1-1)  Rayo Vallecano
+
+
+Matchday 37
+[Tue Jun/30]
+  21.45  Elche CF                 0-0  Cádiz CF
+  19.30  CD Tenerife              1-1 (0-0)  Deportivo La Coruña
+[Wed Jul/1]
+  19.30  UD Almería               1-0 (0-0)  Sporting Gijón
+         CD Lugo                  3-1 (1-0)  CD Numancia
+         Real Oviedo              1-0 (1-0)  CD Mirandés
+  21.45  Extremadura UD           3-1 (2-0)  Racing Santander
+         SD Ponferradina          0-3 (0-0)  CF Fuenlabrada
+[Thu Jul/2]
+  19.30  SD Huesca                1-0 (1-0)  UD Las Palmas
+  20.00  Albacete                 1-1 (0-1)  AD Alcorcón
+  21.45  Rayo Vallecano           0-0  Málaga CF
+[Fri Jul/3]
+  19.30  Girona FC                1-0 (0-0)  Real Zaragoza
+
+
+Matchday 38
+[Sat Jul/4]
+  17.00  Racing Santander         1-2 (1-0)  Elche CF
+  19.30  UD Almería               1-2 (1-1)  CD Tenerife
+  21.45  Cádiz CF                 2-0 (1-0)  Real Oviedo
+         CF Fuenlabrada           2-2 (0-0)  CD Mirandés
+  17.00  CD Numancia              1-0 (1-0)  Extremadura UD
+[Sun Jul/5]
+  17.00  Deportivo La Coruña      2-1 (2-1)  SD Huesca
+  19.30  UD Las Palmas            3-0 (0-0)  SD Ponferradina
+         Málaga CF                0-0  Albacete
+  21.45  AD Alcorcón              2-2 (1-0)  CD Lugo
+[Mon Jul/6]
+  21.45  Real Zaragoza            2-4 (1-1)  Rayo Vallecano
+  19.30  Sporting Gijón           0-0  Girona FC
+
+
+Matchday 39
+[Tue Jul/7]
+  19.30  CD Mirandés              1-0 (0-0)  Elche CF
+  20.30  CF Fuenlabrada           1-0 (0-0)  Racing Santander
+  21.45  Extremadura UD           0-1 (0-1)  Cádiz CF
+[Wed Jul/8]
+  19.30  Real Oviedo              2-1 (1-0)  UD Las Palmas
+  21.45  SD Huesca                2-1 (2-1)  AD Alcorcón
+         SD Ponferradina          0-1 (0-0)  CD Lugo
+  19.30  Málaga CF                1-0 (0-0)  Deportivo La Coruña
+[Thu Jul/9]
+  19.30  Albacete                 1-1 (0-1)  Sporting Gijón
+  20.30  Rayo Vallecano           3-2 (2-0)  CD Numancia
+  21.45  Girona FC                1-0 (0-0)  UD Almería
+         CD Tenerife              1-1 (1-1)  Real Zaragoza
+
+
+Matchday 40
+[Sat Jul/11]
+  19.30  UD Las Palmas            1-0 (0-0)  CD Mirandés
+  21.45  Cádiz CF                 0-1 (0-0)  CF Fuenlabrada
+  17.00  Racing Santander         1-0 (1-0)  SD Huesca
+[Sun Jul/12]
+  17.00  Deportivo La Coruña      2-3 (1-0)  Extremadura UD
+  19.30  CD Lugo                  2-2 (1-1)  Girona FC
+         CD Numancia              1-0 (0-0)  SD Ponferradina
+  21.45  Real Zaragoza            2-4 (0-2)  Real Oviedo
+[Mon Jul/13]
+  19.30  Sporting Gijón           2-1 (2-0)  Málaga CF
+  21.45  AD Alcorcón              0-0  CD Tenerife
+         Elche CF                 2-0 (0-0)  Albacete
+  19.30  UD Almería               3-2 (3-0)  Rayo Vallecano
+
+
+Matchday 41
+[Fri Jul/17]
+  21.00  Albacete                 4-1 (3-1)  Real Zaragoza
+         Extremadura UD           2-0 (2-0)  Sporting Gijón
+         CF Fuenlabrada           3-1 (0-0)  Elche CF
+         Girona FC                2-1 (1-0)  Cádiz CF
+         SD Huesca                3-0 (0-0)  CD Numancia
+         CD Mirandés              1-0 (1-0)  Deportivo La Coruña
+         Málaga CF                2-0 (1-0)  AD Alcorcón
+         SD Ponferradina          2-1 (1-1)  UD Almería
+         Real Oviedo              1-0 (1-0)  Racing Santander
+         Rayo Vallecano           2-2 (1-1)  UD Las Palmas
+         CD Tenerife              1-2 (0-0)  CD Lugo
+
+
+Matchday 42
+[Mon Jul/20]
+  18.30  UD Las Palmas            5-1 (4-0)  Extremadura UD
+  21.00  AD Alcorcón              2-0 (0-0)  Girona FC
+         UD Almería               0-0  Málaga CF
+         Cádiz CF                 0-1 (0-0)  Albacete
+         Elche CF                 2-1 (1-1)  Real Oviedo
+         CD Lugo                  2-1 (0-1)  CD Mirandés
+         CD Numancia              2-1 (1-0)  CD Tenerife
+         Racing Santander         1-2 (1-0)  Rayo Vallecano
+         Sporting Gijón           0-1 (0-0)  SD Huesca
+         Real Zaragoza            2-1 (1-0)  SD Ponferradina
+[Fri Aug/7]
+  20.00  Deportivo La Coruña      2-1 (0-1)  CF Fuenlabrada

@@ -1,0 +1,395 @@
+= PL 1 2000/01
+
+# Date       Sat Jul/22 2000 - Wed Jun/13 2001 (326d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sat Jul/22]
+  17.00  Wisła Kraków             4-0 (1-0)  Ruch Radzionków
+         Śląsk Wrocław            1-0 (1-0)  Górnik Zabrze
+         Stomil Olsztyn           3-1 (1-1)  Odra Wodzisław
+  17.30  Legia Warszawa           1-0 (0-0)  Zagłębie Lubin
+         Ruch Chorzów             2-1 (1-1)  Widzew Łódź
+  18.30  Amica Wronki             1-0 (1-0)  Polonia Warszawa
+  20.00  Orlen Plock              1-0 (0-0)  Groclin Dyskobolia
+[Sun Jul/23]
+  18.00  GKS Katowice             0-0  Pogoń Szczecin
+
+
+Matchday 2
+[Sat Jul/29]
+  16.30  Ruch Radzionków          0-1 (0-0)  Legia Warszawa
+         Zagłębie Lubin           3-2 (2-1)  Amica Wronki
+         Odra Wodzisław           0-0  GKS Katowice
+  17.00  Górnik Zabrze            4-1 (1-1)  Ruch Chorzów
+         Groclin Dyskobolia       0-3 (0-2)  Wisła Kraków
+  17.30  Polonia Warszawa         4-1 (3-1)  Stomil Olsztyn
+         Widzew Łódź              3-2 (0-0)  Orlen Plock
+  18.00  Pogoń Szczecin           2-0 (1-0)  Śląsk Wrocław
+
+
+Matchday 3
+[Sat Aug/5]
+  16.30  Zagłębie Lubin           3-1 (0-1)  Ruch Radzionków
+  17.00  Śląsk Wrocław            2-2 (1-0)  Odra Wodzisław
+         Wisła Kraków             2-2 (1-0)  Widzew Łódź
+  17.30  Amica Wronki             2-0 (0-0)  Stomil Olsztyn
+         Legia Warszawa           3-1 (1-0)  Groclin Dyskobolia
+  18.00  Ruch Chorzów             0-1 (0-1)  Pogoń Szczecin
+[Sun Aug/6]
+  17.30  Orlen Plock              1-0 (0-0)  Górnik Zabrze
+         GKS Katowice             0-0  Polonia Warszawa
+
+
+Matchday 4
+[Sat Aug/12]
+  17.00  Stomil Olsztyn           1-0 (0-0)  GKS Katowice
+  17.30  Pogoń Szczecin           3-2 (1-1)  Orlen Plock
+  18.00  Widzew Łódź              0-0  Legia Warszawa
+[Sun Aug/13]
+  16.00  Groclin Dyskobolia       2-0 (2-0)  Zagłębie Lubin
+  16.30  Polonia Warszawa         3-1 (1-0)  Śląsk Wrocław
+         Odra Wodzisław           2-1 (2-0)  Ruch Chorzów
+         Ruch Radzionków          1-2 (0-2)  Amica Wronki
+  17.00  Górnik Zabrze            1-2 (0-2)  Wisła Kraków
+
+
+Matchday 5
+[Sat Aug/19]
+  16.00  Wisła Kraków             1-2 (0-1)  Pogoń Szczecin
+  16.30  Ruch Radzionków          2-1 (1-1)  Groclin Dyskobolia
+         Zagłębie Lubin           4-2 (1-2)  Widzew Łódź
+  17.00  Śląsk Wrocław            0-1 (0-0)  Stomil Olsztyn
+  17.30  Legia Warszawa           1-1 (0-0)  Górnik Zabrze
+         Ruch Chorzów             0-3 (0-1)  Polonia Warszawa
+         Orlen Plock              1-2 (0-1)  Odra Wodzisław
+         Amica Wronki             1-1 (1-0)  GKS Katowice
+
+
+Matchday 6
+[Sat Aug/26]
+  16.00  Pogoń Szczecin           1-1 (1-0)  Legia Warszawa
+  17.00  Górnik Zabrze            1-1 (0-0)  Zagłębie Lubin
+  17.30  Widzew Łódź              3-1 (1-1)  Ruch Radzionków
+         GKS Katowice             1-1 (0-1)  Śląsk Wrocław
+[Sun Aug/27]
+  16.00  Polonia Warszawa         1-0 (1-0)  Orlen Plock
+  16.30  Odra Wodzisław           0-2 (0-1)  Wisła Kraków
+  17.00  Stomil Olsztyn           0-0  Ruch Chorzów
+  17.30  Amica Wronki             2-2 (1-1)  Groclin Dyskobolia
+
+
+Matchday 7
+[Sat Sep/9]
+  16.00  Zagłębie Lubin           0-1 (0-1)  Pogoń Szczecin
+         Groclin Dyskobolia       1-1 (0-0)  Widzew Łódź
+  16.30  Ruch Radzionków          3-1 (1-0)  Górnik Zabrze
+  17.00  Śląsk Wrocław            1-1 (1-0)  Amica Wronki
+  17.30  Legia Warszawa           2-0 (0-0)  Odra Wodzisław
+         Orlen Plock              1-2 (0-0)  Stomil Olsztyn
+         Ruch Chorzów             0-0  GKS Katowice
+[Sun Sep/10]
+  16.00  Wisła Kraków             4-0 (0-0)  Polonia Warszawa
+
+
+Matchday 8
+[Sat Sep/16]
+  16.00  Pogoń Szczecin           1-0 (0-0)  Ruch Radzionków
+  16.30  Odra Wodzisław           0-1 (0-0)  Zagłębie Lubin
+  17.30  GKS Katowice             0-0  Orlen Plock
+  20.00  Górnik Zabrze            1-2 (1-2)  Groclin Dyskobolia
+[Sun Sep/17]
+  14.00  Polonia Warszawa         0-0  Legia Warszawa
+  16.00  Stomil Olsztyn           0-3 (0-1)  Wisła Kraków
+         Śląsk Wrocław            3-2 (0-0)  Ruch Chorzów
+  17.30  Amica Wronki             3-1 (2-0)  Widzew Łódź
+
+
+Matchday 9
+[Sat Sep/30]
+  15.00  Groclin Dyskobolia       2-1 (1-0)  Pogoń Szczecin
+  15.30  Ruch Radzionków          0-1 (0-0)  Odra Wodzisław
+  16.00  Widzew Łódź              1-0 (0-0)  Górnik Zabrze
+  17.30  Orlen Plock              2-1 (1-0)  Śląsk Wrocław
+  20.00  Legia Warszawa           2-1 (1-0)  Stomil Olsztyn
+[Sun Oct/1]
+  13.00  Wisła Kraków             3-1 (0-1)  GKS Katowice
+  14.00  Zagłębie Lubin           0-1 (0-1)  Polonia Warszawa
+  17.30  Ruch Chorzów             3-1 (3-1)  Amica Wronki
+
+
+Matchday 10
+[Sat Oct/14]
+  14.00  Polonia Warszawa         2-1 (1-0)  Ruch Radzionków
+         Stomil Olsztyn           1-3 (0-3)  Zagłębie Lubin
+  15.00  Pogoń Szczecin           3-0 (0-0)  Widzew Łódź
+  15.30  Odra Wodzisław           2-1 (0-1)  Groclin Dyskobolia
+  16.00  GKS Katowice             1-0 (0-0)  Legia Warszawa
+  17.30  Ruch Chorzów             1-1 (0-0)  Orlen Plock
+         Amica Wronki             3-0 (1-0)  Górnik Zabrze
+[Sun Oct/15]
+  14.00  Śląsk Wrocław            0-1 (0-0)  Wisła Kraków
+
+
+Matchday 11
+[Sat Oct/21]
+  14.00  Groclin Dyskobolia       0-0  Polonia Warszawa
+         Ruch Radzionków          0-0  Stomil Olsztyn
+  17.00  Górnik Zabrze            1-0 (0-0)  Pogoń Szczecin
+  17.30  Legia Warszawa           3-1 (0-0)  Śląsk Wrocław
+         Orlen Plock              2-6 (1-2)  Amica Wronki
+[Sun Oct/22]
+  14.00  Wisła Kraków             2-0 (0-0)  Ruch Chorzów
+         Zagłębie Lubin           1-0 (1-0)  GKS Katowice
+  15.00  Widzew Łódź              4-1 (4-1)  Odra Wodzisław
+
+
+Matchday 12
+[Sat Oct/28]
+  13.00  Polonia Warszawa         3-1 (0-1)  Widzew Łódź
+  14.00  Śląsk Wrocław            2-1 (0-0)  Zagłębie Lubin
+         Stomil Olsztyn           0-0  Groclin Dyskobolia
+  15.00  Odra Wodzisław           0-0  Górnik Zabrze
+  16.00  Ruch Chorzów             1-4 (0-1)  Legia Warszawa
+  17.00  GKS Katowice             3-0 (0-0)  Ruch Radzionków
+[Sun Oct/29]
+  17.00  Orlen Plock              0-5 (0-2)  Wisła Kraków
+  17.30  Amica Wronki             1-2 (1-1)  Pogoń Szczecin
+
+
+Matchday 13
+[Fri Nov/3]
+  20.15  Górnik Zabrze            2-1 (1-0)  Polonia Warszawa
+[Sat Nov/4]
+  13.00  Wisła Kraków             4-0 (2-0)  Amica Wronki
+  13.30  Ruch Radzionków          2-0 (2-0)  Śląsk Wrocław
+  14.00  Pogoń Szczecin           2-1 (0-1)  Odra Wodzisław
+  16.00  Widzew Łódź              1-1 (1-1)  Stomil Olsztyn
+  17.30  Legia Warszawa           1-1 (0-1)  Orlen Plock
+[Sun Nov/5]
+  13.00  Groclin Dyskobolia       1-0 (0-0)  GKS Katowice
+  14.00  Zagłębie Lubin           0-2 (0-1)  Ruch Chorzów
+
+
+Matchday 14
+[Sat Nov/11]
+  12.00  Śląsk Wrocław            1-1 (0-0)  Groclin Dyskobolia
+  13.00  Polonia Warszawa         1-2 (1-1)  Pogoń Szczecin
+  14.00  Stomil Olsztyn           1-0 (1-0)  Górnik Zabrze
+  16.00  Ruch Chorzów             1-2 (1-0)  Ruch Radzionków
+  17.00  GKS Katowice             3-1 (1-1)  Widzew Łódź
+  17.30  Orlen Plock              1-3 (0-1)  Zagłębie Lubin
+[Sun Nov/12]
+  13.00  Wisła Kraków             3-3 (1-1)  Legia Warszawa
+  17.30  Amica Wronki             4-0 (3-0)  Odra Wodzisław
+
+
+Matchday 15
+[Sat Nov/18]
+  12.00  Groclin Dyskobolia       0-2 (0-0)  Ruch Chorzów
+  13.00  Odra Wodzisław           2-0 (0-0)  Polonia Warszawa
+         Pogoń Szczecin           1-0 (1-0)  Stomil Olsztyn
+         Ruch Radzionków          2-1 (1-0)  Orlen Plock
+  15.30  Górnik Zabrze            0-0  GKS Katowice
+  16.00  Widzew Łódź              0-3 (0-1)  Śląsk Wrocław
+  20.15  Legia Warszawa           3-0 (1-0)  Amica Wronki
+[Sun Nov/19]
+  13.00  Zagłębie Lubin           4-2 (1-0)  Wisła Kraków
+
+
+Matchday 16
+[Sat Mar/10]
+  14.00  Polonia Warszawa         3-0 (0-0)  Amica Wronki
+         Ruch Radzionków          0-2 (0-2)  Wisła Kraków
+  14.30  Pogoń Szczecin           1-2 (0-1)  GKS Katowice
+  15.00  Odra Wodzisław           2-1 (1-0)  Stomil Olsztyn
+         Groclin Dyskobolia       1-2 (0-1)  Orlen Plock
+  16.00  Widzew Łódź              1-0 (1-0)  Ruch Chorzów
+  17.15  Górnik Zabrze            2-0 (1-0)  Śląsk Wrocław
+[Sun Mar/11]
+  14.30  Zagłębie Lubin           3-1 (2-1)  Legia Warszawa
+
+
+Matchday 17
+[Sat Mar/17]
+  14.00  Stomil Olsztyn           0-3 (0-2)  Polonia Warszawa
+  15.00  GKS Katowice             2-2 (1-1)  Odra Wodzisław
+         Wisła Kraków             1-1 (0-1)  Groclin Dyskobolia
+  16.00  Ruch Chorzów             3-2 (1-0)  Górnik Zabrze
+  17.30  Legia Warszawa           3-0 (0-0)  Ruch Radzionków
+         Orlen Plock              4-1 (2-0)  Widzew Łódź
+  20.00  Amica Wronki             1-1 (1-1)  Zagłębie Lubin
+[Sun Mar/18]
+  14.30  Śląsk Wrocław            1-0 (0-0)  Pogoń Szczecin
+
+
+Matchday 18
+[Fri Mar/30]
+  19.00  Widzew Łódź              3-0 (2-0)  Wisła Kraków
+[Sat Mar/31]
+  15.00  Stomil Olsztyn           2-1 (0-0)  Amica Wronki
+  15.30  Ruch Radzionków          2-1 (0-0)  Zagłębie Lubin
+  16.00  Groclin Dyskobolia       0-1 (0-0)  Legia Warszawa
+         Odra Wodzisław           1-1 (1-0)  Śląsk Wrocław
+         Pogoń Szczecin           3-3 (1-1)  Ruch Chorzów
+  17.15  Górnik Zabrze            1-0 (0-0)  Orlen Plock
+[Sun Apr/1]
+  14.30  Polonia Warszawa         1-1 (1-0)  GKS Katowice
+
+
+Matchday 19
+[Fri Apr/6]
+  20.00  Legia Warszawa           0-0  Widzew Łódź
+[Sat Apr/7]
+  15.00  GKS Katowice             2-0 (1-0)  Stomil Olsztyn
+  16.00  Śląsk Wrocław            0-1 (0-0)  Polonia Warszawa
+         Ruch Chorzów             3-0 (0-0)  Odra Wodzisław
+         Zagłębie Lubin           1-3 (0-2)  Groclin Dyskobolia
+  17.00  Amica Wronki             3-0 (3-0)  Ruch Radzionków
+  17.30  Orlen Plock              1-4 (0-1)  Pogoń Szczecin
+[Sun Apr/8]
+  14.30  Wisła Kraków             3-0 (1-0)  Górnik Zabrze
+
+
+Matchday 20
+[Sat Apr/14]
+  13.00  Polonia Warszawa         1-2 (0-1)  Ruch Chorzów
+  15.00  GKS Katowice             4-1 (2-1)  Amica Wronki
+  16.00  Pogoń Szczecin           0-0  Wisła Kraków
+         Widzew Łódź              1-0 (0-0)  Zagłębie Lubin
+         Stomil Olsztyn           1-2 (1-1)  Śląsk Wrocław
+         Odra Wodzisław           4-0 (1-0)  Orlen Plock
+         Groclin Dyskobolia       3-0 (0-0)  Ruch Radzionków
+  18.00  Górnik Zabrze            1-0 (0-0)  Legia Warszawa
+
+
+Matchday 21
+[Fri Apr/20]
+  19.00  Legia Warszawa           3-2 (2-2)  Pogoń Szczecin
+[Sat Apr/21]
+  16.00  Ruch Chorzów             4-1 (2-0)  Stomil Olsztyn
+  16.30  Ruch Radzionków          1-0 (0-0)  Widzew Łódź
+  17.00  Wisła Kraków             2-1 (0-0)  Odra Wodzisław
+         Śląsk Wrocław            0-1 (0-0)  GKS Katowice
+         Zagłębie Lubin           2-2 (0-1)  Górnik Zabrze
+  17.30  Orlen Plock              0-1 (0-1)  Polonia Warszawa
+[Sun Apr/22]
+  14.30  Groclin Dyskobolia       1-1 (0-0)  Amica Wronki
+
+
+Matchday 22
+[Fri Apr/27]
+  19.00  GKS Katowice             1-1 (1-0)  Ruch Chorzów
+[Sat Apr/28]
+  16.00  Odra Wodzisław           1-5 (0-2)  Legia Warszawa
+         Stomil Olsztyn           1-0 (1-0)  Orlen Plock
+  17.00  Amica Wronki             0-1 (0-0)  Śląsk Wrocław
+         Widzew Łódź              1-2 (0-1)  Groclin Dyskobolia
+         Pogoń Szczecin           1-1 (0-0)  Zagłębie Lubin
+  17.15  Górnik Zabrze            0-1 (0-1)  Ruch Radzionków
+[Sun Apr/29]
+  14.30  Polonia Warszawa         0-2 (0-1)  Wisła Kraków
+
+
+Matchday 23
+[Wed May/2]
+  16.30  Groclin Dyskobolia       2-1 (0-0)  Górnik Zabrze
+  17.00  Widzew Łódź              0-1 (0-1)  Amica Wronki
+         Ruch Radzionków          1-0 (1-0)  Pogoń Szczecin
+         Zagłębie Lubin           1-0 (0-0)  Odra Wodzisław
+         Wisła Kraków             2-0 (2-0)  Stomil Olsztyn
+         Ruch Chorzów             3-1 (2-0)  Śląsk Wrocław
+  17.30  Orlen Plock              0-0  GKS Katowice
+  18.00  Legia Warszawa           1-0 (0-0)  Polonia Warszawa
+
+
+Matchday 24
+[Sat May/5]
+  15.00  Stomil Olsztyn           2-1 (1-0)  Legia Warszawa
+  17.00  Amica Wronki             2-1 (1-0)  Ruch Chorzów
+         Śląsk Wrocław            0-1 (0-1)  Orlen Plock
+         Polonia Warszawa         2-0 (2-0)  Zagłębie Lubin
+         Pogoń Szczecin           2-0 (1-0)  Groclin Dyskobolia
+         Odra Wodzisław           2-2 (1-1)  Ruch Radzionków
+  17.15  Górnik Zabrze            0-2 (0-1)  Widzew Łódź
+[Sun May/6]
+  15.00  GKS Katowice             0-3 (0-1)  Wisła Kraków
+
+
+Matchday 25
+[Wed May/9]
+  16.30  Groclin Dyskobolia       1-1 (1-0)  Odra Wodzisław
+  17.00  Widzew Łódź              1-0 (0-0)  Pogoń Szczecin
+         Wisła Kraków             2-2 (0-1)  Śląsk Wrocław
+         Ruch Radzionków          1-1 (1-1)  Polonia Warszawa
+         Zagłębie Lubin           2-0 (0-0)  Stomil Olsztyn
+  17.30  Orlen Plock              3-4 (1-3)  Ruch Chorzów
+  18.00  Legia Warszawa           0-2 (0-1)  GKS Katowice
+[Sat Jun/2]
+  19.00  Górnik Zabrze            1-0 (0-0)  Amica Wronki
+
+
+Matchday 26
+[Sat May/12]
+  16.30  Polonia Warszawa         1-1 (0-1)  Groclin Dyskobolia
+  17.00  Śląsk Wrocław            1-1 (1-0)  Legia Warszawa
+         Pogoń Szczecin           2-1 (0-1)  Górnik Zabrze
+         Amica Wronki             2-0 (2-0)  Orlen Plock
+         Odra Wodzisław           2-2 (1-1)  Widzew Łódź
+         GKS Katowice             0-2 (0-0)  Zagłębie Lubin
+  18.00  Ruch Chorzów             2-1 (1-0)  Wisła Kraków
+[Sun May/13]
+  17.00  Stomil Olsztyn           1-0 (1-0)  Ruch Radzionków
+
+
+Matchday 27
+[Fri May/18]
+  20.00  Legia Warszawa           1-0 (1-0)  Ruch Chorzów
+[Sat May/19]
+  16.00  Wisła Kraków             1-2 (1-0)  Orlen Plock
+  17.00  Zagłębie Lubin           1-3 (1-0)  Śląsk Wrocław
+         Pogoń Szczecin           2-1 (1-0)  Amica Wronki
+         Widzew Łódź              0-0  Polonia Warszawa
+         Groclin Dyskobolia       1-0 (0-0)  Stomil Olsztyn
+  17.15  Górnik Zabrze            1-1 (0-0)  Odra Wodzisław
+[Sun May/20]
+  17.00  Ruch Radzionków          0-1 (0-1)  GKS Katowice
+
+
+Matchday 28
+[Wed May/23]
+  17.00  Odra Wodzisław           4-0 (1-0)  Pogoń Szczecin
+         Stomil Olsztyn           1-0 (1-0)  Widzew Łódź
+         Ruch Chorzów             1-2 (0-0)  Zagłębie Lubin
+  17.15  Polonia Warszawa         0-2 (0-1)  Górnik Zabrze
+  17.30  Orlen Plock              1-0 (1-0)  Legia Warszawa
+         GKS Katowice             1-1 (1-0)  Groclin Dyskobolia
+  18.00  Amica Wronki             2-1 (1-1)  Wisła Kraków
+         Śląsk Wrocław            1-1 (0-0)  Ruch Radzionków
+
+
+Matchday 29
+[Sat Jun/9]
+  17.00  Legia Warszawa           1-2 (0-1)  Wisła Kraków
+         Zagłębie Lubin           2-1 (0-0)  Orlen Plock
+         Górnik Zabrze            2-0 (1-0)  Stomil Olsztyn
+         Pogoń Szczecin           3-4 (2-1)  Polonia Warszawa
+         Groclin Dyskobolia       1-2 (0-0)  Śląsk Wrocław
+         Widzew Łódź              0-0  GKS Katowice
+         Ruch Radzionków          0-3 (0-0)  Ruch Chorzów
+         Odra Wodzisław           2-1 (1-1)  Amica Wronki
+
+
+Matchday 30
+[Wed Jun/13]
+  17.00  Amica Wronki             3-2 (0-0)  Legia Warszawa
+         GKS Katowice             1-1 (1-0)  Górnik Zabrze
+         Stomil Olsztyn           0-1 (0-1)  Pogoń Szczecin
+         Wisła Kraków             3-0 (1-0)  Zagłębie Lubin
+         Polonia Warszawa         1-2 (1-1)  Odra Wodzisław
+         Orlen Plock              6-3 (2-0)  Ruch Radzionków
+         Śląsk Wrocław            0-0  Widzew Łódź
+         Ruch Chorzów             4-3 (0-2)  Groclin Dyskobolia

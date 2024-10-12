@@ -1,0 +1,396 @@
+= EC 2 2022
+
+# Date       Tue Mar/15 - Mon Oct/31 2022 (230d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Tue Mar/15]
+  15.30  Independiente Juniors    0-0  El Nacional
+  19.00  América de Quito         0-0  Atlético Santo Domingo
+[Wed Mar/16]
+  15.00  Chacaritas FC            2-0 (1-0)  Búhos ULVR
+  19.00  Olmedo                   0-2 (0-1)  Libertad de Loja
+[Thu Mar/17]
+  19.00  Imbabura                 0-0  Manta
+
+
+Matchday 2
+[Tue Mar/22]
+  19.00  El Nacional              1-1 (1-1)  Olmedo
+[Wed Mar/23]
+  15.00  Atlético Santo Domingo   0-1 (0-1)  Independiente Juniors
+  16.30  Búhos ULVR               1-2 (0-0)  Imbabura
+  19.00  Manta                    1-1 (0-1)  América de Quito
+         Libertad de Loja         5-1 (1-1)  Chacaritas FC
+
+
+Matchday 3
+[Sat Mar/26]
+  18.00  Olmedo                   1-0 (1-0)  Independiente Juniors
+  19.00  Imbabura                 2-0 (0-0)  Atlético Santo Domingo
+[Sun Mar/27]
+  15.30  Chacaritas FC            3-2 (2-0)  El Nacional
+  16.00  América de Quito         4-0 (2-0)  Libertad de Loja
+  18.00  Manta                    0-1 (0-0)  Búhos ULVR
+
+
+Matchday 4
+[Wed Mar/30]
+  19.00  El Nacional              2-1 (1-1)  Búhos ULVR
+[Thu Mar/31]
+  15.30  Atlético Santo Domingo   2-0 (1-0)  Manta
+  16.30  Olmedo                   1-1 (0-0)  América de Quito
+  19.00  Independiente Juniors    1-0 (1-0)  Chacaritas FC
+  19.30  Libertad de Loja         3-5 (0-1)  Imbabura
+
+
+Matchday 5
+[Tue Apr/5]
+  19.00  Búhos ULVR               1-0 (0-0)  Atlético Santo Domingo
+[Wed Apr/6]
+  19.00  América de Quito         2-0 (1-0)  El Nacional
+         Imbabura                 3-2 (1-1)  Independiente Juniors
+[Thu Apr/7]
+  15.00  Chacaritas FC            1-0 (0-0)  Olmedo
+  19.00  Manta                    0-3 (0-1)  Libertad de Loja
+
+
+Matchday 6
+[Tue Apr/12]
+  19.00  El Nacional              1-0 (1-0)  Manta
+[Wed Apr/13]
+  15.30  Chacaritas FC            2-1 (1-1)  Imbabura
+  19.00  Olmedo                   2-1 (1-0)  Búhos ULVR
+[Thu Apr/14]
+  19.00  Independiente Juniors    1-0 (1-0)  América de Quito
+  19.30  Libertad de Loja         1-1 (1-0)  Atlético Santo Domingo
+
+
+Matchday 7
+[Tue Apr/19]
+  14.00  América de Quito         1-1 (1-0)  Chacaritas FC
+  16.30  Búhos ULVR               0-1 (0-0)  Libertad de Loja
+[Wed Apr/20]
+  15.00  Manta                    0-2 (0-1)  Independiente Juniors
+  15.30  Atlético Santo Domingo   1-1 (0-1)  El Nacional
+  19.00  Imbabura                 0-0  Olmedo
+
+
+Matchday 8
+[Tue Apr/26]
+  19.00  Imbabura                 1-2 (1-1)  América de Quito
+[Wed Apr/27]
+  15.30  Chacaritas FC            1-0 (0-0)  Atlético Santo Domingo
+         Olmedo                   1-2 (0-1)  Manta
+  19.00  Independiente Juniors    0-0  Búhos ULVR
+[Thu Apr/28]
+  19.00  El Nacional              3-0 (2-0)  Libertad de Loja
+
+
+Matchday 9
+[Tue May/3]
+  13.30  El Nacional              2-4 (2-2)  Imbabura
+  15.00  Búhos ULVR               3-2 (2-1)  América de Quito
+[Wed May/4]
+  19.00  Manta                    1-1 (1-0)  Chacaritas FC
+[Thu May/5]
+  15.00  Atlético Santo Domingo   1-2 (0-1)  Olmedo
+  19.00  Libertad de Loja         1-0 (0-0)  Independiente Juniors
+
+
+Matchday 10
+[Tue May/10]
+  19.00  Olmedo                   2-1 (1-1)  El Nacional
+[Wed May/11]
+  14.30  Chacaritas FC            1-0 (1-0)  Libertad de Loja
+  15.30  América de Quito         1-0 (0-0)  Manta
+  19.00  Imbabura                 0-1 (0-1)  Búhos ULVR
+[Thu May/12]
+  19.00  Independiente Juniors    1-0 (0-0)  Atlético Santo Domingo
+
+
+Matchday 11
+[Tue May/17]
+  19.00  El Nacional              2-0 (1-0)  Chacaritas FC
+[Wed May/18]
+  15.00  Atlético Santo Domingo   1-0 (1-0)  Imbabura
+  19.00  Búhos ULVR               2-0 (1-0)  Manta
+  19.30  Libertad de Loja         0-3  América de Quito         [awarded]
+[Thu May/19]
+  19.00  Independiente Juniors    0-1 (0-0)  Olmedo
+
+
+Matchday 12
+[Tue May/24]
+  19.00  Búhos ULVR               2-2 (2-1)  El Nacional
+[Wed May/25]
+  15.00  Chacaritas FC            2-0 (0-0)  Independiente Juniors
+  19.00  Imbabura                 1-2 (0-0)  Libertad de Loja
+         Manta                    2-1 (1-0)  Atlético Santo Domingo
+[Thu May/26]
+  19.00  América de Quito         0-0  Olmedo
+
+
+Matchday 13
+[Tue May/31]
+  19.00  Independiente Juniors    1-1 (0-1)  Imbabura
+[Wed Jun/1]
+  15.00  Atlético Santo Domingo   1-1 (0-0)  Búhos ULVR
+  19.00  El Nacional              1-0 (1-0)  América de Quito
+[Fri Jun/3]
+  19.00  Olmedo                   1-1 (1-0)  Chacaritas FC
+         Libertad de Loja         0-0  Manta
+
+
+Matchday 14
+[Tue Jun/7]
+  19.00  Imbabura                 0-2 (0-1)  Chacaritas FC
+[Wed Jun/8]
+  15.30  Búhos ULVR               3-3 (2-0)  Olmedo
+         Atlético Santo Domingo   0-0  Libertad de Loja
+  19.00  Manta                    0-1 (0-1)  El Nacional
+[Thu Jun/9]
+  19.00  América de Quito         4-0 (2-0)  Independiente Juniors
+
+
+Matchday 15
+[Tue Jul/5]
+  19.00  El Nacional              2-0 (1-0)  Atlético Santo Domingo
+[Wed Jul/6]
+  15.30  Chacaritas FC            0-1 (0-1)  América de Quito
+  19.00  Independiente Juniors    1-1 (0-1)  Manta
+[Thu Jul/7]
+  19.00  Olmedo                   0-4 (0-3)  Imbabura
+  19.30  Libertad de Loja         0-0  Búhos ULVR
+
+
+Matchday 16
+[Tue Jul/12]
+  19.00  Búhos ULVR               1-0 (1-0)  Independiente Juniors
+[Wed Jul/13]
+  19.00  Manta                    2-1 (1-1)  Olmedo
+[Thu Jul/14]
+  15.30  Atlético Santo Domingo   0-0  Chacaritas FC
+  19.00  América de Quito         1-0 (0-0)  Imbabura
+  19.30  Libertad de Loja         1-0 (0-0)  El Nacional
+
+
+Matchday 17
+[Tue Jul/19]
+  19.00  América de Quito         1-2 (0-1)  Búhos ULVR
+[Wed Jul/20]
+  15.00  Chacaritas FC            0-1 (0-1)  Manta
+  19.00  Independiente Juniors    0-0  Libertad de Loja
+[Thu Jul/21]
+  19.00  Olmedo                   1-1 (1-1)  Atlético Santo Domingo
+[Fri Jul/22]
+  19.00  Imbabura                 2-1 (2-0)  El Nacional
+
+
+Matchday 18
+[Tue Jul/26]
+  19.00  Búhos ULVR               0-0  Chacaritas FC
+[Wed Jul/27]
+  15.00  Atlético Santo Domingo   4-0 (2-0)  América de Quito
+  19.00  El Nacional              2-1 (0-1)  Independiente Juniors
+  19.30  Libertad de Loja         1-0 (0-0)  Olmedo
+[Sat Sep/3]
+  11.30  Manta                    3-2 (2-2)  Imbabura
+
+
+Matchday 19
+[Sat Jul/30]
+  10.15  Olmedo                   3-0 (1-0)  Manta
+  12.30  Imbabura                 2-1 (2-0)  Libertad de Loja
+  15.30  América de Quito         0-4 (0-3)  Independiente Juniors
+[Sun Jul/31]
+  11.30  Chacaritas FC            0-2 (0-1)  El Nacional
+  15.00  Atlético Santo Domingo   2-1 (0-0)  Búhos ULVR
+
+
+Matchday 20
+[Tue Aug/2]
+  19.00  Manta                    1-0 (0-0)  América de Quito
+[Wed Aug/3]
+  15.00  Chacaritas FC            1-0 (0-0)  Imbabura
+  19.00  Independiente Juniors    3-2 (1-0)  Búhos ULVR
+[Thu Aug/4]
+  19.30  Libertad de Loja         2-1 (1-1)  Atlético Santo Domingo
+[Sun Sep/4]
+  11.30  El Nacional              1-1 (1-1)  Olmedo
+
+
+Matchday 21
+[Tue Aug/9]
+  19.00  Búhos ULVR               0-1 (0-0)  El Nacional
+[Wed Aug/10]
+  15.00  Atlético Santo Domingo   0-2 (0-0)  Independiente Juniors
+  19.00  Olmedo                   0-2 (0-0)  Libertad de Loja
+         Imbabura                 0-0  Manta
+[Thu Aug/11]
+  19.00  América de Quito         2-2 (0-0)  Chacaritas FC
+
+
+Matchday 22
+[Tue Aug/16]
+  19.00  El Nacional              0-0  Atlético Santo Domingo
+[Wed Aug/17]
+  15.00  Chacaritas FC            0-0  Olmedo
+  19.00  Imbabura                 2-1 (1-0)  América de Quito
+[Thu Aug/18]
+  19.00  Manta                    1-2 (1-0)  Independiente Juniors
+  19.30  Libertad de Loja         0-1 (0-0)  Búhos ULVR
+
+
+Matchday 23
+[Tue Aug/23]
+  19.00  Independiente Juniors    4-1 (3-0)  El Nacional
+[Wed Aug/24]
+  15.00  Olmedo                   2-2 (1-0)  Imbabura
+         Atlético Santo Domingo   3-1 (2-1)  Chacaritas FC
+  19.00  Búhos ULVR               2-1 (1-1)  Manta
+[Thu Aug/25]
+  19.00  América de Quito         2-1 (0-0)  Libertad de Loja
+
+
+Matchday 24
+[Sat Aug/27]
+  10.30  Chacaritas FC            1-0 (0-0)  Búhos ULVR
+  12.45  Imbabura                 3-1 (1-0)  Atlético Santo Domingo
+[Sun Aug/28]
+  11.45  Olmedo                   0-2 (0-1)  América de Quito
+  15.30  Libertad de Loja         2-2 (1-0)  Independiente Juniors
+         El Nacional              1-0 (0-0)  Manta
+
+
+Matchday 25
+[Tue Aug/30]
+  19.00  Búhos ULVR               2-2 (1-0)  Imbabura
+[Wed Aug/31]
+  15.00  Atlético Santo Domingo   2-0 (2-0)  Olmedo
+         Manta                    2-2 (2-1)  Libertad de Loja
+  19.00  Independiente Juniors    1-1 (1-1)  Chacaritas FC
+[Thu Sep/1]
+  19.00  El Nacional              0-1 (0-0)  América de Quito
+
+
+Matchday 26
+[Tue Sep/6]
+  19.00  América de Quito         0-0  Atlético Santo Domingo
+[Wed Sep/7]
+  15.00  Chacaritas FC            0-0  Manta
+[Thu Sep/8]
+  15.00  Olmedo                   0-0  Búhos ULVR
+  19.00  Imbabura                 1-3 (0-3)  Independiente Juniors
+[Mon Oct/17]
+  15.30  Libertad de Loja         1-1 (1-1)  El Nacional
+
+
+Matchday 27
+[Tue Sep/13]
+  19.00  El Nacional              5-0 (1-0)  Imbabura
+[Wed Sep/14]
+  19.00  Búhos ULVR               0-0  América de Quito
+  19.30  Libertad de Loja         1-0 (0-0)  Chacaritas FC
+[Thu Sep/15]
+  15.00  Independiente Juniors    1-0 (0-0)  Olmedo
+  19.00  Manta                    0-0  Atlético Santo Domingo
+
+
+Matchday 28
+[Mon Sep/19]
+  15.00  Olmedo                   1-2 (1-1)  El Nacional
+[Tue Sep/20]
+  15.00  Atlético Santo Domingo   1-0 (1-0)  Libertad de Loja
+  19.00  Imbabura                 1-0 (0-0)  Chacaritas FC
+[Wed Sep/21]
+  19.00  América de Quito         1-1 (0-1)  Manta
+[Thu Sep/22]
+  19.00  Búhos ULVR               0-0  Independiente Juniors
+
+
+Matchday 29
+[Sat Sep/24]
+  12.00  Libertad de Loja         2-1 (1-1)  Olmedo
+  14.00  Chacaritas FC            0-2 (0-0)  América de Quito
+[Sun Sep/25]
+  10.45  Independiente Juniors    1-0 (1-0)  Atlético Santo Domingo
+  12.00  Manta                    1-0 (1-0)  Imbabura
+  13.00  El Nacional              3-1 (1-1)  Búhos ULVR
+
+
+Matchday 30
+[Tue Sep/27]
+  19.00  Olmedo                   1-0 (0-0)  Chacaritas FC
+[Wed Sep/28]
+  15.00  Atlético Santo Domingo   1-2 (1-0)  El Nacional
+         Independiente Juniors    2-2 (0-1)  Manta
+  19.00  Búhos ULVR               0-0  Libertad de Loja
+[Thu Sep/29]
+  19.00  América de Quito         0-0  Imbabura
+
+
+Matchday 31
+[Sat Oct/1]
+  10.45  El Nacional              1-1 (1-0)  Independiente Juniors
+  13.00  Manta                    2-0 (0-0)  Búhos ULVR
+[Sun Oct/2]
+  10.30  Imbabura                 1-0 (1-0)  Olmedo
+  12.00  Libertad de Loja         1-1 (0-0)  América de Quito
+  15.00  Chacaritas FC            3-0 (2-0)  Atlético Santo Domingo
+
+
+Matchday 32
+[Tue Oct/4]
+  19.00  Manta                    0-1 (0-0)  El Nacional
+[Wed Oct/5]
+  15.00  Atlético Santo Domingo   1-0 (1-0)  Imbabura
+         Independiente Juniors    0-1 (0-0)  Libertad de Loja
+  19.00  Búhos ULVR               1-1 (1-0)  Chacaritas FC
+[Thu Oct/6]
+  19.00  América de Quito         1-0 (0-0)  Olmedo
+
+
+Matchday 33
+[Tue Oct/11]
+  19.00  América de Quito         1-1 (1-1)  El Nacional
+[Wed Oct/12]
+  15.00  Chacaritas FC            0-1 (0-1)  Independiente Juniors
+  19.00  Olmedo                   2-1 (1-1)  Atlético Santo Domingo
+[Thu Oct/13]
+  19.00  Imbabura                 1-1 (0-1)  Búhos ULVR
+  19.30  Libertad de Loja         0-0  Manta
+
+
+Matchday 34
+[Tue Oct/18]
+  19.00  Independiente Juniors    4-1 (1-1)  Imbabura
+[Wed Oct/19]
+  15.00  Atlético Santo Domingo   2-2 (2-1)  América de Quito
+         Manta                    3-1 (1-0)  Chacaritas FC
+  19.00  Búhos ULVR               1-2 (1-2)  Olmedo
+[Thu Oct/20]
+  19.00  El Nacional              4-2 (2-1)  Libertad de Loja
+
+
+Matchday 35
+[Tue Oct/25]
+  15.30  Olmedo                   2-1 (0-1)  Independiente Juniors
+         Chacaritas FC            1-2 (1-1)  Libertad de Loja
+         Atlético Santo Domingo   2-0 (1-0)  Manta
+         América de Quito         0-0  Búhos ULVR
+[Wed Oct/26]
+  19.00  Imbabura                 3-2 (1-1)  El Nacional
+
+
+Matchday 36
+[Sun Oct/30]
+  13.00  Manta                    2-1 (1-1)  Olmedo
+         Búhos ULVR               1-1 (0-0)  Atlético Santo Domingo
+  15.30  Independiente Juniors    1-1 (1-1)  América de Quito
+         Libertad de Loja         2-0 (1-0)  Imbabura
+[Mon Oct/31]
+  15.30  El Nacional              2-0 (1-0)  Chacaritas FC

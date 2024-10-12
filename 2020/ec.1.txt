@@ -1,0 +1,443 @@
+= EC 1 2020
+
+# Date       Fri Feb/14 - Tue Dec/29 2020 (319d)
+# Teams      16
+# Matches    242
+# Stages     Primera Etapa (120)  Segunda Etapa (120)  Tercera Etapa (2)
+
+
+== Primera Etapa
+
+Matchday 1
+[Fri Feb/14]
+  15.00  Independiente del Valle  2-1 (1-1)  Mushuc Runa
+  20.00  Deportivo Cuenca         1-2 (1-1)  LDU Quito
+[Sat Feb/15]
+  12.00  Aucas                    1-2 (0-2)  Delfín SC
+  15.30  Orense SC                2-2 (1-0)  Emelec
+  18.00  Macará                   1-1 (0-0)  Universidad Catolica
+[Sun Feb/16]
+  13.00  El Nacional              2-1 (1-0)  Liga de Portoviejo
+  15.15  Guayaquil City           4-1 (0-1)  Olmedo
+  17.45  Barcelona                0-0  Técnico Universitario
+
+
+Matchday 2
+[Fri Feb/21]
+  19.15  Liga de Portoviejo       2-4 (1-1)  Deportivo Cuenca
+[Sat Feb/22]
+  13.00  Olmedo                   1-2 (0-1)  Macará
+  15.30  Delfín SC                1-2 (0-0)  Barcelona
+  17.45  LDU Quito                2-3 (0-0)  Independiente del Valle
+  20.00  Universidad Catolica     4-0 (1-0)  Orense SC
+[Sun Feb/23]
+  13.30  Mushuc Runa              1-1 (1-1)  El Nacional
+  16.00  Emelec                   1-2 (0-1)  Guayaquil City
+[Mon Feb/24]
+  19.15  Técnico Universitario    2-0 (0-0)  Aucas
+
+
+Matchday 3
+[Fri Feb/28]
+  16.30  Delfín SC                0-2 (0-0)  Técnico Universitario
+  19.00  El Nacional              0-3 (0-2)  LDU Quito
+[Sat Feb/29]
+  15.30  Orense SC                1-0 (1-0)  Guayaquil City
+  19.00  Barcelona                1-1 (0-0)  Liga de Portoviejo
+[Sun Mar/1]
+  12.30  Independiente del Valle  1-2 (0-0)  Olmedo
+  15.00  Aucas                    3-0 (1-0)  Mushuc Runa
+  17.30  Macará                   1-0 (1-0)  Emelec
+[Mon Mar/2]
+  19.15  Deportivo Cuenca         1-2 (0-0)  Universidad Catolica
+
+
+Matchday 4
+[Fri Mar/6]
+  19.15  Técnico Universitario    1-1 (0-1)  Mushuc Runa
+[Sat Mar/7]
+  12.15  Liga de Portoviejo       2-1 (0-1)  Delfín SC
+  14.30  Independiente del Valle  2-2 (1-1)  Universidad Catolica
+  18.00  LDU Quito                2-1 (1-0)  Barcelona
+[Sun Mar/8]
+  11.30  Olmedo                   2-2 (2-1)  Orense SC
+  13.45  Guayaquil City           1-1 (0-1)  Macará
+  16.00  Emelec                   4-0 (3-0)  Aucas
+[Mon Mar/9]
+  19.15  El Nacional              1-1 (0-1)  Deportivo Cuenca
+
+
+Matchday 5
+[Fri Mar/13]
+  19.15  Técnico Universitario    3-1 (2-0)  Liga de Portoviejo
+[Sat Mar/14]
+  13.30  Mushuc Runa              2-0 (1-0)  Macará
+[Fri Aug/14]
+  17.00  Deportivo Cuenca         1-1 (0-0)  Guayaquil City
+  19.15  Barcelona                1-0 (0-0)  Orense SC
+[Sat Aug/15]
+  16.00  El Nacional              2-4 (1-3)  Independiente del Valle
+  18.15  Delfín SC                2-0 (1-0)  Emelec
+[Sun Aug/16]
+  16.00  Olmedo                   2-3 (1-1)  LDU Quito
+  18.15  Universidad Catolica     3-1 (1-1)  Aucas
+
+
+Matchday 6
+[Tue Aug/18]
+  12.30  Independiente del Valle  4-4 (4-1)  Macará
+  14.45  Orense SC                1-1 (0-0)  Liga de Portoviejo
+  17.00  Deportivo Cuenca         0-3 (0-1)  Barcelona
+  19.15  Guayaquil City           0-0  Delfín SC
+[Wed Aug/19]
+  12.30  Técnico Universitario    1-3 (0-1)  Olmedo
+  14.45  Aucas                    2-0 (1-0)  El Nacional
+  17.00  LDU Quito                2-1 (2-1)  Universidad Catolica
+  19.15  Emelec                   2-0 (0-0)  Mushuc Runa
+
+
+Matchday 7
+[Fri Aug/21]
+  17.00  Delfín SC                0-0  Orense SC
+  19.15  Macará                   2-1 (1-0)  Deportivo Cuenca
+[Sat Aug/22]
+  14.00  Técnico Universitario    0-1 (0-0)  Independiente del Valle
+  16.15  Liga de Portoviejo       3-1 (1-0)  Guayaquil City
+  18.30  Aucas                    2-0 (2-0)  LDU Quito
+[Sun Aug/23]
+  13.15  Olmedo                   1-2 (0-0)  Mushuc Runa
+  16.00  Universidad Catolica     1-1 (0-1)  El Nacional
+  18.30  Barcelona                2-1 (0-0)  Emelec
+
+
+Matchday 8
+[Tue Aug/25]
+  12.15  Deportivo Cuenca         2-2 (2-1)  Orense SC
+  14.30  Macará                   0-0  Técnico Universitario
+  16.45  Independiente del Valle  1-1 (0-1)  Aucas
+  19.00  LDU Quito                1-0 (1-0)  Delfín SC
+[Wed Aug/26]
+  12.15  Mushuc Runa              1-2 (1-0)  Universidad Catolica
+  14.30  El Nacional              3-2 (1-1)  Olmedo
+  16.45  Emelec                   2-1 (0-0)  Liga de Portoviejo
+  19.00  Guayaquil City           2-1 (2-0)  Barcelona
+
+
+Matchday 9
+[Fri Aug/28]
+  19.00  Aucas                    1-0 (1-0)  Macará
+[Sat Aug/29]
+  13.00  Mushuc Runa              1-1 (1-1)  Deportivo Cuenca
+  15.15  Orense SC                1-2 (0-2)  LDU Quito
+  17.30  Barcelona                3-1 (1-0)  Olmedo
+  19.45  Técnico Universitario    2-0 (0-0)  Emelec
+[Sun Aug/30]
+  13.15  Universidad Catolica     4-0 (2-0)  Liga de Portoviejo
+  15.30  Delfín SC                2-1 (0-0)  El Nacional
+  17.45  Independiente del Valle  3-0 (1-0)  Guayaquil City
+
+
+Matchday 10
+[Tue Sep/1]
+  12.15  Deportivo Cuenca         2-2 (1-2)  Técnico Universitario
+  14.30  Orense SC                0-2 (0-0)  Mushuc Runa
+  16.45  LDU Quito                1-0 (1-0)  Macará
+  19.00  Barcelona                4-2 (3-1)  Aucas
+[Wed Sep/2]
+  12.15  Olmedo                   2-0 (2-0)  Delfín SC
+  14.30  Guayaquil City           1-3 (1-2)  Universidad Catolica
+  16.45  Liga de Portoviejo       1-2 (1-0)  Independiente del Valle
+  19.00  El Nacional              2-1 (0-0)  Emelec
+
+
+Matchday 11
+[Fri Sep/4]
+  19.00  Mushuc Runa              1-2 (0-1)  Barcelona
+[Sat Sep/5]
+  14.00  Universidad Catolica     3-1 (1-0)  Olmedo
+  16.30  Liga de Portoviejo       1-1 (1-1)  LDU Quito
+  19.00  Macará                   1-0 (1-0)  El Nacional
+[Sun Sep/6]
+  13.15  Delfín SC                2-1 (0-1)  Deportivo Cuenca
+  15.30  Aucas                    3-1 (2-1)  Guayaquil City
+  18.00  Emelec                   2-2 (2-0)  Independiente del Valle
+[Mon Sep/7]
+  19.00  Técnico Universitario    2-0 (0-0)  Orense SC
+
+
+Matchday 12
+[Fri Sep/11]
+  15.30  Mushuc Runa              1-0 (0-0)  Liga de Portoviejo
+  19.00  LDU Quito                2-0 (1-0)  Guayaquil City
+[Sat Sep/12]
+  16.00  El Nacional              0-1 (0-1)  Técnico Universitario
+  18.30  Olmedo                   1-1 (0-1)  Emelec
+[Sun Sep/13]
+  13.15  Aucas                    2-0 (0-0)  Deportivo Cuenca
+  15.30  Independiente del Valle  4-2 (1-2)  Delfín SC
+  18.00  Barcelona                1-0 (1-0)  Universidad Catolica
+[Mon Sep/14]
+  15.30  Orense SC                1-2 (0-2)  Macará
+
+
+Matchday 13
+[Wed Sep/9]
+  16.30  Deportivo Cuenca         1-3 (1-1)  Independiente del Valle
+  19.00  Macará                   1-1 (0-0)  Barcelona
+[Fri Sep/18]
+  19.00  Liga de Portoviejo       2-1 (0-0)  Olmedo
+[Sat Sep/19]
+  15.30  Orense SC                2-2 (1-2)  Aucas
+  18.00  Emelec                   1-1 (0-1)  LDU Quito
+[Sun Sep/20]
+  13.30  Universidad Catolica     2-1 (1-1)  Técnico Universitario
+  18.00  Delfín SC                4-1 (2-0)  Mushuc Runa
+[Thu Oct/1]
+  17.00  Guayaquil City           2-1 (2-0)  El Nacional
+
+
+Matchday 14
+[Fri Sep/25]
+  16.30  El Nacional              2-2 (1-2)  Orense SC
+[Sat Sep/26]
+  14.45  Mushuc Runa              2-1 (1-1)  Guayaquil City
+  17.00  Olmedo                   3-2 (2-0)  Aucas
+  19.30  Técnico Universitario    0-5 (0-1)  LDU Quito
+         Independiente del Valle  1-1 (1-1)  Barcelona
+[Sun Sep/27]
+  15.30  Delfín SC                0-0  Universidad Catolica
+  18.00  Emelec                   2-0 (2-0)  Deportivo Cuenca
+[Mon Sep/28]
+  18.15  Liga de Portoviejo       2-2 (2-1)  Macará
+
+
+Matchday 15
+[Fri Oct/2]
+         Deportivo Cuenca         0-3  Olmedo                   [awarded]
+  19.00  Aucas                    4-1 (1-0)  Liga de Portoviejo
+[Sat Oct/3]
+  15.30  LDU Quito                2-0 (2-0)  Mushuc Runa
+         Orense SC                1-3 (1-2)  Independiente del Valle
+  18.30  Barcelona                0-0  El Nacional
+[Sun Oct/4]
+  13.15  Macará                   5-1 (3-0)  Delfín SC
+  15.30  Guayaquil City           1-0 (0-0)  Técnico Universitario
+  18.00  Universidad Catolica     4-1 (3-0)  Emelec
+
+
+== Segunda Etapa
+
+Matchday 1
+[Wed Oct/14]
+  11.15  Mushuc Runa              3-2 (2-2)  Independiente del Valle
+  13.30  Delfín SC                2-2 (0-1)  Aucas
+  16.00  LDU Quito                5-0 (4-0)  Deportivo Cuenca
+  18.30  Técnico Universitario    0-2 (0-1)  Barcelona
+  21.00  Emelec                   1-0 (0-0)  Orense SC
+[Thu Oct/15]
+  14.15  Olmedo                   1-2 (1-1)  Guayaquil City
+  16.30  Liga de Portoviejo       3-0 (1-0)  El Nacional
+  19.00  Universidad Catolica     2-1 (1-0)  Macará
+
+
+Matchday 2
+[Sat Oct/17]
+  14.30  Aucas                    2-1 (1-0)  Técnico Universitario
+  17.00  Independiente del Valle  3-2 (0-1)  LDU Quito
+  19.30  Barcelona                1-0 (1-0)  Delfín SC
+[Sun Oct/18]
+  13.00  El Nacional              2-1 (1-0)  Mushuc Runa
+  15.30  Orense SC                1-1 (1-0)  Universidad Catolica
+  18.00  Macará                   1-0 (1-0)  Olmedo
+[Mon Oct/19]
+  15.30  Guayaquil City           1-0 (0-0)  Emelec
+  18.00  Deportivo Cuenca         2-1 (0-1)  Liga de Portoviejo
+
+
+Matchday 3
+[Fri Oct/23]
+  15.30  Mushuc Runa              1-4 (0-2)  Aucas
+  19.00  Universidad Catolica     0-1 (0-0)  Deportivo Cuenca
+[Sat Oct/24]
+  15.30  Emelec                   0-0  Macará
+  18.00  Técnico Universitario    1-1 (0-0)  Delfín SC
+  21.30  LDU Quito                1-0 (0-0)  El Nacional
+[Sun Oct/25]
+  15.30  Olmedo                   2-1 (1-1)  Independiente del Valle
+  18.00  Liga de Portoviejo       0-2 (0-2)  Barcelona
+[Mon Oct/26]
+  17.30  Guayaquil City           1-1 (0-1)  Orense SC
+
+
+Matchday 4
+[Fri Oct/30]
+  19.00  Deportivo Cuenca         0-0  El Nacional
+[Sat Oct/31]
+  13.15  Mushuc Runa              0-1 (0-1)  Técnico Universitario
+  15.30  Delfín SC                4-2 (2-1)  Liga de Portoviejo
+  18.00  Universidad Catolica     3-1 (1-0)  Independiente del Valle
+[Sun Nov/1]
+  13.00  Orense SC                2-1 (0-0)  Olmedo
+  15.15  Aucas                    1-1 (0-1)  Emelec
+  18.00  Barcelona                2-2 (1-0)  LDU Quito
+[Mon Nov/2]
+  18.30  Macará                   1-1 (0-0)  Guayaquil City
+
+
+Matchday 5
+[Thu Nov/5]
+  16.30  Macará                   0-3 (0-1)  Mushuc Runa
+  19.00  Independiente del Valle  2-1 (1-0)  Deportivo Cuenca
+[Fri Nov/6]
+  14.00  El Nacional              1-3 (0-0)  Delfín SC
+  16.30  LDU Quito                4-0 (1-0)  Orense SC
+  19.00  Olmedo                   1-0 (1-0)  Barcelona
+[Sat Nov/7]
+  16.30  Liga de Portoviejo       0-2 (0-0)  Técnico Universitario
+  19.00  Guayaquil City           4-2 (2-1)  Aucas
+[Sun Nov/8]
+  18.00  Emelec                   2-0 (2-0)  Universidad Catolica
+
+
+Matchday 6
+[Tue Nov/10]
+  12.15  Orense SC                1-1 (0-0)  Deportivo Cuenca
+  14.30  Técnico Universitario    1-0 (1-0)  El Nacional
+  16.45  Delfín SC                1-2 (1-1)  Macará
+  19.00  Barcelona                2-0 (1-0)  Independiente del Valle
+[Wed Nov/11]
+  12.15  Aucas                    3-3 (2-1)  Olmedo
+  14.30  Mushuc Runa              1-2 (0-0)  LDU Quito
+  16.45  Universidad Catolica     2-1 (1-1)  Guayaquil City
+  19.00  Liga de Portoviejo       0-6 (0-3)  Emelec
+
+
+Matchday 7
+[Fri Nov/13]
+  19.00  Deportivo Cuenca         2-1 (0-0)  Delfín SC
+[Sat Nov/14]
+  13.00  Guayaquil City           3-2 (2-1)  Mushuc Runa
+  18.15  Macará                   0-1 (0-1)  Orense SC
+  20.30  LDU Quito                4-1 (2-1)  Aucas
+[Sun Nov/15]
+  12.15  Olmedo                   2-1 (2-1)  Universidad Catolica
+  14.30  Independiente del Valle  2-3 (0-1)  Liga de Portoviejo
+  16.45  Emelec                   1-1 (1-1)  Técnico Universitario
+  19.00  El Nacional              1-1 (1-0)  Barcelona
+
+
+Matchday 8
+[Wed Nov/18]
+  12.15  Aucas                    3-3 (1-1)  Independiente del Valle
+  14.30  Delfín SC                1-1 (0-0)  Guayaquil City
+  16.45  Técnico Universitario    0-1 (0-0)  Macará
+  19.00  LDU Quito                1-2 (1-0)  Emelec
+[Thu Nov/19]
+  12.15  Mushuc Runa              1-1 (1-0)  Olmedo
+  14.30  El Nacional              0-2 (0-2)  Universidad Catolica
+  16.45  Liga de Portoviejo       1-2 (0-0)  Orense SC
+  19.00  Barcelona                2-0 (2-0)  Deportivo Cuenca
+
+
+Matchday 9
+[Sat Nov/21]
+  17.30  Independiente del Valle  1-0 (0-0)  Técnico Universitario
+  20.00  Guayaquil City           1-1 (1-1)  LDU Quito
+[Sun Nov/22]
+  13.15  Olmedo                   1-2 (0-0)  El Nacional
+  15.30  Deportivo Cuenca         3-3 (2-0)  Aucas
+  18.00  Emelec                   3-2 (1-2)  Delfín SC
+[Mon Nov/23]
+  13.00  Universidad Catolica     1-1 (1-1)  Mushuc Runa
+  15.30  Orense SC                0-0  Barcelona
+  18.00  Macará                   1-0 (0-0)  Liga de Portoviejo
+
+
+Matchday 10
+[Fri Nov/27]
+  16.30  LDU Quito                3-0 (3-0)  Olmedo
+  19.00  Mushuc Runa              2-3 (0-2)  Emelec
+[Sat Nov/28]
+  15.30  Técnico Universitario    1-1 (0-1)  Deportivo Cuenca
+  18.00  Delfín SC                1-0 (0-0)  Independiente del Valle
+  20.30  El Nacional              0-3  Guayaquil City           [awarded]
+[Sun Nov/29]
+  13.00  Aucas                    4-1 (1-1)  Orense SC
+  15.30  Liga de Portoviejo       2-1 (0-0)  Universidad Catolica
+  18.00  Barcelona                3-0 (0-0)  Macará
+
+
+Matchday 11
+[Fri Dec/4]
+  16.30  Olmedo                   0-0  Técnico Universitario
+  19.00  Deportivo Cuenca         1-0 (0-0)  Mushuc Runa
+[Sat Dec/5]
+  15.15  Orense SC                1-1 (0-0)  Delfín SC
+  17.30  Macará                   2-1 (2-1)  Aucas
+  20.00  Universidad Catolica     2-0 (1-0)  LDU Quito
+[Sun Dec/6]
+  13.45  Independiente del Valle  2-0 (2-0)  El Nacional
+  16.00  Guayaquil City           3-1 (1-0)  Liga de Portoviejo
+  19.00  Emelec                   1-1 (1-1)  Barcelona
+
+
+Matchday 12
+[Tue Dec/8]
+  13.15  Mushuc Runa              0-0  Orense SC
+  15.30  Deportivo Cuenca         2-1 (2-1)  Macará
+  17.45  Técnico Universitario    1-0 (0-0)  Universidad Catolica
+  20.00  Delfín SC                3-1 (1-1)  Olmedo
+[Wed Dec/9]
+  12.30  El Nacional              2-2 (0-1)  Aucas
+  15.00  LDU Quito                1-1 (0-1)  Liga de Portoviejo
+  17.30  Independiente del Valle  3-0 (2-0)  Emelec
+  20.00  Barcelona                2-0 (0-0)  Guayaquil City
+
+
+Matchday 13
+[Fri Dec/11]
+  16.30  Olmedo                   1-1 (0-1)  Deportivo Cuenca
+  19.00  Universidad Catolica     0-0  Delfín SC
+[Sat Dec/12]
+  15.30  Orense SC                1-0 (1-0)  Técnico Universitario
+  18.00  Liga de Portoviejo       0-0  Mushuc Runa
+  20.30  Emelec                   3-0 (0-0)  El Nacional
+[Sun Dec/13]
+  14.00  Macará                   3-4 (2-3)  LDU Quito
+  16.30  Guayaquil City           0-2 (0-0)  Independiente del Valle
+  19.00  Aucas                    2-1 (1-0)  Barcelona
+
+
+Matchday 14
+[Wed Dec/16]
+  19.00  Deportivo Cuenca         2-1 (1-0)  Emelec
+         Técnico Universitario    0-0  Guayaquil City
+         Delfín SC                2-0 (0-0)  LDU Quito
+         Barcelona                3-0 (0-0)  Mushuc Runa
+[Thu Dec/17]
+  19.00  Aucas                    1-1 (1-0)  Universidad Catolica
+         El Nacional              2-1 (2-1)  Macará
+         Olmedo                   1-3 (1-1)  Liga de Portoviejo
+         Independiente del Valle  4-0 (1-0)  Orense SC
+
+
+Matchday 15
+[Sat Dec/19]
+  15.30  Guayaquil City           2-1 (1-0)  Deportivo Cuenca
+         Mushuc Runa              2-0 (0-0)  Delfín SC
+[Sun Dec/20]
+  15.30  Orense SC                1-0 (0-0)  El Nacional
+         Liga de Portoviejo       3-2 (1-1)  Aucas
+  19.00  Universidad Catolica     0-0  Barcelona
+         Macará                   1-0 (1-0)  Independiente del Valle
+         LDU Quito                1-2 (1-2)  Técnico Universitario
+         Emelec                   4-1 (4-1)  Olmedo
+
+
+== Tercera Etapa
+
+Final
+[Wed Dec/23]
+  20.15  Barcelona                1-1 (0-1)  LDU Quito
+[Tue Dec/29]
+  20.15  LDU Quito                1-3 pen. (0-0)  Barcelona

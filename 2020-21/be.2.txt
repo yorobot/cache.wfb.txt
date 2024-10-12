@@ -1,0 +1,315 @@
+= BE 2 2020/21
+
+# Date       Fri Aug/21 2020 - Sun Apr/25 2021 (247d)
+# Teams      8
+# Matches    112
+
+
+
+Matchday 1
+[Fri Aug/21]
+  19.00  SK Deinze                0-2 (0-1)  Union Saint-Gilloise
+[Sat Aug/22]
+  20.45  RWDM Brussels FC         2-0 (0-0)  Club NXT
+[Sun Aug/23]
+  16.00  KVC Westerlo             0-0  Lierse Kempenzonen
+[Mon Aug/24]
+  20.00  Lommel SK                3-5 (2-1)  RFC Seraing
+
+
+Matchday 2
+[Fri Aug/28]
+  20.00  RFC Seraing              3-2 (0-2)  SK Deinze
+[Sat Aug/29]
+  20.45  Lierse Kempenzonen       4-2 (2-1)  RWDM Brussels FC
+[Sun Aug/30]
+  16.00  Union Saint-Gilloise     0-0  KVC Westerlo
+  20.00  Club NXT                 2-2 (0-1)  Lommel SK
+
+
+Matchday 3
+[Fri Sep/11]
+  20.00  Lommel SK                3-2 (2-2)  Lierse Kempenzonen
+[Sat Sep/12]
+  20.45  SK Deinze                1-0 (1-0)  RWDM Brussels FC
+[Sun Sep/13]
+  20.00  RFC Seraing              0-2 (0-0)  KVC Westerlo
+  16.00  Club NXT                 1-1 (1-1)  Union Saint-Gilloise
+
+
+Matchday 4
+[Fri Sep/18]
+  20.00  RWDM Brussels FC         0-1 (0-0)  Lommel SK
+[Sat Sep/19]
+  20.45  Union Saint-Gilloise     3-2 (2-1)  RFC Seraing
+[Sun Sep/20]
+  16.00  Lierse Kempenzonen       2-1 (1-1)  Club NXT
+
+
+Matchday 5
+[Sat Sep/26]
+  20.45  RWDM Brussels FC         3-1 (0-0)  Union Saint-Gilloise
+[Sun Sep/27]
+  16.00  Lommel SK                1-2 (0-1)  SK Deinze
+[Tue Sep/29]
+  21.00  Lierse Kempenzonen       2-5 (0-2)  RFC Seraing
+
+
+Matchday 6
+[Fri Oct/2]
+  20.00  RFC Seraing              6-1 (3-0)  Club NXT
+[Sun Oct/4]
+  20.00  SK Deinze                2-1 (2-1)  Lierse Kempenzonen
+  16.00  Union Saint-Gilloise     4-2 (1-2)  Lommel SK
+
+
+Matchday 7
+[Fri Oct/16]
+  20.00  Club NXT                 1-1 (0-0)  SK Deinze
+[Sat Oct/17]
+  20.45  Lommel SK                1-1 (1-1)  KVC Westerlo
+[Sun Oct/18]
+  16.00  RWDM Brussels FC         3-4 (2-3)  RFC Seraing
+  20.00  Lierse Kempenzonen       0-2 (0-2)  Union Saint-Gilloise
+
+
+Matchday 8
+[Fri Oct/23]
+  20.00  SK Deinze                2-2 (1-0)  KVC Westerlo
+[Sun Oct/25]
+  20.00  RFC Seraing              1-0 (1-0)  Lommel SK
+  16.00  Union Saint-Gilloise     6-0 (2-0)  Club NXT
+
+
+Matchday 9
+[Fri Oct/30]
+  20.00  Lierse Kempenzonen       1-3 (1-1)  Lommel SK
+[Sat Oct/31]
+  20.45  KVC Westerlo             1-4 (1-4)  Union Saint-Gilloise
+[Sun Nov/1]
+  16.00  Club NXT                 0-2 (0-0)  RWDM Brussels FC
+
+
+Matchday 10
+[Fri Nov/6]
+  20.00  RWDM Brussels FC         3-1 (1-1)  KVC Westerlo
+[Sat Nov/7]
+  20.45  RFC Seraing              1-3 (1-1)  Lierse Kempenzonen
+[Sun Nov/8]
+  20.00  Lommel SK                3-1 (1-1)  Club NXT
+  16.00  Union Saint-Gilloise     3-0 (1-0)  SK Deinze
+
+
+Matchday 6
+[Mon Nov/9]
+  20.00  KVC Westerlo             3-0 (1-0)  RWDM Brussels FC
+
+
+Matchday 8
+[Sat Nov/14]
+  16.00  RWDM Brussels FC         2-0 (0-0)  Lierse Kempenzonen
+
+
+Matchday 5
+[Sat Nov/14]
+  19.45  Club NXT                 1-1 (1-1)  KVC Westerlo
+
+
+Matchday 9
+[Sun Nov/15]
+  16.00  SK Deinze                3-0 (3-0)  RFC Seraing
+
+
+Matchday 4
+[Wed Nov/18]
+  18.30  KVC Westerlo             3-0 (2-0)  SK Deinze
+
+
+Matchday 11
+[Fri Nov/20]
+  20.00  Club NXT                 2-0 (1-0)  Lierse Kempenzonen
+[Sat Nov/21]
+  20.45  SK Deinze                1-1 (0-1)  Lommel SK
+[Sun Nov/22]
+  20.00  KVC Westerlo             1-1 (0-0)  RFC Seraing
+  16.00  Union Saint-Gilloise     2-1 (0-0)  RWDM Brussels FC
+
+
+Matchday 12
+[Fri Nov/27]
+  20.00  SK Deinze                1-0 (0-0)  Club NXT
+[Sat Nov/28]
+  20.45  Lierse Kempenzonen       0-1 (0-1)  KVC Westerlo
+[Sun Nov/29]
+  20.00  RFC Seraing              1-0 (1-0)  Union Saint-Gilloise
+  16.00  Lommel SK                4-0 (1-0)  RWDM Brussels FC
+
+
+Matchday 13
+[Fri Dec/4]
+  20.00  Club NXT                 0-4 (0-3)  RFC Seraing
+[Sat Dec/5]
+  20.45  Union Saint-Gilloise     5-0 (2-0)  Lierse Kempenzonen
+[Sun Dec/6]
+  20.00  RWDM Brussels FC         1-1 (1-0)  SK Deinze
+  16.00  KVC Westerlo             2-1 (1-0)  Lommel SK
+
+
+Matchday 14
+[Fri Dec/11]
+  20.00  KVC Westerlo             2-1 (1-1)  Club NXT
+[Sat Dec/12]
+  20.45  Lierse Kempenzonen       3-4 (2-1)  SK Deinze
+[Sun Dec/13]
+  20.00  Lommel SK                0-1 (0-0)  Union Saint-Gilloise
+  16.00  RFC Seraing              0-1 (0-1)  RWDM Brussels FC
+
+
+Matchday 15
+[Fri Dec/18]
+  20.00  Club NXT                 0-2 (0-1)  Lommel SK
+[Sat Dec/19]
+  20.45  RWDM Brussels FC         1-0 (0-0)  Lierse Kempenzonen
+[Sun Dec/20]
+  20.00  SK Deinze                0-0  RFC Seraing
+  16.00  Union Saint-Gilloise     2-1 (1-1)  KVC Westerlo
+
+
+Matchday 16
+[Fri Jan/22]
+  20.00  Lierse Kempenzonen       3-1 (2-0)  Club NXT
+[Sat Jan/23]
+  20.45  SK Deinze                2-4 (1-2)  Union Saint-Gilloise
+[Sun Jan/24]
+  16.00  KVC Westerlo             4-3 (1-2)  RFC Seraing
+  20.00  Lommel SK                3-2 (0-2)  RWDM Brussels FC
+
+
+Matchday 17
+[Fri Jan/29]
+  20.00  Lommel SK                4-2 (2-1)  SK Deinze
+[Sat Jan/30]
+  20.45  RWDM Brussels FC         0-2 (0-1)  Union Saint-Gilloise
+[Sun Jan/31]
+  20.00  KVC Westerlo             2-0 (2-0)  Lierse Kempenzonen
+  16.00  RFC Seraing              2-1 (1-0)  Club NXT
+
+
+Matchday 18
+[Fri Feb/5]
+  20.00  Union Saint-Gilloise     2-1 (2-0)  Lierse Kempenzonen
+[Sat Feb/6]
+         RFC Seraing              5-0  Lommel SK                [awarded]
+
+
+Matchday 19
+[Sun Feb/14]
+  20.00  Lierse Kempenzonen       1-1 (1-0)  SK Deinze
+  16.00  Union Saint-Gilloise     3-1 (1-1)  Club NXT
+[Mon Feb/15]
+  20.00  KVC Westerlo             1-1 (0-0)  Lommel SK
+
+
+Matchday 20
+[Fri Feb/19]
+  20.00  RFC Seraing              0-2 (0-2)  Union Saint-Gilloise
+[Sat Feb/20]
+  20.45  RWDM Brussels FC         2-1 (0-1)  KVC Westerlo
+[Sun Feb/21]
+  16.00  SK Deinze                4-0 (2-0)  Club NXT
+  20.00  Lommel SK                2-1 (1-1)  Lierse Kempenzonen
+
+
+Matchday 21
+[Fri Feb/26]
+  20.00  Club NXT                 1-3 (1-0)  RWDM Brussels FC
+[Sat Feb/27]
+  20.45  Union Saint-Gilloise     3-2 (0-1)  Lommel SK
+[Sun Feb/28]
+  20.00  KVC Westerlo             4-0 (2-0)  SK Deinze
+  16.00  Lierse Kempenzonen       0-1 (0-1)  RFC Seraing
+
+
+Matchday 18
+[Wed Mar/3]
+  18.30  Club NXT                 1-1 (1-1)  KVC Westerlo
+
+
+Matchday 19
+[Wed Mar/3]
+  18.30  RWDM Brussels FC         2-4 (1-2)  RFC Seraing
+
+
+Matchday 22
+[Fri Mar/5]
+  20.00  Lierse Kempenzonen       1-3 (1-1)  Union Saint-Gilloise
+[Sat Mar/6]
+  20.45  RWDM Brussels FC         1-1 (0-1)  SK Deinze
+[Sun Mar/7]
+  16.00  RFC Seraing              1-1 (0-1)  KVC Westerlo
+  20.00  Lommel SK                2-1 (0-0)  Club NXT
+
+
+Matchday 23
+[Fri Mar/12]
+  20.00  SK Deinze                3-0 (2-0)  Lierse Kempenzonen
+[Sat Mar/13]
+  20.45  Union Saint-Gilloise     2-1 (2-1)  RWDM Brussels FC
+[Sun Mar/14]
+  16.00  Lommel SK                1-0 (0-0)  KVC Westerlo
+  20.00  Club NXT                 0-1 (0-0)  RFC Seraing
+
+
+Matchday 18
+[Thu Mar/18]
+  17.00  SK Deinze                4-4 (1-1)  RWDM Brussels FC
+
+
+Matchday 24
+[Fri Mar/19]
+  20.00  KVC Westerlo             2-2 (1-0)  Union Saint-Gilloise
+[Sat Mar/20]
+  20.45  Lierse Kempenzonen       0-1 (0-0)  Lommel SK
+[Sun Mar/21]
+  20.00  Club NXT                 2-4 (1-2)  SK Deinze
+  16.00  RFC Seraing              1-0 (0-0)  RWDM Brussels FC
+
+
+Matchday 25
+[Fri Apr/2]
+  20.00  RWDM Brussels FC         1-1 (1-1)  Club NXT
+[Sat Apr/3]
+  20.45  Union Saint-Gilloise     2-0 (0-0)  RFC Seraing
+[Sun Apr/4]
+  20.00  Lierse Kempenzonen       0-0  KVC Westerlo
+[Mon Apr/5]
+  20.00  SK Deinze                2-1 (0-1)  Lommel SK
+
+
+Matchday 26
+[Fri Apr/9]
+  20.00  KVC Westerlo             2-2 (0-1)  RWDM Brussels FC
+[Sat Apr/10]
+  20.45  RFC Seraing              1-0 (1-0)  SK Deinze
+[Sun Apr/11]
+  20.00  Lommel SK                0-2 (0-0)  Union Saint-Gilloise
+  16.00  Club NXT                 2-0 (1-0)  Lierse Kempenzonen
+
+
+Matchday 27
+[Fri Apr/16]
+  20.00  Club NXT                 0-4 (0-3)  Union Saint-Gilloise
+[Sat Apr/17]
+  16.00  RFC Seraing              0-0  Lierse Kempenzonen
+  20.00  RWDM Brussels FC         2-5 (1-2)  Lommel SK
+[Mon Apr/19]
+  20.00  SK Deinze                0-1 (0-0)  KVC Westerlo
+
+
+Matchday 28
+[Sat Apr/24]
+  20.00  KVC Westerlo             1-1 (1-0)  Club NXT
+         Lommel SK                1-3 (0-0)  RFC Seraing
+[Sun Apr/25]
+  18.00  Lierse Kempenzonen       0-3 (0-1)  RWDM Brussels FC
+         Union Saint-Gilloise     2-2 (2-0)  SK Deinze

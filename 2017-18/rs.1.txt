@@ -1,0 +1,531 @@
+= RS 1 2017/18
+
+# Date       Fri Jul/21 2017 - Sat May/19 2018 (302d)
+# Teams      16
+# Matches    296
+# Stages     Regular Season (240)  Relegation (28)  Championship (28)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Jul/21]
+  20.00  Vojvodina                1-0 (0-0)  FK Čukarički
+[Sat Jul/22]
+  19.00  Partizan                 6-1 (4-0)  Mačva Šabac
+  20.00  FK Voždovac              0-0  Radnik Surdulica
+         FK Javor                 1-0 (1-0)  Borac Čačak
+         Mladost Lučani           1-1 (1-1)  FK Zemun
+         FK Napredak              2-2 (1-0)  FK Rad Beograd
+         Spartak Subotica         2-1 (1-0)  OFK Bačka
+[Sun Jul/23]
+  19.00  Crvena Zvezda            3-0 (1-0)  Radnički Niš
+
+
+Matchday 2
+[Sat Jul/29]
+  17.00  Mačva Šabac              1-0 (1-0)  FK Zemun
+  18.00  OFK Bačka                0-3 (0-0)  FK Voždovac
+  19.00  Partizan                 2-1 (1-0)  FK Javor
+  20.00  Borac Čačak              0-4 (0-2)  Spartak Subotica
+         FK Čukarički             2-0 (0-0)  FK Napredak
+         Radnik Surdulica         0-4 (0-2)  Vojvodina
+[Sun Jul/30]
+  19.00  FK Rad Beograd           0-2 (0-1)  Crvena Zvezda
+[Wed Aug/23]
+  18.00  Radnički Niš             2-1 (1-0)  Mladost Lučani
+
+
+Matchday 3
+[Fri Aug/4]
+  20.00  FK Napredak              1-2 (1-1)  Radnik Surdulica
+[Sat Aug/5]
+  18.00  FK Zemun                 1-2 (1-2)  Radnički Niš
+  20.00  FK Voždovac              2-1 (0-1)  Borac Čačak
+         FK Javor                 0-4 (0-0)  Mačva Šabac
+         Mladost Lučani           2-1 (2-1)  FK Rad Beograd
+         Vojvodina                1-0 (0-0)  OFK Bačka
+[Sun Aug/6]
+  19.00  Spartak Subotica         0-1 (0-1)  Partizan
+  20.00  Crvena Zvezda            3-0 (1-0)  FK Čukarički
+
+
+Matchday 4
+[Wed Aug/9]
+  18.00  OFK Bačka                1-4 (1-2)  FK Napredak
+         Mačva Šabac              1-2 (0-1)  Radnički Niš
+  20.00  Borac Čačak              0-2 (0-1)  Vojvodina
+         FK Čukarički             1-0 (1-0)  Mladost Lučani
+         Partizan                 1-3 (1-2)  FK Voždovac
+         FK Rad Beograd           2-0 (0-0)  FK Zemun
+[Thu Aug/10]
+  20.00  FK Javor                 1-1 (0-0)  Spartak Subotica
+         Radnik Surdulica         0-5 (0-1)  Crvena Zvezda
+
+
+Matchday 5
+[Sun Aug/13]
+  17.00  Crvena Zvezda            3-1 (1-0)  OFK Bačka
+  17.30  FK Zemun                 2-0 (1-0)  FK Čukarički
+  19.00  Vojvodina                0-1 (0-0)  Partizan
+  20.00  FK Napredak              3-1 (1-0)  Borac Čačak
+         Radnički Niš             2-0 (1-0)  FK Rad Beograd
+[Mon Aug/14]
+  20.00  FK Voždovac              1-0 (0-0)  FK Javor
+         Mladost Lučani           0-0  Radnik Surdulica
+         Spartak Subotica         3-2 (1-1)  Mačva Šabac
+
+
+Matchday 6
+[Sat Aug/19]
+  17.00  OFK Bačka                1-0 (0-0)  Mladost Lučani
+         Mačva Šabac              1-2 (1-2)  FK Rad Beograd
+  19.00  Spartak Subotica         0-0  FK Voždovac
+  20.00  FK Čukarički             0-0  Radnički Niš
+         FK Javor                 0-1 (0-0)  Vojvodina
+[Sun Aug/20]
+  20.00  Radnik Surdulica         0-1 (0-1)  FK Zemun
+[Wed Sep/20]
+  17.00  Borac Čačak              0-2 (0-1)  Crvena Zvezda
+  19.00  Partizan                 1-1 (0-1)  FK Napredak
+
+
+Matchday 7
+[Fri Aug/25]
+  20.00  FK Rad Beograd           0-1 (0-0)  FK Čukarički
+[Sat Aug/26]
+  17.00  FK Zemun                 1-1 (1-0)  OFK Bačka
+  20.00  FK Voždovac              0-2 (0-1)  Mačva Šabac
+         Mladost Lučani           4-1 (1-0)  Borac Čačak
+         FK Napredak              2-1 (1-1)  FK Javor
+         Radnički Niš             2-2 (1-1)  Radnik Surdulica
+         Vojvodina                0-5 (0-1)  Spartak Subotica
+[Sun Aug/27]
+  19.00  Crvena Zvezda            0-0  Partizan
+
+
+Matchday 8
+[Fri Sep/8]
+  16.00  Mačva Šabac              0-2 (0-1)  FK Čukarički
+[Sat Sep/9]
+  16.00  OFK Bačka                1-1 (0-0)  Radnički Niš
+  19.00  Borac Čačak              0-0  FK Zemun
+         FK Javor                 0-2 (0-2)  Crvena Zvezda
+         Radnik Surdulica         3-1 (1-0)  FK Rad Beograd
+         Spartak Subotica         2-1 (2-1)  FK Napredak
+  21.00  Partizan                 3-0 (0-0)  Mladost Lučani
+[Sun Sep/10]
+  19.00  FK Voždovac              1-1 (1-0)  Vojvodina
+
+
+Matchday 9
+[Wed Sep/13]
+  18.00  FK Čukarički             1-2 (0-2)  Radnik Surdulica
+         FK Napredak              1-2 (0-1)  FK Voždovac
+         Radnički Niš             1-0 (1-0)  Borac Čačak
+  19.00  Mladost Lučani           3-0 (1-0)  FK Javor
+         FK Rad Beograd           0-0  OFK Bačka
+         Vojvodina                1-0 (0-0)  Mačva Šabac
+[Wed Oct/25]
+  15.00  FK Zemun                 1-3 (1-1)  Partizan
+  18.00  Crvena Zvezda            1-0 (1-0)  Spartak Subotica
+
+
+Matchday 10
+[Sat Sep/16]
+  19.00  Vojvodina                3-1 (0-0)  FK Napredak
+[Sun Sep/17]
+  16.00  OFK Bačka                2-3 (0-2)  FK Čukarički
+         Mačva Šabac              4-0 (2-0)  Radnik Surdulica
+  17.00  FK Voždovac              0-2 (0-1)  Crvena Zvezda
+         Spartak Subotica         3-3 (2-1)  Mladost Lučani
+  19.00  Borac Čačak              3-1 (0-0)  FK Rad Beograd
+         FK Javor                 0-1 (0-0)  FK Zemun
+         Partizan                 3-1 (2-0)  Radnički Niš
+
+
+Matchday 11
+[Sun Sep/24]
+  15.00  FK Zemun                 1-1 (1-1)  Spartak Subotica
+  17.00  Crvena Zvezda            2-0 (1-0)  Vojvodina
+  19.00  FK Čukarički             2-0 (0-0)  Borac Čačak
+         Mladost Lučani           1-3 (0-1)  FK Voždovac
+         FK Napredak              3-1 (1-1)  Mačva Šabac
+         FK Rad Beograd           2-4 (0-2)  Partizan
+         Radnički Niš             1-0 (1-0)  FK Javor
+         Radnik Surdulica         3-1 (2-1)  OFK Bačka
+
+
+Matchday 12
+[Fri Sep/29]
+  17.00  Vojvodina                2-0 (0-0)  Mladost Lučani
+[Sat Sep/30]
+  15.00  Mačva Šabac              1-1 (1-1)  OFK Bačka
+  17.00  Borac Čačak              3-1 (2-0)  Radnik Surdulica
+         FK Voždovac              6-1 (4-0)  FK Zemun
+         FK Javor                 3-2 (1-2)  FK Rad Beograd
+         Spartak Subotica         4-2 (2-1)  Radnički Niš
+[Sun Oct/1]
+  17.00  FK Napredak              1-0 (0-0)  Crvena Zvezda
+  19.00  Partizan                 0-0  FK Čukarički
+
+
+Matchday 13
+[Sat Oct/14]
+  15.00  FK Zemun                 0-0  Vojvodina
+  16.00  Crvena Zvezda            4-0 (2-0)  Mačva Šabac
+         Radnički Niš             1-1 (0-0)  FK Voždovac
+  17.00  FK Čukarički             0-0  FK Javor
+         FK Rad Beograd           0-2 (0-1)  Spartak Subotica
+[Sun Oct/15]
+  15.00  OFK Bačka                1-0 (0-0)  Borac Čačak
+         Radnik Surdulica         0-2 (0-1)  Partizan
+  17.00  Mladost Lučani           2-1 (1-0)  FK Napredak
+
+
+Matchday 14
+[Fri Oct/20]
+  18.00  Vojvodina                1-1 (0-0)  Radnički Niš
+[Sat Oct/21]
+  15.00  Mačva Šabac              1-0 (1-0)  Borac Čačak
+         Spartak Subotica         0-0  FK Čukarički
+  17.00  FK Voždovac              3-0 (1-0)  FK Rad Beograd
+         FK Javor                 1-0 (0-0)  Radnik Surdulica
+         FK Napredak              2-1 (0-1)  FK Zemun
+[Sun Oct/22]
+  15.00  Partizan                 3-1 (2-1)  OFK Bačka
+  19.00  Crvena Zvezda            2-1 (2-0)  Mladost Lučani
+
+
+Matchday 15
+[Sat Oct/28]
+  19.00  FK Rad Beograd           0-3 (0-1)  Vojvodina
+[Sun Oct/29]
+  13.00  OFK Bačka                2-1 (2-1)  FK Javor
+         FK Zemun                 0-1 (0-0)  Crvena Zvezda
+  17.00  Borac Čačak              1-2 (0-0)  Partizan
+         FK Čukarički             2-1 (0-1)  FK Voždovac
+         Mladost Lučani           2-0 (1-0)  Mačva Šabac
+         Radnički Niš             1-3 (0-1)  FK Napredak
+         Radnik Surdulica         5-1 (4-1)  Spartak Subotica
+
+
+Matchday 16
+[Fri Nov/3]
+  17.00  FK Čukarički             2-1 (1-0)  Vojvodina
+[Sat Nov/4]
+  13.00  OFK Bačka                0-2 (0-1)  Spartak Subotica
+         Borac Čačak              2-1 (2-1)  FK Javor
+  17.00  Radnik Surdulica         1-0 (1-0)  FK Voždovac
+  19.00  FK Rad Beograd           1-0 (0-0)  FK Napredak
+[Sun Nov/5]
+  13.00  Mačva Šabac              1-3 (1-0)  Partizan
+         FK Zemun                 0-0  Mladost Lučani
+  17.00  Radnički Niš             0-4 (0-3)  Crvena Zvezda
+
+
+Matchday 17
+[Fri Nov/17]
+  17.00  Mladost Lučani           2-2 (1-2)  Radnički Niš
+[Sat Nov/18]
+  16.00  Crvena Zvezda            6-1 (3-1)  FK Rad Beograd
+  17.00  FK Voždovac              2-0 (1-0)  OFK Bačka
+         FK Napredak              1-2 (1-2)  FK Čukarički
+         Vojvodina                0-0  Radnik Surdulica
+[Sun Nov/19]
+  13.00  FK Javor                 0-2 (0-2)  Partizan
+         FK Zemun                 1-0 (1-0)  Mačva Šabac
+  17.00  Spartak Subotica         3-1 (1-1)  Borac Čačak
+
+
+Matchday 18
+[Fri Nov/24]
+  17.00  Borac Čačak              0-0  FK Voždovac
+[Sat Nov/25]
+  13.00  OFK Bačka                1-0 (0-0)  Vojvodina
+         Mačva Šabac              1-1 (0-0)  FK Javor
+  15.00  FK Rad Beograd           1-0 (1-0)  Mladost Lučani
+         Radnik Surdulica         2-3 (0-1)  FK Napredak
+  17.00  Radnički Niš             4-1 (2-1)  FK Zemun
+[Sun Nov/26]
+  15.00  FK Čukarički             1-2 (1-0)  Crvena Zvezda
+  17.00  Partizan                 1-1 (0-0)  Spartak Subotica
+
+
+Matchday 19
+[Wed Nov/29]
+  13.00  FK Zemun                 2-0 (2-0)  FK Rad Beograd
+  16.00  FK Voždovac              0-1 (0-1)  Partizan
+  17.00  Mladost Lučani           1-1 (1-1)  FK Čukarički
+         FK Napredak              1-1 (0-1)  OFK Bačka
+         Radnički Niš             3-0 (1-0)  Mačva Šabac
+         Spartak Subotica         4-0 (0-0)  FK Javor
+         Vojvodina                0-1 (0-1)  Borac Čačak
+  18.00  Crvena Zvezda            5-0 (2-0)  Radnik Surdulica
+
+
+Matchday 20
+[Sat Dec/2]
+  13.00  OFK Bačka                2-2 (1-0)  Crvena Zvezda
+[Sun Dec/3]
+  13.00  FK Javor                 0-3 (0-1)  FK Voždovac
+         Mačva Šabac              1-0 (0-0)  Spartak Subotica
+  16.00  Partizan                 1-1 (0-0)  Vojvodina
+  17.00  Radnik Surdulica         3-4 (0-2)  Mladost Lučani
+[Mon Dec/4]
+  13.00  Borac Čačak              3-3 (0-2)  FK Napredak
+  15.00  FK Rad Beograd           2-3 (0-0)  Radnički Niš
+  17.00  FK Čukarički             4-1 (1-1)  FK Zemun
+
+
+Matchday 21
+[Fri Dec/8]
+  17.00  FK Voždovac              2-3 (0-1)  Spartak Subotica
+[Sat Dec/9]
+  13.00  FK Rad Beograd           0-2 (0-0)  Mačva Šabac
+         Radnički Niš             1-0 (0-0)  FK Čukarički
+         Vojvodina                0-3 (0-1)  FK Javor
+         FK Zemun                 0-1 (0-0)  Radnik Surdulica
+  15.00  Mladost Lučani           1-0 (0-0)  OFK Bačka
+[Sun Dec/10]
+  14.00  FK Napredak              2-1 (1-0)  Partizan
+  16.30  Crvena Zvezda            3-0 (1-0)  Borac Čačak
+
+
+Matchday 22
+[Wed Dec/13]
+  13.00  OFK Bačka                1-0 (0-0)  FK Zemun
+  15.00  Borac Čačak              1-2 (1-1)  Mladost Lučani
+         FK Čukarički             3-0 (2-0)  FK Rad Beograd
+         FK Javor                 0-1 (0-0)  FK Napredak
+         Radnik Surdulica         0-2 (0-1)  Radnički Niš
+         Spartak Subotica         1-1 (1-1)  Vojvodina
+  17.00  Mačva Šabac              1-1 (1-1)  FK Voždovac
+  18.00  Partizan                 1-1 (0-0)  Crvena Zvezda
+
+
+Matchday 23
+[Fri Feb/16]
+  17.00  FK Napredak              4-3 (2-2)  Spartak Subotica
+[Sat Feb/17]
+  14.00  FK Zemun                 3-0 (2-0)  Borac Čačak
+  14.30  Crvena Zvezda            3-0 (2-0)  FK Javor
+  17.00  FK Čukarički             2-0 (1-0)  Mačva Šabac
+         FK Rad Beograd           1-1 (1-0)  Radnik Surdulica
+         Vojvodina                2-0 (0-0)  FK Voždovac
+[Sun Feb/18]
+  13.00  Radnički Niš             4-0 (2-0)  OFK Bačka
+  14.00  Mladost Lučani           1-2 (0-0)  Partizan
+
+
+Matchday 24
+[Fri Feb/23]
+  17.00  FK Voždovac              3-2 (2-1)  FK Napredak
+[Sat Feb/24]
+  14.00  OFK Bačka                2-1 (0-0)  FK Rad Beograd
+  15.00  Borac Čačak              1-1 (0-1)  Radnički Niš
+         FK Javor                 3-0 (2-0)  Mladost Lučani
+         Radnik Surdulica         0-0  FK Čukarički
+         Mačva Šabac              1-1 (0-0)  Vojvodina
+[Sun Feb/25]
+  13.00  Spartak Subotica         1-2 (1-2)  Crvena Zvezda
+  15.00  Partizan                 1-1 (0-0)  FK Zemun
+
+
+Matchday 25
+[Sat Mar/3]
+  14.00  FK Zemun                 0-2 (0-1)  FK Javor
+  14.30  Radnički Niš             1-0 (0-0)  Partizan
+  15.00  FK Čukarički             5-0 (3-0)  OFK Bačka
+         FK Napredak              1-0 (1-0)  Vojvodina
+         FK Rad Beograd           5-0 (3-0)  Borac Čačak
+         Radnik Surdulica         2-1 (1-1)  Mačva Šabac
+  16.30  Crvena Zvezda            2-1 (0-0)  FK Voždovac
+  17.00  Mladost Lučani           2-0 (1-0)  Spartak Subotica
+
+
+Matchday 26
+[Wed Mar/7]
+  15.00  OFK Bačka                4-2 (2-1)  Radnik Surdulica
+         Borac Čačak              2-2 (1-0)  FK Čukarički
+         FK Voždovac              0-0  Mladost Lučani
+         FK Javor                 1-3 (0-0)  Radnički Niš
+         Mačva Šabac              1-0 (1-0)  FK Napredak
+         Spartak Subotica         1-2 (1-0)  FK Zemun
+  15.30  Partizan                 3-1 (1-1)  FK Rad Beograd
+  18.00  Vojvodina                1-2 (0-1)  Crvena Zvezda
+
+
+Matchday 27
+[Sun Mar/11]
+  14.00  OFK Bačka                2-1 (0-0)  Mačva Šabac
+         Mladost Lučani           0-3 (0-1)  Vojvodina
+         FK Zemun                 3-0 (1-0)  FK Voždovac
+  15.00  FK Čukarički             0-2 (0-2)  Partizan
+  16.00  FK Rad Beograd           2-0 (0-0)  FK Javor
+         Radnički Niš             0-2 (0-0)  Spartak Subotica
+         Radnik Surdulica         1-0 (0-0)  Borac Čačak
+  18.30  Crvena Zvezda            1-1 (0-0)  FK Napredak
+
+
+Matchday 28
+[Fri Mar/16]
+  17.00  FK Voždovac              2-1 (1-1)  Radnički Niš
+[Sun Mar/18]
+  13.00  Partizan                 2-0 (0-0)  Radnik Surdulica
+  14.00  Borac Čačak              2-1 (0-0)  OFK Bačka
+         FK Javor                 3-3 (2-1)  FK Čukarički
+         Vojvodina                0-3 (0-2)  FK Zemun
+  17.00  FK Napredak              0-0  Mladost Lučani
+         Mačva Šabac              0-2 (0-0)  Crvena Zvezda
+         Spartak Subotica         2-0 (1-0)  FK Rad Beograd
+
+
+Matchday 29
+[Fri Mar/30]
+  17.00  FK Rad Beograd           0-1 (0-1)  FK Voždovac
+[Sat Mar/31]
+  15.00  Borac Čačak              2-0 (0-0)  Mačva Šabac
+         Radnički Niš             1-1 (0-0)  Vojvodina
+         Radnik Surdulica         1-0 (1-0)  FK Javor
+         FK Zemun                 1-1 (0-0)  FK Napredak
+  15.30  OFK Bačka                1-2 (0-1)  Partizan
+[Sun Apr/1]
+  17.00  FK Čukarički             4-1 (2-1)  Spartak Subotica
+         Mladost Lučani           2-5 (1-2)  Crvena Zvezda
+
+
+Matchday 30
+[Thu Apr/5]
+  17.00  Crvena Zvezda            3-1 (3-0)  FK Zemun
+         FK Voždovac              0-0  FK Čukarički
+         FK Javor                 2-1 (1-0)  OFK Bačka
+         FK Napredak              3-1 (1-1)  Radnički Niš
+         Partizan                 5-0 (2-0)  Borac Čačak
+         Mačva Šabac              2-1 (0-0)  Mladost Lučani
+         Spartak Subotica         3-1 (2-1)  Radnik Surdulica
+         Vojvodina                2-1 (0-1)  FK Rad Beograd
+
+
+== Relegation
+
+Matchday 31
+[Fri Apr/13]
+  17.00  FK Zemun                 3-0 (1-0)  OFK Bačka
+[Sat Apr/14]
+  18.00  Radnik Surdulica         0-0  FK Javor
+         Mladost Lučani           1-1 (1-0)  FK Rad Beograd
+         Mačva Šabac              2-0 (1-0)  Borac Čačak
+
+
+Matchday 32
+[Sat Apr/21]
+  17.00  FK Rad Beograd           2-1 (1-0)  Radnik Surdulica
+         FK Javor                 1-0 (0-0)  FK Zemun
+[Sun Apr/22]
+  17.00  OFK Bačka                1-1 (1-0)  Mačva Šabac
+         Borac Čačak              0-2 (0-0)  Mladost Lučani
+
+
+Matchday 33
+[Wed Apr/25]
+  16.00  FK Zemun                 2-1 (1-1)  Borac Čačak
+  18.00  Radnik Surdulica         2-0 (1-0)  OFK Bačka
+         Mačva Šabac              0-0  FK Rad Beograd
+         Mladost Lučani           3-1 (2-0)  FK Javor
+
+
+Matchday 34
+[Sun Apr/29]
+  16.00  FK Zemun                 0-0  Mladost Lučani
+  19.00  Mačva Šabac              2-1 (0-1)  Radnik Surdulica
+         FK Javor                 3-0 (3-0)  Borac Čačak
+         FK Rad Beograd           2-0 (2-0)  OFK Bačka
+
+
+Matchday 35
+[Fri May/4]
+  18.00  Mladost Lučani           0-0  Mačva Šabac
+[Sat May/5]
+  17.00  Radnik Surdulica         2-1 (1-0)  FK Zemun
+         OFK Bačka                4-0 (3-0)  FK Javor
+         Borac Čačak              1-2 (1-1)  FK Rad Beograd
+
+
+Matchday 36
+[Sun May/13]
+  19.00  Borac Čačak              2-0 (0-0)  Radnik Surdulica
+         Mladost Lučani           1-3 (1-2)  OFK Bačka
+         FK Rad Beograd           3-2 (1-1)  FK Zemun
+         Mačva Šabac              1-2 (0-1)  FK Javor
+
+
+Matchday 37
+[Thu May/17]
+  17.00  Radnik Surdulica         3-1 (0-1)  Mladost Lučani
+         OFK Bačka                3-2 (1-1)  Borac Čačak
+         FK Zemun                 1-1 (1-1)  Mačva Šabac
+         FK Javor                 1-1 (1-0)  FK Rad Beograd
+
+
+== Championship
+
+Matchday 31
+[Sat Apr/14]
+  15.00  FK Čukarički             2-3 (1-0)  Radnički Niš
+  18.30  Crvena Zvezda            2-1 (2-0)  Partizan
+[Sun Apr/15]
+  16.00  FK Napredak              1-0 (0-0)  Vojvodina
+  18.00  Spartak Subotica         1-0 (0-0)  FK Voždovac
+
+
+Matchday 32
+[Fri Apr/20]
+  18.00  FK Voždovac              1-0 (1-0)  FK Napredak
+[Sat Apr/21]
+  19.00  Radnički Niš             1-3 (1-1)  Crvena Zvezda
+[Sun Apr/22]
+  18.00  Vojvodina                0-2 (0-1)  Spartak Subotica
+  19.00  Partizan                 2-1 (1-0)  FK Čukarički
+
+
+Matchday 33
+[Wed Apr/25]
+  18.00  Crvena Zvezda            3-0 (0-0)  FK Čukarički
+         Spartak Subotica         2-1 (1-0)  FK Napredak
+         FK Voždovac              2-1 (2-0)  Vojvodina
+[Thu Apr/26]
+  18.00  Partizan                 3-1 (2-1)  Radnički Niš
+
+
+Matchday 34
+[Sun Apr/29]
+  16.00  FK Napredak              0-2 (0-0)  Crvena Zvezda
+  18.30  Vojvodina                2-1 (1-1)  Partizan
+  19.00  FK Čukarički             3-0 (0-0)  Spartak Subotica
+         Radnički Niš             3-0 (3-0)  FK Voždovac
+
+
+Matchday 35
+[Sat May/5]
+  18.00  Radnički Niš             5-0 (1-0)  Vojvodina
+         Partizan                 2-2 (0-2)  FK Napredak
+         FK Čukarički             2-1 (2-1)  FK Voždovac
+  20.00  Crvena Zvezda            4-0 (3-0)  Spartak Subotica
+
+
+Matchday 36
+[Sun May/13]
+  17.00  Vojvodina                1-2 (1-1)  Crvena Zvezda
+         FK Napredak              3-2 (2-1)  FK Čukarički
+  19.00  Spartak Subotica         2-0 (0-0)  Radnički Niš
+         FK Voždovac              2-1 (0-0)  Partizan
+
+
+Matchday 37
+[Thu May/17]
+  19.00  Partizan                 2-0 (2-0)  Spartak Subotica
+         FK Čukarički             1-6 (1-3)  Vojvodina
+         Radnički Niš             4-1 (2-1)  FK Napredak
+[Sat May/19]
+  20.00  Crvena Zvezda            5-1 (2-0)  FK Voždovac

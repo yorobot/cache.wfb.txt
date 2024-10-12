@@ -1,0 +1,549 @@
+= BE 2 2008/09
+
+# Date       Wed Aug/13 2008 - Sun May/3 2009 (263d)
+# Teams      19
+# Matches    342
+
+
+
+Matchday 1
+[Wed Aug/13]
+  19.00  Olympic Charleroi        0-3 (0-2)  KSK Ronse
+         KFC VW Hamme             1-2 (1-1)  Lierse SK
+         UR Namur                 1-2 (0-1)  KVK Tienen
+         RFC Liège                0-0  SK Deinze
+         KV Red Star Waasland     2-0 (0-0)  Excelsior Virton
+  20.00  Oud-Heverlee Leuven      1-3 (1-0)  Sint-Truidense VV
+         Royal Antwerp FC         3-0 (1-0)  KAS Eupen
+         KV Oostende              3-3 (1-1)  RFC Tournai
+         FC Brussels              1-0 (0-0)  KSK Beveren
+
+
+Matchday 2
+[Wed Aug/27]
+  20.00  SK Deinze                0-2 (0-0)  UR Namur
+         RFC Tournai              3-0 (1-0)  KV Red Star Waasland
+         Excelsior Virton         0-1 (0-1)  FC Brussels
+         KAS Eupen                2-1 (1-1)  RFC Liège
+         KSK Beveren              1-0 (0-0)  Oud-Heverlee Leuven
+         Sint-Truidense VV        7-1 (3-0)  Olympic Charleroi
+         KSK Ronse                1-1 (1-0)  KFC VW Hamme
+         KVSK United              1-1 (1-0)  Royal Antwerp FC
+  20.30  KVK Tienen               5-4 (2-2)  KV Oostende
+
+
+Matchday 3
+[Sat Aug/30]
+  20.00  KV Oostende              3-2 (1-1)  SK Deinze
+         RFC Tournai              1-1 (1-0)  KVK Tienen
+         KV Red Star Waasland     2-1 (1-0)  FC Brussels
+[Sun Aug/31]
+  15.00  RFC Liège                1-0 (0-0)  KVSK United
+         KFC VW Hamme             2-2 (1-0)  Sint-Truidense VV
+         Olympic Charleroi        3-2 (1-1)  KSK Beveren
+         Oud-Heverlee Leuven      0-0  Excelsior Virton
+         UR Namur                 2-0 (2-0)  KAS Eupen
+         Royal Antwerp FC         0-0  Lierse SK
+
+
+Matchday 4
+[Sun Sep/7]
+  15.00  KAS Eupen                0-0  KV Oostende
+         SK Deinze                1-2 (1-0)  RFC Tournai
+         KVSK United              1-0 (1-0)  UR Namur
+         KSK Beveren              2-2 (0-1)  KFC VW Hamme
+         KSK Ronse                2-0 (0-0)  Royal Antwerp FC
+         KVK Tienen               1-0 (1-0)  KV Red Star Waasland
+         FC Brussels              1-1 (0-1)  Oud-Heverlee Leuven
+         Excelsior Virton         1-1 (1-0)  Olympic Charleroi
+         Lierse SK                1-4 (0-1)  RFC Liège
+
+
+Matchday 5
+[Sat Sep/13]
+  20.00  RFC Tournai              3-2 (2-0)  KAS Eupen
+         KV Oostende              2-1 (0-1)  KVSK United
+         KV Red Star Waasland     5-2 (1-2)  Oud-Heverlee Leuven
+  16.00  Olympic Charleroi        1-3 (0-2)  FC Brussels
+[Sun Sep/14]
+  15.00  Royal Antwerp FC         1-2 (1-1)  Sint-Truidense VV
+         UR Namur                 2-2 (2-1)  Lierse SK
+         RFC Liège                2-0 (0-0)  KSK Ronse
+         KFC VW Hamme             2-5 (2-3)  Excelsior Virton
+         KVK Tienen               4-2 (1-1)  SK Deinze
+
+
+Matchday 6
+[Sat Sep/20]
+  20.00  Sint-Truidense VV        1-1 (0-0)  RFC Liège
+         KSK Beveren              1-0 (0-0)  Royal Antwerp FC
+         SK Deinze                1-1 (0-0)  KV Red Star Waasland
+         KAS Eupen                2-4 (1-1)  KVK Tienen
+         KVSK United              0-0  RFC Tournai
+         Lierse SK                0-1 (0-1)  KV Oostende
+         FC Brussels              3-0 (0-0)  KFC VW Hamme
+[Sun Sep/21]
+  15.00  Oud-Heverlee Leuven      3-1 (1-1)  Olympic Charleroi
+         KSK Ronse                1-1 (1-1)  UR Namur
+
+
+Matchday 7
+[Sat Sep/27]
+  20.00  KV Oostende              0-3 (0-2)  Sint-Truidense VV
+         RFC Tournai              2-0 (1-0)  KSK Ronse
+         SK Deinze                3-1 (1-0)  KVSK United
+         Royal Antwerp FC         5-1 (3-1)  FC Brussels
+         KV Red Star Waasland     2-0 (2-0)  KAS Eupen
+[Sun Sep/28]
+  15.00  KFC VW Hamme             3-0 (2-0)  Olympic Charleroi
+         KVK Tienen               0-1 (0-0)  Lierse SK
+         RFC Liège                1-1 (0-1)  Excelsior Virton
+         UR Namur                 0-3 (0-1)  KSK Beveren
+
+
+Matchday 8
+[Sat Oct/4]
+  20.00  Sint-Truidense VV        4-1 (3-1)  UR Namur
+         KSK Beveren              2-2 (1-1)  RFC Liège
+         KVSK United              0-2 (0-1)  KVK Tienen
+         KAS Eupen                2-2 (0-1)  SK Deinze
+         Lierse SK                0-0  RFC Tournai
+         Excelsior Virton         0-2 (0-1)  Royal Antwerp FC
+         KSK Ronse                2-1 (1-1)  KV Oostende
+[Sun Oct/5]
+  15.00  Olympic Charleroi        4-2 (0-2)  KV Red Star Waasland
+         KFC VW Hamme             2-3 (1-1)  Oud-Heverlee Leuven
+
+
+Matchday 9
+[Fri Oct/10]
+  20.30  KAS Eupen                0-3 (0-1)  Lierse SK
+[Sun Oct/12]
+  15.00  Royal Antwerp FC         1-0 (1-0)  Olympic Charleroi
+         RFC Tournai              1-2 (1-1)  KSK Beveren
+         SK Deinze                0-0  KSK Ronse
+         KV Oostende              7-2 (3-0)  Excelsior Virton
+         KVK Tienen               0-2 (0-0)  Sint-Truidense VV
+         RFC Liège                1-1 (1-0)  Oud-Heverlee Leuven
+         UR Namur                 0-5 (0-3)  FC Brussels
+         KV Red Star Waasland     1-1 (0-1)  KVSK United
+
+
+Matchday 10
+[Sat Oct/18]
+  20.00  Sint-Truidense VV        2-1 (0-0)  RFC Tournai
+         Lierse SK                3-0 (3-0)  SK Deinze
+         KVSK United              2-0 (1-0)  KAS Eupen
+         Excelsior Virton         4-0 (2-0)  UR Namur
+         KSK Beveren              0-0  KV Oostende
+         FC Brussels              3-1 (0-1)  RFC Liège
+[Sun Oct/19]
+  15.00  Oud-Heverlee Leuven      0-2 (0-0)  Royal Antwerp FC
+         KSK Ronse                1-1 (0-0)  KVK Tienen
+         KFC VW Hamme             0-2 (0-0)  KV Red Star Waasland
+
+
+Matchday 11
+[Sat Oct/25]
+  20.00  RFC Tournai              0-0  FC Brussels
+         SK Deinze                2-2 (1-1)  KSK Beveren
+         KAS Eupen                2-3 (0-1)  Sint-Truidense VV
+         KVSK United              1-0 (1-0)  KSK Ronse
+         KV Red Star Waasland     2-2 (1-1)  Lierse SK
+         UR Namur                 1-1 (1-0)  Olympic Charleroi
+[Sun Oct/26]
+  15.00  RFC Liège                2-3 (1-0)  KFC VW Hamme
+         KVK Tienen               1-1 (1-0)  Excelsior Virton
+         KV Oostende              2-2 (0-0)  Oud-Heverlee Leuven
+
+
+Matchday 12
+[Sat Nov/1]
+  20.00  KSK Beveren              2-2 (1-1)  KVK Tienen
+         Sint-Truidense VV        3-1 (1-0)  SK Deinze
+         FC Brussels              1-2 (0-1)  KV Oostende
+  20.20  Excelsior Virton         1-3 (1-2)  RFC Tournai
+  20.00  Lierse SK                3-1 (1-1)  KVSK United
+[Sun Nov/2]
+  15.00  KSK Ronse                3-1 (3-0)  KAS Eupen
+         KFC VW Hamme             2-3 (1-1)  Royal Antwerp FC
+         Oud-Heverlee Leuven      3-1 (1-0)  UR Namur
+         Olympic Charleroi        6-4 (3-2)  RFC Liège
+
+
+Matchday 13
+[Fri Nov/7]
+  20.30  KV Oostende              1-1 (1-0)  KFC VW Hamme
+[Sat Nov/8]
+  20.00  KV Red Star Waasland     5-3 (2-3)  KSK Ronse
+         RFC Tournai              1-3 (0-2)  Olympic Charleroi
+         KAS Eupen                0-2 (0-0)  Excelsior Virton
+         SK Deinze                1-1 (0-0)  FC Brussels
+         Lierse SK                3-0 (0-0)  Sint-Truidense VV
+         KVSK United              3-1 (1-0)  KSK Beveren
+  20.30  KVK Tienen               3-0 (2-0)  Oud-Heverlee Leuven
+[Sun Nov/9]
+  15.00  RFC Liège                1-1 (0-0)  Royal Antwerp FC
+
+
+Matchday 14
+[Sat Nov/15]
+  20.00  Royal Antwerp FC         3-0 (1-0)  KV Red Star Waasland
+         KSK Beveren              3-0 (1-0)  KAS Eupen
+         Excelsior Virton         2-2 (1-1)  SK Deinze
+         Sint-Truidense VV        2-1 (1-0)  KVSK United
+         FC Brussels              4-0 (1-0)  KVK Tienen
+[Sun Nov/16]
+  15.00  KFC VW Hamme             1-0 (1-0)  UR Namur
+         Oud-Heverlee Leuven      3-1 (1-1)  RFC Tournai
+  16.00  KSK Ronse                0-2 (0-2)  Lierse SK
+  15.00  Olympic Charleroi        1-3 (1-0)  KV Oostende
+
+
+Matchday 15
+[Fri Nov/21]
+  20.30  UR Namur                 1-1 (0-0)  RFC Liège
+[Sat Nov/22]
+  20.00  KVSK United              1-1 (0-0)  FC Brussels
+         KAS Eupen                1-2 (0-1)  Oud-Heverlee Leuven
+         SK Deinze                2-1 (2-1)  Olympic Charleroi
+         Lierse SK                1-1 (0-0)  Excelsior Virton
+         KV Red Star Waasland     0-2 (0-1)  Sint-Truidense VV
+[Sun Nov/23]
+  15.00  KVK Tienen               4-0 (2-0)  KFC VW Hamme
+         KV Oostende              2-1 (0-1)  Royal Antwerp FC
+
+
+Matchday 16
+[Sat Nov/29]
+  20.00  Sint-Truidense VV        0-0  KSK Ronse
+         KSK Beveren              3-3 (1-2)  Lierse SK
+         Excelsior Virton         2-1 (1-1)  KVSK United
+         Royal Antwerp FC         4-0 (1-0)  UR Namur
+[Sun Nov/30]
+  14.30  KFC VW Hamme             0-2 (0-1)  RFC Tournai
+         Olympic Charleroi        0-3 (0-0)  KVK Tienen
+         RFC Liège                1-1 (1-0)  KV Red Star Waasland
+  15.00  FC Brussels              3-1 (1-1)  KAS Eupen
+         Oud-Heverlee Leuven      4-0 (3-0)  SK Deinze
+
+
+Matchday 17
+[Sat Dec/6]
+  20.00  KSK Ronse                3-1 (2-1)  Excelsior Virton
+         RFC Tournai              2-1 (1-0)  Royal Antwerp FC
+         SK Deinze                2-2 (1-0)  KFC VW Hamme
+         KAS Eupen                1-3 (0-1)  Olympic Charleroi
+         KVSK United              1-2 (1-1)  Oud-Heverlee Leuven
+         Lierse SK                3-2 (3-0)  FC Brussels
+         Sint-Truidense VV        1-1 (0-0)  KSK Beveren
+         KV Red Star Waasland     7-1 (3-1)  UR Namur
+[Sun Dec/7]
+  15.00  KV Oostende              1-1 (0-0)  RFC Liège
+
+
+Matchday 18
+[Sat Dec/13]
+  20.00  KV Red Star Waasland     1-2 (0-1)  KV Oostende
+         UR Namur                 1-2 (0-0)  RFC Tournai
+         Royal Antwerp FC         4-1 (2-0)  SK Deinze
+         Excelsior Virton         0-0  KSK Beveren
+         Oud-Heverlee Leuven      0-2 (0-2)  KSK Ronse
+         FC Brussels              0-0  Sint-Truidense VV
+[Sun Dec/14]
+  14.30  KFC VW Hamme             3-1 (0-1)  KVSK United
+         RFC Liège                0-0  KVK Tienen
+         Olympic Charleroi        1-3 (1-1)  Lierse SK
+
+
+Matchday 19
+[Sat Dec/20]
+  20.00  RFC Tournai              0-1 (0-1)  RFC Liège
+         Sint-Truidense VV        2-2 (1-1)  Excelsior Virton
+         Lierse SK                3-1 (1-0)  Oud-Heverlee Leuven
+         KVSK United              3-0 (2-0)  Olympic Charleroi
+         KAS Eupen                2-1 (0-0)  KFC VW Hamme
+         KSK Beveren              2-1 (0-1)  KV Red Star Waasland
+[Sun Dec/21]
+  15.00  KV Oostende              2-1 (1-1)  UR Namur
+         KSK Ronse                2-1 (1-0)  FC Brussels
+         KVK Tienen               2-2 (2-0)  Royal Antwerp FC
+
+
+Matchday 20
+[Sat Dec/27]
+  20.00  KSK Ronse                3-2 (1-2)  Olympic Charleroi
+         KSK Beveren              2-1 (1-1)  FC Brussels
+         Sint-Truidense VV        1-0 (0-0)  Oud-Heverlee Leuven
+         Lierse SK                1-0 (1-0)  KFC VW Hamme
+         KAS Eupen                0-0  Royal Antwerp FC
+         SK Deinze                1-2 (1-0)  RFC Liège
+         Excelsior Virton         1-2 (1-1)  KV Red Star Waasland
+         RFC Tournai              1-1 (0-0)  KV Oostende
+[Sun Dec/28]
+  15.00  KVK Tienen               7-1 (1-0)  UR Namur
+
+
+Matchday 22
+[Sat Jan/17]
+  20.00  Excelsior Virton         2-0 (2-0)  Oud-Heverlee Leuven
+         Sint-Truidense VV        4-1 (3-0)  KFC VW Hamme
+         FC Brussels              2-0 (1-0)  KV Red Star Waasland
+         KAS Eupen                1-1 (0-1)  UR Namur
+         KSK Beveren              0-0  Olympic Charleroi
+         Lierse SK                4-1 (1-0)  Royal Antwerp FC
+         KVSK United              1-1 (1-0)  RFC Liège
+         SK Deinze                3-3 (2-1)  KV Oostende
+[Sun Jan/18]
+  15.00  KVK Tienen               1-1 (0-0)  RFC Tournai
+
+
+Matchday 15
+[Wed Jan/21]
+  20.00  KSK Ronse                4-2 (1-1)  KSK Beveren
+
+
+Matchday 23
+[Sat Jan/24]
+  20.00  Olympic Charleroi        4-2 (2-0)  Excelsior Virton
+         UR Namur                 0-2 (0-1)  KVSK United
+         Royal Antwerp FC         2-1 (0-1)  KSK Ronse
+         RFC Tournai              2-2 (2-1)  SK Deinze
+         KV Red Star Waasland     3-0 (2-0)  KVK Tienen
+[Sun Jan/25]
+  15.00  KFC VW Hamme             0-1 (0-1)  KSK Beveren
+         RFC Liège                1-1 (0-1)  Lierse SK
+         Oud-Heverlee Leuven      2-0 (0-0)  FC Brussels
+         KV Oostende              1-3 (0-1)  KAS Eupen
+
+
+Matchday 24
+[Sat Jan/31]
+  20.00  KVSK United              0-0  KV Oostende
+         Excelsior Virton         1-1 (0-1)  KFC VW Hamme
+         FC Brussels              0-0  Olympic Charleroi
+         Lierse SK                4-0 (1-0)  UR Namur
+         KAS Eupen                0-1 (0-1)  RFC Tournai
+         SK Deinze                3-1 (0-0)  KVK Tienen
+         Sint-Truidense VV        0-0  Royal Antwerp FC
+[Sun Feb/1]
+  15.00  Oud-Heverlee Leuven      0-1 (0-0)  KV Red Star Waasland
+         KSK Ronse                2-1 (0-1)  RFC Liège
+
+
+Matchday 25
+[Sat Feb/7]
+  20.00  KV Oostende              0-0  Lierse SK
+         Royal Antwerp FC         0-1 (0-1)  KSK Beveren
+         RFC Tournai              2-0 (0-0)  KVSK United
+         UR Namur                 2-4 (1-1)  KSK Ronse
+         KV Red Star Waasland     1-1 (0-0)  SK Deinze
+         Olympic Charleroi        1-1 (0-0)  Oud-Heverlee Leuven
+[Sun Feb/8]
+  15.00  KVK Tienen               1-3 (1-1)  KAS Eupen
+         RFC Liège                1-2 (0-1)  Sint-Truidense VV
+         KFC VW Hamme             1-1 (0-1)  FC Brussels
+
+
+Matchday 26
+[Sat Feb/14]
+  20.00  Olympic Charleroi        0-2 (0-0)  KFC VW Hamme
+         Excelsior Virton         1-2 (1-0)  RFC Liège
+         Sint-Truidense VV        1-0 (1-0)  KV Oostende
+         KSK Ronse                1-0 (0-0)  RFC Tournai
+         KSK Beveren              2-0 (1-0)  UR Namur
+         Lierse SK                4-1 (2-0)  KVK Tienen
+[Sun Feb/15]
+  14.30  FC Brussels              1-0 (0-0)  Royal Antwerp FC
+
+
+Matchday 21
+[Wed Feb/18]
+  16.00  KFC VW Hamme             0-4 (0-3)  KSK Ronse
+  20.00  Royal Antwerp FC         1-2 (1-1)  KVSK United
+         Oud-Heverlee Leuven      1-0 (1-0)  KSK Beveren
+         UR Namur                 1-2 (0-2)  SK Deinze
+         KV Red Star Waasland     2-0 (1-0)  RFC Tournai
+         RFC Liège                1-2 (0-0)  KAS Eupen
+         Olympic Charleroi        2-0 (1-0)  Sint-Truidense VV
+         FC Brussels              4-0 (2-0)  Excelsior Virton
+  20.30  KV Oostende              1-0 (1-0)  KVK Tienen
+
+
+Matchday 27
+[Sat Feb/21]
+  20.00  KV Red Star Waasland     0-1 (0-0)  Olympic Charleroi
+         UR Namur                 0-1 (0-1)  Sint-Truidense VV
+         SK Deinze                1-2 (1-1)  KAS Eupen
+         KV Oostende              3-1 (2-1)  KSK Ronse
+         Royal Antwerp FC         2-1 (0-0)  Excelsior Virton
+         RFC Tournai              2-1 (1-1)  Lierse SK
+[Sun Feb/22]
+  15.00  KVK Tienen               1-1 (0-0)  KVSK United
+         RFC Liège                5-2 (1-1)  KSK Beveren
+         Oud-Heverlee Leuven      0-1 (0-0)  KFC VW Hamme
+
+
+Matchday 28
+[Sat Feb/28]
+  20.00  KVSK United              3-0 (1-0)  KV Red Star Waasland
+         FC Brussels              3-0 (1-0)  UR Namur
+         Sint-Truidense VV        5-1 (3-1)  KVK Tienen
+         Excelsior Virton         3-1 (2-0)  KV Oostende
+         Lierse SK                4-1 (3-0)  KAS Eupen
+         KSK Beveren              1-0 (1-0)  RFC Tournai
+[Sun Mar/1]
+  15.00  Olympic Charleroi        0-0  Royal Antwerp FC
+         KSK Ronse                0-1 (0-1)  SK Deinze
+         Oud-Heverlee Leuven      1-2 (0-1)  RFC Liège
+
+
+Matchday 29
+[Sat Mar/7]
+  20.00  KV Red Star Waasland     1-0 (0-0)  KFC VW Hamme
+         KV Oostende              1-1 (0-1)  KSK Beveren
+         UR Namur                 0-1 (0-0)  Excelsior Virton
+         Royal Antwerp FC         1-1 (0-0)  Oud-Heverlee Leuven
+         KAS Eupen                2-1 (1-1)  KVSK United
+         SK Deinze                1-2 (1-2)  Lierse SK
+         RFC Tournai              1-2 (0-0)  Sint-Truidense VV
+[Sun Mar/8]
+  15.00  RFC Liège                0-0  FC Brussels
+         KVK Tienen               2-0 (1-0)  KSK Ronse
+
+
+Matchday 30
+[Sat Mar/14]
+  20.00  FC Brussels              0-0  RFC Tournai
+         KSK Beveren              1-1 (1-0)  SK Deinze
+         Lierse SK                2-0 (1-0)  KV Red Star Waasland
+         Excelsior Virton         1-2 (0-1)  KVK Tienen
+         Olympic Charleroi        3-0 (1-0)  UR Namur
+         Sint-Truidense VV        3-0 (2-0)  KAS Eupen
+[Sun Mar/15]
+  15.00  KFC VW Hamme             4-0 (1-0)  RFC Liège
+         KSK Ronse                0-1 (0-1)  KVSK United
+         Oud-Heverlee Leuven      1-2 (1-0)  KV Oostende
+
+
+Matchday 31
+[Sat Mar/21]
+  20.00  Royal Antwerp FC         1-0 (0-0)  KFC VW Hamme
+         SK Deinze                0-0  Sint-Truidense VV
+         KV Oostende              1-1 (1-1)  FC Brussels
+         RFC Tournai              1-1 (0-1)  Excelsior Virton
+         KAS Eupen                1-0 (0-0)  KSK Ronse
+         KVSK United              3-1 (2-0)  Lierse SK
+         UR Namur                 0-2 (0-0)  Oud-Heverlee Leuven
+[Sun Mar/22]
+  15.00  RFC Liège                1-0 (0-0)  Olympic Charleroi
+         KVK Tienen               0-0  KSK Beveren
+
+
+Matchday 32
+[Wed Mar/25]
+  20.00  Olympic Charleroi        2-2 (2-2)  RFC Tournai
+  20.30  KSK Beveren              0-3 (0-0)  KVSK United
+  20.00  Royal Antwerp FC         0-0  RFC Liège
+         Excelsior Virton         1-1 (0-1)  KAS Eupen
+         KSK Ronse                2-3 (2-2)  KV Red Star Waasland
+  20.30  Sint-Truidense VV        0-1 (0-0)  Lierse SK
+  20.00  Oud-Heverlee Leuven      1-0 (0-0)  KVK Tienen
+         FC Brussels              0-0  SK Deinze
+
+
+Matchday 33
+[Sun Mar/29]
+  15.00  KVK Tienen               2-0 (1-0)  FC Brussels
+
+
+Matchday 32
+[Sun Mar/29]
+  15.00  KFC VW Hamme             1-1 (0-1)  KV Oostende
+
+
+Matchday 33
+[Wed Apr/1]
+  20.00  KAS Eupen                6-1 (2-0)  KSK Beveren
+  20.30  UR Namur                 1-3 (0-0)  KFC VW Hamme
+  20.00  KV Oostende              2-1 (2-1)  Olympic Charleroi
+         RFC Tournai              2-1 (2-1)  Oud-Heverlee Leuven
+         KVSK United              0-1 (0-0)  Sint-Truidense VV
+  20.30  KV Red Star Waasland     1-1 (0-0)  Royal Antwerp FC
+  20.00  SK Deinze                2-1 (1-1)  Excelsior Virton
+  20.30  Lierse SK                3-1 (2-1)  KSK Ronse
+
+
+Matchday 34
+[Sat Apr/4]
+  20.00  Royal Antwerp FC         3-1 (1-0)  KV Oostende
+         FC Brussels              1-1 (0-1)  KVSK United
+  18.00  Excelsior Virton         2-2 (1-1)  Lierse SK
+  20.00  Sint-Truidense VV        1-0 (1-0)  KV Red Star Waasland
+         KSK Beveren              2-3 (1-3)  KSK Ronse
+         Olympic Charleroi        0-1 (0-0)  SK Deinze
+[Sun Apr/5]
+  15.00  KFC VW Hamme             0-0  KVK Tienen
+  14.00  Oud-Heverlee Leuven      1-1 (0-0)  KAS Eupen
+  15.00  RFC Liège                3-0 (1-0)  UR Namur
+
+
+Matchday 35
+[Fri Apr/10]
+  20.45  Lierse SK                3-2 (1-2)  KSK Beveren
+[Sat Apr/11]
+  20.30  KVK Tienen               0-0  Olympic Charleroi
+  20.00  SK Deinze                1-1 (0-1)  Oud-Heverlee Leuven
+         RFC Tournai              4-1 (1-1)  KFC VW Hamme
+         KV Red Star Waasland     2-1 (1-1)  RFC Liège
+         KAS Eupen                1-0 (0-0)  FC Brussels
+         KVSK United              3-0 (1-0)  Excelsior Virton
+         KSK Ronse                1-5 (0-3)  Sint-Truidense VV
+[Sun Apr/12]
+  15.00  UR Namur                 0-3 (0-0)  Royal Antwerp FC
+
+
+Matchday 26
+[Wed Apr/15]
+  20.30  KVSK United              2-1 (2-0)  SK Deinze
+  20.00  KAS Eupen                3-1 (1-1)  KV Red Star Waasland
+
+
+Matchday 36
+[Sat Apr/18]
+  20.00  Royal Antwerp FC         2-1 (1-0)  RFC Tournai
+         Excelsior Virton         0-1 (0-0)  KSK Ronse
+         KSK Beveren              1-5 (1-3)  Sint-Truidense VV
+         FC Brussels              2-4 (0-2)  Lierse SK
+         Olympic Charleroi        2-2 (1-1)  KAS Eupen
+         UR Namur                 0-0  KV Red Star Waasland
+[Sun Apr/19]
+  15.00  Oud-Heverlee Leuven      2-2 (0-1)  KVSK United
+         RFC Liège                1-0 (0-0)  KV Oostende
+         KFC VW Hamme             6-2 (2-0)  SK Deinze
+
+
+Matchday 37
+[Sun Apr/26]
+  15.00  KV Oostende              0-3 (0-2)  KV Red Star Waasland
+         RFC Tournai              5-1 (2-1)  UR Namur
+         KSK Beveren              0-1 (0-0)  Excelsior Virton
+         KVSK United              3-0 (3-0)  KFC VW Hamme
+         Sint-Truidense VV        1-0 (0-0)  FC Brussels
+         SK Deinze                1-3 (0-1)  Royal Antwerp FC
+         Lierse SK                3-2 (0-0)  Olympic Charleroi
+         KVK Tienen               4-1 (1-1)  RFC Liège
+         KSK Ronse                1-1 (0-1)  Oud-Heverlee Leuven
+
+
+Matchday 38
+[Sun May/3]
+  15.00  Excelsior Virton         2-1 (2-1)  Sint-Truidense VV
+         Royal Antwerp FC         1-0 (0-0)  KVK Tienen
+         Olympic Charleroi        1-0 (0-0)  KVSK United
+         Oud-Heverlee Leuven      2-0 (2-0)  Lierse SK
+         KFC VW Hamme             1-2 (0-1)  KAS Eupen
+         KV Red Star Waasland     2-1 (2-0)  KSK Beveren
+         UR Namur                 0-0  KV Oostende
+         RFC Liège                1-1 (1-1)  RFC Tournai
+         FC Brussels              2-2 (1-0)  KSK Ronse

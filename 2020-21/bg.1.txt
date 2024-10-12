@@ -1,0 +1,501 @@
+= BG 1 2020/21
+
+# Date       Fri Aug/7 2020 - Sun May/30 2021 (296d)
+# Teams      14
+# Matches    222
+# Stages     Regular Season (182)  Relegation (12)  Conf. L. Playoff (1)  EL-Playoffs (12)  Championship (15)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/7]
+  20.00  CSKA 1948 Sofia          2-2 (2-1)  CSKA Sofia
+[Sat Aug/8]
+  17.45  PFC Montana              3-3 (0-2)  Arda Kardzhali
+  20.00  Botev Vratsa             3-1 (1-0)  PFC Ludogorets Razgrad
+[Sun Aug/9]
+  18.45  Botev Plovdiv            2-0 (1-0)  Lokomotiv Plovdiv
+  21.00  Slavia Sofia             1-1 (1-0)  Cherno More Varna
+[Mon Aug/10]
+  20.00  Levski Sofia             0-2 (0-2)  PFC Beroe
+[Tue Aug/11]
+  20.00  Tsarsko Selo Sofia       3-0 (1-0)  Etar Veliko Tarnovo
+
+
+Matchday 2
+[Fri Aug/14]
+  20.00  PFC Ludogorets Razgrad   3-0 (1-0)  Slavia Sofia
+[Sat Aug/15]
+  17.45  Lokomotiv Plovdiv        2-1 (1-1)  Botev Vratsa
+  20.00  Arda Kardzhali           1-1 (1-0)  Levski Sofia
+[Sun Aug/16]
+  17.45  Etar Veliko Tarnovo      0-4 (0-2)  Cherno More Varna
+  20.00  CSKA Sofia               2-1 (1-0)  Botev Plovdiv
+[Mon Aug/17]
+  17.45  Tsarsko Selo Sofia       0-0  PFC Montana
+  20.00  PFC Beroe                0-0  CSKA 1948 Sofia
+
+
+Matchday 3
+[Fri Aug/21]
+  20.00  Slavia Sofia             0-2 (0-1)  Lokomotiv Plovdiv
+[Sat Aug/22]
+  18.45  Botev Vratsa             1-2 (1-1)  CSKA Sofia
+  21.00  Cherno More Varna        1-4 (1-2)  PFC Ludogorets Razgrad
+[Sun Aug/23]
+  17.45  Levski Sofia             0-1 (0-1)  Tsarsko Selo Sofia
+  20.00  Botev Plovdiv            3-3 (0-2)  PFC Beroe
+[Mon Aug/24]
+  18.45  PFC Montana              1-0 (0-0)  Etar Veliko Tarnovo
+  21.00  CSKA 1948 Sofia          0-2 (0-1)  Arda Kardzhali
+
+
+Matchday 4
+[Fri Aug/28]
+  18.45  Tsarsko Selo Sofia       0-0  CSKA 1948 Sofia
+  21.00  PFC Beroe                6-0 (3-0)  Botev Vratsa
+[Sat Aug/29]
+  17.00  Arda Kardzhali           3-2 (1-2)  Botev Plovdiv
+  19.00  PFC Montana              0-4 (0-2)  Levski Sofia
+  21.15  Etar Veliko Tarnovo      0-2 (0-0)  PFC Ludogorets Razgrad
+[Sun Aug/30]
+  18.45  Lokomotiv Plovdiv        2-1 (1-1)  Cherno More Varna
+  21.00  CSKA Sofia               1-0 (0-0)  Slavia Sofia
+
+
+Matchday 5
+[Fri Sep/11]
+  18.45  Botev Vratsa             0-0  Arda Kardzhali
+  21.00  Botev Plovdiv            0-0  Tsarsko Selo Sofia
+[Sat Sep/12]
+  18.45  Cherno More Varna        1-1 (1-0)  CSKA Sofia
+  21.00  PFC Ludogorets Razgrad   3-1 (0-0)  Lokomotiv Plovdiv
+[Sun Sep/13]
+  18.45  CSKA 1948 Sofia          2-0 (1-0)  PFC Montana
+  21.00  Levski Sofia             2-1 (1-1)  Etar Veliko Tarnovo
+[Mon Sep/14]
+  19.30  Slavia Sofia             0-2 (0-1)  PFC Beroe
+
+
+Matchday 6
+[Fri Sep/18]
+  18.45  Tsarsko Selo Sofia       1-2 (0-1)  Botev Vratsa
+  21.00  PFC Montana              3-1 (2-1)  Botev Plovdiv
+[Sat Sep/19]
+  18.45  PFC Beroe                4-0 (1-0)  Cherno More Varna
+  21.00  Levski Sofia             3-0 (1-0)  CSKA 1948 Sofia
+[Sun Sep/20]
+  17.45  Etar Veliko Tarnovo      1-3 (1-2)  Lokomotiv Plovdiv
+  20.30  CSKA Sofia               2-2 (0-1)  PFC Ludogorets Razgrad
+[Mon Sep/21]
+  20.30  Arda Kardzhali           2-1 (0-1)  Slavia Sofia
+
+
+Matchday 7
+[Fri Sep/25]
+  18.45  Botev Vratsa             2-0 (1-0)  PFC Montana
+  21.00  CSKA 1948 Sofia          5-1 (3-1)  Etar Veliko Tarnovo
+[Sat Sep/26]
+  18.45  PFC Ludogorets Razgrad   2-0 (2-0)  PFC Beroe
+  21.00  Botev Plovdiv            2-1 (2-1)  Levski Sofia
+[Sun Sep/27]
+  18.45  Cherno More Varna        2-0 (1-0)  Arda Kardzhali
+  21.00  Lokomotiv Plovdiv        2-1 (2-0)  CSKA Sofia
+[Mon Sep/28]
+  20.30  Slavia Sofia             1-0 (0-0)  Tsarsko Selo Sofia
+
+
+Matchday 8
+[Fri Oct/2]
+  17.45  Tsarsko Selo Sofia       1-0 (0-0)  Cherno More Varna
+  20.15  CSKA 1948 Sofia          5-0 (2-0)  Botev Plovdiv
+[Sat Oct/3]
+  17.45  PFC Montana              2-1 (2-1)  Slavia Sofia
+  20.15  Levski Sofia             0-0  Botev Vratsa
+[Sun Oct/4]
+  17.45  PFC Beroe                1-3 (1-1)  Lokomotiv Plovdiv
+  20.15  Etar Veliko Tarnovo      2-2 (2-0)  CSKA Sofia
+[Thu Dec/17]
+  17.30  Arda Kardzhali           2-2 (1-1)  PFC Ludogorets Razgrad
+
+
+Matchday 9
+[Sat Oct/17]
+  17.45  PFC Ludogorets Razgrad   1-1 (1-0)  Tsarsko Selo Sofia
+  20.15  CSKA Sofia               1-1 (0-0)  PFC Beroe
+[Sun Oct/18]
+  15.15  Botev Vratsa             0-0  CSKA 1948 Sofia
+  17.45  Cherno More Varna        3-0 (2-0)  PFC Montana
+  20.15  Slavia Sofia             1-0 (1-0)  Levski Sofia
+[Mon Oct/19]
+  20.15  Botev Plovdiv            1-1 (1-0)  Etar Veliko Tarnovo
+[Tue Oct/20]
+  17.30  Lokomotiv Plovdiv        0-0  Arda Kardzhali
+
+
+Matchday 10
+[Sat Oct/24]
+  17.45  Tsarsko Selo Sofia       0-3 (0-0)  Lokomotiv Plovdiv
+  20.15  Levski Sofia             1-2 (1-0)  Cherno More Varna
+[Sun Oct/25]
+  12.30  CSKA 1948 Sofia          5-1 (2-0)  Slavia Sofia
+  17.45  Arda Kardzhali           1-1 (0-0)  CSKA Sofia
+  20.15  PFC Montana              1-3 (1-1)  PFC Ludogorets Razgrad
+[Mon Oct/26]
+  17.15  Botev Plovdiv            2-0 (0-0)  Botev Vratsa
+  19.30  Etar Veliko Tarnovo      2-3 (0-1)  PFC Beroe
+
+
+Matchday 11
+[Fri Oct/30]
+  17.00  Cherno More Varna        1-2 (1-1)  CSKA 1948 Sofia
+  19.15  Lokomotiv Plovdiv        2-2 (2-2)  PFC Montana
+[Sat Oct/31]
+  18.45  PFC Beroe                0-1 (0-0)  Arda Kardzhali
+[Sun Nov/1]
+  16.45  CSKA Sofia               1-0 (0-0)  Tsarsko Selo Sofia
+  19.15  PFC Ludogorets Razgrad   1-0 (0-0)  Levski Sofia
+[Mon Nov/2]
+  18.00  Botev Vratsa             5-1 (2-0)  Etar Veliko Tarnovo
+[Wed Dec/2]
+  15.00  Slavia Sofia             0-0  Botev Plovdiv
+
+
+Matchday 12
+[Sat Nov/7]
+  14.45  Botev Plovdiv            0-0  Cherno More Varna
+[Sun Nov/8]
+  12.30  Etar Veliko Tarnovo      0-0  Arda Kardzhali
+  15.00  PFC Montana              1-2 (0-1)  CSKA Sofia
+  17.30  CSKA 1948 Sofia          0-3 (0-1)  PFC Ludogorets Razgrad
+[Wed Dec/2]
+  17.30  Levski Sofia             1-0 (1-0)  Lokomotiv Plovdiv
+[Thu Dec/10]
+  17.30  Botev Vratsa             1-2 (0-1)  Slavia Sofia
+[Wed Dec/16]
+  17.30  Tsarsko Selo Sofia       0-2 (0-1)  PFC Beroe
+
+
+Matchday 13
+[Sat Nov/21]
+  12.15  Slavia Sofia             0-0  Etar Veliko Tarnovo
+[Sun Nov/22]
+  12.30  Cherno More Varna        2-1 (1-1)  Botev Vratsa
+  17.30  Lokomotiv Plovdiv        1-1 (1-1)  CSKA 1948 Sofia
+[Mon Nov/23]
+  17.30  Arda Kardzhali           2-0 (2-0)  Tsarsko Selo Sofia
+[Fri Dec/18]
+  18.00  CSKA Sofia               1-0 (1-0)  Levski Sofia
+[Sat Dec/19]
+  14.00  PFC Beroe                0-0  PFC Montana
+[Sun Dec/20]
+  14.00  PFC Ludogorets Razgrad   2-1 (1-0)  Botev Plovdiv
+
+
+Matchday 14
+[Fri Nov/27]
+  17.30  Cherno More Varna        3-2 (1-1)  Slavia Sofia
+[Sat Nov/28]
+  13.00  Arda Kardzhali           3-0 (1-0)  PFC Montana
+  18.00  Lokomotiv Plovdiv        6-0 (4-0)  Botev Plovdiv
+[Sun Nov/29]
+  14.00  PFC Ludogorets Razgrad   2-1 (2-1)  Botev Vratsa
+  19.00  CSKA Sofia               2-0 (1-0)  CSKA 1948 Sofia
+[Tue Dec/1]
+  17.30  Etar Veliko Tarnovo      1-0 (1-0)  Tsarsko Selo Sofia
+[Wed Dec/9]
+  17.30  PFC Beroe                2-1 (1-1)  Levski Sofia
+
+
+Matchday 15
+[Fri Dec/4]
+  17.15  Cherno More Varna        0-1 (0-1)  Etar Veliko Tarnovo
+[Sat Dec/5]
+  14.15  CSKA 1948 Sofia          1-0 (0-0)  PFC Beroe
+  16.30  Levski Sofia             1-2 (0-1)  Arda Kardzhali
+[Sun Dec/6]
+  12.15  Botev Vratsa             0-1 (0-1)  Lokomotiv Plovdiv
+  14.30  Botev Plovdiv            0-3 (0-1)  CSKA Sofia
+  16.45  Slavia Sofia             0-2 (0-0)  PFC Ludogorets Razgrad
+[Mon Dec/7]
+  17.30  PFC Montana              3-4 (0-2)  Tsarsko Selo Sofia
+
+
+Matchday 16
+[Fri Dec/11]
+  17.30  Arda Kardzhali           1-1 (0-0)  CSKA 1948 Sofia
+[Sat Dec/12]
+  12.30  PFC Beroe                3-0 (1-0)  Botev Plovdiv
+  16.30  Tsarsko Selo Sofia       2-2 (1-2)  Levski Sofia
+[Sun Dec/13]
+  12.30  CSKA Sofia               2-1 (1-0)  Botev Vratsa
+  17.45  PFC Ludogorets Razgrad   1-0 (1-0)  Cherno More Varna
+[Mon Dec/14]
+  17.30  Lokomotiv Plovdiv        2-0 (1-0)  Slavia Sofia
+[Tue Dec/15]
+  17.30  Etar Veliko Tarnovo      0-0  PFC Montana
+
+
+Matchday 17
+[Fri Feb/12]
+  17.30  Botev Plovdiv            0-2 (0-1)  Arda Kardzhali
+[Sat Feb/13]
+  12.30  Botev Vratsa             1-2 (1-1)  PFC Beroe
+  15.00  Cherno More Varna        0-0  Lokomotiv Plovdiv
+  17.30  Slavia Sofia             0-1 (0-1)  CSKA Sofia
+[Sun Feb/14]
+  14.30  CSKA 1948 Sofia          2-1 (1-0)  Tsarsko Selo Sofia
+  17.00  Levski Sofia             2-0 (1-0)  PFC Montana
+[Mon Feb/15]
+  16.00  PFC Ludogorets Razgrad   6-0 (4-0)  Etar Veliko Tarnovo
+
+
+Matchday 18
+[Fri Feb/19]
+  17.30  PFC Montana              1-0 (1-0)  CSKA 1948 Sofia
+[Sat Feb/20]
+  12.30  Arda Kardzhali           3-2 (2-0)  Botev Vratsa
+  15.00  Lokomotiv Plovdiv        3-2 (2-1)  PFC Ludogorets Razgrad
+  17.30  CSKA Sofia               1-0 (0-0)  Cherno More Varna
+[Sun Feb/21]
+  14.30  PFC Beroe                1-1 (1-0)  Slavia Sofia
+  17.00  Etar Veliko Tarnovo      0-0  Levski Sofia
+[Mon Feb/22]
+  17.30  Tsarsko Selo Sofia       2-2 (1-0)  Botev Plovdiv
+
+
+Matchday 19
+[Fri Feb/26]
+  17.30  Lokomotiv Plovdiv        1-1 (1-0)  Etar Veliko Tarnovo
+[Sat Feb/27]
+  12.15  Slavia Sofia             3-2 (1-2)  Arda Kardzhali
+  15.00  PFC Ludogorets Razgrad   1-0 (1-0)  CSKA Sofia
+  17.45  Cherno More Varna        2-1 (1-0)  PFC Beroe
+[Sun Feb/28]
+  12.00  Botev Vratsa             0-3 (0-2)  Tsarsko Selo Sofia
+  14.30  Botev Plovdiv            1-1 (0-0)  PFC Montana
+  17.00  CSKA 1948 Sofia          0-0  Levski Sofia
+
+
+Matchday 20
+[Sat Mar/6]
+  15.00  Arda Kardzhali           1-0 (1-0)  Cherno More Varna
+  17.30  CSKA Sofia               0-0  Lokomotiv Plovdiv
+[Sun Mar/7]
+  12.00  Etar Veliko Tarnovo      3-1 (1-1)  CSKA 1948 Sofia
+  14.30  PFC Beroe                1-4 (0-1)  PFC Ludogorets Razgrad
+  17.00  Levski Sofia             2-2 (2-1)  Botev Plovdiv
+[Mon Mar/8]
+  17.30  Tsarsko Selo Sofia       2-0 (1-0)  Slavia Sofia
+[Tue Mar/9]
+  17.30  PFC Montana              0-1 (0-0)  Botev Vratsa
+
+
+Matchday 21
+[Fri Mar/12]
+  17.00  PFC Ludogorets Razgrad   1-0 (0-0)  Arda Kardzhali
+  19.15  Lokomotiv Plovdiv        1-1 (0-1)  PFC Beroe
+[Sat Mar/13]
+  12.00  Slavia Sofia             2-1 (2-1)  PFC Montana
+  14.15  Botev Plovdiv            3-2 (2-0)  CSKA 1948 Sofia
+  16.30  Botev Vratsa             1-3 (1-0)  Levski Sofia
+[Sun Mar/14]
+  17.00  CSKA Sofia               1-0 (0-0)  Etar Veliko Tarnovo
+[Mon Mar/15]
+  17.30  Cherno More Varna        1-0 (1-0)  Tsarsko Selo Sofia
+
+
+Matchday 22
+[Fri Mar/19]
+  17.30  Etar Veliko Tarnovo      0-0  Botev Plovdiv
+[Sat Mar/20]
+  12.30  PFC Montana              1-1 (0-0)  Cherno More Varna
+  15.00  Arda Kardzhali           0-2 (0-0)  Lokomotiv Plovdiv
+  17.30  Tsarsko Selo Sofia       1-1 (0-0)  PFC Ludogorets Razgrad
+[Sun Mar/21]
+  12.00  CSKA 1948 Sofia          1-0 (0-0)  Botev Vratsa
+  14.15  PFC Beroe                1-0 (0-0)  CSKA Sofia
+  16.30  Levski Sofia             1-0 (0-0)  Slavia Sofia
+
+
+Matchday 23
+[Thu Apr/8]
+  17.15  Botev Vratsa             1-2 (1-1)  Botev Plovdiv
+  19.30  Lokomotiv Plovdiv        2-0 (1-0)  Tsarsko Selo Sofia
+[Fri Apr/9]
+  19.30  Slavia Sofia             1-3 (0-0)  CSKA 1948 Sofia
+[Sat Apr/10]
+  17.30  PFC Ludogorets Razgrad   1-0 (0-0)  PFC Montana
+  20.00  CSKA Sofia               1-1 (0-0)  Arda Kardzhali
+[Sun Apr/11]
+  19.45  Cherno More Varna        0-0  Levski Sofia
+[Mon Apr/12]
+  19.30  PFC Beroe                1-2 (0-1)  Etar Veliko Tarnovo
+
+
+Matchday 24
+[Thu Apr/15]
+  19.30  PFC Montana              0-1 (0-0)  Lokomotiv Plovdiv
+[Fri Apr/16]
+  17.15  Etar Veliko Tarnovo      0-0  Botev Vratsa
+  19.30  CSKA 1948 Sofia          0-0  Cherno More Varna
+[Sat Apr/17]
+  17.45  Botev Plovdiv            0-1 (0-1)  Slavia Sofia
+  20.00  Arda Kardzhali           1-0 (0-0)  PFC Beroe
+[Sun Apr/18]
+  18.30  Tsarsko Selo Sofia       2-1 (1-0)  CSKA Sofia
+  20.45  Levski Sofia             0-3 (0-2)  PFC Ludogorets Razgrad
+
+
+Matchday 25
+[Tue Apr/20]
+  16.00  Slavia Sofia             0-2 (0-2)  Botev Vratsa
+  18.15  Arda Kardzhali           3-2 (1-1)  Etar Veliko Tarnovo
+  20.30  Cherno More Varna        1-0 (1-0)  Botev Plovdiv
+[Wed Apr/21]
+  16.00  PFC Beroe                0-1 (0-0)  Tsarsko Selo Sofia
+  18.15  CSKA Sofia               6-0 (2-0)  PFC Montana
+  20.30  Lokomotiv Plovdiv        1-0 (0-0)  Levski Sofia
+[Thu Apr/22]
+  19.00  PFC Ludogorets Razgrad   4-0 (3-0)  CSKA 1948 Sofia
+
+
+Matchday 26
+[Fri Apr/23]
+  20.30  Botev Vratsa             0-1 (0-0)  Cherno More Varna
+[Sat Apr/24]
+  17.45  Etar Veliko Tarnovo      1-1 (0-0)  Slavia Sofia
+  20.00  PFC Montana              1-1 (0-1)  PFC Beroe
+[Sun Apr/25]
+  17.00  Levski Sofia             0-2 (0-2)  CSKA Sofia
+  19.45  Tsarsko Selo Sofia       4-0 (3-0)  Arda Kardzhali
+[Mon Apr/26]
+  18.00  CSKA 1948 Sofia          1-0 (0-0)  Lokomotiv Plovdiv
+  20.15  Botev Plovdiv            0-2 (0-0)  PFC Ludogorets Razgrad
+
+
+== Relegation
+
+Matchday 27
+[Mon May/3]
+  15.45  Botev Vratsa             2-0 (0-0)  Etar Veliko Tarnovo
+  18.00  Slavia Sofia             1-1 (1-1)  PFC Montana
+
+
+Matchday 28
+[Thu May/6]
+  17.30  PFC Montana              1-0 (0-0)  Etar Veliko Tarnovo
+  19.45  Slavia Sofia             2-0 (1-0)  Botev Vratsa
+
+
+Matchday 29
+[Mon May/10]
+  18.00  Botev Vratsa             1-0 (0-0)  PFC Montana
+  20.15  Etar Veliko Tarnovo      0-3 (0-0)  Slavia Sofia
+
+
+Matchday 30
+[Fri May/14]
+  17.30  Etar Veliko Tarnovo      2-0 (1-0)  Botev Vratsa
+  20.00  PFC Montana              0-2 (0-1)  Slavia Sofia
+
+
+Matchday 31
+[Tue May/18]
+  17.30  Etar Veliko Tarnovo      1-2 (1-1)  PFC Montana
+  20.00  Botev Vratsa             1-1 (1-1)  Slavia Sofia
+
+
+Matchday 32
+[Fri May/21]
+  20.00  PFC Montana              1-1 (1-1)  Botev Vratsa
+         Slavia Sofia             0-2 (0-1)  Etar Veliko Tarnovo
+
+
+== Conf. L. Playoff
+
+Final
+[Sun May/30]
+  19.00  Arda Kardzhali           1-0 (1-0)  Cherno More Varna
+
+
+== EL-Playoffs
+
+Matchday 27
+[Wed May/5]
+  17.30  Cherno More Varna        3-1 (3-1)  Botev Plovdiv
+  19.45  Tsarsko Selo Sofia       0-2 (0-1)  Levski Sofia
+
+
+Matchday 28
+[Sun May/9]
+  18.30  Cherno More Varna        3-3 (3-1)  Tsarsko Selo Sofia
+  20.45  Botev Plovdiv            0-1 (0-1)  Levski Sofia
+
+
+Matchday 29
+[Thu May/13]
+  17.30  Tsarsko Selo Sofia       0-0  Botev Plovdiv
+  20.00  Levski Sofia             2-1 (1-1)  Cherno More Varna
+
+
+Matchday 30
+[Mon May/17]
+  17.30  Botev Plovdiv            1-1 (0-1)  Cherno More Varna
+  20.00  Levski Sofia             1-1 (0-0)  Tsarsko Selo Sofia
+
+
+Matchday 31
+[Thu May/20]
+  17.30  Tsarsko Selo Sofia       0-1 (0-0)  Cherno More Varna
+  20.00  Levski Sofia             1-2 (1-0)  Botev Plovdiv
+
+
+Matchday 32
+[Sun May/23]
+  20.30  Botev Plovdiv            5-0 (1-0)  Tsarsko Selo Sofia
+         Cherno More Varna        1-2 (1-0)  Levski Sofia
+
+
+== Championship
+
+Matchday 27
+[Mon May/3]
+  20.15  CSKA Sofia               1-0 (0-0)  Arda Kardzhali
+[Tue May/4]
+  19.45  PFC Ludogorets Razgrad   3-1 (1-1)  PFC Beroe
+[Wed May/19]
+  17.00  Lokomotiv Plovdiv        0-0  CSKA 1948 Sofia
+
+
+Matchday 28
+[Fri May/7]
+  17.30  PFC Beroe                0-2 (0-1)  Arda Kardzhali
+[Sat May/8]
+  17.45  PFC Ludogorets Razgrad   1-2 (1-2)  Lokomotiv Plovdiv
+[Sat May/22]
+  19.00  CSKA 1948 Sofia          1-0 (0-0)  CSKA Sofia
+
+
+Matchday 29
+[Tue May/11]
+  19.30  Lokomotiv Plovdiv        0-0  PFC Beroe
+[Wed May/12]
+  17.00  Arda Kardzhali           0-0  CSKA 1948 Sofia
+  19.30  CSKA Sofia               4-1 (1-0)  PFC Ludogorets Razgrad
+
+
+Matchday 30
+[Sat May/15]
+  17.30  PFC Ludogorets Razgrad   4-1 (2-1)  Arda Kardzhali
+  20.00  Lokomotiv Plovdiv        2-0 (0-0)  CSKA Sofia
+[Sun May/16]
+  20.15  PFC Beroe                3-3 (0-1)  CSKA 1948 Sofia
+
+
+Matchday 31
+[Wed May/26]
+  20.00  CSKA Sofia               2-0 (1-0)  PFC Beroe
+         Arda Kardzhali           3-3 (2-1)  Lokomotiv Plovdiv
+         CSKA 1948 Sofia          3-1 (2-0)  PFC Ludogorets Razgrad

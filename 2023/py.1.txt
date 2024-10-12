@@ -1,0 +1,559 @@
+= PY 1 2023
+
+# Date       Fri Jan/27 - Fri Dec/1 2023 (308d)
+# Teams      12
+# Matches    264
+# Stages     Apertura (132)  Clausura (132)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jan/27]
+  19.00  Libertad                 1-0 (0-0)  Guaraní
+[Sat Jan/28]
+  18.00  Sportivo Trinidense      2-0 (0-0)  Tacuary
+  20.30  Guaireña FC              1-3 (1-1)  Club Nacional
+[Sun Jan/29]
+  17.00  General Caballero DJLM   2-0 (1-0)  Resistencia SC
+  19.30  Cerro Porteño            1-1 (0-1)  Sportivo Ameliano
+[Mon Jan/30]
+  19.30  Club Olimpia             2-1 (1-0)  Sportivo Luqueño
+
+
+Matchday 2
+[Fri Feb/3]
+  18.00  Tacuary                  1-2 (1-1)  Guaireña FC
+  20.30  Guaraní                  2-2 (1-1)  Sportivo Ameliano
+[Sat Feb/4]
+  18.00  Sportivo Trinidense      0-1 (0-1)  Cerro Porteño
+  20.30  Resistencia SC           0-2 (0-0)  Libertad
+[Sun Feb/5]
+  19.00  Sportivo Luqueño         1-1 (1-0)  General Caballero DJLM
+[Wed Mar/8]
+  19.30  Club Nacional            1-1 (0-0)  Club Olimpia
+
+
+Matchday 3
+[Fri Feb/10]
+  18.00  Sportivo Ameliano        0-3 (0-1)  Resistencia SC
+  20.30  Libertad                 1-1 (0-1)  Sportivo Luqueño
+[Sat Feb/11]
+  18.00  General Caballero DJLM   0-1 (0-1)  Club Nacional
+  20.30  Cerro Porteño            1-1 (0-0)  Guaraní
+[Sun Feb/12]
+  17.30  Guaireña FC              1-1 (0-0)  Sportivo Trinidense
+  20.00  Club Olimpia             4-0 (1-0)  Tacuary
+
+
+Matchday 4
+[Fri Feb/17]
+  18.00  Resistencia SC           0-4 (0-2)  Guaraní
+  20.30  Guaireña FC              0-2 (0-1)  Cerro Porteño
+[Sat Feb/18]
+  18.00  Sportivo Trinidense      3-1 (0-1)  Club Olimpia
+  20.30  Club Nacional            1-2 (1-2)  Libertad
+[Sun Feb/19]
+  17.30  Tacuary                  1-1 (1-0)  General Caballero DJLM
+  20.00  Sportivo Luqueño         1-1 (0-1)  Sportivo Ameliano
+
+
+Matchday 5
+[Fri Feb/24]
+  18.00  Sportivo Ameliano        0-0  Club Nacional
+  20.30  Cerro Porteño            1-1 (1-0)  Resistencia SC
+[Sat Feb/25]
+  18.00  Guaraní                  3-1 (3-1)  Sportivo Luqueño
+  20.30  Libertad                 1-0 (1-0)  Tacuary
+[Sun Feb/26]
+  17.30  General Caballero DJLM   1-4 (1-2)  Sportivo Trinidense
+  20.00  Club Olimpia             1-1 (1-1)  Guaireña FC
+
+
+Matchday 6
+[Thu Mar/2]
+  19.00  Tacuary                  1-3 (1-2)  Sportivo Ameliano
+[Fri Mar/3]
+  18.00  Guaireña FC              0-0  General Caballero DJLM
+  20.30  Club Nacional            0-2 (0-0)  Guaraní
+[Sat Mar/4]
+  18.00  Club Olimpia             2-2 (0-1)  Cerro Porteño
+[Sun Mar/5]
+  17.30  Sportivo Luqueño         1-0 (0-0)  Resistencia SC
+  20.00  Sportivo Trinidense      1-2 (1-0)  Libertad
+
+
+Matchday 7
+[Sat Mar/11]
+  19.00  Libertad                 2-0 (0-0)  Guaireña FC
+[Sun Mar/12]
+  18.00  General Caballero DJLM   1-2 (1-2)  Club Olimpia
+  20.30  Resistencia SC           0-1 (0-0)  Club Nacional
+[Mon Mar/13]
+  18.00  Sportivo Ameliano        2-1 (0-0)  Sportivo Trinidense
+  20.30  Cerro Porteño            3-3 (0-1)  Sportivo Luqueño
+[Tue Mar/14]
+  19.00  Guaraní                  1-0 (1-0)  Tacuary
+
+
+Matchday 8
+[Sat Mar/18]
+  18.00  Guaireña FC              0-1 (0-1)  Sportivo Ameliano
+  20.30  Club Nacional            0-1 (0-0)  Sportivo Luqueño
+[Sun Mar/19]
+  18.00  Club Olimpia             2-1 (1-1)  Libertad
+  20.30  Sportivo Trinidense      1-1 (1-0)  Guaraní
+[Mon Mar/20]
+  18.00  General Caballero DJLM   2-3 (2-1)  Cerro Porteño
+  20.30  Tacuary                  2-0 (1-0)  Resistencia SC
+
+
+Matchday 9
+[Fri Mar/24]
+  19.00  Guaraní                  1-1 (0-0)  Guaireña FC
+[Sat Mar/25]
+  18.00  Sportivo Ameliano        2-2 (1-1)  Club Olimpia
+  20.30  Cerro Porteño            4-1 (2-0)  Club Nacional
+[Sun Mar/26]
+  17.00  Sportivo Luqueño         2-0 (2-0)  Tacuary
+  19.30  Resistencia SC           1-0 (1-0)  Sportivo Trinidense
+[Thu Mar/30]
+  19.00  Libertad                 1-0 (0-0)  General Caballero DJLM
+
+
+Matchday 10
+[Fri Mar/31]
+  18.00  Tacuary                  0-0  Club Nacional
+  20.30  Club Olimpia             0-1 (0-0)  Guaraní
+[Sat Apr/1]
+  17.00  Sportivo Trinidense      2-2 (2-2)  Sportivo Luqueño
+  19.30  Guaireña FC              1-3 (1-0)  Resistencia SC
+[Sun Apr/2]
+  17.30  Libertad                 5-0 (5-0)  Cerro Porteño
+  20.00  General Caballero DJLM   0-1 (0-0)  Sportivo Ameliano
+
+
+Matchday 11
+[Sat Apr/8]
+  17.00  Club Nacional            0-1 (0-1)  Sportivo Trinidense
+  19.30  Sportivo Luqueño         0-0  Guaireña FC
+[Sun Apr/9]
+  17.00  Resistencia SC           0-3 (0-1)  Club Olimpia
+  19.30  Cerro Porteño            1-0 (0-0)  Tacuary
+[Mon Apr/10]
+  18.00  Sportivo Ameliano        2-5 (2-1)  Libertad
+  20.30  Guaraní                  3-1 (2-1)  General Caballero DJLM
+
+
+Matchday 12
+[Tue Apr/11]
+  19.30  Club Nacional            2-2 (1-1)  Guaireña FC
+[Wed Apr/12]
+  18.00  Sportivo Luqueño         1-0 (0-0)  Club Olimpia
+  20.30  Tacuary                  0-1 (0-0)  Sportivo Trinidense
+[Thu Apr/13]
+  18.00  Sportivo Ameliano        1-2 (0-2)  Cerro Porteño
+  20.30  Guaraní                  0-0  Libertad
+[Fri Apr/14]
+  19.00  Resistencia SC           1-1 (1-1)  General Caballero DJLM
+
+
+Matchday 13
+[Sat Apr/15]
+  17.00  Guaireña FC              0-1 (0-1)  Tacuary
+  19.30  Club Olimpia             0-1 (0-0)  Club Nacional
+[Sun Apr/16]
+  18.00  Cerro Porteño            3-2 (2-0)  Sportivo Trinidense
+  20.30  Sportivo Ameliano        1-1 (0-1)  Guaraní
+[Mon Apr/17]
+  18.00  Libertad                 4-0 (3-0)  Resistencia SC
+  20.30  General Caballero DJLM   3-2 (2-1)  Sportivo Luqueño
+
+
+Matchday 14
+[Sat Apr/22]
+  17.00  Sportivo Trinidense      1-0 (1-0)  Guaireña FC
+  19.30  Resistencia SC           1-1 (1-1)  Sportivo Ameliano
+[Sun Apr/23]
+  18.00  Tacuary                  0-1 (0-0)  Club Olimpia
+  20.30  Club Nacional            2-0 (0-0)  General Caballero DJLM
+[Mon Apr/24]
+  18.00  Sportivo Luqueño         0-2 (0-1)  Libertad
+  20.30  Guaraní                  0-3 (0-2)  Cerro Porteño
+
+
+Matchday 15
+[Thu Apr/27]
+  17.00  General Caballero DJLM   1-0 (1-0)  Tacuary
+  19.30  Club Olimpia             1-1 (0-1)  Sportivo Trinidense
+[Fri Apr/28]
+  18.00  Cerro Porteño            2-0 (1-0)  Guaireña FC
+  20.30  Guaraní                  1-0 (0-0)  Resistencia SC
+[Sat Apr/29]
+  17.00  Libertad                 2-1 (2-0)  Club Nacional
+[Mon May/1]
+  18.00  Sportivo Ameliano        2-0 (0-0)  Sportivo Luqueño
+
+
+Matchday 16
+[Fri May/5]
+  19.00  Club Nacional            1-0 (1-0)  Sportivo Ameliano
+[Sat May/6]
+  17.00  Sportivo Luqueño         3-0 (1-0)  Guaraní
+  19.30  Sportivo Trinidense      2-0 (1-0)  General Caballero DJLM
+[Sun May/7]
+  17.00  Resistencia SC           1-2 (1-2)  Cerro Porteño
+  19.30  Guaireña FC              1-0 (1-0)  Club Olimpia
+[Mon May/8]
+  19.00  Tacuary                  3-0 (1-0)  Libertad
+
+
+Matchday 17
+[Thu May/11]
+  19.00  General Caballero DJLM   3-0 (0-0)  Guaireña FC
+[Fri May/12]
+  17.30  Sportivo Ameliano        2-1 (1-0)  Tacuary
+  20.00  Libertad                 2-1 (1-0)  Sportivo Trinidense
+[Sat May/13]
+  17.00  Cerro Porteño            2-2 (2-1)  Club Olimpia
+[Sun May/14]
+  17.00  Guaraní                  2-2 (0-0)  Club Nacional
+  19.30  Resistencia SC           1-1 (0-1)  Sportivo Luqueño
+
+
+Matchday 18
+[Tue May/16]
+  18.00  Guaireña FC              0-2 (0-1)  Libertad
+  20.30  Club Olimpia             1-1 (1-0)  General Caballero DJLM
+[Wed May/17]
+  18.00  Sportivo Luqueño         1-1 (0-1)  Cerro Porteño
+  20.30  Tacuary                  1-3 (0-2)  Guaraní
+[Thu May/18]
+  18.00  Sportivo Trinidense      2-0 (1-0)  Sportivo Ameliano
+  20.30  Club Nacional            0-0  Resistencia SC
+
+
+Matchday 19
+[Sat May/20]
+  18.00  Cerro Porteño            1-2 (1-0)  General Caballero DJLM
+         Libertad                 1-0 (1-0)  Club Olimpia
+[Mon May/22]
+  10.00  Guaraní                  0-2 (0-1)  Sportivo Trinidense
+         Resistencia SC           1-0 (1-0)  Tacuary
+  17.00  Sportivo Ameliano        1-1 (0-0)  Guaireña FC
+  19.30  Sportivo Luqueño         0-1 (0-0)  Club Nacional
+
+
+Matchday 20
+[Sat May/27]
+  18.00  Sportivo Trinidense      2-0 (1-0)  Resistencia SC
+[Sun May/28]
+  16.00  General Caballero DJLM   0-2 (0-1)  Libertad
+  18.30  Club Nacional            2-1 (1-0)  Cerro Porteño
+[Mon May/29]
+  17.30  Guaireña FC              2-2 (1-0)  Guaraní
+  20.00  Club Olimpia             1-3 (1-2)  Sportivo Ameliano
+[Tue May/30]
+  19.00  Tacuary                  3-1 (2-1)  Sportivo Luqueño
+
+
+Matchday 21
+[Fri Jun/2]
+  19.30  Cerro Porteño            2-0 (1-0)  Libertad
+         Guaraní                  1-2 (1-1)  Club Olimpia
+         Sportivo Luqueño         2-2 (1-1)  Sportivo Trinidense
+[Sat Jun/3]
+  16.30  Sportivo Ameliano        0-1 (0-1)  General Caballero DJLM
+  19.00  Club Nacional            2-0 (1-0)  Tacuary
+[Sun Jun/4]
+  17.30  Resistencia SC           0-2 (0-2)  Guaireña FC
+
+
+Matchday 22
+[Fri Jun/9]
+  17.00  Guaireña FC              0-2 (0-0)  Sportivo Luqueño
+  19.30  Libertad                 1-1 (0-1)  Sportivo Ameliano
+[Sat Jun/10]
+  16.00  General Caballero DJLM   0-0  Guaraní
+  18.30  Sportivo Trinidense      2-1 (1-0)  Club Nacional
+[Sun Jun/11]
+  10.00  Tacuary                  2-2 (1-1)  Cerro Porteño
+  18.30  Club Olimpia             4-1 (1-0)  Resistencia SC
+
+
+== Clausura
+
+Matchday 1
+[Fri Jul/7]
+  17.00  Resistencia SC           1-1 (0-0)  General Caballero DJLM
+  19.30  Libertad                 2-0 (1-0)  Club Nacional
+[Sat Jul/8]
+  16.00  Sportivo Trinidense      3-2 (1-2)  Sportivo Ameliano
+  18.30  Club Olimpia             1-2 (1-1)  Tacuary
+[Sun Jul/9]
+  16.00  Sportivo Luqueño         1-2 (0-1)  Guaraní
+  18.30  Cerro Porteño            1-3 (0-1)  Guaireña FC
+
+
+Matchday 2
+[Sat Jul/15]
+  16.00  Resistencia SC           3-2 (2-1)  Club Olimpia
+  18.30  Sportivo Ameliano        0-1 (0-1)  Cerro Porteño
+[Sun Jul/16]
+  16.00  General Caballero DJLM   2-0 (0-0)  Sportivo Trinidense
+  18.30  Guaraní                  0-3 (0-1)  Libertad
+[Mon Jul/17]
+  17.00  Guaireña FC              2-2 (2-0)  Sportivo Luqueño
+  19.30  Club Nacional            1-1 (0-1)  Tacuary
+
+
+Matchday 3
+[Fri Jul/21]
+  19.00  Tacuary                  0-1 (0-0)  Guaraní
+[Sat Jul/22]
+  16.00  Sportivo Trinidense      1-2 (0-0)  Resistencia SC
+  18.30  Cerro Porteño            2-0 (1-0)  General Caballero DJLM
+[Sun Jul/23]
+  16.00  Sportivo Luqueño         1-2 (0-1)  Sportivo Ameliano
+  18.30  Club Olimpia             1-2 (1-0)  Club Nacional
+[Mon Jul/24]
+  19.00  Libertad                 4-3 (1-1)  Guaireña FC
+
+
+Matchday 4
+[Fri Jul/28]
+  17.00  General Caballero DJLM   1-0 (0-0)  Sportivo Luqueño
+  19.30  Guaraní                  1-1 (1-1)  Club Nacional
+[Sat Jul/29]
+  16.30  Sportivo Trinidense      1-1 (0-0)  Club Olimpia
+  19.00  Sportivo Ameliano        0-2 (0-0)  Libertad
+[Sun Jul/30]
+  16.00  Guaireña FC              1-2 (0-1)  Tacuary
+  18.30  Resistencia SC           0-1 (0-1)  Cerro Porteño
+
+
+Matchday 5
+[Fri Aug/4]
+  19.00  Libertad                 0-0  General Caballero DJLM
+[Sat Aug/5]
+  16.30  Cerro Porteño            4-1 (1-1)  Sportivo Trinidense
+  19.00  Sportivo Luqueño         2-2 (1-1)  Resistencia SC
+[Sun Aug/6]
+  16.00  Club Olimpia             5-3 (3-1)  Guaraní
+  18.30  Club Nacional            2-0 (0-0)  Guaireña FC
+[Mon Aug/7]
+  19.00  Tacuary                  2-2 (1-1)  Sportivo Ameliano
+
+
+Matchday 6
+[Fri Aug/11]
+  19.00  Sportivo Ameliano        2-0 (1-0)  Club Nacional
+[Sat Aug/12]
+  17.00  Resistencia SC           0-1 (0-0)  Libertad
+  19.30  Guaireña FC              2-1 (1-1)  Guaraní
+[Sun Aug/13]
+  16.30  Cerro Porteño            1-1 (0-0)  Club Olimpia
+[Mon Aug/14]
+  17.00  General Caballero DJLM   0-0  Tacuary
+  19.30  Sportivo Trinidense      1-2 (0-1)  Sportivo Luqueño
+
+
+Matchday 7
+[Fri Aug/18]
+  19.00  Club Olimpia             1-1 (1-1)  Guaireña FC
+[Sat Aug/19]
+  17.00  Guaraní                  0-3 (0-1)  Sportivo Ameliano
+  19.30  Libertad                 0-1 (0-0)  Sportivo Trinidense
+[Sun Aug/20]
+  17.00  Sportivo Luqueño         2-2 (1-1)  Cerro Porteño
+  19.30  Club Nacional            2-3 (0-2)  General Caballero DJLM
+[Mon Aug/21]
+  19.00  Tacuary                  1-0 (0-0)  Resistencia SC
+
+
+Matchday 8
+[Fri Aug/25]
+  19.00  Sportivo Ameliano        4-0 (2-0)  Guaireña FC
+[Sat Aug/26]
+  17.00  Sportivo Trinidense      1-1 (1-0)  Tacuary
+  19.30  Cerro Porteño            1-1 (0-1)  Libertad
+[Sun Aug/27]
+  16.30  Sportivo Luqueño         0-1 (0-0)  Club Olimpia
+  19.00  General Caballero DJLM   0-1 (0-1)  Guaraní
+[Mon Aug/28]
+  19.00  Resistencia SC           2-1 (0-1)  Club Nacional
+
+
+Matchday 9
+[Sat Sep/2]
+  09.00  Guaireña FC              2-1 (2-1)  General Caballero DJLM
+  17.00  Tacuary                  1-1 (1-1)  Cerro Porteño
+  19.30  Libertad                 2-0 (0-0)  Sportivo Luqueño
+[Sun Sep/3]
+  16.30  Guaraní                  3-2 (1-0)  Resistencia SC
+  19.00  Club Nacional            1-2 (1-1)  Sportivo Trinidense
+[Wed Sep/20]
+  19.30  Club Olimpia             4-0 (2-0)  Sportivo Ameliano
+
+
+Matchday 10
+[Sat Sep/9]
+  16.30  Sportivo Trinidense      0-0  Guaraní
+  19.00  General Caballero DJLM   1-4 (1-1)  Sportivo Ameliano
+[Sun Sep/10]
+  16.30  Sportivo Luqueño         3-1 (0-1)  Tacuary
+  19.00  Cerro Porteño            1-1 (1-0)  Club Nacional
+[Mon Sep/11]
+  19.30  Resistencia SC           1-0 (1-0)  Guaireña FC
+[Wed Sep/27]
+  19.30  Libertad                 4-0 (3-0)  Club Olimpia
+
+
+Matchday 11
+[Fri Sep/15]
+  17.00  Guaireña FC              2-0 (1-0)  Sportivo Trinidense
+  19.30  Club Nacional            2-1 (0-0)  Sportivo Luqueño
+[Sat Sep/16]
+  16.30  Tacuary                  0-4 (0-0)  Libertad
+  19.00  Club Olimpia             3-1 (0-1)  General Caballero DJLM
+[Sun Sep/17]
+  16.30  Sportivo Ameliano        1-2 (0-0)  Resistencia SC
+  19.00  Guaraní                  1-0 (0-0)  Cerro Porteño
+
+
+Matchday 12
+[Fri Sep/22]
+  17.30  General Caballero DJLM   2-0 (0-0)  Resistencia SC
+  20.00  Guaireña FC              1-4 (1-2)  Cerro Porteño
+[Sat Sep/23]
+  17.30  Tacuary                  0-0  Club Olimpia
+  20.00  Club Nacional            2-3 (1-2)  Libertad
+[Sun Sep/24]
+  17.30  Guaraní                  2-1 (2-0)  Sportivo Luqueño
+  20.00  Sportivo Ameliano        0-3 (0-0)  Sportivo Trinidense
+
+
+Matchday 13
+[Fri Sep/29]
+  19.00  Sportivo Trinidense      0-3 (0-1)  General Caballero DJLM
+[Sat Sep/30]
+  19.00  Tacuary                  0-3 (0-1)  Club Nacional
+[Sun Oct/1]
+  18.00  Cerro Porteño            3-2 (0-1)  Sportivo Ameliano
+  20.30  Libertad                 0-0  Guaraní
+[Mon Oct/2]
+  18.00  Sportivo Luqueño         1-0 (0-0)  Guaireña FC
+  20.30  Club Olimpia             0-0  Resistencia SC
+
+
+Matchday 14
+[Fri Oct/6]
+  19.30  General Caballero DJLM   1-1 (0-0)  Cerro Porteño
+[Sat Oct/7]
+  18.00  Guaireña FC              1-5 (0-2)  Libertad
+  20.30  Club Nacional            1-0 (0-0)  Club Olimpia
+[Sun Oct/8]
+  18.00  Resistencia SC           1-4 (1-1)  Sportivo Trinidense
+  20.30  Guaraní                  2-0 (2-0)  Tacuary
+[Mon Oct/9]
+  19.30  Sportivo Ameliano        0-2 (0-1)  Sportivo Luqueño
+
+
+Matchday 15
+[Wed Oct/18]
+  18.00  Club Nacional            4-0 (2-0)  Guaraní
+  20.30  Tacuary                  1-3 (1-2)  Guaireña FC
+[Thu Oct/19]
+  19.30  Sportivo Luqueño         1-0 (0-0)  General Caballero DJLM
+[Fri Oct/20]
+  19.30  Libertad                 3-0 (2-0)  Sportivo Ameliano
+[Sat Oct/21]
+  18.00  Club Olimpia             2-2 (1-1)  Sportivo Trinidense
+  20.30  Cerro Porteño            4-1 (1-0)  Resistencia SC
+
+
+Matchday 16
+[Sun Oct/22]
+  18.00  Guaireña FC              0-0  Club Nacional
+[Mon Oct/23]
+  18.00  General Caballero DJLM   0-0  Libertad
+  20.30  Sportivo Ameliano        2-1 (0-1)  Tacuary
+[Tue Oct/24]
+  18.00  Sportivo Trinidense      2-5 (2-3)  Cerro Porteño
+  20.30  Guaraní                  0-1 (0-1)  Club Olimpia
+[Wed Oct/25]
+  19.30  Resistencia SC           0-0  Sportivo Luqueño
+
+
+Matchday 17
+[Fri Oct/27]
+  19.30  Tacuary                  3-0 (1-0)  General Caballero DJLM
+[Sat Oct/28]
+  18.00  Club Nacional            2-1 (2-0)  Sportivo Ameliano
+  20.30  Guaraní                  0-0  Guaireña FC
+[Sun Oct/29]
+  17.00  Club Olimpia             0-0  Cerro Porteño
+[Mon Oct/30]
+  18.00  Sportivo Luqueño         2-1 (1-0)  Sportivo Trinidense
+  20.30  Libertad                 4-1 (2-0)  Resistencia SC
+
+
+Matchday 18
+[Wed Nov/1]
+  18.00  Sportivo Ameliano        0-0  Guaraní
+  20.30  General Caballero DJLM   0-0  Club Nacional
+[Thu Nov/2]
+  18.00  Resistencia SC           1-3 (0-3)  Tacuary
+  20.30  Sportivo Trinidense      1-1 (0-1)  Libertad
+[Fri Nov/3]
+  18.00  Guaireña FC              0-1 (0-0)  Club Olimpia
+  20.30  Cerro Porteño            2-0 (0-0)  Sportivo Luqueño
+
+
+Matchday 19
+[Sun Nov/5]
+  18.00  Tacuary                  1-0 (0-0)  Sportivo Trinidense
+  20.30  Guaraní                  2-0 (2-0)  General Caballero DJLM
+[Mon Nov/6]
+  18.00  Libertad                 1-1 (0-0)  Cerro Porteño
+  20.30  Club Nacional            5-0 (0-0)  Resistencia SC
+[Tue Nov/7]
+  18.00  Guaireña FC              2-2 (1-0)  Sportivo Ameliano
+  20.30  Club Olimpia             2-1 (1-0)  Sportivo Luqueño
+
+
+Matchday 20
+[Sat Nov/11]
+  18.30  Sportivo Ameliano        1-0 (1-0)  Club Olimpia
+  20.30  General Caballero DJLM   0-0  Guaireña FC
+[Sun Nov/12]
+  19.00  Cerro Porteño            1-1 (1-1)  Tacuary
+         Sportivo Luqueño         0-1 (0-0)  Libertad
+[Mon Nov/13]
+  18.00  Resistencia SC           0-1 (0-1)  Guaraní
+  20.30  Sportivo Trinidense      1-1 (1-0)  Club Nacional
+
+
+Matchday 21
+[Thu Nov/23]
+  19.30  Tacuary                  1-1 (0-0)  Sportivo Luqueño
+         Guaireña FC              4-1 (2-1)  Resistencia SC
+[Fri Nov/24]
+  19.30  Sportivo Ameliano        1-2 (1-0)  General Caballero DJLM
+[Sat Nov/25]
+  19.30  Club Olimpia             1-3 (1-1)  Libertad
+         Guaraní                  0-2 (0-0)  Sportivo Trinidense
+[Sun Nov/26]
+  19.00  Club Nacional            1-1 (0-0)  Cerro Porteño
+
+
+Matchday 22
+[Wed Nov/29]
+  19.30  Sportivo Trinidense      7-2 (2-1)  Guaireña FC
+         Libertad                 1-2 (0-1)  Tacuary
+[Thu Nov/30]
+  20.30  Resistencia SC           0-3 (0-1)  Sportivo Ameliano
+[Fri Dec/1]
+  19.30  General Caballero DJLM   0-1 (0-0)  Club Olimpia
+         Cerro Porteño            4-0 (3-0)  Guaraní
+         Sportivo Luqueño         1-1 (1-1)  Club Nacional

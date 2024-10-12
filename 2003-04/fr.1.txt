@@ -1,0 +1,587 @@
+= FR 1 2003/04
+
+# Date       Fri Aug/1 2003 - Sun May/23 2004 (296d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Aug/1]
+  20.45  Lille OSC                1-0 (1-0)  Olympique Lyonnais
+[Sat Aug/2]
+  17.15  AS Monaco                2-0 (1-0)  Girondins Bordeaux
+  20.00  FC Sochaux               2-1 (1-1)  FC Nantes
+         EA Guingamp              0-1 (0-0)  Olympique Marseille
+         Toulouse FC              1-1 (0-0)  RC Strasbourg
+         FC Metz                  0-1 (0-1)  AC Ajaccio
+         RC Lens                  0-0  Le Mans UC 72
+         Montpellier HSC          1-1 (0-1)  Stade Rennais
+         Paris Saint-Germain      0-0  SC Bastia
+         AJ Auxerre               1-2 (0-1)  OGC Nice
+
+
+Matchday 2
+[Fri Aug/8]
+  20.45  Olympique Marseille      1-0 (0-0)  AJ Auxerre
+[Sat Aug/9]
+  17.15  Lille OSC                1-0 (1-0)  Paris Saint-Germain
+  20.00  Stade Rennais            1-0 (1-0)  Toulouse FC
+         OGC Nice                 1-0 (0-0)  FC Sochaux
+         Le Mans UC 72            0-1 (0-1)  AC Ajaccio
+         SC Bastia                0-2 (0-1)  FC Metz
+         FC Nantes                2-0 (0-0)  RC Lens
+         Girondins Bordeaux       0-1 (0-0)  Montpellier HSC
+         Olympique Lyonnais       3-1 (3-0)  AS Monaco
+         RC Strasbourg            2-0 (1-0)  EA Guingamp
+
+
+Matchday 3
+[Sat Aug/16]
+  17.15  AJ Auxerre               3-2 (2-1)  RC Strasbourg
+  20.00  AC Ajaccio               1-3 (0-2)  FC Nantes
+         EA Guingamp              1-3 (1-2)  Girondins Bordeaux
+         Toulouse FC              0-3 (0-1)  Lille OSC
+         Le Mans UC 72            1-1 (1-1)  OGC Nice
+         Montpellier HSC          0-2 (0-2)  Olympique Lyonnais
+         FC Sochaux               1-1 (0-0)  Stade Rennais
+         AS Monaco                2-0 (2-0)  SC Bastia
+         FC Metz                  0-1 (0-0)  Paris Saint-Germain
+[Sun Aug/17]
+  20.45  RC Lens                  2-1 (1-1)  Olympique Marseille
+
+
+Matchday 4
+[Sat Aug/23]
+  17.15  Girondins Bordeaux       2-0 (2-0)  AJ Auxerre
+  20.00  Lille OSC                1-1 (0-1)  FC Metz
+         Olympique Marseille      2-0 (1-0)  FC Sochaux
+         Stade Rennais            0-0  EA Guingamp
+         OGC Nice                 2-2 (1-1)  AC Ajaccio
+         RC Strasbourg            0-1 (0-1)  RC Lens
+         SC Bastia                1-0 (0-0)  Montpellier HSC
+         FC Nantes                1-0 (0-0)  Le Mans UC 72
+         Olympique Lyonnais       0-0  Toulouse FC
+[Sun Aug/24]
+  20.45  Paris Saint-Germain      2-4 (1-2)  AS Monaco
+
+
+Matchday 5
+[Sat Aug/30]
+  17.15  EA Guingamp              2-0 (2-0)  Olympique Lyonnais
+  20.00  Toulouse FC              0-2 (0-2)  SC Bastia
+         Le Mans UC 72            0-3 (0-1)  RC Strasbourg
+         Montpellier HSC          3-2 (0-1)  Paris Saint-Germain
+         FC Sochaux               2-1 (2-1)  Lille OSC
+         AJ Auxerre               2-1 (1-0)  Stade Rennais
+         FC Nantes                0-0  Girondins Bordeaux
+[Sun Aug/31]
+  18.30  RC Lens                  1-0 (0-0)  OGC Nice
+         AS Monaco                1-0 (1-0)  FC Metz
+  20.45  AC Ajaccio               0-1 (0-0)  Olympique Marseille
+
+
+Matchday 6
+[Sat Sep/13]
+  17.15  Olympique Lyonnais       1-1 (1-1)  AJ Auxerre
+  20.00  Lille OSC                1-1 (0-1)  AS Monaco
+         Olympique Marseille      5-0 (2-0)  Le Mans UC 72
+         Stade Rennais            2-0 (1-0)  RC Lens
+         OGC Nice                 1-0 (1-0)  FC Nantes
+         RC Strasbourg            3-2 (3-2)  AC Ajaccio
+         SC Bastia                4-2 (2-0)  EA Guingamp
+         FC Metz                  2-1 (1-0)  Montpellier HSC
+         Girondins Bordeaux       1-3 (1-1)  FC Sochaux
+[Sun Sep/14]
+  20.45  Paris Saint-Germain      2-1 (1-0)  Toulouse FC
+
+
+Matchday 7
+[Sat Sep/20]
+  17.15  FC Sochaux               3-0 (2-0)  RC Strasbourg
+  20.00  AC Ajaccio               1-0 (1-0)  Stade Rennais
+         Toulouse FC              1-0 (0-0)  FC Metz
+         OGC Nice                 2-0 (2-0)  Lille OSC
+         EA Guingamp              0-2 (0-0)  Paris Saint-Germain
+         AJ Auxerre               4-1 (3-1)  SC Bastia
+         RC Lens                  1-0 (1-0)  Girondins Bordeaux
+[Sun Sep/21]
+  18.30  Le Mans UC 72            0-2 (0-1)  Olympique Lyonnais
+         Montpellier HSC          1-2 (1-1)  AS Monaco
+  20.45  FC Nantes                1-0 (1-0)  Olympique Marseille
+
+
+Matchday 8
+[Sat Sep/27]
+  17.15  Olympique Lyonnais       4-0 (3-0)  RC Lens
+  20.00  Lille OSC                1-1 (1-0)  Montpellier HSC
+         SC Bastia                2-0 (2-0)  FC Sochaux
+         Olympique Marseille      2-1 (0-1)  OGC Nice
+         Stade Rennais            2-0 (1-0)  Le Mans UC 72
+         Paris Saint-Germain      1-0 (1-0)  AJ Auxerre
+         AS Monaco                3-0 (2-0)  Toulouse FC
+         FC Metz                  1-1 (0-1)  EA Guingamp
+[Sun Sep/28]
+  18.00  Girondins Bordeaux       1-0 (0-0)  AC Ajaccio
+  20.45  RC Strasbourg            1-0 (0-0)  FC Nantes
+
+
+Matchday 9
+[Sat Oct/4]
+  17.15  FC Nantes                1-0 (1-0)  Stade Rennais
+  20.00  AC Ajaccio               2-4 (1-2)  Olympique Lyonnais
+         Toulouse FC              2-2 (1-1)  Montpellier HSC
+         OGC Nice                 0-0  RC Strasbourg
+         Le Mans UC 72            0-0  Girondins Bordeaux
+         RC Lens                  0-2 (0-0)  FC Metz
+         FC Sochaux               0-1 (0-1)  Paris Saint-Germain
+         EA Guingamp              1-2 (0-2)  AS Monaco
+         AJ Auxerre               3-0 (2-0)  Lille OSC
+[Sun Oct/5]
+  20.45  Olympique Marseille      3-1 (2-0)  SC Bastia
+
+
+Matchday 10
+[Fri Oct/17]
+  21.00  RC Strasbourg            4-1 (3-1)  Olympique Marseille
+[Sat Oct/18]
+  17.30  AS Monaco                1-1 (0-1)  AJ Auxerre
+  20.00  Lille OSC                0-0  AC Ajaccio
+         SC Bastia                3-1 (2-0)  RC Lens
+         Stade Rennais            0-0  OGC Nice
+         Montpellier HSC          2-0 (1-0)  EA Guingamp
+         Girondins Bordeaux       1-2 (0-1)  Toulouse FC
+         Olympique Lyonnais       1-1 (0-0)  FC Sochaux
+         Paris Saint-Germain      5-1 (2-1)  Le Mans UC 72
+         FC Metz                  1-3 (1-1)  FC Nantes
+
+
+Matchday 11
+[Sat Oct/25]
+  17.15  FC Nantes                0-1 (0-0)  Olympique Lyonnais
+  20.00  AC Ajaccio               0-0  Paris Saint-Germain
+         EA Guingamp              1-0 (0-0)  Toulouse FC
+         OGC Nice                 0-0  Girondins Bordeaux
+         Le Mans UC 72            1-1 (1-1)  SC Bastia
+         Olympique Marseille      2-0 (1-0)  Stade Rennais
+         RC Lens                  2-1 (0-1)  Lille OSC
+         AJ Auxerre               0-1 (0-1)  Montpellier HSC
+         RC Strasbourg            0-2 (0-1)  FC Metz
+[Sun Oct/26]
+  20.45  FC Sochaux               1-1 (0-1)  AS Monaco
+
+
+Matchday 12
+[Sat Nov/1]
+  17.15  Olympique Lyonnais       5-0 (4-0)  OGC Nice
+  20.00  Lille OSC                1-3 (0-0)  EA Guingamp
+         Stade Rennais            1-1 (1-0)  RC Strasbourg
+         Montpellier HSC          4-1 (3-0)  FC Nantes
+         Toulouse FC              0-3 (0-2)  AJ Auxerre
+         Girondins Bordeaux       1-0 (1-0)  Olympique Marseille
+         SC Bastia                1-1 (1-0)  AC Ajaccio
+         AS Monaco                4-2 (2-2)  Le Mans UC 72
+         FC Metz                  0-1 (0-1)  FC Sochaux
+[Sun Nov/2]
+  20.45  Paris Saint-Germain      0-1 (0-0)  RC Lens
+
+
+Matchday 13
+[Sat Nov/8]
+  17.15  OGC Nice                 2-0 (1-0)  SC Bastia
+  20.00  Le Mans UC 72            2-0 (1-0)  FC Metz
+         Stade Rennais            2-2 (0-1)  Lille OSC
+         FC Nantes                0-1 (0-0)  Paris Saint-Germain
+[Sun Nov/9]
+  18.00  AC Ajaccio               0-1 (0-0)  AS Monaco
+         FC Sochaux               3-1 (1-0)  Toulouse FC
+         RC Lens                  3-2 (1-2)  Montpellier HSC
+         AJ Auxerre               3-0 (2-0)  EA Guingamp
+         RC Strasbourg            1-1 (0-1)  Girondins Bordeaux
+  21.00  Olympique Marseille      1-4 (1-2)  Olympique Lyonnais
+
+
+Matchday 14
+[Fri Nov/21]
+  20.30  Olympique Lyonnais       1-0 (0-0)  RC Strasbourg
+[Sat Nov/22]
+  17.15  AS Monaco                2-0 (0-0)  RC Lens
+  20.00  Lille OSC                0-2 (0-1)  Olympique Marseille
+         Montpellier HSC          3-1 (1-1)  AC Ajaccio
+         EA Guingamp              1-2 (0-1)  FC Sochaux
+         Toulouse FC              1-1 (0-1)  Le Mans UC 72
+         Girondins Bordeaux       2-1 (1-1)  Stade Rennais
+         SC Bastia                1-3 (1-1)  FC Nantes
+         FC Metz                  0-2 (0-0)  AJ Auxerre
+[Sun Nov/23]
+  20.45  Paris Saint-Germain      0-0  OGC Nice
+
+
+Matchday 15
+[Sat Nov/29]
+  17.15  Stade Rennais            3-1 (2-1)  Olympique Lyonnais
+  20.00  AC Ajaccio               2-1 (1-0)  Toulouse FC
+         OGC Nice                 1-1 (1-1)  FC Metz
+         Le Mans UC 72            4-0 (3-0)  Montpellier HSC
+         RC Strasbourg            2-2 (0-1)  Lille OSC
+         FC Nantes                0-1 (0-0)  AS Monaco
+[Sun Nov/30]
+  18.00  FC Sochaux               3-2 (3-0)  AJ Auxerre
+         RC Lens                  2-1 (1-0)  EA Guingamp
+         Girondins Bordeaux       1-1 (1-0)  SC Bastia
+  20.45  Olympique Marseille      0-1 (0-0)  Paris Saint-Germain
+
+
+Matchday 16
+[Wed Dec/3]
+  19.00  Lille OSC                2-0 (1-0)  FC Nantes
+         EA Guingamp              2-0 (0-0)  AC Ajaccio
+         Toulouse FC              1-2 (0-0)  RC Lens
+         SC Bastia                3-2 (1-1)  Stade Rennais
+         AJ Auxerre               1-0 (1-0)  Le Mans UC 72
+  21.00  Paris Saint-Germain      3-2 (1-1)  RC Strasbourg
+[Wed Jan/21]
+  18.00  AS Monaco                1-1 (1-0)  OGC Nice
+  20.00  Montpellier HSC          1-3 (1-3)  FC Sochaux
+[Tue Jan/27]
+  20.45  FC Metz                  1-1 (0-0)  Olympique Marseille
+[Wed Jan/28]
+  21.00  Olympique Lyonnais       3-0 (0-0)  Girondins Bordeaux
+
+
+Matchday 17
+[Fri Dec/5]
+  19.00  Olympique Lyonnais       2-1 (1-1)  FC Metz
+  21.00  Olympique Marseille      1-2 (1-0)  AS Monaco
+[Sat Dec/6]
+  17.15  RC Lens                  0-3 (0-1)  FC Sochaux
+  20.00  AC Ajaccio               1-2 (0-1)  AJ Auxerre
+         Stade Rennais            1-1 (0-0)  Paris Saint-Germain
+         FC Nantes                1-1 (1-1)  Toulouse FC
+         Girondins Bordeaux       2-1 (2-0)  Lille OSC
+         RC Strasbourg            4-2 (3-1)  SC Bastia
+[Sun Dec/7]
+  18.00  OGC Nice                 2-1 (2-0)  Montpellier HSC
+  18.30  Le Mans UC 72            2-0 (1-0)  EA Guingamp
+
+
+Matchday 18
+[Sat Dec/13]
+  17.15  Paris Saint-Germain      2-1 (1-1)  Girondins Bordeaux
+  20.00  Lille OSC                1-1 (0-1)  Le Mans UC 72
+         FC Sochaux               2-0 (1-0)  AC Ajaccio
+         EA Guingamp              1-1 (0-1)  FC Nantes
+         Toulouse FC              1-1 (1-0)  OGC Nice
+         FC Metz                  1-1 (1-0)  Stade Rennais
+         SC Bastia                0-0  Olympique Lyonnais
+         AJ Auxerre               2-0 (1-0)  RC Lens
+[Sun Dec/14]
+  20.45  AS Monaco                2-0 (1-0)  RC Strasbourg
+[Wed Feb/4]
+  19.00  Montpellier HSC          0-1 (0-0)  Olympique Marseille
+
+
+Matchday 19
+[Fri Dec/19]
+  21.00  Olympique Lyonnais       1-1 (0-1)  Paris Saint-Germain
+[Sat Dec/20]
+  17.15  Olympique Marseille      1-0 (0-0)  Toulouse FC
+  20.00  AC Ajaccio               2-0 (1-0)  RC Lens
+         Stade Rennais            1-0 (0-0)  AS Monaco
+         OGC Nice                 2-0 (1-0)  EA Guingamp
+         Le Mans UC 72            2-2 (1-0)  FC Sochaux
+         SC Bastia                0-2 (0-1)  Lille OSC
+         FC Nantes                1-0 (1-0)  AJ Auxerre
+         Girondins Bordeaux       2-0 (1-0)  FC Metz
+         RC Strasbourg            4-2 (2-2)  Montpellier HSC
+
+
+Matchday 20
+[Fri Jan/9]
+  21.00  AS Monaco                3-0 (1-0)  Olympique Lyonnais
+[Sat Jan/10]
+  17.15  Paris Saint-Germain      1-0 (1-0)  Lille OSC
+  20.00  Toulouse FC              2-0 (1-0)  Stade Rennais
+         FC Sochaux               0-0  OGC Nice
+         AC Ajaccio               2-0 (1-0)  Le Mans UC 72
+         FC Metz                  1-0 (0-0)  SC Bastia
+         RC Lens                  0-0  FC Nantes
+         AJ Auxerre               2-0 (2-0)  Olympique Marseille
+         Montpellier HSC          1-2 (0-1)  Girondins Bordeaux
+         EA Guingamp              3-2 (2-2)  RC Strasbourg
+
+
+Matchday 21
+[Sat Jan/17]
+  17.15  SC Bastia                0-0  AS Monaco
+  20.00  FC Nantes                4-0 (2-0)  AC Ajaccio
+         Girondins Bordeaux       2-0 (1-0)  EA Guingamp
+         Lille OSC                0-1 (0-1)  Toulouse FC
+         OGC Nice                 0-1 (0-1)  Le Mans UC 72
+         Olympique Lyonnais       3-0 (2-0)  Montpellier HSC
+         Stade Rennais            4-0 (1-0)  FC Sochaux
+         RC Strasbourg            0-2 (0-1)  AJ Auxerre
+         Paris Saint-Germain      0-0  FC Metz
+[Sun Jan/18]
+  20.45  Olympique Marseille      3-2 (1-1)  RC Lens
+
+
+Matchday 22
+[Fri Jan/30]
+  21.00  AS Monaco                1-1 (1-1)  Paris Saint-Germain
+[Sat Jan/31]
+  17.15  AJ Auxerre               5-0 (4-0)  Girondins Bordeaux
+  20.00  FC Metz                  0-1 (0-1)  Lille OSC
+         FC Sochaux               2-1 (1-1)  Olympique Marseille
+         EA Guingamp              0-2 (0-0)  Stade Rennais
+         AC Ajaccio               1-1 (1-0)  OGC Nice
+         RC Lens                  2-1 (0-0)  RC Strasbourg
+         Montpellier HSC          1-1 (1-0)  SC Bastia
+         Le Mans UC 72            0-1 (0-1)  FC Nantes
+         Toulouse FC              0-1 (0-0)  Olympique Lyonnais
+
+
+Matchday 23
+[Fri Feb/6]
+  21.00  Girondins Bordeaux       2-0 (2-0)  FC Nantes
+[Sat Feb/7]
+  17.15  Olympique Marseille      2-1 (1-0)  AC Ajaccio
+  20.00  Olympique Lyonnais       0-1 (0-0)  EA Guingamp
+         SC Bastia                1-0 (1-0)  Toulouse FC
+         RC Strasbourg            3-0 (0-0)  Le Mans UC 72
+         OGC Nice                 4-0 (3-0)  RC Lens
+         Paris Saint-Germain      6-1 (2-0)  Montpellier HSC
+         Lille OSC                2-0 (1-0)  FC Sochaux
+         FC Metz                  0-2 (0-1)  AS Monaco
+         Stade Rennais            0-2 (0-1)  AJ Auxerre
+
+
+Matchday 24
+[Sat Feb/14]
+  17.15  FC Sochaux               1-1 (0-0)  Girondins Bordeaux
+  20.00  AS Monaco                0-1 (0-0)  Lille OSC
+         Le Mans UC 72            0-0  Olympique Marseille
+         RC Lens                  2-1 (1-0)  Stade Rennais
+         FC Nantes                3-1 (2-1)  OGC Nice
+         AC Ajaccio               0-0  RC Strasbourg
+         EA Guingamp              1-0 (1-0)  SC Bastia
+         Toulouse FC              0-1 (0-1)  Paris Saint-Germain
+         Montpellier HSC          0-1 (0-1)  FC Metz
+[Sun Feb/15]
+  20.45  AJ Auxerre               1-2 (0-1)  Olympique Lyonnais
+
+
+Matchday 25
+[Fri Feb/20]
+  20.00  AS Monaco                4-0 (0-0)  Montpellier HSC
+[Sat Feb/21]
+  17.15  Olympique Lyonnais       2-0 (1-0)  Le Mans UC 72
+  20.00  Stade Rennais            4-1 (0-1)  AC Ajaccio
+         FC Metz                  0-2 (0-1)  Toulouse FC
+         Lille OSC                1-2 (0-1)  OGC Nice
+         RC Strasbourg            0-2 (0-2)  FC Sochaux
+         Paris Saint-Germain      2-0 (1-0)  EA Guingamp
+         SC Bastia                0-0  AJ Auxerre
+         Girondins Bordeaux       0-0  RC Lens
+[Sun Feb/22]
+  20.45  Olympique Marseille      1-1 (1-1)  FC Nantes
+
+
+Matchday 26
+[Sat Feb/28]
+  17.15  FC Nantes                1-1 (1-0)  RC Strasbourg
+  20.00  Montpellier HSC          0-2 (0-1)  Lille OSC
+         Le Mans UC 72            2-2 (1-1)  Stade Rennais
+         RC Lens                  1-1 (0-1)  Olympique Lyonnais
+         Toulouse FC              1-1 (0-0)  AS Monaco
+[Sun Feb/29]
+  18.00  FC Sochaux               2-1 (1-0)  SC Bastia
+         OGC Nice                 0-0  Olympique Marseille
+         AC Ajaccio               1-0 (1-0)  Girondins Bordeaux
+  21.00  AJ Auxerre               1-1 (1-0)  Paris Saint-Germain
+[Fri Apr/16]
+  20.00  EA Guingamp              1-1 (1-1)  FC Metz
+
+
+Matchday 27
+[Fri Mar/5]
+  20.00  Olympique Lyonnais       4-0 (1-0)  AC Ajaccio
+         AS Monaco                3-1 (3-1)  EA Guingamp
+[Sat Mar/6]
+  17.15  Lille OSC                1-0 (0-0)  AJ Auxerre
+  20.00  Montpellier HSC          0-1 (0-1)  Toulouse FC
+         RC Strasbourg            2-2 (0-2)  OGC Nice
+         Girondins Bordeaux       2-0 (1-0)  Le Mans UC 72
+         FC Metz                  0-2 (0-1)  RC Lens
+         Paris Saint-Germain      1-1 (0-0)  FC Sochaux
+         Stade Rennais            0-3 (0-0)  FC Nantes
+[Sun Mar/7]
+  20.45  SC Bastia                4-1 (2-0)  Olympique Marseille
+
+
+Matchday 28
+[Sat Mar/13]
+  17.15  Le Mans UC 72            0-1 (0-0)  Paris Saint-Germain
+  20.00  AC Ajaccio               0-3 (0-1)  Lille OSC
+         RC Lens                  0-0  SC Bastia
+         OGC Nice                 3-1 (1-0)  Stade Rennais
+         EA Guingamp              4-3 (1-2)  Montpellier HSC
+         FC Sochaux               1-2 (1-1)  Olympique Lyonnais
+         FC Nantes                2-2 (2-0)  FC Metz
+[Sun Mar/14]
+  18.00  Toulouse FC              1-0 (0-0)  Girondins Bordeaux
+         Olympique Marseille      4-0 (2-0)  RC Strasbourg
+  20.45  AJ Auxerre               0-0  AS Monaco
+
+
+Matchday 29
+[Fri Mar/19]
+  20.00  Toulouse FC              0-0  EA Guingamp
+[Sat Mar/20]
+  17.15  Olympique Lyonnais       1-0 (1-0)  FC Nantes
+  20.00  Paris Saint-Germain      1-0 (0-0)  AC Ajaccio
+         Girondins Bordeaux       1-1 (1-1)  OGC Nice
+         SC Bastia                0-0  Le Mans UC 72
+         Lille OSC                1-1 (1-1)  RC Lens
+         AS Monaco                1-1 (0-0)  FC Sochaux
+         Montpellier HSC          1-0 (0-0)  AJ Auxerre
+         FC Metz                  1-0 (1-0)  RC Strasbourg
+[Sun Mar/21]
+  20.45  Stade Rennais            4-3 (2-2)  Olympique Marseille
+
+
+Matchday 30
+[Sat Mar/27]
+  17.15  FC Sochaux               2-0 (0-0)  FC Metz
+  20.00  EA Guingamp              2-1 (2-1)  Lille OSC
+         RC Strasbourg            0-3 (0-0)  Stade Rennais
+         FC Nantes                3-2 (1-1)  Montpellier HSC
+         OGC Nice                 0-1 (0-1)  Olympique Lyonnais
+         AC Ajaccio               1-0 (1-0)  SC Bastia
+         Le Mans UC 72            0-1 (0-0)  AS Monaco
+[Sun Mar/28]
+  18.30  AJ Auxerre               3-2 (2-1)  Toulouse FC
+         Olympique Marseille      1-1 (0-1)  Girondins Bordeaux
+  20.45  RC Lens                  1-0 (1-0)  Paris Saint-Germain
+
+
+Matchday 31
+[Fri Apr/2]
+  20.00  AS Monaco                3-3 (0-3)  AC Ajaccio
+[Sat Apr/3]
+  17.15  Olympique Lyonnais       1-2 (1-1)  Olympique Marseille
+  20.00  Toulouse FC              0-0  FC Sochaux
+         SC Bastia                2-1 (2-1)  OGC Nice
+         FC Metz                  5-0 (2-0)  Le Mans UC 72
+         Montpellier HSC          1-0 (1-0)  RC Lens
+         Lille OSC                1-0 (0-0)  Stade Rennais
+         Girondins Bordeaux       1-1 (0-0)  RC Strasbourg
+         Paris Saint-Germain      3-2 (1-1)  FC Nantes
+[Sun Apr/4]
+  20.45  EA Guingamp              2-2 (1-0)  AJ Auxerre
+
+
+Matchday 32
+[Sat Apr/10]
+  17.15  RC Lens                  0-0  AS Monaco
+  20.00  AC Ajaccio               0-0  Montpellier HSC
+         FC Sochaux               2-0 (0-0)  EA Guingamp
+         Le Mans UC 72            2-1 (1-0)  Toulouse FC
+         FC Nantes                1-1 (0-0)  SC Bastia
+         OGC Nice                 1-2 (1-0)  Paris Saint-Germain
+         AJ Auxerre               2-1 (0-0)  FC Metz
+[Sun Apr/11]
+  20.45  RC Strasbourg            0-1 (0-0)  Olympique Lyonnais
+[Sun Apr/18]
+  18.00  Olympique Marseille      2-1 (1-1)  Lille OSC
+         Stade Rennais            3-1 (1-0)  Girondins Bordeaux
+
+
+Matchday 33
+[Sat Apr/24]
+  17.15  AS Monaco                0-1 (0-0)  FC Nantes
+  20.00  Toulouse FC              3-1 (1-0)  AC Ajaccio
+         AJ Auxerre               2-1 (0-0)  FC Sochaux
+         FC Metz                  1-0 (0-0)  OGC Nice
+         Montpellier HSC          0-3 (0-3)  Le Mans UC 72
+         EA Guingamp              1-0 (1-0)  RC Lens
+         Olympique Lyonnais       3-0 (0-0)  Stade Rennais
+         SC Bastia                0-2 (0-1)  Girondins Bordeaux
+         Lille OSC                0-1 (0-1)  RC Strasbourg
+[Sun Apr/25]
+  18.15  Paris Saint-Germain      2-1 (1-0)  Olympique Marseille
+
+
+Matchday 34
+[Fri Apr/30]
+  20.30  OGC Nice                 1-2 (1-2)  AS Monaco
+[Sat May/1]
+  17.15  Olympique Marseille      0-1 (0-1)  FC Metz
+  20.00  FC Nantes                2-0 (2-0)  Lille OSC
+         FC Sochaux               3-1 (2-1)  Montpellier HSC
+         AC Ajaccio               0-0  EA Guingamp
+         RC Lens                  1-1 (1-0)  Toulouse FC
+         Stade Rennais            4-0 (3-0)  SC Bastia
+         RC Strasbourg            0-0  Paris Saint-Germain
+         Le Mans UC 72            2-1 (2-0)  AJ Auxerre
+[Sun May/2]
+  20.45  Girondins Bordeaux       1-1 (0-0)  Olympique Lyonnais
+
+
+Matchday 35
+[Sat May/8]
+  17.15  Paris Saint-Germain      1-0 (0-0)  Stade Rennais
+  20.00  AJ Auxerre               1-1 (1-0)  AC Ajaccio
+         Montpellier HSC          2-2 (1-1)  OGC Nice
+         EA Guingamp              2-4 (0-2)  Le Mans UC 72
+         Toulouse FC              0-1 (0-0)  FC Nantes
+         FC Sochaux               0-3 (0-2)  RC Lens
+         Lille OSC                2-1 (1-0)  Girondins Bordeaux
+         FC Metz                  1-2 (1-1)  Olympique Lyonnais
+         SC Bastia                0-0  RC Strasbourg
+[Sun May/9]
+  20.45  AS Monaco                1-0 (0-0)  Olympique Marseille
+
+
+Matchday 36
+[Tue May/11]
+  18.15  RC Lens                  1-3 (1-1)  AJ Auxerre
+  20.45  Girondins Bordeaux       3-0 (1-0)  Paris Saint-Germain
+[Wed May/12]
+  20.30  Le Mans UC 72            1-1 (1-1)  Lille OSC
+         AC Ajaccio               1-0 (1-0)  FC Sochaux
+         FC Nantes                0-0  EA Guingamp
+         OGC Nice                 1-1 (0-1)  Toulouse FC
+         Stade Rennais            0-0  FC Metz
+         Olympique Lyonnais       1-0 (1-0)  SC Bastia
+         Olympique Marseille      1-1 (1-0)  Montpellier HSC
+         RC Strasbourg            0-0  AS Monaco
+
+
+Matchday 37
+[Sat May/15]
+  20.00  RC Lens                  2-0 (1-0)  AC Ajaccio
+         AS Monaco                1-4 (1-1)  Stade Rennais
+         EA Guingamp              1-2 (1-0)  OGC Nice
+         FC Sochaux               3-0 (1-0)  Le Mans UC 72
+         Lille OSC                2-0 (0-0)  SC Bastia
+         AJ Auxerre               2-0 (2-0)  FC Nantes
+         Toulouse FC              2-1 (1-1)  Olympique Marseille
+         FC Metz                  3-1 (0-1)  Girondins Bordeaux
+         Paris Saint-Germain      1-0 (1-0)  Olympique Lyonnais
+         Montpellier HSC          1-2 (0-0)  RC Strasbourg
+
+
+Matchday 38
+[Fri May/21]
+  20.30  Girondins Bordeaux       1-3 (1-1)  AS Monaco
+[Sun May/23]
+  20.00  Olympique Lyonnais       3-0 (1-0)  Lille OSC
+         FC Nantes                3-1 (2-0)  FC Sochaux
+         Olympique Marseille      2-1 (2-0)  EA Guingamp
+         RC Strasbourg            0-0  Toulouse FC
+         AC Ajaccio               3-1 (2-1)  FC Metz
+         Le Mans UC 72            3-0 (1-0)  RC Lens
+         Stade Rennais            4-0 (2-0)  Montpellier HSC
+         SC Bastia                0-1 (0-0)  Paris Saint-Germain
+         OGC Nice                 1-1 (0-0)  AJ Auxerre

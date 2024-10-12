@@ -1,0 +1,366 @@
+= IT 1 1939/40
+
+# Date       Sun Sep/17 1939 - Sun Jun/2 1940 (259d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Sep/17]
+         ACF Fiorentina           1-1  Genova 1893 Circolo del Calcio
+         AC Liguria               0-0  AC Venezia
+         Modena FC                1-1  Lazio Roma
+         AS Roma                  2-0  Bologna FC
+         Torino FC                2-1  AC Milan
+         US Triestina             2-0  Novara Calcio
+         Inter                    4-0  Juventus
+         AS Bari                  1-0  SSC Napoli
+
+
+Matchday 2
+[Sun Sep/24]
+         AC Milan                 3-1  ACF Fiorentina
+         AC Venezia               2-1  Inter
+         SSC Napoli               3-2  AC Liguria
+         Bologna FC               2-0  US Triestina
+         Juventus                 1-1  AS Roma
+         Genova 1893 Circolo del Calcio  3-0  AS Bari
+         Lazio Roma               1-1  Torino FC
+         Novara Calcio            1-0  Modena FC
+
+
+Matchday 3
+[Sun Oct/1]
+         US Triestina             1-0  Juventus
+         Torino FC                1-0  Novara Calcio
+         AS Roma                  0-2  AC Venezia
+         Genova 1893 Circolo del Calcio  1-1  AC Milan
+         AS Bari                  1-1  AC Liguria
+         Inter                    4-0  SSC Napoli
+         Modena FC                0-0  Bologna FC
+         ACF Fiorentina           2-3  Lazio Roma
+
+
+Matchday 4
+[Sun Oct/8]
+         SSC Napoli               0-1  AS Roma
+         AC Milan                 4-0  AS Bari
+         AC Venezia               3-1  US Triestina
+         Bologna FC               3-1  Torino FC
+         Lazio Roma               4-1  Genova 1893 Circolo del Calcio
+         AC Liguria               0-2  Inter
+         Juventus                 1-0  Modena FC
+         Novara Calcio            2-1  ACF Fiorentina
+
+
+Matchday 5
+[Sun Oct/15]
+         US Triestina             2-0  SSC Napoli
+         Torino FC                1-2  Juventus
+         AS Roma                  2-2  AC Liguria
+         AC Milan                 0-2  Lazio Roma
+         ACF Fiorentina           1-0  Bologna FC
+         AS Bari                  3-0  Inter
+         Modena FC                2-2  AC Venezia
+         Genova 1893 Circolo del Calcio  5-3  Novara Calcio
+
+
+Matchday 6
+[Sun Oct/22]
+         Juventus                 3-2  ACF Fiorentina
+         Novara Calcio            1-0  AC Milan
+         SSC Napoli               1-0  Modena FC
+         AC Venezia               2-1  Torino FC
+         Lazio Roma               0-1  AS Bari
+         Bologna FC               5-3  Genova 1893 Circolo del Calcio
+         Inter                    3-0  AS Roma
+         AC Liguria               1-1  US Triestina
+
+
+Matchday 7
+[Sun Oct/29]
+         ACF Fiorentina           3-1  AC Venezia
+         Genova 1893 Circolo del Calcio  3-2  Juventus
+         Lazio Roma               1-0  Novara Calcio
+         AC Milan                 0-2  Bologna FC
+         Modena FC                1-1  AC Liguria
+         Torino FC                1-0  SSC Napoli
+         US Triestina             2-1  Inter
+         AS Bari                  0-0  AS Roma
+
+
+Matchday 8
+[Sun Nov/5]
+         SSC Napoli               2-1  ACF Fiorentina
+         Novara Calcio            1-0  AS Bari
+         AS Roma                  1-0  US Triestina
+         Juventus                 2-2  AC Milan
+         Inter                    2-1  Modena FC
+         Bologna FC               3-1  Lazio Roma
+         AC Liguria               2-1  Torino FC
+         AC Venezia               2-6  Genova 1893 Circolo del Calcio
+
+
+Matchday 9
+[Sun Nov/19]
+         Torino FC                0-1  Inter
+         Novara Calcio            0-0  Bologna FC
+         Modena FC                1-0  AS Roma
+         Lazio Roma               4-0  Juventus
+         ACF Fiorentina           4-0  AC Liguria
+         AS Bari                  2-2  US Triestina
+         AC Milan                 2-1  AC Venezia
+         Genova 1893 Circolo del Calcio  2-0  SSC Napoli
+
+
+Matchday 10
+[Sun Dec/3]
+         Juventus                 1-0  Novara Calcio
+         AC Venezia               2-1  Lazio Roma
+         US Triestina             4-1  Modena FC
+         AS Roma                  0-0  Torino FC
+         Bologna FC               3-1  AS Bari
+         Inter                    3-0  ACF Fiorentina
+         SSC Napoli               1-4  AC Milan
+         AC Liguria               2-1  Genova 1893 Circolo del Calcio
+
+
+Matchday 11
+[Sun Dec/10]
+         Torino FC                3-1  US Triestina
+         Novara Calcio            2-0  AC Venezia
+         Lazio Roma               2-0  SSC Napoli
+         ACF Fiorentina           1-0  AS Roma
+         Bologna FC               1-0  Juventus
+         AS Bari                  1-0  Modena FC
+         AC Milan                 1-1  AC Liguria
+         Genova 1893 Circolo del Calcio  2-2  Inter
+
+
+Matchday 12
+[Sun Dec/17]
+         AC Liguria               0-0  Lazio Roma
+         US Triestina             2-1  ACF Fiorentina
+         AS Roma                  2-0  Genova 1893 Circolo del Calcio
+         AC Venezia               1-1  Bologna FC
+         Juventus                 6-2  AS Bari
+         Inter                    0-3  AC Milan
+         SSC Napoli               2-1  Novara Calcio
+         Modena FC                1-2  Torino FC
+
+
+Matchday 13
+[Sun Dec/31]
+         Novara Calcio            1-0  AC Liguria
+         AC Milan                 3-0  AS Roma
+         Juventus                 1-0  AC Venezia
+         ACF Fiorentina           3-2  Modena FC
+         Bologna FC               1-1  SSC Napoli
+         AS Bari                  2-2  Torino FC
+         Lazio Roma               1-1  Inter
+         Genova 1893 Circolo del Calcio  1-0  US Triestina
+
+
+Matchday 14
+[Sun Jan/7]
+         Modena FC                1-4  Genova 1893 Circolo del Calcio
+         Torino FC                2-1  ACF Fiorentina
+         US Triestina             1-1  AC Milan
+         SSC Napoli               0-0  Juventus
+         AS Bari                  3-0  AC Venezia
+         Inter                    1-0  Novara Calcio
+         AS Roma                  1-0  Lazio Roma
+         AC Liguria               1-1  Bologna FC
+
+
+Matchday 15
+[Mon Jan/15]
+         AC Venezia               2-0  SSC Napoli
+         Novara Calcio            1-0  AS Roma
+         Lazio Roma               2-0  US Triestina
+         Genova 1893 Circolo del Calcio  1-0  Torino FC
+         ACF Fiorentina           1-1  AS Bari
+         Bologna FC               0-0  Inter
+         AC Milan                 4-0  Modena FC
+         Juventus                 4-0  AC Liguria
+
+
+Matchday 16
+[Sun Jan/21]
+         SSC Napoli               1-1  AS Bari
+         Genova 1893 Circolo del Calcio  3-0  ACF Fiorentina
+         AC Venezia               2-1  AC Liguria
+         Novara Calcio            2-1  US Triestina
+         Bologna FC               1-0  AS Roma
+         Juventus                 1-0  Inter
+         Lazio Roma               1-1  Modena FC
+         AC Milan                 1-3  Torino FC
+
+
+Matchday 17
+[Sun Jan/28]
+         US Triestina             0-2  Bologna FC
+         Torino FC                0-1  Lazio Roma
+         Modena FC                4-1  Novara Calcio
+         ACF Fiorentina           1-0  AC Milan
+         AS Bari                  0-1  Genova 1893 Circolo del Calcio
+         Inter                    2-1  AC Venezia
+         AS Roma                  3-1  Juventus
+         AC Liguria               2-0  SSC Napoli
+
+
+Matchday 18
+[Sun Feb/4]
+         AC Liguria               1-0  AS Bari
+         AC Milan                 2-2  Genova 1893 Circolo del Calcio
+         AC Venezia               2-2  AS Roma
+         Novara Calcio            0-1  Torino FC
+         Bologna FC               1-0  Modena FC
+         Lazio Roma               1-1  ACF Fiorentina
+         Juventus                 2-6  US Triestina
+         SSC Napoli               0-1  Inter
+
+
+Matchday 19
+[Sun Feb/11]
+         US Triestina             0-0  AC Venezia
+         Torino FC                2-1  Bologna FC
+         Modena FC                1-2  Juventus
+         ACF Fiorentina           2-2  Novara Calcio
+         AS Bari                  2-0  AC Milan
+         Inter                    1-0  AC Liguria
+         AS Roma                  1-0  SSC Napoli
+         Genova 1893 Circolo del Calcio  4-0  Lazio Roma
+
+
+Matchday 20
+[Sun Feb/18]
+         Lazio Roma               2-2  AC Milan
+         AC Liguria               1-0  AS Roma
+         AC Venezia               0-4  Modena FC
+         Novara Calcio            3-1  Genova 1893 Circolo del Calcio
+         Inter                    0-0  AS Bari
+         Juventus                 1-1  Torino FC
+         Bologna FC               3-2  ACF Fiorentina
+         SSC Napoli               3-1  US Triestina
+
+
+Matchday 21
+[Sun Feb/25]
+         US Triestina             3-1  AC Liguria
+         Torino FC                0-0  AC Venezia
+         Modena FC                0-0  SSC Napoli
+         Genova 1893 Circolo del Calcio  1-2  Bologna FC
+         ACF Fiorentina           0-0  Juventus
+         AS Bari                  1-5  Lazio Roma
+         AS Roma                  1-2  Inter
+         AC Milan                 0-2  Novara Calcio
+
+
+Matchday 22
+[Sun Mar/10]
+         AC Liguria               1-1  Modena FC
+         SSC Napoli               3-1  Torino FC
+         AC Venezia               2-0  ACF Fiorentina
+         AS Roma                  4-2  AS Bari
+         Juventus                 3-1  Genova 1893 Circolo del Calcio
+         Bologna FC               1-0  AC Milan
+         Inter                    5-1  US Triestina
+         Novara Calcio            0-0  Lazio Roma
+
+
+Matchday 23
+[Sun Mar/17]
+         Torino FC                3-0  AC Liguria
+         AC Milan                 1-2  Juventus
+         US Triestina             1-0  AS Roma
+         Genova 1893 Circolo del Calcio  3-1  AC Venezia
+         ACF Fiorentina           2-0  SSC Napoli
+         AS Bari                  1-0  Novara Calcio
+         Modena FC                1-2  Inter
+         Lazio Roma               2-2  Bologna FC
+
+
+Matchday 24
+[Sun Mar/24]
+         SSC Napoli               3-1  Genova 1893 Circolo del Calcio
+         US Triestina             1-0  AS Bari
+         AC Venezia               0-2  AC Milan
+         AS Roma                  1-0  Modena FC
+         Juventus                 3-1  Lazio Roma
+         Inter                    5-1  Torino FC
+         Bologna FC               3-0  Novara Calcio
+         AC Liguria               2-1  ACF Fiorentina
+
+
+Matchday 25
+[Sun Mar/31]
+         Torino FC                4-0  AS Roma
+         Novara Calcio            1-0  Juventus
+         AC Milan                 3-0  SSC Napoli
+         Genova 1893 Circolo del Calcio  2-0  AC Liguria
+         ACF Fiorentina           0-3  Inter
+         AS Bari                  1-1  Bologna FC
+         Modena FC                2-1  US Triestina
+         Lazio Roma               1-0  AC Venezia
+
+
+Matchday 26
+[Sun Apr/21]
+         Modena FC                3-0  AS Bari
+         SSC Napoli               1-1  Lazio Roma
+         AC Venezia               3-1  Novara Calcio
+         US Triestina             2-2  Torino FC
+         Inter                    2-1  Genova 1893 Circolo del Calcio
+         AC Liguria               0-2  AC Milan
+         Juventus                 1-0  Bologna FC
+         AS Roma                  0-0  ACF Fiorentina
+
+
+Matchday 27
+[Sun May/12]
+         Novara Calcio            0-1  SSC Napoli
+         Lazio Roma               2-2  AC Liguria
+         Torino FC                4-3  Modena FC
+         ACF Fiorentina           1-0  US Triestina
+         Bologna FC               2-0  AC Venezia
+         AS Bari                  2-1  Juventus
+         AC Milan                 1-3  Inter
+         Genova 1893 Circolo del Calcio  0-0  AS Roma
+
+
+Matchday 28
+[Sun May/19]
+         AS Roma                  3-1  AC Milan
+         US Triestina             0-1  Genova 1893 Circolo del Calcio
+         AC Venezia               1-1  Juventus
+         Torino FC                2-2  AS Bari
+         Modena FC                3-0  ACF Fiorentina
+         Inter                    4-0  Lazio Roma
+         SSC Napoli               1-1  Bologna FC
+         AC Liguria               1-0  Novara Calcio
+
+
+Matchday 29
+[Sun May/26]
+         Bologna FC               2-0  AC Liguria
+         ACF Fiorentina           3-2  Torino FC
+         Genova 1893 Circolo del Calcio  0-3  Modena FC
+         Juventus                 2-1  SSC Napoli
+         Lazio Roma               1-0  AS Roma
+         AC Milan                 0-0  US Triestina
+         Novara Calcio            1-0  Inter
+         AC Venezia               2-1  AS Bari
+
+
+Matchday 30
+[Sun Jun/2]
+         Torino FC                3-1  Genova 1893 Circolo del Calcio
+         AS Roma                  3-1  Novara Calcio
+         SSC Napoli               2-0  AC Venezia
+         Modena FC                2-2  AC Milan
+         AC Liguria               0-2  Juventus
+         Inter                    1-0  Bologna FC
+         US Triestina             2-3  Lazio Roma
+         AS Bari                  2-1  ACF Fiorentina

@@ -1,0 +1,343 @@
+= IS 1 2022
+
+# Date       Mon Apr/18 - Sat Oct/29 2022 (194d)
+# Teams      12
+# Matches    162
+# Stages     Regular Season (132)  Relegation (15)  Championship (15)
+
+
+# Regular Season
+
+Matchday 1
+[Mon Apr/18]
+  19.15  Víkingur Reykjavík       2-1 (1-1)  FH Hafnarfjörður
+[Tue Apr/19]
+  18.00  Valur Reykjavík          2-1 (1-1)  ÍBV Vestmannaeyjar
+  19.15  UMF Stjarnan             2-2 (0-1)  ÍA Akranes
+  19.45  Breiðablik               4-1 (3-0)  Keflavík ÍF
+[Wed Apr/20]
+  18.00  KA Akureyri              1-0 (0-0)  Leiknir Reykjavík
+  19.15  Fram Reykjavík           1-4 (0-3)  KR Reykjavík
+
+
+Matchday 2
+[Sun Apr/24]
+  14.00  ÍBV Vestmannaeyjar       0-3 (0-1)  KA Akureyri
+  16.00  Leiknir Reykjavík        0-3 (0-2)  UMF Stjarnan
+  18.00  ÍA Akranes               3-0 (2-0)  Víkingur Reykjavík
+         Keflavík ÍF              0-1 (0-1)  Valur Reykjavík
+[Mon Apr/25]
+  18.00  FH Hafnarfjörður         4-2 (1-2)  Fram Reykjavík
+         KR Reykjavík             0-1 (0-0)  Breiðablik
+
+
+Matchday 3
+[Sat Apr/30]
+  19.15  Valur Reykjavík          2-1 (1-1)  KR Reykjavík
+[Sun May/1]
+  16.00  ÍBV Vestmannaeyjar       1-1 (1-1)  Leiknir Reykjavík
+  19.15  Breiðablik               3-0 (1-0)  FH Hafnarfjörður
+[Mon May/2]
+  18.00  KA Akureyri              3-2 (1-1)  Keflavík ÍF
+  19.15  Fram Reykjavík           1-1 (1-1)  ÍA Akranes
+         Víkingur Reykjavík       4-5 (2-3)  UMF Stjarnan
+
+
+Matchday 4
+[Fri May/6]
+  18.00  FH Hafnarfjörður         2-2 (1-0)  Valur Reykjavík
+[Sat May/7]
+  14.00  ÍA Akranes               1-5 (0-3)  Breiðablik
+  16.00  Keflavík ÍF              3-3 (2-0)  ÍBV Vestmannaeyjar
+  16.15  KR Reykjavík             0-0  KA Akureyri
+         UMF Stjarnan             1-1 (0-1)  Fram Reykjavík
+[Sun May/8]
+  19.15  Leiknir Reykjavík        0-0  Víkingur Reykjavík
+
+
+Matchday 5
+[Wed May/11]
+  18.00  ÍBV Vestmannaeyjar       1-2 (1-2)  KR Reykjavík
+  19.15  KA Akureyri              1-0 (0-0)  FH Hafnarfjörður
+         Breiðablik               3-2 (2-1)  UMF Stjarnan
+         Valur Reykjavík          4-0 (1-0)  ÍA Akranes
+[Thu May/12]
+  19.15  Keflavík ÍF              3-0 (1-0)  Leiknir Reykjavík
+         Víkingur Reykjavík       4-1 (3-0)  Fram Reykjavík
+
+
+Matchday 6
+[Sun May/15]
+  14.00  FH Hafnarfjörður         2-0 (1-0)  ÍBV Vestmannaeyjar
+  17.00  ÍA Akranes               0-3 (0-1)  KA Akureyri
+  19.15  UMF Stjarnan             1-0 (0-0)  Valur Reykjavík
+[Mon May/16]
+  19.15  KR Reykjavík             1-0 (0-0)  Keflavík ÍF
+         Leiknir Reykjavík        1-2 (0-1)  Fram Reykjavík
+         Víkingur Reykjavík       0-3 (0-0)  Breiðablik
+
+
+Matchday 7
+[Sat May/21]
+  16.00  ÍBV Vestmannaeyjar       0-0  ÍA Akranes
+         KA Akureyri              0-2 (0-1)  UMF Stjarnan
+         KR Reykjavík             1-1 (1-0)  Leiknir Reykjavík
+[Sun May/22]
+  17.00  Keflavík ÍF              2-1 (2-1)  FH Hafnarfjörður
+  19.15  Valur Reykjavík          1-3 (0-0)  Víkingur Reykjavík
+         Breiðablik               4-3 (2-1)  Fram Reykjavík
+
+
+Matchday 8
+[Sun May/29]
+  16.00  Fram Reykjavík           3-2 (1-1)  Valur Reykjavík
+  16.30  Víkingur Reykjavík       2-1 (0-0)  KA Akureyri
+  17.00  UMF Stjarnan             1-0 (0-0)  ÍBV Vestmannaeyjar
+         ÍA Akranes               0-2 (0-1)  Keflavík ÍF
+  19.15  FH Hafnarfjörður         2-3 (1-2)  KR Reykjavík
+         Leiknir Reykjavík        1-2 (0-1)  Breiðablik
+
+
+Matchday 9
+[Wed Jun/15]
+  18.00  ÍBV Vestmannaeyjar       0-3 (0-2)  Víkingur Reykjavík
+  19.15  KR Reykjavík             3-3 (1-1)  ÍA Akranes
+[Thu Jun/16]
+  18.00  KA Akureyri              2-2 (0-2)  Fram Reykjavík
+  19.15  FH Hafnarfjörður         2-2 (2-1)  Leiknir Reykjavík
+         Keflavík ÍF              2-2 (1-2)  UMF Stjarnan
+  20.15  Valur Reykjavík          3-2 (2-0)  Breiðablik
+
+
+Matchday 10
+[Thu Apr/28]
+  19.15  Víkingur Reykjavík       4-1 (4-0)  Keflavík ÍF
+[Mon Jun/20]
+  18.00  Fram Reykjavík           3-3 (2-2)  ÍBV Vestmannaeyjar
+  19.15  UMF Stjarnan             1-1 (1-0)  KR Reykjavík
+  19.30  Breiðablik               4-1 (1-0)  KA Akureyri
+[Tue Jun/21]
+  19.15  Valur Reykjavík          2-1 (1-1)  Leiknir Reykjavík
+         ÍA Akranes               1-1 (0-0)  FH Hafnarfjörður
+
+
+Matchday 11
+[Fri Jul/1]
+  19.15  KR Reykjavík             0-3 (0-1)  Víkingur Reykjavík
+[Sat Jul/2]
+  16.00  ÍBV Vestmannaeyjar       0-0  Breiðablik
+[Sun Jul/3]
+  19.15  Keflavík ÍF              3-1 (2-0)  Fram Reykjavík
+[Mon Jul/4]
+  18.00  KA Akureyri              1-1 (0-0)  Valur Reykjavík
+  19.15  FH Hafnarfjörður         1-1 (0-0)  UMF Stjarnan
+         Leiknir Reykjavík        1-0 (0-0)  ÍA Akranes
+
+
+Matchday 12
+[Thu Jun/23]
+  19.15  Breiðablik               4-0 (2-0)  KR Reykjavík
+[Sat Jul/9]
+  14.00  KA Akureyri              4-3 (2-3)  ÍBV Vestmannaeyjar
+  16.00  Víkingur Reykjavík       3-2 (2-0)  ÍA Akranes
+[Mon Jul/11]
+  19.15  Fram Reykjavík           1-0 (0-0)  FH Hafnarfjörður
+         UMF Stjarnan             0-3 (0-3)  Leiknir Reykjavík
+         Valur Reykjavík          0-3 (0-1)  Keflavík ÍF
+
+
+Matchday 13
+[Sat Jul/16]
+  18.00  FH Hafnarfjörður         0-3 (0-0)  Víkingur Reykjavík
+[Sun Jul/17]
+  16.00  ÍBV Vestmannaeyjar       3-2 (1-0)  Valur Reykjavík
+  17.00  Leiknir Reykjavík        0-5 (0-2)  KA Akureyri
+  19.15  ÍA Akranes               0-3 (0-2)  UMF Stjarnan
+         Keflavík ÍF              2-3 (1-1)  Breiðablik
+[Tue Jul/19]
+  19.15  KR Reykjavík             1-1 (0-1)  Fram Reykjavík
+
+
+Matchday 14
+[Sun Jul/24]
+  14.00  Leiknir Reykjavík        1-4 (0-2)  ÍBV Vestmannaeyjar
+  17.00  Keflavík ÍF              1-3 (1-0)  KA Akureyri
+  19.15  FH Hafnarfjörður         0-0  Breiðablik
+[Mon Jul/25]
+  19.15  ÍA Akranes               0-4 (0-2)  Fram Reykjavík
+         KR Reykjavík             3-3 (1-1)  Valur Reykjavík
+[Sat Jul/30]
+  14.00  UMF Stjarnan             2-2 (0-0)  Víkingur Reykjavík
+
+
+Matchday 15
+[Sat Jul/30]
+  14.00  ÍBV Vestmannaeyjar       2-2 (1-1)  Keflavík ÍF
+[Mon Aug/1]
+  19.15  Breiðablik               3-1 (0-0)  ÍA Akranes
+[Tue Aug/2]
+  18.00  KA Akureyri              0-1 (0-1)  KR Reykjavík
+[Wed Aug/3]
+  19.15  Fram Reykjavík           2-2 (2-1)  UMF Stjarnan
+         Valur Reykjavík          2-0 (1-0)  FH Hafnarfjörður
+[Wed Sep/7]
+  19.15  Víkingur Reykjavík       9-0 (5-0)  Leiknir Reykjavík
+
+
+Matchday 16
+[Sun Aug/7]
+  17.00  FH Hafnarfjörður         0-3 (0-2)  KA Akureyri
+         KR Reykjavík             4-0 (2-0)  ÍBV Vestmannaeyjar
+  19.15  UMF Stjarnan             5-2 (3-1)  Breiðablik
+         Fram Reykjavík           3-3 (1-0)  Víkingur Reykjavík
+[Mon Aug/8]
+  19.15  ÍA Akranes               1-2 (0-0)  Valur Reykjavík
+         Leiknir Reykjavík        1-2 (0-1)  Keflavík ÍF
+
+
+Matchday 17
+[Sun Aug/14]
+  16.00  ÍBV Vestmannaeyjar       4-1 (3-0)  FH Hafnarfjörður
+         KA Akureyri              3-0 (0-0)  ÍA Akranes
+  19.15  Valur Reykjavík          6-1 (3-1)  UMF Stjarnan
+[Mon Aug/15]
+  18.00  Keflavík ÍF              0-0  KR Reykjavík
+  19.15  Breiðablik               1-1 (1-0)  Víkingur Reykjavík
+         Fram Reykjavík           4-1 (1-0)  Leiknir Reykjavík
+
+
+Matchday 18
+[Sun Aug/21]
+  17.00  ÍA Akranes               2-1 (1-0)  ÍBV Vestmannaeyjar
+  19.15  UMF Stjarnan             2-4 (2-3)  KA Akureyri
+[Mon Aug/22]
+  18.00  FH Hafnarfjörður         3-0 (2-0)  Keflavík ÍF
+         Leiknir Reykjavík        4-3 (2-1)  KR Reykjavík
+  19.15  Fram Reykjavík           0-2 (0-0)  Breiðablik
+  20.15  Víkingur Reykjavík       2-2 (2-1)  Valur Reykjavík
+
+
+Matchday 19
+[Sun Aug/28]
+  14.00  ÍBV Vestmannaeyjar       3-1 (2-1)  UMF Stjarnan
+  16.00  KA Akureyri              2-3 (1-1)  Víkingur Reykjavík
+  17.00  Keflavík ÍF              0-1 (0-0)  ÍA Akranes
+         KR Reykjavík             0-0  FH Hafnarfjörður
+  19.15  Breiðablik               4-0 (1-0)  Leiknir Reykjavík
+[Mon Aug/29]
+  19.15  Valur Reykjavík          1-1 (1-0)  Fram Reykjavík
+
+
+Matchday 20
+[Sun Sep/4]
+  14.00  Leiknir Reykjavík        0-0  FH Hafnarfjörður
+         Víkingur Reykjavík       2-2 (1-2)  ÍBV Vestmannaeyjar
+  17.00  ÍA Akranes               4-4 (2-3)  KR Reykjavík
+  18.00  Fram Reykjavík           2-2 (0-0)  KA Akureyri
+  19.15  UMF Stjarnan             0-2 (0-0)  Keflavík ÍF
+[Mon Sep/5]
+  19.15  Breiðablik               1-0 (0-0)  Valur Reykjavík
+
+
+Matchday 21
+[Sun Sep/11]
+  14.00  FH Hafnarfjörður         6-1 (3-1)  ÍA Akranes
+         ÍBV Vestmannaeyjar       2-2 (1-1)  Fram Reykjavík
+         KA Akureyri              2-1 (1-0)  Breiðablik
+         Keflavík ÍF              0-3 (0-3)  Víkingur Reykjavík
+         KR Reykjavík             3-1 (2-0)  UMF Stjarnan
+         Leiknir Reykjavík        1-0 (0-0)  Valur Reykjavík
+
+
+Matchday 22
+[Sat Sep/17]
+  14.00  Breiðablik               3-0 (0-0)  ÍBV Vestmannaeyjar
+         Fram Reykjavík           4-8 (3-4)  Keflavík ÍF
+         ÍA Akranes               1-2 (1-0)  Leiknir Reykjavík
+         UMF Stjarnan             2-1 (2-1)  FH Hafnarfjörður
+         Valur Reykjavík          0-1 (0-0)  KA Akureyri
+         Víkingur Reykjavík       2-2 (1-0)  KR Reykjavík
+
+
+== Relegation
+
+Matchday 1
+[Sun Oct/2]
+  15.00  Keflavík ÍF              3-2 (2-1)  ÍA Akranes
+  17.15  Fram Reykjavík           3-2 (1-1)  Leiknir Reykjavík
+[Wed Oct/5]
+  15.30  ÍBV Vestmannaeyjar       2-1 (1-1)  FH Hafnarfjörður
+
+
+Matchday 2
+[Sat Oct/8]
+  14.00  ÍA Akranes               3-2 (1-2)  Fram Reykjavík
+[Mon Oct/10]
+  15.15  ÍBV Vestmannaeyjar       2-1 (2-0)  Keflavík ÍF
+         FH Hafnarfjörður         4-2 (2-1)  Leiknir Reykjavík
+
+
+Matchday 3
+[Sat Oct/15]
+  14.00  Leiknir Reykjavík        2-2 (2-2)  ÍA Akranes
+         Keflavík ÍF              2-3 (2-1)  FH Hafnarfjörður
+[Sun Oct/16]
+  17.00  Fram Reykjavík           1-3 (0-3)  ÍBV Vestmannaeyjar
+
+
+Matchday 4
+[Sat Oct/22]
+  13.00  Leiknir Reykjavík        1-7 (0-3)  Keflavík ÍF
+  14.00  ÍA Akranes               3-2 (0-1)  ÍBV Vestmannaeyjar
+[Sun Oct/23]
+  14.00  Fram Reykjavík           3-0 (2-0)  FH Hafnarfjörður
+
+
+Matchday 5
+[Sat Oct/29]
+  13.00  FH Hafnarfjörður         1-2 (1-1)  ÍA Akranes
+         Keflavík ÍF              4-0 (1-0)  Fram Reykjavík
+         ÍBV Vestmannaeyjar       1-0 (0-0)  Leiknir Reykjavík
+
+
+== Championship
+
+Matchday 1
+[Sun Oct/2]
+  15.00  KA Akureyri              1-0 (0-0)  KR Reykjavík
+[Mon Oct/3]
+  19.15  Breiðablik               3-0 (1-0)  UMF Stjarnan
+[Wed Oct/5]
+  19.15  Víkingur Reykjavík       3-2 (0-2)  Valur Reykjavík
+
+
+Matchday 2
+[Sat Oct/8]
+  14.00  KA Akureyri              1-2 (0-1)  Breiðablik
+         KR Reykjavík             2-1 (0-0)  Valur Reykjavík
+[Mon Oct/10]
+  19.15  UMF Stjarnan             2-1 (0-0)  Víkingur Reykjavík
+
+
+Matchday 3
+[Sat Oct/15]
+  17.00  Víkingur Reykjavík       2-2 (1-1)  KA Akureyri
+  19.15  Breiðablik               0-1 (0-0)  KR Reykjavík
+[Sun Oct/16]
+  19.15  Valur Reykjavík          3-0 (1-0)  UMF Stjarnan
+
+
+Matchday 4
+[Sat Oct/22]
+  20.00  Valur Reykjavík          2-5 (2-2)  Breiðablik
+[Sun Oct/23]
+  17.00  UMF Stjarnan             0-3 (0-1)  KA Akureyri
+[Mon Oct/24]
+  19.15  Víkingur Reykjavík       2-2 (0-1)  KR Reykjavík
+
+
+Matchday 5
+[Sat Oct/29]
+  13.00  KR Reykjavík             0-2 (0-0)  UMF Stjarnan
+         Breiðablik               1-0 (1-0)  Víkingur Reykjavík
+         KA Akureyri              2-0 (2-0)  Valur Reykjavík

@@ -1,0 +1,83 @@
+= NIR 1 2012
+
+# Date       Fri Apr/6 - Sat Apr/28 2012 (22d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Fri Apr/6]
+  19.45  Coleraine FC             1-0  Cliftonville FC
+[Sat Apr/7]
+  15.00  Glentoran FC             0-4  Crusaders FC
+         Linfield FC              2-1  Portadown FC
+
+
+Matchday 2
+[Tue Apr/10]
+  19.45  Coleraine FC             1-1  Glentoran FC
+         Crusaders FC             0-1  Portadown FC
+         Linfield FC              2-1  Cliftonville FC
+
+
+Matchday 3
+[Sat Apr/14]
+  15.00  Cliftonville FC          1-1  Crusaders FC
+         Portadown FC             0-1  Glentoran FC
+[Mon Apr/23]
+  19.45  Linfield FC              0-0  Coleraine FC
+
+
+Matchday 4
+[Sat Apr/21]
+  15.00  Cliftonville FC          3-0  Glentoran FC
+         Coleraine FC             4-1  Portadown FC
+         Crusaders FC             1-1  Linfield FC
+
+
+Matchday 5
+[Sat Apr/28]
+  15.00  Cliftonville FC          2-3  Portadown FC
+         Crusaders FC             2-1  Coleraine FC
+         Linfield FC              0-2  Glentoran FC
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/7]
+  15.00  Donegal Celtic FC        0-3  Ballymena United
+         Dungannon Swifts         0-0  Carrick Rangers
+         Lisburn Distillery       3-3  Glenavon FC
+
+
+Matchday 2
+[Tue Apr/10]
+  15.00  Carrick Rangers          4-4  Glenavon FC
+         Dungannon Swifts         2-4  Ballymena United
+  19.45  Lisburn Distillery       3-0  Donegal Celtic FC
+
+
+Matchday 3
+[Sat Apr/14]
+  15.00  Ballymena United         3-0  Carrick Rangers
+         Dungannon Swifts         3-2  Lisburn Distillery
+         Glenavon FC              4-0  Donegal Celtic FC
+
+
+Matchday 4
+[Fri Apr/20]
+  19.45  Carrick Rangers          2-1  Lisburn Distillery
+[Sat Apr/21]
+  15.00  Ballymena United         2-2  Glenavon FC
+         Dungannon Swifts         2-1  Donegal Celtic FC
+
+
+Matchday 5
+[Sat Apr/28]
+  15.00  Donegal Celtic FC        3-5  Carrick Rangers
+         Glenavon FC              2-2  Dungannon Swifts
+         Lisburn Distillery       2-3  Ballymena United

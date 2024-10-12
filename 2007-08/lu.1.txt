@@ -1,0 +1,308 @@
+= LU 1 2007/08
+
+# Date       Sat Aug/4 2007 - Sun May/18 2008 (288d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Sat Aug/4]
+  19.00  Swift Hesperange         1-2  FC Differdange 03
+[Sun Aug/5]
+  16.00  Victoria Rosport         3-0  CS Grevenmacher
+         CS Pétange               2-2  RFCU Luxemburg
+         Progrès Niedercorn       2-2  FC Wiltz 71
+         RM Hamm Benfica          2-1  Etzella Ettelbruck
+         Avenir Beggen            1-2  Jeunesse Esch
+         F91 Dudelange            1-0  UN Käerjéng
+
+
+Matchday 2
+[Sun Aug/12]
+  16.00  Victoria Rosport         0-7  F91 Dudelange
+         UN Käerjéng              1-5  Swift Hesperange
+         FC Differdange 03        2-3  Avenir Beggen
+         Etzella Ettelbruck       4-2  Progrès Niedercorn
+         FC Wiltz 71              1-0  CS Pétange
+         RFCU Luxemburg           4-2  CS Grevenmacher
+[Mon Aug/13]
+  20.00  Jeunesse Esch            1-1  RM Hamm Benfica
+
+
+Matchday 3
+[Sat Aug/18]
+  18.00  CS Grevenmacher          2-2  FC Wiltz 71
+         CS Pétange               1-1  Etzella Ettelbruck
+         Progrès Niedercorn       3-2  Jeunesse Esch
+         Swift Hesperange         0-2  F91 Dudelange
+  19.30  RFCU Luxemburg           4-1  Victoria Rosport
+         RM Hamm Benfica          2-3  FC Differdange 03
+[Sun Aug/19]
+  16.00  Avenir Beggen            2-1  UN Käerjéng
+
+
+Matchday 4
+[Sat Aug/25]
+  19.00  FC Wiltz 71              1-2  RFCU Luxemburg
+[Sun Aug/26]
+  16.00  Victoria Rosport         1-2  Swift Hesperange
+         F91 Dudelange            1-0  Avenir Beggen
+         UN Käerjéng              1-2  RM Hamm Benfica
+         FC Differdange 03        1-2  Progrès Niedercorn
+         Jeunesse Esch            4-1  CS Pétange
+         Etzella Ettelbruck       1-5  CS Grevenmacher
+
+
+Matchday 5
+[Sat Sep/1]
+  19.30  CS Pétange               0-1  FC Differdange 03
+[Sun Sep/2]
+  16.00  FC Wiltz 71              3-0  Victoria Rosport
+         RFCU Luxemburg           3-2  Etzella Ettelbruck
+         CS Grevenmacher          4-2  Jeunesse Esch
+         RM Hamm Benfica          1-5  F91 Dudelange
+         Avenir Beggen            1-3  Swift Hesperange
+[Mon Sep/3]
+  19.30  Progrès Niedercorn       1-3  UN Käerjéng
+
+
+Matchday 6
+[Sun Sep/16]
+  16.00  Victoria Rosport         1-3  Avenir Beggen
+         F91 Dudelange            4-1  Progrès Niedercorn
+[Wed Sep/19]
+  19.30  Swift Hesperange         2-0  RM Hamm Benfica
+         UN Käerjéng              3-0  CS Pétange
+         FC Differdange 03        0-3  CS Grevenmacher
+         Jeunesse Esch            2-0  RFCU Luxemburg
+         Etzella Ettelbruck       3-1  FC Wiltz 71
+
+
+Matchday 7
+[Sun Sep/23]
+  19.30  Etzella Ettelbruck       1-2  Victoria Rosport
+         FC Wiltz 71              0-4  Jeunesse Esch
+         RFCU Luxemburg           0-0  FC Differdange 03
+         CS Grevenmacher          1-0  UN Käerjéng
+         CS Pétange               0-4  F91 Dudelange
+         Progrès Niedercorn       2-2  Swift Hesperange
+         RM Hamm Benfica          1-3  Avenir Beggen
+
+
+Matchday 8
+[Sun Sep/30]
+  16.00  Avenir Beggen            1-2  Progrès Niedercorn
+         Swift Hesperange         2-2  CS Pétange
+         F91 Dudelange            1-0  CS Grevenmacher
+         UN Käerjéng              0-1  RFCU Luxemburg
+         FC Differdange 03        4-1  FC Wiltz 71
+         Jeunesse Esch            2-2  Etzella Ettelbruck
+  19.00  Victoria Rosport         0-1  RM Hamm Benfica
+
+
+Matchday 9
+[Sat Oct/6]
+  19.00  FC Wiltz 71              0-1  UN Käerjéng
+[Sun Oct/7]
+  16.00  Jeunesse Esch            2-0  Victoria Rosport
+         Etzella Ettelbruck       2-0  FC Differdange 03
+         RFCU Luxemburg           0-2  F91 Dudelange
+         CS Grevenmacher          1-2  Swift Hesperange
+         CS Pétange               1-2  Avenir Beggen
+         Progrès Niedercorn       3-0  RM Hamm Benfica
+
+
+Matchday 10
+[Sun Oct/21]
+  16.00  Victoria Rosport         2-1  Progrès Niedercorn
+         RM Hamm Benfica          0-2  CS Pétange
+         Avenir Beggen            1-2  CS Grevenmacher
+         Swift Hesperange         1-4  RFCU Luxemburg
+         F91 Dudelange            1-0  FC Wiltz 71
+         UN Käerjéng              0-0  Etzella Ettelbruck
+         FC Differdange 03        3-0  Jeunesse Esch
+
+
+Matchday 11
+[Sun Oct/28]
+  16.00  Etzella Ettelbruck       1-3  F91 Dudelange
+         FC Wiltz 71              2-1  Swift Hesperange
+         RFCU Luxemburg           1-4  Avenir Beggen
+         CS Pétange               1-2  Progrès Niedercorn
+[Wed Nov/28]
+  19.30  FC Differdange 03        2-1  Victoria Rosport
+         Jeunesse Esch            2-3  UN Käerjéng
+[Wed Dec/5]
+  19.30  CS Grevenmacher          0-0  RM Hamm Benfica
+
+
+Matchday 12
+[Sun Nov/4]
+  16.00  Victoria Rosport         2-1  CS Pétange
+         Progrès Niedercorn       1-3  CS Grevenmacher
+         RM Hamm Benfica          0-3  RFCU Luxemburg
+         Avenir Beggen            1-2  FC Wiltz 71
+         Swift Hesperange         1-5  Etzella Ettelbruck
+         F91 Dudelange            6-2  Jeunesse Esch
+         UN Käerjéng              2-2  FC Differdange 03
+
+
+Matchday 13
+[Sun Nov/11]
+  16.00  FC Differdange 03        2-4  F91 Dudelange
+         Jeunesse Esch            4-1  Swift Hesperange
+         Etzella Ettelbruck       2-2  Avenir Beggen
+         FC Wiltz 71              3-3  RM Hamm Benfica
+         RFCU Luxemburg           3-1  Progrès Niedercorn
+         CS Grevenmacher          3-1  CS Pétange
+  17.30  UN Käerjéng              1-1  Victoria Rosport
+
+
+Matchday 14
+[Sun Nov/25]
+  16.00  Avenir Beggen            1-0  FC Differdange 03
+         CS Grevenmacher          1-1  RFCU Luxemburg
+         Swift Hesperange         0-2  UN Käerjéng
+         RM Hamm Benfica          0-1  Jeunesse Esch
+         Progrès Niedercorn       0-3  Etzella Ettelbruck
+         CS Pétange               3-2  FC Wiltz 71
+         F91 Dudelange            3-0  Victoria Rosport
+
+
+Matchday 15
+[Sun Dec/2]
+  16.00  Victoria Rosport         1-1  RFCU Luxemburg
+         Etzella Ettelbruck       3-1  CS Pétange
+         Jeunesse Esch            0-0  Progrès Niedercorn
+         UN Käerjéng              3-3  Avenir Beggen
+         F91 Dudelange            2-0  Swift Hesperange
+  18.00  FC Wiltz 71              1-1  CS Grevenmacher
+[Sun Dec/16]
+  16.00  FC Differdange 03        2-3  RM Hamm Benfica
+
+
+Matchday 16
+[Sun Feb/24]
+  16.00  Swift Hesperange         0-0  Victoria Rosport
+         RM Hamm Benfica          2-0  UN Käerjéng
+         CS Grevenmacher          0-1  Etzella Ettelbruck
+         RFCU Luxemburg           3-1  FC Wiltz 71
+         Avenir Beggen            1-0  F91 Dudelange
+         CS Pétange               2-2  Jeunesse Esch
+  17.00  Progrès Niedercorn       1-0  FC Differdange 03
+
+
+Matchday 17
+[Sun Feb/17]
+  16.00  FC Differdange 03        2-1  CS Pétange
+         Victoria Rosport         2-2  FC Wiltz 71
+         Etzella Ettelbruck       2-2  RFCU Luxemburg
+         Jeunesse Esch            2-1  CS Grevenmacher
+         UN Käerjéng              1-1  Progrès Niedercorn
+         F91 Dudelange            3-0  RM Hamm Benfica
+         Swift Hesperange         2-1  Avenir Beggen
+
+
+Matchday 18
+[Fri Feb/29]
+  19.30  CS Pétange               0-0  UN Käerjéng
+[Sun Mar/2]
+  16.00  Avenir Beggen            4-1  Victoria Rosport
+         RFCU Luxemburg           3-0  Jeunesse Esch
+         RM Hamm Benfica          3-1  Swift Hesperange
+         Progrès Niedercorn       1-5  F91 Dudelange
+         FC Wiltz 71              1-3  Etzella Ettelbruck
+[Wed Mar/12]
+  19.30  CS Grevenmacher          3-2  FC Differdange 03
+
+
+Matchday 19
+[Sun Mar/9]
+  16.00  Jeunesse Esch            4-1  FC Wiltz 71
+         FC Differdange 03        3-1  RFCU Luxemburg
+         F91 Dudelange            1-0  CS Pétange
+         Victoria Rosport         2-3  Etzella Ettelbruck
+         UN Käerjéng              2-1  CS Grevenmacher
+         Avenir Beggen            3-1  RM Hamm Benfica
+  17.00  Swift Hesperange         1-0  Progrès Niedercorn
+
+
+Matchday 20
+[Sun Mar/16]
+  16.00  RM Hamm Benfica          2-2  Victoria Rosport
+         Progrès Niedercorn       2-1  Avenir Beggen
+         CS Pétange               1-3  Swift Hesperange
+         CS Grevenmacher          0-2  F91 Dudelange
+         RFCU Luxemburg           2-0  UN Käerjéng
+         FC Wiltz 71              3-0  FC Differdange 03
+         Etzella Ettelbruck       5-4  Jeunesse Esch
+
+
+Matchday 21
+[Sat Mar/29]
+  16.00  F91 Dudelange            1-1  RFCU Luxemburg
+[Sun Mar/30]
+  16.00  Swift Hesperange         1-1  CS Grevenmacher
+         FC Differdange 03        3-1  Etzella Ettelbruck
+         Avenir Beggen            1-1  CS Pétange
+         RM Hamm Benfica          3-1  Progrès Niedercorn
+  17.00  Victoria Rosport         0-1  Jeunesse Esch
+  18.00  UN Käerjéng              2-1  FC Wiltz 71
+
+
+Matchday 22
+[Sat Apr/5]
+  19.30  Jeunesse Esch            2-0  FC Differdange 03
+[Sun Apr/6]
+  16.00  Progrès Niedercorn       0-0  Victoria Rosport
+         CS Grevenmacher          2-0  Avenir Beggen
+         CS Pétange               1-2  RM Hamm Benfica
+         FC Wiltz 71              0-2  F91 Dudelange
+         RFCU Luxemburg           1-1  Swift Hesperange
+         Etzella Ettelbruck       0-3  UN Käerjéng
+
+
+Matchday 23
+[Sun Apr/20]
+  16.00  Avenir Beggen            0-0  RFCU Luxemburg
+         RM Hamm Benfica          2-0  CS Grevenmacher
+         Victoria Rosport         3-2  FC Differdange 03
+         Swift Hesperange         1-1  FC Wiltz 71
+         Progrès Niedercorn       0-0  CS Pétange
+  18.00  UN Käerjéng              0-1  Jeunesse Esch
+[Wed Apr/23]
+  19.30  F91 Dudelange            7-1  Etzella Ettelbruck
+
+
+Matchday 24
+[Sun Apr/27]
+  16.00  CS Pétange               3-2  Victoria Rosport
+         CS Grevenmacher          2-2  Progrès Niedercorn
+         FC Wiltz 71              0-2  Avenir Beggen
+         Etzella Ettelbruck       2-1  Swift Hesperange
+         FC Differdange 03        5-0  UN Käerjéng
+         RFCU Luxemburg           3-0  RM Hamm Benfica
+         Jeunesse Esch            1-1  F91 Dudelange
+
+
+Matchday 25
+[Sun May/4]
+  16.00  Victoria Rosport         2-1  UN Käerjéng
+         Swift Hesperange         1-1  Jeunesse Esch
+         F91 Dudelange            2-0  FC Differdange 03
+         Avenir Beggen            0-2  Etzella Ettelbruck
+         RM Hamm Benfica          1-1  FC Wiltz 71
+         Progrès Niedercorn       0-1  RFCU Luxemburg
+         CS Pétange               2-1  CS Grevenmacher
+
+
+Matchday 26
+[Sun May/18]
+  16.00  Etzella Ettelbruck       3-0  RM Hamm Benfica
+         Jeunesse Esch            3-0  Avenir Beggen
+         UN Käerjéng              0-4  F91 Dudelange
+         FC Differdange 03        2-1  Swift Hesperange
+         CS Grevenmacher          6-0  Victoria Rosport
+         RFCU Luxemburg           4-0  CS Pétange
+         FC Wiltz 71              1-0  Progrès Niedercorn

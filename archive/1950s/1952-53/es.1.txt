@@ -1,0 +1,366 @@
+= ES 1 1952/53
+
+# Date       Sun Sep/14 1952 - Sun May/3 1953 (231d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Sep/14]
+         RC Celta                 0-1 (0-1)  Espanyol Barcelona
+         Real Sociedad            0-0  Valencia CF
+         Atlético Madrid          5-1 (4-1)  Real Oviedo
+         Real Zaragoza            0-4 (0-2)  Real Valladolid
+         FC Barcelona             4-3 (3-2)  Deportivo La Coruña
+         Sporting Gijón           4-0 (0-0)  CD Málaga
+         Sevilla FC               2-2 (1-1)  Real Madrid
+         Racing Santander         2-0 (0-0)  Athletic Bilbao
+
+
+Matchday 2
+[Sun Sep/21]
+         Athletic Bilbao          3-0 (1-0)  Real Zaragoza
+         Deportivo La Coruña      0-1 (0-1)  Racing Santander
+         Valencia CF              3-2 (2-2)  RC Celta
+         Real Oviedo              2-1 (1-1)  FC Barcelona
+         Espanyol Barcelona       6-2 (1-2)  Sevilla FC
+         CD Málaga                1-3 (0-1)  Atlético Madrid
+         Real Valladolid          1-2 (0-1)  Real Sociedad
+         Real Madrid              2-2 (0-1)  Sporting Gijón
+
+
+Matchday 3
+[Sun Sep/28]
+         FC Barcelona             6-2 (3-1)  CD Málaga
+         Real Zaragoza            1-2 (1-1)  Deportivo La Coruña
+         RC Celta                 2-0 (2-0)  Real Valladolid
+         Sporting Gijón           2-0 (0-0)  Atlético Madrid
+         Real Madrid              1-2 (1-0)  Espanyol Barcelona
+         Real Sociedad            3-1 (0-1)  Athletic Bilbao
+         Racing Santander         0-2 (0-1)  Real Oviedo
+         Sevilla FC               4-2 (4-1)  Valencia CF
+
+
+Matchday 4
+[Sun Oct/5]
+         Real Oviedo              3-2 (1-2)  Real Zaragoza
+         Athletic Bilbao          5-0 (2-0)  RC Celta
+         Espanyol Barcelona       4-0 (2-0)  Sporting Gijón
+         Real Valladolid          0-4 (0-1)  Sevilla FC
+         Valencia CF              3-2 (3-1)  Real Madrid
+         Atlético Madrid          2-1 (2-1)  FC Barcelona
+         Deportivo La Coruña      1-0 (0-0)  Real Sociedad
+         CD Málaga                4-2 (1-1)  Racing Santander
+
+
+Matchday 5
+[Sun Oct/12]
+         Real Zaragoza            0-2 (0-1)  CD Málaga
+         RC Celta                 2-0 (0-0)  Deportivo La Coruña
+         Real Madrid              3-1 (3-1)  Real Valladolid
+         Racing Santander         3-3 (0-3)  Atlético Madrid
+         Sevilla FC               1-0 (1-0)  Athletic Bilbao
+         Sporting Gijón           0-0  FC Barcelona
+         Real Sociedad            3-2 (2-1)  Real Oviedo
+         Espanyol Barcelona       2-1 (0-0)  Valencia CF
+
+
+Matchday 6
+[Sun Oct/19]
+         Deportivo La Coruña      2-0 (0-0)  Sevilla FC
+         Valencia CF              4-0 (1-0)  Sporting Gijón
+         Real Oviedo              4-0 (2-0)  RC Celta
+         FC Barcelona             3-1 (3-1)  Racing Santander
+         Real Valladolid          0-1 (0-1)  Espanyol Barcelona
+         Athletic Bilbao          2-2 (1-1)  Real Madrid
+         Atlético Madrid          4-1 (1-0)  Real Zaragoza
+         CD Málaga                2-4 (0-1)  Real Sociedad
+
+
+Matchday 7
+[Sun Oct/26]
+         RC Celta                 3-1 (3-1)  CD Málaga
+         Real Madrid              5-2 (3-1)  Deportivo La Coruña
+         Sporting Gijón           2-0 (0-0)  Racing Santander
+         Real Sociedad            0-2 (0-1)  Atlético Madrid
+         Espanyol Barcelona       6-2 (2-1)  Athletic Bilbao
+         Real Zaragoza            1-5 (1-1)  FC Barcelona
+         Valencia CF              2-0 (1-0)  Real Valladolid
+         Sevilla FC               2-1 (1-1)  Real Oviedo
+
+
+Matchday 8
+[Sun Nov/2]
+         FC Barcelona             3-0 (0-0)  Real Sociedad
+         CD Málaga                0-3 (0-1)  Sevilla FC
+         Real Valladolid          2-2 (2-0)  Sporting Gijón
+         Atlético Madrid          4-1 (3-1)  RC Celta
+         Real Oviedo              3-1 (2-1)  Real Madrid
+         Athletic Bilbao          1-1 (1-1)  Valencia CF
+         Deportivo La Coruña      2-2 (1-1)  Espanyol Barcelona
+         Racing Santander         3-1 (2-1)  Real Zaragoza
+
+
+Matchday 9
+[Sun Nov/9]
+         Real Madrid              2-0 (1-0)  CD Málaga
+         Valencia CF              1-1 (0-1)  Deportivo La Coruña
+         Espanyol Barcelona       3-0 (2-0)  Real Oviedo
+         Sevilla FC               3-1 (1-1)  Atlético Madrid
+         Real Valladolid          1-0 (1-0)  Athletic Bilbao
+         RC Celta                 3-3 (2-1)  FC Barcelona
+         Real Sociedad            3-1 (1-0)  Racing Santander
+         Sporting Gijón           2-3 (2-2)  Real Zaragoza
+
+
+Matchday 10
+[Sun Nov/16]
+         FC Barcelona             3-2 (1-1)  Sevilla FC
+         Real Zaragoza            3-3 (2-1)  Real Sociedad
+         Deportivo La Coruña      1-4 (1-1)  Real Valladolid
+         Athletic Bilbao          6-1 (4-0)  Sporting Gijón
+         Real Oviedo              2-3 (0-1)  Valencia CF
+         CD Málaga                1-1 (1-1)  Espanyol Barcelona
+         Atlético Madrid          1-2 (0-1)  Real Madrid
+         Racing Santander         2-0 (0-0)  RC Celta
+
+
+Matchday 11
+[Sun Nov/23]
+         Valencia CF              3-1 (2-1)  CD Málaga
+         Athletic Bilbao          8-2 (4-1)  Deportivo La Coruña
+         Real Valladolid          1-0 (0-0)  Real Oviedo
+         Sporting Gijón           1-0 (0-0)  Real Sociedad
+         Espanyol Barcelona       2-0 (1-0)  Atlético Madrid
+         Real Madrid              2-1 (0-0)  FC Barcelona
+         Sevilla FC               1-2 (1-2)  Racing Santander
+         RC Celta                 6-1 (2-0)  Real Zaragoza
+
+
+Matchday 12
+[Sun Dec/14]
+         Real Oviedo              2-1 (0-0)  Athletic Bilbao
+         CD Málaga                3-0 (1-0)  Real Valladolid
+         Deportivo La Coruña      5-0 (2-0)  Sporting Gijón
+         Real Sociedad            7-3 (6-1)  RC Celta
+         FC Barcelona             2-1 (0-1)  Espanyol Barcelona
+         Real Zaragoza            1-2 (0-1)  Sevilla FC
+         Racing Santander         2-3 (1-2)  Real Madrid
+         Atlético Madrid          3-3 (3-2)  Valencia CF
+
+
+Matchday 13
+[Sun Dec/21]
+         Athletic Bilbao          6-1 (2-0)  CD Málaga
+         Espanyol Barcelona       3-1 (1-1)  Racing Santander
+         Sporting Gijón           1-1 (1-1)  RC Celta
+         Sevilla FC               4-1 (2-0)  Real Sociedad
+         Real Valladolid          4-4 (0-3)  Atlético Madrid
+         Valencia CF              3-2 (1-1)  FC Barcelona
+         Deportivo La Coruña      2-2 (0-1)  Real Oviedo
+         Real Madrid              2-1 (1-0)  Real Zaragoza
+
+
+Matchday 14
+[Sun Jan/4]
+         Atlético Madrid          2-3 (1-1)  Athletic Bilbao
+         FC Barcelona             2-1 (0-0)  Real Valladolid
+         CD Málaga                1-2 (1-1)  Deportivo La Coruña
+         Sporting Gijón           1-3 (0-2)  Real Oviedo
+         RC Celta                 4-0 (0-0)  Sevilla FC
+         Real Zaragoza            3-1 (2-0)  Espanyol Barcelona
+         Real Sociedad            3-0 (1-0)  Real Madrid
+         Racing Santander         1-2 (1-0)  Valencia CF
+
+
+Matchday 15
+[Sun Jan/11]
+         Athletic Bilbao          4-3 (2-1)  FC Barcelona
+         Deportivo La Coruña      5-1 (2-1)  Atlético Madrid
+         Espanyol Barcelona       2-0 (1-0)  Real Sociedad
+         Valencia CF              3-1 (1-1)  Real Zaragoza
+         Real Madrid              5-1 (4-0)  RC Celta
+         Sevilla FC               7-1 (2-0)  Sporting Gijón
+         Real Valladolid          1-2 (1-1)  Racing Santander
+         Real Oviedo              6-1 (4-1)  CD Málaga
+
+
+Matchday 16
+[Sun Jan/18]
+         Real Oviedo              5-0 (2-0)  Atlético Madrid
+         Real Madrid              3-2 (1-2)  Sevilla FC
+         Valencia CF              5-2 (3-0)  Real Sociedad
+         Real Valladolid          3-1 (2-0)  Real Zaragoza
+         Espanyol Barcelona       6-1 (2-1)  RC Celta
+         CD Málaga                2-3 (1-0)  Sporting Gijón
+         Athletic Bilbao          5-0 (3-0)  Racing Santander
+         Deportivo La Coruña      1-1 (1-1)  FC Barcelona
+
+
+Matchday 17
+[Sun Jan/25]
+         Atlético Madrid          1-3 (1-2)  CD Málaga
+         Real Sociedad            2-2 (1-2)  Real Valladolid
+         Sporting Gijón           2-1 (0-0)  Real Madrid
+         Sevilla FC               2-1 (0-1)  Espanyol Barcelona
+         Real Zaragoza            2-0 (1-0)  Athletic Bilbao
+         RC Celta                 1-1 (0-1)  Valencia CF
+         Racing Santander         3-1 (2-0)  Deportivo La Coruña
+         FC Barcelona             4-1 (1-1)  Real Oviedo
+
+
+Matchday 18
+[Sun Feb/1]
+         Valencia CF              1-0 (1-0)  Sevilla FC
+         Real Oviedo              1-3 (1-2)  Racing Santander
+         Atlético Madrid          1-0 (1-0)  Sporting Gijón
+         Real Valladolid          3-1 (1-0)  RC Celta
+         Athletic Bilbao          6-1 (2-0)  Real Sociedad
+         CD Málaga                2-1 (2-1)  FC Barcelona
+         Espanyol Barcelona       2-4 (2-4)  Real Madrid
+         Deportivo La Coruña      0-0  Real Zaragoza
+
+
+Matchday 19
+[Sun Feb/8]
+         Sevilla FC               3-0 (1-0)  Real Valladolid
+         Real Sociedad            6-1 (1-0)  Deportivo La Coruña
+         Real Madrid              3-0 (1-0)  Valencia CF
+         RC Celta                 2-2 (1-0)  Athletic Bilbao
+         Sporting Gijón           1-1 (0-1)  Espanyol Barcelona
+         FC Barcelona             6-1 (2-0)  Atlético Madrid
+         Racing Santander         2-0 (0-0)  CD Málaga
+         Real Zaragoza            0-0  Real Oviedo
+
+
+Matchday 20
+[Sun Feb/15]
+         Athletic Bilbao          6-1 (1-1)  Sevilla FC
+         Atlético Madrid          3-0 (2-0)  Racing Santander
+         FC Barcelona             3-1 (3-1)  Sporting Gijón
+         Deportivo La Coruña      3-2 (1-1)  RC Celta
+         Real Oviedo              2-2 (2-2)  Real Sociedad
+         Valencia CF              1-1 (1-1)  Espanyol Barcelona
+         Real Valladolid          3-1 (1-1)  Real Madrid
+         CD Málaga                1-0 (1-0)  Real Zaragoza
+
+
+Matchday 21
+[Sun Feb/22]
+         Sevilla FC               6-2 (2-1)  Deportivo La Coruña
+         Espanyol Barcelona       1-0 (0-0)  Real Valladolid
+         Real Sociedad            4-1 (1-1)  CD Málaga
+         Real Madrid              3-2 (1-1)  Athletic Bilbao
+         Racing Santander         3-3 (1-0)  FC Barcelona
+         RC Celta                 3-0 (0-0)  Real Oviedo
+         Real Zaragoza            4-2 (1-1)  Atlético Madrid
+         Sporting Gijón           1-1 (0-0)  Valencia CF
+
+
+Matchday 22
+[Sun Mar/1]
+         Real Oviedo              2-0 (1-0)  Sevilla FC
+         Racing Santander         0-1 (0-1)  Sporting Gijón
+         CD Málaga                2-1 (1-0)  RC Celta
+         Atlético Madrid          4-3 (3-2)  Real Sociedad
+         Real Valladolid          2-0 (0-0)  Valencia CF
+         Athletic Bilbao          1-0 (0-0)  Espanyol Barcelona
+         Deportivo La Coruña      0-2 (0-2)  Real Madrid
+         FC Barcelona             8-0 (4-0)  Real Zaragoza
+
+
+Matchday 23
+[Sun Mar/8]
+         Sevilla FC               2-0 (0-0)  CD Málaga
+         Espanyol Barcelona       7-1 (5-0)  Deportivo La Coruña
+         Real Madrid              3-2 (1-1)  Real Oviedo
+         RC Celta                 3-2 (1-1)  Atlético Madrid
+         Valencia CF              3-1 (1-1)  Athletic Bilbao
+         Real Sociedad            0-2 (0-1)  FC Barcelona
+         Sporting Gijón           1-0 (0-0)  Real Valladolid
+         Real Zaragoza            4-0 (4-0)  Racing Santander
+
+
+Matchday 24
+[Sun Mar/15]
+         Atlético Madrid          4-2 (2-1)  Sevilla FC
+         Athletic Bilbao          4-2 (1-1)  Real Valladolid
+         Real Zaragoza            0-0  Sporting Gijón
+         Racing Santander         1-1 (0-0)  Real Sociedad
+         Deportivo La Coruña      1-2 (1-0)  Valencia CF
+         Real Oviedo              1-0 (0-0)  Espanyol Barcelona
+         CD Málaga                6-0 (4-0)  Real Madrid
+         FC Barcelona             4-0 (1-0)  RC Celta
+
+
+Matchday 25
+[Sun Mar/22]
+         Valencia CF              4-0 (2-0)  Real Oviedo
+         Espanyol Barcelona       2-1 (1-1)  CD Málaga
+         Real Valladolid          4-0 (2-0)  Deportivo La Coruña
+         Real Madrid              2-0 (0-0)  Atlético Madrid
+         Sporting Gijón           1-2 (1-2)  Athletic Bilbao
+         Sevilla FC               4-2 (2-2)  FC Barcelona
+         RC Celta                 1-1 (1-1)  Racing Santander
+         Real Sociedad            1-1 (1-1)  Real Zaragoza
+
+
+Matchday 26
+[Sun Apr/5]
+         CD Málaga                3-3 (1-0)  Valencia CF
+         Real Oviedo              6-3 (4-2)  Real Valladolid
+         Real Sociedad            0-0  Sporting Gijón
+         Racing Santander         4-1 (3-1)  Sevilla FC
+         Atlético Madrid          4-1 (3-1)  Espanyol Barcelona
+         Deportivo La Coruña      3-2 (1-0)  Athletic Bilbao
+         FC Barcelona             1-0 (1-0)  Real Madrid
+         Real Zaragoza            3-1 (0-1)  RC Celta
+
+
+Matchday 27
+[Sun Apr/12]
+         Real Valladolid          2-1 (1-1)  CD Málaga
+         Sporting Gijón           4-1 (4-0)  Deportivo La Coruña
+         Real Madrid              2-1 (1-0)  Racing Santander
+         RC Celta                 3-0 (1-0)  Real Sociedad
+         Athletic Bilbao          3-3 (1-2)  Real Oviedo
+         Espanyol Barcelona       0-2 (0-2)  FC Barcelona
+         Sevilla FC               5-2 (2-2)  Real Zaragoza
+         Valencia CF              1-2 (1-2)  Atlético Madrid
+
+
+Matchday 28
+[Sun Apr/19]
+         FC Barcelona             2-1 (1-0)  Valencia CF
+         Real Oviedo              3-3 (2-1)  Deportivo La Coruña
+         Atlético Madrid          2-2 (1-2)  Real Valladolid
+         Real Sociedad            1-1 (1-1)  Sevilla FC
+         Racing Santander         2-1 (1-1)  Espanyol Barcelona
+         CD Málaga                1-0 (0-0)  Athletic Bilbao
+         Real Zaragoza            0-3 (0-1)  Real Madrid
+         RC Celta                 3-0 (3-0)  Sporting Gijón
+
+
+Matchday 29
+[Sun Apr/26]
+         Valencia CF              7-1 (4-0)  Racing Santander
+         Deportivo La Coruña      1-0 (1-0)  CD Málaga
+         Real Oviedo              2-4 (2-1)  Sporting Gijón
+         Sevilla FC               4-2 (2-1)  RC Celta
+         Real Madrid              5-0 (2-0)  Real Sociedad
+         Real Valladolid          0-1 (0-1)  FC Barcelona
+         Espanyol Barcelona       3-2 (1-2)  Real Zaragoza
+         Athletic Bilbao          5-0 (3-0)  Atlético Madrid
+
+
+Matchday 30
+[Sun May/3]
+         Atlético Madrid          4-1 (4-0)  Deportivo La Coruña
+         RC Celta                 2-1 (1-0)  Real Madrid
+         FC Barcelona             3-2 (1-1)  Athletic Bilbao
+         Real Sociedad            2-1 (1-1)  Espanyol Barcelona
+         Real Zaragoza            0-2 (0-0)  Valencia CF
+         Sporting Gijón           1-0 (0-0)  Sevilla FC
+         CD Málaga                4-2 (1-1)  Real Oviedo
+         Racing Santander         2-2 (2-0)  Real Valladolid

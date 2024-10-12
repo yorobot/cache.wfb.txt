@@ -1,0 +1,226 @@
+= UEFA CONF 2023/24
+
+# Date       Wed Sep/20 2023 - Wed May/29 2024 (252d)
+# Teams      40
+# Matches    141
+
+
+
+Group
+[Wed Sep/20]
+  16.30  Lille OSC (FRA)          2-0 (1-0)  Olimpija Ljubljana (SVN)
+[Thu Sep/21]
+  21.00  Slovan Bratislava (SVK)  2-1 (0-0)  KÍ Klaksvík (FRO)
+[Thu Oct/5]
+  18.45  KÍ Klaksvík (FRO)        0-0  Lille OSC (FRA)
+         Olimpija Ljubljana (SVN)  0-1 (0-0)  Slovan Bratislava (SVK)
+[Thu Oct/26]
+  18.45  KÍ Klaksvík (FRO)        3-0 (2-0)  Olimpija Ljubljana (SVN)
+         Lille OSC (FRA)          2-1 (0-1)  Slovan Bratislava (SVK)
+[Thu Nov/9]
+  21.00  Olimpija Ljubljana (SVN)  2-0 (0-0)  KÍ Klaksvík (FRO)
+         Slovan Bratislava (SVK)  1-1 (0-0)  Lille OSC (FRA)
+[Thu Nov/30]
+  18.45  KÍ Klaksvík (FRO)        1-2 (1-1)  Slovan Bratislava (SVK)
+         Olimpija Ljubljana (SVN)  0-2 (0-1)  Lille OSC (FRA)
+[Thu Dec/14]
+  21.00  Lille OSC (FRA)          3-0 (1-0)  KÍ Klaksvík (FRO)
+         Slovan Bratislava (SVK)  1-2 (1-1)  Olimpija Ljubljana (SVN)
+[Thu Sep/21]
+  21.00  Maccabi Tel Aviv (ISR)   3-2 (3-1)  Breiðablik (ISL)
+         Zorya Lugansk (UKR)      1-1 (0-0)  KAA Gent (BEL)
+[Thu Oct/5]
+  18.45  Breiðablik (ISL)         0-1 (0-1)  Zorya Lugansk (UKR)
+         KAA Gent (BEL)           2-0 (1-0)  Maccabi Tel Aviv (ISR)
+[Thu Oct/26]
+  18.45  KAA Gent (BEL)           5-0 (4-0)  Breiðablik (ISL)
+[Thu Nov/9]
+  21.00  Breiðablik (ISL)         2-3 (2-1)  KAA Gent (BEL)
+         Zorya Lugansk (UKR)      1-3 (0-3)  Maccabi Tel Aviv (ISR)
+[Sat Nov/25]
+  16.30  Maccabi Tel Aviv (ISR)   3-2 (1-0)  Zorya Lugansk (UKR)
+[Thu Nov/30]
+  14.00  Breiðablik (ISL)         1-2 (0-1)  Maccabi Tel Aviv (ISR)
+  18.45  KAA Gent (BEL)           4-1 (1-0)  Zorya Lugansk (UKR)
+[Thu Dec/14]
+  21.00  Maccabi Tel Aviv (ISR)   3-1 (2-0)  KAA Gent (BEL)
+         Zorya Lugansk (UKR)      4-0 (3-0)  Breiðablik (ISL)
+[Thu Sep/21]
+  21.00  Dinamo Zagreb (CRO)      5-1 (1-0)  FK Astana (KAZ)
+         Viktoria Plzeň (CZE)     1-0 (0-0)  KF Ballkani (KOS)
+[Thu Oct/5]
+  16.30  FK Astana (KAZ)          1-2 (0-0)  Viktoria Plzeň (CZE)
+  18.45  KF Ballkani (KOS)        2-0 (1-0)  Dinamo Zagreb (CRO)
+[Thu Oct/26]
+  18.45  KF Ballkani (KOS)        1-2 (1-2)  FK Astana (KAZ)
+  21.00  Dinamo Zagreb (CRO)      0-1 (0-0)  Viktoria Plzeň (CZE)
+[Thu Nov/9]
+  16.30  FK Astana (KAZ)          0-0  KF Ballkani (KOS)
+  18.45  Viktoria Plzeň (CZE)     1-0 (1-0)  Dinamo Zagreb (CRO)
+[Thu Nov/30]
+  16.30  FK Astana (KAZ)          0-2 (0-0)  Dinamo Zagreb (CRO)
+  18.45  KF Ballkani (KOS)        0-1 (0-0)  Viktoria Plzeň (CZE)
+[Thu Dec/14]
+  21.00  Dinamo Zagreb (CRO)      3-0 (0-0)  KF Ballkani (KOS)
+         Viktoria Plzeň (CZE)     3-0 (0-0)  FK Astana (KAZ)
+[Thu Sep/21]
+  21.00  Club Brugge KV (BEL)     1-1 (0-0)  Beşiktaş (TUR)
+         FC Lugano (SUI)          0-0  FK Bodø/Glimt (NOR)
+[Thu Oct/5]
+  18.45  Beşiktaş (TUR)           2-3 (1-0)  FC Lugano (SUI)
+         FK Bodø/Glimt (NOR)      0-1 (0-1)  Club Brugge KV (BEL)
+[Thu Oct/26]
+  18.45  FC Lugano (SUI)          1-3 (0-1)  Club Brugge KV (BEL)
+  21.00  FK Bodø/Glimt (NOR)      3-1 (1-0)  Beşiktaş (TUR)
+[Thu Nov/9]
+  18.45  Beşiktaş (TUR)           1-2 (0-1)  FK Bodø/Glimt (NOR)
+  21.00  Club Brugge KV (BEL)     2-0 (0-0)  FC Lugano (SUI)
+[Thu Nov/30]
+  18.45  Beşiktaş (TUR)           0-5 (0-2)  Club Brugge KV (BEL)
+         FK Bodø/Glimt (NOR)      5-2 (1-0)  FC Lugano (SUI)
+[Thu Dec/14]
+  21.00  Club Brugge KV (BEL)     3-1 (1-0)  FK Bodø/Glimt (NOR)
+         FC Lugano (SUI)          0-2 (0-1)  Beşiktaş (TUR)
+[Thu Sep/21]
+  18.45  Legia Warszawa (POL)     3-2 (2-2)  Aston Villa (ENG)
+         Zrinjski Mostar (BIH)    4-3 (0-3)  AZ Alkmaar (NED)
+[Thu Oct/5]
+  21.00  Aston Villa (ENG)        1-0 (0-0)  Zrinjski Mostar (BIH)
+         AZ Alkmaar (NED)         1-0 (0-0)  Legia Warszawa (POL)
+[Thu Oct/26]
+  18.45  AZ Alkmaar (NED)         1-4 (0-2)  Aston Villa (ENG)
+  21.00  Zrinjski Mostar (BIH)    1-2 (1-1)  Legia Warszawa (POL)
+[Thu Nov/9]
+  18.45  Legia Warszawa (POL)     2-0 (2-0)  Zrinjski Mostar (BIH)
+  21.00  Aston Villa (ENG)        2-1 (0-0)  AZ Alkmaar (NED)
+[Thu Nov/30]
+  18.45  AZ Alkmaar (NED)         1-0 (0-0)  Zrinjski Mostar (BIH)
+  21.00  Aston Villa (ENG)        2-1 (1-1)  Legia Warszawa (POL)
+[Thu Dec/14]
+  18.45  Legia Warszawa (POL)     2-0 (1-0)  AZ Alkmaar (NED)
+         Zrinjski Mostar (BIH)    1-1 (0-0)  Aston Villa (ENG)
+[Thu Sep/21]
+  18.45  Ferencvárosi TC (HUN)    3-1 (2-1)  FK Čukarički (SRB)
+         KRC Genk (BEL)           2-2 (1-2)  ACF Fiorentina (ITA)
+[Thu Oct/5]
+  21.00  ACF Fiorentina (ITA)     2-2 (0-1)  Ferencvárosi TC (HUN)
+         FK Čukarički (SRB)       0-2 (0-2)  KRC Genk (BEL)
+[Thu Oct/26]
+  21.00  ACF Fiorentina (ITA)     6-0 (3-0)  FK Čukarički (SRB)
+         KRC Genk (BEL)           0-0  Ferencvárosi TC (HUN)
+[Thu Nov/9]
+  18.45  Ferencvárosi TC (HUN)    1-1 (0-0)  KRC Genk (BEL)
+         FK Čukarički (SRB)       0-1 (0-1)  ACF Fiorentina (ITA)
+[Thu Nov/30]
+  21.00  ACF Fiorentina (ITA)     2-1 (1-1)  KRC Genk (BEL)
+         FK Čukarički (SRB)       1-2 (1-0)  Ferencvárosi TC (HUN)
+[Thu Dec/14]
+  18.45  Ferencvárosi TC (HUN)    1-1 (0-0)  ACF Fiorentina (ITA)
+         KRC Genk (BEL)           2-0 (1-0)  FK Čukarički (SRB)
+[Thu Sep/21]
+  18.45  Eintracht Frankfurt (GER)  2-1 (1-1)  Aberdeen FC (SCO)
+         HJK Helsinki (FIN)       2-3 (1-0)  PAOK Saloniki (GRE)
+[Thu Oct/5]
+  21.00  Aberdeen FC (SCO)        1-1 (0-0)  HJK Helsinki (FIN)
+         PAOK Saloniki (GRE)      2-1 (1-0)  Eintracht Frankfurt (GER)
+[Thu Oct/26]
+  21.00  Aberdeen FC (SCO)        2-3 (0-0)  PAOK Saloniki (GRE)
+         Eintracht Frankfurt (GER)  6-0 (4-0)  HJK Helsinki (FIN)
+[Thu Nov/9]
+  18.45  HJK Helsinki (FIN)       0-1 (0-1)  Eintracht Frankfurt (GER)
+         PAOK Saloniki (GRE)      2-2 (1-1)  Aberdeen FC (SCO)
+[Thu Nov/30]
+  18.45  HJK Helsinki (FIN)       2-2 (2-1)  Aberdeen FC (SCO)
+  21.00  Eintracht Frankfurt (GER)  1-2 (0-0)  PAOK Saloniki (GRE)
+[Thu Dec/14]
+  18.45  Aberdeen FC (SCO)        2-0 (1-0)  Eintracht Frankfurt (GER)
+         PAOK Saloniki (GRE)      4-2 (1-1)  HJK Helsinki (FIN)
+[Thu Sep/21]
+  18.45  Fenerbahçe (TUR)         3-1 (2-0)  FC Nordsjælland (DEN)
+         PFC Ludogorets Razgrad (BUL)  4-0 (0-0)  Spartak Trnava (SVK)
+[Thu Oct/5]
+  21.00  FC Nordsjælland (DEN)    7-1 (4-1)  PFC Ludogorets Razgrad (BUL)
+         Spartak Trnava (SVK)     1-2 (0-0)  Fenerbahçe (TUR)
+[Thu Oct/26]
+  18.45  Fenerbahçe (TUR)         3-1 (1-0)  PFC Ludogorets Razgrad (BUL)
+  21.00  Spartak Trnava (SVK)     0-2 (0-1)  FC Nordsjælland (DEN)
+[Thu Nov/9]
+  18.45  FC Nordsjælland (DEN)    1-1 (1-0)  Spartak Trnava (SVK)
+  21.00  PFC Ludogorets Razgrad (BUL)  2-0 (1-0)  Fenerbahçe (TUR)
+[Thu Nov/30]
+  21.00  FC Nordsjælland (DEN)    6-1 (2-1)  Fenerbahçe (TUR)
+         Spartak Trnava (SVK)     1-2 (0-0)  PFC Ludogorets Razgrad (BUL)
+[Thu Dec/14]
+  18.45  Fenerbahçe (TUR)         4-0 (1-0)  Spartak Trnava (SVK)
+         PFC Ludogorets Razgrad (BUL)  1-0 (0-0)  FC Nordsjælland (DEN)
+
+
+Playoffs
+[Thu Feb/15]
+  18.45  Sturm Graz (AUT)         4-1 (2-1)  Slovan Bratislava (SVK)
+         Union Saint-Gilloise (BEL)  2-2 (1-2)  Eintracht Frankfurt (GER)
+         Olympiakos Piraeus (GRE)  1-0 (0-0)  Ferencvárosi TC (HUN)
+         Molde FK (NOR)           3-2 (3-0)  Legia Warszawa (POL)
+  21.00  Servette FC (SUI)        0-0  PFC Ludogorets Razgrad (BUL)
+         Real Betis (ESP)         0-1 (0-0)  Dinamo Zagreb (CRO)
+         AFC Ajax (NED)           2-2 (0-1)  FK Bodø/Glimt (NOR)
+         Maccabi Haifa (ISR)      1-0 (0-0)  KAA Gent (BEL)
+[Wed Feb/21]
+  18.00  KAA Gent (BEL)           1-1 (0-1)  Maccabi Haifa (ISR)
+[Thu Feb/22]
+  18.45  PFC Ludogorets Razgrad (BUL)  0-1 (0-1)  Servette FC (SUI)
+         Dinamo Zagreb (CRO)      1-1 (0-1)  Real Betis (ESP)
+         FK Bodø/Glimt (NOR)      1-2 a.e.t. (1-1, 0-1)  AFC Ajax (NED)
+  21.00  Slovan Bratislava (SVK)  0-1 (0-0)  Sturm Graz (AUT)
+         Eintracht Frankfurt (GER)  1-2 (0-0)  Union Saint-Gilloise (BEL)
+         Ferencvárosi TC (HUN)    0-1 (0-1)  Olympiakos Piraeus (GRE)
+         Legia Warszawa (POL)     0-3 (0-2)  Molde FK (NOR)
+
+
+Round of 16
+[Thu Mar/7]
+  18.45  AFC Ajax (NED)           0-0  Aston Villa (ENG)
+         Molde FK (NOR)           2-1 (1-0)  Club Brugge KV (BEL)
+         Sturm Graz (AUT)         0-3 (0-1)  Lille OSC (FRA)
+         Olympiakos Piraeus (GRE)  1-4 (1-3)  Maccabi Tel Aviv (ISR)
+  21.00  Servette FC (SUI)        0-0  Viktoria Plzeň (CZE)
+         Union Saint-Gilloise (BEL)  0-3 (0-1)  Fenerbahçe (TUR)
+         Dinamo Zagreb (CRO)      2-0 (1-0)  PAOK Saloniki (GRE)
+         Maccabi Haifa (ISR)      3-4 (2-1)  ACF Fiorentina (ITA)
+[Thu Mar/14]
+  18.45  Viktoria Plzeň (CZE)     3-1 pen. 0-0 a.e.t. (0-0)  Servette FC (SUI)
+         Fenerbahçe (TUR)         0-1 (0-0)  Union Saint-Gilloise (BEL)
+         PAOK Saloniki (GRE)      5-1 (3-0)  Dinamo Zagreb (CRO)
+         ACF Fiorentina (ITA)     1-1 (0-0)  Maccabi Haifa (ISR)
+  21.00  Aston Villa (ENG)        4-0 (1-0)  AFC Ajax (NED)
+         Club Brugge KV (BEL)     3-0 (1-0)  Molde FK (NOR)
+         Lille OSC (FRA)          1-1 (1-1)  Sturm Graz (AUT)
+         Maccabi Tel Aviv (ISR)   1-6 a.e.t. (1-4, 0-3)  Olympiakos Piraeus (GRE)
+
+
+Quarterfinals
+[Thu Apr/11]
+  18.45  Olympiakos Piraeus (GRE)  3-2 (2-0)  Fenerbahçe (TUR)
+         Viktoria Plzeň (CZE)     0-0  ACF Fiorentina (ITA)
+  21.00  Club Brugge KV (BEL)     1-0 (1-0)  PAOK Saloniki (GRE)
+         Aston Villa (ENG)        2-1 (1-0)  Lille OSC (FRA)
+[Thu Apr/18]
+  18.45  Lille OSC (FRA)          3-4 pen. 2-1 a.e.t. (2-1, 1-0)  Aston Villa (ENG)
+         ACF Fiorentina (ITA)     2-0 a.e.t. (0-0)  Viktoria Plzeň (CZE)
+  21.00  PAOK Saloniki (GRE)      0-2 (0-2)  Club Brugge KV (BEL)
+         Fenerbahçe (TUR)         2-3 pen. 1-0 a.e.t. (1-0, 1-0)  Olympiakos Piraeus (GRE)
+
+
+Semifinals
+[Thu May/2]
+  21.00  Aston Villa (ENG)        2-4 (1-2)  Olympiakos Piraeus (GRE)
+         ACF Fiorentina (ITA)     3-2 (2-1)  Club Brugge KV (BEL)
+[Wed May/8]
+  18.45  Club Brugge KV (BEL)     1-1 (1-0)  ACF Fiorentina (ITA)
+[Thu May/9]
+  21.00  Olympiakos Piraeus (GRE)  2-0 (1-0)  Aston Villa (ENG)
+
+
+Final
+[Wed May/29]
+  21.00  Olympiakos Piraeus (GRE)  1-0 a.e.t. (0-0)  ACF Fiorentina (ITA)

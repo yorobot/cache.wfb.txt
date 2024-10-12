@@ -1,0 +1,178 @@
+= WAL 1 2016
+
+# Date       Fri Jan/29 - Sat May/14 2016 (106d)
+# Teams      12
+# Matches    63
+# Stages     Championship (30)  EL-Playoffs (3)  Relegation (30)
+
+
+== Championship
+
+Matchday 1
+[Fri Jan/29]
+  19.45  Bala Town                1-1 (0-0)  Newtown AFC
+         The New Saints           0-0  Connah's Quay Nomads
+[Sat Jan/30]
+  17.15  Llandudno FC             1-1 (0-1)  Airbus UK
+
+
+Matchday 2
+[Sat Feb/13]
+  14.30  Airbus UK                0-3 (0-3)  Bala Town
+         Connah's Quay Nomads     2-3 (1-1)  Llandudno FC
+         Newtown AFC              0-6 (0-3)  The New Saints
+
+
+Matchday 3
+[Sat Feb/20]
+  14.30  Newtown AFC              1-1 (0-0)  Llandudno FC
+  17.15  Airbus UK                0-1 (0-1)  Connah's Quay Nomads
+[Tue Mar/15]
+  19.45  Bala Town                0-0  The New Saints
+
+
+Matchday 4
+[Fri Feb/26]
+  19.45  Llandudno FC             3-2 (0-1)  Bala Town
+[Sat Feb/27]
+  14.30  Connah's Quay Nomads     1-0 (0-0)  Newtown AFC
+         The New Saints           5-0 (2-0)  Airbus UK
+
+
+Matchday 5
+[Fri Mar/11]
+  19.45  Bala Town                3-1 (1-0)  Connah's Quay Nomads
+         The New Saints           2-0 (1-0)  Llandudno FC
+[Sat Mar/12]
+  14.00  Newtown AFC              0-3 (0-0)  Airbus UK
+
+
+Matchday 6
+[Sat Mar/19]
+  14.30  Airbus UK                3-4 (2-3)  Llandudno FC
+         Connah's Quay Nomads     2-1 (0-1)  The New Saints
+         Newtown AFC              2-2 (0-2)  Bala Town
+
+
+Matchday 7
+[Fri Mar/25]
+  14.30  Bala Town                3-1 (2-1)  Airbus UK
+[Sat Mar/26]
+  14.30  Llandudno FC             1-2 (1-2)  Connah's Quay Nomads
+  17.15  The New Saints           1-2 (1-1)  Newtown AFC
+
+
+Matchday 8
+[Fri Apr/8]
+  19.45  Connah's Quay Nomads     2-1 (2-0)  Airbus UK
+         Llandudno FC             3-2 (2-1)  Newtown AFC
+[Sat Apr/9]
+  17.15  The New Saints           2-0 (0-0)  Bala Town
+
+
+Matchday 9
+[Sat Apr/16]
+  14.30  Newtown AFC              3-2 (0-1)  Connah's Quay Nomads
+  17.15  Bala Town                0-0  Llandudno FC
+         Airbus UK                3-2 (2-1)  The New Saints
+
+
+Matchday 10
+[Sat Apr/23]
+  17.15  Airbus UK                2-2 (1-2)  Newtown AFC
+         Connah's Quay Nomads     0-1 (0-0)  Bala Town
+         Llandudno FC             1-5 (1-1)  The New Saints
+
+
+== EL-Playoffs
+
+Semifinals
+[Sat May/7]
+  17.15  Newtown AFC              1-2 (1-2)  Airbus UK
+[Sun May/8]
+  15.30  Connah's Quay Nomads     2-0 (1-0)  Carmarthen Town
+
+
+Final
+[Sat May/14]
+  17.15  Connah's Quay Nomads     1-0 (0-0)  Airbus UK
+
+
+== Relegation
+
+Matchday 1
+[Fri Jan/29]
+  19.45  Aberystwyth Town         1-0 (0-0)  Port Talbot Town
+         Bangor City              4-3 (0-1)  Rhyl FC
+[Tue Apr/5]
+  19.30  Carmarthen Town          1-0 (0-0)  Haverfordwest County
+
+
+Matchday 2
+[Fri Feb/12]
+  19.30  Port Talbot Town         0-2 (0-0)  Carmarthen Town
+  19.45  Rhyl FC                  0-1 (0-1)  Aberystwyth Town
+[Sat Feb/13]
+  14.30  Haverfordwest County     1-1 (0-0)  Bangor City
+
+
+Matchday 3
+[Sat Feb/20]
+  14.30  Haverfordwest County     1-3 (0-2)  Aberystwyth Town
+[Sat Mar/5]
+  14.30  Carmarthen Town          0-1 (0-1)  Bangor City
+[Mon Mar/28]
+  14.30  Port Talbot Town         4-0 (1-0)  Rhyl FC
+
+
+Matchday 4
+[Sat Feb/27]
+  14.30  Bangor City              0-2 (0-0)  Port Talbot Town
+  17.15  Aberystwyth Town         2-4 (1-0)  Carmarthen Town
+         Rhyl FC                  1-1 (1-1)  Haverfordwest County
+
+
+Matchday 5
+[Fri Mar/11]
+  19.45  Bangor City              0-0  Aberystwyth Town
+[Sat Mar/12]
+  14.00  Carmarthen Town          2-0 (2-0)  Rhyl FC
+         Haverfordwest County     1-1 (0-1)  Port Talbot Town
+
+
+Matchday 6
+[Fri Mar/18]
+  19.30  Port Talbot Town         2-2 (1-0)  Aberystwyth Town
+[Sat Mar/19]
+  14.30  Haverfordwest County     1-2 (0-1)  Carmarthen Town
+  17.15  Rhyl FC                  3-4 (1-0)  Bangor City
+
+
+Matchday 7
+[Fri Mar/25]
+  19.30  Carmarthen Town          2-3 (2-1)  Port Talbot Town
+  19.45  Aberystwyth Town         3-1 (1-1)  Rhyl FC
+[Sat Apr/2]
+  14.30  Bangor City              5-2 (3-1)  Haverfordwest County
+
+
+Matchday 8
+[Fri Apr/8]
+  19.45  Aberystwyth Town         3-1 (1-1)  Haverfordwest County
+[Sat Apr/9]
+  14.30  Bangor City              2-2 (2-0)  Carmarthen Town
+         Rhyl FC                  5-0 (2-0)  Port Talbot Town
+
+
+Matchday 9
+[Sat Apr/16]
+  14.30  Carmarthen Town          1-0 (0-0)  Aberystwyth Town
+         Haverfordwest County     1-1 (0-1)  Rhyl FC
+         Port Talbot Town         1-1 (1-0)  Bangor City
+
+
+Matchday 10
+[Sat Apr/23]
+  17.15  Aberystwyth Town         4-0 (0-0)  Bangor City
+         Port Talbot Town         2-0 (2-0)  Haverfordwest County
+         Rhyl FC                  1-0 (1-0)  Carmarthen Town

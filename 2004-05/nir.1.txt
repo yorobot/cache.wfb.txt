@@ -1,0 +1,395 @@
+= NIR 1 2004/05
+
+# Date       Sat Sep/25 2004 - Sat Apr/30 2005 (217d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sat Sep/25]
+  15.00  Cliftonville FC          1-0  Lisburn Distillery
+         Coleraine FC             1-1  Crusaders FC
+         Dungannon Swifts         1-1  Linfield FC
+         Glentoran FC             1-2  Portadown FC
+         Institute FC Drumahoe    1-1  Ards FC
+         Larne FC                 2-0  Omagh Town FC
+         Loughgall FC             1-0  Ballymena United
+         Newry City FC            2-2  Limavady United
+
+
+Matchday 2
+[Sat Oct/2]
+  15.00  Ards FC                  3-0  Cliftonville FC
+         Ballymena United         2-1  Newry City FC
+         Crusaders FC             0-3  Dungannon Swifts
+         Limavady United          2-2  Glentoran FC
+         Linfield FC              3-1  Institute FC Drumahoe
+         Lisburn Distillery       2-2  Coleraine FC
+         Omagh Town FC            0-2  Loughgall FC
+         Portadown FC             3-0  Larne FC
+
+
+Matchday 3
+[Sat Oct/9]
+  15.00  Cliftonville FC          2-1  Omagh Town FC
+         Coleraine FC             3-0  Ards FC
+         Dungannon Swifts         1-2  Ballymena United
+         Glentoran FC             1-0  Lisburn Distillery
+         Institute FC Drumahoe    2-1  Portadown FC
+         Larne FC                 5-2  Crusaders FC
+         Loughgall FC             1-1  Limavady United
+         Newry City FC            0-3  Linfield FC
+
+
+Matchday 4
+[Fri Oct/15]
+  19.45  Omagh Town FC            2-2  Newry City FC
+[Sat Oct/16]
+  15.00  Ards FC                  0-3  Glentoran FC
+         Ballymena United         1-1  Institute FC Drumahoe
+         Crusaders FC             3-2  Loughgall FC
+         Limavady United          6-0  Larne FC
+         Linfield FC              4-1  Coleraine FC
+         Lisburn Distillery       2-0  Dungannon Swifts
+         Portadown FC             3-0  Cliftonville FC
+
+
+Matchday 5
+[Fri Oct/22]
+  19.45  Institute FC Drumahoe    2-1  Newry City FC
+[Sat Oct/23]
+  15.00  Cliftonville FC          0-1  Glentoran FC
+         Coleraine FC             4-2  Dungannon Swifts
+         Crusaders FC             0-2  Ards FC
+         Limavady United          2-2  Lisburn Distillery
+         Linfield FC              0-1  Ballymena United
+         Loughgall FC             0-2  Larne FC
+         Portadown FC             9-0  Omagh Town FC
+
+
+Matchday 6
+[Fri Oct/29]
+  19.45  Dungannon Swifts         1-0  Loughgall FC
+  20.00  Newry City FC            4-2  Cliftonville FC
+[Sat Oct/30]
+  15.00  Ards FC                  2-2  Linfield FC
+         Ballymena United         1-1  Crusaders FC
+         Glentoran FC             1-0  Coleraine FC
+         Larne FC                 2-0  Institute FC Drumahoe
+         Lisburn Distillery       2-0  Portadown FC
+         Omagh Town FC            2-5  Limavady United
+
+
+Matchday 7
+[Fri Nov/5]
+  19.45  Institute FC Drumahoe    3-2  Dungannon Swifts
+         Larne FC                 0-1  Newry City FC
+[Sat Nov/6]
+  15.00  Cliftonville FC          1-4  Coleraine FC
+         Limavady United          0-1  Ards FC
+         Linfield FC              2-1  Crusaders FC
+         Lisburn Distillery       6-1  Omagh Town FC
+         Loughgall FC             1-3  Glentoran FC
+         Portadown FC             3-0  Ballymena United
+
+
+Matchday 8
+[Fri Nov/12]
+  19.45  Newry City FC            2-5  Loughgall FC
+  20.00  Coleraine FC             3-0  Larne FC
+[Sat Nov/13]
+  15.00  Ballymena United         2-2  Ards FC
+         Crusaders FC             0-0  Lisburn Distillery
+         Dungannon Swifts         3-1  Cliftonville FC
+         Glentoran FC             2-0  Institute FC Drumahoe
+         Omagh Town FC            1-8  Linfield FC
+         Portadown FC             0-1  Limavady United
+
+
+Matchday 9
+[Sat Nov/20]
+  15.00  Ards FC                  2-0  Omagh Town FC
+         Crusaders FC             0-1  Portadown FC
+         Institute FC Drumahoe    3-1  Coleraine FC
+         Larne FC                 3-2  Dungannon Swifts
+         Limavady United          2-1  Ballymena United
+         Linfield FC              5-2  Lisburn Distillery
+         Loughgall FC             0-0  Cliftonville FC
+         Newry City FC            0-4  Glentoran FC
+
+
+Matchday 10
+[Fri Nov/26]
+  19.45  Cliftonville FC          1-0  Institute FC Drumahoe
+         Dungannon Swifts         1-0  Newry City FC
+[Sat Nov/27]
+  15.00  Ards FC                  0-1  Portadown FC
+         Coleraine FC             2-0  Loughgall FC
+         Larne FC                 0-5  Glentoran FC
+         Linfield FC              4-1  Limavady United
+         Lisburn Distillery       0-2  Ballymena United
+         Omagh Town FC            1-3  Crusaders FC
+
+
+Matchday 11
+[Sat Dec/4]
+  15.00  Ballymena United         1-1  Omagh Town FC
+         Cliftonville FC          2-0  Larne FC
+         Glentoran FC             5-0  Dungannon Swifts
+         Limavady United          1-1  Crusaders FC
+         Lisburn Distillery       1-1  Ards FC
+         Loughgall FC             0-1  Institute FC Drumahoe
+         Newry City FC            0-1  Coleraine FC
+         Portadown FC             0-1  Linfield FC
+
+
+Matchday 12
+[Sat Dec/11]
+  15.00  Ballymena United         1-1  Cliftonville FC
+         Crusaders FC             0-1  Newry City FC
+         Institute FC Drumahoe    1-3  Lisburn Distillery
+         Limavady United          3-2  Dungannon Swifts
+         Linfield FC              1-1  Larne FC
+         Omagh Town FC            2-3  Glentoran FC
+         Portadown FC             2-0  Coleraine FC
+[Tue Dec/14]
+  19.45  Ards FC                  0-0  Loughgall FC
+
+
+Matchday 13
+[Fri Dec/17]
+  19.45  Institute FC Drumahoe    0-1  Omagh Town FC
+         Newry City FC            1-0  Ards FC
+  20.00  Coleraine FC             1-2  Limavady United
+[Sat Dec/18]
+  15.00  Cliftonville FC          0-0  Linfield FC
+         Dungannon Swifts         1-3  Portadown FC
+         Glentoran FC             4-1  Crusaders FC
+         Larne FC                 0-0  Ballymena United
+         Loughgall FC             2-1  Lisburn Distillery
+
+
+Matchday 14
+[Mon Dec/27]
+  15.00  Ards FC                  0-3  Larne FC
+         Ballymena United         2-2  Coleraine FC
+         Crusaders FC             0-2  Cliftonville FC
+         Linfield FC              1-1  Glentoran FC
+         Lisburn Distillery       1-3  Newry City FC
+         Omagh Town FC            1-4  Dungannon Swifts
+         Portadown FC             2-2  Loughgall FC
+  16.00  Limavady United          5-1  Institute FC Drumahoe
+
+
+Matchday 15
+[Thu Dec/30]
+  19.45  Newry City FC            0-6  Portadown FC
+[Sat Jan/1]
+  15.00  Coleraine FC             3-4  Omagh Town FC
+         Dungannon Swifts         7-0  Ards FC
+         Loughgall FC             0-4  Linfield FC
+[Tue Jan/18]
+  19.45  Glentoran FC             4-2  Ballymena United
+[Tue Jan/25]
+  19.45  Larne FC                 0-0  Lisburn Distillery
+  20.00  Institute FC Drumahoe    2-0  Crusaders FC
+[Wed Mar/2]
+  20.00  Cliftonville FC          0-2  Limavady United
+
+
+Matchday 16
+[Mon Jan/3]
+  15.00  Lisburn Distillery       3-1  Cliftonville FC
+         Crusaders FC             1-1  Coleraine FC
+         Linfield FC              2-1  Dungannon Swifts
+         Omagh Town FC            3-0  Larne FC
+         Ballymena United         2-1  Loughgall FC
+         Limavady United          3-2  Newry City FC
+         Glentoran FC             3-4  Portadown FC
+[Tue Feb/1]
+  19.45  Ards FC                  1-2  Institute FC Drumahoe
+
+
+Matchday 17
+[Sat Jan/8]
+  15.00  Cliftonville FC          3-1  Ards FC
+         Dungannon Swifts         0-0  Crusaders FC
+         Larne FC                 2-3  Portadown FC
+[Tue Jan/18]
+  19.45  Coleraine FC             1-3  Lisburn Distillery
+[Tue Feb/1]
+  19.45  Loughgall FC             1-3  Omagh Town FC
+[Tue Mar/1]
+  19.45  Newry City FC            1-1  Ballymena United
+[Sat Mar/5]
+  15.00  Institute FC Drumahoe    0-1  Linfield FC
+[Tue Mar/8]
+  20.00  Glentoran FC             2-0  Limavady United
+
+
+Matchday 18
+[Sat Jan/22]
+  15.00  Omagh Town FC            0-5  Cliftonville FC
+         Ards FC                  1-2  Coleraine FC
+         Ballymena United         1-2  Dungannon Swifts
+         Lisburn Distillery       2-1  Glentoran FC
+         Portadown FC             4-0  Institute FC Drumahoe
+         Crusaders FC             1-1  Larne FC
+         Limavady United          1-1  Loughgall FC
+         Linfield FC              2-0  Newry City FC
+
+
+Matchday 19
+[Fri Jan/28]
+  19.45  Newry City FC            2-1  Omagh Town FC
+[Sat Jan/29]
+  15.00  Glentoran FC             2-0  Ards FC
+         Institute FC Drumahoe    1-1  Ballymena United
+         Loughgall FC             2-0  Crusaders FC
+         Larne FC                 0-4  Limavady United
+         Coleraine FC             0-4  Linfield FC
+         Dungannon Swifts         1-1  Lisburn Distillery
+         Cliftonville FC          0-2  Portadown FC
+
+
+Matchday 20
+[Fri Feb/4]
+  19.45  Newry City FC            4-1  Institute FC Drumahoe
+[Sat Feb/5]
+  15.00  Glentoran FC             4-0  Cliftonville FC
+         Dungannon Swifts         0-1  Coleraine FC
+         Ards FC                  2-2  Crusaders FC
+         Lisburn Distillery       1-1  Limavady United
+         Ballymena United         3-4  Linfield FC
+         Larne FC                 2-3  Loughgall FC
+         Omagh Town FC            1-2  Portadown FC
+
+
+Matchday 21
+[Fri Feb/18]
+  19.45  Loughgall FC             1-2  Dungannon Swifts
+[Sat Feb/19]
+  15.00  Linfield FC              3-0  Ards FC
+         Crusaders FC             2-3  Ballymena United
+         Coleraine FC             0-1  Glentoran FC
+         Institute FC Drumahoe    3-0  Larne FC
+         Portadown FC             2-1  Lisburn Distillery
+         Cliftonville FC          0-1  Newry City FC
+         Limavady United          2-0  Omagh Town FC
+
+
+Matchday 22
+[Fri Feb/25]
+  19.45  Newry City FC            1-3  Larne FC
+[Sat Feb/26]
+  15.00  Coleraine FC             3-1  Cliftonville FC
+         Dungannon Swifts         3-0  Institute FC Drumahoe
+         Ards FC                  0-1  Limavady United
+         Crusaders FC             1-2  Linfield FC
+         Omagh Town FC            2-3  Lisburn Distillery
+         Glentoran FC             2-0  Loughgall FC
+         Ballymena United         2-0  Portadown FC
+
+
+Matchday 23
+[Fri Mar/11]
+  19.45  Larne FC                 1-5  Coleraine FC
+         Loughgall FC             1-1  Newry City FC
+[Sat Mar/12]
+  15.00  Ards FC                  1-1  Ballymena United
+         Lisburn Distillery       3-2  Crusaders FC
+         Cliftonville FC          1-1  Dungannon Swifts
+         Institute FC Drumahoe    0-1  Glentoran FC
+         Linfield FC              6-1  Omagh Town FC
+         Limavady United          0-2  Portadown FC
+
+
+Matchday 24
+[Sat Mar/19]
+  15.00  Omagh Town FC            2-1  Ards FC
+         Portadown FC             0-0  Crusaders FC
+         Coleraine FC             2-4  Institute FC Drumahoe
+         Dungannon Swifts         3-1  Larne FC
+         Ballymena United         2-1  Limavady United
+         Lisburn Distillery       0-4  Linfield FC
+         Cliftonville FC          1-3  Loughgall FC
+         Glentoran FC             3-1  Newry City FC
+
+
+Matchday 25
+[Wed Mar/23]
+  20.00  Limavady United          0-1  Linfield FC
+[Thu Mar/24]
+  19.45  Institute FC Drumahoe    1-2  Cliftonville FC
+         Newry City FC            0-4  Dungannon Swifts
+         Ballymena United         2-1  Lisburn Distillery
+         Crusaders FC             3-1  Omagh Town FC
+  20.00  Loughgall FC             1-5  Coleraine FC
+[Fri Mar/25]
+  19.45  Portadown FC             2-3  Ards FC
+         Glentoran FC             3-0  Larne FC
+
+
+Matchday 26
+[Mon Mar/28]
+  15.00  Larne FC                 0-0  Cliftonville FC
+[Tue Mar/29]
+  15.00  Omagh Town FC            0-2  Ballymena United
+         Dungannon Swifts         2-0  Glentoran FC
+         Crusaders FC             1-0  Limavady United
+         Institute FC Drumahoe    3-0  Loughgall FC
+  19.45  Ards FC                  0-1  Lisburn Distillery
+         Coleraine FC             6-1  Newry City FC
+         Linfield FC              0-0  Portadown FC
+
+
+Matchday 27
+[Fri Apr/8]
+  20.00  Coleraine FC             2-2  Portadown FC
+[Sat Apr/9]
+  15.00  Loughgall FC             3-1  Ards FC
+         Cliftonville FC          0-0  Ballymena United
+         Newry City FC            2-0  Crusaders FC
+         Lisburn Distillery       3-2  Institute FC Drumahoe
+         Dungannon Swifts         1-1  Limavady United
+         Larne FC                 0-2  Linfield FC
+         Glentoran FC             3-0  Omagh Town FC
+
+
+Matchday 28
+[Sat Apr/16]
+  15.00  Limavady United          0-0  Cliftonville FC
+         Omagh Town FC            1-3  Coleraine FC
+         Ards FC                  1-3  Dungannon Swifts
+         Ballymena United         0-3  Glentoran FC
+         Crusaders FC             1-0  Institute FC Drumahoe
+         Lisburn Distillery       2-1  Larne FC
+         Linfield FC              3-0  Loughgall FC
+         Portadown FC             2-3  Newry City FC
+
+
+Matchday 29
+[Thu Apr/21]
+  19.45  Loughgall FC             0-2  Portadown FC
+[Fri Apr/22]
+  19.45  Institute FC Drumahoe    0-3  Limavady United
+[Sat Apr/23]
+  15.00  Larne FC                 2-2  Ards FC
+         Coleraine FC             0-2  Ballymena United
+         Cliftonville FC          1-0  Crusaders FC
+         Glentoran FC             3-2  Linfield FC
+         Newry City FC            0-0  Lisburn Distillery
+         Dungannon Swifts         2-1  Omagh Town FC
+
+
+Matchday 30
+[Sat Apr/30]
+  15.00  Linfield FC              3-1  Cliftonville FC
+         Limavady United          0-3  Coleraine FC
+         Portadown FC             1-2  Dungannon Swifts
+         Crusaders FC             0-2  Glentoran FC
+         Omagh Town FC            0-1  Institute FC Drumahoe
+         Ballymena United         0-0  Larne FC
+         Lisburn Distillery       3-1  Loughgall FC
+         Ards FC                  5-1  Newry City FC

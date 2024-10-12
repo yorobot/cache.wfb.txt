@@ -1,0 +1,226 @@
+= CL 1 2017
+
+# Date       Fri Jul/28 - Wed Dec/20 2017 (145d)
+# Teams      16
+# Matches    122
+# Stages     Playoffs Libertadores (2)  Torneo de Transición (120)
+
+
+== Playoffs Libertadores
+
+Final
+[Wed Dec/13]
+  20.00  Universidad de Concepción  1-0 (1-0)  Unión Española
+[Wed Dec/20]
+  20.00  Unión Española           1-2 (1-1)  Universidad de Concepción
+
+
+== Torneo de Transición
+
+Matchday 1
+[Fri Jul/28]
+  20.00  San Luis                 2-0 (0-0)  Huachipato
+[Sat Jul/29]
+  12.00  Deportes Iquique         0-1 (0-0)  Everton
+  15.00  Curicó Unido             0-1 (0-0)  Universidad de Chile
+  18.00  Audax Italiano           2-1 (1-0)  Palestino
+  20.30  Universidad Católica     0-0  Universidad de Concepción
+[Sun Jul/30]
+  12.00  Santiago Wanderers       0-0  Unión Española
+  15.30  Deportes Temuco          2-0 (0-0)  O'Higgins
+  18.00  Colo-Colo                0-0  Antofagasta
+
+
+Matchday 2
+[Fri Aug/4]
+  20.00  Universidad de Chile     2-1 (1-1)  Deportes Temuco
+[Sat Aug/5]
+  12.00  Palestino                2-1 (1-1)  Curicó Unido
+  15.30  Universidad de Concepción  2-2 (2-0)  Santiago Wanderers
+  18.00  Unión Española           1-0 (0-0)  Universidad Católica
+  20.30  Everton                  4-0 (2-0)  San Luis
+[Sun Aug/6]
+  12.00  O'Higgins                1-3 (1-2)  Colo-Colo
+  15.30  Huachipato               2-1 (1-1)  Audax Italiano
+  18.00  Antofagasta              0-0  Deportes Iquique
+
+
+Matchday 3
+[Fri Aug/11]
+  20.00  O'Higgins                0-2 (0-1)  Unión Española
+[Sat Aug/12]
+  12.00  Curicó Unido             1-1 (0-1)  Santiago Wanderers
+  15.30  Deportes Temuco          0-0  Huachipato
+  18.00  Universidad Católica     1-1 (1-1)  Everton
+[Sun Aug/13]
+  12.00  San Luis                 2-0 (0-0)  Universidad de Chile
+  15.30  Universidad de Concepción  0-0  Antofagasta
+  18.00  Audax Italiano           1-3 (1-1)  Deportes Iquique
+[Tue Aug/15]
+  16.00  Palestino                1-1 (1-1)  Colo-Colo
+
+
+Matchday 4
+[Fri Aug/18]
+  20.00  Audax Italiano           2-1 (1-0)  Deportes Temuco
+[Sat Aug/19]
+  12.00  Santiago Wanderers       1-1 (0-0)  Universidad Católica
+  15.30  Unión Española           1-0 (0-0)  San Luis
+  18.00  Antofagasta              2-1 (1-1)  Palestino
+  20.30  Colo-Colo                1-2 (0-1)  Universidad de Concepción
+[Sun Aug/20]
+  12.00  Deportes Iquique         0-1 (0-0)  Curicó Unido
+  15.30  Everton                  1-1 (0-1)  O'Higgins
+  18.00  Universidad de Chile     3-2 (2-2)  Huachipato
+
+
+Matchday 5
+[Fri Aug/25]
+  20.00  Santiago Wanderers       0-0  Deportes Iquique
+[Sat Aug/26]
+  12.00  Palestino                1-3 (1-2)  San Luis
+  15.30  Deportes Temuco          0-1 (0-0)  Everton
+  18.00  Universidad Católica     1-0 (1-0)  Curicó Unido
+  20.30  Huachipato               0-1 (0-1)  Unión Española
+[Sun Aug/27]
+  12.00  Colo-Colo                4-1 (2-1)  Universidad de Chile
+  15.30  Universidad de Concepción  1-1 (1-1)  Audax Italiano
+  18.00  O'Higgins                0-2 (0-1)  Antofagasta
+
+
+Matchday 6
+[Fri Sep/8]
+  20.30  Unión Española           1-0 (1-0)  Universidad de Concepción
+[Sat Sep/9]
+  12.00  Deportes Iquique         1-1 (0-1)  Colo-Colo
+  15.30  San Luis                 0-2 (0-1)  Santiago Wanderers
+  18.00  Universidad de Chile     2-2 (0-2)  O'Higgins
+  20.30  Curicó Unido             1-1 (0-1)  Deportes Temuco
+[Sun Sep/10]
+  12.30  Audax Italiano           2-2 (2-2)  Universidad Católica
+  15.30  Everton                  3-1 (0-0)  Palestino
+  18.00  Antofagasta              1-0 (1-0)  Huachipato
+
+
+Matchday 7
+[Fri Sep/22]
+  20.30  Colo-Colo                3-0 (1-0)  San Luis
+[Sat Sep/23]
+  15.30  Antofagasta              0-0  Unión Española
+  18.00  Universidad de Chile     2-2 (2-1)  Everton
+  20.30  Universidad de Concepción  0-1 (0-1)  Curicó Unido
+[Sun Sep/24]
+  12.00  O'Higgins                2-1 (0-0)  Palestino
+  15.30  Deportes Temuco          1-0 (1-0)  Universidad Católica
+  18.00  Santiago Wanderers       1-3 (0-0)  Audax Italiano
+  20.30  Huachipato               1-0 (0-0)  Deportes Iquique
+
+
+Matchday 8
+[Fri Sep/29]
+  20.00  Curicó Unido             0-1 (0-0)  Antofagasta
+[Sat Sep/30]
+  12.00  Unión Española           0-0  Universidad de Chile
+  15.30  Deportes Iquique         0-4 (0-1)  Universidad de Concepción
+  18.00  Huachipato               1-0 (0-0)  Santiago Wanderers
+  20.30  San Luis                 2-1 (1-1)  O'Higgins
+[Sun Oct/1]
+  12.00  Universidad Católica     0-1 (0-0)  Colo-Colo
+  15.30  Palestino                2-2 (0-1)  Deportes Temuco
+  18.00  Audax Italiano           3-0 (2-0)  Everton
+
+
+Matchday 9
+[Fri Oct/13]
+  21.00  Everton                  1-1 (1-0)  Curicó Unido
+[Sat Oct/14]
+  12.00  Deportes Temuco          1-1 (1-0)  San Luis
+  15.30  Palestino                4-0 (2-0)  Unión Española
+  18.00  Antofagasta              0-2 (0-1)  Universidad de Chile
+  20.30  Universidad Católica     2-0 (1-0)  Deportes Iquique
+[Sun Oct/15]
+  15.30  Colo-Colo                2-0 (0-0)  Santiago Wanderers
+  18.00  Universidad de Concepción  1-0 (0-0)  Huachipato
+  20.30  O'Higgins                1-2 (1-1)  Audax Italiano
+
+
+Matchday 10
+[Sat Oct/21]
+  12.00  Deportes Iquique         0-1 (0-0)  Deportes Temuco
+  15.30  Huachipato               3-1 (0-1)  Universidad Católica
+  18.00  Audax Italiano           0-3 (0-1)  Colo-Colo
+  20.30  San Luis                 1-3 (1-1)  Antofagasta
+[Sun Oct/22]
+  12.00  Santiago Wanderers       3-3 (3-2)  Everton
+  15.30  Universidad de Concepción  2-2 (0-0)  O'Higgins
+  18.00  Curicó Unido             0-1 (0-0)  Unión Española
+  20.30  Universidad de Chile     2-1 (0-1)  Palestino
+
+
+Matchday 11
+[Sat Oct/28]
+  12.00  Deportes Temuco          1-0 (0-0)  Colo-Colo
+  15.30  Palestino                0-1 (0-1)  Huachipato
+  18.00  Unión Española           4-2 (2-1)  Deportes Iquique
+  20.30  Curicó Unido             1-0 (1-0)  San Luis
+[Sun Oct/29]
+  12.00  Universidad de Chile     1-0 (1-0)  Universidad Católica
+  15.30  Everton                  2-1 (0-0)  Universidad de Concepción
+  18.00  O'Higgins                0-3 (0-2)  Santiago Wanderers
+         Antofagasta              1-1 (0-1)  Audax Italiano
+
+
+Matchday 12
+[Fri Nov/3]
+  20.00  Universidad de Concepción  1-1 (1-0)  Palestino
+[Sat Nov/4]
+  12.00  Santiago Wanderers       0-1 (0-0)  Universidad de Chile
+  15.30  Huachipato               1-2 (0-0)  Everton
+  18.00  Audax Italiano           2-0 (0-0)  Curicó Unido
+  20.30  Universidad Católica     0-2 (0-1)  San Luis
+[Sun Nov/5]
+  12.00  Deportes Iquique         0-1 (0-0)  O'Higgins
+  15.30  Deportes Temuco          1-0 (0-0)  Antofagasta
+  18.00  Colo-Colo                5-2 (3-1)  Unión Española
+
+
+Matchday 13
+[Fri Nov/24]
+  19.30  San Luis                 0-0  Universidad de Concepción
+[Sat Nov/25]
+  12.00  Palestino                1-0 (1-0)  Deportes Iquique
+  17.00  Universidad de Chile     0-3 (0-3)  Audax Italiano
+  19.30  O'Higgins                3-1 (0-0)  Universidad Católica
+  22.00  Curicó Unido             1-0 (0-0)  Huachipato
+[Sun Nov/26]
+  12.00  Everton                  2-3 (1-1)  Colo-Colo
+  18.00  Antofagasta              2-2 (2-1)  Santiago Wanderers
+  20.30  Unión Española           1-1 (1-0)  Deportes Temuco
+
+
+Matchday 14
+[Thu Nov/30]
+  20.00  O'Higgins                1-0 (0-0)  Huachipato
+[Sat Dec/2]
+  12.00  Deportes Iquique         2-1 (1-0)  San Luis
+[Sun Dec/3]
+  17.30  Universidad de Concepción  1-3 (0-2)  Universidad de Chile
+         Audax Italiano           0-2 (0-0)  Unión Española
+         Colo-Colo                3-2 (1-1)  Curicó Unido
+  20.30  Everton                  1-0 (1-0)  Antofagasta
+[Mon Dec/4]
+  20.00  Universidad Católica     4-1 (0-0)  Palestino
+         Santiago Wanderers       1-1 (1-1)  Deportes Temuco
+
+
+Matchday 15
+[Sat Dec/9]
+  12.00  Deportes Temuco          1-1 (0-1)  Universidad de Concepción
+  17.30  Huachipato               0-3 (0-0)  Colo-Colo
+         Universidad de Chile     1-0 (0-0)  Deportes Iquique
+         Unión Española           2-0 (0-0)  Everton
+  21.00  San Luis                 1-1 (0-1)  Audax Italiano
+[Sun Dec/10]
+  12.30  Antofagasta              2-4 (2-0)  Universidad Católica
+  17.00  Palestino                0-0  Santiago Wanderers
+         Curicó Unido             1-0 (1-0)  O'Higgins

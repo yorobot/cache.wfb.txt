@@ -1,0 +1,357 @@
+= AL 1 2005/06
+
+# Date       Sat Aug/27 2005 - Sat May/13 2006 (259d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Aug/27]
+         KF Teuta Durrës          1-1  KF Skënderbeu
+         KF Lushnja               2-2  Dinamo Tiranë
+         KF Elbasani              1-0  KS Besa
+         FK Partizani             1-0  KS Shkumbini
+         FK Vllaznia              1-2  KF Tiranë
+
+
+Matchday 2
+[Tue Sep/6]
+         KF Teuta Durrës          3-0  FK Vllaznia
+         KF Skënderbeu            1-1  KF Lushnja
+[Wed Sep/7]
+         Dinamo Tiranë            0-0  KF Elbasani
+         KS Besa                  4-1  FK Partizani
+         KS Shkumbini             1-1  KF Tiranë
+
+
+Matchday 3
+[Sat Sep/10]
+         KF Lushnja               0-0  KF Teuta Durrës
+         FK Partizani             2-1  Dinamo Tiranë
+         KF Tiranë                2-2  KS Besa
+         FK Vllaznia              5-0  KS Shkumbini
+[Sun Sep/11]
+         KF Elbasani              3-0  KF Skënderbeu
+
+
+Matchday 4
+[Fri Sep/16]
+         KS Besa                  2-1  KS Shkumbini
+[Sat Sep/17]
+         KF Teuta Durrës          1-1  KF Elbasani
+         KF Skënderbeu            2-1  FK Partizani
+         Dinamo Tiranë            3-3  KF Tiranë
+[Sun Sep/18]
+         KF Lushnja               1-3  FK Vllaznia
+
+
+Matchday 5
+[Sat Sep/24]
+         FK Partizani             3-0  KF Teuta Durrës
+         KF Tiranë                3-0  KF Skënderbeu
+         KS Shkumbini             0-2  Dinamo Tiranë
+         FK Vllaznia              0-3  KS Besa
+[Sun Sep/25]
+         KF Elbasani              4-0  KF Lushnja
+
+
+Matchday 6
+[Fri Sep/30]
+         KF Elbasani              2-0  FK Vllaznia
+[Sat Oct/1]
+         KF Teuta Durrës          1-0  KF Tiranë
+         KF Skënderbeu            3-0  KS Shkumbini
+         Dinamo Tiranë            2-2  KS Besa
+[Sun Oct/2]
+         KF Lushnja               2-1  FK Partizani
+
+
+Matchday 7
+[Fri Oct/14]
+         KF Tiranë                1-0  KF Lushnja
+[Sun Oct/16]
+         FK Partizani             1-0  KF Elbasani
+         KS Shkumbini             2-1  KF Teuta Durrës
+         KS Besa                  4-0  KF Skënderbeu
+         FK Vllaznia              1-1  Dinamo Tiranë
+
+
+Matchday 8
+[Sat Oct/22]
+         FK Partizani             2-0  FK Vllaznia
+         KF Elbasani              1-0  KF Tiranë
+         KF Lushnja               3-2  KS Shkumbini
+         KF Skënderbeu            0-1  Dinamo Tiranë
+[Sun Oct/23]
+         KF Teuta Durrës          0-2  KS Besa
+
+
+Matchday 9
+[Sat Oct/29]
+         KF Tiranë                1-0  FK Partizani
+         KS Shkumbini             1-2  KF Elbasani
+         KS Besa                  0-0  KF Lushnja
+         FK Vllaznia              2-1  KF Skënderbeu
+[Sun Oct/30]
+  14.00  Dinamo Tiranë            4-0  KF Teuta Durrës
+
+
+Matchday 10
+[Sat Nov/5]
+         KF Skënderbeu            1-0  KF Teuta Durrës
+         Dinamo Tiranë            3-0  KF Lushnja
+         KS Besa                  0-1  KF Elbasani
+         KS Shkumbini             2-1  FK Partizani
+         KF Tiranë                2-0  FK Vllaznia
+
+
+Matchday 11
+[Fri Nov/11]
+  13.30  KF Tiranë                4-4  KS Shkumbini
+[Sat Nov/12]
+  13.30  FK Vllaznia              3-1  KF Teuta Durrës
+         KF Lushnja               2-1  KF Skënderbeu
+         KF Elbasani              3-0  Dinamo Tiranë
+         FK Partizani             1-1  KS Besa
+
+
+Matchday 12
+[Fri Nov/18]
+         KF Skënderbeu            1-0  KF Elbasani
+[Sat Nov/19]
+  13.30  Dinamo Tiranë            1-2  FK Partizani
+         KS Besa                  1-1  KF Tiranë
+         KS Shkumbini             0-0  FK Vllaznia
+[Sun Nov/20]
+         KF Teuta Durrës          1-0  KF Lushnja
+
+
+Matchday 13
+[Fri Nov/25]
+         FK Partizani             3-0  KF Skënderbeu
+[Sat Nov/26]
+         FK Vllaznia              3-0  KF Lushnja
+         KF Elbasani              2-1  KF Teuta Durrës
+         KF Tiranë                1-1  Dinamo Tiranë
+         KS Shkumbini             1-0  KS Besa
+
+
+Matchday 14
+[Wed Nov/30]
+         KF Lushnja               0-2  KF Elbasani
+         KF Teuta Durrës          1-2  FK Partizani
+         KF Skënderbeu            4-3  KF Tiranë
+         Dinamo Tiranë            3-1  KS Shkumbini
+         KS Besa                  0-1  FK Vllaznia
+
+
+Matchday 15
+[Sat Dec/3]
+         FK Vllaznia              0-0  KF Elbasani
+         KF Tiranë                2-1  KF Teuta Durrës
+         KS Shkumbini             2-1  KF Skënderbeu
+[Sun Dec/4]
+         FK Partizani             2-0  KF Lushnja
+         KS Besa                  3-0  Dinamo Tiranë
+
+
+Matchday 16
+[Sat Dec/10]
+         KF Elbasani              0-1  FK Partizani
+         KF Lushnja               0-1  KF Tiranë
+         KF Teuta Durrës          2-1  KS Shkumbini
+         Dinamo Tiranë            3-0  FK Vllaznia
+[Sun Dec/11]
+         KF Skënderbeu            2-0  KS Besa
+
+
+Matchday 17
+[Fri Dec/16]
+         KF Tiranë                1-1  KF Elbasani
+[Sat Dec/17]
+         FK Vllaznia              1-0  FK Partizani
+         KS Shkumbini             1-0  KF Lushnja
+         KS Besa                  1-0  KF Teuta Durrës
+         Dinamo Tiranë            3-1  KF Skënderbeu
+
+
+Matchday 18
+[Thu Dec/22]
+         FK Partizani             1-0  KF Tiranë
+         KF Elbasani              2-0  KS Shkumbini
+         KF Lushnja               1-1  KS Besa
+         KF Teuta Durrës          0-1  Dinamo Tiranë
+         KF Skënderbeu            1-0  FK Vllaznia
+
+
+Matchday 19
+[Fri Jan/13]
+         KF Lushnja               1-4  Dinamo Tiranë
+[Sat Jan/14]
+         KF Teuta Durrës          1-1  KF Skënderbeu
+         FK Partizani             3-0  KS Shkumbini
+         FK Vllaznia              0-2  KF Tiranë
+[Sun Jan/15]
+         KF Elbasani              2-1  KS Besa
+
+
+Matchday 20
+[Fri Jan/20]
+  13.30  KF Skënderbeu            2-1  KF Lushnja
+[Sat Jan/21]
+  13.30  KF Teuta Durrës          3-1  FK Vllaznia
+         Dinamo Tiranë            1-1  KF Elbasani
+         KS Besa                  2-1  FK Partizani
+         KS Shkumbini             0-1  KF Tiranë
+
+
+Matchday 21
+[Fri Jan/27]
+  13.30  KF Tiranë                0-0  KS Besa
+[Sat Jan/28]
+  13.30  KF Lushnja               0-0  KF Teuta Durrës
+         KF Elbasani              2-1  KF Skënderbeu
+         FK Partizani             1-0  Dinamo Tiranë
+         FK Vllaznia              0-0  KS Shkumbini
+
+
+Matchday 22
+[Wed Feb/15]
+  13.30  KF Lushnja               0-1  FK Vllaznia
+         KF Teuta Durrës          0-0  KF Elbasani
+         KF Skënderbeu            0-0  FK Partizani
+         Dinamo Tiranë            1-1  KF Tiranë
+         KS Besa                  2-0  KS Shkumbini
+
+
+Matchday 23
+[Sat Feb/18]
+         FK Partizani             4-1  KF Teuta Durrës
+         KF Tiranë                2-0  KF Skënderbeu
+         KS Shkumbini             0-1  Dinamo Tiranë
+         FK Vllaznia              5-2  KS Besa
+[Sun Feb/19]
+         KF Elbasani              1-0  KF Lushnja
+
+
+Matchday 24
+[Fri Feb/24]
+         KF Teuta Durrës          0-4  KF Tiranë
+[Sat Feb/25]
+         KF Lushnja               1-1  FK Partizani
+         KF Skënderbeu            0-2  KS Shkumbini
+         Dinamo Tiranë            3-2  KS Besa
+[Sun Feb/26]
+         KF Elbasani              1-0  FK Vllaznia
+
+
+Matchday 25
+[Fri Mar/3]
+  14.00  KF Tiranë                1-0  KF Lushnja
+[Sat Mar/4]
+  14.00  FK Partizani             2-0  KF Elbasani
+         KS Shkumbini             1-2  KF Teuta Durrës
+         KS Besa                  2-0  KF Skënderbeu
+         FK Vllaznia              0-2  Dinamo Tiranë
+
+
+Matchday 26
+[Fri Mar/10]
+         KF Lushnja               0-1  KS Shkumbini
+         KF Skënderbeu            1-0  Dinamo Tiranë
+[Sat Mar/11]
+         FK Partizani             2-2  FK Vllaznia
+         KF Elbasani              1-0  KF Tiranë
+         KF Teuta Durrës          2-1  KS Besa
+
+
+Matchday 27
+[Sat Mar/18]
+         KS Besa                  6-0  KF Lushnja
+         Dinamo Tiranë            2-0  KF Teuta Durrës
+         FK Vllaznia              1-0  KF Skënderbeu
+[Sun Mar/19]
+         KF Tiranë                1-0  FK Partizani
+         KS Shkumbini             0-0  KF Elbasani
+
+
+Matchday 28
+[Sat Mar/25]
+  14.00  KF Skënderbeu            1-0  KF Teuta Durrës
+         Dinamo Tiranë            0-1  KF Lushnja
+         KS Besa                  0-2  KF Elbasani              [awarded]
+         KS Shkumbini             2-0  FK Partizani
+         KF Tiranë                2-1  FK Vllaznia
+
+
+Matchday 29
+[Sat Apr/1]
+         FK Vllaznia              1-1  KF Teuta Durrës
+         KF Lushnja               1-1  KF Skënderbeu
+         KF Elbasani              1-1  Dinamo Tiranë
+         FK Partizani             3-1  KS Besa
+         KF Tiranë                3-1  KS Shkumbini
+
+
+Matchday 30
+[Wed Apr/5]
+         KF Teuta Durrës          1-1  KF Lushnja
+         KF Skënderbeu            0-0  KF Elbasani
+         Dinamo Tiranë            3-0  FK Partizani
+         KS Besa                  0-2  KF Tiranë
+         KS Shkumbini             1-0  FK Vllaznia
+
+
+Matchday 31
+[Sat Apr/8]
+         FK Vllaznia              1-0  KF Lushnja
+         KF Elbasani              2-0  KF Teuta Durrës
+         FK Partizani             3-1  KF Skënderbeu
+         KF Tiranë                3-0  Dinamo Tiranë
+         KS Shkumbini             1-0  KS Besa
+
+
+Matchday 32
+[Sat Apr/15]
+         KF Lushnja               2-4  KF Elbasani
+         KF Teuta Durrës          1-0  FK Partizani
+         KF Skënderbeu            1-0  KF Tiranë
+         Dinamo Tiranë            0-0  KS Shkumbini
+         KS Besa                  1-0  FK Vllaznia
+
+
+Matchday 33
+[Sat Apr/22]
+         FK Vllaznia              3-2  KF Elbasani
+         FK Partizani             3-0  KF Lushnja
+         KF Tiranë                0-1  KF Teuta Durrës
+         KS Shkumbini             2-1  KF Skënderbeu
+         KS Besa                  0-1  Dinamo Tiranë
+
+
+Matchday 34
+[Sat Apr/29]
+         KF Elbasani              1-1  FK Partizani
+         KF Lushnja               0-0  KF Tiranë
+         KF Teuta Durrës          0-0  KS Shkumbini
+         KF Skënderbeu            0-2  KS Besa
+         Dinamo Tiranë            2-1  FK Vllaznia
+
+
+Matchday 35
+[Sun May/7]
+         FK Vllaznia              1-0  FK Partizani
+         KF Tiranë                2-3  KF Elbasani
+         KS Shkumbini             2-1  KF Lushnja
+         KS Besa                  1-4  KF Teuta Durrës
+         Dinamo Tiranë            1-0  KF Skënderbeu
+
+
+Matchday 36
+[Sat May/13]
+  16.00  FK Partizani             2-2  KF Tiranë
+         KF Elbasani              2-0  KS Shkumbini
+         KF Lushnja               1-0  KS Besa
+         KF Teuta Durrës          1-0  Dinamo Tiranë
+         KF Skënderbeu            2-1  FK Vllaznia

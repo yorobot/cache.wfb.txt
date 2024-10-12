@@ -1,0 +1,150 @@
+= HR 1 2005
+
+# Date       Sat Apr/2 - Sat May/28 2005 (56d)
+# Teams      12
+# Matches    60
+# Stages     Relegation (30)  Playoff (30)
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/2]
+  16.00  Dinamo Zagreb            5-1 (1-0)  NK Međimurje
+         Kamen Ingrad             1-0 (0-0)  NK Zadar
+  18.00  NK Osijek                1-0 (0-0)  NK Pula 1856
+
+
+Matchday 2
+[Sat Apr/9]
+  16.00  NK Međimurje             1-0 (1-0)  NK Pula 1856
+         NK Zadar                 2-0 (0-0)  NK Osijek
+         Dinamo Zagreb            0-0  Kamen Ingrad
+
+
+Matchday 3
+[Sat Apr/16]
+  16.00  Kamen Ingrad             0-1 (0-0)  NK Međimurje
+         NK Pula 1856             3-1 (2-1)  NK Zadar
+  18.00  NK Osijek                0-0  Dinamo Zagreb
+
+
+Matchday 4
+[Sat Apr/23]
+  16.00  NK Međimurje             1-0 (0-0)  NK Zadar
+         Dinamo Zagreb            0-0  NK Pula 1856
+  18.00  Kamen Ingrad             2-0 (0-0)  NK Osijek
+
+
+Matchday 5
+[Sat Apr/30]
+  16.00  NK Pula 1856             1-1 (0-0)  Kamen Ingrad
+         NK Zadar                 1-0 (0-0)  Dinamo Zagreb
+  18.00  NK Osijek                1-2 (0-1)  NK Međimurje
+
+
+Matchday 6
+[Sat May/7]
+  16.30  NK Međimurje             2-1 (2-0)  Dinamo Zagreb
+         NK Zadar                 3-1 (1-0)  Kamen Ingrad
+         NK Pula 1856             1-1 (0-0)  NK Osijek
+
+
+Matchday 7
+[Sat May/14]
+  16.30  NK Pula 1856             0-0  NK Međimurje
+  18.00  NK Osijek                1-1 (1-1)  NK Zadar
+         Kamen Ingrad             0-1 (0-0)  Dinamo Zagreb
+
+
+Matchday 8
+[Wed May/18]
+  17.00  NK Međimurje             1-0 (0-0)  Kamen Ingrad
+         Dinamo Zagreb            3-3 (2-2)  NK Osijek
+         NK Zadar                 2-1 (1-1)  NK Pula 1856
+
+
+Matchday 9
+[Sat May/21]
+  17.00  NK Zadar                 1-0 (0-0)  NK Međimurje
+         NK Pula 1856             0-0  Dinamo Zagreb
+         NK Osijek                3-0 (1-0)  Kamen Ingrad
+
+
+Matchday 10
+[Sat May/28]
+  17.00  NK Međimurje             2-2 (2-2)  NK Osijek
+         Kamen Ingrad             1-1 (1-1)  NK Pula 1856
+         Dinamo Zagreb            7-0 (4-0)  NK Zadar
+
+
+== Playoff
+
+Matchday 1
+[Sat Apr/2]
+  16.00  Slaven Belupo            0-1 (0-0)  NK Inter Zaprešić
+  17.45  Hajduk Split             0-1 (0-0)  NK Zagreb
+  18.00  HNK Rijeka               1-1 (0-0)  NK Varteks
+
+
+Matchday 2
+[Sat Apr/9]
+  16.00  NK Zagreb                3-3 (0-3)  NK Inter Zaprešić
+  17.45  Hajduk Split             1-1 (1-0)  HNK Rijeka
+  18.00  NK Varteks               2-0 (1-0)  Slaven Belupo
+
+
+Matchday 3
+[Sat Apr/16]
+  14.00  Slaven Belupo            1-1 (0-0)  Hajduk Split
+  16.00  NK Inter Zaprešić        2-0 (1-0)  NK Varteks
+  18.00  HNK Rijeka               4-2 (2-0)  NK Zagreb
+
+
+Matchday 4
+[Sat Apr/23]
+  16.00  NK Zagreb                3-1 (0-0)  NK Varteks
+  17.45  Hajduk Split             5-1 (0-1)  NK Inter Zaprešić
+  18.00  HNK Rijeka               0-0  Slaven Belupo
+
+
+Matchday 5
+[Sat Apr/30]
+  14.00  NK Inter Zaprešić        3-2 (1-1)  HNK Rijeka
+  16.00  Slaven Belupo            2-0 (1-0)  NK Zagreb
+  18.00  NK Varteks               1-2 (0-1)  Hajduk Split
+
+
+Matchday 6
+[Sat May/7]
+  15.00  NK Zagreb                3-2 (1-1)  Hajduk Split
+  16.30  NK Inter Zaprešić        2-1 (2-0)  Slaven Belupo
+  18.00  NK Varteks               3-1 (1-1)  HNK Rijeka
+
+
+Matchday 7
+[Sat May/14]
+  15.30  Slaven Belupo            2-2 (1-0)  NK Varteks
+  16.30  NK Inter Zaprešić        1-1 (0-0)  NK Zagreb
+  20.15  HNK Rijeka               1-1 (1-1)  Hajduk Split
+
+
+Matchday 8
+[Wed May/18]
+  17.00  NK Zagreb                2-1 (1-0)  HNK Rijeka
+         Hajduk Split             0-0  Slaven Belupo
+         NK Varteks               1-2 (1-0)  NK Inter Zaprešić
+
+
+Matchday 9
+[Sat May/21]
+  17.00  NK Varteks               3-1 (1-1)  NK Zagreb
+         NK Inter Zaprešić        1-1 (0-0)  Hajduk Split
+         Slaven Belupo            1-1 (1-0)  HNK Rijeka
+
+
+Matchday 10
+[Sat May/28]
+  17.00  NK Zagreb                7-1 (4-0)  Slaven Belupo
+         HNK Rijeka               3-3 (1-2)  NK Inter Zaprešić
+         Hajduk Split             6-0 (4-0)  NK Varteks

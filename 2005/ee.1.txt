@@ -1,0 +1,337 @@
+= EE 1 2005
+
+# Date       Wed Mar/2 - Sun Nov/6 2005 (249d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sun Mar/6]
+  14.00  FC TVMK                  5-0  FC Valga
+  17.00  JK Narva Trans           3-1  FC Levadia
+         FC Flora                 0-0  JK Merkuur Tartu
+         Tulevik Viljandi         1-0  FC Kuressaare
+         JK Tammeka               9-0  Tallinna Dünamo
+
+
+Matchday 2
+[Sun Mar/13]
+  14.00  Tallinna Dünamo          0-6  JK Narva Trans
+  17.00  FC TVMK                  4-2  FC Flora
+         JK Merkuur Tartu         2-0  Tulevik Viljandi
+         FC Kuressaare            1-0  JK Tammeka
+         FC Valga                 0-3  FC Levadia
+
+
+Matchday 3
+[Wed Mar/16]
+  18.45  Tulevik Viljandi         0-2  FC TVMK
+         JK Tammeka               2-2  JK Merkuur Tartu
+         JK Narva Trans           4-1  FC Kuressaare
+         FC Levadia               5-0  Tallinna Dünamo
+         FC Flora                 2-0  FC Valga
+
+
+Matchday 4
+[Sun Mar/20]
+  14.30  FC TVMK                  9-0  JK Tammeka
+  17.00  FC Flora                 3-0  Tulevik Viljandi
+         JK Merkuur Tartu         2-3  JK Narva Trans
+         FC Kuressaare            0-2  FC Levadia
+         FC Valga                 2-1  Tallinna Dünamo
+
+
+Matchday 5
+[Sun Apr/3]
+  14.00  Tallinna Dünamo          1-0  FC Kuressaare
+  17.00  JK Narva Trans           0-3  FC TVMK
+         JK Tammeka               0-2  FC Flora
+         FC Levadia               4-0  JK Merkuur Tartu
+         Tulevik Viljandi         0-2  FC Valga
+
+
+Matchday 6
+[Sun Apr/10]
+  14.00  FC TVMK                  2-2  FC Levadia
+  17.00  FC Flora                 2-1  JK Narva Trans
+         Tulevik Viljandi         1-1  JK Tammeka
+         JK Merkuur Tartu         3-1  Tallinna Dünamo
+         FC Valga                 0-1  FC Kuressaare
+
+
+Matchday 7
+[Sun Apr/17]
+  14.00  Tallinna Dünamo          0-7  FC TVMK
+  17.00  FC Kuressaare            1-2  JK Merkuur Tartu
+         JK Tammeka               3-4  FC Valga
+         FC Levadia               0-2  FC Flora
+         JK Narva Trans           1-2  Tulevik Viljandi
+
+
+Matchday 8
+[Sun Apr/24]
+  14.00  FC Flora                 3-1  Tallinna Dünamo
+  17.00  FC TVMK                  3-1  FC Kuressaare
+         Tulevik Viljandi         2-2  FC Levadia
+         JK Tammeka               0-3  JK Narva Trans
+         FC Valga                 1-1  JK Merkuur Tartu
+
+
+Matchday 9
+[Sun May/1]
+  14.00  Tallinna Dünamo          0-0  Tulevik Viljandi
+  17.00  JK Merkuur Tartu         1-6  FC TVMK
+         FC Kuressaare            1-3  FC Flora
+         FC Levadia               5-2  JK Tammeka
+         JK Narva Trans           3-1  FC Valga
+
+
+Matchday 10
+[Sun May/8]
+  14.00  FC Flora                 6-0  FC Kuressaare
+  17.00  FC TVMK                  2-1  JK Merkuur Tartu
+         Tulevik Viljandi         4-1  Tallinna Dünamo
+         JK Tammeka               0-2  FC Levadia
+         FC Valga                 1-2  JK Narva Trans
+
+
+Matchday 11
+[Sun May/15]
+  14.00  FC Levadia               2-0  Tulevik Viljandi
+  17.00  FC Kuressaare            1-6  FC TVMK
+         Tallinna Dünamo          0-3  FC Flora
+         JK Narva Trans           5-1  JK Tammeka
+         JK Merkuur Tartu         2-1  FC Valga
+
+
+Matchday 12
+[Sun May/22]
+  14.00  FC TVMK                  5-1  Tallinna Dünamo
+  17.00  FC Flora                 0-2  FC Levadia
+         Tulevik Viljandi         0-2  JK Narva Trans
+         JK Merkuur Tartu         5-0  FC Kuressaare
+         FC Valga                 1-0  JK Tammeka
+
+
+Matchday 13
+[Sun May/29]
+  14.00  Tallinna Dünamo          1-6  JK Merkuur Tartu
+  17.00  FC Levadia               2-1  FC TVMK
+         JK Narva Trans           2-2  FC Flora
+         JK Tammeka               2-2  Tulevik Viljandi
+         FC Kuressaare            0-0  FC Valga
+
+
+Matchday 14
+[Sun Jun/12]
+  14.00  FC TVMK                  0-0  JK Narva Trans
+  17.00  FC Flora                 3-0  JK Tammeka
+         JK Merkuur Tartu         2-2  FC Levadia
+         FC Kuressaare            2-0  Tallinna Dünamo
+         FC Valga                 1-2  Tulevik Viljandi
+
+
+Matchday 15
+[Wed Jun/1]
+  18.45  JK Narva Trans           6-2  JK Merkuur Tartu
+[Sun Jun/19]
+  14.00  Tallinna Dünamo          3-6  FC Valga
+  17.00  JK Tammeka               0-2  FC TVMK
+         Tulevik Viljandi         1-1  FC Flora
+         FC Levadia               2-0  FC Kuressaare
+
+
+Matchday 16
+[Wed Jun/22]
+  18.45  FC TVMK                  1-1  Tulevik Viljandi
+         JK Merkuur Tartu         3-0  JK Tammeka
+         FC Kuressaare            2-5  JK Narva Trans
+         Tallinna Dünamo          0-4  FC Levadia
+         FC Valga                 1-3  FC Flora
+
+
+Matchday 17
+[Wed Jul/6]
+  18.45  FC Flora                 1-3  FC TVMK
+         Tulevik Viljandi         0-0  JK Merkuur Tartu
+         JK Tammeka               3-1  FC Kuressaare
+         JK Narva Trans           7-3  Tallinna Dünamo
+         FC Levadia               3-0  FC Valga
+
+
+Matchday 18
+[Wed Jun/15]
+  18.45  FC Kuressaare            1-1  Tulevik Viljandi
+[Sun Jul/10]
+  14.00  Tallinna Dünamo          2-7  JK Tammeka
+  17.00  FC Valga                 0-5  FC TVMK
+         JK Merkuur Tartu         1-1  FC Flora
+[Wed Jul/27]
+  17.00  FC Levadia               1-1  JK Narva Trans
+
+
+Matchday 19
+[Wed Mar/2]
+  18.45  JK Narva Trans           0-4  FC Levadia
+[Wed Jun/15]
+  18.45  JK Tammeka               3-0  Tallinna Dünamo
+[Sun Jul/17]
+  14.00  FC TVMK                  3-0  FC Valga
+  17.00  FC Flora                 1-0  JK Merkuur Tartu
+[Wed Jul/20]
+  19.45  Tulevik Viljandi         1-0  FC Kuressaare
+
+
+Matchday 20
+[Sun Jul/24]
+  14.00  Tallinna Dünamo          0-5  JK Narva Trans
+  17.00  FC TVMK                  4-2  FC Flora
+         JK Merkuur Tartu         2-1  Tulevik Viljandi
+         FC Kuressaare            2-1  JK Tammeka
+         FC Valga                 0-4  FC Levadia
+
+
+Matchday 21
+[Sun Jul/31]
+  14.00  FC Levadia               3-1  Tallinna Dünamo
+  17.00  Tulevik Viljandi         0-3  FC TVMK
+         JK Tammeka               2-0  JK Merkuur Tartu
+         JK Narva Trans           3-0  FC Kuressaare
+         FC Flora                 1-0  FC Valga
+
+
+Matchday 22
+[Sun Aug/7]
+  14.00  FC TVMK                  5-0  JK Tammeka
+  17.00  FC Flora                 2-1  Tulevik Viljandi
+         JK Merkuur Tartu         0-7  JK Narva Trans
+         FC Kuressaare            1-3  FC Levadia
+         FC Valga                 5-0  Tallinna Dünamo
+
+
+Matchday 23
+[Sun Aug/14]
+  14.00  Tallinna Dünamo          3-4  FC Kuressaare
+  17.00  JK Narva Trans           0-2  FC TVMK
+         JK Tammeka               1-3  FC Flora
+         FC Levadia               8-0  JK Merkuur Tartu
+         Tulevik Viljandi         2-0  FC Valga
+
+
+Matchday 24
+[Sun Aug/21]
+  14.00  FC TVMK                  0-0  FC Levadia
+  17.00  FC Flora                 0-0  JK Narva Trans
+         Tulevik Viljandi         3-1  JK Tammeka
+         JK Merkuur Tartu         4-0  Tallinna Dünamo
+         FC Valga                 2-4  FC Kuressaare
+
+
+Matchday 25
+[Sun Aug/28]
+  14.00  Tallinna Dünamo          0-12  FC TVMK
+  17.00  FC Levadia               2-0  FC Flora
+         JK Narva Trans           0-0  Tulevik Viljandi
+         FC Kuressaare            1-1  JK Merkuur Tartu
+         JK Tammeka               2-1  FC Valga
+
+
+Matchday 26
+[Sun Sep/11]
+  14.00  FC TVMK                  6-1  FC Kuressaare
+  17.00  FC Flora                 7-0  Tallinna Dünamo
+         Tulevik Viljandi         1-3  FC Levadia
+         JK Tammeka               0-3  JK Narva Trans
+         FC Valga                 2-1  JK Merkuur Tartu
+
+
+Matchday 27
+[Wed Sep/14]
+  18.00  JK Merkuur Tartu         1-3  FC TVMK
+         FC Kuressaare            1-1  FC Flora
+         Tallinna Dünamo          2-0  Tulevik Viljandi
+         FC Levadia               1-0  JK Tammeka
+[Wed Sep/28]
+  17.00  JK Narva Trans           3-0  FC Valga
+
+
+Matchday 28
+[Sun Sep/18]
+  14.00  FC TVMK                  8-1  JK Merkuur Tartu
+  17.00  FC Flora                 7-0  FC Kuressaare
+         Tulevik Viljandi         1-1  Tallinna Dünamo
+         JK Tammeka               1-2  FC Levadia
+         FC Valga                 0-2  JK Narva Trans
+
+
+Matchday 29
+[Wed Sep/21]
+  17.00  FC Kuressaare            1-8  FC TVMK
+         Tallinna Dünamo          0-2  FC Flora
+         FC Levadia               2-1  Tulevik Viljandi
+         JK Narva Trans           6-0  JK Tammeka
+         JK Merkuur Tartu         2-1  FC Valga
+
+
+Matchday 30
+[Sun Sep/25]
+  14.00  FC TVMK                  9-1  Tallinna Dünamo
+  17.00  FC Flora                 1-3  FC Levadia
+         Tulevik Viljandi         0-0  JK Narva Trans
+         JK Merkuur Tartu         2-0  FC Kuressaare
+         FC Valga                 1-1  JK Tammeka
+
+
+Matchday 31
+[Sun Oct/2]
+  14.00  Tallinna Dünamo          2-1  JK Merkuur Tartu
+  17.00  FC Levadia               1-2  FC TVMK
+         JK Narva Trans           2-0  FC Flora
+         JK Tammeka               2-4  Tulevik Viljandi
+         FC Kuressaare            0-3  FC Valga
+
+
+Matchday 32
+[Sun Oct/16]
+  14.00  FC Kuressaare            8-1  Tallinna Dünamo
+         FC TVMK                  0-0  JK Narva Trans
+         JK Merkuur Tartu         2-3  FC Levadia
+         FC Valga                 1-5  Tulevik Viljandi
+  17.00  FC Flora                 3-1  JK Tammeka
+
+
+Matchday 33
+[Sun Oct/23]
+  14.00  JK Tammeka               0-3  FC TVMK
+         Tulevik Viljandi         3-2  FC Flora
+         JK Narva Trans           4-0  JK Merkuur Tartu
+         FC Levadia               4-0  FC Kuressaare
+         Tallinna Dünamo          1-1  FC Valga
+
+
+Matchday 34
+[Wed Oct/26]
+  18.45  Tallinna Dünamo          0-4  FC Levadia
+         FC TVMK                  2-0  Tulevik Viljandi
+         JK Merkuur Tartu         0-1  JK Tammeka
+         FC Kuressaare            1-3  JK Narva Trans
+         FC Valga                 0-4  FC Flora
+
+
+Matchday 35
+[Sun Oct/30]
+  14.00  JK Narva Trans           7-0  Tallinna Dünamo
+         Tulevik Viljandi         5-1  JK Merkuur Tartu
+         JK Tammeka               2-2  FC Kuressaare
+         FC Levadia               3-0  FC Valga
+  17.00  FC Flora                 0-1  FC TVMK
+
+
+Matchday 36
+[Sun Nov/6]
+  13.00  FC Levadia               3-0  JK Narva Trans
+         FC Valga                 0-1  FC TVMK
+         JK Merkuur Tartu         0-6  FC Flora
+         Tallinna Dünamo          1-2  JK Tammeka
+         FC Kuressaare            1-1  Tulevik Viljandi

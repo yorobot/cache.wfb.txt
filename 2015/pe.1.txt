@@ -1,0 +1,513 @@
+= PE 1 2015
+
+# Date       Fri May/1 - Wed Dec/16 2015 (229d)
+# Teams      17
+# Matches    281
+# Stages     Apertura (136)  Clausura (136)  Clausura Finale (1)  Playoffs (8)
+
+
+== Apertura
+
+Matchday 1
+[Fri May/1]
+  11.00  Cienciano                4-2 (1-2)  León de Huánuco
+  13.15  Unión Comercio           1-0 (0-0)  Universitario de Deportes
+  15.30  Universidad Técnica      2-3 (1-2)  Real Garcilaso
+         Alianza Atlético         1-0 (0-0)  Sport Loreto
+[Sat May/2]
+  12.30  Ayacucho FC              0-1 (0-1)  Sport Huancayo
+  15.00  Deportivo Municipal      1-0 (0-0)  Universidad Cesar Vallejo
+  19.00  FBC Melgar               1-1 (1-0)  Universidad San Martín
+[Sun May/3]
+  16.00  Alianza Lima             0-1 (0-0)  Juan Aurich
+
+
+Matchday 2
+[Tue May/5]
+  13.15  Real Garcilaso           3-2 (1-0)  Ayacucho FC
+  15.30  Sporting Cristal         1-1 (0-1)  Unión Comercio
+  17.45  Sport Loreto             2-1 (1-1)  Universidad Técnica
+  20.00  Universitario de Deportes  1-1 (1-1)  Alianza Atlético
+[Wed May/6]
+  13.15  León de Huánuco          0-3 (0-2)  FBC Melgar
+  15.30  Sport Huancayo           0-0  Cienciano
+  17.45  Juan Aurich              1-1 (0-0)  Deportivo Municipal
+  20.00  Universidad San Martín   2-3 (0-2)  Alianza Lima
+
+
+Matchday 3
+[Fri May/8]
+  15.30  Alianza Atlético         1-1 (0-1)  Sporting Cristal
+[Sat May/9]
+  12.30  Ayacucho FC              1-0 (0-0)  Sport Loreto
+  15.00  Deportivo Municipal      2-0 (1-0)  Universidad San Martín
+  17.45  Universidad Cesar Vallejo  2-0 (1-0)  Juan Aurich
+  20.00  Alianza Lima             1-0 (0-0)  León de Huánuco
+[Sun May/10]
+  11.15  Cienciano                1-1 (1-0)  Real Garcilaso
+  13.30  FBC Melgar               1-0 (1-0)  Sport Huancayo
+  16.00  Universidad Técnica      2-0 (1-0)  Universitario de Deportes
+
+
+Matchday 4
+[Tue May/12]
+  13.15  Unión Comercio           5-2 (1-1)  Alianza Atlético
+  15.30  León de Huánuco          1-1 (0-0)  Deportivo Municipal
+  17.45  Universidad San Martín   3-2 (1-1)  Universidad Cesar Vallejo
+[Wed May/13]
+  11.00  Sport Huancayo           1-1 (1-0)  Alianza Lima
+  13.15  Real Garcilaso           1-0 (0-0)  FBC Melgar
+  15.30  Sporting Cristal         3-2 (1-0)  Universidad Técnica
+  17.45  Sport Loreto             1-0 (1-0)  Cienciano
+  20.00  Universitario de Deportes  2-0 (2-0)  Ayacucho FC
+
+
+Matchday 5
+[Fri May/15]
+  15.30  Juan Aurich              1-0 (0-0)  Universidad San Martín
+[Sat May/16]
+  12.30  Cienciano                1-0 (1-0)  Universitario de Deportes
+  15.00  Deportivo Municipal      3-3 (1-1)  Sport Huancayo
+  20.00  Universidad Cesar Vallejo  2-2 (1-1)  León de Huánuco
+[Sun May/17]
+  11.15  Ayacucho FC              1-2 (1-1)  Sporting Cristal
+  13.30  FBC Melgar               2-2 (0-0)  Sport Loreto
+  15.30  Universidad Técnica      4-2 (3-2)  Unión Comercio
+  16.00  Alianza Lima             0-1 (0-0)  Real Garcilaso
+
+
+Matchday 6
+[Tue May/19]
+  13.15  León de Huánuco          0-2 (0-1)  Juan Aurich
+  15.20  Sport Huancayo           1-1 (1-0)  Universidad Cesar Vallejo
+  20.00  Universitario de Deportes  0-0  FBC Melgar
+[Wed May/20]
+  11.15  Alianza Atlético         2-0 (1-0)  Universidad Técnica
+  13.15  Unión Comercio           1-1 (0-0)  Ayacucho FC
+  15.30  Sporting Cristal         3-2 (2-2)  Cienciano
+         Real Garcilaso           1-0 (0-0)  Deportivo Municipal
+  20.00  Sport Loreto             1-0 (0-0)  Alianza Lima
+
+
+Matchday 7
+[Fri May/22]
+  20.00  Universidad San Martín   3-1 (0-1)  León de Huánuco
+[Sat May/23]
+  12.30  Ayacucho FC              2-1 (0-0)  Alianza Atlético
+  15.00  FBC Melgar               0-0  Sporting Cristal
+[Sun May/24]
+  11.15  Cienciano                3-2 (3-0)  Unión Comercio
+  13.30  Universidad Cesar Vallejo  2-0 (1-0)  Real Garcilaso
+  15.30  Deportivo Municipal      0-0  Sport Loreto
+  18.00  Alianza Lima             1-0 (0-0)  Universitario de Deportes
+[Mon May/25]
+  12.30  Juan Aurich              4-0 (2-0)  Sport Huancayo
+
+
+Matchday 8
+[Fri Jul/3]
+  13.15  Sport Huancayo           2-1 (0-0)  Universidad San Martín
+  15.30  Universidad Técnica      1-0 (1-0)  Ayacucho FC
+[Sat Jul/4]
+  12.30  Alianza Atlético         3-2 (2-1)  Cienciano
+  17.45  Sport Loreto             1-1 (1-0)  Universidad Cesar Vallejo
+  20.00  Universitario de Deportes  0-1 (0-1)  Deportivo Municipal
+[Sun Jul/5]
+  11.15  Real Garcilaso           2-1 (2-0)  Juan Aurich
+  13.30  Unión Comercio           1-0 (1-0)  FBC Melgar
+  16.00  Sporting Cristal         1-3 (0-3)  Alianza Lima
+
+
+Matchday 9
+[Fri Jul/10]
+  20.00  Universidad San Martín   2-0 (0-0)  Real Garcilaso
+[Sat Jul/11]
+  12.30  Juan Aurich              0-0  Sport Loreto
+  15.00  Deportivo Municipal      1-0 (1-0)  Sporting Cristal
+  17.45  León de Huánuco          0-1 (0-0)  Sport Huancayo
+  20.00  Universidad Cesar Vallejo  4-2 (2-1)  Universitario de Deportes
+[Sun Jul/12]
+  11.15  Cienciano                2-0 (0-0)  Universidad Técnica
+  13.30  FBC Melgar               2-1 (1-0)  Alianza Atlético
+  16.00  Alianza Lima             3-0 (2-0)  Unión Comercio
+
+
+Matchday 10
+[Tue Jul/14]
+  13.15  Real Garcilaso           1-2 (0-0)  León de Huánuco
+  15.30  Sporting Cristal         1-2 (0-0)  Universidad Cesar Vallejo
+  17.45  Sport Loreto             4-1 (1-1)  Universidad San Martín
+  20.00  Universitario de Deportes  1-1 (0-1)  Juan Aurich
+[Wed Jul/15]
+  13.30  Unión Comercio           0-0  Deportivo Municipal
+         Ayacucho FC              0-0  Cienciano
+  15.30  Universidad Técnica      0-0  FBC Melgar
+[Thu Jul/16]
+  13.00  Alianza Atlético         0-1 (0-0)  Alianza Lima
+
+
+Matchday 11
+[Fri Jul/17]
+  15.30  Juan Aurich              1-2 (0-2)  Sporting Cristal
+[Sat Jul/18]
+  12.30  Sport Huancayo           1-1 (1-0)  Real Garcilaso
+  15.00  Deportivo Municipal      2-0 (0-0)  Alianza Atlético
+  20.00  Universidad San Martín   0-1 (0-0)  Universitario de Deportes
+[Sun Jul/19]
+  11.15  León de Huánuco          2-1 (2-0)  Sport Loreto
+  13.30  FBC Melgar               1-0 (0-0)  Ayacucho FC
+  16.00  Alianza Lima             4-1 (2-0)  Universidad Técnica
+  18.15  Universidad Cesar Vallejo  0-1 (0-0)  Unión Comercio
+
+
+Matchday 12
+[Fri Jul/24]
+  13.15  Alianza Atlético         1-1 (0-0)  Universidad Cesar Vallejo
+  15.30  Universidad Técnica      2-3 (1-2)  Deportivo Municipal
+[Sat Jul/25]
+  12.30  Unión Comercio           3-1 (1-0)  Juan Aurich
+  15.00  Sporting Cristal         2-0 (1-0)  Universidad San Martín
+  17.45  Sport Loreto             1-1 (0-1)  Sport Huancayo
+[Sun Jul/26]
+  11.15  Cienciano                1-3 (0-2)  FBC Melgar
+  13.30  Ayacucho FC              2-1 (0-0)  Alianza Lima
+  16.00  Universitario de Deportes  1-4 (0-2)  León de Huánuco
+
+
+Matchday 13
+[Tue Jul/28]
+  13.15  Real Garcilaso           4-0 (1-0)  Sport Loreto
+  15.30  Deportivo Municipal      2-1 (1-1)  Ayacucho FC
+  17.45  Universidad Cesar Vallejo  1-1 (1-0)  Universidad Técnica
+  20.00  Universidad San Martín   0-0  Unión Comercio
+[Wed Jul/29]
+  11.00  Sport Huancayo           0-0  Universitario de Deportes
+  13.15  León de Huánuco          1-2 (0-1)  Sporting Cristal
+  15.30  Juan Aurich              0-1 (0-1)  Alianza Atlético
+  20.00  Alianza Lima             1-0 (0-0)  Cienciano
+
+
+Matchday 14
+[Sat Aug/1]
+  12.30  Unión Comercio           2-0 (0-0)  León de Huánuco
+  15.00  Sporting Cristal         1-0 (0-0)  Sport Huancayo
+  20.00  FBC Melgar               3-1 (1-1)  Alianza Lima
+[Sun Aug/2]
+  11.15  Cienciano                3-1 (0-1)  Deportivo Municipal
+  13.30  Ayacucho FC              2-2 (1-0)  Universidad Cesar Vallejo
+  16.00  Universitario de Deportes  1-1 (0-0)  Real Garcilaso
+[Mon Aug/3]
+  13.15  Alianza Atlético         2-0 (0-0)  Universidad San Martín
+  15.30  Universidad Técnica      2-2 (2-1)  Juan Aurich
+
+
+Matchday 15
+[Fri Aug/7]
+  15.15  Juan Aurich              5-0 (2-0)  Ayacucho FC
+  20.00  Universidad San Martín   0-0  Universidad Técnica
+[Sat Aug/8]
+  12.30  Sport Huancayo           3-0 (2-0)  Unión Comercio
+  15.00  Deportivo Municipal      1-1 (0-1)  FBC Melgar
+  20.00  Universidad Cesar Vallejo  3-2 (2-1)  Cienciano
+[Sun Aug/9]
+  11.15  Real Garcilaso           0-4 (0-3)  Sporting Cristal
+  13.30  León de Huánuco          1-0 (1-0)  Alianza Atlético
+  16.00  Sport Loreto             0-1 (0-0)  Universitario de Deportes
+
+
+Matchday 16
+[Fri Aug/14]
+  13.15  Alianza Atlético         2-0 (1-0)  Sport Huancayo
+  15.30  Cienciano                1-2 (0-1)  Juan Aurich
+[Sat Aug/15]
+  12.30  Ayacucho FC              1-0 (0-0)  Universidad San Martín
+  15.00  Sporting Cristal         2-1 (0-0)  Sport Loreto
+[Sun Aug/16]
+  11.00  FBC Melgar               2-0 (0-0)  Universidad Cesar Vallejo
+  13.15  Unión Comercio           1-1 (1-1)  Real Garcilaso
+  15.30  Universidad Técnica      2-2 (1-2)  León de Huánuco
+  16.00  Alianza Lima             0-0  Deportivo Municipal
+
+
+Matchday 17
+[Sat Aug/22]
+  12.30  Sport Huancayo           5-1 (3-1)  Universidad Técnica
+  15.00  Universidad San Martín   1-1 (0-0)  Cienciano
+[Sun Aug/23]
+  11.15  Real Garcilaso           2-1 (0-0)  Alianza Atlético
+  15.30  Juan Aurich              2-3 (1-0)  FBC Melgar
+         Universidad Cesar Vallejo  1-0 (0-0)  Alianza Lima
+         Universitario de Deportes  0-0  Sporting Cristal
+  17.45  Sport Loreto             0-1 (0-0)  Unión Comercio
+[Mon Aug/24]
+  15.30  León de Huánuco          3-2 (1-0)  Ayacucho FC
+
+
+== Clausura
+
+Matchday 1
+[Fri Aug/28]
+  15.30  Sport Huancayo           2-2 (1-0)  Ayacucho FC
+[Sat Aug/29]
+  12.30  Juan Aurich              2-0 (1-0)  Alianza Lima
+  15.00  Universidad San Martín   1-0 (0-0)  FBC Melgar
+  17.45  Sport Loreto             0-0  Alianza Atlético
+  20.00  Universidad Cesar Vallejo  1-0 (0-0)  Deportivo Municipal
+[Sun Aug/30]
+  11.15  Real Garcilaso           2-0 (1-0)  Universidad Técnica
+  13.30  León de Huánuco          0-0  Cienciano
+  16.00  Universitario de Deportes  2-3 (1-1)  Unión Comercio
+
+
+Matchday 2
+[Wed Sep/2]
+  11.00  Cienciano                0-1 (0-1)  Sport Huancayo
+  13.15  Unión Comercio           1-4 (0-1)  Sporting Cristal
+  15.30  Universidad Técnica      2-0 (1-0)  Sport Loreto
+  20.00  Alianza Lima             0-1 (0-0)  Universidad San Martín
+[Thu Sep/3]
+  11.00  Ayacucho FC              2-2 (1-0)  Real Garcilaso
+  13.15  Alianza Atlético         1-2 (0-0)  Universitario de Deportes
+  15.30  Deportivo Municipal      1-2 (0-1)  Juan Aurich
+  20.00  FBC Melgar               5-0 (2-0)  León de Huánuco
+
+
+Matchday 3
+[Fri Sep/11]
+  15.30  Sport Huancayo           3-2 (1-1)  FBC Melgar
+[Sat Sep/12]
+  12.30  León de Huánuco          3-1 (3-0)  Alianza Lima
+  15.00  Sporting Cristal         4-1 (2-0)  Alianza Atlético
+  17.45  Sport Loreto             3-0 (0-0)  Ayacucho FC
+  20.00  Universidad San Martín   0-0  Deportivo Municipal
+[Sun Sep/13]
+  11.15  Real Garcilaso           1-1 (0-0)  Cienciano
+  13.30  Juan Aurich              2-1 (2-1)  Universidad Cesar Vallejo
+  16.00  Universitario de Deportes  1-1 (0-0)  Universidad Técnica
+
+
+Matchday 4
+[Tue Sep/15]
+  13.15  Alianza Atlético         2-1 (2-0)  Unión Comercio
+  15.30  Deportivo Municipal      1-1 (0-0)  León de Huánuco
+[Wed Sep/16]
+  10.00  FBC Melgar               2-0 (1-0)  Real Garcilaso
+  11.00  Cienciano                1-0 (0-0)  Sport Loreto
+  15.30  Universidad Técnica      2-3 (2-1)  Sporting Cristal
+  17.45  Alianza Lima             3-0 (1-0)  Sport Huancayo
+  20.00  Universidad Cesar Vallejo  2-1 (1-1)  Universidad San Martín
+[Wed Sep/23]
+  13.15  Ayacucho FC              1-2 (1-0)  Universitario de Deportes
+
+
+Matchday 5
+[Sat Sep/19]
+  12.30  Unión Comercio           2-0 (2-0)  Universidad Técnica
+  15.00  Sporting Cristal         4-0 (2-0)  Ayacucho FC
+  17.45  Sport Loreto             0-0  FBC Melgar
+[Sun Sep/20]
+  11.15  Real Garcilaso           1-1 (1-1)  Alianza Lima
+  13.30  Sport Huancayo           5-0 (2-0)  Deportivo Municipal
+  16.00  Universitario de Deportes  2-1 (2-0)  Cienciano
+[Mon Sep/21]
+  15.30  León de Huánuco          1-1 (1-1)  Universidad Cesar Vallejo
+  20.00  Universidad San Martín   3-1 (2-0)  Juan Aurich
+
+
+Matchday 6
+[Fri Sep/25]
+  15.30  Universidad Técnica      2-0 (1-0)  Alianza Atlético
+[Sat Sep/26]
+  12.30  Ayacucho FC              4-0 (1-0)  Unión Comercio
+  15.00  Deportivo Municipal      1-0 (0-0)  Real Garcilaso
+  17.45  Universidad Cesar Vallejo  0-0  Sport Huancayo
+  20.00  FBC Melgar               2-0 (1-0)  Universitario de Deportes
+[Sun Sep/27]
+  11.15  Juan Aurich              3-0 (0-0)  León de Huánuco
+  13.30  Cienciano                2-2 (2-0)  Sporting Cristal
+  16.00  Alianza Lima             1-0 (0-0)  Sport Loreto
+
+
+Matchday 7
+[Tue Sep/29]
+  13.15  Alianza Atlético         3-3 (1-1)  Ayacucho FC
+  15.30  Real Garcilaso           4-0 (1-0)  Universidad Cesar Vallejo
+[Wed Sep/30]
+  13.15  Unión Comercio           3-1 (2-0)  Cienciano
+  17.45  Sport Loreto             1-2 (0-1)  Deportivo Municipal
+[Thu Oct/1]
+  13.15  León de Huánuco          1-2 (0-1)  Universidad San Martín
+[Thu Oct/15]
+  12.00  Sport Huancayo           1-0 (0-0)  Juan Aurich
+[Sun Nov/15]
+  15.30  Universitario de Deportes  1-1 (0-1)  Alianza Lima
+[Tue Nov/24]
+  15.30  Sporting Cristal         2-2 (0-0)  FBC Melgar
+
+
+Matchday 8
+[Sat Oct/3]
+  12.30  Ayacucho FC              1-2 (0-1)  Universidad Técnica
+[Sun Oct/4]
+  11.15  Cienciano                2-0 (1-0)  Alianza Atlético
+  13.30  FBC Melgar               4-1 (3-1)  Unión Comercio
+  15.30  Deportivo Municipal      0-1 (0-0)  Universitario de Deportes
+[Wed Nov/25]
+  13.15  Juan Aurich              1-3 (0-3)  Real Garcilaso
+  15.30  Universidad San Martín   1-1 (1-0)  Sport Huancayo
+  20.00  Universidad Cesar Vallejo  4-2 (2-2)  Sport Loreto
+[Thu Nov/26]
+  20.00  Alianza Lima             2-0 (1-0)  Sporting Cristal
+
+
+Matchday 9
+[Fri Oct/16]
+  13.15  Alianza Atlético         0-0  FBC Melgar
+  15.30  Universidad Técnica      0-0  Cienciano
+[Sat Oct/17]
+  12.30  Sport Huancayo           4-3 (1-3)  León de Huánuco
+  15.00  Sporting Cristal         2-2 (1-1)  Deportivo Municipal
+  17.45  Sport Loreto             1-0 (0-0)  Juan Aurich
+[Sun Oct/18]
+  11.15  Real Garcilaso           1-0 (0-0)  Universidad San Martín
+  13.30  Unión Comercio           2-2 (1-1)  Alianza Lima
+  16.00  Universitario de Deportes  3-0 (1-0)  Universidad Cesar Vallejo
+
+
+Matchday 10
+[Tue Oct/20]
+  13.15  León de Huánuco          2-4 (0-3)  Real Garcilaso
+  15.30  Deportivo Municipal      1-1 (1-0)  Unión Comercio
+  17.45  FBC Melgar               1-0 (0-0)  Universidad Técnica
+  20.00  Universidad Cesar Vallejo  0-2 (0-1)  Sporting Cristal
+[Wed Oct/21]
+  15.30  Juan Aurich              2-2 (2-1)  Universitario de Deportes
+  17.45  Universidad San Martín   0-1 (0-0)  Sport Loreto
+  20.00  Alianza Lima             4-2 (1-0)  Alianza Atlético
+[Sun Nov/15]
+  13.00  Cienciano                1-1 (1-0)  Ayacucho FC
+
+
+Matchday 11
+[Sat Oct/24]
+  12.30  Ayacucho FC              1-2 (0-2)  FBC Melgar
+  15.00  Universidad Técnica      3-0 (1-0)  Alianza Lima
+  17.45  Sport Loreto             1-1 (1-0)  León de Huánuco
+  19.00  Universitario de Deportes  2-0 (0-0)  Universidad San Martín
+[Sun Oct/25]
+  11.15  Real Garcilaso           0-0  Sport Huancayo
+  13.30  Unión Comercio           1-2 (0-0)  Universidad Cesar Vallejo
+  15.00  Alianza Atlético         4-1 (2-1)  Deportivo Municipal
+  16.00  Sporting Cristal         3-2 (1-1)  Juan Aurich
+
+
+Matchday 12
+[Tue Oct/27]
+  13.15  Sport Huancayo           2-0 (1-0)  Sport Loreto
+  15.30  León de Huánuco          3-2 (1-0)  Universitario de Deportes
+  17.45  Universidad Cesar Vallejo  1-0 (1-0)  Alianza Atlético
+  20.00  Alianza Lima             0-1 (0-1)  Ayacucho FC
+[Wed Oct/28]
+  13.15  Juan Aurich              1-0 (0-0)  Unión Comercio
+  15.30  Deportivo Municipal      1-1 (0-1)  Universidad Técnica
+  17.45  FBC Melgar               5-1 (3-1)  Cienciano
+  20.00  Universidad San Martín   0-2 (0-0)  Sporting Cristal
+
+
+Matchday 13
+[Fri Oct/30]
+  15.30  Universidad Técnica      2-1 (1-0)  Universidad Cesar Vallejo
+[Sat Oct/31]
+  12.30  Ayacucho FC              2-0 (1-0)  Deportivo Municipal
+  15.00  Sporting Cristal         1-1 (1-0)  León de Huánuco
+         Alianza Atlético         2-2 (1-1)  Juan Aurich
+  20.00  Sport Loreto             0-1 (0-1)  Real Garcilaso
+[Sun Nov/1]
+  11.15  Cienciano                1-0 (0-0)  Alianza Lima
+  13.30  Unión Comercio           1-2 (1-0)  Universidad San Martín
+  16.00  Universitario de Deportes  2-0 (1-0)  Sport Huancayo
+
+
+Matchday 14
+[Tue Nov/3]
+  15.30  Deportivo Municipal      1-0 (1-0)  Cienciano
+  20.00  Universidad Cesar Vallejo  1-0 (0-0)  Ayacucho FC
+[Wed Nov/4]
+  13.15  León de Huánuco          3-3 (1-1)  Unión Comercio
+  15.30  Real Garcilaso           4-2 (4-0)  Universitario de Deportes
+  17.45  Universidad San Martín   2-1 (0-0)  Alianza Atlético
+  20.00  Alianza Lima             0-0  FBC Melgar
+[Thu Nov/5]
+  13.15  Sport Huancayo           5-3 (3-1)  Sporting Cristal
+  15.30  Juan Aurich              0-0  Universidad Técnica
+
+
+Matchday 15
+[Sat Nov/7]
+  12.30  Cienciano                0-1 (0-0)  Universidad Cesar Vallejo
+  15.00  Alianza Atlético         1-0 (0-0)  León de Huánuco
+         Sporting Cristal         0-0  Real Garcilaso
+  20.00  FBC Melgar               0-0  Deportivo Municipal
+[Sun Nov/8]
+  11.15  Unión Comercio           2-0 (0-0)  Sport Huancayo
+  13.30  Ayacucho FC              2-1 (1-1)  Juan Aurich
+  15.30  Universidad Técnica      1-1 (0-0)  Universidad San Martín
+  16.00  Universitario de Deportes  0-0  Sport Loreto
+
+
+Matchday 16
+[Fri Nov/20]
+  15.30  León de Huánuco          2-0 (2-0)  Universidad Técnica
+  20.00  Universidad San Martín   3-0 (1-0)  Ayacucho FC
+[Sat Nov/21]
+  12.30  Sport Huancayo           4-0 (1-0)  Alianza Atlético
+  15.00  Sport Loreto             2-2 (2-0)  Sporting Cristal
+  20.00  Universidad Cesar Vallejo  1-0 (0-0)  FBC Melgar
+[Sun Nov/22]
+  11.00  Real Garcilaso           2-1 (1-1)  Unión Comercio
+  13.00  Juan Aurich              2-2 (2-1)  Cienciano
+  15.30  Deportivo Municipal      2-1 (1-1)  Alianza Lima
+
+
+Matchday 17
+[Sun Nov/29]
+  15.30  Ayacucho FC              2-0 (1-0)  León de Huánuco
+         FBC Melgar               4-1 (1-1)  Juan Aurich
+         Alianza Lima             2-2 (1-0)  Universidad Cesar Vallejo
+         Cienciano                3-0 (3-0)  Universidad San Martín
+         Sporting Cristal         1-2 (0-2)  Universitario de Deportes
+         Unión Comercio           5-2 (3-1)  Sport Loreto
+         Alianza Atlético         3-1 (2-1)  Real Garcilaso
+         Universidad Técnica      2-0 (1-0)  Sport Huancayo
+
+
+== Clausura Finale
+
+Decider
+[Wed Dec/2]
+  19.30  FBC Melgar               4-2 pen. 1-1 a.e.t. (1-1, 0-0)  Real Garcilaso
+
+
+== Playoffs
+
+Semifinals
+[Sun Dec/6]
+  13.00  FBC Melgar               1-0 (0-0)  Real Garcilaso
+  15.30  Sporting Cristal         3-1 (1-1)  Universidad Cesar Vallejo
+[Wed Dec/9]
+  13.00  Universidad Cesar Vallejo  4-3 (2-1)  Sporting Cristal
+  15.30  Real Garcilaso           0-4 (0-2)  FBC Melgar
+
+
+Match for 3rd place
+[Sat Dec/12]
+  15.30  Real Garcilaso           1-0 (1-0)  Universidad Cesar Vallejo
+[Tue Dec/15]
+  15.30  Universidad Cesar Vallejo  3-0 (1-0)  Real Garcilaso
+
+
+Final
+[Sun Dec/13]
+  15.30  Sporting Cristal         2-2 (1-1)  FBC Melgar
+[Wed Dec/16]
+  15.30  FBC Melgar               3-2 (2-1)  Sporting Cristal

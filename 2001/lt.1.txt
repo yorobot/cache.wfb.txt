@@ -1,0 +1,357 @@
+= LT 1 2001
+
+# Date       Sun Apr/1 - Sat Nov/10 2001 (223d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sun Apr/1]
+  13.00  Sakalas Siauliai         2-0  Vetra Rudiskes
+  15.00  Geležinis Vilkas         1-2  FK Zalgiris
+         FK Ekranas               1-0  FK Nevėžis
+         FK Atlantas              2-0  FK Dainava Alytus
+  15.30  Inkaras Kaunas           0-2  FBK Kaunas
+
+
+Matchday 2
+[Wed Apr/4]
+  13.00  Vetra Rudiskes           1-5  FBK Kaunas
+  16.30  Sakalas Siauliai         2-0  FK Nevėžis
+         FK Ekranas               12-0  FK Dainava Alytus
+         FK Atlantas              1-0  Geležinis Vilkas
+         FK Zalgiris              1-0  Inkaras Kaunas
+
+
+Matchday 3
+[Sun Apr/8]
+  13.00  Inkaras Kaunas           1-4  FK Atlantas
+  15.00  FBK Kaunas               2-0  FK Zalgiris
+  16.00  Vetra Rudiskes           0-2  FK Nevėžis
+         Geležinis Vilkas         1-2  FK Ekranas
+         FK Dainava Alytus        0-1  Sakalas Siauliai
+
+
+Matchday 4
+[Sat Apr/14]
+  15.00  FK Atlantas              1-2  FBK Kaunas
+  16.30  Sakalas Siauliai         0-2  Geležinis Vilkas
+         FK Nevėžis               1-1  FK Dainava Alytus
+         FK Ekranas               0-1  Inkaras Kaunas
+         FK Zalgiris              1-1  Vetra Rudiskes
+
+
+Matchday 5
+[Thu Apr/19]
+  17.00  Inkaras Kaunas           4-0  Sakalas Siauliai
+[Fri Apr/20]
+  17.00  FBK Kaunas               2-0  FK Ekranas
+         FK Zalgiris              1-0  FK Atlantas
+[Sat Apr/21]
+  17.00  Geležinis Vilkas         0-2  FK Nevėžis
+[Sun Apr/22]
+  15.00  Vetra Rudiskes           2-1  FK Dainava Alytus
+
+
+Matchday 6
+[Sat Apr/28]
+  15.00  FK Ekranas               0-3  FK Zalgiris
+  17.30  Sakalas Siauliai         0-2  FBK Kaunas
+         FK Nevėžis               1-1  Inkaras Kaunas
+         FK Atlantas              5-2  Vetra Rudiskes
+[Sun Apr/29]
+  15.00  FK Dainava Alytus        0-2  Geležinis Vilkas
+
+
+Matchday 7
+[Sun May/6]
+  14.30  Vetra Rudiskes           0-1  Geležinis Vilkas
+         Inkaras Kaunas           3-2  FK Dainava Alytus
+  15.00  FK Atlantas              2-2  FK Ekranas
+         FK Zalgiris              2-1  Sakalas Siauliai
+  17.30  FBK Kaunas               4-0  FK Nevėžis
+
+
+Matchday 8
+[Wed May/9]
+  17.30  Sakalas Siauliai         2-4  FK Atlantas
+         FK Nevėžis               1-0  FK Zalgiris
+         Geležinis Vilkas         0-0  Inkaras Kaunas
+         FK Ekranas               0-2  Vetra Rudiskes
+         FK Dainava Alytus        0-4  FBK Kaunas
+
+
+Matchday 9
+[Sun May/13]
+  15.00  FK Ekranas               1-1  Sakalas Siauliai
+         FK Zalgiris              5-2  FK Dainava Alytus
+  18.00  Vetra Rudiskes           0-3  Inkaras Kaunas
+         FBK Kaunas               2-1  Geležinis Vilkas
+         FK Atlantas              2-0  FK Nevėžis
+
+
+Matchday 10
+[Wed May/16]
+  18.00  Vetra Rudiskes           2-1  Sakalas Siauliai
+         FK Nevėžis               0-0  FK Ekranas
+         FBK Kaunas               1-1  Inkaras Kaunas
+         FK Dainava Alytus        0-1  FK Atlantas
+         FK Zalgiris              2-1  Geležinis Vilkas
+
+
+Matchday 11
+[Wed May/23]
+  16.00  Inkaras Kaunas           1-2  FK Zalgiris
+  18.30  FK Nevėžis               0-0  Sakalas Siauliai
+         FBK Kaunas               3-0  Vetra Rudiskes
+         Geležinis Vilkas         1-2  FK Atlantas
+         FK Dainava Alytus        1-3  FK Ekranas
+
+
+Matchday 12
+[Sun May/27]
+  15.00  FK Zalgiris              0-0  FBK Kaunas
+  18.30  Sakalas Siauliai         1-1  FK Dainava Alytus
+         FK Nevėžis               1-0  Vetra Rudiskes
+         FK Ekranas               1-0  Geležinis Vilkas
+         FK Atlantas              1-1  Inkaras Kaunas
+
+
+Matchday 13
+[Thu May/31]
+  18.30  Vetra Rudiskes           1-3  FK Zalgiris
+         FBK Kaunas               0-1  FK Atlantas
+         Geležinis Vilkas         0-2  Sakalas Siauliai
+[Fri Jun/1]
+  18.30  Inkaras Kaunas           0-1  FK Ekranas
+[Sun Jun/3]
+  15.00  FK Dainava Alytus        1-2  FK Nevėžis
+
+
+Matchday 14
+[Sat Jun/9]
+  18.30  Sakalas Siauliai         1-1  Inkaras Kaunas
+         FK Nevėžis               1-1  Geležinis Vilkas
+         FK Ekranas               0-1  FBK Kaunas
+         FK Dainava Alytus        3-2  Vetra Rudiskes
+         FK Atlantas              3-1  FK Zalgiris
+
+
+Matchday 15
+[Tue Jun/12]
+  16.30  FBK Kaunas               4-0  Sakalas Siauliai
+         Geležinis Vilkas         4-1  FK Dainava Alytus
+  18.30  Vetra Rudiskes           0-2  FK Atlantas
+  19.00  Inkaras Kaunas           2-0  FK Nevėžis
+         FK Zalgiris              0-0  FK Ekranas
+
+
+Matchday 16
+[Sat Jun/16]
+  18.00  Sakalas Siauliai         1-1  FK Zalgiris
+  18.30  FK Nevėžis               0-0  FBK Kaunas
+         Inkaras Kaunas           1-2  FK Dainava Alytus
+         Geležinis Vilkas         2-2  Vetra Rudiskes
+[Sat Oct/6]
+  14.00  FK Ekranas               1-1  FK Atlantas
+
+
+Matchday 17
+[Wed Jun/20]
+  16.30  Inkaras Kaunas           0-2  Geležinis Vilkas
+  18.30  Vetra Rudiskes           0-0  FK Ekranas
+         FK Atlantas              3-0  Sakalas Siauliai
+         FK Zalgiris              4-2  FK Nevėžis
+  19.00  FBK Kaunas               6-0  FK Dainava Alytus
+
+
+Matchday 18
+[Tue May/1]
+  17.30  Sakalas Siauliai         2-3  FK Ekranas
+[Sun Jun/24]
+  15.00  Inkaras Kaunas           2-0  Vetra Rudiskes
+  18.30  FK Nevėžis               1-2  FK Atlantas
+         Geležinis Vilkas         1-3  FBK Kaunas
+         FK Dainava Alytus        0-4  FK Zalgiris
+
+
+Matchday 19
+[Wed Jun/27]
+  18.30  FBK Kaunas               3-0  Vetra Rudiskes
+[Thu Jun/28]
+  18.30  FK Atlantas              7-2  Geležinis Vilkas
+         FK Zalgiris              6-0  Inkaras Kaunas
+[Fri Jun/29]
+  18.30  FK Nevėžis               1-1  Sakalas Siauliai
+         FK Ekranas               4-2  FK Dainava Alytus
+
+
+Matchday 20
+[Sat Jul/21]
+  18.00  Inkaras Kaunas           1-1  FK Atlantas
+  18.30  Vetra Rudiskes           2-1  FK Nevėžis
+         Geležinis Vilkas         0-4  FK Ekranas
+[Sun Jul/22]
+  15.00  FBK Kaunas               0-1  FK Zalgiris
+         FK Dainava Alytus        2-0  Sakalas Siauliai
+
+
+Matchday 21
+[Sat Jul/28]
+  18.30  Sakalas Siauliai         1-1  Geležinis Vilkas
+         FK Nevėžis               5-0  FK Dainava Alytus
+         FK Atlantas              0-0  FBK Kaunas
+         FK Zalgiris              2-0  Vetra Rudiskes
+[Sun Jul/29]
+  15.00  FK Ekranas               0-0  Inkaras Kaunas
+
+
+Matchday 22
+[Sat Aug/4]
+  18.00  Inkaras Kaunas           9-0  Sakalas Siauliai
+  18.30  FK Zalgiris              0-0  FK Atlantas
+[Sun Aug/5]
+  18.00  FBK Kaunas               4-0  FK Ekranas
+  18.30  Vetra Rudiskes           1-3  FK Dainava Alytus
+         Geležinis Vilkas         4-1  FK Nevėžis
+
+
+Matchday 23
+[Tue Jul/24]
+  18.30  FK Atlantas              2-0  Vetra Rudiskes
+[Wed Jul/25]
+  18.30  FK Ekranas               3-0  FK Zalgiris
+[Sat Aug/11]
+  18.00  Sakalas Siauliai         0-1  FBK Kaunas
+  18.30  FK Nevėžis               1-1  Inkaras Kaunas
+[Sun Aug/12]
+  15.00  FK Dainava Alytus        1-0  Geležinis Vilkas
+
+
+Matchday 24
+[Thu Aug/16]
+  15.00  FBK Kaunas               3-0  FK Nevėžis
+[Sat Aug/18]
+  15.00  Vetra Rudiskes           1-2  Geležinis Vilkas
+  17.00  FK Dainava Alytus        1-2  Inkaras Kaunas
+  18.00  FK Atlantas              0-3  FK Ekranas
+         FK Zalgiris              2-0  Sakalas Siauliai
+
+
+Matchday 25
+[Tue Jul/31]
+  18.30  FK Nevėžis               1-1  FK Zalgiris
+[Wed Aug/1]
+  18.00  Sakalas Siauliai         1-1  FK Atlantas
+[Wed Aug/22]
+  17.30  Geležinis Vilkas         0-3  Inkaras Kaunas
+         FK Ekranas               1-0  Vetra Rudiskes
+         FK Dainava Alytus        0-5  FBK Kaunas
+
+
+Matchday 26
+[Sun Aug/26]
+  17.00  FK Ekranas               1-1  Sakalas Siauliai
+  17.30  Vetra Rudiskes           2-0  Inkaras Kaunas
+         FBK Kaunas               3-0  Geležinis Vilkas
+[Tue Aug/28]
+  17.30  FK Atlantas              1-0  FK Nevėžis
+         FK Zalgiris              3-0  FK Dainava Alytus
+
+
+Matchday 27
+[Sat Sep/8]
+  16.00  Inkaras Kaunas           1-2  FBK Kaunas
+  17.00  Geležinis Vilkas         1-2  FK Zalgiris
+         FK Dainava Alytus        0-0  FK Atlantas
+[Sun Sep/9]
+  15.00  Sakalas Siauliai         1-1  Vetra Rudiskes
+         FK Nevėžis               1-2  FK Ekranas
+
+
+Matchday 28
+[Wed Sep/12]
+  16.30  Vetra Rudiskes           0-0  FBK Kaunas
+         Sakalas Siauliai         2-0  FK Nevėžis
+         Inkaras Kaunas           2-3  FK Zalgiris
+         Geležinis Vilkas         0-6  FK Atlantas
+         FK Dainava Alytus        2-0  FK Ekranas
+
+
+Matchday 29
+[Sun Sep/16]
+  15.00  Sakalas Siauliai         1-3  FK Dainava Alytus
+         FK Nevėžis               1-1  Vetra Rudiskes
+         FK Zalgiris              1-3  FBK Kaunas
+  16.00  FK Ekranas               5-0  Geležinis Vilkas
+         FK Atlantas              0-2  Inkaras Kaunas
+
+
+Matchday 30
+[Sun Sep/23]
+  15.00  Geležinis Vilkas         2-2  Sakalas Siauliai
+  16.30  FK Dainava Alytus        1-1  FK Nevėžis
+[Wed Oct/17]
+  13.00  Inkaras Kaunas           1-1  FK Ekranas
+  15.00  Vetra Rudiskes           2-0  FK Zalgiris
+         FBK Kaunas               0-0  FK Atlantas
+
+
+Matchday 31
+[Sat Sep/29]
+  15.00  Sakalas Siauliai         1-1  Inkaras Kaunas
+  16.00  FK Nevėžis               1-2  Geležinis Vilkas
+         FK Dainava Alytus        1-1  Vetra Rudiskes
+[Mon Oct/1]
+  16.00  FK Ekranas               0-1  FBK Kaunas
+         FK Atlantas              1-1  FK Zalgiris
+
+
+Matchday 32
+[Sat Oct/13]
+  15.30  FBK Kaunas               2-0  Sakalas Siauliai
+         Geležinis Vilkas         1-0  FK Dainava Alytus
+[Sun Oct/14]
+  15.30  Vetra Rudiskes           0-0  FK Atlantas
+         Inkaras Kaunas           3-1  FK Nevėžis
+  15.50  FK Zalgiris              1-1  FK Ekranas
+
+
+Matchday 33
+[Sat Oct/20]
+  14.00  FK Nevėžis               2-0  FBK Kaunas
+         Geležinis Vilkas         1-1  Vetra Rudiskes
+         FK Dainava Alytus        0-0  Inkaras Kaunas
+[Sun Oct/21]
+  14.00  Sakalas Siauliai         3-1  FK Zalgiris
+         FK Ekranas               4-1  FK Atlantas
+
+
+Matchday 34
+[Sat Oct/27]
+  14.00  Inkaras Kaunas           1-2  Geležinis Vilkas
+[Sun Oct/28]
+  14.00  Vetra Rudiskes           4-1  FK Ekranas
+  15.00  FBK Kaunas               1-1  FK Dainava Alytus
+         FK Atlantas              3-0  Sakalas Siauliai
+         FK Zalgiris              2-0  FK Nevėžis
+
+
+Matchday 35
+[Sat Nov/3]
+  14.30  FK Nevėžis               0-6  FK Atlantas
+         Inkaras Kaunas           1-1  Vetra Rudiskes
+         Geležinis Vilkas         1-3  FBK Kaunas
+         FK Dainava Alytus        2-2  FK Zalgiris
+[Sun Nov/4]
+  14.00  Sakalas Siauliai         1-0  FK Ekranas
+
+
+Matchday 36
+[Sat Nov/10]
+  14.00  Vetra Rudiskes           0-0  Sakalas Siauliai
+         FBK Kaunas               2-0  Inkaras Kaunas
+         FK Ekranas               1-2  FK Nevėžis
+         FK Atlantas              0-0  FK Dainava Alytus
+         FK Zalgiris              4-3  Geležinis Vilkas

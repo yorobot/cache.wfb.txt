@@ -1,0 +1,269 @@
+= MT 1 2012/13
+
+# Date       Sat Aug/18 2012 - Wed Feb/13 2013 (179d)
+# Teams      12
+# Matches    132
+
+
+
+Matchday 1
+[Sat Aug/18]
+  18.30  Rabat Ajax               0-1 (0-1)  Qormi FC
+  20.30  Sliema Wanderers         1-1 (1-1)  Floriana FC
+[Sun Aug/19]
+  18.30  Hamrun Spartans          2-2 (1-1)  Balzan FC
+  20.30  Valletta FC              1-0 (0-0)  Tarxien Rainbows
+[Mon Aug/20]
+  18.30  Hibernians FC            3-2 (3-0)  Mosta FC
+  20.30  Birkirkara FC            4-0 (1-0)  Melita FC
+
+
+Matchday 2
+[Fri Aug/24]
+  18.30  Tarxien Rainbows         2-3 (2-1)  Sliema Wanderers
+  20.30  Floriana FC              1-1 (0-0)  Hamrun Spartans
+[Sat Aug/25]
+  18.30  Melita FC                3-3 (1-2)  Rabat Ajax
+  20.30  Qormi FC                 2-4 (0-3)  Hibernians FC
+[Sun Aug/26]
+  18.30  Mosta FC                 1-3 (1-3)  Valletta FC
+  20.30  Balzan FC                1-2 (0-2)  Birkirkara FC
+
+
+Matchday 3
+[Fri Aug/31]
+  18.30  Birkirkara FC            2-0 (1-0)  Rabat Ajax
+  20.30  Sliema Wanderers         0-2 (0-1)  Mosta FC
+[Sat Sep/1]
+  18.30  Hibernians FC            3-1 (3-0)  Melita FC
+  20.30  Valletta FC              3-0 (2-0)  Qormi FC
+[Sun Sep/2]
+  18.30  Hamrun Spartans          1-1 (0-1)  Tarxien Rainbows
+  20.30  Balzan FC                1-3 (1-1)  Floriana FC
+
+
+Matchday 4
+[Sat Sep/15]
+  17.00  Qormi FC                 2-1 (1-1)  Sliema Wanderers
+  19.00  Floriana FC              0-3 (0-1)  Birkirkara FC
+[Sun Sep/16]
+  17.00  Rabat Ajax               0-3 (0-3)  Hibernians FC
+  19.00  Melita FC                1-5 (1-1)  Valletta FC
+[Mon Sep/17]
+  18.00  Tarxien Rainbows         2-1 (1-1)  Balzan FC
+  20.00  Mosta FC                 4-1 (3-0)  Hamrun Spartans
+
+
+Matchday 5
+[Sat Sep/22]
+  17.00  Floriana FC              3-0 (0-0)  Rabat Ajax
+  19.15  Birkirkara FC            1-3 (0-2)  Sliema Wanderers
+[Sun Sep/23]
+  17.00  Balzan FC                2-3 (2-2)  Hibernians FC
+  19.00  Mosta FC                 4-2 (1-1)  Qormi FC
+[Mon Sep/24]
+  18.00  Tarxien Rainbows         2-0 (1-0)  Melita FC
+  20.00  Hamrun Spartans          2-8 (1-6)  Valletta FC
+
+
+Matchday 6
+[Fri Sep/28]
+  18.00  Qormi FC                 1-2 (1-0)  Balzan FC
+  20.15  Melita FC                1-3 (1-1)  Hamrun Spartans
+[Sat Sep/29]
+  15.00  Rabat Ajax               0-2 (0-0)  Sliema Wanderers
+  17.00  Mosta FC                 3-1 (2-0)  Floriana FC
+[Sun Sep/30]
+  15.00  Tarxien Rainbows         1-4 (1-2)  Birkirkara FC
+  17.00  Hibernians FC            0-1 (0-0)  Valletta FC
+
+
+Matchday 7
+[Fri Oct/5]
+  18.00  Hamrun Spartans          1-1 (0-0)  Rabat Ajax
+  20.15  Floriana FC              2-2 (1-1)  Qormi FC
+[Sat Oct/6]
+  15.00  Sliema Wanderers         4-0 (1-0)  Hibernians FC
+  17.00  Birkirkara FC            1-1 (1-1)  Valletta FC
+[Sun Oct/7]
+  15.00  Balzan FC                2-1 (1-1)  Melita FC
+  17.00  Tarxien Rainbows         2-0 (1-0)  Mosta FC
+
+
+Matchday 8
+[Fri Oct/19]
+  18.00  Balzan FC                1-0 (1-0)  Sliema Wanderers
+  20.15  Birkirkara FC            1-3 (1-1)  Hamrun Spartans
+[Sat Oct/20]
+  15.00  Mosta FC                 2-0 (2-0)  Rabat Ajax
+  17.00  Floriana FC              0-2 (0-1)  Valletta FC
+[Sun Oct/21]
+  15.00  Qormi FC                 2-3 (2-2)  Melita FC
+  17.00  Tarxien Rainbows         2-2 (1-0)  Hibernians FC
+
+
+Matchday 9
+[Fri Oct/26]
+  18.00  Sliema Wanderers         4-0 (2-0)  Melita FC
+  20.15  Valletta FC              1-1 (0-0)  Rabat Ajax
+[Sat Oct/27]
+  15.00  Floriana FC              2-3 (2-2)  Tarxien Rainbows
+  17.00  Birkirkara FC            1-0 (0-0)  Hibernians FC
+[Sun Oct/28]
+  15.00  Balzan FC                0-0  Mosta FC
+  17.15  Hamrun Spartans          1-0 (0-0)  Qormi FC
+
+
+Matchday 10
+[Fri Nov/2]
+  18.00  Melita FC                0-5 (0-1)  Mosta FC
+  20.15  Valletta FC              1-1 (1-1)  Balzan FC
+[Sat Nov/3]
+  14.00  Rabat Ajax               1-3 (1-2)  Tarxien Rainbows
+  16.15  Hibernians FC            1-0 (0-0)  Floriana FC
+[Sun Nov/4]
+  14.00  Sliema Wanderers         2-1 (0-0)  Hamrun Spartans
+  16.15  Qormi FC                 1-1 (0-1)  Birkirkara FC
+
+
+Matchday 11
+[Fri Nov/9]
+  18.00  Rabat Ajax               0-2 (0-1)  Balzan FC
+  20.15  Valletta FC              1-1 (1-1)  Sliema Wanderers
+[Sat Nov/10]
+  14.00  Melita FC                2-2 (2-1)  Floriana FC
+  16.00  Hibernians FC            2-1 (2-0)  Hamrun Spartans
+[Sun Nov/11]
+  14.00  Qormi FC                 2-1 (0-0)  Tarxien Rainbows
+  16.15  Mosta FC                 0-1 (0-0)  Birkirkara FC
+
+
+Matchday 12
+[Sat Nov/17]
+  14.00  Melita FC                0-3 (0-1)  Birkirkara FC
+  16.15  Balzan FC                3-2 (1-2)  Hamrun Spartans
+[Sun Nov/18]
+  14.00  Qormi FC                 3-0 (2-0)  Rabat Ajax
+  16.00  Tarxien Rainbows         1-1 (1-0)  Valletta FC
+[Mon Nov/19]
+  18.00  Mosta FC                 0-1 (0-1)  Hibernians FC
+  20.15  Floriana FC              2-0 (1-0)  Sliema Wanderers
+
+
+Matchday 13
+[Fri Nov/23]
+  18.00  Rabat Ajax               0-0  Melita FC
+  20.15  Birkirkara FC            2-2 (2-1)  Balzan FC
+[Sat Nov/24]
+  14.00  Hibernians FC            0-1 (0-0)  Qormi FC
+  16.00  Valletta FC              0-1 (0-0)  Mosta FC
+[Sun Nov/25]
+  14.00  Sliema Wanderers         1-2 (1-1)  Tarxien Rainbows
+  16.00  Hamrun Spartans          0-2 (0-1)  Floriana FC
+
+
+Matchday 14
+[Fri Dec/7]
+  18.00  Melita FC                1-5 (1-3)  Hibernians FC
+  20.15  Tarxien Rainbows         4-1 (1-1)  Hamrun Spartans
+[Sat Dec/8]
+  14.00  Rabat Ajax               3-3 (1-0)  Birkirkara FC
+  16.00  Qormi FC                 0-2 (0-0)  Valletta FC
+[Mon Dec/10]
+  18.00  Floriana FC              3-1 (2-0)  Balzan FC
+  20.15  Mosta FC                 0-2 (0-1)  Sliema Wanderers
+
+
+Matchday 15
+[Fri Dec/14]
+  18.00  Hamrun Spartans          0-3 (0-0)  Mosta FC
+  20.15  Hibernians FC            6-0 (4-0)  Rabat Ajax
+[Sat Dec/15]
+  14.00  Sliema Wanderers         3-1 (0-1)  Qormi FC
+  16.00  Birkirkara FC            1-1 (1-0)  Floriana FC
+[Sun Dec/16]
+  14.00  Balzan FC                3-4 (0-2)  Tarxien Rainbows
+  16.00  Valletta FC              1-2 (0-1)  Melita FC
+
+
+Matchday 16
+[Fri Dec/21]
+  18.00  Melita FC                0-0  Sliema Wanderers
+  20.15  Rabat Ajax               1-1 (1-0)  Valletta FC
+[Sat Dec/22]
+  14.00  Mosta FC                 2-0 (0-0)  Balzan FC
+  16.00  Hibernians FC            0-0  Birkirkara FC
+[Sun Dec/23]
+  14.00  Tarxien Rainbows         1-1 (1-0)  Floriana FC
+  16.00  Qormi FC                 4-0 (0-0)  Hamrun Spartans
+
+
+Matchday 17
+[Fri Jan/4]
+  18.00  Balzan FC                2-1 (0-1)  Qormi FC
+  20.15  Sliema Wanderers         1-0 (0-0)  Rabat Ajax
+[Sat Jan/5]
+  14.00  Hamrun Spartans          0-1 (0-1)  Melita FC
+  16.00  Valletta FC              4-1 (2-0)  Hibernians FC
+[Sun Jan/6]
+  14.00  Floriana FC              1-2 (0-0)  Mosta FC
+  16.00  Birkirkara FC            5-0 (1-0)  Tarxien Rainbows
+
+
+Matchday 18
+[Fri Jan/11]
+  18.00  Melita FC                0-4 (0-2)  Balzan FC
+  20.15  Mosta FC                 1-3 (0-1)  Tarxien Rainbows
+[Sat Jan/12]
+  14.00  Qormi FC                 0-0  Floriana FC
+  16.00  Valletta FC              1-0 (1-0)  Birkirkara FC
+[Sun Jan/13]
+  14.00  Rabat Ajax               1-3 (0-3)  Hamrun Spartans
+  16.00  Hibernians FC            2-1 (1-1)  Sliema Wanderers
+
+
+Matchday 19
+[Sat Jan/19]
+  14.00  Tarxien Rainbows         1-2 (1-0)  Qormi FC
+         Birkirkara FC            7-1 (3-1)  Mosta FC
+  16.00  Sliema Wanderers         0-2 (0-1)  Valletta FC
+  16.15  Hamrun Spartans          1-6 (0-3)  Hibernians FC
+[Sun Jan/20]
+  14.00  Balzan FC                1-1 (1-1)  Rabat Ajax
+  16.00  Floriana FC              0-0  Melita FC
+
+
+Matchday 20
+[Sat Jan/26]
+  14.00  Rabat Ajax               1-1 (0-1)  Floriana FC
+  16.00  Valletta FC              6-0 (4-0)  Hamrun Spartans
+[Sun Jan/27]
+  14.00  Hibernians FC            2-0 (2-0)  Balzan FC
+  16.00  Sliema Wanderers         0-0  Birkirkara FC
+[Mon Jan/28]
+  18.00  Melita FC                0-3 (0-2)  Tarxien Rainbows
+  20.15  Qormi FC                 2-1 (0-0)  Mosta FC
+
+
+Matchday 21
+[Fri Feb/1]
+  18.00  Mosta FC                 3-1 (3-0)  Melita FC
+  20.15  Floriana FC              0-3  Hibernians FC            [awarded]
+[Sat Feb/2]
+  14.00  Hamrun Spartans          0-2 (0-1)  Sliema Wanderers
+  16.00  Birkirkara FC            2-1 (2-0)  Qormi FC
+[Sun Feb/3]
+  14.00  Tarxien Rainbows         1-0 (1-0)  Rabat Ajax
+  16.00  Balzan FC                1-1 (0-0)  Valletta FC
+
+
+Matchday 22
+[Sat Feb/9]
+  14.00  Melita FC                1-2 (1-0)  Qormi FC
+  16.15  Sliema Wanderers         3-2 (0-0)  Balzan FC
+[Mon Feb/11]
+  18.00  Rabat Ajax               3-2 (1-0)  Mosta FC
+  20.00  Hibernians FC            0-0  Tarxien Rainbows
+[Wed Feb/13]
+  18.00  Hamrun Spartans          0-3 (0-2)  Birkirkara FC
+  20.00  Valletta FC              3-0 (1-0)  Floriana FC

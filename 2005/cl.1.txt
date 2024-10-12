@@ -1,0 +1,699 @@
+= CL 1 2005
+
+# Date       Fri Jan/21 - Thu Dec/22 2005 (335d)
+# Teams      20
+# Matches    411
+# Stages     Apertura (190)  Apertura Playoffs (16)  Clausura (190)  Clausura Playoffs (15)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jan/21]
+  17.00  Huachipato               4-1  La Serena
+  21.00  Palestino                3-1  Rangers
+[Sat Jan/22]
+  19.30  Deportes Temuco          1-1  Cobresal
+  20.30  Coquimbo Unido           2-0  Deportes Concepción
+  21.00  Everton                  3-2  Universidad de Chile
+[Sun Jan/23]
+  15.00  Unión San Felipe         3-2  Santiago Wanderers
+  18.00  Colo-Colo                2-0  Puerto Montt
+  20.00  Universidad Católica     5-0  Melipilla
+[Wed Mar/2]
+  19.30  Universidad de Concepción  3-0  Audax Italiano
+[Wed Apr/13]
+  18.00  Unión Española           1-0  Cobreloa
+
+
+Matchday 2
+[Fri Jan/28]
+  18.45  Audax Italiano           1-1  Everton
+  20.00  Rangers                  0-0  Unión Española
+  21.00  Santiago Wanderers       1-1  Colo-Colo
+[Sat Jan/29]
+  15.00  Cobreloa                 1-0  Palestino
+  17.30  Puerto Montt             1-2  Universidad Católica
+  19.05  Deportes Concepción      1-1  Huachipato
+  20.15  Melipilla                0-0  Deportes Temuco
+  21.00  La Serena                2-0  Universidad de Concepción
+[Sun Jan/30]
+  15.00  Cobresal                 2-1  Coquimbo Unido
+  18.30  Universidad de Chile     2-0  Unión San Felipe
+
+
+Matchday 3
+[Tue Feb/1]
+  19.05  Unión Española           3-3  Audax Italiano
+  20.00  Everton                  1-1  Universidad de Concepción
+[Wed Feb/2]
+  17.00  Huachipato               5-4  Cobreloa
+  18.00  Deportes Temuco          1-2  Universidad Católica
+  19.05  Puerto Montt             0-1  Melipilla
+  20.00  Deportes Concepción      2-1  Santiago Wanderers
+         Rangers                  1-2  La Serena
+[Thu Feb/3]
+  19.30  Palestino                1-2  Unión San Felipe
+  20.00  Coquimbo Unido           1-3  Universidad de Chile
+[Wed Mar/2]
+  19.30  Colo-Colo                2-2  Cobresal
+
+
+Matchday 4
+[Sat Feb/5]
+  16.30  Audax Italiano           1-1  Colo-Colo
+  18.30  Santiago Wanderers       4-1  Everton
+[Sun Feb/6]
+  15.00  Unión San Felipe         0-1  Rangers
+         Cobresal                 3-0  Puerto Montt
+  17.30  Universidad de Concepción  0-1  Cobreloa
+  18.00  Melipilla                0-1  Coquimbo Unido
+         Deportes Temuco          1-2  Huachipato
+         Universidad de Chile     2-0  Palestino
+  20.00  Universidad Católica     1-1  Unión Española
+  20.30  La Serena                2-2  Deportes Concepción
+
+
+Matchday 5
+[Fri Feb/11]
+  20.00  Rangers                  1-1  Melipilla
+  21.00  Unión Española           2-2  Everton
+[Sat Feb/12]
+  15.00  Cobreloa                 5-4  Deportes Temuco
+  18.30  Puerto Montt             0-1  Universidad de Chile
+  19.30  Unión San Felipe         0-0  La Serena
+  20.00  Santiago Wanderers       1-3  Cobresal
+  20.30  Coquimbo Unido           1-0  Audax Italiano
+  21.00  Colo-Colo                0-1  Universidad de Concepción
+[Sun Feb/13]
+  17.00  Palestino                2-3  Huachipato
+  19.05  Deportes Concepción      1-0  Universidad Católica
+
+
+Matchday 6
+[Sat Feb/19]
+  17.00  Huachipato               0-1  Rangers
+  18.00  Audax Italiano           0-2  Palestino
+  19.05  Universidad de Concepción  2-0  Unión San Felipe
+  20.00  Everton                  3-2  Puerto Montt
+         La Serena                3-7  Colo-Colo
+[Sun Feb/20]
+  15.00  Cobresal                 4-3  Unión Española
+  17.00  Melipilla                0-1  Cobreloa
+  18.00  Universidad Católica     3-0  Santiago Wanderers
+  19.05  Deportes Temuco          2-1  Coquimbo Unido
+[Wed Apr/27]
+  18.00  Universidad de Chile     1-0  Deportes Concepción
+
+
+Matchday 7
+[Sat Feb/26]
+  17.30  Unión San Felipe         0-2  Universidad Católica
+  19.05  Unión Española           1-2  La Serena
+  20.00  Santiago Wanderers       0-1  Deportes Temuco
+         Rangers                  2-0  Audax Italiano
+         Colo-Colo                2-1  Everton
+  20.30  Coquimbo Unido           3-1  Universidad de Concepción
+[Sun Feb/27]
+  15.30  Huachipato               0-2  Cobresal
+  17.00  Palestino                0-3  Puerto Montt
+  18.00  Cobreloa                 1-1  Universidad de Chile
+         Deportes Concepción      0-0  Melipilla
+
+
+Matchday 8
+[Sat Mar/5]
+  15.00  Cobreloa                 1-1  Rangers
+  17.30  Deportes Temuco          1-2  Colo-Colo
+  19.05  Everton                  0-1  Coquimbo Unido
+  20.00  Universidad de Chile     3-0  Santiago Wanderers
+         La Serena                4-0  Palestino
+[Sun Mar/6]
+  11.00  Puerto Montt             1-0  Unión San Felipe
+  15.30  Cobresal                 0-1  Deportes Concepción
+  17.00  Melipilla                1-2  Unión Española
+  17.30  Universidad de Concepción  2-0  Huachipato
+  18.00  Universidad Católica     2-1  Audax Italiano
+
+
+Matchday 9
+[Fri Mar/11]
+  20.00  Rangers                  1-1  Universidad de Concepción
+[Sat Mar/12]
+  17.00  Audax Italiano           1-2  Deportes Temuco
+  17.30  Huachipato               1-0  Universidad de Chile
+  19.05  Unión Española           4-2  Coquimbo Unido
+  20.00  La Serena                0-1  Universidad Católica
+         Unión San Felipe         0-2  Everton
+[Sun Mar/13]
+  15.00  Santiago Wanderers       3-0  Melipilla
+  15.30  Deportes Concepción      1-1  Puerto Montt
+  16.00  Palestino                0-0  Cobresal
+  17.00  Colo-Colo                2-0  Cobreloa
+
+
+Matchday 10
+[Fri Mar/18]
+  19.00  Everton                  1-3  Huachipato
+         Cobreloa                 2-1  Deportes Concepción
+[Sat Mar/19]
+  16.00  Universidad Católica     1-0  Colo-Colo
+  19.00  Coquimbo Unido           1-0  Unión San Felipe
+         Cobresal                 0-1  La Serena
+[Sun Mar/20]
+  11.00  Puerto Montt             3-1  Santiago Wanderers
+  15.00  Melipilla                1-3  Palestino
+  15.30  Deportes Temuco          1-1  Rangers
+         Universidad de Concepción  0-0  Unión Española
+  18.05  Universidad de Chile     3-1  Audax Italiano
+
+
+Matchday 11
+[Sat Apr/2]
+  14.00  Palestino                0-1  Universidad Católica
+  16.05  Audax Italiano           3-0  Cobreloa
+  17.00  Colo-Colo                2-0  Coquimbo Unido
+  18.00  Unión San Felipe         1-2  Cobresal
+         Everton                  3-0  Deportes Temuco
+  18.30  La Serena                2-3  Santiago Wanderers
+[Sun Apr/3]
+  10.00  Huachipato               1-4  Puerto Montt
+  14.00  Universidad de Concepción  1-2  Melipilla
+         Rangers                  1-1  Deportes Concepción
+  16.05  Unión Española           0-2  Universidad de Chile
+
+
+Matchday 12
+[Fri Apr/8]
+  19.00  Coquimbo Unido           0-0  Rangers
+[Sat Apr/9]
+  14.00  Cobreloa                 1-1  Unión San Felipe
+  15.00  Cobresal                 1-0  Universidad de Concepción
+  17.00  Deportes Temuco          1-2  Unión Española
+  17.30  Universidad Católica     2-0  Huachipato
+  18.00  Deportes Concepción      0-2  Audax Italiano
+[Sun Apr/10]
+  10.00  Puerto Montt             3-0  La Serena
+  14.00  Santiago Wanderers       1-2  Palestino
+  14.30  Colo-Colo                1-1  Universidad de Chile
+  16.30  Melipilla                0-3  Everton
+
+
+Matchday 13
+[Fri Apr/15]
+  20.00  Everton                  1-0  Cobreloa
+[Sat Apr/16]
+  14.00  Huachipato               3-0  Melipilla
+  15.00  Palestino                1-0  Colo-Colo
+  16.05  Audax Italiano           3-2  Cobresal
+  17.30  Coquimbo Unido           0-3  Universidad Católica
+  18.00  Unión San Felipe         3-1  Deportes Concepción
+[Sun Apr/17]
+  13.45  Rangers                  0-2  Santiago Wanderers
+  14.00  Unión Española           4-1  Puerto Montt
+         Universidad de Concepción  3-3  Deportes Temuco
+  16.05  Universidad de Chile     1-3  La Serena
+
+
+Matchday 14
+[Fri Apr/22]
+  18.00  Cobresal                 2-2  Everton
+         Cobreloa                 4-0  Coquimbo Unido
+[Sat Apr/23]
+  15.00  Universidad Católica     5-2  Universidad de Concepción
+  17.30  Colo-Colo                4-2  Unión Española
+  18.00  Unión San Felipe         1-0  Deportes Temuco
+  18.30  La Serena                1-1  Audax Italiano
+[Sun Apr/24]
+  09.30  Melipilla                1-1  Universidad de Chile
+  10.00  Puerto Montt             1-2  Rangers
+  14.00  Santiago Wanderers       2-0  Huachipato
+  14.30  Deportes Concepción      2-0  Palestino
+
+
+Matchday 15
+[Fri Apr/29]
+  17.30  Cobreloa                 2-1  Cobresal
+  18.00  Deportes Temuco          1-1  La Serena
+  20.00  Everton                  1-1  Deportes Concepción
+[Sat Apr/30]
+  13.30  Rangers                  3-2  Colo-Colo
+         Huachipato               2-0  Unión San Felipe
+  14.00  Unión Española           0-1  Santiago Wanderers
+  15.00  Universidad de Concepción  4-3  Puerto Montt
+  16.05  Universidad de Chile     2-1  Universidad Católica
+  17.00  Coquimbo Unido           2-1  Palestino
+  18.00  Audax Italiano           1-3  Melipilla
+
+
+Matchday 16
+[Fri May/6]
+  18.00  Rangers                  2-3  Cobresal
+[Sat May/7]
+  13.30  Huachipato               3-2  Coquimbo Unido
+  14.00  Palestino                1-1  Everton
+  15.00  Universidad de Chile     3-2  Deportes Temuco
+  17.30  Deportes Concepción      2-0  Colo-Colo
+  18.00  La Serena                1-0  Melipilla
+[Sun May/8]
+  10.00  Puerto Montt             2-2  Audax Italiano
+  13.30  Unión San Felipe         2-1  Unión Española
+  15.00  Santiago Wanderers       3-0  Universidad de Concepción
+  16.05  Universidad Católica     4-1  Cobreloa
+
+
+Matchday 17
+[Fri May/13]
+  18.00  Cobreloa                 5-0  La Serena
+[Sat May/14]
+  14.00  Cobresal                 0-0  Universidad Católica
+  17.00  Colo-Colo                1-0  Huachipato
+         Coquimbo Unido           4-1  Puerto Montt
+[Sun May/15]
+  14.00  Unión Española           1-2  Deportes Concepción
+         Melipilla                1-0  Unión San Felipe
+         Everton                  1-3  Rangers
+  14.30  Deportes Temuco          1-1  Palestino
+         Audax Italiano           1-1  Santiago Wanderers
+  16.05  Universidad de Concepción  0-3  Universidad de Chile
+
+
+Matchday 18
+[Sat May/21]
+  13.30  Huachipato               2-0  Audax Italiano
+  14.00  Universidad Católica     1-2  Everton
+  15.00  Melipilla                1-2  Cobresal
+  16.05  Palestino                2-3  Unión Española
+  17.30  La Serena                2-2  Coquimbo Unido
+[Sun May/22]
+  10.00  Santiago Wanderers       1-2  Cobreloa
+         Puerto Montt             1-1  Deportes Temuco
+  13.30  Deportes Concepción      1-2  Universidad de Concepción
+[Mon May/23]
+  13.30  Unión San Felipe         2-3  Colo-Colo
+[Wed Jun/1]
+  15.00  Universidad de Chile     1-2  Rangers
+
+
+Matchday 19
+[Sat May/28]
+  14.00  Colo-Colo                2-2  Melipilla
+  16.30  Everton                  3-1  La Serena
+         Coquimbo Unido           3-1  Santiago Wanderers
+  17.00  Cobresal                 2-4  Universidad de Chile
+[Sun May/29]
+  13.30  Rangers                  1-3  Universidad Católica
+  14.00  Cobreloa                 4-3  Puerto Montt
+  14.30  Audax Italiano           1-1  Unión San Felipe
+  16.05  Deportes Temuco          1-1  Deportes Concepción
+         Universidad de Concepción  0-2  Palestino
+         Unión Española           2-1  Huachipato
+
+
+== Apertura Playoffs
+
+Round 1
+[Wed Jun/1]
+         Deportes Concepción      4-3  Cobresal
+         Coquimbo Unido           2-1  Everton
+
+
+Quarterfinals
+[Sat Jun/11]
+         Coquimbo Unido           1-0  Cobreloa
+         Huachipato               4-0  Colo-Colo
+[Sun Jun/12]
+         Deportes Concepción      1-2  Universidad Católica
+         Unión Española           1-2  Universidad de Chile
+[Sat Jun/18]
+         Cobreloa                 1-1  Coquimbo Unido
+         Colo-Colo                0-1  Huachipato
+[Sun Jun/19]
+         Universidad Católica     4-1  Deportes Concepción
+         Universidad de Chile     2-3 pen.  Unión Española
+
+
+Semifinals
+[Wed Jun/22]
+         Coquimbo Unido           2-1  Huachipato
+[Thu Jun/23]
+         Unión Española           0-0  Universidad Católica
+[Sat Jun/25]
+         Huachipato               1-1  Coquimbo Unido
+[Sun Jun/26]
+         Universidad Católica     9-10 pen.  Unión Española
+
+
+Final
+[Sun Jul/3]
+         Unión Española           1-0  Coquimbo Unido
+[Sat Jul/9]
+         Coquimbo Unido           2-3  Unión Española
+
+
+== Clausura
+
+Matchday 1
+[Fri Jul/15]
+  18.00  Palestino                4-0  Santiago Wanderers
+[Sat Jul/16]
+  14.00  Universidad de Chile     1-0  Universidad de Concepción
+  17.00  Audax Italiano           0-4  Universidad Católica
+[Sun Jul/17]
+  10.00  Puerto Montt             1-0  Cobreloa
+  13.30  Deportes Concepción      1-1  Rangers
+         Melipilla                1-0  Huachipato
+  14.00  La Serena                1-1  Unión San Felipe
+  16.05  Everton                  1-3  Colo-Colo
+[Sat Sep/3]
+  14.00  Cobresal                 4-1  Deportes Temuco
+  18.00  Coquimbo Unido           1-1  Unión Española
+
+
+Matchday 2
+[Fri Jul/22]
+  18.00  Santiago Wanderers       1-1  Deportes Concepción
+[Sat Jul/23]
+  13.00  Huachipato               0-0  Palestino
+  14.00  Colo-Colo                1-1  La Serena
+         Cobreloa                 3-1  Melipilla
+  17.00  Universidad Católica     1-0  Coquimbo Unido
+[Sun Jul/24]
+  13.30  Rangers                  3-0  Puerto Montt
+         Universidad de Concepción  2-1  Everton
+  14.00  Deportes Temuco          1-0  Audax Italiano
+  15.30  Unión San Felipe         4-1  Universidad de Chile
+[Fri Oct/7]
+  17.30  Unión Española           2-1  Cobresal
+
+
+Matchday 3
+[Fri Jul/29]
+  18.00  Everton                  3-1  Unión San Felipe
+[Sat Jul/30]
+  14.00  Universidad de Chile     4-2  Puerto Montt
+         Palestino                1-1  Cobreloa
+  17.00  Coquimbo Unido           2-4  Colo-Colo
+[Sun Jul/31]
+  13.30  Universidad de Concepción  2-1  Rangers
+  13.45  Melipilla                0-1  Santiago Wanderers
+  14.00  Cobresal                 2-0  Huachipato
+         Audax Italiano           6-0  Deportes Concepción
+         La Serena                1-1  Unión Española
+  16.05  Universidad Católica     2-0  Deportes Temuco
+
+
+Matchday 4
+[Sat Aug/6]
+  13.30  Huachipato               2-0  Universidad de Concepción
+         Colo-Colo                3-0  Audax Italiano
+  16.30  Unión Española           2-1  Melipilla
+  18.00  Coquimbo Unido           3-0  Deportes Temuco
+         Unión San Felipe         1-1  Palestino
+[Sun Aug/7]
+  10.00  Puerto Montt             1-0  Cobresal
+  13.00  Rangers                  1-3  Universidad de Chile
+  13.30  Deportes Concepción      2-1  La Serena
+  14.00  Cobreloa                 1-1  Everton
+  16.05  Santiago Wanderers       0-2  Universidad Católica
+
+
+Matchday 5
+[Sat Aug/13]
+  14.00  Universidad de Concepción  1-2  Colo-Colo
+         Audax Italiano           0-0  Coquimbo Unido
+  17.00  Palestino                0-2  Deportes Concepción
+[Sun Aug/14]
+  13.00  Universidad Católica     1-0  Puerto Montt
+  13.30  Unión San Felipe         2-3  Huachipato
+  14.00  Cobresal                 1-2  Santiago Wanderers
+         La Serena                0-1  Rangers
+         Deportes Temuco          1-0  Melipilla
+  15.00  Everton                  0-0  Unión Española
+  16.05  Universidad de Chile     0-0  Cobreloa
+
+
+Matchday 6
+[Sat Aug/20]
+  14.00  Unión Española           3-2  Universidad de Concepción
+         Cobreloa                 0-2  Universidad Católica
+  17.00  Deportes Concepción      3-1  Universidad de Chile
+  18.00  Coquimbo Unido           1-1  Cobresal
+[Sun Aug/21]
+  10.00  Puerto Montt             2-0  Palestino
+  13.00  Huachipato               3-1  Everton
+  13.30  Rangers                  2-1  Unión San Felipe
+  14.00  Melipilla                1-0  La Serena
+         Santiago Wanderers       0-2  Audax Italiano
+  16.05  Colo-Colo                4-0  Deportes Temuco
+
+
+Matchday 7
+[Sat Aug/27]
+  14.00  Puerto Montt             2-1  Unión Española
+         Cobresal                 3-0  Unión San Felipe
+[Sun Aug/28]
+  10.00  La Serena                2-3  Huachipato
+         Deportes Temuco          2-1  Cobreloa
+[Sat Sep/3]
+  14.00  Universidad Católica     0-0  Deportes Concepción
+[Thu Sep/8]
+  17.30  Universidad de Chile     1-0  Colo-Colo
+[Wed Sep/21]
+  18.00  Audax Italiano           2-2  Rangers
+[Fri Oct/7]
+  18.00  Universidad de Concepción  1-0  Santiago Wanderers
+  19.30  Palestino                3-1  Coquimbo Unido
+[Sun Oct/9]
+  10.00  Everton                  1-1  Melipilla
+
+
+Matchday 8
+[Sat Sep/10]
+  13.00  Huachipato               0-0  Universidad Católica
+  14.00  Unión Española           1-1  Deportes Temuco
+  17.00  Deportes Concepción      3-0  Coquimbo Unido
+  18.00  La Serena                2-3  Cobresal
+[Sun Sep/11]
+  13.30  Unión San Felipe         2-1  Universidad de Concepción
+         Rangers                  1-1  Everton
+  14.00  Cobreloa                 1-2  Audax Italiano
+         Melipilla                1-0  Puerto Montt
+  16.05  Santiago Wanderers       0-1  Universidad de Chile
+[Tue Sep/13]
+  18.00  Colo-Colo                4-1  Palestino
+
+
+Matchday 9
+[Fri Sep/16]
+  18.00  Universidad de Chile     2-1  Melipilla
+         Deportes Temuco          1-0  Unión San Felipe
+  19.30  Coquimbo Unido           2-2  Cobreloa
+[Sat Sep/17]
+  10.00  Puerto Montt             1-1  Deportes Concepción
+  14.00  Cobresal                 2-2  Colo-Colo
+         Universidad de Concepción  1-3  La Serena
+  15.00  Audax Italiano           1-0  Huachipato
+         Unión Española           4-1  Palestino
+[Sun Sep/18]
+  15.00  Everton                  0-1  Santiago Wanderers
+[Sun Oct/9]
+  15.00  Universidad Católica     3-0  Rangers
+
+
+Matchday 10
+[Sat Sep/24]
+  14.00  Deportes Concepción      1-0  Cobresal
+         Cobreloa                 2-0  Universidad de Concepción
+  17.00  Palestino                1-1  Universidad de Chile
+  18.00  La Serena                0-0  Everton
+         Santiago Wanderers       3-1  Puerto Montt
+[Sun Sep/25]
+  10.00  Rangers                  5-1  Deportes Temuco
+  14.00  Unión San Felipe         2-1  Coquimbo Unido
+         Melipilla                1-0  Audax Italiano
+         Huachipato               3-1  Unión Española
+  14.30  Colo-Colo                0-0  Universidad Católica
+
+
+Matchday 11
+[Tue Sep/27]
+  18.30  Deportes Concepción      1-0  Cobreloa
+[Wed Sep/28]
+  14.00  Cobresal                 2-0  Melipilla
+  17.00  Puerto Montt             0-3  Colo-Colo
+  18.00  Deportes Temuco          1-2  Universidad de Concepción
+         Santiago Wanderers       1-1  Rangers
+         Unión Española           0-1  Unión San Felipe
+         Audax Italiano           0-0  La Serena
+  19.00  Coquimbo Unido           2-2  Everton
+  19.30  Universidad de Chile     2-1  Huachipato
+[Thu Sep/29]
+  18.00  Universidad Católica     3-0  Palestino
+
+
+Matchday 12
+[Sat Oct/1]
+  14.00  Huachipato               2-2  Colo-Colo
+         Cobreloa                 3-0  Santiago Wanderers
+  17.00  Melipilla                1-0  Deportes Concepción
+  18.00  Unión San Felipe         1-1  Puerto Montt
+         La Serena                2-0  Deportes Temuco
+[Sun Oct/2]
+  13.00  Universidad de Concepción  0-1  Universidad Católica
+  14.00  Rangers                  0-1  Coquimbo Unido
+  15.00  Everton                  3-1  Cobresal
+  16.30  Universidad de Chile     5-3  Unión Española
+  17.00  Palestino                4-0  Audax Italiano
+
+
+Matchday 13
+[Fri Oct/14]
+  18.00  Puerto Montt             0-1  Huachipato
+[Sat Oct/15]
+  15.00  Deportes Concepción      1-1  Unión San Felipe
+  18.00  Palestino                0-0  Melipilla
+[Sun Oct/16]
+  10.00  Santiago Wanderers       1-1  Unión Española
+  14.00  Cobresal                 3-1  Cobreloa
+  14.30  Deportes Temuco          0-3  Everton
+  15.00  Coquimbo Unido           1-2  La Serena
+         Audax Italiano           1-1  Universidad de Concepción
+  16.00  Colo-Colo                4-1  Rangers
+[Sun Nov/13]
+  16.00  Universidad Católica     2-1  Universidad de Chile
+
+
+Matchday 14
+[Sat Oct/22]
+  13.00  Huachipato               3-1  Deportes Concepción
+  16.00  Unión Española           1-3  Colo-Colo
+  18.00  Deportes Temuco          1-0  Santiago Wanderers
+         Rangers                  2-2  Palestino
+         Everton                  2-1  Audax Italiano
+  19.00  Unión San Felipe         1-1  Cobreloa
+         La Serena                2-0  Puerto Montt
+         Universidad de Concepción  1-1  Coquimbo Unido
+[Sun Oct/23]
+  10.00  Melipilla                0-1  Universidad Católica
+  16.00  Universidad de Chile     1-1  Cobresal
+
+
+Matchday 15
+[Tue Oct/25]
+  18.00  Colo-Colo                5-0  Unión San Felipe
+[Wed Oct/26]
+  14.00  Cobreloa                 4-1  Unión Española
+  15.00  Huachipato               5-1  Deportes Temuco
+  16.00  Audax Italiano           1-1  Universidad de Chile
+  17.30  Puerto Montt             1-2  Universidad de Concepción
+  18.00  Palestino                3-4  La Serena
+  18.30  Melipilla                4-1  Rangers
+         Universidad Católica     1-0  Cobresal
+  19.00  Santiago Wanderers       2-0  Coquimbo Unido
+[Thu Oct/27]
+  18.00  Deportes Concepción      2-1  Everton
+
+
+Matchday 16
+[Sat Oct/29]
+  16.00  Deportes Temuco          1-2  Universidad de Chile
+  19.00  Audax Italiano           3-3  Puerto Montt
+  20.00  La Serena                1-0  Cobreloa
+[Sun Oct/30]
+  11.00  Universidad de Concepción  3-3  Deportes Concepción
+  14.30  Everton                  1-2  Universidad Católica
+  15.00  Cobresal                 1-1  Palestino
+  15.30  Unión San Felipe         2-0  Melipilla
+  16.00  Unión Española           2-1  Rangers
+  17.00  Colo-Colo                1-1  Santiago Wanderers
+  19.05  Coquimbo Unido           0-1  Huachipato
+
+
+Matchday 17
+[Tue Nov/1]
+  17.00  Universidad de Chile     1-1  Everton
+[Wed Nov/2]
+  15.00  Cobresal                 2-1  Audax Italiano
+  19.05  Universidad Católica     5-1  Unión San Felipe
+  19.30  Deportes Concepción      2-1  Unión Española
+[Thu Nov/3]
+  17.00  Cobreloa                 0-1  Colo-Colo
+  19.30  Rangers                  1-1  Huachipato
+[Sat Nov/12]
+  17.00  Palestino                1-0  Deportes Temuco
+         Santiago Wanderers       0-0  La Serena
+  20.00  Melipilla                1-2  Universidad de Concepción
+[Sun Nov/13]
+  11.00  Puerto Montt             1-0  Coquimbo Unido
+
+
+Matchday 18
+[Fri Nov/4]
+  20.30  Coquimbo Unido           2-1  Melipilla
+[Sat Nov/5]
+  17.00  Unión Española           0-0  Universidad Católica
+  20.00  La Serena                2-3  Universidad de Chile
+[Sun Nov/6]
+  14.30  Huachipato               2-1  Santiago Wanderers
+  15.30  Unión San Felipe         2-0  Audax Italiano
+         Deportes Temuco          4-1  Puerto Montt
+  16.00  Universidad de Concepción  4-1  Cobresal
+         Everton                  0-0  Palestino
+  17.00  Colo-Colo                2-1  Deportes Concepción
+  18.00  Rangers                  0-1  Cobreloa
+
+
+Matchday 19
+[Fri Nov/18]
+  19.05  Universidad Católica     3-0  La Serena
+[Sat Nov/19]
+  16.00  Deportes Concepción      3-1  Deportes Temuco
+  17.00  Santiago Wanderers       3-1  Unión San Felipe
+         Puerto Montt             0-1  Everton
+  20.00  Cobresal                 2-0  Rangers
+         Cobreloa                 2-1  Huachipato
+[Sun Nov/20]
+  10.30  Melipilla                2-3  Colo-Colo
+  17.00  Universidad de Chile     3-0  Coquimbo Unido
+         Palestino                1-2  Universidad de Concepción
+         Audax Italiano           4-5  Unión Española
+
+
+== Clausura Playoffs
+
+Round 1
+[Wed Nov/23]
+         Cobreloa                 5-0  Deportes Concepción
+
+
+Quarterfinals
+[Fri Nov/25]
+         La Serena                1-1  Colo-Colo
+[Sat Nov/26]
+         Cobresal                 2-1  Huachipato
+[Sun Nov/27]
+         Cobreloa                 1-1  Universidad Católica
+         Universidad de Concepción  1-2  Universidad de Chile
+[Sat Dec/3]
+         Colo-Colo                1-4 pen.  La Serena
+         Huachipato               1-1  Cobresal
+[Sun Dec/4]
+         Universidad Católica     2-1  Cobreloa
+         Universidad de Chile     0-0  Universidad de Concepción
+
+
+Semifinals
+[Thu Dec/8]
+         La Serena                3-3  Universidad Católica
+         Cobresal                 2-1  Universidad de Chile
+[Wed Dec/14]
+         Universidad Católica     1-0  La Serena
+         Universidad de Chile     4-2  Cobresal
+
+
+Final
+[Sun Dec/18]
+         Universidad de Chile     0-1  Universidad Católica
+[Thu Dec/22]
+         Universidad Católica     1-2  Universidad de Chile

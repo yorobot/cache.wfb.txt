@@ -1,0 +1,387 @@
+= IE 1 2008
+
+# Date       Fri Mar/7 - Fri Nov/14 2008 (252d)
+# Teams      12
+# Matches    198
+
+
+
+Matchday 1
+[Fri Mar/7]
+  19.45  Cork City                0-0  Bray Wanderers
+         Galway United            0-1  Bohemian FC
+         UC Dublin                2-3  Derry City
+  20.00  Finn Harps               2-1  Cobh Ramblers
+  20.20  St Patrick's Athletic    3-1  Sligo Rovers
+[Sat Mar/8]
+  17.30  Drogheda United          0-1  Shamrock Rovers
+
+
+Matchday 2
+[Fri Mar/14]
+  19.45  Bohemian FC              0-1  St Patrick's Athletic
+         Bray Wanderers           0-2  UC Dublin
+         Derry City               2-1  Finn Harps
+  20.00  Shamrock Rovers          1-1  Cork City
+[Sat Mar/15]
+  19.45  Cobh Ramblers            1-1  Galway United
+  20.00  Sligo Rovers             0-0  Drogheda United
+
+
+Matchday 3
+[Fri Mar/21]
+  19.35  Cork City                1-1  Derry City
+  19.45  Drogheda United          3-0  Cobh Ramblers
+         St Patrick's Athletic    1-0  Galway United
+  20.00  Finn Harps               1-0  UC Dublin
+         Shamrock Rovers          2-0  Bray Wanderers
+         Sligo Rovers             1-2  Bohemian FC
+
+
+Matchday 4
+[Fri Mar/28]
+  19.45  Bohemian FC              3-0  Finn Harps
+         Bray Wanderers           0-3  St Patrick's Athletic
+         Derry City               2-0  Drogheda United
+         UC Dublin                0-0  Sligo Rovers
+[Sat Mar/29]
+  19.00  Galway United            0-2  Shamrock Rovers
+  19.45  Cobh Ramblers            0-0  Cork City
+
+
+Matchday 5
+[Fri Apr/4]
+  19.45  Bray Wanderers           1-0  Finn Harps
+         Cork City                1-0  UC Dublin
+         Drogheda United          1-0  Galway United
+         St Patrick's Athletic    0-1  Derry City
+  20.00  Shamrock Rovers          0-1  Bohemian FC
+[Sat Apr/5]
+  20.00  Sligo Rovers             3-1  Cobh Ramblers
+
+
+Matchday 6
+[Fri Apr/11]
+  19.45  Bohemian FC              1-1  Bray Wanderers
+         Derry City               0-0  Sligo Rovers
+         Galway United            1-3  Cork City
+         UC Dublin                1-3  Drogheda United
+  20.00  Finn Harps               0-3  St Patrick's Athletic
+[Sat Apr/12]
+  19.45  Cobh Ramblers            2-0  Shamrock Rovers
+
+
+Matchday 7
+[Fri Apr/18]
+  19.45  Bray Wanderers           1-0  Derry City
+         Cork City                3-0  Finn Harps
+         St Patrick's Athletic    1-0  Cobh Ramblers
+  20.00  Shamrock Rovers          1-1  UC Dublin
+[Sat Apr/19]
+  20.00  Sligo Rovers             3-0  Galway United
+[Sun Apr/20]
+  19.00  Drogheda United          1-2  Bohemian FC
+
+
+Matchday 8
+[Fri Apr/25]
+  19.45  Bohemian FC              0-0  Derry City
+         Cork City                0-2  Drogheda United
+         Galway United            2-3  Bray Wanderers
+         Cobh Ramblers            0-0  UC Dublin
+  20.00  Finn Harps               0-1  Sligo Rovers
+[Sun Apr/27]
+  19.00  Shamrock Rovers          0-1  St Patrick's Athletic
+
+
+Matchday 9
+[Fri May/2]
+  19.45  Bray Wanderers           1-0  Cobh Ramblers
+         Derry City               0-0  Galway United
+         Drogheda United          1-0  Finn Harps
+         UC Dublin                1-1  Bohemian FC
+[Sat May/3]
+  20.00  Sligo Rovers             3-2  Shamrock Rovers
+[Sun May/4]
+  19.00  St Patrick's Athletic    3-2  Cork City
+
+
+Matchday 10
+[Fri May/9]
+  19.45  Bray Wanderers           1-0  Drogheda United
+         Cork City                1-0  Sligo Rovers
+         Galway United            2-2  Finn Harps
+         St Patrick's Athletic    0-0  UC Dublin
+  20.00  Shamrock Rovers          1-1  Derry City
+[Sat May/10]
+  19.45  Cobh Ramblers            0-1  Bohemian FC
+
+
+Matchday 11
+[Fri May/16]
+  19.45  Derry City               1-0  Cobh Ramblers
+         Drogheda United          2-2  St Patrick's Athletic
+         UC Dublin                0-1  Galway United
+  20.00  Finn Harps               1-1  Shamrock Rovers
+[Sat May/17]
+  20.00  Sligo Rovers             3-0  Bray Wanderers
+[Sun May/18]
+  19.00  Bohemian FC              2-1  Cork City
+
+
+Matchday 12
+[Fri May/23]
+  19.45  Bohemian FC              2-1  Galway United
+         Bray Wanderers           0-3  Cork City
+         Derry City               4-1  UC Dublin
+         Cobh Ramblers            1-3  Finn Harps
+  20.00  Shamrock Rovers          0-0  Drogheda United
+         Sligo Rovers             1-2  St Patrick's Athletic
+
+
+Matchday 13
+[Mon May/26]
+  19.45  Galway United            0-1  Cobh Ramblers
+[Tue May/27]
+  19.45  Cork City                1-1  Shamrock Rovers
+         Drogheda United          1-1  Sligo Rovers
+         UC Dublin                2-2  Bray Wanderers
+  20.00  Finn Harps               0-2  Derry City
+         St Patrick's Athletic    0-1  Bohemian FC
+
+
+Matchday 14
+[Fri May/30]
+  19.15  Bohemian FC              3-0  Sligo Rovers
+  19.45  Bray Wanderers           1-0  Shamrock Rovers
+         UC Dublin                1-0  Finn Harps
+  20.00  Galway United            2-2  St Patrick's Athletic
+[Sat May/31]
+  20.00  Cobh Ramblers            0-4  Drogheda United
+[Sun Jun/1]
+  19.00  Derry City               2-3  Cork City
+
+
+Matchday 15
+[Fri Jun/20]
+  19.45  Cork City                5-0  Cobh Ramblers
+         Drogheda United          0-1  Derry City
+         St Patrick's Athletic    1-1  Bray Wanderers
+  20.00  Shamrock Rovers          3-1  Galway United
+[Sat Jun/21]
+  20.00  Sligo Rovers             0-0  UC Dublin
+[Tue Jun/24]
+  20.00  Finn Harps               0-2  Bohemian FC
+
+
+Matchday 16
+[Fri Jun/27]
+  19.45  Derry City               0-3  St Patrick's Athletic
+         Galway United            0-1  Drogheda United
+         UC Dublin                0-2  Cork City
+  20.00  Finn Harps               1-0  Bray Wanderers
+[Sat Jun/28]
+  19.45  Cobh Ramblers            1-3  Sligo Rovers
+[Tue Aug/5]
+  20.00  Bohemian FC              2-1  Shamrock Rovers
+
+
+Matchday 17
+[Fri Jul/4]
+  19.45  Cork City                3-2  Galway United
+         Drogheda United          2-1  UC Dublin
+  20.00  Shamrock Rovers          0-0  Cobh Ramblers
+[Sat Jul/5]
+  20.00  Sligo Rovers             0-0  Derry City
+[Sun Jul/6]
+  19.00  St Patrick's Athletic    5-1  Finn Harps
+[Tue Jul/15]
+  19.45  Bray Wanderers           0-2  Bohemian FC
+
+
+Matchday 18
+[Fri Jul/11]
+  19.45  Derry City               4-0  Bray Wanderers
+         Galway United            1-1  Sligo Rovers
+         UC Dublin                0-2  Shamrock Rovers
+  20.00  Finn Harps               0-1  Cork City
+[Sat Jul/12]
+  19.45  Cobh Ramblers            0-1  St Patrick's Athletic
+[Tue Aug/26]
+  19.45  Bohemian FC              2-0  Drogheda United
+
+
+Matchday 19
+[Fri Jul/18]
+  19.45  Bray Wanderers           0-1  Galway United
+         Derry City               0-0  Bohemian FC
+[Sat Jul/19]
+  18.00  UC Dublin                1-1  Cobh Ramblers
+  20.00  Sligo Rovers             4-1  Finn Harps
+[Sun Jul/20]
+  15.00  Drogheda United          0-1  Cork City
+[Mon Jul/21]
+  19.45  St Patrick's Athletic    1-1  Shamrock Rovers
+
+
+Matchday 20
+[Fri Jul/25]
+  19.45  Bohemian FC              2-0  UC Dublin
+         Galway United            0-4  Derry City
+  20.00  Shamrock Rovers          1-0  Sligo Rovers
+[Sat Jul/26]
+  19.45  Cobh Ramblers            1-2  Bray Wanderers
+[Sun Jul/27]
+  19.00  Cork City                0-0  St Patrick's Athletic
+[Fri Sep/12]
+  19.45  Finn Harps               1-3  Drogheda United
+
+
+Matchday 21
+[Fri Aug/1]
+  19.45  Bohemian FC              3-0  Cobh Ramblers
+         Derry City               0-1  Shamrock Rovers
+         Drogheda United          2-0  Bray Wanderers
+  20.00  Finn Harps               0-2  Galway United
+[Sun Aug/3]
+  15.00  UC Dublin                0-3  St Patrick's Athletic
+         Sligo Rovers             0-1  Cork City
+
+
+Matchday 22
+[Fri Aug/8]
+  19.45  Bray Wanderers           0-0  Sligo Rovers
+         Cork City                0-1  Bohemian FC
+         Galway United            1-2  UC Dublin
+  20.00  Shamrock Rovers          0-2  Finn Harps
+[Sat Aug/9]
+  19.45  Cobh Ramblers            0-3  Derry City
+[Sun Aug/10]
+  19.00  St Patrick's Athletic    0-1  Drogheda United
+
+
+Matchday 23
+[Fri Aug/22]
+  19.45  Cork City                3-0  Bray Wanderers
+         Drogheda United          1-1  Shamrock Rovers
+         Galway United            0-2  Bohemian FC
+         UC Dublin                1-2  Derry City
+  20.00  Finn Harps               2-2  Cobh Ramblers
+[Sun Aug/24]
+  19.00  St Patrick's Athletic    1-0  Sligo Rovers
+
+
+Matchday 24
+[Fri Aug/29]
+  19.45  Bray Wanderers           2-1  UC Dublin
+         Derry City               1-0  Finn Harps
+  20.00  Shamrock Rovers          3-0  Cork City
+[Sat Aug/30]
+  19.45  Cobh Ramblers            4-1  Galway United
+  20.00  Sligo Rovers             3-3  Drogheda United
+[Mon Sep/8]
+  19.45  Bohemian FC              3-0  St Patrick's Athletic
+
+
+Matchday 25
+[Fri Sep/5]
+  20.00  Finn Harps               2-0  UC Dublin
+         Sligo Rovers             0-1  Bohemian FC
+[Mon Sep/8]
+  19.45  Cork City                1-1  Derry City
+[Tue Sep/30]
+  19.45  Drogheda United          0-0  Cobh Ramblers
+[Tue Oct/7]
+  20.00  Shamrock Rovers          2-2  Bray Wanderers
+[Mon Oct/20]
+  19.45  St Patrick's Athletic    0-1  Galway United
+
+
+Matchday 26
+[Fri Sep/19]
+  19.45  Bohemian FC              3-0  Finn Harps
+         Bray Wanderers           0-1  St Patrick's Athletic
+         Derry City               0-1  Drogheda United
+         Galway United            1-1  Shamrock Rovers
+         UC Dublin                0-1  Sligo Rovers
+[Sat Sep/20]
+  19.45  Cobh Ramblers            1-1  Cork City
+
+
+Matchday 27
+[Fri Sep/26]
+  19.35  Shamrock Rovers          1-2  Bohemian FC
+  19.45  Bray Wanderers           0-1  Finn Harps
+         Cork City                2-0  UC Dublin
+         Drogheda United          1-1  Galway United
+[Sat Sep/27]
+  20.00  Sligo Rovers             4-0  Cobh Ramblers
+[Mon Nov/10]
+  19.45  St Patrick's Athletic    2-1  Derry City
+
+
+Matchday 28
+[Fri Oct/3]
+  19.35  Bohemian FC              2-1  Bray Wanderers
+         Finn Harps               0-1  St Patrick's Athletic
+  19.45  Derry City               1-1  Sligo Rovers
+         Galway United            3-2  Cork City
+         UC Dublin                1-0  Drogheda United
+[Sat Oct/4]
+  19.45  Cobh Ramblers            1-0  Shamrock Rovers
+
+
+Matchday 29
+[Fri Oct/10]
+  19.35  Drogheda United          1-2  Bohemian FC
+  19.45  Bray Wanderers           2-1  Derry City
+         Cork City                1-1  Finn Harps
+         St Patrick's Athletic    0-3  Cobh Ramblers
+  20.00  Shamrock Rovers          1-1  UC Dublin
+[Sat Oct/11]
+  20.00  Sligo Rovers             1-1  Galway United
+
+
+Matchday 30
+[Fri Oct/17]
+  19.35  Finn Harps               0-2  Sligo Rovers
+  19.45  Bohemian FC              0-1  Derry City
+         Cork City                0-0  Drogheda United
+         Galway United            4-0  Bray Wanderers
+[Sat Oct/18]
+  19.45  Cobh Ramblers            2-0  UC Dublin
+  20.00  Shamrock Rovers          1-3  St Patrick's Athletic
+
+
+Matchday 31
+[Fri Oct/31]
+  19.35  Bray Wanderers           3-2  Cobh Ramblers
+  19.45  Drogheda United          1-2  Finn Harps
+         UC Dublin                0-1  Bohemian FC
+[Sat Nov/1]
+  20.00  Sligo Rovers             2-1  Shamrock Rovers
+[Sun Nov/2]
+  19.00  Derry City               2-0  Galway United
+[Tue Nov/4]
+  19.45  St Patrick's Athletic    0-1  Cork City
+
+
+Matchday 32
+[Fri Nov/7]
+  19.35  Galway United            3-0  Finn Harps
+  19.45  Bray Wanderers           4-3  Drogheda United
+         Cork City                0-0  Sligo Rovers
+         St Patrick's Athletic    2-0  UC Dublin
+  20.00  Shamrock Rovers          1-1  Derry City
+[Sat Nov/8]
+  19.45  Cobh Ramblers            0-2  Bohemian FC
+
+
+Matchday 33
+[Fri Nov/14]
+  19.35  Bohemian FC              3-1  Cork City
+         Derry City               4-2  Cobh Ramblers
+         Drogheda United          0-2  St Patrick's Athletic
+         Finn Harps               2-0  Shamrock Rovers
+         Sligo Rovers             2-0  Bray Wanderers
+         UC Dublin                0-1  Galway United

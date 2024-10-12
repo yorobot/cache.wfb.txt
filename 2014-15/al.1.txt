@@ -1,0 +1,361 @@
+= AL 1 2014/15
+
+# Date       Sat Aug/23 2014 - Fri May/22 2015 (272d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Aug/23]
+  17.00  KF Elbasani              0-1 (0-1)  KF Skënderbeu
+  20.00  Flamurtari Vlorë         2-1 (2-0)  KF Teuta Durrës
+[Sun Aug/24]
+  17.00  KF Tiranë                3-0  KF Apolonia Fier
+         FK Vllaznia              1-2  FK Kukësi
+         KF Laçi                  1-1  FK Partizani
+
+
+Matchday 2
+[Sat Aug/30]
+  17.00  KF Skënderbeu            2-0  KF Laçi
+  19.00  KF Apolonia Fier         1-0  FK Partizani
+  20.00  KF Tiranë                1-0  Flamurtari Vlorë
+[Sun Aug/31]
+  17.00  FK Kukësi                3-0  KF Elbasani
+         KF Teuta Durrës          0-1  FK Vllaznia
+
+
+Matchday 3
+[Wed Sep/10]
+  16.00  Flamurtari Vlorë         3-0  KF Apolonia Fier
+         KF Elbasani              1-5  KF Teuta Durrës
+         KF Laçi                  0-0  FK Kukësi
+[Thu Sep/11]
+  16.00  FK Vllaznia              1-1  KF Tiranë
+  19.00  FK Partizani             1-0  KF Skënderbeu
+
+
+Matchday 4
+[Sun Sep/14]
+  14.00  FK Kukësi                0-1  FK Partizani
+  17.00  KF Tiranë                2-1  KF Elbasani
+         Flamurtari Vlorë         0-0  FK Vllaznia
+  20.00  KF Teuta Durrës          0-0  KF Laçi
+         KF Apolonia Fier         0-0  KF Skënderbeu
+
+
+Matchday 5
+[Fri Sep/19]
+  19.00  KF Skënderbeu            2-0  FK Kukësi
+         FK Partizani             2-0  KF Teuta Durrës
+[Sat Sep/20]
+  14.00  KF Laçi                  2-0  KF Tiranë
+         KF Elbasani              0-2  Flamurtari Vlorë
+         FK Vllaznia              2-0  KF Apolonia Fier
+
+
+Matchday 6
+[Fri Sep/26]
+  17.00  KF Apolonia Fier         0-1  FK Kukësi
+  20.00  KF Tiranë                0-0  FK Partizani
+[Sat Sep/27]
+  16.00  FK Vllaznia              1-0  KF Elbasani
+  19.00  Flamurtari Vlorë         1-1  KF Laçi
+         KF Teuta Durrës          2-0  KF Skënderbeu
+
+
+Matchday 7
+[Sat Oct/4]
+  17.00  FK Partizani             0-0  Flamurtari Vlorë
+  20.00  KF Skënderbeu            0-0  KF Tiranë
+[Sun Oct/5]
+  13.00  KF Elbasani              2-0  KF Apolonia Fier
+         FK Kukësi                1-0  KF Teuta Durrës
+         KF Laçi                  3-0  FK Vllaznia
+
+
+Matchday 8
+[Fri Oct/17]
+  19.00  Flamurtari Vlorë         1-1  KF Skënderbeu
+[Sat Oct/18]
+  14.00  KF Tiranë                3-1  FK Kukësi
+  17.00  KF Elbasani              0-2  KF Laçi
+[Sun Oct/19]
+  13.00  KF Apolonia Fier         1-0  KF Teuta Durrës
+         FK Vllaznia              0-1  FK Partizani
+
+
+Matchday 9
+[Sat Oct/25]
+  14.00  KF Skënderbeu            3-0  FK Vllaznia
+         FK Kukësi                2-0  Flamurtari Vlorë
+[Sun Oct/26]
+  14.00  KF Laçi                  3-1  KF Apolonia Fier
+  17.00  KF Teuta Durrës          0-1  KF Tiranë
+         FK Partizani             1-0  KF Elbasani
+
+
+Matchday 10
+[Wed Oct/29]
+  14.00  FK Kukësi                2-1  FK Vllaznia
+         KF Skënderbeu            1-0  KF Elbasani
+  17.00  KF Apolonia Fier         0-3  KF Tiranë
+         FK Partizani             2-0  KF Laçi
+         KF Teuta Durrës          1-0  Flamurtari Vlorë
+
+
+Matchday 11
+[Sun Nov/2]
+  13.00  KF Elbasani              0-2  FK Kukësi
+         FK Vllaznia              1-2  KF Teuta Durrës
+         KF Laçi                  0-2  KF Skënderbeu
+  16.00  FK Partizani             1-0  KF Apolonia Fier
+  19.00  Flamurtari Vlorë         0-0  KF Tiranë
+
+
+Matchday 12
+[Sat Nov/8]
+  14.00  KF Teuta Durrës          0-2  KF Elbasani
+  17.00  KF Tiranë                1-0  FK Vllaznia
+         KF Skënderbeu            3-0  FK Partizani
+[Sun Nov/9]
+  13.00  FK Kukësi                1-0  KF Laçi
+  16.00  KF Apolonia Fier         1-1  Flamurtari Vlorë
+
+
+Matchday 13
+[Sat Nov/22]
+  17.00  FK Vllaznia              1-0  Flamurtari Vlorë
+[Sun Nov/23]
+  14.00  KF Laçi                  3-0  KF Teuta Durrës
+         KF Skënderbeu            6-0  KF Apolonia Fier
+  17.00  KF Elbasani              2-3  KF Tiranë
+         FK Partizani             2-0  FK Kukësi
+
+
+Matchday 14
+[Sat Nov/29]
+  17.00  KF Apolonia Fier         0-1  FK Vllaznia
+[Sun Nov/30]
+  14.00  KF Tiranë                0-0  KF Laçi
+         FK Kukësi                1-0  KF Skënderbeu
+  17.00  KF Teuta Durrës          0-1  FK Partizani
+[Mon Dec/1]
+  17.00  Flamurtari Vlorë         2-0  KF Elbasani
+
+
+Matchday 15
+[Sat Dec/6]
+  13.00  FK Kukësi                0-0  KF Apolonia Fier
+         KF Skënderbeu            3-2  KF Teuta Durrës
+[Sun Dec/7]
+  13.00  KF Laçi                  1-1  Flamurtari Vlorë
+         KF Elbasani              1-4  FK Vllaznia
+[Mon Dec/8]
+  18.00  FK Partizani             2-0  KF Tiranë
+
+
+Matchday 16
+[Fri Dec/12]
+  13.00  KF Teuta Durrës          0-3  FK Kukësi
+[Sat Dec/13]
+  13.00  KF Tiranë                2-0  KF Skënderbeu
+         FK Vllaznia              1-0  KF Laçi
+  16.00  Flamurtari Vlorë         1-0  FK Partizani
+         KF Apolonia Fier         0-1  KF Elbasani
+
+
+Matchday 17
+[Wed Dec/17]
+  13.00  FK Kukësi                1-0  KF Tiranë
+         KF Laçi                  1-0  KF Elbasani
+         KF Teuta Durrës          1-0  KF Apolonia Fier
+  16.00  KF Skënderbeu            1-0  Flamurtari Vlorë
+         FK Partizani             0-1  FK Vllaznia
+
+
+Matchday 18
+[Sat Dec/20]
+  13.00  KF Apolonia Fier         0-2  KF Laçi
+  16.00  KF Elbasani              0-1  FK Partizani
+[Sun Dec/21]
+  17.00  KF Tiranë                4-2  KF Teuta Durrës
+         FK Vllaznia              0-1  KF Skënderbeu
+         Flamurtari Vlorë         0-1  FK Kukësi
+
+
+Matchday 19
+[Sat Jan/24]
+  14.00  KF Tiranë                2-0  KF Apolonia Fier
+  17.00  FK Vllaznia              1-2  FK Kukësi
+         Flamurtari Vlorë         2-1  KF Teuta Durrës
+[Sun Jan/25]
+  14.00  KF Laçi                  1-1  FK Partizani
+  17.00  KF Elbasani              1-4  KF Skënderbeu
+
+
+Matchday 20
+[Fri Jan/30]
+  18.00  KF Tiranë                1-0  Flamurtari Vlorë
+[Sat Jan/31]
+  14.00  FK Kukësi                3-0  KF Elbasani
+         KF Teuta Durrës          2-1  FK Vllaznia
+         KF Skënderbeu            0-0  KF Laçi
+  17.00  KF Apolonia Fier         0-2  FK Partizani
+
+
+Matchday 21
+[Sun Feb/8]
+  14.00  KF Elbasani              1-0  KF Teuta Durrës
+         KF Laçi                  2-1  FK Kukësi
+  17.00  FK Vllaznia              0-1  KF Tiranë
+         Flamurtari Vlorë         1-0  KF Apolonia Fier
+[Mon Feb/9]
+  18.00  FK Partizani             0-0  KF Skënderbeu
+
+
+Matchday 22
+[Sat Feb/14]
+  14.00  KF Tiranë                2-0  KF Elbasani
+         FK Kukësi                3-0  FK Partizani
+         KF Teuta Durrës          1-3  KF Laçi
+  17.00  Flamurtari Vlorë         3-0  FK Vllaznia
+         KF Apolonia Fier         0-1  KF Skënderbeu
+
+
+Matchday 23
+[Sun Feb/22]
+  14.00  KF Laçi                  3-0  KF Tiranë
+         FK Vllaznia              2-0  KF Apolonia Fier
+  17.00  KF Elbasani              0-1  Flamurtari Vlorë
+         FK Partizani             2-1  KF Teuta Durrës
+[Mon Feb/23]
+  18.00  KF Skënderbeu            1-1  FK Kukësi
+
+
+Matchday 24
+[Sat Feb/28]
+  14.00  KF Apolonia Fier         2-2  FK Kukësi
+         KF Teuta Durrës          0-1  KF Skënderbeu
+         FK Vllaznia              1-1  KF Elbasani
+[Thu Mar/12]
+  17.00  Flamurtari Vlorë         0-2  KF Laçi
+[Fri Mar/13]
+  19.00  KF Tiranë                1-2  FK Partizani
+
+
+Matchday 25
+[Wed Mar/4]
+  14.00  FK Partizani             2-1  Flamurtari Vlorë
+         FK Kukësi                5-2  KF Teuta Durrës
+         KF Laçi                  1-0  FK Vllaznia
+  17.00  KF Skënderbeu            1-0  KF Tiranë
+[Thu Mar/5]
+  14.00  KF Elbasani              0-1  KF Apolonia Fier
+
+
+Matchday 26
+[Sun Mar/8]
+  14.00  KF Elbasani              0-2  KF Laçi
+         KF Apolonia Fier         2-1  KF Teuta Durrës
+  17.00  KF Tiranë                2-0  FK Kukësi
+         FK Vllaznia              1-0  FK Partizani
+  18.00  Flamurtari Vlorë         0-1  KF Skënderbeu
+
+
+Matchday 27
+[Sun Mar/15]
+  14.00  KF Skënderbeu            3-1  FK Vllaznia
+[Mon Mar/16]
+  15.00  KF Laçi                  2-0  KF Apolonia Fier
+         FK Kukësi                4-0  Flamurtari Vlorë
+  18.00  KF Teuta Durrës          0-0  KF Tiranë
+         FK Partizani             4-1  KF Elbasani
+
+
+Matchday 28
+[Sat Mar/21]
+  14.00  FK Kukësi                1-0  FK Vllaznia
+         KF Teuta Durrës          1-0  Flamurtari Vlorë
+  17.00  KF Skënderbeu            5-1  KF Elbasani
+[Sun Mar/22]
+  14.00  KF Apolonia Fier         0-2  KF Tiranë
+  17.00  FK Partizani             1-0  KF Laçi
+
+
+Matchday 29
+[Sat Apr/4]
+  13.00  KF Elbasani              0-4  FK Kukësi
+         FK Vllaznia              1-0  KF Teuta Durrës
+  14.00  KF Laçi                  1-0  KF Skënderbeu
+  17.00  Flamurtari Vlorë         1-2  KF Tiranë
+         FK Partizani             1-0  KF Apolonia Fier
+
+
+Matchday 30
+[Sun Apr/12]
+  14.00  KF Apolonia Fier         2-1  Flamurtari Vlorë
+         KF Teuta Durrës          1-0  KF Elbasani
+  17.00  KF Tiranë                2-1  FK Vllaznia
+[Mon Apr/13]
+  15.00  FK Kukësi                0-0  KF Laçi
+  18.00  KF Skënderbeu            5-2  FK Partizani
+
+
+Matchday 31
+[Fri Apr/17]
+  16.00  KF Laçi                  1-0  KF Teuta Durrës
+[Sat Apr/18]
+  14.00  KF Elbasani              1-3  KF Tiranë
+         FK Vllaznia              1-1  Flamurtari Vlorë
+  17.00  FK Partizani             1-1  FK Kukësi
+         KF Skënderbeu            1-0  KF Apolonia Fier
+
+
+Matchday 32
+[Sat Apr/25]
+  14.00  Flamurtari Vlorë         2-1  KF Elbasani
+  17.00  KF Teuta Durrës          0-1  FK Partizani
+         KF Apolonia Fier         2-0  FK Vllaznia
+[Sun Apr/26]
+  16.00  FK Kukësi                0-1  KF Skënderbeu
+  19.00  KF Tiranë                1-0  KF Laçi
+
+
+Matchday 33
+[Sat May/2]
+  14.00  KF Elbasani              1-1  FK Vllaznia
+  16.00  KF Laçi                  2-1  Flamurtari Vlorë
+         FK Kukësi                2-1  KF Apolonia Fier
+  19.00  KF Skënderbeu            4-2  KF Teuta Durrës
+[Mon May/4]
+  20.45  FK Partizani             2-2  KF Tiranë
+
+
+Matchday 34
+[Sat May/9]
+  16.00  KF Teuta Durrës          2-3  FK Kukësi
+         FK Vllaznia              0-1  KF Laçi
+         Flamurtari Vlorë         0-1  FK Partizani
+         KF Apolonia Fier         4-1  KF Elbasani
+  19.00  KF Tiranë                0-0  KF Skënderbeu
+
+
+Matchday 35
+[Sat May/16]
+  19.30  KF Skënderbeu            2-0  Flamurtari Vlorë
+[Sun May/17]
+  17.00  KF Teuta Durrës          1-0  KF Apolonia Fier
+         FK Partizani             1-0  FK Vllaznia
+         FK Kukësi                4-1  KF Tiranë
+         KF Laçi                  2-0  KF Elbasani
+
+
+Matchday 36
+[Fri May/22]
+  17.00  Flamurtari Vlorë         1-2  FK Kukësi
+         KF Elbasani              0-3  FK Partizani
+         KF Tiranë                1-0  KF Teuta Durrës
+         KF Apolonia Fier         1-4  KF Laçi
+  18.00  FK Vllaznia              0-2  KF Skënderbeu

@@ -1,0 +1,82 @@
+= AD 1 2013
+
+# Date       Sun Mar/3 - Sun Apr/21 2013 (49d)
+# Teams      8
+# Matches    24
+# Stages     Relegation (12)  Playoff (12)
+
+
+== Relegation
+
+Matchday 1
+[Sun Mar/3]
+  16.00  CE Principat             0-1  Inter Club d'Escaldes
+  18.00  UE Engordany             1-1  FC Encamp
+
+
+Matchday 2
+[Sun Mar/10]
+  12.00  FC Encamp                0-2  CE Principat
+         UE Engordany             2-1  Inter Club d'Escaldes
+
+
+Matchday 3
+[Sun Mar/17]
+  16.00  Inter Club d'Escaldes    1-0  FC Encamp
+  18.00  CE Principat             2-1  UE Engordany
+
+
+Matchday 4
+[Sun Apr/7]
+  16.00  FC Encamp                2-1  UE Engordany
+  18.00  Inter Club d'Escaldes    2-1  CE Principat
+
+
+Matchday 5
+[Sun Apr/14]
+  12.00  CE Principat             1-0  FC Encamp
+         Inter Club d'Escaldes    3-0  UE Engordany
+
+
+Matchday 6
+[Sun Apr/21]
+  12.00  UE Engordany             1-0  CE Principat
+         FC Encamp                1-0  Inter Club d'Escaldes
+
+
+== Playoff
+
+Matchday 1
+[Sun Mar/3]
+  12.00  FC Santa Coloma          2-2  UE Santa Coloma
+         FC Lusitanos             2-0  UE Sant Julià
+
+
+Matchday 2
+[Sun Mar/10]
+  18.00  UE Sant Julià            0-0  FC Santa Coloma
+  16.00  FC Lusitanos             2-1  UE Santa Coloma
+
+
+Matchday 3
+[Sun Mar/17]
+  12.00  FC Santa Coloma          0-0  FC Lusitanos
+         UE Santa Coloma          1-4  UE Sant Julià
+
+
+Matchday 4
+[Sun Apr/7]
+  12.00  UE Santa Coloma          1-2  FC Santa Coloma
+         UE Sant Julià            2-4  FC Lusitanos
+
+
+Matchday 5
+[Sun Apr/14]
+  18.00  UE Santa Coloma          2-1  FC Lusitanos
+  16.00  FC Santa Coloma          1-0  UE Sant Julià
+
+
+Matchday 6
+[Sun Apr/21]
+  16.00  FC Lusitanos             1-1  FC Santa Coloma
+  18.00  UE Sant Julià            0-1  UE Santa Coloma

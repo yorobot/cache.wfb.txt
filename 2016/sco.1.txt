@@ -1,0 +1,88 @@
+= SCO 1 2016
+
+# Date       Fri Apr/22 - Sun May/15 2016 (23d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Fri Apr/22]
+  19.45  St. Johnstone FC         3-0 (2-0)  Aberdeen FC
+[Sat Apr/23]
+  15.00  Motherwell FC            1-0 (1-0)  Heart of Midlothian
+[Sun Apr/24]
+  15.00  Celtic FC                1-1 (1-0)  Ross County FC
+
+
+Matchday 2
+[Sat Apr/30]
+  12.30  Heart of Midlothian      1-3 (0-1)  Celtic FC
+  15.00  Aberdeen FC              4-1 (2-0)  Motherwell FC
+         Ross County FC           0-1 (0-0)  St. Johnstone FC
+
+
+Matchday 3
+[Sat May/7]
+  15.00  Heart of Midlothian      1-1 (0-0)  Ross County FC
+         Motherwell FC            1-2 (1-2)  St. Johnstone FC
+[Sun May/8]
+  12.30  Celtic FC                3-2 (2-0)  Aberdeen FC
+
+
+Matchday 4
+[Wed May/11]
+  19.30  St. Johnstone FC         2-1 (0-0)  Celtic FC
+  19.45  Ross County FC           1-3 (0-2)  Motherwell FC
+[Thu May/12]
+  19.45  Aberdeen FC              0-1 (0-0)  Heart of Midlothian
+
+
+Matchday 5
+[Sun May/15]
+  12.30  Aberdeen FC              0-4 (0-2)  Ross County FC
+         Celtic FC                7-0 (3-0)  Motherwell FC
+         Heart of Midlothian      2-2 (2-2)  St. Johnstone FC
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/23]
+  15.00  Partick Thistle          1-2 (0-1)  Dundee FC
+[Sun Apr/24]
+  12.30  Inverness CT             3-1 (0-1)  Kilmarnock FC
+  15.00  Dundee United            1-3 (0-1)  Hamilton Academical
+
+
+Matchday 2
+[Sat Apr/30]
+  15.00  Hamilton Academical      0-4 (0-2)  Kilmarnock FC
+         Partick Thistle          1-4 (0-1)  Inverness CT
+[Mon May/2]
+  19.45  Dundee FC                2-1 (0-0)  Dundee United
+
+
+Matchday 3
+[Fri May/6]
+  19.45  Inverness CT             2-3 (0-2)  Dundee United
+[Sat May/7]
+  15.00  Dundee FC                0-1 (0-1)  Hamilton Academical
+         Kilmarnock FC            0-2 (0-1)  Partick Thistle
+
+
+Matchday 4
+[Tue May/10]
+  19.45  Dundee United            3-3 (0-2)  Partick Thistle
+[Wed May/11]
+  19.45  Dundee FC                1-1 (1-0)  Kilmarnock FC
+         Hamilton Academical      0-1 (0-1)  Inverness CT
+
+
+Matchday 5
+[Sat May/14]
+  12.30  Inverness CT             4-0 (0-0)  Dundee FC
+         Kilmarnock FC            2-4 (2-1)  Dundee United
+         Partick Thistle          2-2 (2-2)  Hamilton Academical

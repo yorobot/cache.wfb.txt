@@ -1,0 +1,90 @@
+= UEFA NL B 2024/25
+
+# Date       Fri Sep/6 - Tue Nov/19 2024 (74d)
+# Teams      16
+# Matches    48
+
+
+
+Gruppe 1
+[Sat Sep/7]
+  18.00  Georgien                 4-1 (1-0)  Tschechien
+  20.45  Ukraine                  1-2 (0-0)  Albanien
+[Tue Sep/10]
+  20.45  Albanien                 0-1 (0-0)  Georgien
+         Tschechien               3-2 (2-1)  Ukraine
+[Fri Oct/11]
+  20.45  Tschechien               -  Albanien
+         Ukraine                  -  Georgien
+[Mon Oct/14]
+  18.00  Georgien                 -  Albanien
+  20.45  Ukraine                  -  Tschechien
+[Sat Nov/16]
+  18.00  Georgien                 -  Ukraine
+  20.45  Albanien                 -  Tschechien
+[Tue Nov/19]
+  20.45  Albanien                 -  Ukraine
+         Tschechien               -  Georgien
+
+
+Gruppe 2
+[Sat Sep/7]
+  18.00  Irland                   0-2 (0-2)  England
+  20.45  Griechenland             3-0 (2-0)  Finnland
+[Tue Sep/10]
+  20.45  England                  2-0 (0-0)  Finnland
+         Irland                   0-2 (0-0)  Griechenland
+[Thu Oct/10]
+  20.45  England                  1-2 (0-0)  Griechenland
+         Finnland                 1-2 (1-0)  Irland
+[Sun Oct/13]
+  18.00  Finnland                 -  England
+  20.45  Griechenland             -  Irland
+[Thu Nov/14]
+  20.45  Griechenland             -  England
+         Irland                   -  Finnland
+[Sun Nov/17]
+  18.00  England                  -  Irland
+         Finnland                 -  Griechenland
+
+
+Gruppe 3
+[Fri Sep/6]
+  16.00  Kasachstan               0-0  Norwegen
+  20.45  Slowenien                1-1 (1-1)  Österreich
+[Mon Sep/9]
+  20.45  Norwegen                 2-1 (1-1)  Österreich
+         Slowenien                3-0 (2-0)  Kasachstan
+[Thu Oct/10]
+  20.45  Österreich               4-0 (1-0)  Kasachstan
+         Norwegen                 3-0 (1-0)  Slowenien
+[Sun Oct/13]
+  15.00  Kasachstan               -  Slowenien
+  20.45  Österreich               -  Norwegen
+[Thu Nov/14]
+  16.00  Kasachstan               -  Österreich
+  20.45  Slowenien                -  Norwegen
+[Sun Nov/17]
+  18.00  Österreich               -  Slowenien
+         Norwegen                 -  Kasachstan
+
+
+Gruppe 4
+[Fri Sep/6]
+  20.45  Island                   2-0 (1-0)  Montenegro
+         Wales                    0-0  Türkei
+[Mon Sep/9]
+  20.45  Montenegro               1-2 (0-2)  Wales
+         Türkei                   3-1 (1-1)  Island
+[Fri Oct/11]
+  20.45  Island                   -  Wales
+         Türkei                   -  Montenegro
+[Mon Oct/14]
+  20.45  Island                   -  Türkei
+         Wales                    -  Montenegro
+[Sat Nov/16]
+  18.00  Montenegro               -  Island
+         Türkei                   -  Wales
+[Tue Nov/19]
+  20.45  Montenegro               -  Türkei
+         Wales                    -  Island

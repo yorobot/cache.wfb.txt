@@ -1,0 +1,519 @@
+= BO 1 2024
+
+# Date       Fri Feb/16 - Tue Nov/5 2024 (263d)
+# Teams      16
+# Matches    254
+# Stages     Apertura (64)  Apertura Playoffs (14)  Clausura (176)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/16]
+  20.00  Always Ready             1-1 (1-1)  Universitario de Vinto
+[Sat Feb/17]
+  20.00  Real Santa Cruz          1-2 (1-0)  Real Tomayapo
+  17.30  Bolívar                  3-1 (1-1)  GV San José
+[Sun Feb/18]
+  15.00  Nacional Potosí          3-3 (1-2)  Blooming
+  17.30  CD Guabirá               2-1 (1-0)  Independiente Petrolero
+  19.30  Jorge Wilstermann        3-0 (1-0)  Oriente Petrolero
+
+
+Matchday 2
+[Tue Feb/20]
+  18.00  Real Tomayapo            2-2 (0-1)  San Antonio Bulo Bulo
+  20.00  The Strongest            3-0 (1-0)  Real Santa Cruz
+[Wed Feb/21]
+  15.00  Universitario de Vinto   1-0 (0-0)  CD Guabirá
+  20.00  Oriente Petrolero        0-2 (0-0)  Bolívar
+[Thu Feb/22]
+  11.00  GV San José              2-2 (2-0)  Jorge Wilstermann
+  15.00  Royal Pari               0-1 (0-0)  Nacional Potosí
+[Fri Feb/23]
+  15.00  Independiente Petrolero  1-1 (0-0)  Always Ready
+
+
+Matchday 3
+[Sat Feb/24]
+  15.00  San Antonio Bulo Bulo    0-0  Universitario de Vinto
+  17.30  CD Guabirá               1-2 (0-1)  Real Santa Cruz
+[Sun Feb/25]
+  17.30  Bolívar                  4-4 (2-1)  The Strongest
+  15.00  Club Aurora              1-0 (0-0)  Jorge Wilstermann
+  19.30  Blooming                 2-1 (2-1)  Oriente Petrolero
+[Mon Feb/26]
+  20.00  Real Tomayapo            0-2 (0-1)  Royal Pari
+[Tue Feb/27]
+  20.00  Independiente Petrolero  1-1 (0-0)  Nacional Potosí
+
+
+Matchday 1
+[Wed Feb/28]
+  15.00  San Antonio Bulo Bulo    5-1 (4-1)  The Strongest
+
+
+Matchday 4
+[Fri Mar/1]
+  20.00  Royal Pari               1-2 (0-0)  Blooming
+[Sat Mar/2]
+  15.00  The Strongest            2-1 (0-0)  Real Tomayapo
+  17.30  Jorge Wilstermann        1-2 (0-0)  Bolívar
+  20.00  CD Guabirá               3-1 (1-0)  Always Ready
+[Sun Mar/3]
+  17.30  Universitario de Vinto   2-1 (1-1)  Independiente Petrolero
+  15.00  Nacional Potosí          1-0 (0-0)  Club Aurora
+  19.30  GV San José              1-3 (1-0)  Oriente Petrolero
+[Mon Mar/4]
+  15.00  Real Santa Cruz          0-3 (0-2)  San Antonio Bulo Bulo
+
+
+Matchday 5
+[Fri Mar/8]
+  15.00  Real Santa Cruz          1-1 (1-0)  CD Guabirá
+  20.30  Royal Pari               1-1 (0-1)  Real Tomayapo
+[Sat Mar/9]
+  15.00  Universitario de Vinto   1-0 (0-0)  San Antonio Bulo Bulo
+  17.30  Always Ready             1-1 (1-1)  GV San José
+  19.55  Nacional Potosí          3-1 (2-0)  Independiente Petrolero
+[Sun Mar/10]
+  15.00  Jorge Wilstermann        1-1 (1-1)  Club Aurora
+  19.30  Oriente Petrolero        0-0  Blooming
+  17.30  The Strongest            2-1 (1-1)  Bolívar
+
+
+Matchday 6
+[Tue Mar/12]
+  18.00  Always Ready             1-0 (0-0)  CD Guabirá
+  20.00  Independiente Petrolero  1-0 (1-0)  Universitario de Vinto
+[Wed Mar/13]
+  15.00  San Antonio Bulo Bulo    2-1 (1-1)  Real Santa Cruz
+  18.00  Club Aurora              4-1 (3-0)  Nacional Potosí
+  19.55  Real Tomayapo            2-0 (0-0)  The Strongest
+[Thu Mar/14]
+  18.00  Oriente Petrolero        1-0 (0-0)  GV San José
+  20.00  Bolívar                  2-1 (2-0)  Jorge Wilstermann
+[Fri Mar/15]
+  20.00  Blooming                 0-2 (0-2)  Royal Pari
+
+
+Matchday 1
+[Wed Mar/20]
+  19.00  Club Aurora              4-1 (2-1)  Royal Pari
+
+
+Matchday 3
+[Thu Mar/28]
+  15.00  GV San José              1-0 (1-0)  Always Ready
+
+
+Matchday 2
+[Thu Mar/28]
+  20.00  Blooming                 1-0 (0-0)  Club Aurora
+
+
+Matchday 7
+[Sat Mar/30]
+  17.30  CD Guabirá               3-1 (1-1)  Universitario de Vinto
+  20.00  Nacional Potosí          2-0 (0-0)  Royal Pari
+  15.00  San Antonio Bulo Bulo    3-0 (3-0)  Real Tomayapo
+[Sun Mar/31]
+  17.30  Bolívar                  4-2 (1-2)  Oriente Petrolero
+  19.30  Club Aurora              4-2 (1-2)  Blooming
+  15.00  Always Ready             0-1 (0-1)  Independiente Petrolero
+[Mon Apr/1]
+  20.00  Jorge Wilstermann        3-4 (0-2)  GV San José
+
+
+Matchday 8
+[Fri Apr/5]
+  18.00  The Strongest            2-0 (1-0)  San Antonio Bulo Bulo
+[Sat Apr/6]
+  16.00  Royal Pari               0-0  Club Aurora
+         Blooming                 2-1 (0-1)  Nacional Potosí
+  18.00  Universitario de Vinto   2-1 (0-1)  Always Ready
+[Sun Apr/7]
+  19.30  Real Tomayapo            2-1 (2-0)  Real Santa Cruz
+  16.00  Oriente Petrolero        2-1 (0-0)  Jorge Wilstermann
+         GV San José              2-1 (1-0)  Bolívar
+[Mon Apr/8]
+  19.00  Independiente Petrolero  3-2 (1-0)  CD Guabirá
+
+
+Matchday 7
+[Thu Apr/11]
+  19.00  Real Santa Cruz          2-3 (0-0)  The Strongest
+
+
+== Apertura Playoffs
+
+Quarterfinals
+[Sun Apr/14]
+  17.30  GV San José              0-2 (0-0)  The Strongest
+  19.30  Nacional Potosí          0-1 (0-0)  Universitario de Vinto
+  15.00  San Antonio Bulo Bulo    1-0 (1-0)  Bolívar
+[Mon Apr/15]
+  19.00  Independiente Petrolero  0-1 (0-0)  Club Aurora
+[Wed Apr/17]
+  20.00  The Strongest            2-1 (1-1)  GV San José
+  15.00  Universitario de Vinto   3-1 (0-0)  Nacional Potosí
+[Thu Apr/18]
+  19.00  Bolívar                  1-1 (0-1)  San Antonio Bulo Bulo
+  20.00  Club Aurora              4-5 pen. (2-3, 1-1)  Independiente Petrolero
+
+
+Semifinals
+[Sat Apr/20]
+  17.30  Universitario de Vinto   0-1 (0-0)  The Strongest
+[Mon Apr/22]
+  15.00  San Antonio Bulo Bulo    6-1 (3-1)  Independiente Petrolero
+[Sun Apr/28]
+  18.00  Independiente Petrolero  3-1 (2-1)  San Antonio Bulo Bulo
+  16.00  The Strongest            8-9 pen. (1-2, 1-1)  Universitario de Vinto
+
+
+Final
+[Wed May/1]
+  15.00  Universitario de Vinto   1-2 (0-2)  San Antonio Bulo Bulo
+[Sun May/5]
+  15.00  San Antonio Bulo Bulo    1-1 (1-0)  Universitario de Vinto
+
+
+== Clausura
+
+Matchday 1
+[Fri May/10]
+  20.00  Real Tomayapo            2-0 (0-0)  GV San José
+[Sat May/11]
+  17.30  Always Ready             1-0 (1-0)  Blooming
+  20.00  The Strongest            2-1 (1-1)  Nacional Potosí
+  15.00  San Antonio Bulo Bulo    3-2 (0-1)  CD Guabirá
+[Sun May/12]
+  17.30  Club Aurora              3-1 (3-1)  Oriente Petrolero
+  19.30  Real Santa Cruz          0-2 (0-1)  Jorge Wilstermann
+  15.00  Independiente Petrolero  0-1 (0-1)  Bolívar
+[Mon May/13]
+  19.00  Universitario de Vinto   2-1 (1-0)  Royal Pari
+
+
+Matchday 2
+[Fri May/17]
+  20.00  Blooming                 1-0 (1-0)  San Antonio Bulo Bulo
+[Sat May/18]
+  17.30  Nacional Potosí          1-0 (1-0)  Real Santa Cruz
+  20.00  Oriente Petrolero        2-1 (0-0)  Universitario de Vinto
+  15.00  GV San José              2-2 (1-2)  Independiente Petrolero
+[Sun May/19]
+  17.30  Bolívar                  4-1 (1-0)  Real Tomayapo
+  19.30  Jorge Wilstermann        0-0  The Strongest
+  15.00  CD Guabirá               1-1 (0-1)  Club Aurora
+[Mon May/20]
+  19.00  Royal Pari               0-2 (0-0)  Always Ready
+
+
+Matchday 3
+[Tue May/21]
+  20.00  Independiente Petrolero  3-2 (2-1)  Oriente Petrolero
+[Wed May/22]
+  19.00  Club Aurora              1-1 (0-1)  Bolívar
+  20.30  Blooming                 3-0 (1-0)  Jorge Wilstermann
+  15.00  Real Tomayapo            0-1 (0-0)  Universitario de Vinto
+[Thu May/23]
+  18.00  Always Ready             2-1 (0-1)  Nacional Potosí
+  20.00  The Strongest            3-2 (2-1)  CD Guabirá
+  15.00  San Antonio Bulo Bulo    0-3 (0-1)  Royal Pari
+
+
+Matchday 4
+[Sat May/25]
+  19.00  Blooming                 1-0 (0-0)  Real Tomayapo
+  15.00  Universitario de Vinto   2-2 (1-1)  Club Aurora
+  17.30  Bolívar                  4-0 (2-0)  Real Santa Cruz
+[Sun May/26]
+  15.00  CD Guabirá               1-1 (1-0)  Nacional Potosí
+  17.30  Jorge Wilstermann        1-0 (1-0)  Always Ready
+  19.30  Oriente Petrolero        0-1 (0-0)  The Strongest
+[Mon May/27]
+  18.00  GV San José              2-0 (1-0)  San Antonio Bulo Bulo
+  20.00  Royal Pari               2-2 (0-1)  Independiente Petrolero
+
+
+Matchday 3
+[Thu May/30]
+  15.00  Real Santa Cruz          2-3 (0-0)  GV San José
+
+
+Matchday 5
+[Fri Jul/12]
+  18.00  Independiente Petrolero  0-0  CD Guabirá
+  20.00  Always Ready             1-1 (0-0)  Real Tomayapo
+[Sat Jul/13]
+  17.30  Club Aurora              2-1 (2-0)  GV San José
+  20.00  The Strongest            1-0 (1-0)  Universitario de Vinto
+  15.00  San Antonio Bulo Bulo    1-2 (1-1)  Oriente Petrolero
+[Sun Jul/14]
+  17.00  Blooming                 0-5 (0-2)  Bolívar
+  15.00  Nacional Potosí          0-0  Jorge Wilstermann
+
+
+Matchday 6
+[Fri Jul/19]
+  20.00  Royal Pari               2-1 (1-1)  Blooming
+  15.00  Universitario de Vinto   1-1 (1-0)  Real Santa Cruz
+[Sat Jul/20]
+  15.00  Real Tomayapo            2-0 (2-0)  Nacional Potosí
+  17.30  GV San José              5-2 (2-2)  The Strongest
+  20.00  Jorge Wilstermann        0-1 (0-1)  San Antonio Bulo Bulo
+[Sun Jul/21]
+  15.00  Independiente Petrolero  2-1 (0-0)  Club Aurora
+  17.30  Bolívar                  0-0  Always Ready
+  19.30  Oriente Petrolero        2-1 (1-0)  CD Guabirá
+
+
+Matchday 7
+[Fri Jul/26]
+  20.00  Blooming                 2-1 (1-1)  Independiente Petrolero
+  15.00  San Antonio Bulo Bulo    1-1 (1-1)  Real Tomayapo
+[Sat Jul/27]
+  15.00  Real Santa Cruz          0-1 (0-0)  Oriente Petrolero
+  17.30  The Strongest            1-1 (1-1)  Club Aurora
+  20.00  Jorge Wilstermann        2-0 (1-0)  Royal Pari
+[Sun Jul/28]
+  17.30  Nacional Potosí          2-1 (1-1)  Bolívar
+  15.00  CD Guabirá               1-0 (0-0)  GV San José
+  19.30  Always Ready             1-2 (1-1)  Universitario de Vinto
+
+
+Matchday 8
+[Tue Jul/30]
+  18.00  Club Aurora              2-3 (2-1)  San Antonio Bulo Bulo
+  20.00  Oriente Petrolero        1-0 (1-0)  Jorge Wilstermann
+[Wed Jul/31]
+  18.00  Bolívar                  4-0 (2-0)  GV San José
+  15.00  Real Tomayapo            2-1 (0-1)  CD Guabirá
+[Thu Aug/1]
+  20.00  Always Ready             0-0  The Strongest
+  15.00  Universitario de Vinto   1-0 (1-0)  Blooming
+
+
+Matchday 9
+[Sat Aug/3]
+  15.00  GV San José              2-0 (0-0)  Oriente Petrolero
+  20.00  Royal Pari               0-1 (0-1)  Bolívar
+[Sun Aug/4]
+  19.30  Jorge Wilstermann        2-1 (2-1)  Real Tomayapo
+  17.30  The Strongest            5-0 (2-0)  Independiente Petrolero
+  15.00  CD Guabirá               4-2 (1-2)  Universitario de Vinto
+[Mon Aug/5]
+  20.00  Blooming                 4-1 (2-1)  Nacional Potosí
+  15.00  Real Santa Cruz          2-2 (2-1)  Club Aurora
+
+
+Matchday 10
+[Wed Aug/7]
+  20.00  Real Tomayapo            3-2 (2-0)  Independiente Petrolero
+  18.00  Oriente Petrolero        0-0  Royal Pari
+  15.00  Universitario de Vinto   1-1 (0-1)  GV San José
+[Thu Aug/8]
+  18.00  Club Aurora              1-0 (0-0)  Blooming
+  15.00  Real Santa Cruz          1-2 (1-2)  The Strongest
+  20.00  Bolívar                  2-0 (0-0)  Jorge Wilstermann
+[Fri Aug/9]
+  18.00  Nacional Potosí          3-1 (1-0)  San Antonio Bulo Bulo
+  20.00  Always Ready             3-0 (2-0)  CD Guabirá
+
+
+Matchday 11
+[Sat Aug/10]
+  18.00  Royal Pari               0-2 (0-2)  Real Tomayapo
+[Sun Aug/11]
+  16.00  Club Aurora              0-0  Jorge Wilstermann
+  19.30  Oriente Petrolero        0-1 (0-1)  Blooming
+[Mon Aug/12]
+  15.00  San Antonio Bulo Bulo    2-1 (1-0)  Universitario de Vinto
+  18.00  GV San José              0-1 (0-0)  Always Ready
+  20.00  Independiente Petrolero  3-3 (0-3)  Nacional Potosí
+[Tue Aug/13]
+  19.00  CD Guabirá               0-1 (0-0)  Real Santa Cruz
+
+
+Matchday 12
+[Fri Aug/16]
+  20.00  Always Ready             2-3 (2-1)  Oriente Petrolero
+[Sat Aug/17]
+  20.00  Blooming                 3-1 (2-1)  Real Santa Cruz
+  17.30  Nacional Potosí          2-1 (0-1)  GV San José
+  15.00  Universitario de Vinto   1-2 (0-0)  Independiente Petrolero
+[Sun Aug/18]
+  17.30  Jorge Wilstermann        3-0 (1-0)  CD Guabirá
+  19.30  Royal Pari               1-1 (0-0)  Club Aurora
+  15.00  Real Tomayapo            2-0 (0-0)  The Strongest
+[Mon Aug/19]
+  20.00  Bolívar                  0-0  San Antonio Bulo Bulo
+
+
+Matchday 8
+[Tue Aug/20]
+  19.00  Independiente Petrolero  3-0 (1-0)  Real Santa Cruz
+[Wed Aug/21]
+  19.00  Nacional Potosí          2-1 (2-1)  Royal Pari
+
+
+Matchday 13
+[Fri Aug/23]
+  19.00  CD Guabirá               4-2 (4-0)  Blooming
+[Sat Aug/24]
+  17.30  GV San José              0-0  Jorge Wilstermann
+  20.00  Independiente Petrolero  3-3 (1-2)  San Antonio Bulo Bulo
+  15.00  Real Santa Cruz          2-1 (1-0)  Always Ready
+[Sun Aug/25]
+  15.00  The Strongest            3-1 (1-0)  Royal Pari
+  19.30  Oriente Petrolero        2-2 (2-2)  Nacional Potosí
+  17.30  Universitario de Vinto   0-1 (0-1)  Bolívar
+[Mon Aug/26]
+  19.00  Club Aurora              0-0  Real Tomayapo
+
+
+Matchday 5
+[Sun Sep/1]
+  15.00  Real Santa Cruz          1-1 (0-0)  Royal Pari
+
+
+Matchday 14
+[Thu Sep/12]
+  19.00  Royal Pari               3-3 (1-2)  CD Guabirá
+[Fri Sep/13]
+  18.00  Jorge Wilstermann        1-1 (1-0)  Universitario de Vinto
+  20.00  Real Tomayapo            2-1 (1-1)  Real Santa Cruz
+[Sat Sep/14]
+  17.30  Nacional Potosí          -  Club Aurora
+  15.00  San Antonio Bulo Bulo    -  The Strongest
+[Sun Sep/15]
+  19.30  Blooming                 -  GV San José
+  17.30  Bolívar                  -  Oriente Petrolero
+  15.00  Always Ready             -  Independiente Petrolero
+
+
+Matchday 11
+[Wed Sep/18]
+  20.00  The Strongest            -  Bolívar
+
+
+Matchday 9
+[Wed Sep/18]
+  15.00  San Antonio Bulo Bulo    -  Always Ready
+
+
+Matchday 15
+[Fri Sep/20]
+  15.00  Universitario de Vinto   -  Nacional Potosí
+  19.00  GV San José              -  Royal Pari
+[Sat Sep/21]
+  17.00  Club Aurora              -  Always Ready
+  20.00  Oriente Petrolero        -  Real Tomayapo
+  15.00  Real Santa Cruz          -  San Antonio Bulo Bulo
+[Sun Sep/22]
+  17.00  Independiente Petrolero  -  Jorge Wilstermann
+  19.00  The Strongest            -  Blooming
+  15.00  CD Guabirá               -  Bolívar
+
+
+Matchday 16
+[Tue Sep/24]
+  15.00  Royal Pari               -  Universitario de Vinto
+  18.00  GV San José              -  Real Tomayapo
+  20.00  Oriente Petrolero        -  Club Aurora
+[Wed Sep/25]
+  18.00  Nacional Potosí          -  The Strongest
+  20.00  Bolívar                  -  Independiente Petrolero
+  15.00  CD Guabirá               -  San Antonio Bulo Bulo
+[Thu Sep/26]
+  20.00  Blooming                 -  Always Ready
+  18.00  Jorge Wilstermann        -  Real Santa Cruz
+
+
+Matchday 17
+[Sat Sep/28]
+  15.00  Independiente Petrolero  -  GV San José
+  17.00  Universitario de Vinto   -  Oriente Petrolero
+[Sun Sep/29]
+  17.00  The Strongest            -  Jorge Wilstermann
+  19.00  Club Aurora              -  CD Guabirá
+  15.00  Real Tomayapo            -  Bolívar
+[Mon Sep/30]
+  19.00  Always Ready             -  Royal Pari
+  15.00  San Antonio Bulo Bulo    -  Blooming
+[Tue Oct/1]
+  15.00  Real Santa Cruz          -  Nacional Potosí
+
+
+Matchday 18
+[Fri Oct/18]
+  15.00  Universitario de Vinto   -  Real Tomayapo
+  19.00  Royal Pari               -  San Antonio Bulo Bulo
+[Sat Oct/19]
+  17.30  Jorge Wilstermann        -  Blooming
+  20.00  Bolívar                  -  Club Aurora
+  15.00  GV San José              -  Real Santa Cruz
+[Sun Oct/20]
+  17.30  Nacional Potosí          -  Always Ready
+  19.30  Oriente Petrolero        -  Independiente Petrolero
+  15.00  CD Guabirá               -  The Strongest
+
+
+Matchday 19
+[Tue Oct/22]
+  15.00  San Antonio Bulo Bulo    -  GV San José
+  18.00  Club Aurora              -  Universitario de Vinto
+  20.00  Blooming                 -  Real Tomayapo
+[Wed Oct/23]
+  18.00  Independiente Petrolero  -  Royal Pari
+  20.00  The Strongest            -  Oriente Petrolero
+  15.00  Real Santa Cruz          -  Bolívar
+[Thu Oct/24]
+  20.00  Always Ready             -  Jorge Wilstermann
+  18.00  Nacional Potosí          -  CD Guabirá
+
+
+Matchday 20
+[Fri Oct/25]
+  19.00  GV San José              -  Club Aurora
+[Sat Oct/26]
+  15.00  Universitario de Vinto   -  The Strongest
+  17.30  Royal Pari               -  Real Santa Cruz
+  20.00  Bolívar                  -  Blooming
+[Sun Oct/27]
+  17.30  CD Guabirá               -  Independiente Petrolero
+  19.30  Jorge Wilstermann        -  Nacional Potosí
+  15.00  Real Tomayapo            -  Always Ready
+[Mon Oct/28]
+  19.00  Oriente Petrolero        -  San Antonio Bulo Bulo
+
+
+Matchday 21
+[Tue Oct/29]
+  15.00  Real Santa Cruz          -  Universitario de Vinto
+  20.00  The Strongest            -  GV San José
+[Wed Oct/30]
+  18.00  Blooming                 -  Royal Pari
+  20.00  Always Ready             -  Bolívar
+  15.00  Nacional Potosí          -  Real Tomayapo
+[Thu Oct/31]
+  18.00  Club Aurora              -  Independiente Petrolero
+  20.00  CD Guabirá               -  Oriente Petrolero
+  15.00  San Antonio Bulo Bulo    -  Jorge Wilstermann
+
+
+Matchday 22
+[Sat Nov/2]
+  15.00  Universitario de Vinto   -  Always Ready
+  17.30  Bolívar                  -  Nacional Potosí
+[Sun Nov/3]
+  17.30  GV San José              -  CD Guabirá
+  19.30  Club Aurora              -  The Strongest
+  15.00  Independiente Petrolero  -  Blooming
+[Mon Nov/4]
+  20.00  Oriente Petrolero        -  Real Santa Cruz
+  18.00  Real Tomayapo            -  San Antonio Bulo Bulo
+[Tue Nov/5]
+  19.00  Royal Pari               -  Jorge Wilstermann

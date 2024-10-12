@@ -1,0 +1,570 @@
+= UY 1 2023
+
+# Date       Sat Feb/4 - Sat Dec/16 2023 (315d)
+# Teams      16
+# Matches    300
+# Stages     Apertura (120)  Clausura (120)  Intermedio (57)  Playoff (3)
+
+
+== Apertura
+
+Matchday 1
+[Sat Feb/4]
+  09.45  Racing                   0-2 (0-0)  Boston River
+  17.00  Peñarol                  2-0 (1-0)  CA Cerro
+  19.30  Cerro Largo              2-1 (0-0)  River Plate
+[Sun Feb/5]
+  09.45  La Luz                   1-3 (0-2)  Montevideo Wanderers
+  18.00  Montevideo City Torque   1-1 (0-0)  Danubio
+  21.00  Nacional                 2-1 (2-0)  Liverpool
+[Mon Feb/6]
+  19.00  Plaza Colonia            0-1 (0-1)  Deportivo Maldonado
+  21.30  Defensor Sporting        1-3 (0-2)  Fénix
+
+
+Matchday 2
+[Fri Feb/10]
+  20.00  Nacional                 0-0  Cerro Largo
+[Sat Feb/11]
+  09.45  Fénix                    1-2 (0-1)  Montevideo City Torque
+  17.00  River Plate              2-0 (1-0)  Plaza Colonia
+  19.30  Deportivo Maldonado      1-1 (1-0)  Racing
+[Sun Feb/12]
+  09.45  Boston River             0-3 (0-2)  CA Cerro
+  17.00  Danubio                  1-1 (0-1)  Liverpool
+[Mon Feb/13]
+  18.30  Montevideo Wanderers     1-1 (0-1)  Defensor Sporting
+  21.00  La Luz                   3-4 (1-2)  Peñarol
+
+
+Matchday 3
+[Fri Feb/17]
+  21.00  Cerro Largo              1-0 (0-0)  Danubio
+[Sat Feb/18]
+  17.00  CA Cerro                 0-0  Deportivo Maldonado
+  19.45  Plaza Colonia            2-1 (0-0)  Nacional
+[Sun Feb/19]
+  09.45  Racing                   0-0  River Plate
+  18.00  Defensor Sporting        1-0 (0-0)  La Luz
+  21.00  Peñarol                  1-0 (1-0)  Boston River
+[Mon Feb/20]
+  17.00  Liverpool                3-1 (1-0)  Fénix
+  20.15  Montevideo City Torque   0-1 (0-0)  Montevideo Wanderers
+
+
+Matchday 4
+[Sat Feb/25]
+  09.45  River Plate              3-2 (2-1)  CA Cerro
+  17.00  Fénix                    0-0  Cerro Largo
+  20.00  Defensor Sporting        2-2 (1-1)  Peñarol
+[Sun Feb/26]
+  09.45  Danubio                  5-0 (1-0)  Plaza Colonia
+  17.00  Deportivo Maldonado      3-2 (1-0)  Boston River
+  20.00  Nacional                 3-1 (2-0)  Racing
+[Mon Feb/27]
+  18.30  La Luz                   1-1 (0-0)  Montevideo City Torque
+  21.00  Montevideo Wanderers     1-1 (1-1)  Liverpool
+
+
+Matchday 5
+[Fri Mar/3]
+  20.00  Racing                   1-1 (0-1)  Danubio
+[Sat Mar/4]
+  09.45  Montevideo City Torque   0-3 (0-2)  Defensor Sporting
+  17.00  CA Cerro                 2-2 (1-1)  Nacional
+  19.30  Boston River             0-0  River Plate
+[Sun Mar/5]
+  09.45  Liverpool                2-3 (1-1)  La Luz
+  17.00  Peñarol                  2-1 (1-1)  Deportivo Maldonado
+  19.30  Cerro Largo              0-0  Montevideo Wanderers
+[Mon Mar/6]
+  19.30  Plaza Colonia            3-1 (1-0)  Fénix
+
+
+Matchday 6
+[Fri Mar/10]
+  19.30  La Luz                   0-3 (0-2)  Cerro Largo
+[Sat Mar/11]
+  17.00  Montevideo Wanderers     0-1 (0-1)  Plaza Colonia
+  19.30  Nacional                 3-1 (1-0)  Boston River
+[Sun Mar/12]
+  09.45  Danubio                  1-0 (1-0)  CA Cerro
+  17.00  Fénix                    0-1 (0-0)  Racing
+  20.00  Peñarol                  2-2 (1-0)  Montevideo City Torque
+[Mon Mar/13]
+  17.00  River Plate              3-1 (0-0)  Deportivo Maldonado
+  19.30  Defensor Sporting        2-2 (1-2)  Liverpool
+
+
+Matchday 7
+[Fri Mar/17]
+  19.15  Plaza Colonia            1-1 (1-1)  La Luz
+[Sat Mar/18]
+  09.45  Liverpool                1-0 (0-0)  Montevideo City Torque
+  17.00  Deportivo Maldonado      0-0  Nacional
+  19.30  Peñarol                  1-0 (0-0)  River Plate
+[Sun Mar/19]
+  09.45  Cerro Largo              0-3 (0-1)  Defensor Sporting
+  16.30  Boston River             3-3 (2-1)  Danubio
+  20.30  Racing                   1-1 (0-1)  Montevideo Wanderers
+[Mon Mar/20]
+  19.15  CA Cerro                 2-0 (1-0)  Fénix
+
+
+Matchday 8
+[Fri Mar/24]
+  21.15  Defensor Sporting        4-0 (2-0)  Plaza Colonia
+[Sat Mar/25]
+  10.00  Danubio                  4-0 (2-0)  Deportivo Maldonado
+  16.00  Liverpool                1-0 (0-0)  Peñarol
+  18.15  Montevideo Wanderers     3-0 (1-0)  CA Cerro
+[Sun Mar/26]
+  10.00  Fénix                    0-0  Boston River
+  18.00  Nacional                 3-0 (1-0)  River Plate
+  20.30  La Luz                   1-3 (0-3)  Racing
+[Mon Mar/27]
+  19.00  Montevideo City Torque   1-2 (1-1)  Cerro Largo
+
+
+Matchday 9
+[Fri Mar/31]
+  16.00  River Plate              2-1 (2-0)  Danubio
+  19.00  Cerro Largo              1-0 (0-0)  Liverpool
+[Sat Apr/1]
+  16.00  Peñarol                  2-0 (0-0)  Nacional
+  19.00  Deportivo Maldonado      2-0 (2-0)  Fénix
+[Sun Apr/2]
+  10.00  CA Cerro                 0-0  La Luz
+  16.00  Boston River             0-1 (0-1)  Montevideo Wanderers
+[Mon Apr/3]
+  16.00  Racing                   0-1 (0-0)  Defensor Sporting
+  19.00  Plaza Colonia            1-2 (0-1)  Montevideo City Torque
+
+
+Matchday 10
+[Fri Apr/7]
+  19.00  Montevideo Wanderers     0-1 (0-1)  Deportivo Maldonado
+[Sat Apr/8]
+  10.00  Fénix                    0-0  River Plate
+  16.00  Defensor Sporting        1-1 (1-1)  CA Cerro
+  18.30  Montevideo City Torque   0-2 (0-0)  Racing
+[Sun Apr/9]
+  15.30  Danubio                  0-0  Nacional
+  18.00  Cerro Largo              0-0  Peñarol
+[Mon Apr/10]
+  15.30  Liverpool                3-1 (1-0)  Plaza Colonia
+  20.15  La Luz                   2-1 (1-1)  Boston River
+
+
+Matchday 11
+[Fri Apr/14]
+  20.00  Nacional                 4-0 (3-0)  Fénix
+[Sat Apr/15]
+  10.00  Racing                   1-1 (0-1)  Liverpool
+  15.30  Peñarol                  2-0 (1-0)  Danubio
+  20.30  Plaza Colonia            2-0 (1-0)  Cerro Largo
+[Sun Apr/16]
+  13.00  Boston River             1-0 (0-0)  Defensor Sporting
+  15.30  River Plate              1-2 (0-1)  Montevideo Wanderers
+  20.30  CA Cerro                 0-2 (0-1)  Montevideo City Torque
+[Mon Apr/17]
+  19.15  La Luz                   4-2 (2-1)  Deportivo Maldonado
+
+
+Matchday 12
+[Fri Apr/21]
+  19.00  Cerro Largo              2-1 (2-1)  Racing
+[Sat Apr/22]
+  12.30  Montevideo City Torque   1-1 (0-1)  Boston River
+  18.00  La Luz                   2-2 (0-1)  River Plate
+  20.30  Defensor Sporting        1-1 (0-1)  Deportivo Maldonado
+[Sun Apr/23]
+  15.30  Fénix                    2-1 (1-1)  Danubio
+  18.30  Plaza Colonia            1-2 (1-1)  Peñarol
+[Mon Apr/24]
+  15.30  Liverpool                1-1 (1-0)  CA Cerro
+  20.00  Montevideo Wanderers     0-1 (0-0)  Nacional
+
+
+Matchday 13
+[Fri Apr/28]
+  15.30  Boston River             1-3 (1-1)  Liverpool
+  20.00  Peñarol                  2-0 (1-0)  Fénix
+[Sat Apr/29]
+  10.00  Danubio                  0-2 (0-1)  Montevideo Wanderers
+  16.00  CA Cerro                 0-0  Cerro Largo
+  19.00  Nacional                 3-0 (2-0)  La Luz
+[Sun Apr/30]
+  10.00  River Plate              0-4 (0-3)  Defensor Sporting
+  18.00  Deportivo Maldonado      3-2 (2-1)  Montevideo City Torque
+[Wed May/3]
+  15.30  Racing                   1-1 (1-1)  Plaza Colonia
+
+
+Matchday 14
+[Fri May/5]
+  19.00  Cerro Largo              2-2 (0-2)  Boston River
+[Sat May/6]
+  17.30  Montevideo Wanderers     0-3 (0-0)  Fénix
+[Sun May/7]
+  10.00  Liverpool                4-2 (3-0)  Deportivo Maldonado
+  15.00  La Luz                   3-1 (1-0)  Danubio
+  18.00  Defensor Sporting        2-2 (1-1)  Nacional
+  20.30  Montevideo City Torque   1-1 (1-1)  River Plate
+[Mon May/8]
+  15.30  Plaza Colonia            1-1 (1-1)  CA Cerro
+  20.00  Racing                   0-2 (0-0)  Peñarol
+
+
+Matchday 15
+[Fri May/12]
+  19.00  Deportivo Maldonado      0-0  Cerro Largo
+[Sat May/13]
+  12.30  River Plate              2-0 (0-0)  Liverpool
+  15.30  Peñarol                  1-1 (1-0)  Montevideo Wanderers
+[Sun May/14]
+  10.00  Fénix                    0-2 (0-0)  La Luz
+  15.00  Danubio                  1-1 (1-0)  Defensor Sporting
+  18.00  Montevideo City Torque   0-4 (0-4)  Nacional
+[Mon May/15]
+  15.00  Boston River             1-1 (1-1)  Plaza Colonia
+  19.00  CA Cerro                 1-0 (1-0)  Racing
+
+
+== Clausura
+
+Matchday 1
+[Fri Aug/18]
+  19.00  Deportivo Maldonado      0-0  Plaza Colonia
+[Sat Aug/19]
+  10.00  River Plate              0-0  Cerro Largo
+  12.30  Fénix                    1-1 (0-1)  Defensor Sporting
+  15.30  CA Cerro                 1-1 (1-0)  Peñarol
+  18.00  Montevideo Wanderers     0-1 (0-0)  La Luz
+[Sun Aug/20]
+  10.00  Boston River             1-0 (1-0)  Racing
+  12.30  Danubio                  0-1 (0-0)  Montevideo City Torque
+  15.30  Liverpool                0-0  Nacional
+
+
+Matchday 2
+[Fri Aug/25]
+  15.30  Montevideo City Torque   1-1 (0-1)  Fénix
+  18.00  Defensor Sporting        3-0 (1-0)  Montevideo Wanderers
+[Sat Aug/26]
+  13.00  Plaza Colonia            0-1 (0-0)  River Plate
+  15.30  Liverpool                1-0 (1-0)  Danubio
+  18.00  Cerro Largo              2-2 (1-1)  Nacional
+[Sun Aug/27]
+  10.00  CA Cerro                 1-2 (0-1)  Boston River
+  12.30  Racing                   1-1 (0-1)  Deportivo Maldonado
+  15.30  Peñarol                  2-2 (1-2)  La Luz
+
+
+Matchday 3
+[Fri Sep/1]
+  19.00  Montevideo Wanderers     2-1 (2-0)  Montevideo City Torque
+[Sat Sep/2]
+  12.30  Danubio                  2-0 (1-0)  Cerro Largo
+  15.30  Boston River             0-1 (0-0)  Peñarol
+  20.00  La Luz                   1-1 (1-0)  Defensor Sporting
+[Sun Sep/3]
+  10.00  Fénix                    1-0 (1-0)  Liverpool
+  15.00  River Plate              0-0  Racing
+  18.00  Nacional                 0-0  Plaza Colonia
+  20.30  Deportivo Maldonado      2-1 (1-0)  CA Cerro
+
+
+Matchday 4
+[Thu Oct/5]
+  20.00  Racing                   1-2 (1-1)  Nacional
+[Fri Oct/6]
+  20.00  Montevideo City Torque   1-0 (1-0)  La Luz
+[Sat Oct/7]
+  12.30  Cerro Largo              1-0 (0-0)  Fénix
+  15.00  Liverpool                2-1 (2-0)  Montevideo Wanderers
+  18.30  Peñarol                  2-1 (1-1)  Defensor Sporting
+[Sun Oct/8]
+  13.00  Plaza Colonia            1-0 (0-0)  Danubio
+  15.30  Boston River             2-0 (0-0)  Deportivo Maldonado
+  18.00  CA Cerro                 1-0 (1-0)  River Plate
+
+
+Matchday 5
+[Fri Oct/13]
+  16.00  Fénix                    1-4 (0-3)  Plaza Colonia
+  18.30  Defensor Sporting        2-0 (1-0)  Montevideo City Torque
+  21.00  Deportivo Maldonado      0-1 (0-1)  Peñarol
+[Sat Oct/14]
+  10.00  Danubio                  0-2 (0-1)  Racing
+  16.30  La Luz                   0-2 (0-0)  Liverpool
+  19.00  Montevideo Wanderers     1-1 (0-0)  Cerro Largo
+[Sun Oct/15]
+  15.15  River Plate              2-1 (1-1)  Boston River
+  18.30  Nacional                 2-1 (1-1)  CA Cerro
+
+
+Matchday 6
+[Wed Oct/18]
+  12.00  Liverpool                2-0 (1-0)  Defensor Sporting
+  14.30  Plaza Colonia            1-0 (1-0)  Montevideo Wanderers
+  17.00  Cerro Largo              1-3 (0-1)  La Luz
+  19.30  Montevideo City Torque   2-3 (2-2)  Peñarol
+[Thu Oct/19]
+  12.00  Racing                   2-0 (2-0)  Fénix
+  14.30  Deportivo Maldonado      0-0  River Plate
+  17.00  CA Cerro                 1-1 (0-1)  Danubio
+  20.15  Boston River             2-0 (1-0)  Nacional
+
+
+Matchday 7
+[Sat Oct/21]
+  19.00  Defensor Sporting        2-0 (0-0)  Cerro Largo
+[Sun Oct/22]
+  13.00  Fénix                    1-1 (0-0)  CA Cerro
+  16.00  River Plate              0-3 (0-2)  Peñarol
+  19.00  La Luz                   1-1 (1-1)  Plaza Colonia
+[Mon Oct/23]
+  17.00  Montevideo City Torque   2-3 (0-1)  Liverpool
+  20.15  Nacional                 1-3 (1-1)  Deportivo Maldonado
+[Tue Oct/24]
+  16.00  Danubio                  1-1 (0-0)  Boston River
+  19.30  Montevideo Wanderers     1-2 (1-0)  Racing
+
+
+Matchday 8
+[Fri Nov/3]
+  19.00  CA Cerro                 0-1 (0-1)  Montevideo Wanderers
+[Sat Nov/4]
+  14.30  Boston River             1-1 (1-0)  Fénix
+  17.00  Cerro Largo              1-2 (0-1)  Montevideo City Torque
+  20.00  River Plate              0-3 (0-1)  Nacional
+[Sun Nov/5]
+  14.30  Racing                   1-1 (1-0)  La Luz
+  17.00  Plaza Colonia            0-2 (0-0)  Defensor Sporting
+  20.00  Peñarol                  0-1 (0-1)  Liverpool
+[Mon Nov/6]
+  19.00  Deportivo Maldonado      1-2 (0-0)  Danubio
+
+
+Matchday 9
+[Fri Nov/10]
+  16.30  Liverpool                3-0 (3-0)  Cerro Largo
+  19.00  Montevideo City Torque   2-2 (1-0)  Plaza Colonia
+  21.30  Defensor Sporting        3-0 (1-0)  Racing
+[Sat Nov/11]
+  10.00  Danubio                  0-0  River Plate
+  16.30  Nacional                 2-2 (1-0)  Peñarol
+  19.30  La Luz                   1-2 (0-1)  CA Cerro
+[Sun Nov/12]
+  16.30  Fénix                    1-0 (0-0)  Deportivo Maldonado
+  19.00  Montevideo Wanderers     0-2 (0-1)  Boston River
+
+
+Matchday 10
+[Tue Nov/14]
+  16.30  Racing                   1-0 (0-0)  Montevideo City Torque
+  19.00  Plaza Colonia            0-0  Liverpool
+  21.30  Peñarol                  1-1 (0-1)  Cerro Largo
+[Wed Nov/15]
+  16.30  CA Cerro                 1-1 (1-0)  Defensor Sporting
+  19.00  Deportivo Maldonado      3-0 (1-0)  Montevideo Wanderers
+  21.30  Nacional                 1-3 (1-1)  Danubio
+[Thu Nov/16]
+  10.00  River Plate              1-0 (1-0)  Fénix
+  16.30  Boston River             1-2 (0-2)  La Luz
+
+
+Matchday 11
+[Sat Nov/18]
+  16.30  Cerro Largo              4-0 (3-0)  Plaza Colonia
+  19.00  Montevideo City Torque   1-0 (1-0)  CA Cerro
+[Sun Nov/19]
+  10.00  Liverpool                2-3 (1-0)  Racing
+  16.30  Danubio                  2-1 (2-0)  Peñarol
+  19.00  Deportivo Maldonado      1-0 (0-0)  La Luz
+  21.30  Montevideo Wanderers     2-1 (0-1)  River Plate
+[Mon Nov/20]
+  16.30  Fénix                    1-1 (0-1)  Nacional
+  19.00  Defensor Sporting        2-0 (1-0)  Boston River
+
+
+Matchday 12
+[Fri Nov/24]
+  16.30  Boston River             2-0 (1-0)  Montevideo City Torque
+  19.00  CA Cerro                 0-1 (0-0)  Liverpool
+  21.30  Peñarol                  0-0  Plaza Colonia
+[Sat Nov/25]
+  10.00  Racing                   1-0 (0-0)  Cerro Largo
+  16.30  Danubio                  0-0  Fénix
+  19.00  Deportivo Maldonado      2-1 (1-1)  Defensor Sporting
+[Sun Nov/26]
+  16.30  River Plate              1-0 (0-0)  La Luz
+  19.30  Nacional                 3-1 (3-0)  Montevideo Wanderers
+
+
+Matchday 13
+[Tue Nov/28]
+  16.30  Fénix                    0-1 (0-0)  Peñarol
+  19.00  Plaza Colonia            0-1 (0-0)  Racing
+  21.15  Montevideo City Torque   5-1 (2-0)  Deportivo Maldonado
+[Wed Nov/29]
+  16.30  Liverpool                2-0 (1-0)  Boston River
+  19.00  Montevideo Wanderers     3-0 (1-0)  Danubio
+  21.15  Defensor Sporting        0-1 (0-0)  River Plate
+[Thu Nov/30]
+  17.30  Cerro Largo              0-0  CA Cerro
+  20.30  La Luz                   0-1 (0-0)  Nacional
+
+
+Matchday 14
+[Sat Dec/2]
+  10.00  Fénix                    1-1 (1-0)  Montevideo Wanderers
+  16.30  River Plate              1-2 (1-1)  Montevideo City Torque
+  19.00  Peñarol                  1-1 (0-0)  Racing
+  21.30  Deportivo Maldonado      0-2 (0-0)  Liverpool
+[Sun Dec/3]
+  10.00  Boston River             0-1 (0-0)  Cerro Largo
+  16.30  Danubio                  2-1 (1-0)  La Luz
+[Mon Dec/4]
+  17.00  CA Cerro                 1-1 (1-0)  Plaza Colonia
+  20.30  Nacional                 1-0 (0-0)  Defensor Sporting
+
+
+Matchday 15
+[Wed Dec/6]
+  17.00  Montevideo Wanderers     0-0  Peñarol
+         Liverpool                2-1 (1-0)  River Plate
+  19.30  Cerro Largo              2-0 (1-0)  Deportivo Maldonado
+[Thu Dec/7]
+  17.00  La Luz                   0-2 (0-0)  Fénix
+         Defensor Sporting        0-2 (0-1)  Danubio
+         Nacional                 1-1 (0-1)  Montevideo City Torque
+         Racing                   0-1 (0-0)  CA Cerro
+[Fri Dec/8]
+  17.00  Plaza Colonia            3-2 (0-1)  Boston River
+
+
+== Intermedio
+
+Gruppe A
+[Fri Jun/2]
+  20.00  La Luz                   3-2 (0-0)  Peñarol
+[Sat Jun/3]
+  17.30  Montevideo Wanderers     1-1 (1-0)  Danubio
+[Sun Jun/4]
+  15.00  River Plate              0-1 (0-1)  Boston River
+[Mon Jun/5]
+  20.15  Montevideo City Torque   1-1 (1-0)  Defensor Sporting
+[Fri Jun/16]
+  15.00  Danubio                  1-0 (0-0)  Montevideo City Torque
+[Sat Jun/17]
+  15.00  Boston River             4-0 (2-0)  La Luz
+[Sun Jun/18]
+  15.30  Peñarol                  1-3 (1-1)  River Plate
+  18.00  Defensor Sporting        2-0 (0-0)  Montevideo Wanderers
+[Fri Jun/23]
+  19.00  La Luz                   0-2 (0-2)  Danubio
+[Sat Jun/24]
+  12.30  River Plate              1-1 (0-1)  Defensor Sporting
+  18.00  Montevideo Wanderers     0-0  Peñarol
+[Sun Jun/25]
+  17.30  Montevideo City Torque   3-1 (1-0)  Boston River
+[Sat Jul/1]
+  17.00  Defensor Sporting        3-0 (1-0)  La Luz
+  19.30  Montevideo Wanderers     4-0 (0-0)  River Plate
+[Sun Jul/2]
+  10.00  Boston River             1-0 (0-0)  Danubio
+[Mon Jul/3]
+  19.30  Peñarol                  2-0 (0-0)  Montevideo City Torque
+[Fri Jul/7]
+  20.00  La Luz                   2-3 (2-0)  Montevideo Wanderers
+[Sat Jul/8]
+  15.00  Danubio                  1-0 (0-0)  Peñarol
+[Sun Jul/9]
+  15.00  Boston River             0-1 (0-0)  Defensor Sporting
+[Mon Jul/10]
+  19.00  Montevideo City Torque   0-1 (0-0)  River Plate
+[Fri Jul/14]
+  20.00  Defensor Sporting        2-1 (1-0)  Danubio
+[Sun Jul/16]
+  12.00  River Plate              0-0  La Luz
+  15.00  Peñarol                  2-1 (2-0)  Boston River
+  18.00  Montevideo Wanderers     1-1 (1-0)  Montevideo City Torque
+[Fri Jul/21]
+  20.00  La Luz                   1-3 (1-2)  Montevideo City Torque
+[Sat Jul/22]
+  15.00  Danubio                  0-0  River Plate
+[Sun Jul/23]
+  12.00  Boston River             0-1 (0-1)  Montevideo Wanderers
+  15.00  Peñarol                  2-1 (0-0)  Defensor Sporting
+
+
+Gruppe B
+[Fri Jun/2]
+  15.00  Liverpool                3-2 (0-0)  Racing
+[Sat Jun/3]
+  15.00  CA Cerro                 1-1 (1-0)  Nacional
+[Sun Jun/4]
+  12.30  Plaza Colonia            3-3 (2-0)  Cerro Largo
+[Mon Jun/5]
+  18.00  Deportivo Maldonado      1-1 (1-0)  Fénix
+[Fri Jun/16]
+  19.00  Cerro Largo              1-3 (0-0)  Liverpool
+[Sat Jun/17]
+  10.00  Fénix                    0-0  CA Cerro
+  18.00  Nacional                 4-0 (1-0)  Deportivo Maldonado
+[Sun Jun/18]
+  10.00  Racing                   4-1 (1-0)  Plaza Colonia
+[Fri Jun/23]
+  15.00  Liverpool                3-0 (1-0)  Nacional
+[Sat Jun/24]
+  15.00  Plaza Colonia            1-1 (0-0)  Fénix
+[Sun Jun/25]
+  10.00  CA Cerro                 1-2 (0-1)  Racing
+  15.00  Deportivo Maldonado      0-0  Cerro Largo
+[Sun Jul/2]
+  12.30  Fénix                    3-0 (3-0)  Racing
+  15.00  Cerro Largo              0-1 (0-0)  CA Cerro
+[Mon Jul/3]
+  15.00  Liverpool                3-2 (1-2)  Deportivo Maldonado
+[Wed Jul/5]
+  19.30  Nacional                 4-1 (1-0)  Plaza Colonia
+[Sat Jul/8]
+  12.00  CA Cerro                 1-0 (0-0)  Liverpool
+  17.30  Cerro Largo              2-1 (1-0)  Fénix
+[Sun Jul/9]
+  12.30  Plaza Colonia            1-3 (1-2)  Deportivo Maldonado
+  18.00  Racing                   2-2 (1-1)  Nacional
+[Sat Jul/15]
+  12.30  Liverpool                2-2 (1-2)  Plaza Colonia
+  15.00  Cerro Largo              2-0 (0-0)  Racing
+  19.00  Nacional                 0-1 (0-0)  Fénix
+[Mon Jul/17]
+  19.00  Deportivo Maldonado      1-2 (0-1)  CA Cerro
+[Fri Jul/21]
+  15.00  Fénix                    0-1 (0-0)  Liverpool
+[Sat Jul/22]
+  12.15  Racing                   2-0 (1-0)  Deportivo Maldonado
+  19.30  Nacional                 1-0 (1-0)  Cerro Largo
+[Mon Jul/24]
+  19.00  CA Cerro                 0-0  Plaza Colonia
+
+
+Final
+[Sun Jul/30]
+  16.00  Defensor Sporting        0-1 (0-0)  Liverpool
+
+
+== Playoff
+
+Semifinals
+[Sat Dec/9]
+  19.30  Liverpool                0-1 a.e.t. (0-0)  Peñarol
+
+
+Final
+[Wed Dec/13]
+  17.00  Liverpool                2-0 (0-0)  Peñarol
+[Sat Dec/16]
+  19.00  Peñarol                  0-1 (0-1)  Liverpool

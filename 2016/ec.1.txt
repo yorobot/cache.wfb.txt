@@ -1,0 +1,510 @@
+= EC 1 2016
+
+# Date       Fri Feb/5 - Sat Dec/10 2016 (309d)
+# Teams      12
+# Matches    264
+# Stages     Primera Etapa (132)  Segunda Etapa (132)
+
+
+== Primera Etapa
+
+Matchday 1
+[Fri Feb/5]
+  19.00  Club Deportivo River Plate Ecuador  3-1 (1-0)  Mushuc Runa
+  19.30  Emelec                   2-2 (1-1)  Universidad Catolica
+[Sun Feb/7]
+  11.00  Independiente del Valle  2-1 (0-0)  Deportivo Cuenca
+  11.15  El Nacional              2-1 (1-1)  Barcelona
+  12.00  Delfín SC                2-0 (0-0)  LDU Quito
+  16.00  Fuerza Amarilla          2-1 (0-0)  Aucas
+
+
+Matchday 2
+[Fri Feb/12]
+  20.00  Deportivo Cuenca         0-0  El Nacional
+[Sat Feb/13]
+  12.00  Universidad Catolica     1-0 (0-0)  Fuerza Amarilla
+  15.00  Aucas                    3-1 (0-1)  Club Deportivo River Plate Ecuador
+[Sun Feb/14]
+  11.30  Mushuc Runa              0-3 (0-2)  Emelec
+  16.30  Barcelona                2-1 (2-0)  Delfín SC
+[Wed Mar/23]
+  19.15  LDU Quito                0-0  Independiente del Valle
+
+
+Matchday 3
+[Wed Feb/17]
+  16.00  Fuerza Amarilla          0-0  Mushuc Runa
+  19.00  Delfín SC                2-1 (1-0)  Deportivo Cuenca
+         Universidad Catolica     0-1 (0-1)  Aucas
+  19.30  Club Deportivo River Plate Ecuador  0-3 (0-2)  Barcelona
+[Wed Mar/9]
+  19.00  Independiente del Valle  1-0 (0-0)  El Nacional
+[Wed Jun/29]
+  20.00  Emelec                   1-0 (0-0)  LDU Quito
+
+
+Matchday 4
+[Sun Feb/21]
+  11.15  El Nacional              2-0 (1-0)  Delfín SC
+  11.30  Mushuc Runa              2-1 (1-0)  Universidad Catolica
+  17.00  Barcelona                2-1 (0-0)  Fuerza Amarilla
+[Mon Feb/22]
+  20.00  Deportivo Cuenca         0-1 (0-0)  Emelec
+[Wed Mar/30]
+  15.00  Aucas                    1-0 (1-0)  Independiente del Valle
+[Wed May/11]
+  19.15  LDU Quito                2-1 (1-0)  Club Deportivo River Plate Ecuador
+
+
+Matchday 5
+[Sat Feb/27]
+  15.00  Fuerza Amarilla          1-0 (1-0)  LDU Quito
+  19.00  Club Deportivo River Plate Ecuador  1-3 (1-1)  Deportivo Cuenca
+[Sun Feb/28]
+  12.00  Aucas                    1-1 (0-0)  Mushuc Runa
+         Universidad Catolica     1-0 (0-0)  Barcelona
+[Mon Feb/29]
+  20.00  Emelec                   0-1 (0-1)  El Nacional
+[Sat Jun/18]
+  16.00  Delfín SC                2-0 (1-0)  Independiente del Valle
+
+
+Matchday 6
+[Sat Mar/5]
+  17.00  Independiente del Valle  0-2 (0-0)  Emelec
+[Sun Mar/6]
+  11.15  El Nacional              1-0 (0-0)  Club Deportivo River Plate Ecuador
+  11.30  Deportivo Cuenca         3-0 (0-0)  Fuerza Amarilla
+         LDU Quito                1-1 (1-1)  Universidad Catolica
+  13.05  Delfín SC                1-1 (1-0)  Mushuc Runa
+  16.30  Barcelona                3-0 (2-0)  Aucas
+
+
+Matchday 7
+[Sat Mar/12]
+  12.00  Universidad Catolica     2-2 (0-1)  Deportivo Cuenca
+  15.45  Club Deportivo River Plate Ecuador  0-1 (0-0)  Independiente del Valle
+  18.45  Emelec                   1-0 (0-0)  Delfín SC
+[Sun Mar/13]
+  11.30  Mushuc Runa              1-1 (0-1)  Barcelona
+  12.00  Aucas                    0-1 (0-1)  LDU Quito
+  15.00  Fuerza Amarilla          2-0 (1-0)  El Nacional
+
+
+Matchday 8
+[Fri Mar/18]
+  19.00  El Nacional              2-2 (0-0)  Universidad Catolica
+  19.30  LDU Quito                1-0 (0-0)  Mushuc Runa
+  20.00  Deportivo Cuenca         2-2 (1-1)  Aucas
+[Sat Mar/19]
+  11.00  Independiente del Valle  3-1 (1-1)  Fuerza Amarilla
+  16.00  Delfín SC                0-2 (0-2)  Club Deportivo River Plate Ecuador
+[Wed May/11]
+  19.30  Emelec                   2-1 (2-0)  Barcelona
+
+
+Matchday 9
+[Sat Mar/26]
+  15.00  Fuerza Amarilla          2-2 (1-2)  Delfín SC
+  16.00  Mushuc Runa              0-1 (0-1)  Deportivo Cuenca
+[Sun Mar/27]
+  12.00  Aucas                    0-0  El Nacional
+         Universidad Catolica     0-0  Independiente del Valle
+  16.30  Barcelona                5-0 (2-0)  LDU Quito
+[Thu Jul/21]
+  19.30  Club Deportivo River Plate Ecuador  0-1 (0-1)  Emelec
+
+
+Matchday 10
+[Fri Apr/1]
+  19.00  El Nacional              1-1 (0-1)  LDU Quito
+  19.30  Emelec                   2-1 (2-0)  Fuerza Amarilla
+[Sat Apr/2]
+  12.00  Deportivo Cuenca         1-2 (1-1)  Barcelona
+  16.30  Club Deportivo River Plate Ecuador  1-0 (0-0)  Universidad Catolica
+  17.00  Independiente del Valle  2-1 (1-1)  Mushuc Runa
+[Sun Apr/3]
+  12.00  Delfín SC                0-0  Aucas
+
+
+Matchday 11
+[Fri Apr/8]
+  20.00  Fuerza Amarilla          0-2 (0-0)  Club Deportivo River Plate Ecuador
+[Sat Apr/9]
+  12.00  Universidad Catolica     1-0 (0-0)  Delfín SC
+  14.00  Mushuc Runa              0-2 (0-1)  El Nacional
+  18.15  LDU Quito                0-1 (0-1)  Deportivo Cuenca
+[Sun Apr/10]
+  12.00  Aucas                    1-2 (0-0)  Emelec
+  16.30  Barcelona                3-2 (1-1)  Independiente del Valle
+
+
+Matchday 12
+[Sat Apr/16]
+  11.15  El Nacional              0-1 (0-0)  Mushuc Runa
+  16.30  Club Deportivo River Plate Ecuador  1-1 (1-0)  Fuerza Amarilla
+[Fri Apr/29]
+  20.00  Deportivo Cuenca         1-0 (0-0)  LDU Quito
+[Sat Apr/30]
+  14.00  Delfín SC                0-0  Universidad Catolica
+  16.30  Emelec                   4-0 (3-0)  Aucas
+[Wed Jun/22]
+  19.00  Independiente del Valle  2-1 (1-1)  Barcelona
+
+
+Matchday 13
+[Wed May/4]
+  12.00  Universidad Catolica     3-0 (0-0)  Club Deportivo River Plate Ecuador
+  15.00  Aucas                    2-2 (1-1)  Delfín SC
+  16.00  Fuerza Amarilla          1-2 (1-2)  Emelec
+  19.15  LDU Quito                1-2 (1-2)  El Nacional
+  19.30  Barcelona                2-2 (1-0)  Deportivo Cuenca
+[Wed Jun/29]
+  16.00  Mushuc Runa              1-3 (1-1)  Independiente del Valle
+
+
+Matchday 14
+[Sat May/7]
+  19.00  Deportivo Cuenca         1-0 (1-0)  Mushuc Runa
+[Sun May/8]
+  11.15  El Nacional              1-1 (0-0)  Aucas
+  11.30  LDU Quito                2-1 (0-1)  Barcelona
+  14.00  Delfín SC                1-2 (0-0)  Fuerza Amarilla
+  16.30  Emelec                   3-3 (2-1)  Club Deportivo River Plate Ecuador
+  17.00  Independiente del Valle  1-4 (0-3)  Universidad Catolica
+
+
+Matchday 15
+[Fri May/13]
+  15.00  Fuerza Amarilla          2-0 (2-0)  Independiente del Valle
+  19.00  Universidad Catolica     2-3 (1-1)  El Nacional
+  19.30  Aucas                    1-2 (0-1)  Deportivo Cuenca
+[Sun May/15]
+  11.30  Mushuc Runa              2-2 (1-1)  LDU Quito
+  16.30  Barcelona                5-0 (3-0)  Emelec
+         Club Deportivo River Plate Ecuador  1-2 (1-2)  Delfín SC
+
+
+Matchday 16
+[Fri May/20]
+  14.00  El Nacional              1-0 (0-0)  Fuerza Amarilla
+  19.00  Delfín SC                2-2 (1-1)  Emelec
+         Independiente del Valle  3-0 (1-0)  Club Deportivo River Plate Ecuador
+  19.30  LDU Quito                2-0 (1-0)  Aucas
+  20.00  Deportivo Cuenca         1-0 (0-0)  Universidad Catolica
+         Barcelona                3-1 (2-1)  Mushuc Runa
+
+
+Matchday 17
+[Sat Jun/25]
+  12.00  Universidad Catolica     0-0  LDU Quito
+  16.00  Club Deportivo River Plate Ecuador  4-2 (2-1)  El Nacional
+[Sun Jun/26]
+  11.30  Mushuc Runa              5-1 (2-1)  Delfín SC
+  12.00  Aucas                    0-1 (0-0)  Barcelona
+  15.00  Fuerza Amarilla          0-0  Deportivo Cuenca
+  16.00  Emelec                   1-2 (0-0)  Independiente del Valle
+
+
+Matchday 18
+[Sat Jul/2]
+  13.00  Deportivo Cuenca         2-3 (1-1)  Club Deportivo River Plate Ecuador
+  17.00  Independiente del Valle  1-1 (1-1)  Delfín SC
+[Sun Jul/3]
+  11.15  El Nacional              3-1 (1-1)  Emelec
+  11.30  Mushuc Runa              1-4 (0-3)  Aucas
+         LDU Quito                2-1 (1-0)  Fuerza Amarilla
+  16.30  Barcelona                6-1 (4-0)  Universidad Catolica
+
+
+Matchday 19
+[Fri Jul/8]
+  17.30  Club Deportivo River Plate Ecuador  2-2 (1-2)  LDU Quito
+  20.00  Emelec                   3-0 (0-0)  Deportivo Cuenca
+[Sat Jul/9]
+  12.00  Universidad Catolica     1-1 (1-1)  Mushuc Runa
+  12.30  Delfín SC                3-1 (1-1)  El Nacional
+[Sun Jul/10]
+  11.30  Independiente del Valle  2-0 (1-0)  Aucas
+  15.00  Fuerza Amarilla          0-2 (0-1)  Barcelona
+
+
+Matchday 20
+[Wed Jul/13]
+  12.00  Mushuc Runa              0-2 (0-2)  Fuerza Amarilla
+  19.15  LDU Quito                1-0 (0-0)  Emelec
+  19.30  Aucas                    2-3 (2-2)  Universidad Catolica
+  19.45  Barcelona                2-0 (1-0)  Club Deportivo River Plate Ecuador
+  20.00  Deportivo Cuenca         1-1 (0-1)  Delfín SC
+[Wed Jul/20]
+  11.15  El Nacional              5-2 (3-0)  Independiente del Valle
+
+
+Matchday 21
+[Sun Jul/17]
+  11.15  El Nacional              3-3 (2-1)  Deportivo Cuenca
+  15.00  Fuerza Amarilla          2-2 (2-1)  Universidad Catolica
+         Delfín SC                0-2 (0-0)  Barcelona
+  18.00  Emelec                   4-0 (2-0)  Mushuc Runa
+  19.00  Independiente del Valle  1-1 (1-0)  LDU Quito
+[Mon Jul/18]
+  12.00  Club Deportivo River Plate Ecuador  3-0 (0-0)  Aucas
+
+
+Matchday 22
+[Fri Jul/22]
+  20.00  Deportivo Cuenca         1-0 (1-0)  Independiente del Valle
+[Sun Jul/24]
+  11.30  LDU Quito                1-0 (0-0)  Delfín SC
+  12.00  Aucas                    1-1 (0-1)  Fuerza Amarilla
+  14.00  Mushuc Runa              0-1 (0-0)  Club Deportivo River Plate Ecuador
+  14.15  Barcelona                3-0 (1-0)  El Nacional
+         Universidad Catolica     0-0  Emelec
+
+
+== Segunda Etapa
+
+Matchday 1
+[Sun Jul/31]
+  11.15  El Nacional              2-3 (1-1)  Deportivo Cuenca
+  12.00  Aucas                    1-2 (0-0)  Barcelona
+         Mushuc Runa              3-0 (1-0)  LDU Quito
+  14.30  Club Deportivo River Plate Ecuador  3-0 (3-0)  Independiente del Valle
+  15.00  Fuerza Amarilla          2-0 (2-0)  Universidad Catolica
+  18.30  Emelec                   1-0 (0-0)  Delfín SC
+
+
+Matchday 2
+[Fri Aug/5]
+  19.00  Universidad Catolica     1-0 (0-0)  Emelec
+  19.45  Barcelona                3-1 (1-1)  Mushuc Runa
+  20.00  Deportivo Cuenca         1-1 (1-0)  Aucas
+[Sat Aug/6]
+  16.00  Delfín SC                0-0  Club Deportivo River Plate Ecuador
+  17.00  Independiente del Valle  0-0  Fuerza Amarilla
+[Sun Aug/7]
+  11.30  LDU Quito                2-2 (1-2)  El Nacional
+
+
+Matchday 3
+[Sat Aug/13]
+  16.00  Club Deportivo River Plate Ecuador  0-1 (0-0)  LDU Quito
+         Mushuc Runa              3-2 (2-2)  Deportivo Cuenca
+[Sun Aug/14]
+  11.15  El Nacional              2-2 (2-0)  Aucas
+  11.30  Independiente del Valle  5-0 (2-0)  Universidad Catolica
+  15.00  Fuerza Amarilla          2-3 (0-2)  Delfín SC
+[Wed Oct/26]
+  16.00  Emelec                   0-1 (0-1)  Barcelona
+
+
+Matchday 4
+[Fri Aug/19]
+  20.00  Deportivo Cuenca         3-0 (3-0)  Club Deportivo River Plate Ecuador
+[Sat Aug/20]
+  16.00  Delfín SC                1-0 (0-0)  Independiente del Valle
+  17.00  LDU Quito                2-1 (1-0)  Emelec
+[Sun Aug/21]
+  12.00  Aucas                    0-1 (0-0)  Mushuc Runa
+         Universidad Catolica     0-0  El Nacional
+  16.30  Barcelona                5-1 (0-1)  Fuerza Amarilla
+
+
+Matchday 5
+[Fri Aug/26]
+  12.00  Universidad Catolica     1-0 (0-0)  Delfín SC
+  15.30  Fuerza Amarilla          2-0 (0-0)  LDU Quito
+  19.00  Independiente del Valle  2-0 (1-0)  Barcelona
+  19.30  Emelec                   2-1 (2-1)  Deportivo Cuenca
+[Sat Aug/27]
+  16.00  Club Deportivo River Plate Ecuador  1-0 (1-0)  Aucas
+         Mushuc Runa              1-1 (1-1)  El Nacional
+
+
+Matchday 6
+[Fri Sep/2]
+  20.00  Deportivo Cuenca         3-2 (0-0)  Fuerza Amarilla
+[Sun Sep/4]
+  11.15  El Nacional              2-1 (1-1)  Club Deportivo River Plate Ecuador
+  11.30  Mushuc Runa              1-0 (0-0)  Delfín SC
+  12.00  Aucas                    1-3 (1-2)  Emelec
+  16.30  Barcelona                3-1 (0-1)  Universidad Catolica
+[Wed Sep/14]
+  19.15  LDU Quito                2-1 (1-0)  Independiente del Valle
+
+
+Matchday 7
+[Fri Sep/9]
+  19.30  Emelec                   2-2 (2-0)  El Nacional
+[Sat Sep/10]
+  12.00  Universidad Catolica     0-1 (0-0)  LDU Quito
+  15.00  Fuerza Amarilla          1-1 (0-1)  Aucas
+  16.00  Club Deportivo River Plate Ecuador  0-0  Mushuc Runa
+  17.00  Independiente del Valle  0-1 (0-0)  Deportivo Cuenca
+[Sun Sep/11]
+  15.00  Delfín SC                0-1 (0-1)  Barcelona
+
+
+Matchday 8
+[Fri Sep/16]
+  19.45  Club Deportivo River Plate Ecuador  0-1 (0-1)  Barcelona
+  20.00  Deportivo Cuenca         0-1 (0-1)  Universidad Catolica
+[Sat Sep/17]
+  17.00  LDU Quito                2-1 (1-1)  Delfín SC
+  19.00  Aucas                    0-2 (0-0)  Independiente del Valle
+[Sun Sep/18]
+  11.15  El Nacional              0-0  Fuerza Amarilla
+  12.00  Mushuc Runa              3-0 (2-0)  Emelec
+
+
+Matchday 9
+[Wed Sep/21]
+  15.30  Fuerza Amarilla          1-2 (0-2)  Mushuc Runa
+  16.00  Emelec                   5-0 (3-0)  Club Deportivo River Plate Ecuador
+         Delfín SC                2-2 (1-1)  Deportivo Cuenca
+  19.00  Independiente del Valle  0-1 (0-1)  El Nacional
+         Universidad Catolica     1-1 (1-1)  Aucas
+  19.45  Barcelona                2-0 (2-0)  LDU Quito
+
+
+Matchday 10
+[Sun Sep/25]
+  11.15  El Nacional              5-2 (3-2)  Delfín SC
+  11.30  Deportivo Cuenca         0-1 (0-1)  Barcelona
+  12.00  Aucas                    1-0 (1-0)  LDU Quito
+  13.15  Mushuc Runa              1-1 (0-1)  Universidad Catolica
+  16.00  Emelec                   2-1 (1-1)  Independiente del Valle
+         Club Deportivo River Plate Ecuador  2-1 (2-0)  Fuerza Amarilla
+
+
+Matchday 11
+[Fri Sep/30]
+  15.30  Fuerza Amarilla          0-2 (0-0)  Emelec
+  16.00  Delfín SC                1-1 (0-1)  Aucas
+  19.00  Independiente del Valle  1-0 (1-0)  Mushuc Runa
+         Universidad Catolica     2-1 (0-1)  Club Deportivo River Plate Ecuador
+  19.30  LDU Quito                1-2 (1-1)  Deportivo Cuenca
+  19.45  Barcelona                1-0 (1-0)  El Nacional
+
+
+Matchday 12
+[Fri Oct/7]
+  20.00  Deportivo Cuenca         0-0  LDU Quito
+[Sat Oct/8]
+  16.00  Club Deportivo River Plate Ecuador  3-0 (1-0)  Universidad Catolica
+[Sun Oct/9]
+  12.00  Aucas                    1-1 (1-1)  Delfín SC
+  16.00  Emelec                   3-1 (2-1)  Fuerza Amarilla
+[Wed Oct/26]
+  16.00  Mushuc Runa              1-3 (0-3)  Independiente del Valle
+[Wed Nov/16]
+  19.30  El Nacional              0-1 (0-0)  Barcelona
+
+
+Matchday 13
+[Sat Oct/15]
+  12.00  Universidad Catolica     6-1 (3-0)  Mushuc Runa
+  15.00  Delfín SC                5-0 (1-0)  El Nacional
+         Fuerza Amarilla          2-1 (2-0)  Club Deportivo River Plate Ecuador
+  16.30  Barcelona                5-0 (3-0)  Deportivo Cuenca
+  17.00  Independiente del Valle  0-3 (0-1)  Emelec
+         LDU Quito                2-0 (1-0)  Aucas
+
+
+Matchday 14
+[Wed Oct/19]
+  12.00  Mushuc Runa              1-1 (0-1)  Fuerza Amarilla
+  19.00  Aucas                    2-0 (1-0)  Universidad Catolica
+  19.15  LDU Quito                1-1 (0-0)  Barcelona
+         Club Deportivo River Plate Ecuador  0-2 (0-0)  Emelec
+  19.30  El Nacional              2-1 (2-0)  Independiente del Valle
+  20.00  Deportivo Cuenca         3-1 (1-0)  Delfín SC
+
+
+Matchday 15
+[Sat Oct/22]
+  16.00  Emelec                   3-2 (0-2)  Mushuc Runa
+  18.00  Barcelona                1-0 (1-0)  Club Deportivo River Plate Ecuador
+[Sun Oct/23]
+  11.00  Independiente del Valle  1-1 (1-0)  Aucas
+  12.00  Universidad Catolica     3-2 (2-0)  Deportivo Cuenca
+         Delfín SC                0-1 (0-0)  LDU Quito
+  15.00  Fuerza Amarilla          2-0 (0-0)  El Nacional
+
+
+Matchday 16
+[Sat Oct/29]
+  12.00  Aucas                    5-0 (2-0)  Fuerza Amarilla
+  16.00  LDU Quito                2-2 (2-0)  Universidad Catolica
+[Sun Oct/30]
+  11.15  El Nacional              1-2 (0-1)  Emelec
+  11.30  Deportivo Cuenca         0-1 (0-0)  Independiente del Valle
+  12.00  Mushuc Runa              0-2 (0-0)  Club Deportivo River Plate Ecuador
+  17.00  Barcelona                3-0 (0-0)  Delfín SC
+
+
+Matchday 17
+[Fri Nov/4]
+  12.00  Universidad Catolica     1-1 (0-0)  Barcelona
+  15.30  Club Deportivo River Plate Ecuador  1-2 (0-1)  El Nacional
+         Fuerza Amarilla          3-0 (3-0)  Deportivo Cuenca
+  16.00  Independiente del Valle  1-1 (0-0)  LDU Quito
+         Emelec                   2-1 (1-1)  Aucas
+[Sat Nov/5]
+  15.00  Delfín SC                2-1 (2-0)  Mushuc Runa
+
+
+Matchday 18
+[Fri Nov/11]
+  19.00  El Nacional              2-1 (1-1)  Mushuc Runa
+[Sat Nov/12]
+  17.00  LDU Quito                1-1 (0-1)  Fuerza Amarilla
+[Sun Nov/13]
+  12.00  Aucas                    3-1 (0-0)  Club Deportivo River Plate Ecuador
+         Delfín SC                3-1 (2-1)  Universidad Catolica
+[Wed Nov/23]
+  20.00  Barcelona                1-0 (1-0)  Independiente del Valle
+         Deportivo Cuenca         2-2 (1-1)  Emelec
+
+
+Matchday 19
+[Sat Nov/19]
+  12.00  Club Deportivo River Plate Ecuador  2-1 (0-0)  Deportivo Cuenca
+  16.00  Emelec                   3-0 (1-0)  LDU Quito
+  17.00  Independiente del Valle  2-1 (2-1)  Delfín SC
+[Sun Nov/20]
+  11.15  El Nacional              1-2 (0-0)  Universidad Catolica
+  12.00  Mushuc Runa              2-0 (0-0)  Aucas
+  15.00  Fuerza Amarilla          1-1 (0-1)  Barcelona
+
+
+Matchday 20
+[Sat Nov/26]
+  16.00  Delfín SC                0-1 (0-1)  Fuerza Amarilla
+  17.00  LDU Quito                1-0 (0-0)  Club Deportivo River Plate Ecuador
+  19.00  Deportivo Cuenca         3-1 (2-1)  Mushuc Runa
+[Sun Nov/27]
+  12.00  Aucas                    0-0  El Nacional
+         Universidad Catolica     3-1 (2-0)  Independiente del Valle
+  17.00  Barcelona                1-2 (1-1)  Emelec
+
+
+Matchday 21
+[Sun Dec/4]
+  12.00  Aucas                    1-0 (1-0)  Deportivo Cuenca
+         El Nacional              5-0 (2-0)  LDU Quito
+         Emelec                   1-1 (1-1)  Universidad Catolica
+         Club Deportivo River Plate Ecuador  0-1 (0-1)  Delfín SC
+         Mushuc Runa              2-4 (0-4)  Barcelona
+         Fuerza Amarilla          1-2 (0-1)  Independiente del Valle
+
+
+Matchday 22
+[Sat Dec/10]
+  16.00  Independiente del Valle  3-2 (1-1)  Club Deportivo River Plate Ecuador
+         Universidad Catolica     2-2 (2-1)  Fuerza Amarilla
+         LDU Quito                1-2 (0-1)  Mushuc Runa
+         Barcelona                3-3 (3-0)  Aucas
+         Delfín SC                4-3 (2-3)  Emelec
+         Deportivo Cuenca         1-1 (1-1)  El Nacional

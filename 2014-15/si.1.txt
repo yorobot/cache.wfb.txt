@@ -1,0 +1,368 @@
+= SI 1 2014/15
+
+# Date       Fri Jul/18 2014 - Sat May/30 2015 (316d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Jul/18]
+  20.00  NK Celje                 0-1 (0-0)  NK Zavrč
+[Sat Jul/19]
+  17.00  Olimpija Ljubljana       3-1 (2-1)  NK Krka
+  20.05  NK Maribor               1-0 (0-0)  Rudar Velenje
+[Sun Jul/20]
+  18.00  NK Radomlje              1-2 (0-1)  FC Koper
+  20.00  ND Gorica                0-1 (0-1)  NK Domžale
+
+
+Matchday 2
+[Sat Jul/26]
+  17.00  NK Maribor               3-2 (1-1)  NK Radomlje
+  20.00  Rudar Velenje            0-2 (0-0)  NK Zavrč
+[Sun Jul/27]
+  18.00  NK Krka                  2-1 (0-0)  ND Gorica
+  20.05  NK Domžale               1-0 (0-0)  NK Celje
+[Wed Aug/27]
+  20.30  FC Koper                 1-2 (0-1)  Olimpija Ljubljana
+
+
+Matchday 3
+[Fri Aug/1]
+  18.00  NK Zavrč                 0-2 (0-1)  NK Domžale
+  20.00  NK Celje                 3-0 (2-0)  NK Krka
+[Sat Aug/2]
+  17.00  NK Radomlje              1-2 (1-2)  Rudar Velenje
+[Sun Aug/3]
+  20.00  ND Gorica                0-1 (0-1)  FC Koper
+[Wed Apr/8]
+  20.05  Olimpija Ljubljana       0-0  NK Maribor
+
+
+Matchday 4
+[Sat Aug/9]
+  17.00  FC Koper                 0-2 (0-1)  NK Celje
+  20.00  Rudar Velenje            0-1 (0-1)  NK Domžale
+  20.05  NK Maribor               2-1 (2-1)  ND Gorica
+[Sun Aug/10]
+  18.00  NK Krka                  2-3 (0-3)  NK Zavrč
+  19.00  NK Radomlje              1-4 (1-1)  Olimpija Ljubljana
+
+
+Matchday 5
+[Fri Aug/15]
+  17.30  NK Zavrč                 1-0 (0-0)  FC Koper
+[Sat Aug/16]
+  17.00  NK Celje                 3-1 (2-0)  NK Maribor
+  20.00  NK Domžale               2-0 (0-0)  NK Krka
+  20.05  Olimpija Ljubljana       2-0 (1-0)  Rudar Velenje
+[Sun Aug/17]
+  20.00  ND Gorica                4-0 (0-0)  NK Radomlje
+
+
+Matchday 6
+[Sat Aug/23]
+  17.00  Olimpija Ljubljana       0-0  ND Gorica
+  20.00  Rudar Velenje            3-1 (0-1)  NK Krka
+         NK Maribor               3-0 (2-0)  NK Zavrč
+[Sun Aug/24]
+  18.00  FC Koper                 0-1 (0-0)  NK Domžale
+         NK Radomlje              0-3 (0-1)  NK Celje
+
+
+Matchday 7
+[Fri Aug/29]
+  17.00  NK Zavrč                 2-1 (1-0)  NK Radomlje
+[Sat Aug/30]
+  17.00  NK Celje                 0-0  Olimpija Ljubljana
+  20.05  NK Domžale               2-0 (1-0)  NK Maribor
+[Sun Aug/31]
+  17.00  NK Krka                  1-3 (0-3)  FC Koper
+  20.00  ND Gorica                1-2 (1-0)  Rudar Velenje
+
+
+Matchday 8
+[Sat Sep/13]
+  16.00  NK Maribor               2-0 (2-0)  NK Krka
+         ND Gorica                1-1 (1-1)  NK Celje
+  18.00  Rudar Velenje            2-3 (1-2)  FC Koper
+         NK Radomlje              0-2 (0-1)  NK Domžale
+  20.30  Olimpija Ljubljana       2-0 (0-0)  NK Zavrč
+
+
+Matchday 9
+[Sat Sep/20]
+  16.00  FC Koper                 1-2 (1-1)  NK Maribor
+  18.00  NK Celje                 1-1 (1-0)  Rudar Velenje
+  20.05  NK Domžale               0-0  Olimpija Ljubljana
+[Sun Sep/21]
+  16.00  NK Zavrč                 0-0  ND Gorica
+         NK Krka                  0-0  NK Radomlje
+
+
+Matchday 10
+[Wed Sep/24]
+  16.00  NK Krka                  2-1 (1-0)  Olimpija Ljubljana
+         NK Zavrč                 0-0  NK Celje
+  19.00  NK Domžale               3-0 (0-0)  ND Gorica
+  20.00  FC Koper                 1-2 (0-1)  NK Radomlje
+  20.05  Rudar Velenje            0-1 (0-0)  NK Maribor
+
+
+Matchday 11
+[Sat Sep/27]
+  16.00  NK Radomlje              0-0  NK Maribor
+  17.00  NK Celje                 2-0 (2-0)  NK Domžale
+  18.00  Olimpija Ljubljana       4-0 (2-0)  FC Koper
+[Sun Sep/28]
+  16.00  NK Zavrč                 1-0 (0-0)  Rudar Velenje
+[Mon Sep/29]
+  16.00  ND Gorica                2-1 (1-0)  NK Krka
+
+
+Matchday 12
+[Sat Oct/4]
+  16.00  NK Domžale               1-3 (0-0)  NK Zavrč
+  18.00  Rudar Velenje            2-0 (1-0)  NK Radomlje
+         FC Koper                 1-0 (1-0)  ND Gorica
+  20.05  NK Maribor               3-3 (2-3)  Olimpija Ljubljana
+[Sun Oct/5]
+  15.00  NK Krka                  1-1 (1-0)  NK Celje
+
+
+Matchday 13
+[Wed Oct/15]
+  15.00  NK Zavrč                 2-0 (0-0)  NK Krka
+  17.00  NK Celje                 1-1 (1-0)  FC Koper
+  18.00  ND Gorica                0-2 (0-1)  NK Maribor
+         Olimpija Ljubljana       4-0 (1-0)  NK Radomlje
+  20.05  NK Domžale               1-1 (1-1)  Rudar Velenje
+
+
+Matchday 14
+[Sat Oct/18]
+  16.00  Rudar Velenje            0-0  Olimpija Ljubljana
+  18.00  FC Koper                 2-1 (1-0)  NK Zavrč
+  20.05  NK Maribor               1-2 (1-1)  NK Celje
+[Sun Oct/19]
+  15.00  NK Krka                  0-1 (0-0)  NK Domžale
+  17.00  NK Radomlje              0-3 (0-2)  ND Gorica
+
+
+Matchday 15
+[Sat Oct/25]
+  14.00  NK Zavrč                 0-1 (0-0)  NK Maribor
+  16.00  NK Domžale               2-0 (2-0)  FC Koper
+         NK Celje                 5-0 (4-0)  NK Radomlje
+  18.00  ND Gorica                0-3 (0-1)  Olimpija Ljubljana
+[Sun Oct/26]
+  14.00  NK Krka                  1-1 (1-0)  Rudar Velenje
+
+
+Matchday 16
+[Fri Oct/31]
+  17.00  NK Maribor               0-1 (0-1)  NK Domžale
+[Sun Nov/2]
+  17.00  Rudar Velenje            1-0 (1-0)  ND Gorica
+         Olimpija Ljubljana       1-3 (0-1)  NK Celje
+         NK Radomlje              1-2 (0-2)  NK Zavrč
+         FC Koper                 1-0 (0-0)  NK Krka
+
+
+Matchday 17
+[Sat Nov/8]
+  14.00  NK Zavrč                 0-2 (0-1)  Olimpija Ljubljana
+  16.00  NK Celje                 2-0 (0-0)  ND Gorica
+  18.00  FC Koper                 1-3 (1-0)  Rudar Velenje
+[Sun Nov/9]
+  14.00  NK Krka                  1-3 (0-2)  NK Maribor
+  17.00  NK Domžale               3-0 (2-0)  NK Radomlje
+
+
+Matchday 18
+[Sat Nov/22]
+  14.00  ND Gorica                1-0 (1-0)  NK Zavrč
+  16.00  Rudar Velenje            0-0  NK Celje
+         NK Maribor               4-0 (3-0)  FC Koper
+  18.00  Olimpija Ljubljana       2-1 (2-0)  NK Domžale
+[Sun Nov/23]
+  16.00  NK Radomlje              0-2 (0-1)  NK Krka
+
+
+Matchday 19
+[Sat Nov/29]
+  14.00  NK Maribor               3-2 (2-0)  Rudar Velenje
+         ND Gorica                1-2 (1-1)  NK Domžale
+  16.00  NK Celje                 3-0 (3-0)  NK Zavrč
+  18.00  Olimpija Ljubljana       1-2 (0-1)  NK Krka
+[Sun Nov/30]
+  16.00  NK Radomlje              2-1 (2-1)  FC Koper
+
+
+Matchday 20
+[Sat Dec/6]
+  14.00  NK Domžale               0-1 (0-0)  NK Celje
+  16.00  Rudar Velenje            7-2 (5-0)  NK Zavrč
+         FC Koper                 2-1 (0-1)  Olimpija Ljubljana
+         NK Maribor               4-1 (3-0)  NK Radomlje
+[Sun Dec/7]
+  13.00  NK Krka                  0-2 (0-1)  ND Gorica
+
+
+Matchday 21
+[Wed Mar/4]
+  15.00  ND Gorica                1-2 (1-2)  FC Koper
+  17.00  NK Radomlje              1-0 (0-0)  Rudar Velenje
+         NK Celje                 2-1 (1-1)  NK Krka
+  19.00  NK Zavrč                 1-0 (1-0)  NK Domžale
+  20.05  Olimpija Ljubljana       0-1 (0-1)  NK Maribor
+
+
+Matchday 22
+[Sat Feb/28]
+  15.00  Rudar Velenje            0-0  NK Domžale
+         NK Radomlje              0-4 (0-0)  Olimpija Ljubljana
+  16.00  NK Maribor               5-1 (2-1)  ND Gorica
+[Sun Mar/1]
+  15.00  NK Krka                  3-0 (2-0)  NK Zavrč
+[Wed Mar/11]
+  18.00  FC Koper                 0-1 (0-0)  NK Celje
+
+
+Matchday 23
+[Sat Mar/7]
+  14.15  NK Celje                 0-2 (0-1)  NK Maribor
+  16.00  Olimpija Ljubljana       0-0  Rudar Velenje
+  17.00  NK Domžale               2-1 (1-1)  NK Krka
+  18.00  NK Zavrč                 2-1 (1-0)  FC Koper
+[Sun Mar/8]
+  15.00  ND Gorica                0-0  NK Radomlje
+
+
+Matchday 24
+[Sat Mar/14]
+  16.00  Rudar Velenje            0-0  NK Krka
+         NK Maribor               2-1 (0-1)  NK Zavrč
+         Olimpija Ljubljana       3-1 (2-1)  ND Gorica
+[Sun Mar/15]
+  15.00  NK Radomlje              0-1 (0-1)  NK Celje
+  17.30  FC Koper                 1-0 (0-0)  NK Domžale
+
+
+Matchday 25
+[Fri Mar/20]
+  19.00  NK Zavrč                 1-0 (1-0)  NK Radomlje
+[Sat Mar/21]
+  15.00  ND Gorica                3-0 (1-0)  Rudar Velenje
+  16.00  NK Celje                 0-0  Olimpija Ljubljana
+[Sun Mar/22]
+  15.00  NK Krka                  3-0 (0-0)  FC Koper
+  16.00  NK Domžale               0-0  NK Maribor
+
+
+Matchday 26
+[Fri Apr/3]
+  19.00  NK Radomlje              0-3 (0-2)  NK Domžale
+[Sat Apr/4]
+  16.00  NK Maribor               2-2 (1-0)  NK Krka
+         ND Gorica                2-2 (1-1)  NK Celje
+  18.00  Olimpija Ljubljana       3-1 (1-0)  NK Zavrč
+  20.05  Rudar Velenje            2-2 (2-1)  FC Koper
+
+
+Matchday 27
+[Fri Apr/10]
+  18.00  NK Celje                 1-3 (1-2)  Rudar Velenje
+  20.00  NK Zavrč                 0-0  ND Gorica
+[Sat Apr/11]
+  16.00  FC Koper                 1-4 (0-3)  NK Maribor
+  20.05  NK Domžale               0-1 (0-1)  Olimpija Ljubljana
+[Sun Apr/12]
+  16.00  NK Krka                  1-1 (1-1)  NK Radomlje
+
+
+Matchday 28
+[Sat Apr/18]
+  16.00  NK Domžale               3-1 (1-1)  ND Gorica
+  20.00  FC Koper                 2-0 (1-0)  NK Radomlje
+         NK Zavrč                 1-2 (1-0)  NK Celje
+  20.05  Rudar Velenje            2-0 (1-0)  NK Maribor
+[Sun Apr/19]
+  16.00  NK Krka                  0-0  Olimpija Ljubljana
+
+
+Matchday 29
+[Fri Apr/24]
+  19.00  NK Radomlje              1-6 (0-3)  NK Maribor
+  20.00  NK Zavrč                 0-0  Rudar Velenje
+[Sat Apr/25]
+  16.00  Olimpija Ljubljana       0-0  FC Koper
+  17.00  ND Gorica                3-0 (2-0)  NK Krka
+  20.05  NK Celje                 0-0  NK Domžale
+
+
+Matchday 30
+[Wed Apr/29]
+  17.00  NK Maribor               4-1 (1-1)  Olimpija Ljubljana
+         NK Krka                  0-4 (0-2)  NK Celje
+  18.00  Rudar Velenje            3-2 (0-1)  NK Radomlje
+  20.00  FC Koper                 2-0 (1-0)  ND Gorica
+         NK Domžale               2-3 (1-3)  NK Zavrč
+
+
+Matchday 31
+[Sat May/2]
+  16.00  Olimpija Ljubljana       3-1 (1-0)  NK Radomlje
+  17.00  ND Gorica                1-1 (0-1)  NK Maribor
+  18.00  NK Celje                 3-2 (0-2)  FC Koper
+  20.00  NK Zavrč                 0-1 (0-0)  NK Krka
+  20.05  NK Domžale               4-0 (2-0)  Rudar Velenje
+
+
+Matchday 32
+[Wed May/6]
+  17.00  NK Maribor               4-1 (2-0)  NK Celje
+         NK Krka                  3-2 (0-2)  NK Domžale
+  18.00  Rudar Velenje            2-0 (0-0)  Olimpija Ljubljana
+         NK Radomlje              1-0 (0-0)  ND Gorica
+         FC Koper                 1-2 (1-0)  NK Zavrč
+
+
+Matchday 33
+[Sat May/9]
+  16.00  NK Celje                 3-2 (1-0)  NK Radomlje
+  17.00  ND Gorica                1-2 (1-1)  Olimpija Ljubljana
+  20.00  NK Zavrč                 1-3 (0-0)  NK Maribor
+[Sun May/10]
+  17.00  NK Krka                  2-0 (1-0)  Rudar Velenje
+[Tue May/12]
+  18.00  NK Domžale               3-0 (3-0)  FC Koper
+
+
+Matchday 34
+[Sat May/16]
+  16.00  Olimpija Ljubljana       1-2 (1-0)  NK Celje
+  18.00  Rudar Velenje            1-2 (0-2)  ND Gorica
+  20.00  FC Koper                 0-2 (0-1)  NK Krka
+  20.05  NK Maribor               1-0 (0-0)  NK Domžale
+[Sun May/17]
+  19.00  NK Radomlje              0-4 (0-1)  NK Zavrč
+
+
+Matchday 35
+[Sat May/23]
+  17.00  FC Koper                 0-3 (0-1)  Rudar Velenje
+         NK Krka                  1-3 (0-2)  NK Maribor
+         NK Domžale               4-0 (1-0)  NK Radomlje
+         NK Zavrč                 1-2 (1-0)  Olimpija Ljubljana
+         NK Celje                 0-3 (0-2)  ND Gorica
+
+
+Matchday 36
+[Sat May/30]
+  17.00  Rudar Velenje            1-3 (0-2)  NK Celje
+         ND Gorica                4-0 (4-0)  NK Zavrč
+         Olimpija Ljubljana       0-2 (0-1)  NK Domžale
+         NK Radomlje              0-1 (0-1)  NK Krka
+         NK Maribor               0-0  FC Koper

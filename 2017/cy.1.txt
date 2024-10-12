@@ -1,0 +1,168 @@
+= CY 1 2017
+
+# Date       Sat Mar/11 - Sun May/21 2017 (71d)
+# Teams      12
+# Matches    60
+# Stages     Relegation (30)  Championship (30)
+
+
+== Relegation
+
+Matchday 1
+[Sat Mar/11]
+  17.00  Nea Salamina             0-3 (0-2)  Aris Limassol
+[Sun Mar/12]
+  16.00  Karmiotissa Polemidion   5-3 (0-1)  Ethnikos Achna
+  17.00  Doxa Katokopias          2-1 (1-1)  Ermis Aradippou
+
+
+Matchday 2
+[Sun Mar/19]
+  16.00  Aris Limassol            4-1 (2-0)  Doxa Katokopias
+  17.00  Ethnikos Achna           0-2 (0-1)  Nea Salamina
+  18.00  Ermis Aradippou          3-1 (0-0)  Karmiotissa Polemidion
+
+
+Matchday 3
+[Sat Apr/1]
+  16.00  Doxa Katokopias          3-0 (2-0)  Karmiotissa Polemidion
+  17.00  Aris Limassol            0-1 (0-0)  Ethnikos Achna
+[Mon Apr/3]
+  19.00  Nea Salamina             4-1 (2-0)  Ermis Aradippou
+
+
+Matchday 4
+[Sat Apr/8]
+  16.00  Doxa Katokopias          3-3 (3-3)  Ethnikos Achna
+  17.00  Karmiotissa Polemidion   2-0 (1-0)  Nea Salamina
+[Sun Apr/9]
+  17.00  Ermis Aradippou          2-1 (0-1)  Aris Limassol
+
+
+Matchday 5
+[Wed Apr/12]
+  17.00  Ethnikos Achna           1-1 (0-0)  Ermis Aradippou
+         Aris Limassol            3-2 (1-1)  Karmiotissa Polemidion
+[Thu Apr/13]
+  16.00  Nea Salamina             0-0  Doxa Katokopias
+
+
+Matchday 6
+[Sat Apr/22]
+  16.00  Ermis Aradippou          1-5 (1-3)  Doxa Katokopias
+  18.00  Ethnikos Achna           1-1 (0-1)  Karmiotissa Polemidion
+  19.00  Aris Limassol            1-1 (0-1)  Nea Salamina
+
+
+Matchday 7
+[Sat Apr/29]
+  18.00  Doxa Katokopias          0-1 (0-1)  Aris Limassol
+  19.00  Karmiotissa Polemidion   0-1 (0-0)  Ermis Aradippou
+[Sun Apr/30]
+  19.00  Nea Salamina             0-1 (0-1)  Ethnikos Achna
+
+
+Matchday 8
+[Sat May/6]
+  17.00  Ermis Aradippou          3-0 (0-0)  Nea Salamina
+  19.00  Ethnikos Achna           1-1 (1-1)  Aris Limassol
+[Sun May/7]
+  17.00  Karmiotissa Polemidion   1-2 (1-2)  Doxa Katokopias
+
+
+Matchday 9
+[Sat May/13]
+  19.00  Aris Limassol            2-0 (1-0)  Ermis Aradippou
+[Sun May/14]
+  19.00  Ethnikos Achna           0-4 (0-1)  Doxa Katokopias
+         Nea Salamina             1-0 (0-0)  Karmiotissa Polemidion
+
+
+Matchday 10
+[Sun May/21]
+  17.00  Ermis Aradippou          3-4 (3-3)  Ethnikos Achna
+  19.00  Karmiotissa Polemidion   5-1 (2-0)  Aris Limassol
+         Doxa Katokopias          0-3 (0-0)  Nea Salamina
+
+
+== Championship
+
+Matchday 1
+[Sat Mar/11]
+  19.00  AEL Limassol             1-1 (1-0)  Apollon Limassol
+[Sun Mar/12]
+  18.00  Anorthosis Famagusta     0-1 (0-1)  APOEL Nikosia
+[Mon Mar/13]
+  19.00  AEK Larnaca              1-1 (1-0)  Omonia Nikosia
+
+
+Matchday 2
+[Sat Mar/18]
+  16.00  Apollon Limassol         3-2 (1-1)  AEK Larnaca
+  19.00  Omonia Nikosia           2-0 (1-0)  Anorthosis Famagusta
+[Mon Mar/20]
+  19.00  APOEL Nikosia            2-0 (1-0)  AEL Limassol
+
+
+Matchday 3
+[Sat Apr/1]
+  19.00  AEK Larnaca              2-1 (0-1)  APOEL Nikosia
+[Sun Apr/2]
+  17.00  Omonia Nikosia           0-2 (0-0)  Apollon Limassol
+  18.00  Anorthosis Famagusta     0-1 (0-1)  AEL Limassol
+
+
+Matchday 4
+[Sat Apr/8]
+  19.00  Anorthosis Famagusta     3-1 (2-0)  Apollon Limassol
+[Sun Apr/9]
+  16.00  APOEL Nikosia            1-0 (1-0)  Omonia Nikosia
+  18.00  AEL Limassol             2-1 (1-1)  AEK Larnaca
+
+
+Matchday 5
+[Wed Apr/12]
+  16.00  Omonia Nikosia           2-1 (1-0)  AEL Limassol
+  18.00  AEK Larnaca              1-0 (0-0)  Anorthosis Famagusta
+[Thu Apr/13]
+  16.00  Apollon Limassol         1-0 (1-0)  APOEL Nikosia
+
+
+Matchday 6
+[Sat Apr/22]
+  17.00  Omonia Nikosia           1-2 (1-1)  AEK Larnaca
+[Sun Apr/23]
+  16.00  APOEL Nikosia            1-1 (0-1)  Anorthosis Famagusta
+  18.00  Apollon Limassol         1-1 (0-1)  AEL Limassol
+
+
+Matchday 7
+[Sat Apr/29]
+  16.00  Anorthosis Famagusta     4-3 (3-2)  Omonia Nikosia
+[Sun Apr/30]
+  16.00  AEK Larnaca              1-0 (0-0)  Apollon Limassol
+  18.00  AEL Limassol             1-4 (0-2)  APOEL Nikosia
+
+
+Matchday 8
+[Sun May/7]
+  17.00  Apollon Limassol         3-0 (1-0)  Omonia Nikosia
+  19.00  APOEL Nikosia            0-0  AEK Larnaca
+[Mon May/8]
+  19.00  AEL Limassol             2-0 (1-0)  Anorthosis Famagusta
+
+
+Matchday 9
+[Sat May/13]
+  18.00  Omonia Nikosia           1-3 (1-1)  APOEL Nikosia
+         AEK Larnaca              1-1 (1-0)  AEL Limassol
+[Sun May/14]
+  18.00  Apollon Limassol         1-1 (0-0)  Anorthosis Famagusta
+
+
+Matchday 10
+[Sat May/20]
+  19.00  APOEL Nikosia            2-2 (0-0)  Apollon Limassol
+         Anorthosis Famagusta     0-1 (0-1)  AEK Larnaca
+[Sun May/21]
+  19.00  AEL Limassol             3-2 (1-0)  Omonia Nikosia

@@ -1,0 +1,538 @@
+= ES 2 1970/71
+
+# Date       Sun Sep/6 1970 - Sun Jun/6 1971 (273d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Sep/6]
+         CD Castellón             2-1  Racing Santander
+         Cádiz CF                 1-2  Villarreal CF
+         Hércules CF              2-0  Racing Ferrol
+         CD Logroñés              2-2  Real Betis
+         CDC Moscardó             0-3  Rayo Vallecano
+         CF Calvo Sotelo          0-1  Burgos CF
+         Ontinyent CF             2-2  Pontevedra CF
+         Deportivo La Coruña      2-1  RCD Mallorca
+         UE Sant Andreu           2-0  Real Oviedo
+         UP Langreo               1-0  Córdoba CF
+
+
+Matchday 2
+[Sun Sep/13]
+         Racing Santander         0-1  UP Langreo
+         Real Betis               2-1  CF Calvo Sotelo
+         Villarreal CF            1-1  Deportivo La Coruña
+         RCD Mallorca             5-1  CDC Moscardó
+         Rayo Vallecano           1-0  Hércules CF
+         Córdoba CF               3-1  Ontinyent CF
+         Racing Ferrol            0-1  CD Castellón
+         Real Oviedo              1-2  Cádiz CF
+         Pontevedra CF            2-1  CD Logroñés
+         Burgos CF                3-1  UE Sant Andreu
+
+
+Matchday 3
+[Sun Sep/20]
+         CD Castellón             2-0  Rayo Vallecano
+         Cádiz CF                 3-1  Burgos CF
+         Hércules CF              3-1  RCD Mallorca
+         CD Logroñés              3-1  CF Calvo Sotelo
+         Pontevedra CF            2-0  Córdoba CF
+         CDC Moscardó             1-0  Villarreal CF
+         Ontinyent CF             0-1  Racing Santander
+         Deportivo La Coruña      1-0  Real Oviedo
+         UE Sant Andreu           0-0  Real Betis
+         UP Langreo               0-1  Racing Ferrol
+
+
+Matchday 4
+[Sun Sep/27]
+         Racing Santander         2-0  Pontevedra CF
+         Real Betis               1-0  Cádiz CF
+         Villarreal CF            1-2  Hércules CF
+         RCD Mallorca             1-2  CD Castellón
+         Rayo Vallecano           2-0  UP Langreo
+         Córdoba CF               3-1  CD Logroñés
+         Racing Ferrol            1-0  Ontinyent CF
+         Real Oviedo              2-0  CDC Moscardó
+         Burgos CF                3-1  Deportivo La Coruña
+         CF Calvo Sotelo          3-0  UE Sant Andreu
+
+
+Matchday 5
+[Sun Oct/4]
+         CD Castellón             1-1  Villarreal CF
+         Cádiz CF                 3-0  CF Calvo Sotelo
+         Hércules CF              1-1  Real Oviedo
+         CD Logroñés              1-0  UE Sant Andreu
+         Córdoba CF               1-0  Racing Santander
+         Pontevedra CF            2-0  Racing Ferrol
+         CDC Moscardó             0-0  Burgos CF
+         Ontinyent CF             0-0  Rayo Vallecano
+         Deportivo La Coruña      3-1  Real Betis
+         UP Langreo               0-0  RCD Mallorca
+
+
+Matchday 6
+[Sun Oct/11]
+         Racing Santander         0-2  CD Logroñés
+         Real Betis               2-1  CDC Moscardó
+         Villarreal CF            2-0  UP Langreo
+         RCD Mallorca             1-1  Ontinyent CF
+         Rayo Vallecano           4-2  Pontevedra CF
+         Racing Ferrol            1-0  Córdoba CF
+         Real Oviedo              3-2  CD Castellón
+         Burgos CF                1-0  Hércules CF
+         CF Calvo Sotelo          0-1  Deportivo La Coruña
+         UE Sant Andreu           1-0  Cádiz CF
+
+
+Matchday 7
+[Sun Oct/18]
+         Racing Santander         1-0  Racing Ferrol
+         CD Castellón             1-0  Burgos CF
+         Hércules CF              0-0  Real Betis
+         CD Logroñés              3-1  Cádiz CF
+         Córdoba CF               4-1  Rayo Vallecano
+         Pontevedra CF            0-0  RCD Mallorca
+         CDC Moscardó             2-1  CF Calvo Sotelo
+         Ontinyent CF             2-2  Villarreal CF
+         Deportivo La Coruña      0-0  UE Sant Andreu
+         UP Langreo               1-0  Real Oviedo
+
+
+Matchday 8
+[Sun Oct/25]
+         Real Betis               4-0  CD Castellón
+         Villarreal CF            2-0  Pontevedra CF
+         RCD Mallorca             0-1  Córdoba CF
+         Cádiz CF                 3-1  Deportivo La Coruña
+         Rayo Vallecano           2-0  Racing Santander
+         Racing Ferrol            4-1  CD Logroñés
+         Real Oviedo              3-0  Ontinyent CF
+         Burgos CF                2-0  UP Langreo
+         CF Calvo Sotelo          1-1  Hércules CF
+         UE Sant Andreu           0-0  CDC Moscardó
+
+
+Matchday 9
+[Sun Nov/1]
+         Racing Santander         1-1  RCD Mallorca
+         CD Castellón             0-0  CF Calvo Sotelo
+         Hércules CF              1-0  UE Sant Andreu
+         CD Logroñés              0-0  Deportivo La Coruña
+         Córdoba CF               5-1  Villarreal CF
+         Racing Ferrol            1-0  Rayo Vallecano
+         Pontevedra CF            0-0  Real Oviedo
+         CDC Moscardó             0-0  Cádiz CF
+         Ontinyent CF             4-0  Burgos CF
+         UP Langreo               0-0  Real Betis
+
+
+Matchday 10
+[Sun Nov/8]
+         Real Betis               1-0  Ontinyent CF
+         Villarreal CF            1-1  Racing Santander
+         RCD Mallorca             1-1  Racing Ferrol
+         Cádiz CF                 0-0  Hércules CF
+         Rayo Vallecano           1-0  CD Logroñés
+         Real Oviedo              3-2  Córdoba CF
+         Burgos CF                2-0  Pontevedra CF
+         CF Calvo Sotelo          1-0  UP Langreo
+         Deportivo La Coruña      3-1  CDC Moscardó
+         UE Sant Andreu           3-1  CD Castellón
+
+
+Matchday 11
+[Sun Nov/15]
+         Racing Santander         3-2  Real Oviedo
+         CD Castellón             1-1  Cádiz CF
+         Hércules CF              0-0  Deportivo La Coruña
+         Rayo Vallecano           0-0  RCD Mallorca
+         CD Logroñés              4-1  CDC Moscardó
+         Córdoba CF               3-0  Burgos CF
+         Racing Ferrol            1-0  Villarreal CF
+         Pontevedra CF            5-2  Real Betis
+         Ontinyent CF             2-0  CF Calvo Sotelo
+         UP Langreo               1-1  UE Sant Andreu
+
+
+Matchday 12
+[Sun Nov/22]
+         Real Betis               0-1  Córdoba CF
+         Villarreal CF            2-1  Rayo Vallecano
+         RCD Mallorca             3-0  CD Logroñés
+         Cádiz CF                 0-0  UP Langreo
+         Real Oviedo              6-1  Racing Ferrol
+         Burgos CF                3-1  Racing Santander
+         CDC Moscardó             2-0  Hércules CF
+         CF Calvo Sotelo          1-0  Pontevedra CF
+         Deportivo La Coruña      1-0  CD Castellón
+         UE Sant Andreu           2-1  Ontinyent CF
+
+
+Matchday 13
+[Sun Nov/29]
+         Racing Santander         0-1  Real Betis
+         CD Castellón             3-0  CDC Moscardó
+         RCD Mallorca             2-1  Villarreal CF
+         Rayo Vallecano           1-0  Real Oviedo
+         CD Logroñés              1-0  Hércules CF
+         Córdoba CF               2-1  CF Calvo Sotelo
+         Racing Ferrol            1-0  Burgos CF
+         Pontevedra CF            0-2  UE Sant Andreu
+         Ontinyent CF             0-0  Cádiz CF
+         UP Langreo               1-0  Deportivo La Coruña
+
+
+Matchday 14
+[Sun Dec/6]
+         Real Betis               4-0  Racing Ferrol
+         Villarreal CF            2-0  CD Logroñés
+         Cádiz CF                 0-0  Pontevedra CF
+         Hércules CF              1-1  CD Castellón
+         Real Oviedo              0-1  RCD Mallorca
+         Burgos CF                2-0  Rayo Vallecano
+         CDC Moscardó             1-1  UP Langreo
+         CF Calvo Sotelo          3-2  Racing Santander
+         Deportivo La Coruña      4-0  Ontinyent CF
+         UE Sant Andreu           2-1  Córdoba CF
+
+
+Matchday 15
+[Sun Dec/13]
+         Racing Santander         2-0  UE Sant Andreu
+         Villarreal CF            2-1  Real Oviedo
+         RCD Mallorca             2-1  Burgos CF
+         Rayo Vallecano           0-1  Real Betis
+         CD Logroñés              0-1  CD Castellón
+         Córdoba CF               0-0  Cádiz CF
+         Racing Ferrol            1-0  CF Calvo Sotelo
+         Pontevedra CF            1-0  Deportivo La Coruña
+         Ontinyent CF             0-1  CDC Moscardó
+         UP Langreo               0-0  Hércules CF
+
+
+Matchday 16
+[Sun Dec/20]
+         Real Betis               2-0  RCD Mallorca
+         CD Castellón             2-0  UP Langreo
+         Cádiz CF                 3-0  Racing Santander
+         Hércules CF              1-1  Ontinyent CF
+         Real Oviedo              0-0  CD Logroñés
+         Burgos CF                2-1  Villarreal CF
+         CDC Moscardó             0-0  Pontevedra CF
+         CF Calvo Sotelo          0-1  Rayo Vallecano
+         Deportivo La Coruña      1-0  Córdoba CF
+         UE Sant Andreu           2-0  Racing Ferrol
+
+
+Matchday 17
+[Sun Dec/27]
+         Racing Santander         2-0  Deportivo La Coruña
+         Villarreal CF            1-3  Real Betis
+         RCD Mallorca             3-0  CF Calvo Sotelo
+         Rayo Vallecano           3-0  UE Sant Andreu
+         CD Logroñés              0-2  UP Langreo
+         Córdoba CF               2-0  CDC Moscardó
+         Racing Ferrol            0-1  Cádiz CF
+         Real Oviedo              2-1  Burgos CF
+         Pontevedra CF            2-0  Hércules CF
+         Ontinyent CF             1-0  CD Castellón
+
+
+Matchday 18
+[Sun Jan/3]
+         Real Betis               1-0  Real Oviedo
+         CD Castellón             2-0  Pontevedra CF
+         Cádiz CF                 0-0  Rayo Vallecano
+         Hércules CF              2-2  Córdoba CF
+         CD Logroñés              0-1  Burgos CF
+         CDC Moscardó             0-1  Racing Santander
+         CF Calvo Sotelo          4-0  Villarreal CF
+         Deportivo La Coruña      2-2  Racing Ferrol
+         UE Sant Andreu           1-1  RCD Mallorca
+         UP Langreo               1-0  Ontinyent CF
+
+
+Matchday 19
+[Sun Jan/10]
+         Racing Santander         4-1  Hércules CF
+         Villarreal CF            1-1  UE Sant Andreu
+         RCD Mallorca             2-1  Cádiz CF
+         Rayo Vallecano           1-1  Deportivo La Coruña
+         Córdoba CF               1-0  CD Castellón
+         Racing Ferrol            3-1  CDC Moscardó
+         Real Oviedo              0-0  CF Calvo Sotelo
+         Pontevedra CF            2-0  UP Langreo
+         Burgos CF                1-0  Real Betis
+         Ontinyent CF             1-1  CD Logroñés
+
+
+Matchday 20
+[Sun Jan/17]
+         Racing Santander         2-1  CD Castellón
+         Real Betis               3-2  CD Logroñés
+         Villarreal CF            1-0  Cádiz CF
+         RCD Mallorca             2-1  Deportivo La Coruña
+         Rayo Vallecano           2-1  CDC Moscardó
+         Córdoba CF               2-1  UP Langreo
+         Racing Ferrol            3-0  Hércules CF
+         Real Oviedo              1-0  UE Sant Andreu
+         Pontevedra CF            2-0  Ontinyent CF
+         Burgos CF                3-0  CF Calvo Sotelo
+
+
+Matchday 21
+[Sun Jan/24]
+         CD Castellón             2-0  Racing Ferrol
+         Cádiz CF                 0-1  Real Oviedo
+         Hércules CF              1-0  Rayo Vallecano
+         CD Logroñés              1-1  Pontevedra CF
+         CDC Moscardó             1-1  RCD Mallorca
+         CF Calvo Sotelo          3-1  Real Betis
+         Ontinyent CF             0-0  Córdoba CF
+         Deportivo La Coruña      2-0  Villarreal CF
+         UE Sant Andreu           1-0  Burgos CF
+         UP Langreo               1-0  Racing Santander
+
+
+Matchday 22
+[Sun Jan/31]
+         Racing Santander         3-0  Ontinyent CF
+         Real Betis               3-1  UE Sant Andreu
+         Villarreal CF            3-2  CDC Moscardó
+         RCD Mallorca             2-2  Hércules CF
+         Rayo Vallecano           3-0  CD Castellón
+         Córdoba CF               1-2  Pontevedra CF
+         Racing Ferrol            4-0  UP Langreo
+         Real Oviedo              3-2  Deportivo La Coruña
+         Burgos CF                5-0  Cádiz CF
+         CF Calvo Sotelo          1-1  CD Logroñés
+
+
+Matchday 23
+[Sun Feb/7]
+         CD Castellón             0-0  RCD Mallorca
+         Cádiz CF                 1-1  Real Betis
+         Hércules CF              2-1  Villarreal CF
+         CD Logroñés              0-0  Córdoba CF
+         Pontevedra CF            1-0  Racing Santander
+         CDC Moscardó             0-0  Real Oviedo
+         Ontinyent CF             1-1  Racing Ferrol
+         Deportivo La Coruña      2-1  Burgos CF
+         UE Sant Andreu           1-0  CF Calvo Sotelo
+         UP Langreo               0-0  Rayo Vallecano
+
+
+Matchday 24
+[Sun Feb/14]
+         Racing Santander         0-0  Córdoba CF
+         Real Betis               1-1  Deportivo La Coruña
+         Villarreal CF            0-2  CD Castellón
+         RCD Mallorca             3-0  UP Langreo
+         Rayo Vallecano           0-0  Ontinyent CF
+         Racing Ferrol            2-1  Pontevedra CF
+         Real Oviedo              4-1  Hércules CF
+         Burgos CF                1-0  CDC Moscardó
+         CF Calvo Sotelo          1-2  Cádiz CF
+         UE Sant Andreu           1-0  CD Logroñés
+
+
+Matchday 25
+[Sun Feb/21]
+         CD Castellón             2-0  Real Oviedo
+         Cádiz CF                 2-0  UE Sant Andreu
+         Hércules CF              1-0  Burgos CF
+         CD Logroñés              4-1  Racing Santander
+         Córdoba CF               2-1  Racing Ferrol
+         Pontevedra CF            2-1  Rayo Vallecano
+         CDC Moscardó             0-0  Real Betis
+         Ontinyent CF             0-0  RCD Mallorca
+         Deportivo La Coruña      1-0  CF Calvo Sotelo
+         UP Langreo               2-1  Villarreal CF
+
+
+Matchday 26
+[Sun Feb/28]
+         Real Betis               3-0  Hércules CF
+         Villarreal CF            1-1  Ontinyent CF
+         RCD Mallorca             2-1  Pontevedra CF
+         Cádiz CF                 1-1  CD Logroñés
+         Rayo Vallecano           2-1  Córdoba CF
+         Racing Ferrol            1-1  Racing Santander
+         Real Oviedo              4-1  UP Langreo
+         Burgos CF                1-0  CD Castellón
+         CF Calvo Sotelo          2-0  CDC Moscardó
+         UE Sant Andreu           2-0  Deportivo La Coruña
+
+
+Matchday 27
+[Sun Mar/7]
+         Racing Santander         3-3  Rayo Vallecano
+         CD Castellón             0-1  Real Betis
+         Hércules CF              2-0  CF Calvo Sotelo
+         CD Logroñés              0-0  Racing Ferrol
+         Córdoba CF               0-0  RCD Mallorca
+         Pontevedra CF            3-0  Villarreal CF
+         CDC Moscardó             0-0  UE Sant Andreu
+         Ontinyent CF             2-1  Real Oviedo
+         Deportivo La Coruña      1-0  Cádiz CF
+         UP Langreo               0-0  Burgos CF
+
+
+Matchday 28
+[Sun Mar/14]
+         Real Betis               3-0  UP Langreo
+         Villarreal CF            0-2  Córdoba CF
+         RCD Mallorca             4-2  Racing Santander
+         Cádiz CF                 1-0  CDC Moscardó
+         Rayo Vallecano           2-0  Racing Ferrol
+         Real Oviedo              1-2  Pontevedra CF
+         Burgos CF                4-0  Ontinyent CF
+         CF Calvo Sotelo          2-2  CD Castellón
+         Deportivo La Coruña      1-0  CD Logroñés
+         UE Sant Andreu           2-0  Hércules CF
+
+
+Matchday 29
+[Sun Mar/21]
+         Racing Santander         2-0  Villarreal CF
+         CD Castellón             0-2  UE Sant Andreu
+         Hércules CF              2-0  Cádiz CF
+         CD Logroñés              1-0  Rayo Vallecano
+         Córdoba CF               0-0  Real Oviedo
+         Racing Ferrol            2-0  RCD Mallorca
+         Pontevedra CF            0-0  Burgos CF
+         CDC Moscardó             2-0  Deportivo La Coruña
+         Ontinyent CF             1-1  Real Betis
+         UP Langreo               0-2  CF Calvo Sotelo
+
+
+Matchday 30
+[Sun Mar/28]
+         Real Betis               2-0  Pontevedra CF
+         Villarreal CF            3-0  Racing Ferrol
+         RCD Mallorca             1-1  Rayo Vallecano
+         Cádiz CF                 0-0  CD Castellón
+         Real Oviedo              0-0  Racing Santander
+         Burgos CF                1-0  Córdoba CF
+         CDC Moscardó             0-0  CD Logroñés
+         CF Calvo Sotelo          2-2  Ontinyent CF
+         Deportivo La Coruña      4-1  Hércules CF
+         UE Sant Andreu           1-1  UP Langreo
+
+
+Matchday 31
+[Sun Apr/4]
+         Racing Santander         1-0  Burgos CF
+         CD Castellón             0-0  Deportivo La Coruña
+         Hércules CF              2-1  CDC Moscardó
+         Rayo Vallecano           3-0  Villarreal CF
+         CD Logroñés              0-0  RCD Mallorca
+         Córdoba CF               1-1  Real Betis
+         Racing Ferrol            2-0  Real Oviedo
+         Pontevedra CF            2-0  CF Calvo Sotelo
+         Ontinyent CF             1-0  UE Sant Andreu
+         UP Langreo               0-1  Cádiz CF
+
+
+Matchday 32
+[Sun Apr/11]
+         Real Betis               3-1  Racing Santander
+         Villarreal CF            1-0  RCD Mallorca
+         Cádiz CF                 0-0  Ontinyent CF
+         Hércules CF              0-0  CD Logroñés
+         Real Oviedo              0-1  Rayo Vallecano
+         Burgos CF                2-1  Racing Ferrol
+         CDC Moscardó             1-1  CD Castellón
+         CF Calvo Sotelo          1-1  Córdoba CF
+         Deportivo La Coruña      2-0  UP Langreo
+         UE Sant Andreu           1-1  Pontevedra CF
+
+
+Matchday 33
+[Sun Apr/18]
+         Racing Santander         2-0  CF Calvo Sotelo
+         CD Castellón             3-0  Hércules CF
+         RCD Mallorca             1-0  Real Oviedo
+         Rayo Vallecano           1-2  Burgos CF
+         CD Logroñés              3-0  Villarreal CF
+         Córdoba CF               3-0  UE Sant Andreu
+         Racing Ferrol            0-0  Real Betis
+         Pontevedra CF            2-2  Cádiz CF
+         Ontinyent CF             1-0  Deportivo La Coruña
+         UP Langreo               2-0  CDC Moscardó
+
+
+Matchday 34
+[Sun May/9]
+         Real Betis               1-1  Rayo Vallecano
+         CD Castellón             1-0  CD Logroñés
+         Cádiz CF                 1-1  Córdoba CF
+         Hércules CF              1-0  UP Langreo
+         Real Oviedo              0-0  Villarreal CF
+         Burgos CF                1-1  RCD Mallorca
+         CDC Moscardó             1-0  Ontinyent CF
+         CF Calvo Sotelo          3-0  Racing Ferrol
+         Deportivo La Coruña      1-0  Pontevedra CF
+         UE Sant Andreu           2-1  Racing Santander
+
+
+Matchday 35
+[Sun May/16]
+         Racing Santander         5-1  Cádiz CF
+         Villarreal CF            0-0  Burgos CF
+         RCD Mallorca             0-1  Real Betis
+         Rayo Vallecano           2-0  CF Calvo Sotelo
+         CD Logroñés              0-1  Real Oviedo
+         Córdoba CF               1-1  Deportivo La Coruña
+         Racing Ferrol            1-1  UE Sant Andreu
+         Pontevedra CF            1-0  CDC Moscardó
+         Ontinyent CF             2-1  Hércules CF
+         UP Langreo               0-0  CD Castellón
+
+
+Matchday 36
+[Sun May/23]
+         Real Betis               1-1  Villarreal CF
+         CD Castellón             2-0  Ontinyent CF
+         Cádiz CF                 0-0  Racing Ferrol
+         Hércules CF              3-1  Pontevedra CF
+         Burgos CF                1-1  Real Oviedo
+         CDC Moscardó             0-2  Córdoba CF
+         CF Calvo Sotelo          3-1  RCD Mallorca
+         Deportivo La Coruña      2-0  Racing Santander
+         UE Sant Andreu           0-2  Rayo Vallecano
+         UP Langreo               2-0  CD Logroñés
+
+
+Matchday 37
+[Sun May/30]
+         Racing Santander         1-0  CDC Moscardó
+         Villarreal CF            1-0  CF Calvo Sotelo
+         RCD Mallorca             0-0  UE Sant Andreu
+         Rayo Vallecano           6-0  Cádiz CF
+         Córdoba CF               2-1  Hércules CF
+         Racing Ferrol            1-0  Deportivo La Coruña
+         Real Oviedo              0-0  Real Betis
+         Pontevedra CF            1-1  CD Castellón
+         Burgos CF                0-0  CD Logroñés
+         Ontinyent CF             3-2  UP Langreo
+
+
+Matchday 38
+[Sun Jun/6]
+         Real Betis               1-0  Burgos CF
+         CD Castellón             1-0  Córdoba CF
+         Cádiz CF                 1-0  RCD Mallorca
+         Hércules CF              4-1  Racing Santander
+         CD Logroñés              2-0  Ontinyent CF
+         CDC Moscardó             1-2  Racing Ferrol
+         CF Calvo Sotelo          1-0  Real Oviedo
+         Deportivo La Coruña      1-0  Rayo Vallecano
+         UE Sant Andreu           1-1  Villarreal CF
+         UP Langreo               3-1  Pontevedra CF

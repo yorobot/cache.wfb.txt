@@ -1,0 +1,825 @@
+= VE 1 2020
+
+# Date       Thu Jan/30 - Tue Dec/15 2020 (320d)
+# Teams      19
+# Matches    472
+# Stages     Grupo A (72)  Grupo B (56)  Playoffs (2)  Torneo Original (342)
+
+
+== Grupo A
+
+Matchday 1
+[Wed Oct/14]
+  17.00  Estudiantes de Mérida    1-2 (1-0)  Yaracuyanos FC
+  20.00  Mineros de Guayana       2-1 (2-0)  Atlético Venezuela
+[Thu Oct/15]
+  17.00  Deportivo Lara           3-0 (2-0)  Trujillanos FC
+  20.00  Deportivo La Guaira      2-0 (0-0)  Carabobo FC
+
+
+Matchday 2
+[Sat Oct/17]
+  17.00  Carabobo FC              2-2 (0-0)  Mineros de Guayana
+  20.00  Trujillanos FC           1-1 (1-0)  Estudiantes de Mérida
+[Sun Oct/18]
+  17.00  Yaracuyanos FC           0-0  Academia Puerto Cabello
+  20.00  Atlético Venezuela       0-3 (0-1)  Deportivo Lara
+
+
+Matchday 3
+[Tue Oct/20]
+  17.00  Deportivo La Guaira      1-2 (1-0)  Trujillanos FC
+  20.00  Mineros de Guayana       3-1 (2-1)  Yaracuyanos FC
+[Wed Oct/21]
+  17.00  Deportivo Lara           0-0  Academia Puerto Cabello
+  20.00  Carabobo FC              0-0  Atlético Venezuela
+
+
+Matchday 4
+[Sat Oct/24]
+  17.00  Deportivo La Guaira      1-0 (0-0)  Deportivo Lara
+  20.00  Atlético Venezuela       2-2 (0-0)  Academia Puerto Cabello
+[Sun Oct/25]
+  17.00  Carabobo FC              2-2 (0-0)  Estudiantes de Mérida
+  20.00  Trujillanos FC           1-2 (0-0)  Yaracuyanos FC
+
+
+Matchday 5
+[Tue Oct/27]
+  17.00  Estudiantes de Mérida    1-2 (0-1)  Deportivo La Guaira
+  20.00  Deportivo Lara           1-1 (1-1)  Mineros de Guayana
+[Wed Oct/28]
+  17.00  Academia Puerto Cabello  2-1 (1-0)  Carabobo FC
+  20.00  Yaracuyanos FC           4-2 (1-2)  Atlético Venezuela
+
+
+Matchday 6
+[Sat Oct/31]
+  17.00  Mineros de Guayana       2-3 (1-2)  Estudiantes de Mérida
+  20.00  Carabobo FC              0-2 (0-1)  Yaracuyanos FC
+[Sun Nov/1]
+  17.00  Deportivo La Guaira      3-0 (1-0)  Academia Puerto Cabello
+  20.00  Atlético Venezuela       1-0 (0-0)  Trujillanos FC
+
+
+Matchday 7
+[Tue Nov/3]
+  17.00  Academia Puerto Cabello  0-0  Mineros de Guayana
+[Wed Nov/4]
+  17.00  Yaracuyanos FC           1-1 (1-1)  Deportivo La Guaira
+  20.00  Trujillanos FC           3-0 (1-0)  Carabobo FC
+         Estudiantes de Mérida    0-1 (0-1)  Deportivo Lara
+
+
+Matchday 8
+[Sat Nov/7]
+  17.00  Estudiantes de Mérida    2-0 (1-0)  Atlético Venezuela
+  20.00  Mineros de Guayana       0-2 (0-0)  Deportivo La Guaira
+[Sun Nov/8]
+  17.00  Deportivo Lara           2-2 (1-0)  Carabobo FC
+  20.00  Academia Puerto Cabello  1-3 (0-0)  Trujillanos FC
+
+
+Matchday 9
+[Tue Nov/10]
+  17.00  Atlético Venezuela       2-3 (2-2)  Deportivo La Guaira
+  20.00  Yaracuyanos FC           1-1 (0-0)  Deportivo Lara
+[Wed Nov/11]
+  17.00  Trujillanos FC           1-2 (0-0)  Mineros de Guayana
+  20.00  Academia Puerto Cabello  2-2 (0-2)  Estudiantes de Mérida
+
+
+Matchday 10
+[Sat Nov/14]
+  17.00  Yaracuyanos FC           1-1 (0-1)  Estudiantes de Mérida
+  20.00  Atlético Venezuela       3-1 (2-0)  Mineros de Guayana
+[Sun Nov/15]
+  17.00  Trujillanos FC           1-2 (1-0)  Deportivo Lara
+  20.00  Carabobo FC              0-2 (0-0)  Deportivo La Guaira
+
+
+Matchday 11
+[Tue Nov/17]
+  17.00  Academia Puerto Cabello  1-0 (0-0)  Yaracuyanos FC
+  20.00  Estudiantes de Mérida    1-2 (1-0)  Trujillanos FC
+[Wed Nov/18]
+  17.00  Deportivo Lara           4-0 (1-0)  Atlético Venezuela
+  20.00  Mineros de Guayana       4-2 (1-1)  Carabobo FC
+
+
+Matchday 12
+[Sat Nov/21]
+  17.00  Academia Puerto Cabello  0-0  Deportivo Lara
+  20.00  Trujillanos FC           0-2 (0-1)  Deportivo La Guaira
+[Sun Nov/22]
+  17.00  Atlético Venezuela       2-0 (1-0)  Carabobo FC
+  20.00  Yaracuyanos FC           0-1 (0-0)  Mineros de Guayana
+
+
+Matchday 13
+[Tue Nov/24]
+  17.00  Deportivo Lara           1-0 (1-0)  Deportivo La Guaira
+  20.00  Academia Puerto Cabello  2-2 (0-0)  Atlético Venezuela
+[Wed Nov/25]
+  17.00  Estudiantes de Mérida    3-2 (3-1)  Carabobo FC
+  20.00  Yaracuyanos FC           1-1 (1-1)  Trujillanos FC
+
+
+Matchday 14
+[Sat Nov/28]
+  17.00  Atlético Venezuela       0-1 (0-1)  Yaracuyanos FC
+  20.00  Deportivo La Guaira      1-1 (0-1)  Estudiantes de Mérida
+[Sun Nov/29]
+  17.00  Carabobo FC              0-3 (0-3)  Academia Puerto Cabello
+  20.00  Mineros de Guayana       1-2 (1-0)  Deportivo Lara
+
+
+Matchday 15
+[Tue Dec/1]
+  17.00  Trujillanos FC           1-0 (0-0)  Atlético Venezuela
+  20.00  Yaracuyanos FC           1-1 (0-0)  Carabobo FC
+[Wed Dec/2]
+  17.00  Academia Puerto Cabello  1-1 (1-1)  Deportivo La Guaira
+  20.00  Estudiantes de Mérida    3-2 (2-0)  Mineros de Guayana
+
+
+Matchday 16
+[Fri Dec/4]
+  20.00  Mineros de Guayana       0-2 (0-1)  Academia Puerto Cabello
+[Sat Dec/5]
+  15.00  Carabobo FC              2-2 (1-0)  Trujillanos FC
+  17.00  Deportivo La Guaira      2-1 (1-1)  Yaracuyanos FC
+  20.00  Deportivo Lara           1-2 (0-0)  Estudiantes de Mérida
+
+
+Matchday 17
+[Wed Dec/9]
+  15.00  Trujillanos FC           0-4 (0-2)  Academia Puerto Cabello
+  17.00  Atlético Venezuela       2-1 (2-0)  Estudiantes de Mérida
+  18.00  Carabobo FC              0-3 (0-2)  Deportivo Lara
+  20.00  Deportivo La Guaira      0-1 (0-1)  Mineros de Guayana
+
+
+Matchday 18
+[Sat Dec/12]
+  17.00  Deportivo La Guaira      2-0 (0-0)  Atlético Venezuela
+         Deportivo Lara           3-0 (2-0)  Yaracuyanos FC
+  20.00  Mineros de Guayana       2-1 (1-1)  Trujillanos FC
+  21.00  Estudiantes de Mérida    1-2 (1-1)  Academia Puerto Cabello
+
+
+== Grupo B
+
+Matchday 1
+[Sun Oct/25]
+  17.00  Metropolitanos FC        2-2 (1-0)  Aragua FC
+  20.00  Caracas FC               1-0 (1-0)  Zamora FC
+[Mon Oct/26]
+  17.00  Monagas                  1-2 (0-1)  Deportivo Táchira
+  20.00  Portuguesa FC            0-0  GV Maracay
+
+
+Matchday 2
+[Thu Oct/29]
+  17.00  Zamora FC                1-0 (1-0)  Monagas
+  20.00  Deportivo Táchira        1-0 (0-0)  Metropolitanos FC
+[Fri Oct/30]
+  17.00  GV Maracay               0-4 (0-2)  Caracas FC
+  20.00  Aragua FC                1-0 (0-0)  Portuguesa FC
+
+
+Matchday 3
+[Sun Nov/1]
+  17.00  Zamora FC                0-1 (0-0)  Deportivo Táchira
+  20.00  Caracas FC               1-0 (1-0)  Monagas
+[Mon Nov/2]
+  17.00  Aragua FC                1-1 (1-1)  GV Maracay
+  20.00  Metropolitanos FC        1-1 (0-0)  Portuguesa FC
+
+
+Matchday 4
+[Thu Nov/5]
+  17.00  Monagas                  1-0 (1-0)  Aragua FC
+  20.00  Portuguesa FC            2-1 (1-1)  Zamora FC
+[Fri Nov/6]
+  17.00  GV Maracay               1-1 (1-0)  Metropolitanos FC
+  20.00  Deportivo Táchira        1-1 (1-0)  Caracas FC
+
+
+Matchday 5
+[Sun Nov/8]
+  17.00  Monagas                  1-0 (1-0)  Portuguesa FC
+  20.00  Zamora FC                1-0 (1-0)  GV Maracay
+[Mon Nov/9]
+  17.00  Aragua FC                0-1 (0-0)  Deportivo Táchira
+  20.00  Caracas FC               2-1 (2-0)  Metropolitanos FC
+
+
+Matchday 6
+[Thu Nov/12]
+  17.00  Caracas FC               0-1 (0-1)  Aragua FC
+  20.00  Metropolitanos FC        0-0  Zamora FC
+[Fri Nov/13]
+  15.30  Portuguesa FC            0-1 (0-0)  Deportivo Táchira
+  17.30  GV Maracay               2-1 (1-0)  Monagas
+
+
+Matchday 7
+[Sun Nov/15]
+  17.00  Zamora FC                2-0 (0-0)  Aragua FC
+  20.00  Monagas                  1-2 (0-0)  Metropolitanos FC
+[Mon Nov/16]
+  17.00  Portuguesa FC            0-2 (0-0)  Caracas FC
+  20.00  Deportivo Táchira        0-0  GV Maracay
+
+
+Matchday 8
+[Thu Nov/19]
+  17.00  Aragua FC                0-1 (0-1)  Metropolitanos FC
+  20.00  Deportivo Táchira        3-2 (2-1)  Monagas
+[Fri Nov/20]
+  17.00  Zamora FC                1-3 (0-2)  Caracas FC
+  20.00  GV Maracay               0-1 (0-0)  Portuguesa FC
+
+
+Matchday 9
+[Sun Nov/22]
+  17.00  Metropolitanos FC        0-3 (0-1)  Deportivo Táchira
+  20.00  Monagas                  1-0 (0-0)  Zamora FC
+[Mon Nov/23]
+  17.00  Caracas FC               6-2 (2-0)  GV Maracay
+  20.00  Portuguesa FC            1-2 (0-1)  Aragua FC
+
+
+Matchday 10
+[Thu Nov/26]
+  17.00  Deportivo Táchira        0-3 (0-1)  Zamora FC
+  20.00  Monagas                  1-2 (0-1)  Caracas FC
+[Fri Nov/27]
+  17.00  Portuguesa FC            0-3 (0-3)  Metropolitanos FC
+  20.00  GV Maracay               0-2 (0-1)  Aragua FC
+
+
+Matchday 11
+[Sun Nov/29]
+  17.00  Caracas FC               0-0  Deportivo Táchira
+  20.00  Zamora FC                4-1 (3-0)  Portuguesa FC
+[Mon Nov/30]
+  17.00  Aragua FC                3-2 (1-1)  Monagas
+  20.00  Metropolitanos FC        4-2 (2-1)  GV Maracay
+
+
+Matchday 12
+[Thu Dec/3]
+  17.00  GV Maracay               1-0 (0-0)  Zamora FC
+  20.00  Portuguesa FC            3-2 (0-1)  Monagas
+[Fri Dec/4]
+  17.00  Deportivo Táchira        1-1 (1-1)  Aragua FC
+  20.00  Metropolitanos FC        2-1 (2-1)  Caracas FC
+
+
+Matchday 13
+[Mon Dec/7]
+  22.00  Zamora FC                1-1 (0-1)  Metropolitanos FC
+[Tue Dec/8]
+  17.00  Monagas                  0-2 (0-0)  GV Maracay
+  20.00  Deportivo Táchira        3-0 (3-0)  Portuguesa FC
+[Wed Dec/9]
+  09.00  Aragua FC                0-0  Caracas FC
+
+
+Matchday 14
+[Thu Dec/10]
+  17.00  Aragua FC                3-1 (2-1)  Zamora FC
+  20.00  Metropolitanos FC        2-2 (0-0)  Monagas
+[Fri Dec/11]
+  17.00  Caracas FC               2-0 (1-0)  Portuguesa FC
+  20.00  GV Maracay               0-3 (0-2)  Deportivo Táchira
+
+
+== Playoffs
+
+Match for 3rd place
+[Tue Dec/15]
+  17.00  Deportivo Lara           1-0 (0-0)  Caracas FC
+
+
+Final
+[Tue Dec/15]
+  19.30  Deportivo La Guaira      2-0 (1-0)  Deportivo Táchira
+
+
+== Torneo Original
+
+Matchday 1
+[Thu Jan/30]
+  17.00  Portuguesa FC            1-0 (0-0)  Mineros de Guayana
+[Fri Jan/31]
+  11.00  Metropolitanos FC        1-3 (1-2)  Aragua FC
+  19.00  Deportivo Lara           2-1 (2-0)  Zulia FC
+[Sat Feb/1]
+  15.30  Yaracuyanos FC           0-0  Atlético Venezuela
+  16.00  LALA FC                  1-1 (0-1)  Monagas
+  19.00  Deportivo Táchira        0-0  Academia Puerto Cabello
+[Sun Feb/2]
+  15.30  Carabobo FC              0-0  GV Maracay
+  18.15  Caracas FC               5-1 (3-1)  Estudiantes de Mérida
+[Mon Feb/3]
+  18.00  Zamora FC                2-0 (1-0)  Trujillanos FC
+
+
+Matchday 2
+[Fri Feb/7]
+  16.00  Trujillanos FC           0-0  Deportivo Lara
+  19.00  Academia Puerto Cabello  0-0  Zamora FC
+[Sat Feb/8]
+  11.00  Caracas FC               1-0 (0-0)  Deportivo La Guaira
+  15.30  GV Maracay               0-0  Yaracuyanos FC
+  18.00  Aragua FC                1-0 (1-0)  Deportivo Táchira
+[Sun Feb/9]
+  11.00  Estudiantes de Mérida    2-1 (0-0)  LALA FC
+  16.00  Atlético Venezuela       2-1 (0-1)  Metropolitanos FC
+  17.00  Monagas                  2-0 (0-0)  Portuguesa FC
+[Mon Feb/10]
+  18.00  Mineros de Guayana       0-1 (0-1)  Carabobo FC
+
+
+Matchday 3
+[Fri Feb/14]
+  15.30  Yaracuyanos FC           0-2 (0-1)  Mineros de Guayana
+[Sat Feb/15]
+  11.00  Atlético Venezuela       1-0 (0-0)  GV Maracay
+  16.00  LALA FC                  1-2 (0-0)  Deportivo La Guaira
+  19.00  Zamora FC                1-0 (1-0)  Aragua FC
+[Sun Feb/16]
+  11.00  Caracas FC               4-0 (1-0)  Zulia FC
+  16.00  Carabobo FC              0-0  Monagas
+  17.00  Portuguesa FC            0-0  Estudiantes de Mérida
+         Deportivo Táchira        2-1 (1-1)  Metropolitanos FC
+[Mon Feb/17]
+  19.00  Deportivo Lara           3-1 (3-1)  Academia Puerto Cabello
+
+
+Matchday 4
+[Fri Feb/21]
+  19.00  Deportivo Táchira        0-2 (0-0)  Zamora FC
+[Sat Feb/22]
+  16.00  Metropolitanos FC        2-1 (1-0)  GV Maracay
+         Estudiantes de Mérida    4-0 (2-0)  Carabobo FC
+  17.00  Aragua FC                0-1 (0-0)  Deportivo Lara
+[Sun Feb/23]
+  16.00  Deportivo La Guaira      2-0 (0-0)  Portuguesa FC
+         Trujillanos FC           0-0  Caracas FC
+  17.00  Mineros de Guayana       0-1 (0-0)  Atlético Venezuela
+[Mon Feb/24]
+  16.00  Zulia FC                 2-1 (0-1)  LALA FC
+  18.00  Monagas                  2-1 (2-1)  Yaracuyanos FC
+
+
+Matchday 5
+[Fri Feb/28]
+  15.30  GV Maracay               1-2 (1-2)  Mineros de Guayana
+  19.00  Caracas FC               1-1 (0-1)  Academia Puerto Cabello
+[Sat Feb/29]
+  11.00  Atlético Venezuela       2-2 (2-0)  Monagas
+  16.00  LALA FC                  0-1 (0-0)  Trujillanos FC
+  19.00  Deportivo Lara           2-0 (1-0)  Deportivo Táchira
+[Sun Mar/1]
+  11.00  Carabobo FC              0-0  Deportivo La Guaira
+  15.30  Yaracuyanos FC           2-1 (1-1)  Estudiantes de Mérida
+  16.00  Portuguesa FC            2-2 (1-0)  Zulia FC
+[Mon Mar/2]
+  19.00  Zamora FC                3-1 (3-0)  Metropolitanos FC
+
+
+Matchday 6
+[Fri Mar/6]
+  18.00  Aragua FC                0-1 (0-0)  Caracas FC
+[Sun Mar/8]
+  11.00  Estudiantes de Mérida    2-1 (1-0)  Atlético Venezuela
+  16.00  Monagas                  3-0 (2-0)  GV Maracay
+         Zulia FC                 2-1 (1-0)  Carabobo FC
+         Trujillanos FC           1-0 (1-0)  Portuguesa FC
+         Deportivo La Guaira      2-2 (1-2)  Yaracuyanos FC
+  18.00  Metropolitanos FC        3-0 (0-0)  Mineros de Guayana
+[Mon Mar/9]
+  17.00  Academia Puerto Cabello  2-1 (2-0)  LALA FC
+  19.00  Zamora FC                2-1 (1-1)  Deportivo Lara
+
+
+Matchday 7
+[Sat Mar/14]
+         LALA FC                  -  Aragua FC                [cancelled]
+[Sun Mar/15]
+         Mineros de Guayana       -  Monagas                  [cancelled]
+         GV Maracay               -  Estudiantes de Mérida    [cancelled]
+         Atlético Venezuela       -  Deportivo La Guaira      [cancelled]
+         Yaracuyanos FC           -  Zulia FC                 [cancelled]
+         Carabobo FC              -  Trujillanos FC           [cancelled]
+         Portuguesa FC            -  Academia Puerto Cabello  [cancelled]
+         Caracas FC               -  Deportivo Táchira        [cancelled]
+         Deportivo Lara           -  Metropolitanos FC        [cancelled]
+
+
+Matchday 8
+[Sat Mar/21]
+         Metropolitanos FC        -  Monagas                  [cancelled]
+         Aragua FC                -  Portuguesa FC            [cancelled]
+[Sun Mar/22]
+         Estudiantes de Mérida    -  Mineros de Guayana       [cancelled]
+         Zulia FC                 -  Atlético Venezuela       [cancelled]
+         Trujillanos FC           -  Yaracuyanos FC           [cancelled]
+         Academia Puerto Cabello  -  Carabobo FC              [cancelled]
+         Zamora FC                -  Caracas FC               [cancelled]
+         Deportivo La Guaira      -  GV Maracay               [cancelled]
+         Deportivo Táchira        -  LALA FC                  [cancelled]
+
+
+Matchday 9
+[Sun Mar/29]
+         Mineros de Guayana       -  Deportivo La Guaira      [cancelled]
+         GV Maracay               -  Zulia FC                 [cancelled]
+         Atlético Venezuela       -  Trujillanos FC           [cancelled]
+         Yaracuyanos FC           -  Academia Puerto Cabello  [cancelled]
+         Carabobo FC              -  Aragua FC                [cancelled]
+         Portuguesa FC            -  Deportivo Táchira        [cancelled]
+         LALA FC                  -  Zamora FC                [cancelled]
+         Caracas FC               -  Deportivo Lara           [cancelled]
+         Monagas                  -  Estudiantes de Mérida    [cancelled]
+
+
+Matchday 10
+[Sun Apr/5]
+         Metropolitanos FC        -  Estudiantes de Mérida    [cancelled]
+         Zulia FC                 -  Mineros de Guayana       [cancelled]
+         Trujillanos FC           -  GV Maracay               [cancelled]
+         Academia Puerto Cabello  -  Atlético Venezuela       [cancelled]
+         Zamora FC                -  Portuguesa FC            [cancelled]
+         Deportivo Lara           -  LALA FC                  [cancelled]
+         Deportivo La Guaira      -  Monagas                  [cancelled]
+         Aragua FC                -  Yaracuyanos FC           [cancelled]
+         Deportivo Táchira        -  Carabobo FC              [cancelled]
+
+
+Matchday 11
+[Sun Apr/19]
+         Estudiantes de Mérida    -  Deportivo La Guaira      [cancelled]
+         Monagas                  -  Zulia FC                 [cancelled]
+         Mineros de Guayana       -  Trujillanos FC           [cancelled]
+         GV Maracay               -  Academia Puerto Cabello  [cancelled]
+         Carabobo FC              -  Zamora FC                [cancelled]
+         Portuguesa FC            -  Deportivo Lara           [cancelled]
+         Caracas FC               -  Metropolitanos FC        [cancelled]
+         Atlético Venezuela       -  Aragua FC                [cancelled]
+         Yaracuyanos FC           -  Deportivo Táchira        [cancelled]
+
+
+Matchday 12
+[Sun Apr/26]
+         Metropolitanos FC        -  Deportivo La Guaira      [cancelled]
+         Zulia FC                 -  Estudiantes de Mérida    [cancelled]
+         Trujillanos FC           -  Monagas                  [cancelled]
+         Academia Puerto Cabello  -  Mineros de Guayana       [cancelled]
+         Zamora FC                -  Yaracuyanos FC           [cancelled]
+         Deportivo Lara           -  Carabobo FC              [cancelled]
+         Caracas FC               -  LALA FC                  [cancelled]
+         Aragua FC                -  GV Maracay               [cancelled]
+         Deportivo Táchira        -  Atlético Venezuela       [cancelled]
+
+
+Matchday 13
+[Sun May/3]
+         Estudiantes de Mérida    -  Trujillanos FC           [cancelled]
+         Monagas                  -  Academia Puerto Cabello  [cancelled]
+         Mineros de Guayana       -  Aragua FC                [cancelled]
+         GV Maracay               -  Deportivo Táchira        [cancelled]
+         Atlético Venezuela       -  Zamora FC                [cancelled]
+         Yaracuyanos FC           -  Deportivo Lara           [cancelled]
+         Portuguesa FC            -  Caracas FC               [cancelled]
+         LALA FC                  -  Metropolitanos FC        [cancelled]
+         Deportivo La Guaira      -  Zulia FC                 [cancelled]
+
+
+Matchday 14
+[Sun May/10]
+         Metropolitanos FC        -  Zulia FC                 [cancelled]
+         Trujillanos FC           -  Deportivo La Guaira      [cancelled]
+         Academia Puerto Cabello  -  Estudiantes de Mérida    [cancelled]
+         LALA FC                  -  Portuguesa FC            [cancelled]
+         Zamora FC                -  GV Maracay               [cancelled]
+         Deportivo Lara           -  Atlético Venezuela       [cancelled]
+         Caracas FC               -  Carabobo FC              [cancelled]
+         Aragua FC                -  Monagas                  [cancelled]
+         Deportivo Táchira        -  Mineros de Guayana       [cancelled]
+
+
+Matchday 15
+[Sun May/17]
+         Estudiantes de Mérida    -  Aragua FC                [cancelled]
+         Monagas                  -  Deportivo Táchira        [cancelled]
+         Mineros de Guayana       -  Zamora FC                [cancelled]
+         GV Maracay               -  Deportivo Lara           [cancelled]
+         Yaracuyanos FC           -  Caracas FC               [cancelled]
+         Carabobo FC              -  LALA FC                  [cancelled]
+         Portuguesa FC            -  Metropolitanos FC        [cancelled]
+         Zulia FC                 -  Trujillanos FC           [cancelled]
+         Deportivo La Guaira      -  Academia Puerto Cabello  [cancelled]
+
+
+Matchday 16
+[Sun May/24]
+         LALA FC                  -  Yaracuyanos FC           [cancelled]
+         Portuguesa FC            -  Carabobo FC              [cancelled]
+         Metropolitanos FC        -  Trujillanos FC           [cancelled]
+         Academia Puerto Cabello  -  Zulia FC                 [cancelled]
+         Zamora FC                -  Monagas                  [cancelled]
+         Deportivo Lara           -  Mineros de Guayana       [cancelled]
+         Caracas FC               -  Atlético Venezuela       [cancelled]
+         Aragua FC                -  Deportivo La Guaira      [cancelled]
+         Deportivo Táchira        -  Estudiantes de Mérida    [cancelled]
+
+
+Matchday 17
+[Sun May/31]
+         Trujillanos FC           -  Academia Puerto Cabello  [cancelled]
+         Zulia FC                 -  Aragua FC                [cancelled]
+         Estudiantes de Mérida    -  Zamora FC                [cancelled]
+         Monagas                  -  Deportivo Lara           [cancelled]
+         GV Maracay               -  Caracas FC               [cancelled]
+         Atlético Venezuela       -  LALA FC                  [cancelled]
+         Yaracuyanos FC           -  Portuguesa FC            [cancelled]
+         Carabobo FC              -  Metropolitanos FC        [cancelled]
+         Deportivo La Guaira      -  Deportivo Táchira        [cancelled]
+
+
+Matchday 18
+[Wed Jun/3]
+         Caracas FC               -  Mineros de Guayana       [cancelled]
+         LALA FC                  -  GV Maracay               [cancelled]
+         Portuguesa FC            -  Atlético Venezuela       [cancelled]
+         Carabobo FC              -  Yaracuyanos FC           [cancelled]
+         Metropolitanos FC        -  Academia Puerto Cabello  [cancelled]
+         Zamora FC                -  Deportivo La Guaira      [cancelled]
+         Deportivo Lara           -  Estudiantes de Mérida    [cancelled]
+         Aragua FC                -  Trujillanos FC           [cancelled]
+         Deportivo Táchira        -  Zulia FC                 [cancelled]
+
+
+Matchday 19
+[Sun Jun/7]
+         Monagas                  -  Caracas FC               [cancelled]
+         Yaracuyanos FC           -  Metropolitanos FC        [cancelled]
+         Mineros de Guayana       -  LALA FC                  [cancelled]
+         Academia Puerto Cabello  -  Aragua FC                [cancelled]
+         GV Maracay               -  Portuguesa FC            [cancelled]
+         Atlético Venezuela       -  Carabobo FC              [cancelled]
+         Zulia FC                 -  Zamora FC                [cancelled]
+         Trujillanos FC           -  Deportivo Táchira        [cancelled]
+         Deportivo La Guaira      -  Deportivo Lara           [cancelled]
+
+
+Matchday 20
+[Sun Jul/19]
+         Zulia FC                 -  Deportivo Lara           [cancelled]
+         Trujillanos FC           -  Zamora FC                [cancelled]
+         Academia Puerto Cabello  -  Deportivo Táchira        [cancelled]
+         Atlético Venezuela       -  Yaracuyanos FC           [cancelled]
+         GV Maracay               -  Carabobo FC              [cancelled]
+         Mineros de Guayana       -  Portuguesa FC            [cancelled]
+         Monagas                  -  LALA FC                  [cancelled]
+         Estudiantes de Mérida    -  Caracas FC               [cancelled]
+         Aragua FC                -  Metropolitanos FC        [cancelled]
+
+
+Matchday 21
+[Sun Jul/26]
+         Metropolitanos FC        -  Atlético Venezuela       [cancelled]
+         Yaracuyanos FC           -  GV Maracay               [cancelled]
+         Carabobo FC              -  Mineros de Guayana       [cancelled]
+         Portuguesa FC            -  Monagas                  [cancelled]
+         LALA FC                  -  Estudiantes de Mérida    [cancelled]
+         Caracas FC               -  Deportivo La Guaira      [cancelled]
+         Deportivo Lara           -  Trujillanos FC           [cancelled]
+         Zamora FC                -  Academia Puerto Cabello  [cancelled]
+         Deportivo Táchira        -  Aragua FC                [cancelled]
+
+
+Matchday 22
+[Sun Aug/2]
+         GV Maracay               -  Atlético Venezuela       [cancelled]
+         Mineros de Guayana       -  Yaracuyanos FC           [cancelled]
+         Monagas                  -  Carabobo FC              [cancelled]
+         Estudiantes de Mérida    -  Portuguesa FC            [cancelled]
+         Deportivo La Guaira      -  LALA FC                  [cancelled]
+         Zulia FC                 -  Caracas FC               [cancelled]
+         Academia Puerto Cabello  -  Deportivo Lara           [cancelled]
+         Aragua FC                -  Zamora FC                [cancelled]
+         Metropolitanos FC        -  Deportivo Táchira        [cancelled]
+
+
+Matchday 23
+[Sun Aug/9]
+         GV Maracay               -  Metropolitanos FC        [cancelled]
+         Atlético Venezuela       -  Mineros de Guayana       [cancelled]
+         Yaracuyanos FC           -  Monagas                  [cancelled]
+         Carabobo FC              -  Estudiantes de Mérida    [cancelled]
+         Portuguesa FC            -  Deportivo La Guaira      [cancelled]
+         LALA FC                  -  Zulia FC                 [cancelled]
+         Caracas FC               -  Trujillanos FC           [cancelled]
+         Deportivo Lara           -  Aragua FC                [cancelled]
+         Zamora FC                -  Deportivo Táchira        [cancelled]
+
+
+Matchday 24
+[Sun Aug/16]
+         Estudiantes de Mérida    -  Yaracuyanos FC           [cancelled]
+         Deportivo La Guaira      -  Carabobo FC              [cancelled]
+         Zulia FC                 -  Portuguesa FC            [cancelled]
+         Trujillanos FC           -  LALA FC                  [cancelled]
+         Academia Puerto Cabello  -  Caracas FC               [cancelled]
+         Deportivo Táchira        -  Deportivo Lara           [cancelled]
+         Metropolitanos FC        -  Zamora FC                [cancelled]
+         Mineros de Guayana       -  GV Maracay               [cancelled]
+         Monagas                  -  Atlético Venezuela       [cancelled]
+
+
+Matchday 25
+[Sun Aug/23]
+         Mineros de Guayana       -  Metropolitanos FC        [cancelled]
+         GV Maracay               -  Monagas                  [cancelled]
+         Atlético Venezuela       -  Estudiantes de Mérida    [cancelled]
+         Yaracuyanos FC           -  Deportivo La Guaira      [cancelled]
+         Carabobo FC              -  Zulia FC                 [cancelled]
+         Portuguesa FC            -  Trujillanos FC           [cancelled]
+         LALA FC                  -  Academia Puerto Cabello  [cancelled]
+         Caracas FC               -  Aragua FC                [cancelled]
+         Deportivo Lara           -  Zamora FC                [cancelled]
+
+
+Matchday 26
+[Sun Aug/30]
+         Monagas                  -  Mineros de Guayana       [cancelled]
+         Estudiantes de Mérida    -  GV Maracay               [cancelled]
+         Deportivo La Guaira      -  Atlético Venezuela       [cancelled]
+         Zulia FC                 -  Yaracuyanos FC           [cancelled]
+         Trujillanos FC           -  Carabobo FC              [cancelled]
+         Academia Puerto Cabello  -  Portuguesa FC            [cancelled]
+         Aragua FC                -  LALA FC                  [cancelled]
+         Deportivo Táchira        -  Caracas FC               [cancelled]
+         Metropolitanos FC        -  Deportivo Lara           [cancelled]
+
+
+Matchday 27
+[Sun Sep/6]
+         Monagas                  -  Metropolitanos FC        [cancelled]
+         Mineros de Guayana       -  Estudiantes de Mérida    [cancelled]
+         GV Maracay               -  Deportivo La Guaira      [cancelled]
+         Atlético Venezuela       -  Zulia FC                 [cancelled]
+         Yaracuyanos FC           -  Trujillanos FC           [cancelled]
+         Carabobo FC              -  Academia Puerto Cabello  [cancelled]
+         Portuguesa FC            -  Aragua FC                [cancelled]
+         LALA FC                  -  Deportivo Táchira        [cancelled]
+         Caracas FC               -  Zamora FC                [cancelled]
+
+
+Matchday 28
+[Sun Sep/13]
+         Deportivo La Guaira      -  Mineros de Guayana       [cancelled]
+         Zulia FC                 -  GV Maracay               [cancelled]
+         Trujillanos FC           -  Atlético Venezuela       [cancelled]
+         Academia Puerto Cabello  -  Yaracuyanos FC           [cancelled]
+         Aragua FC                -  Carabobo FC              [cancelled]
+         Deportivo Táchira        -  Portuguesa FC            [cancelled]
+         Zamora FC                -  LALA FC                  [cancelled]
+         Deportivo Lara           -  Caracas FC               [cancelled]
+         Estudiantes de Mérida    -  Monagas                  [cancelled]
+
+
+Matchday 29
+[Sun Sep/20]
+         Estudiantes de Mérida    -  Metropolitanos FC        [cancelled]
+         Monagas                  -  Deportivo La Guaira      [cancelled]
+         Mineros de Guayana       -  Zulia FC                 [cancelled]
+         GV Maracay               -  Trujillanos FC           [cancelled]
+         Atlético Venezuela       -  Academia Puerto Cabello  [cancelled]
+         Yaracuyanos FC           -  Aragua FC                [cancelled]
+         Carabobo FC              -  Deportivo Táchira        [cancelled]
+         Portuguesa FC            -  Zamora FC                [cancelled]
+         LALA FC                  -  Deportivo Lara           [cancelled]
+
+
+Matchday 30
+[Sun Sep/27]
+         Deportivo La Guaira      -  Estudiantes de Mérida    [cancelled]
+         Zulia FC                 -  Monagas                  [cancelled]
+         Trujillanos FC           -  Mineros de Guayana       [cancelled]
+         Academia Puerto Cabello  -  GV Maracay               [cancelled]
+         Aragua FC                -  Atlético Venezuela       [cancelled]
+         Deportivo Táchira        -  Yaracuyanos FC           [cancelled]
+         Zamora FC                -  Carabobo FC              [cancelled]
+         Deportivo Lara           -  Portuguesa FC            [cancelled]
+         Metropolitanos FC        -  Caracas FC               [cancelled]
+
+
+Matchday 31
+[Wed Sep/30]
+         Deportivo La Guaira      -  Metropolitanos FC        [cancelled]
+         Estudiantes de Mérida    -  Zulia FC                 [cancelled]
+         Monagas                  -  Trujillanos FC           [cancelled]
+         Mineros de Guayana       -  Academia Puerto Cabello  [cancelled]
+         GV Maracay               -  Aragua FC                [cancelled]
+         Atlético Venezuela       -  Deportivo Táchira        [cancelled]
+         Yaracuyanos FC           -  Zamora FC                [cancelled]
+         Carabobo FC              -  Deportivo Lara           [cancelled]
+         LALA FC                  -  Caracas FC               [cancelled]
+
+
+Matchday 32
+[Sun Oct/4]
+         Zulia FC                 -  Deportivo La Guaira      [cancelled]
+         Trujillanos FC           -  Estudiantes de Mérida    [cancelled]
+         Academia Puerto Cabello  -  Monagas                  [cancelled]
+         Aragua FC                -  Mineros de Guayana       [cancelled]
+         Deportivo Táchira        -  GV Maracay               [cancelled]
+         Zamora FC                -  Atlético Venezuela       [cancelled]
+         Deportivo Lara           -  Yaracuyanos FC           [cancelled]
+         Caracas FC               -  Portuguesa FC            [cancelled]
+         Metropolitanos FC        -  LALA FC                  [cancelled]
+
+
+Matchday 33
+[Wed Oct/7]
+         Zulia FC                 -  Metropolitanos FC        [cancelled]
+         Deportivo La Guaira      -  Trujillanos FC           [cancelled]
+         Estudiantes de Mérida    -  Academia Puerto Cabello  [cancelled]
+         Portuguesa FC            -  LALA FC                  [cancelled]
+         Monagas                  -  Aragua FC                [cancelled]
+         Mineros de Guayana       -  Deportivo Táchira        [cancelled]
+         GV Maracay               -  Zamora FC                [cancelled]
+         Atlético Venezuela       -  Deportivo Lara           [cancelled]
+         Carabobo FC              -  Caracas FC               [cancelled]
+
+
+Matchday 34
+[Sun Oct/11]
+         Aragua FC                -  Estudiantes de Mérida    [cancelled]
+         Deportivo Táchira        -  Monagas                  [cancelled]
+         Zamora FC                -  Mineros de Guayana       [cancelled]
+         Deportivo Lara           -  GV Maracay               [cancelled]
+         Caracas FC               -  Yaracuyanos FC           [cancelled]
+         LALA FC                  -  Carabobo FC              [cancelled]
+         Metropolitanos FC        -  Portuguesa FC            [cancelled]
+         Trujillanos FC           -  Zulia FC                 [cancelled]
+         Academia Puerto Cabello  -  Deportivo La Guaira      [cancelled]
+
+
+Matchday 35
+[Wed Oct/14]
+         Yaracuyanos FC           -  LALA FC                  [cancelled]
+         Carabobo FC              -  Portuguesa FC            [cancelled]
+         Trujillanos FC           -  Metropolitanos FC        [cancelled]
+         Zulia FC                 -  Academia Puerto Cabello  [cancelled]
+         Deportivo La Guaira      -  Aragua FC                [cancelled]
+         Estudiantes de Mérida    -  Deportivo Táchira        [cancelled]
+         Monagas                  -  Zamora FC                [cancelled]
+         Mineros de Guayana       -  Deportivo Lara           [cancelled]
+         Atlético Venezuela       -  Caracas FC               [cancelled]
+
+
+Matchday 36
+[Sun Oct/18]
+         Academia Puerto Cabello  -  Trujillanos FC           [cancelled]
+         Aragua FC                -  Zulia FC                 [cancelled]
+         Deportivo Táchira        -  Deportivo La Guaira      [cancelled]
+         Zamora FC                -  Estudiantes de Mérida    [cancelled]
+         Deportivo Lara           -  Monagas                  [cancelled]
+         Caracas FC               -  GV Maracay               [cancelled]
+         LALA FC                  -  Atlético Venezuela       [cancelled]
+         Portuguesa FC            -  Yaracuyanos FC           [cancelled]
+         Metropolitanos FC        -  Carabobo FC              [cancelled]
+
+
+Matchday 37
+[Wed Oct/21]
+         Mineros de Guayana       -  Caracas FC               [cancelled]
+         GV Maracay               -  LALA FC                  [cancelled]
+         Atlético Venezuela       -  Portuguesa FC            [cancelled]
+         Yaracuyanos FC           -  Carabobo FC              [cancelled]
+         Academia Puerto Cabello  -  Metropolitanos FC        [cancelled]
+         Trujillanos FC           -  Aragua FC                [cancelled]
+         Zulia FC                 -  Deportivo Táchira        [cancelled]
+         Deportivo La Guaira      -  Zamora FC                [cancelled]
+         Estudiantes de Mérida    -  Deportivo Lara           [cancelled]
+
+
+Matchday 38
+[Sun Oct/25]
+         Caracas FC               -  Monagas                  [cancelled]
+         Metropolitanos FC        -  Yaracuyanos FC           [cancelled]
+         LALA FC                  -  Mineros de Guayana       [cancelled]
+         Aragua FC                -  Academia Puerto Cabello  [cancelled]
+         Portuguesa FC            -  GV Maracay               [cancelled]
+         Carabobo FC              -  Atlético Venezuela       [cancelled]
+         Zamora FC                -  Zulia FC                 [cancelled]
+         Deportivo Lara           -  Deportivo La Guaira      [cancelled]
+         Deportivo Táchira        -  Trujillanos FC           [cancelled]

@@ -1,0 +1,183 @@
+= WAL 1 2018
+
+# Date       Thu Feb/1 - Sun May/20 2018 (108d)
+# Teams      12
+# Matches    62
+# Stages     Championship (30)  EL-Playoffs (2)  Relegation (30)
+
+
+== Championship
+
+Matchday 1
+[Thu Feb/1]
+  19.45  Connah's Quay Nomads     1-1 (1-0)  Bala Town
+[Fri Feb/2]
+  19.45  Cefn Druids              2-2 (2-2)  The New Saints
+[Sat Feb/3]
+  16.15  Bangor City              3-0 (1-0)  Cardiff Metropolitan
+
+
+Matchday 2
+[Thu Feb/8]
+  19.45  Bala Town                1-0 (0-0)  Cefn Druids
+[Fri Feb/9]
+  19.45  The New Saints           3-0 (0-0)  Bangor City
+[Sun Feb/11]
+  14.30  Cardiff Metropolitan     0-2 (0-1)  Connah's Quay Nomads
+
+
+Matchday 3
+[Fri Feb/16]
+  19.45  Bangor City              1-0 (0-0)  Connah's Quay Nomads
+[Sat Feb/17]
+  14.30  Cardiff Metropolitan     1-3 (1-1)  Cefn Druids
+[Fri Mar/16]
+  19.45  The New Saints           3-0 (1-0)  Bala Town
+
+
+Matchday 4
+[Fri Feb/23]
+  19.45  Cefn Druids              0-2 (0-2)  Bangor City
+[Sat Feb/24]
+  14.00  Connah's Quay Nomads     0-1 (0-1)  The New Saints
+  17.30  Bala Town                1-0 (1-0)  Cardiff Metropolitan
+
+
+Matchday 5
+[Fri Mar/9]
+  19.45  Bangor City              1-2 (1-1)  Bala Town
+[Sat Mar/10]
+  14.30  Connah's Quay Nomads     2-1 (0-1)  Cefn Druids
+  19.00  Cardiff Metropolitan     1-1 (0-0)  The New Saints
+
+
+Matchday 6
+[Fri Mar/23]
+  19.45  Bala Town                0-1 (0-0)  Connah's Quay Nomads
+[Sun Mar/25]
+  14.00  The New Saints           5-1 (2-0)  Cefn Druids
+  14.30  Cardiff Metropolitan     1-2 (1-1)  Bangor City
+
+
+Matchday 7
+[Fri Mar/30]
+  19.45  Cefn Druids              3-1 (1-1)  Bala Town
+[Sat Mar/31]
+  14.30  Connah's Quay Nomads     3-0 (3-0)  Cardiff Metropolitan
+  17.15  Bangor City              1-0 (1-0)  The New Saints
+
+
+Matchday 8
+[Fri Apr/13]
+  19.45  Bala Town                1-4 (0-2)  The New Saints
+[Sat Apr/14]
+  14.30  Cefn Druids              3-1 (1-1)  Cardiff Metropolitan
+         Connah's Quay Nomads     1-0 (0-0)  Bangor City
+
+
+Matchday 9
+[Fri Apr/20]
+  19.45  The New Saints           3-1 (0-1)  Connah's Quay Nomads
+[Sat Apr/21]
+  14.30  Cardiff Metropolitan     4-3 (3-1)  Bala Town
+[Sun Apr/22]
+  15.00  Bangor City              1-0 (1-0)  Cefn Druids
+
+
+Matchday 10
+[Fri Apr/27]
+  19.30  Bala Town                1-2 (0-1)  Bangor City
+         Cefn Druids              2-0 (2-0)  Connah's Quay Nomads
+         The New Saints           3-3 (2-2)  Cardiff Metropolitan
+
+
+== EL-Playoffs
+
+Round 1
+[Sat May/12]
+  17.15  Cardiff Metropolitan     4-1 (3-0)  Barry Town United
+
+
+Final
+[Sun May/20]
+  12.25  Cefn Druids              1-0 (1-0)  Cardiff Metropolitan
+
+
+== Relegation
+
+Matchday 1
+[Sat Feb/3]
+  16.15  Barry Town United        3-1 (1-0)  Aberystwyth Town
+         Carmarthen Town          3-1 (0-0)  Prestatyn Town
+         Llandudno FC             3-4 (2-2)  Newtown AFC
+
+
+Matchday 2
+[Fri Feb/9]
+  20.00  Aberystwyth Town         3-1 (2-0)  Llandudno FC
+[Sat Feb/10]
+  14.30  Carmarthen Town          3-2 (3-0)  Newtown AFC
+[Tue Apr/24]
+  19.45  Prestatyn Town           0-0  Barry Town United
+
+
+Matchday 3
+[Fri Feb/16]
+  20.00  Aberystwyth Town         1-1 (0-1)  Prestatyn Town
+[Sat Feb/17]
+  14.30  Llandudno FC             3-2 (2-1)  Carmarthen Town
+         Newtown AFC              1-2 (1-2)  Barry Town United
+
+
+Matchday 4
+[Sat Feb/24]
+  16.15  Barry Town United        4-1 (1-1)  Llandudno FC
+[Sun Feb/25]
+  14.30  Prestatyn Town           0-1 (0-1)  Newtown AFC
+  17.15  Carmarthen Town          3-3 (1-1)  Aberystwyth Town
+
+
+Matchday 5
+[Fri Mar/9]
+  19.45  Carmarthen Town          0-1 (0-0)  Barry Town United
+         Llandudno FC             2-2 (0-1)  Prestatyn Town
+[Sat Mar/10]
+  14.30  Newtown AFC              0-1 (0-0)  Aberystwyth Town
+
+
+Matchday 6
+[Sat Mar/24]
+  14.30  Aberystwyth Town         0-2 (0-1)  Barry Town United
+         Newtown AFC              3-2 (1-2)  Llandudno FC
+         Prestatyn Town           0-1 (0-0)  Carmarthen Town
+
+
+Matchday 7
+[Sat Mar/31]
+  14.30  Newtown AFC              2-3 (1-2)  Carmarthen Town
+         Barry Town United        2-0 (1-0)  Prestatyn Town
+         Llandudno FC             1-0 (0-0)  Aberystwyth Town
+
+
+Matchday 8
+[Fri Apr/13]
+  19.45  Prestatyn Town           0-1 (0-1)  Aberystwyth Town
+[Sat Apr/14]
+  15.30  Carmarthen Town          3-2 (1-1)  Llandudno FC
+[Sun Apr/15]
+  15.30  Barry Town United        1-1 (1-1)  Newtown AFC
+
+
+Matchday 9
+[Fri Apr/20]
+  20.00  Aberystwyth Town         1-1 (1-0)  Carmarthen Town
+[Sat Apr/21]
+  14.30  Llandudno FC             2-3 (0-0)  Barry Town United
+         Newtown AFC              3-0 (0-0)  Prestatyn Town
+
+
+Matchday 10
+[Fri Apr/27]
+  19.30  Aberystwyth Town         5-3 (2-1)  Newtown AFC
+         Barry Town United        1-0 (0-0)  Carmarthen Town
+         Prestatyn Town           0-0  Llandudno FC

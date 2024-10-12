@@ -1,0 +1,511 @@
+= AR 2 METRO 2022
+
+# Date       Sat Feb/12 - Sun Nov/6 2022 (267d)
+# Teams      17
+# Matches    282
+# Stages     Apertura (136)  Clausura (136)  Playoffs (10)
+
+
+== Apertura
+
+Matchday 1
+[Sat Feb/12]
+  17.00  Deportivo Merlo          1-0 (0-0)  Acassuso
+         UAI Urquiza              0-2 (0-2)  Comunicaciones de Buenos Aires
+         Dock Sud                 2-1 (1-0)  CA Los Andes
+         Armenio                  1-0 (0-0)  Ituzaingó
+         Atlético San Miguel      0-2 (0-1)  Fénix
+[Sun Feb/13]
+  17.00  Defensores Unidos de Zárate  1-1 (1-0)  Justo José de Urquiza
+[Mon Feb/14]
+  17.00  Talleres (RdE)           2-2 (1-2)  Argentino de Quilmes
+[Wed Apr/6]
+  15.30  Villa San Carlos         1-0 (0-0)  Cañuelas
+
+
+Matchday 2
+[Fri Feb/18]
+  17.00  Acassuso                 2-1 (1-1)  Colegiales de Munro
+[Sat Feb/19]
+  17.00  Fénix                    0-0  Armenio
+         Comunicaciones de Buenos Aires  1-0 (1-0)  Villa San Carlos
+         Cañuelas                 1-2 (1-2)  Defensores Unidos de Zárate
+         Justo José de Urquiza    1-3 (1-3)  Talleres (RdE)
+         Argentino de Quilmes     0-0  Deportivo Merlo
+  19.00  Ituzaingó                1-0 (1-0)  Dock Sud
+[Tue Feb/22]
+  21.10  CA Los Andes             0-0  UAI Urquiza
+
+
+Matchday 3
+[Fri Feb/25]
+  17.00  Dock Sud                 0-2 (0-1)  Fénix
+[Sat Feb/26]
+  17.00  Colegiales de Munro      2-3 (1-1)  Argentino de Quilmes
+         Deportivo Merlo          1-0 (0-0)  Justo José de Urquiza
+         Defensores Unidos de Zárate  2-1 (1-1)  Comunicaciones de Buenos Aires
+         Villa San Carlos         4-1 (4-1)  CA Los Andes
+         UAI Urquiza              0-1 (0-0)  Ituzaingó
+         Armenio                  1-1 (0-1)  Atlético San Miguel
+[Sun Feb/27]
+  17.00  Talleres (RdE)           1-3 (1-0)  Cañuelas
+
+
+Matchday 4
+[Fri Mar/4]
+  17.00  Fénix                    1-1 (0-1)  UAI Urquiza
+[Sat Mar/5]
+  17.00  Atlético San Miguel      0-1 (0-0)  Dock Sud
+         Comunicaciones de Buenos Aires  4-0 (1-0)  Talleres (RdE)
+         Cañuelas                 1-0 (0-0)  Deportivo Merlo
+         Justo José de Urquiza    2-2 (1-0)  Colegiales de Munro
+         Argentino de Quilmes     0-0  Acassuso
+  19.10  CA Los Andes             2-2 (0-2)  Defensores Unidos de Zárate
+[Tue Mar/8]
+  21.10  Ituzaingó                2-0 (1-0)  Villa San Carlos
+
+
+Matchday 5
+[Sat Mar/12]
+  17.00  Acassuso                 1-2 (0-1)  Justo José de Urquiza
+         Colegiales de Munro      1-0 (0-0)  Cañuelas
+         Deportivo Merlo          0-1 (0-0)  Comunicaciones de Buenos Aires
+         Talleres (RdE)           0-0  CA Los Andes
+         Defensores Unidos de Zárate  1-1 (0-1)  Ituzaingó
+         Villa San Carlos         0-0  Fénix
+         UAI Urquiza              2-0 (0-0)  Atlético San Miguel
+         Dock Sud                 0-0  Armenio
+
+
+Matchday 6
+[Fri Mar/18]
+  15.30  Fénix                    1-1 (0-0)  Defensores Unidos de Zárate
+  16.00  Comunicaciones de Buenos Aires  1-1 (1-1)  Colegiales de Munro
+[Sat Mar/19]
+  15.30  Armenio                  3-0 (2-0)  UAI Urquiza
+         Cañuelas                 1-1 (0-0)  Acassuso
+[Sun Mar/20]
+  15.30  Atlético San Miguel      2-1 (2-1)  Villa San Carlos
+         Ituzaingó                1-0 (1-0)  Talleres (RdE)
+         Justo José de Urquiza    0-0  Argentino de Quilmes
+[Mon Mar/21]
+  21.10  CA Los Andes             1-1 (1-1)  Deportivo Merlo
+
+
+Matchday 7
+[Sat Mar/26]
+  14.05  Acassuso                 1-1 (1-1)  Comunicaciones de Buenos Aires
+  14.30  Deportivo Merlo          0-1 (0-0)  Ituzaingó
+  15.30  Argentino de Quilmes     0-1 (0-1)  Cañuelas
+         Colegiales de Munro      2-0 (0-0)  CA Los Andes
+         Talleres (RdE)           2-0 (1-0)  Fénix
+         Defensores Unidos de Zárate  2-1 (2-1)  Atlético San Miguel
+         Villa San Carlos         0-0  Armenio
+         UAI Urquiza              3-2 (3-2)  Dock Sud
+
+
+Matchday 8
+[Fri Apr/1]
+  15.30  Fénix                    3-0 (1-0)  Deportivo Merlo
+  20.35  Ituzaingó                1-3 (1-1)  Colegiales de Munro
+[Sat Apr/2]
+  15.30  Armenio                  3-1 (1-0)  Defensores Unidos de Zárate
+         Atlético San Miguel      0-1 (0-0)  Talleres (RdE)
+         CA Los Andes             0-0  Acassuso
+         Comunicaciones de Buenos Aires  3-0 (1-0)  Argentino de Quilmes
+         Cañuelas                 0-2 (0-1)  Justo José de Urquiza
+[Sun Apr/3]
+  15.05  Dock Sud                 3-1 (3-1)  Villa San Carlos
+
+
+Matchday 9
+[Sat Apr/9]
+  13.15  Defensores Unidos de Zárate  2-0 (2-0)  Dock Sud
+  15.30  Argentino de Quilmes     3-1 (1-1)  CA Los Andes
+         Colegiales de Munro      0-1 (0-0)  Fénix
+         Deportivo Merlo          2-0 (1-0)  Atlético San Miguel
+         Talleres (RdE)           0-1 (0-1)  Armenio
+         Villa San Carlos         3-1 (1-1)  UAI Urquiza
+[Mon Apr/11]
+  15.05  Acassuso                 2-2 (1-1)  Ituzaingó
+  15.30  Justo José de Urquiza    2-2 (2-2)  Comunicaciones de Buenos Aires
+
+
+Matchday 10
+[Fri Apr/15]
+  15.05  CA Los Andes             1-1 (1-0)  Justo José de Urquiza
+[Sat Apr/16]
+  15.30  Armenio                  3-0 (0-0)  Deportivo Merlo
+         Atlético San Miguel      0-1 (0-0)  Colegiales de Munro
+         Comunicaciones de Buenos Aires  3-1 (1-1)  Cañuelas
+  16.30  UAI Urquiza              0-2 (0-0)  Defensores Unidos de Zárate
+[Sun Apr/17]
+  15.30  Dock Sud                 1-3 (1-3)  Talleres (RdE)
+  18.05  Ituzaingó                2-1 (2-1)  Argentino de Quilmes
+[Mon Apr/18]
+  15.30  Fénix                    2-1 (2-0)  Acassuso
+
+
+Matchday 11
+[Sat Apr/23]
+  14.40  Colegiales de Munro      2-2 (1-2)  Armenio
+  15.30  Cañuelas                 1-0 (0-0)  CA Los Andes
+         Argentino de Quilmes     2-2 (2-0)  Fénix
+         Deportivo Merlo          1-1 (0-0)  Dock Sud
+         Talleres (RdE)           3-1 (2-0)  UAI Urquiza
+         Defensores Unidos de Zárate  1-1 (0-0)  Villa San Carlos
+[Sun Apr/24]
+  15.30  Acassuso                 2-1 (2-0)  Atlético San Miguel
+[Tue Apr/26]
+  15.35  Justo José de Urquiza    0-1 (0-0)  Ituzaingó
+
+
+Matchday 12
+[Fri Apr/29]
+  15.30  UAI Urquiza              3-2 (1-1)  Deportivo Merlo
+         Dock Sud                 3-1 (1-0)  Colegiales de Munro
+  18.05  CA Los Andes             1-0 (0-0)  Comunicaciones de Buenos Aires
+[Sat Apr/30]
+  15.30  Villa San Carlos         1-1 (0-1)  Talleres (RdE)
+         Armenio                  0-3 (0-2)  Acassuso
+  19.10  Ituzaingó                1-1 (1-1)  Cañuelas
+[Mon May/2]
+  15.30  Atlético San Miguel      1-0 (1-0)  Argentino de Quilmes
+         Fénix                    0-0  Justo José de Urquiza
+
+
+Matchday 13
+[Sat May/7]
+  13.30  Comunicaciones de Buenos Aires  2-1 (0-1)  Ituzaingó
+  15.30  Acassuso                 1-1 (0-0)  Dock Sud
+[Sun May/8]
+  13.30  Talleres (RdE)           2-1 (2-0)  Defensores Unidos de Zárate
+  15.30  Cañuelas                 2-0 (1-0)  Fénix
+         Justo José de Urquiza    3-0 (1-0)  Atlético San Miguel
+         Colegiales de Munro      2-1 (1-1)  UAI Urquiza
+         Deportivo Merlo          1-2 (0-1)  Villa San Carlos
+[Mon May/9]
+  15.30  Argentino de Quilmes     1-1 (1-0)  Armenio
+
+
+Matchday 14
+[Sat May/14]
+  15.30  Defensores Unidos de Zárate  0-1 (0-1)  Deportivo Merlo
+         Villa San Carlos         3-1 (1-1)  Colegiales de Munro
+         Armenio                  0-0  Justo José de Urquiza
+         Atlético San Miguel      1-1 (1-0)  Cañuelas
+[Sun May/15]
+  15.30  UAI Urquiza              1-1 (1-1)  Acassuso
+         Dock Sud                 0-2 (0-0)  Argentino de Quilmes
+  18.00  Ituzaingó                2-2 (2-0)  CA Los Andes
+[Tue May/17]
+  15.35  Fénix                    1-2 (1-2)  Comunicaciones de Buenos Aires
+
+
+Matchday 15
+[Sat May/21]
+  13.00  Deportivo Merlo          0-0  Talleres (RdE)
+  15.30  Cañuelas                 5-0 (2-0)  Armenio
+         Justo José de Urquiza    0-0  Dock Sud
+         Argentino de Quilmes     1-2 (0-0)  UAI Urquiza
+         Acassuso                 0-1 (0-0)  Villa San Carlos
+         Colegiales de Munro      1-0 (0-0)  Defensores Unidos de Zárate
+  17.10  CA Los Andes             2-0 (1-0)  Fénix
+[Sun May/22]
+  13.30  Comunicaciones de Buenos Aires  2-3 (2-0)  Atlético San Miguel
+
+
+Matchday 16
+[Sat May/28]
+  13.05  Armenio                  0-2 (0-0)  Comunicaciones de Buenos Aires
+         Fénix                    2-1 (1-0)  Ituzaingó
+  15.30  Talleres (RdE)           0-1 (0-1)  Colegiales de Munro
+         Defensores Unidos de Zárate  4-1 (3-1)  Acassuso
+         Villa San Carlos         1-2 (1-0)  Argentino de Quilmes
+         UAI Urquiza              1-2 (1-2)  Justo José de Urquiza
+         Dock Sud                 2-2 (2-2)  Cañuelas
+         Atlético San Miguel      1-1 (0-1)  CA Los Andes
+
+
+Matchday 17
+[Sat Jun/4]
+  12.00  Ituzaingó                1-0 (0-0)  Atlético San Miguel
+  15.30  Comunicaciones de Buenos Aires  1-2 (1-0)  Dock Sud
+         Cañuelas                 2-1 (1-1)  UAI Urquiza
+         Argentino de Quilmes     4-0 (1-0)  Defensores Unidos de Zárate
+         Acassuso                 3-2 (2-1)  Talleres (RdE)
+[Sun Jun/5]
+  13.00  CA Los Andes             2-2 (0-1)  Armenio
+         Colegiales de Munro      1-0 (1-0)  Deportivo Merlo
+[Mon Jun/6]
+  15.30  Justo José de Urquiza    0-4 (0-3)  Villa San Carlos
+
+
+== Clausura
+
+Matchday 1
+[Sat Jun/11]
+  15.30  Acassuso                 1-1 (0-1)  Deportivo Merlo
+         Justo José de Urquiza    0-0  Defensores Unidos de Zárate
+         Cañuelas                 0-0  Villa San Carlos
+         Comunicaciones de Buenos Aires  0-3 (0-0)  UAI Urquiza
+  17.45  CA Los Andes             1-1 (1-1)  Dock Sud
+  20.05  Ituzaingó                1-1 (1-0)  Armenio
+[Sun Jun/12]
+  15.30  Argentino de Quilmes     0-0  Talleres (RdE)
+[Mon Jun/13]
+  15.30  Fénix                    1-2 (1-1)  Atlético San Miguel
+
+
+Matchday 2
+[Fri Jun/17]
+  15.00  Dock Sud                 1-4 (0-1)  Ituzaingó
+  15.30  Defensores Unidos de Zárate  3-1 (0-0)  Cañuelas
+[Sat Jun/18]
+  12.05  UAI Urquiza              0-0  CA Los Andes
+  15.30  Armenio                  1-0 (0-0)  Fénix
+         Villa San Carlos         1-1 (0-0)  Comunicaciones de Buenos Aires
+         Deportivo Merlo          1-2 (0-1)  Argentino de Quilmes
+         Colegiales de Munro      0-1 (0-0)  Acassuso
+[Mon Jun/20]
+  15.30  Talleres (RdE)           1-0 (0-0)  Justo José de Urquiza
+
+
+Matchday 3
+[Sat Jun/25]
+  14.00  Comunicaciones de Buenos Aires  1-1 (0-1)  Defensores Unidos de Zárate
+  15.30  Cañuelas                 1-1 (0-1)  Talleres (RdE)
+         Ituzaingó                0-0  UAI Urquiza
+         Fénix                    3-2 (1-0)  Dock Sud
+         Atlético San Miguel      0-0  Armenio
+[Sun Jun/26]
+  15.30  Argentino de Quilmes     1-2 (0-2)  Colegiales de Munro
+         Justo José de Urquiza    1-2 (1-1)  Deportivo Merlo
+  16.00  CA Los Andes             0-3 (0-2)  Villa San Carlos
+
+
+Matchday 4
+[Fri Jul/1]
+  15.30  Acassuso                 3-1 (1-1)  Argentino de Quilmes
+[Sat Jul/2]
+  12.05  Dock Sud                 1-2 (0-1)  Atlético San Miguel
+  13.00  Colegiales de Munro      1-0 (0-0)  Justo José de Urquiza
+  15.30  Defensores Unidos de Zárate  2-1 (0-0)  CA Los Andes
+         Talleres (RdE)           3-2 (2-2)  Comunicaciones de Buenos Aires
+         Deportivo Merlo          2-1 (0-1)  Cañuelas
+[Sun Jul/3]
+  15.30  UAI Urquiza              1-0 (1-0)  Fénix
+         Villa San Carlos         1-2 (1-2)  Ituzaingó
+
+
+Matchday 5
+[Sat Jul/9]
+  15.30  Justo José de Urquiza    1-0 (0-0)  Acassuso
+         Cañuelas                 0-1 (0-0)  Colegiales de Munro
+         Comunicaciones de Buenos Aires  3-2 (1-1)  Deportivo Merlo
+         Atlético San Miguel      0-0  UAI Urquiza
+         Armenio                  2-0 (2-0)  Dock Sud
+[Sun Jul/10]
+  18.10  Ituzaingó                1-1 (0-0)  Defensores Unidos de Zárate
+[Mon Jul/11]
+  15.30  Fénix                    1-1 (0-1)  Villa San Carlos
+[Tue Jul/12]
+  18.10  CA Los Andes             0-0  Talleres (RdE)
+
+
+Matchday 6
+[Sat Jul/16]
+  12.05  Colegiales de Munro      2-0 (1-0)  Comunicaciones de Buenos Aires
+  15.30  UAI Urquiza              1-2 (1-1)  Armenio
+         Defensores Unidos de Zárate  0-1 (0-0)  Fénix
+         Acassuso                 1-1 (0-0)  Cañuelas
+[Sun Jul/17]
+  15.30  Villa San Carlos         0-2 (0-2)  Atlético San Miguel
+         Talleres (RdE)           0-2 (0-0)  Ituzaingó
+         Deportivo Merlo          0-0  CA Los Andes
+         Argentino de Quilmes     3-1 (2-0)  Justo José de Urquiza
+
+
+Matchday 7
+[Sat Jul/23]
+  13.10  Atlético San Miguel      0-0  Defensores Unidos de Zárate
+  15.30  Cañuelas                 2-1 (0-1)  Argentino de Quilmes
+         Comunicaciones de Buenos Aires  3-1 (1-0)  Acassuso
+         CA Los Andes             0-2 (0-0)  Colegiales de Munro
+         Fénix                    0-2 (0-2)  Talleres (RdE)
+         Armenio                  1-1 (0-0)  Villa San Carlos
+[Sun Jul/24]
+  15.30  Dock Sud                 2-1 (1-0)  UAI Urquiza
+[Mon Jul/25]
+  21.10  Ituzaingó                0-1 (0-0)  Deportivo Merlo
+
+
+Matchday 8
+[Sat Jul/30]
+  13.05  Defensores Unidos de Zárate  0-1 (0-0)  Armenio
+  13.30  Colegiales de Munro      4-2 (3-0)  Ituzaingó
+  15.30  Deportivo Merlo          0-0  Fénix
+         Acassuso                 0-0  CA Los Andes
+         Argentino de Quilmes     0-1 (0-0)  Comunicaciones de Buenos Aires
+         Justo José de Urquiza    0-1 (0-0)  Cañuelas
+  20.10  Talleres (RdE)           2-1 (2-1)  Atlético San Miguel
+[Sun Jul/31]
+  15.30  Villa San Carlos         0-1 (0-0)  Dock Sud
+
+
+Matchday 9
+[Fri Aug/5]
+  15.30  Atlético San Miguel      1-2 (0-0)  Deportivo Merlo
+[Sat Aug/6]
+  13.10  Fénix                    4-0 (1-0)  Colegiales de Munro
+  15.30  Ituzaingó                0-2 (0-1)  Acassuso
+         Armenio                  0-0  Talleres (RdE)
+         UAI Urquiza              1-0 (0-0)  Villa San Carlos
+[Sun Aug/7]
+  13.35  Comunicaciones de Buenos Aires  1-0 (0-0)  Justo José de Urquiza
+[Mon Aug/8]
+  15.30  CA Los Andes             4-1 (0-0)  Argentino de Quilmes
+         Dock Sud                 0-1 (0-1)  Defensores Unidos de Zárate
+
+
+Matchday 10
+[Sat Aug/13]
+  15.30  Defensores Unidos de Zárate  2-1 (1-1)  UAI Urquiza
+         Talleres (RdE)           2-1 (1-1)  Dock Sud
+         Deportivo Merlo          0-0  Armenio
+         Acassuso                 0-0  Fénix
+         Cañuelas                 0-4 (0-3)  Comunicaciones de Buenos Aires
+[Sun Aug/14]
+  15.30  Colegiales de Munro      2-1 (1-1)  Atlético San Miguel
+[Mon Aug/15]
+  15.00  Justo José de Urquiza    1-0 (0-0)  CA Los Andes
+  15.30  Argentino de Quilmes     1-2 (0-1)  Ituzaingó
+
+
+Matchday 11
+[Sat Aug/20]
+  15.30  Fénix                    1-2 (0-0)  Argentino de Quilmes
+         Atlético San Miguel      2-0 (2-0)  Acassuso
+         Armenio                  3-0 (0-0)  Colegiales de Munro
+         Dock Sud                 1-2 (0-1)  Deportivo Merlo
+         UAI Urquiza              1-0 (0-0)  Talleres (RdE)
+         Villa San Carlos         1-0 (1-0)  Defensores Unidos de Zárate
+[Mon Aug/22]
+  15.00  CA Los Andes             2-0 (1-0)  Cañuelas
+[Tue Aug/23]
+  21.10  Ituzaingó                1-0 (1-0)  Justo José de Urquiza
+
+
+Matchday 12
+[Sat Aug/27]
+  14.30  Colegiales de Munro      0-0  Dock Sud
+  15.30  Deportivo Merlo          1-2 (1-0)  UAI Urquiza
+         Acassuso                 0-1 (0-1)  Armenio
+         Argentino de Quilmes     1-1 (1-1)  Atlético San Miguel
+         Cañuelas                 3-2 (1-0)  Ituzaingó
+         Comunicaciones de Buenos Aires  1-1 (1-0)  CA Los Andes
+[Sun Aug/28]
+  15.30  Justo José de Urquiza    0-1 (0-0)  Fénix
+[Tue Aug/30]
+  21.10  Talleres (RdE)           1-2 (0-0)  Villa San Carlos
+
+
+Matchday 13
+[Sat Sep/3]
+  13.30  Defensores Unidos de Zárate  2-0 (0-0)  Talleres (RdE)
+  15.30  Armenio                  0-0  Argentino de Quilmes
+         UAI Urquiza              0-3 (0-1)  Colegiales de Munro
+  16.00  Atlético San Miguel      3-1 (3-0)  Justo José de Urquiza
+  17.40  Ituzaingó                2-1 (0-0)  Comunicaciones de Buenos Aires
+[Sun Sep/4]
+  15.30  Villa San Carlos         1-0 (0-0)  Deportivo Merlo
+[Mon Sep/5]
+  15.30  Fénix                    1-1 (1-1)  Cañuelas
+         Dock Sud                 2-0 (0-0)  Acassuso
+
+
+Matchday 14
+[Sat Sep/10]
+  13.10  Justo José de Urquiza    0-1 (0-0)  Armenio
+  15.30  Deportivo Merlo          2-2 (1-2)  Defensores Unidos de Zárate
+         Colegiales de Munro      4-0 (2-0)  Villa San Carlos
+         Argentino de Quilmes     1-1 (0-0)  Dock Sud
+         Cañuelas                 3-1 (2-1)  Atlético San Miguel
+         Comunicaciones de Buenos Aires  1-1 (0-0)  Fénix
+[Mon Sep/12]
+  15.00  CA Los Andes             3-0 (1-0)  Ituzaingó
+  15.30  Acassuso                 2-0 (2-0)  UAI Urquiza
+
+
+Matchday 15
+[Sat Sep/17]
+  15.30  Atlético San Miguel      1-1 (1-1)  Comunicaciones de Buenos Aires
+         Armenio                  1-0 (1-0)  Cañuelas
+         Dock Sud                 1-0 (0-0)  Justo José de Urquiza
+         UAI Urquiza              0-0  Argentino de Quilmes
+[Sun Sep/18]
+  15.30  Villa San Carlos         2-0 (1-0)  Acassuso
+         Defensores Unidos de Zárate  1-2 (1-0)  Colegiales de Munro
+[Mon Sep/19]
+  15.30  Fénix                    0-3 (0-1)  CA Los Andes
+[Tue Sep/20]
+  21.10  Talleres (RdE)           1-1 (1-0)  Deportivo Merlo
+
+
+Matchday 16
+[Sat Sep/24]
+  14.00  Colegiales de Munro      2-2 (1-0)  Talleres (RdE)
+         Comunicaciones de Buenos Aires  0-1 (0-0)  Armenio
+  15.30  Acassuso                 2-1 (1-0)  Defensores Unidos de Zárate
+         Cañuelas                 2-0 (1-0)  Dock Sud
+         Ituzaingó                2-0 (2-0)  Fénix
+[Sun Sep/25]
+  15.30  Argentino de Quilmes     1-1 (1-0)  Villa San Carlos
+[Mon Sep/26]
+  15.30  Justo José de Urquiza    1-0 (1-0)  UAI Urquiza
+         CA Los Andes             0-0  Atlético San Miguel
+
+
+Matchday 17
+[Fri Sep/30]
+  21.00  Talleres (RdE)           0-1 (0-0)  Acassuso
+[Sat Oct/1]
+  15.30  UAI Urquiza              0-1 (0-0)  Cañuelas
+[Sun Oct/2]
+  14.05  Atlético San Miguel      2-0 (0-0)  Ituzaingó
+         Armenio                  3-0 (2-0)  CA Los Andes
+         Villa San Carlos         2-1 (0-1)  Justo José de Urquiza
+         Deportivo Merlo          0-1 (0-1)  Colegiales de Munro
+  15.30  Defensores Unidos de Zárate  4-1 (2-1)  Argentino de Quilmes
+[Mon Oct/3]
+  15.30  Dock Sud                 2-0 (1-0)  Comunicaciones de Buenos Aires
+
+
+== Playoffs
+
+Round 1
+[Sat Oct/8]
+  15.30  Villa San Carlos         4-3 pen. 0-0 a.e.t. (0-0)  Talleres (RdE)
+         Cañuelas                 3-4 pen. 0-0 a.e.t. (0-0)  Defensores Unidos de Zárate
+  21.10  Ituzaingó                2-3 pen. 0-0 a.e.t. (0-0)  Fénix
+[Sun Oct/9]
+  15.30  Colegiales de Munro      4-5 pen. 1-1 a.e.t. (1-1, 0-0)  Acassuso
+
+
+Quarterfinals
+[Sat Oct/15]
+  14.10  Defensores Unidos de Zárate  1-0 (1-0)  Fénix
+  15.10  Villa San Carlos         2-1 (0-0)  Acassuso
+
+
+Semifinals
+[Sat Oct/22]
+  14.40  Comunicaciones de Buenos Aires  0-1 (0-1)  Villa San Carlos
+  14.45  Armenio                  0-1 (0-0)  Defensores Unidos de Zárate
+
+
+Final
+[Sun Oct/30]
+  15.00  Defensores Unidos de Zárate  2-1 (1-0)  Villa San Carlos
+[Sun Nov/6]
+  14.00  Villa San Carlos         0-0  Defensores Unidos de Zárate

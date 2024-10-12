@@ -1,0 +1,377 @@
+= AT 1 2000/01
+
+# Date       Tue Jul/4 2000 - Thu May/24 2001 (324d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Tue Jul/4]
+  19.30  FC Tirol Innsbruck       6-1 (4-0)  VfB Admira Wacker Mödling
+[Wed Jul/5]
+  18.00  SV Austria Salzburg      0-3 (0-2)  Rapid Wien
+  19.30  Austria Wien             4-0 (1-0)  Grazer AK
+         SV Ried                  3-1 (1-1)  Schwarz-Weiß Bregenz
+         Sturm Graz               5-1 (2-1)  LASK Linz
+
+
+Matchday 2
+[Tue Jul/11]
+  19.30  VfB Admira Wacker Mödling  0-0  Austria Wien
+[Wed Jul/12]
+  18.00  Rapid Wien               4-1 (1-0)  Sturm Graz
+  19.30  Schwarz-Weiß Bregenz     2-2 (0-1)  FC Tirol Innsbruck
+         Grazer AK                0-3 (0-0)  SV Ried
+         LASK Linz                0-2 (0-1)  SV Austria Salzburg
+
+
+Matchday 3
+[Tue Jul/18]
+  19.30  Rapid Wien               2-0 (0-0)  LASK Linz
+[Wed Jul/19]
+  18.00  Sturm Graz               1-1 (0-1)  Austria Wien
+  19.00  SV Austria Salzburg      2-0 (1-0)  Schwarz-Weiß Bregenz
+  19.30  SV Ried                  3-2 (2-1)  VfB Admira Wacker Mödling
+         FC Tirol Innsbruck       1-1 (0-1)  Grazer AK
+
+
+Matchday 4
+[Sat Jul/15]
+  19.30  VfB Admira Wacker Mödling  0-1 (0-1)  Sturm Graz
+[Tue Jul/25]
+  19.30  LASK Linz                0-2 (0-0)  FC Tirol Innsbruck
+[Wed Jul/26]
+  18.00  Schwarz-Weiß Bregenz     1-1 (0-1)  Rapid Wien
+[Sat Aug/5]
+  19.30  Austria Wien             2-1 (0-1)  SV Ried
+         Grazer AK                1-1 (0-1)  SV Austria Salzburg
+
+
+Matchday 5
+[Sat Jul/29]
+  19.00  SV Austria Salzburg      3-1 (2-0)  VfB Admira Wacker Mödling
+  19.30  LASK Linz                3-1 (2-0)  Schwarz-Weiß Bregenz
+         Rapid Wien               1-1 (1-1)  Grazer AK
+         Sturm Graz               4-2 (2-1)  SV Ried
+[Sun Jul/30]
+  16.45  FC Tirol Innsbruck       0-2 (0-1)  Austria Wien
+
+
+Matchday 6
+[Wed Aug/2]
+  19.30  VfB Admira Wacker Mödling  2-4 (2-3)  Rapid Wien
+         Grazer AK                3-1 (0-1)  LASK Linz
+         SV Ried                  1-1 (1-1)  FC Tirol Innsbruck
+[Sat Sep/9]
+  15.30  Austria Wien             3-1 (0-0)  SV Austria Salzburg
+  16.30  Schwarz-Weiß Bregenz     2-1 (1-1)  Sturm Graz
+
+
+Matchday 7
+[Sat Aug/12]
+  18.00  Schwarz-Weiß Bregenz     2-1 (0-0)  Grazer AK
+  19.00  SV Austria Salzburg      0-0  SV Ried
+  19.30  Sturm Graz               3-0 (3-0)  FC Tirol Innsbruck
+         LASK Linz                1-1 (1-0)  VfB Admira Wacker Mödling
+[Sun Aug/13]
+  16.45  Rapid Wien               1-1 (1-0)  Austria Wien
+
+
+Matchday 8
+[Sat Aug/19]
+  19.30  VfB Admira Wacker Mödling  0-1 (0-0)  Schwarz-Weiß Bregenz
+         Austria Wien             5-0 (1-0)  LASK Linz
+         Grazer AK                2-0 (0-0)  Sturm Graz
+         FC Tirol Innsbruck       2-0 (2-0)  SV Austria Salzburg
+[Sun Aug/20]
+  16.30  SV Ried                  2-3 (1-1)  Rapid Wien
+
+
+Matchday 9
+[Sat Aug/26]
+  19.00  SV Austria Salzburg      1-0 (1-0)  Sturm Graz
+  19.30  Grazer AK                5-1 (3-0)  VfB Admira Wacker Mödling
+         LASK Linz                1-1 (0-0)  SV Ried
+[Sun Aug/27]
+  16.30  Rapid Wien               2-1 (0-0)  FC Tirol Innsbruck
+[Wed Oct/25]
+  18.30  Schwarz-Weiß Bregenz     2-1 (0-0)  Austria Wien
+
+
+Matchday 10
+[Tue Sep/5]
+  19.30  Sturm Graz               1-2 (0-0)  SV Austria Salzburg
+[Wed Sep/6]
+  18.15  VfB Admira Wacker Mödling  0-4 (0-3)  Grazer AK
+         Austria Wien             2-1 (1-1)  Schwarz-Weiß Bregenz
+  19.30  SV Ried                  1-0 (0-0)  LASK Linz
+[Fri Sep/8]
+  18.15  FC Tirol Innsbruck       1-0 (0-0)  Rapid Wien
+
+
+Matchday 11
+[Fri Sep/15]
+  19.30  LASK Linz                2-1 (0-0)  Sturm Graz
+[Sat Sep/16]
+  15.30  Schwarz-Weiß Bregenz     0-0  SV Ried
+         Rapid Wien               3-0 (1-0)  SV Austria Salzburg
+[Sun Sep/17]
+  15.00  VfB Admira Wacker Mödling  1-0 (1-0)  FC Tirol Innsbruck
+  16.30  Grazer AK                1-0 (1-0)  Austria Wien
+
+
+Matchday 12
+[Fri Sep/22]
+  19.30  SV Ried                  2-3 (0-0)  Grazer AK
+[Sat Sep/23]
+  15.30  Austria Wien             0-0  VfB Admira Wacker Mödling
+         SV Austria Salzburg      4-1 (1-1)  LASK Linz
+         FC Tirol Innsbruck       2-0 (0-0)  Schwarz-Weiß Bregenz
+[Sun Sep/24]
+  16.30  Sturm Graz               1-1 (0-1)  Rapid Wien
+
+
+Matchday 13
+[Fri Sep/29]
+  19.30  VfB Admira Wacker Mödling  0-5 (0-1)  SV Ried
+[Sat Sep/30]
+  15.30  Schwarz-Weiß Bregenz     5-1 (2-1)  SV Austria Salzburg
+[Sun Oct/1]
+  15.00  LASK Linz                2-1 (0-1)  Rapid Wien
+  15.30  Grazer AK                0-2 (0-1)  FC Tirol Innsbruck
+  16.30  Austria Wien             1-2 (1-2)  Sturm Graz
+
+
+Matchday 14
+[Sat Oct/14]
+  15.30  Rapid Wien               2-1 (0-0)  Schwarz-Weiß Bregenz
+         Sturm Graz               5-0 (3-0)  VfB Admira Wacker Mödling
+         FC Tirol Innsbruck       3-0 (2-0)  LASK Linz
+  19.30  SV Ried                  1-3 (0-3)  Austria Wien
+[Sun Oct/15]
+  16.30  SV Austria Salzburg      4-0 (3-0)  Grazer AK
+
+
+Matchday 15
+[Fri Oct/20]
+  19.30  Grazer AK                2-0 (1-0)  Rapid Wien
+[Sat Oct/21]
+  15.30  VfB Admira Wacker Mödling  2-0 (1-0)  SV Austria Salzburg
+         Schwarz-Weiß Bregenz     2-2 (2-1)  LASK Linz
+         SV Ried                  2-1 (1-1)  Sturm Graz
+[Sun Oct/22]
+  16.30  Austria Wien             0-2 (0-1)  FC Tirol Innsbruck
+
+
+Matchday 16
+[Sat Oct/28]
+  15.30  SV Austria Salzburg      2-0 (2-0)  Austria Wien
+         Sturm Graz               4-2 (2-1)  Schwarz-Weiß Bregenz
+  19.00  Rapid Wien               1-0 (0-0)  VfB Admira Wacker Mödling
+[Sun Oct/29]
+  15.30  FC Tirol Innsbruck       2-0 (1-0)  SV Ried
+  16.30  LASK Linz                0-1 (0-0)  Grazer AK
+
+
+Matchday 17
+[Wed Nov/1]
+  15.30  VfB Admira Wacker Mödling  2-2 (2-2)  LASK Linz
+         Grazer AK                2-0 (1-0)  Schwarz-Weiß Bregenz
+  18.00  Austria Wien             3-2 (2-2)  Rapid Wien
+         SV Ried                  1-1 (0-0)  SV Austria Salzburg
+  20.00  FC Tirol Innsbruck       3-0 (1-0)  Sturm Graz
+
+
+Matchday 18
+[Sat Nov/4]
+  15.30  Schwarz-Weiß Bregenz     1-2 (1-0)  VfB Admira Wacker Mödling
+         LASK Linz                1-3 (0-2)  Austria Wien
+[Wed Nov/29]
+  18.00  SV Austria Salzburg      1-1 (1-0)  FC Tirol Innsbruck
+  19.30  Rapid Wien               2-1 (1-0)  SV Ried
+  20.00  Sturm Graz               1-1 (1-0)  Grazer AK
+
+
+Matchday 19
+[Fri Nov/10]
+  19.30  LASK Linz                1-1 (0-1)  SV Austria Salzburg
+[Sat Nov/11]
+  15.30  Schwarz-Weiß Bregenz     2-3 (0-2)  SV Ried
+[Sun Nov/12]
+  14.00  Grazer AK                0-1 (0-0)  Rapid Wien
+  15.30  FC Tirol Innsbruck       5-0 (4-0)  VfB Admira Wacker Mödling
+  16.30  Austria Wien             1-0 (1-0)  Sturm Graz
+
+
+Matchday 20
+[Fri Nov/17]
+  19.30  Sturm Graz               2-1 (1-0)  LASK Linz
+[Sat Nov/18]
+  15.30  VfB Admira Wacker Mödling  1-0 (0-0)  Austria Wien
+         SV Ried                  2-1 (1-1)  Grazer AK
+         SV Austria Salzburg      5-0 (1-0)  Schwarz-Weiß Bregenz
+[Sun Nov/19]
+  16.30  Rapid Wien               2-2 (1-1)  FC Tirol Innsbruck
+
+
+Matchday 21
+[Fri Nov/24]
+  19.30  LASK Linz                3-3 (2-1)  Rapid Wien
+[Sat Nov/25]
+  15.30  Schwarz-Weiß Bregenz     1-0 (1-0)  Grazer AK
+         Sturm Graz               3-1 (0-0)  VfB Admira Wacker Mödling
+         FC Tirol Innsbruck       3-1 (0-0)  SV Ried
+[Sun Nov/26]
+  16.30  Austria Wien             1-1 (1-0)  SV Austria Salzburg
+
+
+Matchday 22
+[Sat Dec/2]
+  15.30  VfB Admira Wacker Mödling  1-1 (0-1)  LASK Linz
+         Rapid Wien               5-0 (2-0)  Schwarz-Weiß Bregenz
+         SV Ried                  0-0  Austria Wien
+         SV Austria Salzburg      0-1 (0-1)  Sturm Graz
+[Sun Dec/3]
+  16.30  Grazer AK                3-0 (1-0)  FC Tirol Innsbruck
+
+
+Matchday 23
+[Sat Mar/3]
+  15.30  LASK Linz                0-0  Grazer AK
+         SV Austria Salzburg      0-0  VfB Admira Wacker Mödling
+         Sturm Graz               0-1 (0-0)  SV Ried
+  19.30  FC Tirol Innsbruck       4-1 (2-0)  Schwarz-Weiß Bregenz
+[Sun Mar/4]
+  16.30  Austria Wien             2-0 (1-0)  Rapid Wien
+
+
+Matchday 24
+[Fri Mar/9]
+  19.30  Rapid Wien               1-2 (1-1)  VfB Admira Wacker Mödling
+[Sat Mar/10]
+  15.30  Schwarz-Weiß Bregenz     2-1 (1-0)  Austria Wien
+         SV Ried                  1-3 (0-1)  SV Austria Salzburg
+         FC Tirol Innsbruck       1-1 (1-1)  LASK Linz
+  16.30  Grazer AK                1-2 (1-2)  Sturm Graz
+
+
+Matchday 25
+[Sat Feb/24]
+  16.00  Sturm Graz               1-1 (1-0)  FC Tirol Innsbruck
+[Tue Mar/13]
+  19.00  Austria Wien             0-1 (0-1)  Grazer AK
+[Wed Mar/14]
+  18.15  SV Austria Salzburg      0-3 (0-1)  Rapid Wien
+  19.30  VfB Admira Wacker Mödling  1-1 (0-0)  Schwarz-Weiß Bregenz
+         LASK Linz                2-0 (2-0)  SV Ried
+
+
+Matchday 26
+[Fri Mar/16]
+  19.30  FC Tirol Innsbruck       1-2 (1-0)  Austria Wien
+[Sat Mar/17]
+  15.30  Schwarz-Weiß Bregenz     1-2 (0-1)  LASK Linz
+         Grazer AK                1-1 (1-1)  SV Austria Salzburg
+         SV Ried                  0-1 (0-0)  VfB Admira Wacker Mödling
+[Sun Mar/18]
+  16.30  Rapid Wien               0-0  Sturm Graz
+
+
+Matchday 27
+[Sat Mar/31]
+  15.30  VfB Admira Wacker Mödling  1-0 (1-0)  Grazer AK
+         Rapid Wien               1-1 (0-0)  SV Ried
+         Sturm Graz               3-1 (2-1)  Schwarz-Weiß Bregenz
+  19.00  LASK Linz                4-1 (4-0)  Austria Wien
+[Sun Apr/1]
+  16.30  SV Austria Salzburg      0-1 (0-1)  FC Tirol Innsbruck
+
+
+Matchday 28
+[Sat Apr/7]
+  15.30  Austria Wien             3-1 (1-0)  LASK Linz
+         Schwarz-Weiß Bregenz     0-3 (0-2)  Sturm Graz
+         Grazer AK                1-1 (0-0)  VfB Admira Wacker Mödling
+  19.30  FC Tirol Innsbruck       1-0 (1-0)  SV Austria Salzburg
+[Sun Apr/8]
+  16.30  SV Ried                  2-0 (0-0)  Rapid Wien
+
+
+Matchday 29
+[Fri Apr/13]
+  19.30  VfB Admira Wacker Mödling  0-2 (0-1)  FC Tirol Innsbruck
+[Sat Apr/14]
+  15.30  Rapid Wien               1-1 (0-0)  Grazer AK
+         SV Ried                  1-0 (1-0)  Schwarz-Weiß Bregenz
+         SV Austria Salzburg      3-1 (0-1)  LASK Linz
+  16.30  Sturm Graz               2-0 (1-0)  Austria Wien
+
+
+Matchday 30
+[Fri Apr/20]
+  19.30  LASK Linz                2-1 (1-0)  Sturm Graz
+[Sat Apr/21]
+  15.30  Austria Wien             2-0 (2-0)  VfB Admira Wacker Mödling
+         Grazer AK                4-1 (1-1)  SV Ried
+  16.30  FC Tirol Innsbruck       1-1 (0-1)  Rapid Wien
+[Tue May/8]
+  19.00  Schwarz-Weiß Bregenz     2-0 (1-0)  SV Austria Salzburg
+
+
+Matchday 31
+[Sat Apr/28]
+  15.30  Grazer AK                2-2 (0-1)  Schwarz-Weiß Bregenz
+         Rapid Wien               6-0 (3-0)  LASK Linz
+         SV Austria Salzburg      4-1 (2-1)  Austria Wien
+  19.00  SV Ried                  3-1 (1-1)  FC Tirol Innsbruck
+[Sun Apr/29]
+  16.30  VfB Admira Wacker Mödling  2-2 (1-0)  Sturm Graz
+
+
+Matchday 32
+[Tue May/1]
+  15.30  Austria Wien             1-1 (1-0)  SV Ried
+  16.30  FC Tirol Innsbruck       3-0 (2-0)  Grazer AK
+  18.30  Schwarz-Weiß Bregenz     1-0 (0-0)  Rapid Wien
+[Wed May/2]
+  18.30  LASK Linz                1-3 (1-2)  VfB Admira Wacker Mödling
+  19.00  Sturm Graz               2-1 (1-0)  SV Austria Salzburg
+
+
+Matchday 33
+[Fri May/4]
+  19.30  Schwarz-Weiß Bregenz     1-0 (0-0)  FC Tirol Innsbruck
+[Sat May/5]
+  15.30  VfB Admira Wacker Mödling  0-0  SV Austria Salzburg
+         Grazer AK                1-0 (0-0)  LASK Linz
+         SV Ried                  1-3 (0-1)  Sturm Graz
+[Sun May/6]
+  16.30  Rapid Wien               2-0 (1-0)  Austria Wien
+
+
+Matchday 34
+[Sat May/12]
+  15.30  VfB Admira Wacker Mödling  0-2 (0-1)  Rapid Wien
+         Austria Wien             1-1 (1-0)  Schwarz-Weiß Bregenz
+         SV Austria Salzburg      4-3 (2-0)  SV Ried
+         Sturm Graz               0-1 (0-0)  Grazer AK
+  19.30  LASK Linz                1-2 (0-0)  FC Tirol Innsbruck
+
+
+Matchday 35
+[Sat May/19]
+  16.30  Schwarz-Weiß Bregenz     0-0  VfB Admira Wacker Mödling
+         Grazer AK                2-0 (1-0)  Austria Wien
+         Rapid Wien               0-0  SV Austria Salzburg
+         SV Ried                  1-0 (0-0)  LASK Linz
+         FC Tirol Innsbruck       2-0 (1-0)  Sturm Graz
+
+
+Matchday 36
+[Thu May/24]
+  16.30  VfB Admira Wacker Mödling  0-0  SV Ried
+         Austria Wien             0-2 (0-2)  FC Tirol Innsbruck
+         LASK Linz                5-0 (4-0)  Schwarz-Weiß Bregenz
+         SV Austria Salzburg      1-2 (0-2)  Grazer AK
+         Sturm Graz               1-1 (0-0)  Rapid Wien

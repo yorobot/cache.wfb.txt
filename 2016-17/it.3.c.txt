@@ -1,0 +1,585 @@
+= IT 3 C 2016/17
+
+# Date       Sat Aug/27 2016 - Sun May/28 2017 (274d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Aug/27]
+  16.30  Calcio Catania           3-1 (1-1)  SS Juve Stabia
+[Sun Aug/28]
+  16.30  Akragas                  1-1 (1-0)  Vibonese Calcio
+         US Catanzaro             0-3 (0-0)  Cosenza Calcio
+         Fondi                    3-1 (2-0)  Reggina 1914
+         AS Melfi                 1-0 (0-0)  Casertana FC
+         SS Monopoli 1966         1-2 (0-0)  US Lecce
+  20.30  ACR Messina              3-1 (1-0)  US Siracusa
+         Taranto FC               1-1 (1-0)  Matera Calcio
+[Mon Aug/29]
+  20.30  Foggia Calcio            2-1 (0-0)  Fidelis Andria
+
+
+Matchday 2
+[Sun Sep/4]
+  20.30  Matera Calcio            2-1 (2-0)  Paganese Calcio
+  16.30  SS Juve Stabia           4-0 (2-0)  AS Melfi
+         Reggina 1914             2-0 (0-0)  ACR Messina
+         Vibonese Calcio          1-0 (0-0)  Fondi
+         Virtus Francavilla       1-0 (0-0)  US Catanzaro
+  20.30  Fidelis Andria           0-0  Calcio Catania
+         Casertana FC             0-1 (0-1)  SS Monopoli 1966
+         Cosenza Calcio           0-1 (0-0)  Taranto FC
+         US Lecce                 4-1 (2-1)  Akragas
+[Mon Sep/5]
+  16.30  US Siracusa              1-2 (0-1)  Foggia Calcio
+
+
+Matchday 3
+[Sun Sep/11]
+  20.30  Taranto FC               0-0  US Siracusa
+  16.30  Akragas                  2-2 (2-1)  Reggina 1914
+         US Catanzaro             3-0 (1-0)  Fidelis Andria
+         AS Melfi                 1-3 (0-2)  US Lecce
+  20.30  Foggia Calcio            3-0 (1-0)  Vibonese Calcio
+         Matera Calcio            3-2 (1-0)  Cosenza Calcio
+         ACR Messina              1-1 (0-1)  Virtus Francavilla
+         SS Monopoli 1966         0-1 (0-1)  SS Juve Stabia
+         Paganese Calcio          0-1 (0-0)  Casertana FC
+
+
+Matchday 4
+[Wed Sep/14]
+  18.30  Cosenza Calcio           3-0 (3-0)  AS Melfi
+  20.30  US Lecce                 3-0 (1-0)  US Catanzaro
+  14.30  US Siracusa              1-1 (0-0)  SS Monopoli 1966
+  16.30  Fondi                    2-0 (1-0)  Akragas
+         Reggina 1914             1-1 (0-1)  Calcio Catania
+         Vibonese Calcio          0-1 (0-0)  Matera Calcio
+  20.30  Casertana FC             2-1 (0-1)  Taranto FC
+         Fidelis Andria           2-0 (2-0)  Paganese Calcio
+         SS Juve Stabia           2-1 (0-1)  ACR Messina
+[Thu Sep/15]
+  16.30  Virtus Francavilla       0-1 (0-0)  Foggia Calcio
+
+
+Matchday 5
+[Sun Sep/18]
+  20.30  Taranto FC               2-0 (1-0)  Fidelis Andria
+         Matera Calcio            0-0  Calcio Catania
+  14.30  Akragas                  2-1 (1-0)  Virtus Francavilla
+  16.30  US Catanzaro             0-2 (0-2)  Paganese Calcio
+         Cosenza Calcio           2-0 (2-0)  Vibonese Calcio
+         AS Melfi                 2-2 (0-2)  Fondi
+         SS Monopoli 1966         1-1 (1-1)  Reggina 1914
+  20.30  SS Juve Stabia           2-0 (2-0)  US Siracusa
+         US Lecce                 0-0  Casertana FC
+[Mon Sep/19]
+  20.45  ACR Messina              1-2 (1-1)  Foggia Calcio
+
+
+Matchday 6
+[Sun Sep/25]
+  20.30  Foggia Calcio            2-0 (0-0)  Taranto FC
+  16.30  Paganese Calcio          0-2 (0-0)  SS Monopoli 1966
+  14.30  US Siracusa              0-2 (0-0)  US Lecce
+         Virtus Francavilla       1-4 (0-2)  Matera Calcio
+  16.30  US Catanzaro             0-1 (0-0)  ACR Messina
+  20.30  Fondi                    2-2 (2-0)  SS Juve Stabia
+  16.30  Reggina 1914             0-0  Cosenza Calcio
+         Vibonese Calcio          0-1 (0-0)  Casertana FC
+  20.30  Fidelis Andria           1-0 (1-0)  AS Melfi
+         Calcio Catania           0-1 (0-0)  Akragas
+
+
+Matchday 3
+[Wed Sep/28]
+  20.30  Calcio Catania           1-1 (1-1)  Fondi
+
+
+Matchday 7
+[Sun Oct/2]
+  20.30  Taranto FC               0-0  Calcio Catania
+  14.30  Akragas                  0-0  US Catanzaro
+         AS Melfi                 2-2 (1-0)  US Siracusa
+         ACR Messina              0-2 (0-1)  Paganese Calcio
+  16.30  Matera Calcio            1-1 (1-0)  Foggia Calcio
+         SS Monopoli 1966         1-0 (1-0)  Fondi
+  20.30  Casertana FC             0-0  Fidelis Andria
+         Cosenza Calcio           1-0 (0-0)  Virtus Francavilla
+         SS Juve Stabia           3-0 (1-0)  Vibonese Calcio
+         US Lecce                 1-0 (0-0)  Reggina 1914
+
+
+Matchday 1
+[Wed Oct/5]
+  14.30  Paganese Calcio          1-1 (0-0)  Virtus Francavilla
+
+
+Matchday 8
+[Sun Oct/9]
+  14.30  US Siracusa              2-1 (0-0)  Matera Calcio
+         Virtus Francavilla       4-1 (2-1)  Casertana FC
+  16.30  Calcio Catania           3-1 (2-1)  ACR Messina
+         US Catanzaro             3-1 (2-0)  Taranto FC
+         Foggia Calcio            0-0  Akragas
+         Fondi                    1-2 (1-1)  Cosenza Calcio
+         Vibonese Calcio          2-2 (1-1)  US Lecce
+  20.30  Fidelis Andria           0-2 (0-0)  SS Monopoli 1966
+         Paganese Calcio          3-0 (2-0)  AS Melfi
+         Reggina 1914             1-0 (0-0)  SS Juve Stabia
+
+
+Matchday 9
+[Sun Oct/16]
+  14.30  Akragas                  1-1 (1-0)  Fidelis Andria
+         Casertana FC             2-2 (1-1)  Reggina 1914
+         Vibonese Calcio          0-0  US Siracusa
+  16.30  AS Melfi                 1-1 (0-0)  Calcio Catania
+         SS Monopoli 1966         2-1 (2-0)  ACR Messina
+         Taranto FC               0-2 (0-0)  Fondi
+  20.30  Cosenza Calcio           2-1 (0-0)  Paganese Calcio
+         SS Juve Stabia           4-1 (2-0)  Foggia Calcio
+         US Lecce                 3-0 (1-0)  Virtus Francavilla
+         Matera Calcio            4-0 (1-0)  US Catanzaro
+
+
+Matchday 10
+[Sun Oct/23]
+  14.30  Akragas                  1-1 (0-1)  Taranto FC
+         Calcio Catania           2-0 (0-0)  US Lecce
+         US Catanzaro             2-2 (1-1)  AS Melfi
+         Fondi                    2-0 (0-0)  US Siracusa
+         Virtus Francavilla       3-1 (0-0)  Vibonese Calcio
+  16.30  ACR Messina              2-1 (2-1)  Casertana FC
+         Paganese Calcio          1-2 (0-1)  SS Juve Stabia
+  20.30  Fidelis Andria           2-0 (1-0)  Cosenza Calcio
+         Foggia Calcio            4-1 (2-0)  SS Monopoli 1966
+         Reggina 1914             2-6 (1-3)  Matera Calcio
+
+
+Matchday 11
+[Sun Oct/30]
+  14.30  US Siracusa              1-1 (1-1)  Fidelis Andria
+  16.30  Calcio Catania           2-1 (0-0)  Paganese Calcio
+         AS Melfi                 0-1 (0-0)  Virtus Francavilla
+         SS Monopoli 1966         2-2 (1-1)  US Catanzaro
+         Taranto FC               1-1 (0-1)  ACR Messina
+         Vibonese Calcio          1-0 (1-0)  Reggina 1914
+  18.30  SS Juve Stabia           2-0 (1-0)  Cosenza Calcio
+  20.30  Casertana FC             1-1 (1-0)  Fondi
+         Matera Calcio            3-1 (2-0)  Akragas
+[Mon Oct/31]
+  20.45  US Lecce                 0-0  Foggia Calcio
+
+
+Matchday 12
+[Sun Nov/6]
+  14.30  Akragas                  1-1 (1-1)  AS Melfi
+         Virtus Francavilla       0-0  SS Monopoli 1966
+  16.30  Fidelis Andria           0-0  Vibonese Calcio
+         US Catanzaro             0-2 (0-1)  SS Juve Stabia
+         Cosenza Calcio           1-2 (0-0)  Casertana FC
+         Foggia Calcio            0-0  Calcio Catania
+         Fondi                    2-2 (2-2)  US Lecce
+  20.30  ACR Messina              0-0  Matera Calcio
+         Paganese Calcio          2-0 (1-0)  Taranto FC
+         Reggina 1914             0-2 (0-1)  US Siracusa
+
+
+Matchday 13
+[Sun Nov/13]
+  14.30  AS Melfi                 3-0 (0-0)  Reggina 1914
+         US Siracusa              4-2 (2-2)  Akragas
+  16.30  Calcio Catania           3-1 (2-1)  US Catanzaro
+         ACR Messina              1-1 (0-1)  Fidelis Andria
+         SS Monopoli 1966         0-2 (0-1)  Vibonese Calcio
+         Paganese Calcio          1-1 (1-1)  Foggia Calcio
+  18.30  Casertana FC             1-1 (1-0)  SS Juve Stabia
+  20.30  US Lecce                 1-1 (0-1)  Cosenza Calcio
+         Matera Calcio            0-0  Fondi
+[Mon Nov/14]
+  20.45  Taranto FC               2-3 (1-1)  Virtus Francavilla
+
+
+Matchday 14
+[Sun Nov/20]
+  14.30  Akragas                  0-0  ACR Messina
+         Casertana FC             2-0 (1-0)  US Siracusa
+         Vibonese Calcio          1-1 (0-0)  AS Melfi
+         Virtus Francavilla       1-0 (0-0)  Calcio Catania
+  16.30  Cosenza Calcio           2-1 (1-0)  SS Monopoli 1966
+         Fondi                    3-1 (2-1)  Paganese Calcio
+         SS Juve Stabia           2-3 (2-0)  US Lecce
+  18.30  Reggina 1914             2-2 (1-1)  Taranto FC
+  20.30  Fidelis Andria           1-0 (1-0)  Matera Calcio
+         Foggia Calcio            1-0 (0-0)  US Catanzaro
+
+
+Matchday 15
+[Sun Nov/27]
+  14.30  US Catanzaro             1-1 (0-0)  Reggina 1914
+         AS Melfi                 3-2 (1-0)  SS Monopoli 1966
+         ACR Messina              1-1 (0-0)  Fondi
+         US Siracusa              1-0 (0-0)  Cosenza Calcio
+  16.30  Calcio Catania           1-0 (0-0)  Vibonese Calcio
+         Paganese Calcio          2-0 (1-0)  Akragas
+  18.30  Fidelis Andria           1-1 (0-0)  Virtus Francavilla
+  20.30  Foggia Calcio            1-1 (1-0)  Casertana FC
+         Taranto FC               0-1 (0-1)  US Lecce
+
+
+Matchday 16
+[Sat Dec/3]
+  14.30  SS Monopoli 1966         1-0 (0-0)  Taranto FC
+         Casertana FC             0-1 (0-0)  Akragas
+         Fondi                    1-2 (1-0)  Fidelis Andria
+         SS Juve Stabia           1-0 (0-0)  Virtus Francavilla
+         AS Melfi                 3-0 (1-0)  ACR Messina
+  20.30  US Lecce                 0-3 (0-2)  Matera Calcio
+  14.30  US Siracusa              1-0 (1-0)  US Catanzaro
+         Vibonese Calcio          0-0  Paganese Calcio
+  16.30  Cosenza Calcio           1-2 (1-1)  Calcio Catania
+  18.30  Reggina 1914             1-1 (1-1)  Foggia Calcio
+
+
+Matchday 17
+[Tue Dec/6]
+  20.30  Taranto FC               2-0 (1-0)  AS Melfi
+  14.30  Akragas                  1-3 (0-0)  Cosenza Calcio
+         Fidelis Andria           2-1 (1-0)  SS Juve Stabia
+         Calcio Catania           4-1 (1-0)  SS Monopoli 1966
+         ACR Messina              0-3 (0-2)  US Lecce
+         Paganese Calcio          1-1 (0-0)  US Siracusa
+         Virtus Francavilla       1-0 (0-0)  Reggina 1914
+  16.30  US Catanzaro             2-0 (1-0)  Vibonese Calcio
+  20.30  Foggia Calcio            2-3 (2-1)  Fondi
+         Matera Calcio            4-2 (0-0)  Casertana FC
+
+
+Matchday 18
+[Sat Dec/10]
+  14.30  US Siracusa              1-0 (0-0)  Calcio Catania
+         Fondi                    1-1 (0-1)  Virtus Francavilla
+         SS Juve Stabia           1-0 (0-0)  Akragas
+         AS Melfi                 1-3 (0-0)  Foggia Calcio
+         SS Monopoli 1966         1-3 (0-2)  Matera Calcio
+  16.30  Reggina 1914             0-0  Fidelis Andria
+  14.30  Vibonese Calcio          0-2 (0-1)  Taranto FC
+  16.30  Casertana FC             0-0  US Catanzaro
+         Cosenza Calcio           1-0 (0-0)  ACR Messina
+         US Lecce                 3-1 (2-0)  Paganese Calcio
+
+
+Matchday 15
+[Tue Dec/13]
+  14.30  Matera Calcio            2-2 (1-1)  SS Juve Stabia
+
+
+Matchday 19
+[Sat Dec/17]
+  14.30  Akragas                  1-2 (1-1)  SS Monopoli 1966
+         Fidelis Andria           0-0  US Lecce
+         ACR Messina              3-0 (0-0)  Vibonese Calcio
+         Paganese Calcio          2-1 (2-0)  Reggina 1914
+         Virtus Francavilla       3-1 (1-1)  US Siracusa
+  16.30  Calcio Catania           1-0 (0-0)  Casertana FC
+         US Catanzaro             1-1 (0-0)  Fondi
+         Matera Calcio            6-0 (4-0)  AS Melfi
+         Taranto FC               0-0  SS Juve Stabia
+  18.30  Foggia Calcio            3-1 (1-1)  Cosenza Calcio
+
+
+Matchday 20
+[Thu Dec/22]
+  14.30  Cosenza Calcio           1-1 (0-0)  US Catanzaro
+         Reggina 1914             2-1 (1-0)  Fondi
+         US Siracusa              2-0 (2-0)  ACR Messina
+         Vibonese Calcio          0-1 (0-1)  Akragas
+         Virtus Francavilla       2-0 (0-0)  Paganese Calcio
+  16.30  Fidelis Andria           1-1 (0-1)  Foggia Calcio
+         US Lecce                 3-3 (1-2)  SS Monopoli 1966
+  18.30  Casertana FC             2-1 (1-0)  AS Melfi
+         SS Juve Stabia           4-0 (3-0)  Calcio Catania
+  20.45  Matera Calcio            2-0 (1-0)  Taranto FC
+
+
+Matchday 21
+[Thu Dec/29]
+  14.30  Akragas                  0-2 (0-0)  US Lecce
+         US Catanzaro             0-0  Virtus Francavilla
+         Fondi                    1-0 (0-0)  Vibonese Calcio
+         AS Melfi                 1-2 (0-1)  SS Juve Stabia
+         ACR Messina              2-0 (0-0)  Reggina 1914
+         SS Monopoli 1966         2-3 (1-1)  Casertana FC
+  16.30  Foggia Calcio            3-0 (2-0)  US Siracusa
+         Paganese Calcio          1-1 (0-1)  Matera Calcio
+  18.30  Calcio Catania           0-0  Fidelis Andria
+  20.30  Taranto FC               0-3 (0-2)  Cosenza Calcio
+
+
+Matchday 22
+[Sat Jan/21]
+  14.30  Casertana FC             2-0 (0-0)  Paganese Calcio
+         Cosenza Calcio           2-3 (1-1)  Matera Calcio
+         SS Juve Stabia           1-1 (0-1)  SS Monopoli 1966
+         US Lecce                 3-1 (2-1)  AS Melfi
+         US Siracusa              0-0  Taranto FC
+         Virtus Francavilla       3-1 (1-1)  ACR Messina
+  16.30  Reggina 1914             2-1 (2-0)  Akragas
+         Vibonese Calcio          1-3 (1-2)  Foggia Calcio
+[Sun Jan/22]
+  18.30  Fidelis Andria           1-1 (0-0)  US Catanzaro
+[Mon Jan/23]
+  20.45  Fondi                    1-1 (1-0)  Calcio Catania
+
+
+Matchday 23
+[Sat Jan/28]
+  14.30  Akragas                  2-2 (1-0)  Fondi
+         AS Melfi                 0-2 (0-0)  Cosenza Calcio
+         ACR Messina              1-0 (1-0)  SS Juve Stabia
+         SS Monopoli 1966         1-1 (1-1)  US Siracusa
+         Paganese Calcio          1-1 (0-0)  Fidelis Andria
+         Taranto FC               0-0  Casertana FC
+  18.30  Matera Calcio            1-0 (0-0)  Vibonese Calcio
+  20.30  Foggia Calcio            5-1 (3-0)  Virtus Francavilla
+[Sun Jan/29]
+  14.30  Calcio Catania           3-1 (2-0)  Reggina 1914
+[Mon Jan/30]
+  20.45  US Catanzaro             1-2 (1-0)  US Lecce
+
+
+Matchday 24
+[Sat Feb/4]
+  14.30  Reggina 1914             0-0  SS Monopoli 1966
+         US Siracusa              3-2 (1-2)  SS Juve Stabia
+         Vibonese Calcio          1-1 (1-0)  Cosenza Calcio
+         Virtus Francavilla       2-0 (0-0)  Akragas
+  16.30  Foggia Calcio            3-0 (0-0)  ACR Messina
+         Fondi                    2-1 (0-0)  AS Melfi
+         Paganese Calcio          1-2 (1-1)  US Catanzaro
+  18.30  Casertana FC             1-0 (1-0)  US Lecce
+  20.30  Fidelis Andria           2-1 (1-1)  Taranto FC
+[Tue Feb/7]
+  20.45  Calcio Catania           2-0 (1-0)  Matera Calcio
+
+
+Matchday 25
+[Sat Feb/11]
+  14.30  US Lecce                 2-1 (1-0)  US Siracusa
+         AS Melfi                 1-2 (0-2)  Fidelis Andria
+         ACR Messina              2-1 (0-0)  US Catanzaro
+         SS Monopoli 1966         0-2 (0-2)  Paganese Calcio
+         Taranto FC               2-0 (0-0)  Foggia Calcio
+  18.30  Casertana FC             1-2 (1-2)  Vibonese Calcio
+  20.30  SS Juve Stabia           1-1 (1-0)  Fondi
+[Sun Feb/12]
+  16.30  Matera Calcio            2-3 (0-1)  Virtus Francavilla
+  14.30  Akragas                  2-1 (0-1)  Calcio Catania
+[Mon Feb/13]
+  20.45  Cosenza Calcio           2-2 (1-1)  Reggina 1914
+
+
+Matchday 26
+[Sat Feb/18]
+  14.30  Calcio Catania           0-0  Taranto FC
+         Fondi                    1-0 (0-0)  SS Monopoli 1966
+         Paganese Calcio          2-0 (2-0)  ACR Messina
+         US Siracusa              3-1 (1-0)  AS Melfi
+         Vibonese Calcio          0-1 (0-0)  SS Juve Stabia
+         Virtus Francavilla       1-0 (0-0)  Cosenza Calcio
+  16.30  US Catanzaro             1-0 (0-0)  Akragas
+         Reggina 1914             1-2 (1-1)  US Lecce
+  20.30  Fidelis Andria           0-2 (0-1)  Casertana FC
+         Foggia Calcio            3-1 (3-0)  Matera Calcio
+
+
+Matchday 27
+[Sat Feb/25]
+  14.30  Cosenza Calcio           2-2 (1-1)  Fondi
+         US Lecce                 2-1 (1-1)  Vibonese Calcio
+         Matera Calcio            0-4 (0-1)  US Siracusa
+         AS Melfi                 0-4 (0-3)  Paganese Calcio
+         Taranto FC               1-0 (0-0)  US Catanzaro
+  16.30  Casertana FC             1-0 (1-0)  Virtus Francavilla
+  20.30  SS Juve Stabia           3-3 (3-1)  Reggina 1914
+  14.30  Akragas                  0-1 (0-0)  Foggia Calcio
+[Sun Feb/26]
+  14.30  ACR Messina              1-2 (0-0)  Calcio Catania
+         SS Monopoli 1966         1-1 (0-0)  Fidelis Andria
+
+
+Matchday 28
+[Sun Mar/5]
+  14.30  Calcio Catania           0-2 (0-1)  AS Melfi
+         US Catanzaro             3-1 (1-0)  Matera Calcio
+         Fondi                    1-1 (0-0)  Taranto FC
+         ACR Messina              1-0 (1-0)  SS Monopoli 1966
+         Reggina 1914             3-0 (1-0)  Casertana FC
+         US Siracusa              4-1 (3-0)  Vibonese Calcio
+         Virtus Francavilla       2-1 (1-1)  US Lecce
+  18.30  Fidelis Andria           1-0 (0-0)  Akragas
+         Foggia Calcio            1-0 (1-0)  SS Juve Stabia
+         Paganese Calcio          1-1 (1-1)  Cosenza Calcio
+
+
+Matchday 29
+[Sun Mar/12]
+  14.30  Casertana FC             0-0  ACR Messina
+         Cosenza Calcio           2-1 (2-0)  Fidelis Andria
+         SS Juve Stabia           0-1 (0-0)  Paganese Calcio
+         US Lecce                 1-0 (0-0)  Calcio Catania
+         AS Melfi                 1-0 (0-0)  US Catanzaro
+         US Siracusa              1-0 (0-0)  Fondi
+         Taranto FC               0-2 (0-1)  Akragas
+  18.30  Matera Calcio            2-0 (2-0)  Reggina 1914
+         Vibonese Calcio          2-0 (0-0)  Virtus Francavilla
+[Mon Mar/13]
+  20.45  SS Monopoli 1966         0-2 (0-2)  Foggia Calcio
+
+
+Matchday 30
+[Sat Mar/18]
+  14.45  Fondi                    1-2 (0-1)  Casertana FC
+[Sun Mar/19]
+  14.45  Akragas                  1-0 (0-0)  Matera Calcio
+         Fidelis Andria           0-1 (0-1)  US Siracusa
+         US Catanzaro             1-1 (1-0)  SS Monopoli 1966
+         Cosenza Calcio           2-4 (0-2)  SS Juve Stabia
+         Foggia Calcio            3-0 (2-0)  US Lecce
+         ACR Messina              3-1 (2-0)  Taranto FC
+         Virtus Francavilla       0-1 (0-0)  AS Melfi
+  16.45  Paganese Calcio          2-1 (1-0)  Calcio Catania
+  18.45  Reggina 1914             0-0  Vibonese Calcio
+
+
+Matchday 31
+[Sun Mar/26]
+  14.30  Casertana FC             1-1 (1-0)  Cosenza Calcio
+         Calcio Catania           0-1 (0-0)  Foggia Calcio
+         US Lecce                 2-0 (2-0)  Fondi
+         AS Melfi                 0-0  Akragas
+         US Siracusa              1-1 (1-1)  Reggina 1914
+         Vibonese Calcio          1-0 (0-0)  Fidelis Andria
+  18.30  SS Juve Stabia           2-2 (1-2)  US Catanzaro
+         Matera Calcio            5-1 (2-0)  ACR Messina
+         SS Monopoli 1966         1-1 (0-0)  Virtus Francavilla
+
+
+Matchday 32
+[Sat Apr/1]
+  20.30  Fidelis Andria           0-1 (0-1)  ACR Messina
+  14.30  Reggina 1914             2-1 (2-0)  AS Melfi
+[Sun Apr/2]
+  14.30  SS Juve Stabia           2-2 (1-2)  Casertana FC
+         Akragas                  1-0 (0-0)  US Siracusa
+         US Catanzaro             2-1 (2-1)  Calcio Catania
+         Fondi                    1-1 (1-0)  Matera Calcio
+  18.30  Foggia Calcio            3-1 (1-0)  Paganese Calcio
+  14.30  Vibonese Calcio          2-2 (1-0)  SS Monopoli 1966
+  16.30  Virtus Francavilla       2-2 (0-1)  Taranto FC
+  18.30  Cosenza Calcio           0-0  US Lecce
+
+
+Matchday 33
+[Wed Apr/5]
+  20.45  US Lecce                 3-2 (2-1)  SS Juve Stabia
+  14.30  US Catanzaro             1-2 (0-0)  Foggia Calcio
+         AS Melfi                 0-1 (0-1)  Vibonese Calcio
+         SS Monopoli 1966         2-6 (1-3)  Cosenza Calcio
+         Paganese Calcio          2-0 (1-0)  Fondi
+         US Siracusa              2-1 (1-0)  Casertana FC
+         Taranto FC               0-1 (0-0)  Reggina 1914
+  18.30  Calcio Catania           1-0 (1-0)  Virtus Francavilla
+         Matera Calcio            0-0  Fidelis Andria
+  20.30  ACR Messina              1-1 (0-0)  Akragas
+
+
+Matchday 34
+[Sun Apr/9]
+  14.30  US Lecce                 3-0 (2-0)  Taranto FC
+         Akragas                  1-2 (0-0)  Paganese Calcio
+         Casertana FC             0-3 (0-1)  Foggia Calcio
+         Fondi                    1-1 (1-1)  ACR Messina
+         SS Juve Stabia           1-2 (1-1)  Matera Calcio
+  18.30  SS Monopoli 1966         1-1 (0-0)  AS Melfi
+  14.30  Reggina 1914             1-0 (0-0)  US Catanzaro
+         Vibonese Calcio          1-1 (0-0)  Calcio Catania
+         Virtus Francavilla       0-2 (0-2)  Fidelis Andria
+  18.30  Cosenza Calcio           1-2 (0-1)  US Siracusa
+
+
+Matchday 35
+[Sat Apr/15]
+  18.30  Calcio Catania           0-2 (0-2)  Cosenza Calcio
+  14.30  Akragas                  1-0 (0-0)  Casertana FC
+         Fidelis Andria           0-1 (0-1)  Fondi
+         Foggia Calcio            1-0 (0-0)  Reggina 1914
+         Matera Calcio            1-1 (1-0)  US Lecce
+         ACR Messina              3-4 (0-2)  AS Melfi
+         Paganese Calcio          1-1 (0-1)  Vibonese Calcio
+         Taranto FC               0-1 (0-0)  SS Monopoli 1966
+         Virtus Francavilla       1-1 (0-0)  SS Juve Stabia
+  16.30  US Catanzaro             1-0 (1-0)  US Siracusa
+
+
+Matchday 31
+[Wed Apr/19]
+  14.30  Taranto FC               0-4 (0-2)  Paganese Calcio
+
+
+Matchday 36
+[Sun Apr/23]
+  14.30  Casertana FC             3-1 (3-1)  Matera Calcio
+         Fondi                    2-2 (0-1)  Foggia Calcio
+         SS Juve Stabia           2-1 (1-0)  Fidelis Andria
+         US Lecce                 0-1 (0-0)  ACR Messina
+         Reggina 1914             3-2 (2-0)  Virtus Francavilla
+         US Siracusa              2-0 (1-0)  Paganese Calcio
+         Vibonese Calcio          2-1 (0-1)  US Catanzaro
+  16.30  AS Melfi                 1-0 (0-0)  Taranto FC
+         SS Monopoli 1966         3-0 (1-0)  Calcio Catania
+  18.30  Cosenza Calcio           1-0 (0-0)  Akragas
+
+
+Matchday 37
+[Sun Apr/30]
+  14.30  Akragas                  1-3 (0-0)  SS Juve Stabia
+         Fidelis Andria           1-1 (0-0)  Reggina 1914
+         Calcio Catania           3-1 (2-0)  US Siracusa
+         US Catanzaro             2-0 (2-0)  Casertana FC
+         Foggia Calcio            1-0 (1-0)  AS Melfi
+         Matera Calcio            1-1 (1-0)  SS Monopoli 1966
+         ACR Messina              2-1 (2-1)  Cosenza Calcio
+         Paganese Calcio          1-1 (1-0)  US Lecce
+         Taranto FC               1-2 (0-2)  Vibonese Calcio
+         Virtus Francavilla       3-1 (1-0)  Fondi
+
+
+Matchday 38
+[Sun May/7]
+  17.30  Casertana FC             0-0  Calcio Catania
+         Cosenza Calcio           2-2 (1-0)  Foggia Calcio
+         Fondi                    2-1 (1-0)  US Catanzaro
+         SS Juve Stabia           1-0 (0-0)  Taranto FC
+         US Lecce                 1-1 (1-0)  Fidelis Andria
+         AS Melfi                 0-3 (0-1)  Matera Calcio
+         SS Monopoli 1966         0-0  Akragas
+         Reggina 1914             4-3 (2-2)  Paganese Calcio
+         US Siracusa              0-1 (0-1)  Virtus Francavilla
+         Vibonese Calcio          0-0  ACR Messina
+
+
+== Playout
+
+Final
+[Sun May/21]
+  16.30  US Catanzaro             3-2 (1-1)  Vibonese Calcio
+  16.00  AS Melfi                 0-0  Akragas
+[Sun May/28]
+  17.00  Vibonese Calcio          1-1 (1-1)  US Catanzaro
+  16.00  Akragas                  1-1 (0-1)  AS Melfi

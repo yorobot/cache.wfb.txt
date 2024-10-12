@@ -1,0 +1,512 @@
+= WAL 1 2008/09
+
+# Date       Fri Aug/15 2008 - Sat Apr/25 2009 (253d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Fri Aug/15]
+  19.30  Aberystwyth Town         6-2 (3-0)  Neath FC
+         NEWI Cefn Druids         3-3 (2-1)  Technogroup Welshpool Town
+         Prestatyn Town           2-1 (1-0)  Airbus UK
+[Sat Aug/16]
+  14.30  Bangor City              0-2 (0-2)  Llanelli AFC
+         Caersws FC               1-0 (1-0)  Caernarfon Town
+         Carmarthen Town          1-0 (1-0)  Porthmadog FC
+         GAP Connah's Quay FC     2-1 (1-1)  Haverfordwest County
+         Rhyl FC                  3-0 (2-0)  Newtown AFC
+         The New Saints           2-0 (2-0)  Port Talbot Town
+
+
+Matchday 2
+[Fri Aug/22]
+  19.30  Haverfordwest County     1-1 (0-1)  Carmarthen Town
+         NEWI Cefn Druids         0-1 (0-0)  The New Saints
+[Sat Aug/23]
+  14.30  Aberystwyth Town         1-1 (0-1)  Port Talbot Town
+         Caernarfon Town          0-1 (0-1)  Rhyl FC
+         Llanelli AFC             3-0 (2-0)  Caersws FC
+         Newtown AFC              0-1 (0-1)  Airbus UK
+         Porthmadog FC            0-6 (0-3)  Bangor City
+         Prestatyn Town           2-2 (0-2)  Technogroup Welshpool Town
+         GAP Connah's Quay FC     5-0 (3-0)  Neath FC
+
+
+Matchday 3
+[Fri Aug/29]
+  19.30  Airbus UK                4-3 (3-1)  Caernarfon Town
+         Carmarthen Town          5-2 (2-2)  Neath FC
+         The New Saints           2-0 (1-0)  Prestatyn Town
+[Sat Aug/30]
+  14.30  Bangor City              1-1 (0-1)  Haverfordwest County
+         Caersws FC               3-2 (1-1)  Porthmadog FC
+         GAP Connah's Quay FC     1-2 (0-1)  Aberystwyth Town
+         Port Talbot Town         3-2 (1-1)  NEWI Cefn Druids
+         Newtown AFC              4-1 (3-0)  Technogroup Welshpool Town
+  17.45  Rhyl FC                  5-1 (2-1)  Llanelli AFC
+
+
+Matchday 4
+[Fri Sep/5]
+  19.30  Caernarfon Town          2-3 (0-3)  Technogroup Welshpool Town
+         Haverfordwest County     2-0 (1-0)  Caersws FC
+         Porthmadog FC            0-3 (0-1)  Rhyl FC
+[Sun Sep/7]
+  14.30  Port Talbot Town         0-2 (0-2)  GAP Connah's Quay FC
+         Llanelli AFC             3-2 (1-2)  Airbus UK
+         Neath FC                 0-1 (0-0)  Bangor City
+         Newtown AFC              0-0  The New Saints
+[Tue Sep/30]
+  19.30  Prestatyn Town           3-3 (1-2)  NEWI Cefn Druids
+[Tue Nov/4]
+  19.30  Aberystwyth Town         0-3 (0-1)  Carmarthen Town
+
+
+Matchday 5
+[Fri Sep/12]
+  19.30  Airbus UK                0-3 (0-0)  Porthmadog FC
+         The New Saints           6-0 (2-0)  Caernarfon Town
+[Sat Sep/13]
+  14.30  Bangor City              0-0  Aberystwyth Town
+         Caersws FC               0-0  Neath FC
+         Carmarthen Town          2-0 (1-0)  GAP Connah's Quay FC
+         NEWI Cefn Druids         2-3 (1-0)  Newtown AFC
+         Port Talbot Town         3-1 (1-1)  Prestatyn Town
+         Rhyl FC                  2-0 (1-0)  Haverfordwest County
+[Sun Sep/14]
+  14.30  Technogroup Welshpool Town  1-3 (1-1)  Llanelli AFC
+
+
+Matchday 6
+[Fri Sep/19]
+  19.30  Aberystwyth Town         2-2 (0-1)  Caersws FC
+         GAP Connah's Quay FC     1-3 (1-2)  Bangor City
+         Carmarthen Town          1-1 (0-1)  Port Talbot Town
+         Llanelli AFC             1-1 (0-0)  The New Saints
+[Sat Sep/20]
+  14.30  Caernarfon Town          4-2 (1-1)  NEWI Cefn Druids
+         Haverfordwest County     3-0 (1-0)  Airbus UK
+         Newtown AFC              1-1 (1-0)  Prestatyn Town
+         Porthmadog FC            2-1 (2-0)  Technogroup Welshpool Town
+[Sun Sep/21]
+  14.30  Neath FC                 2-2 (0-2)  Rhyl FC
+
+
+Matchday 7
+[Fri Sep/26]
+  19.30  Prestatyn Town           5-0 (3-0)  Caernarfon Town
+[Sat Sep/27]
+  14.30  The New Saints           6-0 (1-0)  Porthmadog FC
+         Airbus UK                4-3 (2-1)  Neath FC
+         Bangor City              2-0 (1-0)  Carmarthen Town
+         Caersws FC               0-1 (0-0)  GAP Connah's Quay FC
+         NEWI Cefn Druids         0-4 (0-1)  Llanelli AFC
+         Port Talbot Town         1-2 (0-2)  Newtown AFC
+         Rhyl FC                  0-0  Aberystwyth Town
+         Technogroup Welshpool Town  1-3 (1-2)  Haverfordwest County
+
+
+Matchday 8
+[Fri Oct/10]
+  19.30  Carmarthen Town          1-1 (0-1)  Caersws FC
+         Haverfordwest County     2-2 (1-1)  The New Saints
+         Porthmadog FC            2-3 (1-3)  NEWI Cefn Druids
+         Rhyl FC                  2-0 (0-0)  GAP Connah's Quay FC
+[Sun Oct/12]
+  14.30  Aberystwyth Town         1-0 (0-0)  Airbus UK
+         Bangor City              4-2 (1-1)  Port Talbot Town
+         Llanelli AFC             6-1 (3-0)  Prestatyn Town
+         Neath FC                 3-2 (1-0)  Technogroup Welshpool Town
+[Sat Jan/31]
+  14.30  Caernarfon Town          0-0  Newtown AFC
+
+
+Matchday 9
+[Fri Oct/17]
+  19.30  Airbus UK                0-0  GAP Connah's Quay FC
+         Prestatyn Town           5-2 (3-2)  Porthmadog FC
+         Technogroup Welshpool Town  0-1 (0-0)  Aberystwyth Town
+[Sat Oct/18]
+  14.30  Caersws FC               0-1 (0-0)  Bangor City
+         NEWI Cefn Druids         0-1 (0-1)  Haverfordwest County
+         Newtown AFC              2-6 (0-4)  Llanelli AFC
+         Port Talbot Town         1-0 (0-0)  Caernarfon Town
+         Rhyl FC                  3-0 (0-0)  Carmarthen Town
+         The New Saints           2-1 (2-0)  Neath FC
+
+
+Matchday 10
+[Fri Oct/24]
+  19.30  GAP Connah's Quay FC     1-0 (0-0)  Technogroup Welshpool Town
+[Sat Oct/25]
+  14.30  Caersws FC               4-2 (0-2)  Port Talbot Town
+         Carmarthen Town          1-0 (1-0)  Airbus UK
+         Haverfordwest County     3-1 (0-0)  Prestatyn Town
+         Llanelli AFC             3-2 (1-1)  Caernarfon Town
+         Neath FC                 1-0 (1-0)  NEWI Cefn Druids
+         Porthmadog FC            3-1 (0-1)  Newtown AFC
+  17.30  Aberystwyth Town         2-2 (1-2)  The New Saints
+[Tue Nov/11]
+  19.30  Bangor City              0-2 (0-2)  Rhyl FC
+
+
+Matchday 11
+[Fri Nov/7]
+  19.30  Airbus UK                2-3 (2-2)  Bangor City
+         Caernarfon Town          0-2 (0-1)  Porthmadog FC
+         Port Talbot Town         4-6 (4-2)  Llanelli AFC
+         The New Saints           2-1 (2-0)  GAP Connah's Quay FC
+[Sat Nov/8]
+  14.00  Technogroup Welshpool Town  2-0 (2-0)  Carmarthen Town
+  14.30  NEWI Cefn Druids         2-5 (1-1)  Aberystwyth Town
+         Newtown AFC              4-2 (3-2)  Haverfordwest County
+         Prestatyn Town           1-0 (0-0)  Neath FC
+         Rhyl FC                  3-1 (0-0)  Caersws FC
+
+
+Matchday 12
+[Fri Nov/14]
+  19.30  GAP Connah's Quay FC     2-3 (0-0)  NEWI Cefn Druids
+[Sat Nov/15]
+  14.30  Aberystwyth Town         2-1 (0-0)  Prestatyn Town
+         Bangor City              0-2 (0-1)  Technogroup Welshpool Town
+         Caersws FC               1-3 (0-0)  Airbus UK
+         Carmarthen Town          2-3 (2-1)  The New Saints
+         Haverfordwest County     1-1 (0-1)  Caernarfon Town
+         Porthmadog FC            3-3 (3-2)  Llanelli AFC
+         Rhyl FC                  2-3 (0-2)  Port Talbot Town
+         Newtown AFC              2-0 (1-0)  Neath FC
+
+
+Matchday 13
+[Fri Nov/21]
+  19.30  Airbus UK                1-3 (0-1)  Rhyl FC
+         Prestatyn Town           1-1 (0-0)  GAP Connah's Quay FC
+         Technogroup Welshpool Town  1-0 (1-0)  Caersws FC
+[Sat Nov/22]
+  14.30  Llanelli AFC             2-1 (2-0)  Haverfordwest County
+         Caernarfon Town          1-0 (0-0)  Neath FC
+         NEWI Cefn Druids         1-2 (0-0)  Carmarthen Town
+         Newtown AFC              2-1 (2-1)  Aberystwyth Town
+         Port Talbot Town         1-3 (1-2)  Porthmadog FC
+         The New Saints           2-1 (0-0)  Bangor City
+
+
+Matchday 14
+[Fri Nov/28]
+  19.30  Bangor City              4-2 (1-2)  NEWI Cefn Druids
+         Neath FC                 0-3 (0-1)  Llanelli AFC
+[Sat Nov/29]
+  14.30  Aberystwyth Town         3-1 (0-0)  Caernarfon Town
+         Airbus UK                1-1 (0-1)  Port Talbot Town
+         Caersws FC               2-6 (0-5)  The New Saints
+         Carmarthen Town          1-0 (0-0)  Prestatyn Town
+         GAP Connah's Quay FC     3-3 (2-2)  Newtown AFC
+         Haverfordwest County     4-2 (1-1)  Porthmadog FC
+         Rhyl FC                  7-1 (2-0)  Technogroup Welshpool Town
+
+
+Matchday 15
+[Fri Dec/5]
+  19.30  Caernarfon Town          0-2 (0-1)  GAP Connah's Quay FC
+         Port Talbot Town         1-2 (0-0)  Haverfordwest County
+         Technogroup Welshpool Town  2-1 (1-1)  Airbus UK
+[Sat Dec/6]
+  14.30  NEWI Cefn Druids         3-1 (1-0)  Caersws FC
+         Newtown AFC              2-3 (2-3)  Carmarthen Town
+         Porthmadog FC            1-4 (1-2)  Neath FC
+         Prestatyn Town           2-2 (1-1)  Bangor City
+  17.30  The New Saints           0-3 (0-1)  Rhyl FC
+[Tue Jan/20]
+  19.45  Llanelli AFC             3-0 (1-0)  Aberystwyth Town
+
+
+Matchday 16
+[Fri Dec/12]
+  19.30  Airbus UK                1-0 (1-0)  The New Saints
+         Neath FC                 1-1 (1-1)  Haverfordwest County
+         Rhyl FC                  3-4 (1-1)  NEWI Cefn Druids
+[Sat Dec/13]
+  14.30  Aberystwyth Town         5-2 (0-0)  Porthmadog FC
+         Carmarthen Town          2-1 (1-0)  Caernarfon Town
+         GAP Connah's Quay FC     3-1 (0-1)  Llanelli AFC
+[Tue Mar/10]
+  19.30  Technogroup Welshpool Town  1-2 (0-1)  Port Talbot Town
+[Tue Mar/24]
+  19.30  Bangor City              1-2 (0-0)  Newtown AFC
+         Caersws FC               1-2 (0-0)  Prestatyn Town
+
+
+Matchday 17
+[Fri Dec/19]
+  19.30  Airbus UK                1-1 (0-1)  Prestatyn Town
+         Neath FC                 0-4 (0-2)  Aberystwyth Town
+         Technogroup Welshpool Town  3-3 (2-1)  NEWI Cefn Druids
+[Sat Dec/20]
+  14.30  Caernarfon Town          2-2 (0-2)  Caersws FC
+         Haverfordwest County     2-0 (2-0)  GAP Connah's Quay FC
+         Llanelli AFC             4-3 (3-1)  Bangor City
+         Newtown AFC              1-2 (0-2)  Rhyl FC
+         Porthmadog FC            1-3 (1-1)  Carmarthen Town
+         Port Talbot Town         0-0  The New Saints
+
+
+Matchday 18
+[Fri Dec/26]
+  11.00  Llanelli AFC             5-2 (2-2)  Carmarthen Town
+  14.30  Caernarfon Town          0-2 (0-1)  Bangor City
+         Neath FC                 2-3 (1-1)  Port Talbot Town
+         Newtown AFC              0-0  Caersws FC
+         The New Saints           3-1 (1-1)  Technogroup Welshpool Town
+[Sat Dec/27]
+  14.30  Haverfordwest County     5-1 (2-0)  Aberystwyth Town
+         NEWI Cefn Druids         0-2 (0-2)  Airbus UK
+         Porthmadog FC            6-5 (1-3)  GAP Connah's Quay FC
+         Rhyl FC                  7-2 (5-0)  Prestatyn Town
+
+
+Matchday 19
+[Tue Apr/7]
+  19.30  Aberystwyth Town         0-3 (0-0)  Haverfordwest County
+         Carmarthen Town          1-4 (1-2)  Llanelli AFC
+[Mon Apr/13]
+  14.30  Airbus UK                1-0 (1-0)  NEWI Cefn Druids
+         Bangor City              1-1 (1-1)  Caernarfon Town
+         Caersws FC               1-1 (0-0)  Newtown AFC
+         GAP Connah's Quay FC     3-1 (1-0)  Porthmadog FC
+         Port Talbot Town         2-0 (0-0)  Neath FC
+         Prestatyn Town           1-4 (1-2)  Rhyl FC
+         Technogroup Welshpool Town  1-2 (0-0)  The New Saints
+
+
+Matchday 20
+[Sat Jan/3]
+  14.30  Port Talbot Town         1-1 (1-0)  Aberystwyth Town
+         The New Saints           4-1 (1-0)  NEWI Cefn Druids
+[Wed Jan/21]
+  19.30  Airbus UK                3-1 (0-1)  Newtown AFC
+[Sun Feb/1]
+  14.30  Neath FC                 0-1 (0-1)  GAP Connah's Quay FC
+[Tue Feb/10]
+  19.30  Bangor City              1-0 (0-0)  Porthmadog FC
+[Tue Feb/17]
+  19.30  Caersws FC               0-2 (0-0)  Llanelli AFC
+         Technogroup Welshpool Town  2-2 (1-1)  Prestatyn Town
+[Sat Feb/28]
+  14.30  Rhyl FC                  4-0 (2-0)  Caernarfon Town
+[Tue Mar/3]
+  19.30  Carmarthen Town          3-0 (1-0)  Haverfordwest County
+
+
+Matchday 21
+[Sat Jan/10]
+  15.00  Haverfordwest County     0-2 (0-2)  Bangor City
+[Tue Jan/27]
+  19.30  Technogroup Welshpool Town  2-2 (2-1)  Newtown AFC
+[Sat Jan/31]
+  14.30  Porthmadog FC            0-1 (0-0)  Caersws FC
+[Tue Feb/10]
+  19.30  Prestatyn Town           1-4 (0-1)  The New Saints
+[Wed Feb/18]
+  19.30  Caernarfon Town          0-2 (0-1)  Airbus UK
+[Tue Mar/3]
+  19.30  NEWI Cefn Druids         1-1 (0-0)  Port Talbot Town
+[Tue Mar/24]
+  19.30  Neath FC                 2-0 (1-0)  Carmarthen Town
+         Aberystwyth Town         1-1 (1-0)  GAP Connah's Quay FC
+[Sat Apr/11]
+  17.30  Llanelli AFC             0-1 (0-1)  Rhyl FC
+
+
+Matchday 22
+[Fri Jan/16]
+  19.30  Caersws FC               1-0 (0-0)  Haverfordwest County
+         Carmarthen Town          2-1 (1-0)  Aberystwyth Town
+         NEWI Cefn Druids         3-2 (1-2)  Prestatyn Town
+         Technogroup Welshpool Town  1-1 (1-0)  Caernarfon Town
+[Sat Jan/17]
+  14.30  Airbus UK                0-4 (0-3)  Llanelli AFC
+         Bangor City              0-1 (0-0)  Neath FC
+         GAP Connah's Quay FC     0-2 (0-2)  Port Talbot Town
+         Rhyl FC                  2-0 (1-0)  Porthmadog FC
+         The New Saints           1-1 (1-1)  Newtown AFC
+
+
+Matchday 23
+[Sat Jan/24]
+  13.00  Caernarfon Town          0-5 (0-4)  The New Saints
+  14.30  Aberystwyth Town         1-2 (1-1)  Bangor City
+         GAP Connah's Quay FC     1-3 (0-2)  Carmarthen Town
+         Haverfordwest County     1-3 (0-2)  Rhyl FC
+         Llanelli AFC             4-1 (3-0)  Technogroup Welshpool Town
+         Neath FC                 0-0  Caersws FC
+         Newtown AFC              4-0 (2-0)  NEWI Cefn Druids
+         Porthmadog FC            3-4 (2-0)  Airbus UK
+         Prestatyn Town           0-3 (0-1)  Port Talbot Town
+
+
+Matchday 24
+[Fri Feb/6]
+  19.30  Bangor City              6-0 (4-0)  GAP Connah's Quay FC
+         Port Talbot Town         0-0  Carmarthen Town
+[Sat Feb/7]
+  14.30  Airbus UK                2-4 (1-4)  Haverfordwest County
+         Prestatyn Town           1-0 (0-0)  Newtown AFC
+         Rhyl FC                  4-2 (3-0)  Neath FC
+         The New Saints           0-0  Llanelli AFC
+[Tue Feb/10]
+  19.30  Caersws FC               1-3 (1-2)  Aberystwyth Town
+[Wed Feb/25]
+  19.30  NEWI Cefn Druids         0-1 (0-0)  Caernarfon Town
+[Tue Mar/17]
+  19.30  Technogroup Welshpool Town  3-2 (1-1)  Porthmadog FC
+
+
+Matchday 25
+[Sat Feb/14]
+  14.30  Caernarfon Town          1-1 (1-0)  Prestatyn Town
+         Carmarthen Town          3-1 (0-1)  Bangor City
+         GAP Connah's Quay FC     1-0 (1-0)  Caersws FC
+         Haverfordwest County     3-1 (2-1)  Technogroup Welshpool Town
+         Neath FC                 3-1 (1-0)  Airbus UK
+         Newtown AFC              1-0 (1-0)  Port Talbot Town
+  15.00  Llanelli AFC             1-1 (0-1)  NEWI Cefn Druids
+[Sun Feb/15]
+  14.30  Porthmadog FC            2-2 (2-0)  The New Saints
+         Aberystwyth Town         0-1 (0-0)  Rhyl FC
+
+
+Matchday 26
+[Fri Feb/20]
+  19.30  NEWI Cefn Druids         2-4 (1-3)  Porthmadog FC
+[Sat Feb/21]
+  14.30  GAP Connah's Quay FC     2-3 (1-3)  Rhyl FC
+         Airbus UK                1-2 (0-1)  Aberystwyth Town
+         Caersws FC               0-2 (0-2)  Carmarthen Town
+         Newtown AFC              2-2 (0-0)  Caernarfon Town
+         Port Talbot Town         2-1 (1-0)  Bangor City
+         Prestatyn Town           0-1 (0-0)  Llanelli AFC
+         The New Saints           0-0  Haverfordwest County
+         Technogroup Welshpool Town  2-1 (1-0)  Neath FC
+
+
+Matchday 27
+[Fri Mar/6]
+  19.30  Aberystwyth Town         0-2 (0-1)  Technogroup Welshpool Town
+         GAP Connah's Quay FC     2-3 (0-3)  Airbus UK
+[Sat Mar/7]
+  14.30  Bangor City              3-0 (3-0)  Caersws FC
+         Caernarfon Town          2-4 (2-1)  Port Talbot Town
+         Carmarthen Town          1-2 (0-1)  Rhyl FC
+         Haverfordwest County     1-1 (1-0)  NEWI Cefn Druids
+         Llanelli AFC             3-1 (2-1)  Newtown AFC
+         Neath FC                 1-4 (0-0)  The New Saints
+         Porthmadog FC            3-2 (2-1)  Prestatyn Town
+
+
+Matchday 28
+[Fri Mar/13]
+  19.30  Rhyl FC                  4-1 (2-1)  Bangor City
+         Technogroup Welshpool Town  3-1 (2-0)  GAP Connah's Quay FC
+[Sat Mar/14]
+  14.30  Airbus UK                0-1 (0-0)  Carmarthen Town
+         Caernarfon Town          0-5 (0-2)  Llanelli AFC
+         NEWI Cefn Druids         3-1 (2-0)  Neath FC
+         Newtown AFC              2-0 (2-0)  Porthmadog FC
+         Prestatyn Town           0-1 (0-0)  Haverfordwest County
+         Port Talbot Town         2-0 (2-0)  Caersws FC
+         The New Saints           1-1 (1-0)  Aberystwyth Town
+
+
+Matchday 29
+[Fri Feb/27]
+  19.30  GAP Connah's Quay FC     0-2 (0-1)  The New Saints
+[Fri Mar/20]
+  19.30  Llanelli AFC             2-0 (2-0)  Port Talbot Town
+[Sat Mar/21]
+  14.30  Aberystwyth Town         1-1 (0-0)  NEWI Cefn Druids
+         Bangor City              1-0 (1-0)  Airbus UK
+         Caersws FC               0-3 (0-3)  Rhyl FC
+         Carmarthen Town          0-1 (0-0)  Technogroup Welshpool Town
+         Haverfordwest County     1-0 (0-0)  Newtown AFC
+         Neath FC                 2-0 (0-0)  Prestatyn Town
+         Porthmadog FC            1-3 (0-2)  Caernarfon Town
+
+
+Matchday 30
+[Fri Mar/27]
+  19.30  NEWI Cefn Druids         6-0 (0-0)  GAP Connah's Quay FC
+         Technogroup Welshpool Town  1-1 (1-0)  Bangor City
+[Sun Mar/29]
+  14.30  Airbus UK                0-2 (0-0)  Caersws FC
+         Caernarfon Town          0-1 (0-0)  Haverfordwest County
+         Llanelli AFC             5-0 (1-0)  Porthmadog FC
+         Port Talbot Town         2-2 (1-0)  Rhyl FC
+         Prestatyn Town           1-0 (0-0)  Aberystwyth Town
+         The New Saints           8-0 (2-0)  Carmarthen Town
+         Neath FC                 3-0 (2-0)  Newtown AFC
+
+
+Matchday 31
+[Tue Mar/17]
+  19.30  Bangor City              0-0  The New Saints
+[Fri Apr/3]
+  19.30  Caersws FC               0-1 (0-0)  Technogroup Welshpool Town
+         GAP Connah's Quay FC     3-1 (1-1)  Prestatyn Town
+         Haverfordwest County     0-1 (0-0)  Llanelli AFC
+[Sat Apr/4]
+  14.30  Aberystwyth Town         2-0 (1-0)  Newtown AFC
+         Carmarthen Town          1-0 (0-0)  NEWI Cefn Druids
+         Porthmadog FC            1-2 (0-1)  Port Talbot Town
+         Rhyl FC                  1-0 (1-0)  Airbus UK
+[Sun Apr/5]
+  14.30  Neath FC                 2-1 (1-0)  Caernarfon Town
+
+
+Matchday 32
+[Tue Mar/3]
+  19.30  Technogroup Welshpool Town  0-2 (0-0)  Rhyl FC
+[Tue Mar/31]
+  19.30  NEWI Cefn Druids         1-0 (0-0)  Bangor City
+[Tue Apr/7]
+  19.30  Newtown AFC              1-2 (1-0)  GAP Connah's Quay FC
+[Fri Apr/10]
+  19.30  The New Saints           4-0 (1-0)  Caersws FC
+[Sat Apr/11]
+  14.30  Port Talbot Town         2-1 (1-1)  Airbus UK
+         Porthmadog FC            2-1 (0-0)  Haverfordwest County
+[Tue Apr/21]
+  19.30  Llanelli AFC             2-1 (1-0)  Neath FC
+         Prestatyn Town           1-2 (0-1)  Carmarthen Town
+[Wed Apr/22]
+  19.30  Caernarfon Town          1-0 (1-0)  Aberystwyth Town
+
+
+Matchday 33
+[Sat Feb/28]
+  14.30  Neath FC                 3-0 (1-0)  Porthmadog FC
+[Fri Apr/17]
+  19.30  Aberystwyth Town         1-1 (0-0)  Llanelli AFC
+         Airbus UK                5-0 (1-0)  Technogroup Welshpool Town
+         GAP Connah's Quay FC     1-1 (1-0)  Caernarfon Town
+         Haverfordwest County     0-1 (0-1)  Port Talbot Town
+[Sat Apr/18]
+  14.30  Bangor City              1-1 (1-0)  Prestatyn Town
+         Caersws FC               1-2 (1-0)  NEWI Cefn Druids
+         Carmarthen Town          0-0  Newtown AFC
+         Rhyl FC                  2-1 (2-1)  The New Saints
+
+
+Matchday 34
+[Sat Apr/25]
+  14.30  Port Talbot Town         4-0 (2-0)  Technogroup Welshpool Town
+         Caernarfon Town          1-3 (1-1)  Carmarthen Town
+         Haverfordwest County     2-0 (1-0)  Neath FC
+         Llanelli AFC             4-1 (2-0)  GAP Connah's Quay FC
+         NEWI Cefn Druids         2-4 (1-2)  Rhyl FC
+         Newtown AFC              1-3 (1-0)  Bangor City
+         Porthmadog FC            4-1 (1-0)  Aberystwyth Town
+         Prestatyn Town           3-2 (2-1)  Caersws FC
+         The New Saints           1-0 (1-0)  Airbus UK

@@ -1,0 +1,370 @@
+= AU 1 2023/24
+
+# Date       Fri Oct/20 2023 - Sat May/25 2024 (218d)
+# Teams      12
+# Matches    169
+# Stages     Regular Season (162)  Finals (7)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Oct/20]
+  19.45  Adelaide United          3-0 (1-0)  Central Coast Mariners
+[Sat Oct/21]
+  15.30  Macarthur FC             1-1 (0-0)  Brisbane Roar
+  17.30  Melbourne City FC        1-2 (0-0)  Western United
+  19.45  Sydney FC                0-2 (0-0)  Melbourne Victory
+[Sun Oct/22]
+  15.00  Western Sydney Wanderers  0-0  Wellington Phoenix
+  19.45  Perth Glory              2-2 (1-1)  Newcastle United Jets
+
+
+Matchday 2
+[Fri Oct/27]
+  19.45  Brisbane Roar            3-0 (2-0)  Sydney FC
+[Sat Oct/28]
+  15.30  Wellington Phoenix       2-1 (1-0)  Perth Glory
+  19.45  Western Sydney Wanderers  5-0 (5-0)  Western United
+[Sun Oct/29]
+  15.00  Central Coast Mariners   1-2 (0-0)  Macarthur FC
+  17.00  Melbourne Victory        5-3 (4-1)  Newcastle United Jets
+  19.00  Adelaide United          6-0 (2-0)  Melbourne City FC
+
+
+Matchday 3
+[Fri Nov/3]
+  19.45  Melbourne City FC        2-0 (1-0)  Sydney FC
+[Sat Nov/4]
+  15.30  Wellington Phoenix       5-2 (2-1)  Brisbane Roar
+  17.30  Macarthur FC             1-0 (0-0)  Western United
+  19.45  Melbourne Victory        1-1 (1-0)  Adelaide United
+  21.45  Perth Glory              2-0 (0-0)  Central Coast Mariners
+[Sun Nov/5]
+  15.00  Newcastle United Jets    2-2 (2-0)  Western Sydney Wanderers
+
+
+Matchday 4
+[Fri Nov/10]
+  19.45  Melbourne Victory        1-1 (1-1)  Wellington Phoenix
+[Sat Nov/11]
+  15.30  Western United           0-1 (0-1)  Newcastle United Jets
+  17.30  Western Sydney Wanderers  2-0 (0-0)  Perth Glory
+  19.45  Adelaide United          1-5 (0-4)  Sydney FC
+[Sun Nov/12]
+  15.00  Melbourne City FC        3-3 (0-0)  Macarthur FC
+  17.00  Central Coast Mariners   1-2 (1-2)  Brisbane Roar
+
+
+Matchday 5
+[Fri Nov/24]
+  19.45  Macarthur FC             1-1 (1-0)  Melbourne Victory
+[Sat Nov/25]
+  14.30  Wellington Phoenix       1-0 (0-0)  Melbourne City FC
+  17.30  Central Coast Mariners   3-1 (1-0)  Newcastle United Jets
+  19.45  Sydney FC                0-1 (0-0)  Western Sydney Wanderers
+[Sun Nov/26]
+  15.00  Brisbane Roar            2-1 (0-0)  Perth Glory
+  17.00  Western United           1-3 (0-1)  Adelaide United
+
+
+Matchday 6
+[Fri Dec/1]
+  19.45  Brisbane Roar            2-2 (2-0)  Western Sydney Wanderers
+[Sat Dec/2]
+  17.30  Western United           0-1 (0-0)  Wellington Phoenix
+  19.45  Sydney FC                3-2 (2-0)  Perth Glory
+[Sun Dec/3]
+  15.00  Central Coast Mariners   2-2 (1-1)  Melbourne Victory
+  17.00  Newcastle United Jets    0-2 (0-1)  Melbourne City FC
+[Mon Dec/4]
+  19.00  Macarthur FC             4-3 (2-2)  Adelaide United
+
+
+Matchday 7
+[Fri Dec/8]
+  19.45  Central Coast Mariners   4-0 (3-0)  Western United
+  21.45  Perth Glory              1-2 (1-1)  Melbourne City FC
+[Sat Dec/9]
+  17.30  Wellington Phoenix       0-3 (0-2)  Newcastle United Jets
+  19.45  Sydney FC                0-2 (0-1)  Macarthur FC
+[Sun Dec/10]
+  15.00  Adelaide United          0-2 (0-0)  Brisbane Roar
+  17.00  Western Sydney Wanderers  3-4 (0-2)  Melbourne Victory
+
+
+Matchday 8
+[Fri Dec/15]
+  18.00  Western United           2-1 (0-0)  Brisbane Roar
+  19.45  Western Sydney Wanderers  1-0 (1-0)  Adelaide United
+[Sat Dec/16]
+  18.00  Newcastle United Jets    2-2 (1-0)  Perth Glory
+  19.45  Melbourne Victory        3-0 (2-0)  Sydney FC
+[Sun Dec/17]
+  17.00  Melbourne City FC        3-3 (1-0)  Central Coast Mariners
+[Mon Dec/18]
+  19.00  Macarthur FC             0-3 (0-1)  Wellington Phoenix
+
+
+Matchday 9
+[Thu Dec/21]
+  19.45  Brisbane Roar            0-3 (0-1)  Central Coast Mariners
+[Fri Dec/22]
+  19.45  Adelaide United          3-1 (1-0)  Newcastle United Jets
+[Sat Dec/23]
+  15.30  Wellington Phoenix       2-0 (0-0)  Western Sydney Wanderers
+  17.30  Sydney FC                4-2 (2-1)  Western United
+  19.45  Melbourne City FC        0-0  Melbourne Victory
+  22.30  Perth Glory              3-2 (0-2)  Macarthur FC
+
+
+Matchday 10
+[Thu Dec/28]
+  19.45  Melbourne City FC        8-1 (3-0)  Brisbane Roar
+[Fri Dec/29]
+  19.45  Sydney FC                3-1 (1-0)  Wellington Phoenix
+[Sat Dec/30]
+  17.30  Newcastle United Jets    2-0 (2-0)  Western United
+  19.45  Melbourne Victory        2-0 (0-0)  Adelaide United
+[Sun Dec/31]
+  19.00  Central Coast Mariners   4-2 (3-1)  Perth Glory
+[Mon Jan/1]
+  17.00  Western Sydney Wanderers  3-1 (2-1)  Macarthur FC
+
+
+Matchday 11
+[Thu Jan/4]
+  19.45  Adelaide United          2-2 (1-1)  Wellington Phoenix
+[Fri Jan/5]
+  19.45  Macarthur FC             1-1 (0-1)  Newcastle United Jets
+[Sat Jan/6]
+  17.30  Western Sydney Wanderers  0-1 (0-1)  Central Coast Mariners
+  19.45  Brisbane Roar            1-2 (1-2)  Sydney FC
+  21.45  Perth Glory              2-3 (1-1)  Melbourne Victory
+[Sun Jan/7]
+  17.00  Western United           1-2 (1-0)  Melbourne City FC
+
+
+Matchday 12
+[Mon Jan/8]
+  19.45  Adelaide United          1-1 (1-1)  Macarthur FC
+[Tue Jan/23]
+  19.00  Newcastle United Jets    3-1 (1-0)  Brisbane Roar
+[Tue Feb/6]
+  14.00  Wellington Phoenix       0-0  Central Coast Mariners
+[Tue Feb/20]
+  19.00  Melbourne Victory        2-1 (0-0)  Western United
+[Tue Mar/12]
+  19.00  Melbourne City FC        7-0 (4-0)  Western Sydney Wanderers
+[Wed Apr/3]
+  21.45  Perth Glory              1-1 (0-1)  Sydney FC
+
+
+Matchday 13
+[Thu Jan/18]
+  19.45  Brisbane Roar            1-3 (0-1)  Macarthur FC
+[Fri Jan/19]
+  17.00  Wellington Phoenix       1-1 (0-0)  Melbourne Victory
+  19.45  Sydney FC                4-0 (1-0)  Newcastle United Jets
+[Sat Jan/20]
+  19.45  Western Sydney Wanderers  1-2 (0-1)  Perth Glory
+[Sun Jan/21]
+  18.00  Central Coast Mariners   2-1 (0-0)  Melbourne City FC
+[Tue Apr/16]
+  19.00  Western United           3-3 (2-1)  Adelaide United
+
+
+Matchday 14
+[Thu Jan/25]
+  19.45  Melbourne City FC        1-0 (1-0)  Adelaide United
+[Fri Jan/26]
+  19.45  Melbourne Victory        1-1 (1-1)  Sydney FC
+[Sat Jan/27]
+  17.00  Western United           0-1 (0-1)  Western Sydney Wanderers
+  18.00  Newcastle United Jets    1-2 (0-1)  Wellington Phoenix
+  19.45  Central Coast Mariners   2-0 (1-0)  Brisbane Roar
+[Sun Jan/28]
+  17.00  Macarthur FC             2-2 (1-0)  Perth Glory
+
+
+Matchday 15
+[Fri Feb/2]
+  19.45  Brisbane Roar            1-1 (0-0)  Wellington Phoenix
+  21.45  Perth Glory              4-2 (1-1)  Melbourne City FC
+[Sat Feb/3]
+  17.00  Western United           2-2 (1-2)  Sydney FC
+  18.00  Newcastle United Jets    1-1 (0-1)  Melbourne Victory
+  19.45  Adelaide United          0-4 (0-3)  Central Coast Mariners
+[Sun Feb/4]
+  19.00  Macarthur FC             4-3 (3-3)  Western Sydney Wanderers
+
+
+Matchday 16
+[Fri Feb/9]
+  19.45  Adelaide United          3-3 (2-1)  Perth Glory
+[Sat Feb/10]
+  15.30  Wellington Phoenix       2-0 (1-0)  Western United
+  17.30  Melbourne Victory        0-1 (0-1)  Macarthur FC
+  18.00  Brisbane Roar            5-1 (4-0)  Melbourne City FC
+  19.45  Central Coast Mariners   1-3 (0-3)  Sydney FC
+[Sun Feb/11]
+  17.00  Western Sydney Wanderers  3-3 (2-1)  Newcastle United Jets
+
+
+Matchday 17
+[Fri Feb/16]
+  19.45  Western United           2-0 (1-0)  Newcastle United Jets
+[Sat Feb/17]
+  18.00  Sydney FC                2-1 (1-0)  Adelaide United
+  19.45  Melbourne City FC        0-0  Melbourne Victory
+  21.45  Perth Glory              3-2 (1-2)  Brisbane Roar
+[Sun Feb/18]
+  17.00  Macarthur FC             1-2 (0-1)  Wellington Phoenix
+         Central Coast Mariners   1-0 (0-0)  Western Sydney Wanderers
+
+
+Matchday 18
+[Fri Feb/23]
+  19.45  Brisbane Roar            2-2 (0-1)  Western United
+[Sat Feb/24]
+  17.30  Sydney FC                1-1 (1-0)  Melbourne City FC
+  19.45  Adelaide United          1-2 (0-2)  Western Sydney Wanderers
+  21.45  Perth Glory              0-0  Wellington Phoenix
+[Sun Feb/25]
+  17.00  Newcastle United Jets    2-2 (0-0)  Macarthur FC
+         Melbourne Victory        0-1 (0-0)  Central Coast Mariners
+
+
+Matchday 19
+[Fri Mar/1]
+  19.45  Macarthur FC             2-0 (0-0)  Melbourne City FC
+[Sat Mar/2]
+  17.00  Western United           1-0 (0-0)  Perth Glory
+  18.00  Newcastle United Jets    0-1 (0-0)  Central Coast Mariners
+  19.45  Western Sydney Wanderers  1-4 (0-2)  Sydney FC
+[Sun Mar/3]
+  15.00  Wellington Phoenix       3-2 (1-0)  Adelaide United
+  17.00  Brisbane Roar            3-2 (1-1)  Melbourne Victory
+
+
+Matchday 20
+[Fri Mar/8]
+  19.45  Western Sydney Wanderers  1-3 (0-0)  Western United
+[Sat Mar/9]
+  19.00  Melbourne City FC        1-0 (0-0)  Wellington Phoenix
+  20.15  Adelaide United          1-2 (0-1)  Melbourne Victory
+  21.45  Perth Glory              2-2 (0-1)  Newcastle United Jets
+[Sun Mar/10]
+  17.00  Macarthur FC             0-3 (0-2)  Central Coast Mariners
+         Sydney FC                1-1 (0-0)  Brisbane Roar
+
+
+Matchday 21
+[Thu Mar/14]
+  19.00  Western United           2-2 (1-0)  Melbourne Victory
+[Fri Mar/15]
+  19.45  Newcastle United Jets    0-1 (0-0)  Adelaide United
+[Sat Mar/16]
+  15.30  Wellington Phoenix       2-1 (0-1)  Sydney FC
+  16.00  Brisbane Roar            1-2 (1-2)  Macarthur FC
+  19.45  Perth Glory              1-2 (1-1)  Western Sydney Wanderers
+[Tue Apr/2]
+  19.00  Central Coast Mariners   2-1 (0-0)  Melbourne City FC
+
+
+Matchday 22
+[Fri Mar/29]
+  19.45  Adelaide United          4-1 (1-0)  Western United
+[Sat Mar/30]
+  17.30  Melbourne City FC        0-0  Newcastle United Jets
+  19.45  Sydney FC                2-0 (0-0)  Central Coast Mariners
+[Sun Mar/31]
+  11.00  Wellington Phoenix       1-0 (1-0)  Brisbane Roar
+  15.00  Melbourne Victory        2-1 (1-0)  Perth Glory
+[Mon Apr/1]
+  15.00  Macarthur FC             1-3 (0-0)  Western Sydney Wanderers
+
+
+Matchday 23
+[Fri Apr/5]
+  19.45  Western Sydney Wanderers  1-2 (0-1)  Brisbane Roar
+[Sat Apr/6]
+  15.30  Western United           4-2 (0-2)  Macarthur FC
+  17.30  Central Coast Mariners   2-1 (0-0)  Wellington Phoenix
+  19.45  Melbourne Victory        2-1 (1-1)  Melbourne City FC
+[Sun Apr/7]
+  15.00  Newcastle United Jets    3-1 (2-1)  Sydney FC
+  17.00  Perth Glory              2-4 (2-3)  Adelaide United
+
+
+Matchday 24
+[Fri Apr/12]
+  17.00  Wellington Phoenix       1-0 (0-0)  Melbourne Victory
+  19.45  Adelaide United          1-2 (1-0)  Macarthur FC
+[Sat Apr/13]
+  15.30  Western United           0-2 (0-0)  Central Coast Mariners
+  17.30  Brisbane Roar            0-2 (0-0)  Newcastle United Jets
+  19.45  Sydney FC                2-1 (0-0)  Western Sydney Wanderers
+[Sun Apr/14]
+  15.00  Melbourne City FC        8-0 (5-0)  Perth Glory
+
+
+Matchday 25
+[Fri Apr/19]
+  19.45  Newcastle United Jets    1-1 (1-0)  Wellington Phoenix
+[Sat Apr/20]
+  15.30  Western Sydney Wanderers  1-2 (0-2)  Melbourne City FC
+  17.30  Melbourne Victory        0-0  Brisbane Roar
+  19.45  Macarthur FC             1-0 (1-0)  Sydney FC
+[Sun Apr/21]
+  17.00  Perth Glory              3-4 (1-1)  Western United
+[Wed May/1]
+  19.00  Central Coast Mariners   2-0 (1-0)  Adelaide United
+
+
+Matchday 26
+[Fri Apr/26]
+  19.45  Brisbane Roar            3-4 (1-1)  Adelaide United
+[Sat Apr/27]
+  17.15  Wellington Phoenix       3-0 (2-0)  Macarthur FC
+         Newcastle United Jets    1-3 (0-1)  Central Coast Mariners
+  19.45  Melbourne Victory        3-4 (2-2)  Western Sydney Wanderers
+[Sun Apr/28]
+  15.00  Sydney FC                7-1 (3-0)  Perth Glory
+  17.00  Melbourne City FC        1-0 (1-0)  Western United
+
+
+Matchday 27
+[Fri Jan/12]
+  17.30  Macarthur FC             3-3 (1-1)  Western United
+  20.15  Melbourne City FC        0-1 (0-1)  Western Sydney Wanderers
+[Sat Jan/13]
+  17.15  Central Coast Mariners   1-1 (0-1)  Melbourne Victory
+  20.00  Adelaide United          4-3 (3-1)  Sydney FC
+[Sun Jan/14]
+  19.45  Brisbane Roar            3-2 (0-1)  Newcastle United Jets
+         Perth Glory              3-4 (1-2)  Wellington Phoenix
+
+
+== Finals
+
+Elimination Final
+[Sat May/4]
+  19.45  Sydney FC                4-0 (1-0)  Macarthur FC
+[Sun May/5]
+  17.00  Melbourne Victory        3-2 pen. 1-1 a.e.t. (1-1, 0-1)  Melbourne City FC
+
+
+Semi-Final
+[Fri May/10]
+  19.45  Sydney FC                1-2 (1-1)  Central Coast Mariners
+[Sun May/12]
+  16.00  Melbourne Victory        0-0  Wellington Phoenix
+[Sat May/18]
+  16.30  Wellington Phoenix       1-2 a.e.t. (1-1, 0-0)  Melbourne Victory
+  19.45  Central Coast Mariners   0-0  Sydney FC
+
+
+Final
+[Sat May/25]
+  19.45  Central Coast Mariners   3-1 a.e.t. (1-1, 0-0)  Melbourne Victory

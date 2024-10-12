@@ -1,0 +1,432 @@
+= NI 1 2022/23
+
+# Date       Sat Jul/9 2022 - Sat May/20 2023 (315d)
+# Teams      10
+# Matches    196
+# Stages     Apertura (90)  Apertura Playoffs (8)  Clausura (90)  Clausura Playoffs (8)
+
+
+== Apertura
+
+Matchday 1
+[Sat Jul/9]
+  17.00  Managua FC               3-1 (0-1)  Club Deportivo Ocotal
+  19.00  Real Estelí FC           4-1 (0-0)  ART Municipal Jalapa
+  20.00  CD Walter Ferretti       1-0 (1-0)  UNAN Managua
+[Sun Jul/10]
+  15.00  H&H Export Sébaco        0-0  Juventus Managua
+  18.00  Diriangén FC             2-0 (1-0)  Matagalpa FC
+
+
+Matchday 2
+[Sat Jul/16]
+  17.00  CD Walter Ferretti       1-2 (0-1)  H&H Export Sébaco
+  19.00  Club Deportivo Ocotal    0-1 (0-1)  Real Estelí FC
+  20.00  Juventus Managua         2-1 (1-0)  Managua FC
+[Sun Jul/17]
+  15.00  Matagalpa FC             0-0  ART Municipal Jalapa
+  19.00  UNAN Managua             1-2 (0-1)  Diriangén FC
+
+
+Matchday 3
+[Sat Jul/23]
+  18.00  ART Municipal Jalapa     3-3 (1-0)  UNAN Managua
+  19.00  Club Deportivo Ocotal    1-1 (0-0)  Diriangén FC
+[Sun Jul/24]
+  15.00  H&H Export Sébaco        0-0  Real Estelí FC
+  16.00  Juventus Managua         3-2 (2-1)  Matagalpa FC
+  19.00  Managua FC               1-2 (1-2)  CD Walter Ferretti
+
+
+Matchday 4
+[Sat Jul/30]
+  19.00  Diriangén FC             2-0 (1-0)  Juventus Managua
+[Sun Jul/31]
+  15.00  Matagalpa FC             1-2 (1-0)  H&H Export Sébaco
+[Wed Aug/24]
+  17.00  Managua FC               1-1 (0-1)  ART Municipal Jalapa
+  19.00  Real Estelí FC           2-0 (1-0)  CD Walter Ferretti
+  20.00  UNAN Managua             2-0 (1-0)  Club Deportivo Ocotal
+
+
+Matchday 5
+[Sat Aug/6]
+  19.00  Diriangén FC             0-0  Managua FC
+         Club Deportivo Ocotal    1-1 (0-1)  Matagalpa FC
+[Sun Aug/7]
+  15.00  H&H Export Sébaco        5-0 (3-0)  UNAN Managua
+  16.00  CD Walter Ferretti       3-1 (3-0)  ART Municipal Jalapa
+  19.00  Juventus Managua         0-0  Real Estelí FC
+
+
+Matchday 6
+[Wed Aug/10]
+  18.00  Diriangén FC             0-0  ART Municipal Jalapa
+         Club Deportivo Ocotal    2-1 (2-0)  H&H Export Sébaco
+[Thu Aug/11]
+  15.00  Matagalpa FC             1-0 (1-0)  CD Walter Ferretti
+  17.00  Managua FC               3-0 (3-0)  Real Estelí FC
+  20.00  UNAN Managua             2-1 (1-1)  Juventus Managua
+
+
+Matchday 7
+[Sat Aug/13]
+  19.00  ART Municipal Jalapa     0-3  Club Deportivo Ocotal    [awarded]
+[Sun Aug/14]
+  15.00  UNAN Managua             3-0 (2-0)  Matagalpa FC
+         Juventus Managua         0-1 (0-0)  CD Walter Ferretti
+         H&H Export Sébaco        2-1 (0-0)  Managua FC
+[Thu Sep/1]
+  19.00  Real Estelí FC           1-0 (0-0)  Diriangén FC
+
+
+Matchday 8
+[Fri Aug/19]
+  18.00  Diriangén FC             0-0  H&H Export Sébaco
+[Sat Aug/20]
+  18.00  Real Estelí FC           1-0 (0-0)  UNAN Managua
+[Sun Aug/21]
+  15.00  Matagalpa FC             1-0 (1-0)  Managua FC
+  16.00  CD Walter Ferretti       1-3 (1-0)  Club Deportivo Ocotal
+  19.00  Juventus Managua         3-1 (1-0)  ART Municipal Jalapa
+
+
+Matchday 9
+[Sat Aug/27]
+  18.00  ART Municipal Jalapa     1-0 (1-0)  H&H Export Sébaco
+  19.00  Club Deportivo Ocotal    2-2 (2-1)  Juventus Managua
+[Sun Aug/28]
+  15.00  Matagalpa FC             0-3 (0-2)  Real Estelí FC
+         CD Walter Ferretti       2-1 (0-0)  Diriangén FC
+  19.00  Managua FC               2-1 (1-0)  UNAN Managua
+
+
+Matchday 10
+[Sat Sep/3]
+  11.00  UNAN Managua             0-3 (0-1)  CD Walter Ferretti
+  18.00  Club Deportivo Ocotal    2-1 (2-0)  Managua FC
+[Sun Sep/4]
+  15.00  Matagalpa FC             2-3 (1-1)  Diriangén FC
+         Juventus Managua         1-1 (1-0)  H&H Export Sébaco
+  18.00  ART Municipal Jalapa     0-0  Real Estelí FC
+
+
+Matchday 11
+[Sat Sep/10]
+  18.00  ART Municipal Jalapa     2-1 (1-1)  Matagalpa FC
+  19.00  Real Estelí FC           5-0 (3-0)  Club Deportivo Ocotal
+[Sun Sep/11]
+  15.00  H&H Export Sébaco        1-1 (0-1)  CD Walter Ferretti
+  18.00  Diriangén FC             4-2 (0-0)  UNAN Managua
+  19.00  Managua FC               3-0 (2-0)  Juventus Managua
+
+
+Matchday 12
+[Sat Oct/1]
+  15.00  Matagalpa FC             2-5 (1-3)  Juventus Managua
+  18.00  CD Walter Ferretti       2-1 (2-1)  Managua FC
+[Sun Oct/2]
+  18.00  Diriangén FC             6-1 (2-0)  Club Deportivo Ocotal
+  19.00  Real Estelí FC           3-1 (1-1)  H&H Export Sébaco
+[Wed Oct/5]
+  17.00  UNAN Managua             2-2 (0-0)  ART Municipal Jalapa
+
+
+Matchday 13
+[Sat Oct/22]
+  18.00  ART Municipal Jalapa     0-3  Managua FC               [awarded]
+  19.00  Club Deportivo Ocotal    2-3 (1-1)  UNAN Managua
+[Sun Oct/23]
+  15.00  H&H Export Sébaco        2-1 (0-1)  Matagalpa FC
+  16.00  Juventus Managua         2-4 (1-2)  Diriangén FC
+  19.00  CD Walter Ferretti       2-1 (0-1)  Real Estelí FC
+
+
+Matchday 14
+[Wed Oct/26]
+  17.00  UNAN Managua             0-0  H&H Export Sébaco
+  19.00  ART Municipal Jalapa     1-0 (0-0)  CD Walter Ferretti
+         Real Estelí FC           2-1 (2-1)  Juventus Managua
+  20.00  Managua FC               1-2 (0-0)  Diriangén FC
+[Thu Oct/27]
+  15.00  Matagalpa FC             1-0 (0-0)  Club Deportivo Ocotal
+
+
+Matchday 15
+[Sat Oct/29]
+  18.00  ART Municipal Jalapa     1-2 (1-1)  Diriangén FC
+         Real Estelí FC           2-2 (1-0)  Managua FC
+[Sun Oct/30]
+  15.00  H&H Export Sébaco        2-0 (0-0)  Club Deportivo Ocotal
+  16.00  CD Walter Ferretti       1-0 (0-0)  Matagalpa FC
+  19.00  Juventus Managua         2-1 (1-0)  UNAN Managua
+
+
+Matchday 16
+[Sat Nov/12]
+  18.00  Club Deportivo Ocotal    2-3 (0-2)  ART Municipal Jalapa
+  19.00  CD Walter Ferretti       2-1 (1-0)  Juventus Managua
+[Wed Nov/23]
+  15.00  Matagalpa FC             3-3 (2-0)  UNAN Managua
+  19.00  Managua FC               0-1 (0-1)  H&H Export Sébaco
+[Thu Nov/24]
+  19.00  Diriangén FC             0-0  Real Estelí FC
+
+
+Matchday 17
+[Sun Nov/20]
+  18.00  ART Municipal Jalapa     2-0 (0-0)  Juventus Managua
+[Sat Nov/26]
+  19.00  Club Deportivo Ocotal    1-1 (0-0)  CD Walter Ferretti
+[Sun Nov/27]
+  15.00  H&H Export Sébaco        0-3 (0-1)  Diriangén FC
+  16.00  Managua FC               2-1 (2-0)  Matagalpa FC
+  19.00  UNAN Managua             1-4 (1-3)  Real Estelí FC
+
+
+Matchday 18
+[Wed Nov/30]
+  15.00  H&H Export Sébaco        1-0 (1-0)  ART Municipal Jalapa
+  17.00  Juventus Managua         9-0 (4-0)  Club Deportivo Ocotal
+  20.00  UNAN Managua             1-3 (1-2)  Managua FC
+[Thu Dec/1]
+  19.00  Diriangén FC             2-0 (1-0)  CD Walter Ferretti
+         Real Estelí FC           6-0 (3-0)  Matagalpa FC
+
+
+== Apertura Playoffs
+
+Repechaje
+[Sat Dec/3]
+  14.00  H&H Export Sébaco        0-5 (0-3)  Managua FC
+[Sun Dec/4]
+  18.00  CD Walter Ferretti       5-1 (1-0)  Juventus Managua
+
+
+Semifinals
+[Wed Dec/7]
+  16.00  Managua FC               0-0  Real Estelí FC
+[Thu Dec/8]
+  18.00  CD Walter Ferretti       1-1 (0-0)  Diriangén FC
+[Sun Dec/11]
+  17.00  Diriangén FC             3-5 pen. 1-1 a.e.t. (0-0)  CD Walter Ferretti
+  19.00  Real Estelí FC           2-0 (0-0)  Managua FC
+
+
+Final
+[Wed Dec/14]
+  19.00  CD Walter Ferretti       2-3 (1-1)  Real Estelí FC
+[Sat Dec/17]
+  19.00  Real Estelí FC           4-3 pen. 1-2 a.e.t. (1-2, 0-0)  CD Walter Ferretti
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/21]
+  18.00  ART Municipal Jalapa     1-1 (0-0)  Real Estelí FC
+  19.00  Club Deportivo Ocotal    0-1 (0-0)  Managua FC
+[Sun Jan/22]
+  15.00  Matagalpa FC             0-3 (0-1)  Diriangén FC
+  16.00  Juventus Managua         1-1 (0-1)  H&H Export Sébaco
+  19.00  UNAN Managua             0-0  CD Walter Ferretti
+
+
+Matchday 2
+[Sat Jan/28]
+  15.00  H&H Export Sébaco        1-2 (0-1)  CD Walter Ferretti
+  19.00  Diriangén FC             2-1 (1-1)  UNAN Managua
+         Real Estelí FC           3-1 (1-1)  Club Deportivo Ocotal
+[Sun Jan/29]
+  18.00  ART Municipal Jalapa     1-1 (0-0)  Matagalpa FC
+  19.00  Managua FC               2-2 (0-2)  Juventus Managua
+
+
+Matchday 3
+[Fri Feb/3]
+  20.00  Diriangén FC             0-1 (0-1)  Club Deportivo Ocotal
+[Sat Feb/4]
+  17.00  UNAN Managua             3-0 (2-0)  ART Municipal Jalapa
+  19.00  Real Estelí FC           0-1 (0-1)  H&H Export Sébaco
+  20.00  CD Walter Ferretti       1-2 (0-0)  Managua FC
+[Sun Feb/5]
+  15.00  Matagalpa FC             1-0 (1-0)  Juventus Managua
+
+
+Matchday 4
+[Wed Feb/8]
+  17.00  CD Walter Ferretti       1-1 (0-0)  Real Estelí FC
+  18.00  ART Municipal Jalapa     0-2 (0-1)  Managua FC
+  20.00  Juventus Managua         0-3 (0-2)  Diriangén FC
+[Thu Feb/9]
+  15.00  H&H Export Sébaco        0-3 (0-1)  Matagalpa FC
+  18.00  Club Deportivo Ocotal    1-0 (1-0)  UNAN Managua
+
+
+Matchday 5
+[Sat Feb/11]
+  19.00  ART Municipal Jalapa     0-1 (0-0)  CD Walter Ferretti
+         Real Estelí FC           1-0 (1-0)  Juventus Managua
+[Sun Feb/12]
+  15.00  Matagalpa FC             2-0 (1-0)  Club Deportivo Ocotal
+  16.00  UNAN Managua             0-1 (0-0)  H&H Export Sébaco
+  19.00  Managua FC               0-1 (0-0)  Diriangén FC
+
+
+Matchday 6
+[Wed Feb/15]
+  18.00  ART Municipal Jalapa     1-3 (1-2)  Diriangén FC
+  19.00  Real Estelí FC           2-0 (1-0)  Managua FC
+[Thu Feb/16]
+  15.00  H&H Export Sébaco        1-4 (1-1)  Club Deportivo Ocotal
+  17.00  CD Walter Ferretti       0-1 (0-0)  Matagalpa FC
+  20.00  Juventus Managua         0-4 (0-0)  UNAN Managua
+
+
+Matchday 7
+[Sat Feb/18]
+  19.00  Diriangén FC             2-3 (2-0)  Real Estelí FC
+[Sun Feb/19]
+  15.00  Matagalpa FC             3-0 (3-0)  UNAN Managua
+  16.00  Managua FC               2-2 (0-1)  H&H Export Sébaco
+  18.00  Club Deportivo Ocotal    0-1 (0-0)  ART Municipal Jalapa
+  19.00  CD Walter Ferretti       0-3 (0-0)  Juventus Managua
+
+
+Matchday 8
+[Sat Feb/25]
+  17.00  Managua FC               3-0 (2-0)  Matagalpa FC
+  19.00  Club Deportivo Ocotal    3-0 (1-0)  CD Walter Ferretti
+  20.00  UNAN Managua             1-1 (1-0)  Real Estelí FC
+[Sun Feb/26]
+  15.00  H&H Export Sébaco        1-2 (1-1)  Diriangén FC
+  18.00  ART Municipal Jalapa     1-0 (1-0)  Juventus Managua
+
+
+Matchday 9
+[Sat Mar/4]
+  17.00  Juventus Managua         2-1 (1-1)  Club Deportivo Ocotal
+  19.00  Real Estelí FC           2-1 (2-1)  Matagalpa FC
+  20.00  UNAN Managua             0-2 (0-0)  Managua FC
+[Sun Mar/5]
+  15.00  H&H Export Sébaco        2-0 (1-0)  ART Municipal Jalapa
+  17.00  Diriangén FC             2-1 (1-0)  CD Walter Ferretti
+
+
+Matchday 10
+[Thu Mar/9]
+  19.00  Real Estelí FC           3-1 (2-0)  ART Municipal Jalapa
+         Diriangén FC             2-1 (2-0)  Matagalpa FC
+[Fri Mar/10]
+  15.00  H&H Export Sébaco        4-3 (3-2)  Juventus Managua
+  17.00  Managua FC               3-1 (1-1)  Club Deportivo Ocotal
+  20.00  CD Walter Ferretti       2-1 (2-0)  UNAN Managua
+
+
+Matchday 11
+[Fri Mar/17]
+  17.00  CD Walter Ferretti       4-1 (2-1)  H&H Export Sébaco
+  20.00  UNAN Managua             2-2 (0-1)  Diriangén FC
+[Sat Mar/18]
+  19.00  Club Deportivo Ocotal    2-2 (1-2)  Real Estelí FC
+  20.00  Juventus Managua         2-1 (2-1)  Managua FC
+[Sun Mar/19]
+  15.00  Matagalpa FC             1-2 (1-0)  ART Municipal Jalapa
+
+
+Matchday 12
+[Sat Mar/25]
+  17.00  Juventus Managua         2-2 (0-1)  Matagalpa FC
+  20.00  Managua FC               2-2 (0-1)  CD Walter Ferretti
+[Sun Mar/26]
+  15.00  H&H Export Sébaco        3-0 (1-0)  Real Estelí FC
+  18.00  ART Municipal Jalapa     0-0  UNAN Managua
+[Sat Apr/8]
+  18.00  Club Deportivo Ocotal    0-2 (0-2)  Diriangén FC
+
+
+Matchday 13
+[Sat Apr/1]
+  15.00  Matagalpa FC             0-0  H&H Export Sébaco
+  17.00  Managua FC               3-2 (1-1)  ART Municipal Jalapa
+  20.00  UNAN Managua             2-4 (0-1)  Club Deportivo Ocotal
+[Sun Apr/2]
+  17.00  Diriangén FC             1-0 (1-0)  Juventus Managua
+  19.00  Real Estelí FC           2-2 (1-1)  CD Walter Ferretti
+
+
+Matchday 14
+[Tue Apr/4]
+  18.00  Club Deportivo Ocotal    0-1 (0-1)  Matagalpa FC
+[Wed Apr/5]
+  15.00  H&H Export Sébaco        1-2 (0-0)  UNAN Managua
+  17.00  CD Walter Ferretti       3-2 (1-1)  ART Municipal Jalapa
+  19.00  Diriangén FC             2-2 (2-0)  Managua FC
+  20.00  Juventus Managua         0-7 (0-3)  Real Estelí FC
+
+
+Matchday 15
+[Wed Apr/12]
+  15.00  Matagalpa FC             1-0 (0-0)  CD Walter Ferretti
+  16.00  UNAN Managua             1-1 (1-0)  Juventus Managua
+  19.00  Diriangén FC             2-2 (1-0)  ART Municipal Jalapa
+[Thu Apr/13]
+  16.00  Managua FC               0-3 (0-1)  Real Estelí FC
+  18.00  Club Deportivo Ocotal    0-0  H&H Export Sébaco
+
+
+Matchday 16
+[Sat Apr/15]
+  15.00  Juventus Managua         0-3 (0-2)  CD Walter Ferretti
+  16.00  UNAN Managua             3-1 (1-0)  Matagalpa FC
+[Sun Apr/16]
+  15.00  H&H Export Sébaco        0-1 (0-0)  Managua FC
+  18.00  ART Municipal Jalapa     1-2 (1-2)  Club Deportivo Ocotal
+[Mon Apr/17]
+  19.00  Real Estelí FC           1-2 (1-1)  Diriangén FC
+
+
+Matchday 17
+[Wed Apr/19]
+  15.00  Matagalpa FC             0-0  Managua FC
+         Juventus Managua         2-3 (1-1)  ART Municipal Jalapa
+  17.00  CD Walter Ferretti       2-2 (1-2)  Club Deportivo Ocotal
+[Thu Apr/20]
+  19.00  Real Estelí FC           4-1 (3-1)  UNAN Managua
+         Diriangén FC             5-1 (2-1)  H&H Export Sébaco
+
+
+Matchday 18
+[Sun Apr/23]
+  15.00  Club Deportivo Ocotal    2-1 (1-0)  Juventus Managua
+         Matagalpa FC             0-1 (0-0)  Real Estelí FC
+         Managua FC               0-3 (0-2)  UNAN Managua
+         ART Municipal Jalapa     3-1 (2-0)  H&H Export Sébaco
+[Mon Apr/24]
+  18.00  CD Walter Ferretti       2-0 (0-0)  Diriangén FC
+
+
+== Clausura Playoffs
+
+Repechaje
+[Wed Apr/26]
+  19.00  Managua FC               3-1 (1-1)  Club Deportivo Ocotal
+[Thu Apr/27]
+  19.00  CD Walter Ferretti       8-9 pen. 1-1 a.e.t. (1-1, 1-1)  Matagalpa FC
+
+
+Semifinals
+[Sun Apr/30]
+  15.00  Matagalpa FC             0-2 (0-1)  Diriangén FC
+  19.00  Managua FC               0-1 (0-1)  Real Estelí FC
+[Sat May/6]
+  19.00  Diriangén FC             3-0 (1-0)  Matagalpa FC
+[Sun May/7]
+  19.00  Real Estelí FC           4-3 pen. 2-3 a.e.t. (1-2, 1-1)  Managua FC
+
+
+Final
+[Sun May/14]
+  19.00  Real Estelí FC           0-0  Diriangén FC
+[Sat May/20]
+  19.00  Diriangén FC             0-3 (0-1)  Real Estelí FC

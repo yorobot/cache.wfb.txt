@@ -1,0 +1,650 @@
+= IT 3 B 2020/21
+
+# Date       Sat Sep/26 2020 - Sat May/29 2021 (245d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Sep/26]
+  20.45  Vis Pesaro               2-2 (1-1)  FC Legnago Salus
+[Sun Sep/27]
+  15.00  Feralpisalò              2-1 (2-0)  US Arezzo
+         AS Gubbio                0-2 (0-0)  Modena FC
+         Calcio Padova            0-1 (0-1)  Imolese Calcio
+         Carpi FC                 2-0 (1-0)  Sambenedettese
+         US Triestina             0-1 (0-1)  Matelica
+  17.30  AC Perugia Calcio        2-2 (0-2)  Alma Juventus Fano
+         Fermana FC               0-1 (0-0)  Mantova 1911 SSD
+         Ravenna Calcio           0-3  FC Südtirol              [awarded]
+         Virtus Verona            1-1 (1-1)  Cesena FC
+
+
+Matchday 2
+[Sat Oct/3]
+  17.30  Matelica                 3-1 (1-1)  Feralpisalò
+[Sun Oct/4]
+  15.00  Cesena FC                0-2 (0-1)  US Triestina
+         Alma Juventus Fano       1-1 (0-1)  Calcio Padova
+         Modena FC                3-1 (1-1)  Vis Pesaro
+         FC Südtirol              3-0 (2-0)  Fermana FC
+  17.30  Mantova 1911 SSD         1-2 (0-2)  Carpi FC
+         FC Legnago Salus         1-0 (1-0)  Ravenna Calcio
+         Imolese Calcio           1-1 (0-0)  Virtus Verona
+         Sambenedettese           2-1 (1-0)  AS Gubbio
+[Mon Oct/5]
+  21.00  US Arezzo                0-1 (0-0)  AC Perugia Calcio
+
+
+Matchday 3
+[Wed Oct/7]
+  15.00  Matelica                 1-1 (1-1)  FC Südtirol
+         US Triestina             1-0 (0-0)  Modena FC
+  18.30  Feralpisalò              2-1 (0-0)  Imolese Calcio
+         Carpi FC                 0-0  Alma Juventus Fano
+  20.45  Calcio Padova            3-1 (2-1)  Mantova 1911 SSD
+         Sambenedettese           1-1 (0-1)  Fermana FC
+         Virtus Verona            0-0  FC Legnago Salus
+[Thu Oct/8]
+  20.45  AS Gubbio                1-1 (0-0)  US Arezzo
+         Ravenna Calcio           2-1 (1-0)  Vis Pesaro
+         AC Perugia Calcio        1-2 (1-1)  Cesena FC
+
+
+Matchday 4
+[Sun Oct/11]
+  15.00  Cesena FC                2-4 (1-1)  Feralpisalò
+         Mantova 1911 SSD         5-1 (2-0)  AC Perugia Calcio
+         FC Legnago Salus         3-0 (1-0)  US Triestina
+         FC Südtirol              1-1 (1-0)  AS Gubbio
+         Fermana FC               0-1 (0-1)  Calcio Padova
+  17.30  Alma Juventus Fano       0-2 (0-2)  Sambenedettese
+         Modena FC                3-0 (1-0)  Ravenna Calcio
+         Imolese Calcio           2-1 (1-0)  Carpi FC
+         US Arezzo                0-3 (0-1)  Virtus Verona
+         Vis Pesaro               2-1 (0-1)  Matelica
+
+
+Matchday 5
+[Sat Oct/17]
+  15.00  US Triestina             2-1 (1-1)  Ravenna Calcio
+         Virtus Verona            0-0  Vis Pesaro
+  17.30  Feralpisalò              0-1 (0-0)  FC Südtirol
+  15.00  Matelica                 2-1 (2-1)  Modena FC
+[Sun Oct/18]
+  15.00  AC Perugia Calcio        2-0 (2-0)  Fermana FC
+         AS Gubbio                1-2 (0-0)  Cesena FC
+         Alma Juventus Fano       1-2 (1-0)  Imolese Calcio
+         Carpi FC                 4-1 (1-1)  US Arezzo
+  17.30  Calcio Padova            1-1 (0-1)  FC Legnago Salus
+  18.30  Sambenedettese           2-0 (2-0)  Mantova 1911 SSD
+
+
+Matchday 6
+[Wed Oct/21]
+  15.00  FC Südtirol              3-0 (2-0)  Carpi FC
+  18.00  Mantova 1911 SSD         5-2 (1-0)  Matelica
+  18.30  FC Legnago Salus         0-2 (0-1)  AC Perugia Calcio
+         US Arezzo                0-5 (0-3)  Calcio Padova
+         Vis Pesaro               0-1 (0-1)  US Triestina
+  20.30  Modena FC                0-0  Feralpisalò
+  20.45  Cesena FC                3-0 (3-0)  Alma Juventus Fano
+         Fermana FC               2-1 (1-1)  AS Gubbio
+         Imolese Calcio           1-1 (1-1)  Sambenedettese
+         Ravenna Calcio           2-0 (2-0)  Virtus Verona
+
+
+Matchday 7
+[Sat Oct/24]
+  20.45  Carpi FC                 2-0 (1-0)  Cesena FC
+[Sun Oct/25]
+  15.00  Feralpisalò              3-0 (2-0)  Ravenna Calcio
+         Alma Juventus Fano       1-2 (0-2)  Mantova 1911 SSD
+         Sambenedettese           0-2 (0-0)  Modena FC
+         US Triestina             1-1 (1-0)  Virtus Verona
+  17.30  AC Perugia Calcio        2-1 (0-0)  Vis Pesaro
+         Calcio Padova            2-0 (2-0)  FC Südtirol
+         Imolese Calcio           0-1 (0-0)  Fermana FC
+         Matelica                 2-2 (2-0)  US Arezzo
+  20.30  AS Gubbio                0-0  FC Legnago Salus
+
+
+Matchday 8
+[Sat Oct/31]
+  16.30  US Arezzo                2-2 (1-2)  US Triestina
+[Sun Nov/1]
+  15.00  Mantova 1911 SSD         0-0  Imolese Calcio
+         Modena FC                0-1 (0-1)  AC Perugia Calcio
+         FC Südtirol              0-0  Sambenedettese
+         Fermana FC               0-1 (0-0)  Carpi FC
+         Virtus Verona            1-0 (1-0)  Matelica
+  17.30  FC Legnago Salus         1-1 (1-1)  Feralpisalò
+         Ravenna Calcio           1-0 (0-0)  Alma Juventus Fano
+         Vis Pesaro               1-0 (0-0)  AS Gubbio
+[Mon Nov/2]
+  21.00  Cesena FC                0-2 (0-0)  Calcio Padova
+
+
+Matchday 9
+[Sat Nov/7]
+  15.00  Alma Juventus Fano       1-1 (0-0)  FC Südtirol
+         Carpi FC                 0-0  FC Legnago Salus
+  20.30  Matelica                 3-2 (2-0)  Ravenna Calcio
+  15.00  Cesena FC                1-1 (0-0)  Fermana FC
+[Sun Nov/8]
+  17.30  Calcio Padova            2-0 (0-0)  Virtus Verona
+         Sambenedettese           1-1 (1-1)  AC Perugia Calcio
+  19.00  Imolese Calcio           0-1 (0-0)  Modena FC
+  15.00  Feralpisalò              1-0 (0-0)  Vis Pesaro
+
+
+Matchday 10
+[Wed Nov/11]
+  20.45  Virtus Verona            3-0 (2-0)  Feralpisalò
+         Fermana FC               0-0  Alma Juventus Fano
+  15.00  FC Legnago Salus         1-2 (1-0)  Matelica
+         Modena FC                2-1 (1-0)  Carpi FC
+  16.30  US Triestina             1-0 (1-0)  Imolese Calcio
+  17.30  Ravenna Calcio           1-2 (0-1)  AS Gubbio
+  18.30  Vis Pesaro               0-2 (0-0)  Cesena FC
+  20.30  AC Perugia Calcio        3-0 (0-0)  Calcio Padova
+         FC Südtirol              2-1 (1-0)  Mantova 1911 SSD
+
+
+Matchday 11
+[Sat Nov/14]
+  20.45  Sambenedettese           2-0 (2-0)  Vis Pesaro
+[Sun Nov/15]
+  17.30  Feralpisalò              2-1 (2-0)  US Triestina
+         Imolese Calcio           0-3  FC Südtirol              [awarded]
+  20.00  Calcio Padova            3-0 (2-0)  Matelica
+  15.00  AS Gubbio                1-1 (1-1)  Virtus Verona
+         Carpi FC                 0-0  AC Perugia Calcio
+  17.30  Cesena FC                4-0 (0-0)  Ravenna Calcio
+[Mon Nov/16]
+  21.00  Mantova 1911 SSD         0-0  Modena FC
+
+
+Matchday 12
+[Sat Nov/21]
+  15.00  AC Perugia Calcio        0-0  AS Gubbio
+[Sun Nov/22]
+  17.30  Ravenna Calcio           1-1 (0-0)  Sambenedettese
+         Virtus Verona            1-1 (1-0)  Mantova 1911 SSD
+  15.00  Modena FC                1-2 (1-0)  FC Südtirol
+         Matelica                 2-2 (1-0)  Cesena FC
+  17.30  Vis Pesaro               3-2 (1-2)  Carpi FC
+  14.00  US Triestina             3-1 (2-0)  Fermana FC
+  17.30  Feralpisalò              3-1 (0-0)  Calcio Padova
+
+
+Matchday 9
+[Wed Nov/25]
+  15.00  Mantova 1911 SSD         2-0 (0-0)  US Arezzo
+         AS Gubbio                1-0 (0-0)  US Triestina
+
+
+Matchday 13
+[Sat Nov/28]
+  20.45  Imolese Calcio           0-2 (0-1)  US Arezzo
+[Sun Nov/29]
+  17.30  Mantova 1911 SSD         2-1 (0-1)  Ravenna Calcio
+         Cesena FC                0-0  Modena FC
+         Fermana FC               1-1 (1-1)  Matelica
+         Calcio Padova            5-3 (3-1)  Vis Pesaro
+  15.00  Sambenedettese           1-1 (0-1)  FC Legnago Salus
+         AS Gubbio                1-1 (1-0)  Feralpisalò
+         Alma Juventus Fano       1-2 (1-0)  Virtus Verona
+         FC Südtirol              1-1 (1-1)  AC Perugia Calcio
+  17.30  Carpi FC                 2-2 (1-1)  US Triestina
+
+
+Matchday 10
+[Wed Dec/2]
+  15.00  US Arezzo                2-3 (2-2)  Sambenedettese
+
+
+Matchday 14
+[Sat Dec/5]
+  15.00  Modena FC                1-0 (1-0)  Fermana FC
+         FC Legnago Salus         0-1 (0-0)  Cesena FC
+         Matelica                 1-3 (1-2)  AS Gubbio
+[Sun Dec/6]
+  17.30  Vis Pesaro               0-0  Alma Juventus Fano
+         AC Perugia Calcio        2-0 (2-0)  Imolese Calcio
+         Feralpisalò              1-3 (0-0)  Mantova 1911 SSD
+  15.00  US Triestina             0-1 (0-0)  Sambenedettese
+         Ravenna Calcio           1-3 (1-1)  Calcio Padova
+         US Arezzo                0-4 (0-3)  FC Südtirol
+  17.30  Virtus Verona            0-0  Carpi FC
+
+
+Matchday 11
+[Wed Dec/9]
+  15.00  Alma Juventus Fano       1-0 (0-0)  FC Legnago Salus
+         Fermana FC               0-0  US Arezzo
+
+
+Matchday 15
+[Sat Dec/12]
+  15.00  Imolese Calcio           1-2 (1-0)  Vis Pesaro
+[Sun Dec/13]
+  17.30  Sambenedettese           2-3 (1-0)  Matelica
+         US Arezzo                0-1 (0-0)  Modena FC
+  15.00  AC Perugia Calcio        2-2 (0-1)  Virtus Verona
+         Alma Juventus Fano       1-1 (0-0)  Feralpisalò
+         Carpi FC                 2-2 (0-1)  AS Gubbio
+         FC Südtirol              1-0 (0-0)  FC Legnago Salus
+         Fermana FC               2-1 (1-0)  Ravenna Calcio
+  17.30  Mantova 1911 SSD         0-4 (0-2)  Cesena FC
+[Mon Dec/14]
+  18.00  Calcio Padova            0-0  US Triestina
+
+
+Matchday 12
+[Wed Dec/16]
+  15.00  FC Legnago Salus         2-1 (1-0)  Imolese Calcio
+         US Arezzo                1-1 (0-1)  Alma Juventus Fano
+
+
+Matchday 16
+[Sat Dec/19]
+  15.00  Cesena FC                2-1 (1-0)  Sambenedettese
+         Ravenna Calcio           3-2 (2-0)  Imolese Calcio
+         US Triestina             2-1 (2-0)  AC Perugia Calcio
+         Virtus Verona            2-2 (1-1)  FC Südtirol
+  18.00  Feralpisalò              1-1 (0-0)  Fermana FC
+[Sun Dec/20]
+  15.00  Vis Pesaro               3-2 (1-1)  US Arezzo
+  17.30  FC Legnago Salus         0-0  Mantova 1911 SSD
+         Modena FC                2-0 (1-0)  Alma Juventus Fano
+  15.00  AS Gubbio                0-3 (0-1)  Calcio Padova
+
+
+Matchday 17
+[Wed Dec/23]
+  20.00  Alma Juventus Fano       1-2 (1-1)  Matelica
+  12.30  FC Südtirol              1-2 (1-0)  US Triestina
+         Imolese Calcio           1-2 (1-1)  Cesena FC
+         Sambenedettese           1-0 (0-0)  Virtus Verona
+         US Arezzo                1-1 (0-1)  FC Legnago Salus
+  15.00  Mantova 1911 SSD         1-2 (0-2)  AS Gubbio
+  17.30  AC Perugia Calcio        3-1 (1-0)  Ravenna Calcio
+         Calcio Padova            0-1 (0-1)  Modena FC
+         Fermana FC               2-0 (1-0)  Vis Pesaro
+
+
+Matchday 18
+[Sat Jan/9]
+  15.00  Virtus Verona            1-1 (1-0)  Fermana FC
+         Cesena FC                0-0  FC Südtirol
+  17.30  Feralpisalò              1-2 (0-1)  Sambenedettese
+[Sun Jan/10]
+  17.30  FC Legnago Salus         0-1 (0-0)  Modena FC
+         Ravenna Calcio           1-1 (1-0)  US Arezzo
+  15.00  AS Gubbio                2-1 (2-0)  Imolese Calcio
+         Matelica                 1-3 (1-2)  AC Perugia Calcio
+         US Triestina             0-1 (0-0)  Alma Juventus Fano
+         Vis Pesaro               1-4 (1-3)  Mantova 1911 SSD
+
+
+Matchday 19
+[Sat Jan/16]
+  15.00  US Arezzo                0-2 (0-2)  Cesena FC
+         Imolese Calcio           2-0 (0-0)  Matelica
+         Alma Juventus Fano       1-1 (0-0)  AS Gubbio
+         Fermana FC               2-1 (1-1)  FC Legnago Salus
+  17.30  Mantova 1911 SSD         0-0  US Triestina
+[Sun Jan/17]
+  15.00  FC Südtirol              1-0 (0-0)  Vis Pesaro
+  17.30  Modena FC                0-1 (0-0)  Virtus Verona
+         Carpi FC                 4-2 (0-1)  Ravenna Calcio
+  15.00  AC Perugia Calcio        3-2 (1-1)  Feralpisalò
+         Sambenedettese           0-1 (0-1)  Calcio Padova
+
+
+Matchday 16
+[Wed Jan/20]
+  15.00  Matelica                 1-0 (0-0)  Carpi FC
+
+
+Matchday 20
+[Sat Jan/23]
+  15.00  US Arezzo                2-3 (1-2)  Feralpisalò
+  17.30  Imolese Calcio           1-1 (0-1)  Calcio Padova
+[Sun Jan/24]
+  17.30  Cesena FC                1-3 (1-2)  Virtus Verona
+  15.00  Sambenedettese           5-1 (2-1)  Carpi FC
+  12.30  Modena FC                2-0 (1-0)  AS Gubbio
+  14.30  FC Legnago Salus         2-1 (1-0)  Vis Pesaro
+  15.00  Mantova 1911 SSD         1-0 (0-0)  Fermana FC
+         Alma Juventus Fano       0-0  AC Perugia Calcio
+         FC Südtirol              2-1 (1-1)  Ravenna Calcio
+         Matelica                 3-2 (2-0)  US Triestina
+
+
+Matchday 17
+[Wed Jan/27]
+  15.00  Carpi FC                 1-2 (1-2)  Feralpisalò
+
+
+Matchday 21
+[Sat Jan/30]
+  15.00  AS Gubbio                1-2 (1-0)  Sambenedettese
+         Fermana FC               1-1 (0-1)  FC Südtirol
+         US Triestina             2-1 (1-0)  Cesena FC
+         Virtus Verona            3-1 (2-1)  Imolese Calcio
+  17.30  Vis Pesaro               1-0 (0-0)  Modena FC
+  17.00  Ravenna Calcio           1-1 (0-1)  FC Legnago Salus
+[Sun Jan/31]
+  15.00  Feralpisalò              2-1 (1-0)  Matelica
+  12.30  AC Perugia Calcio        3-0 (2-0)  US Arezzo
+  17.30  Calcio Padova            1-1 (0-1)  Alma Juventus Fano
+[Mon Feb/1]
+  21.00  Carpi FC                 2-0 (1-0)  Mantova 1911 SSD
+
+
+Matchday 22
+[Tue Feb/2]
+  17.30  Modena FC                1-1 (0-0)  US Triestina
+[Wed Feb/3]
+  15.00  Fermana FC               1-0 (0-0)  Sambenedettese
+  12.30  FC Südtirol              4-2 (1-0)  Matelica
+  15.00  FC Legnago Salus         0-1 (0-0)  Virtus Verona
+  17.30  US Arezzo                0-1 (0-0)  AS Gubbio
+  15.00  Imolese Calcio           3-0 (3-0)  Feralpisalò
+  20.30  Vis Pesaro               0-0  Ravenna Calcio
+[Thu Feb/4]
+  15.00  Alma Juventus Fano       4-0 (3-0)  Carpi FC
+  17.30  Mantova 1911 SSD         0-6 (0-2)  Calcio Padova
+
+
+Matchday 23
+[Sun Feb/7]
+  15.00  US Triestina             4-1 (1-0)  FC Legnago Salus
+  20.30  Sambenedettese           2-2 (1-0)  Alma Juventus Fano
+  12.30  Calcio Padova            1-0 (1-0)  Fermana FC
+  15.00  AS Gubbio                1-2 (0-0)  FC Südtirol
+         Ravenna Calcio           0-0  Modena FC
+  17.30  Virtus Verona            1-1 (0-1)  US Arezzo
+         AC Perugia Calcio        4-2 (3-2)  Mantova 1911 SSD
+         Carpi FC                 0-3 (0-2)  Imolese Calcio
+         Matelica                 1-1 (1-0)  Vis Pesaro
+
+
+Matchday 18
+[Wed Feb/10]
+  15.00  Calcio Padova            6-0 (2-0)  Carpi FC
+
+
+Matchday 24
+[Sat Feb/13]
+  15.00  Vis Pesaro               0-1 (0-1)  Virtus Verona
+[Sun Feb/14]
+  15.00  US Arezzo                3-3 (1-1)  Carpi FC
+  12.30  Ravenna Calcio           0-1 (0-0)  US Triestina
+  15.00  FC Legnago Salus         0-2 (0-0)  Calcio Padova
+         FC Südtirol              0-2 (0-1)  Feralpisalò
+  17.30  Mantova 1911 SSD         1-1 (1-1)  Sambenedettese
+[Mon Feb/15]
+  21.00  Modena FC                4-1 (2-1)  Matelica
+
+
+Matchday 25
+[Tue Feb/16]
+  17.30  AS Gubbio                1-1 (0-1)  Fermana FC
+[Wed Feb/17]
+  17.30  Calcio Padova            2-0 (1-0)  US Arezzo
+  15.00  Virtus Verona            1-1 (0-0)  Ravenna Calcio
+         Sambenedettese           1-3 (0-2)  Imolese Calcio
+  17.30  US Triestina             3-2 (0-2)  Vis Pesaro
+         Carpi FC                 0-0  FC Südtirol
+  15.00  AC Perugia Calcio        4-0 (1-0)  FC Legnago Salus
+         Alma Juventus Fano       1-2 (1-0)  Cesena FC
+[Thu Feb/18]
+  15.00  Feralpisalò              0-1 (0-0)  Modena FC
+         Matelica                 0-0  Mantova 1911 SSD
+
+
+Matchday 26
+[Sun Feb/21]
+  17.30  FC Südtirol              1-1 (1-0)  Calcio Padova
+  15.00  Virtus Verona            2-2 (1-0)  US Triestina
+  17.30  Fermana FC               2-0 (0-0)  Imolese Calcio
+  20.30  Mantova 1911 SSD         0-2 (0-0)  Alma Juventus Fano
+  15.00  US Arezzo                2-0 (1-0)  Matelica
+  12.30  Vis Pesaro               0-1 (0-1)  AC Perugia Calcio
+  15.00  FC Legnago Salus         1-2 (1-1)  AS Gubbio
+         Modena FC                4-1 (1-0)  Sambenedettese
+[Mon Feb/22]
+  15.00  Ravenna Calcio           0-0  Feralpisalò
+  21.00  Cesena FC                3-0 (2-0)  Carpi FC
+
+
+Matchday 27
+[Sat Feb/27]
+  15.00  Imolese Calcio           1-5 (0-3)  Mantova 1911 SSD
+         Matelica                 1-0 (1-0)  Virtus Verona
+         AS Gubbio                1-1 (0-0)  Vis Pesaro
+  17.30  AC Perugia Calcio        3-0 (2-0)  Modena FC
+         Feralpisalò              1-0 (1-0)  FC Legnago Salus
+  15.00  Sambenedettese           0-4 (0-2)  FC Südtirol
+[Sun Feb/28]
+  17.30  Calcio Padova            0-0  Cesena FC
+  15.00  US Triestina             2-2 (1-2)  US Arezzo
+         Alma Juventus Fano       1-1 (1-0)  Ravenna Calcio
+  12.30  Carpi FC                 0-0  Fermana FC
+
+
+Matchday 28
+[Tue Mar/2]
+  17.30  AC Perugia Calcio        1-1 (1-1)  Sambenedettese
+[Wed Mar/3]
+  17.30  FC Südtirol              3-0 (2-0)  Alma Juventus Fano
+         Modena FC                3-1 (1-0)  Imolese Calcio
+  15.00  US Triestina             0-0  AS Gubbio
+  17.30  Ravenna Calcio           0-1 (0-1)  Matelica
+  15.00  Vis Pesaro               2-0 (1-0)  Feralpisalò
+         FC Legnago Salus         0-0  Carpi FC
+         Fermana FC               2-1 (2-0)  Cesena FC
+         US Arezzo                1-1 (1-1)  Mantova 1911 SSD
+  20.30  Virtus Verona            0-1 (0-0)  Calcio Padova
+
+
+Matchday 29
+[Sun Mar/7]
+  17.30  Calcio Padova            1-0 (0-0)  AC Perugia Calcio
+         AS Gubbio                3-1 (3-1)  Ravenna Calcio
+  15.00  Matelica                 5-1 (2-0)  FC Legnago Salus
+  17.30  Feralpisalò              4-0 (3-0)  Virtus Verona
+  20.30  Carpi FC                 3-0 (1-0)  Modena FC
+  12.30  Imolese Calcio           0-0  US Triestina
+         Sambenedettese           1-0 (0-0)  US Arezzo
+  15.00  Alma Juventus Fano       1-1 (0-0)  Fermana FC
+  16.00  Cesena FC                0-2 (0-0)  Vis Pesaro
+[Mon Mar/8]
+  21.00  Mantova 1911 SSD         1-1 (0-1)  FC Südtirol
+
+
+Matchday 24
+[Wed Mar/10]
+  15.00  Imolese Calcio           1-1 (1-0)  Alma Juventus Fano
+
+
+Matchday 22
+[Wed Mar/10]
+  15.00  Cesena FC                1-1 (0-0)  AC Perugia Calcio
+
+
+Matchday 30
+[Sat Mar/13]
+  15.00  Virtus Verona            0-1 (0-1)  AS Gubbio
+         US Arezzo                1-0 (0-0)  Fermana FC
+  17.30  US Triestina             1-1 (0-0)  Feralpisalò
+[Sun Mar/14]
+  17.30  Vis Pesaro               1-3 (1-3)  Sambenedettese
+  15.00  Matelica                 4-1 (2-0)  Calcio Padova
+  12.30  Modena FC                1-1 (1-0)  Mantova 1911 SSD
+  15.00  AC Perugia Calcio        2-0 (1-0)  Carpi FC
+         FC Südtirol              4-0 (2-0)  Imolese Calcio
+         FC Legnago Salus         3-0 (3-0)  Alma Juventus Fano
+
+
+Matchday 31
+[Tue Mar/16]
+  15.00  Fermana FC               2-2 (2-0)  US Triestina
+[Wed Mar/17]
+  20.30  Carpi FC                 0-2 (0-1)  Vis Pesaro
+  17.30  FC Südtirol              2-0 (2-0)  Modena FC
+         Imolese Calcio           0-0  FC Legnago Salus
+  20.30  Mantova 1911 SSD         3-2 (1-2)  Virtus Verona
+  15.00  Alma Juventus Fano       0-1 (0-1)  US Arezzo
+  17.30  Cesena FC                2-2 (2-1)  Matelica
+         AS Gubbio                3-2 (0-1)  AC Perugia Calcio
+         Calcio Padova            4-0 (2-0)  Feralpisalò
+
+
+Matchday 32
+[Sun Mar/21]
+  17.30  US Arezzo                0-0  Imolese Calcio
+  15.00  Virtus Verona            3-1 (0-1)  Alma Juventus Fano
+         US Triestina             1-0 (0-0)  Carpi FC
+  20.30  Modena FC                1-0 (0-0)  Cesena FC
+  17.30  Matelica                 5-1 (4-1)  Fermana FC
+  12.30  AC Perugia Calcio        1-0 (1-0)  FC Südtirol
+  15.00  Feralpisalò              1-0 (1-0)  AS Gubbio
+         FC Legnago Salus         1-1 (0-1)  Sambenedettese
+         Vis Pesaro               0-2 (0-0)  Calcio Padova
+
+
+Matchday 31
+[Wed Mar/24]
+  15.00  Sambenedettese           0-0  Ravenna Calcio
+
+
+Matchday 23
+[Wed Mar/24]
+  15.00  Feralpisalò              0-0  Cesena FC
+
+
+Matchday 33
+[Sat Mar/27]
+  15.00  Imolese Calcio           0-1 (0-1)  AC Perugia Calcio
+         AS Gubbio                3-0 (2-0)  Matelica
+  17.30  Fermana FC               1-0 (0-0)  Modena FC
+[Sun Mar/28]
+  15.00  Alma Juventus Fano       1-1 (1-1)  Vis Pesaro
+  17.30  Calcio Padova            3-0 (1-0)  Ravenna Calcio
+  15.00  FC Südtirol              1-0 (1-0)  US Arezzo
+  17.30  Carpi FC                 2-2 (1-1)  Virtus Verona
+  15.00  Cesena FC                0-3 (0-1)  FC Legnago Salus
+         Mantova 1911 SSD         0-1 (0-0)  Feralpisalò
+
+
+Matchday 24
+[Tue Mar/30]
+  15.00  Fermana FC               1-1 (0-1)  AC Perugia Calcio
+[Wed Mar/31]
+  15.00  Cesena FC                2-1 (0-0)  AS Gubbio
+
+
+Matchday 32
+[Wed Mar/31]
+  15.00  Ravenna Calcio           0-2 (0-1)  Mantova 1911 SSD
+
+
+Matchday 34
+[Sat Apr/3]
+  20.30  US Triestina             1-0 (0-0)  Calcio Padova
+  17.30  Ravenna Calcio           0-0  Fermana FC
+  12.30  Modena FC                3-1 (1-1)  US Arezzo
+         Matelica                 1-0 (0-0)  Sambenedettese
+  15.00  AS Gubbio                0-4 (0-2)  Carpi FC
+         FC Legnago Salus         2-3 (1-1)  FC Südtirol
+         Virtus Verona            0-3 (0-2)  AC Perugia Calcio
+         Vis Pesaro               2-1 (1-0)  Imolese Calcio
+  17.30  Cesena FC                0-0  Mantova 1911 SSD
+         Feralpisalò              1-2 (0-0)  Alma Juventus Fano
+
+
+Matchday 30
+[Wed Apr/7]
+  15.00  Ravenna Calcio           2-2 (1-0)  Cesena FC
+
+
+Matchday 33
+[Wed Apr/7]
+  15.00  Sambenedettese           1-0 (0-0)  US Triestina
+
+
+Matchday 35
+[Sun Apr/11]
+  15.00  AC Perugia Calcio        2-1 (0-0)  US Triestina
+         Calcio Padova            1-0 (0-0)  AS Gubbio
+         Alma Juventus Fano       0-1 (0-1)  Modena FC
+         Carpi FC                 4-1 (2-1)  Matelica
+         Fermana FC               1-4 (1-2)  Feralpisalò
+         Sambenedettese           0-2 (0-2)  Cesena FC
+  17.30  Mantova 1911 SSD         0-2 (0-1)  FC Legnago Salus
+         FC Südtirol              2-0 (1-0)  Virtus Verona
+         US Arezzo                4-2 (3-1)  Vis Pesaro
+  20.30  Imolese Calcio           0-2 (0-1)  Ravenna Calcio
+
+
+Matchday 36
+[Sat Apr/17]
+  17.30  Ravenna Calcio           0-3 (0-0)  AC Perugia Calcio
+[Sun Apr/18]
+  15.00  AS Gubbio                0-0  Mantova 1911 SSD
+         FC Legnago Salus         1-1 (1-0)  US Arezzo
+         Matelica                 0-0  Alma Juventus Fano
+         Virtus Verona            0-1 (0-0)  Sambenedettese
+  17.30  Feralpisalò              6-1 (4-0)  Carpi FC
+         Modena FC                3-0 (1-0)  Calcio Padova
+  20.30  Cesena FC                0-2 (0-0)  Imolese Calcio
+         Vis Pesaro               1-1 (0-0)  Fermana FC
+[Mon Apr/19]
+  21.00  US Triestina             3-2 (1-0)  FC Südtirol
+
+
+Matchday 37
+[Sun Apr/25]
+  20.30  Mantova 1911 SSD         0-1 (0-1)  Vis Pesaro
+         AC Perugia Calcio        2-0 (1-0)  Matelica
+         Alma Juventus Fano       1-1 (1-0)  US Triestina
+         Carpi FC                 0-1 (0-0)  Calcio Padova
+         Modena FC                3-0 (0-0)  FC Legnago Salus
+         FC Südtirol              1-1 (1-1)  Cesena FC
+         Fermana FC               0-1 (0-0)  Virtus Verona
+         Imolese Calcio           1-0 (1-0)  AS Gubbio
+         Sambenedettese           0-0  Feralpisalò
+         US Arezzo                1-1 (1-1)  Ravenna Calcio
+
+
+Matchday 38
+[Sun May/2]
+  15.00  Cesena FC                3-1 (2-0)  US Arezzo
+         Feralpisalò              0-2 (0-1)  AC Perugia Calcio
+         AS Gubbio                2-1 (1-0)  Alma Juventus Fano
+         Calcio Padova            1-0 (0-0)  Sambenedettese
+         FC Legnago Salus         3-1 (3-1)  Fermana FC
+         Matelica                 3-0 (1-0)  Imolese Calcio
+         Ravenna Calcio           2-1 (0-0)  Carpi FC
+         US Triestina             1-1 (0-1)  Mantova 1911 SSD
+         Virtus Verona            3-3 (1-2)  Modena FC
+         Vis Pesaro               1-3 (0-2)  FC Südtirol
+
+
+== Playout
+
+Finals
+[Sat May/15]
+  17.30  Ravenna Calcio           0-1 (0-1)  FC Legnago Salus
+[Sat May/22]
+  17.30  FC Legnago Salus         3-0 (1-0)  Ravenna Calcio
+         Alma Juventus Fano       0-0  Imolese Calcio
+[Sat May/29]
+  17.30  Imolese Calcio           1-1 (0-0)  Alma Juventus Fano

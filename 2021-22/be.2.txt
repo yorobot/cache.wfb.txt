@@ -1,0 +1,293 @@
+= BE 2 2021/22
+
+# Date       Fri Aug/13 2021 - Sun Apr/17 2022 (247d)
+# Teams      8
+# Matches    112
+
+
+
+Matchday 1
+[Fri Aug/13]
+  20.00  SK Deinze                1-1 (1-1)  Lierse Kempenzonen
+[Sat Aug/14]
+  20.45  RWDM Brussels FC         3-1 (2-0)  Royal Excel Mouscron
+[Sun Aug/15]
+  20.00  Excelsior Virton         0-2 (0-1)  KVC Westerlo
+  16.00  Lommel SK                2-3 (2-1)  Waasland-Beveren
+
+
+Matchday 2
+[Fri Aug/20]
+  20.00  KVC Westerlo             0-0  RWDM Brussels FC
+[Sat Aug/21]
+  20.45  Royal Excel Mouscron     0-1 (0-1)  Lommel SK
+[Sun Aug/22]
+  16.00  Lierse Kempenzonen       2-0 (1-0)  Excelsior Virton
+  20.00  Waasland-Beveren         0-2 (0-1)  SK Deinze
+
+
+Matchday 3
+[Fri Aug/27]
+  20.00  RWDM Brussels FC         0-0  Excelsior Virton
+[Sat Aug/28]
+  20.45  KVC Westerlo             3-2 (0-1)  Lierse Kempenzonen
+[Sun Aug/29]
+  20.00  Lommel SK                2-2 (0-0)  SK Deinze
+  16.00  Royal Excel Mouscron     0-4 (0-2)  Waasland-Beveren
+
+
+Matchday 4
+[Fri Sep/10]
+  20.00  SK Deinze                3-1 (1-1)  Royal Excel Mouscron
+[Sat Sep/11]
+  20.45  Excelsior Virton         2-1 (0-0)  Lommel SK
+[Sun Sep/12]
+  16.00  Lierse Kempenzonen       4-1 (3-0)  RWDM Brussels FC
+  20.00  Waasland-Beveren         0-2 (0-2)  KVC Westerlo
+
+
+Matchday 5
+[Fri Sep/17]
+  20.00  RWDM Brussels FC         1-3 (1-1)  Waasland-Beveren
+[Sat Sep/18]
+  20.45  Royal Excel Mouscron     1-1 (1-1)  Excelsior Virton
+[Sun Sep/19]
+  20.00  Lommel SK                3-1 (1-0)  Lierse Kempenzonen
+  16.00  KVC Westerlo             2-2 (0-1)  SK Deinze
+
+
+Matchday 6
+[Fri Sep/24]
+  20.00  Lierse Kempenzonen       2-1 (0-0)  Waasland-Beveren
+[Sat Sep/25]
+  20.45  RWDM Brussels FC         1-2 (0-2)  Lommel SK
+[Sun Sep/26]
+  16.00  Excelsior Virton         1-1 (0-1)  SK Deinze
+  20.00  Royal Excel Mouscron     1-2 (0-1)  KVC Westerlo
+
+
+Matchday 7
+[Fri Oct/1]
+  20.00  KVC Westerlo             2-0 (0-0)  Lommel SK
+[Sat Oct/2]
+  20.45  Lierse Kempenzonen       2-2 (1-1)  Royal Excel Mouscron
+[Sun Oct/3]
+  20.00  SK Deinze                1-2 (1-0)  RWDM Brussels FC
+  16.00  Waasland-Beveren         4-3 (1-3)  Excelsior Virton
+
+
+Matchday 8
+[Fri Oct/15]
+  20.00  SK Deinze                0-0  Waasland-Beveren
+[Sat Oct/16]
+  20.45  Excelsior Virton         2-1 (2-1)  Lierse Kempenzonen
+[Sun Oct/17]
+  20.00  RWDM Brussels FC         1-2 (0-2)  KVC Westerlo
+  16.00  Lommel SK                3-0 (1-0)  Royal Excel Mouscron
+
+
+Matchday 9
+[Fri Oct/22]
+  20.00  Royal Excel Mouscron     1-1 (1-0)  RWDM Brussels FC
+[Sat Oct/23]
+  20.45  Lierse Kempenzonen       2-2 (0-1)  SK Deinze
+[Sun Oct/24]
+  16.00  KVC Westerlo             2-0 (1-0)  Excelsior Virton
+  20.00  Waasland-Beveren         2-1 (1-0)  Lommel SK
+
+
+Matchday 10
+[Fri Oct/29]
+  20.00  Excelsior Virton         0-2 (0-1)  Royal Excel Mouscron
+[Sat Oct/30]
+  20.45  Waasland-Beveren         1-3 (1-1)  Lierse Kempenzonen
+[Sun Oct/31]
+  20.00  Lommel SK                2-3 (1-0)  RWDM Brussels FC
+  16.00  SK Deinze                2-1 (1-1)  KVC Westerlo
+
+
+Matchday 11
+[Fri Nov/5]
+  20.00  Lommel SK                1-3 (1-2)  Excelsior Virton
+[Sat Nov/6]
+  20.45  Royal Excel Mouscron     2-0 (2-0)  SK Deinze
+[Sun Nov/7]
+  16.00  RWDM Brussels FC         3-3 (2-1)  Lierse Kempenzonen
+  20.00  KVC Westerlo             1-1 (0-0)  Waasland-Beveren
+
+
+Matchday 12
+[Fri Nov/19]
+  20.00  Waasland-Beveren         0-2 (0-0)  Royal Excel Mouscron
+[Sat Nov/20]
+  20.45  Lierse Kempenzonen       1-5 (0-1)  KVC Westerlo
+[Sun Nov/21]
+  20.00  SK Deinze                3-3 (3-1)  Lommel SK
+  16.00  Excelsior Virton         0-2 (0-0)  RWDM Brussels FC
+
+
+Matchday 13
+[Fri Nov/26]
+  20.00  Excelsior Virton         0-3 (0-3)  Waasland-Beveren
+[Sat Nov/27]
+  20.45  Lommel SK                0-1 (0-0)  KVC Westerlo
+[Sun Nov/28]
+  16.00  Royal Excel Mouscron     2-1 (1-0)  Lierse Kempenzonen
+  20.00  RWDM Brussels FC         2-2 (2-0)  SK Deinze
+
+
+Matchday 14
+[Fri Dec/3]
+  20.00  SK Deinze                3-0 (0-0)  Excelsior Virton
+[Sat Dec/4]
+  20.45  Waasland-Beveren         2-3 (1-2)  RWDM Brussels FC
+[Sun Dec/5]
+  20.00  Lierse Kempenzonen       2-2 (1-1)  Lommel SK
+  16.00  KVC Westerlo             4-3 (0-2)  Royal Excel Mouscron
+
+
+Matchday 15
+[Sat Dec/11]
+  20.45  Royal Excel Mouscron     2-1 (0-1)  Lommel SK
+[Sun Dec/12]
+  20.00  Excelsior Virton         2-2 (1-1)  Lierse Kempenzonen
+  16.00  Waasland-Beveren         4-1 (3-1)  SK Deinze
+
+
+Matchday 16
+[Fri Dec/17]
+  20.00  Lommel SK                1-1 (1-0)  Waasland-Beveren
+[Sat Dec/18]
+  20.45  SK Deinze                2-2 (0-2)  Royal Excel Mouscron
+[Sun Dec/19]
+  20.00  KVC Westerlo             1-1 (0-0)  Excelsior Virton
+  16.00  Lierse Kempenzonen       0-1 (0-1)  RWDM Brussels FC
+
+
+Matchday 17
+[Fri Jan/21]
+  20.00  RWDM Brussels FC         2-0 (1-0)  Lommel SK
+[Sun Jan/23]
+  16.00  Excelsior Virton         0-4 (0-2)  Waasland-Beveren
+  20.00  Royal Excel Mouscron     0-0  Lierse Kempenzonen
+
+
+Matchday 15
+[Tue Jan/25]
+  20.00  RWDM Brussels FC         0-2 (0-0)  KVC Westerlo
+
+
+Matchday 18
+[Fri Jan/28]
+  20.00  Lommel SK                0-1 (0-1)  Lierse Kempenzonen
+[Sat Jan/29]
+  20.45  SK Deinze                2-1 (1-1)  Excelsior Virton
+[Sun Jan/30]
+  20.00  RWDM Brussels FC         2-0 (1-0)  Royal Excel Mouscron
+  16.00  Waasland-Beveren         2-1 (1-0)  KVC Westerlo
+
+
+Matchday 19
+[Fri Feb/4]
+  20.00  Lierse Kempenzonen       1-1 (1-1)  SK Deinze
+[Sat Feb/5]
+  20.45  Royal Excel Mouscron     3-0 (2-0)  Waasland-Beveren
+[Sun Feb/6]
+  16.00  Excelsior Virton         0-1 (0-1)  RWDM Brussels FC
+  20.00  KVC Westerlo             3-0 (1-0)  Lommel SK
+
+
+Matchday 17
+[Wed Feb/9]
+  18.45  KVC Westerlo             0-3 (0-1)  SK Deinze
+
+
+Matchday 20
+[Fri Feb/11]
+  20.00  Waasland-Beveren         0-1 (0-0)  Lierse Kempenzonen
+[Sat Feb/12]
+  20.45  KVC Westerlo             1-0 (0-0)  Royal Excel Mouscron
+[Sun Feb/13]
+  20.00  Lommel SK                3-0 (2-0)  Excelsior Virton
+  16.00  RWDM Brussels FC         1-0 (1-0)  SK Deinze
+
+
+Matchday 21
+[Sat Feb/19]
+  20.45  Waasland-Beveren         1-0 (0-0)  RWDM Brussels FC
+[Sun Feb/20]
+  20.00  Royal Excel Mouscron     2-1 (0-0)  Excelsior Virton
+  16.00  SK Deinze                1-1 (1-0)  Lommel SK
+
+
+Matchday 22
+[Fri Feb/25]
+  20.00  KVC Westerlo             2-1 (1-1)  Waasland-Beveren
+[Sat Feb/26]
+  20.45  Excelsior Virton         0-2 (0-1)  SK Deinze
+[Sun Feb/27]
+  16.00  Lommel SK                0-0  Royal Excel Mouscron
+  20.00  RWDM Brussels FC         3-1 (0-0)  Lierse Kempenzonen
+
+
+Matchday 23
+[Fri Mar/4]
+  20.00  SK Deinze                1-2 (0-1)  KVC Westerlo
+[Sat Mar/5]
+  20.45  Lierse Kempenzonen       0-2 (0-0)  Lommel SK
+[Sun Mar/6]
+  20.00  Waasland-Beveren         3-1 (0-1)  Excelsior Virton
+  16.00  Royal Excel Mouscron     0-1 (0-0)  RWDM Brussels FC
+
+
+Matchday 24
+[Fri Mar/11]
+  20.00  Excelsior Virton         1-0 (1-0)  KVC Westerlo
+[Sat Mar/12]
+  20.45  Lommel SK                0-0  RWDM Brussels FC
+[Sun Mar/13]
+  16.00  SK Deinze                3-3 (1-2)  Waasland-Beveren
+  20.00  Lierse Kempenzonen       0-1 (0-1)  Royal Excel Mouscron
+
+
+Matchday 21
+[Wed Mar/16]
+  18.45  Lierse Kempenzonen       1-0 (1-0)  KVC Westerlo
+
+
+Matchday 25
+[Fri Mar/18]
+  20.00  Royal Excel Mouscron     1-2 (0-0)  SK Deinze
+[Sat Mar/19]
+  20.45  Waasland-Beveren         1-1 (1-0)  Lommel SK
+[Sun Mar/20]
+  16.00  RWDM Brussels FC         3-0 (1-0)  Excelsior Virton
+  20.00  KVC Westerlo             2-0 (2-0)  Lierse Kempenzonen
+
+
+Matchday 26
+[Fri Apr/1]
+  20.00  Lierse Kempenzonen       2-0 (0-0)  Waasland-Beveren
+[Sat Apr/2]
+  20.45  Lommel SK                2-1 (2-1)  KVC Westerlo
+[Sun Apr/3]
+  20.00  SK Deinze                3-0 (1-0)  RWDM Brussels FC
+  16.00  Excelsior Virton         2-0 (0-0)  Royal Excel Mouscron
+
+
+Matchday 27
+[Fri Apr/8]
+  20.00  Excelsior Virton         2-3 (1-2)  Lommel SK
+         Royal Excel Mouscron     2-6 (1-2)  KVC Westerlo
+[Sat Apr/9]
+  16.00  SK Deinze                1-2 (0-1)  Lierse Kempenzonen
+  20.45  RWDM Brussels FC         2-1 (1-0)  Waasland-Beveren
+
+
+Matchday 28
+[Sat Apr/16]
+  20.00  Lommel SK                2-1 (2-0)  SK Deinze
+         KVC Westerlo             2-2 (1-0)  RWDM Brussels FC
+[Sun Apr/17]
+  20.00  Waasland-Beveren         2-0 (0-0)  Royal Excel Mouscron
+         Lierse Kempenzonen       1-1 (0-1)  Excelsior Virton

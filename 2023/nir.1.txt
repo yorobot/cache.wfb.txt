@@ -1,0 +1,96 @@
+= NIR 1 2023
+
+# Date       Fri Apr/7 - Sat May/13 2023 (36d)
+# Teams      12
+# Matches    33
+# Stages     Championship (15)  ECL Playoffs (3)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Fri Apr/7]
+  19.45  Cliftonville FC          2-2 (1-1)  Coleraine FC
+         Larne FC                 2-0 (2-0)  Glentoran FC
+         Linfield FC              0-0  Crusaders FC
+
+
+Matchday 2
+[Tue Apr/11]
+  19.45  Cliftonville FC          0-2 (0-1)  Larne FC
+         Crusaders FC             3-1 (0-1)  Coleraine FC
+[Wed Apr/12]
+  19.45  Linfield FC              1-1 (1-0)  Glentoran FC
+
+
+Matchday 3
+[Fri Apr/14]
+  19.45  Crusaders FC             0-2 (0-1)  Larne FC
+[Sat Apr/15]
+  15.00  Coleraine FC             0-1 (0-0)  Linfield FC
+         Glentoran FC             3-0 (3-0)  Cliftonville FC
+
+
+Matchday 4
+[Fri Apr/21]
+  19.45  Larne FC                 1-1 (1-0)  Linfield FC
+[Sat Apr/22]
+  15.00  Cliftonville FC          3-3 (0-1)  Crusaders FC
+         Glentoran FC             3-0 (3-0)  Coleraine FC
+
+
+Matchday 5
+[Sat Apr/29]
+  17.30  Cliftonville FC          0-2 (0-1)  Linfield FC
+         Coleraine FC             3-0 (0-0)  Larne FC
+         Crusaders FC             1-2 (0-1)  Glentoran FC
+
+
+== ECL Playoffs
+
+Semifinals
+[Wed May/10]
+  19.45  Glentoran FC             5-0 (2-0)  Glenavon FC
+         Cliftonville FC          2-1 (2-0)  Coleraine FC
+
+
+Final
+[Sat May/13]
+  16.30  Glentoran FC             2-0 (2-0)  Cliftonville FC
+
+
+== Relegation
+
+Matchday 1
+[Fri Apr/7]
+  19.45  Carrick Rangers          0-2 (0-2)  Newry City FC
+         Glenavon FC              1-1 (1-0)  Dungannon Swifts
+         Portadown FC             1-0 (1-0)  Ballymena United
+
+
+Matchday 2
+[Tue Apr/11]
+  19.45  Carrick Rangers          2-0 (1-0)  Dungannon Swifts
+         Glenavon FC              3-2 (1-0)  Ballymena United
+         Portadown FC             0-1 (0-1)  Newry City FC
+
+
+Matchday 3
+[Sat Apr/15]
+  15.00  Ballymena United         2-0 (0-0)  Dungannon Swifts
+         Newry City FC            0-1 (0-0)  Glenavon FC
+         Portadown FC             3-1 (2-0)  Carrick Rangers
+
+
+Matchday 4
+[Sat Apr/22]
+  15.00  Carrick Rangers          1-3 (0-1)  Glenavon FC
+         Dungannon Swifts         3-2 (1-0)  Portadown FC
+         Newry City FC            2-2 (1-1)  Ballymena United
+
+
+Matchday 5
+[Sat Apr/29]
+  17.30  Ballymena United         1-0 (0-0)  Carrick Rangers
+         Dungannon Swifts         2-1 (1-1)  Newry City FC
+         Glenavon FC              0-0  Portadown FC

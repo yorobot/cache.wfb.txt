@@ -1,0 +1,451 @@
+= IT 1 1991/92
+
+# Date       Sun Sep/1 1991 - Sun May/24 1992 (266d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sun Sep/1]
+         AS Bari                  1-1 (1-1)  Torino FC
+         Cagliari Calcio          3-2 (1-2)  Sampdoria
+         Genoa CFC                2-0 (2-0)  US Cremonese
+         Inter                    1-1 (0-0)  US Foggia
+         Juventus                 1-0 (1-0)  ACF Fiorentina
+         Lazio Roma               1-1 (0-0)  Parma AC
+         SSC Napoli               1-0 (0-0)  Atalanta
+         Hellas Verona            0-1 (0-0)  AS Roma
+         Ascoli Calcio            0-1 (0-1)  AC Milan
+
+
+Matchday 2
+[Sun Sep/8]
+         AS Roma                  0-1 (0-0)  Inter
+         Sampdoria                2-0 (1-0)  Hellas Verona
+         Parma AC                 1-0 (1-0)  AS Bari
+         AC Milan                 1-0 (1-0)  Cagliari Calcio
+         ACF Fiorentina           3-1 (2-0)  Genoa CFC
+         Atalanta                 1-1 (0-0)  Ascoli Calcio
+         US Cremonese             0-0  SSC Napoli
+         Torino FC                0-1 (0-0)  Lazio Roma
+         US Foggia                0-1 (0-0)  Juventus
+
+
+Matchday 3
+[Sun Sep/15]
+         ACF Fiorentina           1-2 (1-0)  US Foggia
+         SSC Napoli               2-2 (2-1)  Parma AC
+         Lazio Roma               1-1 (1-0)  Atalanta
+         Juventus                 1-1 (1-0)  AC Milan
+         Genoa CFC                1-0 (0-0)  Ascoli Calcio
+         US Cremonese             0-2 (0-0)  Torino FC
+         Cagliari Calcio          0-1 (0-0)  AS Roma
+         AS Bari                  1-1 (0-1)  Sampdoria
+         Inter                    2-0 (1-0)  Hellas Verona
+
+
+Matchday 4
+[Sun Sep/15]
+         AS Roma                  0-0  Genoa CFC
+         Atalanta                 0-0  Juventus
+         Hellas Verona            2-1 (2-1)  AS Bari
+         Torino FC                0-0  SSC Napoli
+         Sampdoria                4-0 (1-0)  Inter
+         Ascoli Calcio            1-4 (0-1)  Lazio Roma
+         US Foggia                3-1 (1-0)  Cagliari Calcio
+         AC Milan                 1-1 (0-0)  ACF Fiorentina
+         Parma AC                 1-1 (0-0)  US Cremonese
+
+
+Matchday 5
+[Sun Sep/29]
+         US Foggia                1-1 (0-0)  Parma AC
+         SSC Napoli               3-1 (1-0)  Hellas Verona
+         AC Milan                 1-1 (0-1)  Genoa CFC
+         Juventus                 2-0 (2-0)  AS Bari
+         Sampdoria                4-0 (4-0)  Ascoli Calcio
+         ACF Fiorentina           0-1 (0-1)  AS Roma
+         US Cremonese             1-2 (1-1)  Atalanta
+         Cagliari Calcio          0-1 (0-0)  Torino FC
+         Lazio Roma               0-1 (0-1)  Inter
+
+
+Matchday 6
+[Sun Oct/6]
+         Parma AC                 2-1 (1-0)  Sampdoria
+         Torino FC                3-1 (2-0)  US Foggia
+         Hellas Verona            2-0 (0-0)  Cagliari Calcio
+         AS Roma                  1-1 (0-0)  Lazio Roma
+         Inter                    1-1 (0-0)  ACF Fiorentina
+         Genoa CFC                2-1 (0-1)  Juventus
+         AS Bari                  0-0  US Cremonese
+         Ascoli Calcio            1-4 (1-1)  SSC Napoli
+         Atalanta                 0-2 (0-1)  AC Milan
+
+
+Matchday 7
+[Sun Oct/20]
+         US Cremonese             3-0 (1-0)  Hellas Verona
+         AC Milan                 2-0 (0-0)  Parma AC
+         Torino FC                1-1 (1-0)  AS Roma
+         Sampdoria                0-2 (0-0)  Atalanta
+         SSC Napoli               0-1 (0-1)  Juventus
+         Cagliari Calcio          1-1 (1-1)  Inter
+         ACF Fiorentina           2-0 (1-0)  AS Bari
+         US Foggia                1-0 (0-0)  Ascoli Calcio
+         Lazio Roma               1-1 (1-0)  Genoa CFC
+
+
+Matchday 8
+[Sun Oct/27]
+         Genoa CFC                0-0  Sampdoria
+         AS Roma                  1-1 (0-0)  US Foggia
+         Parma AC                 0-0  Torino FC
+         Inter                    0-0  SSC Napoli
+         Hellas Verona            0-2 (0-1)  Lazio Roma
+         AS Bari                  0-1 (0-1)  AC Milan
+         Atalanta                 0-1 (0-1)  Cagliari Calcio
+         Ascoli Calcio            0-0  ACF Fiorentina
+         Juventus                 2-0 (2-0)  US Cremonese
+
+
+Matchday 9
+[Sun Nov/3]
+         AC Milan                 4-1 (2-0)  AS Roma
+         Torino FC                0-0  Inter
+         Parma AC                 1-1 (0-0)  Hellas Verona
+         SSC Napoli               2-1 (2-1)  Sampdoria
+         Lazio Roma               1-1 (0-1)  Juventus
+         Genoa CFC                0-2 (0-0)  Atalanta
+         US Foggia                4-1 (2-1)  AS Bari
+         Ascoli Calcio            1-0 (0-0)  US Cremonese
+         ACF Fiorentina           1-0 (0-0)  Cagliari Calcio
+
+
+Matchday 10
+[Sun Nov/17]
+         US Cremonese             0-2 (0-2)  US Foggia
+         Sampdoria                0-2 (0-0)  AC Milan
+         AS Roma                  1-1 (1-0)  SSC Napoli
+         Hellas Verona            2-1 (1-1)  Genoa CFC
+         Cagliari Calcio          0-0  Parma AC
+         AS Bari                  1-2 (1-1)  Lazio Roma
+         Atalanta                 1-0 (1-0)  ACF Fiorentina
+         Juventus                 1-0 (1-0)  Torino FC
+         Inter                    2-1 (0-0)  Ascoli Calcio
+
+
+Matchday 11
+[Sun Nov/24]
+         AS Roma                  2-0 (0-0)  Sampdoria
+         Torino FC                0-0  Hellas Verona
+         Parma AC                 1-1 (1-1)  Inter
+         SSC Napoli               1-0 (0-0)  AS Bari
+         Genoa CFC                2-2 (1-1)  Cagliari Calcio
+         US Foggia                2-3 (1-2)  Atalanta
+         ACF Fiorentina           1-1 (1-0)  Lazio Roma
+         Ascoli Calcio            0-2 (0-1)  Juventus
+         AC Milan                 3-1 (2-0)  US Cremonese
+
+
+Matchday 12
+[Sun Dec/1]
+         US Cremonese             1-3 (0-0)  ACF Fiorentina
+         Hellas Verona            1-0 (0-0)  US Foggia
+         Sampdoria                0-0  Torino FC
+         Lazio Roma               3-3 (1-1)  SSC Napoli
+         Atalanta                 0-1 (0-1)  Parma AC
+         Inter                    1-1 (0-1)  AC Milan
+         Cagliari Calcio          2-0 (0-0)  Ascoli Calcio
+         AS Bari                  1-2 (0-1)  Genoa CFC
+         Juventus                 2-1 (1-0)  AS Roma
+
+
+Matchday 13
+[Sun Dec/8]
+         Juventus                 2-1 (1-0)  Inter
+         Genoa CFC                2-0 (1-0)  Parma AC
+         AS Roma                  1-1 (1-0)  Atalanta
+         AC Milan                 2-0 (1-0)  Torino FC
+         Ascoli Calcio            2-2 (2-0)  AS Bari
+         ACF Fiorentina           4-1 (2-0)  Hellas Verona
+         SSC Napoli               4-0 (2-0)  Cagliari Calcio
+         US Cremonese             2-0 (0-0)  Lazio Roma
+         US Foggia                0-0  Sampdoria
+
+
+Matchday 14
+[Sun Dec/15]
+         Torino FC                2-0 (1-0)  ACF Fiorentina
+         Hellas Verona            1-0 (0-0)  Ascoli Calcio
+         Sampdoria                1-0 (1-0)  Juventus
+         Parma AC                 3-1 (1-1)  AS Roma
+         Lazio Roma               1-1 (0-0)  AC Milan
+         Inter                    2-2 (1-0)  Genoa CFC
+         AS Bari                  0-0  Atalanta
+         Cagliari Calcio          0-0  US Cremonese
+         SSC Napoli               3-3 (2-1)  US Foggia
+
+
+Matchday 15
+[Sun Jan/5]
+         US Cremonese             0-1 (0-0)  Inter
+         AC Milan                 5-0 (3-0)  SSC Napoli
+         Lazio Roma               5-2 (3-2)  US Foggia
+         Juventus                 1-0 (0-0)  Parma AC
+         Ascoli Calcio            1-1 (1-0)  AS Roma
+         ACF Fiorentina           1-2 (0-1)  Sampdoria
+         AS Bari                  1-0 (0-0)  Cagliari Calcio
+         Atalanta                 0-0  Hellas Verona
+         Genoa CFC                1-1 (0-0)  Torino FC
+
+
+Matchday 16
+[Sun Jan/12]
+         Sampdoria                1-0 (1-0)  Lazio Roma
+         SSC Napoli               1-0 (0-0)  ACF Fiorentina
+         Hellas Verona            0-1 (0-1)  AC Milan
+         Torino FC                1-1 (1-0)  Atalanta
+         Cagliari Calcio          1-1 (1-1)  Juventus
+         AS Roma                  3-0 (1-0)  US Cremonese
+         Inter                    1-0 (0-0)  AS Bari
+         US Foggia                1-0 (1-0)  Genoa CFC
+         Parma AC                 2-0 (0-0)  Ascoli Calcio
+
+
+Matchday 17
+[Sun Jan/19]
+         Lazio Roma               2-1 (1-0)  Cagliari Calcio
+         AC Milan                 3-1 (1-0)  US Foggia
+         Juventus                 2-0 (1-0)  Hellas Verona
+         Genoa CFC                3-4 (1-3)  SSC Napoli
+         US Cremonese             0-1 (0-1)  Sampdoria
+         AS Bari                  2-1 (0-1)  AS Roma
+         Atalanta                 1-0 (1-0)  Inter
+         Ascoli Calcio            0-4 (0-2)  Torino FC
+         ACF Fiorentina           1-1 (1-0)  Parma AC
+
+
+Matchday 18
+[Sun Jan/26]
+         US Foggia                2-2 (0-1)  Inter
+         Torino FC                1-0 (0-0)  AS Bari
+         Sampdoria                1-1 (0-1)  Cagliari Calcio
+         AS Roma                  1-0 (1-0)  Hellas Verona
+         Atalanta                 1-1 (0-1)  SSC Napoli
+         AC Milan                 4-1 (2-0)  Ascoli Calcio
+         ACF Fiorentina           2-0 (1-0)  Juventus
+         US Cremonese             2-1 (1-0)  Genoa CFC
+         Parma AC                 1-0 (1-0)  Lazio Roma
+
+
+Matchday 19
+[Sun Feb/2]
+         SSC Napoli               3-0 (2-0)  US Cremonese
+         Hellas Verona            0-0  Sampdoria
+         Juventus                 4-1 (1-0)  US Foggia
+         Lazio Roma               2-1 (2-1)  Torino FC
+         Genoa CFC                3-2 (2-1)  ACF Fiorentina
+         Cagliari Calcio          1-4 (1-0)  AC Milan
+         AS Bari                  1-1 (0-1)  Parma AC
+         Ascoli Calcio            1-0 (0-0)  Atalanta
+         Inter                    0-0  AS Roma
+
+
+Matchday 20
+[Sun Feb/9]
+         Torino FC                2-0 (1-0)  US Cremonese
+         Hellas Verona            1-0 (1-0)  Inter
+         Sampdoria                1-1 (1-1)  AS Bari
+         AS Roma                  0-0  Cagliari Calcio
+         AC Milan                 1-1 (1-1)  Juventus
+         US Foggia                3-3 (3-1)  ACF Fiorentina
+         Ascoli Calcio            0-2 (0-0)  Genoa CFC
+         Atalanta                 1-0 (0-0)  Lazio Roma
+         Parma AC                 2-1 (1-1)  SSC Napoli
+
+
+Matchday 21
+[Sun Feb/16]
+         ACF Fiorentina           0-0  AC Milan
+         SSC Napoli               0-1 (0-0)  Torino FC
+         Lazio Roma               1-1 (0-0)  Ascoli Calcio
+         Juventus                 2-1 (1-0)  Atalanta
+         AS Bari                  2-1 (2-0)  Hellas Verona
+         Genoa CFC                1-1 (1-0)  AS Roma
+         US Cremonese             0-1 (0-1)  Parma AC
+         Cagliari Calcio          2-2 (1-1)  US Foggia
+         Inter                    0-0  Sampdoria
+
+
+Matchday 22
+[Sun Feb/23]
+         Parma AC                 2-0 (1-0)  US Foggia
+         Hellas Verona            0-1 (0-0)  SSC Napoli
+         Torino FC                1-0 (0-0)  Cagliari Calcio
+         AS Roma                  1-3 (0-1)  ACF Fiorentina
+         Genoa CFC                0-0  AC Milan
+         AS Bari                  0-0  Juventus
+         Atalanta                 1-1 (1-0)  US Cremonese
+         Ascoli Calcio            0-1 (0-1)  Sampdoria
+         Inter                    1-0 (1-0)  Lazio Roma
+
+
+Matchday 23
+[Sun Mar/1]
+         US Foggia                1-1 (0-1)  Torino FC
+         Cagliari Calcio          4-0 (2-0)  Hellas Verona
+         Sampdoria                2-0 (0-0)  Parma AC
+         SSC Napoli               5-1 (3-0)  Ascoli Calcio
+         AC Milan                 3-1 (3-1)  Atalanta
+         Juventus                 3-0 (1-0)  Genoa CFC
+         ACF Fiorentina           1-1 (0-1)  Inter
+         US Cremonese             1-1 (1-0)  AS Bari
+         Lazio Roma               1-1 (1-0)  AS Roma
+
+
+Matchday 24
+[Sun Mar/8]
+         Genoa CFC                1-0 (1-0)  Lazio Roma
+         AS Roma                  1-0 (0-0)  Torino FC
+         Parma AC                 1-3 (1-0)  AC Milan
+         Hellas Verona            2-2 (1-1)  US Cremonese
+         AS Bari                  1-0 (1-0)  ACF Fiorentina
+         Atalanta                 0-0  Sampdoria
+         Ascoli Calcio            2-1 (1-0)  US Foggia
+         Juventus                 3-1 (2-0)  SSC Napoli
+         Inter                    0-0  Cagliari Calcio
+
+
+Matchday 25
+[Sun Mar/15]
+         US Foggia                1-2 (0-1)  AS Roma
+         Torino FC                0-0  Parma AC
+         Sampdoria                2-2 (2-2)  Genoa CFC
+         SSC Napoli               1-1 (1-0)  Inter
+         Lazio Roma               2-0 (0-0)  Hellas Verona
+         ACF Fiorentina           1-2 (0-2)  Ascoli Calcio
+         US Cremonese             0-2 (0-1)  Juventus
+         Cagliari Calcio          0-0  Atalanta
+         AC Milan                 2-0 (1-0)  AS Bari
+
+
+Matchday 26
+[Sat Mar/28]
+         AS Roma                  1-1 (0-1)  AC Milan
+[Sun Mar/29]
+         US Cremonese             3-1 (1-0)  Ascoli Calcio
+         Hellas Verona            1-0 (1-0)  Parma AC
+         Sampdoria                1-1 (0-0)  SSC Napoli
+         Juventus                 1-1 (0-0)  Lazio Roma
+         Atalanta                 1-0 (0-0)  Genoa CFC
+         Cagliari Calcio          4-0 (0-0)  ACF Fiorentina
+         AS Bari                  1-3 (0-2)  US Foggia
+         Inter                    0-0  Torino FC
+
+
+Matchday 27
+[Sun Apr/5]
+         Parma AC                 1-1 (1-1)  Cagliari Calcio
+         Torino FC                2-0 (0-0)  Juventus
+         SSC Napoli               3-2 (0-2)  AS Roma
+         AC Milan                 5-1 (1-0)  Sampdoria
+         Genoa CFC                1-0 (1-0)  Hellas Verona
+         US Foggia                2-0 (1-0)  US Cremonese
+         Ascoli Calcio            1-2 (1-1)  Inter
+         ACF Fiorentina           3-0 (2-0)  Atalanta
+         Lazio Roma               3-1 (2-1)  AS Bari
+
+
+Matchday 28
+[Sat Apr/11]
+         US Cremonese             1-1 (0-1)  AC Milan
+[Sun Apr/12]
+         Hellas Verona            1-2 (1-1)  Torino FC
+         Sampdoria                1-1 (0-0)  AS Roma
+         Lazio Roma               1-1 (0-0)  ACF Fiorentina
+         Atalanta                 4-4 (1-1)  US Foggia
+         Inter                    0-0  Parma AC
+         Cagliari Calcio          1-1 (0-0)  Genoa CFC
+         AS Bari                  1-3 (1-0)  SSC Napoli
+         Juventus                 1-0 (0-0)  Ascoli Calcio
+
+
+Matchday 29
+[Sat Apr/18]
+         Parma AC                 0-0  Atalanta
+         Genoa CFC                1-3 (1-2)  AS Bari
+         Torino FC                1-1 (1-1)  Sampdoria
+         AS Roma                  1-1 (0-0)  Juventus
+         Ascoli Calcio            1-3 (1-1)  Cagliari Calcio
+         SSC Napoli               3-0 (1-0)  Lazio Roma
+         US Foggia                5-0 (2-0)  Hellas Verona
+         ACF Fiorentina           1-1 (0-1)  US Cremonese
+         AC Milan                 1-0 (0-0)  Inter
+
+
+Matchday 30
+[Sun Apr/26]
+         Torino FC                2-2 (1-1)  AC Milan
+         Hellas Verona            2-3 (0-1)  ACF Fiorentina
+         Sampdoria                1-1 (0-1)  US Foggia
+         Parma AC                 2-0 (0-0)  Genoa CFC
+         Inter                    1-3 (0-2)  Juventus
+         Cagliari Calcio          0-0  SSC Napoli
+         AS Bari                  2-1 (0-1)  Ascoli Calcio
+         Atalanta                 0-1 (0-0)  AS Roma
+         Lazio Roma               3-2 (2-1)  US Cremonese
+
+
+Matchday 31
+[Sun May/3]
+         ACF Fiorentina           0-0  Torino FC
+         AS Roma                  1-0 (0-0)  Parma AC
+         AC Milan                 2-0 (1-0)  Lazio Roma
+         Juventus                 0-0  Sampdoria
+         Ascoli Calcio            1-1 (0-0)  Hellas Verona
+         US Foggia                1-0 (0-0)  SSC Napoli
+         US Cremonese             0-1 (0-0)  Cagliari Calcio
+         Atalanta                 2-1 (0-1)  AS Bari
+         Genoa CFC                1-2 (0-0)  Inter
+
+
+Matchday 32
+[Sat May/9]
+         Sampdoria                2-0 (1-0)  ACF Fiorentina
+[Sun May/10]
+         Parma AC                 0-0  Juventus
+         Torino FC                4-0 (1-0)  Genoa CFC
+         AS Roma                  1-0 (0-0)  Ascoli Calcio
+         Inter                    0-2 (0-0)  US Cremonese
+         Hellas Verona            1-3 (0-2)  Atalanta
+         US Foggia                2-1 (0-0)  Lazio Roma
+         Cagliari Calcio          0-0  AS Bari
+         SSC Napoli               1-1 (0-1)  AC Milan
+
+
+Matchday 33
+[Sun May/17]
+         US Cremonese             1-2 (1-2)  AS Roma
+         AC Milan                 4-0 (1-0)  Hellas Verona
+         Lazio Roma               1-2 (1-1)  Sampdoria
+         Juventus                 0-0  Cagliari Calcio
+         ACF Fiorentina           4-2 (2-1)  SSC Napoli
+         AS Bari                  0-2 (0-1)  Inter
+         Atalanta                 1-3 (0-2)  Torino FC
+         Ascoli Calcio            2-3 (2-1)  Parma AC
+         Genoa CFC                0-2 (0-1)  US Foggia
+
+
+Matchday 34
+[Sun May/24]
+         Parma AC                 1-1 (0-1)  ACF Fiorentina
+         AS Roma                  2-0 (1-0)  AS Bari
+         Hellas Verona            3-3 (2-1)  Juventus
+         Sampdoria                2-2 (0-1)  US Cremonese
+         Cagliari Calcio          0-1 (0-0)  Lazio Roma
+         Inter                    0-0  Atalanta
+         US Foggia                2-8 (2-1)  AC Milan
+         SSC Napoli               1-0 (0-0)  Genoa CFC
+         Torino FC                5-2 (3-1)  Ascoli Calcio

@@ -1,0 +1,70 @@
+= NI 1 2024/25
+
+# Date       Sat Aug/3 - Mon Sep/16 2024 (44d)
+# Teams      10
+# Matches    30
+# Stages     Apertura (30)
+
+
+== Apertura
+
+Matchday 1
+[Sat Aug/3]
+  19.00  Real Estelí FC           -  Rancho Santana
+[Sun Aug/4]
+  15.00  H&H Export Sébaco        -  CD Walter Ferretti
+  17.00  UNAN Managua             -  ART Municipal Jalapa
+  19.00  Diriangén FC             -  Matagalpa FC
+  20.00  Managua FC               -  Club Deportivo Ocotal
+
+
+Matchday 2
+[Sat Aug/10]
+  15.00  Matagalpa FC             -  Club Deportivo Ocotal
+[Sun Aug/11]
+  15.00  ART Municipal Jalapa     -  Rancho Santana
+  19.00  Diriangén FC             -  UNAN Managua
+[Mon Aug/12]
+  16.00  CD Walter Ferretti       -  Real Estelí FC
+  19.00  Managua FC               -  H&H Export Sébaco
+
+
+Matchday 3
+[Sun Aug/18]
+  15.00  H&H Export Sébaco        -  Diriangén FC
+  17.00  Rancho Santana           -  Managua FC
+  19.00  Real Estelí FC           -  Matagalpa FC
+  20.00  CD Walter Ferretti       -  UNAN Managua
+[Mon Aug/19]
+  18.00  Club Deportivo Ocotal    -  ART Municipal Jalapa
+
+
+Matchday 4
+[Sun Aug/25]
+  15.00  H&H Export Sébaco        -  ART Municipal Jalapa
+  17.00  Rancho Santana           -  Matagalpa FC
+  19.00  Real Estelí FC           -  Club Deportivo Ocotal
+  20.00  UNAN Managua             -  Managua FC
+[Mon Aug/26]
+  18.00  Diriangén FC             -  CD Walter Ferretti
+
+
+Matchday 5
+[Sat Aug/31]
+  15.00  Matagalpa FC             -  H&H Export Sébaco
+[Sun Sep/1]
+  15.00  ART Municipal Jalapa     -  Real Estelí FC
+  19.00  Club Deportivo Ocotal    -  CD Walter Ferretti
+[Mon Sep/2]
+  16.00  UNAN Managua             -  Rancho Santana
+  19.00  Managua FC               -  Diriangén FC
+
+
+Matchday 6
+[Sun Sep/15]
+  15.00  H&H Export Sébaco        -  UNAN Managua
+  17.00  Managua FC               -  ART Municipal Jalapa
+  19.00  Diriangén FC             -  Real Estelí FC
+  20.00  CD Walter Ferretti       -  Matagalpa FC
+[Mon Sep/16]
+  18.00  Club Deportivo Ocotal    -  Rancho Santana

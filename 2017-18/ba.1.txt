@@ -1,0 +1,410 @@
+= BA 1 2017/18
+
+# Date       Sat Jul/22 2017 - Sun May/20 2018 (302d)
+# Teams      12
+# Matches    192
+# Stages     Regular Season (132)  Relegation (30)  Championship (30)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Jul/22]
+  17.00  Radnik Bijeljina         0-0  FK Krupa
+  17.30  FK Mladost Doboj-Kakanj  1-0 (1-0)  NK Vitez
+[Sun Jul/23]
+  19.00  FK Sarajevo              1-2 (1-1)  Zrinjski Mostar
+  19.30  Borac Banja Luka         2-0 (1-0)  Čelik Zenica
+  21.00  Široki Brijeg            2-0 (1-0)  Sloboda Tuzla
+[Mon Jul/24]
+  20.30  Željezničar Sarajevo     3-1 (2-0)  NK GOŠK Gabela
+
+
+Matchday 2
+[Sat Jul/29]
+  17.30  FK Mladost Doboj-Kakanj  2-1 (2-0)  Željezničar Sarajevo
+         NK Vitez                 1-1 (1-0)  FK Krupa
+  19.30  Sloboda Tuzla            0-1 (0-0)  Radnik Bijeljina
+  20.00  Zrinjski Mostar          1-0 (0-0)  Široki Brijeg
+[Sun Jul/30]
+  17.30  NK GOŠK Gabela           0-1 (0-1)  Borac Banja Luka
+  19.30  Čelik Zenica             0-2 (0-0)  FK Sarajevo
+
+
+Matchday 3
+[Fri Aug/4]
+  19.30  Široki Brijeg            4-0 (2-0)  Čelik Zenica
+[Sat Aug/5]
+  18.00  Radnik Bijeljina         2-1 (1-0)  Zrinjski Mostar
+  20.30  Željezničar Sarajevo     1-0 (0-0)  NK Vitez
+[Sun Aug/6]
+  17.00  FK Krupa                 0-0  Sloboda Tuzla
+  20.00  Borac Banja Luka         0-1 (0-1)  FK Mladost Doboj-Kakanj
+         FK Sarajevo              0-1 (0-0)  NK GOŠK Gabela
+
+
+Matchday 4
+[Sat Aug/12]
+  17.00  NK Vitez                 0-1 (0-0)  Sloboda Tuzla
+  20.00  Zrinjski Mostar          1-0 (0-0)  FK Krupa
+  20.30  Željezničar Sarajevo     2-1 (0-1)  Borac Banja Luka
+[Sun Aug/13]
+  16.30  Čelik Zenica             3-0 (2-0)  Radnik Bijeljina
+  17.30  NK GOŠK Gabela           2-1 (0-0)  Široki Brijeg
+         FK Mladost Doboj-Kakanj  1-1 (1-0)  FK Sarajevo
+
+
+Matchday 5
+[Sat Aug/19]
+  17.00  FK Krupa                 1-0 (0-0)  Čelik Zenica
+  20.00  FK Sarajevo              0-1 (0-1)  Željezničar Sarajevo
+[Sun Aug/20]
+  17.00  Radnik Bijeljina         3-1 (0-0)  NK GOŠK Gabela
+  20.00  Borac Banja Luka         1-0 (1-0)  NK Vitez
+         Široki Brijeg            3-1 (1-1)  FK Mladost Doboj-Kakanj
+         Sloboda Tuzla            0-2 (0-1)  Zrinjski Mostar
+
+
+Matchday 6
+[Sat Aug/26]
+  17.00  FK Mladost Doboj-Kakanj  3-0 (1-0)  Radnik Bijeljina
+         NK Vitez                 2-3 (1-1)  Zrinjski Mostar
+  20.00  Željezničar Sarajevo     0-0  Široki Brijeg
+[Sun Aug/27]
+  17.00  Čelik Zenica             2-2 (0-0)  Sloboda Tuzla
+         NK GOŠK Gabela           0-1 (0-0)  FK Krupa
+  20.00  Borac Banja Luka         1-1 (0-0)  FK Sarajevo
+
+
+Matchday 7
+[Sat Sep/9]
+  16.30  FK Sarajevo              4-0 (0-0)  NK Vitez
+  19.30  Sloboda Tuzla            0-1 (0-1)  NK GOŠK Gabela
+         Zrinjski Mostar          5-2 (4-2)  Čelik Zenica
+[Sun Sep/10]
+  16.00  FK Krupa                 3-1 (2-0)  FK Mladost Doboj-Kakanj
+  16.30  Radnik Bijeljina         0-2 (0-2)  Željezničar Sarajevo
+  20.00  Široki Brijeg            2-0 (1-0)  Borac Banja Luka
+
+
+Matchday 8
+[Sat Sep/16]
+  16.00  FK Mladost Doboj-Kakanj  1-1 (1-1)  Sloboda Tuzla
+  16.30  NK GOŠK Gabela           0-2 (0-1)  Zrinjski Mostar
+         NK Vitez                 2-0 (1-0)  Čelik Zenica
+  19.00  FK Sarajevo              2-0 (1-0)  Široki Brijeg
+[Sun Sep/17]
+  19.00  Borac Banja Luka         1-0 (0-0)  Radnik Bijeljina
+  19.30  Željezničar Sarajevo     4-1 (2-0)  FK Krupa
+
+
+Matchday 9
+[Sat Sep/23]
+  16.00  Čelik Zenica             2-0 (2-0)  NK GOŠK Gabela
+         Radnik Bijeljina         1-4 (0-1)  FK Sarajevo
+  17.00  Zrinjski Mostar          2-0 (1-0)  FK Mladost Doboj-Kakanj
+  19.00  Sloboda Tuzla            1-0 (1-0)  Željezničar Sarajevo
+[Sun Sep/24]
+  15.30  FK Krupa                 2-0 (0-0)  Borac Banja Luka
+  16.00  Široki Brijeg            1-0 (0-0)  NK Vitez
+
+
+Matchday 10
+[Sat Sep/30]
+  16.00  Široki Brijeg            1-0 (0-0)  Radnik Bijeljina
+         NK Vitez                 0-3 (0-2)  NK GOŠK Gabela
+  20.00  Željezničar Sarajevo     0-1 (0-1)  Zrinjski Mostar
+[Sun Oct/1]
+  16.00  FK Sarajevo              2-3 (0-1)  FK Krupa
+  18.00  Borac Banja Luka         1-0 (1-0)  Sloboda Tuzla
+[Mon Oct/2]
+  16.00  FK Mladost Doboj-Kakanj  4-0 (2-0)  Čelik Zenica
+
+
+Matchday 11
+[Sat Oct/14]
+  15.30  FK Krupa                 1-2 (1-2)  Široki Brijeg
+         Radnik Bijeljina         2-0 (2-0)  NK Vitez
+  17.00  Zrinjski Mostar          0-0  Borac Banja Luka
+  18.00  Sloboda Tuzla            1-3 (0-1)  FK Sarajevo
+[Sun Oct/15]
+  15.30  NK GOŠK Gabela           2-2 (1-0)  FK Mladost Doboj-Kakanj
+  18.00  Čelik Zenica             0-3 (0-1)  Željezničar Sarajevo
+
+
+Matchday 12
+[Sat Oct/21]
+  15.00  Čelik Zenica             1-0 (1-0)  Borac Banja Luka
+         FK Krupa                 1-1 (0-0)  Radnik Bijeljina
+         NK Vitez                 2-2 (0-1)  FK Mladost Doboj-Kakanj
+  17.00  Sloboda Tuzla            0-3 (0-2)  Široki Brijeg
+  19.00  Zrinjski Mostar          1-3 (0-2)  FK Sarajevo
+[Sun Oct/22]
+  15.00  NK GOŠK Gabela           0-1 (0-1)  Željezničar Sarajevo
+
+
+Matchday 13
+[Sat Oct/28]
+  13.30  FK Krupa                 3-0 (2-0)  NK Vitez
+         Radnik Bijeljina         1-0 (1-0)  Sloboda Tuzla
+  16.30  Željezničar Sarajevo     2-0 (2-0)  FK Mladost Doboj-Kakanj
+  18.00  Borac Banja Luka         1-0 (1-0)  NK GOŠK Gabela
+[Sun Oct/29]
+  16.30  Široki Brijeg            2-1 (0-1)  Zrinjski Mostar
+  19.00  FK Sarajevo              5-0 (4-0)  Čelik Zenica
+
+
+Matchday 14
+[Sat Nov/4]
+  13.30  Čelik Zenica             1-4 (1-3)  Široki Brijeg
+         FK Mladost Doboj-Kakanj  2-1 (1-0)  Borac Banja Luka
+         NK Vitez                 1-1 (1-0)  Željezničar Sarajevo
+         Sloboda Tuzla            2-2 (1-0)  FK Krupa
+  14.30  Zrinjski Mostar          3-0 (1-0)  Radnik Bijeljina
+[Sun Nov/5]
+  13.30  NK GOŠK Gabela           0-2 (0-1)  FK Sarajevo
+
+
+Matchday 15
+[Sat Nov/18]
+  13.00  FK Krupa                 1-0 (1-0)  Zrinjski Mostar
+         Radnik Bijeljina         3-1 (1-0)  Čelik Zenica
+         Sloboda Tuzla            4-0 (2-0)  NK Vitez
+  16.00  FK Sarajevo              4-2 (2-1)  FK Mladost Doboj-Kakanj
+[Sun Nov/19]
+  16.00  Široki Brijeg            3-0 (2-0)  NK GOŠK Gabela
+  18.00  Borac Banja Luka         0-1 (0-0)  Željezničar Sarajevo
+
+
+Matchday 16
+[Sat Nov/25]
+  13.00  Čelik Zenica             0-2 (0-2)  FK Krupa
+         FK Mladost Doboj-Kakanj  0-0  Široki Brijeg
+         NK Vitez                 0-0  Borac Banja Luka
+  15.00  Zrinjski Mostar          2-0 (1-0)  Sloboda Tuzla
+[Sun Nov/26]
+  13.00  NK GOŠK Gabela           0-1 (0-1)  Radnik Bijeljina
+[Mon Nov/27]
+  13.00  Željezničar Sarajevo     2-1 (1-0)  FK Sarajevo
+
+
+Matchday 17
+[Sat Dec/2]
+  13.00  FK Krupa                 1-1 (0-0)  NK GOŠK Gabela
+         FK Sarajevo              3-0 (2-0)  Borac Banja Luka
+  14.00  Zrinjski Mostar          3-0 (0-0)  NK Vitez
+[Sun Dec/3]
+  13.00  Radnik Bijeljina         0-0  FK Mladost Doboj-Kakanj
+  16.00  Široki Brijeg            1-2 (1-1)  Željezničar Sarajevo
+[Mon Dec/4]
+  13.00  Sloboda Tuzla            3-0 (2-0)  Čelik Zenica
+
+
+Matchday 18
+[Fri Dec/8]
+  13.00  NK GOŠK Gabela           2-0 (2-0)  Sloboda Tuzla
+[Sat Dec/9]
+  13.00  Čelik Zenica             1-3 (1-2)  Zrinjski Mostar
+[Sun Dec/10]
+  13.00  Borac Banja Luka         2-1 (1-0)  Široki Brijeg
+         FK Mladost Doboj-Kakanj  1-1 (0-0)  FK Krupa
+  13.40  NK Vitez                 0-3 (0-2)  FK Sarajevo
+  14.00  Željezničar Sarajevo     3-2 (0-2)  Radnik Bijeljina
+
+
+Matchday 19
+[Sat Feb/17]
+  14.30  FK Krupa                 2-4 (1-2)  Željezničar Sarajevo
+         Sloboda Tuzla            2-0 (0-0)  FK Mladost Doboj-Kakanj
+         Zrinjski Mostar          3-2 (0-1)  NK GOŠK Gabela
+  17.30  Čelik Zenica             1-0 (1-0)  NK Vitez
+[Sun Feb/18]
+  14.30  Radnik Bijeljina         3-0 (2-0)  Borac Banja Luka
+  17.30  Široki Brijeg            2-1 (0-0)  FK Sarajevo
+
+
+Matchday 20
+[Sat Feb/24]
+  14.30  FK Mladost Doboj-Kakanj  1-2 (0-2)  Zrinjski Mostar
+         NK Vitez                 1-4 (0-3)  Široki Brijeg
+         Željezničar Sarajevo     1-0 (0-0)  Sloboda Tuzla
+[Sun Feb/25]
+  14.30  FK Sarajevo              0-0  Radnik Bijeljina
+         NK GOŠK Gabela           3-2 (2-2)  Čelik Zenica
+  15.30  Borac Banja Luka         0-1 (0-0)  FK Krupa
+
+
+Matchday 21
+[Sat Mar/3]
+  14.30  Čelik Zenica             0-3 (0-0)  FK Mladost Doboj-Kakanj
+         FK Krupa                 1-2 (1-1)  FK Sarajevo
+         NK GOŠK Gabela           2-0 (1-0)  NK Vitez
+         Radnik Bijeljina         1-0 (1-0)  Široki Brijeg
+         Sloboda Tuzla            1-1 (0-0)  Borac Banja Luka
+         Zrinjski Mostar          1-0 (1-0)  Željezničar Sarajevo
+
+
+Matchday 22
+[Wed Mar/7]
+  15.00  Borac Banja Luka         1-1 (0-0)  Zrinjski Mostar
+         FK Sarajevo              0-0  Sloboda Tuzla
+         FK Mladost Doboj-Kakanj  1-1 (1-0)  NK GOŠK Gabela
+         Široki Brijeg            1-1 (1-0)  FK Krupa
+         NK Vitez                 0-0  Radnik Bijeljina
+         Željezničar Sarajevo     3-1 (1-0)  Čelik Zenica
+
+
+== Relegation
+
+Matchday 23
+[Sat Mar/10]
+  15.00  FK Mladost Doboj-Kakanj  1-0 (0-0)  NK Vitez
+[Sun Mar/11]
+  15.00  Borac Banja Luka         0-0  Čelik Zenica
+         NK GOŠK Gabela           0-0  Sloboda Tuzla
+
+
+Matchday 24
+[Sat Mar/17]
+  15.00  FK Mladost Doboj-Kakanj  2-0 (0-0)  Borac Banja Luka
+         NK Vitez                 0-3 (0-2)  Sloboda Tuzla
+  17.00  Čelik Zenica             2-0 (1-0)  NK GOŠK Gabela
+
+
+Matchday 25
+[Sat Mar/31]
+  16.00  Borac Banja Luka         1-0 (0-0)  NK Vitez
+         NK GOŠK Gabela           1-0 (0-0)  FK Mladost Doboj-Kakanj
+         Sloboda Tuzla            1-1 (1-0)  Čelik Zenica
+
+
+Matchday 26
+[Sat Apr/7]
+  16.30  FK Mladost Doboj-Kakanj  1-1 (1-1)  Sloboda Tuzla
+  18.00  Borac Banja Luka         0-0  NK GOŠK Gabela
+[Mon Apr/9]
+  16.30  NK Vitez                 0-4 (0-2)  Čelik Zenica
+
+
+Matchday 27
+[Sat Apr/14]
+  16.30  Sloboda Tuzla            1-0 (1-0)  Borac Banja Luka
+  18.00  Čelik Zenica             2-1 (1-1)  FK Mladost Doboj-Kakanj
+[Sun Apr/15]
+  16.30  NK GOŠK Gabela           1-1 (0-0)  NK Vitez
+
+
+Matchday 28
+[Sat Apr/21]
+  17.00  Čelik Zenica             1-1 (0-0)  Borac Banja Luka
+         NK Vitez                 1-2 (1-2)  FK Mladost Doboj-Kakanj
+[Sun Apr/22]
+  17.00  Sloboda Tuzla            1-2 (0-1)  NK GOŠK Gabela
+
+
+Matchday 29
+[Sat Apr/28]
+  19.00  Sloboda Tuzla            2-0 (1-0)  NK Vitez
+         Borac Banja Luka         4-2 (1-1)  FK Mladost Doboj-Kakanj
+[Sun Apr/29]
+  16.30  NK GOŠK Gabela           1-0 (0-0)  Čelik Zenica
+
+
+Matchday 30
+[Sat May/5]
+  17.00  Čelik Zenica             0-2 (0-2)  Sloboda Tuzla
+         FK Mladost Doboj-Kakanj  1-2 (1-2)  NK GOŠK Gabela
+         NK Vitez                 2-0 (1-0)  Borac Banja Luka
+
+
+Matchday 31
+[Sat May/12]
+  17.00  Čelik Zenica             0-1 (0-1)  NK Vitez
+         NK GOŠK Gabela           1-0 (1-0)  Borac Banja Luka
+         Sloboda Tuzla            2-3 (0-3)  FK Mladost Doboj-Kakanj
+
+
+Matchday 32
+[Sat May/19]
+  17.00  Borac Banja Luka         2-0 (1-0)  Sloboda Tuzla
+         FK Mladost Doboj-Kakanj  0-3 (0-1)  Čelik Zenica
+         NK Vitez                 1-2 (0-1)  NK GOŠK Gabela
+
+
+== Championship
+
+Matchday 23
+[Sat Mar/10]
+  15.00  Zrinjski Mostar          1-1 (0-1)  Radnik Bijeljina
+[Sun Mar/11]
+  15.00  Željezničar Sarajevo     1-0 (0-0)  FK Krupa
+  18.00  Široki Brijeg            1-0 (0-0)  FK Sarajevo
+
+
+Matchday 24
+[Sat Mar/17]
+  15.00  FK Krupa                 0-0  Široki Brijeg
+         Zrinjski Mostar          3-3 (0-2)  Željezničar Sarajevo
+[Sun Mar/18]
+  15.00  Radnik Bijeljina         1-0 (0-0)  FK Sarajevo
+
+
+Matchday 25
+[Sat Mar/31]
+  16.00  Široki Brijeg            0-0  Zrinjski Mostar
+         Željezničar Sarajevo     2-1 (2-0)  Radnik Bijeljina
+  18.00  FK Sarajevo              1-0 (1-0)  FK Krupa
+
+
+Matchday 26
+[Sat Apr/7]
+  16.30  Radnik Bijeljina         1-1 (0-0)  FK Krupa
+         Željezničar Sarajevo     1-1 (0-1)  Široki Brijeg
+  18.30  Zrinjski Mostar          1-0 (0-0)  FK Sarajevo
+
+
+Matchday 27
+[Sat Apr/14]
+  16.30  FK Krupa                 0-1 (0-0)  Zrinjski Mostar
+[Sun Apr/15]
+  16.30  FK Sarajevo              0-0  Željezničar Sarajevo
+  19.30  Široki Brijeg            1-1 (0-0)  Radnik Bijeljina
+
+
+Matchday 28
+[Sat Apr/21]
+  16.30  Radnik Bijeljina         1-2 (1-1)  Zrinjski Mostar
+  17.00  FK Krupa                 2-0 (1-0)  Željezničar Sarajevo
+[Sun Apr/22]
+  17.00  FK Sarajevo              2-0 (0-0)  Široki Brijeg
+
+
+Matchday 29
+[Fri Apr/27]
+  19.00  Željezničar Sarajevo     2-2 (0-0)  Zrinjski Mostar
+[Sat Apr/28]
+  17.00  Široki Brijeg            5-0 (4-0)  FK Krupa
+[Sun Apr/29]
+  17.00  FK Sarajevo              3-1 (2-0)  Radnik Bijeljina
+
+
+Matchday 30
+[Sat May/5]
+  14.00  FK Krupa                 2-3 (1-2)  FK Sarajevo
+  16.30  Radnik Bijeljina         1-0 (0-0)  Željezničar Sarajevo
+  17.00  Zrinjski Mostar          3-1 (1-0)  Široki Brijeg
+
+
+Matchday 31
+[Sun May/13]
+  17.00  FK Krupa                 1-3 (0-1)  Radnik Bijeljina
+         FK Sarajevo              4-1 (3-0)  Zrinjski Mostar
+         Široki Brijeg            3-1 (2-1)  Željezničar Sarajevo
+
+
+Matchday 32
+[Sat May/19]
+  17.00  Željezničar Sarajevo     2-1 (2-1)  FK Sarajevo
+[Sun May/20]
+  17.00  Radnik Bijeljina         3-3 (1-1)  Široki Brijeg
+         Zrinjski Mostar          4-0 (3-0)  FK Krupa

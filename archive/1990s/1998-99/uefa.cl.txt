@@ -1,0 +1,145 @@
+= UEFA CL 1998/99
+
+# Date       Wed Sep/16 1998 - Wed May/26 1999 (252d)
+# Teams      24
+# Matches    85
+
+
+
+Group
+[Wed Sep/16]
+  20.45  FC Porto (POR)           2-2 (0-0)  Olympiakos Piraeus (GRE)
+         Croatia Zagreb (CRO)     0-0  AFC Ajax (NED)
+[Wed Sep/30]
+  20.45  AFC Ajax (NED)           2-1 (0-0)  FC Porto (POR)
+         Olympiakos Piraeus (GRE)  2-0 (1-0)  Croatia Zagreb (CRO)
+[Wed Oct/21]
+  20.45  Olympiakos Piraeus (GRE)  1-0 (1-0)  AFC Ajax (NED)
+         FC Porto (POR)           3-0 (2-0)  Croatia Zagreb (CRO)
+[Wed Nov/4]
+  20.45  AFC Ajax (NED)           2-0 (1-0)  Olympiakos Piraeus (GRE)
+         Croatia Zagreb (CRO)     3-1 (2-1)  FC Porto (POR)
+[Wed Nov/25]
+  20.45  Olympiakos Piraeus (GRE)  2-1 (1-0)  FC Porto (POR)
+         AFC Ajax (NED)           0-1 (0-0)  Croatia Zagreb (CRO)
+[Wed Dec/9]
+  20.45  FC Porto (POR)           3-0 (0-0)  AFC Ajax (NED)
+         Croatia Zagreb (CRO)     1-1 (1-0)  Olympiakos Piraeus (GRE)
+[Wed Sep/16]
+  20.45  Athletic Bilbao (ESP)    1-1 (1-0)  Rosenborg BK (NOR)
+         Juventus (ITA)           2-2 (1-1)  Galatasaray (TUR)
+[Wed Sep/30]
+  20.45  Galatasaray (TUR)        2-1 (1-1)  Athletic Bilbao (ESP)
+         Rosenborg BK (NOR)       1-1 (0-1)  Juventus (ITA)
+[Wed Oct/21]
+  20.45  Athletic Bilbao (ESP)    0-0  Juventus (ITA)
+         Rosenborg BK (NOR)       3-0 (0-0)  Galatasaray (TUR)
+[Wed Nov/4]
+  20.45  Juventus (ITA)           1-1 (0-1)  Athletic Bilbao (ESP)
+         Galatasaray (TUR)        3-0 (0-0)  Rosenborg BK (NOR)
+[Wed Nov/25]
+  20.45  Rosenborg BK (NOR)       2-1 (1-0)  Athletic Bilbao (ESP)
+[Wed Dec/2]
+  20.45  Galatasaray (TUR)        1-1 (0-0)  Juventus (ITA)
+[Wed Dec/9]
+  20.45  Athletic Bilbao (ESP)    1-0 (1-0)  Galatasaray (TUR)
+         Juventus (ITA)           2-0 (2-0)  Rosenborg BK (NOR)
+[Wed Sep/16]
+  20.45  Real Madrid (ESP)        2-0 (0-0)  Inter (ITA)
+         Sturm Graz (AUT)         0-2 (0-0)  Spartak Moskva (RUS)
+[Wed Sep/30]
+  17.45  Spartak Moskva (RUS)     2-1 (0-0)  Real Madrid (ESP)
+  20.45  Inter (ITA)              1-0 (0-0)  Sturm Graz (AUT)
+[Wed Oct/21]
+  20.45  Inter (ITA)              2-1 (1-0)  Spartak Moskva (RUS)
+         Real Madrid (ESP)        6-1 (2-1)  Sturm Graz (AUT)
+[Wed Nov/4]
+  17.45  Spartak Moskva (RUS)     1-1 (0-0)  Inter (ITA)
+  20.00  Sturm Graz (AUT)         1-5 (1-2)  Real Madrid (ESP)
+[Wed Nov/25]
+  17.45  Spartak Moskva (RUS)     0-0  Sturm Graz (AUT)
+  20.45  Inter (ITA)              3-1 (0-0)  Real Madrid (ESP)
+[Wed Dec/9]
+  20.45  Sturm Graz (AUT)         0-2 (0-0)  Inter (ITA)
+         Real Madrid (ESP)        2-1 (1-0)  Spartak Moskva (RUS)
+[Wed Sep/16]
+  20.45  Brøndby IF (DEN)         2-1 (0-0)  Bayern München (GER)
+         Manchester United (ENG)  3-3 (2-0)  FC Barcelona (ESP)
+[Wed Sep/30]
+  20.45  FC Barcelona (ESP)       2-0 (1-0)  Brøndby IF (DEN)
+         Bayern München (GER)     2-2 (1-1)  Manchester United (ENG)
+[Wed Oct/21]
+  20.45  Bayern München (GER)     1-0 (1-0)  FC Barcelona (ESP)
+         Brøndby IF (DEN)         2-6 (1-3)  Manchester United (ENG)
+[Wed Nov/4]
+  20.45  FC Barcelona (ESP)       1-2 (1-0)  Bayern München (GER)
+         Manchester United (ENG)  5-0 (4-0)  Brøndby IF (DEN)
+[Wed Nov/25]
+  20.45  Bayern München (GER)     2-0 (0-0)  Brøndby IF (DEN)
+         FC Barcelona (ESP)       3-3 (1-1)  Manchester United (ENG)
+[Wed Dec/9]
+  20.45  Brøndby IF (DEN)         0-2 (0-2)  FC Barcelona (ESP)
+         Manchester United (ENG)  1-1 (1-0)  Bayern München (GER)
+[Wed Sep/16]
+  20.45  Panathinaikos (GRE)      2-1 (0-1)  Dinamo Kiev (UKR)
+         RC Lens (FRA)            1-1 (0-0)  Arsenal FC (ENG)
+[Wed Sep/30]
+  20.45  Arsenal FC (ENG)         2-1 (0-0)  Panathinaikos (GRE)
+         Dinamo Kiev (UKR)        1-1 (0-0)  RC Lens (FRA)
+[Wed Oct/21]
+  20.45  Arsenal FC (ENG)         1-1 (0-0)  Dinamo Kiev (UKR)
+         RC Lens (FRA)            1-0 (0-0)  Panathinaikos (GRE)
+[Wed Nov/4]
+  20.45  Dinamo Kiev (UKR)        3-1 (1-0)  Arsenal FC (ENG)
+         Panathinaikos (GRE)      1-0 (0-0)  RC Lens (FRA)
+[Wed Nov/25]
+  18.45  Dinamo Kiev (UKR)        2-1 (0-1)  Panathinaikos (GRE)
+  20.45  Arsenal FC (ENG)         0-1 (0-0)  RC Lens (FRA)
+[Wed Dec/9]
+  20.45  RC Lens (FRA)            1-3 (0-0)  Dinamo Kiev (UKR)
+  21.45  Panathinaikos (GRE)      1-3 (0-0)  Arsenal FC (ENG)
+[Wed Sep/16]
+  20.45  1. FC Kaiserslautern (GER)  1-0 (1-0)  SL Benfica (POR)
+         PSV Eindhoven (NED)      2-1 (0-1)  HJK Helsinki (FIN)
+[Wed Sep/30]
+  19.45  SL Benfica (POR)         2-1 (0-0)  PSV Eindhoven (NED)
+  20.45  HJK Helsinki (FIN)       0-0  1. FC Kaiserslautern (GER)
+[Wed Oct/21]
+  20.45  HJK Helsinki (FIN)       2-0 (1-0)  SL Benfica (POR)
+         PSV Eindhoven (NED)      1-2 (0-0)  1. FC Kaiserslautern (GER)
+[Wed Nov/4]
+  20.45  SL Benfica (POR)         2-2 (0-1)  HJK Helsinki (FIN)
+         1. FC Kaiserslautern (GER)  3-1 (0-1)  PSV Eindhoven (NED)
+[Wed Nov/25]
+  18.45  HJK Helsinki (FIN)       1-3 (0-1)  PSV Eindhoven (NED)
+  20.45  SL Benfica (POR)         2-1 (1-0)  1. FC Kaiserslautern (GER)
+[Wed Dec/9]
+  20.45  PSV Eindhoven (NED)      2-2 (1-0)  SL Benfica (POR)
+         1. FC Kaiserslautern (GER)  5-2 (1-1)  HJK Helsinki (FIN)
+
+
+Quarterfinals
+[Wed Mar/3]
+  20.45  Bayern München (GER)     2-0 (2-0)  1. FC Kaiserslautern (GER)
+         Juventus (ITA)           2-1 (1-0)  Olympiakos Piraeus (GRE)
+         Manchester United (ENG)  2-0 (2-0)  Inter (ITA)
+         Real Madrid (ESP)        1-1 (0-0)  Dinamo Kiev (UKR)
+[Wed Mar/17]
+  20.45  1. FC Kaiserslautern (GER)  0-4 (0-3)  Bayern München (GER)
+         Olympiakos Piraeus (GRE)  1-1 (1-0)  Juventus (ITA)
+         Inter (ITA)              1-1 (0-0)  Manchester United (ENG)
+         Dinamo Kiev (UKR)        2-0 (0-0)  Real Madrid (ESP)
+
+
+Semifinals
+[Wed Apr/7]
+  20.45  Dinamo Kiev (UKR)        3-3 (2-1)  Bayern München (GER)
+         Manchester United (ENG)  1-1 (0-1)  Juventus (ITA)
+[Wed Apr/21]
+  20.45  Bayern München (GER)     1-0 (1-0)  Dinamo Kiev (UKR)
+         Juventus (ITA)           2-3 (2-2)  Manchester United (ENG)
+
+
+Final
+[Wed May/26]
+  20.45  Manchester United (ENG)  2-1 (0-1)  Bayern München (GER)

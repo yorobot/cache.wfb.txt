@@ -1,0 +1,538 @@
+= ES 2 1991/92
+
+# Date       Sun Sep/1 1991 - Sun May/24 1992 (266d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Sep/1]
+         Real Madrid B            1-0  FC Barcelona B
+         Racing Santander         3-0  Bilbao Athletic Club
+         Real Betis               2-0  CE Sabadell
+         SD Eibar                 1-0  Sestao SC
+         UE Figueres              2-0  CP Mérida
+         SD Compostela            0-2  CD Castellón
+         Real Murcia              2-1  CD Málaga
+         Rayo Vallecano           3-0  UD Las Palmas
+         RC Celta                 3-0  UE Lleida
+         Real Avilés              1-0  Palamós CF
+
+
+Matchday 2
+[Sun Sep/8]
+         FC Barcelona B           0-3  Rayo Vallecano
+         Bilbao Athletic Club     3-3  Real Betis
+         CP Mérida                1-0  SD Eibar
+         UE Lleida                2-0  Real Murcia
+         Palamós CF               2-2  Real Madrid B
+         CD Castellón             0-2  RC Celta
+         Sestao SC                1-2  Racing Santander
+         CE Sabadell              0-0  Real Avilés
+         UD Las Palmas            0-0  SD Compostela
+         CD Málaga                0-5  UE Figueres
+
+
+Matchday 3
+[Sun Sep/15]
+         Real Madrid B            2-1  CE Sabadell
+         Racing Santander         0-1  Real Betis
+         SD Eibar                 1-0  CD Málaga
+         UE Figueres              1-3  UE Lleida
+         SD Compostela            1-1  FC Barcelona B
+         Sestao SC                2-1  CP Mérida
+         Real Murcia              3-0  CD Castellón
+         Rayo Vallecano           4-0  Palamós CF
+         RC Celta                 3-0  UD Las Palmas
+         Real Avilés              1-1  Bilbao Athletic Club
+
+
+Matchday 4
+[Sun Sep/22]
+         FC Barcelona B           4-1  RC Celta
+         Bilbao Athletic Club     0-0  Real Madrid B
+         CP Mérida                1-1  Racing Santander
+         Real Betis               2-0  Real Avilés
+         UE Lleida                2-0  SD Eibar
+         Palamós CF               0-3  SD Compostela
+         CD Castellón             1-3  UE Figueres
+         CE Sabadell              1-2  Rayo Vallecano
+         UD Las Palmas            1-1  Real Murcia
+         CD Málaga                0-0  Sestao SC
+
+
+Matchday 5
+[Sun Sep/29]
+         Real Madrid B            3-1  Real Betis
+         CP Mérida                3-0  CD Málaga
+         Racing Santander         1-0  Real Avilés
+         SD Eibar                 1-0  CD Castellón
+         UE Figueres              1-1  UD Las Palmas
+         SD Compostela            0-1  CE Sabadell
+         Sestao SC                0-0  UE Lleida
+         Real Murcia              2-1  FC Barcelona B
+         Rayo Vallecano           1-0  Bilbao Athletic Club
+         RC Celta                 3-0  Palamós CF
+
+
+Matchday 6
+[Sun Oct/6]
+         FC Barcelona B           0-0  UE Figueres
+         Bilbao Athletic Club     0-0  SD Compostela
+         Real Betis               4-2  Rayo Vallecano
+         UE Lleida                2-2  CP Mérida
+         Palamós CF               2-2  Real Murcia
+         CD Castellón             2-0  Sestao SC
+         CE Sabadell              0-1  RC Celta
+         UD Las Palmas            0-1  SD Eibar
+         CD Málaga                2-1  Racing Santander
+         Real Avilés              3-0  Real Madrid B
+
+
+Matchday 7
+[Sun Oct/13]
+         CP Mérida                1-1  CD Castellón
+         Racing Santander         2-0  Real Madrid B
+         SD Eibar                 2-1  FC Barcelona B
+         UE Figueres              2-0  Palamós CF
+         SD Compostela            0-0  Real Betis
+         Sestao SC                2-0  UD Las Palmas
+         Real Murcia              0-1  CE Sabadell
+         Rayo Vallecano           2-0  Real Avilés
+         RC Celta                 1-0  Bilbao Athletic Club
+         CD Málaga                0-1  UE Lleida
+
+
+Matchday 8
+[Sun Oct/20]
+         Real Madrid B            3-1  Rayo Vallecano
+         FC Barcelona B           2-1  Sestao SC
+         Bilbao Athletic Club     0-1  Real Murcia
+         Real Betis               1-0  RC Celta
+         UE Lleida                0-1  Racing Santander
+         Palamós CF               3-0  SD Eibar
+         CD Castellón             1-1  CD Málaga
+         CE Sabadell              0-2  UE Figueres
+         UD Las Palmas            0-2  CP Mérida
+         Real Avilés              0-0  SD Compostela
+
+
+Matchday 9
+[Sun Oct/27]
+         CP Mérida                3-2  FC Barcelona B
+         Racing Santander         0-0  Rayo Vallecano
+         SD Eibar                 0-0  CE Sabadell
+         UE Figueres              3-2  Bilbao Athletic Club
+         UE Lleida                4-1  CD Castellón
+         SD Compostela            2-0  Real Madrid B
+         Sestao SC                1-2  Palamós CF
+         Real Murcia              1-0  Real Betis
+         RC Celta                 2-0  Real Avilés
+         CD Málaga                2-1  UD Las Palmas
+
+
+Matchday 10
+[Sun Nov/3]
+         Real Madrid B            0-1  RC Celta
+         FC Barcelona B           2-0  CD Málaga
+         Bilbao Athletic Club     1-0  SD Eibar
+         Real Betis               3-0  UE Figueres
+         Palamós CF               3-2  CP Mérida
+         CD Castellón             2-0  Racing Santander
+         CE Sabadell              1-1  Sestao SC
+         Rayo Vallecano           1-0  SD Compostela
+         UD Las Palmas            1-2  UE Lleida
+         Real Avilés              3-2  Real Murcia
+
+
+Matchday 11
+[Sun Nov/10]
+         CP Mérida                0-1  CE Sabadell
+         Racing Santander         0-2  SD Compostela
+         SD Eibar                 0-0  Real Betis
+         UE Figueres              1-0  Real Avilés
+         UE Lleida                1-1  FC Barcelona B
+         CD Castellón             0-0  UD Las Palmas
+         Sestao SC                0-1  Bilbao Athletic Club
+         Real Murcia              0-1  Real Madrid B
+         RC Celta                 1-0  Rayo Vallecano
+         CD Málaga                1-1  Palamós CF
+
+
+Matchday 12
+[Sun Nov/17]
+         Real Madrid B            1-1  UE Figueres
+         FC Barcelona B           3-2  CD Castellón
+         Bilbao Athletic Club     1-2  CP Mérida
+         Real Betis               4-1  Sestao SC
+         Palamós CF               1-0  UE Lleida
+         SD Compostela            2-0  RC Celta
+         CE Sabadell              1-2  CD Málaga
+         Rayo Vallecano           0-0  Real Murcia
+         UD Las Palmas            1-1  Racing Santander
+         Real Avilés              0-0  SD Eibar
+
+
+Matchday 13
+[Sun Nov/24]
+         CP Mérida                3-2  Real Betis
+         Racing Santander         1-1  RC Celta
+         SD Eibar                 1-0  Real Madrid B
+         UE Figueres              1-2  Rayo Vallecano
+         UE Lleida                0-1  CE Sabadell
+         CD Castellón             1-2  Palamós CF
+         Sestao SC                1-0  Real Avilés
+         Real Murcia              0-0  SD Compostela
+         UD Las Palmas            3-1  FC Barcelona B
+         CD Málaga                1-0  Bilbao Athletic Club
+
+
+Matchday 14
+[Sun Dec/1]
+         Real Madrid B            0-2  Sestao SC
+         FC Barcelona B           0-1  Racing Santander
+         Bilbao Athletic Club     1-0  UE Lleida
+         Real Betis               2-1  CD Málaga
+         Palamós CF               1-2  UD Las Palmas
+         SD Compostela            0-0  UE Figueres
+         CE Sabadell              0-2  CD Castellón
+         Rayo Vallecano           2-0  SD Eibar
+         RC Celta                 1-1  Real Murcia
+         Real Avilés              4-2  CP Mérida
+
+
+Matchday 15
+[Sun Dec/8]
+         FC Barcelona B           1-2  Palamós CF
+         CP Mérida                2-2  Real Madrid B
+         Racing Santander         3-1  Real Murcia
+         SD Eibar                 0-0  SD Compostela
+         UE Figueres              2-0  RC Celta
+         UE Lleida                6-2  Real Betis
+         CD Castellón             3-1  Bilbao Athletic Club
+         Sestao SC                1-0  Rayo Vallecano
+         UD Las Palmas            1-0  CE Sabadell
+         CD Málaga                1-0  Real Avilés
+
+
+Matchday 16
+[Sun Dec/15]
+         Real Madrid B            1-1  CD Málaga
+         Bilbao Athletic Club     2-5  UD Las Palmas
+         Real Betis               1-1  CD Castellón
+         Palamós CF               1-0  Racing Santander
+         SD Compostela            1-2  Sestao SC
+         CE Sabadell              1-2  FC Barcelona B
+         Real Murcia              0-0  UE Figueres
+         Rayo Vallecano           1-2  CP Mérida
+         RC Celta                 1-1  SD Eibar
+         Real Avilés              0-1  UE Lleida
+
+
+Matchday 17
+[Sun Dec/22]
+         FC Barcelona B           2-0  Bilbao Athletic Club
+         CP Mérida                0-1  SD Compostela
+         Racing Santander         1-2  UE Figueres
+         SD Eibar                 0-0  Real Murcia
+         UE Lleida                1-0  Real Madrid B
+         Palamós CF               1-1  CE Sabadell
+         CD Castellón             1-0  Real Avilés
+         Sestao SC                0-0  RC Celta
+         UD Las Palmas            1-0  Real Betis
+         CD Málaga                0-1  Rayo Vallecano
+
+
+Matchday 18
+[Sun Jan/5]
+         Real Madrid B            3-1  CD Castellón
+         Bilbao Athletic Club     1-0  Palamós CF
+         Racing Santander         1-0  CE Sabadell
+         Real Betis               1-0  FC Barcelona B
+         UE Figueres              0-0  SD Eibar
+         SD Compostela            1-0  CD Málaga
+         Real Murcia              0-0  Sestao SC
+         Rayo Vallecano           1-0  UE Lleida
+         RC Celta                 2-2  CP Mérida
+         Real Avilés              1-2  UD Las Palmas
+
+
+Matchday 19
+[Sun Jan/12]
+         FC Barcelona B           5-2  Real Avilés
+         CP Mérida                3-0  Real Murcia
+         SD Eibar                 0-1  Racing Santander
+         UE Lleida                2-0  SD Compostela
+         Palamós CF               1-0  Real Betis
+         CD Castellón             2-1  Rayo Vallecano
+         Sestao SC                0-1  UE Figueres
+         CE Sabadell              2-0  Bilbao Athletic Club
+         UD Las Palmas            1-2  Real Madrid B
+         CD Málaga                0-2  RC Celta
+
+
+Matchday 20
+[Sun Jan/19]
+         FC Barcelona B           3-3  Real Madrid B
+         Bilbao Athletic Club     1-1  Racing Santander
+         CP Mérida                1-2  UE Figueres
+         UE Lleida                2-0  RC Celta
+         Palamós CF               0-1  Real Avilés
+         CD Castellón             0-1  SD Compostela
+         Sestao SC                0-1  SD Eibar
+         CE Sabadell              3-0  Real Betis
+         UD Las Palmas            3-0  Rayo Vallecano
+         CD Málaga                1-0  Real Murcia
+
+
+Matchday 21
+[Sun Jan/26]
+         Real Madrid B            0-0  Palamós CF
+         Racing Santander         4-0  Sestao SC
+         Real Betis               0-0  Bilbao Athletic Club
+         SD Eibar                 0-0  CP Mérida
+         UE Figueres              0-1  CD Málaga
+         SD Compostela            2-0  UD Las Palmas
+         Real Murcia              0-0  UE Lleida
+         Rayo Vallecano           1-4  FC Barcelona B
+         RC Celta                 1-1  CD Castellón
+         Real Avilés              0-1  CE Sabadell
+
+
+Matchday 22
+[Sun Feb/2]
+         FC Barcelona B           1-0  SD Compostela
+         Bilbao Athletic Club     2-0  Real Avilés
+         CP Mérida                0-1  Sestao SC
+         Real Betis               3-0  Racing Santander
+         UE Lleida                1-1  UE Figueres
+         Palamós CF               0-0  Rayo Vallecano
+         CD Castellón             1-0  Real Murcia
+         CE Sabadell              1-0  Real Madrid B
+         UD Las Palmas            1-2  RC Celta
+         CD Málaga                0-0  SD Eibar
+
+
+Matchday 23
+[Sun Feb/9]
+         Real Madrid B            0-3  Bilbao Athletic Club
+         Racing Santander         0-1  CP Mérida
+         SD Eibar                 0-0  UE Lleida
+         UE Figueres              0-0  CD Castellón
+         SD Compostela            1-0  Palamós CF
+         Sestao SC                1-0  CD Málaga
+         Real Murcia              2-1  UD Las Palmas
+         Rayo Vallecano           2-0  CE Sabadell
+         RC Celta                 2-0  FC Barcelona B
+         Real Avilés              2-2  Real Betis
+
+
+Matchday 24
+[Sun Feb/16]
+         FC Barcelona B           2-2  Real Murcia
+         Bilbao Athletic Club     0-1  Rayo Vallecano
+         Real Betis               1-0  Real Madrid B
+         UE Lleida                1-0  Sestao SC
+         Palamós CF               0-0  RC Celta
+         CD Castellón             1-0  SD Eibar
+         CE Sabadell              3-0  SD Compostela
+         UD Las Palmas            1-2  UE Figueres
+         CD Málaga                1-1  CP Mérida
+         Real Avilés              1-0  Racing Santander
+
+
+Matchday 25
+[Sun Feb/23]
+         Real Madrid B            2-1  Real Avilés
+         CP Mérida                0-0  UE Lleida
+         Racing Santander         5-2  CD Málaga
+         SD Eibar                 1-0  UD Las Palmas
+         UE Figueres              3-0  FC Barcelona B
+         SD Compostela            0-3  Bilbao Athletic Club
+         Sestao SC                1-0  CD Castellón
+         Real Murcia              2-1  Palamós CF
+         Rayo Vallecano           3-0  Real Betis
+         RC Celta                 2-0  CE Sabadell
+
+
+Matchday 26
+[Sun Mar/1]
+         Real Madrid B            4-0  Racing Santander
+         FC Barcelona B           1-0  SD Eibar
+         Bilbao Athletic Club     0-0  RC Celta
+         Real Betis               3-1  SD Compostela
+         UE Lleida                0-1  CD Málaga
+         Palamós CF               0-0  UE Figueres
+         CD Castellón             0-2  CP Mérida
+         CE Sabadell              1-0  Real Murcia
+         UD Las Palmas            0-0  Sestao SC
+         Real Avilés              0-2  Rayo Vallecano
+
+
+Matchday 27
+[Sun Mar/8]
+         CP Mérida                3-2  UD Las Palmas
+         Racing Santander         0-4  UE Lleida
+         SD Eibar                 2-0  Palamós CF
+         UE Figueres              2-1  CE Sabadell
+         SD Compostela            5-1  Real Avilés
+         Sestao SC                4-1  FC Barcelona B
+         Real Murcia              1-0  Bilbao Athletic Club
+         Rayo Vallecano           4-0  Real Madrid B
+         RC Celta                 3-0  Real Betis
+         CD Málaga                0-0  CD Castellón
+
+
+Matchday 28
+[Sun Mar/15]
+         Real Madrid B            2-2  SD Compostela
+         FC Barcelona B           5-3  CP Mérida
+         Bilbao Athletic Club     2-0  UE Figueres
+         Real Betis               2-1  Real Murcia
+         Palamós CF               3-1  Sestao SC
+         CD Castellón             2-0  UE Lleida
+         CE Sabadell              1-0  SD Eibar
+         Rayo Vallecano           1-0  Racing Santander
+         UD Las Palmas            1-2  CD Málaga
+         Real Avilés              2-3  RC Celta
+
+
+Matchday 29
+[Sun Mar/22]
+         CP Mérida                2-1  Palamós CF
+         Racing Santander         2-0  CD Castellón
+         SD Eibar                 1-1  Bilbao Athletic Club
+         UE Figueres              0-0  Real Betis
+         UE Lleida                2-2  UD Las Palmas
+         SD Compostela            1-0  Rayo Vallecano
+         Sestao SC                2-1  CE Sabadell
+         Real Murcia              0-1  Real Avilés
+         RC Celta                 2-1  Real Madrid B
+         CD Málaga                0-1  FC Barcelona B
+
+
+Matchday 30
+[Sun Mar/29]
+         Real Madrid B            1-1  Real Murcia
+         FC Barcelona B           4-1  UE Lleida
+         Bilbao Athletic Club     3-0  Sestao SC
+         Real Betis               2-1  SD Eibar
+         Palamós CF               1-0  CD Málaga
+         SD Compostela            0-1  Racing Santander
+         CE Sabadell              1-0  CP Mérida
+         Rayo Vallecano           0-0  RC Celta
+         UD Las Palmas            1-2  CD Castellón
+         Real Avilés              1-1  UE Figueres
+
+
+Matchday 31
+[Sun Apr/5]
+         CP Mérida                0-0  Bilbao Athletic Club
+         Racing Santander         3-0  UD Las Palmas
+         SD Eibar                 0-0  Real Avilés
+         UE Figueres              2-0  Real Madrid B
+         UE Lleida                2-0  Palamós CF
+         CD Castellón             1-1  FC Barcelona B
+         Sestao SC                0-1  Real Betis
+         Real Murcia              1-1  Rayo Vallecano
+         RC Celta                 4-1  SD Compostela
+         CD Málaga                0-0  CE Sabadell
+
+
+Matchday 32
+[Sun Apr/12]
+         Real Madrid B            1-1  SD Eibar
+         FC Barcelona B           2-1  UD Las Palmas
+         Bilbao Athletic Club     1-0  CD Málaga
+         Real Betis               3-1  CP Mérida
+         Palamós CF               3-1  CD Castellón
+         SD Compostela            3-1  Real Murcia
+         CE Sabadell              2-0  UE Lleida
+         Rayo Vallecano           1-1  UE Figueres
+         RC Celta                 5-0  Racing Santander
+         Real Avilés              0-0  Sestao SC
+
+
+Matchday 33
+[Sun Apr/19]
+         CP Mérida                6-0  Real Avilés
+         Racing Santander         3-0  FC Barcelona B
+         SD Eibar                 0-0  Rayo Vallecano
+         UE Figueres              0-0  SD Compostela
+         UE Lleida                4-1  Bilbao Athletic Club
+         CD Castellón             2-0  CE Sabadell
+         Sestao SC                0-0  Real Madrid B
+         Real Murcia              2-1  RC Celta
+         UD Las Palmas            1-2  Palamós CF
+         CD Málaga                0-0  Real Betis
+
+
+Matchday 34
+[Sun Apr/26]
+         Real Madrid B            3-2  CP Mérida
+         Bilbao Athletic Club     2-1  CD Castellón
+         Real Betis               3-3  UE Lleida
+         Palamós CF               0-1  FC Barcelona B
+         SD Compostela            1-0  SD Eibar
+         CE Sabadell              2-0  UD Las Palmas
+         Real Murcia              2-0  Racing Santander
+         Rayo Vallecano           4-0  Sestao SC
+         RC Celta                 2-0  UE Figueres
+         Real Avilés              3-2  CD Málaga
+
+
+Matchday 35
+[Sun May/3]
+         FC Barcelona B           3-0  CE Sabadell
+         CP Mérida                0-1  Rayo Vallecano
+         Racing Santander         0-3  Palamós CF
+         SD Eibar                 0-1  RC Celta
+         UE Figueres              0-0  Real Murcia
+         UE Lleida                2-0  Real Avilés
+         CD Castellón             1-1  Real Betis
+         Sestao SC                1-1  SD Compostela
+         UD Las Palmas            0-0  Bilbao Athletic Club
+         CD Málaga                2-1  Real Madrid B
+
+
+Matchday 36
+[Sun May/10]
+         Real Madrid B            1-0  UE Lleida
+         Bilbao Athletic Club     1-0  FC Barcelona B
+         Real Betis               3-0  UD Las Palmas
+         UE Figueres              0-0  Racing Santander
+         SD Compostela            0-1  CP Mérida
+         CE Sabadell              3-2  Palamós CF
+         Real Murcia              1-0  SD Eibar
+         Rayo Vallecano           0-0  CD Málaga
+         RC Celta                 4-0  Sestao SC
+         Real Avilés              2-1  CD Castellón
+
+
+Matchday 37
+[Sun May/17]
+         FC Barcelona B           1-0  Real Betis
+         CP Mérida                2-1  RC Celta
+         SD Eibar                 2-0  UE Figueres
+         UE Lleida                1-0  Rayo Vallecano
+         Palamós CF               1-1  Bilbao Athletic Club
+         CD Castellón             4-1  Real Madrid B
+         Sestao SC                0-0  Real Murcia
+         CE Sabadell              0-0  Racing Santander
+         UD Las Palmas            2-0  Real Avilés
+         CD Málaga                0-1  SD Compostela
+
+
+Matchday 38
+[Sun May/24]
+         Real Madrid B            3-3  UD Las Palmas
+         Bilbao Athletic Club     1-2  CE Sabadell
+         Racing Santander         0-2  SD Eibar
+         Real Betis               1-0  Palamós CF
+         UE Figueres              2-0  Sestao SC
+         SD Compostela            3-2  UE Lleida
+         Real Murcia              0-1  CP Mérida
+         Rayo Vallecano           4-1  CD Castellón
+         RC Celta                 3-0  CD Málaga
+         Real Avilés              1-1  FC Barcelona B

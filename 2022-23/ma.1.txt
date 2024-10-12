@@ -1,0 +1,434 @@
+= MA 1 2022/23
+
+# Date       Thu Sep/1 2022 - Fri Jun/23 2023 (295d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Thu Sep/1]
+  20.30  RS Berkane               0-1 (0-0)  Hassania US Agadir
+[Fri Sep/2]
+  17.00  FUS de Rabat             1-1 (1-0)  Wydad AC
+  19.15  Mouloudia Oujda          0-1 (0-1)  FAR de Rabat
+  21.30  Difaâ d'el Jadida        1-0 (1-0)  Union de Touarga
+[Sat Sep/3]
+  18.00  Ittihad Tanger           0-1 (0-0)  JS Soualem
+  20.30  Maghrib de Fès           0-0  Moghreb de Tétouan
+[Sun Sep/4]
+  18.00  Olympique de Khouribga   0-1 (0-1)  Chabab Mohammédia
+  20.30  Raja Casablanca          2-2 (1-2)  Olympique de Safi
+
+
+Matchday 2
+[Mon Sep/5]
+  18.00  Wydad AC                 3-1 (2-0)  Difaâ d'el Jadida
+  20.30  FAR de Rabat             1-1 (1-1)  RS Berkane
+[Thu Sep/8]
+  18.00  Chabab Mohammédia        1-0 (0-0)  Mouloudia Oujda
+  20.30  JS Soualem               0-1 (0-0)  FUS de Rabat
+[Fri Sep/9]
+  16.00  Moghreb de Tétouan       1-0 (0-0)  Ittihad Tanger
+  18.00  Union de Touarga         1-0 (1-0)  Raja Casablanca
+[Sun Sep/11]
+  17.00  Hassania US Agadir       0-0  Olympique de Khouribga
+  19.15  Olympique de Safi        2-1 (2-1)  Maghrib de Fès
+
+
+Matchday 3
+[Wed Sep/14]
+  18.00  Union de Touarga         0-1 (0-0)  FAR de Rabat
+[Fri Sep/16]
+  20.30  Difaâ d'el Jadida        1-0 (0-0)  Chabab Mohammédia
+[Sat Sep/17]
+  17.00  Maghrib de Fès           0-1 (0-0)  JS Soualem
+  19.15  Ittihad Tanger           0-2 (0-1)  Hassania US Agadir
+  21.30  Mouloudia Oujda          0-0  FUS de Rabat
+[Sun Sep/18]
+  17.00  Raja Casablanca          1-1 (1-0)  Moghreb de Tétouan
+  18.00  RS Berkane               1-2 (1-1)  Olympique de Safi
+  19.15  Olympique de Khouribga   1-2 (0-0)  Wydad AC
+
+
+Matchday 4
+[Fri Sep/30]
+  16.00  FAR de Rabat             4-1 (2-1)  Difaâ d'el Jadida
+  20.30  Chabab Mohammédia        0-0  Raja Casablanca
+[Sat Oct/1]
+  18.15  Olympique de Safi        1-0 (1-0)  Ittihad Tanger
+  20.30  JS Soualem               0-0  Olympique de Khouribga
+[Sun Oct/2]
+  16.00  FUS de Rabat             0-0  Maghrib de Fès
+  18.15  Moghreb de Tétouan       0-0  Union de Touarga
+  20.30  Wydad AC                 2-0 (1-0)  RS Berkane
+         Hassania US Agadir       1-1 (0-1)  Mouloudia Oujda
+
+
+Matchday 5
+[Fri Oct/7]
+  18.00  Union de Touarga         1-0 (1-0)  Chabab Mohammédia
+[Sat Oct/8]
+  18.15  Mouloudia Oujda          3-4 (1-1)  JS Soualem
+  20.30  Difaâ d'el Jadida        2-2 (1-0)  Maghrib de Fès
+[Sun Oct/9]
+  18.00  Olympique de Khouribga   2-3 (1-2)  FUS de Rabat
+[Tue Oct/18]
+  18.15  RS Berkane               2-2 (2-1)  Moghreb de Tétouan
+  20.30  FAR de Rabat             1-1 (0-1)  Olympique de Safi
+[Wed Oct/19]
+  18.15  Ittihad Tanger           0-0  Wydad AC
+  20.30  Raja Casablanca          1-0 (0-0)  Hassania US Agadir
+
+
+Matchday 6
+[Fri Oct/14]
+  18.15  Olympique de Safi        1-2 (1-1)  Mouloudia Oujda
+  20.30  Maghrib de Fès           2-0 (1-0)  Olympique de Khouribga
+[Sat Oct/15]
+  17.30  Moghreb de Tétouan       1-1 (0-0)  Difaâ d'el Jadida
+[Sun Oct/16]
+  16.00  Hassania US Agadir       1-2 (0-2)  Union de Touarga
+  18.00  FUS de Rabat             1-0 (1-0)  Ittihad Tanger
+[Fri Oct/21]
+  20.00  Chabab Mohammédia        1-1 (1-0)  FAR de Rabat
+[Sat Oct/22]
+  20.00  JS Soualem               1-1 (0-1)  RS Berkane
+[Sun Oct/23]
+  16.00  Wydad AC                 2-1 (0-0)  Raja Casablanca
+
+
+Matchday 7
+[Wed Oct/26]
+  18.15  Union de Touarga         2-0 (2-0)  Olympique de Safi
+[Thu Oct/27]
+  18.15  FAR de Rabat             2-1 (1-0)  Hassania US Agadir
+  20.30  RS Berkane               1-0 (0-0)  Olympique de Khouribga
+[Fri Oct/28]
+  18.00  Ittihad Tanger           2-3 (1-1)  Maghrib de Fès
+[Sat Oct/29]
+  16.00  Raja Casablanca          1-0 (1-0)  FUS de Rabat
+  18.15  Mouloudia Oujda          0-1 (0-1)  Wydad AC
+  20.30  Difaâ d'el Jadida        0-0  JS Soualem
+[Sun Oct/30]
+  17.00  Chabab Mohammédia        4-3 (1-2)  Moghreb de Tétouan
+
+
+Matchday 8
+[Fri Nov/4]
+  18.15  Hassania US Agadir       2-1 (1-1)  Chabab Mohammédia
+  20.30  Olympique de Safi        0-0  Difaâ d'el Jadida
+[Sat Nov/5]
+  16.00  JS Soualem               1-4 (1-2)  Raja Casablanca
+  18.00  Maghrib de Fès           2-1 (1-1)  Mouloudia Oujda
+[Sun Nov/6]
+  16.00  Olympique de Khouribga   1-1 (0-1)  Ittihad Tanger
+  18.00  Wydad AC                 0-0  Union de Touarga
+[Mon Nov/14]
+  16.00  Moghreb de Tétouan       0-2 (0-1)  FAR de Rabat
+[Tue Nov/15]
+  20.00  FUS de Rabat             0-0  RS Berkane
+
+
+Matchday 9
+[Tue Dec/27]
+  18.15  Raja Casablanca          0-0  Maghrib de Fès
+  20.30  RS Berkane               2-1 (0-0)  Ittihad Tanger
+[Wed Dec/28]
+  16.00  Moghreb de Tétouan       2-1 (1-1)  Hassania US Agadir
+  18.15  Union de Touarga         2-1 (0-1)  JS Soualem
+  20.30  Mouloudia Oujda          0-0  Olympique de Khouribga
+[Thu Dec/29]
+  16.00  FAR de Rabat             3-0 (2-0)  Wydad AC
+         Chabab Mohammédia        1-2 (0-0)  Olympique de Safi
+  18.15  Difaâ d'el Jadida        0-3 (0-0)  FUS de Rabat
+
+
+Matchday 10
+[Tue Jan/3]
+  16.00  Ittihad Tanger           0-2 (0-2)  Mouloudia Oujda
+  18.15  Hassania US Agadir       2-2 (1-2)  Difaâ d'el Jadida
+  20.30  Olympique de Khouribga   0-0  Raja Casablanca
+[Wed Jan/4]
+  16.00  Olympique de Safi        1-1 (1-1)  Moghreb de Tétouan
+  18.15  Maghrib de Fès           0-0  RS Berkane
+  20.30  FUS de Rabat             3-0 (0-0)  Union de Touarga
+[Thu Jan/5]
+  16.00  JS Soualem               1-1 (0-0)  FAR de Rabat
+  20.30  Wydad AC                 1-2 (0-0)  Chabab Mohammédia
+
+
+Matchday 11
+[Fri Jan/6]
+  18.15  Difaâ d'el Jadida        2-1 (1-0)  Olympique de Khouribga
+  20.30  Raja Casablanca          3-0 (2-0)  Ittihad Tanger
+[Sat Jan/7]
+  16.00  Union de Touarga         1-2 (0-1)  Maghrib de Fès
+  18.15  Hassania US Agadir       0-1 (0-0)  Olympique de Safi
+  20.30  RS Berkane               2-0 (0-0)  Mouloudia Oujda
+[Sun Jan/8]
+  16.00  FAR de Rabat             0-1 (0-1)  FUS de Rabat
+         Chabab Mohammédia        0-3 (0-0)  JS Soualem
+         Moghreb de Tétouan       0-3 (0-0)  Wydad AC
+
+
+Matchday 12
+[Fri Jan/13]
+  18.15  Wydad AC                 1-0 (1-0)  Hassania US Agadir
+  20.30  Mouloudia Oujda          1-2 (0-1)  Difaâ d'el Jadida
+[Sat Jan/14]
+  16.00  RS Berkane               0-2 (0-0)  Raja Casablanca
+  18.15  Olympique de Khouribga   0-2 (0-1)  FAR de Rabat
+  20.30  Ittihad Tanger           0-1 (0-0)  Union de Touarga
+[Sun Jan/15]
+  16.00  JS Soualem               2-1 (1-1)  Moghreb de Tétouan
+  18.15  FUS de Rabat             2-1 (0-0)  Olympique de Safi
+  20.30  Maghrib de Fès           1-0 (1-0)  Chabab Mohammédia
+
+
+Matchday 13
+[Tue Jan/17]
+  18.15  Raja Casablanca          2-1 (0-0)  Mouloudia Oujda
+  20.30  Union de Touarga         0-1 (0-0)  RS Berkane
+[Wed Jan/18]
+  16.00  FAR de Rabat             2-1 (1-0)  Maghrib de Fès
+  18.15  Hassania US Agadir       1-1 (1-0)  JS Soualem
+  20.30  Difaâ d'el Jadida        2-1 (1-0)  Ittihad Tanger
+[Thu Jan/19]
+  16.00  Olympique de Safi        0-0  Wydad AC
+  18.15  Moghreb de Tétouan       2-2 (1-0)  Olympique de Khouribga
+  20.30  Chabab Mohammédia        1-1 (0-0)  FUS de Rabat
+
+
+Matchday 14
+[Fri Jan/20]
+  20.30  Mouloudia Oujda          2-2 (1-0)  Union de Touarga
+[Sat Jan/21]
+  16.00  Raja Casablanca          1-0 (0-0)  FAR de Rabat
+  18.15  RS Berkane               1-0 (1-0)  Difaâ d'el Jadida
+  20.30  Maghrib de Fès           1-1 (0-0)  Hassania US Agadir
+[Sun Jan/22]
+  16.00  FUS de Rabat             1-2 (0-1)  Moghreb de Tétouan
+  18.15  Ittihad Tanger           0-1 (0-1)  Chabab Mohammédia
+  20.30  JS Soualem               0-1 (0-0)  Wydad AC
+         Olympique de Khouribga   0-1 (0-1)  Olympique de Safi
+
+
+Matchday 15
+[Tue Jan/24]
+  20.30  Difaâ d'el Jadida        0-0  Raja Casablanca
+[Wed Jan/25]
+  16.00  FAR de Rabat             4-0 (2-0)  Ittihad Tanger
+         Moghreb de Tétouan       1-2 (0-0)  Mouloudia Oujda
+  18.15  Olympique de Safi        1-1 (1-1)  JS Soualem
+  20.30  Wydad AC                 1-0 (0-0)  Maghrib de Fès
+[Thu Jan/26]
+  16.00  Hassania US Agadir       0-1 (0-1)  FUS de Rabat
+  18.15  Chabab Mohammédia        0-1 (0-0)  RS Berkane
+  20.30  Union de Touarga         0-0  Olympique de Khouribga
+
+
+Matchday 16
+[Sat Jan/28]
+  16.00  Moghreb de Tétouan       1-1 (0-0)  Maghrib de Fès
+         FAR de Rabat             3-2 (1-1)  Mouloudia Oujda
+  18.15  Olympique de Safi        3-1 (1-1)  Raja Casablanca
+  20.30  JS Soualem               2-0 (0-0)  Ittihad Tanger
+[Sun Jan/29]
+  16.00  Union de Touarga         2-1 (0-0)  Difaâ d'el Jadida
+  18.15  Wydad AC                 0-0  FUS de Rabat
+  20.30  Chabab Mohammédia        1-1 (1-0)  Olympique de Khouribga
+         Hassania US Agadir       0-1 (0-0)  RS Berkane
+
+
+Matchday 17
+[Sat Feb/18]
+  18.15  Olympique de Khouribga   2-0 (1-0)  Hassania US Agadir
+  20.30  FUS de Rabat             2-0 (1-0)  JS Soualem
+[Tue Feb/21]
+  16.00  Maghrib de Fès           1-1 (0-0)  Olympique de Safi
+  18.15  Ittihad Tanger           2-0 (2-0)  Moghreb de Tétouan
+         Difaâ d'el Jadida        0-1 (0-1)  Wydad AC
+  20.30  Mouloudia Oujda          0-0  Chabab Mohammédia
+[Wed Feb/22]
+  20.30  RS Berkane               1-4 (0-1)  FAR de Rabat
+         Raja Casablanca          2-1 (0-1)  Union de Touarga
+
+
+Matchday 18
+[Sat Feb/25]
+  16.00  FUS de Rabat             2-1 (1-0)  Mouloudia Oujda
+  18.15  Hassania US Agadir       1-0 (0-0)  Ittihad Tanger
+  20.30  Chabab Mohammédia        2-1 (1-0)  Difaâ d'el Jadida
+[Sun Feb/26]
+  18.15  JS Soualem               1-1 (1-0)  Maghrib de Fès
+  20.30  Olympique de Safi        1-1 (1-0)  RS Berkane
+[Tue Feb/28]
+  18.15  Moghreb de Tétouan       1-0 (0-0)  Raja Casablanca
+  20.30  Wydad AC                 3-2 (2-1)  Olympique de Khouribga
+[Wed Mar/1]
+  20.30  FAR de Rabat             3-0 (3-0)  Union de Touarga
+
+
+Matchday 19
+[Fri Mar/3]
+  18.15  Maghrib de Fès           0-0  FUS de Rabat
+[Sat Mar/4]
+  16.00  Difaâ d'el Jadida        0-1 (0-0)  FAR de Rabat
+         Ittihad Tanger           2-1 (1-0)  Olympique de Safi
+  18.15  Raja Casablanca          1-0 (0-0)  Chabab Mohammédia
+  20.30  Mouloudia Oujda          2-0 (1-0)  Hassania US Agadir
+[Sun Mar/5]
+  18.15  Olympique de Khouribga   1-0 (1-0)  JS Soualem
+  20.30  Union de Touarga         1-1 (1-1)  Moghreb de Tétouan
+[Tue Mar/7]
+  18.15  RS Berkane               3-3 (1-1)  Wydad AC
+
+
+Matchday 20
+[Fri Mar/10]
+  18.15  JS Soualem               0-2 (0-0)  Mouloudia Oujda
+[Sat Mar/11]
+  16.00  FUS de Rabat             1-1 (1-0)  Olympique de Khouribga
+  20.30  Moghreb de Tétouan       0-0  RS Berkane
+[Sun Mar/12]
+  16.00  Olympique de Safi        0-0  FAR de Rabat
+  18.15  Maghrib de Fès           3-1 (3-0)  Difaâ d'el Jadida
+  20.30  Chabab Mohammédia        1-1 (1-0)  Union de Touarga
+         Hassania US Agadir       2-1 (1-0)  Raja Casablanca
+[Tue Mar/14]
+  18.15  Wydad AC                 3-0 (3-0)  Ittihad Tanger
+
+
+Matchday 21
+[Sun Apr/2]
+  22.00  Union de Touarga         1-0 (0-0)  Hassania US Agadir
+[Mon Apr/3]
+  22.00  Ittihad Tanger           1-0 (0-0)  FUS de Rabat
+         Difaâ d'el Jadida        0-0  Moghreb de Tétouan
+         Mouloudia Oujda          0-1 (0-1)  Olympique de Safi
+[Tue Apr/4]
+  22.00  RS Berkane               0-1 (0-1)  JS Soualem
+         Olympique de Khouribga   2-2 (1-1)  Maghrib de Fès
+[Wed Apr/5]
+  22.00  Raja Casablanca          2-2 (1-1)  Wydad AC
+[Thu Apr/6]
+  22.00  FAR de Rabat             1-0 (1-0)  Chabab Mohammédia
+
+
+Matchday 22
+[Fri Apr/7]
+  22.00  JS Soualem               2-1 (1-1)  Difaâ d'el Jadida
+         Olympique de Safi        3-2 (2-1)  Union de Touarga
+         Maghrib de Fès           0-1 (0-0)  Ittihad Tanger
+         Olympique de Khouribga   1-1 (1-1)  RS Berkane
+[Sat Apr/8]
+  22.00  Wydad AC                 1-0 (1-0)  Mouloudia Oujda
+         FUS de Rabat             3-0 (3-0)  Raja Casablanca
+[Sun Apr/9]
+  22.00  Hassania US Agadir       2-1 (0-1)  FAR de Rabat
+         Moghreb de Tétouan       1-0 (0-0)  Chabab Mohammédia
+
+
+Matchday 23
+[Fri Apr/14]
+  22.00  Mouloudia Oujda          2-1 (1-0)  Maghrib de Fès
+         Difaâ d'el Jadida        0-1 (0-1)  Olympique de Safi
+[Sat Apr/15]
+  22.00  Raja Casablanca          0-0  JS Soualem
+         RS Berkane               1-0 (1-0)  FUS de Rabat
+         Union de Touarga         1-2 (1-0)  Wydad AC
+[Sun Apr/16]
+  22.00  Ittihad Tanger           3-0 (1-0)  Olympique de Khouribga
+         FAR de Rabat             2-1 (0-1)  Moghreb de Tétouan
+         Chabab Mohammédia        1-2 (1-0)  Hassania US Agadir
+
+
+Matchday 24
+[Wed Apr/19]
+  22.00  FUS de Rabat             5-0 (3-0)  Difaâ d'el Jadida
+         JS Soualem               2-2 (1-1)  Union de Touarga
+[Thu Apr/20]
+  22.00  Olympique de Safi        0-0  Chabab Mohammédia
+         Hassania US Agadir       1-0 (1-0)  Moghreb de Tétouan
+         Olympique de Khouribga   1-1 (1-0)  Mouloudia Oujda
+         Ittihad Tanger           2-1 (0-1)  RS Berkane
+[Wed May/3]
+  19.15  Wydad AC                 1-1 (1-0)  FAR de Rabat
+  21.30  Maghrib de Fès           2-1 (1-0)  Raja Casablanca
+
+
+Matchday 25
+[Thu May/4]
+  19.15  Moghreb de Tétouan       2-1 (1-1)  Olympique de Safi
+  21.30  Difaâ d'el Jadida        2-2 (0-1)  Hassania US Agadir
+[Fri May/5]
+  19.15  Mouloudia Oujda          0-0  Ittihad Tanger
+  21.30  Union de Touarga         0-1 (0-0)  FUS de Rabat
+[Sat May/6]
+  17.00  Raja Casablanca          0-1 (0-0)  Olympique de Khouribga
+  19.15  RS Berkane               1-1 (0-1)  Maghrib de Fès
+  21.30  FAR de Rabat             2-1 (2-1)  JS Soualem
+         Chabab Mohammédia        1-3 (0-2)  Wydad AC
+
+
+Matchday 26
+[Sat May/20]
+  18.00  Olympique de Safi        1-1 (0-1)  Hassania US Agadir
+  20.00  Maghrib de Fès           0-0  Union de Touarga
+[Sun May/21]
+  20.00  Olympique de Khouribga   1-1 (1-0)  Difaâ d'el Jadida
+         JS Soualem               1-3 (0-1)  Chabab Mohammédia
+         Mouloudia Oujda          1-2 (0-1)  RS Berkane
+         Ittihad Tanger           0-0  Raja Casablanca
+[Mon May/29]
+  20.00  FUS de Rabat             0-2 (0-0)  FAR de Rabat
+         Wydad AC                 2-0 (0-0)  Moghreb de Tétouan
+
+
+Matchday 27
+[Wed Jun/14]
+  20.00  Moghreb de Tétouan       1-2 (1-2)  JS Soualem
+         Olympique de Safi        0-1 (0-0)  FUS de Rabat
+         Chabab Mohammédia        3-0 (1-0)  Maghrib de Fès
+         FAR de Rabat             1-0 (0-0)  Olympique de Khouribga
+         Union de Touarga         2-2 (1-2)  Ittihad Tanger
+         Difaâ d'el Jadida        0-1 (0-0)  Mouloudia Oujda
+         Raja Casablanca          2-1 (1-0)  RS Berkane
+         Hassania US Agadir       0-0  Wydad AC
+
+
+Matchday 28
+[Sat Jun/17]
+  20.00  Ittihad Tanger           1-0 (0-0)  Difaâ d'el Jadida
+         RS Berkane               2-1 (1-0)  Union de Touarga
+         Maghrib de Fès           0-1 (0-0)  FAR de Rabat
+         FUS de Rabat             2-1 (1-0)  Chabab Mohammédia
+         Olympique de Khouribga   3-0 (1-0)  Moghreb de Tétouan
+         JS Soualem               1-3 (1-2)  Hassania US Agadir
+         Wydad AC                 3-1 (2-1)  Olympique de Safi
+         Mouloudia Oujda          0-0  Raja Casablanca
+
+
+Matchday 29
+[Tue Jun/20]
+  20.00  Wydad AC                 3-1 (1-0)  JS Soualem
+         Moghreb de Tétouan       1-1 (1-0)  FUS de Rabat
+         Olympique de Safi        1-0 (0-0)  Olympique de Khouribga
+         Chabab Mohammédia        1-2 (0-2)  Ittihad Tanger
+         Union de Touarga         3-1 (2-0)  Mouloudia Oujda
+         Difaâ d'el Jadida        0-0  RS Berkane
+         FAR de Rabat             0-0  Raja Casablanca
+  22.00  Hassania US Agadir       3-0 (2-0)  Maghrib de Fès
+
+
+Matchday 30
+[Fri Jun/23]
+  20.00  Raja Casablanca          3-2 (0-0)  Difaâ d'el Jadida
+         Olympique de Khouribga   6-4 (3-2)  Union de Touarga
+         Ittihad Tanger           2-3 (1-1)  FAR de Rabat
+         RS Berkane               3-0 (2-0)  Chabab Mohammédia
+         Mouloudia Oujda          2-1 (0-1)  Moghreb de Tétouan
+         FUS de Rabat             0-0  Hassania US Agadir
+         JS Soualem               0-3 (0-2)  Olympique de Safi
+         Maghrib de Fès           0-2 (0-1)  Wydad AC

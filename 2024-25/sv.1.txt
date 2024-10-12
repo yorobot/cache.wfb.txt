@@ -1,0 +1,211 @@
+= SV 1 2024/25
+
+# Date       Sat Jul/27 - Sat Nov/23 2024 (119d)
+# Teams      11
+# Matches    110
+# Stages     Apertura (110)
+
+
+== Apertura
+
+Matchday 1
+[Sat Jul/27]
+  15.30  Luis Ángel Firpo         1-0 (1-0)  Platense Zacatecoluca
+  18.00  Alianza                  1-1 (0-1)  Municipal Limeño
+[Sun Jul/28]
+  15.00  Fuerte San Francisco     0-3 (0-1)  Isidro Metapán
+         Dragón                   0-3 (0-2)  CD Águila
+         Once Deportivo           2-2 (0-0)  FAS
+
+
+Matchday 2
+[Wed Jul/31]
+  15.30  CD Águila                1-0 (1-0)  Fuerte San Francisco
+[Thu Aug/1]
+         Municipal Limeño         -  Luis Ángel Firpo         [postponed]
+[Wed Jul/31]
+  19.30  FAS                      2-0 (1-0)  Dragón
+[Thu Aug/1]
+  15.30  Platense Zacatecoluca    1-2 (1-2)  Once Deportivo
+         CD Cacahuatique          1-3 (0-3)  Alianza
+
+
+Matchday 3
+[Sat Aug/3]
+  15.30  Luis Ángel Firpo         -  CD Cacahuatique
+  19.00  Isidro Metapán           -  CD Águila
+[Sun Aug/4]
+  15.00  Fuerte San Francisco     -  FAS
+         Dragón                   -  Platense Zacatecoluca
+         Once Deportivo           -  Municipal Limeño
+
+
+Matchday 4
+[Sat Aug/10]
+  14.00  FAS                      -  Isidro Metapán
+         Platense Zacatecoluca    -  Fuerte San Francisco
+         Municipal Limeño         -  Dragón
+         CD Cacahuatique          -  Once Deportivo
+         Alianza                  -  Luis Ángel Firpo
+
+
+Matchday 5
+[Sat Aug/17]
+         CD Águila                -  FAS
+         Isidro Metapán           -  Platense Zacatecoluca
+         Fuerte San Francisco     -  Municipal Limeño
+         Dragón                   -  CD Cacahuatique
+         Once Deportivo           -  Alianza
+
+
+Matchday 6
+[Sat Aug/24]
+         Platense Zacatecoluca    -  CD Águila
+         Municipal Limeño         -  Isidro Metapán
+         CD Cacahuatique          -  Fuerte San Francisco
+         Alianza                  -  Dragón
+         Luis Ángel Firpo         -  Once Deportivo
+
+
+Matchday 7
+[Wed Aug/28]
+         FAS                      -  Platense Zacatecoluca
+         CD Águila                -  Municipal Limeño
+         Isidro Metapán           -  CD Cacahuatique
+         Fuerte San Francisco     -  Alianza
+         Dragón                   -  Luis Ángel Firpo
+
+
+Matchday 8
+[Sat Aug/31]
+         Municipal Limeño         -  FAS
+         CD Cacahuatique          -  CD Águila
+         Alianza                  -  Isidro Metapán
+         Luis Ángel Firpo         -  Fuerte San Francisco
+         Once Deportivo           -  Dragón
+
+
+Matchday 9
+[Sat Sep/7]
+         Platense Zacatecoluca    -  Municipal Limeño
+         FAS                      -  CD Cacahuatique
+         CD Águila                -  Alianza
+         Isidro Metapán           -  Luis Ángel Firpo
+         Fuerte San Francisco     -  Once Deportivo
+
+
+Matchday 10
+[Sat Sep/14]
+         CD Cacahuatique          -  Platense Zacatecoluca
+         Alianza                  -  FAS
+         Luis Ángel Firpo         -  CD Águila
+         Once Deportivo           -  Isidro Metapán
+         Dragón                   -  Fuerte San Francisco
+
+
+Matchday 11
+[Sat Sep/21]
+         Municipal Limeño         -  CD Cacahuatique
+         Platense Zacatecoluca    -  Alianza
+         FAS                      -  Luis Ángel Firpo
+         CD Águila                -  Once Deportivo
+         Isidro Metapán           -  Dragón
+
+
+Matchday 12
+[Sat Sep/28]
+         Isidro Metapán           -  Fuerte San Francisco
+         CD Águila                -  Dragón
+         FAS                      -  Once Deportivo
+         Platense Zacatecoluca    -  Luis Ángel Firpo
+         Municipal Limeño         -  Alianza
+
+
+Matchday 13
+[Wed Oct/2]
+         Fuerte San Francisco     -  CD Águila
+         Dragón                   -  FAS
+         Once Deportivo           -  Platense Zacatecoluca
+         Luis Ángel Firpo         -  Municipal Limeño
+         Alianza                  -  CD Cacahuatique
+
+
+Matchday 14
+[Sat Oct/5]
+         CD Águila                -  Isidro Metapán
+         FAS                      -  Fuerte San Francisco
+         Platense Zacatecoluca    -  Dragón
+         Municipal Limeño         -  Once Deportivo
+         CD Cacahuatique          -  Luis Ángel Firpo
+
+
+Matchday 15
+[Sat Oct/12]
+         Isidro Metapán           -  FAS
+         Fuerte San Francisco     -  Platense Zacatecoluca
+         Dragón                   -  Municipal Limeño
+         Once Deportivo           -  CD Cacahuatique
+         Luis Ángel Firpo         -  Alianza
+
+
+Matchday 16
+[Sat Oct/19]
+         FAS                      -  CD Águila
+         Platense Zacatecoluca    -  Isidro Metapán
+         Municipal Limeño         -  Fuerte San Francisco
+         CD Cacahuatique          -  Dragón
+         Alianza                  -  Once Deportivo
+
+
+Matchday 17
+[Sat Oct/26]
+         CD Águila                -  Platense Zacatecoluca
+         Isidro Metapán           -  Municipal Limeño
+         Fuerte San Francisco     -  CD Cacahuatique
+         Dragón                   -  Alianza
+         Once Deportivo           -  Luis Ángel Firpo
+
+
+Matchday 18
+[Wed Oct/30]
+         Platense Zacatecoluca    -  FAS
+         Municipal Limeño         -  CD Águila
+         CD Cacahuatique          -  Isidro Metapán
+         Alianza                  -  Fuerte San Francisco
+         Luis Ángel Firpo         -  Dragón
+
+
+Matchday 19
+[Sat Nov/2]
+         FAS                      -  Municipal Limeño
+         CD Águila                -  CD Cacahuatique
+         Isidro Metapán           -  Alianza
+         Fuerte San Francisco     -  Luis Ángel Firpo
+         Dragón                   -  Once Deportivo
+
+
+Matchday 20
+[Sat Nov/9]
+         Municipal Limeño         -  Platense Zacatecoluca
+         CD Cacahuatique          -  FAS
+         Alianza                  -  CD Águila
+         Luis Ángel Firpo         -  Isidro Metapán
+         Once Deportivo           -  Fuerte San Francisco
+
+
+Matchday 21
+[Sat Nov/16]
+         Platense Zacatecoluca    -  CD Cacahuatique
+         FAS                      -  Alianza
+         CD Águila                -  Luis Ángel Firpo
+         Isidro Metapán           -  Once Deportivo
+         Fuerte San Francisco     -  Dragón
+
+
+Matchday 22
+[Sat Nov/23]
+         CD Cacahuatique          -  Municipal Limeño
+         Alianza                  -  Platense Zacatecoluca
+         Luis Ángel Firpo         -  FAS
+         Once Deportivo           -  CD Águila
+         Dragón                   -  Isidro Metapán

@@ -1,0 +1,267 @@
+= UY 2 2020
+
+# Date       Wed Aug/12 2020 - Fri Jan/29 2021 (170d)
+# Teams      12
+# Matches    138
+# Stages     Regular Season (132)  Playoffs (6)
+
+
+# Regular Season
+
+Matchday 1
+[Wed Aug/12]
+  12.00  Villa Española           3-2 (2-1)  Albion
+  14.30  Sud América              1-1 (1-0)  Rocha
+  17.15  Rampla Juniors           1-2 (1-2)  Racing
+[Thu Aug/13]
+  12.00  Central Español          0-1 (0-1)  Cerrito
+  14.30  Atenas                   1-0 (0-0)  Tacuarembó
+  17.15  Villa Teresa             0-0  Juventud de Las Piedras
+
+
+Matchday 2
+[Mon Aug/17]
+  12.00  Rocha                    1-0 (1-0)  Villa Española
+  14.30  Cerrito                  0-0  Rampla Juniors
+  17.15  Racing                   2-2 (2-0)  Villa Teresa
+[Tue Aug/18]
+  12.00  Albion                   1-1 (1-1)  Atenas
+  14.30  Juventud de Las Piedras  1-2 (0-0)  Sud América
+  17.15  Tacuarembó               1-0 (1-0)  Central Español
+
+
+Matchday 3
+[Mon Aug/24]
+  12.15  Juventud de Las Piedras  3-0 (3-0)  Racing
+  14.30  Sud América              0-4 (0-1)  Villa Española
+  17.00  Atenas                   0-2 (0-1)  Rocha
+[Tue Aug/25]
+  12.15  Villa Teresa             1-3 (0-0)  Cerrito
+  14.30  Central Español          0-0  Albion
+  17.00  Rampla Juniors           2-1 (1-0)  Tacuarembó
+
+
+Matchday 4
+[Mon Aug/31]
+  12.15  Cerrito                  1-0 (0-0)  Juventud de Las Piedras
+  14.30  Albion                   0-0  Rampla Juniors
+  17.00  Rocha                    1-1 (0-1)  Central Español
+[Tue Sep/1]
+  12.15  Villa Española           2-2 (0-1)  Atenas
+  14.30  Tacuarembó               0-0  Villa Teresa
+  17.00  Racing                   3-1 (2-0)  Sud América
+
+
+Matchday 5
+[Fri Sep/4]
+  10.00  Sud América              6-0 (4-0)  Atenas
+  12.15  Juventud de Las Piedras  0-0  Tacuarembó
+  14.30  Rampla Juniors           3-1 (3-1)  Rocha
+  17.00  Villa Teresa             0-0  Albion
+  19.15  Central Español          2-3 (0-2)  Villa Española
+[Sat Sep/5]
+  10.00  Racing                   3-3 (2-3)  Cerrito
+
+
+Matchday 6
+[Mon Sep/7]
+  12.15  Atenas                   0-1 (0-0)  Central Español
+  14.30  Rocha                    1-2 (0-1)  Villa Teresa
+  17.00  Villa Española           1-2 (0-1)  Rampla Juniors
+[Tue Sep/8]
+  12.15  Albion                   2-1 (0-1)  Juventud de Las Piedras
+  14.30  Cerrito                  1-1 (1-1)  Sud América
+  17.00  Tacuarembó               0-0  Racing
+
+
+Matchday 7
+[Mon Sep/14]
+  12.15  Villa Teresa             0-1 (0-1)  Villa Española
+  14.30  Juventud de Las Piedras  1-1 (1-1)  Rocha
+  16.45  Sud América              1-0 (0-0)  Central Español
+[Tue Sep/15]
+  12.15  Rampla Juniors           1-0 (0-0)  Atenas
+  14.30  Cerrito                  3-1 (0-1)  Tacuarembó
+  16.45  Racing                   1-1 (0-0)  Albion
+
+
+Matchday 8
+[Fri Sep/18]
+  10.00  Albion                   1-3 (0-0)  Cerrito
+  12.15  Villa Española           2-2 (1-2)  Juventud de Las Piedras
+  14.30  Atenas                   2-1 (1-0)  Villa Teresa
+  16.45  Rocha                    1-1 (1-0)  Racing
+  19.00  Tacuarembó               1-2 (1-0)  Sud América
+[Sat Sep/19]
+  10.00  Central Español          3-2 (1-0)  Rampla Juniors
+
+
+Matchday 9
+[Mon Sep/21]
+  12.15  Cerrito                  1-3 (1-2)  Rocha
+  14.30  Tacuarembó               3-2 (2-0)  Albion
+  16.45  Racing                   2-3 (2-0)  Villa Española
+[Tue Sep/22]
+  12.15  Juventud de Las Piedras  1-0 (1-0)  Atenas
+  14.30  Villa Teresa             2-1 (1-0)  Central Español
+  16.45  Sud América              1-1 (0-0)  Rampla Juniors
+
+
+Matchday 10
+[Mon Sep/28]
+  12.15  Central Español          1-1 (0-1)  Juventud de Las Piedras
+  14.30  Rampla Juniors           1-2 (1-0)  Villa Teresa
+  16.45  Rocha                    0-2 (0-2)  Tacuarembó
+[Tue Sep/29]
+  12.15  Villa Española           1-2 (0-2)  Cerrito
+  14.30  Albion                   4-0 (0-0)  Sud América
+  16.45  Atenas                   2-0 (1-0)  Racing
+
+
+Matchday 11
+[Fri Oct/2]
+  10.00  Cerrito                  1-1 (1-0)  Atenas
+  12.15  Albion                   0-0  Rocha
+  14.30  Sud América              1-3 (1-0)  Villa Teresa
+         Juventud de Las Piedras  3-2 (1-1)  Rampla Juniors
+  19.00  Tacuarembó               1-0 (0-0)  Villa Española
+[Sat Oct/3]
+  10.00  Racing                   0-1 (0-0)  Central Español
+
+
+Matchday 12
+[Fri Oct/9]
+  11.30  Racing                   0-0  Rampla Juniors
+  13.45  Juventud de Las Piedras  0-0  Villa Teresa
+         Cerrito                  4-0 (1-0)  Central Español
+  16.00  Rocha                    1-1 (0-0)  Sud América
+  18.15  Albion                   1-2 (0-1)  Villa Española
+[Fri Oct/16]
+  17.00  Tacuarembó               0-0  Atenas
+
+
+Matchday 13
+[Mon Oct/12]
+  12.15  Rampla Juniors           1-1 (0-1)  Cerrito
+  14.30  Sud América              0-2 (0-1)  Juventud de Las Piedras
+  16.45  Villa Española           3-0 (0-0)  Rocha
+  19.00  Central Español          0-1 (0-0)  Tacuarembó
+  21.15  Villa Teresa             0-2 (0-2)  Racing
+[Thu Oct/22]
+  19.00  Atenas                   3-0 (1-0)  Albion
+
+
+Matchday 14
+[Mon Oct/19]
+  10.00  Racing                   0-0  Juventud de Las Piedras
+  12.15  Villa Española           1-0 (1-0)  Sud América
+  14.30  Cerrito                  3-0 (2-0)  Villa Teresa
+  16.45  Albion                   2-1 (1-0)  Central Español
+  19.00  Rocha                    0-0  Atenas
+[Tue Oct/20]
+  19.00  Tacuarembó               0-2 (0-0)  Rampla Juniors
+
+
+Matchday 15
+[Mon Oct/26]
+  15.15  Juventud de Las Piedras  3-1 (2-0)  Cerrito
+  17.30  Central Español          3-0 (3-0)  Rocha
+  19.45  Sud América              1-1 (0-1)  Racing
+[Tue Oct/27]
+  17.45  Rampla Juniors           2-0 (1-0)  Albion
+  19.30  Atenas                   1-1 (1-0)  Villa Española
+  21.45  Villa Teresa             2-1 (1-0)  Tacuarembó
+
+
+Matchday 16
+[Fri Oct/30]
+  09.45  Villa Española           1-1 (1-1)  Central Español
+  12.00  Albion                   0-2 (0-0)  Villa Teresa
+  14.15  Atenas                   2-2 (0-1)  Sud América
+  16.30  Cerrito                  1-1 (0-0)  Racing
+  18.45  Tacuarembó               1-2 (1-0)  Juventud de Las Piedras
+[Sat Oct/31]
+  16.00  Rocha                    1-0 (0-0)  Rampla Juniors
+
+
+Matchday 17
+[Mon Nov/2]
+  17.15  Racing                   1-0 (0-0)  Tacuarembó
+  19.30  Central Español          2-1 (0-1)  Atenas
+  21.45  Sud América              2-1 (1-1)  Cerrito
+[Tue Nov/3]
+  15.15  Juventud de Las Piedras  0-0  Albion
+  17.30  Rampla Juniors           0-0  Villa Española
+  19.45  Villa Teresa             0-0  Rocha
+
+
+Matchday 18
+[Mon Nov/9]
+  10.30  Atenas                   2-2 (2-0)  Rampla Juniors
+  12.45  Central Español          1-1 (1-1)  Sud América
+  17.15  Rocha                    1-1 (1-0)  Juventud de Las Piedras
+[Tue Nov/10]
+  10.30  Albion                   1-2 (0-2)  Racing
+  12.45  Villa Española           3-0 (1-0)  Villa Teresa
+  19.30  Tacuarembó               1-1 (1-0)  Cerrito
+
+
+Matchday 19
+[Mon Nov/16]
+  10.30  Rampla Juniors           2-1 (1-1)  Central Español
+  12.45  Villa Teresa             1-1 (0-0)  Atenas
+  15.00  Racing                   1-0 (0-0)  Rocha
+[Tue Nov/17]
+  10.30  Cerrito                  2-1 (1-1)  Albion
+  12.45  Sud América              1-2 (0-1)  Tacuarembó
+  15.00  Juventud de Las Piedras  0-0  Villa Española
+
+
+Matchday 20
+[Fri Nov/20]
+  10.30  Rocha                    1-2 (1-1)  Cerrito
+  12.45  Atenas                   2-3 (1-1)  Juventud de Las Piedras
+  15.00  Rampla Juniors           1-3 (1-2)  Sud América
+  17.15  Villa Española           0-2 (0-2)  Racing
+  19.30  Albion                   2-1 (1-1)  Tacuarembó
+  21.45  Central Español          3-0 (2-0)  Villa Teresa
+
+
+Matchday 21
+[Tue Nov/24]
+  10.30  Tacuarembó               0-3 (0-1)  Rocha
+  12.45  Juventud de Las Piedras  0-0  Central Español
+  15.00  Cerrito                  1-1 (0-0)  Villa Española
+  17.15  Sud América              0-2 (0-1)  Albion
+  19.30  Villa Teresa             1-1 (1-0)  Rampla Juniors
+  21.45  Racing                   0-2 (0-1)  Atenas
+
+
+Matchday 22
+[Fri Nov/27]
+  10.00  Villa Teresa             0-3 (0-1)  Sud América
+  17.00  Rocha                    1-0 (1-0)  Albion
+  19.15  Central Español          3-1 (2-0)  Racing
+  21.30  Villa Española           3-2 (0-1)  Tacuarembó
+[Sat Nov/28]
+  19.15  Atenas                   0-2 (0-1)  Cerrito
+  21.30  Rampla Juniors           1-0 (0-0)  Juventud de Las Piedras
+
+
+== Playoffs
+
+Semifinals
+[Thu Dec/3]
+  19.00  Sud América              2-0 (1-0)  Juventud de Las Piedras
+  21.15  Racing                   1-0 (1-0)  Rampla Juniors
+[Wed Dec/9]
+  19.15  Rampla Juniors           3-0 (0-0)  Racing
+[Tue Jan/19]
+  17.15  Juventud de Las Piedras  1-0 (1-0)  Sud América
+
+
+Final
+[Sat Jan/23]
+  20.15  Sud América              3-2 (2-1)  Rampla Juniors
+[Fri Jan/29]
+  21.30  Rampla Juniors           1-2 (0-1)  Sud América

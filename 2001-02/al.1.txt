@@ -1,0 +1,305 @@
+= AL 1 2001/02
+
+# Date       Fri Sep/21 2001 - Sat May/25 2002 (246d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Fri Sep/21]
+         FK Vllaznia              1-1  KS Shkumbini
+[Sat Sep/22]
+         FK Partizani             3-2  KF Bylis Ballsh
+         KF Lushnja               0-0  FK Tomori Berat
+         KF Apolonia Fier         1-3  KF Teuta Durrës
+         KS Besëlidhja Lezhë      0-0  Dinamo Tiranë
+         Flamurtari Vlorë         2-1  Erzeni Shijak
+         Shqiponja Gjirokastër    0-2  KF Tiranë
+
+
+Matchday 2
+[Fri Sep/28]
+         KF Tiranë                1-1  Flamurtari Vlorë
+[Sat Sep/29]
+         KF Bylis Ballsh          5-3  Shqiponja Gjirokastër
+         FK Tomori Berat          0-1  FK Partizani
+         KF Teuta Durrës          1-0  KF Lushnja
+         Dinamo Tiranë            3-0  KF Apolonia Fier
+         KS Shkumbini             2-0  KS Besëlidhja Lezhë
+         Erzeni Shijak            5-2  FK Vllaznia
+
+
+Matchday 3
+[Fri Oct/5]
+         KS Besëlidhja Lezhë      1-0  Erzeni Shijak
+[Sat Oct/6]
+         KF Bylis Ballsh          2-1  FK Tomori Berat
+         FK Partizani             1-1  KF Teuta Durrës
+         KF Lushnja               0-3  Dinamo Tiranë
+         KF Apolonia Fier         2-0  KS Shkumbini
+         FK Vllaznia              0-3  KF Tiranë
+         Shqiponja Gjirokastër    1-0  Flamurtari Vlorë
+
+
+Matchday 4
+[Sat Oct/13]
+         FK Tomori Berat          5-0  Shqiponja Gjirokastër
+         KF Teuta Durrës          1-1  KF Bylis Ballsh
+         Dinamo Tiranë            0-1  FK Partizani
+         KS Shkumbini             3-2  KF Lushnja
+         Erzeni Shijak            1-0  KF Apolonia Fier
+         KF Tiranë                3-1  KS Besëlidhja Lezhë
+         Flamurtari Vlorë         0-2  FK Vllaznia
+
+
+Matchday 5
+[Sat Oct/20]
+         FK Tomori Berat          0-2  KF Teuta Durrës
+         KF Bylis Ballsh          1-1  Dinamo Tiranë
+         FK Partizani             5-2  KS Shkumbini
+         KF Lushnja               1-1  Erzeni Shijak
+         KF Apolonia Fier         1-0  KF Tiranë
+         KS Besëlidhja Lezhë      1-0  Flamurtari Vlorë
+         Shqiponja Gjirokastër    0-0  FK Vllaznia
+
+
+Matchday 6
+[Fri Oct/26]
+         Dinamo Tiranë            1-1  FK Tomori Berat
+[Sat Oct/27]
+         KF Teuta Durrës          5-0  Shqiponja Gjirokastër
+         KS Shkumbini             1-0  KF Bylis Ballsh
+         Erzeni Shijak            0-1  FK Partizani
+         KF Tiranë                2-1  KF Lushnja
+         Flamurtari Vlorë         4-1  KF Apolonia Fier
+         FK Vllaznia              2-0  KS Besëlidhja Lezhë
+
+
+Matchday 7
+[Sat Nov/3]
+         KF Teuta Durrës          1-1  Dinamo Tiranë
+         FK Tomori Berat          1-0  KS Shkumbini
+         KF Bylis Ballsh          2-1  Erzeni Shijak
+         FK Partizani             0-0  KF Tiranë
+         KF Apolonia Fier         1-2  FK Vllaznia
+         KF Lushnja               1-0  Flamurtari Vlorë
+         Shqiponja Gjirokastër    1-0  KS Besëlidhja Lezhë
+
+
+Matchday 8
+[Sat Nov/10]
+         Dinamo Tiranë            5-0  Shqiponja Gjirokastër
+         KS Shkumbini             0-2  KF Teuta Durrës
+         Erzeni Shijak            1-0  FK Tomori Berat
+         KF Tiranë                6-0  KF Bylis Ballsh
+         Flamurtari Vlorë         1-1  FK Partizani
+         FK Vllaznia              2-1  KF Lushnja
+         KS Besëlidhja Lezhë      4-0  KF Apolonia Fier
+
+
+Matchday 9
+[Sat Nov/17]
+         KF Teuta Durrës          2-0  Erzeni Shijak
+         FK Tomori Berat          0-4  KF Tiranë
+         KF Bylis Ballsh          2-0  Flamurtari Vlorë
+         KF Lushnja               1-1  KS Besëlidhja Lezhë
+         Shqiponja Gjirokastër    0-1  KF Apolonia Fier
+[Sun Nov/18]
+         Dinamo Tiranë            1-0  KS Shkumbini
+[Wed Nov/28]
+         FK Partizani             0-0  FK Vllaznia
+
+
+Matchday 10
+[Fri Nov/23]
+         KS Besëlidhja Lezhë      0-0  FK Partizani
+[Sat Nov/24]
+         KS Shkumbini             7-0  Shqiponja Gjirokastër
+         Erzeni Shijak            0-2  Dinamo Tiranë
+         KF Tiranë                1-0  KF Teuta Durrës
+         Flamurtari Vlorë         4-2  FK Tomori Berat
+         FK Vllaznia              3-1  KF Bylis Ballsh
+         KF Apolonia Fier         1-0  KF Lushnja
+
+
+Matchday 11
+[Sat Dec/1]
+         KS Shkumbini             4-2  Erzeni Shijak
+         Dinamo Tiranë            3-1  KF Tiranë
+         KF Teuta Durrës          1-0  Flamurtari Vlorë
+         KF Bylis Ballsh          0-0  KS Besëlidhja Lezhë
+         Shqiponja Gjirokastër    1-1  KF Lushnja
+[Sun Dec/2]
+         FK Tomori Berat          0-2  FK Vllaznia
+         FK Partizani             4-0  KF Apolonia Fier
+
+
+Matchday 12
+[Sat Dec/8]
+         Erzeni Shijak            3-0  Shqiponja Gjirokastër
+         KF Tiranë                4-1  KS Shkumbini
+         Flamurtari Vlorë         1-2  Dinamo Tiranë
+         FK Vllaznia              0-2  KF Teuta Durrës
+         KS Besëlidhja Lezhë      5-1  FK Tomori Berat
+         KF Apolonia Fier         2-0  KF Bylis Ballsh
+         KF Lushnja               1-2  FK Partizani
+
+
+Matchday 13
+[Fri Dec/14]
+         FK Partizani             2-0  Shqiponja Gjirokastër
+         KF Teuta Durrës          0-0  KS Besëlidhja Lezhë
+[Sat Dec/15]
+         KF Bylis Ballsh          1-1  KF Lushnja
+         FK Tomori Berat          2-0  KF Apolonia Fier
+         Dinamo Tiranë            3-1  FK Vllaznia
+         KS Shkumbini             0-0  Flamurtari Vlorë
+         Erzeni Shijak            1-3  KF Tiranë
+
+
+Matchday 14
+[Sat Feb/23]
+         Dinamo Tiranë            3-0  KS Besëlidhja Lezhë
+         FK Tomori Berat          0-0  KF Lushnja
+         KF Teuta Durrës          1-0  KF Apolonia Fier
+         KF Bylis Ballsh          1-1  FK Partizani
+         KS Shkumbini             2-1  FK Vllaznia
+         Erzeni Shijak            2-3  Flamurtari Vlorë
+         KF Tiranë                2-1  Shqiponja Gjirokastër
+
+
+Matchday 15
+[Sat Mar/2]
+         Flamurtari Vlorë         0-1  KF Tiranë
+         KF Apolonia Fier         1-2  Dinamo Tiranë
+         KF Lushnja               1-0  KF Teuta Durrës
+         FK Partizani             1-0  FK Tomori Berat
+         Shqiponja Gjirokastër    2-1  KF Bylis Ballsh
+         KS Besëlidhja Lezhë      1-0  KS Shkumbini
+         FK Vllaznia              6-0  Erzeni Shijak
+
+
+Matchday 16
+[Fri Mar/8]
+         Dinamo Tiranë            4-1  KF Lushnja
+[Sat Mar/9]
+         KF Tiranë                1-0  FK Vllaznia
+         Erzeni Shijak            2-1  KS Besëlidhja Lezhë
+         FK Tomori Berat          1-0  KF Bylis Ballsh
+         Flamurtari Vlorë         1-0  Shqiponja Gjirokastër
+         KS Shkumbini             2-0  KF Apolonia Fier
+         KF Teuta Durrës          1-1  FK Partizani
+
+
+Matchday 17
+[Sat Mar/23]
+         FK Partizani             0-2  Dinamo Tiranë
+         FK Vllaznia              1-0  Flamurtari Vlorë
+         KF Bylis Ballsh          2-1  KF Teuta Durrës
+         KF Lushnja               4-0  KS Shkumbini
+         KF Apolonia Fier         2-1  Erzeni Shijak
+         Shqiponja Gjirokastër    2-0  FK Tomori Berat
+         KS Besëlidhja Lezhë      0-0  KF Tiranë
+
+
+Matchday 18
+[Sat Mar/30]
+         KF Teuta Durrës          1-1  FK Tomori Berat
+         Dinamo Tiranë            4-0  KF Bylis Ballsh
+         KS Shkumbini             2-1  FK Partizani
+         Erzeni Shijak            2-1  KF Lushnja
+         KF Tiranë                3-0  KF Apolonia Fier
+         Flamurtari Vlorë         0-0  KS Besëlidhja Lezhë
+         FK Vllaznia              2-0  Shqiponja Gjirokastër
+
+
+Matchday 19
+[Sat Apr/6]
+         KF Lushnja               0-1  KF Tiranë
+         FK Partizani             5-0  Erzeni Shijak
+         FK Tomori Berat          2-3  Dinamo Tiranë
+         KS Besëlidhja Lezhë      0-0  FK Vllaznia
+         KF Apolonia Fier         2-0  Flamurtari Vlorë
+         Shqiponja Gjirokastër    1-0  KF Teuta Durrës
+         KF Bylis Ballsh          0-1  KS Shkumbini
+
+
+Matchday 20
+[Sat Apr/13]
+         Dinamo Tiranë            2-0  KF Teuta Durrës
+         FK Vllaznia              6-0  KF Apolonia Fier
+         Erzeni Shijak            1-0  KF Bylis Ballsh
+         KS Shkumbini             2-0  FK Tomori Berat
+         Flamurtari Vlorë         1-1  KF Lushnja
+         KS Besëlidhja Lezhë      1-0  Shqiponja Gjirokastër
+[Sun Apr/14]
+         KF Tiranë                2-0  FK Partizani
+
+
+Matchday 21
+[Sat Apr/20]
+         FK Partizani             3-0  Flamurtari Vlorë
+         KF Bylis Ballsh          0-0  KF Tiranë
+         KF Teuta Durrës          1-0  KS Shkumbini
+         KF Lushnja               2-1  FK Vllaznia
+         KF Apolonia Fier         1-1  KS Besëlidhja Lezhë
+         FK Tomori Berat          3-1  Erzeni Shijak
+         Shqiponja Gjirokastër    1-2  Dinamo Tiranë
+
+
+Matchday 22
+[Sat Apr/27]
+         KS Shkumbini             0-0  Dinamo Tiranë
+         KF Tiranë                4-2  FK Tomori Berat
+         FK Vllaznia              2-0  FK Partizani
+         KF Apolonia Fier         1-1  Shqiponja Gjirokastër
+         KS Besëlidhja Lezhë      0-2  KF Lushnja
+         Flamurtari Vlorë         2-0  KF Bylis Ballsh
+         Erzeni Shijak            3-2  KF Teuta Durrës
+
+
+Matchday 23
+[Fri May/3]
+         FK Partizani             2-0  KS Besëlidhja Lezhë
+[Sat May/4]
+         Shqiponja Gjirokastër    3-0  KS Shkumbini
+         Dinamo Tiranë            3-0  Erzeni Shijak
+         KF Teuta Durrës          0-1  KF Tiranë
+         FK Tomori Berat          3-2  Flamurtari Vlorë
+         KF Bylis Ballsh          1-0  FK Vllaznia
+         KF Lushnja               3-0  KF Apolonia Fier
+
+
+Matchday 24
+[Sat May/11]
+         KS Besëlidhja Lezhë      1-1  KF Bylis Ballsh
+         KF Tiranë                2-2  Dinamo Tiranë
+         KF Lushnja               2-1  Shqiponja Gjirokastër
+         Erzeni Shijak            2-1  KS Shkumbini
+         Flamurtari Vlorë         1-0  KF Teuta Durrës
+         FK Vllaznia              7-1  FK Tomori Berat
+         KF Apolonia Fier         3-1  FK Partizani
+
+
+Matchday 25
+[Fri May/17]
+         FK Partizani             3-1  KF Lushnja
+[Sat May/18]
+         Shqiponja Gjirokastër    3-0  Erzeni Shijak
+         KS Shkumbini             0-1  KF Tiranë
+         Dinamo Tiranë            2-1  Flamurtari Vlorë
+         KF Teuta Durrës          2-1  FK Vllaznia
+         FK Tomori Berat          3-2  KS Besëlidhja Lezhë
+         KF Bylis Ballsh          4-1  KF Apolonia Fier
+
+
+Matchday 26
+[Sat May/25]
+         Shqiponja Gjirokastër    3-2  FK Partizani
+         KS Besëlidhja Lezhë      0-1  KF Teuta Durrës
+         KF Lushnja               4-1  KF Bylis Ballsh
+         KF Apolonia Fier         1-0  FK Tomori Berat
+         FK Vllaznia              0-1  Dinamo Tiranë
+         Flamurtari Vlorë         2-1  KS Shkumbini
+         KF Tiranë                4-1  Erzeni Shijak

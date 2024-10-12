@@ -1,0 +1,96 @@
+= NIR 1 2019
+
+# Date       Fri Apr/5 - Sat May/11 2019 (36d)
+# Teams      12
+# Matches    33
+# Stages     Championship (15)  EL Playoffs (3)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Fri Apr/5]
+  19.45  Ballymena United         0-1 (0-0)  Linfield FC
+[Sat Apr/6]
+  15.00  Cliftonville FC          4-2 (3-2)  Coleraine FC
+         Glenavon FC              2-1 (0-0)  Crusaders FC
+
+
+Matchday 2
+[Sat Apr/13]
+  15.00  Cliftonville FC          1-1 (1-1)  Ballymena United
+         Glenavon FC              1-1 (0-0)  Coleraine FC
+         Linfield FC              0-0  Crusaders FC
+
+
+Matchday 3
+[Sat Apr/20]
+  15.00  Ballymena United         1-0 (1-0)  Coleraine FC
+         Cliftonville FC          2-0 (2-0)  Crusaders FC
+         Linfield FC              0-4 (0-2)  Glenavon FC
+
+
+Matchday 4
+[Tue Apr/23]
+  19.45  Ballymena United         4-3 (2-1)  Glenavon FC
+         Coleraine FC             4-2 (2-1)  Crusaders FC
+         Linfield FC              5-1 (3-0)  Cliftonville FC
+
+
+Matchday 5
+[Sat Apr/27]
+  15.00  Ballymena United         0-3 (0-2)  Crusaders FC
+         Coleraine FC             1-1 (1-0)  Linfield FC
+         Glenavon FC              4-0 (3-0)  Cliftonville FC
+
+
+== EL Playoffs
+
+Semifinals
+[Tue May/7]
+  19.45  Glenavon FC              2-4 (1-1)  Glentoran FC
+         Cliftonville FC          5-3 a.e.t. (3-3, 1-2)  Coleraine FC
+
+
+Final
+[Sat May/11]
+  17.30  Glentoran FC             0-2 a.e.t. (0-0)  Cliftonville FC
+
+
+== Relegation
+
+Matchday 1
+[Fri Apr/5]
+  19.45  Newry City FC            3-0 (2-0)  Ards FC
+[Sat Apr/6]
+  15.00  Dungannon Swifts         1-2 (1-1)  Glentoran FC
+         Institute FC Drumahoe    2-1 (0-0)  Warrenpoint Town
+
+
+Matchday 2
+[Sat Apr/13]
+  15.00  Ards FC                  1-1 (0-0)  Glentoran FC
+         Dungannon Swifts         2-1 (0-0)  Institute FC Drumahoe
+  17.30  Warrenpoint Town         2-4 (0-4)  Newry City FC
+
+
+Matchday 3
+[Fri Apr/19]
+  19.45  Newry City FC            0-2 (0-2)  Glentoran FC
+[Sat Apr/20]
+  15.00  Institute FC Drumahoe    0-1 (0-0)  Ards FC
+         Warrenpoint Town         5-3 (2-3)  Dungannon Swifts
+
+
+Matchday 4
+[Tue Apr/23]
+  19.45  Ards FC                  1-0 (1-0)  Dungannon Swifts
+         Glentoran FC             2-2 (0-1)  Warrenpoint Town
+         Institute FC Drumahoe    2-1 (1-0)  Newry City FC
+
+
+Matchday 5
+[Sat Apr/27]
+  15.00  Glentoran FC             2-0 (0-0)  Institute FC Drumahoe
+         Newry City FC            0-1 (0-0)  Dungannon Swifts
+         Warrenpoint Town         1-1 (1-1)  Ards FC

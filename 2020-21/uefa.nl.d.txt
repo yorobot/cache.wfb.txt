@@ -1,0 +1,42 @@
+= UEFA NL D 2020/21
+
+# Date       Thu Sep/3 - Tue Nov/17 2020 (75d)
+# Teams      7
+# Matches    18
+
+
+
+Gruppe 1
+[Thu Sep/3]
+  18.00  Lettland                 0-0  Andorra
+  20.45  Färöer                   3-2 (1-1)  Malta
+[Sun Sep/6]
+  15.00  Andorra                  0-1 (0-1)  Färöer
+  20.45  Malta                    1-1 (1-1)  Lettland
+[Sat Oct/10]
+  18.00  Färöer                   1-1 (1-1)  Lettland
+  20.45  Andorra                  0-0  Malta
+[Tue Oct/13]
+  18.00  Lettland                 0-1 (0-0)  Malta
+  20.45  Färöer                   2-0 (2-0)  Andorra
+[Sat Nov/14]
+  15.00  Malta                    3-1 (0-1)  Andorra
+  18.00  Lettland                 1-1 (0-0)  Färöer
+[Tue Nov/17]
+  20.45  Andorra                  0-5 (0-1)  Lettland
+         Malta                    1-1 (0-0)  Färöer
+
+
+Gruppe 2
+[Sat Sep/5]
+  15.00  Gibraltar                1-0 (1-0)  San Marino
+[Tue Sep/8]
+  20.45  San Marino               0-2 (0-2)  Liechtenstein
+[Sat Oct/10]
+  18.00  Liechtenstein            0-1 (0-1)  Gibraltar
+[Tue Oct/13]
+  20.45  Liechtenstein            0-0  San Marino
+[Sat Nov/14]
+  15.00  San Marino               0-0  Gibraltar
+[Tue Nov/17]
+  20.45  Gibraltar                1-1 (1-1)  Liechtenstein

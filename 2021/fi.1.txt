@@ -1,0 +1,296 @@
+= FI 1 2021
+
+# Date       Sat Apr/24 - Sun Oct/31 2021 (190d)
+# Teams      12
+# Matches    162
+# Stages     Regular Season (132)  Relegation (15)  Championship (15)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Apr/24]
+  15.00  HJK Helsinki             4-2 (1-1)  FC Honka
+  17.00  Inter Turku              1-0 (0-0)  Kuopion PS
+
+
+Matchday 2
+[Sun May/2]
+  18.30  Kuopion PS               0-0  HJK Helsinki
+[Mon May/3]
+  18.30  AC Oulu                  0-2 (0-2)  Ilves Tampere
+         FC Honka                 0-2 (0-1)  IFK Mariehamn
+         FC Lahti                 2-1 (1-0)  Inter Turku
+         Helsingfors IFK          2-0 (1-0)  Haka Valkeakoski
+         SJK Seinäjoki            1-1 (0-1)  KTP
+[Fri May/7]
+  18.30  KTP                      1-3 (0-2)  FC Honka
+         SJK Seinäjoki            1-1 (0-0)  Helsingfors IFK
+[Sun May/9]
+  16.00  Inter Turku              2-1 (1-1)  Haka Valkeakoski
+  18.30  IFK Mariehamn            3-1 (3-0)  AC Oulu
+[Tue May/11]
+  18.30  FC Lahti                 2-4 (1-2)  Kuopion PS
+         Ilves Tampere            0-3 (0-3)  HJK Helsinki
+[Fri May/14]
+  18.30  FC Honka                 1-2 (0-0)  Inter Turku
+         Haka Valkeakoski         0-3 (0-1)  KTP
+         Kuopion PS               2-0 (2-0)  IFK Mariehamn
+[Sat May/15]
+  17.00  AC Oulu                  0-2 (0-0)  SJK Seinäjoki
+         Helsingfors IFK          1-1 (1-0)  Ilves Tampere
+[Mon May/17]
+  18.30  HJK Helsinki             2-0 (0-0)  FC Lahti
+[Sat May/22]
+  15.00  Inter Turku              2-1 (0-0)  KTP
+  17.00  FC Lahti                 1-0 (0-0)  FC Honka
+         SJK Seinäjoki            0-2 (0-0)  HJK Helsinki
+  19.00  Ilves Tampere            3-2 (1-1)  Kuopion PS
+[Sun May/23]
+  18.30  AC Oulu                  1-2 (1-1)  Helsingfors IFK
+         IFK Mariehamn            0-3 (0-0)  Haka Valkeakoski
+[Fri May/28]
+  18.00  HJK Helsinki             3-1 (1-0)  AC Oulu
+  18.30  Ilves Tampere            2-0 (0-0)  KTP
+[Sat May/29]
+  15.00  FC Honka                 0-1 (0-0)  SJK Seinäjoki
+  17.00  Helsingfors IFK          1-4 (1-2)  Inter Turku
+         Kuopion PS               1-2 (0-1)  Haka Valkeakoski
+[Sun May/30]
+  18.30  IFK Mariehamn            0-3 (0-0)  FC Lahti
+
+
+Matchday 3
+[Thu Jun/10]
+  18.00  Inter Turku              3-0 (1-0)  IFK Mariehamn
+  18.30  FC Lahti                 3-1 (2-1)  Ilves Tampere
+         Haka Valkeakoski         1-2 (0-0)  HJK Helsinki
+         KTP                      0-2 (0-1)  Helsingfors IFK
+         SJK Seinäjoki            0-1 (0-1)  Kuopion PS
+[Fri Jun/11]
+  18.30  AC Oulu                  0-2 (0-0)  FC Honka
+[Mon Jun/14]
+  18.30  IFK Mariehamn            0-1 (0-0)  HJK Helsinki
+         Kuopion PS               1-0 (1-0)  Inter Turku
+         SJK Seinäjoki            1-0 (0-0)  Ilves Tampere
+[Tue Jun/15]
+  18.00  Helsingfors IFK          1-0 (1-0)  FC Honka
+  18.30  Haka Valkeakoski         1-1 (0-0)  FC Lahti
+         KTP                      1-3 (0-0)  AC Oulu
+[Fri Jun/18]
+  18.00  HJK Helsinki             2-1 (1-1)  Ilves Tampere
+  18.30  Inter Turku              2-0 (0-0)  SJK Seinäjoki
+[Sat Jun/19]
+  17.00  Kuopion PS               2-1 (0-1)  FC Honka
+[Wed Jun/23]
+  18.30  Ilves Tampere            2-1 (1-1)  Inter Turku
+         FC Lahti                 0-0  Helsingfors IFK
+[Thu Jun/24]
+  18.30  IFK Mariehamn            0-1 (0-1)  SJK Seinäjoki
+         AC Oulu                  0-2 (0-1)  Kuopion PS
+         FC Honka                 2-1 (0-1)  Haka Valkeakoski
+         HJK Helsinki             2-0 (1-0)  KTP
+[Wed Jun/30]
+  18.30  Haka Valkeakoski         1-1 (1-0)  FC Honka
+         Helsingfors IFK          0-1 (0-1)  HJK Helsinki
+         Inter Turku              1-1 (1-0)  FC Lahti
+         KTP                      1-1 (0-0)  Ilves Tampere
+         Kuopion PS               2-0 (0-0)  AC Oulu
+         SJK Seinäjoki            3-0 (2-0)  IFK Mariehamn
+
+
+Matchday 4
+[Sun Jul/4]
+  18.30  FC Lahti                 2-1 (0-1)  SJK Seinäjoki
+         IFK Mariehamn            0-0  Helsingfors IFK
+[Mon Jul/5]
+  18.30  AC Oulu                  1-1 (0-1)  KTP
+         Ilves Tampere            1-0 (1-0)  Haka Valkeakoski
+[Sun Jul/11]
+  18.30  FC Honka                 1-0 (1-0)  AC Oulu
+         Haka Valkeakoski         0-1 (0-1)  Kuopion PS
+[Mon Jul/12]
+  18.30  Helsingfors IFK          0-1 (0-0)  FC Lahti
+         KTP                      1-3 (0-1)  IFK Mariehamn
+[Fri Jul/16]
+  18.30  Ilves Tampere            0-1 (0-1)  SJK Seinäjoki
+         FC Lahti                 1-1 (0-0)  IFK Mariehamn
+[Sat Jul/17]
+  18.30  AC Oulu                  2-1 (1-0)  HJK Helsinki
+[Mon Jul/19]
+  18.30  Inter Turku              0-1 (0-0)  Helsingfors IFK
+         KTP                      0-0  Haka Valkeakoski
+[Fri Jul/23]
+  18.30  Helsingfors IFK          2-2 (1-1)  KTP
+[Sat Jul/24]
+  17.00  HJK Helsinki             2-0 (2-0)  Haka Valkeakoski
+         SJK Seinäjoki            3-2 (1-0)  AC Oulu
+[Sun Jul/25]
+  16.30  IFK Mariehamn            0-2 (0-0)  Inter Turku
+  18.30  FC Honka                 1-1 (1-0)  FC Lahti
+         Kuopion PS               1-0 (1-0)  Ilves Tampere
+[Fri Jul/30]
+  18.30  Ilves Tampere            1-0 (0-0)  AC Oulu
+         FC Lahti                 3-0 (1-0)  KTP
+[Sat Jul/31]
+  17.00  HJK Helsinki             0-0  SJK Seinäjoki
+
+
+Matchday 5
+[Mon Aug/2]
+  18.30  Inter Turku              2-2 (2-1)  FC Honka
+[Sat Aug/7]
+  15.00  AC Oulu                  1-0 (1-0)  IFK Mariehamn
+  17.00  KTP                      0-1 (0-1)  HJK Helsinki
+[Sun Aug/8]
+  16.00  Haka Valkeakoski         1-0 (1-0)  Inter Turku
+  18.30  FC Honka                 4-1 (1-0)  Ilves Tampere
+         Kuopion PS               2-2 (2-1)  FC Lahti
+[Fri Aug/13]
+  18.30  FC Lahti                 0-2 (0-2)  Haka Valkeakoski
+[Sat Aug/14]
+  17.00  AC Oulu                  2-0 (1-0)  Inter Turku
+[Sun Aug/15]
+  15.00  HJK Helsinki             1-0 (0-0)  IFK Mariehamn
+  18.30  Kuopion PS               4-0 (2-0)  KTP
+[Mon Aug/16]
+  18.30  SJK Seinäjoki            3-2 (0-1)  FC Honka
+[Fri Aug/20]
+  18.30  Haka Valkeakoski         0-1 (0-1)  AC Oulu
+[Sat Aug/21]
+  15.00  Inter Turku              2-0 (0-0)  Ilves Tampere
+[Sun Aug/22]
+  18.30  Helsingfors IFK          1-5 (1-0)  Kuopion PS
+         IFK Mariehamn            1-3 (0-3)  FC Honka
+[Mon Aug/23]
+  18.30  FC Lahti                 0-1 (0-1)  HJK Helsinki
+[Fri Aug/27]
+  18.30  SJK Seinäjoki            4-0 (1-0)  Haka Valkeakoski
+[Sat Aug/28]
+  13.00  FC Honka                 0-3 (0-2)  Helsingfors IFK
+  17.00  AC Oulu                  1-1 (0-1)  FC Lahti
+[Sun Aug/29]
+  18.30  HJK Helsinki             1-1 (0-1)  Kuopion PS
+         IFK Mariehamn            1-0 (0-0)  Ilves Tampere
+[Tue Aug/31]
+  18.30  KTP                      1-3 (0-1)  Inter Turku
+
+
+Matchday 6
+[Sun Sep/5]
+  18.30  IFK Mariehamn            0-1 (0-0)  Kuopion PS
+[Tue Sep/7]
+  18.30  Helsingfors IFK          1-0 (1-0)  SJK Seinäjoki
+[Sat Sep/11]
+  17.00  FC Honka                 3-1 (0-1)  KTP
+         Ilves Tampere            1-0 (1-0)  FC Lahti
+         Haka Valkeakoski         1-2 (0-1)  IFK Mariehamn
+         Helsingfors IFK          3-1 (3-1)  AC Oulu
+         Inter Turku              1-3 (1-3)  HJK Helsinki
+         Kuopion PS               3-0 (2-0)  SJK Seinäjoki
+[Tue Sep/14]
+  18.30  Ilves Tampere            1-0 (0-0)  Helsingfors IFK
+         KTP                      0-1 (0-0)  SJK Seinäjoki
+[Sat Sep/18]
+  15.00  Helsingfors IFK          0-3 (0-2)  IFK Mariehamn
+  17.00  FC Lahti                 0-0  AC Oulu
+         Haka Valkeakoski         0-1 (0-0)  Ilves Tampere
+         KTP                      1-2 (1-2)  Kuopion PS
+         SJK Seinäjoki            2-2 (1-0)  Inter Turku
+[Sun Sep/19]
+  15.00  FC Honka                 0-0  HJK Helsinki
+[Wed Sep/22]
+  18.30  FC Honka                 0-1 (0-0)  Kuopion PS
+         HJK Helsinki             0-2 (0-1)  Helsingfors IFK
+         Inter Turku              4-0 (3-0)  AC Oulu
+         Ilves Tampere            2-0 (1-0)  IFK Mariehamn
+         Haka Valkeakoski         4-0 (2-0)  SJK Seinäjoki
+         KTP                      1-2 (1-2)  FC Lahti
+[Sun Sep/26]
+  18.30  Ilves Tampere            0-0  FC Honka
+         HJK Helsinki             0-1 (0-0)  Inter Turku
+         Kuopion PS               0-0  Helsingfors IFK
+         SJK Seinäjoki            4-1 (3-0)  FC Lahti
+         AC Oulu                  0-1 (0-1)  Haka Valkeakoski
+         IFK Mariehamn            4-2 (3-2)  KTP
+[Thu Sep/30]
+  18.30  Haka Valkeakoski         2-0 (1-0)  Helsingfors IFK
+
+
+== Relegation
+
+Matchday 1
+[Sat Oct/2]
+  15.00  FC Honka                 1-1 (0-1)  IFK Mariehamn
+[Sun Oct/3]
+  15.00  FC Lahti                 2-1 (1-0)  KTP
+  17.00  Haka Valkeakoski         0-0  AC Oulu
+
+
+Matchday 2
+[Sat Oct/16]
+  17.00  AC Oulu                  1-2 (0-1)  IFK Mariehamn
+         Haka Valkeakoski         1-1 (1-1)  FC Lahti
+         KTP                      2-0 (0-0)  FC Honka
+
+
+Matchday 3
+[Fri Oct/22]
+  17.30  FC Lahti                 0-0  AC Oulu
+[Sat Oct/23]
+  15.00  FC Honka                 0-2 (0-1)  Haka Valkeakoski
+  17.00  IFK Mariehamn            5-1 (4-0)  KTP
+
+
+Matchday 4
+[Wed Oct/27]
+  18.30  FC Honka                 6-1 (3-0)  AC Oulu
+         IFK Mariehamn            0-3 (0-1)  FC Lahti
+         KTP                      2-4 (0-3)  Haka Valkeakoski
+
+
+Matchday 5
+[Sun Oct/31]
+  15.00  AC Oulu                  2-1 (1-1)  KTP
+         Haka Valkeakoski         2-0 (0-0)  IFK Mariehamn
+         FC Lahti                 2-3 (0-2)  FC Honka
+
+
+== Championship
+
+Matchday 1
+[Sat Oct/2]
+  17.00  Kuopion PS               2-1 (2-1)  Ilves Tampere
+[Sun Oct/3]
+  17.00  Inter Turku              2-0 (0-0)  Helsingfors IFK
+  18.30  HJK Helsinki             2-3 (1-0)  SJK Seinäjoki
+
+
+Matchday 2
+[Sat Oct/16]
+  15.00  Ilves Tampere            2-3 (1-2)  HJK Helsinki
+  17.00  Inter Turku              2-3 (0-1)  Kuopion PS
+         Helsingfors IFK          2-2 (1-0)  SJK Seinäjoki
+
+
+Matchday 3
+[Fri Oct/22]
+  18.30  SJK Seinäjoki            4-2 (2-0)  Ilves Tampere
+[Sat Oct/23]
+  17.00  Kuopion PS               0-0  Helsingfors IFK
+[Sun Oct/24]
+  18.30  HJK Helsinki             2-1 (1-0)  Inter Turku
+
+
+Matchday 4
+[Wed Oct/27]
+  18.30  HJK Helsinki             1-0 (0-0)  Helsingfors IFK
+         Ilves Tampere            0-2 (0-1)  Inter Turku
+         SJK Seinäjoki            2-2 (2-1)  Kuopion PS
+
+
+Matchday 5
+[Sun Oct/31]
+  17.00  Inter Turku              2-5 (0-3)  SJK Seinäjoki
+         Helsingfors IFK          0-3 (0-1)  Ilves Tampere
+         Kuopion PS               1-1 (1-1)  HJK Helsinki

@@ -1,0 +1,359 @@
+= SI 1 2006/07
+
+# Date       Sat Jul/29 2006 - Sat May/26 2007 (301d)
+# Teams      12
+# Matches    180
+
+
+
+Matchday 1
+[Sat Jul/29]
+  20.00  NK Maribor               1-0  NK Drava
+         NK Publikum Celje        0-0  ND Gorica
+[Sun Jul/30]
+  17.30  NK Primorje              1-0  NK Nafta
+  20.00  NK Domžale               1-0  NK Bela Krajina
+[Mon Jul/31]
+  17.30  FC Anet Koper            3-1  NK Factor Ljubljana
+
+
+Matchday 2
+[Fri Aug/4]
+  20.00  NK Publikum Celje        1-3  NK Domžale
+[Sat Aug/5]
+  17.30  NK Factor Ljubljana      0-4  NK Primorje
+         NK Drava                 2-1  FC Anet Koper
+[Sun Aug/6]
+  17.30  NK Bela Krajina          2-1  NK Maribor
+  20.00  ND Gorica                2-0  NK Nafta
+
+
+Matchday 3
+[Sat Aug/12]
+  17.00  FC Anet Koper            2-2  NK Bela Krajina
+         NK Primorje              1-0  NK Drava
+         NK Nafta                 2-2  NK Factor Ljubljana
+[Sun Aug/13]
+  18.00  NK Maribor               2-0  NK Publikum Celje
+  20.00  NK Domžale               1-0  ND Gorica
+
+
+Matchday 4
+[Sat Aug/19]
+  17.00  ND Gorica                5-0  NK Factor Ljubljana
+         NK Drava                 3-0  NK Nafta
+  20.00  NK Publikum Celje        1-1  FC Anet Koper
+         NK Domžale               3-1  NK Maribor
+[Sun Aug/20]
+  17.00  NK Bela Krajina          2-2  NK Primorje
+
+
+Matchday 5
+[Sat Aug/26]
+  17.00  NK Nafta                 1-0  NK Bela Krajina
+         NK Factor Ljubljana      0-1  NK Drava
+[Sun Aug/27]
+  17.00  FC Anet Koper            1-1  NK Domžale
+         NK Primorje              2-0  NK Publikum Celje
+  20.00  NK Maribor               1-1  ND Gorica
+
+
+Matchday 6
+[Wed Aug/30]
+  17.00  NK Bela Krajina          0-1  NK Factor Ljubljana
+  20.00  ND Gorica                3-2  NK Drava
+         NK Publikum Celje        1-2  NK Nafta
+         NK Domžale               3-1  NK Primorje
+         NK Maribor               1-1  FC Anet Koper
+
+
+Matchday 7
+[Fri Sep/8]
+  16.30  NK Factor Ljubljana      2-4  NK Publikum Celje
+[Sat Sep/9]
+  16.30  FC Anet Koper            1-1  ND Gorica
+         NK Nafta                 1-2  NK Domžale
+         NK Drava                 4-2  NK Bela Krajina
+[Sun Sep/10]
+  17.15  NK Primorje              3-2  NK Maribor
+
+
+Matchday 8
+[Wed Sep/13]
+  16.30  FC Anet Koper            0-0  NK Primorje
+  18.00  ND Gorica                1-4  NK Bela Krajina
+         NK Publikum Celje        3-3  NK Drava
+         NK Domžale               1-0  NK Factor Ljubljana
+  20.00  NK Maribor               1-3  NK Nafta
+
+
+Matchday 9
+[Sat Sep/16]
+  16.30  NK Nafta                 1-1  FC Anet Koper
+         NK Drava                 1-1  NK Domžale
+[Sun Sep/17]
+  16.30  NK Primorje              3-3  ND Gorica
+         NK Factor Ljubljana      0-2  NK Maribor
+         NK Bela Krajina          1-1  NK Publikum Celje
+
+
+Matchday 10
+[Sat Sep/23]
+  16.30  NK Drava                 1-1  NK Maribor
+         NK Factor Ljubljana      2-2  FC Anet Koper
+         NK Nafta                 2-0  NK Primorje
+  20.00  ND Gorica                2-0  NK Publikum Celje
+[Sun Sep/24]
+  16.30  NK Bela Krajina          1-2  NK Domžale
+
+
+Matchday 11
+[Wed Sep/27]
+  16.30  NK Nafta                 2-0  ND Gorica
+         NK Primorje              3-1  NK Factor Ljubljana
+         FC Anet Koper            1-0  NK Drava
+  18.00  NK Maribor               3-0  NK Bela Krajina
+  20.00  NK Domžale               0-0  NK Publikum Celje
+
+
+Matchday 12
+[Sat Sep/30]
+  16.00  NK Drava                 0-2  NK Primorje
+  20.00  ND Gorica                0-0  NK Domžale
+         NK Publikum Celje        1-3  NK Maribor
+[Sun Oct/1]
+  16.00  NK Bela Krajina          2-2  FC Anet Koper
+         NK Factor Ljubljana      1-4  NK Nafta
+
+
+Matchday 13
+[Sat Oct/14]
+  15.00  NK Nafta                 1-1  NK Drava
+         NK Primorje              2-0  NK Bela Krajina
+         FC Anet Koper            0-2  NK Publikum Celje
+  20.00  NK Maribor               1-1  NK Domžale
+[Sun Oct/15]
+  15.00  NK Factor Ljubljana      1-1  ND Gorica
+
+
+Matchday 14
+[Wed Oct/18]
+  15.00  NK Bela Krajina          0-0  NK Nafta
+         NK Drava                 0-2  NK Factor Ljubljana
+  18.00  NK Domžale               3-2  FC Anet Koper
+         NK Publikum Celje        2-0  NK Primorje
+  20.00  ND Gorica                1-4  NK Maribor
+
+
+Matchday 15
+[Sat Oct/21]
+  15.00  NK Drava                 3-1  ND Gorica
+         NK Nafta                 2-1  NK Publikum Celje
+         FC Anet Koper            2-2  NK Maribor
+[Sun Oct/22]
+  15.00  NK Factor Ljubljana      1-1  NK Bela Krajina
+         NK Primorje              0-2  NK Domžale
+
+
+Matchday 16
+[Sat Oct/28]
+  18.00  NK Maribor               2-0  NK Primorje
+         NK Domžale               6-2  NK Nafta
+[Sun Oct/29]
+  14.00  NK Bela Krajina          2-4  NK Drava
+  18.00  ND Gorica                1-0  FC Anet Koper
+         NK Publikum Celje        1-1  NK Factor Ljubljana
+
+
+Matchday 17
+[Sat Nov/4]
+  14.00  NK Drava                 2-2  NK Publikum Celje
+         NK Nafta                 1-1  NK Maribor
+[Sun Nov/5]
+  14.00  NK Bela Krajina          1-1  ND Gorica
+         NK Factor Ljubljana      2-2  NK Domžale
+         NK Primorje              0-0  FC Anet Koper
+
+
+Matchday 18
+[Fri Nov/10]
+  17.00  NK Domžale               1-1  NK Drava
+[Sat Nov/11]
+  14.00  FC Anet Koper            2-2  NK Nafta
+         NK Maribor               3-2  NK Factor Ljubljana
+         NK Publikum Celje        5-0  NK Bela Krajina
+  18.00  ND Gorica                3-1  NK Primorje
+
+
+Matchday 19
+[Sat Nov/18]
+  14.00  NK Maribor               1-1  NK Drava
+         FC Anet Koper            1-1  NK Factor Ljubljana
+  16.00  NK Publikum Celje        1-3  ND Gorica
+         NK Domžale               1-0  NK Bela Krajina
+[Sun Nov/19]
+  14.00  NK Primorje              3-0  NK Nafta
+
+
+Matchday 20
+[Sat Nov/25]
+  14.00  NK Factor Ljubljana      0-0  NK Primorje
+         NK Drava                 2-1  FC Anet Koper
+  16.00  NK Publikum Celje        1-4  NK Domžale
+  18.00  ND Gorica                2-1  NK Nafta
+[Sun Nov/26]
+  14.00  NK Bela Krajina          1-1  NK Maribor
+
+
+Matchday 21
+[Sat Mar/3]
+  15.00  FC Anet Koper            2-1  NK Bela Krajina
+         NK Nafta                 3-1  Interblock Ljubljana
+  17.30  NK Domžale               4-0  ND Gorica
+         NK Maribor               2-2  NK Celje
+[Sun Mar/4]
+  15.00  NK Primorje              1-3  NK Drava
+
+
+Matchday 22
+[Sat Mar/10]
+  17.00  ND Gorica                3-2  Interblock Ljubljana
+  19.00  NK Celje                 2-3  FC Anet Koper
+[Sun Mar/11]
+  15.00  NK Drava                 3-1  NK Nafta
+         NK Bela Krajina          0-0  NK Primorje
+  18.00  NK Domžale               3-0  NK Maribor
+
+
+Matchday 23
+[Sat Mar/17]
+  15.00  FC Anet Koper            1-1  NK Domžale
+         NK Nafta                 1-2  NK Bela Krajina
+         Interblock Ljubljana     2-0  NK Drava
+[Sun Mar/18]
+  15.00  NK Primorje              2-3  NK Celje
+  17.45  NK Maribor               3-2  ND Gorica
+
+
+Matchday 24
+[Sat Mar/31]
+  17.00  NK Domžale               1-1  NK Primorje
+  19.00  ND Gorica                2-1  NK Drava
+         NK Celje                 0-1  NK Nafta
+         NK Maribor               0-0  FC Anet Koper
+[Sun Apr/1]
+  16.30  NK Bela Krajina          2-2  Interblock Ljubljana
+
+
+Matchday 25
+[Wed Apr/4]
+  16.30  FC Anet Koper            1-2  ND Gorica
+         NK Primorje              3-1  NK Maribor
+         NK Nafta                 0-0  NK Domžale
+         Interblock Ljubljana     0-1  NK Celje
+         NK Drava                 1-6  NK Bela Krajina
+
+
+Matchday 26
+[Sat Apr/7]
+  16.30  FC Anet Koper            0-2  NK Primorje
+  17.00  NK Maribor               6-2  NK Nafta
+  19.00  ND Gorica                3-2  NK Bela Krajina
+         NK Celje                 0-0  NK Drava
+  20.00  NK Domžale               3-0  Interblock Ljubljana
+
+
+Matchday 27
+[Wed Apr/11]
+  17.00  NK Primorje              1-2  ND Gorica
+         NK Nafta                 1-0  FC Anet Koper
+         Interblock Ljubljana     1-2  NK Maribor
+         NK Drava                 1-2  NK Domžale
+         NK Bela Krajina          0-2  NK Celje
+
+
+Matchday 28
+[Sat Apr/14]
+  17.00  NK Nafta                 1-1  NK Primorje
+  19.00  ND Gorica                1-3  NK Celje
+[Sun Apr/15]
+  17.00  NK Bela Krajina          1-0  NK Domžale
+         NK Drava                 1-1  NK Maribor
+         Interblock Ljubljana     0-1  FC Anet Koper
+
+
+Matchday 29
+[Sat Apr/21]
+  16.00  FC Anet Koper            1-2  NK Drava
+  17.00  NK Nafta                 2-0  ND Gorica
+  20.00  NK Maribor               2-1  NK Bela Krajina
+         NK Domžale               0-0  NK Celje
+[Sun Apr/22]
+  17.00  NK Primorje              3-2  Interblock Ljubljana
+
+
+Matchday 30
+[Fri Apr/27]
+  17.00  Interblock Ljubljana     2-0  NK Nafta
+[Sat Apr/28]
+  20.00  ND Gorica                6-1  NK Domžale
+         NK Celje                 4-1  NK Maribor
+[Sun Apr/29]
+  17.00  NK Bela Krajina          1-2  FC Anet Koper
+         NK Drava                 1-1  NK Primorje
+
+
+Matchday 31
+[Wed May/2]
+  17.00  Interblock Ljubljana     0-3  ND Gorica
+         NK Nafta                 1-3  NK Drava
+         NK Primorje              2-1  NK Bela Krajina
+         FC Anet Koper            2-0  NK Celje
+  20.00  NK Maribor               2-0  NK Domžale
+
+
+Matchday 32
+[Sat May/5]
+  18.00  ND Gorica                4-1  NK Maribor
+  20.00  NK Domžale               2-1  FC Anet Koper
+         NK Celje                 3-1  NK Primorje
+[Sun May/6]
+  17.00  NK Bela Krajina          0-3  NK Nafta
+         NK Drava                 3-0  Interblock Ljubljana
+
+
+Matchday 33
+[Sat May/12]
+  17.00  Interblock Ljubljana     1-0  NK Bela Krajina
+         NK Nafta                 1-1  NK Celje
+         FC Anet Koper            2-1  NK Maribor
+[Sun May/13]
+  16.00  NK Primorje              0-4  NK Domžale
+  17.00  NK Drava                 6-4  ND Gorica
+
+
+Matchday 34
+[Wed May/16]
+  17.00  NK Bela Krajina          0-2  NK Drava
+  18.15  NK Maribor               1-1  NK Primorje
+         NK Domžale               3-0  NK Nafta
+  20.00  ND Gorica                1-7  FC Anet Koper
+         NK Celje                 1-1  Interblock Ljubljana
+
+
+Matchday 35
+[Sat May/19]
+  17.00  NK Bela Krajina          0-1  ND Gorica
+         NK Drava                 3-1  NK Celje
+         Interblock Ljubljana     0-0  NK Domžale
+         NK Nafta                 0-4  NK Maribor
+         NK Primorje              2-1  FC Anet Koper
+
+
+Matchday 36
+[Sat May/26]
+  18.00  ND Gorica                1-3  NK Primorje
+         FC Anet Koper            3-1  NK Nafta
+         NK Maribor               3-0  Interblock Ljubljana
+         NK Domžale               2-0  NK Drava
+         NK Celje                 4-0  NK Bela Krajina

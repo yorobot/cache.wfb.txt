@@ -1,0 +1,471 @@
+= GR 1 2019/20
+
+# Date       Sat Aug/24 2019 - Sun Jul/19 2020 (330d)
+# Teams      14
+# Matches    240
+# Stages     Regular Season (182)  Relegation (28)  Championship (30)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Aug/24]
+  19.00  Lamia                    1-1 (1-1)  Panathinaikos
+  21.00  Aris Saloniki            1-1 (0-1)  OFI Heraklion
+  21.30  Olympiakos Piraeus       1-0 (1-0)  Asteras Tripolis
+[Sun Aug/25]
+  18.45  Atromitos                1-1 (1-1)  AE Lárissa
+  19.15  Panionios GSS            1-2 (0-1)  Volos NFC
+  20.00  PAOK Saloniki            2-1 (1-0)  Panetolikos
+  22.00  AEK Athen                1-2 (0-0)  Xanthi FC
+
+
+Matchday 2
+[Sat Aug/31]
+  19.00  Panetolikos              1-2 (0-0)  Xanthi FC
+  19.15  Panathinaikos            1-3 (0-1)  OFI Heraklion
+  21.30  Volos NFC                1-0 (0-0)  Aris Saloniki
+[Sun Sep/1]
+  19.00  PAOK Saloniki            2-1 (1-0)  Panionios GSS
+  19.15  AE Lárissa               0-1 (0-1)  Olympiakos Piraeus
+  20.00  Lamia                    2-2 (1-1)  Atromitos
+  21.30  Asteras Tripolis         2-3 (1-1)  AEK Athen
+
+
+Matchday 3
+[Sat Sep/14]
+  19.00  Atromitos                2-3 (1-2)  PAOK Saloniki
+  19.15  OFI Heraklion            3-1 (0-0)  Panetolikos
+  21.30  Olympiakos Piraeus       5-0 (1-0)  Volos NFC
+[Sun Sep/15]
+  19.00  Xanthi FC                2-1 (1-0)  Asteras Tripolis
+  19.15  AEK Athen                2-0 (2-0)  Lamia
+         Panionios GSS            1-0 (0-0)  AE Lárissa
+  21.30  Aris Saloniki            4-0 (2-0)  Panathinaikos
+
+
+Matchday 4
+[Sat Sep/21]
+  17.15  Volos NFC                1-0 (0-0)  OFI Heraklion
+  19.30  Asteras Tripolis         2-1 (2-0)  Atromitos
+  20.00  Panetolikos              0-1 (0-0)  AEK Athen
+[Sun Sep/22]
+  15.00  AE Lárissa               3-0 (1-0)  Xanthi FC
+  18.30  PAOK Saloniki            2-2 (1-1)  Aris Saloniki
+  19.30  Lamia                    1-1 (0-0)  Panionios GSS
+  20.30  Panathinaikos            1-1 (0-1)  Olympiakos Piraeus
+
+
+Matchday 5
+[Sat Sep/28]
+  17.15  Aris Saloniki            2-3 (2-2)  AE Lárissa
+  19.00  Atromitos                2-0 (1-0)  Panetolikos
+  19.30  Olympiakos Piraeus       2-0 (0-0)  Lamia
+[Sun Sep/29]
+  15.00  OFI Heraklion            3-1 (0-0)  Asteras Tripolis
+  17.00  Xanthi FC                3-1 (1-0)  Volos NFC
+  17.15  Panionios GSS            0-1 (0-1)  Panathinaikos
+  19.30  AEK Athen                2-2 (0-1)  PAOK Saloniki
+
+
+Matchday 6
+[Sat Oct/5]
+  17.15  Panathinaikos            0-1 (0-0)  Xanthi FC
+  19.30  AE Lárissa               0-0  AEK Athen
+[Sun Oct/6]
+  15.00  Volos NFC                2-3 (2-2)  Atromitos
+  17.15  Asteras Tripolis         1-2 (0-1)  PAOK Saloniki
+         OFI Heraklion            4-1 (1-1)  Panionios GSS
+  19.30  Aris Saloniki            1-2 (1-2)  Olympiakos Piraeus
+[Mon Oct/7]
+  20.00  Lamia                    0-0  Panetolikos
+
+
+Matchday 7
+[Sat Oct/19]
+  19.30  Olympiakos Piraeus       2-1 (1-1)  OFI Heraklion
+  20.00  Panetolikos              2-2 (1-1)  AE Lárissa
+[Sun Oct/20]
+  16.45  Panionios GSS            0-1 (0-1)  Asteras Tripolis
+  17.00  Xanthi FC                0-1 (0-1)  Aris Saloniki
+  18.00  PAOK Saloniki            3-0 (3-0)  Lamia
+  19.30  AEK Athen                3-2 (1-1)  Volos NFC
+  20.00  Atromitos                0-1 (0-1)  Panathinaikos
+
+
+Matchday 8
+[Sat Oct/26]
+  17.15  OFI Heraklion            2-0 (0-0)  Xanthi FC
+  19.30  Volos NFC                0-2 (0-1)  PAOK Saloniki
+[Sun Oct/27]
+  15.00  Panathinaikos            1-2 (0-1)  AE Lárissa
+  17.00  Atromitos                4-0 (3-0)  Panionios GSS
+  17.15  Aris Saloniki            2-0 (2-0)  Panetolikos
+  19.30  Olympiakos Piraeus       2-0 (1-0)  AEK Athen
+[Mon Oct/28]
+  19.30  Asteras Tripolis         4-1 (2-1)  Lamia
+
+
+Matchday 9
+[Sat Nov/2]
+  19.30  Panionios GSS            1-1 (0-0)  Aris Saloniki
+  20.00  Xanthi FC                0-0  Olympiakos Piraeus
+[Sun Nov/3]
+  15.00  AE Lárissa               3-2 (1-2)  OFI Heraklion
+  17.00  Panetolikos              1-1 (1-1)  Asteras Tripolis
+  19.30  AEK Athen                3-2 (0-1)  Atromitos
+  20.00  PAOK Saloniki            2-2 (0-1)  Panathinaikos
+[Mon Nov/4]
+  20.00  Lamia                    1-0 (0-0)  Volos NFC
+
+
+Matchday 10
+[Sat Nov/9]
+  17.15  Volos NFC                3-2 (0-1)  Panetolikos
+  19.30  OFI Heraklion            0-1 (0-0)  PAOK Saloniki
+[Sun Nov/10]
+  15.00  Aris Saloniki            2-1 (2-1)  Asteras Tripolis
+  17.00  Xanthi FC                1-2 (0-0)  Panionios GSS
+  17.15  Olympiakos Piraeus       2-0 (0-0)  Atromitos
+  19.30  Panathinaikos            3-2 (0-2)  AEK Athen
+[Mon Nov/11]
+  19.30  AE Lárissa               0-3 (0-1)  Lamia
+
+
+Matchday 11
+[Sat Nov/23]
+  19.30  Panionios GSS            1-1 (0-0)  Olympiakos Piraeus
+  20.00  Lamia                    1-0 (0-0)  Xanthi FC
+[Sun Nov/24]
+  17.00  Atromitos                2-1 (1-1)  OFI Heraklion
+  17.15  Asteras Tripolis         0-0  Volos NFC
+  18.00  PAOK Saloniki            1-0 (1-0)  AE Lárissa
+  19.30  AEK Athen                1-1 (0-0)  Aris Saloniki
+         Panetolikos              0-0  Panathinaikos
+
+
+Matchday 12
+[Sat Nov/30]
+  17.15  AE Lárissa               2-1 (0-1)  Volos NFC
+         Panionios GSS            3-0 (1-0)  Panetolikos
+  19.30  OFI Heraklion            1-0 (0-0)  AEK Athen
+[Sun Dec/1]
+  15.00  Panathinaikos            1-0 (1-0)  Asteras Tripolis
+  17.15  Xanthi FC                1-0 (0-0)  Atromitos
+         Aris Saloniki            1-1 (1-1)  Lamia
+  19.30  Olympiakos Piraeus       1-1 (0-1)  PAOK Saloniki
+
+
+Matchday 13
+[Sat Dec/7]
+  18.00  PAOK Saloniki            2-0 (0-0)  Xanthi FC
+  19.30  AEK Athen                5-0 (2-0)  Panionios GSS
+  20.00  Panetolikos              0-3 (0-3)  Olympiakos Piraeus
+[Sun Dec/8]
+  15.00  Lamia                    2-1 (1-1)  OFI Heraklion
+  17.15  Asteras Tripolis         1-1 (1-0)  AE Lárissa
+  19.30  Atromitos                2-2 (1-1)  Aris Saloniki
+         Volos NFC                1-1 (1-1)  Panathinaikos
+
+
+Matchday 14
+[Sat Dec/14]
+  17.15  OFI Heraklion            3-1 (1-1)  Aris Saloniki
+  19.30  Panathinaikos            2-0 (1-0)  Lamia
+  20.00  Xanthi FC                0-1 (0-0)  AEK Athen
+[Sun Dec/15]
+  15.00  AE Lárissa               1-2 (1-2)  Atromitos
+  17.15  Volos NFC                2-1 (0-1)  Panionios GSS
+  19.30  Asteras Tripolis         0-5 (0-4)  Olympiakos Piraeus
+         Panetolikos              0-3 (0-1)  PAOK Saloniki
+
+
+Matchday 15
+[Wed Dec/18]
+  17.00  Xanthi FC                0-0  Panetolikos
+  17.15  Olympiakos Piraeus       4-1 (4-0)  AE Lárissa
+         OFI Heraklion            1-1 (0-0)  Panathinaikos
+  19.30  AEK Athen                2-1 (1-0)  Asteras Tripolis
+         Atromitos                1-1 (0-0)  Lamia
+[Thu Dec/19]
+  17.15  Aris Saloniki            4-0 (3-0)  Volos NFC
+  19.30  Panionios GSS            0-2 (0-0)  PAOK Saloniki
+
+
+Matchday 16
+[Sat Dec/21]
+  19.30  Asteras Tripolis         5-0 (2-0)  Xanthi FC
+  20.00  Lamia                    0-0  AEK Athen
+[Sun Dec/22]
+  15.00  AE Lárissa               2-0 (2-0)  Panionios GSS
+  17.00  Panetolikos              2-0 (0-0)  OFI Heraklion
+  17.15  Volos NFC                0-0  Olympiakos Piraeus
+  19.30  Panathinaikos            0-0  Aris Saloniki
+[Mon Dec/23]
+  18.00  PAOK Saloniki            5-1 (3-0)  Atromitos
+
+
+Matchday 17
+[Sat Jan/4]
+  17.15  OFI Heraklion            1-2 (0-1)  Volos NFC
+  19.30  Aris Saloniki            4-2 (2-1)  PAOK Saloniki
+  20.00  Atromitos                2-1 (0-0)  Asteras Tripolis
+[Sun Jan/5]
+  15.00  AEK Athen                3-1 (1-1)  Panetolikos
+  17.15  Xanthi FC                2-1 (0-0)  AE Lárissa
+         Panionios GSS            0-1 (0-1)  Lamia
+  19.30  Olympiakos Piraeus       1-0 (0-0)  Panathinaikos
+
+
+Matchday 18
+[Sat Jan/11]
+  17.15  Volos NFC                1-3 (0-1)  Xanthi FC
+  19.30  AE Lárissa               0-0  Aris Saloniki
+  20.00  Panetolikos              0-1 (0-0)  Atromitos
+[Sun Jan/12]
+  15.00  Asteras Tripolis         2-0 (1-0)  OFI Heraklion
+  17.15  Lamia                    0-4 (0-1)  Olympiakos Piraeus
+  19.30  Panathinaikos            3-0 (2-0)  Panionios GSS
+         PAOK Saloniki            1-0 (0-0)  AEK Athen
+
+
+Matchday 19
+[Sat Jan/18]
+  19.30  Panionios GSS            1-2 (0-1)  OFI Heraklion
+  20.00  Panetolikos              1-1 (0-1)  Lamia
+[Sun Jan/19]
+  15.00  Xanthi FC                0-1 (0-0)  Panathinaikos
+  17.15  AEK Athen                3-0 (1-0)  AE Lárissa
+         Atromitos                0-0  Volos NFC
+  18.00  PAOK Saloniki            3-1 (1-0)  Asteras Tripolis
+  19.30  Olympiakos Piraeus       4-2 (3-1)  Aris Saloniki
+
+
+Matchday 20
+[Wed Jan/22]
+  15.00  AE Lárissa               2-2 (0-1)  Panetolikos
+  17.15  Volos NFC                1-3 (0-2)  AEK Athen
+         OFI Heraklion            0-1 (0-1)  Olympiakos Piraeus
+  19.30  Panathinaikos            3-0 (1-0)  Atromitos
+[Thu Jan/23]
+  17.15  Asteras Tripolis         2-0 (1-0)  Panionios GSS
+  19.00  Lamia                    0-1 (0-1)  PAOK Saloniki
+  19.30  Aris Saloniki            1-0 (0-0)  Xanthi FC
+
+
+Matchday 21
+[Sat Jan/25]
+  19.30  AE Lárissa               0-2 (0-1)  Panathinaikos
+[Sun Jan/26]
+  15.00  Xanthi FC                2-2 (0-1)  OFI Heraklion
+         Panionios GSS            1-0 (0-0)  Atromitos
+  17.15  Panetolikos              2-0 (0-0)  Aris Saloniki
+  19.30  AEK Athen                0-0  Olympiakos Piraeus
+[Mon Jan/27]
+  18.00  PAOK Saloniki            1-0 (0-0)  Volos NFC
+  20.00  Lamia                    1-1 (0-0)  Asteras Tripolis
+
+
+Matchday 22
+[Sat Feb/1]
+  17.15  Volos NFC                1-0 (0-0)  Lamia
+         OFI Heraklion            0-0  AE Lárissa
+  19.30  Olympiakos Piraeus       3-1 (2-0)  Xanthi FC
+[Sun Feb/2]
+  15.00  Aris Saloniki            2-0 (2-0)  Panionios GSS
+  17.15  Asteras Tripolis         2-1 (0-0)  Panetolikos
+         Atromitos                0-1 (0-0)  AEK Athen
+  19.30  Panathinaikos            2-0 (0-0)  PAOK Saloniki
+
+
+Matchday 23
+[Sat Feb/8]
+  19.30  Panionios GSS            0-0  Xanthi FC
+  20.00  Lamia                    0-0  AE Lárissa
+[Sun Feb/9]
+  15.00  Asteras Tripolis         1-1 (1-1)  Aris Saloniki
+  17.15  Atromitos                0-1 (0-0)  Olympiakos Piraeus
+  18.00  PAOK Saloniki            4-0 (0-0)  OFI Heraklion
+  19.30  AEK Athen                1-0 (1-0)  Panathinaikos
+[Mon Feb/10]
+  18.00  Panetolikos              1-1 (1-0)  Volos NFC
+
+
+Matchday 24
+[Sat Feb/15]
+  17.15  AE Lárissa               1-2 (0-2)  PAOK Saloniki
+  19.30  Olympiakos Piraeus       4-0 (4-0)  Panionios GSS
+[Sun Feb/16]
+  15.00  Panathinaikos            3-1 (2-0)  Panetolikos
+  17.15  Xanthi FC                0-0  Lamia
+         Volos NFC                0-1 (0-0)  Asteras Tripolis
+  19.30  Aris Saloniki            0-1 (0-1)  AEK Athen
+[Mon Feb/17]
+  19.30  OFI Heraklion            1-0 (0-0)  Atromitos
+
+
+Matchday 25
+[Sat Feb/22]
+  19.30  Asteras Tripolis         1-1 (0-0)  Panathinaikos
+  20.00  Lamia                    2-2 (1-0)  Aris Saloniki
+[Sun Feb/23]
+  15.00  Panetolikos              1-0 (0-0)  Panionios GSS
+  17.15  Atromitos                1-0 (1-0)  Xanthi FC
+         Volos NFC                0-0  AE Lárissa
+  19.30  AEK Athen                3-0 (3-0)  OFI Heraklion
+         PAOK Saloniki            0-1 (0-0)  Olympiakos Piraeus
+
+
+Matchday 26
+[Sun Mar/1]
+  19.00  AE Lárissa               3-0 (3-0)  Asteras Tripolis
+         Xanthi FC                1-1 (1-1)  PAOK Saloniki
+         Aris Saloniki            1-2 (0-0)  Atromitos
+         Olympiakos Piraeus       2-0 (0-0)  Panetolikos
+         OFI Heraklion            3-0 (3-0)  Lamia
+         Panathinaikos            4-1 (2-0)  Volos NFC
+         Panionios GSS            1-1 (1-0)  AEK Athen
+
+
+== Relegation
+
+Matchday 1
+[Sat Jun/6]
+  19.15  Panionios GSS            1-0 (0-0)  Volos NFC
+[Sun Jun/7]
+  19.15  AE Lárissa               1-2 (1-1)  Asteras Tripolis
+[Mon Jun/8]
+  20.00  Lamia                    2-0 (1-0)  Panetolikos
+[Wed Jun/24]
+  20.00  Xanthi FC                1-0 (0-0)  Atromitos
+
+
+Matchday 2
+[Sat Jun/13]
+  19.15  Volos NFC                1-0 (1-0)  Xanthi FC
+  19.30  Atromitos                1-1 (1-1)  Lamia
+[Mon Jun/15]
+  19.30  Asteras Tripolis         0-0  Panionios GSS
+  20.00  Panetolikos              3-0 (0-0)  AE Lárissa
+
+
+Matchday 3
+[Sun Jun/21]
+  19.15  Asteras Tripolis         1-1 (1-1)  Atromitos
+  19.30  Xanthi FC                1-1 (0-0)  Panetolikos
+[Mon Jun/22]
+  19.30  AE Lárissa               3-1 (1-1)  Volos NFC
+  20.00  Lamia                    0-1 (0-1)  Panionios GSS
+
+
+Matchday 4
+[Sat Jun/27]
+  19.15  Panionios GSS            2-1 (1-0)  Xanthi FC
+[Sun Jun/28]
+  19.30  Panetolikos              1-1 (1-1)  Asteras Tripolis
+[Mon Jun/29]
+  19.30  Volos NFC                0-0  Lamia
+  20.00  Atromitos                3-0 (1-0)  AE Lárissa
+
+
+Matchday 5
+[Sat Jul/4]
+  19.15  Asteras Tripolis         4-0 (2-0)  Volos NFC
+[Mon Jul/6]
+  19.30  Lamia                    0-0  Xanthi FC
+         AE Lárissa               0-0  Panionios GSS
+  20.00  Atromitos                2-2 (1-1)  Panetolikos
+
+
+Matchday 6
+[Sat Jul/11]
+  19.15  Lamia                    0-0  AE Lárissa
+         Panionios GSS            0-2 (0-1)  Panetolikos
+         Volos NFC                2-3 (0-3)  Atromitos
+         Xanthi FC                1-2 (0-1)  Asteras Tripolis
+
+
+Matchday 7
+[Sat Jul/18]
+  19.15  AE Lárissa               0-0  Xanthi FC
+         Asteras Tripolis         1-1 (1-0)  Lamia
+         Atromitos                0-0  Panionios GSS
+         Panetolikos              1-0 (1-0)  Volos NFC
+
+
+== Championship
+
+Matchday 1
+[Sat Jun/6]
+  21.30  Aris Saloniki            3-1 (1-1)  OFI Heraklion
+[Sun Jun/7]
+  19.30  PAOK Saloniki            0-1 (0-1)  Olympiakos Piraeus
+  21.30  AEK Athen                1-1 (0-0)  Panathinaikos
+
+
+Matchday 2
+[Sat Jun/13]
+  21.30  Panathinaikos            0-0  PAOK Saloniki
+[Sun Jun/14]
+  19.15  OFI Heraklion            0-2 (0-1)  AEK Athen
+  21.30  Olympiakos Piraeus       3-1 (3-0)  Aris Saloniki
+
+
+Matchday 3
+[Sat Jun/20]
+  20.30  PAOK Saloniki            3-1 (0-0)  OFI Heraklion
+  21.30  AEK Athen                2-2 (0-0)  Aris Saloniki
+[Sun Jun/21]
+  21.30  Olympiakos Piraeus       3-0 (2-0)  Panathinaikos
+
+
+Matchday 4
+[Sat Jun/27]
+  21.30  OFI Heraklion            0-0  Panathinaikos
+[Sun Jun/28]
+  19.15  Aris Saloniki            0-2 (0-2)  PAOK Saloniki
+  21.30  AEK Athen                1-2 (0-2)  Olympiakos Piraeus
+
+
+Matchday 5
+[Wed Jul/1]
+  19.15  Panathinaikos            2-0 (1-0)  Aris Saloniki
+  21.00  PAOK Saloniki            0-2 (0-1)  AEK Athen
+  21.30  Olympiakos Piraeus       2-1 (1-1)  OFI Heraklion
+
+
+Matchday 6
+[Sat Jul/4]
+  21.30  OFI Heraklion            2-2 (2-1)  PAOK Saloniki
+[Sun Jul/5]
+  19.15  Aris Saloniki            1-4 (1-1)  AEK Athen
+  21.30  Panathinaikos            0-0  Olympiakos Piraeus
+
+
+Matchday 7
+[Wed Jul/8]
+  19.15  Aris Saloniki            2-4 (0-2)  Olympiakos Piraeus
+  21.00  PAOK Saloniki            0-0  Panathinaikos
+  21.30  AEK Athen                2-0 (2-0)  OFI Heraklion
+
+
+Matchday 8
+[Sat Jul/11]
+  21.30  OFI Heraklion            0-1 (0-1)  Aris Saloniki
+[Sun Jul/12]
+  20.00  Panathinaikos            1-3 (1-2)  AEK Athen
+  21.45  Olympiakos Piraeus       0-1 (0-0)  PAOK Saloniki
+
+
+Matchday 9
+[Wed Jul/15]
+  19.15  Aris Saloniki            0-1 (0-0)  Panathinaikos
+         OFI Heraklion            1-3 (0-2)  Olympiakos Piraeus
+  21.30  AEK Athen                0-0  PAOK Saloniki
+
+
+Matchday 10
+[Sun Jul/19]
+  20.00  Olympiakos Piraeus       3-0 (2-0)  AEK Athen
+         Panathinaikos            3-2 (3-2)  OFI Heraklion
+         PAOK Saloniki            0-0  Aris Saloniki

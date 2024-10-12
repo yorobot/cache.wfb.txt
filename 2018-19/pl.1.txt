@@ -1,0 +1,573 @@
+= PL 1 2018/19
+
+# Date       Fri Jul/20 2018 - Sun May/19 2019 (303d)
+# Teams      16
+# Matches    296
+# Stages     Regular Season (240)  Relegation (28)  Playoffs (28)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Jul/20]
+  18.00  Miedź Legnica            1-0 (0-0)  Pogoń Szczecin
+  20.30  Jagiellonia Białystok    0-1 (0-1)  Lechia Gdańsk
+[Sat Jul/21]
+  15.30  Śląsk Wrocław            3-1 (1-1)  KS Cracovia
+  18.00  Wisła Kraków             0-0  Arka Gdynia
+  20.30  Legia Warszawa           1-3 (1-2)  Zagłębie Lubin
+[Sun Jul/22]
+  15.30  Górnik Zabrze            1-1 (0-0)  Korona Kielce
+  18.00  Wisła Płock              1-2 (0-1)  Lech Poznań
+[Mon Jul/23]
+  18.00  Zagłębie Sosnowiec       1-2 (1-0)  Piast Gliwice
+
+
+Matchday 2
+[Fri Jul/27]
+  18.00  Lechia Gdańsk            1-1 (1-0)  Śląsk Wrocław
+  20.30  Wisła Kraków             2-1 (1-0)  Miedź Legnica
+[Sat Jul/28]
+  18.00  Zagłębie Lubin           2-1 (0-0)  Zagłębie Sosnowiec
+  20.30  Korona Kielce            1-2 (1-0)  Legia Warszawa
+[Sun Jul/29]
+  15.30  Górnik Zabrze            1-1 (0-0)  Wisła Płock
+  18.00  Arka Gdynia              0-2 (0-1)  Jagiellonia Białystok
+         Lech Poznań              2-0 (1-0)  KS Cracovia
+[Mon Jul/30]
+  18.00  Pogoń Szczecin           0-2 (0-2)  Piast Gliwice
+
+
+Matchday 3
+[Fri Aug/3]
+  18.00  Wisła Płock              1-2 (0-0)  Korona Kielce
+  20.30  Zagłębie Sosnowiec       3-0 (1-0)  Pogoń Szczecin
+[Sat Aug/4]
+  18.00  Piast Gliwice            2-1 (1-1)  Zagłębie Lubin
+  20.30  Legia Warszawa           0-0  Lechia Gdańsk
+[Sun Aug/5]
+  15.30  Śląsk Wrocław            0-1 (0-0)  Lech Poznań
+  18.00  Jagiellonia Białystok    1-0 (0-0)  Wisła Kraków
+         Miedź Legnica            1-3 (1-0)  Górnik Zabrze
+[Mon Aug/6]
+  18.00  KS Cracovia              0-0  Arka Gdynia
+
+
+Matchday 4
+[Fri Aug/10]
+  18.00  Lechia Gdańsk            2-0 (1-0)  Miedź Legnica
+  20.30  Wisła Kraków             1-1 (1-0)  Wisła Płock
+[Sat Aug/11]
+  18.00  Pogoń Szczecin           1-1 (1-0)  KS Cracovia
+  20.30  Arka Gdynia              1-1 (0-1)  Górnik Zabrze
+[Sun Aug/12]
+  15.30  Piast Gliwice            1-3 (0-1)  Legia Warszawa
+  18.00  Lech Poznań              4-0 (3-0)  Zagłębie Sosnowiec
+         Zagłębie Lubin           0-2 (0-1)  Jagiellonia Białystok
+[Mon Aug/13]
+  18.00  Korona Kielce            2-1 (1-1)  Śląsk Wrocław
+
+
+Matchday 5
+[Fri Aug/17]
+  18.00  KS Cracovia              0-1 (0-1)  Zagłębie Lubin
+  20.30  Miedź Legnica            1-1 (0-0)  Korona Kielce
+[Sat Aug/18]
+  18.00  Wisła Płock              1-3 (0-0)  Arka Gdynia
+  20.30  Górnik Zabrze            0-2 (0-2)  Lechia Gdańsk
+[Sun Aug/19]
+  15.30  Legia Warszawa           2-1 (1-0)  Zagłębie Sosnowiec
+  18.00  Jagiellonia Białystok    2-1 (1-0)  Piast Gliwice
+         Lech Poznań              2-5 (2-1)  Wisła Kraków
+[Mon Aug/20]
+  18.00  Śląsk Wrocław            0-0  Pogoń Szczecin
+
+
+Matchday 6
+[Fri Aug/24]
+  18.00  Piast Gliwice            3-1 (2-0)  KS Cracovia
+  20.30  Korona Kielce            2-1 (1-0)  Arka Gdynia
+[Sat Aug/25]
+  18.00  Pogoń Szczecin           2-3 (1-0)  Lechia Gdańsk
+  20.30  Wisła Kraków             3-0 (2-0)  Górnik Zabrze
+[Sun Aug/26]
+  15.30  Jagiellonia Białystok    2-3 (0-0)  Miedź Legnica
+         Legia Warszawa           1-4 (0-2)  Wisła Płock
+  18.00  Zagłębie Lubin           2-1 (1-0)  Lech Poznań
+[Mon Aug/27]
+  18.00  Zagłębie Sosnowiec       3-3 (0-2)  Śląsk Wrocław
+
+
+Matchday 7
+[Fri Aug/31]
+  18.00  Górnik Zabrze            1-1 (0-0)  Pogoń Szczecin
+  20.30  Lechia Gdańsk            2-0 (1-0)  Korona Kielce
+[Sat Sep/1]
+  15.30  Arka Gdynia              2-2 (1-1)  Zagłębie Sosnowiec
+  18.00  Śląsk Wrocław            0-1 (0-0)  Wisła Kraków
+  20.30  Lech Poznań              1-1 (1-0)  Piast Gliwice
+[Sun Sep/2]
+  15.30  Miedź Legnica            2-0 (1-0)  Zagłębie Lubin
+         Wisła Płock              1-1 (1-0)  Jagiellonia Białystok
+  18.00  KS Cracovia              0-0  Legia Warszawa
+
+
+Matchday 8
+[Fri Sep/14]
+  18.00  Zagłębie Lubin           4-0 (2-0)  Śląsk Wrocław
+  20.30  Jagiellonia Białystok    3-1 (1-0)  KS Cracovia
+[Sat Sep/15]
+  15.30  Wisła Płock              2-2 (1-2)  Miedź Legnica
+  18.00  Piast Gliwice            1-0 (0-0)  Arka Gdynia
+  20.30  Wisła Kraków             5-2 (2-2)  Lechia Gdańsk
+[Sun Sep/16]
+  15.30  Pogoń Szczecin           1-1 (1-0)  Korona Kielce
+  18.00  Legia Warszawa           1-0 (1-0)  Lech Poznań
+[Mon Sep/17]
+  18.00  Zagłębie Sosnowiec       1-1 (1-0)  Górnik Zabrze
+
+
+Matchday 9
+[Fri Sep/21]
+  18.00  Pogoń Szczecin           2-1 (1-0)  Wisła Kraków
+  20.30  Arka Gdynia              1-0 (0-0)  Lech Poznań
+[Sat Sep/22]
+  15.30  KS Cracovia              3-1 (2-0)  Wisła Płock
+  18.00  Lechia Gdańsk            3-3 (3-0)  Zagłębie Lubin
+  20.30  Miedź Legnica            1-4 (1-1)  Legia Warszawa
+[Sun Sep/23]
+  15.30  Śląsk Wrocław            4-1 (1-0)  Piast Gliwice
+  18.00  Górnik Zabrze            1-3 (1-0)  Jagiellonia Białystok
+[Mon Sep/24]
+  18.00  Korona Kielce            3-1 (0-0)  Zagłębie Sosnowiec
+
+
+Matchday 10
+[Fri Sep/28]
+  18.00  Wisła Płock              1-0 (0-0)  Lechia Gdańsk
+  20.30  Legia Warszawa           1-1 (1-1)  Arka Gdynia
+[Sat Sep/29]
+  15.30  Piast Gliwice            1-0 (0-0)  Górnik Zabrze
+  18.00  Zagłębie Lubin           0-2 (0-1)  Pogoń Szczecin
+  20.30  Wisła Kraków             0-1 (0-0)  Korona Kielce
+[Sun Sep/30]
+  15.30  Zagłębie Sosnowiec       1-1 (1-0)  KS Cracovia
+  18.00  Lech Poznań              2-1 (1-0)  Miedź Legnica
+[Mon Oct/1]
+  18.00  Jagiellonia Białystok    0-4 (0-0)  Śląsk Wrocław
+
+
+Matchday 11
+[Fri Oct/5]
+  18.00  Miedź Legnica            2-2 (2-2)  Piast Gliwice
+  20.30  Górnik Zabrze            2-2 (1-0)  Lech Poznań
+[Sat Oct/6]
+  15.30  Pogoń Szczecin           4-0 (1-0)  Wisła Płock
+  18.00  Lechia Gdańsk            4-1 (2-1)  Zagłębie Sosnowiec
+  20.30  Śląsk Wrocław            0-1 (0-1)  Legia Warszawa
+[Sun Oct/7]
+  15.30  Arka Gdynia              3-1 (0-1)  Zagłębie Lubin
+         Korona Kielce            1-1 (0-1)  Jagiellonia Białystok
+  18.00  KS Cracovia              0-2 (0-2)  Wisła Kraków
+
+
+Matchday 12
+[Fri Oct/19]
+  18.00  Piast Gliwice            1-1 (1-0)  Lechia Gdańsk
+  20.30  Jagiellonia Białystok    2-1 (0-0)  Pogoń Szczecin
+[Sat Oct/20]
+  15.30  Zagłębie Sosnowiec       3-1 (2-1)  Miedź Legnica
+  18.00  Śląsk Wrocław            1-2 (1-1)  Arka Gdynia
+  20.30  Lech Poznań              2-1 (1-0)  Korona Kielce
+[Sun Oct/21]
+  15.30  Zagłębie Lubin           3-3 (1-2)  Wisła Płock
+  18.00  Legia Warszawa           3-3 (2-0)  Wisła Kraków
+[Mon Oct/22]
+  18.00  KS Cracovia              2-0 (0-0)  Górnik Zabrze
+
+
+Matchday 13
+[Fri Oct/26]
+  18.00  Miedź Legnica            0-5 (0-4)  Śląsk Wrocław
+  20.30  Jagiellonia Białystok    1-1 (1-0)  Legia Warszawa
+[Sat Oct/27]
+  15.30  Wisła Płock              1-1 (0-0)  Piast Gliwice
+  18.00  Lechia Gdańsk            2-1 (1-1)  Arka Gdynia
+  20.30  Pogoń Szczecin           3-0 (2-0)  Lech Poznań
+[Sun Oct/28]
+  15.30  Korona Kielce            0-1 (0-1)  KS Cracovia
+  18.00  Górnik Zabrze            2-0 (1-0)  Zagłębie Lubin
+[Mon Oct/29]
+  18.00  Wisła Kraków             2-2 (1-0)  Zagłębie Sosnowiec
+
+
+Matchday 14
+[Fri Nov/2]
+  18.00  Arka Gdynia              2-3 (2-1)  Pogoń Szczecin
+  20.30  Piast Gliwice            2-0 (1-0)  Wisła Kraków
+[Sat Nov/3]
+  15.30  KS Cracovia              0-0  Miedź Legnica
+  18.00  Śląsk Wrocław            0-3 (0-0)  Wisła Płock
+  20.30  Legia Warszawa           4-0 (3-0)  Górnik Zabrze
+[Sun Nov/4]
+  15.30  Zagłębie Lubin           0-1 (0-0)  Korona Kielce
+  18.00  Lech Poznań              0-1 (0-1)  Lechia Gdańsk
+[Mon Nov/5]
+  18.00  Zagłębie Sosnowiec       1-4 (0-1)  Jagiellonia Białystok
+
+
+Matchday 15
+[Fri Nov/9]
+  18.00  Górnik Zabrze            2-2 (2-1)  Śląsk Wrocław
+  20.30  Pogoń Szczecin           2-1 (1-0)  Legia Warszawa
+[Sat Nov/10]
+  15.30  Wisła Płock              2-0 (1-0)  Zagłębie Sosnowiec
+  18.00  Lechia Gdańsk            1-0 (0-0)  KS Cracovia
+  20.30  Wisła Kraków             3-2 (2-0)  Zagłębie Lubin
+[Sun Nov/11]
+  15.30  Korona Kielce            1-0 (1-0)  Piast Gliwice
+         Miedź Legnica            0-4 (0-1)  Arka Gdynia
+  18.00  Jagiellonia Białystok    2-2 (1-2)  Lech Poznań
+
+
+Matchday 16
+[Fri Nov/23]
+  18.00  Piast Gliwice            0-0  Zagłębie Sosnowiec
+[Sat Nov/24]
+  15.30  Korona Kielce            4-2 (4-1)  Górnik Zabrze
+  18.00  Lech Poznań              2-1 (2-1)  Wisła Płock
+  20.30  KS Cracovia              1-1 (0-1)  Śląsk Wrocław
+[Sun Nov/25]
+  13.00  Pogoń Szczecin           2-0 (0-0)  Miedź Legnica
+  15.30  Zagłębie Lubin           0-1 (0-1)  Legia Warszawa
+  18.00  Lechia Gdańsk            3-2 (2-1)  Jagiellonia Białystok
+[Mon Nov/26]
+  18.00  Arka Gdynia              4-1 (2-1)  Wisła Kraków
+
+
+Matchday 17
+[Fri Nov/30]
+  18.00  Śląsk Wrocław            0-2 (0-2)  Lechia Gdańsk
+  20.30  Jagiellonia Białystok    3-1 (0-0)  Arka Gdynia
+[Sat Dec/1]
+  15.30  Wisła Płock              0-4 (0-1)  Górnik Zabrze
+  18.00  Miedź Legnica            2-0 (2-0)  Wisła Kraków
+  20.30  Legia Warszawa           3-0 (2-0)  Korona Kielce
+[Sun Dec/2]
+  15.30  Zagłębie Sosnowiec       1-2 (1-2)  Zagłębie Lubin
+  18.00  KS Cracovia              1-0 (0-0)  Lech Poznań
+[Mon Dec/3]
+  18.00  Piast Gliwice            3-0 (2-0)  Pogoń Szczecin
+
+
+Matchday 18
+[Fri Dec/7]
+  18.00  Zagłębie Lubin           2-2 (1-1)  Piast Gliwice
+  20.30  Lech Poznań              2-0 (0-0)  Śląsk Wrocław
+[Sat Dec/8]
+  15.30  Pogoń Szczecin           1-0 (0-0)  Zagłębie Sosnowiec
+  18.00  Korona Kielce            2-2 (2-1)  Wisła Płock
+  20.30  Wisła Kraków             2-2 (2-0)  Jagiellonia Białystok
+[Sun Dec/9]
+  15.30  Górnik Zabrze            1-3 (0-1)  Miedź Legnica
+  18.00  Lechia Gdańsk            0-0  Legia Warszawa
+[Mon Dec/10]
+  18.00  Arka Gdynia              0-3 (0-2)  KS Cracovia
+
+
+Matchday 19
+[Fri Dec/14]
+  18.00  Wisła Płock              1-2 (0-1)  Wisła Kraków
+  20.30  Jagiellonia Białystok    0-4 (0-3)  Zagłębie Lubin
+[Sat Dec/15]
+  15.30  KS Cracovia              2-1 (0-1)  Pogoń Szczecin
+  18.00  Górnik Zabrze            1-1 (1-0)  Arka Gdynia
+  20.30  Legia Warszawa           2-0 (1-0)  Piast Gliwice
+[Sun Dec/16]
+  15.30  Śląsk Wrocław            1-1 (1-0)  Korona Kielce
+  18.00  Zagłębie Sosnowiec       0-6 (0-2)  Lech Poznań
+[Mon Dec/17]
+  18.00  Miedź Legnica            0-0  Lechia Gdańsk
+
+
+Matchday 20
+[Thu Dec/20]
+  18.00  Pogoń Szczecin           2-1 (0-1)  Śląsk Wrocław
+  20.30  Zagłębie Sosnowiec       2-3 (1-0)  Legia Warszawa
+[Fri Dec/21]
+  18.00  Arka Gdynia              3-3 (0-2)  Wisła Płock
+         Piast Gliwice            1-1 (1-1)  Jagiellonia Białystok
+  20.30  Wisła Kraków             0-1 (0-0)  Lech Poznań
+[Sat Dec/22]
+  15.30  Korona Kielce            0-0  Miedź Legnica
+  18.00  Lechia Gdańsk            4-0 (1-0)  Górnik Zabrze
+         Zagłębie Lubin           1-2 (1-0)  KS Cracovia
+
+
+Matchday 21
+[Fri Feb/8]
+  18.00  Miedź Legnica            0-3 (0-2)  Jagiellonia Białystok
+  20.30  Lech Poznań              1-2 (0-0)  Zagłębie Lubin
+[Sat Feb/9]
+  15.30  Śląsk Wrocław            2-0 (1-0)  Zagłębie Sosnowiec
+  18.00  KS Cracovia              2-1 (1-1)  Piast Gliwice
+  20.30  Lechia Gdańsk            2-1 (1-0)  Pogoń Szczecin
+[Sun Feb/10]
+  15.30  Arka Gdynia              1-2 (0-2)  Korona Kielce
+  18.00  Wisła Płock              0-1 (0-0)  Legia Warszawa
+[Mon Feb/11]
+  18.00  Górnik Zabrze            2-0 (2-0)  Wisła Kraków
+
+
+Matchday 22
+[Fri Feb/15]
+  18.00  Pogoń Szczecin           3-1 (2-1)  Górnik Zabrze
+  20.30  Piast Gliwice            4-0 (1-0)  Lech Poznań
+[Sat Feb/16]
+  15.30  Jagiellonia Białystok    1-0 (0-0)  Wisła Płock
+  18.00  Zagłębie Sosnowiec       3-2 (1-2)  Arka Gdynia
+  20.30  Korona Kielce            0-0  Lechia Gdańsk
+[Sun Feb/17]
+  15.30  Zagłębie Lubin           3-0 (2-0)  Miedź Legnica
+  18.00  Legia Warszawa           0-2 (0-2)  KS Cracovia
+[Mon Feb/18]
+  18.00  Wisła Kraków             1-0 (1-0)  Śląsk Wrocław
+
+
+Matchday 23
+[Fri Feb/22]
+  18.00  Arka Gdynia              1-2 (0-2)  Piast Gliwice
+  20.30  Korona Kielce            1-1 (0-1)  Pogoń Szczecin
+[Sat Feb/23]
+  15.30  Górnik Zabrze            2-1 (1-0)  Zagłębie Sosnowiec
+  18.00  Lech Poznań              2-0 (1-0)  Legia Warszawa
+  20.30  Lechia Gdańsk            1-0 (1-0)  Wisła Kraków
+[Sun Feb/24]
+  15.30  Miedź Legnica            2-1 (1-1)  Wisła Płock
+  18.00  KS Cracovia              1-0 (0-0)  Jagiellonia Białystok
+[Mon Feb/25]
+  18.00  Śląsk Wrocław            2-0 (1-0)  Zagłębie Lubin
+
+
+Matchday 24
+[Fri Mar/1]
+  18.00  Piast Gliwice            2-0 (1-0)  Śląsk Wrocław
+  20.30  Legia Warszawa           2-0 (1-0)  Miedź Legnica
+[Sat Mar/2]
+  15.30  Zagłębie Sosnowiec       4-1 (1-1)  Korona Kielce
+  18.00  Jagiellonia Białystok    2-2 (1-1)  Górnik Zabrze
+  20.30  Wisła Płock              3-2 (1-0)  KS Cracovia
+[Sun Mar/3]
+  15.30  Wisła Kraków             2-3 (0-2)  Pogoń Szczecin
+  18.00  Lech Poznań              1-0 (1-0)  Arka Gdynia
+[Mon Mar/4]
+  18.00  Zagłębie Lubin           2-1 (1-1)  Lechia Gdańsk
+
+
+Matchday 25
+[Fri Mar/8]
+  18.00  Górnik Zabrze            0-2 (0-1)  Piast Gliwice
+  20.30  Śląsk Wrocław            2-0 (2-0)  Jagiellonia Białystok
+[Sat Mar/9]
+  15.30  KS Cracovia              2-1 (1-0)  Zagłębie Sosnowiec
+  18.00  Korona Kielce            2-6 (2-2)  Wisła Kraków
+  20.30  Arka Gdynia              1-2 (0-0)  Legia Warszawa
+[Sun Mar/10]
+  15.30  Pogoń Szczecin           0-3 (0-1)  Zagłębie Lubin
+  18.00  Miedź Legnica            3-2 (2-0)  Lech Poznań
+[Mon Mar/11]
+  18.00  Lechia Gdańsk            1-1 (0-0)  Wisła Płock
+
+
+Matchday 26
+[Fri Mar/15]
+  18.00  Wisła Płock              0-2 (0-1)  Pogoń Szczecin
+  20.30  Lech Poznań              0-3 (0-1)  Górnik Zabrze
+[Sat Mar/16]
+  15.30  Jagiellonia Białystok    1-3 (0-2)  Korona Kielce
+  18.00  Zagłębie Sosnowiec       0-1 (0-1)  Lechia Gdańsk
+  20.30  Legia Warszawa           1-0 (0-0)  Śląsk Wrocław
+[Sun Mar/17]
+  15.30  Piast Gliwice            2-1 (1-0)  Miedź Legnica
+         Zagłębie Lubin           0-0  Arka Gdynia
+  18.00  Wisła Kraków             3-2 (2-0)  KS Cracovia
+
+
+Matchday 27
+[Fri Mar/29]
+  18.00  Wisła Płock              0-1 (0-0)  Zagłębie Lubin
+  20.30  Górnik Zabrze            0-1 (0-1)  KS Cracovia
+         Lechia Gdańsk            2-0 (2-0)  Piast Gliwice
+[Sat Mar/30]
+  15.30  Miedź Legnica            0-2 (0-1)  Zagłębie Sosnowiec
+  18.00  Arka Gdynia              0-2 (0-0)  Śląsk Wrocław
+  20.30  Korona Kielce            0-0  Lech Poznań
+[Sun Mar/31]
+  15.30  Pogoń Szczecin           0-0  Jagiellonia Białystok
+  18.00  Wisła Kraków             4-0 (2-0)  Legia Warszawa
+
+
+Matchday 28
+[Tue Apr/2]
+  18.00  KS Cracovia              2-1 (1-0)  Korona Kielce
+         Śląsk Wrocław            0-0  Miedź Legnica
+  20.30  Arka Gdynia              0-0  Lechia Gdańsk
+         Zagłębie Lubin           1-1 (0-0)  Górnik Zabrze
+[Wed Apr/3]
+  18.00  Lech Poznań              3-2 (2-0)  Pogoń Szczecin
+         Piast Gliwice            1-0 (1-0)  Wisła Płock
+  20.30  Legia Warszawa           3-0 (2-0)  Jagiellonia Białystok
+         Zagłębie Sosnowiec       4-3 (2-1)  Wisła Kraków
+
+
+Matchday 29
+[Fri Apr/5]
+  18.00  Korona Kielce            0-2 (0-0)  Zagłębie Lubin
+  20.30  Miedź Legnica            2-1 (2-0)  KS Cracovia
+[Sat Apr/6]
+  15.30  Jagiellonia Białystok    2-1 (2-0)  Zagłębie Sosnowiec
+  18.00  Wisła Kraków             2-2 (1-1)  Piast Gliwice
+  20.30  Lechia Gdańsk            1-0 (1-0)  Lech Poznań
+[Sun Apr/7]
+  15.30  Pogoń Szczecin           3-3 (1-1)  Arka Gdynia
+  18.00  Górnik Zabrze            1-2 (1-0)  Legia Warszawa
+[Mon Apr/8]
+  18.00  Wisła Płock              2-0 (0-0)  Śląsk Wrocław
+
+
+Matchday 30
+[Sat Apr/13]
+  18.00  Arka Gdynia              1-1 (0-0)  Miedź Legnica
+         KS Cracovia              4-2 (1-1)  Lechia Gdańsk
+         Lech Poznań              0-2 (0-1)  Jagiellonia Białystok
+         Legia Warszawa           3-1 (0-1)  Pogoń Szczecin
+         Piast Gliwice            4-0 (2-0)  Korona Kielce
+         Śląsk Wrocław            0-1 (0-0)  Górnik Zabrze
+         Zagłębie Lubin           3-1 (2-0)  Wisła Kraków
+         Zagłębie Sosnowiec       1-3 (1-2)  Wisła Płock
+
+
+== Relegation
+
+Matchday 31
+[Mon Apr/22]
+  15.30  Wisła Kraków             2-3 (2-1)  Wisła Płock
+         Miedź Legnica            2-2 (2-1)  Zagłębie Sosnowiec
+  18.00  Korona Kielce            2-0 (1-0)  Śląsk Wrocław
+         Górnik Zabrze            1-0 (0-0)  Arka Gdynia
+
+
+Matchday 32
+[Thu Apr/25]
+  18.00  Arka Gdynia              2-0 (1-0)  Miedź Legnica
+         Wisła Płock              2-1 (2-1)  Korona Kielce
+  20.30  Zagłębie Sosnowiec       2-1 (0-1)  Wisła Kraków
+         Śląsk Wrocław            1-2 (1-0)  Górnik Zabrze
+
+
+Matchday 33
+[Sun Apr/28]
+  13.00  Miedź Legnica            3-2 (3-1)  Wisła Płock
+  15.30  Korona Kielce            0-2 (0-1)  Arka Gdynia
+  18.00  Wisła Kraków             1-1 (1-1)  Śląsk Wrocław
+[Mon Apr/29]
+  18.00  Górnik Zabrze            4-0 (3-0)  Zagłębie Sosnowiec
+
+
+Matchday 34
+[Fri May/3]
+  18.00  Wisła Płock              1-1 (0-0)  Arka Gdynia
+  20.30  Górnik Zabrze            1-2 (1-1)  Wisła Kraków
+[Sat May/4]
+  15.30  Korona Kielce            0-0  Miedź Legnica
+[Sun May/5]
+  15.30  Zagłębie Sosnowiec       2-4 (0-1)  Śląsk Wrocław
+
+
+Matchday 35
+[Fri May/10]
+  18.00  Arka Gdynia              2-0 (0-0)  Zagłębie Sosnowiec
+  20.30  Wisła Kraków             1-0 (0-0)  Korona Kielce
+[Sat May/11]
+  15.30  Śląsk Wrocław            2-1 (1-1)  Wisła Płock
+  18.00  Miedź Legnica            0-1 (0-0)  Górnik Zabrze
+
+
+Matchday 36
+[Mon May/13]
+  18.00  Arka Gdynia              3-1 (1-1)  Wisła Kraków
+[Tue May/14]
+  20.30  Miedź Legnica            0-2 (0-0)  Śląsk Wrocław
+         Zagłębie Sosnowiec       2-4 (1-2)  Korona Kielce
+         Górnik Zabrze            0-1 (0-1)  Wisła Płock
+
+
+Matchday 37
+[Sat May/18]
+  15.30  Śląsk Wrocław            4-0 (2-0)  Arka Gdynia
+         Korona Kielce            0-3 (0-0)  Górnik Zabrze
+         Wisła Płock              0-0  Zagłębie Sosnowiec
+         Wisła Kraków             4-5 (1-1)  Miedź Legnica
+
+
+== Playoffs
+
+Matchday 31
+[Sat Apr/20]
+  15.30  Lechia Gdańsk            0-2 (0-1)  Piast Gliwice
+  18.00  Zagłębie Lubin           2-3 (2-2)  Pogoń Szczecin
+         Jagiellonia Białystok    3-3 (1-2)  Lech Poznań
+  20.30  Legia Warszawa           1-0 (0-0)  KS Cracovia
+
+
+Matchday 32
+[Tue Apr/23]
+  18.00  Piast Gliwice            1-0 (1-0)  Zagłębie Lubin
+  20.30  KS Cracovia              0-1 (0-1)  Jagiellonia Białystok
+[Wed Apr/24]
+  18.00  Pogoń Szczecin           3-4 (0-0)  Lechia Gdańsk
+  20.30  Lech Poznań              1-0 (0-0)  Legia Warszawa
+
+
+Matchday 33
+[Fri Apr/26]
+  18.00  Zagłębie Lubin           2-0 (2-0)  Jagiellonia Białystok
+  20.30  Piast Gliwice            3-1 (1-1)  KS Cracovia
+[Sat Apr/27]
+  18.00  Pogoń Szczecin           1-1 (1-0)  Lech Poznań
+  20.30  Lechia Gdańsk            1-3 (1-0)  Legia Warszawa
+
+
+Matchday 34
+[Sat May/4]
+  18.00  Lech Poznań              1-1 (0-0)  Zagłębie Lubin
+  20.30  Legia Warszawa           0-1 (0-1)  Piast Gliwice
+[Sun May/5]
+  18.00  KS Cracovia              2-0 (0-0)  Lechia Gdańsk
+[Mon May/6]
+  18.00  Jagiellonia Białystok    4-2 (2-1)  Pogoń Szczecin
+
+
+Matchday 35
+[Sat May/11]
+  20.30  KS Cracovia              1-0 (1-0)  Lech Poznań
+[Sun May/12]
+  13.00  Piast Gliwice            2-1 (1-0)  Jagiellonia Białystok
+  15.30  Legia Warszawa           1-1 (0-1)  Pogoń Szczecin
+  18.00  Lechia Gdańsk            1-1 (0-1)  Zagłębie Lubin
+
+
+Matchday 36
+[Wed May/15]
+  20.30  Jagiellonia Białystok    1-0 (1-0)  Legia Warszawa
+         Pogoń Szczecin           0-0  Piast Gliwice
+         Lech Poznań              2-1 (0-0)  Lechia Gdańsk
+         Zagłębie Lubin           1-2 (0-0)  KS Cracovia
+
+
+Matchday 37
+[Sun May/19]
+  18.00  Legia Warszawa           2-2 (1-1)  Zagłębie Lubin
+         Piast Gliwice            1-0 (1-0)  Lech Poznań
+         KS Cracovia              0-3 (0-1)  Pogoń Szczecin
+         Lechia Gdańsk            2-0 (1-0)  Jagiellonia Białystok

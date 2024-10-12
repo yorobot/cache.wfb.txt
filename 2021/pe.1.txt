@@ -1,0 +1,429 @@
+= PE 1 2021
+
+# Date       Fri Mar/12 - Sun Nov/28 2021 (261d)
+# Teams      18
+# Matches    237
+# Stages     Apertura (81)  Apertura Final (1)  Clausura (153)  Final (2)
+
+
+== Apertura
+
+Matchday 1
+[Fri Mar/12]
+  13.15  Deportivo Municipal      0-1 (0-0)  Sport Huancayo
+  15.30  Cienciano                1-0 (1-0)  Universidad Técnica
+  18.00  Deportivo Binacional     0-4 (0-2)  Sporting Cristal
+[Sat Mar/13]
+  11.00  Mannucci                 2-0 (1-0)  Academia Cantolao
+  15.30  Universitario de Deportes  1-1 (1-0)  FBC Melgar
+  18.00  Sport Boys               2-3 (2-3)  Universidad Cesar Vallejo
+[Mon Mar/15]
+  15.30  Alianza Universidad      1-0 (0-0)  Cusco FC
+[Wed Apr/7]
+  15.30  Ayacucho FC              2-2 (1-2)  Universidad San Martín
+[Wed May/12]
+  15.30  Alianza Atlético         0-0  Alianza Lima
+
+
+Matchday 2
+[Fri Mar/19]
+  15.00  Academia Cantolao        3-1 (2-0)  Universitario de Deportes
+  18.00  Sporting Cristal         1-0 (0-0)  Sport Boys
+[Sat Mar/20]
+  13.15  Universidad San Martín   2-1 (1-0)  Alianza Atlético
+  15.30  Cusco FC                 2-2 (1-1)  Cienciano
+[Mon Mar/22]
+  11.00  Sport Huancayo           3-0 (3-0)  Deportivo Binacional
+  13.15  Universidad Cesar Vallejo  0-1 (0-1)  Alianza Universidad
+  15.30  Universidad Técnica      2-2 (1-0)  Mannucci
+[Tue Apr/6]
+  15.30  Alianza Lima             1-0 (0-0)  Deportivo Municipal
+[Mon Apr/12]
+  15.30  FBC Melgar               0-0  Ayacucho FC
+
+
+Matchday 3
+[Sat Mar/27]
+  11.00  Cienciano                1-0 (1-0)  Alianza Atlético
+  13.15  FBC Melgar               3-0 (1-0)  Academia Cantolao
+  18.00  Mannucci                 2-0 (1-0)  Universidad San Martín
+[Mon Mar/29]
+  13.15  Sport Boys               3-2 (2-0)  Deportivo Binacional
+  15.30  Alianza Universidad      0-3 (0-0)  Sporting Cristal
+  18.00  Deportivo Municipal      0-4 (0-0)  Universidad Cesar Vallejo
+[Tue Mar/30]
+  15.30  Alianza Lima             2-2 (1-1)  Cusco FC
+[Wed Mar/31]
+  15.30  Ayacucho FC              3-0 (1-0)  Sport Huancayo
+[Mon May/10]
+  15.30  Universitario de Deportes  1-0 (0-0)  Universidad Técnica
+
+
+Matchday 4
+[Tue Apr/13]
+  13.15  Cusco FC                 2-2 (0-2)  Sport Boys
+  15.30  Deportivo Binacional     2-1 (0-0)  Alianza Universidad
+  18.00  Sporting Cristal         3-1 (0-1)  Deportivo Municipal
+[Wed Apr/14]
+  13.15  Academia Cantolao        0-2 (0-2)  Cienciano
+  15.30  Sport Huancayo           0-0  Alianza Lima
+  18.00  Universidad Cesar Vallejo  2-1 (0-0)  Mannucci
+[Thu Apr/15]
+  11.00  Alianza Atlético         0-1 (0-0)  Ayacucho FC
+  15.30  Universidad San Martín   0-1 (0-1)  Universitario de Deportes
+  18.00  Universidad Técnica      3-1 (1-0)  FBC Melgar
+
+
+Matchday 5
+[Fri Apr/23]
+  13.15  Academia Cantolao        0-1 (0-1)  Universidad Técnica
+  15.30  Deportivo Municipal      2-1 (0-1)  Deportivo Binacional
+  18.00  Ayacucho FC              1-1 (0-0)  Cienciano
+[Sat Apr/24]
+  11.00  Alianza Universidad      1-0 (1-0)  Sport Boys
+  13.15  FBC Melgar               0-2 (0-1)  Universidad San Martín
+  15.30  Alianza Lima             2-2 (0-1)  Universidad Cesar Vallejo
+[Sun Apr/25]
+  15.30  Universitario de Deportes  0-1 (0-1)  Sporting Cristal
+[Mon Apr/26]
+  11.00  Mannucci                 1-3 (0-1)  Alianza Atlético
+  15.30  Cusco FC                 0-1 (0-1)  Sport Huancayo
+
+
+Matchday 6
+[Fri Apr/30]
+  11.00  Universidad Técnica      1-3 (1-2)  Ayacucho FC
+  15.30  Universidad San Martín   1-0 (1-0)  Academia Cantolao
+  18.00  Sport Boys               3-1 (1-0)  Deportivo Municipal
+[Sat May/1]
+  11.00  Deportivo Binacional     1-1 (0-0)  FBC Melgar
+  15.30  Alianza Atlético         1-2 (0-1)  Universitario de Deportes
+[Sun May/2]
+  15.30  Sporting Cristal         2-1 (1-1)  Alianza Lima
+[Mon May/3]
+  11.00  Sport Huancayo           3-3 (0-0)  Alianza Universidad
+  15.30  Universidad Cesar Vallejo  1-1 (1-0)  Cusco FC
+  18.00  Cienciano                5-2 (3-1)  Mannucci
+
+
+Matchday 7
+[Fri May/7]
+  11.00  Academia Cantolao        2-1 (1-1)  Sport Boys
+  13.15  Universidad Técnica      0-1 (0-0)  Universidad San Martín
+  15.30  Alianza Lima             2-0 (0-0)  Deportivo Binacional
+[Sat May/8]
+  11.00  FBC Melgar               1-3 (0-0)  Alianza Atlético
+  13.15  Universitario de Deportes  3-2 (1-0)  Cienciano
+  15.30  Cusco FC                 1-2 (1-1)  Sporting Cristal
+  18.00  Mannucci                 1-1 (0-0)  Ayacucho FC
+[Sun May/9]
+  15.30  Sport Huancayo           0-0  Universidad Cesar Vallejo
+[Mon May/10]
+  13.00  Deportivo Municipal      1-0 (1-0)  Alianza Universidad
+
+
+Matchday 8
+[Sat May/15]
+  11.00  Deportivo Binacional     1-2 (0-2)  Universidad Cesar Vallejo
+  13.15  Deportivo Municipal      1-1 (1-1)  Cusco FC
+  15.30  Ayacucho FC              3-3 (2-1)  Universitario de Deportes
+  18.00  Cienciano                0-1 (0-0)  Universidad San Martín
+[Sun May/16]
+  11.00  Mannucci                 2-1 (1-1)  FBC Melgar
+  15.30  Sporting Cristal         2-0 (1-0)  Sport Huancayo
+[Mon May/17]
+  11.00  Alianza Universidad      1-2 (0-1)  Universidad Técnica
+  13.15  Sport Boys               0-2 (0-0)  Alianza Lima
+  15.30  Alianza Atlético         0-1 (0-1)  Academia Cantolao
+
+
+Matchday 9
+[Fri May/21]
+  13.15  Cusco FC                 3-1 (2-1)  Deportivo Binacional
+  15.30  Alianza Lima             2-0 (0-0)  Alianza Universidad
+[Sat May/22]
+  13.15  Universidad Técnica      0-2 (0-0)  Alianza Atlético
+  15.30  Universidad Cesar Vallejo  3-0 (1-0)  Sporting Cristal
+[Sun May/23]
+  11.00  Sport Huancayo           0-1 (0-0)  Sport Boys
+  15.30  Academia Cantolao        2-2 (1-0)  Ayacucho FC
+         FBC Melgar               3-0 (3-0)  Cienciano
+         Universitario de Deportes  0-0  Mannucci
+         Universidad San Martín   1-0 (0-0)  Deportivo Municipal
+
+
+== Apertura Final
+
+Final
+[Sun May/30]
+  14.00  Sporting Cristal         2-0 a.e.t. (0-0)  Universidad San Martín
+
+
+== Clausura
+
+Matchday 1
+[Sat Jul/17]
+  11.00  Deportivo Municipal      1-1 (1-0)  Universidad Técnica
+  13.15  Universidad San Martín   0-2 (0-1)  Mannucci
+  15.30  Academia Cantolao        2-4 (1-1)  Sporting Cristal
+[Sun Jul/18]
+  11.00  Sport Huancayo           0-3 (0-2)  FBC Melgar
+  13.15  Sport Boys               1-4 (0-3)  Cienciano
+  15.30  Alianza Lima             4-1 (2-1)  Ayacucho FC
+[Mon Jul/19]
+  11.00  Deportivo Binacional     1-1 (0-0)  Alianza Universidad
+  13.15  Universidad Cesar Vallejo  1-0 (0-0)  Cusco FC
+  15.30  Universitario de Deportes  2-2 (1-0)  Alianza Atlético
+
+
+Matchday 2
+[Fri Jul/23]
+  13.15  Cienciano                0-0  Academia Cantolao
+  15.30  Mannucci                 1-2 (0-2)  Deportivo Municipal
+[Sat Jul/24]
+  11.00  Alianza Atlético         1-0 (0-0)  Sport Huancayo
+  13.15  Ayacucho FC              1-2 (0-0)  Sport Boys
+  15.30  Alianza Universidad      0-0  Alianza Lima
+[Sun Jul/25]
+  11.00  Cusco FC                 2-2 (0-1)  Deportivo Binacional
+  13.15  FBC Melgar               1-1 (1-1)  Universidad Cesar Vallejo
+  15.30  Universidad Técnica      0-1 (0-1)  Universitario de Deportes
+[Fri Sep/3]
+  15.30  Sporting Cristal         1-1 (0-0)  Universidad San Martín
+
+
+Matchday 3
+[Fri Jul/30]
+  11.00  Academia Cantolao        2-2 (1-0)  Ayacucho FC
+  13.15  Universidad San Martín   1-1 (1-0)  Cienciano
+  15.30  Deportivo Municipal      1-1 (1-1)  Sporting Cristal
+[Sat Jul/31]
+  11.00  Universidad Cesar Vallejo  2-0 (1-0)  Alianza Atlético
+  13.15  Universitario de Deportes  1-3 (1-0)  Mannucci
+  15.30  Sport Huancayo           0-0  Universidad Técnica
+[Sun Aug/1]
+  11.00  Cusco FC                 2-3 (1-1)  Alianza Universidad
+  13.15  Deportivo Binacional     1-5 (0-2)  FBC Melgar
+  15.30  Sport Boys               0-0  Alianza Lima
+
+
+Matchday 4
+[Mon Aug/2]
+  17.00  Ayacucho FC              1-0 (1-0)  Universidad San Martín
+  19.30  Cienciano                2-3 (1-3)  Deportivo Municipal
+[Tue Aug/3]
+  13.00  Universidad Técnica      0-0  Universidad Cesar Vallejo
+  15.30  Mannucci                 1-1 (1-1)  Sport Huancayo
+  19.30  Sporting Cristal         2-2 (2-0)  Universitario de Deportes
+[Wed Aug/4]
+  12.00  Alianza Atlético         0-3 (0-1)  Deportivo Binacional
+  14.30  FBC Melgar               2-2 (1-2)  Cusco FC
+  17.00  Alianza Universidad      2-0 (2-0)  Sport Boys
+  19.30  Alianza Lima             2-1 (2-1)  Academia Cantolao
+
+
+Matchday 5
+[Fri Aug/6]
+  11.00  Deportivo Municipal      0-1 (0-1)  Ayacucho FC
+  15.30  Sport Huancayo           1-2 (0-1)  Sporting Cristal
+[Sat Aug/7]
+  13.15  Deportivo Binacional     1-0 (0-0)  Universidad Técnica
+  15.30  Universidad Cesar Vallejo  0-1 (0-0)  Mannucci
+[Sun Aug/8]
+  11.00  Cusco FC                 3-0 (2-0)  Alianza Atlético
+  13.15  Academia Cantolao        0-2 (0-1)  Sport Boys
+  15.30  Universidad San Martín   0-2 (0-1)  Alianza Lima
+[Mon Aug/9]
+  13.15  Universitario de Deportes  3-1 (1-1)  Cienciano
+  15.30  FBC Melgar               3-0 (2-0)  Alianza Universidad
+
+
+Matchday 6
+[Fri Aug/13]
+  11.00  Universidad Técnica      2-1 (2-0)  Cusco FC
+  13.15  Alianza Atlético         3-3 (2-3)  FBC Melgar
+  15.30  Mannucci                 3-1 (2-1)  Deportivo Binacional
+[Sat Aug/14]
+  11.00  Sporting Cristal         0-1 (0-1)  Universidad Cesar Vallejo
+  13.15  Ayacucho FC              1-1 (0-1)  Universitario de Deportes
+  15.30  Alianza Lima             1-0 (0-0)  Deportivo Municipal
+  18.00  Cienciano                0-0  Sport Huancayo
+[Sun Aug/15]
+  11.00  Alianza Universidad      0-3 (0-1)  Academia Cantolao
+  15.30  Sport Boys               2-0 (1-0)  Universidad San Martín
+
+
+Matchday 7
+[Tue Aug/17]
+  11.00  Cusco FC                 2-3 (0-2)  Mannucci
+  13.15  Universidad Cesar Vallejo  0-1 (0-0)  Cienciano
+  15.30  FBC Melgar               0-1 (0-1)  Universidad Técnica
+[Wed Aug/18]
+  13.00  Sport Huancayo           1-1 (1-1)  Ayacucho FC
+  19.30  Universitario de Deportes  1-2 (0-1)  Alianza Lima
+[Thu Aug/19]
+  11.00  Alianza Atlético         1-2 (0-1)  Alianza Universidad
+  15.30  Universidad San Martín   0-2 (0-1)  Academia Cantolao
+[Fri Sep/3]
+  11.30  Deportivo Municipal      0-1 (0-1)  Sport Boys
+[Fri Oct/8]
+  15.30  Deportivo Binacional     3-4 (1-0)  Sporting Cristal
+
+
+Matchday 8
+[Sat Aug/21]
+  15.30  Mannucci                 1-2 (1-1)  FBC Melgar
+[Sun Aug/22]
+  11.00  Cienciano                2-0 (0-0)  Deportivo Binacional
+  13.15  Ayacucho FC              2-1 (2-0)  Universidad Cesar Vallejo
+  15.30  Sport Boys               0-0  Universitario de Deportes
+  18.00  Sporting Cristal         4-1 (4-0)  Cusco FC
+[Mon Aug/23]
+  11.00  Alianza Universidad      1-1 (0-0)  Universidad San Martín
+  13.15  Universidad Técnica      3-1 (0-1)  Alianza Atlético
+  15.30  Alianza Lima             1-1 (1-0)  Sport Huancayo
+  18.00  Academia Cantolao        2-1 (0-0)  Deportivo Municipal
+
+
+Matchday 9
+[Fri Aug/27]
+  11.00  Deportivo Binacional     3-1 (2-0)  Ayacucho FC
+  13.15  FBC Melgar               0-1 (0-0)  Sporting Cristal
+  15.30  Cusco FC                 3-0  Cienciano                [awarded]
+[Sat Aug/28]
+  11.00  Alianza Atlético         2-0 (0-0)  Mannucci
+  13.15  Universidad Técnica      1-0 (1-0)  Alianza Universidad
+  15.30  Universitario de Deportes  2-2 (0-1)  Academia Cantolao
+[Sun Aug/29]
+  11.00  Sport Huancayo           1-1 (1-1)  Sport Boys
+  13.15  Deportivo Municipal      2-0 (2-0)  Universidad San Martín
+  15.30  Universidad Cesar Vallejo  0-1 (0-0)  Alianza Lima
+
+
+Matchday 10
+[Sat Sep/11]
+  11.00  Academia Cantolao        0-0  Sport Huancayo
+  13.15  Ayacucho FC              1-3 (0-1)  Cusco FC
+  15.30  Alianza Universidad      0-3 (0-1)  Deportivo Municipal
+[Sun Sep/12]
+  11.00  Mannucci                 1-3 (0-2)  Universidad Técnica
+  13.15  Alianza Lima             3-2 (0-2)  Deportivo Binacional
+  15.30  Sporting Cristal         5-2 (1-0)  Alianza Atlético
+  18.00  Cienciano                0-1 (0-1)  FBC Melgar
+[Mon Sep/13]
+  13.15  Sport Boys               2-2 (1-1)  Universidad Cesar Vallejo
+  15.30  Universidad San Martín   0-2 (0-0)  Universitario de Deportes
+
+
+Matchday 11
+[Fri Sep/17]
+  11.00  Alianza Atlético         2-2 (0-0)  Cienciano
+  13.15  Universidad Técnica      1-6 (0-3)  Sporting Cristal
+  15.30  Cusco FC                 0-2 (0-0)  Alianza Lima
+  18.00  FBC Melgar               1-1 (1-0)  Ayacucho FC
+[Sat Sep/18]
+  11.00  Mannucci                 1-1 (1-0)  Alianza Universidad
+  13.15  Universidad Cesar Vallejo  0-0  Academia Cantolao
+  15.30  Deportivo Binacional     1-2 (1-0)  Sport Boys
+[Sun Sep/19]
+  11.00  Sport Huancayo           3-1 (2-1)  Universidad San Martín
+  15.30  Universitario de Deportes  0-2 (0-2)  Deportivo Municipal
+
+
+Matchday 12
+[Tue Sep/21]
+  11.00  Cienciano                2-2 (1-1)  Universidad Técnica
+  15.30  Ayacucho FC              0-1 (0-1)  Alianza Atlético
+[Wed Sep/22]
+  11.00  Sport Boys               3-2 (1-0)  Cusco FC
+  13.15  Alianza Lima             1-0 (0-0)  FBC Melgar
+  15.30  Sporting Cristal         1-3 (0-2)  Mannucci
+[Thu Sep/23]
+  11.00  Deportivo Municipal      2-2 (1-1)  Sport Huancayo
+  13.15  Academia Cantolao        1-2 (0-2)  Deportivo Binacional
+  15.30  Alianza Universidad      0-4 (0-2)  Universitario de Deportes
+  18.00  Universidad San Martín   0-1 (0-1)  Universidad Cesar Vallejo
+
+
+Matchday 13
+[Sat Sep/25]
+  11.00  Universidad Técnica      0-2 (0-1)  Ayacucho FC
+  13.15  Mannucci                 1-3 (0-1)  Cienciano
+  15.30  Alianza Atlético         1-3 (0-1)  Alianza Lima
+[Sun Sep/26]
+  11.00  Universidad Cesar Vallejo  2-0 (1-0)  Deportivo Municipal
+  13.15  FBC Melgar               1-0 (0-0)  Sport Boys
+  15.30  Sport Huancayo           1-3 (0-2)  Universitario de Deportes
+  18.00  Alianza Universidad      1-2 (1-1)  Sporting Cristal
+[Mon Sep/27]
+  11.00  Cusco FC                 3-2 (0-1)  Academia Cantolao
+  15.30  Deportivo Binacional     1-0 (1-0)  Universidad San Martín
+
+
+Matchday 14
+[Fri Oct/1]
+  10.30  Ayacucho FC              3-2 (1-2)  Mannucci
+  13.00  Sport Boys               3-1 (3-0)  Alianza Atlético
+  15.30  Cienciano                2-1 (2-0)  Sporting Cristal
+[Sat Oct/2]
+  10.30  Sport Huancayo           4-3 (1-0)  Alianza Universidad
+  13.00  Deportivo Municipal      1-2 (1-0)  Deportivo Binacional
+  15.30  Alianza Lima             2-0 (1-0)  Universidad Técnica
+[Sun Oct/3]
+  10.30  Universidad San Martín   1-1 (1-0)  Cusco FC
+  13.00  Academia Cantolao        0-2 (0-1)  FBC Melgar
+  15.30  Universitario de Deportes  3-0 (2-0)  Universidad Cesar Vallejo
+
+
+Matchday 15
+[Sat Oct/16]
+  11.00  Alianza Atlético         3-1 (0-1)  Academia Cantolao
+  13.15  Universidad Técnica      1-1 (0-1)  Sport Boys
+  15.30  Mannucci                 0-1 (0-0)  Alianza Lima
+[Sun Oct/17]
+  11.00  FBC Melgar               6-0 (2-0)  Universidad San Martín
+  13.15  Alianza Universidad      1-1 (0-1)  Cienciano
+  15.30  Sporting Cristal         1-0 (0-0)  Ayacucho FC
+[Mon Oct/18]
+  11.00  Cusco FC                 3-5 (0-2)  Deportivo Municipal
+  13.15  Deportivo Binacional     1-2 (0-0)  Universitario de Deportes
+  15.30  Universidad Cesar Vallejo  0-0  Sport Huancayo
+
+
+Matchday 16
+[Fri Oct/22]
+  11.00  Academia Cantolao        2-0 (0-0)  Universidad Técnica
+  13.15  Ayacucho FC              1-3 (0-1)  Cienciano
+  15.30  Sport Boys               3-3 (1-2)  Mannucci
+[Sat Oct/23]
+  11.00  Sport Huancayo           2-0 (1-0)  Deportivo Binacional
+  13.15  Universidad San Martín   3-1 (1-0)  Alianza Atlético
+  15.30  Universitario de Deportes  2-1 (0-0)  Cusco FC
+[Sun Oct/24]
+  11.00  Deportivo Municipal      1-3 (1-2)  FBC Melgar
+  13.15  Universidad Cesar Vallejo  3-1 (2-1)  Alianza Universidad
+  15.30  Alianza Lima             1-3 (0-2)  Sporting Cristal
+
+
+Matchday 17
+[Fri Oct/29]
+  15.00  Cienciano                1-1 (1-0)  Alianza Lima
+[Sat Oct/30]
+  15.00  Cusco FC                 2-1 (2-0)  Sport Huancayo
+         Universidad Técnica      4-0 (2-0)  Universidad San Martín
+         Mannucci                 1-0 (1-0)  Academia Cantolao
+         Alianza Atlético         0-2 (0-1)  Deportivo Municipal
+         Alianza Universidad      1-2 (1-1)  Ayacucho FC
+         Sporting Cristal         1-1 (0-0)  Sport Boys
+         Deportivo Binacional     0-0  Universidad Cesar Vallejo
+[Sun Oct/31]
+  15.30  FBC Melgar               1-2 (0-1)  Universitario de Deportes
+
+
+== Final
+
+Final
+[Sun Nov/21]
+  15.00  Alianza Lima             1-0 (1-0)  Sporting Cristal
+[Sun Nov/28]
+  15.00  Sporting Cristal         0-0  Alianza Lima

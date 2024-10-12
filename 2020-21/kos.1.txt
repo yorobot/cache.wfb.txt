@@ -1,0 +1,383 @@
+= KOS 1 2020/21
+
+# Date       Fri Sep/18 2020 - Sun May/23 2021 (247d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Sep/18]
+  16.00  KF Trepça'89             0-2 (0-1)  KF Arbëria
+[Sat Sep/19]
+  16.00  KF Prishtina             3-0 (1-0)  FK Drenica
+         KF Besa                  1-4 (0-1)  KF Ballkani
+[Sun Sep/20]
+  16.00  KF Feronikeli            4-0 (2-0)  KF Gjilani
+[Thu Dec/3]
+  13.30  Drita Gjilan             1-0 (1-0)  KF Llapi
+
+
+Matchday 2
+[Tue Sep/22]
+  16.00  KF Arbëria               1-1 (1-1)  KF Prishtina
+         FK Drenica               2-1 (1-1)  KF Besa
+[Wed Sep/23]
+  16.00  KF Ballkani              3-2 (2-0)  KF Feronikeli
+         KF Llapi                 0-1 (0-0)  KF Gjilani
+[Wed Oct/14]
+  14.00  Drita Gjilan             1-0 (0-0)  KF Trepça'89
+
+
+Matchday 3
+[Fri Sep/25]
+  16.00  KF Besa                  0-3 (0-0)  KF Arbëria
+[Sat Sep/26]
+  16.00  KF Trepça'89             1-0 (1-0)  KF Llapi
+         KF Feronikeli            2-2 (0-1)  FK Drenica
+[Sun Sep/27]
+  13.30  KF Gjilani               0-0  KF Ballkani
+[Sun Dec/20]
+  13.30  KF Prishtina             1-1 (1-0)  Drita Gjilan
+
+
+Matchday 4
+[Tue Sep/29]
+  15.00  KF Arbëria               0-0  KF Feronikeli
+[Wed Sep/30]
+  15.00  KF Llapi                 1-3 (0-0)  KF Ballkani
+         KF Trepça'89             1-0 (0-0)  KF Prishtina
+         Drita Gjilan             3-1 (1-1)  KF Besa
+[Thu Oct/1]
+  15.00  FK Drenica               0-0  KF Gjilani
+
+
+Matchday 5
+[Sat Oct/3]
+  15.00  KF Besa                  2-1 (2-0)  KF Trepça'89
+[Sun Oct/4]
+  13.30  KF Feronikeli            1-2 (1-0)  Drita Gjilan
+  15.00  KF Prishtina             0-0  KF Llapi
+         KF Ballkani              5-0 (3-0)  FK Drenica
+[Mon Oct/5]
+  15.00  KF Gjilani               3-1 (1-1)  KF Arbëria
+
+
+Matchday 6
+[Fri Oct/16]
+  14.00  KF Arbëria               2-4 (1-0)  KF Ballkani
+[Sat Oct/17]
+  14.00  KF Prishtina             4-0 (2-0)  KF Besa
+         KF Llapi                 0-1 (0-0)  FK Drenica
+[Sun Oct/18]
+  13.30  Drita Gjilan             0-0  KF Gjilani
+  14.00  KF Trepça'89             0-0  KF Feronikeli
+
+
+Matchday 7
+[Tue Oct/20]
+  14.00  KF Besa                  2-2 (0-2)  KF Llapi
+         FK Drenica               0-1 (0-1)  KF Arbëria
+[Wed Oct/21]
+  14.00  KF Feronikeli            1-2 (0-1)  KF Prishtina
+         KF Ballkani              2-0 (1-0)  Drita Gjilan
+         KF Gjilani               0-0  KF Trepça'89
+
+
+Matchday 8
+[Sat Oct/24]
+  14.00  KF Besa                  1-1 (0-0)  KF Feronikeli
+         Drita Gjilan             4-1 (3-0)  FK Drenica
+         KF Llapi                 2-0 (1-0)  KF Arbëria
+[Sun Oct/25]
+  13.30  KF Prishtina             0-2 (0-0)  KF Gjilani
+  14.00  KF Trepça'89             4-3 (0-1)  KF Ballkani
+
+
+Matchday 9
+[Tue Oct/27]
+  14.00  KF Arbëria               0-1 (0-1)  Drita Gjilan
+         KF Feronikeli            1-0 (0-0)  KF Llapi
+[Wed Oct/28]
+  14.00  FK Drenica               2-1 (0-1)  KF Trepça'89
+         KF Gjilani               1-0 (1-0)  KF Besa
+         KF Ballkani              2-1 (0-1)  KF Prishtina
+
+
+Matchday 10
+[Sat Oct/31]
+  13.30  KF Arbëria               1-2 (1-0)  KF Trepça'89
+         KF Ballkani              4-1 (2-0)  KF Besa
+         KF Gjilani               0-0  KF Feronikeli
+[Sun Nov/1]
+  13.30  FK Drenica               1-0 (0-0)  KF Prishtina
+         KF Llapi                 1-2 (1-0)  Drita Gjilan
+
+
+Matchday 11
+[Wed Nov/4]
+  13.30  KF Besa                  0-0  FK Drenica
+         KF Prishtina             1-0 (1-0)  KF Arbëria
+         KF Trepça'89             0-1 (0-1)  Drita Gjilan
+[Thu Nov/5]
+  13.30  KF Feronikeli            1-1 (1-0)  KF Ballkani
+         KF Gjilani               2-0 (1-0)  KF Llapi
+
+
+Matchday 12
+[Tue Nov/10]
+  13.30  Drita Gjilan             0-0  KF Prishtina
+         KF Llapi                 5-0 (3-0)  KF Trepça'89
+         FK Drenica               1-0 (0-0)  KF Feronikeli
+[Wed Nov/11]
+  13.30  KF Arbëria               1-0 (0-0)  KF Besa
+[Sat Dec/19]
+  12.30  KF Ballkani              0-4 (0-2)  KF Gjilani
+
+
+Matchday 13
+[Sat Nov/21]
+  13.00  KF Feronikeli            1-0 (1-0)  KF Arbëria
+         KF Besa                  1-4 (1-3)  Drita Gjilan
+         KF Gjilani               1-0 (1-0)  FK Drenica
+[Sun Nov/22]
+  13.00  KF Prishtina             4-2 (2-1)  KF Trepça'89
+  13.30  KF Ballkani              4-2 (4-0)  KF Llapi
+
+
+Matchday 14
+[Tue Nov/24]
+  13.00  Drita Gjilan             1-1 (0-1)  KF Feronikeli
+         KF Arbëria               1-0 (0-0)  KF Gjilani
+[Wed Nov/25]
+  13.00  KF Trepça'89             4-2 (3-1)  KF Besa
+         KF Llapi                 0-2 (0-0)  KF Prishtina
+[Thu Nov/26]
+  13.00  FK Drenica               1-2 (0-2)  KF Ballkani
+
+
+Matchday 15
+[Sat Nov/28]
+  13.00  KF Besa                  0-2 (0-1)  KF Prishtina
+[Sun Nov/29]
+  13.00  KF Feronikeli            2-0 (1-0)  KF Trepça'89
+  13.30  KF Gjilani               2-3 (2-1)  Drita Gjilan
+[Mon Nov/30]
+  13.00  KF Ballkani              2-1 (2-1)  KF Arbëria
+         FK Drenica               0-1 (0-0)  KF Llapi
+
+
+Matchday 16
+[Fri Dec/4]
+  13.00  KF Prishtina             0-0  KF Feronikeli
+[Sat Dec/5]
+  13.00  KF Arbëria               1-0 (0-0)  FK Drenica
+         KF Trepça'89             3-0 (3-0)  KF Gjilani
+[Sun Dec/6]
+  12.00  KF Llapi                 2-0 (2-0)  KF Besa
+  13.30  Drita Gjilan             2-1 (2-1)  KF Ballkani
+
+
+Matchday 17
+[Wed Dec/9]
+  13.00  FK Drenica               0-3 (0-1)  Drita Gjilan
+         KF Feronikeli            3-0 (2-0)  KF Besa
+         KF Gjilani               0-3 (0-2)  KF Prishtina
+[Thu Dec/10]
+  13.00  KF Arbëria               1-2 (0-2)  KF Llapi
+         KF Ballkani              2-0 (0-0)  KF Trepça'89
+
+
+Matchday 18
+[Sat Dec/12]
+  13.00  KF Besa                  1-2 (0-1)  KF Gjilani
+[Sun Dec/13]
+  13.00  KF Llapi                 3-2 (2-1)  KF Feronikeli
+  13.30  KF Prishtina             2-1 (1-1)  KF Ballkani
+[Mon Dec/14]
+  13.00  Drita Gjilan             1-1 (1-0)  KF Arbëria
+         KF Trepça'89             0-0  FK Drenica
+
+
+Matchday 19
+[Sat Feb/13]
+  13.00  KF Besa                  0-3 (0-3)  KF Ballkani
+         KF Prishtina             3-1 (1-1)  FK Drenica
+         Drita Gjilan             1-0 (0-0)  KF Llapi
+[Mon Feb/15]
+  13.00  KF Trepça'89             1-1 (1-0)  KF Arbëria
+         KF Feronikeli            1-1 (1-0)  KF Gjilani
+
+
+Matchday 20
+[Fri Feb/19]
+  13.00  KF Arbëria               0-4 (0-3)  KF Prishtina
+[Sat Feb/20]
+  13.00  FK Drenica               0-0  KF Besa
+         Drita Gjilan             1-2 (0-2)  KF Trepça'89
+[Sun Feb/21]
+  13.00  KF Llapi                 3-1 (1-0)  KF Gjilani
+  13.30  KF Ballkani              1-0 (0-0)  KF Feronikeli
+
+
+Matchday 21
+[Wed Feb/24]
+  13.00  KF Prishtina             2-0 (1-0)  Drita Gjilan
+         KF Trepça'89             1-0 (1-0)  KF Llapi
+         KF Gjilani               1-1 (0-0)  KF Ballkani
+[Thu Feb/25]
+  13.00  KF Feronikeli            1-3 (1-0)  FK Drenica
+         KF Besa                  0-3 (0-2)  KF Arbëria
+
+
+Matchday 22
+[Sat Feb/27]
+  13.00  KF Trepça'89             1-2 (0-0)  KF Prishtina
+[Sun Feb/28]
+  13.00  Drita Gjilan             3-1 (2-0)  KF Besa
+  13.30  KF Llapi                 1-0 (0-0)  KF Ballkani
+[Mon Mar/1]
+  13.00  KF Arbëria               0-3 (0-2)  KF Feronikeli
+         FK Drenica               0-0  KF Gjilani
+
+
+Matchday 23
+[Fri Mar/5]
+  13.00  KF Besa                  1-2 (0-1)  KF Trepça'89
+         KF Ballkani              2-1 (1-0)  FK Drenica
+[Sat Mar/6]
+  13.00  KF Gjilani               1-1 (0-0)  KF Arbëria
+         KF Prishtina             2-0 (2-0)  KF Llapi
+[Sun Mar/7]
+  13.30  KF Feronikeli            0-1 (0-0)  Drita Gjilan
+
+
+Matchday 24
+[Wed Mar/10]
+  13.00  KF Prishtina             5-1 (3-0)  KF Besa
+         KF Trepça'89             0-0  KF Feronikeli
+         KF Llapi                 3-3 (1-1)  FK Drenica
+[Thu Mar/11]
+  13.00  Drita Gjilan             2-0 (2-0)  KF Gjilani
+         KF Arbëria               2-6 (0-2)  KF Ballkani
+
+
+Matchday 25
+[Sat Mar/13]
+  13.00  KF Feronikeli            2-0 (1-0)  KF Prishtina
+         KF Besa                  1-4 (1-2)  KF Llapi
+[Sun Mar/14]
+  13.00  FK Drenica               1-1 (1-0)  KF Arbëria
+         KF Gjilani               2-1 (1-0)  KF Trepça'89
+  13.30  KF Ballkani              0-0  Drita Gjilan
+
+
+Matchday 26
+[Sat Mar/20]
+  13.00  Drita Gjilan             1-1 (1-1)  FK Drenica
+         KF Besa                  2-1 (2-1)  KF Feronikeli
+[Sun Mar/21]
+  13.00  KF Llapi                 4-3 (2-1)  KF Arbëria
+  13.30  KF Trepça'89             0-2 (1-0)  KF Ballkani
+[Tue Mar/30]
+  15.00  KF Prishtina             0-0  KF Gjilani
+
+
+Matchday 27
+[Sat Apr/3]
+  15.00  KF Arbëria               1-3 (1-2)  Drita Gjilan
+         FK Drenica               2-0 (1-0)  KF Trepça'89
+[Sun Apr/4]
+  15.00  KF Feronikeli            4-0 (1-0)  KF Llapi
+         KF Ballkani              0-1 (0-1)  KF Prishtina
+[Mon Apr/5]
+  15.00  KF Gjilani               5-1 (2-1)  KF Besa
+
+
+Matchday 28
+[Fri Apr/9]
+  15.00  KF Arbëria               0-1 (0-1)  KF Trepça'89
+[Sat Apr/10]
+  15.00  KF Gjilani               1-0 (1-0)  KF Feronikeli
+         KF Ballkani              4-1 (1-11)  KF Besa
+[Sun Apr/11]
+  15.00  KF Llapi                 2-4 (2-2)  Drita Gjilan
+         FK Drenica               0-1 (0-0)  KF Prishtina
+
+
+Matchday 29
+[Fri Apr/16]
+  15.00  KF Besa                  1-2 (1-1)  FK Drenica
+[Sat Apr/17]
+  15.00  KF Gjilani               0-2 (0-1)  KF Llapi
+         KF Prishtina             2-0 (2-0)  KF Arbëria
+[Sun Apr/18]
+  15.00  KF Trepça'89             0-1 (0-0)  Drita Gjilan
+         KF Feronikeli            0-2 (0-1)  KF Ballkani
+
+
+Matchday 30
+[Sat Apr/24]
+  15.00  FK Drenica               1-1 (0-1)  KF Feronikeli
+         KF Arbëria               2-1 (0-0)  KF Besa
+[Sun Apr/25]
+  15.00  KF Llapi                 2-1 (0-1)  KF Trepça'89
+         KF Ballkani              1-0 (0-0)  KF Gjilani
+         Drita Gjilan             1-2 (1-1)  KF Prishtina
+
+
+Matchday 31
+[Tue Apr/27]
+  15.00  KF Feronikeli            0-1 (0-0)  KF Arbëria
+[Wed Apr/28]
+  15.00  KF Besa                  1-1 (1-0)  Drita Gjilan
+         KF Gjilani               0-0  FK Drenica
+         KF Ballkani              1-0 (1-0)  KF Llapi
+         KF Prishtina             3-1 (0-0)  KF Trepça'89
+
+
+Matchday 32
+[Sat May/1]
+  16.00  Drita Gjilan             3-1 (1-0)  KF Feronikeli
+         KF Arbëria               3-4 (2-2)  KF Gjilani
+         KF Trepça'89             1-1 (0-1)  KF Besa
+[Sun May/2]
+  16.00  KF Llapi                 1-3 (1-2)  KF Prishtina
+         FK Drenica               2-1 (1-0)  KF Ballkani
+
+
+Matchday 33
+[Wed May/5]
+  15.00  KF Besa                  0-3 (0-1)  KF Prishtina
+         KF Feronikeli            3-0 (0-0)  KF Trepça'89
+         KF Gjilani               1-1 (1-0)  Drita Gjilan
+[Thu May/6]
+  15.00  FK Drenica               4-2 (1-1)  KF Llapi
+         KF Ballkani              2-3 (1-1)  KF Arbëria
+
+
+Matchday 34
+[Sun May/9]
+  15.00  KF Prishtina             2-1 (1-1)  KF Feronikeli
+         KF Arbëria               1-1 (1-0)  FK Drenica
+         KF Trepça'89             2-1 (0-1)  KF Gjilani
+         KF Llapi                 1-0 (0-0)  KF Besa
+         Drita Gjilan             1-1 (1-1)  KF Ballkani
+
+
+Matchday 35
+[Sun May/16]
+  15.00  FK Drenica               0-3 (0-1)  Drita Gjilan
+         KF Gjilani               1-2 (0-2)  KF Prishtina
+         KF Feronikeli            3-1 (1-1)  KF Besa
+         KF Arbëria               3-2 (1-1)  KF Llapi
+         KF Ballkani              4-3 (2-1)  KF Trepça'89
+
+
+Matchday 36
+[Sun May/23]
+  15.00  KF Besa                  1-0 (0-0)  KF Gjilani
+         KF Llapi                 1-1 (0-0)  KF Feronikeli
+         KF Prishtina             2-5 (2-2)  KF Ballkani
+         Drita Gjilan             2-0 (1-0)  KF Arbëria
+         KF Trepça'89             2-1 (2-0)  FK Drenica

@@ -1,0 +1,443 @@
+= VE 1 2023
+
+# Date       Fri Feb/3 - Sat Nov/25 2023 (295d)
+# Teams      15
+# Matches    223
+# Stages     Regular Season (210)  Fase final (12)  Final absoluta (1)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Feb/3]
+  17.00  Caracas FC               0-0  Carabobo FC
+  19.30  Zamora FC                2-0 (0-0)  Hermanos Colmenarez
+[Sat Feb/4]
+  17.00  Angostura FC             2-0 (2-0)  Mineros de Guayana
+  19.30  Deportivo La Guaira      0-0  Monagas
+[Sun Feb/5]
+  15.00  Metropolitanos FC        1-1 (1-0)  Universidad Central
+  17.15  Deportivo Táchira        3-0 (1-0)  Estudiantes de Mérida
+  19.30  Academia Puerto Cabello  3-0 (0-0)  Rayo Zuliano
+
+
+Matchday 2
+[Fri Feb/10]
+  17.00  Hermanos Colmenarez      3-1 (1-1)  Deportivo Táchira
+[Sat Feb/11]
+  15.00  Universidad Central      1-1 (0-1)  Deportivo La Guaira
+  17.15  Portuguesa FC            0-2 (0-1)  Angostura FC
+  19.30  Monagas                  3-1 (1-0)  Mineros de Guayana
+[Sun Feb/12]
+  15.00  Estudiantes de Mérida    1-3 (0-1)  Academia Puerto Cabello
+  17.15  Caracas FC               3-3 (1-1)  Rayo Zuliano
+  19.30  Carabobo FC              3-0 (2-0)  Zamora FC
+
+
+Matchday 3
+[Fri Feb/17]
+  19.30  Academia Puerto Cabello  4-0 (2-0)  Universidad Central
+[Sat Feb/18]
+  15.00  Deportivo La Guaira      2-0 (0-0)  Metropolitanos FC
+  17.15  Deportivo Táchira        1-0 (0-0)  Monagas
+  19.30  Angostura FC             1-1 (0-1)  Rayo Zuliano
+[Sun Feb/19]
+  15.00  Caracas FC               2-2 (1-1)  Hermanos Colmenarez
+  17.15  Mineros de Guayana       0-0  Portuguesa FC
+  19.30  Zamora FC                1-5 (1-4)  Estudiantes de Mérida
+
+
+Matchday 4
+[Fri Feb/24]
+  17.00  Hermanos Colmenarez      0-0  Deportivo La Guaira
+  19.30  Monagas                  1-0 (0-0)  Angostura FC
+[Sat Feb/25]
+  17.00  Metropolitanos FC        1-2 (1-0)  Zamora FC
+  19.30  Carabobo FC              1-3 (0-1)  Deportivo Táchira
+[Sun Feb/26]
+  15.00  Universidad Central      0-2 (0-0)  Caracas FC
+  17.15  Rayo Zuliano             4-4 (1-3)  Mineros de Guayana
+  19.30  Portuguesa FC            0-2 (0-1)  Academia Puerto Cabello
+
+
+Matchday 5
+[Fri Mar/3]
+  15.00  Caracas FC               1-1 (0-1)  Portuguesa FC
+  17.15  Mineros de Guayana       2-0 (2-0)  Universidad Central
+  19.30  Academia Puerto Cabello  1-0 (1-0)  Metropolitanos FC
+[Sat Mar/4]
+  15.00  Deportivo La Guaira      1-3 (1-2)  Estudiantes de Mérida
+  17.15  Monagas                  2-1 (1-0)  Hermanos Colmenarez
+  19.30  Deportivo Táchira        5-0 (3-0)  Rayo Zuliano
+[Sun Mar/5]
+  17.00  Angostura FC             0-1 (0-1)  Carabobo FC
+
+
+Matchday 6
+[Fri Mar/10]
+  19.00  Portuguesa FC            2-0 (1-0)  Deportivo La Guaira
+[Sat Mar/11]
+  15.00  Estudiantes de Mérida    1-2 (0-1)  Rayo Zuliano
+  17.15  Zamora FC                1-1 (0-0)  Mineros de Guayana
+  19.30  Metropolitanos FC        2-0 (2-0)  Deportivo Táchira
+[Sun Mar/12]
+  15.00  Universidad Central      0-2 (0-0)  Monagas
+  17.15  Hermanos Colmenarez      2-2 (0-1)  Angostura FC
+  19.30  Carabobo FC              0-2 (0-0)  Academia Puerto Cabello
+
+
+Matchday 7
+[Fri Mar/17]
+  17.00  Mineros de Guayana       0-3 (0-1)  Academia Puerto Cabello
+  19.30  Hermanos Colmenarez      2-1 (1-1)  Carabobo FC
+[Sat Mar/18]
+  17.00  Deportivo La Guaira      3-0 (2-0)  Zamora FC
+  19.30  Monagas                  1-1 (1-0)  Estudiantes de Mérida
+[Sun Mar/19]
+  15.00  Deportivo Táchira        1-1 (1-1)  Universidad Central
+  17.00  Rayo Zuliano             1-1 (0-0)  Portuguesa FC
+  19.30  Caracas FC               2-0 (1-0)  Metropolitanos FC
+
+
+Matchday 8
+[Fri Mar/31]
+  15.00  Estudiantes de Mérida    1-0 (1-0)  Hermanos Colmenarez
+  17.15  Metropolitanos FC        2-1 (1-1)  Rayo Zuliano
+  19.30  Carabobo FC              3-0 (2-0)  Monagas
+[Sat Apr/1]
+  17.00  Portuguesa FC            0-1 (0-0)  Deportivo Táchira
+  19.30  Academia Puerto Cabello  1-0 (0-0)  Deportivo La Guaira
+[Sun Apr/2]
+  17.00  Universidad Central      1-2 (1-2)  Angostura FC
+  19.30  Zamora FC                1-2 (0-1)  Caracas FC
+
+
+Matchday 9
+[Fri Apr/7]
+  19.30  Hermanos Colmenarez      1-1 (0-0)  Universidad Central
+[Sat Apr/8]
+  16.00  Metropolitanos FC        1-0 (1-0)  Carabobo FC
+  18.15  Deportivo Táchira        1-1 (0-1)  Zamora FC
+  19.30  Mineros de Guayana       0-2 (0-1)  Deportivo La Guaira
+[Sun Apr/9]
+  15.00  Caracas FC               2-2 (0-0)  Estudiantes de Mérida
+  17.15  Angostura FC             2-2 (0-1)  Academia Puerto Cabello
+  19.30  Monagas                  1-2 (1-0)  Portuguesa FC
+
+
+Matchday 10
+[Fri Apr/14]
+  15.30  Estudiantes de Mérida    0-2 (0-0)  Metropolitanos FC
+  18.00  Zamora FC                1-1 (1-1)  Monagas
+  20.15  Academia Puerto Cabello  1-0 (0-0)  Hermanos Colmenarez
+[Sat Apr/15]
+  17.00  Deportivo La Guaira      1-0 (0-0)  Angostura FC
+  19.15  Carabobo FC              0-0  Rayo Zuliano
+[Sun Apr/16]
+  16.00  Caracas FC               1-1 (1-1)  Mineros de Guayana
+  18.15  Portuguesa FC            2-0 (1-0)  Universidad Central
+
+
+Matchday 11
+[Fri Apr/21]
+  17.00  Rayo Zuliano             1-1 (0-1)  Zamora FC
+[Sat Apr/22]
+  16.00  Universidad Central      3-2 (2-0)  Estudiantes de Mérida
+  18.15  Mineros de Guayana       0-1 (0-0)  Carabobo FC
+  20.30  Hermanos Colmenarez      0-2 (0-2)  Portuguesa FC
+[Sun Apr/23]
+  16.00  Deportivo Táchira        1-1 (0-0)  Caracas FC
+  18.15  Angostura FC             3-2 (0-1)  Metropolitanos FC
+  20.30  Monagas                  3-2 (1-1)  Academia Puerto Cabello
+
+
+Matchday 12
+[Fri Apr/28]
+  18.40  Metropolitanos FC        3-0 (1-0)  Mineros de Guayana
+  20.45  Academia Puerto Cabello  0-0  Deportivo Táchira
+[Sat Apr/29]
+  17.00  Rayo Zuliano             1-1 (1-1)  Hermanos Colmenarez
+  19.15  Carabobo FC              3-2 (2-1)  Deportivo La Guaira
+[Sun Apr/30]
+  11.00  Estudiantes de Mérida    0-1 (0-1)  Portuguesa FC
+  16.00  Caracas FC               4-1 (2-0)  Angostura FC
+  18.15  Zamora FC                1-0 (0-0)  Universidad Central
+
+
+Matchday 13
+[Fri May/5]
+  17.00  Universidad Central      0-0  Carabobo FC
+  19.15  Portuguesa FC            2-1 (1-0)  Zamora FC
+[Sat May/6]
+  17.00  Deportivo La Guaira      5-3 (3-1)  Rayo Zuliano
+  19.15  Mineros de Guayana       0-4 (0-4)  Deportivo Táchira
+[Sun May/7]
+  16.00  Angostura FC             2-3 (0-1)  Estudiantes de Mérida
+  18.15  Monagas                  0-2 (0-1)  Metropolitanos FC
+  20.30  Academia Puerto Cabello  2-1 (2-1)  Caracas FC
+
+
+Matchday 14
+[Fri May/12]
+  16.00  Carabobo FC              1-0 (1-0)  Portuguesa FC
+  18.15  Metropolitanos FC        2-3 (1-2)  Hermanos Colmenarez
+  20.30  Zamora FC                1-3 (0-1)  Academia Puerto Cabello
+[Sat May/13]
+  16.00  Rayo Zuliano             1-0 (0-0)  Monagas
+  18.15  Deportivo Táchira        1-0 (0-0)  Angostura FC
+  20.30  Caracas FC               1-1 (0-0)  Deportivo La Guaira
+[Sun May/14]
+  11.30  Estudiantes de Mérida    3-1 (2-0)  Mineros de Guayana
+
+
+Matchday 15
+[Fri May/19]
+  17.00  Universidad Central      2-0 (2-0)  Rayo Zuliano
+  19.15  Angostura FC             2-1 (1-0)  Zamora FC
+[Sat May/20]
+  16.00  Deportivo La Guaira      0-0  Deportivo Táchira
+  18.15  Monagas                  0-2 (0-2)  Caracas FC
+  20.30  Portuguesa FC            0-1 (0-1)  Metropolitanos FC
+[Sun May/21]
+  16.00  Carabobo FC              2-0 (1-0)  Estudiantes de Mérida
+  18.15  Mineros de Guayana       2-2 (0-1)  Hermanos Colmenarez
+
+
+Matchday 16
+[Thu Jun/22]
+  15.00  Estudiantes de Mérida    1-1 (0-1)  Carabobo FC
+[Fri Jun/23]
+  18.15  Metropolitanos FC        0-1 (0-0)  Portuguesa FC
+  20.30  Hermanos Colmenarez      1-2 (1-0)  Mineros de Guayana
+[Sat Jun/24]
+  16.00  Rayo Zuliano             0-0  Universidad Central
+  18.15  Caracas FC               2-0 (0-0)  Monagas
+  20.30  Zamora FC                3-2 (0-1)  Angostura FC
+[Sun Jun/25]
+  16.00  Deportivo Táchira        2-0 (0-0)  Deportivo La Guaira
+
+
+Matchday 17
+[Fri Jun/30]
+  19.00  Angostura FC             0-1 (0-0)  Deportivo Táchira
+[Sat Jul/1]
+  16.00  Portuguesa FC            1-1 (0-0)  Carabobo FC
+  18.15  Mineros de Guayana       1-1 (0-1)  Estudiantes de Mérida
+  20.30  Academia Puerto Cabello  2-0 (2-0)  Zamora FC
+[Sun Jul/2]
+  16.00  Deportivo La Guaira      2-1 (2-1)  Caracas FC
+  18.15  Monagas                  1-3 (1-1)  Rayo Zuliano
+  20.30  Hermanos Colmenarez      0-1 (0-0)  Metropolitanos FC
+
+
+Matchday 18
+[Thu Jul/6]
+  18.00  Estudiantes de Mérida    5-0 (2-0)  Angostura FC
+[Fri Jul/7]
+  16.00  Carabobo FC              2-1 (2-1)  Universidad Central
+[Sat Jul/8]
+  16.00  Rayo Zuliano             0-1 (0-0)  Deportivo La Guaira
+  18.15  Deportivo Táchira        4-1 (3-1)  Mineros de Guayana
+  20.30  Metropolitanos FC        3-2 (0-2)  Monagas
+[Sun Jul/9]
+  18.00  Caracas FC               2-1 (0-0)  Academia Puerto Cabello
+  20.15  Zamora FC                1-2 (1-2)  Portuguesa FC
+
+
+Matchday 19
+[Fri Jul/14]
+  18.00  Hermanos Colmenarez      1-3 (1-1)  Rayo Zuliano
+  20.15  Universidad Central      5-0 (1-0)  Zamora FC
+[Sat Jul/15]
+  17.00  Angostura FC             2-0 (1-0)  Caracas FC
+  19.15  Deportivo La Guaira      1-1 (1-1)  Carabobo FC
+[Sun Jul/16]
+  16.00  Deportivo Táchira        1-0 (0-0)  Academia Puerto Cabello
+  18.15  Portuguesa FC            2-0 (0-0)  Estudiantes de Mérida
+  20.30  Mineros de Guayana       1-1 (0-0)  Metropolitanos FC
+
+
+Matchday 20
+[Fri Jul/21]
+  17.00  Metropolitanos FC        1-0 (0-0)  Angostura FC
+  19.10  Zamora FC                0-0  Rayo Zuliano
+[Sat Jul/22]
+  16.00  Carabobo FC              6-1 (3-0)  Mineros de Guayana
+  18.15  Estudiantes de Mérida    2-0 (1-0)  Universidad Central
+  20.30  Academia Puerto Cabello  2-0 (0-0)  Monagas
+[Sun Jul/23]
+  17.00  Caracas FC               2-2 (1-1)  Deportivo Táchira
+  19.30  Portuguesa FC            1-0 (0-0)  Hermanos Colmenarez
+
+
+Matchday 21
+[Thu Jul/27]
+  17.00  Angostura FC             1-2 (0-0)  Deportivo La Guaira
+[Fri Jul/28]
+  16.00  Universidad Central      0-1 (0-1)  Portuguesa FC
+  18.15  Monagas                  2-1 (0-0)  Zamora FC
+  20.30  Hermanos Colmenarez      0-1 (0-0)  Academia Puerto Cabello
+[Sat Jul/29]
+  16.00  Rayo Zuliano             0-0  Carabobo FC
+  18.15  Mineros de Guayana       1-3 (0-2)  Caracas FC
+  20.30  Metropolitanos FC        0-1 (0-1)  Estudiantes de Mérida
+
+
+Matchday 22
+[Fri Aug/4]
+  19.00  Zamora FC                0-1 (0-0)  Deportivo Táchira
+[Sat Aug/5]
+  15.30  Estudiantes de Mérida    0-2 (0-1)  Caracas FC
+  18.15  Portuguesa FC            1-2 (0-1)  Monagas
+  21.00  Deportivo La Guaira      1-1 (1-1)  Mineros de Guayana
+[Sun Aug/6]
+  15.30  Carabobo FC              2-2 (2-1)  Metropolitanos FC
+  18.15  Academia Puerto Cabello  2-0 (1-0)  Angostura FC
+  21.00  Universidad Central      2-1 (0-0)  Hermanos Colmenarez
+
+
+Matchday 23
+[Fri Aug/11]
+  16.00  Angostura FC             1-1 (1-0)  Universidad Central
+  19.00  Deportivo La Guaira      2-1 (1-0)  Academia Puerto Cabello
+[Sat Aug/12]
+  15.30  Rayo Zuliano             1-1 (0-0)  Metropolitanos FC
+  18.10  Caracas FC               4-0 (2-0)  Zamora FC
+  20.45  Monagas                  1-1 (0-0)  Carabobo FC
+[Sun Aug/13]
+  16.00  Deportivo Táchira        1-1 (0-0)  Portuguesa FC
+  18.40  Hermanos Colmenarez      1-0 (1-0)  Estudiantes de Mérida
+
+
+Matchday 24
+[Fri Aug/18]
+  16.00  Carabobo FC              1-0 (1-0)  Hermanos Colmenarez
+  18.40  Universidad Central      1-2 (1-1)  Deportivo Táchira
+[Sat Aug/19]
+  15.00  Estudiantes de Mérida    1-1 (0-0)  Monagas
+  17.40  Academia Puerto Cabello  2-0 (1-0)  Mineros de Guayana
+  20.20  Zamora FC                2-1 (2-1)  Deportivo La Guaira
+[Sun Aug/20]
+  16.40  Metropolitanos FC        2-2 (0-1)  Caracas FC
+  19.15  Portuguesa FC            1-2 (0-0)  Rayo Zuliano
+
+
+Matchday 25
+[Fri Aug/25]
+  16.00  Angostura FC             0-0  Hermanos Colmenarez
+  18.40  Academia Puerto Cabello  0-0  Carabobo FC
+[Sat Aug/26]
+  15.00  Deportivo Táchira        2-0 (1-0)  Metropolitanos FC
+  17.40  Deportivo La Guaira      2-2 (1-0)  Portuguesa FC
+  20.20  Mineros de Guayana       1-2 (1-2)  Zamora FC
+[Sun Aug/27]
+  15.30  Rayo Zuliano             2-1 (1-1)  Estudiantes de Mérida
+  20.45  Monagas                  1-0 (0-0)  Universidad Central
+
+
+Matchday 26
+[Fri Sep/1]
+  16.00  Carabobo FC              1-1 (1-1)  Angostura FC
+  18.40  Universidad Central      2-0 (1-0)  Mineros de Guayana
+[Sat Sep/2]
+  15.00  Estudiantes de Mérida    2-1 (2-0)  Deportivo La Guaira
+  17.40  Portuguesa FC            1-1 (1-1)  Caracas FC
+  20.20  Metropolitanos FC        2-1 (0-1)  Academia Puerto Cabello
+[Sun Sep/3]
+  15.30  Rayo Zuliano             1-2 (0-1)  Deportivo Táchira
+  18.10  Hermanos Colmenarez      2-1 (0-0)  Monagas
+
+
+Matchday 27
+[Fri Sep/15]
+  17.00  Angostura FC             2-0 (1-0)  Monagas
+  19.40  Deportivo La Guaira      2-2 (1-1)  Hermanos Colmenarez
+[Sat Sep/16]
+  15.00  Mineros de Guayana       1-0 (0-0)  Rayo Zuliano
+  17.40  Zamora FC                4-1 (1-1)  Metropolitanos FC
+  20.20  Caracas FC               0-0  Universidad Central
+[Sun Sep/17]
+  17.00  Deportivo Táchira        1-0 (0-0)  Carabobo FC
+  19.40  Academia Puerto Cabello  4-1 (1-0)  Portuguesa FC
+
+
+Matchday 28
+[Fri Sep/22]
+  17.00  Hermanos Colmenarez      0-0  Caracas FC
+  19.40  Estudiantes de Mérida    2-2 (1-1)  Zamora FC
+[Sat Sep/23]
+  15.00  Rayo Zuliano             2-1 (1-0)  Angostura FC
+  17.40  Universidad Central      2-3 (1-2)  Academia Puerto Cabello
+  20.20  Portuguesa FC            2-0 (0-0)  Mineros de Guayana
+[Sun Sep/24]
+  16.30  Metropolitanos FC        2-2 (1-1)  Deportivo La Guaira
+  19.00  Monagas                  1-2 (1-1)  Deportivo Táchira
+
+
+Matchday 29
+[Sat Sep/30]
+  15.30  Angostura FC             1-2 (0-2)  Portuguesa FC
+         Deportivo Táchira        1-0 (0-0)  Hermanos Colmenarez
+         Deportivo La Guaira      0-0  Universidad Central
+         Mineros de Guayana       2-1 (1-1)  Monagas
+         Academia Puerto Cabello  1-0 (1-0)  Estudiantes de Mérida
+         Rayo Zuliano             0-0  Caracas FC
+         Zamora FC                0-2 (0-0)  Carabobo FC
+
+
+Matchday 30
+[Fri Oct/6]
+  16.00  Hermanos Colmenarez      0-2 (0-1)  Zamora FC
+         Mineros de Guayana       1-2 (1-1)  Angostura FC
+         Monagas                  2-2 (0-1)  Deportivo La Guaira
+[Sat Oct/7]
+  15.30  Rayo Zuliano             1-0 (1-0)  Academia Puerto Cabello
+         Universidad Central      3-2 (3-1)  Metropolitanos FC
+[Sun Oct/8]
+  10.00  Estudiantes de Mérida    1-3 (0-1)  Deportivo Táchira
+  18.00  Carabobo FC              1-1 (0-1)  Caracas FC
+
+
+== Fase final
+
+Matchday 1
+[Sat Oct/21]
+  17.00  Caracas FC               0-0  Deportivo Táchira
+  19.30  Portuguesa FC            1-1 (0-1)  Academia Puerto Cabello
+
+
+Matchday 2
+[Wed Oct/25]
+  17.00  Academia Puerto Cabello  0-0  Caracas FC
+  19.30  Deportivo Táchira        3-0 (2-0)  Portuguesa FC
+
+
+Matchday 3
+[Sun Oct/29]
+  17.00  Caracas FC               2-0 (1-0)  Portuguesa FC
+  19.30  Academia Puerto Cabello  0-1 (0-1)  Deportivo Táchira
+
+
+Matchday 4
+[Sat Nov/4]
+  17.00  Portuguesa FC            3-1 (0-1)  Caracas FC
+  19.30  Deportivo Táchira        2-1 (1-1)  Academia Puerto Cabello
+
+
+Matchday 5
+[Wed Nov/8]
+  18.45  Caracas FC               1-0 (0-0)  Academia Puerto Cabello
+         Portuguesa FC            1-1 (1-1)  Deportivo Táchira
+
+
+Matchday 6
+[Sun Nov/12]
+  17.00  Deportivo Táchira        1-1 (1-1)  Caracas FC
+         Academia Puerto Cabello  1-1 (1-0)  Portuguesa FC
+
+
+== Final absoluta
+
+Final
+[Sat Nov/25]
+  17.00  Deportivo Táchira        4-1 pen. 1-1 a.e.t. (1-1, 0-0)  Caracas FC

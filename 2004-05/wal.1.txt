@@ -1,0 +1,527 @@
+= WAL 1 2004/05
+
+# Date       Sat Aug/14 2004 - Fri Apr/29 2005 (258d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sat Aug/14]
+  14.30  Port Talbot Town         0-1  Aberystwyth Town
+         TNS Llansantffraid       2-1  Afan Lido FC
+         Newtown AFC              0-1  Airbus UK
+         Caernarfon Town          1-1  Cwmbran Town
+         NEWI Cefn Druids         0-5  Caersws FC
+         Connah's Quay Nomads     1-2  Carmarthen Town
+         Bangor City              6-0  Llanelli AFC
+         Haverfordwest County     2-1  Rhyl FC
+         Porthmadog FC            1-1  Welshpool Town
+
+
+Matchday 2
+[Fri Aug/20]
+  19.30  Aberystwyth Town         1-1  TNS Llansantffraid
+[Sat Aug/21]
+  14.30  Bangor City              4-2  Welshpool Town
+         Llanelli AFC             0-2  Connah's Quay Nomads
+         Rhyl FC                  0-0  Cwmbran Town
+         Caersws FC               1-0  Haverfordwest County
+         Carmarthen Town          3-2  Newtown AFC
+         Caernarfon Town          3-1  Port Talbot Town
+         Afan Lido FC             1-1  Porthmadog FC
+[Fri Jan/7]
+  19.30  Airbus UK                1-2  NEWI Cefn Druids
+
+
+Matchday 3
+[Fri Aug/27]
+  18.30  Aberystwyth Town         1-1  Afan Lido FC
+         Connah's Quay Nomads     1-1  Welshpool Town
+[Sat Aug/28]
+  13.30  Haverfordwest County     6-1  Airbus UK
+         TNS Llansantffraid       5-0  Caernarfon Town
+         Caersws FC               5-2  Cwmbran Town
+         NEWI Cefn Druids         0-1  Carmarthen Town
+         Newtown AFC              4-0  Llanelli AFC
+         Bangor City              0-2  Porthmadog FC
+         Port Talbot Town         1-3  Rhyl FC
+
+
+Matchday 4
+[Fri Sep/3]
+  19.30  Welshpool Town           2-1  Newtown AFC
+         Rhyl FC                  1-2  TNS Llansantffraid
+[Sat Sep/4]
+  14.30  Caernarfon Town          0-2  Aberystwyth Town
+         Afan Lido FC             2-3  Bangor City
+         Porthmadog FC            0-0  Connah's Quay Nomads
+         Airbus UK                0-1  Cwmbran Town
+         Llanelli AFC             1-4  NEWI Cefn Druids
+         Caersws FC               2-2  Port Talbot Town
+[Sat Jan/1]
+  14.30  Carmarthen Town          4-2  Haverfordwest County
+
+
+Matchday 5
+[Fri Sep/10]
+  19.30  Connah's Quay Nomads     3-4  Bangor City
+         NEWI Cefn Druids         2-1  Welshpool Town
+[Sat Sep/11]
+  14.30  Caernarfon Town          0-0  Afan Lido FC
+         TNS Llansantffraid       5-0  Caersws FC
+         Newtown AFC              1-1  Porthmadog FC
+         Aberystwyth Town         1-2  Rhyl FC
+[Tue Dec/14]
+  19.30  Haverfordwest County     3-0  Llanelli AFC
+[Wed Dec/15]
+  19.30  Cwmbran Town             0-2  Carmarthen Town
+[Sun Apr/3]
+  14.30  Port Talbot Town         3-2  Airbus UK
+
+
+Matchday 6
+[Fri Sep/17]
+  19.30  Rhyl FC                  5-1  Caernarfon Town
+[Sat Sep/18]
+  14.30  Caersws FC               4-1  Aberystwyth Town
+         Afan Lido FC             0-1  Connah's Quay Nomads
+         Welshpool Town           1-1  Haverfordwest County
+         Porthmadog FC            0-0  NEWI Cefn Druids
+         Bangor City              2-3  Newtown AFC
+         Carmarthen Town          2-0  Port Talbot Town
+         Airbus UK                0-6  TNS Llansantffraid
+[Mon Jan/3]
+  14.30  Llanelli AFC             0-4  Cwmbran Town
+
+
+Matchday 7
+[Fri Sep/24]
+  19.30  NEWI Cefn Druids         0-4  Bangor City
+[Sat Sep/25]
+  14.30  Rhyl FC                  3-1  Afan Lido FC
+         Aberystwyth Town         1-0  Airbus UK
+         Caernarfon Town          0-1  Caersws FC
+         TNS Llansantffraid       2-0  Carmarthen Town
+         Newtown AFC              2-1  Connah's Quay Nomads
+         Port Talbot Town         4-0  Llanelli AFC
+         Haverfordwest County     0-0  Porthmadog FC
+         Welshpool Town           0-2  Cwmbran Town
+
+
+Matchday 8
+[Fri Oct/8]
+  19.30  Carmarthen Town          3-1  Aberystwyth Town
+         Airbus UK                1-1  Caernarfon Town
+         NEWI Cefn Druids         0-5  Connah's Quay Nomads
+         Afan Lido FC             1-3  Newtown AFC
+         Caersws FC               1-4  Rhyl FC
+[Sun Oct/10]
+  14.30  Porthmadog FC            1-1  Cwmbran Town
+         Bangor City              1-1  Haverfordwest County
+         Welshpool Town           0-0  Port Talbot Town
+         Llanelli AFC             0-4  TNS Llansantffraid
+
+
+Matchday 9
+[Fri Oct/15]
+  19.30  Rhyl FC                  2-0  Airbus UK
+         Aberystwyth Town         2-0  Llanelli AFC
+[Sat Oct/16]
+  14.30  Caersws FC               4-1  Afan Lido FC
+         Cwmbran Town             0-3  Bangor City
+         Caernarfon Town          0-5  Carmarthen Town
+         Haverfordwest County     0-0  Connah's Quay Nomads
+         NEWI Cefn Druids         0-2  Newtown AFC
+         Port Talbot Town         1-2  Porthmadog FC
+[Mon Dec/27]
+  19.30  TNS Llansantffraid       1-0  Welshpool Town
+
+
+Matchday 10
+[Sat Oct/23]
+  14.30  Airbus UK                0-3  Caersws FC
+         Newtown AFC              3-0  Haverfordwest County
+         Carmarthen Town          0-1  Rhyl FC
+         Porthmadog FC            1-2  TNS Llansantffraid
+[Tue Feb/15]
+  19.30  Welshpool Town           2-0  Aberystwyth Town
+[Sun Apr/3]
+  14.30  Llanelli AFC             2-1  Caernarfon Town
+         Connah's Quay Nomads     1-2  Cwmbran Town
+[Sat Apr/9]
+  14.30  Afan Lido FC             1-0  NEWI Cefn Druids
+[Sat Apr/16]
+  14.30  Bangor City              3-2  Port Talbot Town
+
+
+Matchday 11
+[Sat Oct/30]
+  14.30  Airbus UK                1-4  Afan Lido FC
+         TNS Llansantffraid       1-1  Bangor City
+         Caersws FC               1-2  Carmarthen Town
+         Port Talbot Town         2-2  Connah's Quay Nomads
+         Rhyl FC                  2-0  Llanelli AFC
+         Haverfordwest County     1-1  NEWI Cefn Druids
+         Cwmbran Town             1-2  Newtown AFC
+         Caernarfon Town          1-3  Welshpool Town
+[Sun Jan/2]
+  14.30  Aberystwyth Town         0-0  Porthmadog FC
+
+
+Matchday 12
+[Fri Nov/12]
+  19.30  Afan Lido FC             0-1  Haverfordwest County
+         Connah's Quay Nomads     0-7  TNS Llansantffraid
+[Sat Nov/13]
+  14.30  Carmarthen Town          3-0  Airbus UK
+         Porthmadog FC            2-0  Caernarfon Town
+         Llanelli AFC             2-4  Caersws FC
+         NEWI Cefn Druids         1-3  Cwmbran Town
+         Newtown AFC              3-2  Port Talbot Town
+         Welshpool Town           1-2  Rhyl FC
+[Tue Dec/7]
+  19.45  Bangor City              4-2  Aberystwyth Town
+
+
+Matchday 13
+[Tue Nov/16]
+  19.30  TNS Llansantffraid       3-0  Newtown AFC
+         Rhyl FC                  3-1  Porthmadog FC
+         Caersws FC               2-1  Welshpool Town
+         Carmarthen Town          1-1  Afan Lido FC
+[Wed Nov/17]
+  19.30  Aberystwyth Town         1-0  Connah's Quay Nomads
+         Cwmbran Town             0-2  Haverfordwest County
+[Sun Nov/21]
+  14.30  Port Talbot Town         1-1  NEWI Cefn Druids
+[Mon Dec/27]
+  19.30  Caernarfon Town          2-1  Bangor City
+[Sat Feb/5]
+  14.30  Airbus UK                0-3  Llanelli AFC
+
+
+Matchday 14
+[Fri Nov/19]
+  19.30  Welshpool Town           2-1  Airbus UK
+         Llanelli AFC             0-3  Carmarthen Town
+         Afan Lido FC             0-2  Cwmbran Town
+         Haverfordwest County     3-1  Port Talbot Town
+         Bangor City              2-1  Rhyl FC
+         NEWI Cefn Druids         1-3  TNS Llansantffraid
+[Sat Nov/20]
+  14.30  Newtown AFC              2-3  Aberystwyth Town
+         Porthmadog FC            0-1  Caersws FC
+[Tue Feb/15]
+  19.30  Connah's Quay Nomads     1-2  Caernarfon Town
+
+
+Matchday 15
+[Fri Nov/26]
+  19.30  Llanelli AFC             3-1  Afan Lido FC
+[Sat Nov/27]
+  14.30  Caersws FC               2-2  Bangor City
+         Port Talbot Town         1-1  Cwmbran Town
+         TNS Llansantffraid       2-0  Haverfordwest County
+         Aberystwyth Town         2-1  NEWI Cefn Druids
+         Caernarfon Town          1-2  Newtown AFC
+         Airbus UK                0-1  Porthmadog FC
+         Carmarthen Town          1-1  Welshpool Town
+         Connah's Quay Nomads     1-1  Rhyl FC
+
+
+Matchday 16
+[Fri Dec/3]
+  19.30  Haverfordwest County     4-1  Aberystwyth Town
+         NEWI Cefn Druids         0-1  Caernarfon Town
+[Sat Dec/4]
+  14.30  Bangor City              5-0  Airbus UK
+         Connah's Quay Nomads     2-1  Caersws FC
+         Porthmadog FC            3-2  Carmarthen Town
+         Welshpool Town           4-0  Llanelli AFC
+         Newtown AFC              0-1  Rhyl FC
+         Cwmbran Town             2-2  TNS Llansantffraid
+[Sat Jan/1]
+  14.30  Afan Lido FC             0-1  Port Talbot Town
+
+
+Matchday 17
+[Fri Dec/10]
+  19.30  Airbus UK                3-3  Connah's Quay Nomads
+         Rhyl FC                  3-2  NEWI Cefn Druids
+[Sat Dec/11]
+  14.30  Carmarthen Town          3-3  Bangor City
+         Aberystwyth Town         0-1  Cwmbran Town
+         Caernarfon Town          0-2  Haverfordwest County
+         TNS Llansantffraid       1-1  Port Talbot Town
+         Llanelli AFC             1-1  Porthmadog FC
+         Afan Lido FC             0-1  Welshpool Town
+[Mon Jan/3]
+  14.30  Caersws FC               2-0  Newtown AFC
+
+
+Matchday 18
+[Thu Dec/16]
+  19.30  Welshpool Town           1-1  Porthmadog FC
+[Sat Dec/18]
+  14.30  Llanelli AFC             5-1  Bangor City
+         Carmarthen Town          2-2  Connah's Quay Nomads
+         Rhyl FC                  0-0  Haverfordwest County
+         Caersws FC               7-0  NEWI Cefn Druids
+         Airbus UK                2-2  Newtown AFC
+         Afan Lido FC             0-2  TNS Llansantffraid
+         Cwmbran Town             2-1  Caernarfon Town
+[Tue Mar/15]
+  19.30  Aberystwyth Town         0-0  Port Talbot Town
+
+
+Matchday 19
+[Mon Dec/27]
+  19.30  Porthmadog FC            2-0  Aberystwyth Town
+         Port Talbot Town         1-2  Afan Lido FC
+         NEWI Cefn Druids         2-2  Airbus UK
+         Newtown AFC              1-3  Caersws FC
+         Haverfordwest County     0-0  Carmarthen Town
+         Rhyl FC                  4-2  Connah's Quay Nomads
+[Sat Jan/1]
+  14.30  Bangor City              2-0  Caernarfon Town
+         Welshpool Town           5-2  TNS Llansantffraid
+[Wed Feb/16]
+  19.30  Cwmbran Town             2-0  Llanelli AFC
+
+
+Matchday 20
+[Sat Jan/8]
+  14.30  Port Talbot Town         0-0  Caernarfon Town
+         Haverfordwest County     0-0  Caersws FC
+[Tue Feb/22]
+  19.30  TNS Llansantffraid       3-1  Aberystwyth Town
+[Tue Mar/1]
+  19.30  Welshpool Town           1-5  Bangor City
+[Sun Apr/3]
+  14.30  Porthmadog FC            2-0  Afan Lido FC
+[Sat Apr/16]
+  14.30  Cwmbran Town             0-1  Rhyl FC
+  15.30  Newtown AFC              0-2  Carmarthen Town
+[Sat Apr/23]
+  14.30  Connah's Quay Nomads     1-3  Llanelli AFC
+         NEWI Cefn Druids         0-3  Rhyl FC
+
+
+Matchday 21
+[Fri Jan/14]
+  19.30  Afan Lido FC             0-0  Aberystwyth Town
+[Sat Jan/15]
+  14.30  Porthmadog FC            3-0  Bangor City
+         Cwmbran Town             1-4  Caersws FC
+         Airbus UK                1-2  Haverfordwest County
+         Carmarthen Town          1-1  NEWI Cefn Druids
+         Llanelli AFC             2-2  Newtown AFC
+         Rhyl FC                  1-0  Port Talbot Town
+         Caernarfon Town          0-7  TNS Llansantffraid
+[Tue Mar/15]
+  19.30  Welshpool Town           0-1  Connah's Quay Nomads
+
+
+Matchday 22
+[Sat Jan/22]
+  14.30  Bangor City              1-0  Afan Lido FC
+         Cwmbran Town             4-4  Airbus UK
+         Aberystwyth Town         5-0  Caernarfon Town
+         Port Talbot Town         0-1  Caersws FC
+         NEWI Cefn Druids         2-3  Llanelli AFC
+         Connah's Quay Nomads     3-1  Porthmadog FC
+         Newtown AFC              1-6  Welshpool Town
+[Sun Jan/23]
+  14.05  TNS Llansantffraid       2-2  Rhyl FC
+[Sat Apr/23]
+  14.30  Welshpool Town           2-1  Afan Lido FC
+
+
+Matchday 23
+[Fri Jan/28]
+  19.30  Bangor City              2-0  Connah's Quay Nomads
+         Llanelli AFC             0-3  Haverfordwest County
+         Welshpool Town           2-0  NEWI Cefn Druids
+[Sat Jan/29]
+  14.30  Rhyl FC                  1-0  Aberystwyth Town
+         Afan Lido FC             1-0  Caernarfon Town
+         Carmarthen Town          1-1  Cwmbran Town
+         Porthmadog FC            0-2  Newtown AFC
+         Airbus UK                3-1  Port Talbot Town
+         Caersws FC               0-0  TNS Llansantffraid
+
+
+Matchday 24
+[Sat Feb/5]
+  14.30  NEWI Cefn Druids         1-2  Porthmadog FC
+[Tue Feb/8]
+  19.30  Aberystwyth Town         1-0  Caersws FC
+         TNS Llansantffraid       1-1  Airbus UK
+         Newtown AFC              0-0  Bangor City
+         Port Talbot Town         0-0  Carmarthen Town
+[Wed Apr/13]
+  19.30  Caernarfon Town          1-4  Rhyl FC
+[Sat Apr/16]
+  14.30  Connah's Quay Nomads     4-2  Afan Lido FC
+         Haverfordwest County     3-0  Welshpool Town
+[Sat Apr/23]
+  14.30  Bangor City              0-1  Carmarthen Town
+
+
+Matchday 25
+[Fri Feb/11]
+  19.30  Llanelli AFC             1-2  Port Talbot Town
+[Sat Feb/12]
+  14.30  Airbus UK                1-2  Aberystwyth Town
+         Welshpool Town           3-2  Cwmbran Town
+         Porthmadog FC            0-2  Haverfordwest County
+         Afan Lido FC             1-2  Rhyl FC
+[Tue Mar/1]
+  19.30  Connah's Quay Nomads     0-3  Newtown AFC
+[Tue Mar/15]
+  19.30  Bangor City              2-0  NEWI Cefn Druids
+[Wed Apr/13]
+  19.30  Carmarthen Town          0-1  TNS Llansantffraid
+[Sat Apr/16]
+  14.30  Caersws FC               3-1  Caernarfon Town
+
+
+Matchday 26
+[Fri Feb/18]
+  19.30  Aberystwyth Town         0-0  Carmarthen Town
+         Connah's Quay Nomads     4-0  NEWI Cefn Druids
+[Sat Feb/19]
+  14.30  Newtown AFC              1-0  Afan Lido FC
+         Caernarfon Town          0-3  Airbus UK
+         Haverfordwest County     1-1  Bangor City
+         Rhyl FC                  3-0  Caersws FC
+         TNS Llansantffraid       4-2  Llanelli AFC
+         Cwmbran Town             2-1  Porthmadog FC
+         Port Talbot Town         3-0  Welshpool Town
+
+
+Matchday 27
+[Fri Feb/25]
+  19.30  Llanelli AFC             2-4  Aberystwyth Town
+         Airbus UK                1-0  Rhyl FC
+[Sat Feb/26]
+  14.30  Carmarthen Town          1-2  Caernarfon Town
+         Afan Lido FC             1-0  Caersws FC
+         Bangor City              0-3  Cwmbran Town
+         Connah's Quay Nomads     2-2  Haverfordwest County
+         Newtown AFC              2-2  NEWI Cefn Druids
+         Porthmadog FC            1-0  Port Talbot Town
+[Fri Apr/29]
+  19.30  Cwmbran Town             2-3  Aberystwyth Town
+
+
+Matchday 28
+[Sat Mar/5]
+  14.30  Port Talbot Town         1-4  Bangor City
+         Cwmbran Town             1-0  Connah's Quay Nomads
+         Caernarfon Town          1-3  Llanelli AFC
+[Tue Mar/15]
+  19.30  TNS Llansantffraid       2-1  Porthmadog FC
+[Fri Mar/25]
+  14.30  Rhyl FC                  3-1  Carmarthen Town
+         Haverfordwest County     2-1  Newtown AFC
+[Tue Apr/5]
+  19.30  Aberystwyth Town         0-0  Welshpool Town
+[Sun Apr/17]
+  14.30  NEWI Cefn Druids         3-0  Afan Lido FC
+[Sat Apr/23]
+  14.30  Caersws FC               3-0  Airbus UK
+
+
+Matchday 29
+[Fri Mar/11]
+  14.30  Afan Lido FC             4-0  Airbus UK
+[Sat Mar/12]
+  14.30  Welshpool Town           1-1  Caernarfon Town
+         Carmarthen Town          1-1  Caersws FC
+         Newtown AFC              1-2  Cwmbran Town
+         NEWI Cefn Druids         0-2  Haverfordwest County
+         Connah's Quay Nomads     0-2  Port Talbot Town
+         Llanelli AFC             2-1  Rhyl FC
+         Bangor City              1-0  TNS Llansantffraid
+[Tue Apr/19]
+  19.30  Connah's Quay Nomads     1-2  Airbus UK
+
+
+Matchday 30
+[Fri Mar/18]
+  19.30  Caernarfon Town          3-1  Porthmadog FC
+         Haverfordwest County     2-1  Afan Lido FC
+[Sat Mar/19]
+  13.00  Aberystwyth Town         1-2  Bangor City
+  14.30  Airbus UK                0-1  Carmarthen Town
+         TNS Llansantffraid       2-1  Connah's Quay Nomads
+         Caersws FC               2-0  Llanelli AFC
+         Cwmbran Town             3-3  NEWI Cefn Druids
+         Port Talbot Town         0-0  Newtown AFC
+         Rhyl FC                  2-2  Welshpool Town
+
+
+Matchday 31
+[Sun Feb/27]
+  14.30  Llanelli AFC             2-2  Airbus UK
+[Tue Mar/22]
+  19.30  Connah's Quay Nomads     0-2  Aberystwyth Town
+         Afan Lido FC             0-2  Carmarthen Town
+         Haverfordwest County     1-0  Cwmbran Town
+         Porthmadog FC            0-3  Rhyl FC
+         Newtown AFC              0-3  TNS Llansantffraid
+[Wed Mar/23]
+  19.30  Welshpool Town           2-3  Caersws FC
+[Fri Mar/25]
+  14.30  NEWI Cefn Druids         1-0  Port Talbot Town
+[Sat Apr/16]
+  14.30  Porthmadog FC            1-1  Llanelli AFC
+
+
+Matchday 32
+[Mon Mar/28]
+  12.30  Rhyl FC                  2-3  Bangor City
+  14.30  Cwmbran Town             1-0  Afan Lido FC
+         Caernarfon Town          1-1  Connah's Quay Nomads
+         Port Talbot Town         0-1  Haverfordwest County
+         Carmarthen Town          5-1  Llanelli AFC
+         TNS Llansantffraid       1-0  NEWI Cefn Druids
+         Aberystwyth Town         1-1  Newtown AFC
+         Caersws FC               0-1  Porthmadog FC
+         Airbus UK                0-2  Welshpool Town
+
+
+Matchday 33
+[Sat Mar/5]
+  14.30  Porthmadog FC            3-3  Airbus UK
+[Fri Apr/1]
+  19.30  Afan Lido FC             1-1  Llanelli AFC
+         Cwmbran Town             3-1  Port Talbot Town
+         Newtown AFC              2-1  Caernarfon Town
+[Sat Apr/2]
+  14.30  NEWI Cefn Druids         0-1  Aberystwyth Town
+         Bangor City              1-0  Caersws FC
+[Tue Apr/19]
+  19.30  Haverfordwest County     0-0  TNS Llansantffraid
+[Wed Apr/20]
+  19.30  Welshpool Town           3-0  Carmarthen Town
+[Sat Apr/23]
+  14.30  Port Talbot Town         2-2  TNS Llansantffraid
+
+
+Matchday 34
+[Wed Mar/9]
+  19.30  Caernarfon Town          2-0  NEWI Cefn Druids
+[Fri Apr/8]
+  19.30  Airbus UK                0-0  Bangor City
+         Aberystwyth Town         4-0  Haverfordwest County
+         Caersws FC               1-2  Connah's Quay Nomads
+[Sat Apr/9]
+  14.30  TNS Llansantffraid       2-0  Cwmbran Town
+         Rhyl FC                  3-0  Newtown AFC
+         Carmarthen Town          2-1  Porthmadog FC
+         Llanelli AFC             1-2  Welshpool Town
+[Sat Apr/23]
+  14.30  Haverfordwest County     1-1  Caernarfon Town

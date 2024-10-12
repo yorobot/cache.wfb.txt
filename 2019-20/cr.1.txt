@@ -1,0 +1,554 @@
+= CR 1 2019/20
+
+# Date       Sat Jul/20 2019 - Mon Jun/29 2020 (345d)
+# Teams      12
+# Matches    278
+# Stages     Apertura (132)  Apertura Playoffs (8)  Clausura (132)  Clausura Playoffs (6)
+
+
+== Apertura
+
+Matchday 1
+[Sat Jul/20]
+  18.00  La U Universitarios      0-1 (0-0)  CS Herediano
+  20.00  AD San Carlos            1-0 (1-0)  Deportivo Saprissa
+[Sun Jul/21]
+  11.00  CS Cartaginés            0-0  Santos de Guápiles
+  13.30  Municipal Grecia         1-0 (0-0)  Jicaral
+  14.00  Guadalupe                1-1 (1-1)  LD Alajuelense
+  16.00  Municipal Pérez Zeledón  2-0 (0-0)  Limón FC
+
+
+Matchday 2
+[Wed Jul/24]
+  15.00  Jicaral                  1-1 (1-0)  CS Cartaginés
+  18.00  Santos de Guápiles       0-2 (0-0)  Guadalupe
+  20.00  Deportivo Saprissa       3-0 (2-0)  Municipal Pérez Zeledón
+         La U Universitarios      2-1 (2-0)  AD San Carlos
+[Thu Jul/25]
+  11.00  Limón FC                 1-2 (0-1)  LD Alajuelense
+  15.00  CS Herediano             3-0 (2-0)  Municipal Grecia
+
+
+Matchday 3
+[Sun Jul/28]
+  11.00  LD Alajuelense           3-2 (2-0)  CS Herediano
+  13.05  Municipal Grecia         4-0 (2-0)  Limón FC
+  13.30  CS Cartaginés            1-0 (1-0)  AD San Carlos
+  15.00  Jicaral                  2-0 (0-0)  La U Universitarios
+         Santos de Guápiles       4-0 (1-0)  Deportivo Saprissa
+  17.00  Guadalupe                1-2 (1-1)  Municipal Pérez Zeledón
+
+
+Matchday 4
+[Sat Aug/3]
+  20.00  CS Herediano             1-2 (0-1)  Jicaral
+[Sun Aug/4]
+  11.00  Deportivo Saprissa       4-1 (1-0)  Guadalupe
+  15.00  La U Universitarios      0-1 (0-0)  CS Cartaginés
+  15.05  Limón FC                 1-0 (1-0)  Santos de Guápiles
+  16.00  Municipal Pérez Zeledón  1-4 (1-1)  LD Alajuelense
+  18.00  AD San Carlos            4-2 (2-1)  Municipal Grecia
+
+
+Matchday 5
+[Sat Aug/10]
+  18.00  Santos de Guápiles       4-1 (1-1)  Municipal Pérez Zeledón
+  19.00  LD Alajuelense           1-2 (1-1)  Deportivo Saprissa
+[Sun Aug/11]
+  11.05  Municipal Grecia         3-3 (3-2)  La U Universitarios
+  15.00  Jicaral                  1-1 (1-1)  AD San Carlos
+  16.00  CS Cartaginés            1-1 (0-1)  CS Herediano
+  17.00  Guadalupe                4-3 (1-1)  Limón FC
+
+
+Matchday 6
+[Wed Aug/14]
+  18.00  AD San Carlos            2-2 (1-2)  Santos de Guápiles
+  20.00  CS Herediano             3-2 (1-0)  Limón FC
+         Deportivo Saprissa       4-0 (4-0)  Jicaral
+[Thu Aug/15]
+  11.00  Municipal Grecia         1-3 (1-0)  LD Alajuelense
+  13.30  La U Universitarios      2-2 (1-1)  Guadalupe
+  20.00  Municipal Pérez Zeledón  1-0 (1-0)  CS Cartaginés
+
+
+Matchday 7
+[Sat Aug/17]
+  15.05  Limón FC                 3-4 (1-1)  AD San Carlos
+  18.00  Santos de Guápiles       1-1 (0-1)  Municipal Grecia
+  20.00  CS Herediano             2-0 (1-0)  Guadalupe
+         Deportivo Saprissa       2-2 (1-0)  CS Cartaginés
+[Sun Aug/18]
+  15.00  Jicaral                  1-0 (1-0)  Municipal Pérez Zeledón
+  16.00  LD Alajuelense           4-1 (2-0)  La U Universitarios
+
+
+Matchday 8
+[Sat Aug/24]
+  19.00  LD Alajuelense           2-2 (0-1)  Santos de Guápiles
+[Sun Aug/25]
+  11.00  CS Cartaginés            4-1 (2-0)  Municipal Grecia
+  15.00  Guadalupe                1-1 (0-1)  Jicaral
+  15.05  Limón FC                 1-1 (1-0)  Deportivo Saprissa
+  15.55  Municipal Pérez Zeledón  1-0 (1-0)  La U Universitarios
+[Sun Sep/15]
+  18.00  AD San Carlos            1-0 (0-0)  CS Herediano
+
+
+Matchday 9
+[Sat Aug/31]
+  15.00  La U Universitarios      2-0 (0-0)  Limón FC
+  20.00  AD San Carlos            5-2 (5-0)  Municipal Pérez Zeledón
+[Sun Sep/1]
+  11.00  CS Cartaginés            0-4 (0-2)  LD Alajuelense
+  11.05  Municipal Grecia         2-1 (0-0)  Guadalupe
+  15.00  Jicaral                  1-1 (0-1)  Santos de Guápiles
+[Sat Oct/12]
+  20.00  CS Herediano             4-0 (1-0)  Deportivo Saprissa
+
+
+Matchday 10
+[Wed Sep/4]
+  15.05  Limón FC                 1-0 (1-0)  Jicaral
+  20.00  LD Alajuelense           1-0 (1-0)  AD San Carlos
+         Municipal Pérez Zeledón  1-1 (1-0)  Municipal Grecia
+         Santos de Guápiles       1-1 (0-0)  CS Herediano
+[Thu Sep/5]
+  20.00  Guadalupe                1-0 (0-0)  CS Cartaginés
+[Sat Sep/14]
+  20.00  Deportivo Saprissa       4-0 (3-0)  La U Universitarios
+
+
+Matchday 11
+[Sat Sep/7]
+  20.00  CS Herediano             4-1 (0-0)  Municipal Pérez Zeledón
+         AD San Carlos            3-1 (2-1)  Guadalupe
+[Sun Sep/8]
+  11.00  CS Cartaginés            3-0 (2-0)  Limón FC
+  13.00  Municipal Grecia         0-6 (0-4)  Deportivo Saprissa
+  15.00  Jicaral                  0-2 (0-2)  LD Alajuelense
+         La U Universitarios      1-2 (1-0)  Santos de Guápiles
+
+
+Matchday 12
+[Tue Sep/10]
+  20.00  CS Herediano             0-0  La U Universitarios
+[Wed Sep/11]
+  15.00  Jicaral                  2-0 (1-0)  Municipal Grecia
+  15.05  Limón FC                 1-1 (0-0)  Municipal Pérez Zeledón
+  20.00  Deportivo Saprissa       3-1 (2-0)  AD San Carlos
+[Thu Sep/12]
+  20.00  Santos de Guápiles       2-1 (1-0)  CS Cartaginés
+[Fri Sep/13]
+  20.00  LD Alajuelense           2-1 (0-0)  Guadalupe
+
+
+Matchday 13
+[Tue Sep/17]
+  20.00  LD Alajuelense           2-1 (1-0)  Limón FC
+[Wed Sep/18]
+  13.00  Municipal Grecia         2-2 (0-2)  CS Herediano
+  15.00  La U Universitarios      1-1 (0-1)  AD San Carlos
+  18.00  Guadalupe                2-4 (1-0)  Santos de Guápiles
+  20.00  CS Cartaginés            0-1 (0-0)  Jicaral
+[Thu Sep/19]
+  20.00  Municipal Pérez Zeledón  0-1 (0-1)  Deportivo Saprissa
+
+
+Matchday 14
+[Sat Sep/21]
+  20.00  Deportivo Saprissa       2-2 (1-1)  Santos de Guápiles
+[Sun Sep/22]
+  11.00  La U Universitarios      1-2 (1-1)  Jicaral
+  15.05  Limón FC                 1-0 (1-0)  Municipal Grecia
+  15.55  Municipal Pérez Zeledón  0-1 (0-1)  Guadalupe
+  17.00  CS Herediano             0-1 (0-0)  LD Alajuelense
+  18.00  AD San Carlos            2-4 (0-2)  CS Cartaginés
+
+
+Matchday 15
+[Sat Sep/28]
+  16.00  Guadalupe                2-1 (1-0)  Deportivo Saprissa
+[Sun Sep/29]
+  11.00  LD Alajuelense           1-1 (1-1)  Municipal Pérez Zeledón
+         CS Cartaginés            4-3 (3-2)  La U Universitarios
+  15.00  Jicaral                  1-2 (0-1)  CS Herediano
+         Municipal Grecia         1-1 (0-0)  AD San Carlos
+  18.00  Santos de Guápiles       1-1 (0-1)  Limón FC
+
+
+Matchday 16
+[Sat Oct/5]
+  20.00  Municipal Pérez Zeledón  2-1 (1-0)  Santos de Guápiles
+[Sun Oct/6]
+  11.00  Deportivo Saprissa       2-5 (2-2)  LD Alajuelense
+         La U Universitarios      2-1 (1-1)  Municipal Grecia
+  15.05  Limón FC                 2-1 (1-0)  Guadalupe
+  17.00  CS Herediano             3-0 (0-0)  CS Cartaginés
+         AD San Carlos            2-1 (0-0)  Jicaral
+
+
+Matchday 17
+[Wed Oct/9]
+  15.05  Limón FC                 1-0 (1-0)  CS Herediano
+[Thu Oct/10]
+  17.00  Guadalupe                1-0 (1-0)  La U Universitarios
+[Fri Oct/11]
+  18.00  Santos de Guápiles       1-3 (1-1)  AD San Carlos
+  19.30  LD Alajuelense           1-0 (0-0)  Municipal Grecia
+[Sun Oct/13]
+  11.00  CS Cartaginés            2-2 (0-1)  Municipal Pérez Zeledón
+[Sun Nov/10]
+  14.50  Jicaral                  2-5 (1-1)  Deportivo Saprissa
+
+
+Matchday 18
+[Tue Oct/15]
+  20.00  AD San Carlos            2-2 (1-1)  Limón FC
+[Wed Oct/16]
+  15.05  Municipal Grecia         3-1 (0-1)  Santos de Guápiles
+  20.00  CS Cartaginés            1-2 (0-2)  Deportivo Saprissa
+         Guadalupe                1-1 (0-0)  CS Herediano
+         Municipal Pérez Zeledón  1-1 (0-0)  Jicaral
+[Thu Oct/17]
+  20.00  La U Universitarios      0-3 (0-0)  LD Alajuelense
+
+
+Matchday 19
+[Sat Oct/19]
+  20.05  CS Herediano             3-1 (2-0)  AD San Carlos
+[Sun Oct/20]
+  11.00  Municipal Grecia         0-1 (0-0)  CS Cartaginés
+  11.05  La U Universitarios      1-1 (1-1)  Municipal Pérez Zeledón
+  15.05  Jicaral                  2-0 (1-0)  Guadalupe
+         Santos de Guápiles       0-2 (0-0)  LD Alajuelense
+[Mon Oct/21]
+  11.00  Deportivo Saprissa       6-0 (2-0)  Limón FC
+
+
+Matchday 20
+[Sat Oct/26]
+  20.00  Municipal Pérez Zeledón  3-0 (2-0)  AD San Carlos
+[Sun Oct/27]
+  11.00  LD Alajuelense           1-1 (1-1)  CS Cartaginés
+         Deportivo Saprissa       2-1 (2-0)  CS Herediano
+  14.00  Guadalupe                2-1 (0-0)  Municipal Grecia
+  15.05  Limón FC                 1-0 (0-0)  La U Universitarios
+  20.00  Santos de Guápiles       1-1 (0-0)  Jicaral
+
+
+Matchday 21
+[Sat Nov/2]
+  19.30  AD San Carlos            3-1 (2-0)  LD Alajuelense
+  20.00  CS Herediano             6-2 (4-1)  Santos de Guápiles
+[Sun Nov/3]
+  11.00  CS Cartaginés            2-1 (1-1)  Guadalupe
+  11.05  Municipal Grecia         0-0  Municipal Pérez Zeledón
+  15.00  Jicaral                  0-2 (0-1)  Limón FC
+  17.00  La U Universitarios      0-0  Deportivo Saprissa
+
+
+Matchday 22
+[Sat Nov/9]
+  18.00  Santos de Guápiles       1-4 (0-0)  La U Universitarios
+[Sat Nov/16]
+  17.00  Municipal Pérez Zeledón  1-0 (0-0)  CS Herediano
+  20.00  Deportivo Saprissa       0-2 (0-1)  Municipal Grecia
+[Tue Nov/19]
+  20.00  LD Alajuelense           3-1 (1-1)  Jicaral
+[Wed Nov/20]
+  20.00  Guadalupe                2-2 (2-0)  AD San Carlos
+         Limón FC                 0-2 (0-2)  CS Cartaginés
+
+
+== Apertura Playoffs
+
+Semifinals
+[Sat Nov/23]
+  20.00  CS Herediano             1-1 (0-1)  Deportivo Saprissa
+[Sun Nov/24]
+  18.00  AD San Carlos            0-0  LD Alajuelense
+[Sat Nov/30]
+  18.00  LD Alajuelense           3-0 (2-0)  AD San Carlos
+[Sun Dec/1]
+  16.00  Deportivo Saprissa       4-5 pen. 1-1 a.e.t. (1-1, 1-0)  CS Herediano
+
+
+Final
+[Wed Dec/4]
+  20.00  CS Herediano             2-0 (2-0)  LD Alajuelense
+[Sun Dec/8]
+  15.00  LD Alajuelense           0-0  CS Herediano
+
+
+Gran Final
+[Sun Dec/15]
+  16.30  CS Herediano             1-0 (1-0)  LD Alajuelense
+[Sat Dec/21]
+  18.00  LD Alajuelense           4-5 pen. 2-1 a.e.t. (2-1, 0-0)  CS Herediano
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/11]
+  16.00  Guadalupe                5-0 (1-0)  La U Universitarios
+  19.30  AD San Carlos            0-1 (0-0)  Deportivo Saprissa
+  20.00  Municipal Grecia         3-3 (2-3)  CS Herediano
+[Sun Jan/12]
+  11.00  CS Cartaginés            2-2 (1-0)  Santos de Guápiles
+  15.00  Jicaral                  3-1 (1-0)  Municipal Pérez Zeledón
+  17.00  LD Alajuelense           4-1 (2-1)  Limón FC
+
+
+Matchday 2
+[Wed Jan/15]
+  15.00  Limón FC                 1-2 (0-0)  AD San Carlos
+         La U Universitarios      0-0  CS Cartaginés
+  18.00  Santos de Guápiles       1-0 (0-0)  Municipal Grecia
+  18.30  CS Herediano             1-0 (1-0)  Jicaral
+  20.30  Municipal Pérez Zeledón  3-1 (1-1)  LD Alajuelense
+[Thu Jan/16]
+  20.00  Deportivo Saprissa       3-0 (3-0)  Guadalupe
+
+
+Matchday 3
+[Sun Jan/19]
+  11.00  CS Cartaginés            1-2 (1-0)  Deportivo Saprissa
+  14.00  Municipal Grecia         1-0 (1-0)  La U Universitarios
+  15.00  Jicaral                  2-1 (2-0)  Limón FC
+  16.00  LD Alajuelense           0-0  CS Herediano
+  18.00  AD San Carlos            3-2 (2-0)  Municipal Pérez Zeledón
+[Wed Feb/19]
+  20.00  Guadalupe                1-0 (0-0)  Santos de Guápiles
+
+
+Matchday 4
+[Wed Jan/22]
+  15.00  Limón FC                 0-2 (0-1)  CS Herediano
+         La U Universitarios      1-2 (1-1)  LD Alajuelense
+  18.00  Guadalupe                0-2 (0-1)  AD San Carlos
+  20.00  CS Cartaginés            4-3 (1-1)  Municipal Grecia
+         Deportivo Saprissa       0-0  Municipal Pérez Zeledón
+[Thu Jan/23]
+  18.00  Santos de Guápiles       0-0  Jicaral
+
+
+Matchday 5
+[Sat Jan/25]
+  18.00  LD Alajuelense           1-1 (1-1)  CS Cartaginés
+  20.00  Municipal Pérez Zeledón  1-4 (0-1)  Municipal Grecia
+[Sun Jan/26]
+  15.00  Jicaral                  2-1 (0-1)  AD San Carlos
+         Limón FC                 0-0  Guadalupe
+  16.00  CS Herediano             4-1 (1-1)  Deportivo Saprissa
+  17.10  Santos de Guápiles       3-0 (2-0)  La U Universitarios
+
+
+Matchday 6
+[Wed Jan/29]
+  15.00  Municipal Grecia         1-0 (0-0)  Jicaral
+         La U Universitarios      2-1 (0-1)  Limón FC
+  20.00  CS Cartaginés            0-3 (0-2)  Municipal Pérez Zeledón
+         AD San Carlos            1-1 (1-0)  LD Alajuelense
+         Deportivo Saprissa       1-0 (0-0)  Santos de Guápiles
+[Thu Jan/30]
+  20.00  Guadalupe                0-0  CS Herediano
+
+
+Matchday 7
+[Tue Feb/4]
+  20.00  LD Alajuelense           5-1 (2-1)  Municipal Grecia
+[Wed Feb/5]
+  15.00  Jicaral                  2-1 (1-0)  CS Cartaginés
+         Limón FC                 0-1 (0-1)  Deportivo Saprissa
+  19.00  Santos de Guápiles       5-2 (2-1)  AD San Carlos
+  20.00  CS Herediano             5-2 (2-0)  La U Universitarios
+         Municipal Pérez Zeledón  1-1 (1-0)  Guadalupe
+
+
+Matchday 8
+[Sat Feb/8]
+         Guadalupe                3-0  Municipal Grecia         [awarded]
+[Sun Feb/9]
+  11.00  CS Cartaginés            3-2 (2-2)  AD San Carlos
+         La U Universitarios      2-2 (2-1)  Jicaral
+  15.00  Limón FC                 1-2 (1-0)  Municipal Pérez Zeledón
+         Santos de Guápiles       1-1 (1-0)  CS Herediano
+  16.30  Deportivo Saprissa       1-1 (1-0)  LD Alajuelense
+
+
+Matchday 9
+[Wed Feb/12]
+         Municipal Grecia         0-3  Limón FC                 [awarded]
+  15.00  Jicaral                  0-3 (0-0)  Deportivo Saprissa
+  20.00  LD Alajuelense           3-2 (0-1)  Guadalupe
+         CS Herediano             3-0 (0-0)  CS Cartaginés
+         AD San Carlos            2-2 (1-0)  La U Universitarios
+[Thu Feb/13]
+  18.00  Municipal Pérez Zeledón  3-3 (1-1)  Santos de Guápiles
+
+
+Matchday 10
+[Sun Feb/16]
+         Municipal Grecia         0-3  Deportivo Saprissa       [awarded]
+[Sat Feb/15]
+  20.00  CS Herediano             3-3 (1-0)  AD San Carlos
+[Sun Feb/16]
+  11.00  CS Cartaginés            1-0 (0-0)  Limón FC
+         La U Universitarios      2-0 (1-0)  Municipal Pérez Zeledón
+  15.00  Jicaral                  0-0  Guadalupe
+  17.10  Santos de Guápiles       0-1 (0-0)  LD Alajuelense
+
+
+Matchday 11
+[Sat Feb/22]
+  16.00  Guadalupe                0-0  CS Cartaginés
+[Sun Feb/23]
+         AD San Carlos            1-0 (0-0)  Municipal Grecia
+[Sat Feb/22]
+  18.00  LD Alajuelense           1-0 (0-0)  Jicaral
+  20.00  Deportivo Saprissa       3-1 (2-1)  La U Universitarios
+[Sun Feb/23]
+  15.00  Limón FC                 3-0 (3-0)  Santos de Guápiles
+  16.00  Municipal Pérez Zeledón  0-1 (0-0)  CS Herediano
+
+
+Matchday 12
+[Sat Feb/29]
+  15.00  Municipal Grecia         0-0  CS Herediano
+  19.00  Municipal Pérez Zeledón  2-0 (0-0)  Jicaral
+[Sun Mar/1]
+  11.00  La U Universitarios      3-0 (1-0)  Guadalupe
+  15.00  Limón FC                 1-0 (1-0)  LD Alajuelense
+         Santos de Guápiles       1-3 (1-1)  CS Cartaginés
+  19.00  Deportivo Saprissa       5-3 (4-0)  AD San Carlos
+
+
+Matchday 13
+[Wed Mar/4]
+  15.00  Jicaral                  1-1 (0-1)  CS Herediano
+         Municipal Grecia         1-1 (1-0)  Santos de Guápiles
+  17.30  CS Cartaginés            2-1 (0-1)  La U Universitarios
+  20.00  LD Alajuelense           2-0 (0-0)  Municipal Pérez Zeledón
+         AD San Carlos            1-1 (0-1)  Limón FC
+[Thu Mar/5]
+  20.00  Guadalupe                2-1 (0-0)  Deportivo Saprissa
+
+
+Matchday 14
+[Sat Mar/7]
+  15.00  Municipal Pérez Zeledón  0-4 (0-1)  AD San Carlos
+  19.00  Deportivo Saprissa       3-1 (2-0)  CS Cartaginés
+[Sun Mar/8]
+  11.00  La U Universitarios      0-4 (0-1)  Municipal Grecia
+  15.00  Limón FC                 0-1 (0-0)  Jicaral
+  17.00  Santos de Guápiles       3-4 (2-2)  Guadalupe
+  19.00  CS Herediano             3-3 (1-2)  LD Alajuelense
+
+
+Matchday 15
+[Sat Mar/14]
+  15.00  Municipal Pérez Zeledón  1-1 (1-0)  Deportivo Saprissa
+  19.00  LD Alajuelense           6-1 (3-0)  La U Universitarios
+[Sun Mar/15]
+  15.00  Jicaral                  6-2 (1-1)  Santos de Guápiles
+         Municipal Grecia         2-3 (1-0)  CS Cartaginés
+  18.00  AD San Carlos            2-2 (2-1)  Guadalupe
+  19.00  CS Herediano             0-1 (0-1)  Limón FC
+
+
+Matchday 16
+[Tue May/19]
+  15.00  Guadalupe                1-0 (1-0)  Limón FC
+  20.00  CS Cartaginés            0-2 (0-1)  LD Alajuelense
+[Wed May/20]
+  15.00  Municipal Grecia         1-0 (0-0)  Municipal Pérez Zeledón
+         La U Universitarios      1-3 (1-1)  Santos de Guápiles
+  17.10  AD San Carlos            0-1 (0-0)  Jicaral
+  20.00  Deportivo Saprissa       1-0 (1-0)  CS Herediano
+
+
+Matchday 17
+[Sat May/23]
+  15.00  Jicaral                  1-1 (0-0)  Municipal Grecia
+  16.00  Municipal Pérez Zeledón  0-1 (0-0)  CS Cartaginés
+  19.00  LD Alajuelense           3-0 (2-0)  AD San Carlos
+  20.00  Santos de Guápiles       2-4 (1-2)  Deportivo Saprissa
+[Sun May/24]
+  15.00  Limón FC                 3-3 (1-1)  La U Universitarios
+  18.00  CS Herediano             0-0  Guadalupe
+
+
+Matchday 18
+[Tue May/26]
+  20.00  CS Cartaginés            4-2 (2-0)  Jicaral
+[Wed May/27]
+  15.00  Municipal Grecia         3-1 (1-0)  LD Alajuelense
+  17.30  AD San Carlos            3-0 (1-0)  Santos de Guápiles
+  20.00  Deportivo Saprissa       1-0 (1-0)  Limón FC
+         La U Universitarios      1-2 (1-2)  CS Herediano
+[Thu May/28]
+  15.00  Guadalupe                3-1 (1-0)  Municipal Pérez Zeledón
+
+
+Matchday 19
+[Sat May/30]
+  15.00  Jicaral                  5-0 (2-0)  La U Universitarios
+         Municipal Grecia         2-0 (2-0)  Guadalupe
+  19.00  CS Herediano             3-1 (1-1)  Santos de Guápiles
+[Sun May/31]
+  15.00  Municipal Pérez Zeledón  1-1 (0-0)  Limón FC
+  16.00  AD San Carlos            1-3 (0-2)  CS Cartaginés
+  18.00  LD Alajuelense           2-2 (1-0)  Deportivo Saprissa
+
+
+Matchday 20
+[Wed Jun/3]
+  15.00  La U Universitarios      1-2 (1-1)  AD San Carlos
+  17.10  Santos de Guápiles       3-1 (1-0)  Municipal Pérez Zeledón
+  17.15  CS Cartaginés            1-4 (0-1)  CS Herediano
+  20.00  Deportivo Saprissa       2-2 (1-1)  Jicaral
+[Thu Jun/4]
+  15.00  Limón FC                 0-2 (0-1)  Municipal Grecia
+  19.00  Guadalupe                3-0 (1-0)  LD Alajuelense
+
+
+Matchday 21
+[Sat Jun/6]
+  15.00  Limón FC                 1-2 (0-2)  CS Cartaginés
+  20.00  Deportivo Saprissa       2-2 (1-0)  Municipal Grecia
+[Sun Jun/7]
+  15.00  Guadalupe                1-1 (0-0)  Jicaral
+  16.00  Municipal Pérez Zeledón  3-2 (1-2)  La U Universitarios
+  18.30  AD San Carlos            1-3 (0-1)  CS Herediano
+  19.00  LD Alajuelense           1-0 (0-0)  Santos de Guápiles
+
+
+Matchday 22
+[Wed Jun/10]
+         Santos de Guápiles       -  Limón FC                 [cancelled]
+  12.30  Municipal Grecia         2-5 (1-2)  AD San Carlos
+  15.00  Jicaral                  2-2 (1-1)  LD Alajuelense
+         CS Herediano             1-1 (1-0)  Municipal Pérez Zeledón
+  18.30  La U Universitarios      2-0 (1-0)  Deportivo Saprissa
+  20.00  CS Cartaginés            0-0  Guadalupe
+
+
+== Clausura Playoffs
+
+Semifinals
+[Sun Jun/14]
+  11.00  CS Cartaginés            0-4 (0-0)  Deportivo Saprissa
+  19.00  LD Alajuelense           2-0 (1-0)  CS Herediano
+[Wed Jun/17]
+  17.00  Deportivo Saprissa       2-3 (1-2)  CS Cartaginés
+  20.30  CS Herediano             0-0  LD Alajuelense
+
+
+Final
+[Wed Jun/24]
+  20.30  LD Alajuelense           0-2 (0-2)  Deportivo Saprissa
+[Mon Jun/29]
+  20.30  Deportivo Saprissa       1-0 (0-0)  LD Alajuelense

@@ -1,0 +1,421 @@
+= SE 1 2022
+
+# Date       Sat Apr/2 - Sun Nov/6 2022 (218d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sat Apr/2]
+  15.00  Hammarby IF              2-1 (1-0)  Helsingborgs IF
+  17.30  BK Häcken                4-2 (2-1)  AIK Solna
+[Sun Apr/3]
+  15.00  IFK Göteborg             2-1 (1-0)  IFK Värnamo
+         IK Sirius                2-1 (0-1)  GIF Sundsvall
+  17.30  IFK Norrköping           0-1 (0-0)  Varbergs BoIS
+         Kalmar FF                0-1 (0-0)  Malmö FF
+[Mon Apr/4]
+  19.00  IF Elfsborg              0-2 (0-0)  Mjällby AIF
+  19.10  Djurgårdens IF           3-1 (1-0)  Degerfors IF
+
+
+Matchday 2
+[Sat Apr/9]
+  15.00  GIF Sundsvall            1-5 (1-4)  Hammarby IF
+  17.30  Degerfors IF             1-2 (0-1)  BK Häcken
+[Sun Apr/10]
+  15.00  Helsingborgs IF          0-1 (0-1)  IFK Göteborg
+         Varbergs BoIS            0-3 (0-2)  Kalmar FF
+  17.30  AIK Solna                1-0 (1-0)  IFK Norrköping
+         Mjällby AIF              1-0 (0-0)  Djurgårdens IF
+[Mon Apr/11]
+  19.00  IFK Värnamo              0-0  IK Sirius
+  19.10  Malmö FF                 1-1 (1-0)  IF Elfsborg
+
+
+Matchday 3
+[Fri Apr/15]
+  15.00  Hammarby IF              2-0 (0-0)  Mjällby AIF
+[Sat Apr/16]
+  15.00  Djurgårdens IF           2-1 (0-1)  IFK Norrköping
+         Varbergs BoIS            2-0 (2-0)  GIF Sundsvall
+[Sun Apr/17]
+  15.00  Kalmar FF                2-0 (1-0)  Degerfors IF
+         Malmö FF                 3-0 (2-0)  AIK Solna
+  17.30  BK Häcken                0-2 (0-1)  IFK Göteborg
+         IF Elfsborg              4-1 (1-0)  IFK Värnamo
+         IK Sirius                1-0 (1-0)  Helsingborgs IF
+
+
+Matchday 4
+[Wed Apr/20]
+  19.00  AIK Solna                1-0 (1-0)  Varbergs BoIS
+         IFK Göteborg             1-1 (1-0)  Djurgårdens IF
+         IFK Norrköping           1-1 (1-1)  BK Häcken
+         Mjällby AIF              3-0 (1-0)  IK Sirius
+         GIF Sundsvall            1-0 (0-0)  Kalmar FF
+[Thu Apr/21]
+  19.00  Degerfors IF             0-1 (0-1)  Hammarby IF
+         Helsingborgs IF          1-0 (1-0)  IF Elfsborg
+         IFK Värnamo              0-0  Malmö FF
+
+
+Matchday 5
+[Sun Apr/24]
+  15.00  AIK Solna                1-0 (1-0)  Djurgårdens IF
+         Varbergs BoIS            0-0  Mjällby AIF
+  17.30  Helsingborgs IF          1-1 (0-0)  BK Häcken
+[Mon Apr/25]
+  19.00  IF Elfsborg              3-1 (1-1)  GIF Sundsvall
+         IK Sirius                0-3 (0-1)  Hammarby IF
+         IFK Värnamo              2-0 (1-0)  Degerfors IF
+  19.10  Malmö FF                 1-0 (0-0)  IFK Göteborg
+[Tue Apr/26]
+  19.00  Kalmar FF                1-2 (0-2)  IFK Norrköping
+
+
+Matchday 6
+[Sat Apr/30]
+  15.00  Djurgårdens IF           4-0 (2-0)  IK Sirius
+[Sun May/1]
+  15.00  Degerfors IF             0-6 (0-4)  IF Elfsborg
+         Mjällby AIF              2-1 (1-1)  Helsingborgs IF
+  17.30  BK Häcken                3-1 (2-0)  Varbergs BoIS
+         GIF Sundsvall            0-2 (0-0)  AIK Solna
+[Mon May/2]
+  19.00  IFK Göteborg             1-2 (1-0)  Kalmar FF
+         IFK Norrköping           2-0 (0-0)  IFK Värnamo
+  19.10  Hammarby IF              0-0  Malmö FF
+
+
+Matchday 7
+[Sat May/7]
+  15.00  AIK Solna                1-0 (0-0)  IFK Göteborg
+  17.30  Malmö FF                 2-0 (2-0)  Mjällby AIF
+[Sun May/8]
+  17.30  Kalmar FF                2-0 (2-0)  Hammarby IF
+         Varbergs BoIS            0-2 (0-0)  IK Sirius
+[Mon May/9]
+  19.00  Helsingborgs IF          0-1 (0-0)  IFK Norrköping
+         GIF Sundsvall            2-3 (0-0)  Degerfors IF
+         IFK Värnamo              1-2 (1-1)  BK Häcken
+  19.10  IF Elfsborg              0-0  Djurgårdens IF
+
+
+Matchday 8
+[Sat May/14]
+  15.00  Mjällby AIF              1-1 (0-1)  IFK Värnamo
+  17.30  IK Sirius                2-0 (0-0)  IF Elfsborg
+[Sun May/15]
+  15.00  BK Häcken                3-1 (1-1)  Kalmar FF
+         Hammarby IF              3-3 (2-1)  AIK Solna
+  17.30  Degerfors IF             2-1 (1-0)  Helsingborgs IF
+         IFK Göteborg             1-1 (1-0)  Varbergs BoIS
+         IFK Norrköping           5-1 (4-0)  GIF Sundsvall
+[Mon May/16]
+  19.10  Djurgårdens IF           4-0 (2-0)  Malmö FF
+
+
+Matchday 9
+[Sat May/21]
+  15.00  AIK Solna                2-2 (2-2)  IK Sirius
+  17.30  Helsingborgs IF          1-4 (1-0)  IFK Värnamo
+[Sun May/22]
+  15.00  Hammarby IF              3-0 (1-0)  IFK Norrköping
+         IF Elfsborg              3-1 (2-1)  IFK Göteborg
+         Varbergs BoIS            2-1 (1-0)  Degerfors IF
+  17.30  Kalmar FF                1-0 (0-0)  Djurgårdens IF
+         Malmö FF                 1-2 (0-0)  BK Häcken
+[Mon May/23]
+  19.00  GIF Sundsvall            2-0 (0-0)  Mjällby AIF
+
+
+Matchday 10
+[Sat May/28]
+  15.00  IFK Göteborg             2-0 (0-0)  GIF Sundsvall
+         Mjällby AIF              1-1 (1-0)  Kalmar FF
+  17.00  BK Häcken                4-3 (2-1)  IK Sirius
+[Sun May/29]
+  15.00  Degerfors IF             0-2 (0-2)  Malmö FF
+         Djurgårdens IF           4-0 (2-0)  Varbergs BoIS
+         IFK Norrköping           2-2 (1-2)  IF Elfsborg
+  17.30  Helsingborgs IF          1-2 (1-0)  AIK Solna
+         IFK Värnamo              1-0 (0-0)  Hammarby IF
+
+
+Matchday 11
+[Sun Jun/26]
+  15.00  Degerfors IF             1-1 (1-1)  AIK Solna
+         Hammarby IF              2-2 (0-0)  BK Häcken
+         Mjällby AIF              1-1 (0-0)  IFK Norrköping
+  17.30  GIF Sundsvall            2-5 (1-4)  Djurgårdens IF
+[Mon Jun/27]
+  19.00  IF Elfsborg              4-1 (1-1)  Varbergs BoIS
+         IK Sirius                1-2 (1-1)  IFK Göteborg
+         Kalmar FF                1-0 (1-0)  IFK Värnamo
+         Malmö FF                 2-1 (1-1)  Helsingborgs IF
+
+
+Matchday 12
+[Fri Jul/1]
+  19.00  GIF Sundsvall            2-1 (2-1)  Malmö FF
+[Sat Jul/2]
+  15.00  AIK Solna                0-1 (0-1)  Mjällby AIF
+  17.30  Helsingborgs IF          1-1 (0-1)  Kalmar FF
+[Sun Jul/3]
+  15.00  Djurgårdens IF           1-0 (0-0)  Hammarby IF
+         Varbergs BoIS            3-0 (1-0)  IFK Värnamo
+  17.30  BK Häcken                1-1 (1-1)  IF Elfsborg
+         IFK Norrköping           0-1 (0-0)  IK Sirius
+[Mon Jul/4]
+  19.00  IFK Göteborg             2-0 (2-0)  Degerfors IF
+
+
+Matchday 13
+[Sat Jul/9]
+  15.00  Malmö FF                 3-0 (1-0)  Varbergs BoIS
+  17.30  Degerfors IF             1-1 (0-1)  IFK Norrköping
+[Sun Jul/10]
+  15.00  IF Elfsborg              2-2 (1-1)  AIK Solna
+         Mjällby AIF              1-2 (1-0)  BK Häcken
+  17.45  Kalmar FF                1-1 (1-1)  IK Sirius
+[Mon Jul/11]
+  19.00  Hammarby IF              3-0 (1-0)  IFK Göteborg
+         Helsingborgs IF          0-2 (0-1)  Djurgårdens IF
+         IFK Värnamo              1-1 (1-0)  GIF Sundsvall
+
+
+Matchday 14
+[Sat Jul/16]
+  15.00  IFK Norrköping           0-2 (0-1)  Malmö FF
+  17.30  Djurgårdens IF           5-0 (2-0)  IFK Värnamo
+[Sun Jul/17]
+  15.00  AIK Solna                1-0 (1-0)  Kalmar FF
+         Hammarby IF              3-0 (2-0)  IF Elfsborg
+         IFK Göteborg             1-1 (1-0)  Mjällby AIF
+         IK Sirius                2-0 (1-0)  Degerfors IF
+[Mon Jul/18]
+  19.00  GIF Sundsvall            1-5 (1-1)  BK Häcken
+         Varbergs BoIS            0-0  Helsingborgs IF
+
+
+Matchday 15
+[Sat Jul/23]
+  15.00  Malmö FF                 3-1 (1-0)  IK Sirius
+  17.30  Mjällby AIF              2-1 (0-0)  Degerfors IF
+[Sun Jul/24]
+  15.00  Helsingborgs IF          1-0 (1-0)  GIF Sundsvall
+         IFK Värnamo              2-3 (0-1)  AIK Solna
+  17.30  BK Häcken                1-2 (1-0)  Djurgårdens IF
+         Kalmar FF                1-0 (0-0)  IF Elfsborg
+[Mon Jul/25]
+  19.00  IFK Norrköping           0-2 (0-1)  IFK Göteborg
+         Varbergs BoIS            0-3 (0-2)  Hammarby IF
+
+
+Matchday 16
+[Thu May/5]
+  19.00  Djurgårdens IF           2-2 (1-2)  Helsingborgs IF
+[Wed May/11]
+  19.00  AIK Solna                2-0 (1-0)  Malmö FF
+[Sat Jul/30]
+  15.00  Degerfors IF             2-1 (1-1)  Kalmar FF
+  17.30  GIF Sundsvall            1-3 (0-3)  Varbergs BoIS
+[Sun Jul/31]
+  15.00  Hammarby IF              1-2 (0-0)  IFK Värnamo
+         IF Elfsborg              4-4 (2-1)  BK Häcken
+         IK Sirius                0-1 (0-0)  Mjällby AIF
+[Mon Aug/1]
+  19.00  IFK Göteborg             2-0 (1-0)  IFK Norrköping
+
+
+Matchday 17
+[Sat Aug/6]
+  15.00  IFK Norrköping           2-0 (1-0)  Degerfors IF
+[Sun Aug/7]
+  15.00  Hammarby IF              3-0 (1-0)  GIF Sundsvall
+         IK Sirius                2-1 (1-1)  Malmö FF
+         Kalmar FF                1-0 (0-0)  AIK Solna
+  17.30  Mjällby AIF              1-1 (1-0)  IF Elfsborg
+         IFK Värnamo              0-0  Djurgårdens IF
+[Mon Aug/8]
+  19.00  BK Häcken                5-0 (1-0)  Helsingborgs IF
+         Varbergs BoIS            0-4 (0-1)  IFK Göteborg
+
+
+Matchday 18
+[Sat Aug/13]
+  17.30  Helsingborgs IF          0-0  IK Sirius
+[Sun Aug/14]
+  15.00  AIK Solna                2-2 (1-1)  IFK Värnamo
+         Djurgårdens IF           3-2 (2-0)  Kalmar FF
+         Malmö FF                 3-1 (3-0)  GIF Sundsvall
+  17.30  Degerfors IF             1-1 (0-0)  Varbergs BoIS
+         IF Elfsborg              1-1 (1-0)  IFK Norrköping
+[Mon Aug/15]
+  19.00  BK Häcken                1-0 (0-0)  Mjällby AIF
+  19.10  IFK Göteborg             0-1 (0-0)  Hammarby IF
+
+
+Matchday 19
+[Sat Aug/20]
+  15.00  Varbergs BoIS            2-2 (2-0)  Djurgårdens IF
+[Sun Aug/21]
+  15.00  Mjällby AIF              1-1 (0-0)  Malmö FF
+         IFK Värnamo              1-1 (1-0)  IF Elfsborg
+  17.30  IFK Norrköping           2-4 (0-3)  AIK Solna
+         GIF Sundsvall            1-2 (0-1)  Helsingborgs IF
+[Mon Aug/22]
+  19.00  IK Sirius                0-1 (0-0)  BK Häcken
+         Kalmar FF                1-0 (0-0)  IFK Göteborg
+  19.10  Hammarby IF              5-1 (2-1)  Degerfors IF
+
+
+Matchday 20
+[Sat Aug/27]
+  15.00  BK Häcken                4-1 (1-0)  IFK Värnamo
+  17.30  Degerfors IF             3-1 (1-1)  GIF Sundsvall
+[Sun Aug/28]
+  15.00  AIK Solna                2-2 (1-1)  Hammarby IF
+         IFK Göteborg             2-0 (1-0)  IK Sirius
+         Varbergs BoIS            1-1 (0-1)  IFK Norrköping
+  17.30  Helsingborgs IF          0-1 (0-0)  Mjällby AIF
+         Malmö FF                 0-1 (0-0)  Kalmar FF
+[Mon Aug/29]
+  19.10  Djurgårdens IF           2-1 (2-0)  IF Elfsborg
+
+
+Matchday 21
+[Sun Sep/4]
+  15.00  BK Häcken                2-2 (1-0)  Degerfors IF
+         IK Sirius                0-1 (0-1)  Djurgårdens IF
+  17.30  AIK Solna                4-0 (1-0)  GIF Sundsvall
+         IF Elfsborg              3-2 (1-1)  Malmö FF
+[Mon Sep/5]
+  19.00  Kalmar FF                1-0 (1-0)  Varbergs BoIS
+         Mjällby AIF              1-4 (0-3)  IFK Göteborg
+         IFK Värnamo              3-2 (2-1)  Helsingborgs IF
+  19.10  IFK Norrköping           4-1 (0-1)  Hammarby IF
+
+
+Matchday 22
+[Sat Sep/10]
+  15.00  IK Sirius                2-3 (0-2)  IFK Värnamo
+  17.30  Degerfors IF             0-0  Mjällby AIF
+[Sun Sep/11]
+  15.00  Hammarby IF              0-0  Djurgårdens IF
+         GIF Sundsvall            0-2 (0-2)  IF Elfsborg
+  17.30  Malmö FF                 2-1 (0-1)  IFK Norrköping
+         Varbergs BoIS            2-0 (0-0)  AIK Solna
+[Mon Sep/12]
+  19.00  Kalmar FF                1-1 (1-0)  BK Häcken
+  19.10  IFK Göteborg             1-3 (1-2)  Helsingborgs IF
+
+
+Matchday 23
+[Sat Sep/17]
+  15.00  BK Häcken                1-1 (0-1)  Hammarby IF
+         IFK Norrköping           2-2 (1-0)  Kalmar FF
+  17.30  IFK Värnamo              1-0 (0-0)  Varbergs BoIS
+[Sun Sep/18]
+  15.00  Helsingborgs IF          1-2 (1-1)  Malmö FF
+         IF Elfsborg              3-0 (2-0)  IK Sirius
+         Mjällby AIF              1-1 (0-0)  GIF Sundsvall
+  17.30  AIK Solna                1-1 (1-0)  Degerfors IF
+         Djurgårdens IF           3-0 (2-0)  IFK Göteborg
+
+
+Matchday 24
+[Sat Oct/1]
+  15.00  Malmö FF                 0-0  Hammarby IF
+  17.30  Degerfors IF             3-0 (1-0)  Djurgårdens IF
+[Sun Oct/2]
+  15.00  GIF Sundsvall            1-3 (0-2)  IFK Norrköping
+         Varbergs BoIS            1-1 (1-0)  BK Häcken
+  17.30  IK Sirius                1-1 (0-0)  AIK Solna
+         Kalmar FF                2-0 (1-0)  Helsingborgs IF
+[Mon Oct/3]
+  19.00  IFK Värnamo              2-1 (1-1)  Mjällby AIF
+  19.10  IFK Göteborg             1-3 (1-2)  IF Elfsborg
+
+
+Matchday 25
+[Sat Oct/8]
+  15.00  Degerfors IF             0-0  IK Sirius
+[Sun Oct/9]
+  15.00  IF Elfsborg              0-2 (0-2)  Kalmar FF
+         Malmö FF                 0-0  IFK Värnamo
+         GIF Sundsvall            3-2 (3-0)  IFK Göteborg
+  17.30  AIK Solna                2-0 (0-0)  Helsingborgs IF
+         Djurgårdens IF           0-1 (0-1)  BK Häcken
+[Mon Oct/10]
+  19.00  IFK Norrköping           2-2 (1-0)  Mjällby AIF
+  19.10  Hammarby IF              5-1 (3-0)  Varbergs BoIS
+
+
+Matchday 26
+[Fri Oct/14]
+  19.00  IF Elfsborg              1-1 (0-0)  Degerfors IF
+[Sat Oct/15]
+  15.00  BK Häcken                4-1 (1-1)  GIF Sundsvall
+         Helsingborgs IF          1-3 (0-2)  Varbergs BoIS
+  17.30  IK Sirius                2-0 (2-0)  IFK Norrköping
+         IFK Värnamo              1-3 (1-1)  Kalmar FF
+[Sun Oct/16]
+  15.00  Djurgårdens IF           1-2 (0-1)  AIK Solna
+  17.30  Mjällby AIF              0-3 (0-3)  Hammarby IF
+[Mon Oct/17]
+  19.10  IFK Göteborg             2-1 (0-0)  Malmö FF
+
+
+Matchday 27
+[Wed Oct/19]
+  19.00  AIK Solna                1-2 (0-1)  BK Häcken
+         IFK Norrköping           2-0 (1-0)  Helsingborgs IF
+         GIF Sundsvall            1-2 (1-1)  IFK Värnamo
+         Varbergs BoIS            0-3 (0-0)  IF Elfsborg
+[Thu Oct/20]
+  19.00  Degerfors IF             3-1 (0-1)  IFK Göteborg
+         Kalmar FF                1-2 (0-1)  Mjällby AIF
+         Malmö FF                 2-3 (2-0)  Djurgårdens IF
+  19.30  Hammarby IF              1-1 (0-0)  IK Sirius
+
+
+Matchday 28
+[Sun Oct/23]
+  15.00  Helsingborgs IF          1-2 (0-1)  Degerfors IF
+         IF Elfsborg              2-1 (1-0)  Hammarby IF
+  17.30  BK Häcken                2-1 (1-0)  Malmö FF
+[Mon Oct/24]
+  19.00  Djurgårdens IF           4-0 (2-0)  GIF Sundsvall
+         IK Sirius                0-0  Kalmar FF
+         Mjällby AIF              4-1 (1-0)  Varbergs BoIS
+         IFK Värnamo              1-1 (0-1)  IFK Norrköping
+  19.10  IFK Göteborg             1-0 (0-0)  AIK Solna
+
+
+Matchday 29
+[Sat Oct/29]
+  15.00  Degerfors IF             0-0  IFK Värnamo
+[Sun Oct/30]
+  15.00  IFK Göteborg             0-4 (0-3)  BK Häcken
+         Mjällby AIF              1-2 (0-1)  AIK Solna
+         GIF Sundsvall            2-3 (1-1)  IK Sirius
+  17.30  Hammarby IF              4-2 (1-0)  Kalmar FF
+         Varbergs BoIS            2-5 (0-1)  Malmö FF
+[Mon Oct/31]
+  19.00  IF Elfsborg              3-0 (1-0)  Helsingborgs IF
+  19.10  IFK Norrköping           0-1 (0-0)  Djurgårdens IF
+
+
+Matchday 30
+[Sun Nov/6]
+  15.00  AIK Solna                0-1 (0-0)  IF Elfsborg
+         BK Häcken                3-3 (2-2)  IFK Norrköping
+         Djurgårdens IF           0-1 (0-1)  Mjällby AIF
+         Helsingborgs IF          0-2 (0-0)  Hammarby IF
+         IK Sirius                2-3 (0-3)  Varbergs BoIS
+         Kalmar FF                4-0 (1-0)  GIF Sundsvall
+         Malmö FF                 2-2 (1-1)  Degerfors IF
+         IFK Värnamo              1-4 (0-1)  IFK Göteborg

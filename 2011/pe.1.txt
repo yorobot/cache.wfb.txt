@@ -1,0 +1,430 @@
+= PE 1 2011
+
+# Date       Sat Feb/12 - Wed Dec/14 2011 (305d)
+# Teams      16
+# Matches    243
+# Stages     Regular Season (240)  Finale (3)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Feb/12]
+  13.30  Inti Gas                 1-0 (0-0)  León de Huánuco
+  14.45  Cobresol FBC             0-0  Universidad San Martín
+  19.00  Universitario de Deportes  0-0  Juan Aurich
+[Sun Feb/13]
+  12.00  Cienciano                1-0 (1-0)  Sport Huancayo
+  14.05  Alianza Lima             4-1 (1-0)  Unión Comercio
+  15.30  Sporting Cristal         1-2 (0-0)  FBC Melgar
+  16.10  Alianza Atlético         1-2 (1-1)  Sport Boys
+  18.20  Universidad Cesar Vallejo  3-0 (1-0)  CN Iquitos
+
+
+Matchday 2
+[Sat Feb/19]
+  13.15  Sport Huancayo           2-2 (1-1)  Inti Gas
+  16.00  CN Iquitos               1-1 (0-1)  Universitario de Deportes
+         Universidad San Martín   2-1 (1-0)  Universidad Cesar Vallejo
+  18.00  Alianza Lima             1-0 (0-0)  Alianza Atlético
+  20.20  Sport Boys               0-1 (0-0)  Sporting Cristal
+[Sun Feb/20]
+  11.00  FBC Melgar               0-4 (0-0)  Cienciano
+  13.30  León de Huánuco          0-1 (0-1)  Cobresol FBC
+  16.00  Juan Aurich              3-2 (1-0)  Unión Comercio
+
+
+Matchday 3
+[Fri Feb/25]
+  19.30  Universitario de Deportes  1-0 (0-0)  Universidad San Martín
+[Sat Feb/26]
+  13.30  Inti Gas                 2-0 (0-0)  FBC Melgar
+  15.30  Sporting Cristal         1-1 (1-0)  Alianza Lima
+[Sun Feb/27]
+  12.45  Cobresol FBC             0-0  Sport Huancayo
+  15.00  Cienciano                3-0 (1-0)  Sport Boys
+  15.30  Unión Comercio           2-0 (1-0)  Alianza Atlético
+  16.00  Juan Aurich              2-2 (2-1)  CN Iquitos
+  18.20  Universidad Cesar Vallejo  0-1 (0-0)  León de Huánuco
+
+
+Matchday 4
+[Fri Mar/4]
+  19.00  Universidad San Martín   1-1 (1-1)  Juan Aurich
+[Sat Mar/5]
+  16.00  Alianza Atlético         2-1 (0-0)  Sporting Cristal
+  18.10  Alianza Lima             2-0 (1-0)  Cienciano
+  20.20  Sport Boys               3-1 (2-1)  Inti Gas
+[Sun Mar/6]
+  13.15  Sport Huancayo           3-0 (0-0)  Universidad Cesar Vallejo
+  15.30  FBC Melgar               1-2 (1-0)  Cobresol FBC
+  18.00  CN Iquitos               0-0  Unión Comercio
+[Mon Mar/7]
+  15.30  León de Huánuco          2-0 (2-0)  Universitario de Deportes
+
+
+Matchday 5
+[Fri Mar/11]
+  20.00  CN Iquitos               3-1 (1-1)  Universidad San Martín
+[Sat Mar/12]
+  13.15  Inti Gas                 0-2 (0-0)  Alianza Lima
+  15.30  Sporting Cristal         2-1 (2-0)  Unión Comercio
+  16.00  Juan Aurich              2-0 (0-0)  León de Huánuco
+  19.30  Universitario de Deportes  2-1 (0-1)  Sport Huancayo
+[Sun Mar/13]
+  10.30  Universidad Cesar Vallejo  2-1 (2-1)  FBC Melgar
+  12.00  Cobresol FBC             2-2 (1-1)  Sport Boys
+  15.30  Cienciano                4-0 (2-0)  Alianza Atlético
+
+
+Matchday 6
+[Sat Mar/19]
+  11.00  Sport Huancayo           0-0  Juan Aurich
+  13.15  Unión Comercio           2-1 (0-1)  Universidad San Martín
+  15.30  Sport Boys               1-1 (0-1)  Universidad Cesar Vallejo
+  18.00  Alianza Lima             0-0  Cobresol FBC
+  20.15  FBC Melgar               0-0  Universitario de Deportes
+[Sun Mar/20]
+  13.15  León de Huánuco          1-3 (1-1)  CN Iquitos
+  15.30  Sporting Cristal         1-0 (0-0)  Cienciano
+  16.00  Alianza Atlético         3-0 (2-0)  Inti Gas
+
+
+Matchday 7
+[Sat Apr/2]
+  13.30  Inti Gas                 2-0 (0-0)  Sporting Cristal
+  16.00  CN Iquitos               1-3 (1-0)  Sport Huancayo
+  19.30  Universitario de Deportes  2-1 (0-0)  Sport Boys
+[Sun Apr/3]
+  11.40  Cobresol FBC             0-1 (0-0)  Alianza Atlético
+  13.45  Cienciano                2-2 (2-1)  Unión Comercio
+  14.30  Universidad San Martín   0-0  León de Huánuco
+  16.00  Universidad Cesar Vallejo  1-1 (0-0)  Alianza Lima
+         Juan Aurich              1-1 (0-1)  FBC Melgar
+
+
+Matchday 8
+[Fri Apr/15]
+  16.00  Alianza Atlético         0-1 (0-0)  Universidad Cesar Vallejo
+[Sat Apr/16]
+  12.45  Sport Huancayo           2-0 (0-0)  Universidad San Martín
+  15.00  Alianza Lima             0-0  Universitario de Deportes
+  19.00  Sport Boys               0-5 (0-2)  Juan Aurich
+[Sun Apr/17]
+  11.00  FBC Melgar               0-0  CN Iquitos
+  14.30  Sporting Cristal         1-1 (0-0)  Cobresol FBC
+  15.30  Cienciano                2-1 (1-1)  Inti Gas
+[Mon Apr/18]
+  15.30  Unión Comercio           5-1 (2-0)  León de Huánuco
+
+
+Matchday 9
+[Sat Apr/23]
+  13.30  Inti Gas                 1-0 (1-0)  Unión Comercio
+  15.30  Universidad San Martín   2-2 (1-1)  FBC Melgar
+  17.00  CN Iquitos               3-0 (0-0)  Sport Boys
+  19.30  Universitario de Deportes  1-0 (1-0)  Alianza Atlético
+[Sun Apr/24]
+  12.00  Cobresol FBC             0-0  Cienciano
+  14.00  León de Huánuco          2-1 (1-0)  Sport Huancayo
+  16.00  Universidad Cesar Vallejo  1-0 (1-0)  Sporting Cristal
+         Juan Aurich              2-0 (0-0)  Alianza Lima
+
+
+Matchday 10
+[Fri Apr/29]
+  19.30  FBC Melgar               1-0 (0-0)  León de Huánuco
+[Sat Apr/30]
+  13.30  Inti Gas                 3-0 (2-0)  Cobresol FBC
+  16.00  Alianza Lima             1-0 (0-0)  CN Iquitos
+  18.30  Sport Boys               1-0 (0-0)  Universidad San Martín
+[Sun May/1]
+  13.15  Unión Comercio           2-1 (1-1)  Sport Huancayo
+  14.30  Sporting Cristal         3-0 (0-0)  Universitario de Deportes
+  15.30  Cienciano                1-0 (0-0)  Universidad Cesar Vallejo
+  17.45  Alianza Atlético         1-1 (1-0)  Juan Aurich
+
+
+Matchday 11
+[Fri May/6]
+  19.30  Universitario de Deportes  5-0 (3-0)  Cienciano
+[Sat May/7]
+  11.30  León de Huánuco          1-0 (1-0)  Sport Boys
+  13.45  Sport Huancayo           4-1 (1-0)  FBC Melgar
+  16.00  Universidad Cesar Vallejo  3-3 (2-1)  Inti Gas
+  18.10  Juan Aurich              2-1 (1-1)  Sporting Cristal
+  20.00  Universidad San Martín   4-0 (0-0)  Alianza Lima
+  20.20  CN Iquitos               2-0 (2-0)  Alianza Atlético
+[Sun May/8]
+  13.55  Cobresol FBC             1-0 (0-0)  Unión Comercio
+
+
+Matchday 12
+[Wed May/11]
+  13.00  Cienciano                2-1 (1-0)  Juan Aurich
+  15.00  Sporting Cristal         1-1 (0-0)  CN Iquitos
+  15.30  Cobresol FBC             1-2 (0-1)  Universidad Cesar Vallejo
+  16.00  Unión Comercio           1-2 (0-1)  FBC Melgar
+[Thu May/12]
+         Sport Boys               0-3 (0-3)  Sport Huancayo
+[Wed May/11]
+  17.45  Alianza Lima             2-1 (1-1)  León de Huánuco
+[Thu May/12]
+  13.30  Inti Gas                 0-0  Universitario de Deportes
+  16.00  Alianza Atlético         1-2 (0-2)  Universidad San Martín
+
+
+Matchday 13
+[Sat May/14]
+  16.00  Universidad Cesar Vallejo  1-1 (0-0)  Unión Comercio
+  20.30  CN Iquitos               0-2 (0-1)  Cienciano
+[Sun May/15]
+  11.30  FBC Melgar               0-1 (0-0)  Sport Boys
+  13.45  Sport Huancayo           0-2 (0-0)  Alianza Lima
+  15.00  León de Huánuco          4-0 (1-0)  Alianza Atlético
+  15.30  Universidad San Martín   1-1 (1-0)  Sporting Cristal
+  16.00  Juan Aurich              3-0 (1-0)  Inti Gas
+  18.15  Universitario de Deportes  0-1 (0-0)  Cobresol FBC
+
+
+Matchday 14
+[Wed May/18]
+  13.00  Cienciano                3-2 (1-2)  Universidad San Martín
+  13.30  Inti Gas                 4-0 (1-0)  CN Iquitos
+  15.00  Sporting Cristal         0-2 (0-1)  León de Huánuco
+  15.30  Cobresol FBC             1-1 (1-0)  Juan Aurich
+  16.00  Unión Comercio           0-0  Sport Boys
+  17.45  Alianza Lima             2-0 (1-0)  FBC Melgar
+  20.15  Universidad Cesar Vallejo  0-0  Universitario de Deportes
+[Thu May/26]
+  16.00  Alianza Atlético         0-2 (0-1)  Sport Huancayo
+
+
+Matchday 15
+[Sat May/21]
+  15.30  Universitario de Deportes  3-0 (1-0)  Unión Comercio
+  17.45  CN Iquitos               2-2 (0-1)  Cobresol FBC
+  20.00  Sport Boys               0-5 (0-3)  Alianza Lima
+[Sun May/22]
+  12.00  Sport Huancayo           3-0 (1-0)  Sporting Cristal
+  13.00  Universidad San Martín   5-0 (2-0)  Inti Gas
+  14.00  León de Huánuco          4-0 (1-0)  Cienciano
+  16.00  Juan Aurich              2-0 (0-0)  Universidad Cesar Vallejo
+[Mon May/23]
+  19.30  FBC Melgar               0-1 (0-1)  Alianza Atlético
+
+
+Matchday 16
+[Fri Jul/29]
+  20.00  CN Iquitos               1-0 (0-0)  Universidad Cesar Vallejo
+[Sat Jul/30]
+  13.30  FBC Melgar               2-1 (2-0)  Sporting Cristal
+         León de Huánuco          1-2 (1-2)  Inti Gas
+  15.45  Sport Boys               0-0  Alianza Atlético
+[Sun Jul/31]
+  11.30  Unión Comercio           0-0  Alianza Lima
+  13.45  Sport Huancayo           2-2 (2-0)  Cienciano
+  14.00  Universidad San Martín   0-0  Cobresol FBC
+  16.00  Juan Aurich              1-0 (0-0)  Universitario de Deportes
+
+
+Matchday 17
+[Sat Aug/6]
+  13.30  Inti Gas                 1-2 (0-0)  Sport Huancayo
+  15.30  Cobresol FBC             1-1 (1-1)  León de Huánuco
+  19.00  Universitario de Deportes  0-3 (0-0)  CN Iquitos
+[Sun Aug/7]
+  11.15  Cienciano                2-3 (1-2)  FBC Melgar
+  13.30  Unión Comercio           1-1 (0-0)  Juan Aurich
+  15.00  Sporting Cristal         3-0 (0-0)  Sport Boys
+  16.00  Alianza Atlético         0-2 (0-1)  Alianza Lima
+  18.15  Universidad Cesar Vallejo  0-2 (0-1)  Universidad San Martín
+
+
+Matchday 18
+[Sat Aug/13]
+  11.00  FBC Melgar               2-2 (0-0)  Inti Gas
+  13.15  León de Huánuco          3-1 (2-0)  Universidad Cesar Vallejo
+  15.30  Sport Boys               2-0 (1-0)  Cienciano
+  17.45  Alianza Lima             0-0  Sporting Cristal
+  20.00  CN Iquitos               0-1 (0-0)  Juan Aurich
+[Sun Aug/14]
+  15.00  Universidad San Martín   0-0  Universitario de Deportes
+  15.45  Sport Huancayo           1-5 (1-3)  Cobresol FBC
+  18.00  Alianza Atlético         1-0 (0-0)  Unión Comercio
+
+
+Matchday 19
+[Fri Aug/19]
+  20.00  Universidad Cesar Vallejo  2-0 (0-0)  Sport Huancayo
+[Sat Aug/20]
+  13.15  Inti Gas                 3-1 (2-0)  Sport Boys
+  15.00  Sporting Cristal         1-0 (0-0)  Alianza Atlético
+  15.30  Unión Comercio           3-0 (1-0)  CN Iquitos
+  19.00  Universitario de Deportes  2-1 (0-1)  León de Huánuco
+[Sun Aug/21]
+  10.55  Cobresol FBC             2-1 (1-0)  FBC Melgar
+  13.00  Cienciano                0-1 (0-0)  Alianza Lima
+  16.00  Juan Aurich              1-0 (1-0)  Universidad San Martín
+
+
+Matchday 20
+[Fri Aug/26]
+  15.30  Alianza Atlético         3-1 (2-1)  Cienciano
+[Sat Aug/27]
+  13.15  Unión Comercio           1-0 (0-0)  Sporting Cristal
+  15.30  Alianza Lima             4-2 (2-1)  Inti Gas
+  17.45  Sport Boys               1-0 (1-0)  Cobresol FBC
+[Sun Aug/28]
+  10.50  FBC Melgar               3-0 (2-0)  Universidad Cesar Vallejo
+  13.00  Sport Huancayo           1-0 (0-0)  Universitario de Deportes
+  14.00  Universidad San Martín   1-0 (1-0)  CN Iquitos
+  15.15  León de Huánuco          2-1 (1-1)  Juan Aurich
+
+
+Matchday 21
+[Sat Sep/10]
+  13.30  Inti Gas                 1-0 (0-0)  Alianza Atlético
+  16.00  Universidad Cesar Vallejo  1-2 (1-1)  Sport Boys
+[Sun Sep/11]
+         Universitario de Deportes  0-3  FBC Melgar
+  11.00  Cienciano                0-1 (0-0)  Sporting Cristal
+  13.15  Cobresol FBC             0-5 (0-1)  Alianza Lima
+  15.00  Universidad San Martín   5-1 (3-0)  Unión Comercio
+         CN Iquitos               2-3 (1-2)  León de Huánuco
+  16.00  Juan Aurich              1-0 (1-0)  Sport Huancayo
+
+
+Matchday 22
+[Sat Sep/17]
+  13.15  León de Huánuco          1-0 (0-0)  Universidad San Martín
+  15.30  Sport Boys               2-0 (1-0)  Universitario de Deportes
+  18.00  Alianza Lima             2-1 (1-0)  Universidad Cesar Vallejo
+[Sun Sep/18]
+  13.00  Unión Comercio           3-1 (0-1)  Cienciano
+  13.30  FBC Melgar               1-1 (1-1)  Juan Aurich
+  15.15  Sporting Cristal         0-0  Inti Gas
+  15.45  Sport Huancayo           3-1 (1-1)  CN Iquitos
+[Mon Sep/19]
+  13.00  Alianza Atlético         1-2 (1-1)  Cobresol FBC
+
+
+Matchday 23
+[Fri Sep/23]
+  16.00  Universidad Cesar Vallejo  0-0  Alianza Atlético
+[Sat Sep/24]
+  12.45  Inti Gas                 2-2 (1-1)  Cienciano
+  15.00  León de Huánuco          1-0 (1-0)  Unión Comercio
+         Universidad San Martín   2-1 (1-0)  Sport Huancayo
+  17.30  Universitario de Deportes  2-1 (1-1)  Alianza Lima
+  20.00  CN Iquitos               1-3 (0-2)  FBC Melgar
+[Sun Sep/25]
+  13.45  Cobresol FBC             1-1 (1-0)  Sporting Cristal
+  16.00  Juan Aurich              2-2 (1-1)  Sport Boys
+
+
+Matchday 24
+[Sat Oct/15]
+  13.45  FBC Melgar               0-1 (0-1)  Universidad San Martín
+  16.00  Alianza Lima             1-0 (0-0)  Juan Aurich
+  20.20  Sport Boys               1-0 (1-0)  CN Iquitos
+[Sun Oct/16]
+  10.55  Unión Comercio           3-2 (0-1)  Inti Gas
+  13.00  Sport Huancayo           1-0 (0-0)  León de Huánuco
+  15.15  Sporting Cristal         2-1 (0-1)  Universidad Cesar Vallejo
+         Cienciano                5-0 (2-0)  Cobresol FBC
+[Mon Oct/17]
+  17.00  Alianza Atlético         3-0 (0-0)  Universitario de Deportes
+
+
+Matchday 25
+[Sat Oct/22]
+  13.15  León de Huánuco          1-0 (1-0)  FBC Melgar
+  15.30  Sport Huancayo           3-1 (2-0)  Unión Comercio
+  18.00  CN Iquitos               0-1 (0-1)  Alianza Lima
+  20.15  Universidad Cesar Vallejo  2-0 (0-0)  Cienciano
+[Sun Oct/23]
+  13.45  Cobresol FBC             3-1 (1-0)  Inti Gas
+  15.00  Universidad San Martín   1-0 (0-0)  Sport Boys
+  16.00  Juan Aurich              2-1 (1-0)  Alianza Atlético
+  19.15  Universitario de Deportes  1-2 (1-2)  Sporting Cristal
+
+
+Matchday 26
+[Sat Oct/29]
+  11.00  Inti Gas                 3-0 (1-0)  Universidad Cesar Vallejo
+  13.15  Unión Comercio           1-1 (1-1)  Cobresol FBC
+  15.30  Sport Boys               1-1 (1-1)  León de Huánuco
+[Sun Oct/30]
+  11.15  FBC Melgar               2-2 (1-1)  Sport Huancayo
+  13.20  Cienciano                3-0 (1-0)  Universitario de Deportes
+  15.15  Sporting Cristal         0-2 (0-1)  Juan Aurich
+  15.30  Alianza Lima             0-0  Universidad San Martín
+[Mon Oct/31]
+  15.30  Alianza Atlético         2-1 (1-1)  CN Iquitos
+
+
+Matchday 27
+[Sat Nov/5]
+  13.15  FBC Melgar               1-2 (1-2)  Unión Comercio
+  15.00  Universidad San Martín   4-0 (2-0)  Alianza Atlético
+  15.30  Universitario de Deportes  0-0  Inti Gas
+  20.15  Universidad Cesar Vallejo  1-0 (0-0)  Cobresol FBC
+[Sun Nov/6]
+  11.15  Sport Huancayo           3-0 (0-0)  Sport Boys
+  13.30  León de Huánuco          2-0 (2-0)  Alianza Lima
+  16.00  Juan Aurich              5-0 (1-0)  Cienciano
+  18.15  CN Iquitos               2-1 (2-0)  Sporting Cristal
+
+
+Matchday 28
+[Fri Nov/18]
+  15.30  Cienciano                1-2 (1-1)  CN Iquitos
+[Sat Nov/19]
+  15.15  Cobresol FBC             1-1 (1-1)  Universitario de Deportes
+  17.30  Alianza Lima             0-2 (0-1)  Sport Huancayo
+[Sun Nov/20]
+  11.15  Unión Comercio           5-2 (4-1)  Universidad Cesar Vallejo
+  13.30  Inti Gas                 0-0  Juan Aurich
+  15.15  Sporting Cristal         0-4 (0-1)  Universidad San Martín
+  15.45  Sport Boys               2-1 (1-0)  FBC Melgar
+[Mon Nov/21]
+  15.30  Alianza Atlético         1-0 (1-0)  León de Huánuco
+
+
+Matchday 29
+[Sun Nov/27]
+  15.30  Universitario de Deportes  2-2 (1-1)  Universidad Cesar Vallejo
+         Sport Huancayo           3-0 (2-0)  Alianza Atlético
+         FBC Melgar               3-2 (2-1)  Alianza Lima
+         Juan Aurich              2-1 (1-0)  Cobresol FBC
+         CN Iquitos               0-1 (0-0)  Inti Gas
+         Sport Boys               1-3 (0-2)  Unión Comercio
+         Universidad San Martín   2-0 (2-0)  Cienciano
+         León de Huánuco          1-1 (1-0)  Sporting Cristal
+
+
+Matchday 30
+[Sun Dec/4]
+  15.30  Alianza Lima             3-0 (1-0)  Sport Boys
+         Universidad Cesar Vallejo  1-0 (1-0)  Juan Aurich
+         Unión Comercio           3-2 (2-1)  Universitario de Deportes
+         Alianza Atlético         2-1 (0-1)  FBC Melgar
+         Sporting Cristal         3-0 (2-0)  Sport Huancayo
+         Cobresol FBC             3-1 (1-0)  CN Iquitos
+         Cienciano                1-0 (0-0)  León de Huánuco
+         Inti Gas                 2-0 (0-0)  Universidad San Martín
+
+
+== Finale
+
+Final
+[Thu Dec/8]
+  16.00  Juan Aurich              1-2 (0-1)  Alianza Lima
+[Sun Dec/11]
+  16.00  Alianza Lima             0-1 (0-0)  Juan Aurich
+
+
+Decider
+[Wed Dec/14]
+  16.35  Alianza Lima             1-3 pen. 0-0 a.e.t. (0-0)  Juan Aurich

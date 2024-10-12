@@ -1,0 +1,322 @@
+= UEFA EL 2013/14
+
+# Date       Thu Sep/19 2013 - Wed May/14 2014 (237d)
+# Teams      56
+# Matches    205
+
+
+
+Group
+[Thu Sep/19]
+  19.00  FC St. Gallen (SUI)      2-0 (0-0)  Kuban Krasnodar (1928-2018) (RUS)
+         Valencia CF (ESP)        0-3 (0-1)  Swansea City (WAL)
+[Thu Oct/3]
+  18.00  Kuban Krasnodar (1928-2018) (RUS)  0-2 (0-0)  Valencia CF (ESP)
+  21.05  Swansea City (WAL)       1-0 (0-0)  FC St. Gallen (SUI)
+[Thu Oct/24]
+  21.05  Valencia CF (ESP)        5-1 (4-0)  FC St. Gallen (SUI)
+         Swansea City (WAL)       1-1 (0-0)  Kuban Krasnodar (1928-2018) (RUS)
+[Thu Nov/7]
+  18.00  Kuban Krasnodar (1928-2018) (RUS)  1-1 (0-1)  Swansea City (WAL)
+  19.00  FC St. Gallen (SUI)      2-3 (1-1)  Valencia CF (ESP)
+[Thu Nov/28]
+  18.00  Kuban Krasnodar (1928-2018) (RUS)  4-0 (1-0)  FC St. Gallen (SUI)
+  21.05  Swansea City (WAL)       0-1 (0-1)  Valencia CF (ESP)
+[Thu Dec/12]
+  19.00  FC St. Gallen (SUI)      1-0 (0-0)  Swansea City (WAL)
+         Valencia CF (ESP)        1-1 (0-0)  Kuban Krasnodar (1928-2018) (RUS)
+[Thu Sep/19]
+  19.00  Dinamo Zagreb (CRO)      1-2 (1-0)  Chernomorets Odessa (UKR)
+         PSV Eindhoven (NED)      0-2 (0-0)  PFC Ludogorets Razgrad (BUL)
+[Thu Oct/3]
+  21.05  Chernomorets Odessa (UKR)  0-2 (0-1)  PSV Eindhoven (NED)
+         PFC Ludogorets Razgrad (BUL)  3-0 (2-0)  Dinamo Zagreb (CRO)
+[Thu Oct/24]
+  21.05  Chernomorets Odessa (UKR)  0-1 (0-1)  PFC Ludogorets Razgrad (BUL)
+         Dinamo Zagreb (CRO)      0-0  PSV Eindhoven (NED)
+[Thu Nov/7]
+  19.00  PFC Ludogorets Razgrad (BUL)  1-1 (0-0)  Chernomorets Odessa (UKR)
+         PSV Eindhoven (NED)      2-0 (1-0)  Dinamo Zagreb (CRO)
+[Thu Nov/28]
+  21.05  Chernomorets Odessa (UKR)  2-1 (0-1)  Dinamo Zagreb (CRO)
+         PFC Ludogorets Razgrad (BUL)  2-0 (1-0)  PSV Eindhoven (NED)
+[Thu Dec/12]
+  19.00  PSV Eindhoven (NED)      0-1 (0-0)  Chernomorets Odessa (UKR)
+         Dinamo Zagreb (CRO)      1-2 (1-1)  PFC Ludogorets Razgrad (BUL)
+[Thu Sep/19]
+  19.00  Standard Liège (BEL)     1-2 (0-0)  Esbjerg fB (DEN)
+         RB Salzburg (AUT)        4-0 (2-0)  IF Elfsborg (SWE)
+[Thu Oct/3]
+  21.05  Esbjerg fB (DEN)         1-2 (0-2)  RB Salzburg (AUT)
+         IF Elfsborg (SWE)        1-1 (1-0)  Standard Liège (BEL)
+[Thu Oct/24]
+  21.05  IF Elfsborg (SWE)        1-2 (0-1)  Esbjerg fB (DEN)
+         RB Salzburg (AUT)        2-1 (0-0)  Standard Liège (BEL)
+[Thu Nov/7]
+  19.00  Esbjerg fB (DEN)         1-0 (0-0)  IF Elfsborg (SWE)
+         Standard Liège (BEL)     1-3 (0-2)  RB Salzburg (AUT)
+[Thu Nov/28]
+  21.05  Esbjerg fB (DEN)         2-1 (1-0)  Standard Liège (BEL)
+         IF Elfsborg (SWE)        0-1 (0-1)  RB Salzburg (AUT)
+[Thu Dec/12]
+  19.00  RB Salzburg (AUT)        3-0 (1-0)  Esbjerg fB (DEN)
+         Standard Liège (BEL)     1-3 (1-1)  IF Elfsborg (SWE)
+[Thu Sep/19]
+  19.00  NK Maribor (SVN)         2-5 (1-2)  Rubin Kazan (RUS)
+         SV Zulte Waregem (BEL)   0-0  Wigan Athletic (ENG)
+[Thu Oct/3]
+  18.00  Rubin Kazan (RUS)        4-0 (0-0)  SV Zulte Waregem (BEL)
+  21.05  Wigan Athletic (ENG)     3-1 (2-0)  NK Maribor (SVN)
+[Thu Oct/24]
+  21.05  SV Zulte Waregem (BEL)   1-3 (1-2)  NK Maribor (SVN)
+         Wigan Athletic (ENG)     1-1 (1-1)  Rubin Kazan (RUS)
+[Thu Nov/7]
+  18.00  Rubin Kazan (RUS)        1-0 (1-0)  Wigan Athletic (ENG)
+  19.00  NK Maribor (SVN)         0-1 (0-1)  SV Zulte Waregem (BEL)
+[Thu Nov/28]
+  18.00  Rubin Kazan (RUS)        1-1 (1-0)  NK Maribor (SVN)
+  21.05  Wigan Athletic (ENG)     1-2 (1-1)  SV Zulte Waregem (BEL)
+[Thu Dec/12]
+  19.00  NK Maribor (SVN)         2-1 (1-1)  Wigan Athletic (ENG)
+         SV Zulte Waregem (BEL)   0-2 (0-0)  Rubin Kazan (RUS)
+[Thu Sep/19]
+  19.00  ACF Fiorentina (ITA)     3-0 (1-0)  Paços de Ferreira (POR)
+         Pandurii Târgu Jiu (ROU)  0-1 (0-1)  Dnipro Dnipropetrovsk (UKR)
+[Thu Oct/3]
+  21.05  Dnipro Dnipropetrovsk (UKR)  1-2 (0-0)  ACF Fiorentina (ITA)
+         Paços de Ferreira (POR)  1-1 (0-1)  Pandurii Târgu Jiu (ROU)
+[Thu Oct/24]
+  21.05  ACF Fiorentina (ITA)     3-0 (2-0)  Pandurii Târgu Jiu (ROU)
+         Paços de Ferreira (POR)  0-2 (0-0)  Dnipro Dnipropetrovsk (UKR)
+[Thu Nov/7]
+  19.00  Pandurii Târgu Jiu (ROU)  1-2 (1-0)  ACF Fiorentina (ITA)
+         Dnipro Dnipropetrovsk (UKR)  2-0 (1-0)  Paços de Ferreira (POR)
+[Thu Nov/28]
+  21.05  Paços de Ferreira (POR)  0-0  ACF Fiorentina (ITA)
+         Dnipro Dnipropetrovsk (UKR)  4-1 (1-0)  Pandurii Târgu Jiu (ROU)
+[Thu Dec/12]
+  19.00  ACF Fiorentina (ITA)     2-1 (1-1)  Dnipro Dnipropetrovsk (UKR)
+         Pandurii Târgu Jiu (ROU)  0-0  Paços de Ferreira (POR)
+[Thu Sep/19]
+  19.00  Maccabi Tel Aviv (ISR)   0-0  APOEL Nikosia (CYP)
+         Eintracht Frankfurt (GER)  3-0 (2-0)  Girondins Bordeaux (FRA)
+[Thu Oct/3]
+  21.05  APOEL Nikosia (CYP)      0-3 (0-1)  Eintracht Frankfurt (GER)
+         Girondins Bordeaux (FRA)  1-2 (0-0)  Maccabi Tel Aviv (ISR)
+[Thu Oct/24]
+  21.05  Girondins Bordeaux (FRA)  2-1 (1-1)  APOEL Nikosia (CYP)
+         Eintracht Frankfurt (GER)  2-0 (1-0)  Maccabi Tel Aviv (ISR)
+[Thu Nov/7]
+  19.00  APOEL Nikosia (CYP)      2-1 (1-1)  Girondins Bordeaux (FRA)
+         Maccabi Tel Aviv (ISR)   4-2 (3-0)  Eintracht Frankfurt (GER)
+[Thu Nov/28]
+  21.05  APOEL Nikosia (CYP)      0-0  Maccabi Tel Aviv (ISR)
+         Girondins Bordeaux (FRA)  0-1 (0-0)  Eintracht Frankfurt (GER)
+[Thu Dec/12]
+  19.00  Eintracht Frankfurt (GER)  2-0 (0-0)  APOEL Nikosia (CYP)
+         Maccabi Tel Aviv (ISR)   1-0 (0-0)  Girondins Bordeaux (FRA)
+[Thu Sep/19]
+  21.05  Dinamo Kiev (UKR)        0-1 (0-0)  KRC Genk (BEL)
+         FC Thun (SUI)            1-0 (1-0)  Rapid Wien (AUT)
+[Thu Oct/3]
+  19.00  Rapid Wien (AUT)         2-2 (0-2)  Dinamo Kiev (UKR)
+         KRC Genk (BEL)           2-1 (0-0)  FC Thun (SUI)
+[Thu Oct/24]
+  19.00  Dinamo Kiev (UKR)        3-0 (1-0)  FC Thun (SUI)
+         KRC Genk (BEL)           1-1 (1-0)  Rapid Wien (AUT)
+[Thu Nov/7]
+  21.05  FC Thun (SUI)            0-2 (0-1)  Dinamo Kiev (UKR)
+         Rapid Wien (AUT)         2-2 (2-1)  KRC Genk (BEL)
+[Thu Nov/28]
+  19.00  KRC Genk (BEL)           3-1 (3-1)  Dinamo Kiev (UKR)
+         Rapid Wien (AUT)         2-1 (1-0)  FC Thun (SUI)
+[Thu Dec/12]
+  21.05  Dinamo Kiev (UKR)        3-1 (2-1)  Rapid Wien (AUT)
+         FC Thun (SUI)            0-1 (0-1)  KRC Genk (BEL)
+[Thu Sep/19]
+  21.05  GD Estoril (POR)         1-2 (0-0)  Sevilla FC (ESP)
+         SC Freiburg (GER)        2-2 (2-0)  Slovan Liberec (CZE)
+[Thu Oct/3]
+  19.00  Slovan Liberec (CZE)     2-1 (1-1)  GD Estoril (POR)
+         Sevilla FC (ESP)         2-0 (0-0)  SC Freiburg (GER)
+[Thu Oct/24]
+  19.00  SC Freiburg (GER)        1-1 (1-0)  GD Estoril (POR)
+         Slovan Liberec (CZE)     1-1 (1-0)  Sevilla FC (ESP)
+[Thu Nov/7]
+  21.05  GD Estoril (POR)         0-0  SC Freiburg (GER)
+         Sevilla FC (ESP)         1-1 (1-0)  Slovan Liberec (CZE)
+[Thu Nov/28]
+  19.00  Sevilla FC (ESP)         1-1 (1-0)  GD Estoril (POR)
+         Slovan Liberec (CZE)     1-2 (0-1)  SC Freiburg (GER)
+[Thu Dec/12]
+  21.05  GD Estoril (POR)         1-2 (0-1)  Slovan Liberec (CZE)
+         SC Freiburg (GER)        0-2 (0-1)  Sevilla FC (ESP)
+
+
+Gruppe I
+[Thu Sep/19]
+  21.05  Real Betis (ESP)         0-0  Olympique Lyonnais (FRA)
+         Vitória Guimarães (POR)  4-0 (1-0)  HNK Rijeka (CRO)
+[Thu Oct/3]
+  19.00  HNK Rijeka (CRO)         1-1 (1-1)  Real Betis (ESP)
+         Olympique Lyonnais (FRA)  1-1 (0-1)  Vitória Guimarães (POR)
+[Thu Oct/24]
+  19.00  Olympique Lyonnais (FRA)  1-0 (0-0)  HNK Rijeka (CRO)
+         Real Betis (ESP)         1-0 (0-0)  Vitória Guimarães (POR)
+[Thu Nov/7]
+  21.05  HNK Rijeka (CRO)         1-1 (1-1)  Olympique Lyonnais (FRA)
+         Vitória Guimarães (POR)  0-1 (0-0)  Real Betis (ESP)
+[Thu Nov/28]
+  19.00  HNK Rijeka (CRO)         0-0  Vitória Guimarães (POR)
+         Olympique Lyonnais (FRA)  1-0 (0-0)  Real Betis (ESP)
+[Thu Dec/12]
+  21.05  Real Betis (ESP)         0-0  HNK Rijeka (CRO)
+         Vitória Guimarães (POR)  1-2 (1-0)  Olympique Lyonnais (FRA)
+
+
+Gruppe J
+[Thu Sep/19]
+  21.05  Apollon Limassol (CYP)   1-2 (1-1)  Trabzonspor (TUR)
+         Lazio Roma (ITA)         1-0 (0-0)  Legia Warszawa (POL)
+[Thu Oct/3]
+  19.00  Legia Warszawa (POL)     0-1 (0-0)  Apollon Limassol (CYP)
+         Trabzonspor (TUR)        3-3 (3-1)  Lazio Roma (ITA)
+[Thu Oct/24]
+  19.00  Apollon Limassol (CYP)   0-0  Lazio Roma (ITA)
+         Trabzonspor (TUR)        2-0 (1-0)  Legia Warszawa (POL)
+[Thu Nov/7]
+  21.05  Lazio Roma (ITA)         2-1 (2-1)  Apollon Limassol (CYP)
+         Legia Warszawa (POL)     0-2 (0-0)  Trabzonspor (TUR)
+[Thu Nov/28]
+  19.00  Legia Warszawa (POL)     0-2 (0-1)  Lazio Roma (ITA)
+         Trabzonspor (TUR)        4-2 (2-0)  Apollon Limassol (CYP)
+[Thu Dec/12]
+  21.05  Apollon Limassol (CYP)   0-2 (0-1)  Legia Warszawa (POL)
+         Lazio Roma (ITA)         0-0  Trabzonspor (TUR)
+
+
+Gruppe K
+[Thu Sep/19]
+  21.05  FC Sheriff (MDA)         0-0  Anzhi Makhachkala (RUS)
+         Tottenham Hotspur (ENG)  3-0 (2-0)  Tromsø IL (NOR)
+[Thu Oct/3]
+  18.00  Anzhi Makhachkala (RUS)  0-2 (0-2)  Tottenham Hotspur (ENG)
+  19.00  Tromsø IL (NOR)          1-1 (0-0)  FC Sheriff (MDA)
+[Thu Oct/24]
+  18.00  Anzhi Makhachkala (RUS)  1-0 (1-0)  Tromsø IL (NOR)
+  19.00  FC Sheriff (MDA)         0-2 (0-1)  Tottenham Hotspur (ENG)
+[Thu Nov/7]
+  21.05  Tottenham Hotspur (ENG)  2-1 (0-0)  FC Sheriff (MDA)
+         Tromsø IL (NOR)          0-1 (0-0)  Anzhi Makhachkala (RUS)
+[Thu Nov/28]
+  18.00  Anzhi Makhachkala (RUS)  1-1 (0-0)  FC Sheriff (MDA)
+  19.00  Tromsø IL (NOR)          0-2 (0-0)  Tottenham Hotspur (ENG)
+[Thu Dec/12]
+  21.05  FC Sheriff (MDA)         2-0 (2-0)  Tromsø IL (NOR)
+         Tottenham Hotspur (ENG)  4-1 (2-1)  Anzhi Makhachkala (RUS)
+
+
+Gruppe L
+[Thu Sep/19]
+  21.05  Maccabi Haifa (ISR)      0-1 (0-0)  AZ Alkmaar (NED)
+         PAOK Saloniki (GRE)      2-1 (0-0)  Shakter Karaganda (KAZ)
+[Thu Oct/3]
+  18.00  Shakter Karaganda (KAZ)  2-2 (2-0)  Maccabi Haifa (ISR)
+  19.00  AZ Alkmaar (NED)         1-1 (0-0)  PAOK Saloniki (GRE)
+[Thu Oct/24]
+  18.00  Shakter Karaganda (KAZ)  1-1 (1-1)  AZ Alkmaar (NED)
+  19.00  PAOK Saloniki (GRE)      3-2 (2-2)  Maccabi Haifa (ISR)
+[Thu Nov/7]
+  21.05  AZ Alkmaar (NED)         1-0 (0-0)  Shakter Karaganda (KAZ)
+         Maccabi Haifa (ISR)      0-0  PAOK Saloniki (GRE)
+[Thu Nov/28]
+  16.00  Shakter Karaganda (KAZ)  0-2 (0-0)  PAOK Saloniki (GRE)
+  19.00  AZ Alkmaar (NED)         2-0 (1-0)  Maccabi Haifa (ISR)
+[Thu Dec/12]
+  21.05  Maccabi Haifa (ISR)      2-1 (0-1)  Shakter Karaganda (KAZ)
+         PAOK Saloniki (GRE)      2-2 (1-1)  AZ Alkmaar (NED)
+
+
+Sechzehntelfinale
+[Thu Feb/20]
+  18.00  Anzhi Makhachkala (RUS)  0-0  KRC Genk (BEL)
+  19.00  Dnipro Dnipropetrovsk (UKR)  1-0 (0-0)  Tottenham Hotspur (ENG)
+         Juventus (ITA)           2-0 (1-0)  Trabzonspor (TUR)
+         Chernomorets Odessa (UKR)  0-0  Olympique Lyonnais (FRA)
+         Esbjerg fB (DEN)         1-3 (1-3)  ACF Fiorentina (ITA)
+         Dinamo Kiev (UKR)        0-2 (0-0)  Valencia CF (ESP)
+         PAOK Saloniki (GRE)      0-1 (0-0)  SL Benfica (POR)
+         Slovan Liberec (CZE)     0-1 (0-0)  AZ Alkmaar (NED)
+  21.05  Real Betis (ESP)         1-1 (1-0)  Rubin Kazan (RUS)
+         Swansea City (WAL)       0-0  SSC Napoli (ITA)
+         NK Maribor (SVN)         2-2 (1-0)  Sevilla FC (ESP)
+         Viktoria Plzeň (CZE)     1-1 (0-0)  Shakhtar Donetsk (UKR)
+         Lazio Roma (ITA)         0-1 (0-1)  PFC Ludogorets Razgrad (BUL)
+         AFC Ajax (NED)           0-3 (0-3)  RB Salzburg (AUT)
+         Maccabi Tel Aviv (ISR)   0-0  FC Basel 1893 (SUI)
+         FC Porto (POR)           2-2 (1-0)  Eintracht Frankfurt (GER)
+[Thu Feb/27]
+  18.00  Rubin Kazan (RUS)        0-2 (0-1)  Real Betis (ESP)
+  19.00  SSC Napoli (ITA)         3-1 (1-1)  Swansea City (WAL)
+         Sevilla FC (ESP)         2-1 (1-0)  NK Maribor (SVN)
+         Shakhtar Donetsk (UKR)   1-2 (0-2)  Viktoria Plzeň (CZE)
+         PFC Ludogorets Razgrad (BUL)  3-3 (0-1)  Lazio Roma (ITA)
+         RB Salzburg (AUT)        3-1 (0-0)  AFC Ajax (NED)
+         FC Basel 1893 (SUI)      3-0 (1-0)  Maccabi Tel Aviv (ISR)
+         Eintracht Frankfurt (GER)  3-3 (1-0)  FC Porto (POR)
+  21.05  Tottenham Hotspur (ENG)  3-1 (0-0)  Dnipro Dnipropetrovsk (UKR)
+         Trabzonspor (TUR)        0-2 (0-2)  Juventus (ITA)
+         Olympique Lyonnais (FRA)  1-0 (0-0)  Chernomorets Odessa (UKR)
+         ACF Fiorentina (ITA)     1-1 (0-0)  Esbjerg fB (DEN)
+         KRC Genk (BEL)           0-2 (0-0)  Anzhi Makhachkala (RUS)
+         Valencia CF (ESP)        0-0  Dinamo Kiev (UKR)
+         SL Benfica (POR)         3-0 (0-0)  PAOK Saloniki (GRE)
+         AZ Alkmaar (NED)         1-1 (1-0)  Slovan Liberec (CZE)
+
+
+Round of 16
+[Thu Mar/13]
+  19.00  PFC Ludogorets Razgrad (BUL)  0-3 (0-2)  Valencia CF (ESP)
+         FC Porto (POR)           1-0 (0-0)  SSC Napoli (ITA)
+         FC Basel 1893 (SUI)      0-0  RB Salzburg (AUT)
+  21.05  AZ Alkmaar (NED)         1-0 (1-0)  Anzhi Makhachkala (RUS)
+         Olympique Lyonnais (FRA)  4-1 (1-1)  Viktoria Plzeň (CZE)
+         Sevilla FC (ESP)         0-2 (0-1)  Real Betis (ESP)
+         Tottenham Hotspur (ENG)  1-3 (0-1)  SL Benfica (POR)
+         Juventus (ITA)           1-1 (1-0)  ACF Fiorentina (ITA)
+[Thu Mar/20]
+  18.00  Anzhi Makhachkala (RUS)  0-0  AZ Alkmaar (NED)
+  19.00  Valencia CF (ESP)        1-0 (0-0)  PFC Ludogorets Razgrad (BUL)
+         Viktoria Plzeň (CZE)     2-1 (0-1)  Olympique Lyonnais (FRA)
+         SL Benfica (POR)         2-2 (1-0)  Tottenham Hotspur (ENG)
+         ACF Fiorentina (ITA)     0-1 (0-0)  Juventus (ITA)
+  21.05  SSC Napoli (ITA)         2-2 (1-0)  FC Porto (POR)
+         Real Betis (ESP)         3-4 pen. 0-2 a.e.t. (0-2, 0-1)  Sevilla FC (ESP)
+         RB Salzburg (AUT)        1-2 (1-0)  FC Basel 1893 (SUI)
+
+
+Quarterfinals
+[Thu Apr/3]
+  21.05  AZ Alkmaar (NED)         0-1 (0-0)  SL Benfica (POR)
+         Olympique Lyonnais (FRA)  0-1 (0-0)  Juventus (ITA)
+         FC Basel 1893 (SUI)      3-0 (2-0)  Valencia CF (ESP)
+         FC Porto (POR)           1-0 (1-0)  Sevilla FC (ESP)
+[Thu Apr/10]
+  21.05  SL Benfica (POR)         2-0 (1-0)  AZ Alkmaar (NED)
+         Juventus (ITA)           2-1 (1-1)  Olympique Lyonnais (FRA)
+         Valencia CF (ESP)        5-0 a.e.t. (3-0, 2-0)  FC Basel 1893 (SUI)
+         Sevilla FC (ESP)         4-1 (3-0)  FC Porto (POR)
+
+
+Semifinals
+[Thu Apr/24]
+  21.05  Sevilla FC (ESP)         2-0 (2-0)  Valencia CF (ESP)
+         SL Benfica (POR)         2-1 (1-0)  Juventus (ITA)
+[Thu May/1]
+  21.05  Valencia CF (ESP)        3-1 (2-0)  Sevilla FC (ESP)
+         Juventus (ITA)           0-0  SL Benfica (POR)
+
+
+Final
+[Wed May/14]
+  20.45  Sevilla FC (ESP)         4-2 pen. 0-0 a.e.t. (0-0)  SL Benfica (POR)

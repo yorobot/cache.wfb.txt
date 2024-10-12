@@ -1,0 +1,146 @@
+= UEFA CL 1997/98
+
+# Date       Wed Sep/17 1997 - Wed May/20 1998 (245d)
+# Teams      24
+# Matches    85
+
+
+
+Group
+[Wed Sep/17]
+         AC Sparta Praha (CZE)    0-0  Parma AC (ITA)
+         Galatasaray (TUR)        0-1 (0-0)  Borussia Dortmund (GER)
+[Wed Oct/1]
+         Parma AC (ITA)           2-0 (2-0)  Galatasaray (TUR)
+         Borussia Dortmund (GER)  4-1 (1-0)  AC Sparta Praha (CZE)
+[Wed Oct/22]
+         AC Sparta Praha (CZE)    3-0 (1-0)  Galatasaray (TUR)
+         Parma AC (ITA)           1-0 (0-0)  Borussia Dortmund (GER)
+[Wed Nov/5]
+         Galatasaray (TUR)        2-0 (0-0)  AC Sparta Praha (CZE)
+         Borussia Dortmund (GER)  2-0 (0-0)  Parma AC (ITA)
+[Thu Nov/27]
+         Parma AC (ITA)           2-2 (1-0)  AC Sparta Praha (CZE)
+         Borussia Dortmund (GER)  4-1 (2-0)  Galatasaray (TUR)
+[Wed Dec/10]
+         Galatasaray (TUR)        1-1 (0-0)  Parma AC (ITA)
+         AC Sparta Praha (CZE)    0-3 (0-1)  Borussia Dortmund (GER)
+[Wed Sep/17]
+         1. FC Košice (SVK)       0-3 (0-1)  Manchester United (ENG)
+         Juventus (ITA)           5-1 (3-0)  Feyenoord (NED)
+[Wed Oct/1]
+         Feyenoord (NED)          2-0 (2-0)  1. FC Košice (SVK)
+         Manchester United (ENG)  3-2 (1-1)  Juventus (ITA)
+[Wed Oct/22]
+         Manchester United (ENG)  2-1 (1-0)  Feyenoord (NED)
+         1. FC Košice (SVK)       0-1 (0-1)  Juventus (ITA)
+[Wed Nov/5]
+         Feyenoord (NED)          1-3 (0-2)  Manchester United (ENG)
+         Juventus (ITA)           3-2 (1-0)  1. FC Košice (SVK)
+[Wed Nov/26]
+         Feyenoord (NED)          2-0 (0-0)  Juventus (ITA)
+[Thu Nov/27]
+         Manchester United (ENG)  3-0 (1-0)  1. FC Košice (SVK)
+[Wed Dec/10]
+         1. FC Košice (SVK)       0-1 (0-0)  Feyenoord (NED)
+         Juventus (ITA)           1-0 (0-0)  Manchester United (ENG)
+[Wed Sep/17]
+         PSV Eindhoven (NED)      1-3 (1-1)  Dinamo Kiev (UKR)
+         Newcastle United (ENG)   3-2 (2-0)  FC Barcelona (ESP)
+[Wed Oct/1]
+         FC Barcelona (ESP)       2-2 (0-0)  PSV Eindhoven (NED)
+         Dinamo Kiev (UKR)        2-2 (2-0)  Newcastle United (ENG)
+[Wed Oct/22]
+         Dinamo Kiev (UKR)        3-0 (2-0)  FC Barcelona (ESP)
+         PSV Eindhoven (NED)      1-0 (1-0)  Newcastle United (ENG)
+[Wed Nov/5]
+         FC Barcelona (ESP)       0-4 (0-3)  Dinamo Kiev (UKR)
+         Newcastle United (ENG)   0-2 (0-1)  PSV Eindhoven (NED)
+[Wed Nov/26]
+         FC Barcelona (ESP)       1-0 (1-0)  Newcastle United (ENG)
+[Thu Nov/27]
+         Dinamo Kiev (UKR)        1-1 (1-0)  PSV Eindhoven (NED)
+[Wed Dec/10]
+         PSV Eindhoven (NED)      2-2 (0-1)  FC Barcelona (ESP)
+         Newcastle United (ENG)   2-0 (2-0)  Dinamo Kiev (UKR)
+[Wed Sep/17]
+         Real Madrid (ESP)        4-1 (3-1)  Rosenborg BK (NOR)
+         Olympiakos Piraeus (GRE)  1-0 (1-0)  FC Porto (POR)
+[Wed Oct/1]
+         FC Porto (POR)           0-2 (0-1)  Real Madrid (ESP)
+         Rosenborg BK (NOR)       5-1 (3-0)  Olympiakos Piraeus (GRE)
+[Wed Oct/22]
+         Rosenborg BK (NOR)       2-0 (2-0)  FC Porto (POR)
+         Real Madrid (ESP)        5-1 (2-1)  Olympiakos Piraeus (GRE)
+[Wed Nov/5]
+         FC Porto (POR)           1-1 (1-0)  Rosenborg BK (NOR)
+         Olympiakos Piraeus (GRE)  0-0  Real Madrid (ESP)
+[Thu Nov/27]
+         Rosenborg BK (NOR)       2-0 (1-0)  Real Madrid (ESP)
+         FC Porto (POR)           2-1 (1-1)  Olympiakos Piraeus (GRE)
+[Wed Dec/10]
+         Real Madrid (ESP)        4-0 (2-0)  FC Porto (POR)
+         Olympiakos Piraeus (GRE)  2-2 (0-0)  Rosenborg BK (NOR)
+[Wed Sep/17]
+         Bayern München (GER)     2-0 (1-0)  Beşiktaş (TUR)
+         Paris Saint-Germain (FRA)  3-0 (1-0)  IFK Göteborg (SWE)
+[Wed Oct/1]
+         Beşiktaş (TUR)           3-1 (2-0)  Paris Saint-Germain (FRA)
+         IFK Göteborg (SWE)       1-3 (0-2)  Bayern München (GER)
+[Wed Oct/22]
+         Beşiktaş (TUR)           1-0 (1-0)  IFK Göteborg (SWE)
+         Bayern München (GER)     5-1 (2-0)  Paris Saint-Germain (FRA)
+[Wed Nov/5]
+         IFK Göteborg (SWE)       2-1 (2-1)  Beşiktaş (TUR)
+         Paris Saint-Germain (FRA)  3-1 (1-1)  Bayern München (GER)
+[Wed Nov/26]
+         Beşiktaş (TUR)           0-2 (0-2)  Bayern München (GER)
+         IFK Göteborg (SWE)       0-1 (0-0)  Paris Saint-Germain (FRA)
+[Wed Dec/10]
+         Paris Saint-Germain (FRA)  2-1 (1-1)  Beşiktaş (TUR)
+         Bayern München (GER)     0-1 (0-0)  IFK Göteborg (SWE)
+[Wed Sep/17]
+         Sporting CP (POR)        3-0 (2-0)  AS Monaco (FRA)
+         Bayer Leverkusen (GER)   1-0 (1-0)  Lierse SK (BEL)
+[Wed Oct/1]
+         Lierse SK (BEL)          1-1 (0-0)  Sporting CP (POR)
+         AS Monaco (FRA)          4-0 (1-0)  Bayer Leverkusen (GER)
+[Wed Oct/22]
+         AS Monaco (FRA)          5-1 (1-0)  Lierse SK (BEL)
+         Sporting CP (POR)        0-2 (0-0)  Bayer Leverkusen (GER)
+[Wed Nov/5]
+         Lierse SK (BEL)          0-1 (0-0)  AS Monaco (FRA)
+         Bayer Leverkusen (GER)   4-1 (1-1)  Sporting CP (POR)
+[Wed Nov/26]
+         AS Monaco (FRA)          3-2 (0-2)  Sporting CP (POR)
+         Lierse SK (BEL)          0-2 (0-0)  Bayer Leverkusen (GER)
+[Wed Dec/10]
+         Sporting CP (POR)        2-1 (0-1)  Lierse SK (BEL)
+         Bayer Leverkusen (GER)   2-2 (1-0)  AS Monaco (FRA)
+
+
+Quarterfinals
+[Wed Mar/4]
+         Bayer Leverkusen (GER)   1-1 (1-0)  Real Madrid (ESP)
+         Juventus (ITA)           1-1 (0-0)  Dinamo Kiev (UKR)
+         Bayern München (GER)     0-0  Borussia Dortmund (GER)
+         AS Monaco (FRA)          0-0  Manchester United (ENG)
+[Wed Mar/18]
+         Real Madrid (ESP)        3-0 (0-0)  Bayer Leverkusen (GER)
+         Dinamo Kiev (UKR)        1-4 (0-1)  Juventus (ITA)
+         Borussia Dortmund (GER)  1-0 a.e.t. (0-0)  Bayern München (GER)
+         Manchester United (ENG)  1-1 (0-1)  AS Monaco (FRA)
+
+
+Semifinals
+[Wed Apr/1]
+         Juventus (ITA)           4-1 (2-1)  AS Monaco (FRA)
+         Real Madrid (ESP)        2-0 (1-0)  Borussia Dortmund (GER)
+[Wed Apr/15]
+         AS Monaco (FRA)          3-2 (1-1)  Juventus (ITA)
+         Borussia Dortmund (GER)  0-0  Real Madrid (ESP)
+
+
+Final
+[Wed May/20]
+  20.45  Real Madrid (ESP)        1-0 (0-0)  Juventus (ITA)

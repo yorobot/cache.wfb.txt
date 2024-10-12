@@ -1,0 +1,85 @@
+= SCO 1 2002
+
+# Date       Sat Apr/6 - Sun May/12 2002 (36d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat Apr/6]
+  12.00  Celtic FC                5-1 (4-0)  Livingston FC
+  15.00  Dunfermline Athletic     0-0  Aberdeen FC
+[Sun Apr/7]
+  15.00  Rangers FC               2-0 (1-0)  Heart of Midlothian
+
+
+Matchday 2
+[Sat Apr/13]
+  15.00  Aberdeen FC              2-3 (1-1)  Heart of Midlothian
+         Celtic FC                5-0 (2-0)  Dunfermline Athletic
+         Livingston FC            2-1 (1-1)  Rangers FC
+
+
+Matchday 3
+[Sat Apr/20]
+  15.00  Aberdeen FC              3-0 (3-0)  Livingston FC
+         Heart of Midlothian      2-0 (0-0)  Dunfermline Athletic
+[Sun Apr/21]
+  12.00  Celtic FC                1-1 (1-1)  Rangers FC
+
+
+Matchday 4
+[Sat Apr/27]
+  15.00  Rangers FC               2-0 (1-0)  Aberdeen FC
+[Sun Apr/28]
+  12.00  Livingston FC            4-1 (1-1)  Dunfermline Athletic
+  15.00  Heart of Midlothian      1-4 (1-2)  Celtic FC
+
+
+Matchday 5
+[Sun May/12]
+  13.30  Dunfermline Athletic     1-1 (0-1)  Rangers FC
+  15.00  Aberdeen FC              0-1 (0-0)  Celtic FC
+         Heart of Midlothian      2-3 (0-0)  Livingston FC
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/6]
+  15.00  Dundee FC                2-0 (1-0)  Kilmarnock FC
+         Motherwell FC            1-1 (0-1)  St. Johnstone FC
+[Sun Apr/7]
+  15.00  Dundee United            2-1 (1-0)  Hibernian FC
+
+
+Matchday 2
+[Sat Apr/13]
+  12.00  St. Johnstone FC         0-1 (0-0)  Dundee FC
+  15.00  Kilmarnock FC            1-0 (1-0)  Hibernian FC
+         Dundee United            1-0 (0-0)  Motherwell FC
+
+
+Matchday 3
+[Sat Apr/20]
+  15.00  Dundee FC                0-1 (0-1)  Dundee United
+         St. Johnstone FC         0-3 (0-0)  Kilmarnock FC
+[Sun Apr/21]
+  15.00  Hibernian FC             4-0 (2-0)  Motherwell FC
+
+
+Matchday 4
+[Sat Apr/27]
+  15.00  Hibernian FC             2-2 (1-1)  Dundee FC
+         Dundee United            0-0  St. Johnstone FC
+         Kilmarnock FC            1-4 (0-1)  Motherwell FC
+
+
+Matchday 5
+[Sun May/12]
+  15.00  Motherwell FC            2-1 (2-0)  Dundee FC
+         Kilmarnock FC            2-2 (1-0)  Dundee United
+         St. Johnstone FC         0-1 (0-1)  Hibernian FC

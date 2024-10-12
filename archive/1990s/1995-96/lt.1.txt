@@ -1,0 +1,400 @@
+= LT 1 1995/96
+
+# Date       Sat Jul/15 1995 - Sun Jun/16 1996 (337d)
+# Teams      18
+# Matches    207
+# Stages     Regular Season (109)  Championship (56)  Relegation (42)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Jul/15]
+  17.45  Lokomotyvas Vilnius      1-3  Inkaras Kaunas
+[Sun Jul/16]
+  20.00  Tauras Tauragė           0-1  Mastis Telšiai
+         JR Klaipėda              -  Romar Mažeikiai          [cancelled]
+         FBK Kaunas               3-1  FK Ekranas
+         Banga Gargždai           0-3  PSK Aras Klaipeda
+         FK Žalgiris B            0-1  FK Zalgiris-EBSW Vilnius
+[Wed Jul/19]
+  20.00  Lokomotyvas Vilnius      0-2  FK Panerys
+[Thu Jul/20]
+  20.00  Romar Mažeikiai          -  Mastis Telšiai           [cancelled]
+         FBK Kaunas               1-2  JR Klaipėda
+         Kareda-Sakalas Šiauliai  2-0  FK Ukmergė
+         FK Ekranas               3-2  Banga Gargždai
+         PSK Aras Klaipeda        1-0  FK Žalgiris B
+         FK Zalgiris-EBSW Vilnius  7-0  Tauras Tauragė
+[Tue Jul/25]
+  20.00  FK Ukmergė               2-2  FK Ekranas
+         Tauras Tauragė           -  Romar Mažeikiai          [cancelled]
+         Kareda-Sakalas Šiauliai  3-0  JR Klaipėda
+         Inkaras Kaunas           0-0  FK Zalgiris-EBSW Vilnius
+         PSK Aras Klaipeda        0-0  Lokomotyvas Vilnius
+         FK Žalgiris B            1-6  FBK Kaunas
+[Thu Jul/27]
+  20.00  FK Panerys               2-0  Mastis Telšiai
+
+
+Matchday 2
+[Thu Aug/3]
+  19.30  Romar Mažeikiai          -  Inkaras Kaunas           [cancelled]
+         FK Panerys               6-0  Tauras Tauragė
+         Mastis Telšiai           1-3  PSK Aras Klaipeda
+         Banga Gargždai           2-1  FK Ukmergė
+  20.00  FK Zalgiris-EBSW Vilnius  5-2  Lokomotyvas Vilnius
+[Sat Aug/5]
+  19.30  FK Žalgiris B            0-3  Kareda-Sakalas Šiauliai
+[Sun Aug/6]
+  19.30  JR Klaipėda              2-1  FK Ekranas
+[Fri Aug/11]
+  19.30  JR Klaipėda              1-1  Banga Gargždai
+[Sat Aug/12]
+  19.15  FK Ekranas               2-2  FK Žalgiris B
+  19.30  Mastis Telšiai           1-4  FBK Kaunas
+         Lokomotyvas Vilnius      0-1  Kareda-Sakalas Šiauliai
+         Inkaras Kaunas           3-0  FK Panerys
+         PSK Aras Klaipeda        5-0  Tauras Tauragė
+[Fri Aug/18]
+  19.30  Mastis Telšiai           0-4  Kareda-Sakalas Šiauliai
+         FK Ekranas               3-2  Lokomotyvas Vilnius
+[Sat Aug/19]
+  19.30  Banga Gargždai           2-1  FK Žalgiris B
+[Sun Aug/20]
+  19.30  FK Ukmergė               2-1  JR Klaipėda
+         Tauras Tauragė           2-4  FBK Kaunas
+         FK Panerys               2-3  FK Zalgiris-EBSW Vilnius
+[Tue Aug/29]
+  19.15  FBK Kaunas               3-0  Lokomotyvas Vilnius
+  19.30  FK Ukmergė               0-4  FK Panerys
+         PSK Aras Klaipeda        1-2  Inkaras Kaunas
+
+
+Matchday 3
+[Mon Sep/4]
+  19.00  Tauras Tauragė           1-0  JR Alsa Vilnius
+[Sat Sep/9]
+  19.00  FK Ukmergė               0-5  FK Žalgiris B
+         Lokomotyvas Vilnius      1-2  Banga Gargždai
+[Sun Sep/10]
+  19.00  Tauras Tauragė           0-6  Kareda-Sakalas Šiauliai
+         JR Klaipėda              2-0  JR Alsa Vilnius
+         Inkaras Kaunas           0-0  FBK Kaunas
+         FK Ekranas               2-0  Mastis Telšiai
+         FK Zalgiris-EBSW Vilnius  5-1  PSK Aras Klaipeda
+[Sat Sep/16]
+  18.00  FK Ekranas               7-0  Tauras Tauragė
+  18.30  Inkaras Kaunas           3-1  Kareda-Sakalas Šiauliai
+         FK Žalgiris B            2-0  JR Klaipėda
+[Sun Sep/17]
+  18.30  Lokomotyvas Vilnius      0-0  FK Ukmergė
+         Banga Gargždai           1-1  Mastis Telšiai
+         PSK Aras Klaipeda        1-0  JR Alsa Vilnius
+[Mon Sep/18]
+  19.30  FBK Kaunas               1-2  FK Zalgiris-EBSW Vilnius
+[Fri Sep/22]
+  18.00  Inkaras Kaunas           2-1  FK Ekranas
+[Sat Sep/23]
+  15.00  JR Klaipėda              1-2  Lokomotyvas Vilnius
+  17.00  Mastis Telšiai           0-0  FK Ukmergė
+         Kareda-Sakalas Šiauliai  0-1  FK Zalgiris-EBSW Vilnius
+         Banga Gargždai           1-1  Tauras Tauragė
+  17.30  FK Panerys               0-2  PSK Aras Klaipeda
+  18.00  FBK Kaunas               2-0  JR Alsa Vilnius
+[Tue Sep/26]
+  18.00  JR Alsa Vilnius          0-2  FK Panerys
+[Sat Sep/30]
+  17.00  Lokomotyvas Vilnius      1-1  FK Žalgiris B
+
+
+Matchday 4
+[Sun Oct/1]
+  17.00  Tauras Tauragė           2-0  FK Ukmergė
+         Mastis Telšiai           0-1  JR Klaipėda
+         FBK Kaunas               2-1  FK Panerys
+         Banga Gargždai           2-4  Inkaras Kaunas
+         JR Alsa Vilnius          1-3  Kareda-Sakalas Šiauliai
+[Mon Oct/2]
+  16.30  FK Zalgiris-EBSW Vilnius  5-0  FK Ekranas
+[Fri Oct/6]
+  16.30  FK Ukmergė               0-6  Inkaras Kaunas
+         Kareda-Sakalas Šiauliai  2-0  FK Panerys
+         FK Ekranas               3-0  JR Alsa Vilnius
+         PSK Aras Klaipeda        2-0  FBK Kaunas
+         FK Zalgiris-EBSW Vilnius  4-0  Banga Gargždai
+[Sat Oct/7]
+  16.30  JR Klaipėda              2-0  Tauras Tauragė
+         FK Žalgiris B            2-2  Mastis Telšiai
+[Wed Oct/11]
+  17.00  JR Alsa Vilnius          0-6  Mastis Telšiai
+[Fri Oct/13]
+  16.00  Mastis Telšiai           1-2  Lokomotyvas Vilnius
+[Sat Oct/14]
+  14.00  FK Panerys               2-1  FK Ekranas
+  16.00  FK Ukmergė               0-4  FK Zalgiris-EBSW Vilnius
+         Kareda-Sakalas Šiauliai  0-2  PSK Aras Klaipeda
+         Inkaras Kaunas           2-0  JR Klaipėda
+         JR Alsa Vilnius          2-1  Banga Gargždai
+         FK Žalgiris B            2-0  Tauras Tauragė
+[Sun Oct/22]
+  14.00  FK Žalgiris B            0-2  Inkaras Kaunas
+  15.30  Tauras Tauragė           2-0  Lokomotyvas Vilnius
+         Kareda-Sakalas Šiauliai  3-2  FBK Kaunas
+         FK Ekranas               2-1  PSK Aras Klaipeda
+         JR Alsa Vilnius          0-2  FK Ukmergė
+[Mon Oct/23]
+  15.30  FK Zalgiris-EBSW Vilnius  3-0  JR Klaipėda
+[Tue Oct/24]
+  16.00  FK Panerys               3-0  Banga Gargždai
+[Thu Oct/26]
+  16.00  JR Alsa Vilnius          0-1  Inkaras Kaunas
+
+
+Matchday 5
+[Fri Nov/3]
+  15.00  FK Zalgiris-EBSW Vilnius  9-0  JR Alsa Vilnius
+[Sat Nov/4]
+  15.00  JR Klaipėda              0-3  FK Panerys
+         FBK Kaunas               3-0  Banga Gargždai
+         Kareda-Sakalas Šiauliai  2-1  FK Ekranas
+[Sun Nov/5]
+  15.00  Inkaras Kaunas           5-1  Mastis Telšiai
+         PSK Aras Klaipeda        4-0  FK Ukmergė
+[Tue Nov/7]
+  17.00  JR Alsa Vilnius          0-3  FK Žalgiris B
+[Fri Nov/10]
+  15.00  Mastis Telšiai           1-14  FK Zalgiris-EBSW Vilnius
+[Sat Nov/11]
+  15.00  FK Ukmergė               0-2  FBK Kaunas
+         Tauras Tauragė           0-4  Inkaras Kaunas
+         FK Panerys               1-3  FK Žalgiris B
+         JR Klaipėda              0-5  PSK Aras Klaipeda
+         Banga Gargždai           0-5  Kareda-Sakalas Šiauliai
+[Sun Nov/12]
+  15.00  Lokomotyvas Vilnius      2-1  JR Alsa Vilnius
+
+
+== Championship
+
+Matchday 1
+[Sat Mar/30]
+  14.00  FK Žalgiris B            0-6  FK Zalgiris
+[Sun Mar/31]
+  16.00  FBK Kaunas               1-0  PSK Aras Klaipeda
+         FK Ekranas               0-2  Inkaras Kaunas
+  16.30  FK Panerys               0-7  FK Kareda Siauliai
+
+
+Matchday 2
+[Sat Apr/6]
+  16.00  FK Kareda Siauliai       5-2  FBK Kaunas
+         Inkaras Kaunas           4-0  FK Panerys
+         FK Ekranas               1-1  FK Zalgiris
+         PSK Aras Klaipeda        2-0  FK Žalgiris B
+
+
+Matchday 3
+[Sat Apr/13]
+  16.00  FK Žalgiris B            2-2  FK Ekranas
+[Sun Apr/14]
+  16.00  Inkaras Kaunas           2-0  FBK Kaunas
+         PSK Aras Klaipeda        0-1  FK Kareda Siauliai
+         FK Zalgiris              5-0  FK Panerys
+
+
+Matchday 4
+[Fri Apr/19]
+  16.00  FK Zalgiris              3-0  FBK Kaunas
+  18.00  FK Kareda Siauliai       3-0  FK Žalgiris B
+         Inkaras Kaunas           1-0  PSK Aras Klaipeda
+[Sat Apr/20]
+  16.00  FK Panerys               1-0  FK Ekranas
+
+
+Matchday 5
+[Sat Apr/27]
+  18.00  FK Panerys               1-0  FK Žalgiris B
+[Sun Apr/28]
+  16.00  Inkaras Kaunas           0-0  FK Kareda Siauliai
+         FK Ekranas               2-2  FBK Kaunas
+         FK Zalgiris              5-1  PSK Aras Klaipeda
+
+
+Matchday 6
+[Wed May/1]
+  19.00  FBK Kaunas               1-0  FK Panerys
+         FK Kareda Siauliai       1-1  FK Zalgiris
+         PSK Aras Klaipeda        1-1  FK Ekranas
+         FK Žalgiris B            0-3  Inkaras Kaunas
+
+
+Matchday 7
+[Sun May/5]
+  16.00  FBK Kaunas               2-0  FK Žalgiris B
+         PSK Aras Klaipeda        1-2  FK Panerys
+  18.00  FK Kareda Siauliai       3-1  FK Ekranas
+         FK Zalgiris              1-3  Inkaras Kaunas
+
+
+Matchday 8
+[Sat May/11]
+  18.30  Inkaras Kaunas           2-0  FK Ekranas
+         PSK Aras Klaipeda        1-3  FBK Kaunas
+  19.00  FK Kareda Siauliai       4-1  FK Panerys
+         FK Zalgiris              9-1  FK Žalgiris B
+
+
+Matchday 9
+[Sun May/19]
+  15.00  FK Žalgiris B            0-0  PSK Aras Klaipeda
+  17.00  FK Panerys               0-3  Inkaras Kaunas
+  19.30  FBK Kaunas               0-1  FK Kareda Siauliai
+         FK Zalgiris              3-0  FK Ekranas
+
+
+Matchday 10
+[Sat May/25]
+  19.30  FK Kareda Siauliai       3-0  PSK Aras Klaipeda
+         FK Ekranas               1-1  FK Žalgiris B
+[Sun May/26]
+  19.00  FBK Kaunas               0-1  Inkaras Kaunas
+  19.30  FK Panerys               2-2  FK Zalgiris
+
+
+Matchday 11
+[Thu May/30]
+  17.00  FK Žalgiris B            0-1  FK Kareda Siauliai
+  19.30  FBK Kaunas               0-1  FK Zalgiris
+         FK Ekranas               1-0  FK Panerys
+         PSK Aras Klaipeda        0-2  Inkaras Kaunas
+
+
+Matchday 12
+[Tue Jun/4]
+  19.00  FBK Kaunas               1-1  FK Ekranas
+  19.30  FK Kareda Siauliai       1-0  Inkaras Kaunas
+         PSK Aras Klaipeda        3-4  FK Zalgiris
+         FK Žalgiris B            1-2  FK Panerys
+
+
+Matchday 13
+[Sun Jun/9]
+  17.30  FK Panerys               2-1  FBK Kaunas
+  19.00  FK Ekranas               0-1  PSK Aras Klaipeda
+  19.30  Inkaras Kaunas           5-0  FK Žalgiris B
+  20.00  FK Zalgiris              2-1  FK Kareda Siauliai
+
+
+Matchday 14
+[Thu Jun/13]
+  19.30  FK Panerys               1-1  PSK Aras Klaipeda
+         Inkaras Kaunas           2-0  FK Zalgiris
+         FK Ekranas               0-1  FK Kareda Siauliai
+         FK Žalgiris B            1-2  FBK Kaunas
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/6]
+  16.30  FK Ukmergė               0-1  Lokomotyvas Vilnius
+[Mon Apr/8]
+  16.30  Banga Gargždai           2-1  JR Alsa Vilnius
+[Wed May/15]
+  19.00  Mastis Telšiai           1-1  Tauras Tauragė
+
+
+Matchday 2
+[Sat Apr/13]
+  16.00  FK Ukmergė               0-0  Tauras Tauragė
+  17.00  JR Klaipėda              0-1  Banga Gargždai
+[Mon Apr/15]
+  17.00  JR Alsa Vilnius          0-1  Lokomotyvas Vilnius
+
+
+Matchday 3
+[Sun Apr/21]
+  16.30  Tauras Tauragė           1-1  JR Alsa Vilnius
+         Mastis Telšiai           0-1  FK Ukmergė
+         Lokomotyvas Vilnius      4-1  JR Klaipėda
+
+
+Matchday 4
+[Fri Apr/26]
+  18.00  JR Alsa Vilnius          1-1  Mastis Telšiai
+[Sat Apr/27]
+  17.00  Banga Gargždai           3-2  Lokomotyvas Vilnius
+[Tue Apr/30]
+  17.00  Tauras Tauragė           0-0  JR Klaipėda
+
+
+Matchday 5
+[Sat May/4]
+  17.00  FK Ukmergė               1-1  JR Alsa Vilnius
+         Tauras Tauragė           1-0  Banga Gargždai
+         JR Klaipėda              0-5  Mastis Telšiai
+
+
+Matchday 6
+[Wed May/8]
+  19.00  Lokomotyvas Vilnius      0-1  Tauras Tauragė
+         JR Klaipėda              0-2  FK Ukmergė
+         Banga Gargždai           1-1  Mastis Telšiai
+
+
+Matchday 7
+[Sun May/12]
+  18.00  FK Ukmergė               5-2  Banga Gargždai
+         Mastis Telšiai           1-3  Lokomotyvas Vilnius
+         JR Alsa Vilnius          1-1  JR Klaipėda
+
+
+Matchday 8
+[Sun May/19]
+  18.30  Tauras Tauragė           0-0  Mastis Telšiai
+         Lokomotyvas Vilnius      4-1  FK Ukmergė
+         JR Alsa Vilnius          0-0  Banga Gargždai
+
+
+Matchday 9
+[Tue May/21]
+  19.00  Tauras Tauragė           2-0  FK Ukmergė
+[Sat May/25]
+  19.00  Lokomotyvas Vilnius      1-0  JR Alsa Vilnius
+         Banga Gargždai           1-0  JR Klaipėda
+
+
+Matchday 10
+[Wed May/29]
+  19.30  FK Ukmergė               2-1  Mastis Telšiai
+         JR Klaipėda              0-5  Lokomotyvas Vilnius
+         JR Alsa Vilnius          0-1  Tauras Tauragė
+
+
+Matchday 11
+[Sun Jun/2]
+  19.00  Mastis Telšiai           0-0  JR Alsa Vilnius
+         Lokomotyvas Vilnius      1-2  Banga Gargždai
+         JR Klaipėda              0-0  Tauras Tauragė
+
+
+Matchday 12
+[Fri Jun/7]
+  19.30  Mastis Telšiai           3-0  JR Klaipėda
+         Banga Gargždai           1-0  Tauras Tauragė
+         JR Alsa Vilnius          2-1  FK Ukmergė
+
+
+Matchday 13
+[Wed Jun/12]
+  19.30  FK Ukmergė               5-1  JR Klaipėda
+         Tauras Tauragė           2-0  Lokomotyvas Vilnius
+         Mastis Telšiai           0-3  Banga Gargždai
+
+
+Matchday 14
+[Sun Jun/16]
+  17.00  Lokomotyvas Vilnius      2-0  Mastis Telšiai
+         JR Klaipėda              0-2  JR Alsa Vilnius
+         Banga Gargždai           1-0  FK Ukmergė

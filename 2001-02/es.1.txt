@@ -1,0 +1,579 @@
+= ES 1 2001/02
+
+# Date       Sat Aug/25 2001 - Sat May/11 2002 (259d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sat Aug/25]
+         Valencia CF              1-0 (1-0)  Real Madrid
+[Sun Aug/26]
+         RCD Mallorca             0-3 (0-1)  UD Las Palmas
+         Deportivo La Coruña      4-0 (1-0)  Real Valladolid
+         Espanyol Barcelona       2-1 (1-1)  Real Zaragoza
+         Real Sociedad            1-3 (1-1)  Athletic Bilbao
+         Sevilla FC               1-2 (0-1)  FC Barcelona
+         CD Tenerife              0-2 (0-1)  CD Alavés
+         CA Osasuna               0-3 (0-1)  RC Celta
+         Rayo Vallecano           1-2 (1-2)  Villarreal CF
+         Málaga CF                3-2 (1-1)  Real Betis
+
+
+Matchday 2
+[Sat Sep/8]
+         Athletic Bilbao          0-1 (0-0)  RCD Mallorca
+         Real Madrid              1-1 (1-0)  Málaga CF
+         Villarreal CF            3-0 (1-0)  CA Osasuna
+         UD Las Palmas            0-1 (0-0)  Deportivo La Coruña
+[Sun Sep/9]
+         Real Zaragoza            1-1 (0-0)  Sevilla FC
+         Real Valladolid          1-1 (1-0)  Valencia CF
+         Real Betis               2-0 (2-0)  Espanyol Barcelona
+         FC Barcelona             1-1 (0-0)  Rayo Vallecano
+         CD Alavés                2-0 (1-0)  Real Sociedad
+         RC Celta                 3-0 (2-0)  CD Tenerife
+
+
+Matchday 3
+[Sat Sep/15]
+         Real Betis               3-1 (1-1)  Real Madrid
+         RCD Mallorca             0-0  CD Alavés
+         CA Osasuna               0-0  FC Barcelona
+         Deportivo La Coruña      1-2 (0-1)  Athletic Bilbao
+[Sun Sep/16]
+         CD Tenerife              2-0 (1-0)  Villarreal CF
+         Espanyol Barcelona       2-3 (1-1)  Sevilla FC
+         Málaga CF                1-2 (0-1)  Real Valladolid
+         Valencia CF              1-0 (0-0)  UD Las Palmas
+         Rayo Vallecano           1-2 (1-0)  Real Zaragoza
+         Real Sociedad            0-0  RC Celta
+
+
+Matchday 4
+[Sat Sep/22]
+         FC Barcelona             2-0 (1-0)  CD Tenerife
+         UD Las Palmas            0-0  Málaga CF
+         Real Madrid              5-1 (3-0)  Espanyol Barcelona
+         CD Alavés                2-3 (0-1)  Deportivo La Coruña
+         Villarreal CF            1-0 (0-0)  Real Sociedad
+[Sun Sep/23]
+         Athletic Bilbao          2-2 (0-1)  Valencia CF
+         RC Celta                 2-0 (1-0)  RCD Mallorca
+         Real Zaragoza            0-1 (0-1)  CA Osasuna
+         Real Valladolid          0-2 (0-0)  Real Betis
+         Sevilla FC               2-1 (0-1)  Rayo Vallecano
+
+
+Matchday 5
+[Sat Sep/29]
+         Espanyol Barcelona       3-1 (1-0)  Rayo Vallecano
+         Málaga CF                1-2 (0-1)  Athletic Bilbao
+         Real Sociedad            0-2 (0-1)  FC Barcelona
+         Real Madrid              2-2 (2-1)  Real Valladolid
+[Sun Sep/30]
+         Valencia CF              0-0  CD Alavés
+         Real Betis               1-0 (0-0)  UD Las Palmas
+         RCD Mallorca             0-1 (0-1)  Villarreal CF
+         CA Osasuna               1-0 (0-0)  Sevilla FC
+         CD Tenerife              0-0  Real Zaragoza
+         Deportivo La Coruña      2-2 (0-1)  RC Celta
+
+
+Matchday 6
+[Wed Oct/3]
+         Athletic Bilbao          0-0  Real Betis
+         Rayo Vallecano           0-1 (0-1)  CA Osasuna
+         Real Zaragoza            3-2 (1-1)  Real Sociedad
+         UD Las Palmas            4-2 (2-2)  Real Madrid
+         Real Valladolid          0-1 (0-1)  Espanyol Barcelona
+         FC Barcelona             3-0 (3-0)  RCD Mallorca
+         Sevilla FC               2-0 (1-0)  CD Tenerife
+         CD Alavés                1-0 (0-0)  Málaga CF
+         Villarreal CF            1-1 (1-0)  Deportivo La Coruña
+[Thu Oct/4]
+         RC Celta                 1-1 (0-1)  Valencia CF
+
+
+Matchday 7
+[Sat Oct/6]
+         Deportivo La Coruña      2-1 (0-1)  FC Barcelona
+         Real Madrid              2-0 (0-0)  Athletic Bilbao
+[Sun Oct/7]
+         RCD Mallorca             0-1 (0-0)  Real Zaragoza
+         Espanyol Barcelona       1-1 (0-0)  CA Osasuna
+         Real Valladolid          1-0 (1-0)  UD Las Palmas
+         Real Sociedad            3-3 (2-0)  Sevilla FC
+         Málaga CF                2-2 (2-2)  RC Celta
+         Valencia CF              1-0 (1-0)  Villarreal CF
+         CD Tenerife              3-1 (1-1)  Rayo Vallecano
+         Real Betis               1-0 (0-0)  CD Alavés
+
+
+Matchday 8
+[Sat Oct/13]
+         Real Zaragoza            1-2 (0-1)  Deportivo La Coruña
+         Sevilla FC               2-2 (2-2)  RCD Mallorca
+         CD Alavés                0-0  Real Madrid
+[Sun Oct/14]
+         Athletic Bilbao          1-4 (0-2)  Real Valladolid
+         RC Celta                 3-1 (2-0)  Real Betis
+         Villarreal CF            1-2 (1-1)  Málaga CF
+         FC Barcelona             2-2 (1-1)  Valencia CF
+         Rayo Vallecano           2-1 (1-1)  Real Sociedad
+         CA Osasuna               0-2 (0-0)  CD Tenerife
+         UD Las Palmas            2-0 (0-0)  Espanyol Barcelona
+
+
+Matchday 9
+[Sat Oct/20]
+         Real Betis               1-1 (0-1)  Villarreal CF
+         UD Las Palmas            1-1 (0-1)  Athletic Bilbao
+         Real Sociedad            2-1 (0-1)  CA Osasuna
+         Málaga CF                1-1 (0-0)  FC Barcelona
+         Deportivo La Coruña      1-0 (1-0)  Sevilla FC
+[Sun Oct/21]
+         Espanyol Barcelona       2-0 (2-0)  CD Tenerife
+         Real Valladolid          1-3 (0-2)  CD Alavés
+         Real Madrid              1-1 (1-1)  RC Celta
+         Valencia CF              2-0 (1-0)  Real Zaragoza
+         RCD Mallorca             3-0 (1-0)  Rayo Vallecano
+
+
+Matchday 10
+[Sat Oct/27]
+         Rayo Vallecano           2-1 (0-0)  Deportivo La Coruña
+         FC Barcelona             3-0 (1-0)  Real Betis
+         CD Tenerife              0-1 (0-1)  Real Sociedad
+         CA Osasuna               4-0 (2-0)  RCD Mallorca
+         Villarreal CF            2-3 (1-0)  Real Madrid
+[Sun Oct/28]
+         Athletic Bilbao          1-1 (1-0)  Espanyol Barcelona
+         RC Celta                 1-1 (0-0)  Real Valladolid
+         Real Zaragoza            0-2 (0-1)  Málaga CF
+         Sevilla FC               1-1 (0-1)  Valencia CF
+         CD Alavés                1-0 (1-0)  UD Las Palmas
+
+
+Matchday 11
+[Sat Nov/3]
+         Athletic Bilbao          2-1 (2-0)  CD Alavés
+[Sun Nov/4]
+         Real Valladolid          1-0 (1-0)  Villarreal CF
+         RCD Mallorca             2-0 (1-0)  CD Tenerife
+         Espanyol Barcelona       1-2 (1-1)  Real Sociedad
+         UD Las Palmas            4-2 (3-1)  RC Celta
+         Real Betis               0-1 (0-0)  Real Zaragoza
+         Real Madrid              2-0 (1-0)  FC Barcelona
+         Málaga CF                1-3 (1-1)  Sevilla FC
+         Valencia CF              2-1 (1-1)  Rayo Vallecano
+         Deportivo La Coruña      5-1 (4-1)  CA Osasuna
+
+
+Matchday 12
+[Sat Nov/10]
+         Sevilla FC               0-0  Real Betis
+[Sun Nov/11]
+         FC Barcelona             4-0 (2-0)  Real Valladolid
+         Rayo Vallecano           3-0 (2-0)  Málaga CF
+         RC Celta                 2-3 (1-0)  Athletic Bilbao
+         Real Zaragoza            2-1 (1-0)  Real Madrid
+         Real Sociedad            1-2 (0-0)  RCD Mallorca
+         CD Tenerife              3-1 (1-1)  Deportivo La Coruña
+         CA Osasuna               0-0  Valencia CF
+         CD Alavés                2-1 (0-1)  Espanyol Barcelona
+         Villarreal CF            2-0 (1-0)  UD Las Palmas
+
+
+Matchday 13
+[Sat Nov/17]
+         UD Las Palmas            0-0  FC Barcelona
+         Real Madrid              2-1 (1-0)  Sevilla FC
+         Deportivo La Coruña      3-1 (1-1)  Real Sociedad
+[Sun Nov/18]
+         Valencia CF              0-0  CD Tenerife
+         Athletic Bilbao          0-0  Villarreal CF
+         Espanyol Barcelona       2-1 (1-1)  RCD Mallorca
+         Real Betis               2-0 (0-0)  Rayo Vallecano
+         Málaga CF                2-1 (2-0)  CA Osasuna
+         CD Alavés                1-0 (1-0)  RC Celta
+         Real Valladolid          2-0 (1-0)  Real Zaragoza
+
+
+Matchday 14
+[Sat Nov/24]
+         FC Barcelona             1-2 (0-1)  Athletic Bilbao
+[Sun Nov/25]
+         CD Tenerife              1-0 (0-0)  Málaga CF
+         RC Celta                 4-1 (2-1)  Espanyol Barcelona
+         Real Zaragoza            2-1 (1-0)  UD Las Palmas
+         Sevilla FC               4-0 (1-0)  Real Valladolid
+         Real Sociedad            2-0 (1-0)  Valencia CF
+         RCD Mallorca             4-1 (2-1)  Deportivo La Coruña
+         CA Osasuna               1-2 (0-0)  Real Betis
+         Rayo Vallecano           0-3 (0-2)  Real Madrid
+         Villarreal CF            1-0 (1-0)  CD Alavés
+
+
+Matchday 15
+[Sat Dec/1]
+         Real Madrid              2-1 (2-0)  CA Osasuna
+         Valencia CF              1-1 (0-1)  RCD Mallorca
+         CD Alavés                2-0 (1-0)  FC Barcelona
+         Espanyol Barcelona       1-0 (0-0)  Deportivo La Coruña
+[Sun Dec/2]
+         RC Celta                 3-1 (1-0)  Villarreal CF
+         Athletic Bilbao          2-1 (1-0)  Real Zaragoza
+         UD Las Palmas            1-0 (0-0)  Sevilla FC
+         Real Valladolid          3-1 (2-1)  Rayo Vallecano
+         Real Betis               1-0 (0-0)  CD Tenerife
+         Málaga CF                1-0 (1-0)  Real Sociedad
+
+
+Matchday 16
+[Sat Dec/8]
+         CD Tenerife              0-2 (0-1)  Real Madrid
+         Sevilla FC               3-3 (0-0)  Athletic Bilbao
+[Sun Dec/9]
+         Real Sociedad            0-0  Real Betis
+         Deportivo La Coruña      1-0 (0-0)  Valencia CF
+         Real Zaragoza            0-2 (0-1)  CD Alavés
+         FC Barcelona             2-2 (1-0)  RC Celta
+         RCD Mallorca             1-1 (1-1)  Málaga CF
+         CA Osasuna               1-0 (0-0)  Real Valladolid
+         Rayo Vallecano           0-0  UD Las Palmas
+         Villarreal CF            1-1 (1-1)  Espanyol Barcelona
+
+
+Matchday 17
+[Sat Dec/15]
+         Espanyol Barcelona       2-3 (2-0)  Valencia CF
+         Real Madrid              3-1 (1-1)  Real Sociedad
+         UD Las Palmas            1-1 (0-1)  CA Osasuna
+[Sun Dec/16]
+         Athletic Bilbao          1-1 (0-0)  Rayo Vallecano
+         Real Betis               1-0 (1-0)  RCD Mallorca
+         Real Valladolid          0-0  CD Tenerife
+         Málaga CF                1-1 (1-0)  Deportivo La Coruña
+         CD Alavés                0-1 (0-0)  Sevilla FC
+         Villarreal CF            0-1 (0-1)  FC Barcelona
+         RC Celta                 2-0 (1-0)  Real Zaragoza
+
+
+Matchday 18
+[Sat Dec/22]
+         Real Sociedad            6-0 (1-0)  Real Valladolid
+         CD Tenerife              1-3 (0-1)  UD Las Palmas
+         Espanyol Barcelona       2-0 (0-0)  FC Barcelona
+         Sevilla FC               0-1 (0-0)  RC Celta
+         Valencia CF              2-1 (2-1)  Málaga CF
+         Deportivo La Coruña      2-0 (1-0)  Real Betis
+[Sun Dec/23]
+         RCD Mallorca             1-1 (0-0)  Real Madrid
+         CA Osasuna               0-1 (0-0)  Athletic Bilbao
+         Real Zaragoza            3-2 (2-0)  Villarreal CF
+
+
+Matchday 19
+[Sat Jan/5]
+         Villarreal CF            0-2 (0-1)  Sevilla FC
+         RC Celta                 2-2 (0-1)  Rayo Vallecano
+         UD Las Palmas            0-0  Real Sociedad
+         Real Madrid              3-1 (2-1)  Deportivo La Coruña
+[Sun Jan/6]
+         Real Valladolid          2-1 (1-0)  RCD Mallorca
+         FC Barcelona             2-0 (1-0)  Real Zaragoza
+         Athletic Bilbao          1-2 (0-0)  CD Tenerife
+         Real Betis               1-3 (1-2)  Valencia CF
+         Málaga CF                2-0 (1-0)  Espanyol Barcelona
+         CD Alavés                0-2 (0-0)  CA Osasuna
+
+
+Matchday 20
+[Sat Jan/12]
+         Villarreal CF            1-1 (0-0)  Rayo Vallecano
+         Athletic Bilbao          2-1 (1-1)  Real Sociedad
+[Sun Jan/13]
+         Real Madrid              1-0 (0-0)  Valencia CF
+         UD Las Palmas            3-1 (1-0)  RCD Mallorca
+         Real Valladolid          3-0 (2-0)  Deportivo La Coruña
+         Real Zaragoza            0-0  Espanyol Barcelona
+         FC Barcelona             3-1 (1-1)  Sevilla FC
+         RC Celta                 1-1 (1-0)  CA Osasuna
+         CD Alavés                1-0 (1-0)  CD Tenerife
+         Real Betis               1-1 (0-0)  Málaga CF
+
+
+Matchday 21
+[Sat Jan/19]
+         Málaga CF                1-1 (1-0)  Real Madrid
+         Real Sociedad            1-2 (1-0)  CD Alavés
+[Sun Jan/20]
+         Rayo Vallecano           2-1 (1-0)  FC Barcelona
+         RCD Mallorca             3-0 (1-0)  Athletic Bilbao
+         CD Tenerife              1-1 (1-0)  RC Celta
+         Sevilla FC               4-2 (1-1)  Real Zaragoza
+         CA Osasuna               2-2 (2-1)  Villarreal CF
+         Valencia CF              1-2 (1-2)  Real Valladolid
+         Espanyol Barcelona       1-1 (0-0)  Real Betis
+         Deportivo La Coruña      1-0 (0-0)  UD Las Palmas
+
+
+Matchday 18
+[Wed Jan/23]
+         Rayo Vallecano           2-0 (0-0)  CD Alavés
+
+
+Matchday 22
+[Sat Jan/26]
+         RC Celta                 3-1 (0-1)  Real Sociedad
+         UD Las Palmas            0-1 (0-1)  Valencia CF
+[Sun Jan/27]
+         Sevilla FC               3-0 (0-0)  Espanyol Barcelona
+         Real Madrid              1-1 (1-0)  Real Betis
+         Real Valladolid          0-0  Málaga CF
+         CD Alavés                0-4 (0-2)  RCD Mallorca
+         FC Barcelona             0-1 (0-0)  CA Osasuna
+         Athletic Bilbao          1-1 (0-0)  Deportivo La Coruña
+         Real Zaragoza            3-2 (0-1)  Rayo Vallecano
+         Villarreal CF            2-1 (2-0)  CD Tenerife
+
+
+Matchday 23
+[Sat Feb/2]
+         CD Tenerife              0-6 (0-2)  FC Barcelona
+         RCD Mallorca             0-1 (0-1)  RC Celta
+         Rayo Vallecano           2-1 (2-1)  Sevilla FC
+         Deportivo La Coruña      0-1 (0-1)  CD Alavés
+         Real Sociedad            2-1 (0-0)  Villarreal CF
+[Sun Feb/3]
+         CA Osasuna               0-0  Real Zaragoza
+         Málaga CF                1-1 (0-1)  UD Las Palmas
+         Real Betis               2-0 (1-0)  Real Valladolid
+         Espanyol Barcelona       2-1 (1-1)  Real Madrid
+         Valencia CF              2-1 (1-0)  Athletic Bilbao
+
+
+Matchday 24
+[Tue Feb/5]
+         RC Celta                 0-2 (0-1)  Deportivo La Coruña
+[Wed Feb/6]
+         Real Valladolid          2-1 (0-0)  Real Madrid
+         CD Alavés                1-2 (1-2)  Valencia CF
+         Rayo Vallecano           2-2 (1-0)  Espanyol Barcelona
+         UD Las Palmas            0-0  Real Betis
+         Athletic Bilbao          3-2 (2-1)  Málaga CF
+         FC Barcelona             2-0 (0-0)  Real Sociedad
+         Villarreal CF            2-1 (1-0)  RCD Mallorca
+         Sevilla FC               0-0  CA Osasuna
+         Real Zaragoza            1-1 (0-1)  CD Tenerife
+
+
+Matchday 25
+[Sat Feb/9]
+         RCD Mallorca             0-0  FC Barcelona
+         Valencia CF              0-0  RC Celta
+[Sun Feb/10]
+         Real Betis               1-1 (1-1)  Athletic Bilbao
+         CA Osasuna               1-0 (0-0)  Rayo Vallecano
+         Real Sociedad            3-1 (2-0)  Real Zaragoza
+         Real Madrid              7-0 (3-0)  UD Las Palmas
+         Espanyol Barcelona       1-0 (0-0)  Real Valladolid
+         CD Tenerife              1-1 (0-1)  Sevilla FC
+         Málaga CF                1-0 (0-0)  CD Alavés
+         Deportivo La Coruña      0-0  Villarreal CF
+
+
+Matchday 26
+[Sat Feb/16]
+         FC Barcelona             3-2 (1-1)  Deportivo La Coruña
+         Athletic Bilbao          2-1 (2-0)  Real Madrid
+         Villarreal CF            1-1 (0-0)  Valencia CF
+[Sun Feb/17]
+         Real Zaragoza            1-0 (0-0)  RCD Mallorca
+         CA Osasuna               1-1 (0-1)  Espanyol Barcelona
+         UD Las Palmas            1-1 (0-0)  Real Valladolid
+         Sevilla FC               0-1 (0-0)  Real Sociedad
+         RC Celta                 0-0  Málaga CF
+         Rayo Vallecano           2-0 (0-0)  CD Tenerife
+         CD Alavés                0-1 (0-1)  Real Betis
+
+
+Matchday 27
+[Sat Feb/23]
+         Valencia CF              2-0 (1-0)  FC Barcelona
+         Deportivo La Coruña      1-0 (1-0)  Real Zaragoza
+         Real Madrid              3-1 (1-1)  CD Alavés
+[Sun Feb/24]
+         Espanyol Barcelona       3-1 (0-1)  UD Las Palmas
+         Real Valladolid          2-0 (0-0)  Athletic Bilbao
+         Real Betis               4-1 (2-0)  RC Celta
+         Málaga CF                2-1 (1-0)  Villarreal CF
+         RCD Mallorca             0-4 (0-1)  Sevilla FC
+         Real Sociedad            2-2 (1-0)  Rayo Vallecano
+         CD Tenerife              3-1 (1-0)  CA Osasuna
+
+
+Matchday 28
+[Sat Mar/2]
+         RC Celta                 0-1 (0-0)  Real Madrid
+         Sevilla FC               0-1 (0-0)  Deportivo La Coruña
+         Villarreal CF            1-1 (1-1)  Real Betis
+[Sun Mar/3]
+         Rayo Vallecano           0-2 (0-1)  RCD Mallorca
+         CD Tenerife              1-1 (1-1)  Espanyol Barcelona
+         CD Alavés                3-1 (1-1)  Real Valladolid
+         Athletic Bilbao          3-1 (1-0)  UD Las Palmas
+         CA Osasuna               1-1 (0-0)  Real Sociedad
+         FC Barcelona             5-1 (3-0)  Málaga CF
+         Real Zaragoza            0-1 (0-1)  Valencia CF
+
+
+Matchday 29
+[Sat Mar/9]
+         Real Betis               2-1 (1-0)  FC Barcelona
+         UD Las Palmas            2-1 (1-1)  CD Alavés
+         Real Madrid              3-0 (1-0)  Villarreal CF
+         Deportivo La Coruña      1-1 (1-1)  Rayo Vallecano
+[Sun Mar/10]
+         Espanyol Barcelona       2-0 (1-0)  Athletic Bilbao
+         Real Valladolid          2-4 (1-2)  RC Celta
+         Málaga CF                2-1 (2-0)  Real Zaragoza
+         Valencia CF              2-0 (0-0)  Sevilla FC
+         Real Sociedad            0-2 (0-1)  CD Tenerife
+         RCD Mallorca             4-2 (2-1)  CA Osasuna
+
+
+Matchday 30
+[Sat Mar/16]
+         CA Osasuna               1-3 (0-3)  Deportivo La Coruña
+         FC Barcelona             1-1 (0-1)  Real Madrid
+[Sun Mar/17]
+         Villarreal CF            2-2 (0-2)  Real Valladolid
+         CD Tenerife              0-0  RCD Mallorca
+         CD Alavés                2-3 (2-2)  Athletic Bilbao
+         Real Sociedad            1-0 (1-0)  Espanyol Barcelona
+         RC Celta                 3-2 (2-0)  UD Las Palmas
+         Real Zaragoza            1-1 (1-0)  Real Betis
+         Sevilla FC               0-2 (0-0)  Málaga CF
+         Rayo Vallecano           2-1 (1-1)  Valencia CF
+
+
+Matchday 31
+[Sat Mar/23]
+         Málaga CF                0-0  Rayo Vallecano
+         Real Betis               0-0  Sevilla FC
+         UD Las Palmas            3-2 (2-2)  Villarreal CF
+[Sun Mar/24]
+         Athletic Bilbao          1-6 (1-2)  RC Celta
+         Real Madrid              3-1 (1-0)  Real Zaragoza
+         RCD Mallorca             0-2 (0-0)  Real Sociedad
+         Deportivo La Coruña      3-1 (0-1)  CD Tenerife
+         Valencia CF              2-1 (0-0)  CA Osasuna
+         Espanyol Barcelona       1-2 (1-0)  CD Alavés
+         Real Valladolid          1-2 (1-2)  FC Barcelona
+
+
+Matchday 32
+[Sat Mar/30]
+         CD Tenerife              0-1 (0-0)  Valencia CF
+         FC Barcelona             1-1 (1-0)  UD Las Palmas
+         Sevilla FC               0-1 (0-1)  Real Madrid
+         Real Sociedad            1-1 (1-0)  Deportivo La Coruña
+         RC Celta                 3-1 (0-0)  CD Alavés
+[Sun Mar/31]
+         Villarreal CF            5-2 (5-0)  Athletic Bilbao
+         RCD Mallorca             2-1 (1-1)  Espanyol Barcelona
+         Rayo Vallecano           0-0  Real Betis
+         CA Osasuna               0-2 (0-0)  Málaga CF
+         Real Zaragoza            0-0  Real Valladolid
+
+
+Matchday 33
+[Sat Apr/6]
+  01.00  Athletic Bilbao          0-2 (0-1)  FC Barcelona
+         UD Las Palmas            1-1 (0-0)  Real Zaragoza
+         Deportivo La Coruña      5-0 (4-0)  RCD Mallorca
+         Real Madrid              3-1 (2-0)  Rayo Vallecano
+[Sun Apr/7]
+  01.00  Espanyol Barcelona       2-0 (1-0)  RC Celta
+         Real Valladolid          1-1 (1-1)  Sevilla FC
+         Valencia CF              4-0 (2-0)  Real Sociedad
+         Real Betis               0-0  CA Osasuna
+         CD Alavés                2-1 (1-1)  Villarreal CF
+         Málaga CF                2-0 (0-0)  CD Tenerife
+
+
+Matchday 34
+[Sat Apr/13]
+         RCD Mallorca             1-1 (1-0)  Valencia CF
+[Sun Apr/14]
+         Deportivo La Coruña      3-1 (3-0)  Espanyol Barcelona
+         CA Osasuna               3-1 (2-0)  Real Madrid
+         Villarreal CF            2-1 (0-0)  RC Celta
+         Real Zaragoza            2-2 (1-1)  Athletic Bilbao
+         Sevilla FC               1-1 (1-0)  UD Las Palmas
+         Rayo Vallecano           1-0 (1-0)  Real Valladolid
+         CD Tenerife              2-1 (0-1)  Real Betis
+         Real Sociedad            2-1 (1-1)  Málaga CF
+         FC Barcelona             3-2 (1-0)  CD Alavés
+
+
+Matchday 35
+[Sat Apr/20]
+         Real Madrid              4-1 (2-1)  CD Tenerife
+         UD Las Palmas            0-2 (0-0)  Rayo Vallecano
+         RC Celta                 2-1 (1-0)  FC Barcelona
+[Sun Apr/21]
+         Real Betis               3-0 (1-0)  Real Sociedad
+         Valencia CF              1-0 (0-0)  Deportivo La Coruña
+         CD Alavés                2-1 (1-0)  Real Zaragoza
+         Athletic Bilbao          0-1 (0-0)  Sevilla FC
+         Málaga CF                0-0  RCD Mallorca
+         Real Valladolid          1-0 (0-0)  CA Osasuna
+         Espanyol Barcelona       3-1 (2-0)  Villarreal CF
+
+
+Matchday 36
+[Sat Apr/27]
+         Valencia CF              2-1 (0-1)  Espanyol Barcelona
+         Real Sociedad            3-0 (0-0)  Real Madrid
+         FC Barcelona             4-1 (0-1)  Villarreal CF
+[Sun Apr/28]
+         Rayo Vallecano           4-2 (1-0)  Athletic Bilbao
+         CA Osasuna               3-2 (2-1)  UD Las Palmas
+         CD Tenerife              1-5 (0-2)  Real Valladolid
+         RCD Mallorca             1-3 (0-1)  Real Betis
+         Deportivo La Coruña      2-2 (1-1)  Málaga CF
+         Sevilla FC               2-0 (1-0)  CD Alavés
+         Real Zaragoza            0-1 (0-0)  RC Celta
+
+
+Matchday 37
+[Sun May/5]
+         Real Valladolid          1-3 (1-1)  Real Sociedad
+         UD Las Palmas            0-1 (0-1)  CD Tenerife
+         Villarreal CF            2-1 (2-0)  Real Zaragoza
+         FC Barcelona             2-0 (1-0)  Espanyol Barcelona
+         RC Celta                 1-2 (1-2)  Sevilla FC
+         Real Madrid              0-0  RCD Mallorca
+         Málaga CF                0-2 (0-2)  Valencia CF
+         Athletic Bilbao          1-1 (0-0)  CA Osasuna
+         Real Betis               0-3 (0-1)  Deportivo La Coruña
+         CD Alavés                0-1 (0-0)  Rayo Vallecano
+
+
+Matchday 38
+[Fri May/10]
+         Deportivo La Coruña      3-0 (1-0)  Real Madrid
+[Sat May/11]
+         RCD Mallorca             2-1 (0-1)  Real Valladolid
+         Real Zaragoza            1-1 (1-1)  FC Barcelona
+         Rayo Vallecano           1-0 (0-0)  RC Celta
+         CD Tenerife              2-3 (2-1)  Athletic Bilbao
+         Real Sociedad            1-1 (0-1)  UD Las Palmas
+         Valencia CF              2-0 (1-0)  Real Betis
+         Espanyol Barcelona       1-2 (0-2)  Málaga CF
+         CA Osasuna               0-1 (0-1)  CD Alavés
+         Sevilla FC               1-0 (1-0)  Villarreal CF

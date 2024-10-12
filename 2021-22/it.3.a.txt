@@ -1,0 +1,601 @@
+= IT 3 A 2021/22
+
+# Date       Sat Aug/28 2021 - Sat May/14 2022 (259d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Aug/28]
+  17.30  AC Renate                0-3 (0-1)  Calcio Padova
+         FC Südtirol              1-0 (1-0)  Virtus Verona
+  20.30  FC Legnago Salus         1-1 (0-1)  Mantova 1911 SSD
+         US Triestina             0-0  Seregno
+  17.30  Feralpisalò              1-2 (0-0)  US Fiorenzuola
+[Sun Aug/29]
+  17.30  Giana Erminio            1-0 (0-0)  AC Pro Sesto
+         Aurora Pro Patria        1-2 (1-0)  UC AlbinoLeffe
+         Pro Vercelli             1-0 (0-0)  Calcio Lecco 1912
+         Piacenza Calcio          0-0  Trento Calcio 1921
+         US Pergolettese          1-2 (0-1)  Juventus II
+
+
+Matchday 2
+[Sat Sep/4]
+  17.30  Calcio Lecco 1912        4-1 (3-0)  FC Legnago Salus
+         Calcio Padova            2-1 (0-0)  US Pergolettese
+         Seregno                  1-3 (0-3)  Feralpisalò
+         AC Pro Sesto             1-2 (0-2)  Pro Vercelli
+         Trento Calcio 1921       3-0 (2-0)  Aurora Pro Patria
+         UC AlbinoLeffe           1-1 (1-0)  FC Südtirol
+         US Fiorenzuola           2-2 (1-1)  AC Renate
+         Mantova 1911 SSD         1-1 (0-0)  Giana Erminio
+
+
+Matchday 3
+[Sat Sep/11]
+  20.30  Giana Erminio            0-1 (0-1)  Calcio Lecco 1912
+  17.30  US Pergolettese          2-1 (0-1)  AC Pro Sesto
+         FC Legnago Salus         0-4 (0-1)  Calcio Padova
+[Sun Sep/12]
+  20.30  US Fiorenzuola           0-2 (0-0)  UC AlbinoLeffe
+  17.30  AC Renate                3-1 (2-1)  Virtus Verona
+         Pro Vercelli             1-0 (1-0)  Seregno
+  20.30  Aurora Pro Patria        1-0 (1-0)  Juventus II
+         Feralpisalò              1-1 (1-1)  Mantova 1911 SSD
+  17.30  FC Südtirol              2-0 (0-0)  Trento Calcio 1921
+[Mon Sep/13]
+  21.00  US Triestina             2-2 (1-1)  Piacenza Calcio
+
+
+Matchday 4
+[Sat Sep/18]
+  17.30  AC Pro Sesto             0-0  US Fiorenzuola
+[Sun Sep/19]
+  17.30  UC AlbinoLeffe           1-0 (0-0)  Mantova 1911 SSD
+  20.30  Virtus Verona            1-1 (1-0)  FC Legnago Salus
+  14.30  Calcio Padova            2-0 (1-0)  US Triestina
+         FC Südtirol              1-0 (0-0)  US Pergolettese
+         Piacenza Calcio          1-1 (0-0)  Aurora Pro Patria
+         Trento Calcio 1921       1-0 (1-0)  Giana Erminio
+  17.30  Calcio Lecco 1912        1-0 (0-0)  Feralpisalò
+         Juventus II              0-2 (0-1)  Pro Vercelli
+         Seregno                  0-1 (0-1)  AC Renate
+
+
+Matchday 2
+[Wed Sep/22]
+  20.30  Virtus Verona            1-1 (0-0)  Piacenza Calcio
+  16.30  Juventus II              2-1 (1-1)  US Triestina
+
+
+Matchday 5
+[Sun Sep/26]
+  14.30  Feralpisalò              3-2 (0-1)  Juventus II
+         Pro Vercelli             1-1 (0-1)  Trento Calcio 1921
+         US Triestina             2-0 (2-0)  Calcio Lecco 1912
+  17.30  Mantova 1911 SSD         2-1 (1-1)  Piacenza Calcio
+         AC Renate                3-0 (1-0)  AC Pro Sesto
+         Giana Erminio            0-1 (0-0)  UC AlbinoLeffe
+         Aurora Pro Patria        1-2 (1-0)  Calcio Padova
+         US Fiorenzuola           2-3 (1-1)  Seregno
+         US Pergolettese          2-2 (0-1)  Virtus Verona
+
+
+Matchday 6
+[Wed Sep/29]
+  18.00  AC Pro Sesto             0-1 (0-1)  US Triestina
+  17.30  Juventus II              0-1 (0-0)  Giana Erminio
+         Virtus Verona            2-2 (2-1)  Pro Vercelli
+  18.00  Calcio Lecco 1912        3-0 (1-0)  Aurora Pro Patria
+         FC Südtirol              2-0 (1-0)  AC Renate
+  21.00  UC AlbinoLeffe           0-1 (0-0)  Feralpisalò
+  20.30  Calcio Padova            2-1 (0-1)  US Fiorenzuola
+         Trento Calcio 1921       2-2 (2-1)  Mantova 1911 SSD
+  21.00  Piacenza Calcio          1-0 (1-0)  FC Legnago Salus
+         Seregno                  5-0 (2-0)  US Pergolettese
+
+
+Matchday 7
+[Sun Oct/3]
+  14.30  US Triestina             2-3 (1-1)  UC AlbinoLeffe
+         Feralpisalò              1-1 (0-0)  AC Pro Sesto
+         Mantova 1911 SSD         0-1 (0-0)  Juventus II
+         AC Renate                4-0 (3-0)  Trento Calcio 1921
+         Giana Erminio            0-1 (0-1)  FC Legnago Salus
+         Aurora Pro Patria        1-0 (1-0)  Virtus Verona
+         Calcio Padova            1-1 (1-0)  Seregno
+         Pro Vercelli             0-2 (0-1)  FC Südtirol
+         US Fiorenzuola           2-1 (1-1)  Calcio Lecco 1912
+         US Pergolettese          2-2 (0-2)  Piacenza Calcio
+
+
+Matchday 8
+[Sat Oct/9]
+  14.30  Pro Vercelli             0-2 (0-1)  Feralpisalò
+  17.30  Calcio Lecco 1912        3-2 (2-1)  Calcio Padova
+[Sun Oct/10]
+  14.30  Virtus Verona            0-0  US Triestina
+         FC Legnago Salus         3-1 (1-1)  US Pergolettese
+         FC Südtirol              0-0  Giana Erminio
+         Seregno                  1-1 (1-1)  Mantova 1911 SSD
+         AC Pro Sesto             1-1 (0-0)  Aurora Pro Patria
+         Trento Calcio 1921       1-0 (0-0)  US Fiorenzuola
+         UC AlbinoLeffe           2-3 (1-1)  AC Renate
+
+
+Matchday 9
+[Sun Oct/17]
+  17.30  Piacenza Calcio          1-2 (1-2)  AC Pro Sesto
+         US Pergolettese          1-0 (0-0)  UC AlbinoLeffe
+  14.30  Aurora Pro Patria        0-0  FC Südtirol
+         US Triestina             1-0 (0-0)  US Fiorenzuola
+  17.30  Feralpisalò              5-1 (3-1)  FC Legnago Salus
+         Mantova 1911 SSD         1-1 (0-0)  Calcio Lecco 1912
+         Giana Erminio            1-1 (1-1)  Virtus Verona
+         Calcio Padova            2-1 (1-0)  Trento Calcio 1921
+         Juventus II              2-1 (1-1)  Seregno
+[Mon Oct/18]
+  21.00  AC Renate                2-2 (0-2)  Pro Vercelli
+
+
+Matchday 10
+[Wed Oct/20]
+  18.00  US Triestina             2-1 (1-0)  Mantova 1911 SSD
+         US Fiorenzuola           3-1 (1-1)  US Pergolettese
+  14.30  UC AlbinoLeffe           2-2 (1-0)  Juventus II
+  18.00  FC Legnago Salus         2-3 (2-2)  Aurora Pro Patria
+         FC Südtirol              2-0 (1-0)  Piacenza Calcio
+         Seregno                  1-3 (0-1)  Virtus Verona
+         AC Pro Sesto             2-2 (1-1)  Calcio Padova
+         Trento Calcio 1921       1-2 (1-1)  Feralpisalò
+[Thu Oct/21]
+  17.30  Pro Vercelli             2-1 (1-1)  Giana Erminio
+  21.00  Calcio Lecco 1912        2-3 (1-1)  AC Renate
+
+
+Matchday 11
+[Sun Oct/24]
+  17.30  Virtus Verona            2-1 (2-0)  US Fiorenzuola
+         AC Renate                2-1 (2-0)  US Triestina
+  14.30  Juventus II              1-1 (0-1)  AC Pro Sesto
+         Piacenza Calcio          1-1 (1-0)  Giana Erminio
+  17.30  Mantova 1911 SSD         0-1 (0-0)  FC Südtirol
+         UC AlbinoLeffe           0-1 (0-1)  Seregno
+         Aurora Pro Patria        1-1 (0-0)  Pro Vercelli
+         FC Legnago Salus         1-0 (1-0)  Trento Calcio 1921
+         US Pergolettese          1-0 (1-0)  Calcio Lecco 1912
+[Mon Oct/25]
+  21.00  Feralpisalò              1-0 (1-0)  Calcio Padova
+
+
+Matchday 8
+[Wed Oct/27]
+  20.30  Piacenza Calcio          1-1 (1-0)  Juventus II
+
+
+Matchday 12
+[Sun Oct/31]
+  17.30  US Fiorenzuola           0-0  Mantova 1911 SSD
+  14.30  Pro Vercelli             1-3 (0-2)  Piacenza Calcio
+         FC Südtirol              2-0 (2-0)  Juventus II
+         US Triestina             1-1 (0-0)  Feralpisalò
+  17.30  AC Renate                4-0 (3-0)  FC Legnago Salus
+         Giana Erminio            1-1 (0-1)  Aurora Pro Patria
+         Calcio Lecco 1912        2-2 (0-0)  Virtus Verona
+         Calcio Padova            2-0 (2-0)  UC AlbinoLeffe
+         Seregno                  0-1 (0-0)  AC Pro Sesto
+         Trento Calcio 1921       1-2 (0-1)  US Pergolettese
+
+
+Matchday 13
+[Sat Nov/6]
+  14.30  Aurora Pro Patria        0-1 (0-0)  US Fiorenzuola
+         US Pergolettese          0-1 (0-1)  US Triestina
+[Sun Nov/7]
+  14.30  AC Pro Sesto             0-1 (0-1)  FC Südtirol
+         Juventus II              1-0 (1-0)  Calcio Lecco 1912
+         Piacenza Calcio          3-1 (2-1)  AC Renate
+  17.30  Virtus Verona            0-1 (0-1)  Trento Calcio 1921
+         Feralpisalò              1-0 (0-0)  Giana Erminio
+         Mantova 1911 SSD         1-1 (0-0)  Calcio Padova
+         FC Legnago Salus         1-2 (1-2)  Seregno
+         UC AlbinoLeffe           1-1 (1-1)  Pro Vercelli
+
+
+Matchday 5
+[Wed Nov/10]
+  15.00  FC Legnago Salus         1-2 (0-1)  FC Südtirol
+
+
+Matchday 14
+[Sat Nov/13]
+  14.30  Mantova 1911 SSD         1-0 (1-0)  AC Pro Sesto
+[Sun Nov/14]
+  14.30  Feralpisalò              1-1 (0-1)  Virtus Verona
+         AC Renate                4-1 (2-0)  Aurora Pro Patria
+         Giana Erminio            1-1 (0-1)  US Pergolettese
+         Calcio Lecco 1912        2-3 (0-1)  UC AlbinoLeffe
+         Pro Vercelli             0-1 (0-0)  FC Legnago Salus
+         Seregno                  1-2 (1-1)  FC Südtirol
+         US Fiorenzuola           1-1 (1-0)  Piacenza Calcio
+         US Triestina             1-1 (0-0)  Trento Calcio 1921
+
+
+Matchday 15
+[Sat Nov/20]
+  14.30  Aurora Pro Patria        0-0  Seregno
+         Juventus II              2-1 (0-0)  US Fiorenzuola
+[Sun Nov/21]
+  14.30  Virtus Verona            1-0 (1-0)  Mantova 1911 SSD
+         Giana Erminio            0-1 (0-1)  AC Renate
+         FC Südtirol              1-1 (1-0)  Feralpisalò
+         Piacenza Calcio          1-3 (0-2)  Calcio Padova
+         AC Pro Sesto             0-0  UC AlbinoLeffe
+         Trento Calcio 1921       3-0 (1-0)  Calcio Lecco 1912
+         US Pergolettese          4-0 (0-0)  Pro Vercelli
+[Mon Nov/22]
+  21.00  FC Legnago Salus         0-2 (0-1)  US Triestina
+
+
+Matchday 16
+[Sat Nov/27]
+  17.30  Feralpisalò              6-0 (4-0)  US Pergolettese
+[Sun Nov/28]
+  17.30  AC Pro Sesto             1-1 (0-0)  Trento Calcio 1921
+         Mantova 1911 SSD         2-2 (1-1)  AC Renate
+         Calcio Lecco 1912        0-1 (0-1)  FC Südtirol
+         Calcio Padova            1-0 (1-0)  Pro Vercelli
+         Juventus II              0-1 (0-0)  Virtus Verona
+         Seregno                  2-0 (0-0)  Giana Erminio
+         US Triestina             1-1 (0-0)  Aurora Pro Patria
+         US Fiorenzuola           1-0 (1-0)  FC Legnago Salus
+[Mon Nov/29]
+  14.30  UC AlbinoLeffe           2-3 (1-2)  Piacenza Calcio
+
+
+Matchday 14
+[Wed Dec/1]
+  14.30  Calcio Padova            2-0 (1-0)  Juventus II
+
+
+Matchday 17
+[Sat Dec/4]
+  14.30  FC Legnago Salus         1-1 (1-0)  AC Pro Sesto
+         Trento Calcio 1921       0-1 (0-1)  Seregno
+         US Pergolettese          1-1 (0-0)  Mantova 1911 SSD
+  15.00  Virtus Verona            0-0  UC AlbinoLeffe
+  14.30  Aurora Pro Patria        0-2 (0-1)  Feralpisalò
+[Sun Dec/5]
+  14.30  AC Renate                2-0 (1-0)  Juventus II
+         Giana Erminio            1-1 (1-0)  Calcio Padova
+         Pro Vercelli             1-2 (0-1)  US Triestina
+         FC Südtirol              4-1 (3-0)  US Fiorenzuola
+         Piacenza Calcio          0-1 (0-0)  Calcio Lecco 1912
+
+
+Matchday 18
+[Sat Dec/11]
+  14.30  UC AlbinoLeffe           1-2 (1-1)  FC Legnago Salus
+         Mantova 1911 SSD         0-0  Aurora Pro Patria
+[Sun Dec/12]
+  14.30  Feralpisalò              1-1 (1-0)  Piacenza Calcio
+         Calcio Padova            0-0  FC Südtirol
+         Juventus II              2-1 (0-1)  Trento Calcio 1921
+         Seregno                  1-4 (0-3)  Calcio Lecco 1912
+         AC Pro Sesto             0-2 (0-1)  Virtus Verona
+         US Fiorenzuola           0-2 (0-2)  Pro Vercelli
+         US Pergolettese          1-0 (0-0)  AC Renate
+         US Triestina             2-1 (2-0)  Giana Erminio
+
+
+Matchday 19
+[Sat Dec/18]
+  13.00  AC Renate                1-0 (0-0)  Feralpisalò
+  14.30  Giana Erminio            1-1 (0-1)  US Fiorenzuola
+         Aurora Pro Patria        2-1 (0-1)  US Pergolettese
+         Calcio Lecco 1912        0-0  AC Pro Sesto
+         FC Legnago Salus         1-2 (1-2)  Juventus II
+         Pro Vercelli             1-1 (1-0)  Mantova 1911 SSD
+         Piacenza Calcio          1-1 (0-0)  Seregno
+         Trento Calcio 1921       0-0  UC AlbinoLeffe
+         Virtus Verona            0-0  Calcio Padova
+
+
+Matchday 20
+[Tue Dec/21]
+  18.00  US Fiorenzuola           0-2 (0-1)  Feralpisalò
+  14.30  Juventus II              1-1 (0-0)  US Pergolettese
+         Seregno                  0-1 (0-0)  US Triestina
+         AC Pro Sesto             1-1 (1-0)  Giana Erminio
+  18.00  Mantova 1911 SSD         2-0 (1-0)  FC Legnago Salus
+         Calcio Padova            2-0 (1-0)  AC Renate
+         Trento Calcio 1921       1-0 (1-0)  Piacenza Calcio
+         UC AlbinoLeffe           1-1 (1-0)  Aurora Pro Patria
+[Wed Jan/19]
+  18.00  Calcio Lecco 1912        0-0  Pro Vercelli
+
+
+Matchday 23
+[Sun Jan/23]
+  14.30  US Triestina             0-2 (0-1)  Calcio Padova
+         Mantova 1911 SSD         1-1 (0-1)  UC AlbinoLeffe
+         AC Renate                1-0 (0-0)  Seregno
+         Giana Erminio            0-0  Trento Calcio 1921
+         Aurora Pro Patria        2-2 (1-0)  Piacenza Calcio
+         FC Legnago Salus         1-1 (1-0)  Virtus Verona
+         Pro Vercelli             2-0 (2-0)  Juventus II
+         US Fiorenzuola           3-1 (1-1)  AC Pro Sesto
+         US Pergolettese          0-2 (0-0)  FC Südtirol
+         Feralpisalò              1-0 (0-0)  Calcio Lecco 1912
+
+
+Matchday 19
+[Wed Jan/26]
+  16.00  FC Südtirol              1-0 (1-0)  US Triestina
+
+
+Matchday 24
+[Sat Jan/29]
+  14.30  Calcio Padova            2-1 (0-1)  Aurora Pro Patria
+         FC Südtirol              2-0 (2-0)  FC Legnago Salus
+         Juventus II              1-0 (1-0)  Feralpisalò
+         Piacenza Calcio          1-0 (0-0)  Mantova 1911 SSD
+         Seregno                  0-0  US Fiorenzuola
+         AC Pro Sesto             1-4 (1-0)  AC Renate
+         UC AlbinoLeffe           1-2 (1-0)  Giana Erminio
+         Calcio Lecco 1912        2-0 (1-0)  US Triestina
+  15.00  Trento Calcio 1921       0-0  Pro Vercelli
+  14.30  Virtus Verona            0-2 (0-0)  US Pergolettese
+
+
+Matchday 21
+[Tue Feb/1]
+  18.00  Giana Erminio            0-2 (0-0)  Mantova 1911 SSD
+  14.30  FC Legnago Salus         1-2 (1-0)  Calcio Lecco 1912
+         Pro Vercelli             0-0  AC Pro Sesto
+         US Pergolettese          0-1 (0-0)  Calcio Padova
+         US Triestina             0-0  Juventus II
+  18.00  Feralpisalò              3-1 (1-1)  Seregno
+         AC Renate                0-0  US Fiorenzuola
+         FC Südtirol              1-0 (0-0)  UC AlbinoLeffe
+         Piacenza Calcio          1-0 (1-0)  Virtus Verona
+  14.30  Aurora Pro Patria        0-0  Trento Calcio 1921
+
+
+Matchday 25
+[Sat Feb/5]
+  14.30  AC Renate                0-1 (0-0)  FC Südtirol
+         US Pergolettese          3-3 (2-1)  Seregno
+         US Fiorenzuola           0-0  Calcio Padova
+         Pro Vercelli             1-0 (0-0)  Virtus Verona
+         FC Legnago Salus         0-1 (0-0)  Piacenza Calcio
+         Aurora Pro Patria        1-1 (0-1)  Calcio Lecco 1912
+         Giana Erminio            2-0 (0-0)  Juventus II
+         US Triestina             2-3 (2-3)  AC Pro Sesto
+  16.30  Feralpisalò              1-1 (1-1)  UC AlbinoLeffe
+  14.30  Mantova 1911 SSD         1-0 (1-0)  Trento Calcio 1921
+
+
+Matchday 20
+[Wed Feb/9]
+  14.30  Virtus Verona            1-1 (0-1)  FC Südtirol
+
+
+Matchday 26
+[Sat Feb/12]
+  14.30  UC AlbinoLeffe           1-1 (1-1)  US Triestina
+[Sun Feb/13]
+  14.30  Piacenza Calcio          3-0 (0-0)  US Pergolettese
+         AC Pro Sesto             0-1 (0-0)  Feralpisalò
+         FC Südtirol              1-0 (0-0)  Pro Vercelli
+         FC Legnago Salus         0-0  Giana Erminio
+         Calcio Lecco 1912        3-1 (2-1)  US Fiorenzuola
+         Juventus II              3-0 (3-0)  Mantova 1911 SSD
+         Seregno                  1-2 (1-1)  Calcio Padova
+         Virtus Verona            0-2 (0-0)  Aurora Pro Patria
+         Trento Calcio 1921       0-2 (0-0)  AC Renate
+
+
+Matchday 27
+[Wed Feb/16]
+  14.30  AC Renate                0-2 (0-0)  UC AlbinoLeffe
+         Giana Erminio            0-2 (0-1)  FC Südtirol
+         US Triestina             2-1 (1-1)  Virtus Verona
+  18.00  Feralpisalò              0-3 (0-0)  Pro Vercelli
+         Aurora Pro Patria        0-3 (0-0)  AC Pro Sesto
+         Calcio Padova            2-1 (1-0)  Calcio Lecco 1912
+         US Fiorenzuola           1-2 (1-1)  Trento Calcio 1921
+         US Pergolettese          1-1 (0-0)  FC Legnago Salus
+         Mantova 1911 SSD         3-1 (0-1)  Seregno
+[Thu Feb/17]
+  18.00  Juventus II              4-0 (3-0)  Piacenza Calcio
+
+
+Matchday 28
+[Sun Feb/20]
+  14.30  US Fiorenzuola           0-1 (0-1)  US Triestina
+         UC AlbinoLeffe           1-1 (1-1)  US Pergolettese
+         Trento Calcio 1921       2-2 (1-2)  Calcio Padova
+         AC Pro Sesto             2-1 (1-1)  Piacenza Calcio
+         Seregno                  2-2 (2-0)  Juventus II
+         FC Südtirol              0-0  Aurora Pro Patria
+         Pro Vercelli             1-1 (1-1)  AC Renate
+         FC Legnago Salus         0-3 (0-0)  Feralpisalò
+         Calcio Lecco 1912        2-0 (1-0)  Mantova 1911 SSD
+         Virtus Verona            1-1 (1-0)  Giana Erminio
+
+
+Matchday 22
+[Wed Feb/23]
+  18.00  Virtus Verona            0-0  AC Renate
+         UC AlbinoLeffe           0-0  US Fiorenzuola
+         AC Pro Sesto             2-1 (2-1)  US Pergolettese
+         Piacenza Calcio          0-2 (0-0)  US Triestina
+  21.00  Trento Calcio 1921       0-1 (0-0)  FC Südtirol
+  18.00  Calcio Padova            1-1 (0-1)  FC Legnago Salus
+         Calcio Lecco 1912        1-0 (1-0)  Giana Erminio
+  14.30  Seregno                  1-2 (1-0)  Pro Vercelli
+         Juventus II              1-0 (0-0)  Aurora Pro Patria
+         Mantova 1911 SSD         2-1 (1-0)  Feralpisalò
+
+
+Matchday 29
+[Sun Feb/27]
+  14.30  Feralpisalò              1-0 (0-0)  Trento Calcio 1921
+         AC Renate                2-3 (1-3)  Calcio Lecco 1912
+         Calcio Padova            2-1 (2-0)  AC Pro Sesto
+  17.30  Mantova 1911 SSD         0-1 (0-0)  US Triestina
+         Giana Erminio            1-1 (0-1)  Pro Vercelli
+         Aurora Pro Patria        1-1 (1-0)  FC Legnago Salus
+         Juventus II              1-1 (1-0)  UC AlbinoLeffe
+         Piacenza Calcio          1-0 (1-0)  FC Südtirol
+         US Pergolettese          0-1 (0-0)  US Fiorenzuola
+         Virtus Verona            3-2 (1-0)  Seregno
+
+
+Matchday 30
+[Sun Mar/6]
+  14.30  Giana Erminio            0-0  Piacenza Calcio
+         Calcio Lecco 1912        3-0 (1-0)  US Pergolettese
+         Calcio Padova            1-0 (1-0)  Feralpisalò
+         Pro Vercelli             4-1 (2-1)  Aurora Pro Patria
+         FC Südtirol              1-0 (1-0)  Mantova 1911 SSD
+         Seregno                  1-3 (1-0)  UC AlbinoLeffe
+         AC Pro Sesto             0-1 (0-0)  Juventus II
+         Trento Calcio 1921       0-1 (0-0)  FC Legnago Salus
+         US Fiorenzuola           1-0 (0-0)  Virtus Verona
+         US Triestina             0-2 (0-1)  AC Renate
+
+
+Matchday 31
+[Sat Mar/12]
+  14.30  Virtus Verona            1-0 (0-0)  Calcio Lecco 1912
+[Sun Mar/13]
+  12.30  Mantova 1911 SSD         1-1 (0-0)  US Fiorenzuola
+  14.30  Aurora Pro Patria        5-1 (2-0)  Giana Erminio
+         FC Legnago Salus         1-1 (0-0)  AC Renate
+         Juventus II              0-1 (0-1)  FC Südtirol
+         Piacenza Calcio          0-0  Pro Vercelli
+         AC Pro Sesto             2-2 (0-1)  Seregno
+         UC AlbinoLeffe           1-2 (1-0)  Calcio Padova
+         US Pergolettese          0-0  Trento Calcio 1921
+[Mon Mar/14]
+  21.00  Feralpisalò              3-0 (1-0)  US Triestina
+
+
+Matchday 32
+[Wed Mar/16]
+  18.00  AC Renate                0-3 (0-1)  Piacenza Calcio
+         Calcio Lecco 1912        2-1 (1-1)  Juventus II
+         Pro Vercelli             1-0 (0-0)  UC AlbinoLeffe
+         FC Südtirol              2-0 (2-0)  AC Pro Sesto
+         Seregno                  2-1 (2-0)  FC Legnago Salus
+         Trento Calcio 1921       1-1 (0-1)  Virtus Verona
+         US Fiorenzuola           0-3 (0-2)  Aurora Pro Patria
+  14.30  Calcio Padova            1-0 (0-0)  Mantova 1911 SSD
+[Thu Mar/17]
+  14.30  US Triestina             1-2 (0-0)  US Pergolettese
+  18.00  Giana Erminio            2-1 (2-0)  Feralpisalò
+
+
+Matchday 33
+[Sun Mar/20]
+  14.30  FC Legnago Salus         0-1 (0-0)  Pro Vercelli
+         FC Südtirol              1-0 (0-0)  Seregno
+         Trento Calcio 1921       2-1 (0-0)  US Triestina
+  17.30  Aurora Pro Patria        1-0 (1-0)  AC Renate
+         Juventus II              1-2 (1-1)  Calcio Padova
+         Piacenza Calcio          0-1 (0-1)  US Fiorenzuola
+         AC Pro Sesto             1-2 (0-0)  Mantova 1911 SSD
+         UC AlbinoLeffe           2-1 (1-0)  Calcio Lecco 1912
+         US Pergolettese          2-0 (1-0)  Giana Erminio
+         Virtus Verona            1-0 (0-0)  Feralpisalò
+
+
+Matchday 34
+[Sat Mar/26]
+  14.30  Pro Vercelli             1-1 (1-1)  US Pergolettese
+         UC AlbinoLeffe           1-1 (0-1)  AC Pro Sesto
+         US Triestina             2-0 (1-0)  FC Legnago Salus
+  16.00  Feralpisalò              1-0 (0-0)  FC Südtirol
+  17.30  Mantova 1911 SSD         2-2 (1-1)  Virtus Verona
+         AC Renate                3-1 (1-0)  Giana Erminio
+         Calcio Lecco 1912        2-1 (2-0)  Trento Calcio 1921
+         Calcio Padova            3-1 (2-0)  Piacenza Calcio
+         Seregno                  0-2 (0-2)  Aurora Pro Patria
+
+
+Matchday 35
+[Sat Apr/2]
+  17.30  US Pergolettese          1-1 (0-0)  Feralpisalò
+  14.30  Aurora Pro Patria        0-0  US Triestina
+         FC Südtirol              1-1 (0-1)  Calcio Lecco 1912
+         Virtus Verona            1-1 (1-1)  Juventus II
+  15.00  Pro Vercelli             0-1 (0-0)  Calcio Padova
+  17.30  AC Renate                3-1 (1-1)  Mantova 1911 SSD
+         Giana Erminio            0-0  Seregno
+         FC Legnago Salus         1-3 (0-1)  US Fiorenzuola
+         Piacenza Calcio          2-1 (1-0)  UC AlbinoLeffe
+         Trento Calcio 1921       0-0  AC Pro Sesto
+
+
+Matchday 34
+[Wed Apr/6]
+  18.00  US Fiorenzuola           1-0 (0-0)  Juventus II
+
+
+Matchday 36
+[Sun Apr/10]
+  14.30  Calcio Padova            1-0 (0-0)  Giana Erminio
+         US Fiorenzuola           0-4 (0-2)  FC Südtirol
+         US Triestina             4-2 (1-1)  Pro Vercelli
+  17.30  Feralpisalò              2-1 (2-0)  Aurora Pro Patria
+         Mantova 1911 SSD         0-2 (0-1)  US Pergolettese
+         Calcio Lecco 1912        1-2 (1-1)  Piacenza Calcio
+         Juventus II              2-1 (1-0)  AC Renate
+         Seregno                  0-0  Trento Calcio 1921
+         AC Pro Sesto             1-2 (0-0)  FC Legnago Salus
+         UC AlbinoLeffe           0-0  Virtus Verona
+
+
+Matchday 37
+[Sat Apr/16]
+  14.30  AC Renate                1-2 (1-1)  US Pergolettese
+         Giana Erminio            1-1 (0-0)  US Triestina
+         Aurora Pro Patria        2-1 (1-0)  Mantova 1911 SSD
+         Calcio Lecco 1912        1-1 (1-0)  Seregno
+         FC Legnago Salus         1-3 (0-2)  UC AlbinoLeffe
+         Pro Vercelli             2-1 (0-1)  US Fiorenzuola
+         FC Südtirol              0-0  Calcio Padova
+         Piacenza Calcio          0-2 (0-1)  Feralpisalò
+         Trento Calcio 1921       1-1 (0-1)  Juventus II
+         Virtus Verona            0-1 (0-0)  AC Pro Sesto
+
+
+Matchday 38
+[Sun Apr/24]
+  14.30  Feralpisalò              0-0  AC Renate
+         Mantova 1911 SSD         3-0 (1-0)  Pro Vercelli
+         Calcio Padova            1-2 (0-0)  Virtus Verona
+         Juventus II              3-2 (0-0)  FC Legnago Salus
+         Seregno                  2-2 (0-2)  Piacenza Calcio
+         AC Pro Sesto             1-0 (1-0)  Calcio Lecco 1912
+         UC AlbinoLeffe           1-3 (1-1)  Trento Calcio 1921
+         US Fiorenzuola           0-2 (0-1)  Giana Erminio
+         US Pergolettese          1-0 (0-0)  Aurora Pro Patria
+         US Triestina             0-2 (0-1)  FC Südtirol
+
+
+== Playout
+
+Finals
+[Sat May/7]
+  17.30  Seregno                  1-1 (0-0)  AC Pro Sesto
+  16.30  Giana Erminio            2-3 (1-0)  Trento Calcio 1921
+[Sat May/14]
+  17.30  AC Pro Sesto             1-1 (0-1)  Seregno
+  16.30  Trento Calcio 1921       1-0 (1-0)  Giana Erminio

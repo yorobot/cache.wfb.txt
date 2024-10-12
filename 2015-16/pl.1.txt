@@ -1,0 +1,574 @@
+= PL 1 2015/16
+
+# Date       Fri Jul/17 2015 - Sun May/15 2016 (303d)
+# Teams      16
+# Matches    296
+# Stages     Regular Season (240)  Relegation (28)  Playoffs (28)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Jul/17]
+  18.00  Wisła Kraków             1-1 (1-1)  Górnik Zabrze
+  20.30  Lechia Gdańsk            0-1 (0-1)  KS Cracovia
+[Sat Jul/18]
+  15.30  Ruch Chorzów             0-2 (0-1)  Górnik Łęczna
+  18.00  Zagłębie Lubin           1-1 (0-1)  Podbeskidzie Bielsko-Biała
+  20.30  Lech Poznań              1-2 (1-2)  Pogoń Szczecin
+[Sun Jul/19]
+  15.30  Korona Kielce            3-2 (1-2)  Jagiellonia Białystok
+  18.00  Śląsk Wrocław            1-4 (1-1)  Legia Warszawa
+[Mon Jul/20]
+  18.00  Piast Gliwice            1-0 (1-0)  Bruk-Bet Termalica Nieciecza
+
+
+Matchday 2
+[Fri Jul/24]
+  18.00  Ruch Chorzów             2-0 (0-0)  Piast Gliwice
+  20.30  KS Cracovia              1-1 (1-1)  Wisła Kraków
+[Sat Jul/25]
+  18.00  Zagłębie Lubin           0-2 (0-1)  Korona Kielce
+  20.30  Lech Poznań              2-1 (1-0)  Lechia Gdańsk
+[Sun Jul/26]
+  15.30  Pogoń Szczecin           1-1 (0-0)  Śląsk Wrocław
+         Jagiellonia Białystok    2-0 (1-0)  Bruk-Bet Termalica Nieciecza
+  18.00  Legia Warszawa           5-0 (3-0)  Podbeskidzie Bielsko-Biała
+[Mon Jul/27]
+  18.00  Górnik Łęczna            2-1 (1-0)  Górnik Zabrze
+
+
+Matchday 3
+[Fri Jul/31]
+  18.00  Piast Gliwice            3-2 (1-0)  Górnik Zabrze
+  20.30  Lechia Gdańsk            1-1 (1-1)  Pogoń Szczecin
+[Sat Aug/1]
+  18.00  Podbeskidzie Bielsko-Biała  0-1 (0-0)  KS Cracovia
+  20.30  Wisła Kraków             2-0 (1-0)  Lech Poznań
+[Sun Aug/2]
+  15.30  Śląsk Wrocław            2-0 (1-0)  Bruk-Bet Termalica Nieciecza
+         Jagiellonia Białystok    1-2 (1-0)  Zagłębie Lubin
+  18.00  Górnik Łęczna            0-2 (0-2)  Legia Warszawa
+[Mon Aug/3]
+  18.00  Korona Kielce            1-2 (1-1)  Ruch Chorzów
+
+
+Matchday 4
+[Fri Aug/7]
+  18.00  KS Cracovia              1-2 (1-0)  Piast Gliwice
+  20.30  Bruk-Bet Termalica Nieciecza  1-0 (1-0)  Zagłębie Lubin
+[Sat Aug/8]
+  15.30  Górnik Zabrze            1-3 (1-2)  Jagiellonia Białystok
+  18.00  Pogoń Szczecin           0-0  Górnik Łęczna
+  20.30  Lech Poznań              0-0  Korona Kielce
+[Sun Aug/9]
+  15.30  Śląsk Wrocław            0-0  Lechia Gdańsk
+  18.00  Legia Warszawa           1-1 (1-0)  Wisła Kraków
+[Mon Aug/10]
+  18.00  Ruch Chorzów             1-1 (0-0)  Podbeskidzie Bielsko-Biała
+
+
+Matchday 5
+[Fri Aug/14]
+  18.00  Korona Kielce            0-3 (0-2)  KS Cracovia
+  20.30  Zagłębie Lubin           2-1 (2-0)  Lech Poznań
+[Sat Aug/15]
+  15.30  Bruk-Bet Termalica Nieciecza  3-0 (2-0)  Górnik Zabrze
+  18.00  Górnik Łęczna            2-3 (2-2)  Śląsk Wrocław
+  20.30  Piast Gliwice            2-1 (1-1)  Legia Warszawa
+[Sun Aug/16]
+  15.30  Jagiellonia Białystok    2-1 (1-0)  Ruch Chorzów
+  18.00  Wisła Kraków             3-3 (2-1)  Lechia Gdańsk
+[Mon Aug/17]
+  18.00  Podbeskidzie Bielsko-Biała  2-3 (0-2)  Pogoń Szczecin
+
+
+Matchday 6
+[Fri Aug/21]
+  18.00  Pogoń Szczecin           1-1 (0-1)  Wisła Kraków
+  20.30  Lechia Gdańsk            3-1 (1-1)  Górnik Łęczna
+[Sat Aug/22]
+  15.30  Ruch Chorzów             4-1 (1-1)  Bruk-Bet Termalica Nieciecza
+  18.00  Śląsk Wrocław            1-1 (1-0)  Podbeskidzie Bielsko-Biała
+  20.30  KS Cracovia              1-1 (1-1)  Jagiellonia Białystok
+[Sun Aug/23]
+  15.30  Lech Poznań              0-1 (0-1)  Piast Gliwice
+  18.00  Legia Warszawa           1-2 (0-1)  Korona Kielce
+[Mon Aug/24]
+  18.00  Górnik Zabrze            2-2 (0-2)  Zagłębie Lubin
+
+
+Matchday 7
+[Fri Aug/28]
+  18.00  Podbeskidzie Bielsko-Biała  1-1 (1-1)  Lechia Gdańsk
+  20.30  Wisła Kraków             4-2 (2-1)  Śląsk Wrocław
+[Sat Aug/29]
+  15.30  Piast Gliwice            3-0 (2-0)  Górnik Łęczna
+  18.00  Zagłębie Lubin           3-1 (0-0)  Ruch Chorzów
+  20.30  Korona Kielce            1-1 (1-1)  Pogoń Szczecin
+[Sun Aug/30]
+  15.30  Bruk-Bet Termalica Nieciecza  3-1 (2-0)  Lech Poznań
+         Górnik Zabrze            1-1 (1-1)  KS Cracovia
+  18.00  Jagiellonia Białystok    1-1 (0-1)  Legia Warszawa
+
+
+Matchday 8
+[Fri Sep/11]
+  18.00  Lechia Gdańsk            0-0  Korona Kielce
+  20.30  Legia Warszawa           2-2 (0-2)  Zagłębie Lubin
+[Sat Sep/12]
+  15.30  Śląsk Wrocław            3-1 (0-0)  Jagiellonia Białystok
+  18.00  KS Cracovia              2-3 (2-2)  Bruk-Bet Termalica Nieciecza
+  20.30  Lech Poznań              0-1 (0-0)  Podbeskidzie Bielsko-Biała
+[Sun Sep/13]
+  15.30  Pogoń Szczecin           3-1 (1-1)  Piast Gliwice
+  18.00  Ruch Chorzów             1-0 (1-0)  Górnik Zabrze
+[Mon Sep/14]
+  18.00  Górnik Łęczna            1-0 (1-0)  Wisła Kraków
+
+
+Matchday 9
+[Fri Sep/18]
+  18.00  Górnik Zabrze            2-0 (0-0)  Śląsk Wrocław
+  20.30  Zagłębie Lubin           4-2 (1-0)  KS Cracovia
+[Sat Sep/19]
+  15.30  Bruk-Bet Termalica Nieciecza  1-1 (0-0)  Pogoń Szczecin
+  18.00  Podbeskidzie Bielsko-Biała  0-6 (0-3)  Wisła Kraków
+  20.30  Piast Gliwice            2-1 (1-1)  Lechia Gdańsk
+[Sun Sep/20]
+  15.30  Ruch Chorzów             1-4 (1-3)  Legia Warszawa
+  18.00  Jagiellonia Białystok    1-0 (1-0)  Lech Poznań
+[Mon Sep/21]
+  18.00  Korona Kielce            0-2 (0-1)  Górnik Łęczna
+
+
+Matchday 10
+[Fri Sep/25]
+  18.00  Wisła Kraków             0-0  Korona Kielce
+  20.30  Śląsk Wrocław            1-2 (0-1)  Piast Gliwice
+[Sat Sep/26]
+  15.30  Górnik Łęczna            1-2 (1-1)  Podbeskidzie Bielsko-Biała
+  18.00  KS Cracovia              2-1 (2-0)  Ruch Chorzów
+  20.30  Lech Poznań              1-1 (0-0)  Górnik Zabrze
+[Sun Sep/27]
+  15.30  Lechia Gdańsk            3-1 (0-1)  Zagłębie Lubin
+  18.00  Legia Warszawa           1-1 (0-0)  Bruk-Bet Termalica Nieciecza
+[Mon Sep/28]
+  18.00  Pogoń Szczecin           2-1 (1-0)  Jagiellonia Białystok
+
+
+Matchday 11
+[Fri Oct/2]
+  18.00  Ruch Chorzów             0-2 (0-2)  Pogoń Szczecin
+  20.30  Jagiellonia Białystok    0-3 (0-0)  Lechia Gdańsk
+[Sat Oct/3]
+  15.30  Bruk-Bet Termalica Nieciecza  1-1 (1-1)  Górnik Łęczna
+  18.00  Korona Kielce            0-0  Podbeskidzie Bielsko-Biała
+  20.30  Piast Gliwice            1-0 (1-0)  Wisła Kraków
+[Sun Oct/4]
+  15.30  Zagłębie Lubin           1-1 (0-0)  Śląsk Wrocław
+         Górnik Zabrze            2-2 (2-2)  Legia Warszawa
+  18.00  KS Cracovia              5-2 (3-0)  Lech Poznań
+
+
+Matchday 12
+[Fri Oct/16]
+  18.00  Lechia Gdańsk            1-1 (1-1)  Górnik Zabrze
+  20.30  Śląsk Wrocław            0-1 (0-1)  Korona Kielce
+[Sat Oct/17]
+  15.30  Podbeskidzie Bielsko-Biała  2-2 (1-1)  Piast Gliwice
+  18.00  Górnik Łęczna            3-2 (2-1)  Jagiellonia Białystok
+         Lech Poznań              2-2 (1-2)  Ruch Chorzów
+[Sun Oct/18]
+  15.30  Wisła Kraków             0-0  Bruk-Bet Termalica Nieciecza
+  18.00  Legia Warszawa           3-1 (1-0)  KS Cracovia
+[Mon Oct/19]
+  18.00  Pogoń Szczecin           0-0  Zagłębie Lubin
+
+
+Matchday 13
+[Fri Oct/23]
+  18.00  Ruch Chorzów             1-0 (1-0)  Śląsk Wrocław
+  20.30  Jagiellonia Białystok    1-4 (1-1)  Wisła Kraków
+[Sat Oct/24]
+  15.30  KS Cracovia              4-1 (0-0)  Pogoń Szczecin
+  18.00  Piast Gliwice            0-1 (0-1)  Korona Kielce
+         Zagłębie Lubin           0-0  Górnik Łęczna
+[Sun Oct/25]
+  15.30  Bruk-Bet Termalica Nieciecza  0-1 (0-0)  Lechia Gdańsk
+  18.00  Legia Warszawa           0-1 (0-1)  Lech Poznań
+[Mon Oct/26]
+  18.00  Górnik Zabrze            0-2 (0-1)  Podbeskidzie Bielsko-Biała
+
+
+Matchday 14
+[Fri Oct/30]
+  18.00  Pogoń Szczecin           1-1 (0-0)  Górnik Zabrze
+  20.30  Górnik Łęczna            1-0 (1-0)  KS Cracovia
+         Wisła Kraków             0-0  Ruch Chorzów
+[Sat Oct/31]
+  15.30  Piast Gliwice            2-0 (1-0)  Zagłębie Lubin
+  18.00  Lechia Gdańsk            1-3 (0-1)  Legia Warszawa
+  20.30  Śląsk Wrocław            1-1 (1-0)  Lech Poznań
+[Mon Nov/2]
+  18.00  Korona Kielce            0-1 (0-1)  Bruk-Bet Termalica Nieciecza
+  20.30  Podbeskidzie Bielsko-Biała  1-1 (0-1)  Jagiellonia Białystok
+
+
+Matchday 15
+[Fri Nov/6]
+  18.00  Zagłębie Lubin           1-3 (0-1)  Wisła Kraków
+  20.30  KS Cracovia              4-1 (4-0)  Śląsk Wrocław
+[Sat Nov/7]
+  15.30  Bruk-Bet Termalica Nieciecza  0-2 (0-0)  Podbeskidzie Bielsko-Biała
+  18.00  Ruch Chorzów             3-2 (3-0)  Lechia Gdańsk
+  20.30  Jagiellonia Białystok    0-2 (0-1)  Piast Gliwice
+[Sun Nov/8]
+  15.30  Górnik Zabrze            0-1 (0-1)  Korona Kielce
+         Lech Poznań              3-1 (1-0)  Górnik Łęczna
+  18.00  Legia Warszawa           1-0 (1-0)  Pogoń Szczecin
+
+
+Matchday 16
+[Fri Nov/20]
+  18.00  Bruk-Bet Termalica Nieciecza  3-5 (2-3)  Piast Gliwice
+  20.30  Górnik Zabrze            1-1 (0-1)  Wisła Kraków
+[Sat Nov/21]
+  15.30  Jagiellonia Białystok    1-0 (1-0)  Korona Kielce
+  18.00  Legia Warszawa           1-0 (0-0)  Śląsk Wrocław
+         Górnik Łęczna            0-3 (0-2)  Ruch Chorzów
+[Sun Nov/22]
+  15.30  Podbeskidzie Bielsko-Biała  1-2 (1-1)  Zagłębie Lubin
+  18.00  Pogoń Szczecin           0-2 (0-1)  Lech Poznań
+[Mon Nov/23]
+  18.00  KS Cracovia              3-0 (0-0)  Lechia Gdańsk
+
+
+Matchday 17
+[Fri Nov/27]
+  18.00  Korona Kielce            0-2 (0-1)  Zagłębie Lubin
+  20.30  Piast Gliwice            3-0 (2-0)  Ruch Chorzów
+[Sat Nov/28]
+  15.30  Górnik Zabrze            1-1 (0-0)  Górnik Łęczna
+  20.30  Śląsk Wrocław            0-0  Pogoń Szczecin
+[Sun Nov/29]
+  15.30  Podbeskidzie Bielsko-Biała  2-2 (1-0)  Legia Warszawa
+         Lechia Gdańsk            0-1 (0-0)  Lech Poznań
+  18.00  Wisła Kraków             1-2 (1-2)  KS Cracovia
+[Wed Dec/16]
+  18.00  Bruk-Bet Termalica Nieciecza  2-0 (0-0)  Jagiellonia Białystok
+
+
+Matchday 18
+[Tue Dec/1]
+  18.00  Bruk-Bet Termalica Nieciecza  1-1 (0-1)  Śląsk Wrocław
+         Ruch Chorzów             2-1 (1-0)  Korona Kielce
+  20.30  Górnik Zabrze            5-2 (1-2)  Piast Gliwice
+         Zagłębie Lubin           0-2 (0-0)  Jagiellonia Białystok
+[Wed Dec/2]
+  18.00  Pogoń Szczecin           1-0 (0-0)  Lechia Gdańsk
+         Legia Warszawa           2-1 (2-0)  Górnik Łęczna
+  20.30  Lech Poznań              2-0 (1-0)  Wisła Kraków
+         KS Cracovia              4-1 (2-1)  Podbeskidzie Bielsko-Biała
+
+
+Matchday 19
+[Fri Dec/4]
+  18.00  Zagłębie Lubin           2-0 (1-0)  Bruk-Bet Termalica Nieciecza
+  20.30  Jagiellonia Białystok    2-3 (1-1)  Górnik Zabrze
+[Sat Dec/5]
+  15.30  Korona Kielce            0-1 (0-1)  Lech Poznań
+  18.00  Podbeskidzie Bielsko-Biała  1-1 (1-0)  Ruch Chorzów
+         Piast Gliwice            2-2 (1-1)  KS Cracovia
+[Sun Dec/6]
+  15.30  Lechia Gdańsk            1-0 (1-0)  Śląsk Wrocław
+  18.00  Wisła Kraków             0-2 (0-0)  Legia Warszawa
+[Mon Dec/7]
+  18.00  Górnik Łęczna            2-3 (0-3)  Pogoń Szczecin
+
+
+Matchday 20
+[Fri Dec/11]
+  18.00  Śląsk Wrocław            2-1 (2-1)  Górnik Łęczna
+  20.30  Ruch Chorzów             0-4 (0-1)  Jagiellonia Białystok
+[Sat Dec/12]
+  15.30  Pogoń Szczecin           2-0 (0-0)  Podbeskidzie Bielsko-Biała
+  18.00  Lechia Gdańsk            2-0 (1-0)  Wisła Kraków
+         Górnik Zabrze            0-0  Bruk-Bet Termalica Nieciecza
+[Sun Dec/13]
+  15.30  Lech Poznań              2-0 (1-0)  Zagłębie Lubin
+  18.00  Legia Warszawa           1-1 (0-0)  Piast Gliwice
+[Mon Dec/14]
+  18.00  KS Cracovia              2-2 (1-1)  Korona Kielce
+
+
+Matchday 21
+[Fri Dec/18]
+  18.00  Zagłębie Lubin           2-4 (2-2)  Górnik Zabrze
+  20.30  Wisła Kraków             0-1 (0-1)  Pogoń Szczecin
+[Sat Dec/19]
+  15.30  Bruk-Bet Termalica Nieciecza  0-1 (0-0)  Ruch Chorzów
+  18.00  Górnik Łęczna            3-1 (2-1)  Lechia Gdańsk
+         Jagiellonia Białystok    2-2 (0-1)  KS Cracovia
+[Sun Dec/20]
+  15.30  Korona Kielce            1-3 (1-1)  Legia Warszawa
+  18.00  Piast Gliwice            2-0 (1-0)  Lech Poznań
+[Mon Dec/21]
+  18.00  Podbeskidzie Bielsko-Biała  0-1 (0-1)  Śląsk Wrocław
+
+
+Matchday 22
+[Fri Feb/12]
+  18.00  Ruch Chorzów             0-0  Zagłębie Lubin
+  20.30  Śląsk Wrocław            1-0 (0-0)  Wisła Kraków
+[Sat Feb/13]
+  15.30  Górnik Łęczna            0-0  Piast Gliwice
+  18.00  Lechia Gdańsk            5-0 (0-0)  Podbeskidzie Bielsko-Biała
+         KS Cracovia              3-0 (3-0)  Górnik Zabrze
+[Sun Feb/14]
+  15.30  Lech Poznań              5-2 (2-1)  Bruk-Bet Termalica Nieciecza
+  18.00  Legia Warszawa           4-0 (2-0)  Jagiellonia Białystok
+[Mon Feb/15]
+  18.00  Pogoń Szczecin           3-2 (0-2)  Korona Kielce
+
+
+Matchday 23
+[Fri Feb/19]
+  18.00  Jagiellonia Białystok    2-1 (1-1)  Śląsk Wrocław
+  20.30  Piast Gliwice            0-0  Pogoń Szczecin
+[Sat Feb/20]
+  15.30  Korona Kielce            4-2 (1-1)  Lechia Gdańsk
+  18.00  Bruk-Bet Termalica Nieciecza  1-1 (0-0)  KS Cracovia
+         Podbeskidzie Bielsko-Biała  4-1 (1-0)  Lech Poznań
+[Sun Feb/21]
+  15.30  Zagłębie Lubin           1-2 (0-2)  Legia Warszawa
+  18.00  Górnik Zabrze            0-2 (0-1)  Ruch Chorzów
+[Mon Feb/22]
+  18.00  Wisła Kraków             1-1 (1-0)  Górnik Łęczna
+
+
+Matchday 24
+[Fri Feb/26]
+  18.00  Śląsk Wrocław            0-0  Górnik Zabrze
+  20.30  KS Cracovia              1-2 (0-1)  Zagłębie Lubin
+[Sat Feb/27]
+  15.30  Górnik Łęczna            3-2 (2-2)  Korona Kielce
+  18.00  Lechia Gdańsk            3-1 (2-0)  Piast Gliwice
+  20.30  Wisła Kraków             1-2 (1-0)  Podbeskidzie Bielsko-Biała
+[Sun Feb/28]
+  15.30  Lech Poznań              0-2 (0-2)  Jagiellonia Białystok
+         Pogoń Szczecin           1-1 (0-0)  Bruk-Bet Termalica Nieciecza
+  18.00  Legia Warszawa           2-0 (1-0)  Ruch Chorzów
+
+
+Matchday 25
+[Tue Mar/1]
+  18.00  Podbeskidzie Bielsko-Biała  2-0 (0-0)  Górnik Łęczna
+  20.30  Zagłębie Lubin           1-0 (0-0)  Lechia Gdańsk
+[Wed Mar/2]
+  18.00  Ruch Chorzów             2-3 (2-1)  KS Cracovia
+         Bruk-Bet Termalica Nieciecza  3-0 (1-0)  Legia Warszawa
+  20.30  Jagiellonia Białystok    0-0  Pogoń Szczecin
+         Górnik Zabrze            0-2 (0-1)  Lech Poznań
+[Tue Mar/8]
+  18.00  Piast Gliwice            1-0 (1-0)  Śląsk Wrocław
+         Korona Kielce            1-1 (0-1)  Wisła Kraków
+
+
+Matchday 26
+[Fri Mar/4]
+  18.00  Podbeskidzie Bielsko-Biała  1-1 (1-0)  Korona Kielce
+  20.30  Wisła Kraków             1-1 (0-1)  Piast Gliwice
+[Sat Mar/5]
+  15.30  Górnik Łęczna            1-2 (0-1)  Bruk-Bet Termalica Nieciecza
+  18.00  Śląsk Wrocław            0-2 (0-2)  Zagłębie Lubin
+  20.30  Legia Warszawa           3-1 (1-1)  Górnik Zabrze
+[Sun Mar/6]
+  15.30  Lechia Gdańsk            5-1 (3-0)  Jagiellonia Białystok
+  18.00  Lech Poznań              2-1 (1-1)  KS Cracovia
+[Mon Mar/7]
+  18.00  Pogoń Szczecin           2-3 (2-1)  Ruch Chorzów
+
+
+Matchday 27
+[Fri Mar/11]
+  18.00  Korona Kielce            2-2 (0-1)  Śląsk Wrocław
+  20.30  Piast Gliwice            3-2 (1-1)  Podbeskidzie Bielsko-Biała
+[Sat Mar/12]
+  15.30  Jagiellonia Białystok    1-0 (0-0)  Górnik Łęczna
+  18.00  KS Cracovia              1-2 (1-1)  Legia Warszawa
+  20.30  Ruch Chorzów             1-3 (0-1)  Lech Poznań
+[Sun Mar/13]
+  15.30  Zagłębie Lubin           1-1 (0-1)  Pogoń Szczecin
+  18.00  Górnik Zabrze            1-1 (0-0)  Lechia Gdańsk
+[Mon Mar/14]
+  18.00  Bruk-Bet Termalica Nieciecza  2-4 (1-2)  Wisła Kraków
+
+
+Matchday 28
+[Fri Mar/18]
+  18.00  Korona Kielce            1-1 (1-0)  Piast Gliwice
+  20.30  Wisła Kraków             5-1 (4-0)  Jagiellonia Białystok
+[Sat Mar/19]
+  15.30  Podbeskidzie Bielsko-Biała  0-0  Górnik Zabrze
+  18.00  Śląsk Wrocław            0-0  Ruch Chorzów
+  20.30  Lech Poznań              0-2 (0-2)  Legia Warszawa
+[Sun Mar/20]
+  15.30  Górnik Łęczna            0-2 (0-1)  Zagłębie Lubin
+         Lechia Gdańsk            1-1 (1-0)  Bruk-Bet Termalica Nieciecza
+  18.00  Pogoń Szczecin           2-2 (1-1)  KS Cracovia
+
+
+Matchday 29
+[Fri Apr/1]
+  18.00  Górnik Zabrze            1-1 (1-0)  Pogoń Szczecin
+  20.30  Lech Poznań              0-1 (0-1)  Śląsk Wrocław
+[Sat Apr/2]
+  15.30  Bruk-Bet Termalica Nieciecza  0-1 (0-0)  Korona Kielce
+  18.00  KS Cracovia              0-0  Górnik Łęczna
+  20.30  Legia Warszawa           1-1 (1-0)  Lechia Gdańsk
+[Sun Apr/3]
+  15.30  Zagłębie Lubin           4-1 (2-0)  Piast Gliwice
+  18.00  Ruch Chorzów             2-3 (1-1)  Wisła Kraków
+[Mon Apr/4]
+  18.00  Jagiellonia Białystok    0-3 (0-2)  Podbeskidzie Bielsko-Biała
+
+
+Matchday 30
+[Sat Apr/9]
+  18.00  Piast Gliwice            2-0 (1-0)  Jagiellonia Białystok
+         Wisła Kraków             1-1 (1-0)  Zagłębie Lubin
+         Podbeskidzie Bielsko-Biała  2-0 (0-0)  Bruk-Bet Termalica Nieciecza
+         Korona Kielce            2-1 (1-1)  Górnik Zabrze
+         Lechia Gdańsk            2-0 (2-0)  Ruch Chorzów
+         Śląsk Wrocław            2-1 (0-1)  KS Cracovia
+         Pogoń Szczecin           0-0  Legia Warszawa
+         Górnik Łęczna            0-1 (0-1)  Lech Poznań
+
+
+== Relegation
+
+Matchday 31
+[Sat Apr/16]
+  15.30  Korona Kielce            1-1 (0-0)  Śląsk Wrocław
+[Sun Apr/17]
+  15.30  Podbeskidzie Bielsko-Biała  0-1 (0-0)  Bruk-Bet Termalica Nieciecza
+         Jagiellonia Białystok    2-0 (2-0)  Górnik Łęczna
+  18.00  Wisła Kraków             3-1 (2-1)  Górnik Zabrze
+
+
+Matchday 32
+[Wed Apr/20]
+  18.00  Bruk-Bet Termalica Nieciecza  0-0  Korona Kielce
+         Górnik Łęczna            0-3 (0-0)  Wisła Kraków
+  20.30  Górnik Zabrze            1-0 (1-0)  Podbeskidzie Bielsko-Biała
+         Śląsk Wrocław            3-1 (2-1)  Jagiellonia Białystok
+
+
+Matchday 33
+[Sat Apr/23]
+  15.30  Korona Kielce            1-1 (1-0)  Górnik Łęczna
+  18.00  Podbeskidzie Bielsko-Biała  1-2 (0-1)  Śląsk Wrocław
+[Sun Apr/24]
+  15.30  Jagiellonia Białystok    0-0  Górnik Zabrze
+[Mon Apr/25]
+  18.00  Wisła Kraków             2-2 (0-0)  Bruk-Bet Termalica Nieciecza
+
+
+Matchday 34
+[Fri Apr/29]
+  18.00  Górnik Zabrze            2-1 (1-0)  Śląsk Wrocław
+[Sat Apr/30]
+  18.00  Bruk-Bet Termalica Nieciecza  0-2 (0-1)  Górnik Łęczna
+  20.30  Korona Kielce            3-2 (2-0)  Wisła Kraków
+[Sun May/1]
+  15.30  Jagiellonia Białystok    3-2 (1-1)  Podbeskidzie Bielsko-Biała
+
+
+Matchday 35
+[Fri May/6]
+  18.00  Podbeskidzie Bielsko-Biała  1-1 (0-1)  Korona Kielce
+  20.30  Wisła Kraków             1-0 (1-0)  Jagiellonia Białystok
+[Sat May/7]
+  15.30  Śląsk Wrocław            2-1 (1-0)  Bruk-Bet Termalica Nieciecza
+  18.00  Górnik Łęczna            0-0  Górnik Zabrze
+
+
+Matchday 36
+[Tue May/10]
+  20.30  Górnik Łęczna            5-1 (2-0)  Podbeskidzie Bielsko-Biała
+         Wisła Kraków             1-1 (0-0)  Śląsk Wrocław
+         Górnik Zabrze            0-0  Korona Kielce
+         Jagiellonia Białystok    0-1 (0-0)  Bruk-Bet Termalica Nieciecza
+
+
+Matchday 37
+[Sat May/14]
+  15.30  Podbeskidzie Bielsko-Biała  3-4 (2-1)  Wisła Kraków
+         Śląsk Wrocław            3-2 (1-1)  Górnik Łęczna
+         Korona Kielce            1-3 (0-1)  Jagiellonia Białystok
+         Bruk-Bet Termalica Nieciecza  1-1 (0-1)  Górnik Zabrze
+
+
+== Playoffs
+
+Matchday 31
+[Fri Apr/15]
+  18.00  Pogoń Szczecin           1-1 (0-1)  Ruch Chorzów
+  20.30  Legia Warszawa           1-0 (0-0)  Lech Poznań
+[Sat Apr/16]
+  18.00  Zagłębie Lubin           1-2 (0-1)  Lechia Gdańsk
+  20.30  Piast Gliwice            1-1 (1-0)  KS Cracovia
+
+
+Matchday 32
+[Tue Apr/19]
+  18.00  KS Cracovia              1-0 (0-0)  Zagłębie Lubin
+         Lech Poznań              2-2 (2-0)  Piast Gliwice
+  20.30  Ruch Chorzów             0-0  Legia Warszawa
+         Lechia Gdańsk            2-0 (1-0)  Pogoń Szczecin
+
+
+Matchday 33
+[Fri Apr/22]
+  18.00  Zagłębie Lubin           4-1 (1-1)  Ruch Chorzów
+  20.30  Legia Warszawa           4-0 (3-0)  KS Cracovia
+[Sat Apr/23]
+  20.30  Pogoń Szczecin           1-0 (0-0)  Lech Poznań
+[Sun Apr/24]
+  18.00  Piast Gliwice            3-0 (1-0)  Lechia Gdańsk
+
+
+Matchday 34
+[Thu Apr/28]
+  18.00  Zagłębie Lubin           2-0 (2-0)  Legia Warszawa
+         Lech Poznań              0-0  Lechia Gdańsk
+[Fri Apr/29]
+  20.30  Ruch Chorzów             0-1 (0-1)  KS Cracovia
+[Sun May/1]
+  18.00  Piast Gliwice            2-1 (2-1)  Pogoń Szczecin
+
+
+Matchday 35
+[Sat May/7]
+  20.30  Lechia Gdańsk            2-1 (2-0)  Ruch Chorzów
+[Sun May/8]
+  15.30  Pogoń Szczecin           1-3 (0-0)  Zagłębie Lubin
+         KS Cracovia              2-0 (2-0)  Lech Poznań
+  18.00  Legia Warszawa           4-0 (2-0)  Piast Gliwice
+
+
+Matchday 36
+[Wed May/11]
+  20.30  Lechia Gdańsk            2-0 (1-0)  Legia Warszawa
+         Pogoń Szczecin           3-2 (1-0)  KS Cracovia
+         Ruch Chorzów             0-3 (0-1)  Piast Gliwice
+         Zagłębie Lubin           3-0 (0-0)  Lech Poznań
+
+
+Matchday 37
+[Sun May/15]
+  18.00  Legia Warszawa           3-0 (1-0)  Pogoń Szczecin
+         KS Cracovia              2-0 (1-0)  Lechia Gdańsk
+         Piast Gliwice            0-1 (0-1)  Zagłębie Lubin
+         Lech Poznań              3-0 (1-0)  Ruch Chorzów

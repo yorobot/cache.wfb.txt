@@ -1,0 +1,95 @@
+= NIR 1 2021
+
+# Date       Fri Apr/30 - Sat Jun/5 2021 (36d)
+# Teams      12
+# Matches    33
+# Stages     Championship (15)  Conference L. Playoffs (3)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat May/1]
+  15.00  Coleraine FC             2-0 (1-0)  Cliftonville FC
+         Glentoran FC             0-0  Linfield FC
+  17.30  Crusaders FC             1-3 (1-0)  Larne FC
+
+
+Matchday 2
+[Tue May/4]
+  19.45  Cliftonville FC          1-2 (0-1)  Larne FC
+         Glentoran FC             1-1 (0-0)  Coleraine FC
+         Linfield FC              3-1 (1-0)  Crusaders FC
+
+
+Matchday 3
+[Sat May/15]
+  12.30  Crusaders FC             0-1 (0-0)  Coleraine FC
+  15.00  Glentoran FC             0-2 (0-0)  Cliftonville FC
+         Linfield FC              1-2 (0-0)  Larne FC
+
+
+Matchday 4
+[Tue May/25]
+  19.30  Larne FC                 0-1 (0-0)  Glentoran FC
+  19.45  Cliftonville FC          1-1 (1-0)  Crusaders FC
+         Coleraine FC             1-1 (1-1)  Linfield FC
+
+
+Matchday 5
+[Sat May/29]
+  17.30  Cliftonville FC          0-2 (0-1)  Linfield FC
+         Glentoran FC             2-0 (0-0)  Crusaders FC
+         Larne FC                 1-2 (1-0)  Coleraine FC
+
+
+== Conference L. Playoffs
+
+Semifinals
+[Tue Jun/1]
+  19.30  Cliftonville FC          5-4 pen. 0-0 a.e.t. (0-0)  Crusaders FC
+  19.45  Larne FC                 2-1 (1-1)  Glenavon FC
+
+
+Final
+[Sat Jun/5]
+  17.30  Larne FC                 3-1 (1-0)  Cliftonville FC
+
+
+== Relegation
+
+Matchday 1
+[Fri Apr/30]
+  19.30  Dungannon Swifts         0-2 (0-2)  Carrick Rangers
+[Sat May/1]
+  15.00  Ballymena United         3-1 (0-0)  Glenavon FC
+         Portadown FC             1-2 (1-1)  Warrenpoint Town
+
+
+Matchday 2
+[Tue May/4]
+  19.30  Carrick Rangers          0-4 (0-1)  Ballymena United
+  19.45  Dungannon Swifts         0-1 (0-0)  Warrenpoint Town
+         Glenavon FC              4-1 (1-1)  Portadown FC
+
+
+Matchday 3
+[Fri May/14]
+  19.30  Glenavon FC              4-0 (2-0)  Warrenpoint Town
+[Sat May/15]
+  15.00  Dungannon Swifts         1-3 (0-1)  Ballymena United
+         Portadown FC             2-1 (1-0)  Carrick Rangers
+
+
+Matchday 4
+[Tue May/25]
+  19.45  Ballymena United         3-0 (2-0)  Warrenpoint Town
+         Carrick Rangers          3-6 (1-0)  Glenavon FC
+         Portadown FC             4-2 (1-0)  Dungannon Swifts
+
+
+Matchday 5
+[Sat May/29]
+  17.30  Ballymena United         4-2 (2-2)  Portadown FC
+         Glenavon FC              1-1 (1-1)  Dungannon Swifts
+         Warrenpoint Town         3-1 (2-1)  Carrick Rangers

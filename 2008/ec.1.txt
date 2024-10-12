@@ -1,0 +1,451 @@
+= EC 1 2008
+
+# Date       Fri Feb/8 - Sun Dec/7 2008 (303d)
+# Teams      12
+# Matches    222
+# Stages     Apertura (132)  Clausura (60)  Finalrunde (30)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/8]
+  19.45  LDU Quito                1-0  Deportivo Cuenca
+[Sat Feb/9]
+  14.00  Deportivo Azogues        1-0  Espoli
+[Sun Feb/10]
+  10.00  Universidad Catolica     0-2  Olmedo
+  12.00  Técnico Universitario    2-3  Barcelona
+  12.15  Deportivo Quito          0-0  El Nacional
+  17.00  Emelec                   3-0  Macará
+
+
+Matchday 2
+[Fri Feb/15]
+  18.00  El Nacional              3-2  Deportivo Azogues
+[Sat Feb/16]
+  16.00  Espoli                   1-2  LDU Quito
+  19.00  Deportivo Cuenca         2-0  Técnico Universitario
+         Barcelona                1-0  Universidad Catolica
+[Sun Feb/17]
+  11.30  Macará                   1-3  Deportivo Quito
+  12.00  Olmedo                   0-0  Emelec
+
+
+Matchday 3
+[Sat Feb/23]
+  14.00  Universidad Catolica     0-3  Emelec
+  16.15  Deportivo Quito          1-0  Olmedo
+[Sun Feb/24]
+  11.30  LDU Quito                2-2  El Nacional
+         Deportivo Azogues        0-0  Macará
+  12.00  Técnico Universitario    0-4  Espoli
+  16.00  Barcelona                2-2  Deportivo Cuenca
+
+
+Matchday 4
+[Wed Feb/27]
+  17.00  Olmedo                   1-0  Deportivo Azogues
+  18.45  El Nacional              1-0  Técnico Universitario
+  19.00  Espoli                   2-1  Barcelona
+  19.45  Emelec                   1-1  Deportivo Quito
+  20.00  Deportivo Cuenca         2-1  Universidad Catolica
+  20.30  Macará                   0-1  LDU Quito
+
+
+Matchday 5
+[Sat Mar/1]
+  18.05  LDU Quito                3-1  Olmedo
+[Sun Mar/2]
+  11.30  Deportivo Azogues        0-0  Emelec
+         Universidad Catolica     0-6  Deportivo Quito
+         Deportivo Cuenca         2-1  Espoli
+  12.00  Técnico Universitario    1-0  Macará
+  16.30  Barcelona                3-1  El Nacional
+
+
+Matchday 6
+[Fri Mar/7]
+  18.30  Deportivo Quito          3-2  Deportivo Azogues
+[Sat Mar/8]
+  11.30  El Nacional              1-0  Deportivo Cuenca
+  16.00  Espoli                   1-0  Universidad Catolica
+  19.00  Emelec                   2-1  LDU Quito
+[Sun Mar/9]
+  12.00  Macará                   1-0  Barcelona
+         Olmedo                   0-0  Técnico Universitario
+
+
+Matchday 7
+[Sat Mar/15]
+  14.00  Universidad Catolica     2-2  Deportivo Azogues
+  16.00  Espoli                   3-2  El Nacional
+  19.00  Barcelona                3-2  Olmedo
+[Sun Mar/16]
+  11.30  LDU Quito                1-0  Deportivo Quito
+  12.00  Técnico Universitario    2-1  Emelec
+  18.00  Deportivo Cuenca         1-1  Macará
+
+
+Matchday 8
+[Sat Mar/22]
+  12.00  El Nacional              1-1  Universidad Catolica
+  16.00  Deportivo Azogues        2-2  LDU Quito
+  17.00  Macará                   0-1  Espoli
+[Sun Mar/23]
+  11.30  Deportivo Quito          1-0  Técnico Universitario
+  12.00  Olmedo                   0-0  Deportivo Cuenca
+  17.00  Emelec                   1-1  Barcelona
+
+
+Matchday 9
+[Sat Mar/29]
+  16.00  Espoli                   2-2  Olmedo
+[Sun Mar/30]
+  10.30  El Nacional              0-0  Macará
+  12.00  Técnico Universitario    1-0  Deportivo Azogues
+  12.30  Universidad Catolica     0-2  LDU Quito
+  16.00  Barcelona                2-1  Deportivo Quito
+[Wed Apr/2]
+  20.00  Deportivo Cuenca         4-0  Emelec
+
+
+Matchday 10
+[Fri Apr/4]
+  19.15  LDU Quito                3-1  Técnico Universitario
+[Sat Apr/5]
+  17.00  Olmedo                   0-2  El Nacional
+[Sun Apr/6]
+  11.30  Macará                   1-2  Universidad Catolica
+         Deportivo Quito          1-1  Deportivo Cuenca
+  12.30  Deportivo Azogues        1-1  Barcelona
+  17.00  Emelec                   2-0  Espoli
+
+
+Matchday 11
+[Fri Apr/11]
+  20.00  Deportivo Cuenca         1-0  Deportivo Azogues
+[Sat Apr/12]
+  16.00  Espoli                   2-2  Deportivo Quito
+         Macará                   0-0  Olmedo
+  19.00  Barcelona                1-1  LDU Quito
+[Sun Apr/13]
+  10.00  Universidad Catolica     3-1  Técnico Universitario
+  12.00  El Nacional              3-0  Emelec
+
+
+Matchday 12
+[Sat Apr/19]
+  15.00  Técnico Universitario    3-3  Universidad Catolica
+  17.00  Deportivo Quito          3-0  Espoli
+         Olmedo                   0-1  Macará
+[Sun Apr/20]
+  11.30  LDU Quito                1-0  Barcelona
+  12.00  Deportivo Azogues        0-1  Deportivo Cuenca
+  18.00  Emelec                   1-0  El Nacional
+
+
+Matchday 13
+[Fri Apr/25]
+  19.30  Técnico Universitario    2-1  LDU Quito
+[Sat Apr/26]
+  16.00  Espoli                   6-2  Emelec
+[Sun Apr/27]
+  10.00  Universidad Catolica     0-1  Macará
+  12.00  El Nacional              2-1  Olmedo
+         Deportivo Cuenca         0-0  Deportivo Quito
+  16.00  Barcelona                2-0  Deportivo Azogues
+
+
+Matchday 14
+[Sat May/3]
+  15.00  Deportivo Azogues        5-0  Técnico Universitario
+  15.30  LDU Quito                1-1  Universidad Catolica
+  17.00  Olmedo                   1-1  Espoli
+[Sun May/4]
+  11.30  Deportivo Quito          2-2  Barcelona
+  12.00  Macará                   0-0  El Nacional
+  18.00  Emelec                   0-0  Deportivo Cuenca
+
+
+Matchday 15
+[Fri May/9]
+  19.30  Técnico Universitario    0-4  Deportivo Quito
+  20.00  Deportivo Cuenca         0-1  Olmedo
+[Sat May/10]
+  14.00  Universidad Catolica     0-0  El Nacional
+  15.30  LDU Quito                4-0  Deportivo Azogues
+  16.00  Espoli                   0-2  Macará
+  19.30  Barcelona                0-0  Emelec
+
+
+Matchday 16
+[Fri May/16]
+  18.30  El Nacional              2-0  Espoli
+[Sat May/17]
+  16.00  Deportivo Azogues        2-4  Universidad Catolica
+[Sun May/18]
+  12.00  Deportivo Quito          3-2  LDU Quito
+         Olmedo                   2-2  Barcelona
+         Macará                   2-1  Deportivo Cuenca
+  18.00  Emelec                   1-0  Técnico Universitario
+
+
+Matchday 17
+[Fri May/23]
+  16.00  Deportivo Azogues        0-1  Deportivo Quito
+  19.00  Barcelona                2-0  Macará
+  19.30  Técnico Universitario    1-0  Olmedo
+  20.00  Deportivo Cuenca         1-0  El Nacional
+[Sat May/24]
+  12.00  Universidad Catolica     0-2  Espoli
+[Sun Jul/6]
+  11.30  LDU Quito                2-0  Emelec
+
+
+Matchday 18
+[Fri May/30]
+  19.00  Deportivo Quito          2-1  Universidad Catolica
+[Sat May/31]
+  16.00  El Nacional              3-2  Barcelona
+         Espoli                   0-1  Deportivo Cuenca
+  18.00  Olmedo                   0-3  LDU Quito
+[Sun Jun/1]
+  12.00  Macará                   1-0  Técnico Universitario
+  18.00  Emelec                   1-1  Deportivo Azogues
+
+
+Matchday 19
+[Wed Jun/4]
+  16.00  Deportivo Azogues        2-0  Olmedo
+  17.00  Universidad Catolica     2-1  Deportivo Cuenca
+  19.00  Barcelona                1-3  Espoli
+         Deportivo Quito          2-1  Emelec
+  19.30  Técnico Universitario    3-2  El Nacional
+[Wed Jul/9]
+  19.15  LDU Quito                1-1  Macará
+
+
+Matchday 20
+[Fri Jun/20]
+  19.15  El Nacional              2-1  LDU Quito
+[Sat Jun/21]
+  16.00  Espoli                   1-3  Técnico Universitario
+  18.00  Macará                   3-0  Deportivo Azogues
+[Sun Jun/22]
+  11.30  Deportivo Cuenca         2-2  Barcelona
+  12.00  Olmedo                   0-1  Deportivo Quito
+  17.30  Emelec                   2-1  Universidad Catolica
+
+
+Matchday 21
+[Fri Jun/27]
+  19.30  Técnico Universitario    0-2  Deportivo Cuenca
+[Sat Jun/28]
+  15.30  Deportivo Azogues        1-1  El Nacional
+  18.00  LDU Quito                0-1  Espoli
+[Sun Jun/29]
+  09.45  Deportivo Quito          2-0  Macará
+  12.00  Universidad Catolica     0-1  Barcelona
+  17.00  Emelec                   1-1  Olmedo
+
+
+Matchday 22
+[Sun Jul/13]
+  12.00  Barcelona                2-0  Técnico Universitario
+         El Nacional              2-0  Deportivo Quito
+         Olmedo                   1-1  Universidad Catolica
+         Deportivo Cuenca         2-1  LDU Quito
+         Espoli                   0-0  Deportivo Azogues
+         Macará                   3-1  Emelec
+
+
+== Clausura
+
+Matchday 1
+[Sat Jul/19]
+  16.00  Deportivo Quito          2-1  Deportivo Azogues
+         Espoli                   1-2  Técnico Universitario
+  18.00  Universidad Catolica     3-0  LDU Quito
+[Sun Jul/20]
+  12.00  Olmedo                   2-1  Emelec
+         Macará                   1-0  Deportivo Cuenca
+  16.00  Barcelona                1-0  El Nacional
+
+
+Matchday 2
+[Wed Jul/23]
+  16.00  Deportivo Azogues        1-3  Barcelona
+  19.00  LDU Quito                2-2  Macará
+         El Nacional              0-4  Olmedo
+  19.30  Emelec                   1-0  Deportivo Quito
+         Técnico Universitario    2-2  Universidad Catolica
+  20.00  Deportivo Cuenca         1-1  Espoli
+
+
+Matchday 3
+[Sun Jul/27]
+  09.00  Universidad Catolica     0-1  Espoli
+  11.00  Deportivo Quito          2-2  Olmedo
+         Deportivo Cuenca         0-0  LDU Quito
+  13.00  El Nacional              1-0  Deportivo Azogues
+  15.30  Macará                   1-1  Técnico Universitario
+  16.00  Barcelona                0-1  Emelec
+
+
+Matchday 4
+[Fri Aug/1]
+  19.00  Técnico Universitario    2-1  Deportivo Cuenca
+[Sat Aug/2]
+  14.00  Espoli                   0-1  LDU Quito
+  16.00  Deportivo Quito          1-0  El Nacional
+  18.00  Universidad Catolica     1-2  Macará
+[Sun Aug/3]
+  12.00  Olmedo                   0-1  Barcelona
+  18.00  Emelec                   0-1  Deportivo Azogues
+
+
+Matchday 5
+[Fri Aug/8]
+  20.00  Deportivo Cuenca         2-2  Universidad Catolica
+[Sat Aug/9]
+  15.00  Deportivo Azogues        0-2  Olmedo
+  16.00  Macará                   2-3  Espoli
+  18.00  LDU Quito                0-0  Técnico Universitario
+[Sun Aug/10]
+  11.30  El Nacional              1-0  Emelec
+  16.00  Barcelona                1-0  Deportivo Quito
+
+
+Matchday 6
+[Sat Aug/16]
+  14.00  Espoli                   0-1  Macará
+  16.00  Olmedo                   3-2  Deportivo Azogues
+[Sun Aug/17]
+  10.00  Universidad Catolica     2-1  Deportivo Cuenca
+  12.00  Deportivo Quito          0-0  Barcelona
+         Técnico Universitario    1-1  LDU Quito
+  18.00  Emelec                   1-0  El Nacional
+
+
+Matchday 7
+[Fri Aug/22]
+  20.00  Deportivo Cuenca         2-0  Técnico Universitario
+[Sat Aug/23]
+  16.00  El Nacional              2-1  Deportivo Quito
+         Macará                   3-2  Universidad Catolica
+[Sun Aug/24]
+  11.30  LDU Quito                2-1  Espoli
+  12.00  Deportivo Azogues        1-2  Emelec
+  16.00  Barcelona                1-0  Olmedo
+
+
+Matchday 8
+[Sat Sep/13]
+  14.00  Espoli                   0-1  Universidad Catolica
+  15.00  Deportivo Azogues        1-1  El Nacional
+  16.00  Olmedo                   0-1  Deportivo Quito
+[Sun Sep/14]
+  12.00  LDU Quito                2-1  Deportivo Cuenca
+         Técnico Universitario    0-0  Macará
+  17.00  Emelec                   0-3  Barcelona
+
+
+Matchday 9
+[Fri Sep/19]
+  19.00  Barcelona                2-0  Deportivo Azogues
+[Sat Sep/20]
+  14.00  Espoli                   0-0  Deportivo Cuenca
+  16.00  Olmedo                   1-0  El Nacional
+[Sun Sep/21]
+  10.00  Universidad Catolica     1-1  Técnico Universitario
+  12.00  Deportivo Quito          6-0  Emelec
+         Macará                   2-0  LDU Quito
+
+
+Matchday 10
+[Fri Sep/26]
+  12.00  Deportivo Azogues        0-1  Deportivo Quito
+  19.00  El Nacional              2-1  Barcelona
+         Técnico Universitario    1-0  Espoli
+         Deportivo Cuenca         4-3  Macará
+[Sat Sep/27]
+  16.00  LDU Quito                4-0  Universidad Catolica
+         Emelec                   1-1  Olmedo
+
+
+== Finalrunde
+
+Matchday 1
+[Sun Oct/19]
+  11.30  El Nacional              0-0  Barcelona
+         Deportivo Cuenca         0-1  Deportivo Quito
+         Macará                   0-1  LDU Quito
+
+
+Matchday 2
+[Wed Oct/22]
+  16.00  Barcelona                1-0  Deportivo Cuenca
+  18.00  Deportivo Quito          2-0  Macará
+  19.30  LDU Quito                3-1  El Nacional
+
+
+Matchday 3
+[Sun Oct/26]
+  11.30  LDU Quito                0-2  Deportivo Quito
+         Macará                   1-1  Barcelona
+         Deportivo Cuenca         1-1  El Nacional
+
+
+Matchday 4
+[Fri Oct/31]
+  19.00  Deportivo Cuenca         2-2  Macará
+  19.30  El Nacional              1-0  Deportivo Quito
+[Sun Nov/2]
+  16.30  Barcelona                2-1  LDU Quito
+
+
+Matchday 5
+[Sat Nov/8]
+  16.00  Macará                   0-1  El Nacional
+[Sun Nov/9]
+  11.30  LDU Quito                1-2  Deportivo Cuenca
+  12.00  Deportivo Quito          1-1  Barcelona
+
+
+Matchday 6
+[Fri Nov/14]
+  20.30  Deportivo Cuenca         0-2  LDU Quito
+[Sun Nov/16]
+  11.30  El Nacional              2-2  Macará
+  16.00  Barcelona                1-1  Deportivo Quito
+
+
+Matchday 7
+[Fri Nov/21]
+  19.30  Macará                   1-2  Deportivo Cuenca
+[Sun Nov/23]
+  11.30  LDU Quito                2-1  Barcelona
+  16.00  Deportivo Quito          1-0  El Nacional
+
+
+Matchday 8
+[Fri Nov/28]
+  19.15  El Nacional              2-0  Deportivo Cuenca
+[Sun Nov/30]
+  11.30  Deportivo Quito          2-0  LDU Quito
+  16.00  Barcelona                2-2  Macará
+
+
+Matchday 9
+[Wed Dec/3]
+  19.30  Deportivo Cuenca         2-0  Barcelona
+         Macará                   1-2  Deportivo Quito
+         El Nacional              1-1  LDU Quito
+
+
+Matchday 10
+[Sun Dec/7]
+  11.30  Barcelona                1-1  El Nacional
+         Deportivo Quito          0-1  Deportivo Cuenca
+         LDU Quito                4-3  Macará

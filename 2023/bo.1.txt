@@ -1,0 +1,513 @@
+= BO 1 2023
+
+# Date       Sat Feb/4 - Wed Dec/6 2023 (305d)
+# Teams      17
+# Matches    272
+
+
+
+Matchday 1
+[Sat Feb/4]
+  15.00  Libertad Gran Mamoré     3-2 (1-0)  Vaca Díez
+  17.30  The Strongest            2-1 (0-0)  Universitario de Vinto
+  20.00  Oriente Petrolero        3-0 (0-0)  Nacional Potosí
+[Sun Feb/5]
+  15.00  CD Guabirá               1-2 (0-1)  Bolívar
+  17.30  Club Aurora              0-0  Always Ready
+  19.30  Blooming                 1-1 (0-1)  Jorge Wilstermann
+[Mon Feb/6]
+  15.00  Real Santa Cruz          2-1 (1-0)  Atlético Palmaflor
+  19.00  Royal Pari               2-1 (0-1)  Independiente Petrolero
+
+
+Matchday 2
+[Fri Feb/10]
+  15.00  Always Ready             5-0 (2-0)  Libertad Gran Mamoré
+[Sat Feb/11]
+  15.00  Universitario de Vinto   1-1 (0-1)  Oriente Petrolero
+  17.30  Nacional Potosí          3-0 (2-0)  Blooming
+  20.00  Bolívar                  3-1 (1-0)  Royal Pari
+[Sun Feb/12]
+  15.00  Real Tomayapo            1-0 (0-0)  Real Santa Cruz
+  17.30  Independiente Petrolero  1-4 (0-3)  The Strongest
+  19.30  Jorge Wilstermann        0-2 (0-2)  Club Aurora
+[Mon Feb/13]
+  19.00  Atlético Palmaflor       2-0 (1-0)  CD Guabirá
+
+
+Matchday 3
+[Fri Feb/17]
+  18.00  Blooming                 3-4 (2-1)  Universitario de Vinto
+  20.30  The Strongest            3-2 (2-1)  Bolívar
+[Sat Feb/18]
+  15.00  Royal Pari               0-3 (0-0)  Atlético Palmaflor
+  17.30  CD Guabirá               1-0 (0-0)  Real Tomayapo
+  20.00  Oriente Petrolero        2-0 (1-0)  Independiente Petrolero
+[Sun Feb/19]
+  15.00  Libertad Gran Mamoré     1-1 (1-1)  Jorge Wilstermann
+  19.30  Club Aurora              2-0 (1-0)  Nacional Potosí
+[Wed May/10]
+  15.00  Vaca Díez                1-1 (0-0)  Always Ready
+
+
+Matchday 4
+[Fri Feb/24]
+  20.00  Real Tomayapo            0-2 (0-2)  Royal Pari
+[Sat Feb/25]
+  15.00  Real Santa Cruz          0-0  CD Guabirá
+  17.30  Nacional Potosí          5-1 (3-1)  Libertad Gran Mamoré
+  20.00  Independiente Petrolero  2-0 (1-0)  Blooming
+[Sun Feb/26]
+  15.00  Universitario de Vinto   1-1 (1-0)  Club Aurora
+  17.30  Bolívar                  4-0 (1-0)  Oriente Petrolero
+  19.30  Atlético Palmaflor       0-1 (0-0)  The Strongest
+[Mon Feb/27]
+  19.00  Jorge Wilstermann        2-2 (2-0)  Vaca Díez
+
+
+Matchday 5
+[Fri Mar/3]
+  19.00  Oriente Petrolero        1-2 (0-0)  Atlético Palmaflor
+[Sat Mar/4]
+  15.00  Vaca Díez                0-2 (0-2)  Nacional Potosí
+  17.30  Royal Pari               1-1 (1-0)  Real Santa Cruz
+  20.00  Club Aurora              2-0 (1-0)  Independiente Petrolero
+[Sun Mar/5]
+  15.00  Always Ready             2-2 (2-2)  Jorge Wilstermann
+  17.30  The Strongest            3-1 (0-1)  Real Tomayapo
+  19.30  Blooming                 0-5 (0-2)  Bolívar
+[Mon Mar/6]
+  15.00  Libertad Gran Mamoré     0-0  Universitario de Vinto
+
+
+Matchday 6
+[Fri Mar/10]
+  17.30  Independiente Petrolero  4-0 (3-0)  Libertad Gran Mamoré
+[Sat Mar/11]
+  15.00  Real Santa Cruz          1-1 (1-0)  The Strongest
+  17.30  CD Guabirá               3-2 (2-0)  Royal Pari
+  20.00  Real Tomayapo            1-1 (0-1)  Oriente Petrolero
+[Sun Mar/12]
+  15.00  Nacional Potosí          0-2 (0-2)  Always Ready
+  17.30  Bolívar                  1-0 (0-0)  Club Aurora
+[Mon Mar/13]
+  15.00  Universitario de Vinto   2-0 (0-0)  Vaca Díez
+  19.30  Atlético Palmaflor       3-2 (1-0)  Blooming
+
+
+Matchday 7
+[Thu Mar/30]
+  20.00  Blooming                 2-2 (1-2)  Real Tomayapo
+[Sat Apr/1]
+  15.00  Vaca Díez                1-0 (1-0)  Independiente Petrolero
+[Sun Apr/2]
+  15.00  Always Ready             1-2 (0-1)  Universitario de Vinto
+[Mon Apr/3]
+  19.00  Club Aurora              2-1 (0-1)  Atlético Palmaflor
+[Tue Apr/4]
+  19.00  Jorge Wilstermann        0-0  Nacional Potosí
+[Wed Apr/12]
+  15.00  Libertad Gran Mamoré     2-0 (1-0)  Bolívar
+[Wed May/10]
+  17.30  The Strongest            1-0 (1-0)  CD Guabirá
+  20.00  Oriente Petrolero        0-1 (0-1)  Real Santa Cruz
+
+
+Matchday 8
+[Fri Apr/7]
+  19.00  Atlético Palmaflor       4-1 (2-0)  Libertad Gran Mamoré
+[Sat Apr/8]
+  15.00  Royal Pari               0-2 (0-1)  The Strongest
+  17.30  Universitario de Vinto   0-1 (0-1)  Jorge Wilstermann
+  20.00  Real Santa Cruz          2-1 (0-0)  Blooming
+[Sun Apr/9]
+  15.00  Bolívar                  3-0 (1-0)  Vaca Díez
+  17.30  CD Guabirá               2-3 (1-2)  Oriente Petrolero
+  19.30  Independiente Petrolero  1-2 (1-1)  Always Ready
+[Mon Apr/10]
+  20.00  Real Tomayapo            2-1 (1-0)  Club Aurora
+
+
+Matchday 9
+[Fri Apr/14]
+  20.00  Oriente Petrolero        1-2 (0-1)  Royal Pari
+[Sat Apr/15]
+  15.00  Always Ready             2-2 (1-2)  Bolívar
+  17.30  Blooming                 3-1 (1-0)  CD Guabirá
+  20.00  Jorge Wilstermann        0-1 (0-1)  Independiente Petrolero
+[Sun Apr/16]
+  15.00  Libertad Gran Mamoré     1-1 (0-0)  Real Tomayapo
+  17.30  Nacional Potosí          2-1 (1-0)  Universitario de Vinto
+  19.30  Club Aurora              1-1 (0-0)  Real Santa Cruz
+[Mon Apr/17]
+  15.00  Vaca Díez                3-1 (3-0)  Atlético Palmaflor
+
+
+Matchday 10
+[Fri Apr/21]
+  18.00  Independiente Petrolero  0-1 (0-0)  Nacional Potosí
+  20.00  Royal Pari               1-2 (1-0)  Blooming
+[Sat Apr/22]
+  17.30  CD Guabirá               1-0 (1-0)  Club Aurora
+  20.00  The Strongest            0-0  Oriente Petrolero
+[Sun Apr/23]
+  15.00  Real Santa Cruz          3-2 (1-1)  Libertad Gran Mamoré
+  17.30  Bolívar                  1-3 (1-0)  Jorge Wilstermann
+  19.30  Real Tomayapo            3-2 (1-1)  Vaca Díez
+[Wed May/31]
+  15.00  Atlético Palmaflor       0-2 (0-1)  Always Ready
+
+
+Matchday 11
+[Fri Apr/28]
+  15.00  Universitario de Vinto   0-1 (0-0)  Independiente Petrolero
+  20.00  Blooming                 1-3 (1-1)  The Strongest
+[Sat Apr/29]
+  20.00  Club Aurora              3-0 (1-0)  Royal Pari
+[Sun Apr/30]
+  15.00  Vaca Díez                2-1 (1-1)  Real Santa Cruz
+  17.30  Nacional Potosí          3-2 (1-1)  Bolívar
+  19.30  Jorge Wilstermann        4-0 (1-0)  Atlético Palmaflor
+[Mon May/1]
+  15.00  Libertad Gran Mamoré     0-1 (0-1)  CD Guabirá
+[Tue May/2]
+  15.00  Always Ready             1-1 (1-0)  Real Tomayapo
+
+
+Matchday 12
+[Fri May/5]
+  19.00  CD Guabirá               2-2 (0-1)  Vaca Díez
+[Sat May/6]
+  15.00  Real Santa Cruz          2-1 (0-0)  Always Ready
+  17.30  Real Tomayapo            0-0  Jorge Wilstermann
+  20.00  Royal Pari               2-0 (0-0)  Libertad Gran Mamoré
+[Sun May/7]
+  15.00  The Strongest            2-2 (1-0)  Club Aurora
+  17.30  Atlético Palmaflor       0-1 (0-0)  Nacional Potosí
+  20.00  Oriente Petrolero        1-1 (0-0)  Blooming
+[Mon May/8]
+  19.00  Bolívar                  1-1 (0-0)  Universitario de Vinto
+
+
+Matchday 13
+[Fri May/12]
+  18.00  Universitario de Vinto   0-1 (0-1)  Atlético Palmaflor
+  20.00  Nacional Potosí          3-1 (1-0)  Real Tomayapo
+[Sat May/13]
+  15.00  Vaca Díez                1-1 (1-0)  Royal Pari
+  19.00  Jorge Wilstermann        1-0 (1-0)  Real Santa Cruz
+[Sun May/14]
+  15.00  Libertad Gran Mamoré     1-0 (1-0)  The Strongest
+  17.30  Independiente Petrolero  2-1 (1-1)  Bolívar
+  19.30  Club Aurora              2-2 (1-0)  Oriente Petrolero
+[Mon May/15]
+  15.00  Always Ready             3-0 (2-0)  CD Guabirá
+
+
+Matchday 14
+[Fri May/19]
+  15.00  Real Santa Cruz          2-0 (1-0)  Nacional Potosí
+  20.00  Real Tomayapo            0-2 (0-1)  Universitario de Vinto
+[Sat May/20]
+  15.00  Royal Pari               1-2 (1-0)  Always Ready
+  20.00  The Strongest            4-1 (1-1)  Vaca Díez
+[Sun May/21]
+  15.00  CD Guabirá               1-1 (1-1)  Jorge Wilstermann
+         Blooming                 2-1 (1-0)  Club Aurora
+  19.30  Atlético Palmaflor       0-1 (0-1)  Independiente Petrolero
+[Sun Jun/11]
+  19.30  Oriente Petrolero        1-1 (0-0)  Libertad Gran Mamoré
+
+
+Matchday 15
+[Fri May/26]
+  20.00  Bolívar                  5-1 (1-0)  Atlético Palmaflor
+[Sat May/27]
+  15.00  Libertad Gran Mamoré     2-1 (1-1)  Blooming
+  17.30  Jorge Wilstermann        0-0  Royal Pari
+  20.00  Independiente Petrolero  0-3 (0-2)  Real Tomayapo
+[Sun May/28]
+  17.30  Nacional Potosí          6-0 (3-0)  CD Guabirá
+  19.30  Universitario de Vinto   1-0 (0-0)  Real Santa Cruz
+[Mon May/29]
+  15.00  Vaca Díez                3-1 (1-0)  Oriente Petrolero
+         Always Ready             2-0 (1-0)  The Strongest
+
+
+Matchday 16
+[Fri Jun/2]
+  19.00  Club Aurora              5-0 (3-0)  Libertad Gran Mamoré
+[Sat Jun/3]
+  15.00  Royal Pari               2-2 (0-2)  Nacional Potosí
+  17.30  Real Tomayapo            0-0  Bolívar
+  20.00  Blooming                 3-1 (2-1)  Vaca Díez
+[Sun Jun/4]
+  15.00  Real Santa Cruz          1-0 (0-0)  Independiente Petrolero
+  17.30  The Strongest            1-0 (1-0)  Jorge Wilstermann
+  19.30  Oriente Petrolero        2-0 (2-0)  Always Ready
+[Mon Jun/5]
+  15.00  CD Guabirá               1-0 (1-0)  Universitario de Vinto
+
+
+Matchday 17
+[Fri Jun/23]
+  15.00  Vaca Díez                2-3 (2-1)  Club Aurora
+  19.00  Atlético Palmaflor       0-0  Real Tomayapo
+[Sat Jun/24]
+  15.00  Nacional Potosí          6-3 (4-0)  The Strongest
+  20.00  Universitario de Vinto   1-2 (0-1)  Royal Pari
+[Sun Jun/25]
+  15.00  Always Ready             2-0 (0-0)  Blooming
+  17.30  Bolívar                  3-0 (2-0)  Real Santa Cruz
+  19.30  Jorge Wilstermann        3-2 (1-1)  Oriente Petrolero
+[Mon Jun/26]
+  19.00  Independiente Petrolero  1-0 (1-0)  CD Guabirá
+
+
+Matchday 18
+[Fri Jul/7]
+  20.00  Atlético Palmaflor       1-0 (1-0)  Real Santa Cruz
+[Sat Jul/8]
+  15.00  Vaca Díez                2-1 (0-1)  Libertad Gran Mamoré
+  17.30  Bolívar                  3-1 (1-1)  CD Guabirá
+  20.00  Jorge Wilstermann        1-0 (1-0)  Blooming
+[Sun Jul/9]
+  15.00  Always Ready             3-1 (1-1)  Club Aurora
+  17.30  Independiente Petrolero  4-2 (0-0)  Royal Pari
+  19.30  Universitario de Vinto   1-3 (0-1)  The Strongest
+[Mon Jul/10]
+  20.00  Nacional Potosí          3-1 (1-1)  Oriente Petrolero
+
+
+Matchday 19
+[Sat Jul/15]
+  15.00  Libertad Gran Mamoré     1-2 (1-1)  Always Ready
+         CD Guabirá               1-0 (1-0)  Atlético Palmaflor
+[Sun Jul/16]
+  15.00  Royal Pari               0-0  Bolívar
+  17.30  Club Aurora              1-0 (0-0)  Jorge Wilstermann
+  19.30  Blooming                 1-0 (0-0)  Nacional Potosí
+[Mon Jul/17]
+  15.00  Real Santa Cruz          1-0 (0-0)  Real Tomayapo
+  17.30  The Strongest            2-0 (1-0)  Independiente Petrolero
+  20.00  Oriente Petrolero        1-1 (0-0)  Universitario de Vinto
+
+
+Matchday 20
+[Sat Jul/22]
+  15.00  Nacional Potosí          0-0  Club Aurora
+  17.30  Jorge Wilstermann        1-0 (0-0)  Libertad Gran Mamoré
+[Sun Jul/23]
+  15.00  Real Tomayapo            2-0 (1-0)  CD Guabirá
+  17.30  Bolívar                  3-0 (2-0)  The Strongest
+  19.30  Atlético Palmaflor       2-2 (2-1)  Royal Pari
+[Mon Jul/24]
+  15.00  Always Ready             1-0 (1-0)  Vaca Díez
+  18.00  Universitario de Vinto   1-0 (0-0)  Blooming
+  20.00  Independiente Petrolero  2-0 (1-0)  Oriente Petrolero
+
+
+Matchday 21
+[Fri Jul/28]
+  19.30  Royal Pari               1-2 (0-0)  Real Tomayapo
+[Sat Jul/29]
+  15.00  Vaca Díez                2-2 (0-1)  Jorge Wilstermann
+  17.30  The Strongest            4-0 (1-0)  Atlético Palmaflor
+  20.00  Oriente Petrolero        1-1 (1-0)  Bolívar
+[Sun Jul/30]
+  15.00  Club Aurora              0-1 (0-0)  Universitario de Vinto
+         CD Guabirá               1-2 (0-1)  Real Santa Cruz
+  19.30  Blooming                 1-0 (1-0)  Independiente Petrolero
+[Mon Jul/31]
+  15.00  Libertad Gran Mamoré     3-2 (1-2)  Nacional Potosí
+
+
+Matchday 22
+[Fri Aug/4]
+  15.00  Universitario de Vinto   1-1 (1-0)  Libertad Gran Mamoré
+  19.00  Bolívar                  6-1 (1-0)  Blooming
+[Sat Aug/5]
+  15.00  Nacional Potosí          6-1 (2-1)  Vaca Díez
+  17.30  Independiente Petrolero  1-1 (0-0)  Club Aurora
+  20.00  Atlético Palmaflor       1-2 (1-1)  Oriente Petrolero
+[Sun Aug/6]
+  15.00  Real Santa Cruz          1-0 (1-0)  Royal Pari
+  17.30  Real Tomayapo            0-0  The Strongest
+  19.30  Jorge Wilstermann        3-0 (2-0)  Always Ready
+
+
+Matchday 23
+[Fri Aug/11]
+  15.00  Vaca Díez                0-0  Universitario de Vinto
+[Sat Aug/12]
+  15.00  Always Ready             3-3 (2-1)  Nacional Potosí
+  17.30  Club Aurora              2-1 (1-1)  Bolívar
+  20.00  Oriente Petrolero        2-0 (1-0)  Real Tomayapo
+[Sun Aug/13]
+  15.00  Libertad Gran Mamoré     0-1 (0-0)  Independiente Petrolero
+  17.30  The Strongest            4-0 (3-0)  Real Santa Cruz
+  19.30  Royal Pari               4-1 (3-1)  CD Guabirá
+[Mon Aug/14]
+  19.30  Blooming                 1-1 (0-0)  Atlético Palmaflor
+
+
+Matchday 24
+[Fri Aug/18]
+  19.00  Atlético Palmaflor       0-1 (0-1)  Club Aurora
+  20.00  Bolívar                  3-0 (2-0)  Libertad Gran Mamoré
+[Sat Aug/19]
+  15.00  Real Santa Cruz          0-5 (0-3)  Oriente Petrolero
+  20.00  Independiente Petrolero  0-1 (0-1)  Vaca Díez
+[Sun Aug/20]
+  15.00  Universitario de Vinto   1-1 (0-0)  Always Ready
+  17.30  Nacional Potosí          2-1 (0-0)  Jorge Wilstermann
+[Mon Aug/21]
+  20.00  Real Tomayapo            0-0  Blooming
+[Tue Nov/7]
+  19.30  CD Guabirá               4-1 (1-1)  The Strongest
+
+
+Matchday 25
+[Wed Aug/23]
+  15.00  Jorge Wilstermann        0-0  Universitario de Vinto
+  20.00  The Strongest            3-2 (1-0)  Royal Pari
+[Thu Aug/24]
+  15.00  Club Aurora              1-2 (1-0)  Real Tomayapo
+  20.30  Blooming                 1-3 (1-1)  Real Santa Cruz
+[Fri Aug/25]
+  20.00  Oriente Petrolero        1-0 (0-0)  CD Guabirá
+[Sat Aug/26]
+  15.00  Libertad Gran Mamoré     2-1 (1-0)  Atlético Palmaflor
+[Tue Nov/7]
+  15.00  Always Ready             3-2 (0-1)  Independiente Petrolero
+[Wed Nov/8]
+  15.00  Vaca Díez                4-3 (1-2)  Bolívar
+
+
+Matchday 26
+[Tue Oct/3]
+  15.00  Universitario de Vinto   0-0  Nacional Potosí
+  18.00  Independiente Petrolero  0-3 (0-0)  Jorge Wilstermann
+  20.30  Bolívar                  5-0 (2-0)  Always Ready
+[Wed Oct/4]
+  15.00  Real Santa Cruz          1-1 (0-1)  Club Aurora
+  18.00  Real Tomayapo            3-2 (2-1)  Libertad Gran Mamoré
+  20.30  Royal Pari               1-1 (1-1)  Oriente Petrolero
+[Thu Oct/5]
+  15.00  Atlético Palmaflor       2-2 (1-2)  Vaca Díez
+  20.00  CD Guabirá               2-1 (1-0)  Blooming
+
+
+Matchday 27
+[Sat Oct/7]
+  15.00  Libertad Gran Mamoré     1-0 (0-0)  Real Santa Cruz
+  17.30  Nacional Potosí          2-4 (1-1)  Independiente Petrolero
+[Sun Oct/8]
+  15.00  Always Ready             2-0 (0-0)  Atlético Palmaflor
+  17.30  Jorge Wilstermann        3-1 (1-1)  Bolívar
+  19.30  Oriente Petrolero        1-1 (0-1)  The Strongest
+[Mon Oct/9]
+  14.55  Vaca Díez                0-1 (0-0)  Real Tomayapo
+  18.00  Club Aurora              1-0 (0-0)  CD Guabirá
+  20.30  Blooming                 1-1 (1-0)  Royal Pari
+
+
+Matchday 28
+[Sun Oct/15]
+  16.00  Atlético Palmaflor       2-0 (0-0)  Jorge Wilstermann
+[Thu Oct/19]
+  19.00  Royal Pari               2-2 (1-0)  Club Aurora
+[Fri Oct/20]
+  15.00  Real Santa Cruz          2-1 (1-0)  Vaca Díez
+  19.00  The Strongest            1-0 (1-0)  Blooming
+  20.30  Real Tomayapo            2-0 (0-0)  Always Ready
+[Sat Oct/21]
+  17.00  Bolívar                  4-3 (1-1)  Nacional Potosí
+  20.00  CD Guabirá               2-2 (1-2)  Libertad Gran Mamoré
+[Sun Oct/22]
+  16.00  Independiente Petrolero  0-2 (0-1)  Universitario de Vinto
+
+
+Matchday 29
+[Sat Nov/4]
+  15.00  Always Ready             2-0 (1-0)  Real Santa Cruz
+         Vaca Díez                3-0 (1-0)  CD Guabirá
+  18.30  Club Aurora              0-3 (0-2)  The Strongest
+[Sun Nov/5]
+  15.00  Universitario de Vinto   2-2 (1-1)  Bolívar
+         Libertad Gran Mamoré     0-2 (0-0)  Royal Pari
+  19.30  Blooming                 2-1 (1-1)  Oriente Petrolero
+[Mon Nov/6]
+  18.00  Nacional Potosí          4-1 (2-0)  Atlético Palmaflor
+  20.00  Jorge Wilstermann        3-0 (1-0)  Real Tomayapo
+
+
+Matchday 30
+[Fri Nov/10]
+  18.00  Atlético Palmaflor       1-1 (0-1)  Universitario de Vinto
+  20.00  The Strongest            8-0 (5-0)  Libertad Gran Mamoré
+[Sat Nov/11]
+  15.00  Real Santa Cruz          1-1 (0-1)  Jorge Wilstermann
+  17.30  Bolívar                  5-1 (2-1)  Independiente Petrolero
+  20.00  CD Guabirá               0-0  Always Ready
+[Sun Nov/12]
+  17.30  Real Tomayapo            0-0  Nacional Potosí
+  19.30  Oriente Petrolero        1-0 (1-0)  Club Aurora
+[Mon Nov/13]
+  19.30  Royal Pari               2-1 (0-1)  Vaca Díez
+
+
+Matchday 31
+[Sat Nov/18]
+  15.00  Universitario de Vinto   0-1 (0-1)  Real Tomayapo
+  17.30  Nacional Potosí          6-0 (2-0)  Real Santa Cruz
+[Sun Nov/19]
+  15.00  Libertad Gran Mamoré     3-1 (1-1)  Oriente Petrolero
+  17.30  Jorge Wilstermann        1-0 (1-0)  CD Guabirá
+  19.30  Independiente Petrolero  1-0 (1-0)  Atlético Palmaflor
+[Thu Nov/23]
+  15.00  Always Ready             3-0 (1-0)  Royal Pari
+         Vaca Díez                2-2 (1-1)  The Strongest
+  19.30  Club Aurora              3-1 (1-1)  Blooming
+
+
+Matchday 32
+[Fri Nov/24]
+  19.30  Real Tomayapo            2-1 (0-0)  Independiente Petrolero
+[Sat Nov/25]
+  15.00  Real Santa Cruz          0-0  Universitario de Vinto
+  17.30  CD Guabirá               6-1 (4-1)  Nacional Potosí
+  19.30  Atlético Palmaflor       1-7 (0-3)  Bolívar
+[Sun Nov/26]
+  15.00  Royal Pari               0-0  Jorge Wilstermann
+  17.30  The Strongest            1-1 (1-0)  Always Ready
+  19.30  Blooming                 0-1 (0-0)  Libertad Gran Mamoré
+[Mon Nov/27]
+  20.00  Oriente Petrolero        1-0 (1-0)  Vaca Díez
+
+
+Matchday 33
+[Fri Dec/1]
+  15.00  Universitario de Vinto   1-0 (0-0)  CD Guabirá
+  19.00  Bolívar                  4-1 (2-0)  Real Tomayapo
+  20.30  Jorge Wilstermann        1-1 (0-0)  The Strongest
+[Sat Dec/2]
+  15.00  Independiente Petrolero  1-0 (1-0)  Real Santa Cruz
+         Always Ready             4-1 (1-0)  Oriente Petrolero
+         Vaca Díez                0-3 (0-2)  Blooming
+         Libertad Gran Mamoré     0-1 (0-0)  Club Aurora
+[Sun Dec/3]
+  18.00  Nacional Potosí          6-1 (3-1)  Royal Pari
+
+
+Matchday 34
+[Tue Dec/5]
+  15.00  Real Santa Cruz          3-1 (1-1)  Bolívar
+  20.00  Club Aurora              3-0 (2-0)  Vaca Díez
+         Oriente Petrolero        3-0 (2-0)  Jorge Wilstermann
+         CD Guabirá               2-0 (1-0)  Independiente Petrolero
+[Wed Dec/6]
+  15.00  Royal Pari               1-1 (0-1)  Universitario de Vinto
+  19.00  The Strongest            1-0 (1-0)  Nacional Potosí
+  20.00  Blooming                 2-1 (2-1)  Always Ready
+         Real Tomayapo            4-0 (1-0)  Atlético Palmaflor

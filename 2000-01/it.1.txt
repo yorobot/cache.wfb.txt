@@ -1,0 +1,481 @@
+= IT 1 2000/01
+
+# Date       Sat Sep/30 2000 - Sun Jun/17 2001 (260d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sat Sep/30]
+         AS Bari                  1-1 (0-0)  Hellas Verona
+         SSC Napoli               1-2 (1-0)  Juventus
+[Sun Oct/1]
+         Udinese Calcio           4-2 (1-0)  Brescia Calcio
+         AS Roma                  2-0 (1-0)  Bologna FC
+         AC Perugia               1-1 (0-1)  US Lecce
+         Reggina Calcio           2-1 (1-1)  Inter
+         AC Milan                 2-0 (1-0)  Vicenza Calcio
+         Atalanta                 2-2 (1-1)  Lazio Roma
+         Parma AC                 2-2 (1-0)  ACF Fiorentina
+
+
+Matchday 2
+[Sat Oct/14]
+         Inter                    3-1 (3-0)  SSC Napoli
+         Lazio Roma               3-0 (1-0)  AC Perugia
+[Sun Oct/15]
+         Hellas Verona            1-1 (0-0)  Udinese Calcio
+         US Lecce                 0-4 (0-1)  AS Roma
+         Juventus                 2-0 (1-0)  AS Bari
+         ACF Fiorentina           2-1 (0-0)  Reggina Calcio
+         Brescia Calcio           0-0  Parma AC
+         Bologna FC               2-1 (1-0)  AC Milan
+         Vicenza Calcio           1-2 (0-0)  Atalanta
+
+
+Matchday 3
+[Sat Oct/21]
+         Udinese Calcio           3-0 (1-0)  Inter
+         AC Milan                 2-2 (0-0)  Juventus
+[Sun Oct/22]
+         SSC Napoli               1-5 (0-2)  Bologna FC
+         Hellas Verona            2-0 (0-0)  Lazio Roma
+         AS Bari                  0-2 (0-0)  Atalanta
+         Brescia Calcio           1-1 (0-0)  ACF Fiorentina
+         Reggina Calcio           0-1 (0-1)  US Lecce
+         AC Perugia               3-1 (3-0)  Parma AC
+         AS Roma                  3-1 (1-0)  Vicenza Calcio
+
+
+Matchday 4
+[Wed Nov/1]
+         Inter                    2-0 (1-0)  AS Roma
+         Vicenza Calcio           1-0 (0-0)  AC Perugia
+         Parma AC                 2-0 (1-0)  AC Milan
+         US Lecce                 1-1 (0-0)  SSC Napoli
+         Juventus                 1-2 (0-1)  Udinese Calcio
+         ACF Fiorentina           2-2 (1-0)  AS Bari
+         Bologna FC               2-0 (0-0)  Reggina Calcio
+         Atalanta                 3-0 (2-0)  Hellas Verona
+         Lazio Roma               2-1 (1-1)  Brescia Calcio
+
+
+Matchday 5
+[Sat Nov/4]
+         Lazio Roma               2-0 (1-0)  Bologna FC
+         ACF Fiorentina           3-4 (2-2)  AC Perugia
+[Sun Nov/5]
+         Udinese Calcio           2-0 (0-0)  US Lecce
+         SSC Napoli               1-2 (1-1)  Vicenza Calcio
+         Hellas Verona            2-2 (2-1)  Inter
+         Reggina Calcio           0-2 (0-1)  Juventus
+         AS Bari                  0-1 (0-0)  Parma AC
+         Brescia Calcio           2-4 (2-1)  AS Roma
+         AC Milan                 3-3 (1-3)  Atalanta
+
+
+Matchday 6
+[Sat Nov/11]
+         Atalanta                 2-0 (1-0)  Brescia Calcio
+         Juventus                 1-1 (1-1)  Lazio Roma
+[Sun Nov/12]
+         Inter                    0-1 (0-1)  US Lecce
+         Vicenza Calcio           2-2 (0-0)  Hellas Verona
+         AS Roma                  2-1 (1-0)  Reggina Calcio
+         AC Perugia               1-1 (0-1)  SSC Napoli
+         Bologna FC               1-1 (1-0)  ACF Fiorentina
+         AS Bari                  1-3 (0-0)  AC Milan
+         Parma AC                 2-0 (0-0)  Udinese Calcio
+
+
+Matchday 7
+[Sat Nov/18]
+         Lazio Roma               1-1 (1-0)  AC Milan
+         SSC Napoli               0-0  Atalanta
+[Sun Nov/19]
+         US Lecce                 2-0 (1-0)  AS Bari
+         Udinese Calcio           3-0 (2-0)  Reggina Calcio
+         Hellas Verona            1-4 (1-2)  AS Roma
+         Inter                    2-1 (1-1)  AC Perugia
+         ACF Fiorentina           3-2 (1-2)  Vicenza Calcio
+         Brescia Calcio           0-0  Juventus
+         Bologna FC               2-1 (0-0)  Parma AC
+
+
+Matchday 8
+[Sat Nov/25]
+         AC Milan                 1-0 (1-0)  SSC Napoli
+         Atalanta                 1-0 (1-0)  US Lecce
+[Sun Nov/26]
+         AS Roma                  1-0 (0-0)  ACF Fiorentina
+         Vicenza Calcio           0-0  Inter
+         Reggina Calcio           0-3 (0-0)  Brescia Calcio
+         AC Perugia               1-3 (0-2)  Bologna FC
+         Juventus                 2-1 (1-0)  Hellas Verona
+         AS Bari                  2-1 (0-0)  Udinese Calcio
+         Parma AC                 2-0 (1-0)  Lazio Roma
+
+
+Matchday 9
+[Sat Dec/2]
+         Parma AC                 2-0 (1-0)  Atalanta
+         Lazio Roma               2-0 (1-0)  Reggina Calcio
+[Sun Dec/3]
+         US Lecce                 1-1 (1-0)  ACF Fiorentina
+         Hellas Verona            2-1 (1-0)  Brescia Calcio
+         Udinese Calcio           0-1 (0-0)  AC Milan
+         AC Perugia               0-0  AS Roma
+         Bologna FC               1-1 (1-1)  Vicenza Calcio
+         SSC Napoli               1-0 (0-0)  AS Bari
+         Inter                    2-2 (1-2)  Juventus
+
+
+Matchday 10
+[Sat Dec/9]
+         Brescia Calcio           1-1 (1-0)  SSC Napoli
+         Reggina Calcio           1-1 (0-1)  Hellas Verona
+[Sun Dec/10]
+         AC Milan                 4-1 (3-1)  US Lecce
+         Vicenza Calcio           1-4 (0-2)  Lazio Roma
+         AS Roma                  2-1 (2-1)  Udinese Calcio
+         ACF Fiorentina           2-0 (0-0)  Inter
+         AS Bari                  2-0 (1-0)  Bologna FC
+         Atalanta                 0-0  AC Perugia
+         Juventus                 1-0 (1-0)  Parma AC
+
+
+Matchday 11
+[Sat Dec/16]
+         AC Perugia               4-1 (1-0)  AS Bari
+         SSC Napoli               6-2 (3-0)  Reggina Calcio
+[Sun Dec/17]
+         Hellas Verona            1-1 (1-1)  AC Milan
+         Udinese Calcio           1-3 (1-1)  ACF Fiorentina
+         Lazio Roma               0-1 (0-0)  AS Roma
+         Inter                    0-0  Brescia Calcio
+         Bologna FC               0-1 (0-0)  Atalanta
+         Parma AC                 0-2 (0-0)  Vicenza Calcio
+         US Lecce                 1-4 (0-2)  Juventus
+
+
+Matchday 12
+[Fri Dec/22]
+         AS Roma                  0-0  Juventus
+         AS Bari                  1-2 (0-1)  Lazio Roma
+[Sat Dec/23]
+         Udinese Calcio           3-1 (2-0)  Bologna FC
+         Reggina Calcio           1-0 (0-0)  Vicenza Calcio
+         Brescia Calcio           2-2 (0-1)  US Lecce
+         Atalanta                 0-1 (0-0)  Inter
+         SSC Napoli               2-2 (0-1)  Parma AC
+         AC Milan                 1-2 (1-1)  AC Perugia
+         ACF Fiorentina           2-0 (1-0)  Hellas Verona
+
+
+Matchday 13
+[Sat Jan/6]
+         Vicenza Calcio           1-0 (1-0)  AS Bari
+         Juventus                 3-3 (1-2)  ACF Fiorentina
+[Sun Jan/7]
+         AC Perugia               3-1 (2-1)  Udinese Calcio
+         Parma AC                 0-2 (0-1)  Reggina Calcio
+         US Lecce                 4-2 (0-1)  Hellas Verona
+         Bologna FC               1-0 (1-0)  Brescia Calcio
+         Atalanta                 0-2 (0-2)  AS Roma
+         AC Milan                 2-2 (0-1)  Inter
+         Lazio Roma               1-2 (0-2)  SSC Napoli
+
+
+Matchday 14
+[Sat Jan/13]
+         ACF Fiorentina           4-0 (1-0)  AC Milan
+         Brescia Calcio           1-0 (1-0)  AC Perugia
+[Sun Jan/14]
+         Udinese Calcio           3-4 (0-2)  Lazio Roma
+         AS Roma                  1-1 (0-0)  AS Bari
+         Hellas Verona            2-1 (0-0)  SSC Napoli
+         Inter                    1-1 (0-1)  Parma AC
+         Reggina Calcio           1-0 (1-0)  Atalanta
+         US Lecce                 3-1 (2-0)  Vicenza Calcio
+         Juventus                 1-0 (1-0)  Bologna FC
+
+
+Matchday 15
+[Sat Jan/20]
+         Lazio Roma               2-0 (1-0)  Inter
+         Bologna FC               1-0 (1-0)  Hellas Verona
+[Sun Jan/21]
+         AC Perugia               0-1 (0-0)  Juventus
+         Parma AC                 1-1 (0-0)  US Lecce
+         AC Milan                 3-2 (3-1)  AS Roma
+         AS Bari                  2-1 (1-1)  Reggina Calcio
+         Atalanta                 0-0  ACF Fiorentina
+         SSC Napoli               0-1 (0-0)  Udinese Calcio
+         Vicenza Calcio           1-1 (0-1)  Brescia Calcio
+
+
+Matchday 16
+[Sat Jan/27]
+         Reggina Calcio           0-2 (0-2)  AC Perugia
+         US Lecce                 0-0  Bologna FC
+[Sun Jan/28]
+         Udinese Calcio           2-4 (1-4)  Atalanta
+         AS Roma                  3-0 (2-0)  SSC Napoli
+         Hellas Verona            0-2 (0-1)  Parma AC
+         Inter                    1-0 (1-0)  AS Bari
+         ACF Fiorentina           1-4 (0-1)  Lazio Roma
+         Brescia Calcio           1-1 (0-1)  AC Milan
+         Juventus                 4-0 (3-0)  Vicenza Calcio
+
+
+Matchday 17
+[Sat Feb/3]
+         AC Perugia               1-0 (0-0)  Hellas Verona
+         Atalanta                 2-1 (0-0)  Juventus
+[Sun Feb/4]
+         Vicenza Calcio           1-2 (1-1)  Udinese Calcio
+         Parma AC                 1-2 (1-0)  AS Roma
+         AC Milan                 1-0 (0-0)  Reggina Calcio
+         Bologna FC               0-3 (0-1)  Inter
+         AS Bari                  1-3 (0-1)  Brescia Calcio
+         SSC Napoli               1-0 (0-0)  ACF Fiorentina
+         Lazio Roma               3-2 (1-0)  US Lecce
+
+
+Matchday 18
+[Sat Feb/10]
+         Inter                    1-1 (1-1)  Reggina Calcio
+         Lazio Roma               0-0  Atalanta
+[Sun Feb/11]
+         Bologna FC               1-2 (0-2)  AS Roma
+         Hellas Verona            3-2 (0-1)  AS Bari
+         Brescia Calcio           3-1 (0-0)  Udinese Calcio
+         Vicenza Calcio           2-0 (1-0)  AC Milan
+         Juventus                 3-0 (1-0)  SSC Napoli
+         ACF Fiorentina           0-1 (0-1)  Parma AC
+         US Lecce                 2-2 (1-1)  AC Perugia
+
+
+Matchday 19
+[Sat Feb/17]
+         Udinese Calcio           2-1 (1-0)  Hellas Verona
+         AC Milan                 3-3 (2-0)  Bologna FC
+[Sun Feb/18]
+         Atalanta                 1-1 (1-0)  Vicenza Calcio
+         AS Roma                  1-0 (0-0)  US Lecce
+         AS Bari                  0-1 (0-0)  Juventus
+         Reggina Calcio           1-1 (1-1)  ACF Fiorentina
+         Parma AC                 3-0 (0-0)  Brescia Calcio
+         AC Perugia               0-1 (0-0)  Lazio Roma
+         SSC Napoli               1-0 (0-0)  Inter
+
+
+Matchday 20
+[Sat Feb/24]
+         Atalanta                 0-0  AS Bari
+         ACF Fiorentina           2-2 (1-1)  Brescia Calcio
+[Sun Feb/25]
+         Bologna FC               2-1 (1-1)  SSC Napoli
+         Lazio Roma               5-3 (2-0)  Hellas Verona
+         Inter                    2-1 (1-1)  Udinese Calcio
+         Juventus                 3-0 (1-0)  AC Milan
+         US Lecce                 2-1 (1-1)  Reggina Calcio
+         Parma AC                 5-0 (2-0)  AC Perugia
+         Vicenza Calcio           0-2 (0-0)  AS Roma
+
+
+Matchday 21
+[Sat Mar/3]
+         Reggina Calcio           2-1 (2-0)  Bologna FC
+         Brescia Calcio           0-1 (0-0)  Lazio Roma
+[Sun Mar/4]
+         AC Perugia               1-0 (1-0)  Vicenza Calcio
+         AC Milan                 2-2 (1-1)  Parma AC
+         SSC Napoli               1-1 (0-0)  US Lecce
+         Udinese Calcio           0-2 (0-1)  Juventus
+         AS Bari                  2-1 (1-1)  ACF Fiorentina
+         Hellas Verona            2-1 (1-1)  Atalanta
+         AS Roma                  3-2 (2-2)  Inter
+
+
+Matchday 22
+[Sat Mar/10]
+         Vicenza Calcio           2-0 (0-0)  SSC Napoli
+         Atalanta                 1-1 (0-1)  AC Milan
+[Sun Mar/11]
+         Juventus                 1-0 (1-0)  Reggina Calcio
+         Inter                    2-0 (1-0)  Hellas Verona
+         US Lecce                 2-1 (1-1)  Udinese Calcio
+         Parma AC                 4-0 (3-0)  AS Bari
+         AC Perugia               2-2 (1-0)  ACF Fiorentina
+         AS Roma                  3-1 (1-1)  Brescia Calcio
+         Bologna FC               2-0 (1-0)  Lazio Roma
+
+
+Matchday 23
+[Sun Mar/18]
+         US Lecce                 1-2 (0-1)  Inter
+         Hellas Verona            1-0 (0-0)  Vicenza Calcio
+         Reggina Calcio           0-0  AS Roma
+         SSC Napoli               0-0  AC Perugia
+         Lazio Roma               4-1 (1-0)  Juventus
+         ACF Fiorentina           1-1 (0-1)  Bologna FC
+         AC Milan                 4-0 (1-0)  AS Bari
+         Udinese Calcio           1-3 (0-1)  Parma AC
+[Mon Mar/19]
+         Brescia Calcio           0-3 (0-2)  Atalanta
+
+
+Matchday 24
+[Sat Mar/31]
+         Vicenza Calcio           1-1 (1-0)  ACF Fiorentina
+         AS Bari                  3-2 (1-2)  US Lecce
+[Sun Apr/1]
+         Reggina Calcio           1-1 (0-0)  Udinese Calcio
+         Atalanta                 1-1 (0-1)  SSC Napoli
+         AS Roma                  3-1 (0-1)  Hellas Verona
+         Juventus                 1-1 (1-0)  Brescia Calcio
+         Parma AC                 0-0  Bologna FC
+         AC Milan                 1-0 (0-0)  Lazio Roma
+         AC Perugia               2-3 (1-1)  Inter
+
+
+Matchday 25
+[Sun Apr/8]
+         SSC Napoli               0-0  AC Milan
+         Udinese Calcio           2-0 (1-0)  AS Bari
+         Hellas Verona            0-1 (0-1)  Juventus
+         US Lecce                 0-2 (0-0)  Atalanta
+         Bologna FC               3-2 (2-2)  AC Perugia
+         Brescia Calcio           4-0 (1-0)  Reggina Calcio
+         Inter                    1-1 (0-1)  Vicenza Calcio
+[Mon Apr/9]
+         ACF Fiorentina           3-1 (1-1)  AS Roma
+
+
+Matchday 26
+[Sat Apr/14]
+         Brescia Calcio           1-0 (1-0)  Hellas Verona
+         AS Roma                  2-2 (0-1)  AC Perugia
+         AC Milan                 3-0 (2-0)  Udinese Calcio
+         AS Bari                  0-1 (0-0)  SSC Napoli
+         Atalanta                 0-1 (0-1)  Parma AC
+         Reggina Calcio           0-2 (0-1)  Lazio Roma
+         Juventus                 3-1 (0-0)  Inter
+         Vicenza Calcio           4-2 (3-0)  Bologna FC
+         ACF Fiorentina           2-0 (1-0)  US Lecce
+
+
+Matchday 25
+[Wed Apr/18]
+         Lazio Roma               1-0 (1-0)  Parma AC
+
+
+Matchday 27
+[Sat Apr/21]
+         SSC Napoli               1-1 (0-0)  Brescia Calcio
+         Inter                    4-2 (3-0)  ACF Fiorentina
+[Sun Apr/22]
+         Lazio Roma               2-1 (1-0)  Vicenza Calcio
+         Udinese Calcio           1-3 (0-2)  AS Roma
+         Hellas Verona            0-3 (0-3)  Reggina Calcio
+         Parma AC                 0-0  Juventus
+         Bologna FC               4-2 (1-1)  AS Bari
+         AC Perugia               2-2 (1-1)  Atalanta
+         US Lecce                 3-3 (1-2)  AC Milan
+
+
+Matchday 28
+[Sat Apr/28]
+         Reggina Calcio           3-1 (2-0)  SSC Napoli
+         Vicenza Calcio           0-1 (0-0)  Parma AC
+[Sun Apr/29]
+         AS Bari                  3-4 (2-0)  AC Perugia
+         Juventus                 1-1 (1-1)  US Lecce
+         AC Milan                 1-0 (0-0)  Hellas Verona
+         ACF Fiorentina           2-1 (1-1)  Udinese Calcio
+         Atalanta                 2-2 (0-0)  Bologna FC
+         AS Roma                  2-2 (0-0)  Lazio Roma
+         Brescia Calcio           1-0 (0-0)  Inter
+
+
+Matchday 29
+[Sat May/5]
+         US Lecce                 0-3 (0-1)  Brescia Calcio
+         Bologna FC               1-1 (1-1)  Udinese Calcio
+[Sun May/6]
+         Hellas Verona            2-1 (0-0)  ACF Fiorentina
+         Juventus                 2-2 (2-0)  AS Roma
+         Vicenza Calcio           2-1 (0-0)  Reggina Calcio
+         AC Perugia               2-1 (1-1)  AC Milan
+         Lazio Roma               2-0 (2-0)  AS Bari
+         Inter                    3-0 (3-0)  Atalanta
+         Parma AC                 4-0 (1-0)  SSC Napoli
+
+
+Matchday 30
+[Fri May/11]
+         ACF Fiorentina           1-3 (1-2)  Juventus
+         Inter                    0-6 (0-2)  AC Milan
+[Sat May/12]
+         Hellas Verona            0-0  US Lecce
+         Reggina Calcio           2-0 (1-0)  Parma AC
+         AS Bari                  2-2 (0-0)  Vicenza Calcio
+         Brescia Calcio           0-0  Bologna FC
+         AS Roma                  1-0 (0-0)  Atalanta
+         SSC Napoli               2-4 (1-1)  Lazio Roma
+         Udinese Calcio           3-3 (0-3)  AC Perugia
+
+
+Matchday 31
+[Thu May/17]
+         AC Milan                 1-2 (1-2)  ACF Fiorentina
+         Parma AC                 3-1 (1-0)  Inter
+[Sun May/20]
+         Bologna FC               1-4 (1-2)  Juventus
+         SSC Napoli               2-0 (1-0)  Hellas Verona
+         Lazio Roma               3-1 (2-0)  Udinese Calcio
+         AS Bari                  1-4 (0-2)  AS Roma
+         Vicenza Calcio           0-0  US Lecce
+         AC Perugia               2-2 (0-1)  Brescia Calcio
+         Atalanta                 1-1 (1-1)  Reggina Calcio
+
+
+Matchday 32
+[Sun May/27]
+         AS Roma                  1-1 (0-1)  AC Milan
+         Udinese Calcio           0-0  SSC Napoli
+         US Lecce                 1-2 (0-0)  Parma AC
+         Brescia Calcio           2-1 (2-0)  Vicenza Calcio
+         Hellas Verona            5-4 (3-1)  Bologna FC
+         Reggina Calcio           1-0 (0-0)  AS Bari
+         ACF Fiorentina           1-1 (1-1)  Atalanta
+         Juventus                 1-0 (0-0)  AC Perugia
+         Inter                    1-1 (0-1)  Lazio Roma
+
+
+Matchday 33
+[Sun Jun/10]
+         AC Perugia               1-1 (0-1)  Reggina Calcio
+         Parma AC                 1-2 (0-1)  Hellas Verona
+         SSC Napoli               2-2 (1-1)  AS Roma
+         Bologna FC               2-2 (0-1)  US Lecce
+         Vicenza Calcio           0-3 (0-2)  Juventus
+         AS Bari                  1-2 (1-1)  Inter
+         Lazio Roma               3-0 (2-0)  ACF Fiorentina
+         AC Milan                 1-1 (0-0)  Brescia Calcio
+         Atalanta                 0-1 (0-1)  Udinese Calcio
+
+
+Matchday 34
+[Sun Jun/17]
+         Udinese Calcio           2-3 (2-3)  Vicenza Calcio
+         Juventus                 2-1 (1-0)  Atalanta
+         Brescia Calcio           3-1 (2-1)  AS Bari
+         Inter                    2-1 (2-0)  Bologna FC
+         US Lecce                 2-1 (0-1)  Lazio Roma
+         Reggina Calcio           2-1 (0-0)  AC Milan
+         ACF Fiorentina           1-2 (0-0)  SSC Napoli
+         AS Roma                  3-1 (2-0)  Parma AC
+         Hellas Verona            2-1 (1-0)  AC Perugia

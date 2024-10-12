@@ -1,0 +1,375 @@
+= NIR 1 2017/18
+
+# Date       Fri Aug/11 2017 - Sat Mar/31 2018 (232d)
+# Teams      12
+# Matches    198
+
+
+
+Matchday 1
+[Fri Aug/11]
+  19.45  Ballymena United         1-4 (0-0)  Crusaders FC
+[Sat Aug/12]
+  15.00  Ballinamallard United FC  1-2 (1-1)  Glentoran FC
+         Cliftonville FC          6-3 (3-2)  Ards FC
+         Dungannon Swifts         1-3 (0-0)  Coleraine FC
+         Linfield FC              2-0 (2-0)  Carrick Rangers
+  17.30  Warrenpoint Town         2-3 (1-2)  Glenavon FC
+
+
+Matchday 2
+[Tue Aug/15]
+  19.45  Ards FC                  0-2 (0-2)  Linfield FC
+         Carrick Rangers          1-1 (0-0)  Ballymena United
+         Coleraine FC             2-0 (0-0)  Cliftonville FC
+         Crusaders FC             5-0 (4-0)  Warrenpoint Town
+         Glenavon FC              6-2 (1-1)  Ballinamallard United FC
+         Glentoran FC             2-0 (0-0)  Dungannon Swifts
+
+
+Matchday 3
+[Sat Aug/19]
+  15.00  Ballinamallard United FC  1-1 (1-1)  Cliftonville FC
+         Ballymena United         1-6 (0-0)  Glenavon FC
+         Crusaders FC             1-2 (0-2)  Coleraine FC
+         Dungannon Swifts         0-4 (0-3)  Linfield FC
+         Glentoran FC             1-1 (1-0)  Carrick Rangers
+         Warrenpoint Town         1-0 (0-0)  Ards FC
+
+
+Matchday 4
+[Fri Aug/25]
+  19.45  Ards FC                  0-1 (0-0)  Dungannon Swifts
+         Glenavon FC              2-2 (1-0)  Glentoran FC
+  20.00  Carrick Rangers          2-0 (1-0)  Ballinamallard United FC
+         Coleraine FC             2-1 (1-1)  Warrenpoint Town
+[Sat Aug/26]
+  15.00  Cliftonville FC          1-2 (0-2)  Crusaders FC
+         Linfield FC              1-0 (0-0)  Ballymena United
+
+
+Matchday 5
+[Sat Sep/2]
+  15.00  Ballymena United         1-0 (0-0)  Cliftonville FC
+         Coleraine FC             4-2 (3-1)  Glenavon FC
+         Dungannon Swifts         2-0 (1-0)  Ballinamallard United FC
+         Glentoran FC             2-0 (0-0)  Warrenpoint Town
+[Tue Sep/5]
+  19.45  Carrick Rangers          0-1 (0-0)  Ards FC
+[Tue Sep/12]
+  19.45  Crusaders FC             2-1 (2-0)  Linfield FC
+
+
+Matchday 6
+[Fri Sep/8]
+  19.45  Glenavon FC              2-0 (0-0)  Carrick Rangers
+[Sat Sep/9]
+  15.00  Ards FC                  0-3 (0-0)  Coleraine FC
+         Ballinamallard United FC  1-5 (0-2)  Crusaders FC
+         Cliftonville FC          2-1 (0-0)  Dungannon Swifts
+         Linfield FC              1-0 (1-0)  Glentoran FC
+         Warrenpoint Town         1-3 (1-1)  Ballymena United
+
+
+Matchday 7
+[Sat Sep/16]
+  15.00  Ballymena United         1-3 (0-1)  Glentoran FC
+         Coleraine FC             3-0 (1-0)  Carrick Rangers
+         Crusaders FC             0-0  Ards FC
+         Dungannon Swifts         2-1 (1-1)  Warrenpoint Town
+         Glenavon FC              3-1 (1-0)  Cliftonville FC
+         Linfield FC              4-0 (1-0)  Ballinamallard United FC
+
+
+Matchday 8
+[Fri Sep/22]
+  19.45  Warrenpoint Town         1-4 (1-1)  Linfield FC
+[Sat Sep/23]
+  15.00  Glenavon FC              3-0 (2-0)  Ards FC
+         Ballinamallard United FC  1-3 (0-2)  Ballymena United
+         Carrick Rangers          1-2 (1-0)  Cliftonville FC
+         Crusaders FC             1-1 (0-0)  Dungannon Swifts
+         Glentoran FC             0-0  Coleraine FC
+
+
+Matchday 9
+[Fri Sep/29]
+  19.45  Glenavon FC              1-1 (1-0)  Dungannon Swifts
+[Sat Sep/30]
+  15.00  Ballinamallard United FC  0-2 (0-0)  Ards FC
+         Ballymena United         0-2 (0-1)  Coleraine FC
+         Cliftonville FC          3-2 (0-1)  Linfield FC
+         Warrenpoint Town         2-2 (1-1)  Carrick Rangers
+[Mon Oct/2]
+  19.45  Glentoran FC             0-3 (0-1)  Crusaders FC
+
+
+Matchday 10
+[Sat Oct/7]
+  15.00  Ards FC                  0-1 (0-1)  Glentoran FC
+         Cliftonville FC          2-0 (2-0)  Warrenpoint Town
+         Dungannon Swifts         2-1 (0-1)  Ballymena United
+[Tue Oct/31]
+  19.45  Coleraine FC             2-1 (0-0)  Ballinamallard United FC
+[Tue Feb/6]
+  19.45  Carrick Rangers          0-3 (0-1)  Crusaders FC
+[Tue Feb/27]
+  19.45  Linfield FC              0-2 (0-1)  Glenavon FC
+
+
+Matchday 11
+[Fri Oct/13]
+  19.45  Warrenpoint Town         2-1 (1-0)  Ballinamallard United FC
+[Sat Oct/14]
+  15.00  Ballymena United         6-3 (2-1)  Ards FC
+         Carrick Rangers          2-1 (0-1)  Dungannon Swifts
+         Coleraine FC             2-1 (0-0)  Linfield FC
+         Crusaders FC             2-3 (1-3)  Glenavon FC
+         Glentoran FC             0-2 (0-1)  Cliftonville FC
+
+
+Matchday 12
+[Fri Oct/20]
+  20.00  Ards FC                  2-1 (0-1)  Warrenpoint Town
+[Sat Oct/21]
+  15.00  Ballinamallard United FC  2-0 (2-0)  Carrick Rangers
+         Cliftonville FC          1-2 (1-1)  Coleraine FC
+         Glenavon FC              4-0 (4-0)  Ballymena United
+  17.30  Dungannon Swifts         0-2 (0-2)  Glentoran FC
+[Mon Oct/23]
+  19.45  Linfield FC              2-5 (1-3)  Crusaders FC
+
+
+Matchday 13
+[Fri Oct/27]
+  19.45  Crusaders FC             2-0 (0-0)  Ballinamallard United FC
+[Sat Oct/28]
+  15.00  Ballymena United         3-3 (1-2)  Warrenpoint Town
+         Carrick Rangers          0-2 (0-1)  Glenavon FC
+         Coleraine FC             3-0 (2-0)  Glentoran FC
+         Dungannon Swifts         0-4 (0-1)  Cliftonville FC
+         Linfield FC              2-0 (1-0)  Ards FC
+
+
+Matchday 14
+[Sat Nov/4]
+  15.00  Ards FC                  2-4 (0-1)  Crusaders FC
+         Ballinamallard United FC  0-6 (0-3)  Linfield FC
+         Cliftonville FC          3-0 (2-0)  Carrick Rangers
+         Glenavon FC              2-2 (1-1)  Coleraine FC
+         Warrenpoint Town         1-2 (1-0)  Dungannon Swifts
+[Mon Nov/6]
+  19.45  Glentoran FC             1-1 (0-1)  Ballymena United
+
+
+Matchday 15
+[Fri Nov/10]
+  19.45  Ballymena United         2-1 (0-1)  Linfield FC
+[Sat Nov/11]
+  15.00  Carrick Rangers          0-2 (0-0)  Warrenpoint Town
+         Cliftonville FC          5-0 (3-0)  Ballinamallard United FC
+[Tue Nov/14]
+  19.45  Glentoran FC             1-3 (1-1)  Glenavon FC
+[Tue Nov/21]
+  19.45  Coleraine FC             4-1 (2-0)  Ards FC
+         Dungannon Swifts         0-4 (0-2)  Crusaders FC
+
+
+Matchday 16
+[Sat Nov/18]
+  15.00  Ards FC                  0-1 (0-1)  Cliftonville FC
+         Ballinamallard United FC  0-3 (0-1)  Glenavon FC
+         Ballymena United         2-1 (1-0)  Dungannon Swifts
+         Crusaders FC             7-1 (5-0)  Carrick Rangers
+         Linfield FC              2-1 (2-0)  Coleraine FC
+         Warrenpoint Town         2-3 (0-2)  Glentoran FC
+
+
+Matchday 17
+[Fri Nov/24]
+  20.00  Glenavon FC              0-1 (0-1)  Linfield FC
+[Sat Nov/25]
+  15.00  Cliftonville FC          1-0 (0-0)  Ballymena United
+         Coleraine FC             1-1 (0-0)  Crusaders FC
+         Dungannon Swifts         4-0 (4-0)  Carrick Rangers
+         Glentoran FC             0-2 (0-1)  Ards FC
+  17.30  Ballinamallard United FC  1-1 (0-0)  Warrenpoint Town
+
+
+Matchday 18
+[Sat Dec/2]
+  15.00  Ballymena United         2-1 (1-0)  Ballinamallard United FC
+         Carrick Rangers          1-3 (1-2)  Coleraine FC
+         Crusaders FC             1-0 (0-0)  Glentoran FC
+         Ards FC                  0-2 (0-0)  Glenavon FC
+         Linfield FC              1-0 (0-0)  Dungannon Swifts
+         Warrenpoint Town         1-3 (1-2)  Cliftonville FC
+
+
+Matchday 19
+[Sat Dec/9]
+  15.00  Coleraine FC             1-0 (1-0)  Dungannon Swifts
+         Warrenpoint Town         2-3 (2-1)  Crusaders FC
+[Tue Jan/9]
+  19.45  Carrick Rangers          0-1 (0-0)  Linfield FC
+[Mon Jan/29]
+  19.45  Cliftonville FC          1-1 (0-0)  Glenavon FC
+[Tue Feb/6]
+  19.45  Glentoran FC             2-1 (0-1)  Ballinamallard United FC
+[Tue Feb/27]
+  19.45  Ards FC                  1-0 (1-0)  Ballymena United
+
+
+Matchday 20
+[Sat Dec/16]
+  15.00  Ballinamallard United FC  0-2 (0-1)  Coleraine FC
+         Ballymena United         3-1 (0-1)  Carrick Rangers
+         Cliftonville FC          1-0 (0-0)  Glentoran FC
+         Dungannon Swifts         0-0  Ards FC
+         Glenavon FC              3-4 (1-3)  Crusaders FC
+         Linfield FC              3-3 (2-2)  Warrenpoint Town
+
+
+Matchday 21
+[Fri Dec/22]
+  19.45  Crusaders FC             2-1 (1-1)  Ballymena United
+         Warrenpoint Town         0-2 (0-0)  Coleraine FC
+[Sat Dec/23]
+  15.00  Ards FC                  2-1 (1-0)  Ballinamallard United FC
+         Carrick Rangers          1-1 (0-1)  Glentoran FC
+         Dungannon Swifts         0-3 (0-1)  Glenavon FC
+         Linfield FC              2-0 (1-0)  Cliftonville FC
+
+
+Matchday 22
+[Tue Dec/26]
+  15.00  Ards FC                  1-0 (1-0)  Carrick Rangers
+         Ballinamallard United FC  0-1 (0-0)  Dungannon Swifts
+         Coleraine FC             1-1 (1-0)  Ballymena United
+         Crusaders FC             2-0 (1-0)  Cliftonville FC
+         Glenavon FC              1-0 (1-0)  Warrenpoint Town
+         Glentoran FC             2-1 (1-1)  Linfield FC
+
+
+Matchday 23
+[Fri Dec/29]
+  19.45  Carrick Rangers          2-2 (0-1)  Ballinamallard United FC
+[Sat Dec/30]
+  15.00  Ballymena United         3-1 (1-1)  Glenavon FC
+         Cliftonville FC          0-0  Coleraine FC
+         Dungannon Swifts         0-0  Glentoran FC
+         Linfield FC              1-2 (1-0)  Crusaders FC
+         Warrenpoint Town         3-3 (1-2)  Ards FC
+
+
+Matchday 24
+[Mon Jan/1]
+  15.00  Ballinamallard United FC  0-3 (0-0)  Crusaders FC
+[Tue Jan/30]
+  19.45  Coleraine FC             2-2 (1-0)  Linfield FC
+[Tue Feb/13]
+  19.45  Ards FC                  1-6 (0-2)  Glenavon FC
+[Tue Feb/27]
+  19.45  Carrick Rangers          1-0 (1-0)  Dungannon Swifts
+         Glentoran FC             5-0 (3-0)  Warrenpoint Town
+[Tue Mar/20]
+  19.45  Cliftonville FC          1-2 (0-1)  Ballymena United
+
+
+Matchday 25
+[Sat Jan/13]
+  15.00  Ballinamallard United FC  2-2 (2-1)  Glentoran FC
+         Ballymena United         3-0 (0-0)  Carrick Rangers
+         Crusaders FC             1-0 (0-0)  Ards FC
+         Dungannon Swifts         0-1 (0-0)  Coleraine FC
+         Glenavon FC              1-1 (0-1)  Cliftonville FC
+[Tue Feb/6]
+  19.45  Warrenpoint Town         1-3 (1-1)  Linfield FC
+
+
+Matchday 26
+[Sat Jan/20]
+  15.00  Ards FC                  1-0 (1-0)  Ballymena United
+         Cliftonville FC          3-0 (0-0)  Dungannon Swifts
+         Coleraine FC             3-3 (0-2)  Crusaders FC
+         Linfield FC              2-3 (1-1)  Glenavon FC
+         Warrenpoint Town         1-0 (1-0)  Ballinamallard United FC
+[Tue Feb/13]
+  19.45  Carrick Rangers          1-2 (1-1)  Glentoran FC
+
+
+Matchday 27
+[Fri Jan/26]
+  19.45  Glenavon FC              3-3 (1-1)  Warrenpoint Town
+  20.00  Ballinamallard United FC  6-4 (3-1)  Cliftonville FC
+[Sat Jan/27]
+  15.00  Ballymena United         2-2 (1-2)  Linfield FC
+         Crusaders FC             6-0 (3-0)  Carrick Rangers
+         Dungannon Swifts         1-0 (0-0)  Ards FC
+         Glentoran FC             0-2 (0-1)  Coleraine FC
+
+
+Matchday 28
+[Sat Feb/10]
+  15.00  Ards FC                  0-4 (0-1)  Carrick Rangers
+         Coleraine FC             1-1 (0-0)  Glenavon FC
+         Crusaders FC             4-2 (2-1)  Glentoran FC
+         Linfield FC              0-0  Dungannon Swifts
+[Tue Feb/13]
+  19.45  Warrenpoint Town         1-3 (1-3)  Cliftonville FC
+[Mon Mar/26]
+  20.00  Ballymena United         2-0 (2-0)  Ballinamallard United FC
+
+
+Matchday 29
+[Fri Feb/16]
+  19.45  Ballinamallard United FC  2-5 (2-2)  Coleraine FC
+         Glentoran FC             1-2 (0-0)  Ards FC
+[Sat Feb/17]
+  15.00  Carrick Rangers          1-2 (1-2)  Warrenpoint Town
+         Cliftonville FC          1-2 (0-1)  Linfield FC
+[Tue Mar/6]
+  19.45  Glenavon FC              1-6 (1-2)  Crusaders FC
+  20.00  Dungannon Swifts         2-3 (1-2)  Ballymena United
+
+
+Matchday 30
+[Sat Feb/24]
+  15.00  Ards FC                  0-3 (0-1)  Linfield FC
+         Carrick Rangers          1-2 (0-0)  Glenavon FC
+         Coleraine FC             1-0 (0-0)  Warrenpoint Town
+         Crusaders FC             3-1 (1-0)  Ballymena United
+         Dungannon Swifts         2-0 (0-0)  Ballinamallard United FC
+         Glentoran FC             1-0 (0-0)  Cliftonville FC
+
+
+Matchday 31
+[Sat Mar/10]
+  15.00  Ballinamallard United FC  0-4 (0-3)  Ards FC
+         Ballymena United         0-2 (0-1)  Coleraine FC
+         Cliftonville FC          3-1 (3-0)  Crusaders FC
+         Glenavon FC              2-2 (1-0)  Glentoran FC
+         Linfield FC              2-0 (0-0)  Carrick Rangers
+[Sat Mar/31]
+  15.00  Warrenpoint Town         3-0 (1-0)  Dungannon Swifts
+
+
+Matchday 32
+[Sat Mar/17]
+  15.00  Ards FC                  1-3 (1-2)  Coleraine FC
+         Ballymena United         1-3 (1-2)  Warrenpoint Town
+         Carrick Rangers          0-1 (0-1)  Cliftonville FC
+         Crusaders FC             3-0 (1-0)  Dungannon Swifts
+         Glenavon FC              0-0  Ballinamallard United FC
+         Linfield FC              1-1 (0-1)  Glentoran FC
+
+
+Matchday 33
+[Fri Mar/23]
+  19.45  Ballinamallard United FC  2-2 (0-0)  Linfield FC
+         Cliftonville FC          3-0 (1-0)  Ards FC
+         Coleraine FC             3-2 (0-1)  Carrick Rangers
+         Dungannon Swifts         3-2 (1-0)  Glenavon FC
+         Glentoran FC             1-2 (0-1)  Ballymena United
+[Mon Mar/26]
+  19.45  Warrenpoint Town         1-4 (0-1)  Crusaders FC

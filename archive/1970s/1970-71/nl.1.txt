@@ -1,0 +1,474 @@
+= NL 1 1970/71
+
+# Date       Wed Aug/19 1970 - Sun Jun/6 1971 (291d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Wed Aug/19]
+         Feijenoord               4-1 (1-1)  FC Utrecht
+[Sun Aug/23]
+         ADO                      3-0 (1-0)  NAC Breda
+         DWS Amsterdam            0-1 (0-0)  PSV Eindhoven
+         SBV Excelsior            0-0  AZ '67 Alkmaar
+         Go Ahead                 1-1 (1-0)  HFC Haarlem
+         MVV                      0-1 (0-1)  Holland Sport
+         SC NEC                   0-0  AFC Ajax
+         Telstar                  1-4 (0-1)  RC&FC Sparta
+         RKSV Volendam            0-1 (0-0)  FC Twente '65
+
+
+Matchday 2
+[Sun Aug/30]
+         AFC Ajax                 2-0 (1-0)  MVV
+         AZ '67 Alkmaar           0-4 (0-0)  Feijenoord
+         FC Twente '65            1-1 (1-1)  Telstar
+         FC Utrecht               4-1 (0-1)  Go Ahead
+         HFC Haarlem              1-1 (1-0)  SC NEC
+         Holland Sport            2-3 (1-1)  ADO
+         NAC Breda                1-4 (1-2)  DWS Amsterdam
+         PSV Eindhoven            4-2 (3-1)  RKSV Volendam
+         RC&FC Sparta             5-1 (5-1)  SBV Excelsior
+
+
+Matchday 3
+[Sun Sep/6]
+         ADO                      1-0 (1-0)  AFC Ajax
+         DWS Amsterdam            0-0  Holland Sport
+         SBV Excelsior            1-2 (1-1)  FC Twente '65
+         Go Ahead                 1-2 (0-1)  Feijenoord
+         MVV                      1-1 (1-1)  HFC Haarlem
+         SC NEC                   2-1 (0-1)  FC Utrecht
+         RC&FC Sparta             2-1 (1-1)  AZ '67 Alkmaar
+         Telstar                  1-1 (0-1)  PSV Eindhoven
+         RKSV Volendam            2-1 (1-1)  NAC Breda
+
+
+Matchday 4
+[Fri Sep/11]
+         PSV Eindhoven            3-0 (0-0)  SBV Excelsior
+[Sat Sep/12]
+         AFC Ajax                 4-0 (1-0)  DWS Amsterdam
+[Sun Sep/13]
+         AZ '67 Alkmaar           0-1 (0-0)  Go Ahead
+         FC Twente '65            0-1 (0-1)  RC&FC Sparta
+         FC Utrecht               0-0  MVV
+         Feijenoord               1-0 (1-0)  SC NEC
+         HFC Haarlem              1-2 (0-2)  ADO
+         Holland Sport            2-1 (0-0)  RKSV Volendam
+         NAC Breda                2-0 (1-0)  Telstar
+
+
+Matchday 5
+[Sun Sep/20]
+         ADO                      4-0 (1-0)  FC Utrecht
+         DWS Amsterdam            1-0 (0-0)  HFC Haarlem
+         SBV Excelsior            2-2 (0-1)  NAC Breda
+         FC Twente '65            2-0 (1-0)  AZ '67 Alkmaar
+         MVV                      1-1 (0-0)  Feijenoord
+         SC NEC                   2-1 (0-1)  Go Ahead
+         RC&FC Sparta             1-0 (0-0)  PSV Eindhoven
+         Telstar                  1-1 (0-0)  Holland Sport
+         RKSV Volendam            0-3 (0-1)  AFC Ajax
+
+
+Matchday 6
+[Fri Sep/25]
+         PSV Eindhoven            0-0  FC Twente '65
+[Sat Sep/26]
+         Feijenoord               0-0  ADO
+[Sun Sep/27]
+         AFC Ajax                 3-1 (2-1)  Telstar
+         AZ '67 Alkmaar           1-1 (0-0)  SC NEC
+         FC Utrecht               2-1 (1-0)  DWS Amsterdam
+         Go Ahead                 1-0 (0-0)  MVV
+         HFC Haarlem              0-1 (0-0)  RKSV Volendam
+         Holland Sport            2-3 (2-0)  SBV Excelsior
+         NAC Breda                0-0  RC&FC Sparta
+
+
+Matchday 7
+[Sat Oct/3]
+         SBV Excelsior            1-1 (0-0)  AFC Ajax
+[Sun Oct/4]
+         ADO                      3-0 (1-0)  Go Ahead
+         DWS Amsterdam            0-4 (0-4)  Feijenoord
+         FC Twente '65            3-0 (0-0)  NAC Breda
+         MVV                      2-0 (2-0)  SC NEC
+         PSV Eindhoven            6-0 (4-0)  AZ '67 Alkmaar
+         RC&FC Sparta             1-0 (1-0)  Holland Sport
+         Telstar                  6-3 (1-0)  HFC Haarlem
+         RKSV Volendam            2-3 (1-1)  FC Utrecht
+
+
+Matchday 8
+[Fri Oct/16]
+         AFC Ajax                 2-2 (0-1)  RC&FC Sparta
+[Sun Oct/18]
+         AZ '67 Alkmaar           0-2 (0-0)  MVV
+         FC Utrecht               4-1 (1-1)  Telstar
+         Feijenoord               3-0 (1-0)  RKSV Volendam
+         Go Ahead                 0-0  DWS Amsterdam
+         HFC Haarlem              2-0 (0-0)  SBV Excelsior
+         Holland Sport            0-0  FC Twente '65
+         NAC Breda                0-3 (0-2)  PSV Eindhoven
+         SC NEC                   1-2 (0-2)  ADO
+
+
+Matchday 9
+[Sun Oct/25]
+         ADO                      4-0 (0-0)  MVV
+         DWS Amsterdam            2-2 (2-0)  SC NEC
+         SBV Excelsior            1-2 (1-2)  FC Utrecht
+         FC Twente '65            1-0 (0-0)  AFC Ajax
+         NAC Breda                5-2 (4-0)  AZ '67 Alkmaar
+         PSV Eindhoven            3-0 (3-0)  Holland Sport
+         RC&FC Sparta             0-0  HFC Haarlem
+         Telstar                  1-0 (0-0)  Feijenoord
+         RKSV Volendam            0-0  Go Ahead
+
+
+Matchday 10
+[Fri Oct/30]
+         AFC Ajax                 1-0 (0-0)  PSV Eindhoven
+[Sun Nov/1]
+         AZ '67 Alkmaar           1-1 (0-0)  ADO
+         FC Utrecht               1-1 (1-0)  RC&FC Sparta
+         Feijenoord               4-2 (3-0)  SBV Excelsior
+         Go Ahead                 3-1 (1-0)  Telstar
+         HFC Haarlem              0-4 (0-1)  FC Twente '65
+         Holland Sport            0-0  NAC Breda
+         MVV                      2-0 (0-0)  DWS Amsterdam
+         SC NEC                   4-0 (2-0)  RKSV Volendam
+
+
+Matchday 11
+[Sun Nov/15]
+         DWS Amsterdam            0-1 (0-0)  ADO
+         SBV Excelsior            0-2 (0-0)  Go Ahead
+         FC Twente '65            2-0 (2-0)  FC Utrecht
+         Holland Sport            3-1 (1-1)  AZ '67 Alkmaar
+         NAC Breda                0-2 (0-2)  AFC Ajax
+         PSV Eindhoven            1-0 (0-0)  HFC Haarlem
+         RC&FC Sparta             1-1 (1-1)  Feijenoord
+         Telstar                  0-1 (0-0)  SC NEC
+         RKSV Volendam            3-1 (1-1)  MVV
+
+
+Matchday 12
+[Sun Nov/22]
+         ADO                      2-1 (1-0)  RKSV Volendam
+         AFC Ajax                 2-1 (1-0)  Holland Sport
+         AZ '67 Alkmaar           0-0  DWS Amsterdam
+         FC Utrecht               0-3 (0-1)  PSV Eindhoven
+         Feijenoord               1-1 (0-0)  FC Twente '65
+         Go Ahead                 0-1 (0-0)  RC&FC Sparta
+         HFC Haarlem              2-2 (2-1)  NAC Breda
+         MVV                      1-1 (0-1)  Telstar
+         SC NEC                   5-0 (2-0)  SBV Excelsior
+
+
+Matchday 13
+[Sat Nov/28]
+         PSV Eindhoven            2-3 (1-2)  Feijenoord
+[Sun Nov/29]
+         AFC Ajax                 8-1 (5-0)  AZ '67 Alkmaar
+         SBV Excelsior            3-0 (0-0)  MVV
+         FC Twente '65            2-0 (0-0)  Go Ahead
+         Holland Sport            1-1 (0-1)  HFC Haarlem
+         NAC Breda                1-2 (0-0)  FC Utrecht
+         RC&FC Sparta             2-1 (2-0)  SC NEC
+         Telstar                  0-2 (0-1)  ADO
+         RKSV Volendam            2-2 (0-0)  DWS Amsterdam
+
+
+Matchday 14
+[Sun Dec/6]
+         ADO                      0-0  SBV Excelsior
+         AZ '67 Alkmaar           1-1 (0-1)  RKSV Volendam
+         DWS Amsterdam            0-0  Telstar
+         FC Utrecht               2-1 (0-0)  Holland Sport
+         Feijenoord               3-0 (2-0)  NAC Breda
+         Go Ahead                 3-3 (2-0)  PSV Eindhoven
+         HFC Haarlem              0-5 (0-3)  AFC Ajax
+         MVV                      3-3 (0-1)  RC&FC Sparta
+         SC NEC                   0-0  FC Twente '65
+
+
+Matchday 15
+[Sun Dec/13]
+         AFC Ajax                 7-1 (5-1)  FC Utrecht
+         SBV Excelsior            0-0  DWS Amsterdam
+         HFC Haarlem              2-3 (0-1)  AZ '67 Alkmaar
+         Holland Sport            2-3 (0-1)  Feijenoord
+         NAC Breda                3-1 (2-0)  Go Ahead
+         PSV Eindhoven            2-0 (1-0)  SC NEC
+         RC&FC Sparta             4-2 (0-2)  ADO
+         Telstar                  0-0  RKSV Volendam
+[Wed Dec/23]
+         FC Twente '65            2-0 (1-0)  MVV
+
+
+Matchday 16
+[Sun Dec/20]
+         ADO                      1-1 (0-0)  FC Twente '65
+         DWS Amsterdam            2-1 (1-1)  RC&FC Sparta
+         FC Utrecht               1-0 (1-0)  HFC Haarlem
+         Feijenoord               1-1 (0-1)  AFC Ajax
+         Go Ahead                 4-0 (1-0)  Holland Sport
+         MVV                      0-3 (0-1)  PSV Eindhoven
+         SC NEC                   1-1 (0-0)  NAC Breda
+         Telstar                  4-0 (2-0)  AZ '67 Alkmaar
+         RKSV Volendam            3-0 (2-0)  SBV Excelsior
+
+
+Matchday 17
+[Sun Jan/10]
+         AFC Ajax                 4-1 (4-0)  SC NEC
+         AZ '67 Alkmaar           1-1 (0-0)  SBV Excelsior
+         FC Utrecht               1-2 (0-1)  Feijenoord
+         HFC Haarlem              0-0  Go Ahead
+         Holland Sport            1-1 (0-0)  MVV
+         NAC Breda                0-3 (0-0)  ADO
+         PSV Eindhoven            8-0 (3-0)  DWS Amsterdam
+         RC&FC Sparta             1-0 (0-0)  Telstar
+[Sat Feb/13]
+         FC Twente '65            2-1 (1-0)  RKSV Volendam
+
+
+Matchday 18
+[Sat Jan/16]
+         SBV Excelsior            0-2 (0-1)  RC&FC Sparta
+[Sun Jan/17]
+         ADO                      0-0  Holland Sport
+         DWS Amsterdam            1-1 (0-1)  NAC Breda
+         Feijenoord               6-1 (2-1)  AZ '67 Alkmaar
+         MVV                      1-0 (0-0)  AFC Ajax
+         Telstar                  0-0  FC Twente '65
+         RKSV Volendam            0-2 (0-2)  PSV Eindhoven
+[Fri Feb/12]
+         SC NEC                   1-0 (0-0)  HFC Haarlem
+[Sat Feb/13]
+         Go Ahead                 2-0 (1-0)  FC Utrecht
+
+
+Matchday 19
+[Sat Jan/23]
+         FC Twente '65            5-0 (3-0)  SBV Excelsior
+[Sun Jan/24]
+         AFC Ajax                 3-0 (3-0)  ADO
+         AZ '67 Alkmaar           1-1 (0-0)  RC&FC Sparta
+         FC Utrecht               3-0 (1-0)  SC NEC
+         Feijenoord               3-0 (0-0)  Go Ahead
+         HFC Haarlem              1-1 (1-0)  MVV
+         Holland Sport            1-1 (0-1)  DWS Amsterdam
+         NAC Breda                2-1 (1-0)  RKSV Volendam
+         PSV Eindhoven            2-1 (2-0)  Telstar
+
+
+Matchday 20
+[Sat Jan/30]
+         SBV Excelsior            1-4 (0-0)  PSV Eindhoven
+[Sun Jan/31]
+         ADO                      6-0 (2-0)  HFC Haarlem
+         DWS Amsterdam            0-1 (0-0)  AFC Ajax
+         Go Ahead                 2-0 (0-0)  AZ '67 Alkmaar
+         MVV                      6-0 (2-0)  FC Utrecht
+         SC NEC                   1-0 (1-0)  Feijenoord
+         RC&FC Sparta             2-1 (2-1)  FC Twente '65
+         Telstar                  2-1 (1-0)  NAC Breda
+         RKSV Volendam            1-0 (0-0)  Holland Sport
+
+
+Matchday 21
+[Sun Feb/7]
+         AFC Ajax                 5-1 (2-0)  Go Ahead
+         AZ '67 Alkmaar           1-3 (0-1)  FC Utrecht
+         SBV Excelsior            1-2 (0-1)  Telstar
+         FC Twente '65            1-1 (1-0)  DWS Amsterdam
+         HFC Haarlem              0-1 (0-0)  Feijenoord
+         Holland Sport            1-0 (0-0)  SC NEC
+         NAC Breda                3-1 (3-0)  MVV
+         PSV Eindhoven            1-0 (1-0)  ADO
+         RC&FC Sparta             1-0 (1-0)  RKSV Volendam
+
+
+Matchday 22
+[Thu Feb/18]
+         Feijenoord               1-0 (1-0)  MVV
+[Fri Feb/19]
+         PSV Eindhoven            0-0  RC&FC Sparta
+[Sun Feb/21]
+         AFC Ajax                 4-0 (2-0)  RKSV Volendam
+         AZ '67 Alkmaar           0-2 (0-1)  FC Twente '65
+         FC Utrecht               3-1 (2-1)  ADO
+         Go Ahead                 2-2 (2-1)  SC NEC
+         HFC Haarlem              2-2 (2-2)  DWS Amsterdam
+         Holland Sport            1-1 (0-1)  Telstar
+         NAC Breda                1-0 (1-0)  SBV Excelsior
+
+
+Matchday 23
+[Sun Feb/28]
+         ADO                      2-0 (0-0)  Feijenoord
+         DWS Amsterdam            2-2 (1-1)  FC Utrecht
+         SBV Excelsior            1-0 (0-0)  Holland Sport
+         FC Twente '65            2-1 (0-0)  PSV Eindhoven
+         MVV                      0-1 (0-0)  Go Ahead
+         SC NEC                   3-0 (1-0)  AZ '67 Alkmaar
+         RC&FC Sparta             1-1 (1-0)  NAC Breda
+         Telstar                  0-1 (0-1)  AFC Ajax
+         RKSV Volendam            1-0 (1-0)  HFC Haarlem
+
+
+Matchday 24
+[Fri Mar/19]
+         PSV Eindhoven            1-1 (1-0)  NAC Breda
+[Sun Mar/21]
+         ADO                      3-1 (1-1)  SC NEC
+         DWS Amsterdam            2-1 (1-1)  Go Ahead
+         SBV Excelsior            1-0 (0-0)  HFC Haarlem
+         FC Twente '65            3-1 (2-0)  Holland Sport
+         MVV                      1-0 (0-0)  AZ '67 Alkmaar
+         RC&FC Sparta             0-0  AFC Ajax
+         Telstar                  3-0 (1-0)  FC Utrecht
+         RKSV Volendam            0-1 (0-1)  Feijenoord
+
+
+Matchday 25
+[Sun Mar/28]
+         AFC Ajax                 3-0 (1-0)  FC Twente '65
+         AZ '67 Alkmaar           2-1 (1-1)  NAC Breda
+         FC Utrecht               1-0 (0-0)  SBV Excelsior
+         Feijenoord               4-0 (1-0)  Telstar
+         Go Ahead                 0-0  RKSV Volendam
+         HFC Haarlem              1-1 (0-0)  RC&FC Sparta
+         Holland Sport            0-5 (0-3)  PSV Eindhoven
+         MVV                      0-1 (0-1)  ADO
+         SC NEC                   1-0 (1-0)  DWS Amsterdam
+
+
+Matchday 26
+[Sat Apr/10]
+         AFC Ajax                 7-0 (3-0)  SBV Excelsior
+         AZ '67 Alkmaar           0-1 (0-1)  PSV Eindhoven
+[Mon Apr/12]
+         FC Utrecht               2-2 (1-1)  RKSV Volendam
+         Feijenoord               3-0 (2-0)  DWS Amsterdam
+         Go Ahead                 3-0 (0-0)  ADO
+         HFC Haarlem              0-1 (0-0)  Telstar
+         Holland Sport            0-2 (0-1)  RC&FC Sparta
+         NAC Breda                0-1 (0-1)  FC Twente '65
+         SC NEC                   3-0 (1-0)  MVV
+
+
+Matchday 27
+[Sat Apr/17]
+         SBV Excelsior            0-4 (0-0)  Feijenoord
+[Sun Apr/18]
+         ADO                      3-0 (0-0)  AZ '67 Alkmaar
+         DWS Amsterdam            1-0 (0-0)  MVV
+         FC Twente '65            2-0 (0-0)  HFC Haarlem
+         NAC Breda                3-4 (1-2)  Holland Sport
+         PSV Eindhoven            0-3 (0-1)  AFC Ajax
+         RC&FC Sparta             3-1 (3-0)  FC Utrecht
+         Telstar                  0-1 (0-0)  Go Ahead
+         RKSV Volendam            1-0 (0-0)  SC NEC
+
+
+Matchday 28
+[Sun Apr/25]
+         ADO                      4-0 (2-0)  DWS Amsterdam
+         AZ '67 Alkmaar           3-3 (3-1)  Holland Sport
+         FC Utrecht               1-2 (0-1)  FC Twente '65
+         Feijenoord               4-1 (3-1)  RC&FC Sparta
+         Go Ahead                 3-0 (1-0)  SBV Excelsior
+         HFC Haarlem              1-3 (1-1)  PSV Eindhoven
+         MVV                      0-0  RKSV Volendam
+         SC NEC                   3-0 (1-0)  Telstar
+[Wed May/12]
+         AFC Ajax                 3-0 (0-0)  NAC Breda
+
+
+Matchday 29
+[Sun May/2]
+         DWS Amsterdam            0-0  AZ '67 Alkmaar
+         SBV Excelsior            2-1 (2-1)  SC NEC
+         FC Twente '65            1-2 (0-1)  Feijenoord
+         Holland Sport            0-3 (0-2)  AFC Ajax
+         NAC Breda                2-0 (0-0)  HFC Haarlem
+         PSV Eindhoven            4-1 (3-0)  FC Utrecht
+         RC&FC Sparta             1-2 (1-0)  Go Ahead
+         Telstar                  0-1 (0-0)  MVV
+         RKSV Volendam            2-3 (1-2)  ADO
+
+
+Matchday 30
+[Sun May/9]
+         ADO                      1-0 (0-0)  Telstar
+         AZ '67 Alkmaar           0-3 (0-3)  AFC Ajax
+         DWS Amsterdam            2-2 (1-1)  RKSV Volendam
+         FC Utrecht               0-0  NAC Breda
+         Feijenoord               2-1 (1-1)  PSV Eindhoven
+         Go Ahead                 1-0 (1-0)  FC Twente '65
+         HFC Haarlem              1-1 (0-1)  Holland Sport
+         MVV                      0-0  SBV Excelsior
+         SC NEC                   3-0 (0-0)  RC&FC Sparta
+
+
+Matchday 31
+[Sun May/16]
+         AFC Ajax                 4-0 (2-0)  HFC Haarlem
+         SBV Excelsior            1-1 (1-0)  ADO
+         FC Twente '65            2-0 (1-0)  SC NEC
+         Holland Sport            1-1 (0-1)  FC Utrecht
+         NAC Breda                1-3 (0-0)  Feijenoord
+         PSV Eindhoven            2-1 (1-0)  Go Ahead
+         RC&FC Sparta             0-0  MVV
+         Telstar                  1-1 (1-0)  DWS Amsterdam
+         RKSV Volendam            1-0 (0-0)  AZ '67 Alkmaar
+
+
+Matchday 32
+[Sat May/22]
+         Feijenoord               6-1 (4-0)  Holland Sport
+[Sun May/23]
+         ADO                      2-1 (1-1)  RC&FC Sparta
+         AZ '67 Alkmaar           4-0 (2-0)  HFC Haarlem
+         DWS Amsterdam            0-0  SBV Excelsior
+         Go Ahead                 4-3 (2-1)  NAC Breda
+         MVV                      0-2 (0-1)  FC Twente '65
+         SC NEC                   0-0  PSV Eindhoven
+         RKSV Volendam            2-0 (2-0)  Telstar
+[Tue May/25]
+         FC Utrecht               0-3 (0-1)  AFC Ajax
+
+
+Matchday 33
+[Thu May/27]
+         AFC Ajax                 1-3 (1-0)  Feijenoord
+[Mon May/31]
+         AZ '67 Alkmaar           0-1 (0-0)  Telstar
+         SBV Excelsior            0-0  RKSV Volendam
+         FC Twente '65            0-0  ADO
+         HFC Haarlem              1-1 (1-1)  FC Utrecht
+         Holland Sport            2-2 (1-1)  Go Ahead
+         NAC Breda                1-1 (0-0)  SC NEC
+         PSV Eindhoven            2-0 (0-0)  MVV
+         RC&FC Sparta             6-1 (4-0)  DWS Amsterdam
+
+
+Matchday 34
+[Sat Jun/5]
+         Go Ahead                 4-1 (0-0)  AFC Ajax
+         SC NEC                   1-1 (0-0)  Holland Sport
+[Sun Jun/6]
+         ADO                      1-1 (1-1)  PSV Eindhoven
+         DWS Amsterdam            0-0  FC Twente '65
+         FC Utrecht               2-0 (2-0)  AZ '67 Alkmaar
+         Feijenoord               2-1 (2-0)  HFC Haarlem
+         MVV                      3-1 (1-1)  NAC Breda
+         Telstar                  1-0 (1-0)  SBV Excelsior
+         RKSV Volendam            2-2 (2-0)  RC&FC Sparta

@@ -1,0 +1,563 @@
+= SV 1 2023/24
+
+# Date       Sun Aug/13 2023 - Sat May/25 2024 (286d)
+# Teams      12
+# Matches    290
+# Stages     Apertura (132)  Apertura Playoffs (13)  Clausura (132)  Clausura Playoffs (13)
+
+
+== Apertura
+
+Matchday 1
+[Sun Aug/13]
+  15.00  Dragón                   3-1 (0-1)  Municipal Limeño
+         Santa Tecla FC           0-1 (0-1)  CD Águila
+         Fuerte San Francisco     0-1 (0-1)  Alianza
+  15.15  Platense Zacatecoluca    0-2 (0-1)  Once Deportivo
+         Luis Ángel Firpo         1-0 (0-0)  Isidro Metapán
+[Wed Sep/13]
+  19.00  FAS                      1-3 (1-1)  Jocoro FC
+
+
+Matchday 2
+[Fri Aug/18]
+  19.00  Alianza                  5-3 (5-0)  FAS
+[Sat Aug/19]
+  15.30  Jocoro FC                2-4 (1-1)  Luis Ángel Firpo
+  19.00  Isidro Metapán           2-0 (0-0)  Santa Tecla FC
+[Sun Aug/20]
+  15.00  Once Deportivo           1-0 (0-0)  Fuerte San Francisco
+         Municipal Limeño         1-1 (0-0)  Platense Zacatecoluca
+  15.30  CD Águila                5-1 (3-1)  Dragón
+
+
+Matchday 3
+[Wed Aug/23]
+  15.00  Dragón                   0-0  Isidro Metapán
+  15.30  Once Deportivo           2-1 (1-0)  Municipal Limeño
+  19.00  Alianza                  1-1 (1-1)  Luis Ángel Firpo
+[Thu Aug/24]
+  15.30  Fuerte San Francisco     1-3 (0-3)  FAS
+[Fri Sep/15]
+  15.00  Platense Zacatecoluca    2-3 (1-1)  CD Águila
+[Wed Sep/27]
+  15.00  Santa Tecla FC           1-1 (1-0)  Jocoro FC
+
+
+Matchday 4
+[Sat Aug/26]
+  19.00  Isidro Metapán           1-3 (0-2)  Platense Zacatecoluca
+         FAS                      2-1 (1-0)  Luis Ángel Firpo
+[Sun Aug/27]
+  15.00  Alianza                  2-2 (1-1)  Santa Tecla FC
+  15.30  CD Águila                3-1 (1-0)  Once Deportivo
+         Jocoro FC                1-0 (0-0)  Dragón
+[Mon Aug/28]
+  17.00  Municipal Limeño         0-3 (0-1)  Fuerte San Francisco
+
+
+Matchday 5
+[Sat Sep/2]
+  18.00  Municipal Limeño         1-0 (1-0)  CD Águila
+         Santa Tecla FC           0-2 (0-1)  FAS
+[Sun Sep/3]
+  15.00  Once Deportivo           2-0 (0-0)  Isidro Metapán
+         Dragón                   0-3 (0-0)  Alianza
+         Fuerte San Francisco     3-1 (1-0)  Luis Ángel Firpo
+  15.30  Platense Zacatecoluca    0-0  Jocoro FC
+
+
+Matchday 6
+[Wed Sep/6]
+  15.15  Luis Ángel Firpo         3-0 (2-0)  Santa Tecla FC
+  15.30  CD Águila                3-1 (1-1)  Fuerte San Francisco
+         Jocoro FC                0-1 (0-1)  Once Deportivo
+  19.00  Alianza                  0-0  Platense Zacatecoluca
+  19.30  Isidro Metapán           0-3 (0-0)  Municipal Limeño
+[Wed Sep/27]
+  19.00  FAS                      1-0 (1-0)  Dragón
+
+
+Matchday 7
+[Sat Sep/9]
+  15.30  CD Águila                4-2 (0-2)  Isidro Metapán
+  18.00  Municipal Limeño         1-2 (0-0)  Jocoro FC
+[Sun Sep/10]
+  15.00  Once Deportivo           1-1 (1-0)  Alianza
+  15.30  Fuerte San Francisco     2-1 (0-1)  Santa Tecla FC
+[Wed Sep/13]
+  15.15  Luis Ángel Firpo         2-3 (2-2)  Dragón
+[Wed Oct/4]
+  15.30  Platense Zacatecoluca    0-3 (0-0)  FAS
+
+
+Matchday 8
+[Fri Sep/15]
+  18.00  Alianza                  0-0  Municipal Limeño
+[Sat Sep/16]
+  15.00  Santa Tecla FC           0-2 (0-1)  Dragón
+  19.00  Isidro Metapán           0-0  Fuerte San Francisco
+         FAS                      1-0 (0-0)  Once Deportivo
+[Sun Sep/17]
+  15.15  Luis Ángel Firpo         2-1 (1-1)  Platense Zacatecoluca
+  15.30  Jocoro FC                0-2 (0-1)  CD Águila
+
+
+Matchday 9
+[Wed Sep/20]
+  15.30  Once Deportivo           1-1 (0-1)  Luis Ángel Firpo
+         Platense Zacatecoluca    0-2 (0-1)  Santa Tecla FC
+         Fuerte San Francisco     2-1 (0-1)  Dragón
+  19.00  Municipal Limeño         3-2 (1-2)  FAS
+  19.30  Isidro Metapán           1-1 (0-1)  Jocoro FC
+  20.00  CD Águila                0-0  Alianza
+
+
+Matchday 10
+[Sat Sep/23]
+  15.00  Santa Tecla FC           2-3 (0-1)  Once Deportivo
+  18.00  Alianza                  1-0 (1-0)  Isidro Metapán
+  19.00  FAS                      2-2 (2-0)  CD Águila
+[Sun Sep/24]
+  15.00  Fuerte San Francisco     1-0 (0-0)  Jocoro FC
+         Dragón                   4-2 (2-0)  Platense Zacatecoluca
+  15.15  Luis Ángel Firpo         1-1 (1-1)  Municipal Limeño
+
+
+Matchday 11
+[Sat Sep/30]
+  18.00  Municipal Limeño         1-1 (0-0)  Santa Tecla FC
+  19.00  Isidro Metapán           1-1 (1-1)  FAS
+[Sun Oct/1]
+  15.00  Once Deportivo           2-3 (1-0)  Dragón
+  15.15  Platense Zacatecoluca    1-2 (1-0)  Fuerte San Francisco
+  15.30  Jocoro FC                3-2 (1-1)  Alianza
+         CD Águila                0-2 (0-1)  Luis Ángel Firpo
+
+
+Matchday 12
+[Fri Oct/6]
+  18.00  Alianza                  1-2 (0-2)  Fuerte San Francisco
+[Sat Oct/7]
+  15.30  Jocoro FC                2-1 (2-0)  FAS
+  18.00  Municipal Limeño         3-2 (0-1)  Dragón
+  19.00  Isidro Metapán           1-1 (1-1)  Luis Ángel Firpo
+[Sun Oct/8]
+  15.00  Once Deportivo           2-2 (2-1)  Platense Zacatecoluca
+  15.30  CD Águila                2-2 (1-0)  Santa Tecla FC
+
+
+Matchday 13
+[Sat Oct/14]
+  15.00  Santa Tecla FC           2-3 (2-1)  Isidro Metapán
+[Sun Oct/15]
+  15.00  Platense Zacatecoluca    1-0 (1-0)  Municipal Limeño
+         Dragón                   2-2 (1-1)  CD Águila
+  15.15  Luis Ángel Firpo         1-0 (0-0)  Jocoro FC
+[Wed Oct/25]
+  19.00  FAS                      0-0  Alianza
+[Wed Nov/22]
+  15.00  Fuerte San Francisco     1-0 (0-0)  Once Deportivo
+
+
+Matchday 14
+[Wed Oct/18]
+  15.00  CD Águila                4-0 (1-0)  Platense Zacatecoluca
+  15.30  Jocoro FC                3-1 (1-0)  Santa Tecla FC
+  19.30  Isidro Metapán           2-2 (0-1)  Dragón
+[Thu Oct/19]
+  18.00  Municipal Limeño         2-1 (1-0)  Once Deportivo
+  19.00  FAS                      0-0  Fuerte San Francisco
+[Tue Nov/21]
+  15.15  Luis Ángel Firpo         0-0  Alianza
+
+
+Matchday 15
+[Sun Oct/22]
+  15.00  Fuerte San Francisco     1-2 (0-0)  Municipal Limeño
+         Once Deportivo           1-2 (1-2)  CD Águila
+         Platense Zacatecoluca    1-4 (1-2)  Isidro Metapán
+         Dragón                   2-1 (1-0)  Jocoro FC
+  15.15  Santa Tecla FC           0-2 (0-1)  Alianza
+[Tue Nov/14]
+  15.15  Luis Ángel Firpo         0-2 (0-1)  FAS
+
+
+Matchday 16
+[Sat Oct/28]
+  15.30  Jocoro FC                3-1 (1-0)  Platense Zacatecoluca
+  18.00  Isidro Metapán           2-0 (1-0)  Once Deportivo
+         FAS                      2-1 (2-0)  Santa Tecla FC
+[Sun Oct/29]
+  15.00  CD Águila                1-0 (1-0)  Municipal Limeño
+  15.15  Alianza                  2-2 (1-1)  Dragón
+         Luis Ángel Firpo         2-1 (1-0)  Fuerte San Francisco
+
+
+Matchday 17
+[Wed Nov/8]
+  15.00  Fuerte San Francisco     0-1 (0-0)  CD Águila
+         Dragón                   0-1 (0-1)  FAS
+  15.15  Platense Zacatecoluca    0-2 (0-0)  Alianza
+         Santa Tecla FC           0-0  Luis Ángel Firpo
+  15.30  Once Deportivo           0-0  Jocoro FC
+  18.30  Municipal Limeño         1-3 (1-1)  Isidro Metapán
+
+
+Matchday 18
+[Sat Nov/4]
+  15.00  Jocoro FC                1-0 (0-0)  Municipal Limeño
+  19.00  Isidro Metapán           2-0 (0-0)  CD Águila
+         Alianza                  0-0  Once Deportivo
+         FAS                      2-0 (0-0)  Platense Zacatecoluca
+[Sun Nov/5]
+  13.00  Santa Tecla FC           1-1 (0-0)  Fuerte San Francisco
+  15.00  Dragón                   3-3 (3-0)  Luis Ángel Firpo
+
+
+Matchday 19
+[Sat Nov/11]
+  15.00  Dragón                   4-0 (3-0)  Santa Tecla FC
+  15.15  Fuerte San Francisco     1-1 (0-1)  Isidro Metapán
+  18.00  Municipal Limeño         0-2 (0-1)  Alianza
+[Sun Nov/12]
+  15.00  Once Deportivo           0-2 (0-1)  FAS
+  15.15  Platense Zacatecoluca    1-3 (0-2)  Luis Ángel Firpo
+  15.30  CD Águila                2-0 (1-0)  Jocoro FC
+
+
+Matchday 20
+[Wed Nov/15]
+  15.00  Jocoro FC                2-1 (0-0)  Isidro Metapán
+         Santa Tecla FC           1-1 (0-1)  Platense Zacatecoluca
+  15.15  Dragón                   2-1 (1-1)  Fuerte San Francisco
+  19.00  Alianza                  0-1 (0-1)  CD Águila
+[Thu Nov/16]
+  15.15  Luis Ángel Firpo         3-1 (0-1)  Once Deportivo
+  19.00  FAS                      3-2 (0-2)  Municipal Limeño
+
+
+Matchday 21
+[Sat Nov/18]
+  15.00  Jocoro FC                2-3 (0-2)  Fuerte San Francisco
+  18.00  Municipal Limeño         3-2 (2-1)  Luis Ángel Firpo
+  19.00  Isidro Metapán           3-1 (1-0)  Alianza
+[Sun Nov/19]
+  15.00  Once Deportivo           2-2 (2-0)  Santa Tecla FC
+  15.15  Platense Zacatecoluca    2-2 (0-2)  Dragón
+[Wed Nov/22]
+  20.00  CD Águila                1-1 (0-0)  FAS
+
+
+Matchday 22
+[Sun Nov/26]
+  15.00  Alianza                  2-2 (0-2)  Jocoro FC
+         FAS                      1-1 (0-1)  Isidro Metapán
+         Luis Ángel Firpo         2-0 (0-0)  CD Águila
+         Santa Tecla FC           1-3 (1-1)  Municipal Limeño
+         Dragón                   2-3 (0-1)  Once Deportivo
+         Fuerte San Francisco     1-0 (0-0)  Platense Zacatecoluca
+
+
+== Apertura Playoffs
+
+Quarterfinals
+[Wed Nov/29]
+  15.00  Dragón                   1-1 (0-1)  FAS
+  18.00  Alianza                  4-0 (2-0)  Fuerte San Francisco
+[Thu Nov/30]
+  15.15  Jocoro FC                1-0 (0-0)  Luis Ángel Firpo
+  19.30  Isidro Metapán           0-0  CD Águila
+[Sat Dec/2]
+  15.15  Fuerte San Francisco     1-1 (1-1)  Alianza
+[Sun Dec/3]
+  15.00  CD Águila                1-0 (1-0)  Isidro Metapán
+         FAS                      0-1 (0-1)  Dragón
+         Luis Ángel Firpo         1-1 (1-1)  Jocoro FC
+
+
+Semifinals
+[Sun Dec/10]
+  15.00  Alianza                  1-1 (0-0)  CD Águila
+         Dragón                   1-3 (0-1)  Jocoro FC
+[Sat Dec/16]
+  15.00  Jocoro FC                3-1 (2-1)  Dragón
+[Sun Dec/17]
+  15.00  CD Águila                2-1 (1-0)  Alianza
+
+
+Final
+[Sat Dec/23]
+  18.00  CD Águila                3-0 (1-0)  Jocoro FC
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/13]
+  19.00  Municipal Limeño         1-0 (1-0)  Santa Tecla FC
+  19.30  FAS                      1-1 (1-0)  Isidro Metapán
+[Sun Jan/14]
+  15.00  CD Águila                0-0  Fuerte San Francisco
+         Platense Zacatecoluca    2-0 (0-0)  Jocoro FC
+  15.15  Luis Ángel Firpo         1-0 (1-0)  Dragón
+  18.00  Alianza                  0-1 (0-0)  Once Deportivo
+
+
+Matchday 2
+[Sat Jan/20]
+  15.00  Jocoro FC                1-2 (1-1)  Dragón
+  18.30  Santa Tecla FC           0-1 (0-1)  Platense Zacatecoluca
+  19.00  Isidro Metapán           2-0 (2-0)  Fuerte San Francisco
+[Sun Jan/21]
+  15.00  Once Deportivo           0-1 (0-1)  Municipal Limeño
+         CD Águila                0-1 (0-1)  Alianza
+  15.15  Luis Ángel Firpo         1-3 (0-1)  FAS
+
+
+Matchday 3
+[Wed Jan/24]
+  15.00  Dragón                   2-1 (0-1)  Santa Tecla FC
+  15.15  Alianza                  0-0  Isidro Metapán
+  15.30  Once Deportivo           0-0  CD Águila
+         Fuerte San Francisco     0-2 (0-1)  Luis Ángel Firpo
+  19.00  Municipal Limeño         5-0 (3-0)  Platense Zacatecoluca
+  19.30  FAS                      2-1 (2-0)  Jocoro FC
+
+
+Matchday 4
+[Sat Jan/27]
+  18.30  Santa Tecla FC           3-1 (2-1)  FAS
+  19.00  Isidro Metapán           2-1 (1-1)  Once Deportivo
+[Sun Jan/28]
+  15.00  CD Águila                1-0 (0-0)  Municipal Limeño
+         Platense Zacatecoluca    0-1 (0-0)  Dragón
+  15.15  Jocoro FC                0-0  Fuerte San Francisco
+         Luis Ángel Firpo         1-3 (0-1)  Alianza
+
+
+Matchday 5
+[Wed Feb/7]
+  15.30  Once Deportivo           3-1 (1-0)  Luis Ángel Firpo
+         CD Águila                0-0  Isidro Metapán
+         Fuerte San Francisco     0-1 (0-0)  Santa Tecla FC
+  19.00  Municipal Limeño         2-1 (1-0)  Dragón
+  19.15  Alianza                  5-0 (2-0)  Jocoro FC
+  19.30  FAS                      0-0  Platense Zacatecoluca
+
+
+Matchday 6
+[Sat Feb/10]
+  15.00  Jocoro FC                0-2 (0-1)  Once Deportivo
+  19.00  Isidro Metapán           2-3 (1-1)  Municipal Limeño
+[Sun Feb/11]
+  15.00  Dragón                   0-0  FAS
+         Platense Zacatecoluca    3-2 (2-0)  Fuerte San Francisco
+  15.15  Luis Ángel Firpo         2-1 (1-1)  CD Águila
+         Alianza                  0-0  Santa Tecla FC
+
+
+Matchday 7
+[Sat Feb/17]
+  19.00  Alianza                  1-1 (0-1)  Platense Zacatecoluca
+         Isidro Metapán           2-0 (1-0)  Luis Ángel Firpo
+  19.30  FAS                      2-1 (1-0)  Municipal Limeño
+[Sun Feb/18]
+  15.00  Once Deportivo           1-0 (0-0)  Santa Tecla FC
+         Fuerte San Francisco     0-1 (0-1)  Dragón
+  15.30  CD Águila                3-0 (1-0)  Jocoro FC
+
+
+Matchday 8
+[Sat Feb/24]
+  15.00  Jocoro FC                1-0 (1-0)  Isidro Metapán
+  19.30  FAS                      1-0 (1-0)  Fuerte San Francisco
+[Sun Feb/25]
+  15.15  Dragón                   0-1 (0-0)  Alianza
+         Luis Ángel Firpo         2-0 (0-0)  Municipal Limeño
+  15.30  Platense Zacatecoluca    2-1 (0-1)  Once Deportivo
+[Wed Mar/20]
+  19.15  Santa Tecla FC           1-2 (0-0)  CD Águila
+
+
+Matchday 9
+[Tue Mar/5]
+  19.30  Isidro Metapán           0-1 (0-1)  Santa Tecla FC
+[Wed Mar/6]
+  15.00  CD Águila                0-2 (0-0)  Platense Zacatecoluca
+  15.15  Luis Ángel Firpo         4-1 (3-0)  Jocoro FC
+  15.30  Once Deportivo           0-0  Dragón
+  19.30  FAS                      0-1 (0-1)  Alianza
+         Municipal Limeño         3-0 (2-0)  Fuerte San Francisco
+
+
+Matchday 10
+[Sat Mar/9]
+  18.30  Santa Tecla FC           3-3 (3-0)  Luis Ángel Firpo
+  19.30  FAS                      2-2 (0-2)  Once Deportivo
+         Municipal Limeño         1-0 (0-0)  Jocoro FC
+[Sun Mar/10]
+  15.00  Dragón                   0-1 (0-1)  CD Águila
+         Fuerte San Francisco     1-0 (1-0)  Alianza
+  15.30  Platense Zacatecoluca    1-0 (1-0)  Isidro Metapán
+
+
+Matchday 11
+[Sat Mar/16]
+         Jocoro FC                0-2  Santa Tecla FC           [awarded]
+  15.30  CD Águila                3-2 (2-1)  FAS
+  19.00  Isidro Metapán           2-1 (1-0)  Dragón
+[Sun Mar/17]
+  15.00  Once Deportivo           1-1 (0-0)  Fuerte San Francisco
+  15.30  Luis Ángel Firpo         3-1 (2-0)  Platense Zacatecoluca
+[Wed Mar/20]
+  19.30  Alianza                  4-0 (1-0)  Municipal Limeño
+
+
+Matchday 12
+[Sat Mar/23]
+  15.15  Jocoro FC                1-2 (1-1)  Platense Zacatecoluca
+  18.30  Santa Tecla FC           2-4 (0-4)  Municipal Limeño
+  19.00  Isidro Metapán           1-2 (0-2)  FAS
+[Sun Mar/24]
+  15.00  Once Deportivo           3-1 (1-1)  Alianza
+  15.15  Dragón                   1-4 (0-2)  Luis Ángel Firpo
+  15.30  Fuerte San Francisco     1-1 (0-0)  CD Águila
+
+
+Matchday 13
+[Wed Mar/27]
+  15.15  Jocoro FC                1-3 (0-2)  FAS
+  15.30  CD Águila                3-1 (0-0)  Once Deportivo
+         Luis Ángel Firpo         1-0 (0-0)  Fuerte San Francisco
+         Platense Zacatecoluca    1-1 (0-0)  Municipal Limeño
+  18.30  Santa Tecla FC           3-1 (1-0)  Dragón
+  19.30  Isidro Metapán           0-3 (0-1)  Alianza
+
+
+Matchday 14
+[Sat Mar/30]
+  18.00  Alianza                  1-1 (1-0)  CD Águila
+  18.30  Municipal Limeño         1-2 (1-0)  Once Deportivo
+  19.30  FAS                      0-4 (0-0)  Luis Ángel Firpo
+[Sun Mar/31]
+  15.15  Dragón                   1-1 (1-1)  Jocoro FC
+  15.30  Fuerte San Francisco     0-1 (0-1)  Isidro Metapán
+         Platense Zacatecoluca    2-0 (0-0)  Santa Tecla FC
+
+
+Matchday 15
+[Sat Apr/6]
+  19.00  Alianza                  1-0 (0-0)  Luis Ángel Firpo
+         Municipal Limeño         0-1 (0-0)  CD Águila
+  19.30  FAS                      5-1 (3-1)  Santa Tecla FC
+[Sun Apr/7]
+  15.00  Once Deportivo           1-0 (0-0)  Isidro Metapán
+         Fuerte San Francisco     2-0 (0-0)  Jocoro FC
+  15.15  Dragón                   2-1 (2-0)  Platense Zacatecoluca
+
+
+Matchday 16
+[Wed Apr/10]
+  15.00  Platense Zacatecoluca    2-0 (0-0)  FAS
+         Santa Tecla FC           1-1 (0-0)  Fuerte San Francisco
+  15.15  Jocoro FC                1-2 (0-0)  Alianza
+  15.30  Dragón                   1-2 (0-2)  Municipal Limeño
+         Luis Ángel Firpo         5-1 (3-0)  Once Deportivo
+  19.30  Isidro Metapán           1-0 (0-0)  CD Águila
+
+
+Matchday 17
+[Sat Apr/13]
+  18.00  CD Águila                4-2 (1-1)  Luis Ángel Firpo
+  18.30  Santa Tecla FC           1-1 (1-1)  Alianza
+  19.30  FAS                      0-2 (0-1)  Dragón
+[Sun Apr/14]
+  15.00  Once Deportivo           1-0 (0-0)  Jocoro FC
+         Fuerte San Francisco     5-2 (2-0)  Platense Zacatecoluca
+  18.00  Municipal Limeño         2-0 (1-0)  Isidro Metapán
+
+
+Matchday 18
+[Sat Apr/20]
+  19.00  Municipal Limeño         0-0  FAS
+         Luis Ángel Firpo         1-1 (1-1)  Isidro Metapán
+[Sun Apr/21]
+  15.30  Dragón                   3-2 (1-2)  Fuerte San Francisco
+         Jocoro FC                0-0  CD Águila
+         Platense Zacatecoluca    0-2 (0-2)  Alianza
+         Santa Tecla FC           0-0  Once Deportivo
+
+
+Matchday 19
+[Wed Apr/24]
+  15.00  Fuerte San Francisco     0-2 (0-0)  FAS
+  15.30  Once Deportivo           0-0  Platense Zacatecoluca
+  19.00  Alianza                  6-1 (3-0)  Dragón
+  19.30  Isidro Metapán           2-0 (1-0)  Jocoro FC
+         Municipal Limeño         2-2 (0-1)  Luis Ángel Firpo
+[Thu Apr/25]
+  19.30  CD Águila                4-2 (1-1)  Santa Tecla FC
+
+
+Matchday 20
+[Wed May/1]
+  15.30  Dragón                   3-1 (3-0)  Once Deportivo
+         Fuerte San Francisco     1-2 (0-2)  Municipal Limeño
+         Jocoro FC                1-4 (0-3)  Luis Ángel Firpo
+         Platense Zacatecoluca    1-1 (1-1)  CD Águila
+         Santa Tecla FC           0-4 (0-1)  Isidro Metapán
+  18.00  Alianza                  0-0  FAS
+
+
+Matchday 21
+[Sat Apr/27]
+  18.30  Jocoro FC                0-1 (0-0)  Municipal Limeño
+  19.00  Alianza                  3-1 (1-0)  Fuerte San Francisco
+         Luis Ángel Firpo         2-1 (0-1)  Santa Tecla FC
+         Isidro Metapán           2-1 (1-0)  Platense Zacatecoluca
+[Sun Apr/28]
+  15.00  Once Deportivo           0-0  FAS
+  15.30  CD Águila                3-1 (0-0)  Dragón
+
+
+Matchday 22
+[Sat May/4]
+  15.15  Dragón                   3-1 (0-0)  Isidro Metapán
+         FAS                      0-0  CD Águila
+         Fuerte San Francisco     2-0 (2-0)  Once Deportivo
+         Municipal Limeño         1-3 (1-1)  Alianza
+         Platense Zacatecoluca    1-2 (0-1)  Luis Ángel Firpo
+         Santa Tecla FC           3-4 (2-3)  Jocoro FC
+
+
+== Clausura Playoffs
+
+Quarterfinals
+[Wed May/8]
+  19.30  Isidro Metapán           2-0 (0-0)  Luis Ángel Firpo
+[Thu May/9]
+  15.30  Once Deportivo           1-1 (0-0)  Alianza
+         Platense Zacatecoluca    0-3 (0-1)  Municipal Limeño
+  19.30  FAS                      3-1 (2-1)  CD Águila
+[Sat May/11]
+  19.00  Luis Ángel Firpo         1-0 (0-0)  Isidro Metapán
+  19.30  Alianza                  2-0 (1-0)  Once Deportivo
+[Sun May/12]
+  15.00  CD Águila                4-5 pen. (3-1, 2-0)  FAS
+  19.00  Municipal Limeño         0-2 (0-1)  Platense Zacatecoluca
+
+
+Semifinals
+[Wed May/15]
+  19.30  Isidro Metapán           0-2 (0-0)  Municipal Limeño
+[Sat May/18]
+  19.30  FAS                      1-1 (0-0)  Alianza
+         Municipal Limeño         0-1 (0-1)  Isidro Metapán
+[Tue May/21]
+  20.00  Alianza                  2-1 (1-1)  FAS
+
+
+Final
+[Sat May/25]
+  18.00  Alianza                  5-0 (3-0)  Municipal Limeño

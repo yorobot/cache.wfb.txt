@@ -1,0 +1,630 @@
+= CO 1 2008
+
+# Date       Fri Feb/1 - Sun Dec/21 2008 (324d)
+# Teams      18
+# Matches    376
+# Stages     Apertura (162)  Apertura Cuadrangulares (26)  Clausura (162)  Clausura Cuadrangulares (26)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/1]
+  19.15  Deportes Quindío         1-1  La Equidad
+[Sat Feb/2]
+  18.20  Millonarios              1-2  Independiente Medellín
+  20.15  Atlético Nacional        0-1  Santa Fe
+[Sun Feb/3]
+  15.30  Deportivo Pereira        0-2  Envigado FC
+         Cúcuta Deportivo         0-1  Atlético Bucaramanga
+         Atlético Junior          2-1  Once Caldas
+         América de Cali          1-1  Atlético Huila
+         Deportivo Pasto          0-1  Boyacá Chicó
+  17.30  Deportes Tolima          2-0  Deportivo Cali
+
+
+Matchday 2
+[Fri Feb/8]
+  19.30  Deportivo Cali           0-0  Millonarios
+[Sat Feb/9]
+  15.30  Envigado FC              2-1  Cúcuta Deportivo
+  18.20  Santa Fe                 2-1  América de Cali
+  20.15  Independiente Medellín   2-0  Deportivo Pereira
+[Sun Feb/10]
+  15.00  Boyacá Chicó             1-1  Deportes Quindío
+  15.30  Atlético Bucaramanga     1-0  Atlético Junior
+         Atlético Huila           0-0  Deportivo Pasto
+         La Equidad               2-0  Deportes Tolima
+  17.30  Once Caldas              1-0  Atlético Nacional
+
+
+Matchday 3
+[Fri Feb/15]
+  19.30  Atlético Nacional        3-0  Atlético Bucaramanga
+[Sat Feb/16]
+  18.20  América de Cali          3-1  Once Caldas
+  20.15  Atlético Junior          2-2  Envigado FC
+[Sun Feb/17]
+  15.30  Boyacá Chicó             2-0  Atlético Huila
+         Cúcuta Deportivo         0-1  Independiente Medellín
+         Deportes Tolima          0-1  Deportes Quindío
+         Deportivo Pasto          1-2  Santa Fe
+         Deportivo Pereira        1-3  Deportivo Cali
+  17.30  Millonarios              2-1  La Equidad
+
+
+Matchday 4
+[Wed Feb/20]
+  15.30  La Equidad               2-3  Deportivo Pereira
+  20.00  Independiente Medellín   2-0  Atlético Junior
+  20.30  Atlético Bucaramanga     3-0  América de Cali
+         Deportes Quindío         1-1  Atlético Huila
+         Deportes Tolima          1-1  Millonarios
+         Deportivo Cali           0-1  Cúcuta Deportivo
+         Envigado FC              1-0  Atlético Nacional
+         Santa Fe                 2-2  Boyacá Chicó
+         Once Caldas              3-1  Deportivo Pasto
+
+
+Matchday 5
+[Sat Feb/23]
+  18.20  América de Cali          3-0  Envigado FC
+  20.15  Atlético Nacional        1-0  Independiente Medellín
+[Sun Feb/24]
+  15.30  Atlético Junior          1-2  Deportivo Cali
+         Boyacá Chicó             1-0  Once Caldas
+         Cúcuta Deportivo         0-1  La Equidad
+         Deportivo Pasto          1-0  Atlético Bucaramanga
+         Deportivo Pereira        0-0  Deportes Tolima
+         Millonarios              1-1  Deportes Quindío
+  17.30  Atlético Huila           2-3  Santa Fe
+
+
+Matchday 6
+[Fri Feb/29]
+  19.30  Independiente Medellín   1-3  América de Cali
+[Sat Mar/1]
+  18.20  Deportivo Cali           2-1  Atlético Nacional
+  20.15  Atlético Bucaramanga     1-0  Boyacá Chicó
+[Sun Mar/2]
+  15.30  Deportes Tolima          0-0  Cúcuta Deportivo
+         Envigado FC              0-1  Deportivo Pasto
+         La Equidad               2-0  Atlético Junior
+         Millonarios              3-0  Deportivo Pereira
+         Once Caldas              1-1  Atlético Huila
+  17.35  Deportes Quindío         2-1  Santa Fe
+
+
+Matchday 7
+[Fri Mar/7]
+  19.30  Santa Fe                 0-1  Once Caldas
+[Sat Mar/8]
+  16.15  Cúcuta Deportivo         2-1  Millonarios
+  18.20  América de Cali          0-1  Deportivo Cali
+[Sun Mar/9]
+  15.00  Deportivo Pasto          1-1  Independiente Medellín
+  15.30  Atlético Huila           4-2  Atlético Bucaramanga
+         Atlético Junior          1-3  Deportes Tolima
+         Atlético Nacional        0-1  La Equidad
+         Deportivo Pereira        2-0  Deportes Quindío
+  17.35  Boyacá Chicó             1-1  Envigado FC
+
+
+Matchday 8
+[Fri Mar/14]
+  19.30  Deportivo Cali           1-1  Deportivo Pasto
+[Sat Mar/15]
+  16.15  Deportes Tolima          1-2  Atlético Nacional
+  18.15  Independiente Medellín   0-0  Boyacá Chicó
+[Sun Mar/16]
+  15.30  Deportes Quindío         1-2  Once Caldas
+         Deportivo Pereira        0-2  Cúcuta Deportivo
+         Envigado FC              1-1  Atlético Huila
+         La Equidad               4-0  América de Cali
+         Millonarios              3-1  Atlético Junior
+  17.35  Atlético Bucaramanga     1-2  Santa Fe
+
+
+Matchday 9
+[Sat Mar/22]
+  16.10  Deportes Quindío         4-1  Boyacá Chicó
+  18.20  Deportivo Cali           0-4  América de Cali
+  20.15  Santa Fe                 1-1  Millonarios
+[Sun Mar/23]
+  15.30  Atlético Bucaramanga     1-1  Cúcuta Deportivo
+         Atlético Huila           3-2  Deportes Tolima
+         Envigado FC              1-0  Atlético Junior
+         La Equidad               1-1  Deportivo Pasto
+         Once Caldas              1-1  Deportivo Pereira
+  17.30  Independiente Medellín   2-0  Atlético Nacional
+
+
+Matchday 10
+[Sat Mar/29]
+  15.30  Atlético Huila           1-1  Independiente Medellín
+  18.20  Atlético Nacional        1-1  Millonarios
+  20.15  Santa Fe                 3-0  Envigado FC
+[Sun Mar/30]
+  15.30  América de Cali          3-1  Deportes Tolima
+         Atlético Junior          1-0  Deportivo Pereira
+         Cúcuta Deportivo         4-3  Deportes Quindío
+         Deportivo Pasto          1-2  La Equidad
+         Once Caldas              2-0  Atlético Bucaramanga
+  17.30  Boyacá Chicó             0-0  Deportivo Cali
+
+
+Matchday 11
+[Wed Apr/2]
+  15.30  La Equidad               2-1  Boyacá Chicó
+  20.00  Envigado FC              2-0  Once Caldas
+         Independiente Medellín   2-0  Santa Fe
+  20.30  Cúcuta Deportivo         0-0  Atlético Junior
+         Deportes Quindío         2-0  Atlético Bucaramanga
+         Deportes Tolima          1-2  Deportivo Pasto
+         Deportivo Cali           2-1  Atlético Huila
+         Deportivo Pereira        1-0  Atlético Nacional
+         Millonarios              3-1  América de Cali
+
+
+Matchday 12
+[Sat Apr/5]
+  16.10  Atlético Huila           1-0  La Equidad
+  18.20  Santa Fe                 2-0  Deportivo Cali
+  20.15  Boyacá Chicó             7-2  Deportes Tolima
+[Sun Apr/6]
+  15.30  América de Cali          4-1  Deportivo Pereira
+         Atlético Bucaramanga     2-1  Envigado FC
+         Atlético Junior          2-2  Deportes Quindío
+         Atlético Nacional        3-1  Cúcuta Deportivo
+         Deportivo Pasto          2-0  Millonarios
+  17.30  Once Caldas              1-1  Independiente Medellín
+
+
+Matchday 13
+[Sat Apr/12]
+  15.30  La Equidad               0-0  Santa Fe
+  18.20  Deportivo Cali           3-0  Once Caldas
+  20.15  Cúcuta Deportivo         1-1  América de Cali
+         Deportes Quindío         2-2  Envigado FC
+[Sun Apr/13]
+  15.30  Deportes Tolima          2-1  Atlético Huila
+         Deportivo Pereira        5-2  Deportivo Pasto
+         Independiente Medellín   5-0  Atlético Bucaramanga
+  17.30  Millonarios              0-4  Boyacá Chicó
+  18.30  Atlético Junior          3-0  Atlético Nacional
+
+
+Matchday 14
+[Fri Apr/18]
+  19.30  Envigado FC              1-0  Independiente Medellín
+[Sat Apr/19]
+  18.20  América de Cali          1-2  Atlético Junior
+  20.15  Atlético Nacional        1-0  Deportes Quindío
+[Sun Apr/20]
+  15.30  Atlético Bucaramanga     4-1  Deportivo Cali
+         Atlético Huila           3-3  Millonarios
+         Boyacá Chicó             3-0  Deportivo Pereira
+         Deportivo Pasto          1-0  Cúcuta Deportivo
+         Santa Fe                 2-0  Deportes Tolima
+  17.30  Once Caldas              1-1  La Equidad
+
+
+Matchday 15
+[Fri Apr/25]
+  19.30  Deportes Quindío         1-0  Independiente Medellín
+[Sat Apr/26]
+  18.20  Millonarios              0-2  Santa Fe
+  20.15  Cúcuta Deportivo         3-0  Boyacá Chicó
+[Sun Apr/27]
+  15.30  Atlético Junior          2-0  Deportivo Pasto
+         Atlético Nacional        3-2  América de Cali
+         Deportes Tolima          4-3  Once Caldas
+         Deportivo Pereira        3-3  Atlético Huila
+         La Equidad               1-0  Atlético Bucaramanga
+  17.30  Deportivo Cali           2-1  Envigado FC
+
+
+Matchday 16
+[Sat May/3]
+  16.00  América de Cali          3-1  Deportes Quindío
+  18.20  Deportivo Pasto          0-1  Atlético Nacional
+  20.15  Boyacá Chicó             2-1  Atlético Junior
+[Sun May/4]
+  15.30  Atlético Bucaramanga     1-0  Deportes Tolima
+         Atlético Huila           1-0  Cúcuta Deportivo
+         Envigado FC              0-1  La Equidad
+         Independiente Medellín   1-1  Deportivo Cali
+         Santa Fe                 1-1  Deportivo Pereira
+  17.30  Once Caldas              0-2  Millonarios
+
+
+Matchday 17
+[Sat May/10]
+  15.30  La Equidad               2-1  Independiente Medellín
+  18.30  América de Cali          2-0  Deportivo Pasto
+         Atlético Junior          1-0  Atlético Huila
+         Atlético Nacional        0-1  Boyacá Chicó
+         Cúcuta Deportivo         2-0  Santa Fe
+         Deportes Quindío         0-0  Deportivo Cali
+         Deportes Tolima          1-2  Envigado FC
+         Deportivo Pereira        3-1  Once Caldas
+         Millonarios              1-0  Atlético Bucaramanga
+
+
+Matchday 18
+[Sun May/18]
+  15.30  Atlético Bucaramanga     3-0  Deportivo Pereira
+         Atlético Huila           1-0  Atlético Nacional
+         Boyacá Chicó             3-2  América de Cali
+         Deportivo Cali           1-1  La Equidad
+         Deportivo Pasto          0-2  Deportes Quindío
+         Envigado FC              1-0  Millonarios
+         Independiente Medellín   4-1  Deportes Tolima
+         Santa Fe                 1-2  Atlético Junior
+         Once Caldas              1-2  Cúcuta Deportivo
+
+
+== Apertura Cuadrangulares
+
+Group
+[Wed May/21]
+  20.30  La Equidad               0-2  América de Cali
+         Envigado FC              2-0  Santa Fe
+[Sat May/24]
+  20.15  América de Cali          2-0  Envigado FC
+[Sun May/25]
+  15.30  Santa Fe                 0-1  La Equidad
+[Sat Jun/7]
+  20.15  América de Cali          3-0  Santa Fe
+[Sun Jun/8]
+  15.30  La Equidad               2-2  Envigado FC
+[Sat Jun/21]
+  20.15  Envigado FC              1-0  La Equidad
+[Sun Jun/22]
+  15.30  Santa Fe                 2-0  América de Cali
+[Wed Jun/25]
+  15.30  La Equidad               0-2  Santa Fe
+  19.30  Envigado FC              1-3  América de Cali
+[Sat Jun/28]
+  18.30  América de Cali          1-1  La Equidad
+         Santa Fe                 2-2  Envigado FC
+[Wed May/21]
+  19.30  Deportes Quindío         0-0  Independiente Medellín
+  20.30  Deportivo Cali           2-2  Boyacá Chicó
+[Sat May/24]
+  18.20  Independiente Medellín   5-0  Deportivo Cali
+[Sun May/25]
+  17.30  Boyacá Chicó             2-1  Deportes Quindío
+[Sat Jun/7]
+  18.20  Independiente Medellín   1-1  Boyacá Chicó
+[Sun Jun/8]
+  17.30  Deportes Quindío         1-1  Deportivo Cali
+[Sat Jun/21]
+  18.20  Boyacá Chicó             1-1  Independiente Medellín
+[Sun Jun/22]
+  17.30  Deportivo Cali           0-2  Deportes Quindío
+[Wed Jun/25]
+  20.30  Deportivo Cali           2-1  Independiente Medellín
+         Deportes Quindío         1-1  Boyacá Chicó
+[Sat Jun/28]
+  18.30  Independiente Medellín   2-0  Deportes Quindío
+         Boyacá Chicó             2-1  Deportivo Cali
+
+
+Final
+[Wed Jul/2]
+  19.00  América de Cali          1-1  Boyacá Chicó
+[Sun Jul/6]
+  17.30  Boyacá Chicó             4-2 pen.  América de Cali
+
+
+== Clausura
+
+Matchday 1
+[Sat Jul/19]
+  15.30  Envigado FC              1-1  Deportivo Pereira
+         Atlético Huila           2-1  América de Cali
+  18.20  Independiente Medellín   0-1  Millonarios
+  20.00  Atlético Bucaramanga     1-0  Cúcuta Deportivo
+  20.20  Santa Fe                 5-0  Atlético Nacional
+[Sun Jul/20]
+  15.30  La Equidad               1-1  Deportes Quindío
+         Deportivo Cali           1-2  Deportes Tolima
+         Boyacá Chicó             1-0  Deportivo Pasto
+  17.30  Once Caldas              2-1  Atlético Junior
+
+
+Matchday 2
+[Fri Jul/25]
+  19.30  Deportes Quindío         2-1  Boyacá Chicó
+[Sat Jul/26]
+  18.20  Millonarios              2-3  Deportivo Cali
+  20.15  Deportivo Pereira        3-1  Independiente Medellín
+[Sun Jul/27]
+  15.30  Deportivo Pasto          1-0  Atlético Huila
+         Atlético Nacional        2-0  Once Caldas
+         Atlético Junior          2-0  Atlético Bucaramanga
+         Cúcuta Deportivo         2-2  Envigado FC
+         Deportes Tolima          1-0  La Equidad
+  17.30  América de Cali          2-0  Santa Fe
+
+
+Matchday 3
+[Sat Aug/2]
+  15.30  Atlético Huila           1-1  Boyacá Chicó
+  18.20  Deportivo Cali           5-0  Deportivo Pereira
+  20.15  Deportes Quindío         0-0  Deportes Tolima
+[Sun Aug/3]
+  15.00  La Equidad               2-3  Millonarios
+  15.30  Independiente Medellín   1-0  Cúcuta Deportivo
+         Envigado FC              1-0  Atlético Junior
+         Atlético Bucaramanga     1-1  Atlético Nacional
+  16.30  Santa Fe                 0-0  Deportivo Pasto
+  17.30  Once Caldas              2-0  América de Cali
+
+
+Matchday 4
+[Sat Aug/9]
+  15.30  Deportivo Pasto          0-0  Once Caldas
+  18.20  Millonarios              3-1  Deportes Tolima
+  20.15  Atlético Huila           2-2  Deportes Quindío
+[Sun Aug/10]
+  15.30  América de Cali          1-1  Atlético Bucaramanga
+         Atlético Nacional        1-2  Envigado FC
+         Atlético Junior          2-1  Independiente Medellín
+         Cúcuta Deportivo         2-1  Deportivo Cali
+         Deportivo Pereira        1-1  La Equidad
+  17.30  Boyacá Chicó             1-2  Santa Fe
+
+
+Matchday 5
+[Sat Aug/16]
+  16.15  Once Caldas              1-0  Boyacá Chicó
+  18.20  Deportes Quindío         1-2  Millonarios
+  20.15  Independiente Medellín   0-1  Atlético Nacional
+[Sun Aug/17]
+  15.30  Deportes Tolima          1-0  Deportivo Pereira
+         La Equidad               2-0  Cúcuta Deportivo
+         Deportivo Cali           1-2  Atlético Junior
+         Envigado FC              0-0  América de Cali
+         Atlético Bucaramanga     1-0  Deportivo Pasto
+  17.30  Santa Fe                 1-0  Atlético Huila
+
+
+Matchday 6
+[Fri Aug/22]
+  19.30  América de Cali          1-0  Independiente Medellín
+[Sat Aug/23]
+  18.20  Atlético Nacional        1-1  Deportivo Cali
+  20.15  Boyacá Chicó             1-2  Atlético Bucaramanga
+[Sun Aug/24]
+  15.30  Santa Fe                 3-2  Deportes Quindío
+         Atlético Huila           3-3  Once Caldas
+         Deportivo Pasto          1-1  Envigado FC
+         Atlético Junior          4-0  La Equidad
+         Cúcuta Deportivo         1-2  Deportes Tolima
+  16.30  Deportivo Pereira        3-2  Millonarios
+
+
+Matchday 7
+[Sat Aug/30]
+  15.30  La Equidad               1-0  Atlético Nacional
+  18.20  Deportivo Cali           2-0  América de Cali
+  20.15  Millonarios              3-0  Cúcuta Deportivo
+[Sun Aug/31]
+  15.30  Deportes Quindío         2-0  Deportivo Pereira
+         Independiente Medellín   3-1  Deportivo Pasto
+         Envigado FC              1-2  Boyacá Chicó
+         Atlético Bucaramanga     1-1  Atlético Huila
+         Once Caldas              0-0  Santa Fe
+  17.30  Deportes Tolima          2-1  Atlético Junior
+
+
+Matchday 8
+[Fri Sep/12]
+  19.30  Deportivo Pasto          2-0  Deportivo Cali
+[Sat Sep/13]
+  18.20  Atlético Junior          1-0  Millonarios
+  20.15  América de Cali          1-1  La Equidad
+[Sun Sep/14]
+  15.30  Once Caldas              1-1  Deportes Quindío
+         Santa Fe                 0-0  Atlético Bucaramanga
+         Atlético Huila           1-0  Envigado FC
+         Atlético Nacional        2-1  Deportes Tolima
+         Cúcuta Deportivo         0-2  Deportivo Pereira
+  17.30  Boyacá Chicó             1-1  Independiente Medellín
+
+
+Matchday 9
+[Fri Sep/19]
+  19.30  Deportes Tolima          3-1  Atlético Huila
+[Sat Sep/20]
+  18.20  Millonarios              0-1  Santa Fe
+  20.15  América de Cali          4-1  Deportivo Cali
+[Sun Sep/21]
+  15.30  Cúcuta Deportivo         0-0  Atlético Bucaramanga
+         Atlético Junior          1-0  Envigado FC
+         Atlético Nacional        1-2  Independiente Medellín
+         Deportivo Pasto          0-0  La Equidad
+         Boyacá Chicó             1-0  Deportes Quindío
+  17.30  Deportivo Pereira        1-1  Once Caldas
+
+
+Matchday 10
+[Wed Sep/24]
+  15.30  La Equidad               0-1  Deportivo Pasto
+  19.00  Deportivo Pereira        2-1  Atlético Junior
+  20.00  Independiente Medellín   1-0  Atlético Huila
+  20.30  Deportes Quindío         0-0  Cúcuta Deportivo
+         Deportes Tolima          0-0  América de Cali
+         Envigado FC              0-0  Santa Fe
+         Atlético Bucaramanga     3-1  Once Caldas
+  20.50  Millonarios              0-0  Atlético Nacional
+[Thu Sep/25]
+  19.30  Deportivo Cali           4-0  Boyacá Chicó
+
+
+Matchday 11
+[Sat Sep/27]
+  18.20  Santa Fe                 1-0  Independiente Medellín
+  20.15  Atlético Junior          0-1  Cúcuta Deportivo
+[Sun Sep/28]
+  15.30  Atlético Bucaramanga     0-0  Deportes Quindío
+         Once Caldas              2-1  Envigado FC
+         Atlético Huila           0-1  Deportivo Cali
+         Boyacá Chicó             0-1  La Equidad
+         Deportivo Pasto          1-2  Deportes Tolima
+         Atlético Nacional        0-1  Deportivo Pereira
+  17.30  América de Cali          1-0  Millonarios
+
+
+Matchday 12
+[Fri Oct/3]
+  19.30  Millonarios              4-0  Deportivo Pasto
+[Sat Oct/4]
+  18.20  Deportivo Cali           1-0  Santa Fe
+  20.15  Independiente Medellín   3-2  Once Caldas
+[Sun Oct/5]
+  15.30  Deportes Quindío         2-1  Atlético Junior
+         Cúcuta Deportivo         0-1  Atlético Nacional
+         Deportes Tolima          1-0  Boyacá Chicó
+         La Equidad               2-2  Atlético Huila
+         Envigado FC              4-1  Atlético Bucaramanga
+  17.30  Deportivo Pereira        2-1  América de Cali
+
+
+Matchday 13
+[Fri Oct/17]
+  19.30  Atlético Bucaramanga     1-4  Independiente Medellín
+[Sat Oct/18]
+  18.20  Once Caldas              1-4  Deportivo Cali
+  20.15  Santa Fe                 0-1  La Equidad
+[Sun Oct/19]
+  15.30  Envigado FC              1-2  Deportes Quindío
+         Atlético Huila           3-2  Deportes Tolima
+         Deportivo Pasto          0-0  Deportivo Pereira
+         Atlético Nacional        2-1  Atlético Junior
+  17.30  Boyacá Chicó             2-1  Millonarios
+         América de Cali          1-0  Cúcuta Deportivo
+
+
+Matchday 14
+[Wed Oct/22]
+  15.30  La Equidad               1-0  Once Caldas
+  20.30  Atlético Junior          4-3  América de Cali
+         Cúcuta Deportivo         1-0  Deportivo Pasto
+         Deportivo Pereira        1-2  Boyacá Chicó
+         Millonarios              1-0  Atlético Huila
+         Deportes Tolima          2-0  Santa Fe
+         Deportivo Cali           3-0  Atlético Bucaramanga
+         Independiente Medellín   1-1  Envigado FC
+[Thu Oct/23]
+  20.00  Deportes Quindío         0-3  Atlético Nacional
+
+
+Matchday 15
+[Sat Oct/25]
+  17.20  Santa Fe                 1-1  Millonarios
+  21.15  Envigado FC              2-0  Deportivo Cali
+[Sun Oct/26]
+  15.30  Atlético Bucaramanga     0-1  La Equidad
+         Atlético Huila           1-1  Deportivo Pereira
+         Boyacá Chicó             2-0  Cúcuta Deportivo
+         Deportivo Pasto          1-1  Atlético Junior
+         América de Cali          3-0  Atlético Nacional
+  17.30  Independiente Medellín   2-0  Deportes Quindío
+         Once Caldas              2-0  Deportes Tolima
+
+
+Matchday 16
+[Fri Oct/31]
+  19.30  Atlético Nacional        2-1  Deportivo Pasto
+[Sat Nov/1]
+  18.20  Deportivo Cali           0-2  Independiente Medellín
+  20.15  Deportes Quindío         0-2  América de Cali
+[Sun Nov/2]
+  15.30  Atlético Junior          1-0  Boyacá Chicó
+         Cúcuta Deportivo         2-0  Atlético Huila
+         Deportivo Pereira        2-0  Santa Fe
+         Deportes Tolima          0-0  Atlético Bucaramanga
+  17.30  Millonarios              0-0  Once Caldas
+[Mon Nov/3]
+  10.30  La Equidad               2-0  Envigado FC
+
+
+Matchday 17
+[Sat Nov/8]
+  18.20  Boyacá Chicó             0-1  Atlético Nacional
+[Sun Nov/9]
+  15.30  Envigado FC              1-0  Deportes Tolima
+         Atlético Bucaramanga     1-1  Millonarios
+         Once Caldas              1-0  Deportivo Pereira
+         Santa Fe                 3-0  Cúcuta Deportivo
+         Atlético Huila           0-1  Atlético Junior
+         Deportivo Pasto          0-0  América de Cali
+  17.30  Deportivo Cali           2-0  Deportes Quindío
+         Independiente Medellín   2-1  La Equidad
+
+
+Matchday 18
+[Sat Nov/15]
+  18.20  Deportes Tolima          2-0  Independiente Medellín
+[Sun Nov/16]
+  15.30  Deportes Quindío         1-0  Deportivo Pasto
+         América de Cali          4-2  Boyacá Chicó
+         Atlético Nacional        2-0  Atlético Huila
+         Atlético Junior          3-1  Santa Fe
+         Cúcuta Deportivo         0-1  Once Caldas
+         Millonarios              2-1  Envigado FC
+         Deportivo Pereira        3-0  Atlético Bucaramanga
+         La Equidad               1-0  Deportivo Cali
+
+
+== Clausura Cuadrangulares
+
+Group
+[Sat Nov/22]
+  20.15  Independiente Medellín   2-1  Deportes Tolima
+[Sun Nov/23]
+  17.30  La Equidad               0-0  Atlético Nacional
+[Thu Nov/27]
+  20.30  Atlético Nacional        1-1  Independiente Medellín
+         Deportes Tolima          2-1  La Equidad
+[Sun Nov/30]
+  15.30  La Equidad               2-3  Independiente Medellín
+  17.30  Atlético Nacional        1-1  Deportes Tolima
+[Sun Dec/7]
+  15.30  Independiente Medellín   1-0  La Equidad
+  17.30  Deportes Tolima          2-1  Atlético Nacional
+[Wed Dec/10]
+  20.00  Independiente Medellín   0-0  Atlético Nacional
+         La Equidad               3-1  Deportes Tolima
+[Sun Dec/14]
+  15.30  Atlético Nacional        1-4  La Equidad
+  17.30  Deportes Tolima          4-1  Independiente Medellín
+[Sat Nov/22]
+  18.30  Atlético Junior          2-0  Deportivo Cali
+[Sun Nov/23]
+  15.30  América de Cali          3-0  Deportivo Pereira
+[Wed Nov/26]
+  20.30  Deportivo Pereira        3-2  Atlético Junior
+         Deportivo Cali           2-2  América de Cali
+[Sat Nov/29]
+  18.20  Deportivo Cali           3-0  Deportivo Pereira
+  20.15  Atlético Junior          1-1  América de Cali
+[Sat Dec/6]
+  18.20  América de Cali          2-0  Atlético Junior
+  20.15  Deportivo Pereira        3-1  Deportivo Cali
+[Wed Dec/10]
+  19.30  América de Cali          1-0  Deportivo Cali
+         Atlético Junior          3-0  Deportivo Pereira
+[Sun Dec/14]
+  15.30  Deportivo Cali           2-1  Atlético Junior
+  17.30  Deportivo Pereira        3-1  América de Cali
+
+
+Final
+[Wed Dec/17]
+  20.00  Independiente Medellín   0-1  América de Cali
+[Sun Dec/21]
+  17.30  América de Cali          3-1  Independiente Medellín

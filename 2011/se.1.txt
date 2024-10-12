@@ -1,0 +1,435 @@
+= SE 1 2011
+
+# Date       Sat Apr/2 - Sun Oct/23 2011 (204d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sat Apr/2]
+  16.00  Halmstads BK             0-0  Kalmar FF
+[Sun Apr/3]
+  14.00  IFK Norrköping           2-0 (0-0)  GAIS Göteborg
+  16.30  Trelleborgs FF           2-4 (1-2)  Malmö FF
+         Syrianska FC             1-1 (1-0)  Gefle IF
+         Mjällby AIF              0-1 (0-1)  Helsingborgs IF
+[Mon Apr/4]
+  19.00  IFK Göteborg             0-1 (0-0)  Örebro SK
+         IF Elfsborg              2-1 (1-1)  BK Häcken
+  20.00  Djurgårdens IF           0-0  AIK Solna
+
+
+Matchday 2
+[Fri Apr/8]
+  19.00  Örebro SK                1-0 (0-0)  Syrianska FC
+[Sat Apr/9]
+  14.00  Gefle IF                 2-0 (1-0)  IFK Norrköping
+  16.00  GAIS Göteborg            4-0 (2-0)  Trelleborgs FF
+[Sun Apr/10]
+  14.00  AIK Solna                3-0 (2-0)  Mjällby AIF
+  16.30  Helsingborgs IF          1-0 (0-0)  IF Elfsborg
+         BK Häcken                3-1 (0-1)  IFK Göteborg
+[Mon Apr/11]
+  19.00  Malmö FF                 3-1 (0-1)  Halmstads BK
+         Kalmar FF                3-2 (1-1)  Djurgårdens IF
+
+
+Matchday 3
+[Fri Apr/15]
+  19.00  Djurgårdens IF           0-1 (0-0)  Malmö FF
+[Sat Apr/16]
+  14.00  Halmstads BK             0-2 (0-0)  GAIS Göteborg
+  16.00  Mjällby AIF              1-0 (0-0)  Kalmar FF
+[Sun Apr/17]
+  14.00  Syrianska FC             1-5 (0-3)  BK Häcken
+  16.30  IF Elfsborg              2-2 (1-2)  AIK Solna
+         Trelleborgs FF           1-2 (0-0)  IFK Norrköping
+[Mon Apr/18]
+  19.00  IFK Göteborg             1-2 (1-0)  Helsingborgs IF
+         Örebro SK                2-3 (0-0)  Gefle IF
+
+
+Matchday 4
+[Tue Apr/19]
+  19.00  GAIS Göteborg            2-1 (1-1)  Djurgårdens IF
+[Wed Apr/20]
+  19.00  IFK Norrköping           2-0 (1-0)  Halmstads BK
+         Malmö FF                 1-0 (0-0)  Mjällby AIF
+         Kalmar FF                2-1 (1-1)  IF Elfsborg
+[Thu Apr/21]
+  19.00  AIK Solna                2-0 (1-0)  IFK Göteborg
+         Gefle IF                 1-2 (1-1)  Trelleborgs FF
+         BK Häcken                1-2 (1-1)  Örebro SK
+[Fri Apr/22]
+  15.00  Helsingborgs IF          1-0 (0-0)  Syrianska FC
+
+
+Matchday 5
+[Sun Apr/24]
+  14.00  Djurgårdens IF           1-3 (0-0)  IFK Norrköping
+         Mjällby AIF              1-1 (1-0)  GAIS Göteborg
+  16.30  IF Elfsborg              3-0 (0-0)  Malmö FF
+         Halmstads BK             1-1 (0-0)  Trelleborgs FF
+         BK Häcken                0-0  Gefle IF
+[Mon Apr/25]
+  15.00  Syrianska FC             3-0 (1-0)  AIK Solna
+         IFK Göteborg             2-0 (1-0)  Kalmar FF
+         Örebro SK                1-1 (0-0)  Helsingborgs IF
+
+
+Matchday 6
+[Fri Apr/29]
+  19.00  GAIS Göteborg            0-2 (0-2)  IF Elfsborg
+[Sat Apr/30]
+  16.00  IFK Norrköping           0-3 (0-2)  Mjällby AIF
+[Sun May/1]
+  14.00  Trelleborgs FF           3-2 (0-0)  Djurgårdens IF
+  16.30  Helsingborgs IF          1-1 (0-0)  BK Häcken
+         Kalmar FF                2-0 (0-0)  Syrianska FC
+[Mon May/2]
+  19.00  AIK Solna                1-0 (0-0)  Örebro SK
+         Gefle IF                 2-1 (1-0)  Halmstads BK
+  20.00  Malmö FF                 0-2 (0-1)  IFK Göteborg
+
+
+Matchday 7
+[Fri May/6]
+  19.00  Örebro SK                1-2 (1-1)  Kalmar FF
+[Sat May/7]
+  14.00  BK Häcken                3-1 (1-0)  AIK Solna
+  16.00  Djurgårdens IF           2-0 (1-0)  Halmstads BK
+[Sun May/8]
+  14.00  Mjällby AIF              0-1 (0-0)  Trelleborgs FF
+  16.30  Syrianska FC             0-0  Malmö FF
+[Mon May/9]
+  19.00  IF Elfsborg              2-1 (0-0)  IFK Norrköping
+         Helsingborgs IF          3-0 (1-0)  Gefle IF
+  19.05  IFK Göteborg             2-1 (1-1)  GAIS Göteborg
+
+
+Matchday 8
+[Sat May/14]
+  14.00  Halmstads BK             1-0 (1-0)  Mjällby AIF
+  16.00  Kalmar FF                2-0 (2-0)  BK Häcken
+[Sun May/15]
+  14.00  Gefle IF                 0-0  Djurgårdens IF
+         Malmö FF                 2-1 (0-1)  Örebro SK
+  16.30  IFK Norrköping           2-2 (2-2)  IFK Göteborg
+         GAIS Göteborg            1-0 (0-0)  Syrianska FC
+[Mon May/16]
+  19.00  AIK Solna                2-1 (2-1)  Helsingborgs IF
+         Trelleborgs FF           3-0 (0-0)  IF Elfsborg
+
+
+Matchday 9
+[Fri May/20]
+  19.00  BK Häcken                1-1 (1-1)  Malmö FF
+         Helsingborgs IF          1-0 (1-0)  Kalmar FF
+[Sat May/21]
+  16.00  AIK Solna                0-2 (0-2)  Gefle IF
+[Sun May/22]
+  14.00  IFK Göteborg             1-1 (0-0)  Trelleborgs FF
+  16.30  Syrianska FC             3-0 (0-0)  IFK Norrköping
+         Örebro SK                3-1 (1-0)  GAIS Göteborg
+[Mon May/23]
+  19.00  Mjällby AIF              3-0 (2-0)  Djurgårdens IF
+         IF Elfsborg              3-2 (2-0)  Halmstads BK
+
+
+Matchday 10
+[Tue May/24]
+  19.00  Malmö FF                 0-3 (0-1)  Helsingborgs IF
+[Wed May/25]
+  19.00  IFK Norrköping           0-2 (0-1)  Örebro SK
+         Kalmar FF                1-0 (1-0)  AIK Solna
+[Thu May/26]
+  19.00  Halmstads BK             1-2 (0-1)  IFK Göteborg
+         GAIS Göteborg            1-0 (1-0)  BK Häcken
+         Gefle IF                 0-0  Mjällby AIF
+         Djurgårdens IF           0-1 (0-0)  IF Elfsborg
+         Trelleborgs FF           0-1 (0-1)  Syrianska FC
+
+
+Matchday 11
+[Sat Jun/11]
+  16.00  BK Häcken                2-2 (1-1)  IFK Norrköping
+  18.00  Kalmar FF                0-0  Gefle IF
+         Syrianska FC             0-0  Halmstads BK
+[Sun Jun/12]
+  16.30  IF Elfsborg              4-0 (1-0)  Mjällby AIF
+  19.00  AIK Solna                2-0 (1-0)  Malmö FF
+[Mon Jun/13]
+  19.00  IFK Göteborg             0-4 (0-2)  Djurgårdens IF
+         Helsingborgs IF          1-1 (1-1)  GAIS Göteborg
+         Örebro SK                4-2 (2-0)  Trelleborgs FF
+
+
+Matchday 12
+[Sat Jun/18]
+  16.00  Gefle IF                 1-0 (0-0)  IF Elfsborg
+         Halmstads BK             0-0  Örebro SK
+  18.00  Mjällby AIF              0-2 (0-2)  IFK Göteborg
+         Trelleborgs FF           1-4 (0-2)  BK Häcken
+[Sun Jun/19]
+  16.30  IFK Norrköping           0-0  Helsingborgs IF
+  19.00  GAIS Göteborg            2-0 (0-0)  AIK Solna
+[Mon Jun/20]
+  19.00  Malmö FF                 2-0 (1-0)  Kalmar FF
+         Djurgårdens IF           3-0 (1-0)  Syrianska FC
+
+
+Matchday 13
+[Tue Jun/21]
+  19.00  BK Häcken                3-1 (1-1)  Halmstads BK
+[Wed Jun/22]
+  19.00  AIK Solna                3-0 (3-0)  IFK Norrköping
+         IFK Göteborg             1-1 (0-1)  IF Elfsborg
+[Thu Jun/23]
+  19.00  Helsingborgs IF          7-3 (4-2)  Trelleborgs FF
+         Kalmar FF                2-1 (1-0)  GAIS Göteborg
+         Malmö FF                 0-0  Gefle IF
+         Syrianska FC             3-1 (1-1)  Mjällby AIF
+         Örebro SK                1-2 (1-1)  Djurgårdens IF
+
+
+Matchday 14
+[Sun Jun/26]
+  16.30  GAIS Göteborg            2-0 (1-0)  Malmö FF
+         Mjällby AIF              2-1 (1-0)  Örebro SK
+  19.00  Gefle IF                 1-0 (1-0)  IFK Göteborg
+         Djurgårdens IF           1-0 (0-0)  BK Häcken
+         Trelleborgs FF           1-2 (1-0)  AIK Solna
+[Mon Jun/27]
+  19.00  IF Elfsborg              2-1 (2-1)  Syrianska FC
+         Halmstads BK             1-2 (0-1)  Helsingborgs IF
+         IFK Norrköping           1-2 (1-1)  Kalmar FF
+
+
+Matchday 15
+[Sat Jul/2]
+  16.00  Kalmar FF                3-2 (3-0)  Trelleborgs FF
+         Syrianska FC             1-2 (0-1)  IFK Göteborg
+  18.00  GAIS Göteborg            2-3 (0-3)  Gefle IF
+[Sun Jul/3]
+  16.30  Malmö FF                 2-1 (2-0)  IFK Norrköping
+         Örebro SK                0-3 (0-1)  IF Elfsborg
+  19.00  Halmstads BK             1-3 (1-1)  AIK Solna
+         BK Häcken                6-0 (3-0)  Mjällby AIF
+[Mon Jul/4]
+  19.00  Djurgårdens IF           1-1 (1-0)  Helsingborgs IF
+
+
+Matchday 16
+[Sat Jul/9]
+  16.00  Gefle IF                 1-3 (0-1)  GAIS Göteborg
+  18.00  Trelleborgs FF           3-2 (0-1)  Kalmar FF
+         IFK Norrköping           0-0  Malmö FF
+[Sun Jul/10]
+  16.30  IFK Göteborg             3-0 (0-0)  Syrianska FC
+         Mjällby AIF              1-2 (0-1)  BK Häcken
+  19.00  IF Elfsborg              3-0 (1-0)  Örebro SK
+[Mon Jul/11]
+  19.00  AIK Solna                4-0 (3-0)  Halmstads BK
+         Helsingborgs IF          3-0 (0-0)  Djurgårdens IF
+
+
+Matchday 17
+[Sat Jul/16]
+  16.00  IFK Norrköping           2-1 (0-1)  Syrianska FC
+  18.00  Djurgårdens IF           1-0 (0-0)  Mjällby AIF
+[Sun Jul/17]
+  16.30  Gefle IF                 0-3 (0-0)  AIK Solna
+         GAIS Göteborg            4-1 (1-1)  Örebro SK
+  19.20  Halmstads BK             1-2 (1-0)  IF Elfsborg
+[Mon Jul/18]
+  19.00  Kalmar FF                1-2 (1-1)  Helsingborgs IF
+         Trelleborgs FF           2-0 (1-0)  IFK Göteborg
+[Thu Oct/13]
+  19.00  Malmö FF                 1-0 (0-0)  BK Häcken
+
+
+Matchday 18
+[Sat Jul/23]
+  16.00  Helsingborgs IF          2-2 (1-2)  Malmö FF
+  18.00  Mjällby AIF              5-1 (2-0)  Gefle IF
+         Syrianska FC             4-1 (3-1)  Trelleborgs FF
+[Sun Jul/24]
+  16.30  BK Häcken                2-0 (0-0)  GAIS Göteborg
+         AIK Solna                2-1 (2-0)  Kalmar FF
+  19.00  Örebro SK                2-0 (2-0)  IFK Norrköping
+[Mon Jul/25]
+  19.00  IF Elfsborg              2-1 (1-1)  Djurgårdens IF
+         IFK Göteborg             3-1 (2-0)  Halmstads BK
+
+
+Matchday 19
+[Sat Jul/30]
+  18.00  IFK Norrköping           2-1 (1-1)  Trelleborgs FF
+[Sun Jul/31]
+  16.30  Gefle IF                 0-1 (0-1)  Örebro SK
+         Helsingborgs IF          2-1 (0-0)  IFK Göteborg
+  19.00  BK Häcken                4-0 (0-0)  Syrianska FC
+         AIK Solna                0-1 (0-1)  IF Elfsborg
+[Mon Aug/1]
+  19.00  GAIS Göteborg            2-1 (1-1)  Halmstads BK
+         Kalmar FF                0-3 (0-0)  Mjällby AIF
+[Sat Oct/15]
+  11.00  Malmö FF                 1-0 (1-0)  Djurgårdens IF
+
+
+Matchday 20
+[Thu Aug/4]
+  19.00  IFK Göteborg             3-1 (2-1)  AIK Solna
+[Sat Aug/6]
+  16.00  Mjällby AIF              1-1 (0-0)  Malmö FF
+  18.00  Trelleborgs FF           2-0 (0-0)  Gefle IF
+[Sun Aug/7]
+  16.30  Halmstads BK             5-4 (1-1)  IFK Norrköping
+         Syrianska FC             1-2 (0-0)  Helsingborgs IF
+         Örebro SK                4-0 (1-0)  BK Häcken
+  19.00  Djurgårdens IF           2-2 (0-1)  GAIS Göteborg
+         IF Elfsborg              0-0  Kalmar FF
+
+
+Matchday 21
+[Sat Aug/13]
+  16.00  Halmstads BK             0-1 (0-1)  BK Häcken
+         Mjällby AIF              3-0 (2-0)  Syrianska FC
+[Sun Aug/14]
+  16.30  Trelleborgs FF           1-3 (0-2)  Helsingborgs IF
+         GAIS Göteborg            1-0 (1-0)  Kalmar FF
+  19.00  Djurgårdens IF           0-2 (0-2)  Örebro SK
+[Mon Aug/15]
+  19.00  IFK Norrköping           0-1 (0-1)  AIK Solna
+  19.15  IF Elfsborg              3-2 (1-1)  IFK Göteborg
+[Thu Sep/8]
+  19.00  Gefle IF                 2-0 (1-0)  Malmö FF
+
+
+Matchday 22
+[Fri Aug/19]
+  19.00  Kalmar FF                5-0 (1-0)  IFK Norrköping
+[Sat Aug/20]
+  16.00  Malmö FF                 2-1 (1-0)  GAIS Göteborg
+[Sun Aug/21]
+  14.00  Syrianska FC             0-2 (0-2)  IF Elfsborg
+         BK Häcken                2-0 (1-0)  Djurgårdens IF
+  16.30  Helsingborgs IF          2-1 (0-0)  Halmstads BK
+         AIK Solna                3-0 (1-0)  Trelleborgs FF
+[Mon Aug/22]
+  19.00  Örebro SK                0-2 (0-1)  Mjällby AIF
+         IFK Göteborg             3-0 (1-0)  Gefle IF
+
+
+Matchday 23
+[Thu Aug/25]
+  19.00  IFK Norrköping           2-1 (2-1)  Djurgårdens IF
+[Sat Aug/27]
+  14.00  Trelleborgs FF           0-1 (0-0)  Halmstads BK
+  16.00  Kalmar FF                0-0  IFK Göteborg
+[Sun Aug/28]
+  14.00  Gefle IF                 2-2 (1-1)  BK Häcken
+         Helsingborgs IF          2-0 (0-0)  Örebro SK
+  16.30  GAIS Göteborg            3-0 (2-0)  Mjällby AIF
+         Malmö FF                 2-1 (1-0)  IF Elfsborg
+         AIK Solna                1-0 (0-0)  Syrianska FC
+
+
+Matchday 24
+[Fri Sep/9]
+  19.00  BK Häcken                1-1 (1-0)  Helsingborgs IF
+[Sat Sep/10]
+  16.00  Mjällby AIF              0-0  IFK Norrköping
+[Sun Sep/11]
+  14.00  Syrianska FC             2-1 (1-0)  Kalmar FF
+  16.30  Djurgårdens IF           4-3 (1-1)  Trelleborgs FF
+         IFK Göteborg             0-0  Malmö FF
+[Mon Sep/12]
+  19.00  IF Elfsborg              1-3 (0-0)  GAIS Göteborg
+         Örebro SK                1-2 (0-0)  AIK Solna
+         Halmstads BK             2-2 (1-2)  Gefle IF
+
+
+Matchday 25
+[Fri Sep/16]
+  19.00  GAIS Göteborg            1-2 (1-1)  IFK Norrköping
+[Sat Sep/17]
+  16.00  Kalmar FF                1-0 (1-0)  Halmstads BK
+[Sun Sep/18]
+  14.00  Gefle IF                 2-1 (1-0)  Syrianska FC
+         Helsingborgs IF          3-0 (3-0)  Mjällby AIF
+  16.30  Örebro SK                0-2 (0-2)  IFK Göteborg
+         BK Häcken                2-0 (1-0)  IF Elfsborg
+         Malmö FF                 1-1 (1-0)  Trelleborgs FF
+[Mon Sep/19]
+  19.00  AIK Solna                0-1 (0-1)  Djurgårdens IF
+
+
+Matchday 26
+[Thu Sep/15]
+  19.00  Mjällby AIF              0-2 (0-0)  AIK Solna
+[Wed Sep/21]
+  19.00  Syrianska FC             3-1 (1-1)  Örebro SK
+         IFK Norrköping           1-1 (1-0)  Gefle IF
+         Trelleborgs FF           0-1 (0-0)  GAIS Göteborg
+         IF Elfsborg              3-2 (1-1)  Helsingborgs IF
+         Halmstads BK             1-5 (0-2)  Malmö FF
+[Thu Sep/22]
+  19.00  IFK Göteborg             2-2 (1-1)  BK Häcken
+[Fri Sep/23]
+  19.00  Djurgårdens IF           2-1 (1-0)  Kalmar FF
+
+
+Matchday 27
+[Sat Sep/24]
+  14.00  Mjällby AIF              2-1 (1-0)  IF Elfsborg
+  16.00  Halmstads BK             0-1 (0-1)  Syrianska FC
+[Sun Sep/25]
+  14.00  IFK Norrköping           0-1 (0-1)  BK Häcken
+         GAIS Göteborg            1-3 (0-1)  Helsingborgs IF
+  16.30  Trelleborgs FF           1-1 (0-1)  Örebro SK
+         Malmö FF                 1-1 (0-0)  AIK Solna
+[Mon Sep/26]
+  19.00  Gefle IF                 1-1 (0-1)  Kalmar FF
+         Djurgårdens IF           1-2 (1-0)  IFK Göteborg
+
+
+Matchday 28
+[Fri Sep/30]
+  19.00  Syrianska FC             0-0  Djurgårdens IF
+[Sat Oct/1]
+  14.00  IFK Göteborg             0-1 (0-0)  Mjällby AIF
+  16.00  AIK Solna                2-1 (1-0)  GAIS Göteborg
+[Sun Oct/2]
+  14.00  IF Elfsborg              3-0 (2-0)  Gefle IF
+         Helsingborgs IF          1-1 (1-0)  IFK Norrköping
+  16.30  Örebro SK                1-0 (1-0)  Halmstads BK
+         BK Häcken                1-0 (0-0)  Trelleborgs FF
+         Kalmar FF                1-2 (0-0)  Malmö FF
+
+
+Matchday 29
+[Sat Oct/15]
+  16.00  Kalmar FF                4-1 (3-1)  Örebro SK
+[Sun Oct/16]
+  14.00  Trelleborgs FF           1-2 (1-2)  Mjällby AIF
+  16.30  AIK Solna                2-1 (2-1)  BK Häcken
+         IFK Norrköping           2-1 (2-0)  IF Elfsborg
+[Mon Oct/17]
+  19.00  Halmstads BK             1-3 (1-2)  Djurgårdens IF
+         Gefle IF                 2-0 (1-0)  Helsingborgs IF
+         Malmö FF                 1-0 (0-0)  Syrianska FC
+         GAIS Göteborg            1-0 (0-0)  IFK Göteborg
+
+
+Matchday 30
+[Sun Oct/23]
+  16.30  Syrianska FC             0-2 (0-1)  GAIS Göteborg
+         Mjällby AIF              2-0 (2-0)  Halmstads BK
+         BK Häcken                1-2 (1-2)  Kalmar FF
+         Örebro SK                1-2 (0-0)  Malmö FF
+         IF Elfsborg              3-0 (1-0)  Trelleborgs FF
+         Djurgårdens IF           1-1 (1-1)  Gefle IF
+         IFK Göteborg             3-0 (1-0)  IFK Norrköping
+         Helsingborgs IF          1-1 (1-1)  AIK Solna

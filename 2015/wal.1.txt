@@ -1,0 +1,184 @@
+= WAL 1 2015
+
+# Date       Fri Jan/30 - Sun May/17 2015 (107d)
+# Teams      12
+# Matches    63
+# Stages     Championship (30)  EL-Playoffs (3)  Relegation (30)
+
+
+== Championship
+
+Matchday 1
+[Sat Jan/31]
+  14.30  The New Saints           6-0 (3-0)  Port Talbot Town
+         Aberystwyth Town         3-2 (0-2)  Newtown AFC
+[Sun Feb/1]
+  13.00  Airbus UK                1-2 (0-0)  Bala Town
+
+
+Matchday 2
+[Sat Feb/14]
+  14.30  Airbus UK                3-2 (1-1)  Aberystwyth Town
+         Port Talbot Town         1-3 (0-2)  Bala Town
+         Newtown AFC              0-0  The New Saints
+
+
+Matchday 3
+[Sat Feb/21]
+  14.30  Airbus UK                5-0  Port Talbot Town
+         Newtown AFC              1-1  Bala Town
+[Sun Feb/22]
+  13.00  Aberystwyth Town         0-4  The New Saints
+
+
+Matchday 4
+[Fri Feb/27]
+  19.45  Bala Town                3-3 (2-1)  Aberystwyth Town
+[Sat Feb/28]
+  14.30  Port Talbot Town         4-0 (3-0)  Newtown AFC
+[Sun Mar/1]
+  16.00  The New Saints           2-0 (1-0)  Airbus UK
+
+
+Matchday 5
+[Fri Mar/13]
+  19.45  Aberystwyth Town         2-2 (0-1)  Port Talbot Town
+[Sat Mar/14]
+  14.30  Newtown AFC              0-2 (0-0)  Airbus UK
+  17.05  The New Saints           3-0 (1-0)  Bala Town
+
+
+Matchday 6
+[Sat Mar/21]
+  14.30  Port Talbot Town         1-3 (1-1)  The New Saints
+         Newtown AFC              3-3 (1-1)  Aberystwyth Town
+[Sun Mar/22]
+  13.00  Bala Town                3-0 (1-0)  Airbus UK
+
+
+Matchday 7
+[Fri Mar/27]
+  19.45  The New Saints           4-2 (1-2)  Newtown AFC
+[Sat Mar/28]
+  14.30  Bala Town                4-1 (2-0)  Port Talbot Town
+[Sun Mar/29]
+  13.00  Aberystwyth Town         1-3 (0-1)  Airbus UK
+
+
+Matchday 8
+[Fri Apr/10]
+  19.45  The New Saints           3-3 (3-0)  Aberystwyth Town
+[Sat Apr/11]
+  14.30  Bala Town                1-2 (1-0)  Newtown AFC
+         Port Talbot Town         1-0 (0-0)  Airbus UK
+
+
+Matchday 9
+[Fri Apr/17]
+  19.45  Aberystwyth Town         1-2 (1-0)  Bala Town
+[Sat Apr/18]
+  14.30  Airbus UK                1-0 (0-0)  The New Saints
+         Newtown AFC              1-3 (0-1)  Port Talbot Town
+
+
+Matchday 10
+[Sun Apr/26]
+  13.00  Airbus UK                6-1 (2-1)  Newtown AFC
+         Bala Town                1-1 (1-0)  The New Saints
+         Port Talbot Town         1-2 (0-2)  Aberystwyth Town
+
+
+== EL-Playoffs
+
+Semifinals
+[Sat May/9]
+  14.30  Port Talbot Town         0-1 a.e.t. (0-0)  Newtown AFC
+[Sun May/10]
+  12.45  Aberystwyth Town         3-2 (1-1)  Connah's Quay Nomads
+
+
+Final
+[Sun May/17]
+  13.00  Aberystwyth Town         1-2 (1-2)  Newtown AFC
+
+
+== Relegation
+
+Matchday 1
+[Fri Jan/30]
+  19.30  Rhyl FC                  2-1 (0-0)  Prestatyn Town
+[Sat Jan/31]
+  14.30  Carmarthen Town          3-3 (2-1)  Bangor City
+[Tue Feb/3]
+  19.45  Connah's Quay Nomads     0-0  Cefn Druids
+
+
+Matchday 2
+[Fri Feb/13]
+  19.45  Bangor City              5-3 (2-2)  Cefn Druids
+[Sat Feb/14]
+  14.30  Connah's Quay Nomads     1-1 (1-0)  Rhyl FC
+         Prestatyn Town           1-1 (0-1)  Carmarthen Town
+
+
+Matchday 3
+[Fri Feb/20]
+  19.30  Prestatyn Town           1-1 (0-0)  Cefn Druids
+[Sat Feb/21]
+  14.30  Connah's Quay Nomads     1-1  Bangor City
+         Rhyl FC                  1-0  Carmarthen Town
+
+
+Matchday 4
+[Fri Feb/27]
+  19.30  Cefn Druids              1-2 (0-1)  Rhyl FC
+  19.45  Bangor City              4-0 (0-0)  Prestatyn Town
+[Sat Feb/28]
+  14.30  Carmarthen Town          2-3 (2-1)  Connah's Quay Nomads
+
+
+Matchday 5
+[Fri Mar/13]
+  19.30  Prestatyn Town           3-4 (0-3)  Connah's Quay Nomads
+[Sat Mar/14]
+  14.30  Rhyl FC                  1-1 (1-1)  Bangor City
+         Carmarthen Town          3-1 (1-1)  Cefn Druids
+
+
+Matchday 6
+[Fri Mar/20]
+  19.30  Prestatyn Town           1-2 (0-1)  Rhyl FC
+[Sat Mar/21]
+  14.30  Cefn Druids              2-0 (2-0)  Connah's Quay Nomads
+         Bangor City              1-0 (0-0)  Carmarthen Town
+
+
+Matchday 7
+[Sat Mar/28]
+  14.30  Cefn Druids              0-2 (0-1)  Bangor City
+         Rhyl FC                  1-2 (0-2)  Connah's Quay Nomads
+         Carmarthen Town          5-2 (3-1)  Prestatyn Town
+
+
+Matchday 8
+[Fri Apr/10]
+  19.30  Cefn Druids              0-1 (0-0)  Prestatyn Town
+[Sat Apr/11]
+  14.30  Carmarthen Town          1-3 (0-3)  Rhyl FC
+[Sun Apr/12]
+  13.00  Bangor City              1-2 (0-1)  Connah's Quay Nomads
+
+
+Matchday 9
+[Sat Apr/18]
+  14.30  Rhyl FC                  2-1 (2-1)  Cefn Druids
+         Connah's Quay Nomads     2-1 (1-1)  Carmarthen Town
+[Sun Apr/19]
+  13.00  Prestatyn Town           1-3 (0-0)  Bangor City
+
+
+Matchday 10
+[Sun Apr/26]
+  13.00  Bangor City              4-3 (0-2)  Rhyl FC
+         Cefn Druids              0-1 (0-0)  Carmarthen Town
+         Connah's Quay Nomads     3-1 (1-1)  Prestatyn Town

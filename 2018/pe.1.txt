@@ -1,0 +1,663 @@
+= PE 1 2018
+
+# Date       Sat Feb/3 - Sun Dec/16 2018 (316d)
+# Teams      16
+# Matches    358
+# Stages     Apertura (120)  Clausura (120)  Final de Verano (2)  Playoffs (4)  Torneo de Verano (112)
+
+
+== Apertura
+
+Matchday 1
+[Fri May/18]
+  15.00  Ayacucho FC              3-0 (0-1)  Comerciantes Unidos
+  20.00  Sport Huancayo           1-1 (1-0)  Real Garcilaso
+[Sat May/19]
+  13.00  Deportivo Binacional     0-0  Deportivo Municipal
+  15.30  Unión Comercio           2-0 (1-0)  Academia Cantolao
+  17.45  Sport Rosario            3-2 (2-1)  Alianza Lima
+  20.00  Sport Boys               1-1 (1-0)  Sporting Cristal
+[Sun May/20]
+  13.30  Universidad San Martín   0-0  Universidad Técnica
+  16.00  Universitario de Deportes  1-1 (1-1)  FBC Melgar
+
+
+Matchday 2
+[Fri May/25]
+  20.00  FBC Melgar               3-0 (2-0)  Ayacucho FC
+[Sat May/26]
+  13.00  Comerciantes Unidos      0-3 (0-3)  Sport Huancayo
+  15.30  Universidad Técnica      1-1 (0-0)  Universitario de Deportes
+  17.45  Deportivo Municipal      4-0 (2-0)  Sport Rosario
+[Sun May/27]
+  11.15  Sporting Cristal         4-0 (0-0)  Unión Comercio
+  13.30  Academia Cantolao        1-1 (1-0)  Universidad San Martín
+  16.00  Alianza Lima             1-0 (0-0)  Sport Boys
+  18.15  Real Garcilaso           1-0 (0-0)  Deportivo Binacional
+
+
+Matchday 3
+[Tue May/29]
+  15.00  Ayacucho FC              2-3 (1-1)  Universidad Técnica
+[Wed May/30]
+  13.00  Deportivo Binacional     1-0 (0-0)  Comerciantes Unidos
+  15.30  Unión Comercio           0-0  Universidad San Martín
+  17.30  Sport Huancayo           0-2 (0-2)  FBC Melgar
+  20.00  Sporting Cristal         1-2 (0-2)  Alianza Lima
+[Thu May/31]
+  20.00  Universitario de Deportes  2-2 (1-1)  Academia Cantolao
+[Wed Jun/13]
+  17.30  Sport Rosario            2-1 (1-1)  Real Garcilaso
+[Sun Jul/15]
+  15.30  Sport Boys               1-1 (0-0)  Deportivo Municipal
+
+
+Matchday 4
+[Sat Jun/2]
+  13.00  Comerciantes Unidos      0-0  Sport Rosario
+  15.30  Deportivo Municipal      0-1 (0-0)  Sporting Cristal
+         Universidad Técnica      2-0 (1-0)  Sport Huancayo
+  17.45  FBC Melgar               2-1 (0-0)  Deportivo Binacional
+  20.00  Alianza Lima             2-0 (0-0)  Unión Comercio
+[Sun Jun/3]
+  13.30  Academia Cantolao        3-2 (2-2)  Ayacucho FC
+  16.00  Universidad San Martín   2-2 (1-0)  Universitario de Deportes
+  18.15  Real Garcilaso           3-2 (2-0)  Sport Boys
+
+
+Matchday 5
+[Tue Jun/5]
+  15.30  Deportivo Binacional     1-0 (0-0)  Universidad Técnica
+  20.00  Alianza Lima             3-1 (0-0)  Deportivo Municipal
+[Wed Jun/6]
+  13.00  Sporting Cristal         5-1 (3-0)  Real Garcilaso
+  15.30  Unión Comercio           2-0 (1-0)  Universitario de Deportes
+  17.45  Sport Rosario            2-1 (1-0)  FBC Melgar
+  20.00  Sport Boys               2-1 (0-0)  Comerciantes Unidos
+[Thu Jun/7]
+  15.30  Ayacucho FC              1-1 (1-1)  Universidad San Martín
+  17.45  Sport Huancayo           3-0 (1-0)  Academia Cantolao
+
+
+Matchday 6
+[Sat Jun/9]
+  15.30  Universidad Técnica      1-1 (0-0)  Sport Rosario
+         Comerciantes Unidos      1-1 (1-1)  Sporting Cristal
+  17.45  Deportivo Municipal      3-0 (1-0)  Unión Comercio
+  20.00  Real Garcilaso           2-0 (2-0)  Alianza Lima
+[Sun Jun/10]
+  11.15  Universidad San Martín   0-0  Sport Huancayo
+  13.30  Academia Cantolao        3-1 (1-1)  Deportivo Binacional
+  16.00  Universitario de Deportes  1-1 (1-1)  Ayacucho FC
+  18.15  FBC Melgar               2-2 (1-0)  Sport Boys
+
+
+Matchday 7
+[Fri Jul/20]
+  20.00  Sport Boys               1-1 (0-0)  Universidad Técnica
+[Sat Jul/21]
+  13.00  Deportivo Binacional     2-0 (1-0)  Universidad San Martín
+  15.30  Ayacucho FC              1-1 (1-0)  Unión Comercio
+  17.45  Sport Rosario            4-1 (0-0)  Academia Cantolao
+  20.00  Sport Huancayo           2-1 (1-0)  Universitario de Deportes
+[Sun Jul/22]
+  11.00  Sporting Cristal         2-0 (1-0)  FBC Melgar
+  13.30  Deportivo Municipal      2-0 (0-0)  Real Garcilaso
+  16.00  Alianza Lima             5-1 (2-1)  Comerciantes Unidos
+
+
+Matchday 8
+[Tue Jul/24]
+  13.15  Universidad San Martín   0-1 (0-0)  Sport Rosario
+  20.00  Universitario de Deportes  1-0 (0-0)  Deportivo Binacional
+[Wed Jul/25]
+  13.00  Comerciantes Unidos      1-1 (1-1)  Deportivo Municipal
+  15.30  Unión Comercio           1-0 (0-0)  Real Garcilaso
+  17.45  Academia Cantolao        2-2 (1-1)  Sport Boys
+  20.00  FBC Melgar               2-0 (2-0)  Alianza Lima
+[Thu Jul/26]
+  15.30  Universidad Técnica      0-0  Sporting Cristal
+[Wed Aug/8]
+  15.00  Ayacucho FC              3-1 (0-0)  Sport Huancayo
+
+
+Matchday 9
+[Sat Jul/28]
+  13.00  Deportivo Binacional     1-0 (1-0)  Ayacucho FC
+  15.30  Sport Huancayo           0-0  Unión Comercio
+  17.45  Sport Rosario            3-0 (1-0)  Universitario de Deportes
+  20.00  Sport Boys               3-2 (1-1)  Universidad San Martín
+[Sun Jul/29]
+  13.30  Deportivo Municipal      4-0 (4-0)  FBC Melgar
+  18.15  Real Garcilaso           1-0 (1-0)  Comerciantes Unidos
+[Wed Aug/8]
+  13.00  Sporting Cristal         4-0 (2-0)  Academia Cantolao
+[Thu Aug/23]
+  20.00  Alianza Lima             0-1 (0-1)  Universidad Técnica
+
+
+Matchday 10
+[Tue Jul/31]
+  15.30  Ayacucho FC              2-0 (0-0)  Sport Rosario
+  17.45  Sport Huancayo           1-2 (1-1)  Deportivo Binacional
+  20.00  Universitario de Deportes  2-1 (0-1)  Sport Boys
+[Wed Aug/1]
+  13.15  Universidad San Martín   0-3 (0-0)  Sporting Cristal
+  15.30  Universidad Técnica      1-0 (0-0)  Deportivo Municipal
+  17.45  FBC Melgar               1-0 (0-0)  Real Garcilaso
+  20.00  Academia Cantolao        1-1 (1-1)  Alianza Lima
+[Thu Aug/2]
+  15.30  Unión Comercio           2-0 (1-0)  Comerciantes Unidos
+
+
+Matchday 11
+[Sat Aug/4]
+  15.30  Sport Boys               1-0 (0-0)  Ayacucho FC
+  17.45  Real Garcilaso           1-0 (1-0)  Universidad Técnica
+  20.00  Sporting Cristal         1-0 (1-0)  Universitario de Deportes
+[Sun Aug/5]
+  11.00  Comerciantes Unidos      2-2 (0-1)  FBC Melgar
+  13.30  Deportivo Municipal      1-0 (1-0)  Academia Cantolao
+  16.00  Alianza Lima             3-1 (1-0)  Universidad San Martín
+  18.15  Sport Rosario            2-4 (0-2)  Sport Huancayo
+[Mon Aug/6]
+  15.30  Deportivo Binacional     1-1 (1-1)  Unión Comercio
+
+
+Matchday 12
+[Sat Aug/11]
+  13.00  Deportivo Binacional     3-1 (1-1)  Sport Rosario
+  15.00  Universidad Técnica      2-1 (1-0)  Comerciantes Unidos
+  15.30  Ayacucho FC              0-1 (0-0)  Sporting Cristal
+  17.30  Sport Huancayo           0-0  Sport Boys
+  20.00  Universitario de Deportes  1-1 (0-1)  Alianza Lima
+[Sun Aug/12]
+  13.30  Academia Cantolao        1-2 (1-0)  Real Garcilaso
+  16.00  Universidad San Martín   6-1 (2-0)  Deportivo Municipal
+[Mon Aug/13]
+  15.30  Unión Comercio           0-0  FBC Melgar
+
+
+Matchday 13
+[Tue Aug/14]
+  15.30  Sporting Cristal         0-0  Sport Huancayo
+  17.45  Sport Boys               1-0 (1-0)  Deportivo Binacional
+  20.00  Alianza Lima             1-0 (1-0)  Ayacucho FC
+[Wed Aug/15]
+  15.30  Comerciantes Unidos      0-4 (0-3)  Academia Cantolao
+  17.45  Real Garcilaso           3-3 (2-1)  Universidad San Martín
+  20.00  Deportivo Municipal      0-2 (0-0)  Universitario de Deportes
+[Thu Aug/16]
+  17.45  Sport Rosario            0-2 (0-2)  Unión Comercio
+  20.00  FBC Melgar               3-3 (2-1)  Universidad Técnica
+
+
+Matchday 14
+[Sat Aug/18]
+  13.00  Deportivo Binacional     1-1 (0-0)  Sporting Cristal
+  15.30  Ayacucho FC              1-2 (0-2)  Deportivo Municipal
+  20.00  Sport Huancayo           1-1 (0-0)  Alianza Lima
+[Sun Aug/19]
+  11.15  Universidad San Martín   2-0 (1-0)  Comerciantes Unidos
+  13.30  Academia Cantolao        1-1 (1-0)  FBC Melgar
+  16.00  Universitario de Deportes  0-1 (0-0)  Real Garcilaso
+  18.15  Sport Rosario            1-1 (1-0)  Sport Boys
+[Mon Aug/20]
+  15.30  Unión Comercio           2-3 (1-1)  Universidad Técnica
+
+
+Matchday 15
+[Sat Aug/25]
+  15.00  FBC Melgar               3-2 (2-1)  Universidad San Martín
+  17.30  Sport Boys               2-4 (0-2)  Unión Comercio
+  20.00  Deportivo Municipal      1-0 (1-0)  Sport Huancayo
+[Sun Aug/26]
+  13.00  Comerciantes Unidos      3-4 (3-4)  Universitario de Deportes
+  15.30  Sporting Cristal         2-1 (0-0)  Sport Rosario
+         Alianza Lima             2-1 (1-1)  Deportivo Binacional
+         Real Garcilaso           2-1 (1-0)  Ayacucho FC
+[Mon Aug/27]
+  15.00  Universidad Técnica      1-2 (1-1)  Academia Cantolao
+
+
+== Clausura
+
+Matchday 1
+[Fri Aug/31]
+  15.30  Universidad Técnica      0-0  Universidad San Martín
+[Sat Sep/1]
+         Comerciantes Unidos      0-3  Ayacucho FC              [awarded]
+  15.30  Sporting Cristal         4-0 (2-0)  Sport Boys
+  17.45  Real Garcilaso           2-2 (2-1)  Sport Huancayo
+  20.00  FBC Melgar               2-1 (0-0)  Universitario de Deportes
+[Sun Sep/2]
+  11.00  Deportivo Municipal      1-0 (0-0)  Deportivo Binacional
+  13.30  Academia Cantolao        2-1 (0-1)  Unión Comercio
+  16.00  Alianza Lima             1-0 (0-0)  Sport Rosario
+
+
+Matchday 2
+[Tue Sep/11]
+  13.00  Deportivo Binacional     1-4 (0-3)  Real Garcilaso
+  15.30  Ayacucho FC              0-0  FBC Melgar
+  17.45  Sport Huancayo           1-0 (1-0)  Comerciantes Unidos
+  20.00  Universitario de Deportes  2-1 (1-1)  Universidad Técnica
+[Wed Sep/12]
+  13.15  Universidad San Martín   3-2 (0-1)  Academia Cantolao
+  15.30  Unión Comercio           2-1 (1-0)  Sporting Cristal
+  17.45  Sport Rosario            0-1 (0-0)  Deportivo Municipal
+[Sun Oct/14]
+  15.00  Sport Boys               1-1 (0-0)  Alianza Lima
+
+
+Matchday 3
+[Sat Sep/15]
+  13.00  Universidad San Martín   2-0 (1-0)  Unión Comercio
+  15.30  Universidad Técnica      0-0  Ayacucho FC
+  17.45  FBC Melgar               3-2 (0-1)  Sport Huancayo
+  20.00  Academia Cantolao        2-0 (1-0)  Universitario de Deportes
+[Sun Sep/16]
+  11.15  Comerciantes Unidos      1-2 (1-0)  Deportivo Binacional
+  16.00  Alianza Lima             2-2 (1-2)  Sporting Cristal
+  18.15  Real Garcilaso           3-1 (3-0)  Sport Rosario
+[Mon Sep/17]
+  20.00  Deportivo Municipal      0-0  Sport Boys
+
+
+Matchday 4
+[Fri Sep/21]
+  15.30  Unión Comercio           1-3 (1-2)  Alianza Lima
+  20.00  Sport Huancayo           1-1 (1-0)  Universidad Técnica
+[Sat Sep/22]
+  13.00  Deportivo Binacional     0-4 (0-3)  FBC Melgar
+  15.30  Ayacucho FC              3-1 (1-1)  Academia Cantolao
+  17.45  Sport Rosario            1-1 (1-0)  Comerciantes Unidos
+  20.00  Sport Boys               3-1 (0-0)  Real Garcilaso
+[Sun Sep/23]
+  11.00  Sporting Cristal         4-0 (1-0)  Deportivo Municipal
+  16.00  Universitario de Deportes  2-2 (1-1)  Universidad San Martín
+
+
+Matchday 5
+[Tue Sep/25]
+  15.00  Comerciantes Unidos      3-2 (2-1)  Sport Boys
+  17.30  Academia Cantolao        1-1 (1-0)  Sport Huancayo
+[Wed Sep/26]
+  13.00  Universidad San Martín   1-3 (1-2)  Ayacucho FC
+  15.30  Universidad Técnica      2-1 (0-1)  Deportivo Binacional
+  17.45  FBC Melgar               2-1 (1-0)  Sport Rosario
+[Thu Sep/27]
+  20.00  Real Garcilaso           2-2 (1-0)  Sporting Cristal
+[Mon Oct/8]
+  15.30  Deportivo Municipal      1-0 (0-0)  Alianza Lima
+[Sat Oct/13]
+  20.00  Universitario de Deportes  2-1 (1-1)  Unión Comercio
+
+
+Matchday 6
+[Sat Sep/29]
+  13.00  Deportivo Binacional     2-0 (0-0)  Academia Cantolao
+  15.30  Ayacucho FC              4-2 (1-0)  Universitario de Deportes
+  17.45  Sport Rosario            1-0 (1-0)  Universidad Técnica
+  20.00  Sport Boys               1-0 (0-0)  FBC Melgar
+[Sun Sep/30]
+  11.00  Sporting Cristal         0-2 (0-2)  Comerciantes Unidos
+  13.30  Unión Comercio           3-1 (1-1)  Deportivo Municipal
+  16.00  Alianza Lima             1-0 (1-0)  Real Garcilaso
+  18.15  Sport Huancayo           2-1 (1-1)  Universidad San Martín
+
+
+Matchday 7
+[Wed Oct/3]
+  13.15  Universidad San Martín   1-0 (1-0)  Deportivo Binacional
+  15.30  Universidad Técnica      2-1 (2-0)  Sport Boys
+  17.45  Real Garcilaso           3-3 (2-3)  Deportivo Municipal
+  20.00  FBC Melgar               2-0 (2-0)  Sporting Cristal
+[Thu Oct/4]
+  13.15  Unión Comercio           3-1 (1-1)  Ayacucho FC
+  15.30  Comerciantes Unidos      1-0 (0-0)  Alianza Lima
+  17.45  Academia Cantolao        2-0 (0-0)  Sport Rosario
+  20.00  Universitario de Deportes  1-0 (1-0)  Sport Huancayo
+
+
+Matchday 8
+[Fri Oct/19]
+  20.00  Sport Huancayo           3-3 (1-1)  Ayacucho FC
+[Sat Oct/20]
+  13.00  Deportivo Binacional     0-1 (0-0)  Universitario de Deportes
+  15.30  Real Garcilaso           1-0 (0-0)  Unión Comercio
+  17.45  Sport Rosario            0-2 (0-0)  Universidad San Martín
+  20.00  Sport Boys               3-1 (1-1)  Academia Cantolao
+[Sun Oct/21]
+  11.00  Sporting Cristal         1-0 (1-0)  Universidad Técnica
+  13.30  Deportivo Municipal      1-0 (0-0)  Comerciantes Unidos
+  16.00  Alianza Lima             0-1 (0-1)  FBC Melgar
+
+
+Matchday 9
+[Tue Oct/23]
+  13.00  Universidad San Martín   1-0 (0-0)  Sport Boys
+  15.30  Comerciantes Unidos      1-0 (1-0)  Real Garcilaso
+  20.30  Universitario de Deportes  2-0 (1-0)  Sport Rosario
+[Wed Oct/24]
+  13.00  Unión Comercio           4-2 (2-0)  Sport Huancayo
+  15.30  Universidad Técnica      0-1 (0-0)  Alianza Lima
+         Ayacucho FC              3-0 (1-0)  Deportivo Binacional
+  20.00  Academia Cantolao        0-3 (0-1)  Sporting Cristal
+[Thu Oct/25]
+  20.00  FBC Melgar               1-0 (0-0)  Deportivo Municipal
+
+
+Matchday 10
+[Sat Oct/27]
+  13.00  Sporting Cristal         0-1 (0-0)  Universidad San Martín
+  15.30  Comerciantes Unidos      2-2 (1-1)  Unión Comercio
+  17.45  Sport Rosario            2-3 (1-1)  Ayacucho FC
+  19.00  Sport Boys               0-0  Universitario de Deportes
+[Sun Oct/28]
+  11.00  Deportivo Binacional     0-0  Sport Huancayo
+  13.30  Deportivo Municipal      0-1 (0-0)  Universidad Técnica
+  16.00  Alianza Lima             2-0 (0-0)  Academia Cantolao
+  19.30  Real Garcilaso           2-2 (1-1)  FBC Melgar
+
+
+Matchday 11
+[Tue Oct/30]
+  15.30  Ayacucho FC              3-2 (2-1)  Sport Boys
+  20.30  Universitario de Deportes  2-1 (2-1)  Sporting Cristal
+[Wed Oct/31]
+  15.30  Universidad Técnica      1-1 (1-0)  Real Garcilaso
+  17.45  Academia Cantolao        1-0 (0-0)  Deportivo Municipal
+[Thu Nov/1]
+  15.30  Unión Comercio           1-1 (1-0)  Deportivo Binacional
+  17.45  Sport Huancayo           1-1 (0-0)  Sport Rosario
+  20.00  FBC Melgar               2-1 (0-0)  Comerciantes Unidos
+[Wed Nov/21]
+  20.00  Universidad San Martín   1-1 (0-0)  Alianza Lima
+
+
+Matchday 12
+[Sat Nov/3]
+  15.00  Deportivo Municipal      3-1 (2-1)  Universidad San Martín
+  17.15  Real Garcilaso           3-1 (0-0)  Academia Cantolao
+  20.00  Alianza Lima             2-1 (0-1)  Universitario de Deportes
+[Sun Nov/4]
+  13.30  Sport Boys               2-0 (0-0)  Sport Huancayo
+  15.30  Comerciantes Unidos      0-0  Universidad Técnica
+  16.00  Sporting Cristal         6-0 (2-0)  Ayacucho FC
+  18.30  Sport Rosario            0-2 (0-1)  Deportivo Binacional
+[Mon Nov/5]
+  20.00  FBC Melgar               1-0 (1-0)  Unión Comercio
+
+
+Matchday 13
+[Tue Nov/6]
+  15.30  Universidad San Martín   2-3 (1-2)  Real Garcilaso
+  20.30  Universitario de Deportes  1-2 (1-0)  Deportivo Municipal
+[Wed Nov/7]
+  11.00  Academia Cantolao        2-0 (1-0)  Comerciantes Unidos
+  13.15  Deportivo Binacional     2-1 (0-1)  Sport Boys
+  15.30  Ayacucho FC              1-2 (0-1)  Alianza Lima
+  20.00  Sport Huancayo           1-1 (1-1)  Sporting Cristal
+[Thu Nov/8]
+  13.15  Unión Comercio           4-2 (1-1)  Sport Rosario
+  15.30  Universidad Técnica      3-0 (1-0)  FBC Melgar
+
+
+Matchday 14
+[Sat Nov/10]
+  13.00  Sporting Cristal         4-0 (1-0)  Deportivo Binacional
+  15.30  Comerciantes Unidos      3-1 (2-1)  Universidad San Martín
+  17.45  Real Garcilaso           0-1 (0-0)  Universitario de Deportes
+  20.00  Sport Boys               3-1 (1-0)  Sport Rosario
+[Sun Nov/11]
+  13.30  Deportivo Municipal      2-2 (1-0)  Ayacucho FC
+  16.00  Alianza Lima             2-1 (0-1)  Sport Huancayo
+  18.15  FBC Melgar               0-1 (0-1)  Academia Cantolao
+[Mon Nov/12]
+  15.30  Universidad Técnica      2-3 (1-1)  Unión Comercio
+
+
+Matchday 15
+[Fri Nov/23]
+  20.00  Sport Rosario            0-8 (0-5)  Sporting Cristal
+[Sun Nov/25]
+  11.00  Academia Cantolao        2-1 (1-0)  Universidad Técnica
+  13.15  Unión Comercio           4-2 (2-1)  Sport Boys
+  15.30  Sport Huancayo           2-0 (1-0)  Deportivo Municipal
+         Deportivo Binacional     3-2 (1-1)  Alianza Lima
+         Ayacucho FC              1-1 (1-1)  Real Garcilaso
+         Universitario de Deportes  2-0 (0-0)  Comerciantes Unidos
+         Universidad San Martín   1-1 (1-0)  FBC Melgar
+
+
+== Final de Verano
+
+Final
+[Sun May/6]
+  15.30  Sport Huancayo           1-1 (0-1)  Sporting Cristal
+[Sat May/12]
+  20.15  Sporting Cristal         1-0 (0-0)  Sport Huancayo
+
+
+== Playoffs
+
+Round 1
+[Sun Dec/2]
+  16.00  Alianza Lima             3-3 (0-2)  FBC Melgar
+[Thu Dec/6]
+  20.00  FBC Melgar               0-2 pen. (2-2, 1-1)  Alianza Lima
+
+
+Final
+[Wed Dec/12]
+  20.00  Alianza Lima             1-4 (0-2)  Sporting Cristal
+[Sun Dec/16]
+  16.00  Sporting Cristal         3-0 (2-0)  Alianza Lima
+
+
+== Torneo de Verano
+
+Matchday 1
+[Sat Feb/3]
+         Universidad Técnica      0-3  Sporting Cristal         [awarded]
+  15.30  Deportivo Municipal      1-3 (0-2)  FBC Melgar
+  17.45  Deportivo Binacional     0-2 (0-1)  Academia Cantolao
+  20.00  Sport Boys               3-1 (2-1)  Real Garcilaso
+[Sun Feb/4]
+  13.30  Universidad San Martín   4-0 (3-0)  Ayacucho FC
+  16.00  Alianza Lima             1-1 (1-1)  Comerciantes Unidos
+  18.15  Sport Rosario            1-1 (0-0)  Universitario de Deportes
+[Mon Feb/5]
+  20.00  Sport Huancayo           3-2 (1-0)  Unión Comercio
+
+
+Matchday 2
+[Fri Feb/9]
+  15.00  Real Garcilaso           5-1 (1-0)  Deportivo Municipal
+[Sat Feb/10]
+  13.15  Academia Cantolao        3-0 (1-0)  Sport Huancayo
+  15.30  Ayacucho FC              1-2 (0-1)  Alianza Lima
+  17.45  Universitario de Deportes  0-1 (0-1)  Universidad Técnica
+  20.00  FBC Melgar               2-1 (1-0)  Sport Boys
+[Sun Feb/11]
+  13.30  Comerciantes Unidos      1-2 (0-1)  Universidad San Martín
+  16.00  Sporting Cristal         4-1 (3-0)  Sport Rosario
+[Mon Feb/12]
+  15.00  Unión Comercio           1-2 (1-1)  Deportivo Binacional
+
+
+Matchday 3
+[Fri Feb/16]
+  20.00  Universidad San Martín   1-1 (1-0)  Universitario de Deportes
+[Sat Feb/17]
+  13.15  Comerciantes Unidos      2-1 (0-0)  Ayacucho FC
+  15.30  Real Garcilaso           0-0  FBC Melgar
+  17.45  Sport Rosario            4-0 (0-0)  Universidad Técnica
+  20.00  Sport Boys               1-0 (0-0)  Unión Comercio
+[Sun Feb/18]
+  13.30  Deportivo Municipal      3-0 (1-0)  Academia Cantolao
+  16.00  Alianza Lima             0-2 (0-1)  Sporting Cristal
+[Mon Feb/19]
+  20.00  Deportivo Binacional     2-2 (2-0)  Sport Huancayo
+
+
+Matchday 4
+[Fri Feb/23]
+  15.30  Ayacucho FC              2-0 (1-0)  Sport Rosario
+  20.00  Academia Cantolao        2-0 (0-0)  Real Garcilaso
+[Sat Feb/24]
+  15.30  Unión Comercio           2-1 (1-1)  Deportivo Municipal
+  17.45  Sport Huancayo           2-0 (0-0)  Sport Boys
+  20.00  FBC Melgar               1-1 (0-1)  Deportivo Binacional
+[Sun Feb/25]
+  13.30  Universidad Técnica      0-0  Universidad San Martín
+  16.00  Sporting Cristal         3-0 (2-0)  Comerciantes Unidos
+  18.15  Universitario de Deportes  1-3 (1-1)  Alianza Lima
+
+
+Matchday 5
+[Tue Feb/27]
+  20.00  Sport Boys               0-1 (0-0)  Deportivo Binacional
+[Wed Feb/28]
+  13.15  Universidad San Martín   4-0 (2-0)  Sport Rosario
+  15.30  Comerciantes Unidos      0-2 (0-1)  Universitario de Deportes
+  17.45  Deportivo Municipal      2-3 (2-1)  Sport Huancayo
+  20.00  FBC Melgar               0-0  Academia Cantolao
+[Thu Mar/1]
+  15.30  Ayacucho FC              5-3 (4-0)  Sporting Cristal
+[Tue Mar/20]
+  20.00  Real Garcilaso           5-2 (3-0)  Unión Comercio
+[Wed Mar/21]
+  20.00  Alianza Lima             1-1 (0-0)  Universidad Técnica
+
+
+Matchday 6
+[Sat Mar/3]
+  15.30  Universidad San Martín   1-5 (1-2)  Sporting Cristal
+  17.45  Sport Huancayo           3-1 (0-1)  Real Garcilaso
+  20.00  Sport Boys               1-1 (0-0)  Academia Cantolao
+[Sun Mar/4]
+  13.30  Universidad Técnica      1-3 (1-1)  Comerciantes Unidos
+  16.00  Universitario de Deportes  1-1 (0-0)  Ayacucho FC
+  18.15  Sport Rosario            1-1 (0-1)  Alianza Lima
+[Mon Mar/5]
+  15.30  Unión Comercio           1-1 (0-0)  FBC Melgar
+  20.00  Deportivo Binacional     0-0  Deportivo Municipal
+
+
+Matchday 7
+[Fri Mar/9]
+  20.00  Alianza Lima             0-0  Universidad San Martín
+[Sat Mar/10]
+  17.45  Real Garcilaso           1-0 (1-0)  Deportivo Binacional
+  20.00  Deportivo Municipal      3-2 (0-1)  Sport Boys
+[Sun Mar/11]
+  13.30  Academia Cantolao        1-0 (1-0)  Unión Comercio
+  16.00  Sporting Cristal         1-1 (1-1)  Universitario de Deportes
+[Sun Mar/18]
+  15.30  FBC Melgar               2-1 (0-1)  Sport Huancayo
+[Sat Mar/24]
+  15.30  Ayacucho FC              2-1 (1-0)  Universidad Técnica
+[Sun Mar/25]
+  13.00  Comerciantes Unidos      2-4 (2-2)  Sport Rosario
+
+
+Matchday 8
+[Tue Mar/13]
+  13.15  Comerciantes Unidos      3-0 (2-0)  Alianza Lima
+  15.30  Ayacucho FC              1-1 (0-0)  Universidad San Martín
+  20.00  FBC Melgar               2-0 (0-0)  Deportivo Municipal
+[Wed Mar/14]
+  15.30  Sporting Cristal         2-2 (2-1)  Universidad Técnica
+  20.00  Universitario de Deportes  1-2 (0-1)  Sport Rosario
+[Thu Mar/15]
+  15.30  Unión Comercio           1-4 (1-1)  Sport Huancayo
+  20.00  Academia Cantolao        0-0  Deportivo Binacional
+[Sun Mar/25]
+  15.30  Real Garcilaso           2-0 (2-0)  Sport Boys
+
+
+Matchday 9
+[Fri Mar/30]
+  17.45  Deportivo Binacional     3-0 (1-0)  Unión Comercio
+  20.00  Alianza Lima             3-1 (1-0)  Ayacucho FC
+[Sat Mar/31]
+  15.30  Universidad San Martín   1-1 (0-0)  Comerciantes Unidos
+  17.45  Sport Rosario            0-1 (0-1)  Sporting Cristal
+  20.00  Sport Boys               1-1 (0-1)  FBC Melgar
+[Sun Apr/1]
+  13.30  Deportivo Municipal      3-0 (2-0)  Real Garcilaso
+  15.30  Universidad Técnica      0-0  Universitario de Deportes
+[Mon Apr/2]
+  20.00  Sport Huancayo           2-1 (1-1)  Academia Cantolao
+
+
+Matchday 10
+[Fri Apr/6]
+  15.30  Universidad Técnica      1-0 (0-0)  Sport Rosario
+         Ayacucho FC              2-3 (2-1)  Comerciantes Unidos
+  20.00  Academia Cantolao        1-1 (0-1)  Deportivo Municipal
+[Sat Apr/7]
+  15.30  Unión Comercio           1-1 (0-1)  Sport Boys
+  17.45  FBC Melgar               1-2 (0-2)  Real Garcilaso
+  20.00  Sporting Cristal         3-0 (1-0)  Alianza Lima
+[Sun Apr/8]
+  16.00  Universitario de Deportes  2-2 (1-1)  Universidad San Martín
+[Mon Apr/9]
+  20.00  Sport Huancayo           2-2 (2-2)  Deportivo Binacional
+
+
+Matchday 11
+[Tue Apr/10]
+  17.45  Real Garcilaso           1-0 (0-0)  Academia Cantolao
+  20.00  Deportivo Municipal      2-1 (1-0)  Unión Comercio
+[Wed Apr/11]
+  13.15  Universidad San Martín   2-2 (1-2)  Universidad Técnica
+  15.30  Comerciantes Unidos      1-3 (1-1)  Sporting Cristal
+  17.30  Sport Rosario            5-1 (2-1)  Ayacucho FC
+  20.00  Alianza Lima             2-0 (0-0)  Universitario de Deportes
+[Thu Apr/12]
+  17.45  Deportivo Binacional     2-2 (1-1)  FBC Melgar
+  20.00  Sport Boys               2-1 (1-1)  Sport Huancayo
+
+
+Matchday 12
+[Sat Apr/14]
+  15.30  Unión Comercio           2-2 (1-0)  Real Garcilaso
+  17.45  Sport Rosario            1-0 (0-0)  Universidad San Martín
+[Sun Apr/15]
+  11.15  Sporting Cristal         5-0 (1-0)  Ayacucho FC
+  13.30  Academia Cantolao        1-2 (0-1)  FBC Melgar
+  16.00  Universitario de Deportes  1-0 (0-0)  Comerciantes Unidos
+[Mon Apr/16]
+  15.30  Universidad Técnica      1-0 (0-0)  Alianza Lima
+  17.45  Sport Huancayo           2-1 (1-1)  Deportivo Municipal
+  20.00  Deportivo Binacional     2-1 (2-0)  Sport Boys
+
+
+Matchday 13
+[Fri Apr/20]
+  15.30  Ayacucho FC              4-2 (2-1)  Universitario de Deportes
+  17.45  Real Garcilaso           0-3 (0-2)  Sport Huancayo
+  20.00  Deportivo Municipal      4-0 (2-0)  Deportivo Binacional
+[Sat Apr/21]
+  15.30  Sporting Cristal         4-1 (3-0)  Universidad San Martín
+  17.45  FBC Melgar               2-1 (2-0)  Unión Comercio
+  20.00  Academia Cantolao        2-2 (0-1)  Sport Boys
+[Sun Apr/22]
+  13.30  Comerciantes Unidos      1-2 (0-0)  Universidad Técnica
+  16.00  Alianza Lima             3-1 (1-0)  Sport Rosario
+
+
+Matchday 14
+[Sat Apr/28]
+  15.30  Unión Comercio           1-0 (0-0)  Academia Cantolao
+         Sport Huancayo           1-1 (1-0)  FBC Melgar
+         Deportivo Binacional     3-1 (3-1)  Real Garcilaso
+  20.00  Sport Boys               0-2 (0-1)  Deportivo Municipal
+[Sun Apr/29]
+  13.15  Universidad San Martín   1-0 (1-0)  Alianza Lima
+  15.30  Universidad Técnica      2-1 (2-0)  Ayacucho FC
+         Universitario de Deportes  3-3 (1-2)  Sporting Cristal
+  17.45  Sport Rosario            3-0 (0-0)  Comerciantes Unidos

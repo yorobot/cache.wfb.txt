@@ -1,0 +1,366 @@
+= IT 1 1982/83
+
+# Date       Sun Sep/12 1982 - Sun May/15 1983 (245d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Sep/12]
+         Hellas Verona            1-2 (1-2)  Inter
+         Torino FC                4-1 (2-0)  US Avellino
+         Sampdoria                1-0 (0-0)  Juventus
+         AC Cesena                0-0  Pisa SC
+         ACF Fiorentina           4-0 (3-0)  US Catanzaro
+         Ascoli Calcio            0-0  Genoa CFC
+         Cagliari Calcio          1-3 (0-1)  AS Roma
+         SSC Napoli               0-0  Udinese Calcio
+
+
+Matchday 2
+[Sun Sep/19]
+         Inter                    1-2 (1-1)  Sampdoria
+         Udinese Calcio           1-1 (1-0)  Cagliari Calcio
+         AS Roma                  1-0 (0-0)  Hellas Verona
+         Juventus                 2-0 (0-0)  AC Cesena
+         Genoa CFC                0-3 (0-2)  ACF Fiorentina
+         US Catanzaro             0-0  Torino FC
+         US Avellino              2-0 (0-0)  Ascoli Calcio
+         Pisa SC                  2-0 (1-0)  SSC Napoli
+
+
+Matchday 3
+[Sun Sep/26]
+         SSC Napoli               2-0 (1-0)  US Catanzaro
+         Hellas Verona            2-1 (0-0)  Juventus
+         Torino FC                1-1 (1-0)  Genoa CFC
+         Ascoli Calcio            2-2 (2-1)  Pisa SC
+         AC Cesena                2-0 (0-0)  US Avellino
+         Cagliari Calcio          0-2 (0-1)  Inter
+         Sampdoria                1-0 (1-0)  AS Roma
+         ACF Fiorentina           1-2 (1-0)  Udinese Calcio
+
+
+Matchday 4
+[Sun Oct/3]
+         Inter                    0-0  ACF Fiorentina
+         Udinese Calcio           2-2 (1-1)  Torino FC
+         AS Roma                  2-1 (1-0)  Ascoli Calcio
+         Juventus                 3-0 (2-0)  SSC Napoli
+         Genoa CFC                0-1 (0-0)  Hellas Verona
+         US Catanzaro             1-1 (1-0)  AC Cesena
+         US Avellino              0-0  Cagliari Calcio
+         Pisa SC                  3-2 (2-0)  Sampdoria
+
+
+Matchday 5
+[Sun Oct/10]
+         SSC Napoli               1-3 (1-1)  AS Roma
+         Hellas Verona            3-0 (1-0)  US Avellino
+         Torino FC                0-0  Inter
+         Ascoli Calcio            3-0 (1-0)  Udinese Calcio
+         AC Cesena                0-1 (0-1)  Genoa CFC
+         Cagliari Calcio          1-1 (1-0)  Pisa SC
+         Sampdoria                4-2 (2-1)  US Catanzaro
+         ACF Fiorentina           0-1 (0-0)  Juventus
+
+
+Matchday 6
+[Sun Oct/17]
+         Inter                    2-2 (0-0)  SSC Napoli
+         Udinese Calcio           0-0  Juventus
+         Torino FC                3-0 (2-0)  Sampdoria
+         Pisa SC                  0-1 (0-0)  Hellas Verona
+         Genoa CFC                3-0 (2-0)  Cagliari Calcio
+         US Catanzaro             1-0 (1-0)  Ascoli Calcio
+         US Avellino              2-0 (1-0)  ACF Fiorentina
+         AS Roma                  1-0 (1-0)  AC Cesena
+
+
+Matchday 7
+[Sun Oct/24]
+         Juventus                 2-1 (0-1)  AS Roma
+         Hellas Verona            3-1 (2-0)  US Catanzaro
+         Pisa SC                  1-1 (0-0)  Inter
+         AC Cesena                3-3 (0-1)  ACF Fiorentina
+         Cagliari Calcio          0-0  Torino FC
+         Ascoli Calcio            2-0 (1-0)  Sampdoria
+         SSC Napoli               1-1 (0-1)  US Avellino
+         Genoa CFC                2-3 (0-2)  Udinese Calcio
+
+
+Matchday 8
+[Sun Oct/31]
+         Inter                    2-0 (1-0)  Ascoli Calcio
+         Torino FC                1-1 (0-1)  SSC Napoli
+         AS Roma                  3-1 (0-1)  Pisa SC
+         Udinese Calcio           0-0  Hellas Verona
+         ACF Fiorentina           3-1 (2-0)  Cagliari Calcio
+         US Catanzaro             2-2 (1-1)  Genoa CFC
+         US Avellino              1-1 (0-0)  Juventus
+         Sampdoria                0-0  AC Cesena
+
+
+Matchday 9
+[Sun Nov/7]
+         SSC Napoli               0-1 (0-0)  Sampdoria
+         Genoa CFC                1-1 (0-0)  US Avellino
+         Juventus                 3-2 (3-1)  Pisa SC
+         AC Cesena                2-2 (2-1)  Inter
+         Ascoli Calcio            2-3 (0-1)  Hellas Verona
+         Cagliari Calcio          1-0 (0-0)  US Catanzaro
+         ACF Fiorentina           0-0  Torino FC
+         Udinese Calcio           1-1 (0-1)  AS Roma
+
+
+Matchday 10
+[Sun Nov/21]
+         SSC Napoli               0-0  Ascoli Calcio
+         Hellas Verona            2-2 (1-1)  Cagliari Calcio
+         Sampdoria                0-0  US Avellino
+         Pisa SC                  0-0  US Catanzaro
+         Juventus                 1-0 (1-0)  Torino FC
+         Inter                    2-1 (1-0)  Genoa CFC
+         AC Cesena                1-0 (1-0)  Udinese Calcio
+         AS Roma                  3-1 (2-1)  ACF Fiorentina
+
+
+Matchday 11
+[Sun Nov/28]
+         ACF Fiorentina           1-1 (0-1)  Hellas Verona
+         Udinese Calcio           1-1 (0-0)  Pisa SC
+         Torino FC                0-1 (0-0)  AC Cesena
+         Ascoli Calcio            2-0 (2-0)  Juventus
+         Cagliari Calcio          1-0 (0-0)  SSC Napoli
+         US Avellino              1-2 (0-0)  Inter
+         Genoa CFC                1-1 (0-1)  Sampdoria
+         US Catanzaro             0-0  AS Roma
+
+
+Matchday 12
+[Sun Dec/12]
+         SSC Napoli               1-1 (0-1)  Genoa CFC
+         Sampdoria                1-3 (0-1)  Udinese Calcio
+         Pisa SC                  2-0 (0-0)  US Avellino
+         Hellas Verona            1-0 (1-0)  Torino FC
+         Juventus                 3-1 (1-1)  US Catanzaro
+         AC Cesena                0-0  Cagliari Calcio
+         Ascoli Calcio            1-0 (0-0)  ACF Fiorentina
+         AS Roma                  2-1 (1-0)  Inter
+
+
+Matchday 13
+[Sun Dec/19]
+         Torino FC                2-0 (1-0)  Ascoli Calcio
+         Hellas Verona            1-1 (0-0)  AC Cesena
+         Inter                    0-0  Juventus
+         US Catanzaro             1-1 (1-1)  Udinese Calcio
+         US Avellino              1-1 (0-1)  AS Roma
+         Cagliari Calcio          1-0 (1-0)  Sampdoria
+         ACF Fiorentina           1-0 (0-0)  SSC Napoli
+         Genoa CFC                1-0 (1-0)  Pisa SC
+
+
+Matchday 14
+[Sun Jan/2]
+         SSC Napoli               1-2 (0-1)  Hellas Verona
+         Sampdoria                0-0  ACF Fiorentina
+         Pisa SC                  0-1 (0-0)  Torino FC
+         Udinese Calcio           0-0  Inter
+         Juventus                 1-1 (1-0)  Cagliari Calcio
+         US Catanzaro             1-1 (0-1)  US Avellino
+         Ascoli Calcio            1-1 (1-1)  AC Cesena
+         AS Roma                  2-0 (1-0)  Genoa CFC
+
+
+Matchday 15
+[Sun Jan/9]
+         Torino FC                1-1 (0-1)  AS Roma
+         Hellas Verona            1-1 (1-0)  Sampdoria
+         Inter                    5-0 (2-0)  US Catanzaro
+         ACF Fiorentina           2-1 (1-0)  Pisa SC
+         AC Cesena                0-0  SSC Napoli
+         US Avellino              1-1 (1-0)  Udinese Calcio
+         Cagliari Calcio          3-1 (2-1)  Ascoli Calcio
+         Genoa CFC                1-0 (1-0)  Juventus
+
+
+Matchday 16
+[Sun Jan/16]
+         US Catanzaro             0-1 (0-1)  ACF Fiorentina
+         AS Roma                  1-0 (0-0)  Cagliari Calcio
+         Udinese Calcio           0-0  SSC Napoli
+         Pisa SC                  1-0 (0-0)  AC Cesena
+         Genoa CFC                0-0  Ascoli Calcio
+         US Avellino              2-0 (1-0)  Torino FC
+         Inter                    1-1 (0-1)  Hellas Verona
+         Juventus                 1-1 (0-0)  Sampdoria
+
+
+Matchday 17
+[Sun Jan/23]
+         Torino FC                1-0 (1-0)  US Catanzaro
+         SSC Napoli               2-1 (1-0)  Pisa SC
+         Hellas Verona            1-1 (1-1)  AS Roma
+         AC Cesena                2-2 (2-1)  Juventus
+         Cagliari Calcio          0-0  Udinese Calcio
+         Ascoli Calcio            2-1 (1-1)  US Avellino
+         Sampdoria                0-0  Inter
+         ACF Fiorentina           2-1 (0-1)  Genoa CFC
+
+
+Matchday 18
+[Sun Jan/30]
+         Juventus                 0-0  Hellas Verona
+         Udinese Calcio           0-0  ACF Fiorentina
+         AS Roma                  1-0 (1-0)  Sampdoria
+         Pisa SC                  2-1 (0-0)  Ascoli Calcio
+         Inter                    2-0 (1-0)  Cagliari Calcio
+         Genoa CFC                1-1 (1-1)  Torino FC
+         US Avellino              1-0 (1-0)  AC Cesena
+         US Catanzaro             1-2 (1-1)  SSC Napoli
+
+
+Matchday 19
+[Sun Feb/6]
+         Torino FC                0-0  Udinese Calcio
+         Hellas Verona            2-2 (0-1)  Genoa CFC
+         Sampdoria                1-0 (1-0)  Pisa SC
+         AC Cesena                0-0  US Catanzaro
+         Ascoli Calcio            1-1 (1-1)  AS Roma
+         Cagliari Calcio          1-1 (1-0)  US Avellino
+         ACF Fiorentina           0-0  Inter
+         SSC Napoli               0-0  Juventus
+
+
+Matchday 20
+[Sun Feb/20]
+         Inter                    1-3 (0-1)  Torino FC
+         Udinese Calcio           2-1 (1-0)  Ascoli Calcio
+         AS Roma                  5-2 (2-1)  SSC Napoli
+         US Avellino              3-0 (1-0)  Hellas Verona
+         Juventus                 3-0 (2-0)  ACF Fiorentina
+         Genoa CFC                2-1 (0-1)  AC Cesena
+         US Catanzaro             1-1 (1-1)  Sampdoria
+         Pisa SC                  0-0  Cagliari Calcio
+
+
+Matchday 21
+[Sun Feb/27]
+         Sampdoria                0-0  Torino FC
+         SSC Napoli               1-1 (0-1)  Inter
+         Hellas Verona            2-1 (1-0)  Pisa SC
+         ACF Fiorentina           3-0 (1-0)  US Avellino
+         Cagliari Calcio          1-1 (1-0)  Genoa CFC
+         Ascoli Calcio            3-2 (2-1)  US Catanzaro
+         Juventus                 4-0 (1-0)  Udinese Calcio
+         AC Cesena                1-1 (0-0)  AS Roma
+
+
+Matchday 22
+[Sun Mar/6]
+         US Avellino              0-0  SSC Napoli
+         US Catanzaro             2-1 (0-0)  Hellas Verona
+         ACF Fiorentina           4-0 (2-0)  AC Cesena
+         Inter                    0-1 (0-0)  Pisa SC
+         AS Roma                  1-2 (0-0)  Juventus
+         Sampdoria                1-1 (1-0)  Ascoli Calcio
+         Torino FC                3-2 (3-1)  Cagliari Calcio
+         Udinese Calcio           1-1 (0-0)  Genoa CFC
+
+
+Matchday 23
+[Sun Mar/13]
+         Pisa SC                  1-2 (0-1)  AS Roma
+         SSC Napoli               1-0 (1-0)  Torino FC
+         AC Cesena                0-2 (0-1)  Sampdoria
+         Cagliari Calcio          0-0  ACF Fiorentina
+         Ascoli Calcio            0-0  Inter
+         Hellas Verona            0-0  Udinese Calcio
+         Genoa CFC                4-1 (2-0)  US Catanzaro
+         Juventus                 4-1 (1-0)  US Avellino
+
+
+Matchday 24
+[Sun Mar/20]
+         Inter                    3-1 (1-1)  AC Cesena
+         Hellas Verona            2-1 (1-0)  Ascoli Calcio
+         Torino FC                2-0 (2-0)  ACF Fiorentina
+         Sampdoria                1-1 (1-0)  SSC Napoli
+         Pisa SC                  0-0  Juventus
+         US Catanzaro             1-2 (0-0)  Cagliari Calcio
+         US Avellino              2-0 (1-0)  Genoa CFC
+         AS Roma                  0-0  Udinese Calcio
+
+
+Matchday 25
+[Sun Mar/20]
+         Genoa CFC                2-3 (0-1)  Inter
+         Cagliari Calcio          2-1 (1-1)  Hellas Verona
+         Udinese Calcio           3-1 (2-1)  AC Cesena
+         Torino FC                3-2 (0-1)  Juventus
+         US Catanzaro             0-2 (0-1)  Pisa SC
+         Ascoli Calcio            2-1 (1-0)  SSC Napoli
+         US Avellino              0-0  Sampdoria
+         ACF Fiorentina           2-2 (1-1)  AS Roma
+
+
+Matchday 26
+[Sun Apr/10]
+         Hellas Verona            0-1 (0-1)  ACF Fiorentina
+         Sampdoria                2-2 (1-1)  Genoa CFC
+         Pisa SC                  0-0  Udinese Calcio
+         Juventus                 5-0 (3-0)  Ascoli Calcio
+         Inter                    2-0 (0-0)  US Avellino
+         AC Cesena                2-0 (0-0)  Torino FC
+         AS Roma                  2-0 (1-0)  US Catanzaro
+         SSC Napoli               1-0 (1-0)  Cagliari Calcio
+
+
+Matchday 27
+[Sun Apr/24]
+         Inter                    0-0  AS Roma
+         US Avellino              1-0 (1-0)  Pisa SC
+         Torino FC                1-1 (0-1)  Hellas Verona
+         Udinese Calcio           0-4 (0-1)  Sampdoria
+         ACF Fiorentina           1-0 (0-0)  Ascoli Calcio
+         Cagliari Calcio          0-0  AC Cesena
+         Genoa CFC                0-0  SSC Napoli
+         US Catanzaro             1-2 (1-1)  Juventus
+
+
+Matchday 28
+[Sun May/1]
+         SSC Napoli               1-0 (0-0)  ACF Fiorentina
+         Udinese Calcio           2-1 (2-0)  US Catanzaro
+         Sampdoria                1-1 (1-0)  Cagliari Calcio
+         Pisa SC                  0-0  Genoa CFC
+         Juventus                 0-2  Inter                    [awarded]
+         AC Cesena                1-2 (0-1)  Hellas Verona
+         Ascoli Calcio            2-0 (0-0)  Torino FC
+         AS Roma                  2-0 (1-0)  US Avellino
+
+
+Matchday 29
+[Sun May/8]
+         Torino FC                0-2 (0-0)  Pisa SC
+         Hellas Verona            0-0  SSC Napoli
+         Inter                    1-1 (0-1)  Udinese Calcio
+         Genoa CFC                1-1 (1-1)  AS Roma
+         AC Cesena                1-1 (1-0)  Ascoli Calcio
+         US Avellino              4-0 (1-0)  US Catanzaro
+         ACF Fiorentina           3-1 (2-1)  Sampdoria
+         Cagliari Calcio          1-2 (1-0)  Juventus
+
+
+Matchday 30
+[Sun May/15]
+         Sampdoria                2-2 (0-0)  Hellas Verona
+         Ascoli Calcio            2-0 (1-0)  Cagliari Calcio
+         US Catanzaro             1-2 (1-1)  Inter
+         Juventus                 4-2 (2-1)  Genoa CFC
+         SSC Napoli               1-0 (0-0)  AC Cesena
+         Pisa SC                  0-0  ACF Fiorentina
+         AS Roma                  3-1 (2-0)  Torino FC
+         Udinese Calcio           1-1 (1-1)  US Avellino

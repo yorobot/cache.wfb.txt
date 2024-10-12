@@ -1,0 +1,448 @@
+= IT 1 1962/63
+
+# Date       Sun Sep/16 1962 - Sun May/26 1963 (252d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sun Sep/16]
+         AC Milan                 3-3 (1-1)  AC Venezia
+         Torino FC                1-1 (0-1)  Calcio Catania
+         AS Roma                  3-0 (0-0)  SSC Napoli
+         US Palermo               0-1 (0-1)  SPAL Ferrara
+         Genoa CFC                0-0  Juventus
+         ACF Fiorentina           1-2 (0-0)  Modena FC
+         Bologna FC               2-1 (2-0)  Lanerossi Vicenza
+         Atalanta                 1-1 (1-1)  Sampdoria
+         AC Mantova               0-0  Inter
+
+
+Matchday 2
+[Sun Sep/23]
+         Modena FC                1-1 (1-1)  Genoa CFC
+         AC Venezia               0-3 (0-2)  Bologna FC
+         SPAL Ferrara             2-2 (0-1)  Calcio Catania
+         Sampdoria                1-0 (1-0)  ACF Fiorentina
+         SSC Napoli               1-5 (1-1)  AC Milan
+         AC Mantova               1-0 (0-0)  AS Roma
+         Juventus                 2-3 (1-2)  Atalanta
+         Inter                    1-0 (0-0)  Lanerossi Vicenza
+         US Palermo               0-1 (0-1)  Torino FC
+
+
+Matchday 3
+[Sun Sep/30]
+         AS Roma                  2-0 (2-0)  Modena FC
+         Genoa CFC                2-0 (0-0)  AC Venezia
+         Torino FC                1-0 (0-0)  AC Mantova
+         SPAL Ferrara             4-2 (1-1)  SSC Napoli
+         Bologna FC               4-0 (1-0)  US Palermo
+         ACF Fiorentina           1-0 (1-0)  Juventus
+         Calcio Catania           1-0 (0-0)  Inter
+         AC Milan                 0-0  Atalanta
+         Lanerossi Vicenza        3-0 (0-0)  Sampdoria
+
+
+Matchday 4
+[Sun Oct/7]
+         AC Mantova               0-0  Lanerossi Vicenza
+         Sampdoria                0-1 (0-0)  SPAL Ferrara
+         US Palermo               1-1 (0-0)  Inter
+         SSC Napoli               1-0 (0-0)  Genoa CFC
+         AC Milan                 0-0  ACF Fiorentina
+         Juventus                 3-1 (2-0)  Bologna FC
+         Calcio Catania           0-0  AS Roma
+         Atalanta                 2-2 (1-2)  AC Venezia
+         Modena FC                1-0 (1-0)  Torino FC
+
+
+Matchday 5
+[Sun Oct/14]
+         Torino FC                2-1 (1-1)  SPAL Ferrara
+         US Palermo               1-1 (1-1)  Calcio Catania
+         AC Venezia               4-1 (1-1)  AC Mantova
+         AS Roma                  1-1 (1-1)  Juventus
+         Inter                    1-0 (0-0)  SSC Napoli
+         Genoa CFC                2-1 (1-0)  Sampdoria
+         Bologna FC               7-1 (2-0)  Modena FC
+         ACF Fiorentina           2-0 (1-0)  Atalanta
+         Lanerossi Vicenza        2-0 (1-0)  AC Milan
+
+
+Matchday 6
+[Sun Oct/21]
+         Juventus                 3-0 (1-0)  Sampdoria
+         SPAL Ferrara             3-0 (2-0)  AS Roma
+         SSC Napoli               2-0 (1-0)  ACF Fiorentina
+         Modena FC                0-0  AC Mantova
+         Lanerossi Vicenza        1-0 (1-0)  US Palermo
+         Genoa CFC                1-0 (0-0)  Torino FC
+         Calcio Catania           3-2 (1-1)  AC Venezia
+         Atalanta                 1-3 (1-2)  Bologna FC
+         AC Milan                 1-1 (0-1)  Inter
+
+
+Matchday 7
+[Sun Oct/28]
+         AS Roma                  0-1 (0-1)  Lanerossi Vicenza
+         Torino FC                0-1 (0-0)  Juventus
+         AC Venezia               4-1 (0-1)  Modena FC
+         Sampdoria                2-1 (0-1)  AC Milan
+         Inter                    1-2 (1-1)  Atalanta
+         ACF Fiorentina           3-1 (0-0)  US Palermo
+         Calcio Catania           3-1 (2-0)  Genoa CFC
+         Bologna FC               4-1 (3-0)  SPAL Ferrara
+         AC Mantova               2-1 (1-0)  SSC Napoli
+
+
+Matchday 8
+[Thu Nov/1]
+         SPAL Ferrara             3-1 (1-0)  ACF Fiorentina
+         Atalanta                 2-2 (1-1)  AC Mantova
+         Torino FC                1-0 (0-0)  AC Venezia
+         US Palermo               0-4 (0-2)  AS Roma
+         SSC Napoli               3-2 (2-1)  Calcio Catania
+         AC Milan                 3-1 (2-0)  Bologna FC
+         Lanerossi Vicenza        1-3 (0-2)  Juventus
+         Genoa CFC                1-3 (1-2)  Inter
+         Modena FC                1-0 (0-0)  Sampdoria
+
+
+Matchday 9
+[Thu Nov/8]
+         Juventus                 1-0 (1-0)  SSC Napoli
+         SPAL Ferrara             1-1 (1-1)  Lanerossi Vicenza
+         Sampdoria                4-0 (1-0)  Calcio Catania
+         AS Roma                  3-1 (2-0)  Bologna FC
+         Atalanta                 0-0  Torino FC
+         Modena FC                2-2 (0-1)  AC Milan
+         Inter                    2-0 (0-0)  AC Venezia
+         ACF Fiorentina           5-0 (0-0)  Genoa CFC
+         US Palermo               1-0 (0-0)  AC Mantova
+
+
+Matchday 10
+[Sun Nov/18]
+         Lanerossi Vicenza        2-2 (1-1)  Atalanta
+         AC Venezia               1-1 (0-0)  SSC Napoli
+         AS Roma                  2-2 (1-0)  ACF Fiorentina
+         AC Mantova               0-1 (0-0)  SPAL Ferrara
+         Inter                    4-0 (1-0)  Sampdoria
+         Genoa CFC                5-0 (3-0)  US Palermo
+         Calcio Catania           3-2 (3-0)  Modena FC
+         Bologna FC               1-0 (1-0)  Torino FC
+         Juventus                 1-0 (1-0)  AC Milan
+
+
+Matchday 11
+[Sun Nov/25]
+         AC Milan                 2-2 (0-2)  AC Mantova
+         AC Venezia               0-1 (0-1)  US Palermo
+         Torino FC                2-2 (0-1)  AS Roma
+         SPAL Ferrara             1-0 (1-0)  Modena FC
+         SSC Napoli               1-0 (1-0)  Lanerossi Vicenza
+         ACF Fiorentina           1-1 (1-0)  Inter
+         Calcio Catania           1-5 (0-2)  Juventus
+         Atalanta                 1-1 (0-1)  Genoa CFC
+         Sampdoria                2-3 (1-1)  Bologna FC
+
+
+Matchday 12
+[Sun Dec/9]
+         AC Mantova               2-0 (0-0)  Genoa CFC
+         Torino FC                0-4 (0-2)  ACF Fiorentina
+         Sampdoria                3-0 (1-0)  SSC Napoli
+         AS Roma                  0-1 (0-0)  AC Milan
+         Lanerossi Vicenza        0-0  AC Venezia
+         Inter                    3-2 (2-0)  SPAL Ferrara
+         Bologna FC               5-0 (3-0)  Calcio Catania
+         US Palermo               1-1 (1-0)  Juventus
+         Modena FC                0-2 (0-1)  Atalanta
+
+
+Matchday 13
+[Sun Dec/16]
+         Lanerossi Vicenza        3-1 (1-1)  Calcio Catania
+         AC Venezia               2-0 (0-0)  Sampdoria
+         SPAL Ferrara             2-5 (1-3)  Atalanta
+         SSC Napoli               3-0 (3-0)  US Palermo
+         AC Mantova               1-1 (0-1)  ACF Fiorentina
+         Juventus                 2-1 (2-0)  Modena FC
+         Genoa CFC                2-2 (2-1)  AS Roma
+         Bologna FC               0-4 (0-2)  Inter
+         AC Milan                 2-1 (1-0)  Torino FC
+
+
+Matchday 14
+[Sun Dec/23]
+         Genoa CFC                0-1 (0-0)  AC Milan
+         Torino FC                1-2 (1-0)  Lanerossi Vicenza
+         AS Roma                  2-0 (2-0)  Sampdoria
+         AC Venezia               0-1 (0-0)  SPAL Ferrara
+         ACF Fiorentina           3-1 (2-1)  Bologna FC
+         Calcio Catania           1-1 (1-0)  AC Mantova
+         Atalanta                 1-0 (1-0)  US Palermo
+         Modena FC                4-0 (1-0)  SSC Napoli
+         Inter                    1-0 (0-0)  Juventus
+
+
+Matchday 15
+[Sun Dec/30]
+         Juventus                 2-0 (1-0)  AC Mantova
+         AC Venezia               0-3 (0-1)  ACF Fiorentina
+         SPAL Ferrara             0-0  AC Milan
+         Sampdoria                1-3 (1-1)  Torino FC
+         Lanerossi Vicenza        1-0 (0-0)  Genoa CFC
+         Inter                    2-0 (1-0)  AS Roma
+         Calcio Catania           2-0 (1-0)  Atalanta
+         Bologna FC               4-2 (2-0)  SSC Napoli
+         US Palermo               2-2 (1-1)  Modena FC
+
+
+Matchday 16
+[Sun Jan/6]
+         Lanerossi Vicenza        1-0 (1-0)  ACF Fiorentina
+         SSC Napoli               2-2 (1-2)  Torino FC
+         Modena FC                0-0  Inter
+         US Palermo               1-1 (1-0)  Sampdoria
+         Juventus                 2-1 (2-1)  AC Venezia
+         Genoa CFC                0-0  SPAL Ferrara
+         Atalanta                 3-1 (1-1)  AS Roma
+         AC Milan                 0-0  Calcio Catania
+         AC Mantova               0-1 (0-1)  Bologna FC
+
+
+Matchday 17
+[Sun Jan/13]
+         Modena FC                0-0  Lanerossi Vicenza
+         Torino FC                1-1 (1-1)  Inter
+         SPAL Ferrara             0-2 (0-1)  Juventus
+         Sampdoria                2-2 (0-1)  AC Mantova
+         SSC Napoli               2-1 (2-0)  Atalanta
+         AC Milan                 2-0 (2-0)  US Palermo
+         ACF Fiorentina           3-0 (2-0)  Calcio Catania
+         Bologna FC               1-1 (1-1)  Genoa CFC
+         AS Roma                  2-2 (2-0)  AC Venezia
+
+
+Matchday 18
+[Sun Jan/20]
+         SSC Napoli               3-3 (0-1)  AS Roma
+         SPAL Ferrara             1-0 (1-0)  US Palermo
+         Inter                    1-0 (1-0)  AC Mantova
+         Sampdoria                2-0 (0-0)  Atalanta
+         AC Venezia               0-2  AC Milan                 [awarded]
+         Juventus                 2-0 (0-0)  Genoa CFC
+         Calcio Catania           3-0 (1-0)  Torino FC
+         Lanerossi Vicenza        0-0  Bologna FC
+         Modena FC                3-0 (2-0)  ACF Fiorentina
+
+
+Matchday 19
+[Sun Jan/27]
+         ACF Fiorentina           1-1 (1-0)  Sampdoria
+         Torino FC                3-0 (1-0)  US Palermo
+         AS Roma                  7-1 (2-1)  AC Mantova
+         AC Milan                 0-1 (0-1)  SSC Napoli
+         Genoa CFC                1-1 (1-0)  Modena FC
+         Calcio Catania           0-0  SPAL Ferrara
+         Bologna FC               0-0  AC Venezia
+         Atalanta                 3-6 (1-2)  Juventus
+         Lanerossi Vicenza        1-2 (1-2)  Inter
+
+
+Matchday 20
+[Sun Feb/3]
+         US Palermo               0-0  Bologna FC
+         AC Mantova               1-1 (1-0)  Torino FC
+         AC Venezia               0-0  Genoa CFC
+         Sampdoria                1-3 (0-1)  Lanerossi Vicenza
+         Atalanta                 2-2 (1-1)  AC Milan
+         Juventus                 0-0  ACF Fiorentina
+         Inter                    2-1 (0-0)  Calcio Catania
+         SSC Napoli               2-0 (2-0)  SPAL Ferrara
+         Modena FC                1-3 (1-2)  AS Roma
+
+
+Matchday 21
+[Sun Feb/10]
+         Inter                    4-0 (2-0)  US Palermo
+         AC Venezia               1-0 (0-0)  Atalanta
+         Torino FC                2-0 (0-0)  Modena FC
+         SPAL Ferrara             1-0 (1-0)  Sampdoria
+         Lanerossi Vicenza        4-2 (1-1)  AC Mantova
+         Genoa CFC                3-2 (1-0)  SSC Napoli
+         ACF Fiorentina           0-1 (0-1)  AC Milan
+         Bologna FC               1-2 (0-1)  Juventus
+         AS Roma                  5-1 (2-0)  Calcio Catania
+
+
+Matchday 22
+[Sun Feb/17]
+         AC Mantova               2-0 (0-0)  AC Venezia
+         SSC Napoli               1-5 (0-2)  Inter
+         SPAL Ferrara             2-0 (2-0)  Torino FC
+         Sampdoria                3-1 (1-1)  Genoa CFC
+         Atalanta                 0-1 (0-1)  ACF Fiorentina
+         Modena FC                0-1 (0-0)  Bologna FC
+         Juventus                 2-0 (0-0)  AS Roma
+         Calcio Catania           0-0  US Palermo
+         AC Milan                 6-1 (5-0)  Lanerossi Vicenza
+
+
+Matchday 23
+[Sun Feb/24]
+         AC Mantova               3-0 (1-0)  Modena FC
+         AC Venezia               2-1 (1-0)  Calcio Catania
+         Torino FC                2-0 (1-0)  Genoa CFC
+         Sampdoria                2-1 (1-0)  Juventus
+         US Palermo               1-1 (1-0)  Lanerossi Vicenza
+         Inter                    1-1 (1-0)  AC Milan
+         ACF Fiorentina           5-1 (2-0)  SSC Napoli
+         Bologna FC               1-0 (0-0)  Atalanta
+         AS Roma                  0-0  SPAL Ferrara
+
+
+Matchday 24
+[Sun Mar/3]
+         AC Milan                 1-1 (0-1)  Sampdoria
+         SPAL Ferrara             0-1 (0-0)  Bologna FC
+         US Palermo               1-0 (0-0)  ACF Fiorentina
+         Juventus                 0-1 (0-1)  Torino FC
+         Lanerossi Vicenza        0-0  AS Roma
+         Genoa CFC                4-1 (4-1)  Calcio Catania
+         Atalanta                 1-0 (1-0)  Inter
+         SSC Napoli               0-0  AC Mantova
+         Modena FC                2-1 (2-0)  AC Venezia
+
+
+Matchday 25
+[Sun Mar/10]
+         Inter                    6-0 (1-0)  Genoa CFC
+         AC Venezia               1-1 (0-1)  Torino FC
+         Sampdoria                1-1 (0-1)  Modena FC
+         AS Roma                  2-0 (0-0)  US Palermo
+         Juventus                 2-0 (0-0)  Lanerossi Vicenza
+         ACF Fiorentina           2-0 (1-0)  SPAL Ferrara
+         Calcio Catania           1-0 (0-0)  SSC Napoli
+         Bologna FC               1-2 (1-2)  AC Milan
+         AC Mantova               0-1 (0-0)  Atalanta
+
+
+Matchday 26
+[Sun Mar/17]
+         SSC Napoli               0-0  Juventus
+         Torino FC                1-0 (1-0)  Atalanta
+         AC Mantova               1-0 (0-0)  US Palermo
+         AC Milan                 4-0 (1-0)  Modena FC
+         Genoa CFC                1-2 (1-2)  ACF Fiorentina
+         Calcio Catania           0-1 (0-0)  Sampdoria
+         Bologna FC               0-0  AS Roma
+         Lanerossi Vicenza        1-0 (0-0)  SPAL Ferrara
+         AC Venezia               0-2 (0-0)  Inter
+
+
+Matchday 27
+[Sun Mar/31]
+         Modena FC                4-1 (2-0)  Calcio Catania
+         Torino FC                0-1 (0-0)  Bologna FC
+         SPAL Ferrara             1-1 (1-0)  AC Mantova
+         Sampdoria                0-0  Inter
+         SSC Napoli               1-0 (1-0)  AC Venezia
+         AC Milan                 0-0  Juventus
+         ACF Fiorentina           1-1 (0-1)  AS Roma
+         Atalanta                 3-1 (2-1)  Lanerossi Vicenza
+         US Palermo               0-0  Genoa CFC
+
+
+Matchday 28
+[Sun Apr/7]
+         Modena FC                1-0 (0-0)  SPAL Ferrara
+         Juventus                 0-1 (0-0)  Calcio Catania
+         AS Roma                  5-0 (2-0)  Torino FC
+         US Palermo               2-1 (0-1)  AC Venezia
+         Bologna FC               4-1 (2-0)  Sampdoria
+         Inter                    1-0 (1-0)  ACF Fiorentina
+         Genoa CFC                2-1 (1-0)  Atalanta
+         AC Mantova               1-3 (1-1)  AC Milan
+         Lanerossi Vicenza        0-0  SSC Napoli
+
+
+Matchday 29
+[Sun Apr/14]
+         Genoa CFC                0-0  AC Mantova
+         AC Venezia               1-2 (1-1)  Lanerossi Vicenza
+         SPAL Ferrara             0-0  Inter
+         SSC Napoli               0-2 (0-1)  Sampdoria
+         Juventus                 2-1 (1-1)  US Palermo
+         ACF Fiorentina           1-0 (0-0)  Torino FC
+         Calcio Catania           1-1 (1-0)  Bologna FC
+         Atalanta                 2-1 (1-0)  Modena FC
+         AC Milan                 0-1 (0-1)  AS Roma
+
+
+Matchday 30
+[Sun Apr/21]
+         US Palermo               1-1 (0-0)  SSC Napoli
+         Modena FC                0-0  Juventus
+         AS Roma                  1-0 (1-0)  Genoa CFC
+         Torino FC                0-0  AC Milan
+         ACF Fiorentina           5-0 (2-0)  AC Mantova
+         Calcio Catania           1-0 (0-0)  Lanerossi Vicenza
+         Atalanta                 1-0 (1-0)  SPAL Ferrara
+         Inter                    4-1 (1-1)  Bologna FC
+         Sampdoria                3-1 (2-0)  AC Venezia
+
+
+Matchday 31
+[Sun Apr/28]
+         AC Mantova               3-1 (2-0)  Calcio Catania
+         SPAL Ferrara             1-1 (0-1)  AC Venezia
+         Sampdoria                0-0  AS Roma
+         US Palermo               1-0 (1-0)  Atalanta
+         AC Milan                 1-0 (0-0)  Genoa CFC
+         Lanerossi Vicenza        0-1 (0-0)  Torino FC
+         Juventus                 0-1 (0-1)  Inter
+         Bologna FC               2-1 (1-1)  ACF Fiorentina
+         SSC Napoli               0-2  Modena FC                [awarded]
+
+
+Matchday 32
+[Sun May/5]
+         AC Milan                 4-0 (3-0)  SPAL Ferrara
+         Modena FC                2-0 (0-0)  US Palermo
+         SSC Napoli               0-0  Bologna FC
+         Torino FC                4-2 (2-1)  Sampdoria
+         Genoa CFC                2-0 (0-0)  Lanerossi Vicenza
+         ACF Fiorentina           1-4 (1-2)  AC Venezia
+         Atalanta                 0-0  Calcio Catania
+         AS Roma                  3-0 (1-0)  Inter
+         AC Mantova               0-0  Juventus
+
+
+Matchday 33
+[Sun May/19]
+         Sampdoria                2-0 (1-0)  US Palermo
+         AC Venezia               1-2 (0-0)  Juventus
+         SPAL Ferrara             4-0 (0-0)  Genoa CFC
+         AS Roma                  1-1 (0-0)  Atalanta
+         Inter                    0-0  Modena FC
+         ACF Fiorentina           1-1 (1-0)  Lanerossi Vicenza
+         Calcio Catania           1-0 (1-0)  AC Milan
+         Bologna FC               2-2 (0-2)  AC Mantova
+         Torino FC                1-1 (1-0)  SSC Napoli
+
+
+Matchday 34
+[Sun May/26]
+         US Palermo               1-3 (1-1)  AC Milan
+         Atalanta                 2-1 (0-0)  SSC Napoli
+         Calcio Catania           0-1 (0-0)  ACF Fiorentina
+         Genoa CFC                1-0 (1-0)  Bologna FC
+         Inter                    1-1 (0-0)  Torino FC
+         Juventus                 2-2 (1-2)  SPAL Ferrara
+         Lanerossi Vicenza        1-0 (1-0)  Modena FC
+         AC Mantova               3-1 (1-1)  Sampdoria
+         AC Venezia               1-1 (1-0)  AS Roma

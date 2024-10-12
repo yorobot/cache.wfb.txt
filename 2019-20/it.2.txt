@@ -1,0 +1,649 @@
+= IT 2 2019/20
+
+# Date       Fri Aug/23 2019 - Thu Aug/20 2020 (363d)
+# Teams      20
+# Matches    390
+# Stages     Regular Season (380)  Aufstieg (8)  Relegation (2)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/23]
+  21.00  AC Pisa                  0-0  Benevento Calcio
+[Sat Aug/24]
+  18.00  FC Crotone               0-0  Cosenza Calcio
+         US Salernitana 1919      3-1 (1-0)  Delfino Pescara
+  21.00  Ascoli Calcio            3-1 (1-0)  Trapani Calcio
+         AS Cittadella            0-3 (0-0)  Spezia Calcio
+         Venezia FC               1-2 (0-0)  US Cremonese
+         Virtus Entella           1-0 (1-0)  AS Livorno
+[Sun Aug/25]
+  21.00  AC Perugia Calcio        2-1 (1-1)  Chievo Verona
+  18.00  Empoli FC                2-1 (1-0)  SS Juve Stabia
+[Mon Aug/26]
+  21.00  Pordenone Calcio         3-0 (1-0)  Frosinone Calcio
+
+
+Matchday 2
+[Fri Aug/30]
+  21.00  Chievo Verona            1-1 (1-1)  Empoli FC
+[Sat Aug/31]
+  18.00  Benevento Calcio         4-1 (1-0)  AS Cittadella
+         Spezia Calcio            1-2 (1-2)  FC Crotone
+  21.00  Cosenza Calcio           0-1 (0-0)  US Salernitana 1919
+         US Cremonese             0-1 (0-1)  Virtus Entella
+         AS Livorno               0-1 (0-0)  AC Perugia Calcio
+         Trapani Calcio           0-1 (0-1)  Venezia FC
+[Sun Sep/1]
+  18.00  Delfino Pescara          4-2 (1-2)  Pordenone Calcio
+  21.00  Frosinone Calcio         2-1 (0-1)  Ascoli Calcio
+  18.00  SS Juve Stabia           0-2 (0-1)  AC Pisa
+
+
+Matchday 3
+[Fri Sep/13]
+  21.00  Pordenone Calcio         1-0 (0-0)  Spezia Calcio
+[Sat Sep/14]
+  15.00  Ascoli Calcio            2-0 (1-0)  AS Livorno
+         AS Cittadella            2-0 (0-0)  Trapani Calcio
+         AC Perugia Calcio        0-0  SS Juve Stabia
+         Virtus Entella           1-0 (0-0)  Frosinone Calcio
+  18.00  Venezia FC               0-2 (0-1)  Chievo Verona
+[Sun Sep/15]
+  15.00  FC Crotone               0-0  Empoli FC
+  21.00  AC Pisa                  4-1 (1-0)  US Cremonese
+  15.00  Cosenza Calcio           1-2 (0-1)  Delfino Pescara
+[Mon Sep/16]
+  21.00  US Salernitana 1919      0-2 (0-0)  Benevento Calcio
+
+
+Matchday 4
+[Fri Sep/20]
+  21.00  Frosinone Calcio         1-1 (0-0)  Venezia FC
+[Sat Sep/21]
+  15.00  Benevento Calcio         1-0 (0-0)  Cosenza Calcio
+         US Cremonese             2-1 (2-1)  FC Crotone
+         Empoli FC                1-0 (1-0)  AS Cittadella
+         SS Juve Stabia           1-5 (0-0)  Ascoli Calcio
+         AS Livorno               2-1 (1-0)  Pordenone Calcio
+         Delfino Pescara          1-1 (0-1)  Virtus Entella
+         Spezia Calcio            2-2 (2-1)  AC Perugia Calcio
+  18.00  Chievo Verona            2-2 (0-1)  AC Pisa
+[Sun Sep/22]
+  21.00  Trapani Calcio           0-1 (0-0)  US Salernitana 1919
+
+
+Matchday 5
+[Tue Sep/24]
+  21.00  Ascoli Calcio            3-0 (2-0)  Spezia Calcio
+         AS Cittadella            2-1 (1-0)  Delfino Pescara
+         Cosenza Calcio           1-1 (0-0)  AS Livorno
+         FC Crotone               2-0 (0-0)  SS Juve Stabia
+         AC Perugia Calcio        3-1 (2-1)  Frosinone Calcio
+         AC Pisa                  2-3 (1-1)  Empoli FC
+         Pordenone Calcio         1-1 (1-1)  Benevento Calcio
+         Virtus Entella           0-2 (0-1)  Venezia FC
+[Wed Sep/25]
+  21.00  US Salernitana 1919      1-1 (1-1)  Chievo Verona
+  19.00  Trapani Calcio           0-0  US Cremonese
+
+
+Matchday 6
+[Fri Sep/27]
+  21.00  Delfino Pescara          0-3 (0-1)  FC Crotone
+[Sat Sep/28]
+  15.00  SS Juve Stabia           0-1 (0-0)  AS Cittadella
+         Venezia FC               1-1 (1-1)  AC Pisa
+  18.00  Empoli FC                3-0 (2-0)  AC Perugia Calcio
+  15.00  Frosinone Calcio         1-1 (1-0)  Cosenza Calcio
+[Sun Sep/29]
+  15.00  Benevento Calcio         1-1 (1-0)  Virtus Entella
+         Chievo Verona            1-1 (0-1)  Pordenone Calcio
+         Spezia Calcio            2-4 (1-3)  Trapani Calcio
+  21.00  AS Livorno               2-3 (1-1)  US Salernitana 1919
+[Mon Sep/30]
+  21.00  US Cremonese             1-0 (1-0)  Ascoli Calcio
+
+
+Matchday 7
+[Fri Oct/4]
+  21.00  AC Perugia Calcio        1-0 (1-0)  AC Pisa
+[Sat Oct/5]
+  15.00  FC Crotone               3-1 (2-0)  Virtus Entella
+         AS Livorno               3-4 (3-1)  Chievo Verona
+         Pordenone Calcio         2-0 (2-0)  Empoli FC
+         Spezia Calcio            0-1 (0-0)  Benevento Calcio
+  18.00  Trapani Calcio           1-2 (1-0)  SS Juve Stabia
+  15.00  Cosenza Calcio           1-1 (1-0)  Venezia FC
+[Sun Oct/6]
+  15.00  US Cremonese             0-2 (0-1)  AS Cittadella
+         US Salernitana 1919      1-1 (1-0)  Frosinone Calcio
+  21.00  Ascoli Calcio            0-2 (0-0)  Delfino Pescara
+
+
+Matchday 8
+[Fri Oct/18]
+  21.00  AS Cittadella            1-3 (1-0)  Cosenza Calcio
+[Sat Oct/19]
+  15.00  SS Juve Stabia           4-2 (4-1)  Pordenone Calcio
+         Delfino Pescara          1-2 (1-0)  Spezia Calcio
+         Venezia FC               1-0 (1-0)  US Salernitana 1919
+         Virtus Entella           1-1 (1-0)  Trapani Calcio
+  18.00  Benevento Calcio         1-0 (1-0)  AC Perugia Calcio
+[Sun Oct/20]
+  15.00  AC Pisa                  1-1 (1-0)  FC Crotone
+  21.00  Empoli FC                1-1 (1-0)  US Cremonese
+  15.00  Chievo Verona            2-0 (1-0)  Ascoli Calcio
+[Mon Oct/21]
+  21.00  Frosinone Calcio         1-0 (0-0)  AS Livorno
+
+
+Matchday 9
+[Fri Oct/25]
+  21.00  Ascoli Calcio            2-1 (2-1)  Virtus Entella
+[Sat Oct/26]
+  15.00  Cosenza Calcio           1-1 (1-1)  Chievo Verona
+         FC Crotone               3-2 (1-1)  Venezia FC
+         Delfino Pescara          4-0 (0-0)  Benevento Calcio
+         Pordenone Calcio         0-0  AS Cittadella
+         US Salernitana 1919      1-1 (0-0)  AC Perugia Calcio
+         Spezia Calcio            2-0 (1-0)  SS Juve Stabia
+         Trapani Calcio           2-2 (1-1)  Empoli FC
+  18.00  AS Livorno               1-0 (1-0)  AC Pisa
+[Sun Oct/27]
+  21.00  US Cremonese             1-1 (0-0)  Frosinone Calcio
+
+
+Matchday 10
+[Tue Oct/29]
+  21.00  Chievo Verona            2-1 (0-1)  FC Crotone
+         AS Cittadella            1-0 (0-0)  AS Livorno
+         Empoli FC                1-1 (0-0)  Spezia Calcio
+         SS Juve Stabia           2-1 (1-1)  Delfino Pescara
+         AC Perugia Calcio        1-1 (0-1)  Ascoli Calcio
+         AC Pisa                  2-1 (2-0)  US Salernitana 1919
+         Venezia FC               1-2 (0-0)  Pordenone Calcio
+         Virtus Entella           1-0 (0-0)  Cosenza Calcio
+[Wed Oct/30]
+  21.00  Frosinone Calcio         3-0 (1-0)  Trapani Calcio
+  18.50  Benevento Calcio         2-0 (0-0)  US Cremonese
+
+
+Matchday 11
+[Fri Nov/1]
+  21.00  Spezia Calcio            0-0  Chievo Verona
+[Sat Nov/2]
+  15.00  FC Crotone               2-3 (0-1)  AC Perugia Calcio
+         AS Livorno               2-1 (0-0)  SS Juve Stabia
+         Delfino Pescara          3-0 (1-0)  AC Pisa
+  18.00  US Salernitana 1919      2-1 (0-0)  Virtus Entella
+  15.00  Ascoli Calcio            1-1 (0-0)  Venezia FC
+[Sun Nov/3]
+  15.00  AS Cittadella            0-0  Frosinone Calcio
+         Pordenone Calcio         2-1 (1-0)  Trapani Calcio
+  21.00  Benevento Calcio         2-0 (2-0)  Empoli FC
+[Mon Nov/4]
+  21.00  Cosenza Calcio           2-0 (2-0)  US Cremonese
+
+
+Matchday 12
+[Fri Nov/8]
+  21.00  FC Crotone               3-1 (2-1)  Ascoli Calcio
+[Sat Nov/9]
+  15.00  AC Perugia Calcio        0-2 (0-2)  AS Cittadella
+         AC Pisa                  3-2 (1-0)  Spezia Calcio
+         Venezia FC               1-0 (1-0)  AS Livorno
+         Virtus Entella           1-1 (1-1)  Pordenone Calcio
+  18.00  Empoli FC                1-2 (1-2)  Delfino Pescara
+  15.00  SS Juve Stabia           1-1 (1-0)  Benevento Calcio
+[Sun Nov/10]
+  15.00  US Cremonese             1-0 (0-0)  US Salernitana 1919
+         Trapani Calcio           2-2 (2-2)  Cosenza Calcio
+  21.00  Frosinone Calcio         2-0 (1-0)  Chievo Verona
+
+
+Matchday 13
+[Fri Nov/22]
+  21.00  Delfino Pescara          1-1 (0-0)  US Cremonese
+[Sat Nov/23]
+  15.00  Benevento Calcio         2-0 (1-0)  FC Crotone
+         SS Juve Stabia           2-0 (1-0)  US Salernitana 1919
+         AS Livorno               1-2 (0-2)  Trapani Calcio
+         Pordenone Calcio         3-0 (0-0)  AC Perugia Calcio
+  18.00  Empoli FC                1-1 (1-0)  Venezia FC
+[Sun Nov/24]
+  15.00  AS Cittadella            1-1 (0-1)  AC Pisa
+  21.00  Spezia Calcio            2-0 (1-0)  Frosinone Calcio
+  15.00  Ascoli Calcio            3-2 (1-2)  Cosenza Calcio
+[Mon Nov/25]
+  21.00  Chievo Verona            2-1 (2-0)  Virtus Entella
+
+
+Matchday 14
+[Fri Nov/29]
+  21.00  Cosenza Calcio           1-1 (1-0)  Spezia Calcio
+[Sat Nov/30]
+  15.00  FC Crotone               1-1 (0-0)  AS Cittadella
+         Frosinone Calcio         4-0 (2-0)  Empoli FC
+         Venezia FC               0-2 (0-1)  Benevento Calcio
+  18.00  US Salernitana 1919      1-1 (1-0)  Ascoli Calcio
+  15.00  US Cremonese             0-0  AS Livorno
+[Sun Dec/1]
+  15.00  Trapani Calcio           1-0 (1-0)  Chievo Verona
+         Virtus Entella           2-0 (1-0)  SS Juve Stabia
+  21.00  AC Perugia Calcio        3-1 (2-1)  Delfino Pescara
+[Mon Dec/2]
+  21.00  AC Pisa                  2-0 (2-0)  Pordenone Calcio
+
+
+Matchday 15
+[Fri Dec/6]
+  21.00  Benevento Calcio         5-0 (2-0)  Trapani Calcio
+[Sat Dec/7]
+  15.00  AS Cittadella            4-3 (3-1)  US Salernitana 1919
+         Empoli FC                2-1 (0-1)  Ascoli Calcio
+         Delfino Pescara          2-2 (1-0)  Venezia FC
+         Spezia Calcio            2-0 (1-0)  AS Livorno
+  18.00  Chievo Verona            1-0 (0-0)  US Cremonese
+[Sun Dec/8]
+  15.00  AC Pisa                  0-2 (0-1)  Virtus Entella
+  21.00  Pordenone Calcio         1-0 (1-0)  FC Crotone
+  15.00  SS Juve Stabia           0-2 (0-1)  Frosinone Calcio
+[Mon Dec/9]
+  21.00  AC Perugia Calcio        2-2 (1-0)  Cosenza Calcio
+
+
+Matchday 16
+[Fri Dec/13]
+  21.00  Chievo Verona            2-3 (2-0)  SS Juve Stabia
+[Sat Dec/14]
+  15.00  Ascoli Calcio            1-0 (0-0)  AS Cittadella
+         Frosinone Calcio         2-0 (0-0)  Delfino Pescara
+         Venezia FC               0-0  Spezia Calcio
+         Virtus Entella           2-0 (2-0)  Empoli FC
+  18.00  AS Livorno               0-2 (0-1)  Benevento Calcio
+[Sun Dec/15]
+  15.00  Cosenza Calcio           1-2 (0-2)  Pordenone Calcio
+         US Cremonese             2-1 (1-0)  AC Perugia Calcio
+  21.00  US Salernitana 1919      3-2 (0-1)  FC Crotone
+[Mon Dec/16]
+  21.00  Trapani Calcio           1-3 (1-2)  AC Pisa
+
+
+Matchday 17
+[Sat Dec/21]
+  15.00  FC Crotone               2-1 (2-1)  AS Livorno
+         Empoli FC                1-1 (1-1)  US Salernitana 1919
+         SS Juve Stabia           2-0 (1-0)  Venezia FC
+         AC Perugia Calcio        2-0 (0-0)  Virtus Entella
+  18.00  Benevento Calcio         1-0 (1-0)  Frosinone Calcio
+  15.00  AS Cittadella            1-1 (1-0)  Chievo Verona
+[Sun Dec/22]
+  15.00  Delfino Pescara          1-1 (1-1)  Trapani Calcio
+         AC Pisa                  1-3 (0-3)  Cosenza Calcio
+  21.00  Pordenone Calcio         2-1 (2-0)  Ascoli Calcio
+
+
+Matchday 18
+[Thu Dec/26]
+  21.00  Virtus Entella           0-0  Spezia Calcio
+  12.30  Cosenza Calcio           1-0 (1-0)  Empoli FC
+  15.00  Chievo Verona            1-2 (1-2)  Benevento Calcio
+         US Cremonese             1-1 (1-1)  SS Juve Stabia
+         Frosinone Calcio         1-2 (1-1)  FC Crotone
+         AS Livorno               0-2 (0-2)  Delfino Pescara
+         US Salernitana 1919      4-0 (1-0)  Pordenone Calcio
+         Trapani Calcio           2-2 (1-0)  AC Perugia Calcio
+         Venezia FC               1-2 (0-2)  AS Cittadella
+  18.00  Ascoli Calcio            1-0 (0-0)  AC Pisa
+
+
+Matchday 19
+[Sun Dec/29]
+  12.30  Delfino Pescara          0-0  Chievo Verona
+  18.00  Benevento Calcio         4-0 (1-0)  Ascoli Calcio
+  15.00  AS Cittadella            1-3 (0-1)  Virtus Entella
+         FC Crotone               3-0 (0-0)  Trapani Calcio
+         SS Juve Stabia           1-0 (0-0)  Cosenza Calcio
+         AC Perugia Calcio        0-1 (0-1)  Venezia FC
+         AC Pisa                  0-0  Frosinone Calcio
+         Pordenone Calcio         1-0 (1-0)  US Cremonese
+         Spezia Calcio            2-1 (1-0)  US Salernitana 1919
+  21.00  Empoli FC                1-1 (1-1)  AS Livorno
+
+
+Matchday 20
+[Fri Jan/17]
+  21.00  Frosinone Calcio         2-2 (1-1)  Pordenone Calcio
+[Sat Jan/18]
+  18.00  Chievo Verona            2-0 (0-0)  AC Perugia Calcio
+  15.00  Trapani Calcio           3-1 (1-1)  Ascoli Calcio
+         SS Juve Stabia           1-0 (1-0)  Empoli FC
+         US Cremonese             0-0  Venezia FC
+         AS Livorno               4-4 (3-1)  Virtus Entella
+[Sun Jan/19]
+  15.00  Spezia Calcio            1-1 (1-1)  AS Cittadella
+         Delfino Pescara          1-2 (0-0)  US Salernitana 1919
+  21.00  Benevento Calcio         1-1 (1-1)  AC Pisa
+[Mon Jan/20]
+  21.00  Cosenza Calcio           0-1 (0-1)  FC Crotone
+
+
+Matchday 21
+[Fri Jan/24]
+  21.00  Empoli FC                1-1 (1-0)  Chievo Verona
+[Sat Jan/25]
+  18.00  US Salernitana 1919      2-1 (2-1)  Cosenza Calcio
+  15.00  AS Cittadella            1-2 (0-0)  Benevento Calcio
+         Virtus Entella           1-1 (1-1)  US Cremonese
+         AC Pisa                  1-1 (0-0)  SS Juve Stabia
+         Pordenone Calcio         0-2 (0-0)  Delfino Pescara
+[Sun Jan/26]
+  15.00  FC Crotone               1-2 (0-1)  Spezia Calcio
+         Venezia FC               1-1 (1-0)  Trapani Calcio
+  21.00  Ascoli Calcio            0-1 (0-0)  Frosinone Calcio
+[Mon Jan/27]
+  21.00  AC Perugia Calcio        1-0 (1-0)  AS Livorno
+
+
+Matchday 22
+[Fri Jan/31]
+  21.00  US Cremonese             3-4 (2-1)  AC Pisa
+[Sat Feb/1]
+  15.00  Trapani Calcio           0-3 (0-1)  AS Cittadella
+         AS Livorno               0-3 (0-1)  Ascoli Calcio
+         Frosinone Calcio         1-0 (0-0)  Virtus Entella
+         Spezia Calcio            1-0 (0-0)  Pordenone Calcio
+  18.00  Empoli FC                3-1 (2-1)  FC Crotone
+[Sun Feb/2]
+  21.00  Benevento Calcio         1-1 (0-0)  US Salernitana 1919
+  15.00  SS Juve Stabia           1-2 (1-1)  AC Perugia Calcio
+         Chievo Verona            0-1 (0-1)  Venezia FC
+[Mon Feb/3]
+  21.00  Delfino Pescara          2-1 (0-0)  Cosenza Calcio
+
+
+Matchday 23
+[Fri Feb/7]
+  21.00  Ascoli Calcio            2-2 (1-0)  SS Juve Stabia
+[Sat Feb/8]
+  15.00  Pordenone Calcio         2-2 (1-0)  AS Livorno
+         FC Crotone               1-0 (0-0)  US Cremonese
+         AS Cittadella            1-2 (1-1)  Empoli FC
+         Venezia FC               0-1 (0-0)  Frosinone Calcio
+  18.00  AC Perugia Calcio        0-3 (0-1)  Spezia Calcio
+[Sun Feb/9]
+  15.00  AC Pisa                  1-1 (0-1)  Chievo Verona
+         Virtus Entella           2-0 (1-0)  Delfino Pescara
+  21.00  Cosenza Calcio           0-1 (0-1)  Benevento Calcio
+[Mon Feb/10]
+  21.00  US Salernitana 1919      1-0 (1-0)  Trapani Calcio
+
+
+Matchday 17
+[Tue Feb/11]
+  21.00  Spezia Calcio            3-2 (0-1)  US Cremonese
+
+
+Matchday 24
+[Fri Feb/14]
+  21.00  Delfino Pescara          1-2 (1-1)  AS Cittadella
+[Sat Feb/15]
+  15.00  AS Livorno               0-3 (0-3)  Cosenza Calcio
+         SS Juve Stabia           3-2 (2-2)  FC Crotone
+         Benevento Calcio         2-1 (1-0)  Pordenone Calcio
+         Venezia FC               2-2 (1-1)  Virtus Entella
+  18.00  Spezia Calcio            3-1 (0-1)  Ascoli Calcio
+[Sun Feb/16]
+  15.00  US Cremonese             5-0 (2-0)  Trapani Calcio
+  21.00  Empoli FC                2-1 (0-1)  AC Pisa
+  15.00  Frosinone Calcio         1-0 (0-0)  AC Perugia Calcio
+[Mon Feb/17]
+  21.00  Chievo Verona            2-0 (1-0)  US Salernitana 1919
+
+
+Matchday 25
+[Fri Feb/21]
+  21.00  Cosenza Calcio           0-2 (0-2)  Frosinone Calcio
+[Sat Feb/22]
+  15.00  Virtus Entella           0-4 (0-3)  Benevento Calcio
+         AS Cittadella            3-0 (1-0)  SS Juve Stabia
+         Trapani Calcio           1-1 (1-1)  Spezia Calcio
+  18.00  AC Pisa                  1-2 (1-1)  Venezia FC
+[Sun Feb/23]
+  15.00  US Salernitana 1919      1-0 (1-0)  AS Livorno
+  21.00  FC Crotone               4-1 (3-0)  Delfino Pescara
+  15.00  Pordenone Calcio         0-1 (0-1)  Chievo Verona
+[Mon Feb/24]
+  21.00  AC Perugia Calcio        0-1 (0-0)  Empoli FC
+
+
+Matchday 26
+[Fri Feb/28]
+  21.00  Virtus Entella           1-2 (0-1)  FC Crotone
+[Sat Feb/29]
+  18.00  Frosinone Calcio         1-0 (0-0)  US Salernitana 1919
+  15.00  Venezia FC               1-1 (1-0)  Cosenza Calcio
+         AS Cittadella            0-0  US Cremonese
+         AC Pisa                  1-0 (0-0)  AC Perugia Calcio
+         Empoli FC                0-1 (0-1)  Pordenone Calcio
+         Benevento Calcio         3-1 (0-1)  Spezia Calcio
+         SS Juve Stabia           2-2 (0-1)  Trapani Calcio
+  18.00  Chievo Verona            0-1 (0-0)  AS Livorno
+[Sun Mar/1]
+  21.00  Delfino Pescara          2-1 (1-1)  Ascoli Calcio
+
+
+Matchday 27
+[Tue Mar/3]
+  21.00  Trapani Calcio           4-1 (0-1)  Virtus Entella
+         AC Perugia Calcio        1-2 (0-1)  Benevento Calcio
+         Cosenza Calcio           1-2 (0-0)  AS Cittadella
+         US Cremonese             2-3 (2-2)  Empoli FC
+         AS Livorno               2-2 (1-1)  Frosinone Calcio
+         Pordenone Calcio         2-1 (1-0)  SS Juve Stabia
+         FC Crotone               1-0 (0-0)  AC Pisa
+         US Salernitana 1919      2-0 (1-0)  Venezia FC
+[Wed Mar/4]
+  18.50  Ascoli Calcio            1-1 (0-1)  Chievo Verona
+  21.00  Spezia Calcio            2-0 (0-0)  Delfino Pescara
+
+
+Matchday 28
+[Sat Mar/7]
+  15.00  AC Perugia Calcio        1-0 (1-0)  US Salernitana 1919
+  14.30  AS Cittadella            0-2 (0-1)  Pordenone Calcio
+  15.00  Frosinone Calcio         0-2 (0-1)  US Cremonese
+         Venezia FC               1-3 (0-2)  FC Crotone
+         Empoli FC                1-1 (0-1)  Trapani Calcio
+  18.00  AC Pisa                  1-0 (0-0)  AS Livorno
+[Sun Mar/8]
+  21.00  Benevento Calcio         4-0 (3-0)  Delfino Pescara
+  15.00  Virtus Entella           3-0 (3-0)  Ascoli Calcio
+         SS Juve Stabia           3-1 (1-0)  Spezia Calcio
+[Mon Mar/9]
+  21.00  Chievo Verona            2-0 (1-0)  Cosenza Calcio
+
+
+Matchday 25
+[Wed Jun/17]
+  18.30  Ascoli Calcio            1-3 (1-2)  US Cremonese
+
+
+Matchday 29
+[Fri Jun/19]
+  17.30  Spezia Calcio            1-0 (0-0)  Empoli FC
+[Sat Jun/20]
+  18.00  FC Crotone               1-1 (1-0)  Chievo Verona
+         AS Livorno               0-2 (0-0)  AS Cittadella
+         Trapani Calcio           0-0  Frosinone Calcio
+         Delfino Pescara          3-1 (0-0)  SS Juve Stabia
+         US Salernitana 1919      1-1 (1-0)  AC Pisa
+         Cosenza Calcio           2-1 (2-0)  Virtus Entella
+  20.30  Pordenone Calcio         0-0  Venezia FC
+[Sun Jun/21]
+  20.30  Ascoli Calcio            0-1 (0-0)  AC Perugia Calcio
+  18.00  US Cremonese             0-1 (0-0)  Benevento Calcio
+
+
+Matchday 30
+[Fri Jun/26]
+  18.45  Trapani Calcio           3-0 (1-0)  Pordenone Calcio
+  21.00  Venezia FC               2-1 (1-1)  Ascoli Calcio
+         Empoli FC                0-0  Benevento Calcio
+         Frosinone Calcio         0-2 (0-1)  AS Cittadella
+         US Cremonese             0-2 (0-1)  Cosenza Calcio
+         AC Perugia Calcio        0-0  FC Crotone
+         SS Juve Stabia           2-3 (1-0)  AS Livorno
+         AC Pisa                  2-1 (1-0)  Delfino Pescara
+         Virtus Entella           1-0 (0-0)  US Salernitana 1919
+         Chievo Verona            1-3 (0-0)  Spezia Calcio
+
+
+Matchday 31
+[Mon Jun/29]
+  18.45  US Salernitana 1919      3-3 (0-1)  US Cremonese
+  21.00  Ascoli Calcio            1-1 (0-0)  FC Crotone
+         Delfino Pescara          1-1 (0-0)  Empoli FC
+         Chievo Verona            2-0 (0-0)  Frosinone Calcio
+         Benevento Calcio         1-0 (0-0)  SS Juve Stabia
+         AS Cittadella            2-0 (1-0)  AC Perugia Calcio
+         Spezia Calcio            1-2 (1-1)  AC Pisa
+         Cosenza Calcio           2-2 (1-2)  Trapani Calcio
+         AS Livorno               0-2 (0-2)  Venezia FC
+         Pordenone Calcio         2-0 (0-0)  Virtus Entella
+
+
+Matchday 32
+[Fri Jul/3]
+  18.45  AC Pisa                  2-0 (1-0)  AS Cittadella
+  21.00  Cosenza Calcio           0-1 (0-0)  Ascoli Calcio
+         FC Crotone               3-0 (2-0)  Benevento Calcio
+         Virtus Entella           1-1 (1-0)  Chievo Verona
+         Venezia FC               0-2 (0-0)  Empoli FC
+         US Salernitana 1919      2-1 (1-0)  SS Juve Stabia
+         Trapani Calcio           2-1 (0-0)  AS Livorno
+         US Cremonese             1-0 (1-0)  Delfino Pescara
+         AC Perugia Calcio        1-2 (1-2)  Pordenone Calcio
+         Frosinone Calcio         2-1 (1-0)  Spezia Calcio
+
+
+Matchday 33
+[Fri Jul/10]
+  18.45  SS Juve Stabia           1-1 (0-1)  Virtus Entella
+  21.00  Spezia Calcio            5-1 (2-0)  Cosenza Calcio
+         AS Livorno               1-2 (0-1)  US Cremonese
+         AS Cittadella            1-3 (0-2)  FC Crotone
+         Empoli FC                2-0 (1-0)  Frosinone Calcio
+         Delfino Pescara          2-2 (2-2)  AC Perugia Calcio
+         Pordenone Calcio         1-0 (0-0)  AC Pisa
+         Ascoli Calcio            3-2 (2-0)  US Salernitana 1919
+         Chievo Verona            1-1 (1-0)  Trapani Calcio
+         Benevento Calcio         1-1 (0-0)  Venezia FC
+
+
+Matchday 34
+[Mon Jul/13]
+  18.45  Cosenza Calcio           2-1 (1-0)  AC Perugia Calcio
+  21.00  Trapani Calcio           2-0 (1-0)  Benevento Calcio
+         US Cremonese             1-0 (0-0)  Chievo Verona
+         US Salernitana 1919      4-1 (2-1)  AS Cittadella
+         Ascoli Calcio            1-0 (1-0)  Empoli FC
+         Frosinone Calcio         2-2 (1-1)  SS Juve Stabia
+         Venezia FC               1-1 (0-0)  Delfino Pescara
+         Virtus Entella           1-1 (0-1)  AC Pisa
+         FC Crotone               1-0 (1-0)  Pordenone Calcio
+         AS Livorno               0-1 (0-0)  Spezia Calcio
+
+
+Matchday 35
+[Fri Jul/17]
+  18.45  Delfino Pescara          1-1 (1-0)  Frosinone Calcio
+  21.00  AS Cittadella            1-2 (0-0)  Ascoli Calcio
+         SS Juve Stabia           3-2 (0-1)  Chievo Verona
+         Pordenone Calcio         1-2 (0-2)  Cosenza Calcio
+         AC Perugia Calcio        0-0  US Cremonese
+         Benevento Calcio         3-1 (1-0)  AS Livorno
+         FC Crotone               1-1 (0-0)  US Salernitana 1919
+         AC Pisa                  3-2 (1-0)  Trapani Calcio
+         Spezia Calcio            0-1 (0-1)  Venezia FC
+         Empoli FC                2-4 (2-1)  Virtus Entella
+
+
+Matchday 36
+[Fri Jul/24]
+  18.45  AS Livorno               1-5 (1-3)  FC Crotone
+  21.00  Frosinone Calcio         2-3 (1-3)  Benevento Calcio
+         Chievo Verona            4-1 (2-1)  AS Cittadella
+         US Salernitana 1919      2-4 (1-3)  Empoli FC
+         Venezia FC               1-0 (1-0)  SS Juve Stabia
+         Virtus Entella           0-2 (0-2)  AC Perugia Calcio
+         Trapani Calcio           1-0 (1-0)  Delfino Pescara
+         Cosenza Calcio           2-1 (1-0)  AC Pisa
+         Ascoli Calcio            2-2 (1-2)  Pordenone Calcio
+         US Cremonese             0-0  Spezia Calcio
+
+
+Matchday 37
+[Mon Jul/27]
+  21.00  AC Pisa                  1-0 (1-0)  Ascoli Calcio
+         Benevento Calcio         0-1 (0-1)  Chievo Verona
+         Empoli FC                1-5 (0-3)  Cosenza Calcio
+         SS Juve Stabia           1-2 (0-1)  US Cremonese
+         FC Crotone               1-0 (0-0)  Frosinone Calcio
+         Delfino Pescara          1-0 (0-0)  AS Livorno
+         Pordenone Calcio         1-1 (1-1)  US Salernitana 1919
+         AC Perugia Calcio        1-2 (1-1)  Trapani Calcio
+         AS Cittadella            1-0 (0-0)  Venezia FC
+         Spezia Calcio            0-0  Virtus Entella
+
+
+Matchday 38
+[Fri Jul/31]
+  21.00  Ascoli Calcio            2-4 (0-3)  Benevento Calcio
+         Virtus Entella           2-3 (2-2)  AS Cittadella
+         Trapani Calcio           2-0 (0-0)  FC Crotone
+         AS Livorno               0-2 (0-1)  Empoli FC
+         Cosenza Calcio           3-1 (2-1)  SS Juve Stabia
+         Venezia FC               3-1 (1-0)  AC Perugia Calcio
+         Chievo Verona            1-0 (0-0)  Delfino Pescara
+         Frosinone Calcio         1-1 (0-0)  AC Pisa
+         US Cremonese             2-2 (1-1)  Pordenone Calcio
+         US Salernitana 1919      1-2 (1-1)  Spezia Calcio
+
+
+== Aufstieg
+
+Round 1
+[Tue Aug/4]
+  21.00  Chievo Verona            1-1 a.e.t. (0-0)  Empoli FC
+[Wed Aug/5]
+  21.00  AS Cittadella            2-3 a.e.t. (2-2, 2-1)  Frosinone Calcio
+
+
+Semifinals
+[Sat Aug/8]
+  21.00  Chievo Verona            2-0 (2-0)  Spezia Calcio
+[Sun Aug/9]
+  21.00  Frosinone Calcio         0-1 (0-0)  Pordenone Calcio
+[Tue Aug/11]
+  21.00  Spezia Calcio            3-1 (1-0)  Chievo Verona
+[Wed Aug/12]
+  21.00  Pordenone Calcio         0-2 (0-2)  Frosinone Calcio
+
+
+Final
+[Sun Aug/16]
+  21.15  Frosinone Calcio         0-1 (0-1)  Spezia Calcio
+[Thu Aug/20]
+  21.15  Spezia Calcio            0-1 (0-0)  Frosinone Calcio
+
+
+== Relegation
+
+Final
+[Mon Aug/10]
+  21.00  Delfino Pescara          2-1 (0-1)  AC Perugia Calcio
+[Fri Aug/14]
+  21.00  AC Perugia Calcio        2-4 pen. 2-1 a.e.t. (2-1, 2-1)  Delfino Pescara

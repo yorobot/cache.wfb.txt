@@ -1,0 +1,169 @@
+= WAL 1 2021
+
+# Date       Fri Apr/9 - Sat May/29 2021 (50d)
+# Teams      12
+# Matches    63
+# Stages     Championship (30)  ECL-Playoffs (3)  Relegation (30)
+
+
+== Championship
+
+Matchday 23
+[Sat Apr/10]
+  14.30  Caernarfon Town          0-1 (0-0)  Barry Town United
+         Connah's Quay Nomads     0-2 (0-1)  Penybont FC
+  17.15  Bala Town                0-1 (0-1)  The New Saints
+
+
+Matchday 24
+[Tue Apr/13]
+  19.45  Barry Town United        0-6 (0-3)  The New Saints
+         Penybont FC              2-3 (0-1)  Bala Town
+         Caernarfon Town          1-6 (1-2)  Connah's Quay Nomads
+
+
+Matchday 25
+[Sat Apr/17]
+  17.15  Connah's Quay Nomads     1-0 (1-0)  Barry Town United
+         Bala Town                5-2 (1-2)  Caernarfon Town
+         The New Saints           1-0 (0-0)  Penybont FC
+
+
+Matchday 26
+[Tue Apr/20]
+  19.45  Barry Town United        3-3 (3-1)  Penybont FC
+         Caernarfon Town          0-2 (0-0)  The New Saints
+         Connah's Quay Nomads     2-0 (0-0)  Bala Town
+
+
+Matchday 27
+[Sat Apr/24]
+  14.30  Bala Town                1-0 (0-0)  Barry Town United
+         Penybont FC              2-0 (1-0)  Caernarfon Town
+  17.15  The New Saints           1-4 (1-3)  Connah's Quay Nomads
+
+
+Matchday 28
+[Tue Apr/27]
+  19.45  Penybont FC              2-0 (1-0)  Barry Town United
+         The New Saints           0-0  Caernarfon Town
+[Wed Apr/28]
+  19.45  Bala Town                2-1 (1-0)  Connah's Quay Nomads
+
+
+Matchday 29
+[Sat May/1]
+  14.30  Barry Town United        1-4 (1-2)  Bala Town
+         Caernarfon Town          2-2 (1-1)  Penybont FC
+  17.15  Connah's Quay Nomads     0-0  The New Saints
+
+
+Matchday 30
+[Tue May/4]
+  19.45  Barry Town United        1-2 (0-0)  Connah's Quay Nomads
+         Caernarfon Town          3-0 (2-0)  Bala Town
+         Penybont FC              0-3 (0-0)  The New Saints
+
+
+Matchday 31
+[Sat May/8]
+  14.30  The New Saints           3-0 (0-0)  Barry Town United
+         Bala Town                1-0 (0-0)  Penybont FC
+  17.15  Connah's Quay Nomads     4-0 (1-0)  Caernarfon Town
+
+
+Matchday 32
+[Sat May/15]
+  12.00  Barry Town United        3-2 (0-1)  Caernarfon Town
+         Penybont FC              0-2 (0-1)  Connah's Quay Nomads
+         The New Saints           2-0 (1-0)  Bala Town
+
+
+== ECL-Playoffs
+
+Semifinals
+[Sat May/22]
+  17.30  Barry Town United        1-3 (1-1)  Caernarfon Town
+[Sun May/23]
+  12.15  Penybont FC              0-1 (0-0)  Newtown AFC
+
+
+Final
+[Sat May/29]
+  12.00  Caernarfon Town          3-5 (1-2)  Newtown AFC
+
+
+== Relegation
+
+Matchday 23
+[Fri Apr/9]
+  19.45  Aberystwyth Town         1-2 (1-0)  Newtown AFC
+[Sat Apr/10]
+  14.30  Flint Town United        2-0 (1-0)  Cardiff Metropolitan
+         Cefn Druids              2-1 (1-0)  Haverfordwest County
+
+
+Matchday 24
+[Tue Apr/13]
+  19.45  Cardiff Metropolitan     2-2 (1-2)  Newtown AFC
+         Haverfordwest County     1-0 (0-0)  Aberystwyth Town
+         Flint Town United        5-0 (2-0)  Cefn Druids
+
+
+Matchday 25
+[Fri Apr/16]
+  19.45  Aberystwyth Town         0-1 (0-0)  Flint Town United
+[Sat Apr/17]
+  17.15  Cefn Druids              1-2 (1-1)  Cardiff Metropolitan
+         Newtown AFC              5-1 (3-0)  Haverfordwest County
+
+
+Matchday 26
+[Tue Apr/20]
+  19.45  Cardiff Metropolitan     6-1 (6-0)  Haverfordwest County
+         Flint Town United        0-2 (0-1)  Newtown AFC
+         Cefn Druids              0-3 (0-2)  Aberystwyth Town
+
+
+Matchday 27
+[Fri Apr/23]
+  19.45  Aberystwyth Town         1-1 (0-0)  Cardiff Metropolitan
+[Sat Apr/24]
+  14.30  Newtown AFC              5-0 (2-0)  Cefn Druids
+         Haverfordwest County     0-0  Flint Town United
+
+
+Matchday 28
+[Tue Apr/27]
+  19.45  Haverfordwest County     0-2 (0-0)  Cardiff Metropolitan
+         Newtown AFC              1-0 (0-0)  Flint Town United
+         Aberystwyth Town         5-1 (2-0)  Cefn Druids
+
+
+Matchday 29
+[Fri Apr/30]
+  19.45  Cardiff Metropolitan     5-1 (2-0)  Aberystwyth Town
+         Cefn Druids              0-7 (0-1)  Newtown AFC
+[Sat May/1]
+  14.30  Flint Town United        2-0 (1-0)  Haverfordwest County
+
+
+Matchday 30
+[Tue May/4]
+  19.45  Aberystwyth Town         2-2 (2-2)  Haverfordwest County
+         Cefn Druids              0-6 (0-1)  Flint Town United
+         Newtown AFC              2-3 (1-1)  Cardiff Metropolitan
+
+
+Matchday 31
+[Sat May/8]
+  14.30  Cardiff Metropolitan     6-0 (5-0)  Cefn Druids
+         Flint Town United        0-0  Aberystwyth Town
+         Haverfordwest County     1-2 (1-2)  Newtown AFC
+
+
+Matchday 32
+[Sat May/15]
+  12.00  Cardiff Metropolitan     2-1 (1-0)  Flint Town United
+         Haverfordwest County     2-0 (1-0)  Cefn Druids
+         Newtown AFC              0-4 (0-1)  Aberystwyth Town

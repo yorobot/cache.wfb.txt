@@ -1,0 +1,330 @@
+= BO 1 2020
+
+# Date       Tue Jan/21 - Thu Dec/31 2020 (345d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Tue Jan/21]
+  20.30  Blooming                 1-1 (0-0)  Real Santa Cruz
+[Wed Jan/22]
+  15.00  Club Aurora              4-0 (1-0)  Real Potosí
+         CD Guabirá               2-1 (1-0)  Always Ready
+  16.00  Bolívar                  3-1 (2-0)  Atlético Palmaflor
+  20.30  Royal Pari               1-0 (0-0)  Oriente Petrolero
+[Thu Jan/23]
+  20.00  Nacional Potosí          1-0 (0-0)  Jorge Wilstermann
+[Wed Mar/4]
+  20.00  The Strongest            3-0 (3-0)  San José
+
+
+Matchday 2
+[Sat Jan/25]
+  15.00  Always Ready             1-0 (1-0)  Club Aurora
+  17.15  Atlético Palmaflor       1-0 (0-0)  Royal Pari
+  19.30  San José                 2-5 (2-3)  Bolívar
+[Sun Jan/26]
+  15.00  Real Potosí              1-3 (0-1)  Blooming
+  17.15  Jorge Wilstermann        1-0 (0-0)  CD Guabirá
+         Oriente Petrolero        1-0 (0-0)  Nacional Potosí
+  19.30  Real Santa Cruz          3-2 (2-1)  The Strongest
+
+
+Matchday 3
+[Wed Jan/29]
+  15.00  Royal Pari               1-0 (0-0)  Bolívar
+  18.15  The Strongest            3-2 (3-0)  Real Potosí
+         Nacional Potosí          4-2 (1-2)  Atlético Palmaflor
+  20.30  Blooming                 0-2 (0-1)  Always Ready
+[Thu Jan/30]
+  20.30  CD Guabirá               1-2 (0-1)  Oriente Petrolero
+         Club Aurora              2-1 (1-0)  Jorge Wilstermann
+[Wed Feb/5]
+  15.00  Real Santa Cruz          1-1 (0-0)  San José
+
+
+Matchday 4
+[Sat Feb/1]
+  15.00  Always Ready             4-1 (2-0)  The Strongest
+  20.00  San José                 0-2 (0-2)  Royal Pari
+         Bolívar                  4-0 (1-0)  Nacional Potosí
+[Sun Feb/2]
+  15.00  Jorge Wilstermann        3-0 (2-0)  Blooming
+  17.15  Oriente Petrolero        2-1 (1-1)  Club Aurora
+         Real Potosí              2-1 (0-1)  Real Santa Cruz
+  19.30  Atlético Palmaflor       2-0 (0-0)  CD Guabirá
+
+
+Matchday 5
+[Sat Feb/8]
+  15.00  Club Aurora              0-0  Atlético Palmaflor
+  17.15  Nacional Potosí          0-0  Royal Pari
+  19.30  The Strongest            0-1 (0-1)  Jorge Wilstermann
+[Sun Feb/9]
+  15.00  Always Ready             6-0 (3-0)  Real Santa Cruz
+         CD Guabirá               2-1 (2-0)  Bolívar
+  17.15  Real Potosí              2-1 (0-1)  San José
+  19.30  Blooming                 3-1 (1-0)  Oriente Petrolero
+
+
+Matchday 6
+[Wed Feb/12]
+  15.00  Always Ready             4-1 (4-0)  Real Potosí
+  20.00  Bolívar                  3-0 (0-0)  Club Aurora
+  20.30  San José                 1-1 (1-1)  Nacional Potosí
+         Royal Pari               2-1 (0-0)  CD Guabirá
+[Thu Feb/13]
+  15.00  Atlético Palmaflor       2-1 (1-0)  Blooming
+  20.00  Jorge Wilstermann        0-0  Real Santa Cruz
+[Sun Mar/15]
+  17.15  Oriente Petrolero        0-3 (0-2)  The Strongest
+
+
+Matchday 7
+[Sat Feb/15]
+  15.00  Always Ready             1-2 (1-0)  San José
+  17.15  CD Guabirá               1-0 (0-0)  Nacional Potosí
+[Sun Feb/16]
+  15.00  Real Potosí              4-1 (1-1)  Jorge Wilstermann
+         Real Santa Cruz          1-5 (1-2)  Oriente Petrolero
+  17.15  The Strongest            1-0 (0-0)  Atlético Palmaflor
+  19.30  Blooming                 2-1 (1-1)  Bolívar
+[Mon Feb/17]
+  18.00  Club Aurora              0-1 (0-1)  Royal Pari
+
+
+Matchday 8
+[Fri Feb/21]
+  18.00  Bolívar                  5-4 (2-4)  The Strongest
+  19.00  San José                 2-2 (2-0)  CD Guabirá
+[Sat Feb/22]
+  15.00  Atlético Palmaflor       2-1 (0-1)  Real Santa Cruz
+[Sun Feb/23]
+  15.00  Nacional Potosí          2-1 (1-1)  Club Aurora
+         Royal Pari               2-3 (0-2)  Blooming
+  17.15  Jorge Wilstermann        2-0 (0-0)  Always Ready
+[Wed Mar/4]
+  20.30  Real Potosí              2-2 (1-0)  Oriente Petrolero
+
+
+Matchday 9
+[Wed Feb/26]
+  15.00  Always Ready             4-2 (1-1)  Oriente Petrolero
+  18.15  Real Potosí              1-0 (1-0)  Atlético Palmaflor
+  20.30  Jorge Wilstermann        1-2 (1-2)  San José
+[Thu Feb/27]
+  15.00  Real Santa Cruz          2-4 (1-1)  Bolívar
+  18.15  Club Aurora              2-0 (0-0)  CD Guabirá
+  20.30  The Strongest            4-0 (3-0)  Royal Pari
+         Blooming                 2-1 (0-1)  Nacional Potosí
+
+
+Matchday 10
+[Sun Mar/1]
+  15.00  Nacional Potosí          3-1 (1-0)  The Strongest
+  16.00  Bolívar                  0-0  Real Potosí
+  17.15  San José                 1-0 (1-0)  Club Aurora
+  19.30  Oriente Petrolero        0-1 (0-1)  Jorge Wilstermann
+[Mon Mar/2]
+  15.00  Atlético Palmaflor       2-0 (0-0)  Always Ready
+  20.30  Royal Pari               0-2 (0-0)  Real Santa Cruz
+[Tue Mar/3]
+  20.30  CD Guabirá               1-1 (1-1)  Blooming
+
+
+Matchday 11
+[Fri Mar/6]
+  15.00  Real Santa Cruz          2-1 (1-0)  Nacional Potosí
+[Sat Mar/7]
+  15.00  Always Ready             2-1 (0-1)  Bolívar
+  17.15  Jorge Wilstermann        2-1 (0-0)  Atlético Palmaflor
+         Blooming                 4-0 (1-0)  Club Aurora
+[Sun Mar/8]
+  15.00  The Strongest            6-2 (2-2)  CD Guabirá
+  17.15  Real Potosí              2-2 (0-0)  Royal Pari
+  19.30  San José                 4-1 (2-1)  Oriente Petrolero
+
+
+Matchday 12
+[Wed Mar/11]
+  15.00  Royal Pari               4-1 (1-0)  Always Ready
+  18.15  Atlético Palmaflor       1-0 (1-0)  Oriente Petrolero
+  20.30  San José                 1-0 (1-0)  Blooming
+[Thu Mar/12]
+  20.00  Club Aurora              1-2 (1-1)  The Strongest
+[Sat Mar/14]
+  16.00  Bolívar                  1-1 (0-1)  Jorge Wilstermann
+[Sun Mar/15]
+  15.00  Nacional Potosí          4-0 (1-0)  Real Potosí
+  17.15  CD Guabirá               1-0 (0-0)  Real Santa Cruz
+
+
+Matchday 13
+[Fri Nov/27]
+  15.00  Always Ready             2-2 (1-2)  Nacional Potosí
+         Real Santa Cruz          4-2 (1-2)  Club Aurora
+  17.15  Real Potosí              0-1 (0-1)  CD Guabirá
+  20.00  Oriente Petrolero        3-4 (3-2)  Bolívar
+[Sat Nov/28]
+  15.00  Atlético Palmaflor       5-0 (1-0)  San José
+  17.15  The Strongest            3-0 (2-0)  Blooming
+  19.30  Jorge Wilstermann        2-3 (2-2)  Royal Pari
+
+
+Matchday 14
+[Mon Nov/30]
+  15.00  Real Santa Cruz          0-2 (0-0)  Blooming
+         Jorge Wilstermann        2-1 (0-1)  Nacional Potosí
+  17.15  San José                 1-1 (1-0)  The Strongest
+[Tue Dec/1]
+  15.00  Always Ready             2-0 (1-0)  CD Guabirá
+         Atlético Palmaflor       1-0 (0-0)  Bolívar
+  17.15  Real Potosí              2-1 (0-1)  Club Aurora
+  19.30  Oriente Petrolero        2-2 (1-0)  Royal Pari
+
+
+Matchday 15
+[Wed Dec/2]
+  19.00  The Strongest            4-2 (3-1)  Real Santa Cruz
+[Thu Dec/3]
+  15.00  Royal Pari               3-1 (2-0)  Atlético Palmaflor
+  17.15  Nacional Potosí          2-1 (1-0)  Oriente Petrolero
+  19.30  Blooming                 2-1 (0-0)  Real Potosí
+[Fri Dec/4]
+  15.00  Club Aurora              1-1 (0-0)  Always Ready
+  16.00  Bolívar                  2-0 (2-0)  San José
+  20.00  CD Guabirá               1-3 (1-1)  Jorge Wilstermann
+
+
+Matchday 16
+[Sun Dec/6]
+  15.00  Atlético Palmaflor       0-0  Nacional Potosí
+  16.00  Bolívar                  4-0 (0-0)  Royal Pari
+  17.15  Real Potosí              3-5 (1-2)  The Strongest
+  19.30  Oriente Petrolero        2-3 (0-0)  CD Guabirá
+[Mon Dec/7]
+  15.00  Always Ready             8-0 (5-0)  Blooming
+  17.15  San José                 4-1 (2-0)  Real Santa Cruz
+  20.00  Jorge Wilstermann        1-1 (0-1)  Club Aurora
+
+
+Matchday 17
+[Tue Dec/8]
+  15.00  CD Guabirá               2-0 (2-0)  Atlético Palmaflor
+  20.00  Nacional Potosí          1-1 (0-0)  Bolívar
+[Wed Dec/9]
+  15.00  Royal Pari               2-0 (0-0)  San José
+         Real Santa Cruz          3-1 (1-0)  Real Potosí
+  17.15  The Strongest            2-0 (1-0)  Always Ready
+  19.30  Blooming                 2-1 (2-0)  Jorge Wilstermann
+[Thu Dec/10]
+  15.00  Club Aurora              2-1 (2-0)  Oriente Petrolero
+
+
+Matchday 18
+[Fri Dec/11]
+  15.00  San José                 1-2 (0-1)  Real Potosí
+  16.00  Bolívar                  5-0 (3-0)  CD Guabirá
+  17.30  Royal Pari               4-1 (2-0)  Nacional Potosí
+  19.30  Jorge Wilstermann        0-0  The Strongest
+[Sat Dec/12]
+  15.00  Real Santa Cruz          0-3 (0-0)  Always Ready
+         Atlético Palmaflor       1-0 (0-0)  Club Aurora
+  19.30  Oriente Petrolero        1-0 (1-0)  Blooming
+
+
+Matchday 19
+[Sun Dec/13]
+  15.00  Nacional Potosí          3-2 (3-1)  San José
+[Mon Dec/14]
+  15.00  Real Santa Cruz          1-3 (0-1)  Jorge Wilstermann
+  17.15  The Strongest            7-0 (3-0)  Oriente Petrolero
+  19.30  Blooming                 3-1 (2-0)  Atlético Palmaflor
+[Tue Dec/15]
+  15.00  Club Aurora              0-1 (0-1)  Bolívar
+  19.30  Real Potosí              3-5 (2-3)  Always Ready
+  20.00  CD Guabirá               4-2 (2-1)  Royal Pari
+
+
+Matchday 20
+[Wed Dec/16]
+  15.00  Atlético Palmaflor       2-1 (2-0)  The Strongest
+  19.30  Oriente Petrolero        3-2 (2-0)  Real Santa Cruz
+[Thu Dec/17]
+  15.00  Royal Pari               1-0 (0-0)  Club Aurora
+         Nacional Potosí          1-0 (0-0)  CD Guabirá
+  16.00  Bolívar                  3-0 (1-0)  Blooming
+  17.15  San José                 1-3 (0-1)  Always Ready
+  19.30  Jorge Wilstermann        3-1 (1-0)  Real Potosí
+
+
+Matchday 21
+[Sat Dec/19]
+  15.00  Real Santa Cruz          2-1 (1-0)  Atlético Palmaflor
+  17.15  Club Aurora              1-1 (1-0)  Nacional Potosí
+         The Strongest            2-1 (1-0)  Bolívar
+  20.30  Blooming                 1-0 (0-0)  Royal Pari
+[Sun Dec/20]
+  15.00  Always Ready             1-0 (1-0)  Jorge Wilstermann
+  17.15  CD Guabirá               4-0 (2-0)  San José
+  20.15  Oriente Petrolero        2-0 (2-0)  Real Potosí
+
+
+Matchday 22
+[Mon Dec/21]
+  15.00  Nacional Potosí          1-0 (0-0)  Blooming
+  17.15  Royal Pari               1-0 (0-0)  The Strongest
+[Tue Dec/22]
+  15.00  San José                 0-2 (0-1)  Jorge Wilstermann
+         Atlético Palmaflor       0-0  Real Potosí
+  17.00  Bolívar                  4-0 (2-0)  Real Santa Cruz
+  17.15  Oriente Petrolero        2-0 (0-0)  Always Ready
+  20.00  CD Guabirá               2-1 (2-1)  Club Aurora
+
+
+Matchday 23
+[Thu Dec/24]
+  15.00  Real Santa Cruz          2-4 (1-1)  Royal Pari
+  17.15  The Strongest            3-0 (2-0)  Nacional Potosí
+         Jorge Wilstermann        2-2 (1-1)  Oriente Petrolero
+[Fri Dec/25]
+  15.00  Club Aurora              2-0 (0-0)  San José
+         Always Ready             4-0 (4-0)  Atlético Palmaflor
+  17.15  Blooming                 1-2 (1-1)  CD Guabirá
+  19.30  Real Potosí              2-3 (1-2)  Bolívar
+
+
+Matchday 24
+[Sun Dec/27]
+  11.00  Atlético Palmaflor       1-1 (0-0)  Jorge Wilstermann
+  15.00  Royal Pari               1-1 (0-1)  Real Potosí
+         Nacional Potosí          1-0 (0-0)  Real Santa Cruz
+         CD Guabirá               3-2 (0-1)  The Strongest
+  16.00  Bolívar                  0-0  Always Ready
+[Mon Dec/28]
+  15.00  Oriente Petrolero        1-0 (0-0)  San José
+         Club Aurora              3-2 (1-2)  Blooming
+
+
+Matchday 25
+[Tue Dec/29]
+  15.00  Blooming                 4-0 (2-0)  San José
+         The Strongest            2-0 (0-0)  Club Aurora
+         Real Santa Cruz          4-4 (3-1)  CD Guabirá
+         Real Potosí              2-3 (1-1)  Nacional Potosí
+         Always Ready             2-1 (2-0)  Royal Pari
+         Jorge Wilstermann        2-0 (1-0)  Bolívar
+         Oriente Petrolero        0-1 (0-0)  Atlético Palmaflor
+
+
+Matchday 26
+[Thu Dec/31]
+  15.00  San José                 1-1 (0-0)  Atlético Palmaflor
+         Bolívar                  4-1 (1-0)  Oriente Petrolero
+         Royal Pari               3-0 (1-0)  Jorge Wilstermann
+         Nacional Potosí          0-2 (0-1)  Always Ready
+         CD Guabirá               4-0 (2-0)  Real Potosí
+         Club Aurora              1-1 (1-0)  Real Santa Cruz
+         Blooming                 1-3 (1-1)  The Strongest

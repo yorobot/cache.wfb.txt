@@ -1,0 +1,604 @@
+= IT 2 2000/01
+
+# Date       Fri Sep/1 2000 - Sun Jun/10 2001 (282d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Sep/1]
+         Torino FC                0-2 (0-1)  Ancona Calcio
+[Sun Sep/3]
+         Cagliari Calcio          4-0 (2-0)  FC Crotone
+         Chievo Verona            1-0 (1-0)  Genoa CFC
+         AS Cittadella            0-2 (0-2)  Piacenza Calcio
+         Empoli FC                0-2 (0-1)  AC Pistoiese
+         AC Monza                 2-3 (1-1)  AC Venezia
+         Cosenza Calcio           1-0 (1-0)  Pescara Calcio
+         Ravenna Calcio           1-1 (0-0)  Salernitana Sport
+         Sampdoria                2-1 (0-0)  Ternana Calcio
+         AC Siena                 2-0 (1-0)  Treviso FBC
+
+
+Matchday 2
+[Sun Sep/10]
+         Ancona Calcio            1-0 (0-0)  AC Monza
+         FC Crotone               2-1 (1-0)  Ravenna Calcio
+         Genoa CFC                1-1 (1-1)  AC Siena
+         Pescara Calcio           1-3 (0-2)  Empoli FC
+         Piacenza Calcio          2-0 (2-0)  Cosenza Calcio
+         AC Pistoiese             1-1 (0-1)  Torino FC
+         Ternana Calcio           1-0 (0-0)  Chievo Verona
+         Treviso FBC              2-3 (1-1)  Cagliari Calcio
+         AC Venezia               2-2 (1-1)  AS Cittadella
+[Mon Sep/11]
+         Salernitana Sport        2-3 (0-1)  Sampdoria
+
+
+Matchday 3
+[Fri Sep/15]
+  20.45  Chievo Verona            2-1 (1-0)  Treviso FBC
+[Sun Sep/17]
+  15.00  Cagliari Calcio          2-1 (0-1)  Pescara Calcio
+         AS Cittadella            3-1 (1-1)  Ternana Calcio
+         Empoli FC                0-0  Genoa CFC
+         Cosenza Calcio           3-0 (2-0)  FC Crotone
+         AC Siena                 4-1 (2-1)  Ancona Calcio
+[Wed Sep/20]
+  20.45  AC Monza                 1-0 (1-0)  Salernitana Sport
+         Sampdoria                2-2 (1-1)  AC Pistoiese
+         Torino FC                0-1 (0-1)  AC Venezia
+  15.00  Ravenna Calcio           0-2 (0-0)  Piacenza Calcio
+
+
+Matchday 4
+[Sun Sep/24]
+  15.00  FC Crotone               0-2 (0-0)  Chievo Verona
+         Pescara Calcio           1-2 (0-1)  AC Monza
+         AC Pistoiese             0-1 (0-0)  AS Cittadella
+         Ternana Calcio           2-0 (2-0)  Empoli FC
+[Mon Sep/25]
+  20.45  Genoa CFC                1-1 (0-0)  Ravenna Calcio
+[Tue Sep/26]
+  15.00  Salernitana Sport        2-1 (2-0)  Cagliari Calcio
+[Wed Sep/27]
+  20.45  Ancona Calcio            0-0  Sampdoria
+         Piacenza Calcio          2-3 (1-1)  AC Siena
+         Treviso FBC              1-1 (1-0)  Torino FC
+  15.00  AC Venezia               2-2 (2-2)  Cosenza Calcio
+
+
+Matchday 5
+[Sun Oct/1]
+  15.00  Ancona Calcio            0-0  AC Venezia
+         Cagliari Calcio          1-1 (0-0)  Chievo Verona
+         AS Cittadella            1-1 (0-0)  Pescara Calcio
+         Empoli FC                1-0 (1-0)  Piacenza Calcio
+         Genoa CFC                1-2 (1-0)  Salernitana Sport
+         Cosenza Calcio           1-0 (0-0)  AC Monza
+         Ravenna Calcio           1-4 (0-1)  AC Pistoiese
+         AC Siena                 0-0  Ternana Calcio
+         Treviso FBC              3-2 (1-0)  FC Crotone
+[Mon Oct/2]
+  20.45  Torino FC                1-0 (1-0)  Sampdoria
+
+
+Matchday 6
+[Fri Oct/6]
+  20.45  Piacenza Calcio          0-0  Cagliari Calcio
+[Sun Oct/8]
+  15.00  Chievo Verona            2-2 (2-1)  AS Cittadella
+         AC Monza                 2-3 (0-1)  Torino FC
+         Cosenza Calcio           3-2 (1-0)  Ancona Calcio
+         Pescara Calcio           1-1 (1-1)  Ravenna Calcio
+         AC Pistoiese             0-1 (0-1)  Treviso FBC
+         Salernitana Sport        3-0 (1-0)  AC Siena
+         Sampdoria                0-1 (0-0)  Empoli FC
+         AC Venezia               1-1 (0-1)  FC Crotone
+[Mon Oct/9]
+  20.45  Ternana Calcio           1-0 (0-0)  Genoa CFC
+
+
+Matchday 7
+[Fri Oct/20]
+  20.45  AC Siena                 0-0  Pescara Calcio
+[Sun Oct/22]
+  15.00  Ancona Calcio            2-1 (1-0)  AC Pistoiese
+         Cagliari Calcio          2-1 (2-0)  AC Monza
+         AS Cittadella            2-2 (0-2)  Sampdoria
+         FC Crotone               2-0 (0-0)  Piacenza Calcio
+         Empoli FC                0-1 (0-1)  Cosenza Calcio
+         Genoa CFC                1-1 (0-1)  AC Venezia
+         Ravenna Calcio           0-0  Chievo Verona
+         Torino FC                1-1 (0-1)  Ternana Calcio
+[Mon Oct/23]
+  20.45  Treviso FBC              1-0 (1-0)  Salernitana Sport
+
+
+Matchday 8
+[Fri Oct/27]
+  20.45  Empoli FC                3-2 (1-1)  Ravenna Calcio
+[Sun Oct/29]
+  15.00  Chievo Verona            1-0 (1-0)  Ancona Calcio
+         AC Monza                 1-0 (1-0)  AS Cittadella
+         Cosenza Calcio           3-1 (2-0)  AC Siena
+         Pescara Calcio           1-1 (0-0)  Genoa CFC
+         Piacenza Calcio          3-1 (0-0)  Torino FC
+         AC Pistoiese             0-4 (0-1)  FC Crotone
+         Sampdoria                2-1 (0-0)  Cagliari Calcio
+         Ternana Calcio           0-0  Salernitana Sport
+         AC Venezia               3-0 (1-0)  Treviso FBC
+
+
+Matchday 9
+[Wed Nov/1]
+         Cagliari Calcio          0-0  AC Pistoiese
+         Chievo Verona            1-0 (0-0)  Empoli FC
+         AS Cittadella            2-1 (0-1)  Torino FC
+         FC Crotone               1-1 (1-0)  Sampdoria
+         Genoa CFC                2-1 (2-0)  Cosenza Calcio
+         Pescara Calcio           2-3 (2-1)  Ancona Calcio
+         Salernitana Sport        3-0 (1-0)  Piacenza Calcio
+         AC Siena                 1-3 (1-1)  AC Venezia
+         Ternana Calcio           4-1 (3-1)  AC Monza
+         Treviso FBC              0-0  Ravenna Calcio
+
+
+Matchday 10
+[Sun Nov/5]
+  15.00  Ancona Calcio            4-1 (3-1)  Salernitana Sport
+         Empoli FC                2-1 (2-0)  Treviso FBC
+         AC Monza                 0-1 (0-0)  FC Crotone
+         Cosenza Calcio           1-0 (0-0)  AS Cittadella
+         Piacenza Calcio          3-0 (3-0)  Ternana Calcio
+         AC Pistoiese             1-0 (0-0)  Chievo Verona
+         Ravenna Calcio           2-4 (0-2)  Cagliari Calcio
+         Torino FC                1-1 (0-1)  AC Siena
+         AC Venezia               1-1 (0-1)  Pescara Calcio
+[Tue Nov/7]
+  20.45  Sampdoria                2-0 (0-0)  Genoa CFC
+
+
+Matchday 11
+[Fri Nov/10]
+  20.45  Salernitana Sport        0-1 (0-1)  AC Venezia
+[Sun Nov/12]
+  15.00  Chievo Verona            4-2 (2-1)  Torino FC
+         AS Cittadella            2-2 (2-0)  Empoli FC
+         FC Crotone               1-0 (0-0)  Ancona Calcio
+         Genoa CFC                3-1 (0-0)  AC Monza
+         Pescara Calcio           0-0  Piacenza Calcio
+         AC Siena                 5-1 (3-0)  Ravenna Calcio
+         Ternana Calcio           3-2 (3-1)  AC Pistoiese
+         Treviso FBC              0-2 (0-0)  Sampdoria
+[Mon Nov/13]
+  20.45  Cagliari Calcio          1-1 (0-1)  Cosenza Calcio
+
+
+Matchday 12
+[Fri Nov/17]
+  20.45  Empoli FC                2-0 (1-0)  AC Siena
+[Sun Nov/19]
+  15.00  Ancona Calcio            1-0 (1-0)  Genoa CFC
+         AS Cittadella            2-2 (1-1)  Treviso FBC
+         Cosenza Calcio           1-0 (0-0)  Salernitana Sport
+         AC Pistoiese             1-0 (0-0)  Pescara Calcio
+         Ravenna Calcio           2-2 (1-1)  Ternana Calcio
+         Sampdoria                1-1 (1-0)  Chievo Verona
+         Torino FC                1-0 (1-0)  FC Crotone
+         AC Venezia               2-2 (1-2)  Cagliari Calcio
+[Mon Nov/20]
+  20.45  AC Monza                 1-1 (0-0)  Piacenza Calcio
+
+
+Matchday 13
+[Thu Nov/23]
+  20.45  Genoa CFC                2-1 (1-1)  Torino FC
+[Sun Nov/26]
+  15.00  Cagliari Calcio          3-0 (3-0)  AS Cittadella
+         Chievo Verona            0-2 (0-1)  Pescara Calcio
+         FC Crotone               3-1 (1-0)  Empoli FC
+         Piacenza Calcio          1-1 (1-0)  Ancona Calcio
+         AC Siena                 3-1 (1-0)  AC Monza
+         Ternana Calcio           3-1 (1-0)  AC Venezia
+         Treviso FBC              1-1 (0-0)  Cosenza Calcio
+[Mon Nov/27]
+  20.45  Ravenna Calcio           0-0  Sampdoria
+
+
+Matchday 14
+[Fri Dec/1]
+  20.45  Pescara Calcio           2-2 (1-0)  Salernitana Sport
+[Sun Dec/3]
+  15.00  AC Venezia               1-0 (0-0)  Piacenza Calcio
+         Ancona Calcio            3-1 (1-1)  Ternana Calcio
+         AS Cittadella            2-0 (1-0)  FC Crotone
+         Empoli FC                0-3 (0-2)  Cagliari Calcio
+         AC Monza                 1-1 (0-0)  Treviso FBC
+         AC Pistoiese             3-3 (2-1)  Genoa CFC
+         Sampdoria                1-1 (0-0)  AC Siena
+         Torino FC                2-1 (1-0)  Ravenna Calcio
+[Mon Dec/4]
+  20.45  Cosenza Calcio           1-2 (1-0)  Chievo Verona
+
+
+Matchday 15
+[Fri Dec/8]
+  20.45  Cagliari Calcio          0-1 (0-1)  Torino FC
+[Sun Dec/10]
+  15.00  Treviso FBC              0-0  Ancona Calcio
+         Chievo Verona            5-1 (3-1)  AC Monza
+         FC Crotone               2-2 (1-1)  AC Siena
+         Piacenza Calcio          2-1 (1-0)  Genoa CFC
+         AC Pistoiese             1-2 (1-0)  AC Venezia
+         Ravenna Calcio           0-0  AS Cittadella
+         Salernitana Sport        0-0  Empoli FC
+         Ternana Calcio           3-0 (2-0)  Pescara Calcio
+[Mon Dec/11]
+  20.45  Sampdoria                1-0 (1-0)  Cosenza Calcio
+
+
+Matchday 13
+[Wed Dec/13]
+         Salernitana Sport        1-0 (1-0)  AC Pistoiese
+
+
+Matchday 16
+[Fri Dec/15]
+  20.45  Piacenza Calcio          1-0 (0-0)  Chievo Verona
+[Sun Dec/17]
+  15.00  Ancona Calcio            1-1 (0-1)  Cagliari Calcio
+         Genoa CFC                3-1 (2-0)  AS Cittadella
+         AC Monza                 0-1 (0-0)  Ravenna Calcio
+         Cosenza Calcio           0-0  Ternana Calcio
+         Pescara Calcio           0-3 (0-2)  Treviso FBC
+         Salernitana Sport        0-1 (0-1)  FC Crotone
+         AC Siena                 1-0 (1-0)  AC Pistoiese
+         Torino FC                1-0 (1-0)  Empoli FC
+[Mon Dec/18]
+  20.45  AC Venezia               2-2 (1-0)  Sampdoria
+
+
+Matchday 17
+[Sat Dec/23]
+         Cagliari Calcio          0-0  AC Siena
+         Chievo Verona            2-1 (1-0)  AC Venezia
+         AS Cittadella            1-1 (0-1)  Salernitana Sport
+         FC Crotone               0-0  Genoa CFC
+         Empoli FC                4-2 (1-0)  AC Monza
+         AC Pistoiese             1-1 (0-0)  Cosenza Calcio
+         Ravenna Calcio           1-0 (0-0)  Ancona Calcio
+         Sampdoria                0-1 (0-1)  Piacenza Calcio
+         Torino FC                1-0 (0-0)  Pescara Calcio
+         Treviso FBC              1-1 (0-0)  Ternana Calcio
+
+
+Matchday 18
+[Fri Jan/12]
+  20.45  Ternana Calcio           1-0 (0-0)  Cagliari Calcio
+[Sun Jan/14]
+  15.00  Genoa CFC                0-0  Treviso FBC
+         AC Monza                 0-4 (0-2)  Sampdoria
+         Cosenza Calcio           0-2 (0-1)  Torino FC
+         Pescara Calcio           1-2 (1-1)  FC Crotone
+         Piacenza Calcio          1-0 (0-0)  AC Pistoiese
+         Salernitana Sport        1-1 (1-0)  Chievo Verona
+         AC Siena                 1-1 (1-0)  AS Cittadella
+         AC Venezia               0-0  Ravenna Calcio
+[Mon Jan/15]
+  20.45  Ancona Calcio            1-0 (0-0)  Empoli FC
+
+
+Matchday 19
+[Fri Jan/19]
+  20.45  Torino FC                2-0 (2-0)  Salernitana Sport
+[Sun Jan/21]
+  15.00  Cagliari Calcio          3-0 (2-0)  Genoa CFC
+         Chievo Verona            2-1 (1-0)  AC Siena
+         AS Cittadella            2-0 (0-0)  Ancona Calcio
+         Empoli FC                2-3 (1-2)  AC Venezia
+         AC Pistoiese             3-1 (1-0)  AC Monza
+         Ravenna Calcio           0-1 (0-0)  Cosenza Calcio
+         Sampdoria                1-1 (1-1)  Pescara Calcio
+         Treviso FBC              0-3 (0-2)  Piacenza Calcio
+[Mon Jan/22]
+  20.45  FC Crotone               0-2 (0-1)  Ternana Calcio
+
+
+Matchday 20
+[Fri Jan/26]
+  20.45  Genoa CFC                0-1 (0-1)  Chievo Verona
+[Sun Jan/28]
+  15.00  Ancona Calcio            1-2 (0-2)  Torino FC
+         FC Crotone               2-1 (2-0)  Cagliari Calcio
+         Pescara Calcio           0-0  Cosenza Calcio
+         Piacenza Calcio          3-0 (2-0)  AS Cittadella
+         Salernitana Sport        1-0 (1-0)  Ravenna Calcio
+         Ternana Calcio           1-1 (1-1)  Sampdoria
+         Treviso FBC              1-0 (0-0)  AC Siena
+         AC Venezia               4-1 (0-0)  AC Monza
+[Mon Jan/29]
+  20.45  AC Pistoiese             1-2 (0-0)  Empoli FC
+
+
+Matchday 21
+[Fri Feb/2]
+  20.45  Cosenza Calcio           2-1 (1-0)  Piacenza Calcio
+[Sun Feb/4]
+  15.00  Cagliari Calcio          3-2 (2-0)  Treviso FBC
+         Chievo Verona            2-1 (1-1)  Ternana Calcio
+         AS Cittadella            2-1 (1-1)  AC Venezia
+         Empoli FC                2-1 (1-0)  Pescara Calcio
+         AC Monza                 1-1 (0-1)  Ancona Calcio
+         Ravenna Calcio           1-2 (0-0)  FC Crotone
+         AC Siena                 1-0 (1-0)  Genoa CFC
+         Torino FC                2-0 (1-0)  AC Pistoiese
+[Mon Feb/5]
+  20.45  Sampdoria                2-0 (0-0)  Salernitana Sport
+
+
+Matchday 22
+[Fri Feb/9]
+  20.45  Pescara Calcio           0-0  Cagliari Calcio
+[Sun Feb/11]
+  15.00  Ancona Calcio            2-1 (0-0)  AC Siena
+         FC Crotone               1-2 (1-1)  Cosenza Calcio
+         Genoa CFC                1-2 (0-1)  Empoli FC
+         Piacenza Calcio          1-0 (1-0)  Ravenna Calcio
+         AC Pistoiese             3-1 (1-0)  Sampdoria
+         Salernitana Sport        2-0 (1-0)  AC Monza
+         Ternana Calcio           4-1 (2-1)  AS Cittadella
+         Treviso FBC              0-2 (0-0)  Chievo Verona
+[Mon Feb/12]
+  20.45  AC Venezia               1-0 (0-0)  Torino FC
+
+
+Matchday 23
+[Fri Feb/16]
+  20.45  AC Monza                 1-0 (0-0)  Pescara Calcio
+[Sun Feb/18]
+  15.00  Cagliari Calcio          1-1 (1-1)  Salernitana Sport
+         Chievo Verona            3-1 (1-1)  FC Crotone
+         AS Cittadella            2-1 (0-1)  AC Pistoiese
+         Cosenza Calcio           1-0 (0-0)  AC Venezia
+         Ravenna Calcio           1-1 (1-0)  Genoa CFC
+         Sampdoria                3-1 (1-1)  Ancona Calcio
+         AC Siena                 0-0  Piacenza Calcio
+         Torino FC                1-0 (0-0)  Treviso FBC
+[Mon Feb/19]
+  20.45  Empoli FC                0-0  Ternana Calcio
+
+
+Matchday 24
+[Fri Feb/23]
+  20.45  AC Venezia               2-1 (2-0)  Ancona Calcio
+[Sun Feb/25]
+  15.00  Chievo Verona            2-1 (1-0)  Cagliari Calcio
+         FC Crotone               4-3 (2-1)  Treviso FBC
+         AC Monza                 4-2 (2-1)  Cosenza Calcio
+         Pescara Calcio           2-0 (2-0)  AS Cittadella
+         Piacenza Calcio          2-0 (0-0)  Empoli FC
+         AC Pistoiese             2-2 (1-2)  Ravenna Calcio
+         Sampdoria                2-0 (2-0)  Torino FC
+         Ternana Calcio           4-0 (1-0)  AC Siena
+[Mon Feb/26]
+  20.45  Salernitana Sport        0-1 (0-1)  Genoa CFC
+
+
+Matchday 25
+[Fri Mar/2]
+         Empoli FC                0-0  Sampdoria
+[Sun Mar/4]
+         Ancona Calcio            3-1 (1-0)  Cosenza Calcio
+         Cagliari Calcio          0-0  Piacenza Calcio
+         FC Crotone               2-2 (2-1)  AC Venezia
+         Genoa CFC                2-2 (1-2)  Ternana Calcio
+         Ravenna Calcio           2-3 (2-1)  Pescara Calcio
+         AC Siena                 0-0  Salernitana Sport
+         Torino FC                2-1 (1-1)  AC Monza
+         Treviso FBC              1-2 (1-1)  AC Pistoiese
+[Mon Mar/5]
+         AS Cittadella            0-0  Chievo Verona
+
+
+Matchday 26
+[Fri Mar/9]
+  20.45  Piacenza Calcio          1-2 (0-1)  FC Crotone
+[Sun Mar/11]
+  15.00  Chievo Verona            0-0  Ravenna Calcio
+         AC Monza                 1-0 (0-0)  Cagliari Calcio
+         Cosenza Calcio           1-1 (0-1)  Empoli FC
+         Pescara Calcio           0-0  AC Siena
+         AC Pistoiese             1-1 (0-1)  Ancona Calcio
+         Salernitana Sport        0-1 (0-1)  Treviso FBC
+         Sampdoria                2-0 (1-0)  AS Cittadella
+         AC Venezia               1-1 (1-0)  Genoa CFC
+[Mon Mar/12]
+  20.45  Ternana Calcio           0-1 (0-1)  Torino FC
+
+
+Matchday 27
+[Fri Mar/16]
+         Treviso FBC              0-1 (0-1)  AC Venezia
+[Sun Mar/18]
+         Ancona Calcio            5-2 (3-2)  Chievo Verona
+         Cagliari Calcio          1-1 (0-1)  Sampdoria
+         AS Cittadella            0-1 (0-0)  AC Monza
+         FC Crotone               1-0 (0-0)  AC Pistoiese
+         Genoa CFC                0-0  Pescara Calcio
+         Ravenna Calcio           0-2 (0-0)  Empoli FC
+         Salernitana Sport        0-0  Ternana Calcio
+         Torino FC                1-0 (0-0)  Piacenza Calcio
+[Mon Mar/19]
+         AC Siena                 1-0 (0-0)  Cosenza Calcio
+
+
+Matchday 28
+[Fri Mar/23]
+  20.45  AC Monza                 1-1 (0-0)  Ternana Calcio
+[Sun Mar/25]
+  15.00  Ancona Calcio            3-2 (1-2)  Pescara Calcio
+         Cosenza Calcio           1-0 (0-0)  Genoa CFC
+         Piacenza Calcio          3-1 (2-0)  Salernitana Sport
+         AC Pistoiese             4-2 (2-1)  Cagliari Calcio
+         Ravenna Calcio           1-1 (1-1)  Treviso FBC
+         Sampdoria                2-1 (2-0)  FC Crotone
+         Torino FC                2-2 (1-1)  AS Cittadella
+         AC Venezia               3-0 (1-0)  AC Siena
+[Mon Mar/26]
+  20.45  Empoli FC                1-1 (1-0)  Chievo Verona
+
+
+Matchday 29
+[Fri Mar/30]
+  20.45  AS Cittadella            0-1 (0-0)  Cosenza Calcio
+[Sun Apr/1]
+  15.00  Cagliari Calcio          2-0 (1-0)  Ravenna Calcio
+         Chievo Verona            1-1 (1-0)  AC Pistoiese
+         FC Crotone               2-1 (0-0)  AC Monza
+         Pescara Calcio           2-3 (1-1)  AC Venezia
+         Salernitana Sport        4-2 (1-0)  Ancona Calcio
+         AC Siena                 0-2 (0-2)  Torino FC
+         Ternana Calcio           0-1 (0-1)  Piacenza Calcio
+[Mon Apr/2]
+  15.00  Genoa CFC                2-0 (1-0)  Sampdoria
+
+
+Matchday 30
+[Fri Apr/6]
+  20.45  Torino FC                0-0  Chievo Verona
+[Sun Apr/8]
+  15.00  AC Venezia               2-0 (0-0)  Salernitana Sport
+         Ancona Calcio            2-0 (2-0)  FC Crotone
+         Empoli FC                2-0 (2-0)  AS Cittadella
+         AC Monza                 1-5 (0-2)  Genoa CFC
+         Cosenza Calcio           1-3 (0-1)  Cagliari Calcio
+         AC Pistoiese             2-3 (0-1)  Ternana Calcio
+         Ravenna Calcio           2-1 (0-1)  AC Siena
+         Sampdoria                2-0 (1-0)  Treviso FBC
+[Mon Apr/9]
+  20.45  Piacenza Calcio          2-1 (0-1)  Pescara Calcio
+
+
+Matchday 31
+[Sat Apr/14]
+         Treviso FBC              1-2 (0-0)  AS Cittadella
+         Cagliari Calcio          2-1 (1-1)  AC Venezia
+         Chievo Verona            1-1 (1-1)  Sampdoria
+         FC Crotone               0-1 (0-0)  Torino FC
+         Genoa CFC                3-1 (2-1)  Ancona Calcio
+         Pescara Calcio           0-1 (0-0)  AC Pistoiese
+         Piacenza Calcio          1-0 (0-0)  AC Monza
+         Salernitana Sport        0-1 (0-1)  Cosenza Calcio
+         AC Siena                 1-1 (1-1)  Empoli FC
+         Ternana Calcio           4-0 (2-0)  Ravenna Calcio
+
+
+Matchday 32
+[Fri Apr/20]
+  20.45  Empoli FC                4-2 (3-1)  FC Crotone
+[Sun Apr/22]
+  15.00  Cosenza Calcio           3-2 (1-1)  Treviso FBC
+         Ancona Calcio            0-2 (0-1)  Piacenza Calcio
+         AS Cittadella            2-0 (1-0)  Cagliari Calcio
+         AC Monza                 1-2 (1-1)  AC Siena
+         Torino FC                1-1 (0-0)  Genoa CFC
+         Pescara Calcio           0-2 (0-1)  Chievo Verona
+         AC Pistoiese             1-1 (1-0)  Salernitana Sport
+         Sampdoria                2-0 (0-0)  Ravenna Calcio
+[Mon Apr/23]
+  20.45  AC Venezia               2-1 (1-0)  Ternana Calcio
+
+
+Matchday 33
+[Fri Apr/27]
+  20.45  Cagliari Calcio          2-3 (1-2)  Empoli FC
+[Sun Apr/29]
+  15.00  Ravenna Calcio           1-2 (1-0)  Torino FC
+         Chievo Verona            2-1 (0-0)  Cosenza Calcio
+         FC Crotone               2-2 (1-1)  AS Cittadella
+         Genoa CFC                0-0  AC Pistoiese
+         Piacenza Calcio          1-0 (1-0)  AC Venezia
+         Ternana Calcio           3-2 (1-1)  Ancona Calcio
+         Salernitana Sport        3-1 (2-1)  Pescara Calcio
+         Treviso FBC              3-0 (0-0)  AC Monza
+[Mon Apr/30]
+  20.45  AC Siena                 0-0  Sampdoria
+
+
+Matchday 29
+[Thu May/3]
+  20.45  Treviso FBC              1-1 (1-1)  Empoli FC
+
+
+Matchday 34
+[Thu May/10]
+  20.45  Torino FC                2-0 (1-0)  Cagliari Calcio
+[Sat May/12]
+  15.00  Ancona Calcio            3-1 (1-1)  Treviso FBC
+         AS Cittadella            1-0 (1-0)  Ravenna Calcio
+         Empoli FC                2-1 (1-0)  Salernitana Sport
+         Genoa CFC                1-1 (0-1)  Piacenza Calcio
+         AC Monza                 1-3 (1-0)  Chievo Verona
+         Cosenza Calcio           4-4 (2-1)  Sampdoria
+         Pescara Calcio           1-3 (1-0)  Ternana Calcio
+         AC Siena                 1-1 (0-0)  FC Crotone
+         AC Venezia               1-0 (0-0)  AC Pistoiese
+
+
+Matchday 35
+[Sun May/20]
+         Cagliari Calcio          2-2 (2-0)  Ancona Calcio
+         Chievo Verona            1-1 (1-1)  Piacenza Calcio
+         AS Cittadella            1-1 (1-0)  Genoa CFC
+         FC Crotone               0-1 (0-1)  Salernitana Sport
+         Empoli FC                2-1 (1-0)  Torino FC
+         AC Pistoiese             0-1 (0-0)  AC Siena
+         Ravenna Calcio           2-3 (1-2)  AC Monza
+         Sampdoria                4-1 (3-1)  AC Venezia
+         Ternana Calcio           1-1 (1-0)  Cosenza Calcio
+         Treviso FBC              1-0 (0-0)  Pescara Calcio
+
+
+Matchday 36
+[Sun May/27]
+         Ancona Calcio            2-5 (2-4)  Ravenna Calcio
+         Genoa CFC                2-0 (0-0)  FC Crotone
+         AC Monza                 0-1 (0-0)  Empoli FC
+         Cosenza Calcio           1-3 (1-1)  AC Pistoiese
+         Pescara Calcio           0-1 (0-1)  Torino FC
+         Piacenza Calcio          2-1 (0-1)  Sampdoria
+         Salernitana Sport        3-0 (1-0)  AS Cittadella
+         AC Siena                 1-1 (1-0)  Cagliari Calcio
+         Ternana Calcio           3-1 (0-1)  Treviso FBC
+         AC Venezia               2-1 (1-0)  Chievo Verona
+
+
+Matchday 37
+[Sun Jun/3]
+         Cagliari Calcio          1-1 (1-0)  Ternana Calcio
+         Chievo Verona            2-0 (0-0)  Salernitana Sport
+         FC Crotone               2-0 (1-0)  Pescara Calcio
+         Empoli FC                3-1 (1-1)  Ancona Calcio
+         AC Pistoiese             1-1 (1-1)  Piacenza Calcio
+         Ravenna Calcio           0-3 (0-1)  AC Venezia
+         Sampdoria                4-2 (2-1)  AC Monza
+         Torino FC                2-1 (0-0)  Cosenza Calcio
+         Treviso FBC              2-2 (0-1)  Genoa CFC
+[Wed Jun/6]
+  20.30  AS Cittadella            0-0  AC Siena
+
+
+Matchday 38
+[Sun Jun/10]
+         Ancona Calcio            1-1 (1-1)  AS Cittadella
+         Genoa CFC                2-0 (0-0)  Cagliari Calcio
+         AC Monza                 3-1 (1-0)  AC Pistoiese
+         Cosenza Calcio           3-1 (1-0)  Ravenna Calcio
+         Pescara Calcio           2-2 (0-1)  Sampdoria
+         Piacenza Calcio          1-1 (0-1)  Treviso FBC
+         Salernitana Sport        0-2 (0-2)  Torino FC
+         AC Siena                 1-1 (0-0)  Chievo Verona
+         Ternana Calcio           0-0  FC Crotone
+         AC Venezia               2-2 (2-2)  Empoli FC

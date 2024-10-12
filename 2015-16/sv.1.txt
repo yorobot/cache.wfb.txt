@@ -1,0 +1,566 @@
+= SV 1 2015/16
+
+# Date       Sat Aug/1 2015 - Sun May/29 2016 (302d)
+# Teams      13
+# Matches    290
+# Stages     Apertura (132)  Apertura Playoffs (13)  Clausura (132)  Clausura Playoffs (13)
+
+
+== Apertura
+
+Matchday 1
+[Sat Aug/1]
+  14.30  Pasaquina FC             1-1  Sonsonate FC
+  16.00  Santa Tecla FC           2-0  Juventud Independiente
+  18.30  AD Chalatenango          1-1  Isidro Metapán
+[Sun Aug/2]
+  15.30  FAS                      2-3  Atlético Marte
+[Wed Aug/5]
+  16.00  Alianza                  1-1  Universidad de El Salvador
+  19.00  CD Águila                1-0  Dragón
+
+
+Matchday 2
+[Sat Aug/8]
+  17.00  Universidad de El Salvador  1-2  Pasaquina FC
+  18.00  Sonsonate FC             0-3  CD Águila
+[Sun Aug/9]
+  15.00  Atlético Marte           2-0  AD Chalatenango
+         Juventud Independiente   1-3  FAS
+         Dragón                   2-1  Santa Tecla FC
+  17.00  Isidro Metapán           3-4  Alianza
+
+
+Matchday 3
+[Wed Aug/12]
+  14.00  Santa Tecla FC           4-2  Sonsonate FC
+         Pasaquina FC             0-0  Isidro Metapán
+  15.30  Atlético Marte           0-1  Juventud Independiente
+  18.30  FAS                      1-0  Dragón
+         AD Chalatenango          0-0  Alianza
+  19.00  CD Águila                1-0  Universidad de El Salvador
+
+
+Matchday 4
+[Sat Aug/15]
+  17.00  Universidad de El Salvador  1-0  Santa Tecla FC
+  18.00  Sonsonate FC             1-2  FAS
+  19.00  Isidro Metapán           1-1  CD Águila
+[Sun Aug/16]
+  15.00  Juventud Independiente   2-0  AD Chalatenango
+         Dragón                   5-1  Atlético Marte
+  16.00  Alianza                  2-0  Pasaquina FC
+
+
+Matchday 5
+[Sat Aug/22]
+  18.30  FAS                      1-0  Universidad de El Salvador
+  19.00  CD Águila                2-2  Alianza
+  20.00  Santa Tecla FC           0-3  Isidro Metapán
+[Sun Aug/23]
+  15.00  Juventud Independiente   1-1  Dragón
+         Atlético Marte           0-0  Sonsonate FC
+         AD Chalatenango          0-0  Pasaquina FC
+
+
+Matchday 6
+[Wed Aug/26]
+  14.30  Pasaquina FC             1-1  CD Águila
+  15.00  Dragón                   2-0  AD Chalatenango
+  18.00  Sonsonate FC             1-1  Juventud Independiente
+  19.00  Universidad de El Salvador  0-0  Atlético Marte
+         Isidro Metapán           2-3  FAS
+[Wed Sep/30]
+  19.00  Alianza                  2-5  Santa Tecla FC
+
+
+Matchday 7
+[Sat Aug/29]
+  18.30  AD Chalatenango          3-1  CD Águila
+[Sun Aug/30]
+  15.00  Dragón                   1-2  Sonsonate FC
+         Juventud Independiente   2-2  Universidad de El Salvador
+         Santa Tecla FC           4-2  Pasaquina FC
+[Tue Sep/15]
+  16.00  FAS                      3-1  Alianza
+[Wed Nov/11]
+  15.00  Atlético Marte           0-0  Isidro Metapán
+
+
+Matchday 8
+[Sat Sep/5]
+  18.30  Sonsonate FC             2-1  AD Chalatenango
+[Sun Sep/6]
+  13.00  CD Águila                2-1  Santa Tecla FC
+  15.00  Universidad de El Salvador  1-2  Dragón
+  15.30  Alianza                  0-0  Atlético Marte
+[Wed Sep/23]
+  14.00  Pasaquina FC             1-1  FAS
+[Wed Sep/30]
+  18.00  Isidro Metapán           5-0  Juventud Independiente
+
+
+Matchday 9
+[Sat Sep/12]
+  18.30  Sonsonate FC             2-0  Universidad de El Salvador
+         AD Chalatenango          2-0  Santa Tecla FC
+  19.00  FAS                      2-1  CD Águila
+[Sun Sep/13]
+  14.30  Dragón                   0-0  Isidro Metapán
+  15.00  Juventud Independiente   0-3  Alianza
+         Atlético Marte           1-2  Pasaquina FC
+
+
+Matchday 10
+[Sat Sep/19]
+  14.30  Pasaquina FC             3-1  Juventud Independiente
+  16.00  Santa Tecla FC           2-0  FAS
+  18.30  AD Chalatenango          2-1  Universidad de El Salvador
+  19.00  CD Águila                1-0  Atlético Marte
+[Sun Sep/20]
+  15.30  Alianza                  1-1  Dragón
+  16.00  Isidro Metapán           4-0  Sonsonate FC
+
+
+Matchday 11
+[Sat Sep/26]
+  18.30  Sonsonate FC             3-4  Alianza
+[Sun Sep/27]
+  14.30  Dragón                   0-0  Pasaquina FC
+  15.00  Universidad de El Salvador  0-4  Isidro Metapán
+         Juventud Independiente   1-3  CD Águila
+  15.30  FAS                      3-4  AD Chalatenango
+[Wed Oct/7]
+  19.00  Atlético Marte           2-2  Santa Tecla FC
+
+
+Matchday 12
+[Sat Oct/3]
+  18.30  Sonsonate FC             0-1  Pasaquina FC
+  19.00  Dragón                   0-0  CD Águila
+[Sun Oct/4]
+  15.00  Atlético Marte           0-3  FAS
+         Juventud Independiente   2-2  Santa Tecla FC
+         Universidad de El Salvador  1-3  Alianza
+  16.00  Isidro Metapán           3-1  AD Chalatenango
+
+
+Matchday 13
+[Sat Oct/10]
+  14.30  Pasaquina FC             1-1  Universidad de El Salvador
+  18.30  AD Chalatenango          2-0  Atlético Marte
+  19.00  CD Águila                3-0  Sonsonate FC
+[Sun Oct/11]
+  15.30  FAS                      1-1  Juventud Independiente
+  16.00  Santa Tecla FC           2-2  Dragón
+[Thu Nov/19]
+  19.15  Alianza                  1-2  Isidro Metapán
+
+
+Matchday 14
+[Wed Oct/14]
+  15.00  Juventud Independiente   0-0  Atlético Marte
+  19.00  Universidad de El Salvador  1-2  CD Águila
+         Alianza                  1-0  AD Chalatenango
+[Thu Oct/15]
+  18.30  Sonsonate FC             1-1  Santa Tecla FC
+  19.00  Dragón                   2-2  FAS
+         Isidro Metapán           2-0  Pasaquina FC
+
+
+Matchday 15
+[Sun Oct/18]
+  16.00  Santa Tecla FC           4-0  Universidad de El Salvador
+[Wed Oct/21]
+  14.30  Pasaquina FC             3-0  Alianza
+  15.00  Atlético Marte           1-0  Dragón
+  18.30  AD Chalatenango          2-0  Juventud Independiente
+  19.00  FAS                      1-1  Sonsonate FC
+  19.05  CD Águila                1-0  Isidro Metapán
+
+
+Matchday 16
+[Sat Oct/24]
+  14.30  Pasaquina FC             3-2  AD Chalatenango
+  18.00  Sonsonate FC             2-1  Atlético Marte
+         Isidro Metapán           5-0  Santa Tecla FC
+[Sun Oct/25]
+  14.00  Dragón                   2-0  Juventud Independiente
+  15.00  Universidad de El Salvador  0-0  FAS
+  15.15  Alianza                  1-1  CD Águila
+
+
+Matchday 17
+[Wed Oct/28]
+  15.00  Juventud Independiente   2-0  Sonsonate FC
+  15.30  Atlético Marte           0-2  Universidad de El Salvador
+  18.30  AD Chalatenango          2-1  Dragón
+  19.00  FAS                      0-0  Isidro Metapán
+         CD Águila                2-2  Pasaquina FC
+  20.00  Alianza                  0-0  Santa Tecla FC
+
+
+Matchday 18
+[Sat Oct/31]
+  14.30  Pasaquina FC             2-2  Santa Tecla FC
+  18.30  Sonsonate FC             2-2  Dragón
+  19.00  Isidro Metapán           3-1  Atlético Marte
+         CD Águila                2-2  AD Chalatenango
+[Sun Nov/1]
+  15.00  Universidad de El Salvador  1-1  Juventud Independiente
+  15.15  Alianza                  3-0  FAS
+
+
+Matchday 19
+[Sat Nov/7]
+  16.00  Santa Tecla FC           2-1  CD Águila
+  18.30  AD Chalatenango          0-0  Sonsonate FC
+[Sun Nov/8]
+  14.00  Dragón                   1-1  Universidad de El Salvador
+  15.00  Juventud Independiente   1-0  Isidro Metapán
+         Atlético Marte           1-1  Alianza
+         FAS                      2-1  Pasaquina FC
+
+
+Matchday 20
+[Sat Nov/14]
+  14.30  Pasaquina FC             0-0  Atlético Marte
+  16.05  Santa Tecla FC           6-1  AD Chalatenango
+  19.00  Isidro Metapán           3-1  Dragón
+[Sun Nov/15]
+  15.00  Universidad de El Salvador  1-1  Sonsonate FC
+  15.15  Alianza                  2-0  Juventud Independiente
+[Thu Nov/19]
+  19.00  CD Águila                1-1  FAS
+
+
+Matchday 21
+[Sun Nov/22]
+  15.00  Universidad de El Salvador  0-0  AD Chalatenango
+         Sonsonate FC             0-1  Isidro Metapán
+         Dragón                   0-3  Alianza
+         Juventud Independiente   3-2  Pasaquina FC
+         Atlético Marte           1-1  CD Águila
+         FAS                      0-5  Santa Tecla FC
+
+
+Matchday 22
+[Sun Nov/29]
+  15.00  Isidro Metapán           0-1  Universidad de El Salvador
+         Alianza                  4-1  Sonsonate FC
+         Pasaquina FC             0-1  Dragón
+         CD Águila                1-0  Juventud Independiente
+         Santa Tecla FC           2-2  Atlético Marte
+         AD Chalatenango          1-0  FAS
+
+
+== Apertura Playoffs
+
+Quarterfinals
+[Wed Dec/2]
+  15.00  Pasaquina FC             0-1  CD Águila
+  19.00  AD Chalatenango          1-1  Alianza
+         FAS                      0-0  Santa Tecla FC
+[Thu Dec/3]
+  14.30  Dragón                   1-0  Isidro Metapán
+[Sat Dec/5]
+  18.00  Isidro Metapán           1-0  Dragón
+  19.00  CD Águila                1-0  Pasaquina FC
+[Sun Dec/6]
+  15.15  Alianza                  3-2  AD Chalatenango
+  16.00  Santa Tecla FC           1-2  FAS
+
+
+Semifinals
+[Wed Dec/9]
+  19.00  FAS                      2-1  Isidro Metapán
+[Thu Dec/10]
+  19.30  Alianza                  1-0  CD Águila
+[Sat Dec/12]
+  19.00  Isidro Metapán           0-0  FAS
+  19.30  CD Águila                2-2  Alianza
+
+
+Final
+[Sun Dec/20]
+  15.00  Alianza                  1-0  FAS
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/16]
+  14.30  Pasaquina FC             3-3  Sonsonate FC
+  16.00  Santa Tecla FC           0-0  Luis Ángel Firpo
+  18.00  AD Chalatenango          1-1  Isidro Metapán
+  19.00  CD Águila                1-0  Dragón
+[Sun Jan/17]
+  15.00  FAS                      2-1  Atlético Marte
+  15.15  Alianza                  3-0  Universidad de El Salvador
+
+
+Matchday 2
+[Thu Jan/21]
+  14.30  Pasaquina FC             2-0  Universidad de El Salvador
+[Sat Jan/23]
+  18.00  Luis Ángel Firpo         3-0  FAS
+         Isidro Metapán           1-1  Alianza
+  18.30  Sonsonate FC             1-2  CD Águila
+[Sun Jan/24]
+  14.00  Dragón                   0-0  Santa Tecla FC
+  15.00  Atlético Marte           1-2  AD Chalatenango
+
+
+Matchday 3
+[Wed Jan/27]
+  14.30  Pasaquina FC             1-0  Isidro Metapán
+  18.30  Santa Tecla FC           0-1  Sonsonate FC
+  19.00  Atlético Marte           1-2  Luis Ángel Firpo
+         FAS                      0-1  Dragón
+         CD Águila                1-0  Universidad de El Salvador
+         AD Chalatenango          2-1  Alianza
+
+
+Matchday 4
+[Sat Jan/30]
+  18.00  Luis Ángel Firpo         4-1  AD Chalatenango
+         Isidro Metapán           2-2  CD Águila
+  18.30  Sonsonate FC             0-1  FAS
+[Sun Jan/31]
+  14.00  Dragón                   1-1  Atlético Marte
+  15.00  Universidad de El Salvador  0-2  Santa Tecla FC
+  15.15  Alianza                  1-1  Pasaquina FC
+
+
+Matchday 5
+[Sat Feb/6]
+  16.00  Santa Tecla FC           3-1  Isidro Metapán
+  18.00  Luis Ángel Firpo         2-2  Dragón
+  18.30  AD Chalatenango          1-0  Pasaquina FC
+  19.00  CD Águila                0-0  Alianza
+[Sun Feb/7]
+  15.00  Atlético Marte           0-2  Sonsonate FC
+         FAS                      1-0  Universidad de El Salvador
+
+
+Matchday 6
+[Wed Feb/10]
+  15.00  Dragón                   3-2  AD Chalatenango
+         Sonsonate FC             2-1  Luis Ángel Firpo
+         Universidad de El Salvador  1-0  Atlético Marte
+         Pasaquina FC             0-1  CD Águila
+  19.00  Isidro Metapán           1-0  FAS
+         Santa Tecla FC           2-1  Alianza
+
+
+Matchday 7
+[Sat Feb/13]
+  16.00  Santa Tecla FC           8-0  Pasaquina FC
+  18.00  Luis Ángel Firpo         2-1  Universidad de El Salvador
+  19.00  FAS                      0-0  Alianza
+[Sun Feb/14]
+  15.00  Dragón                   1-0  Sonsonate FC
+         Atlético Marte           3-2  Isidro Metapán
+  16.00  AD Chalatenango          0-0  CD Águila
+
+
+Matchday 8
+[Sat Feb/20]
+  14.30  Pasaquina FC             1-0  FAS
+  18.30  Sonsonate FC             3-2  AD Chalatenango
+  19.00  Isidro Metapán           1-1  Luis Ángel Firpo
+[Sun Feb/21]
+  11.00  CD Águila                1-1  Santa Tecla FC
+  15.00  Universidad de El Salvador  2-0  Dragón
+[Wed Mar/16]
+  19.15  Alianza                  6-1  Atlético Marte
+
+
+Matchday 9
+[Wed Feb/24]
+  15.00  Dragón                   1-1  Isidro Metapán
+         Atlético Marte           1-1  Pasaquina FC
+  18.30  Sonsonate FC             1-0  Universidad de El Salvador
+         Luis Ángel Firpo         2-1  Alianza
+         AD Chalatenango          2-2  Santa Tecla FC
+  19.00  FAS                      1-1  CD Águila
+
+
+Matchday 10
+[Sat Feb/27]
+  14.30  Pasaquina FC             0-1  Luis Ángel Firpo
+  18.30  AD Chalatenango          0-1  Universidad de El Salvador
+  19.00  Isidro Metapán           1-0  Sonsonate FC
+         CD Águila                3-1  Atlético Marte
+[Sun Feb/28]
+  15.15  Alianza                  1-0  Dragón
+  15.30  Santa Tecla FC           0-0  FAS
+
+
+Matchday 11
+[Fri Mar/4]
+  17.00  Universidad de El Salvador  2-1  Isidro Metapán
+[Sat Mar/5]
+  18.30  Sonsonate FC             1-1  Alianza
+         Luis Ángel Firpo         0-0  CD Águila
+[Sun Mar/6]
+  14.30  Dragón                   3-0  Pasaquina FC
+  15.00  Atlético Marte           0-2  Santa Tecla FC
+         FAS                      1-3  AD Chalatenango
+
+
+Matchday 12
+[Fri Mar/11]
+  17.00  Universidad de El Salvador  0-2  Alianza
+[Sat Mar/12]
+  18.00  Isidro Metapán           2-1  AD Chalatenango
+  18.30  Sonsonate FC             1-2  Pasaquina FC
+         Luis Ángel Firpo         0-3  Santa Tecla FC
+  19.00  Dragón                   0-3  CD Águila
+[Sun Mar/13]
+  15.00  Atlético Marte           0-2  FAS
+
+
+Matchday 13
+[Fri Mar/18]
+  17.00  Universidad de El Salvador  3-2  Pasaquina FC
+[Sat Mar/19]
+  16.00  Santa Tecla FC           2-1  Dragón
+  18.30  AD Chalatenango          0-0  Atlético Marte
+  19.00  CD Águila                3-1  Sonsonate FC
+[Sun Mar/20]
+  15.00  FAS                      1-2  Luis Ángel Firpo
+  15.15  Alianza                  0-0  Isidro Metapán
+
+
+Matchday 14
+[Wed Mar/23]
+  18.35  Luis Ángel Firpo         2-0  Atlético Marte
+  19.30  Isidro Metapán           2-1  Pasaquina FC
+[Thu Mar/24]
+  18.30  Sonsonate FC             1-1  Santa Tecla FC
+[Wed Mar/30]
+  17.00  Universidad de El Salvador  1-3  CD Águila
+[Thu Mar/31]
+  19.15  Alianza                  2-2  AD Chalatenango
+[Wed Apr/6]
+  15.30  Dragón                   2-0  FAS
+
+
+Matchday 15
+[Sat Apr/2]
+  15.30  FAS                      4-0  Sonsonate FC
+  16.00  Santa Tecla FC           5-0  Universidad de El Salvador
+  19.00  CD Águila                0-0  Isidro Metapán
+[Sun Apr/3]
+  14.30  Pasaquina FC             2-2  Alianza
+  15.00  Atlético Marte           0-3  Dragón
+  16.00  AD Chalatenango          2-1  Luis Ángel Firpo
+
+
+Matchday 16
+[Fri Apr/8]
+  17.30  Universidad de El Salvador  0-0  FAS
+[Sat Apr/9]
+  14.30  Pasaquina FC             1-3  AD Chalatenango
+  16.00  Dragón                   0-1  Luis Ángel Firpo
+  18.30  Sonsonate FC             2-3  Atlético Marte
+  19.00  Isidro Metapán           2-2  Santa Tecla FC
+[Sun Apr/10]
+  15.15  Alianza                  2-0  CD Águila
+
+
+Matchday 17
+[Wed Apr/13]
+  15.30  Atlético Marte           2-0  Universidad de El Salvador
+  18.30  AD Chalatenango          2-2  Dragón
+         Luis Ángel Firpo         1-0  Sonsonate FC
+         Santa Tecla FC           1-0  Alianza
+  19.00  FAS                      3-3  Isidro Metapán
+         CD Águila                1-0  Pasaquina FC
+
+
+Matchday 18
+[Sat Apr/16]
+  14.30  Pasaquina FC             1-1  Santa Tecla FC
+  18.30  Sonsonate FC             0-0  Dragón
+  19.00  Isidro Metapán           0-0  Atlético Marte
+         CD Águila                3-0  AD Chalatenango
+[Sun Apr/17]
+  15.15  Alianza                  1-0  FAS
+[Mon Apr/18]
+  17.30  Universidad de El Salvador  2-1  Luis Ángel Firpo
+
+
+Matchday 19
+[Sat Apr/23]
+  16.00  Dragón                   2-0  Universidad de El Salvador
+         Santa Tecla FC           2-0  CD Águila
+  18.30  AD Chalatenango          1-2  Sonsonate FC
+         Luis Ángel Firpo         3-2  Isidro Metapán
+[Sun Apr/24]
+  15.00  Atlético Marte           0-4  Alianza
+         FAS                      1-2  Pasaquina FC
+
+
+Matchday 20
+[Wed Apr/27]
+  14.30  Pasaquina FC             4-1  Atlético Marte
+  17.00  Universidad de El Salvador  4-0  Sonsonate FC
+  18.00  Santa Tecla FC           4-0  AD Chalatenango
+  19.00  CD Águila                1-0  FAS
+[Thu Apr/28]
+  19.00  Isidro Metapán           1-0  Dragón
+  19.15  Alianza                  0-0  Luis Ángel Firpo
+
+
+Matchday 21
+[Sun May/1]
+  14.00  Sonsonate FC             1-1  Isidro Metapán
+         Dragón                   1-1  Alianza
+         Luis Ángel Firpo         2-1  Pasaquina FC
+         Atlético Marte           0-1  CD Águila
+  15.00  Universidad de El Salvador  4-0  AD Chalatenango
+         FAS                      2-3  Santa Tecla FC
+
+
+Matchday 22
+[Sat May/7]
+  15.00  Isidro Metapán           2-0  Universidad de El Salvador
+         Alianza                  3-2  Sonsonate FC
+         Pasaquina FC             3-1  Dragón
+         CD Águila                2-0  Luis Ángel Firpo
+         Santa Tecla FC           1-1  Atlético Marte
+         AD Chalatenango          1-1  FAS
+
+
+== Clausura Playoffs
+
+Quarterfinals
+[Wed May/11]
+  14.30  Pasaquina FC             2-2  Santa Tecla FC
+  17.30  Dragón                   3-0  Luis Ángel Firpo
+  19.00  AD Chalatenango          0-4  CD Águila
+  19.30  Isidro Metapán           0-0  Alianza
+[Sat May/14]
+  16.00  Santa Tecla FC           4-0  Pasaquina FC
+  18.30  Luis Ángel Firpo         2-0  Dragón
+         CD Águila                0-1  AD Chalatenango
+[Sun May/15]
+  15.15  Alianza                  1-0  Isidro Metapán
+
+
+Semifinals
+[Wed May/18]
+  14.00  Dragón                   0-0  Santa Tecla FC
+[Thu May/19]
+  19.30  Alianza                  0-1  CD Águila
+[Sat May/21]
+  16.00  Santa Tecla FC           0-1  Dragón
+[Sun May/22]
+  14.30  CD Águila                2-1  Alianza
+
+
+Final
+[Sun May/29]
+  15.00  CD Águila                0-1  Dragón

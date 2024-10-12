@@ -1,0 +1,594 @@
+= BE 2 2009/10
+
+# Date       Wed Aug/19 2009 - Sun May/2 2010 (256d)
+# Teams      19
+# Matches    342
+
+
+
+Matchday 1
+[Wed Aug/19]
+  18.00  RBD Borinage             2-0 (0-0)  KSK Ronse
+  20.00  KV Oostende              2-0 (0-0)  FC Brussels
+         KV Turnhout              1-1 (0-0)  KVK Tienen
+         Oud-Heverlee Leuven      3-6 (0-0)  KVSK United
+         AFC Tubize               0-0  RFC Liège
+         KAS Eupen                2-2 (0-0)  RFC Tournai
+         Royal Antwerp FC         2-1 (0-0)  Standaard Wetteren
+  20.30  FCV Dender EH            1-1 (0-0)  Lierse SK
+         KV Red Star Waasland     2-0 (0-0)  RAEC Mons
+
+
+Matchday 2
+[Wed Aug/26]
+  18.30  Standaard Wetteren       4-1 (0-0)  Oud-Heverlee Leuven
+  20.00  KSK Ronse                1-2 (0-0)  AFC Tubize
+         KSK Beveren              2-2 (0-0)  RBD Borinage
+         RFC Liège                0-1 (0-0)  KAS Eupen
+         RFC Tournai              1-2 (0-0)  KV Oostende
+         KVSK United              2-0 (0-0)  KV Turnhout
+         FC Brussels              2-2 (0-0)  KV Red Star Waasland
+  20.30  Lierse SK                2-2 (0-0)  Royal Antwerp FC
+
+
+Matchday 3
+[Sat Aug/29]
+  20.00  Royal Antwerp FC         1-3 (0-0)  FC Brussels
+         KAS Eupen                3-0 (0-0)  KSK Beveren
+         KV Red Star Waasland     2-1 (0-0)  RFC Liège
+         FCV Dender EH            3-0 (0-0)  RFC Tournai
+[Sun Aug/30]
+  15.00  Oud-Heverlee Leuven      1-3 (0-0)  Lierse SK
+  18.00  AFC Tubize               3-0 (0-0)  KVK Tienen
+  15.00  KV Oostende              2-0 (0-0)  KSK Ronse
+         RBD Borinage             1-1 (0-0)  KVSK United
+         Standaard Wetteren       0-1 (0-0)  RAEC Mons
+
+
+Matchday 4
+[Fri Sep/4]
+  20.30  RAEC Mons                0-0  Royal Antwerp FC
+[Sat Sep/5]
+  20.00  KSK Beveren              1-0 (0-0)  AFC Tubize
+         RFC Liège                1-1 (0-0)  KV Oostende
+         KV Turnhout              2-1 (0-0)  Oud-Heverlee Leuven
+         Lierse SK                4-2 (0-0)  Standaard Wetteren
+         RFC Tournai              3-3 (0-0)  KV Red Star Waasland
+         FC Brussels              4-1 (0-0)  FCV Dender EH
+[Sun Sep/6]
+  15.00  KSK Ronse                0-3 (0-1)  KAS Eupen
+         KVK Tienen               1-1 (0-0)  RBD Borinage
+
+
+Matchday 5
+[Fri Sep/11]
+  20.30  KV Oostende              1-1 (0-0)  KSK Beveren
+[Sat Sep/12]
+  20.00  Lierse SK                1-1 (0-0)  RAEC Mons
+         KV Red Star Waasland     3-2 (0-0)  KSK Ronse
+         KAS Eupen                2-1 (0-0)  KVK Tienen
+         AFC Tubize               0-1 (0-0)  KVSK United
+         Royal Antwerp FC         3-3 (0-0)  RFC Tournai
+         FCV Dender EH            2-1 (0-0)  RFC Liège
+[Sun Sep/13]
+  15.00  Standaard Wetteren       0-3 (0-0)  FC Brussels
+         RBD Borinage             1-1 (0-0)  KV Turnhout
+
+
+Matchday 6
+[Sat Sep/19]
+  20.00  RFC Tournai              3-3 (0-0)  Standaard Wetteren
+         KV Turnhout              0-2 (0-0)  AFC Tubize
+         FC Brussels              0-0  Lierse SK
+         KVSK United              1-1 (0-0)  KAS Eupen
+         RAEC Mons                1-1 (0-0)  Oud-Heverlee Leuven
+         KSK Ronse                0-2 (0-0)  FCV Dender EH
+         RFC Liège                0-3 (0-0)  Royal Antwerp FC
+         KSK Beveren              1-2 (0-0)  KV Red Star Waasland
+[Sun Sep/20]
+  15.00  KVK Tienen               2-2 (0-0)  KV Oostende
+
+
+Matchday 7
+[Fri Sep/25]
+  20.30  FCV Dender EH            1-0 (0-0)  KSK Beveren
+[Sat Sep/26]
+  20.00  Oud-Heverlee Leuven      1-0 (0-0)  RBD Borinage
+         RAEC Mons                2-1 (0-0)  FC Brussels
+         Royal Antwerp FC         1-1 (0-0)  KSK Ronse
+         Lierse SK                2-0 (0-0)  RFC Tournai
+         KV Red Star Waasland     2-2 (0-0)  KVK Tienen
+         KV Oostende              0-0  KVSK United
+         KAS Eupen                2-1 (0-0)  KV Turnhout
+[Sun Sep/27]
+  15.00  Standaard Wetteren       2-0 (1-0)  RFC Liège
+
+
+Matchday 8
+[Fri Oct/2]
+  20.30  KSK Beveren              2-2 (0-0)  Royal Antwerp FC
+[Sat Oct/3]
+  20.00  RFC Tournai              2-1 (0-0)  RAEC Mons
+         RFC Liège                0-3 (0-0)  Lierse SK
+         KV Turnhout              1-3 (0-0)  KV Oostende
+         FC Brussels              1-2 (0-0)  Oud-Heverlee Leuven
+         KVSK United              0-1 (0-0)  KV Red Star Waasland
+[Sun Oct/4]
+  15.00  RBD Borinage             1-2 (0-0)  AFC Tubize
+         KVK Tienen               0-0  FCV Dender EH
+         KSK Ronse                1-2 (0-0)  Standaard Wetteren
+
+
+Matchday 2
+[Wed Oct/7]
+  20.30  RAEC Mons                1-1 (0-0)  FCV Dender EH
+
+
+Matchday 9
+[Fri Oct/9]
+  20.30  Lierse SK                6-0 (4-0)  KSK Beveren
+[Sun Oct/11]
+  15.00  KAS Eupen                1-0 (0-0)  AFC Tubize
+         KV Oostende              1-0 (0-0)  RBD Borinage
+         RAEC Mons                2-1 (0-0)  KSK Ronse
+         FCV Dender EH            3-3 (0-0)  KV Turnhout
+         Standaard Wetteren       0-1 (0-0)  KVK Tienen
+         Royal Antwerp FC         1-1 (0-0)  KVSK United
+         FC Brussels              1-3 (0-0)  RFC Liège
+         Oud-Heverlee Leuven      0-0  RFC Tournai
+
+
+Matchday 10
+[Fri Oct/16]
+  20.30  RFC Liège                0-2 (0-0)  RAEC Mons
+[Sat Oct/17]
+  20.00  RFC Tournai              1-1 (0-0)  FC Brussels
+         KSK Ronse                1-2 (0-0)  Lierse SK
+         AFC Tubize               1-1 (0-0)  Oud-Heverlee Leuven
+         KVSK United              1-0 (0-0)  FCV Dender EH
+         KV Turnhout              2-1 (0-0)  KV Red Star Waasland
+         KSK Beveren              1-1 (0-0)  Standaard Wetteren
+[Sun Oct/18]
+  15.00  KVK Tienen               4-3 (0-0)  Royal Antwerp FC
+         RBD Borinage             0-0  KAS Eupen
+
+
+Matchday 11
+[Fri Oct/23]
+  20.30  Lierse SK                4-3 (0-0)  KVK Tienen
+         Oud-Heverlee Leuven      3-1 (0-0)  KAS Eupen
+[Sat Oct/24]
+  20.00  KV Oostende              1-2 (0-0)  AFC Tubize
+         KV Red Star Waasland     0-0  RBD Borinage
+         RAEC Mons                1-0 (0-0)  KSK Beveren
+         FC Brussels              3-0 (0-0)  KSK Ronse
+         Standaard Wetteren       1-0 (0-0)  KVSK United
+         RFC Tournai              0-1 (0-0)  RFC Liège
+[Sun Oct/25]
+  15.00  Royal Antwerp FC         2-0 (0-0)  KV Turnhout
+
+
+Matchday 12
+[Fri Oct/30]
+  20.30  KAS Eupen                1-1 (0-0)  KV Oostende
+[Sat Oct/31]
+  20.00  KSK Ronse                2-1 (0-0)  RFC Tournai
+         KSK Beveren              2-2 (0-0)  FC Brussels
+         KVSK United              1-1 (0-0)  Lierse SK
+         RFC Liège                1-4 (0-0)  Oud-Heverlee Leuven
+         AFC Tubize               0-0  KV Red Star Waasland
+         KV Turnhout              1-3 (0-0)  Standaard Wetteren
+[Sun Nov/1]
+  16.00  KVK Tienen               0-2 (0-0)  RAEC Mons
+  15.00  RBD Borinage             3-2 (0-0)  FCV Dender EH
+
+
+Matchday 13
+[Sat Nov/7]
+  18.00  KV Red Star Waasland     0-0  KV Oostende
+  20.00  FCV Dender EH            0-1 (0-0)  KAS Eupen
+         RFC Liège                1-1 (0-0)  KSK Beveren
+         RAEC Mons                1-2 (0-0)  KV Turnhout
+         RFC Tournai              4-2 (0-0)  KVK Tienen
+         FC Brussels              2-1 (0-0)  KVSK United
+         Standaard Wetteren       0-1 (0-0)  RBD Borinage
+[Sun Nov/8]
+  15.00  Oud-Heverlee Leuven      1-3 (0-0)  KSK Ronse
+         Royal Antwerp FC         2-1 (0-0)  AFC Tubize
+
+
+Matchday 14
+[Fri Nov/13]
+  20.30  KAS Eupen                4-0 (0-0)  KV Red Star Waasland
+[Sat Nov/14]
+  20.00  AFC Tubize               2-2 (0-0)  FCV Dender EH
+         KVSK United              2-0 (0-0)  RAEC Mons
+         KSK Beveren              1-0 (0-0)  RFC Tournai
+         KV Turnhout              2-1 (0-0)  Lierse SK
+[Sun Nov/15]
+  15.00  KV Oostende              1-1 (0-0)  Oud-Heverlee Leuven
+         KVK Tienen               1-0 (0-0)  FC Brussels
+         KSK Ronse                3-1 (0-0)  RFC Liège
+
+
+Matchday 15
+[Fri Nov/20]
+  20.30  Lierse SK                2-3 (0-0)  AFC Tubize
+[Sat Nov/21]
+  20.00  RAEC Mons                1-2 (0-0)  RBD Borinage
+         Royal Antwerp FC         0-3 (0-0)  KV Oostende
+         RFC Tournai              4-4 (1-0)  KV Turnhout
+         RFC Liège                0-2 (0-0)  KVSK United
+         FCV Dender EH            2-1 (0-0)  KV Red Star Waasland
+[Sun Nov/22]
+  15.00  KSK Ronse                2-1 (0-1)  KVK Tienen
+         Standaard Wetteren       2-1 (1-1)  KAS Eupen
+         Oud-Heverlee Leuven      4-1 (1-0)  KSK Beveren
+
+
+Matchday 16
+[Fri Nov/27]
+  20.30  KV Oostende              2-2 (0-0)  FCV Dender EH
+[Sat Nov/28]
+  20.00  KSK Beveren              1-2 (0-0)  KSK Ronse
+         KV Red Star Waasland     1-1 (0-0)  Oud-Heverlee Leuven
+         AFC Tubize               4-2 (0-0)  Standaard Wetteren
+         KVSK United              3-1 (0-0)  RFC Tournai
+         KAS Eupen                1-1 (0-0)  Royal Antwerp FC
+[Sun Nov/29]
+  15.00  KVK Tienen               2-1 (0-0)  RFC Liège
+         KV Turnhout              1-2 (0-0)  FC Brussels
+         RBD Borinage             1-3 (0-0)  Lierse SK
+
+
+Matchday 17
+[Fri Dec/4]
+  20.30  Lierse SK                2-2 (1-0)  KAS Eupen
+[Sat Dec/5]
+  20.00  RAEC Mons                2-1 (0-0)  AFC Tubize
+         FC Brussels              2-2 (0-0)  RBD Borinage
+         KSK Beveren              0-0  KVK Tienen
+         Standaard Wetteren       2-2 (0-0)  KV Oostende
+         Royal Antwerp FC         2-0 (0-0)  KV Red Star Waasland
+[Sun Dec/6]
+  15.00  Oud-Heverlee Leuven      2-0 (0-0)  FCV Dender EH
+         RFC Liège                1-1 (0-0)  KV Turnhout
+         KSK Ronse                1-2 (0-0)  KVSK United
+
+
+Matchday 18
+[Fri Dec/11]
+  20.30  KV Oostende              0-1 (0-0)  RAEC Mons
+[Sat Dec/12]
+  20.00  FCV Dender EH            1-3 (0-0)  Standaard Wetteren
+         KAS Eupen                2-1 (0-0)  FC Brussels
+         KV Red Star Waasland     1-3 (0-0)  Lierse SK
+         KV Turnhout              0-0  KSK Beveren
+         KVSK United              2-0 (0-0)  KVK Tienen
+         AFC Tubize               0-0  RFC Tournai
+[Sun Dec/13]
+  15.00  Oud-Heverlee Leuven      1-1 (0-0)  Royal Antwerp FC
+         RBD Borinage             0-0  RFC Liège
+
+
+Matchday 22
+[Sat Jan/16]
+  20.00  KSK Beveren              1-1 (0-0)  KAS Eupen
+         RFC Tournai              0-0  FCV Dender EH
+         RAEC Mons                4-1 (0-0)  Standaard Wetteren
+         Lierse SK                5-0 (0-0)  Oud-Heverlee Leuven
+[Sun Jan/17]
+  15.00  KSK Ronse                1-1 (0-0)  KV Oostende
+         KVK Tienen               0-2 (0-0)  AFC Tubize
+  18.00  RFC Liège                0-1 (0-0)  KV Red Star Waasland
+
+
+Matchday 23
+[Sat Jan/23]
+  20.00  KAS Eupen                3-3 (0-0)  KSK Ronse
+         KV Oostende              5-0 (0-0)  RFC Liège
+         FCV Dender EH            0-1 (0-0)  FC Brussels
+         Royal Antwerp FC         0-0  RAEC Mons
+         KV Red Star Waasland     1-0 (0-0)  RFC Tournai
+         Standaard Wetteren       2-2 (0-0)  Lierse SK
+         AFC Tubize               0-0  KSK Beveren
+[Sun Jan/24]
+  15.00  RBD Borinage             0-0  KVK Tienen
+         Oud-Heverlee Leuven      1-1 (0-0)  KV Turnhout
+
+
+Matchday 22
+[Wed Jan/27]
+  20.00  FC Brussels              3-3 (0-0)  Royal Antwerp FC
+  20.30  KVSK United              2-1 (0-0)  RBD Borinage
+
+
+Matchday 24
+[Fri Jan/29]
+  20.30  RAEC Mons                1-1 (0-0)  Lierse SK
+[Sat Jan/30]
+  20.00  KVSK United              2-1 (0-0)  AFC Tubize
+         RFC Tournai              1-1 (0-0)  Royal Antwerp FC
+         FC Brussels              2-0 (0-0)  Standaard Wetteren
+         KSK Beveren              4-1 (0-0)  KV Oostende
+[Sun Jan/31]
+  15.00  KVK Tienen               0-5 (0-4)  KAS Eupen
+  16.00  KSK Ronse                3-1 (0-0)  KV Red Star Waasland
+
+
+Matchday 19
+[Tue Feb/2]
+  20.00  FC Brussels              2-1 (0-0)  AFC Tubize
+[Wed Feb/3]
+  20.00  Standaard Wetteren       0-0  KV Red Star Waasland
+  20.30  Lierse SK                0-0  KV Oostende
+  20.00  KSK Beveren              0-0  KVSK United
+         RAEC Mons                2-1 (0-0)  KAS Eupen
+         RFC Tournai              3-1 (0-0)  RBD Borinage
+         KSK Ronse                1-5 (0-0)  KV Turnhout
+  20.30  KVK Tienen               5-0 (0-0)  Oud-Heverlee Leuven
+         Royal Antwerp FC         1-3 (0-0)  FCV Dender EH
+
+
+Matchday 25
+[Sat Feb/6]
+  20.00  FCV Dender EH            2-1 (0-0)  KSK Ronse
+         Royal Antwerp FC         2-0 (0-0)  RFC Liège
+         KV Red Star Waasland     2-0 (0-0)  KSK Beveren
+         Standaard Wetteren       0-1 (0-0)  RFC Tournai
+         Lierse SK                2-0 (0-0)  FC Brussels
+         KV Oostende              3-1 (0-0)  KVK Tienen
+         AFC Tubize               0-0  KV Turnhout
+[Sun Feb/7]
+  15.00  Oud-Heverlee Leuven      0-5 (0-0)  RAEC Mons
+[Mon Feb/8]
+  20.00  KAS Eupen                2-1 (0-0)  KVSK United
+
+
+Matchday 26
+[Fri Feb/12]
+  20.30  KVSK United              2-1 (0-0)  KV Oostende
+[Sat Feb/13]
+  20.00  KV Turnhout              0-1 (0-0)  KAS Eupen
+         KSK Ronse                2-2 (0-0)  Royal Antwerp FC
+         KSK Beveren              2-3 (0-0)  FCV Dender EH
+[Sun Feb/14]
+  15.00  KVK Tienen               4-1 (0-0)  KV Red Star Waasland
+
+
+Matchday 20
+[Wed Feb/17]
+  20.00  KSK Ronse                2-0 (0-0)  RBD Borinage
+         Lierse SK                0-1 (0-0)  FCV Dender EH
+         FC Brussels              5-3 (0-0)  KV Oostende
+  20.30  KVK Tienen               3-1 (0-0)  KV Turnhout
+         Standaard Wetteren       1-0 (0-0)  Royal Antwerp FC
+  20.00  RAEC Mons                4-1 (0-0)  KV Red Star Waasland
+         RFC Tournai              2-1 (0-0)  KAS Eupen
+  20.30  KVSK United              3-0 (0-0)  Oud-Heverlee Leuven
+
+
+Matchday 27
+[Sat Feb/20]
+  20.00  Lierse SK                3-1 (0-0)  RFC Liège
+         FCV Dender EH            3-3 (0-0)  KVK Tienen
+         Royal Antwerp FC         3-1 (0-0)  KSK Beveren
+         RAEC Mons                2-3 (0-0)  RFC Tournai
+         KV Red Star Waasland     0-0  KVSK United
+         AFC Tubize               1-1 (0-0)  RBD Borinage
+[Sun Feb/21]
+  15.00  Standaard Wetteren       1-5 (0-0)  KSK Ronse
+         Oud-Heverlee Leuven      1-1 (0-0)  FC Brussels
+         KV Oostende              1-0 (0-0)  KV Turnhout
+
+
+Matchday 28
+[Fri Feb/26]
+  20.30  KSK Beveren              0-0  Lierse SK
+[Sat Feb/27]
+  20.00  AFC Tubize               1-2 (0-0)  KAS Eupen
+         KSK Ronse                0-1 (0-0)  RAEC Mons
+         KV Turnhout              0-0  FCV Dender EH
+  18.00  KVSK United              1-1 (0-0)  Royal Antwerp FC
+  20.00  RFC Tournai              3-1 (0-0)  Oud-Heverlee Leuven
+[Sun Feb/28]
+  15.00  KVK Tienen               0-0  Standaard Wetteren
+         RFC Liège                2-0 (0-0)  FC Brussels
+
+
+Matchday 29
+[Fri Mar/5]
+  20.30  RAEC Mons                1-0 (0-0)  RFC Liège
+[Sat Mar/6]
+  20.00  Royal Antwerp FC         3-1 (0-0)  KVK Tienen
+         FC Brussels              1-0 (0-0)  RFC Tournai
+         Lierse SK                2-2 (0-0)  KSK Ronse
+         FCV Dender EH            0-2 (0-0)  KVSK United
+         KV Red Star Waasland     1-1 (0-0)  KV Turnhout
+         Standaard Wetteren       2-4 (0-0)  KSK Beveren
+[Sun Mar/7]
+  15.00  Oud-Heverlee Leuven      1-1 (0-0)  AFC Tubize
+
+
+Matchday 24
+[Wed Mar/10]
+  20.30  KV Turnhout              1-2 (0-0)  RBD Borinage
+
+
+Matchday 30
+[Sat Mar/13]
+  20.30  KVK Tienen               0-1 (0-0)  Lierse SK
+  20.00  AFC Tubize               0-0  KV Oostende
+         KAS Eupen                0-2 (0-0)  Oud-Heverlee Leuven
+  18.00  KV Turnhout              3-1 (0-0)  Royal Antwerp FC
+  20.00  KSK Ronse                0-0  FC Brussels
+         RFC Liège                1-0 (0-0)  RFC Tournai
+         KVSK United              0-1 (0-0)  Standaard Wetteren
+         KSK Beveren              0-1 (0-0)  RAEC Mons
+[Sun Mar/14]
+  15.00  RBD Borinage             2-1 (0-0)  KV Red Star Waasland
+
+
+Matchday 21
+[Wed Mar/17]
+  20.30  KV Red Star Waasland     1-0  FC Brussels
+         Royal Antwerp FC         0-1  Lierse SK
+         FCV Dender EH            0-2  RAEC Mons
+         Oud-Heverlee Leuven      3-2  Standaard Wetteren
+  20.00  KV Turnhout              2-4  KVSK United
+         KV Oostende              0-2  RFC Tournai
+         KAS Eupen                1-1  RFC Liège
+         RBD Borinage             2-1  KSK Beveren
+         AFC Tubize               2-2  KSK Ronse
+
+
+Matchday 31
+[Sat Mar/20]
+  20.00  Standaard Wetteren       1-0  KV Turnhout
+         KV Red Star Waasland     2-0  AFC Tubize
+         FC Brussels              0-1  KSK Beveren
+         RAEC Mons                2-2  KVK Tienen
+         FCV Dender EH            0-0  RBD Borinage
+  18.00  Lierse SK                1-0  KVSK United
+  20.00  RFC Tournai              1-0  KSK Ronse
+[Sun Mar/21]
+  15.00  KV Oostende              1-0  KAS Eupen
+         Oud-Heverlee Leuven      1-0  RFC Liège
+
+
+Matchday 26
+[Wed Mar/24]
+  20.00  RFC Tournai              1-2  Lierse SK
+
+
+Matchday 14
+[Wed Mar/24]
+  20.30  RBD Borinage             1-0  Royal Antwerp FC
+
+
+Matchday 26
+[Wed Mar/24]
+  20.00  FC Brussels              0-3  RAEC Mons
+
+
+Matchday 24
+[Wed Mar/24]
+  20.30  RFC Liège                1-1 (0-0)  FCV Dender EH
+
+
+Matchday 32
+[Sat Mar/27]
+  20.00  KV Oostende              2-2  KV Red Star Waasland
+         KAS Eupen                0-2  FCV Dender EH
+         KVSK United              2-0  FC Brussels
+         AFC Tubize               1-2  Royal Antwerp FC
+         KV Turnhout              0-0  RAEC Mons
+  18.00  KSK Beveren              1-0  RFC Liège
+[Sun Mar/28]
+  15.00  RBD Borinage             2-1  Standaard Wetteren
+         KSK Ronse                1-2  Oud-Heverlee Leuven
+         KVK Tienen               1-0  RFC Tournai
+
+
+Matchday 28
+[Wed Mar/31]
+  20.00  RBD Borinage             1-1 (0-0)  KV Oostende
+
+
+Matchday 33
+[Fri Apr/2]
+  20.30  RAEC Mons                1-1  KVSK United
+[Sat Apr/3]
+  20.00  RFC Tournai              2-1  KSK Beveren
+         Royal Antwerp FC         3-3  RBD Borinage
+         RFC Liège                0-0  KSK Ronse
+         KV Red Star Waasland     2-2  KAS Eupen
+         Lierse SK                3-1  KV Turnhout
+         Oud-Heverlee Leuven      1-1  KV Oostende
+         FCV Dender EH            1-2  AFC Tubize
+[Mon Apr/5]
+  19.00  FC Brussels              0-1  KVK Tienen
+
+
+Matchday 26
+[Wed Apr/7]
+  20.00  RBD Borinage             3-1  Oud-Heverlee Leuven
+         RFC Liège                1-3  Standaard Wetteren
+
+
+Matchday 34
+[Sat Apr/10]
+  20.00  KSK Beveren              2-0  Oud-Heverlee Leuven
+         KAS Eupen                3-0  Standaard Wetteren
+         AFC Tubize               1-1  Lierse SK
+         KV Turnhout              4-3  RFC Tournai
+         KVSK United              2-0  RFC Liège
+         KV Red Star Waasland     1-0  FCV Dender EH
+[Sun Apr/11]
+  15.00  KVK Tienen               0-2  KSK Ronse
+         RBD Borinage             2-1  RAEC Mons
+         KV Oostende              1-2  Royal Antwerp FC
+
+
+Matchday 35
+[Tue Apr/13]
+  20.00  FC Brussels              1-3  KV Turnhout
+[Wed Apr/14]
+  20.00  RFC Liège                0-1  KVK Tienen
+  20.30  Lierse SK                3-0  RBD Borinage
+  20.00  KSK Ronse                4-0  KSK Beveren
+         Royal Antwerp FC         1-1  KAS Eupen
+         RFC Tournai              0-1  KVSK United
+         Standaard Wetteren       1-1  AFC Tubize
+  20.30  FCV Dender EH            1-2  KV Oostende
+         Oud-Heverlee Leuven      2-4  KV Red Star Waasland
+
+
+Matchday 36
+[Sat Apr/17]
+  20.00  KV Red Star Waasland     3-1  Royal Antwerp FC
+         KVSK United              1-1  KSK Ronse
+         AFC Tubize               1-3  RAEC Mons
+         KAS Eupen                1-2  Lierse SK
+         KV Turnhout              2-0  RFC Liège
+         KV Oostende              1-0  Standaard Wetteren
+         FCV Dender EH            1-1  Oud-Heverlee Leuven
+[Sun Apr/18]
+  15.00  RBD Borinage             3-0  FC Brussels
+         KVK Tienen               1-0  KSK Beveren
+
+
+Matchday 29
+[Wed Apr/21]
+  20.00  KAS Eupen                0-0  RBD Borinage
+
+
+Matchday 20
+[Wed Apr/21]
+  20.00  RFC Liège                2-1  AFC Tubize
+
+
+Matchday 37
+[Sun Apr/25]
+  15.00  FC Brussels              1-2  KAS Eupen
+         Lierse SK                2-0  KV Red Star Waasland
+         KSK Beveren              3-2  KV Turnhout
+         KVK Tienen               0-2  KVSK United
+         RAEC Mons                4-1  KV Oostende
+         RFC Tournai              0-0  AFC Tubize
+         Standaard Wetteren       3-2  FCV Dender EH
+         Royal Antwerp FC         1-1  Oud-Heverlee Leuven
+         RFC Liège                2-5  RBD Borinage
+
+
+Matchday 38
+[Sun May/2]
+  15.00  AFC Tubize               2-2  FC Brussels
+         RBD Borinage             0-3  RFC Tournai
+         KAS Eupen                2-0  RAEC Mons
+         KV Oostende              0-4  Lierse SK
+         KVSK United              3-2  KSK Beveren
+         FCV Dender EH            2-2  Royal Antwerp FC
+         KV Turnhout              2-1  KSK Ronse
+         Oud-Heverlee Leuven      4-0  KVK Tienen
+         KV Red Star Waasland     1-1  Standaard Wetteren

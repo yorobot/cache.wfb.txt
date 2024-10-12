@@ -1,0 +1,538 @@
+= ES 2 1982/83
+
+# Date       Sun Sep/5 1982 - Sun May/22 1983 (259d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Sep/5]
+         Castilla CF              0-0  Elche CF
+         Barcelona Atlètic        2-0  RCD Mallorca
+         CE Sabadell              5-0  CF Palencia
+         Cádiz CF                 1-1  Real Murcia
+         Hércules CF              0-0  Atlético Madrileño
+         Rayo Vallecano           1-0  CD Castellón
+         Córdoba CF               1-2  Recreativo Huelva
+         Real Oviedo              3-0  Linares CF
+         Cartagena FC             1-0  Xerez CD
+         Deportivo La Coruña      1-0  CD Alavés
+
+
+Matchday 2
+[Sun Sep/12]
+         CD Castellón             1-1  Deportivo La Coruña
+         RCD Mallorca             1-1  CE Sabadell
+         Real Murcia              4-1  Castilla CF
+         CD Alavés                3-0  Real Oviedo
+         Atlético Madrileño       0-1  Cádiz CF
+         Elche CF                 0-0  Barcelona Atlètic
+         Xerez CD                 2-0  Hércules CF
+         Recreativo Huelva        1-1  Cartagena FC
+         Linares CF               1-0  Córdoba CF
+         CF Palencia              1-0  Rayo Vallecano
+
+
+Matchday 3
+[Sun Sep/19]
+         Castilla CF              2-1  Atlético Madrileño
+         Barcelona Atlètic        1-4  Real Murcia
+         CD Castellón             2-0  CF Palencia
+         CE Sabadell              1-1  Elche CF
+         Cádiz CF                 2-1  Xerez CD
+         Hércules CF              1-2  Recreativo Huelva
+         Rayo Vallecano           3-1  RCD Mallorca
+         Córdoba CF               3-0  CD Alavés
+         Cartagena FC             3-0  Linares CF
+         Deportivo La Coruña      3-1  Real Oviedo
+
+
+Matchday 4
+[Sun Sep/26]
+         RCD Mallorca             3-2  CD Castellón
+         Real Murcia              1-0  CE Sabadell
+         CD Alavés                2-0  Cartagena FC
+         Atlético Madrileño       0-1  Barcelona Atlètic
+         Elche CF                 2-1  Rayo Vallecano
+         Xerez CD                 3-1  Castilla CF
+         Recreativo Huelva        2-1  Cádiz CF
+         Real Oviedo              1-1  Córdoba CF
+         Linares CF               2-1  Hércules CF
+         CF Palencia              1-0  Deportivo La Coruña
+
+
+Matchday 5
+[Sun Oct/3]
+         Castilla CF              2-0  Recreativo Huelva
+         Barcelona Atlètic        1-1  Xerez CD
+         CD Castellón             2-2  Elche CF
+         CE Sabadell              3-1  Atlético Madrileño
+         Cádiz CF                 1-1  Linares CF
+         Hércules CF              2-2  CD Alavés
+         Rayo Vallecano           1-1  Real Murcia
+         Cartagena FC             1-1  Real Oviedo
+         CF Palencia              0-0  RCD Mallorca
+         Deportivo La Coruña      4-0  Córdoba CF
+
+
+Matchday 6
+[Sun Oct/10]
+         RCD Mallorca             3-0  Deportivo La Coruña
+         Real Murcia              2-1  CD Castellón
+         CD Alavés                1-0  Cádiz CF
+         Atlético Madrileño       0-0  Rayo Vallecano
+         Elche CF                 2-2  CF Palencia
+         Xerez CD                 1-2  CE Sabadell
+         Recreativo Huelva        1-1  Barcelona Atlètic
+         Córdoba CF               0-1  Cartagena FC
+         Real Oviedo              1-0  Hércules CF
+         Linares CF               1-0  Castilla CF
+
+
+Matchday 7
+[Sun Oct/17]
+         Castilla CF              1-1  CD Alavés
+         Barcelona Atlètic        1-1  Linares CF
+         CD Castellón             1-2  Atlético Madrileño
+         CE Sabadell              1-1  Recreativo Huelva
+         RCD Mallorca             1-1  Elche CF
+         Cádiz CF                 1-2  Real Oviedo
+         Hércules CF              1-1  Córdoba CF
+         Rayo Vallecano           3-2  Xerez CD
+         CF Palencia              1-0  Real Murcia
+         Deportivo La Coruña      5-0  Cartagena FC
+
+
+Matchday 8
+[Sun Oct/24]
+         Real Murcia              2-0  RCD Mallorca
+         CD Alavés                1-3  Barcelona Atlètic
+         Atlético Madrileño       1-0  CF Palencia
+         Elche CF                 3-0  Deportivo La Coruña
+         Xerez CD                 1-2  CD Castellón
+         Recreativo Huelva        1-0  Rayo Vallecano
+         Córdoba CF               2-2  Cádiz CF
+         Real Oviedo              2-0  Castilla CF
+         Cartagena FC             0-0  Hércules CF
+         Linares CF               0-0  CE Sabadell
+
+
+Matchday 9
+[Sun Oct/31]
+         Castilla CF              2-1  Córdoba CF
+         Barcelona Atlètic        0-0  Real Oviedo
+         CD Castellón             0-0  Recreativo Huelva
+         CE Sabadell              1-0  CD Alavés
+         RCD Mallorca             1-2  Atlético Madrileño
+         Cádiz CF                 3-0  Cartagena FC
+         Rayo Vallecano           4-0  Linares CF
+         Elche CF                 2-0  Real Murcia
+         CF Palencia              4-2  Xerez CD
+         Deportivo La Coruña      2-1  Hércules CF
+
+
+Matchday 10
+[Sun Nov/7]
+         Hércules CF              1-2  Cádiz CF
+         Real Murcia              2-2  Deportivo La Coruña
+         CD Alavés                1-1  Rayo Vallecano
+         Atlético Madrileño       0-0  Elche CF
+         Xerez CD                 2-3  RCD Mallorca
+         Recreativo Huelva        0-1  CF Palencia
+         Córdoba CF               2-2  Barcelona Atlètic
+         Real Oviedo              3-1  CE Sabadell
+         Cartagena FC             3-0  Castilla CF
+         Linares CF               2-0  CD Castellón
+
+
+Matchday 11
+[Sun Nov/14]
+         Castilla CF              0-1  Hércules CF
+         Barcelona Atlètic        1-1  Cartagena FC
+         CD Castellón             0-0  CD Alavés
+         CE Sabadell              1-0  Córdoba CF
+         RCD Mallorca             2-2  Recreativo Huelva
+         Real Murcia              2-1  Atlético Madrileño
+         Rayo Vallecano           1-0  Real Oviedo
+         Elche CF                 1-0  Xerez CD
+         CF Palencia              0-1  Linares CF
+         Deportivo La Coruña      2-0  Cádiz CF
+
+
+Matchday 12
+[Sun Nov/21]
+         Cádiz CF                 0-0  Castilla CF
+         Hércules CF              1-1  Barcelona Atlètic
+         CD Alavés                1-4  CF Palencia
+         Atlético Madrileño       2-0  Deportivo La Coruña
+         Xerez CD                 0-1  Real Murcia
+         Recreativo Huelva        0-0  Elche CF
+         Córdoba CF               1-3  Rayo Vallecano
+         Real Oviedo              1-0  CD Castellón
+         Cartagena FC             0-0  CE Sabadell
+         Linares CF               0-0  RCD Mallorca
+
+
+Matchday 13
+[Sun Nov/28]
+         Barcelona Atlètic        2-1  Cádiz CF
+         CD Castellón             3-3  Córdoba CF
+         CE Sabadell              1-1  Hércules CF
+         RCD Mallorca             2-2  CD Alavés
+         Real Murcia              7-0  Recreativo Huelva
+         Rayo Vallecano           2-1  Cartagena FC
+         Atlético Madrileño       2-0  Xerez CD
+         Elche CF                 2-0  Linares CF
+         CF Palencia              4-0  Real Oviedo
+         Deportivo La Coruña      2-1  Castilla CF
+
+
+Matchday 14
+[Sun Dec/5]
+         Castilla CF              1-1  Barcelona Atlètic
+         Cádiz CF                 1-0  CE Sabadell
+         Hércules CF              3-2  Rayo Vallecano
+         CD Alavés                2-0  Elche CF
+         Xerez CD                 0-0  Deportivo La Coruña
+         Recreativo Huelva        0-2  Atlético Madrileño
+         Córdoba CF               1-3  CF Palencia
+         Real Oviedo              0-0  RCD Mallorca
+         Cartagena FC             2-0  CD Castellón
+         Linares CF               1-3  Real Murcia
+
+
+Matchday 15
+[Sun Dec/12]
+         CD Castellón             2-2  Hércules CF
+         CE Sabadell              2-1  Castilla CF
+         RCD Mallorca             2-0  Córdoba CF
+         Real Murcia              4-0  CD Alavés
+         Rayo Vallecano           3-1  Cádiz CF
+         Atlético Madrileño       0-1  Linares CF
+         Elche CF                 4-0  Real Oviedo
+         Xerez CD                 2-0  Recreativo Huelva
+         CF Palencia              1-0  Cartagena FC
+         Deportivo La Coruña      1-0  Barcelona Atlètic
+
+
+Matchday 16
+[Sun Dec/19]
+         Castilla CF              4-1  Rayo Vallecano
+         Barcelona Atlètic        4-1  CE Sabadell
+         Cádiz CF                 1-2  CD Castellón
+         Hércules CF              1-1  CF Palencia
+         CD Alavés                0-2  Atlético Madrileño
+         Recreativo Huelva        1-1  Deportivo La Coruña
+         Córdoba CF               1-1  Elche CF
+         Real Oviedo              1-0  Real Murcia
+         Cartagena FC             1-2  RCD Mallorca
+         Linares CF               2-0  Xerez CD
+
+
+Matchday 17
+[Sun Dec/26]
+         CD Castellón             0-1  Castilla CF
+         RCD Mallorca             0-0  Hércules CF
+         Real Murcia              1-0  Córdoba CF
+         Rayo Vallecano           1-4  Barcelona Atlètic
+         Atlético Madrileño       1-1  Real Oviedo
+         Elche CF                 2-1  Cartagena FC
+         Xerez CD                 3-1  CD Alavés
+         Recreativo Huelva        2-0  Linares CF
+         CF Palencia              0-2  Cádiz CF
+         Deportivo La Coruña      3-1  CE Sabadell
+
+
+Matchday 18
+[Sun Jan/2]
+         Castilla CF              3-1  CF Palencia
+         Barcelona Atlètic        3-0  CD Castellón
+         CE Sabadell              1-1  Rayo Vallecano
+         Cádiz CF                 1-1  RCD Mallorca
+         Hércules CF              1-0  Elche CF
+         CD Alavés                2-1  Recreativo Huelva
+         Córdoba CF               3-1  Atlético Madrileño
+         Real Oviedo              4-0  Xerez CD
+         Cartagena FC             2-2  Real Murcia
+         Deportivo La Coruña      2-0  Linares CF
+
+
+Matchday 19
+[Sun Jan/9]
+         CD Castellón             2-0  CE Sabadell
+         RCD Mallorca             3-0  Castilla CF
+         Real Murcia              2-0  Hércules CF
+         Rayo Vallecano           1-2  Deportivo La Coruña
+         Atlético Madrileño       1-0  Cartagena FC
+         Elche CF                 0-0  Cádiz CF
+         Xerez CD                 0-0  Córdoba CF
+         Recreativo Huelva        1-0  Real Oviedo
+         Linares CF               2-2  CD Alavés
+         CF Palencia              2-1  Barcelona Atlètic
+
+
+Matchday 20
+[Sun Jan/16]
+         CD Castellón             0-0  Rayo Vallecano
+         RCD Mallorca             2-1  Barcelona Atlètic
+         Real Murcia              0-1  Cádiz CF
+         CD Alavés                2-1  Deportivo La Coruña
+         Atlético Madrileño       2-3  Hércules CF
+         Elche CF                 0-2  Castilla CF
+         Xerez CD                 1-0  Cartagena FC
+         Recreativo Huelva        5-0  Córdoba CF
+         Linares CF               2-1  Real Oviedo
+         CF Palencia              2-0  CE Sabadell
+
+
+Matchday 21
+[Sun Jan/23]
+         Castilla CF              3-3  Real Murcia
+         Barcelona Atlètic        1-1  Elche CF
+         CE Sabadell              1-2  RCD Mallorca
+         Cádiz CF                 2-1  Atlético Madrileño
+         Hércules CF              1-1  Xerez CD
+         Rayo Vallecano           2-0  CF Palencia
+         Córdoba CF               1-1  Linares CF
+         Real Oviedo              1-1  CD Alavés
+         Cartagena FC             1-1  Recreativo Huelva
+         Deportivo La Coruña      5-1  CD Castellón
+
+
+Matchday 22
+[Sun Jan/30]
+         RCD Mallorca             2-1  Rayo Vallecano
+         Real Murcia              3-0  Barcelona Atlètic
+         CD Alavés                3-0  Córdoba CF
+         Atlético Madrileño       1-1  Castilla CF
+         Elche CF                 2-0  CE Sabadell
+         Xerez CD                 2-2  Cádiz CF
+         Recreativo Huelva        1-1  Hércules CF
+         Real Oviedo              1-0  Deportivo La Coruña
+         Linares CF               1-1  Cartagena FC
+         CF Palencia              1-1  CD Castellón
+
+
+Matchday 23
+[Sun Feb/6]
+         Castilla CF              2-0  Xerez CD
+         Barcelona Atlètic        0-1  Atlético Madrileño
+         CD Castellón             2-1  RCD Mallorca
+         CE Sabadell              0-2  Real Murcia
+         Cádiz CF                 2-1  Recreativo Huelva
+         Hércules CF              2-0  Linares CF
+         Rayo Vallecano           1-0  Elche CF
+         Córdoba CF               1-0  Real Oviedo
+         Cartagena FC             0-0  CD Alavés
+         Deportivo La Coruña      0-2  CF Palencia
+
+
+Matchday 24
+[Sun Feb/13]
+         RCD Mallorca             1-0  CF Palencia
+         Real Murcia              1-1  Rayo Vallecano
+         CD Alavés                1-1  Hércules CF
+         Atlético Madrileño       3-0  CE Sabadell
+         Elche CF                 4-1  CD Castellón
+         Xerez CD                 2-1  Barcelona Atlètic
+         Recreativo Huelva        0-0  Castilla CF
+         Córdoba CF               0-4  Deportivo La Coruña
+         Real Oviedo              0-0  Cartagena FC
+         Linares CF               1-1  Cádiz CF
+
+
+Matchday 25
+[Sun Feb/20]
+         Castilla CF              2-0  Linares CF
+         Barcelona Atlètic        4-1  Recreativo Huelva
+         CD Castellón             2-1  Real Murcia
+         CE Sabadell              0-1  Xerez CD
+         Cádiz CF                 4-0  CD Alavés
+         Hércules CF              3-0  Real Oviedo
+         Rayo Vallecano           1-2  Atlético Madrileño
+         Cartagena FC             1-0  Córdoba CF
+         CF Palencia              1-0  Elche CF
+         Deportivo La Coruña      3-1  RCD Mallorca
+
+
+Matchday 26
+[Sun Feb/27]
+         Real Murcia              1-0  CF Palencia
+         CD Alavés                2-2  Castilla CF
+         Atlético Madrileño       1-2  CD Castellón
+         Elche CF                 1-1  RCD Mallorca
+         Xerez CD                 3-2  Rayo Vallecano
+         Recreativo Huelva        2-2  CE Sabadell
+         Córdoba CF               0-2  Hércules CF
+         Real Oviedo              1-1  Cádiz CF
+         Cartagena FC             1-1  Deportivo La Coruña
+         Linares CF               0-0  Barcelona Atlètic
+
+
+Matchday 27
+[Sun Mar/6]
+         Castilla CF              2-0  Real Oviedo
+         Barcelona Atlètic        1-1  CD Alavés
+         CD Castellón             2-0  Xerez CD
+         CE Sabadell              0-0  Linares CF
+         RCD Mallorca             0-0  Real Murcia
+         Cádiz CF                 3-1  Córdoba CF
+         Hércules CF              2-1  Cartagena FC
+         Rayo Vallecano           1-0  Recreativo Huelva
+         CF Palencia              1-1  Atlético Madrileño
+         Deportivo La Coruña      1-0  Elche CF
+
+
+Matchday 28
+[Sun Mar/13]
+         Hércules CF              2-0  Deportivo La Coruña
+         Real Murcia              2-0  Elche CF
+         CD Alavés                1-3  CE Sabadell
+         Atlético Madrileño       1-2  RCD Mallorca
+         Xerez CD                 0-1  CF Palencia
+         Recreativo Huelva        5-3  CD Castellón
+         Córdoba CF               1-2  Castilla CF
+         Real Oviedo              2-1  Barcelona Atlètic
+         Cartagena FC             4-3  Cádiz CF
+         Linares CF               0-0  Rayo Vallecano
+
+
+Matchday 29
+[Sun Mar/20]
+         Castilla CF              2-1  Cartagena FC
+         Barcelona Atlètic        0-0  Córdoba CF
+         CD Castellón             2-1  Linares CF
+         CE Sabadell              1-2  Real Oviedo
+         RCD Mallorca             3-0  Xerez CD
+         Cádiz CF                 0-0  Hércules CF
+         Rayo Vallecano           1-2  CD Alavés
+         Elche CF                 1-3  Atlético Madrileño
+         CF Palencia              0-0  Recreativo Huelva
+         Deportivo La Coruña      0-1  Real Murcia
+
+
+Matchday 30
+[Sun Mar/27]
+         Cádiz CF                 1-0  Deportivo La Coruña
+         Hércules CF              0-2  Castilla CF
+         CD Alavés                1-1  CD Castellón
+         Atlético Madrileño       3-3  Real Murcia
+         Xerez CD                 1-2  Elche CF
+         Recreativo Huelva        2-2  RCD Mallorca
+         Córdoba CF               2-1  CE Sabadell
+         Real Oviedo              2-0  Rayo Vallecano
+         Cartagena FC             0-1  Barcelona Atlètic
+         Linares CF               2-0  CF Palencia
+
+
+Matchday 31
+[Sun Apr/3]
+         Castilla CF              0-0  Cádiz CF
+         Barcelona Atlètic        1-2  Hércules CF
+         CD Castellón             1-0  Real Oviedo
+         CE Sabadell              0-1  Cartagena FC
+         RCD Mallorca             2-0  Linares CF
+         Real Murcia              1-0  Xerez CD
+         Rayo Vallecano           2-1  Córdoba CF
+         Elche CF                 2-1  Recreativo Huelva
+         CF Palencia              1-1  CD Alavés
+         Deportivo La Coruña      3-1  Atlético Madrileño
+
+
+Matchday 32
+[Sun Apr/10]
+         Castilla CF              1-1  Deportivo La Coruña
+         Cádiz CF                 2-1  Barcelona Atlètic
+         Hércules CF              2-1  CE Sabadell
+         CD Alavés                0-1  RCD Mallorca
+         Xerez CD                 0-0  Atlético Madrileño
+         Recreativo Huelva        0-0  Real Murcia
+         Córdoba CF               0-0  CD Castellón
+         Real Oviedo              0-0  CF Palencia
+         Cartagena FC             1-1  Rayo Vallecano
+         Linares CF               1-0  Elche CF
+
+
+Matchday 33
+[Sun Apr/17]
+         Barcelona Atlètic        2-0  Castilla CF
+         CD Castellón             2-2  Cartagena FC
+         CE Sabadell              1-0  Cádiz CF
+         RCD Mallorca             3-0  Real Oviedo
+         Real Murcia              1-1  Linares CF
+         Rayo Vallecano           4-3  Hércules CF
+         Atlético Madrileño       1-2  Recreativo Huelva
+         Elche CF                 1-0  CD Alavés
+         CF Palencia              4-0  Córdoba CF
+         Deportivo La Coruña      2-0  Xerez CD
+
+
+Matchday 34
+[Sun Apr/24]
+         Castilla CF              1-0  CE Sabadell
+         Barcelona Atlètic        0-0  Deportivo La Coruña
+         Cádiz CF                 2-0  Rayo Vallecano
+         Hércules CF              0-0  CD Castellón
+         CD Alavés                1-2  Real Murcia
+         Recreativo Huelva        3-1  Xerez CD
+         Córdoba CF               0-3  RCD Mallorca
+         Real Oviedo              1-1  Elche CF
+         Cartagena FC             0-0  CF Palencia
+         Linares CF               1-2  Atlético Madrileño
+
+
+Matchday 35
+[Sun May/1]
+         CD Castellón             1-5  Cádiz CF
+         CE Sabadell              3-0  Barcelona Atlètic
+         RCD Mallorca             2-0  Cartagena FC
+         Real Murcia              4-2  Real Oviedo
+         Rayo Vallecano           3-1  Castilla CF
+         Atlético Madrileño       1-1  CD Alavés
+         Elche CF                 7-0  Córdoba CF
+         Xerez CD                 0-1  Linares CF
+         CF Palencia              2-0  Hércules CF
+         Deportivo La Coruña      3-1  Recreativo Huelva
+
+
+Matchday 36
+[Sun May/8]
+         Castilla CF              1-1  CD Castellón
+         Barcelona Atlètic        1-0  Rayo Vallecano
+         CE Sabadell              1-2  Deportivo La Coruña
+         Cádiz CF                 1-0  CF Palencia
+         Hércules CF              1-0  RCD Mallorca
+         CD Alavés                2-2  Xerez CD
+         Córdoba CF               0-2  Real Murcia
+         Real Oviedo              0-0  Atlético Madrileño
+         Cartagena FC             5-3  Elche CF
+         Linares CF               1-2  Recreativo Huelva
+
+
+Matchday 37
+[Sun May/15]
+         CD Castellón             1-0  Barcelona Atlètic
+         RCD Mallorca             1-2  Cádiz CF
+         Real Murcia              2-0  Cartagena FC
+         Rayo Vallecano           2-2  CE Sabadell
+         Atlético Madrileño       0-2  Córdoba CF
+         Elche CF                 2-1  Hércules CF
+         Xerez CD                 2-0  Real Oviedo
+         Recreativo Huelva        1-0  CD Alavés
+         Linares CF               0-0  Deportivo La Coruña
+         CF Palencia              1-0  Castilla CF
+
+
+Matchday 38
+[Sun May/22]
+         Castilla CF              1-0  RCD Mallorca
+         Barcelona Atlètic        2-0  CF Palencia
+         CE Sabadell              5-2  CD Castellón
+         Cádiz CF                 3-1  Elche CF
+         Hércules CF              1-0  Real Murcia
+         CD Alavés                0-0  Linares CF
+         Córdoba CF               1-0  Xerez CD
+         Real Oviedo              1-1  Recreativo Huelva
+         Cartagena FC             3-1  Atlético Madrileño
+         Deportivo La Coruña      1-2  Rayo Vallecano

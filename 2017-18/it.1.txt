@@ -1,0 +1,605 @@
+= IT 1 2017/18
+
+# Date       Sat Aug/19 2017 - Sun May/20 2018 (274d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sat Aug/19]
+  20.45  Hellas Verona            1-3 (0-2)  SSC Napoli
+  18.00  Juventus                 3-0 (2-0)  Cagliari Calcio
+[Sun Aug/20]
+  18.00  Atalanta                 0-1 (0-1)  AS Roma
+  20.45  Bologna FC               1-1 (1-1)  Torino FC
+         FC Crotone               0-3 (0-3)  AC Milan
+         Inter                    3-0 (2-0)  ACF Fiorentina
+         Lazio Roma               0-0  SPAL 2013 Ferrara
+         Sampdoria                2-1 (1-1)  Benevento Calcio
+         Sassuolo Calcio          0-0  Genoa CFC
+         Udinese Calcio           1-2 (1-1)  Chievo Verona
+
+
+Matchday 2
+[Sat Aug/26]
+  18.00  Benevento Calcio         0-1 (0-0)  Bologna FC
+         Genoa CFC                2-4 (2-2)  Juventus
+  20.45  AS Roma                  1-3 (1-0)  Inter
+[Sun Aug/27]
+  20.45  Chievo Verona            1-2 (1-1)  Lazio Roma
+         FC Crotone               0-0  Hellas Verona
+         ACF Fiorentina           1-2 (0-2)  Sampdoria
+         AC Milan                 2-1 (1-0)  Cagliari Calcio
+         SSC Napoli               3-1 (0-1)  Atalanta
+         SPAL 2013 Ferrara        3-2 (1-0)  Udinese Calcio
+  18.00  Torino FC                3-0 (1-0)  Sassuolo Calcio
+
+
+Matchday 3
+[Sat Sep/9]
+  18.00  Juventus                 3-0 (1-0)  Chievo Verona
+[Sun Sep/10]
+  15.00  Atalanta                 2-1 (1-1)  Sassuolo Calcio
+         Cagliari Calcio          1-0 (1-0)  FC Crotone
+         Hellas Verona            0-5 (0-3)  ACF Fiorentina
+         Udinese Calcio           1-0 (1-0)  Genoa CFC
+  16.00  Lazio Roma               4-1 (2-0)  AC Milan
+  18.00  Benevento Calcio         0-1 (0-0)  Torino FC
+  20.45  Bologna FC               0-3 (0-0)  SSC Napoli
+  12.30  Inter                    2-0 (1-0)  SPAL 2013 Ferrara
+
+
+Matchday 4
+[Sat Sep/16]
+  20.45  AS Roma                  3-0 (2-0)  Hellas Verona
+  15.00  FC Crotone               0-2 (0-0)  Inter
+  18.00  ACF Fiorentina           2-1 (0-0)  Bologna FC
+[Sun Sep/17]
+  12.30  Sassuolo Calcio          1-3 (0-1)  Juventus
+  15.00  AC Milan                 2-1 (2-1)  Udinese Calcio
+         SSC Napoli               6-0 (4-0)  Benevento Calcio
+  20.45  Genoa CFC                2-3 (0-1)  Lazio Roma
+  15.00  Torino FC                2-2 (2-2)  Sampdoria
+  18.00  Chievo Verona            1-1 (0-0)  Atalanta
+  15.00  SPAL 2013 Ferrara        0-2 (0-1)  Cagliari Calcio
+
+
+Matchday 5
+[Tue Sep/19]
+  20.45  Bologna FC               1-1 (1-0)  Inter
+[Wed Sep/20]
+  20.45  Udinese Calcio           2-3 (0-2)  Torino FC
+  18.00  Benevento Calcio         0-4 (0-2)  AS Roma
+  20.45  Atalanta                 5-1 (3-0)  FC Crotone
+         Cagliari Calcio          0-1 (0-0)  Sassuolo Calcio
+         Genoa CFC                1-1 (0-0)  Chievo Verona
+         Hellas Verona            0-0  Sampdoria
+         Juventus                 1-0 (0-0)  ACF Fiorentina
+         Lazio Roma               1-4 (1-0)  SSC Napoli
+         AC Milan                 2-0 (1-0)  SPAL 2013 Ferrara
+
+
+Matchday 6
+[Sat Sep/23]
+  15.00  AS Roma                  3-1 (3-0)  Udinese Calcio
+  18.00  SPAL 2013 Ferrara        2-3 (1-1)  SSC Napoli
+  20.45  Juventus                 4-0 (2-0)  Torino FC
+[Sun Sep/24]
+  20.45  ACF Fiorentina           1-1 (1-0)  Atalanta
+  12.30  Sampdoria                2-0 (0-0)  AC Milan
+  15.00  Cagliari Calcio          0-2 (0-0)  Chievo Verona
+         FC Crotone               2-0 (1-0)  Benevento Calcio
+         Hellas Verona            0-3 (0-2)  Lazio Roma
+         Inter                    1-0 (0-0)  Genoa CFC
+  18.00  Sassuolo Calcio          0-1 (0-0)  Bologna FC
+
+
+Matchday 7
+[Sat Sep/30]
+  18.00  Udinese Calcio           4-0 (1-0)  Sampdoria
+  20.45  Genoa CFC                0-1 (0-0)  Bologna FC
+[Sun Oct/1]
+  20.45  Atalanta                 2-2 (1-2)  Juventus
+  12.30  SSC Napoli               3-0 (2-0)  Cagliari Calcio
+  15.00  Benevento Calcio         1-2 (1-2)  Inter
+         Chievo Verona            2-1 (1-1)  ACF Fiorentina
+         Lazio Roma               6-1 (1-1)  Sassuolo Calcio
+         SPAL 2013 Ferrara        1-1 (1-0)  FC Crotone
+         Torino FC                2-2 (2-0)  Hellas Verona
+  18.00  AC Milan                 0-2 (0-0)  AS Roma
+
+
+Matchday 8
+[Sat Oct/14]
+  18.00  Juventus                 1-2 (1-0)  Lazio Roma
+  20.45  AS Roma                  0-1 (0-1)  SSC Napoli
+[Sun Oct/15]
+  15.00  Sampdoria                3-1 (0-1)  Atalanta
+  12.30  ACF Fiorentina           2-1 (1-0)  Udinese Calcio
+  15.00  Bologna FC               2-1 (1-0)  SPAL 2013 Ferrara
+         Cagliari Calcio          2-3 (0-2)  Genoa CFC
+         FC Crotone               2-2 (1-0)  Torino FC
+  20.45  Inter                    3-2 (1-0)  AC Milan
+  15.00  Sassuolo Calcio          0-0  Chievo Verona
+[Mon Oct/16]
+  20.45  Hellas Verona            1-0 (0-0)  Benevento Calcio
+
+
+Matchday 9
+[Sat Oct/21]
+  18.00  Sampdoria                5-0 (3-0)  FC Crotone
+  20.45  SSC Napoli               0-0  Inter
+[Sun Oct/22]
+  20.45  Lazio Roma               3-0 (2-0)  Cagliari Calcio
+  12.30  Chievo Verona            3-2 (2-1)  Hellas Verona
+  15.00  Atalanta                 1-0 (0-0)  Bologna FC
+         Benevento Calcio         0-3 (0-1)  ACF Fiorentina
+         AC Milan                 0-0  Genoa CFC
+         SPAL 2013 Ferrara        0-1 (0-1)  Sassuolo Calcio
+         Torino FC                0-1 (0-0)  AS Roma
+  18.00  Udinese Calcio           2-6 (1-2)  Juventus
+
+
+Matchday 10
+[Tue Oct/24]
+  20.45  Inter                    3-2 (2-0)  Sampdoria
+[Wed Oct/25]
+  20.45  Sassuolo Calcio          0-1 (0-1)  Udinese Calcio
+  18.30  Atalanta                 3-0 (0-0)  Hellas Verona
+  20.45  Bologna FC               1-2 (0-2)  Lazio Roma
+         Cagliari Calcio          2-1 (1-0)  Benevento Calcio
+         Chievo Verona            1-4 (0-2)  AC Milan
+         ACF Fiorentina           3-0 (1-0)  Torino FC
+         Genoa CFC                2-3 (1-2)  SSC Napoli
+         Juventus                 4-1 (2-1)  SPAL 2013 Ferrara
+         AS Roma                  1-0 (1-0)  FC Crotone
+
+
+Matchday 11
+[Sat Oct/28]
+  18.00  AC Milan                 0-2 (0-1)  Juventus
+  20.45  AS Roma                  1-0 (1-0)  Bologna FC
+[Sun Oct/29]
+  20.45  Torino FC                2-1 (1-1)  Cagliari Calcio
+  12.30  Benevento Calcio         1-5 (0-3)  Lazio Roma
+  15.00  FC Crotone               2-1 (2-1)  ACF Fiorentina
+         SSC Napoli               3-1 (2-1)  Sassuolo Calcio
+         Sampdoria                4-1 (3-1)  Chievo Verona
+         SPAL 2013 Ferrara        1-0 (0-0)  Genoa CFC
+         Udinese Calcio           2-1 (1-1)  Atalanta
+[Mon Oct/30]
+  20.45  Hellas Verona            1-2 (0-1)  Inter
+
+
+Matchday 12
+[Sat Nov/4]
+  18.00  Bologna FC               2-3 (2-1)  FC Crotone
+  20.45  Genoa CFC                0-2 (0-1)  Sampdoria
+[Sun Nov/5]
+  20.45  Sassuolo Calcio          0-2 (0-1)  AC Milan
+  12.30  Inter                    1-1 (0-0)  Torino FC
+  15.00  Cagliari Calcio          2-1 (1-1)  Hellas Verona
+         Chievo Verona            0-0  SSC Napoli
+         ACF Fiorentina           2-4 (2-2)  AS Roma
+         Juventus                 2-1 (0-1)  Benevento Calcio
+  18.00  Atalanta                 1-1 (1-0)  SPAL 2013 Ferrara
+
+
+Matchday 13
+[Sat Nov/18]
+  20.45  SSC Napoli               2-1 (1-0)  AC Milan
+  18.00  AS Roma                  2-1 (0-0)  Lazio Roma
+[Sun Nov/19]
+  20.45  Inter                    2-0 (0-0)  Atalanta
+  12.30  FC Crotone               0-1 (0-1)  Genoa CFC
+  15.00  Benevento Calcio         1-2 (0-0)  Sassuolo Calcio
+         Sampdoria                3-2 (0-0)  Juventus
+         SPAL 2013 Ferrara        1-1 (1-0)  ACF Fiorentina
+         Torino FC                1-1 (1-1)  Chievo Verona
+         Udinese Calcio           0-1 (0-0)  Cagliari Calcio
+[Mon Nov/20]
+  20.45  Hellas Verona            2-3 (2-1)  Bologna FC
+
+
+Matchday 14
+[Sat Nov/25]
+  18.00  Sassuolo Calcio          0-2 (0-2)  Hellas Verona
+  15.00  Bologna FC               3-0 (2-0)  Sampdoria
+  18.00  Chievo Verona            2-1 (0-1)  SPAL 2013 Ferrara
+  20.45  Cagliari Calcio          1-3 (0-1)  Inter
+[Sun Nov/26]
+  18.00  Lazio Roma               1-1 (1-0)  ACF Fiorentina
+  20.45  Juventus                 3-0 (0-0)  FC Crotone
+  15.00  Genoa CFC                1-1 (0-0)  AS Roma
+         AC Milan                 0-0  Torino FC
+         Udinese Calcio           0-1 (0-1)  SSC Napoli
+[Mon Nov/27]
+  20.45  Atalanta                 1-0 (0-0)  Benevento Calcio
+
+
+Matchday 15
+[Fri Dec/1]
+  20.45  SSC Napoli               0-1 (0-1)  Juventus
+  18.30  AS Roma                  3-1 (2-0)  SPAL 2013 Ferrara
+[Sat Dec/2]
+  20.45  Torino FC                1-1 (1-0)  Atalanta
+[Sun Dec/3]
+  20.45  Sampdoria                1-2 (0-0)  Lazio Roma
+  15.00  Bologna FC               1-1 (0-1)  Cagliari Calcio
+  12.30  Benevento Calcio         2-2 (0-1)  AC Milan
+  15.00  Inter                    5-0 (2-0)  Chievo Verona
+         ACF Fiorentina           3-0 (2-0)  Sassuolo Calcio
+[Mon Dec/4]
+  19.00  FC Crotone               0-3 (0-1)  Udinese Calcio
+  21.00  Hellas Verona            0-1 (0-1)  Genoa CFC
+
+
+Matchday 16
+[Sat Dec/9]
+  18.00  Cagliari Calcio          2-2 (0-2)  Sampdoria
+  20.45  Juventus                 0-0  Inter
+[Sun Dec/10]
+  20.45  AC Milan                 2-1 (1-1)  Bologna FC
+  15.00  SPAL 2013 Ferrara        2-2 (0-0)  Hellas Verona
+  12.30  Chievo Verona            0-0  AS Roma
+  15.00  SSC Napoli               0-0  ACF Fiorentina
+  18.00  Sassuolo Calcio          2-1 (0-0)  FC Crotone
+  15.00  Udinese Calcio           2-0 (2-0)  Benevento Calcio
+[Mon Dec/11]
+  21.00  Lazio Roma               1-3 (0-0)  Torino FC
+[Tue Dec/12]
+  19.00  Genoa CFC                1-2 (1-1)  Atalanta
+
+
+Matchday 17
+[Sat Dec/16]
+  15.00  Inter                    1-3 (1-1)  Udinese Calcio
+  20.45  AS Roma                  1-0 (0-0)  Cagliari Calcio
+  18.00  Torino FC                1-3 (0-3)  SSC Napoli
+[Sun Dec/17]
+  20.45  Atalanta                 3-3 (2-2)  Lazio Roma
+  12.30  Hellas Verona            3-0 (1-0)  AC Milan
+  18.00  Benevento Calcio         1-2 (0-0)  SPAL 2013 Ferrara
+  15.00  Bologna FC               0-3 (0-2)  Juventus
+         FC Crotone               1-0 (1-0)  Chievo Verona
+         ACF Fiorentina           0-0  Genoa CFC
+         Sampdoria                0-1 (0-0)  Sassuolo Calcio
+
+
+Matchday 18
+[Fri Dec/22]
+  18.00  Chievo Verona            2-3 (1-1)  Bologna FC
+  20.45  Cagliari Calcio          0-1 (0-0)  ACF Fiorentina
+[Sat Dec/23]
+  20.45  Juventus                 1-0 (1-0)  AS Roma
+  15.00  Genoa CFC                1-0 (0-0)  Benevento Calcio
+  12.30  Lazio Roma               4-0 (0-0)  FC Crotone
+  18.00  AC Milan                 0-2 (0-1)  Atalanta
+  15.00  SSC Napoli               3-2 (3-2)  Sampdoria
+         Sassuolo Calcio          1-0 (1-0)  Inter
+         SPAL 2013 Ferrara        2-2 (1-2)  Torino FC
+         Udinese Calcio           4-0 (2-0)  Hellas Verona
+
+
+Matchday 19
+[Fri Dec/29]
+  20.45  FC Crotone               0-1 (0-1)  SSC Napoli
+[Sat Dec/30]
+  20.45  Hellas Verona            1-3 (0-1)  Juventus
+  18.00  Inter                    0-0  Lazio Roma
+  12.30  ACF Fiorentina           1-1 (0-0)  AC Milan
+  15.00  Atalanta                 1-2 (0-2)  Cagliari Calcio
+         Benevento Calcio         1-0 (0-0)  Chievo Verona
+         Bologna FC               1-2 (1-1)  Udinese Calcio
+         AS Roma                  1-1 (1-0)  Sassuolo Calcio
+         Sampdoria                2-0 (0-0)  SPAL 2013 Ferrara
+         Torino FC                0-0  Genoa CFC
+
+
+Matchday 20
+[Fri Jan/5]
+  20.45  ACF Fiorentina           1-1 (0-0)  Inter
+  18.00  Chievo Verona            1-1 (1-1)  Udinese Calcio
+[Sat Jan/6]
+  15.00  SPAL 2013 Ferrara        2-5 (2-4)  Lazio Roma
+  18.00  AS Roma                  1-2 (0-2)  Atalanta
+  12.30  Torino FC                3-0 (1-0)  Bologna FC
+  15.00  AC Milan                 1-0 (0-0)  FC Crotone
+         SSC Napoli               2-0 (0-0)  Hellas Verona
+  20.45  Cagliari Calcio          0-1 (0-0)  Juventus
+  15.00  Benevento Calcio         3-2 (0-1)  Sampdoria
+         Genoa CFC                1-0 (0-0)  Sassuolo Calcio
+
+
+Matchday 21
+[Sun Jan/21]
+  15.00  Bologna FC               3-0 (1-0)  Benevento Calcio
+  20.45  Inter                    1-1 (0-1)  AS Roma
+  12.30  Atalanta                 0-1 (0-0)  SSC Napoli
+  18.00  Cagliari Calcio          1-2 (1-2)  AC Milan
+  15.00  Lazio Roma               5-1 (2-1)  Chievo Verona
+         Hellas Verona            0-3 (0-1)  FC Crotone
+         Sampdoria                3-1 (1-0)  ACF Fiorentina
+         Udinese Calcio           1-1 (1-0)  SPAL 2013 Ferrara
+         Sassuolo Calcio          1-1 (0-1)  Torino FC
+[Mon Jan/22]
+  20.45  Juventus                 1-0 (1-0)  Genoa CFC
+
+
+Matchday 3
+[Wed Jan/24]
+  20.45  Sampdoria                1-1 (1-0)  AS Roma
+
+
+Matchday 12
+[Wed Jan/24]
+  18.30  Lazio Roma               3-0 (1-0)  Udinese Calcio
+
+
+Matchday 22
+[Sat Jan/27]
+  20.45  Chievo Verona            0-2 (0-0)  Juventus
+  18.00  Sassuolo Calcio          0-3 (0-1)  Atalanta
+[Sun Jan/28]
+  12.30  SPAL 2013 Ferrara        1-1 (0-0)  Inter
+  15.00  Torino FC                3-0 (3-0)  Benevento Calcio
+         SSC Napoli               3-1 (2-1)  Bologna FC
+         FC Crotone               1-1 (1-1)  Cagliari Calcio
+         ACF Fiorentina           1-4 (0-2)  Hellas Verona
+         Genoa CFC                0-1 (0-0)  Udinese Calcio
+  18.00  AC Milan                 2-1 (2-1)  Lazio Roma
+  20.45  AS Roma                  0-1 (0-0)  Sampdoria
+
+
+Matchday 23
+[Sat Feb/3]
+  20.45  Inter                    1-1 (1-0)  FC Crotone
+  18.00  Sampdoria                1-1 (1-1)  Torino FC
+[Sun Feb/4]
+  12.30  Hellas Verona            0-1 (0-1)  AS Roma
+  15.00  Atalanta                 1-0 (0-0)  Chievo Verona
+         Bologna FC               1-2 (1-1)  ACF Fiorentina
+         Udinese Calcio           1-1 (0-1)  AC Milan
+         Juventus                 7-0 (4-0)  Sassuolo Calcio
+         Cagliari Calcio          2-0 (1-0)  SPAL 2013 Ferrara
+  20.45  Benevento Calcio         0-2 (0-1)  SSC Napoli
+[Mon Feb/5]
+  20.45  Lazio Roma               1-2 (0-0)  Genoa CFC
+
+
+Matchday 24
+[Fri Feb/9]
+  20.45  ACF Fiorentina           0-2 (0-0)  Juventus
+[Sat Feb/10]
+  18.00  FC Crotone               1-1 (0-0)  Atalanta
+  20.45  SSC Napoli               4-1 (1-1)  Lazio Roma
+  15.00  SPAL 2013 Ferrara        0-4 (0-1)  AC Milan
+[Sun Feb/11]
+  12.30  Sassuolo Calcio          0-0  Cagliari Calcio
+  15.00  Inter                    2-1 (1-1)  Bologna FC
+         Chievo Verona            0-1 (0-0)  Genoa CFC
+         Sampdoria                2-0 (0-0)  Hellas Verona
+         Torino FC                2-0 (1-0)  Udinese Calcio
+  20.45  AS Roma                  5-2 (1-1)  Benevento Calcio
+
+
+Matchday 25
+[Sat Feb/17]
+  18.00  Chievo Verona            2-1 (0-0)  Cagliari Calcio
+  20.45  Genoa CFC                2-0 (1-0)  Inter
+  15.00  Udinese Calcio           0-2 (0-0)  AS Roma
+[Sun Feb/18]
+  12.30  Torino FC                0-1 (0-1)  Juventus
+  15.00  Benevento Calcio         3-2 (1-1)  FC Crotone
+         Bologna FC               2-1 (1-1)  Sassuolo Calcio
+         SSC Napoli               1-0 (1-0)  SPAL 2013 Ferrara
+  18.00  Atalanta                 1-1 (1-1)  ACF Fiorentina
+  20.45  AC Milan                 1-0 (1-0)  Sampdoria
+[Mon Feb/19]
+  20.45  Lazio Roma               2-0 (0-0)  Hellas Verona
+
+
+Matchday 26
+[Sat Feb/24]
+  20.45  Inter                    2-0 (0-0)  Benevento Calcio
+  18.00  Bologna FC               2-0 (0-0)  Genoa CFC
+[Sun Feb/25]
+  12.30  FC Crotone               2-3 (0-1)  SPAL 2013 Ferrara
+  15.00  ACF Fiorentina           1-0 (1-0)  Chievo Verona
+         Sassuolo Calcio          0-3 (0-2)  Lazio Roma
+         Hellas Verona            2-1 (1-0)  Torino FC
+         Sampdoria                2-1 (1-0)  Udinese Calcio
+  20.45  AS Roma                  0-2 (0-0)  AC Milan
+[Mon Feb/26]
+  20.45  Cagliari Calcio          0-5 (0-2)  SSC Napoli
+
+
+Matchday 27
+[Sat Mar/3]
+  20.45  SSC Napoli               2-4 (1-2)  AS Roma
+  15.00  SPAL 2013 Ferrara        1-0 (0-0)  Bologna FC
+  18.00  Lazio Roma               0-1 (0-0)  Juventus
+
+
+Matchday 28
+[Fri Mar/9]
+  20.45  AS Roma                  3-0 (0-0)  Torino FC
+[Sat Mar/10]
+  20.45  Hellas Verona            1-0 (0-0)  Chievo Verona
+[Sun Mar/11]
+  15.00  Juventus                 2-0 (1-0)  Udinese Calcio
+  20.45  Inter                    0-0  SSC Napoli
+  15.00  FC Crotone               4-1 (3-0)  Sampdoria
+         Cagliari Calcio          2-2 (1-1)  Lazio Roma
+         Bologna FC               0-1 (0-0)  Atalanta
+         Sassuolo Calcio          1-1 (1-1)  SPAL 2013 Ferrara
+  18.00  Genoa CFC                0-1 (0-0)  AC Milan
+  12.30  ACF Fiorentina           1-0 (1-0)  Benevento Calcio
+
+
+Matchday 26
+[Wed Mar/14]
+  18.00  Juventus                 2-0 (1-0)  Atalanta
+
+
+Matchday 29
+[Sat Mar/17]
+  18.00  Udinese Calcio           1-2 (1-1)  Sassuolo Calcio
+  20.45  SPAL 2013 Ferrara        0-0  Juventus
+[Sun Mar/18]
+  15.00  Torino FC                1-2 (0-0)  ACF Fiorentina
+         FC Crotone               0-2 (0-1)  AS Roma
+  20.45  Lazio Roma               1-1 (1-1)  Bologna FC
+         SSC Napoli               1-0 (0-0)  Genoa CFC
+  15.00  AC Milan                 3-2 (1-2)  Chievo Verona
+         Benevento Calcio         1-2 (0-0)  Cagliari Calcio
+         Hellas Verona            0-5 (0-2)  Atalanta
+  12.30  Sampdoria                0-5 (0-4)  Inter
+
+
+Matchday 30
+[Sat Mar/31]
+  15.00  Inter                    3-0 (2-0)  Hellas Verona
+  18.00  Chievo Verona            2-1 (0-1)  Sampdoria
+         Sassuolo Calcio          1-1 (1-0)  SSC Napoli
+  15.00  Atalanta                 2-0 (0-0)  Udinese Calcio
+         Cagliari Calcio          0-4 (0-0)  Torino FC
+         Genoa CFC                1-1 (1-0)  SPAL 2013 Ferrara
+         ACF Fiorentina           2-0 (1-0)  FC Crotone
+  12.30  Bologna FC               1-1 (1-0)  AS Roma
+  15.00  Lazio Roma               6-2 (1-1)  Benevento Calcio
+  20.45  Juventus                 3-1 (1-1)  AC Milan
+
+
+Matchday 27
+[Tue Apr/3]
+  18.30  Udinese Calcio           0-2 (0-1)  ACF Fiorentina
+         Atalanta                 1-2 (0-1)  Sampdoria
+         Genoa CFC                2-1 (0-0)  Cagliari Calcio
+[Wed Apr/4]
+  18.30  Torino FC                4-1 (3-0)  FC Crotone
+         AC Milan                 0-0  Inter
+  17.00  Benevento Calcio         3-0 (1-0)  Hellas Verona
+  18.30  Chievo Verona            1-1 (0-0)  Sassuolo Calcio
+
+
+Matchday 31
+[Sat Apr/7]
+  18.00  SPAL 2013 Ferrara        1-1 (1-0)  Atalanta
+         AS Roma                  0-2 (0-2)  ACF Fiorentina
+  20.45  Sampdoria                0-0  Genoa CFC
+  15.00  Benevento Calcio         2-4 (1-2)  Juventus
+[Sun Apr/8]
+  12.30  Torino FC                1-0 (1-0)  Inter
+  15.00  FC Crotone               1-0 (1-0)  Bologna FC
+         Hellas Verona            1-0 (1-0)  Cagliari Calcio
+         SSC Napoli               2-1 (0-0)  Chievo Verona
+  18.00  Udinese Calcio           1-2 (1-2)  Lazio Roma
+  20.45  AC Milan                 1-1 (0-0)  Sassuolo Calcio
+
+
+Matchday 32
+[Sat Apr/14]
+  18.00  Genoa CFC                1-0 (1-0)  FC Crotone
+         Chievo Verona            0-0  Torino FC
+  20.45  Atalanta                 0-0  Inter
+  15.00  Cagliari Calcio          2-1 (1-1)  Udinese Calcio
+[Sun Apr/15]
+  12.30  ACF Fiorentina           0-0  SPAL 2013 Ferrara
+  15.00  Sassuolo Calcio          2-2 (1-1)  Benevento Calcio
+         Bologna FC               2-0 (1-0)  Hellas Verona
+         AC Milan                 0-0  SSC Napoli
+  18.00  Juventus                 3-0 (1-0)  Sampdoria
+  20.45  Lazio Roma               0-0  AS Roma
+
+
+Matchday 33
+[Tue Apr/17]
+  20.45  Inter                    4-0 (1-0)  Cagliari Calcio
+[Wed Apr/18]
+  18.00  Benevento Calcio         0-3 (0-1)  Atalanta
+  20.45  Sampdoria                1-0 (0-0)  Bologna FC
+         SPAL 2013 Ferrara        0-0  Chievo Verona
+         AS Roma                  2-1 (1-0)  Genoa CFC
+         FC Crotone               1-1 (0-1)  Juventus
+         ACF Fiorentina           3-4 (2-2)  Lazio Roma
+         Torino FC                1-1 (0-1)  AC Milan
+         Hellas Verona            0-1 (0-1)  Sassuolo Calcio
+         SSC Napoli               4-2 (1-1)  Udinese Calcio
+
+
+Matchday 34
+[Sat Apr/21]
+  15.00  SPAL 2013 Ferrara        0-3 (0-1)  AS Roma
+  18.00  Sassuolo Calcio          1-0 (1-0)  ACF Fiorentina
+  20.45  AC Milan                 0-1 (0-1)  Benevento Calcio
+[Sun Apr/22]
+  12.30  Cagliari Calcio          0-0  Bologna FC
+  15.00  Udinese Calcio           1-2 (1-1)  FC Crotone
+         Chievo Verona            1-2 (0-0)  Inter
+         Lazio Roma               4-0 (2-0)  Sampdoria
+         Atalanta                 2-1 (0-0)  Torino FC
+  20.45  Juventus                 0-1 (0-0)  SSC Napoli
+[Mon Apr/23]
+  20.45  Genoa CFC                3-1 (1-0)  Hellas Verona
+
+
+Matchday 35
+[Sat Apr/28]
+  20.45  Inter                    2-3 (0-1)  Juventus
+  18.00  AS Roma                  4-1 (2-0)  Chievo Verona
+[Sun Apr/29]
+  12.30  FC Crotone               4-1 (3-1)  Sassuolo Calcio
+  15.00  Sampdoria                4-1 (3-0)  Cagliari Calcio
+         Atalanta                 3-1 (2-0)  Genoa CFC
+         Bologna FC               1-2 (0-2)  AC Milan
+         Hellas Verona            1-3 (1-1)  SPAL 2013 Ferrara
+         Benevento Calcio         3-3 (1-1)  Udinese Calcio
+  18.00  ACF Fiorentina           3-0 (1-0)  SSC Napoli
+  20.45  Torino FC                0-1 (0-0)  Lazio Roma
+
+
+Matchday 36
+[Sat May/5]
+  20.45  Juventus                 3-1 (0-1)  Bologna FC
+  18.00  AC Milan                 4-1 (2-0)  Hellas Verona
+[Sun May/6]
+  12.30  Udinese Calcio           0-4 (0-3)  Inter
+  15.00  Lazio Roma               1-1 (1-1)  Atalanta
+         SPAL 2013 Ferrara        2-0 (1-0)  Benevento Calcio
+         Chievo Verona            2-1 (1-0)  FC Crotone
+         Genoa CFC                2-3 (0-1)  ACF Fiorentina
+         SSC Napoli               2-2 (1-0)  Torino FC
+  18.00  Sassuolo Calcio          1-0 (0-0)  Sampdoria
+  20.45  Cagliari Calcio          0-1 (0-1)  AS Roma
+
+
+Matchday 37
+[Sat May/12]
+  20.45  Inter                    1-2 (0-1)  Sassuolo Calcio
+  18.00  Benevento Calcio         1-0 (0-0)  Genoa CFC
+[Sun May/13]
+  15.00  ACF Fiorentina           0-1 (0-1)  Cagliari Calcio
+         Bologna FC               1-2 (1-0)  Chievo Verona
+         FC Crotone               2-2 (1-1)  Lazio Roma
+         Torino FC                2-1 (0-1)  SPAL 2013 Ferrara
+         Hellas Verona            0-1 (0-1)  Udinese Calcio
+  18.00  Atalanta                 1-1 (0-0)  AC Milan
+  20.45  AS Roma                  0-0  Juventus
+         Sampdoria                0-2 (0-0)  SSC Napoli
+
+
+Matchday 38
+[Sat May/19]
+  15.00  Juventus                 2-1 (0-0)  Hellas Verona
+[Sun May/20]
+  15.00  Genoa CFC                1-2 (0-1)  Torino FC
+  18.00  Cagliari Calcio          1-0 (0-0)  Atalanta
+         Chievo Verona            1-0 (0-0)  Benevento Calcio
+         Udinese Calcio           1-0 (1-0)  Bologna FC
+         SSC Napoli               2-1 (2-0)  FC Crotone
+         AC Milan                 5-1 (2-1)  ACF Fiorentina
+         SPAL 2013 Ferrara        3-1 (1-0)  Sampdoria
+  20.45  Lazio Roma               2-3 (2-1)  Inter
+         Sassuolo Calcio          0-1 (0-1)  AS Roma

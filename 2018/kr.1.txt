@@ -1,0 +1,442 @@
+= KR 1 2018
+
+# Date       Thu Mar/1 - Sun Dec/2 2018 (276d)
+# Teams      12
+# Matches    228
+# Stages     Regular Season (198)  Championship (15)  Relegation (15)
+
+
+# Regular Season
+
+Matchday 1
+[Thu Mar/1]
+  14.00  Jeonbuk FC               2-0 (0-0)  Ulsan Hyundai FC
+         Suwon Bluewings          1-2 (0-0)  Jeonnam Dragons
+  16.00  Jeju United              0-0  FC Seoul
+[Sat Mar/3]
+  14.00  Pohang Steelers          3-0 (1-0)  Daegu FC
+  16.00  Gangwon FC               2-1 (1-0)  Incheon United
+[Sun Mar/4]
+  14.00  Gyeongnam FC             3-1 (1-0)  Sangju Sangmu
+
+
+Matchday 2
+[Sat Mar/10]
+  14.00  Incheon United           3-2 (2-2)  Jeonbuk FC
+         Daegu FC                 0-2 (0-1)  Suwon Bluewings
+         Gyeongnam FC             2-0 (1-0)  Jeju United
+  16.00  Ulsan Hyundai FC         0-2 (0-1)  Sangju Sangmu
+[Sun Mar/11]
+  14.00  Jeonnam Dragons          2-3 (1-1)  Pohang Steelers
+  16.00  FC Seoul                 1-2 (1-0)  Gangwon FC
+
+
+Matchday 3
+[Sat Mar/17]
+  14.00  Incheon United           0-0  Daegu FC
+         Gangwon FC               2-1 (2-0)  Sangju Sangmu
+  16.00  Jeonnam Dragons          1-3 (0-2)  Gyeongnam FC
+[Sun Mar/18]
+  14.00  Jeonbuk FC               2-1 (0-0)  FC Seoul
+         Ulsan Hyundai FC         0-1 (0-0)  Jeju United
+  16.00  Suwon Bluewings          1-1 (0-0)  Pohang Steelers
+
+
+Matchday 4
+[Sat Mar/31]
+  14.00  Pohang Steelers          2-1 (1-0)  Ulsan Hyundai FC
+         Jeju United              0-1 (0-1)  Suwon Bluewings
+  16.00  Jeonbuk FC               1-0 (1-0)  Sangju Sangmu
+         Daegu FC                 1-1 (1-0)  Jeonnam Dragons
+[Sun Apr/1]
+  14.00  FC Seoul                 1-1 (0-0)  Incheon United
+  16.00  Gangwon FC               1-3 (0-1)  Gyeongnam FC
+
+
+Matchday 5
+[Sat Apr/7]
+  14.00  Incheon United           2-2 (1-1)  Jeonnam Dragons
+  16.00  Gyeongnam FC             1-1 (0-1)  Daegu FC
+[Sun Apr/8]
+  14.00  Suwon Bluewings          0-0  FC Seoul
+         Pohang Steelers          0-2 (0-0)  Jeonbuk FC
+  16.00  Ulsan Hyundai FC         3-1 (1-0)  Gangwon FC
+         Jeju United              0-0  Sangju Sangmu
+
+
+Matchday 6
+[Wed Apr/11]
+  19.30  FC Seoul                 2-1 (1-1)  Pohang Steelers
+         Gyeongnam FC             0-4 (0-3)  Jeonbuk FC
+         Daegu FC                 0-2 (0-0)  Ulsan Hyundai FC
+         Jeonnam Dragons          0-3 (0-1)  Jeju United
+         Incheon United           0-1 (0-0)  Sangju Sangmu
+  20.00  Gangwon FC               2-3 (1-1)  Suwon Bluewings
+
+
+Matchday 7
+[Sat Apr/14]
+  14.00  Ulsan Hyundai FC         1-0 (1-0)  FC Seoul
+         Suwon Bluewings          2-1 (2-0)  Sangju Sangmu
+  16.00  Jeonbuk FC               3-0 (0-0)  Jeonnam Dragons
+         Jeju United              4-2 (2-1)  Incheon United
+[Sun Apr/15]
+  14.00  Daegu FC                 2-1 (1-0)  Gangwon FC
+  16.00  Pohang Steelers          2-1 (1-0)  Gyeongnam FC
+
+
+Matchday 8
+[Sat Apr/21]
+  14.00  FC Seoul                 3-0 (1-0)  Daegu FC
+         Jeonnam Dragons          1-4 (0-3)  Gangwon FC
+  16.00  Pohang Steelers          0-2 (0-1)  Sangju Sangmu
+[Sun Apr/22]
+  14.00  Jeju United              0-1 (0-1)  Jeonbuk FC
+  16.00  Incheon United           2-3 (1-1)  Suwon Bluewings
+         Gyeongnam FC             0-0  Ulsan Hyundai FC
+
+
+Matchday 9
+[Wed Apr/25]
+  19.30  Jeonnam Dragons          2-1 (0-1)  FC Seoul
+         Ulsan Hyundai FC         2-1 (2-0)  Incheon United
+         Suwon Bluewings          3-1 (2-0)  Gyeongnam FC
+         Pohang Steelers          0-1 (0-0)  Jeju United
+         Daegu FC                 1-2 (0-0)  Sangju Sangmu
+  20.00  Gangwon FC               0-2 (0-1)  Jeonbuk FC
+
+
+Matchday 10
+[Sat Apr/28]
+  14.00  Daegu FC                 1-4 (1-1)  Jeju United
+  16.00  FC Seoul                 0-0  Sangju Sangmu
+         Ulsan Hyundai FC         1-1 (1-1)  Jeonnam Dragons
+[Sun Apr/29]
+  14.00  Jeonbuk FC               2-0 (1-0)  Suwon Bluewings
+  16.00  Gangwon FC               0-0  Pohang Steelers
+         Incheon United           2-3 (2-1)  Gyeongnam FC
+
+
+Matchday 11
+[Wed May/2]
+  19.00  Jeonbuk FC               2-1 (2-0)  Daegu FC
+  19.30  Suwon Bluewings          0-0  Ulsan Hyundai FC
+         Gyeongnam FC             0-0  FC Seoul
+         Pohang Steelers          0-0  Incheon United
+         Jeju United              3-5 (3-3)  Gangwon FC
+         Sangju Sangmu            1-1 (1-0)  Jeonnam Dragons
+
+
+Matchday 12
+[Sat May/5]
+  14.00  Ulsan Hyundai FC         2-1 (0-1)  Pohang Steelers
+         Jeonnam Dragons          0-0  Jeonbuk FC
+         Incheon United           1-2 (0-1)  Jeju United
+         Daegu FC                 0-2 (0-0)  Gyeongnam FC
+  16.00  FC Seoul                 2-1 (2-0)  Suwon Bluewings
+         Sangju Sangmu            3-0 (1-0)  Gangwon FC
+
+
+Matchday 13
+[Sat May/12]
+  14.00  Jeonbuk FC               0-3 (0-3)  Pohang Steelers
+         Gangwon FC               1-1 (0-1)  FC Seoul
+  16.00  Jeju United              1-0 (0-0)  Jeonnam Dragons
+[Sun May/13]
+  14.00  Sangju Sangmu            3-2 (3-0)  Incheon United
+  16.00  Suwon Bluewings          2-0 (1-0)  Daegu FC
+         Ulsan Hyundai FC         1-1 (1-0)  Gyeongnam FC
+
+
+Matchday 14
+[Sat May/19]
+  14.00  Gyeongnam FC             0-1 (0-0)  Gangwon FC
+  16.00  Jeonnam Dragons          1-1 (0-0)  Daegu FC
+[Sun May/20]
+  14.00  Incheon United           1-1 (0-0)  Ulsan Hyundai FC
+         Sangju Sangmu            0-0  Jeju United
+  16.00  FC Seoul                 0-4 (0-0)  Jeonbuk FC
+         Pohang Steelers          1-1 (0-0)  Suwon Bluewings
+
+
+Matchday 15
+[Sat Jul/7]
+  19.00  Jeonbuk FC               3-3 (2-3)  Incheon United
+         Suwon Bluewings          2-3 (0-1)  Jeju United
+         Gyeongnam FC             2-0 (1-0)  Pohang Steelers
+[Sun Jul/8]
+  18.00  Gangwon FC               1-1 (0-1)  Jeonnam Dragons
+  19.00  Daegu FC                 2-2 (2-2)  FC Seoul
+  19.30  Sangju Sangmu            2-3 (0-2)  Ulsan Hyundai FC
+
+
+Matchday 16
+[Wed Jul/11]
+  19.30  Ulsan Hyundai FC         0-2 (0-0)  Jeonbuk FC
+         Pohang Steelers          0-3 (0-2)  FC Seoul
+         Jeonnam Dragons          0-2 (0-0)  Suwon Bluewings
+         Jeju United              0-0  Gyeongnam FC
+         Incheon United           3-3 (2-0)  Gangwon FC
+         Sangju Sangmu            0-1 (0-0)  Daegu FC
+
+
+Matchday 17
+[Sat Jul/14]
+  19.00  Suwon Bluewings          0-3 (0-1)  Jeonbuk FC
+         Gyeongnam FC             3-0 (0-0)  Incheon United
+         Jeonnam Dragons          2-0 (0-0)  Sangju Sangmu
+[Sun Jul/15]
+  19.00  FC Seoul                 1-1 (1-1)  Ulsan Hyundai FC
+         Pohang Steelers          0-0  Gangwon FC
+         Jeju United              1-2 (1-0)  Daegu FC
+
+
+Matchday 18
+[Wed Jul/18]
+  19.00  Jeonbuk FC               1-0 (0-0)  Jeju United
+  19.30  FC Seoul                 2-1 (0-1)  Jeonnam Dragons
+         Suwon Bluewings          5-2 (2-0)  Incheon United
+         Daegu FC                 0-1 (0-0)  Pohang Steelers
+         Sangju Sangmu            0-1 (0-0)  Gyeongnam FC
+  20.00  Gangwon FC               3-3 (0-0)  Ulsan Hyundai FC
+
+
+Matchday 19
+[Sat Jul/21]
+  19.00  Pohang Steelers          3-1 (1-1)  Jeonnam Dragons
+         Gyeongnam FC             2-2 (1-1)  Suwon Bluewings
+  20.00  Gangwon FC               3-1 (1-1)  Jeju United
+[Sun Jul/22]
+  18.00  Incheon United           2-1 (1-1)  FC Seoul
+  19.00  Ulsan Hyundai FC         2-0 (1-0)  Daegu FC
+  19.30  Sangju Sangmu            0-2 (0-2)  Jeonbuk FC
+
+
+Matchday 20
+[Sat Jul/28]
+  19.00  FC Seoul                 2-3 (1-1)  Gyeongnam FC
+         Jeonnam Dragons          1-3 (1-1)  Incheon United
+  19.30  Sangju Sangmu            2-1 (2-1)  Pohang Steelers
+[Sun Jul/29]
+  19.00  Suwon Bluewings          2-0 (1-0)  Gangwon FC
+         Daegu FC                 1-3 (0-2)  Jeonbuk FC
+         Jeju United              1-1 (1-0)  Ulsan Hyundai FC
+
+
+Matchday 21
+[Sat Aug/4]
+  20.00  FC Seoul                 3-0 (1-0)  Jeju United
+         Incheon United           1-2 (0-0)  Pohang Steelers
+         Sangju Sangmu            1-1 (0-0)  Suwon Bluewings
+[Sun Aug/5]
+  20.00  Jeonbuk FC               0-1 (0-0)  Gyeongnam FC
+         Jeonnam Dragons          1-2 (0-1)  Ulsan Hyundai FC
+         Gangwon FC               1-3 (0-1)  Daegu FC
+
+
+Matchday 22
+[Sat Aug/11]
+  19.00  Jeonbuk FC               3-1 (1-0)  Gangwon FC
+         Jeju United              0-0  Pohang Steelers
+         Daegu FC                 2-1 (1-0)  Incheon United
+[Sun Aug/12]
+  19.00  Ulsan Hyundai FC         1-0 (0-0)  Suwon Bluewings
+         Gyeongnam FC             3-0 (1-0)  Jeonnam Dragons
+  19.30  Sangju Sangmu            1-2 (0-0)  FC Seoul
+
+
+Matchday 23
+[Wed Aug/15]
+  19.00  Suwon Bluewings          1-2 (1-0)  FC Seoul
+         Pohang Steelers          5-2 (2-0)  Jeonbuk FC
+         Jeju United              2-3 (0-0)  Daegu FC
+         Jeonnam Dragons          0-1 (0-0)  Gangwon FC
+  19.30  Gyeongnam FC             3-3 (0-2)  Ulsan Hyundai FC
+         Incheon United           0-0  Sangju Sangmu
+
+
+Matchday 24
+[Sat Aug/18]
+  19.00  Pohang Steelers          0-3 (0-1)  Gyeongnam FC
+         Daegu FC                 0-2 (0-0)  Ulsan Hyundai FC
+  19.30  Sangju Sangmu            1-1 (0-1)  Jeju United
+[Sun Aug/19]
+  19.00  FC Seoul                 0-2 (0-1)  Jeonbuk FC
+         Jeonnam Dragons          6-4 (2-3)  Suwon Bluewings
+         Gangwon FC               7-0 (3-0)  Incheon United
+
+
+Matchday 25
+[Wed Aug/22]
+  19.00  Jeonbuk FC               2-1 (0-1)  Daegu FC
+  19.30  FC Seoul                 0-1 (0-1)  Pohang Steelers
+         Ulsan Hyundai FC         4-1 (1-1)  Sangju Sangmu
+         Incheon United           3-1 (2-0)  Jeonnam Dragons
+         Gyeongnam FC             2-1 (0-1)  Gangwon FC
+[Sat Sep/8]
+  16.00  Jeju United              0-0  Suwon Bluewings
+
+
+Matchday 26
+[Sat Aug/25]
+  19.00  Ulsan Hyundai FC         4-1 (3-0)  FC Seoul
+         Suwon Bluewings          1-0 (0-0)  Gyeongnam FC
+         Jeju United              0-0  Incheon United
+  19.30  Sangju Sangmu            2-2 (0-2)  Jeonbuk FC
+[Sun Aug/26]
+  19.00  Jeonnam Dragons          3-2 (0-1)  Pohang Steelers
+         Daegu FC                 2-0 (0-0)  Gangwon FC
+
+
+Matchday 27
+[Sat Sep/1]
+  19.30  Sangju Sangmu            1-2 (0-1)  Jeonnam Dragons
+  20.00  Gangwon FC               0-0  FC Seoul
+[Sun Sep/2]
+  18.00  Pohang Steelers          2-2 (0-1)  Jeju United
+         Incheon United           3-2 (2-1)  Ulsan Hyundai FC
+  19.00  Gyeongnam FC             0-3 (0-2)  Jeonbuk FC
+         Daegu FC                 4-2 (3-1)  Suwon Bluewings
+
+
+Matchday 28
+[Sat Sep/15]
+  14.00  Jeonbuk FC               4-0 (1-0)  Jeju United
+         Ulsan Hyundai FC         2-0 (0-0)  Pohang Steelers
+  16.00  Incheon United           0-0  Suwon Bluewings
+[Sun Sep/16]
+  14.00  Jeonnam Dragons          3-3 (0-2)  Gyeongnam FC
+  16.00  FC Seoul                 0-2 (0-1)  Daegu FC
+         Gangwon FC               2-3 (1-1)  Sangju Sangmu
+
+
+Matchday 29
+[Sat Sep/22]
+  14.00  Gyeongnam FC             2-1 (0-1)  FC Seoul
+         Pohang Steelers          1-0 (1-0)  Incheon United
+  16.00  Sangju Sangmu            2-5 (0-3)  Daegu FC
+[Sun Sep/23]
+  14.00  Jeju United              2-2 (1-2)  Gangwon FC
+  16.00  Suwon Bluewings          0-0  Jeonbuk FC
+         Jeonnam Dragons          1-0 (0-0)  Ulsan Hyundai FC
+
+
+Matchday 30
+[Wed Sep/26]
+  14.00  Gangwon FC               1-0 (0-0)  Suwon Bluewings
+         Sangju Sangmu            1-2 (0-2)  Pohang Steelers
+         Daegu FC                 2-2 (0-1)  Gyeongnam FC
+  15.00  Ulsan Hyundai FC         3-2 (3-1)  Jeju United
+  16.00  FC Seoul                 1-1 (0-1)  Incheon United
+         Jeonbuk FC               1-0 (0-0)  Jeonnam Dragons
+
+
+Matchday 31
+[Sat Sep/29]
+  14.00  Suwon Bluewings          2-2 (0-1)  Ulsan Hyundai FC
+  16.00  Jeonbuk FC               3-2 (0-1)  Gangwon FC
+         Jeju United              1-0 (1-0)  Jeonnam Dragons
+[Sun Sep/30]
+  14.00  FC Seoul                 2-2 (1-0)  Sangju Sangmu
+  16.00  Pohang Steelers          2-1 (0-0)  Daegu FC
+         Incheon United           2-2 (0-1)  Gyeongnam FC
+
+
+Matchday 32
+[Sat Oct/6]
+  14.00  Gangwon FC               1-1 (1-0)  Pohang Steelers
+         Daegu FC                 1-2 (1-1)  Incheon United
+  16.00  Jeonnam Dragons          1-0 (0-0)  FC Seoul
+[Sun Oct/7]
+  14.00  Sangju Sangmu            1-2 (1-0)  Suwon Bluewings
+         Gyeongnam FC             0-1 (0-0)  Jeju United
+  16.00  Ulsan Hyundai FC         2-2 (0-0)  Jeonbuk FC
+
+
+Matchday 33
+[Sat Oct/20]
+  14.00  Jeonbuk FC               3-2 (1-2)  Incheon United
+         Suwon Bluewings          2-0 (0-0)  Pohang Steelers
+         Jeju United              1-0 (0-0)  FC Seoul
+         Ulsan Hyundai FC         2-0 (0-0)  Gangwon FC
+         Daegu FC                 2-1 (0-0)  Jeonnam Dragons
+         Gyeongnam FC             2-1 (1-0)  Sangju Sangmu
+
+
+== Championship
+
+Matchday 1
+[Sat Oct/27]
+  14.00  Pohang Steelers          1-2 (0-0)  Jeju United
+[Sun Oct/28]
+  16.00  Jeonbuk FC               2-0 (0-0)  Suwon Bluewings
+         Ulsan Hyundai FC         1-0 (0-0)  Gyeongnam FC
+
+
+Matchday 2
+[Sat Nov/3]
+  14.00  Jeju United              0-1 (0-1)  Gyeongnam FC
+[Sun Nov/4]
+  14.00  Jeonbuk FC               3-1 (3-0)  Ulsan Hyundai FC
+  16.00  Suwon Bluewings          1-3 (1-1)  Pohang Steelers
+
+
+Matchday 3
+[Sat Nov/10]
+  14.00  Suwon Bluewings          3-3 (0-2)  Ulsan Hyundai FC
+  16.00  Gyeongnam FC             1-2 (0-1)  Pohang Steelers
+         Jeju United              0-0  Jeonbuk FC
+
+
+Matchday 4
+[Sun Nov/25]
+  14.00  Gyeongnam FC             2-1 (1-0)  Suwon Bluewings
+         Ulsan Hyundai FC         0-1 (0-0)  Jeju United
+  16.00  Pohang Steelers          1-1 (0-0)  Jeonbuk FC
+
+
+Matchday 5
+[Sun Dec/2]
+  14.00  Jeonbuk FC               1-1 (1-0)  Gyeongnam FC
+         Suwon Bluewings          0-2 (0-2)  Jeju United
+         Pohang Steelers          1-3 (1-1)  Ulsan Hyundai FC
+
+
+== Relegation
+
+Matchday 1
+[Sat Oct/27]
+  16.00  FC Seoul                 1-1 (0-0)  Gangwon FC
+[Sun Oct/28]
+  14.00  Jeonnam Dragons          0-1 (0-0)  Sangju Sangmu
+         Incheon United           0-1 (0-1)  Daegu FC
+
+
+Matchday 2
+[Sat Nov/3]
+  16.00  Incheon United           2-1 (1-0)  Sangju Sangmu
+[Sun Nov/4]
+  14.00  Daegu FC                 1-1 (0-0)  FC Seoul
+  16.00  Gangwon FC               1-0 (1-0)  Jeonnam Dragons
+
+
+Matchday 3
+[Sat Nov/10]
+  14.00  Gangwon FC               2-3 (1-2)  Incheon United
+[Sun Nov/11]
+  14.00  FC Seoul                 3-2 (2-1)  Jeonnam Dragons
+         Daegu FC                 0-0  Sangju Sangmu
+
+
+Matchday 4
+[Sat Nov/24]
+  14.00  FC Seoul                 0-1 (0-1)  Incheon United
+  16.00  Sangju Sangmu            0-1 (0-1)  Gangwon FC
+         Jeonnam Dragons          1-2 (0-1)  Daegu FC
+
+
+Matchday 5
+[Sat Dec/1]
+  14.00  Gangwon FC               0-1 (0-1)  Daegu FC
+         Sangju Sangmu            1-0 (0-0)  FC Seoul
+         Incheon United           3-1 (2-1)  Jeonnam Dragons

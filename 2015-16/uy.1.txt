@@ -1,0 +1,418 @@
+= UY 1 2015/16
+
+# Date       Sat Aug/15 2015 - Sun Jun/12 2016 (302d)
+# Teams      16
+# Matches    241
+# Stages     Apertura (120)  Clausura (120)  Playoff (1)
+
+
+== Apertura
+
+Matchday 1
+[Sat Aug/15]
+  15.00  Plaza Colonia            1-2 (1-1)  Rentistas
+         River Plate              1-2 (0-1)  Fénix
+  18.00  Nacional                 4-1 (2-1)  Villa Teresa
+[Sun Aug/16]
+  15.00  Juventud de Las Piedras  0-2 (0-0)  Danubio
+         El Tanque Sisley         2-3 (1-0)  Racing
+         Montevideo Wanderers     1-1 (0-0)  Liverpool
+         CA Cerro                 0-3 (0-1)  Peñarol
+[Wed Sep/2]
+  19.00  Defensor Sporting        1-2 (0-1)  Sud América
+
+
+Matchday 2
+[Sat Aug/22]
+  15.00  Villa Teresa             2-3 (0-2)  Montevideo Wanderers
+         Peñarol                  2-2 (1-0)  El Tanque Sisley
+         Racing                   0-2 (0-1)  Defensor Sporting
+         Sud América              1-1 (0-0)  Fénix
+[Sun Aug/23]
+  15.00  Liverpool                1-2 (0-1)  Plaza Colonia
+         Danubio                  3-1 (1-0)  CA Cerro
+  18.00  Nacional                 2-1 (0-1)  River Plate
+[Wed Sep/2]
+  15.00  Juventud de Las Piedras  0-3 (0-0)  Rentistas
+
+
+Matchday 3
+[Sat Aug/29]
+  15.00  River Plate              2-0 (0-0)  Sud América
+         Fénix                    3-1 (2-1)  Racing
+         CA Cerro                 1-0 (0-0)  Rentistas
+         Plaza Colonia            0-1 (0-1)  Villa Teresa
+[Sun Aug/30]
+  15.00  El Tanque Sisley         1-0 (1-0)  Danubio
+         Montevideo Wanderers     2-1 (2-0)  Nacional
+  18.00  Defensor Sporting        3-1 (1-1)  Peñarol
+[Wed Sep/9]
+  15.30  Juventud de Las Piedras  1-0 (1-0)  Liverpool
+
+
+Matchday 4
+[Sat Sep/5]
+  15.00  Montevideo Wanderers     5-1 (1-1)  River Plate
+         Liverpool                1-0 (0-0)  CA Cerro
+  16.00  Peñarol                  2-1 (0-0)  Fénix
+[Sun Sep/6]
+  15.00  Villa Teresa             0-0  Juventud de Las Piedras
+         Rentistas                0-2 (0-0)  El Tanque Sisley
+         Racing                   2-0 (2-0)  Sud América
+  15.15  Danubio                  2-3 (0-1)  Defensor Sporting
+  18.15  Nacional                 1-0 (0-0)  Plaza Colonia
+
+
+Matchday 5
+[Fri Sep/11]
+  20.15  Defensor Sporting        2-0 (0-0)  Rentistas
+[Sat Sep/12]
+  15.30  Fénix                    2-1 (1-0)  Danubio
+  16.00  Juventud de Las Piedras  2-3 (0-0)  Nacional
+[Sun Sep/13]
+  15.30  River Plate              3-1 (2-1)  Racing
+         El Tanque Sisley         0-1 (0-1)  Liverpool
+         CA Cerro                 3-1 (1-1)  Villa Teresa
+         Plaza Colonia            1-1 (1-0)  Montevideo Wanderers
+  18.30  Sud América              1-4 (0-1)  Peñarol
+
+
+Matchday 6
+[Sat Sep/19]
+  15.30  Villa Teresa             0-1 (0-1)  El Tanque Sisley
+         Liverpool                2-1 (1-0)  Defensor Sporting
+         Danubio                  1-1 (0-0)  Sud América
+  18.30  Peñarol                  3-1 (1-0)  Racing
+[Sun Sep/20]
+  15.30  Plaza Colonia            3-2 (1-1)  River Plate
+         Montevideo Wanderers     0-1 (0-1)  Juventud de Las Piedras
+         Rentistas                0-0  Fénix
+  18.30  Nacional                 4-3 (1-1)  CA Cerro
+
+
+Matchday 7
+[Sat Sep/26]
+  15.30  Racing                   0-0  Danubio
+         Sud América              3-3 (0-1)  Rentistas
+         Fénix                    1-1 (0-1)  Liverpool
+  16.00  El Tanque Sisley         1-1 (0-1)  Nacional
+[Sun Sep/27]
+  15.30  Defensor Sporting        1-1 (0-1)  Villa Teresa
+         CA Cerro                 1-0 (0-0)  Montevideo Wanderers
+         Juventud de Las Piedras  1-1 (1-1)  Plaza Colonia
+  18.30  River Plate              4-0 (1-0)  Peñarol
+
+
+Matchday 8
+[Sat Oct/3]
+  15.30  Villa Teresa             0-2 (0-2)  Fénix
+         Rentistas                0-0  Racing
+         Danubio                  0-1 (0-0)  Peñarol
+[Sun Oct/4]
+  15.30  Juventud de Las Piedras  2-3 (1-1)  River Plate
+         Plaza Colonia            0-1 (0-0)  CA Cerro
+         Montevideo Wanderers     1-0 (1-0)  El Tanque Sisley
+         Liverpool                1-0 (1-0)  Sud América
+  18.00  Nacional                 4-0 (3-0)  Defensor Sporting
+
+
+Matchday 9
+[Fri Oct/16]
+  20.30  Defensor Sporting        2-3 (0-0)  Montevideo Wanderers
+[Sat Oct/17]
+  15.30  Sud América              3-1 (2-0)  Villa Teresa
+         CA Cerro                 4-1 (1-0)  Juventud de Las Piedras
+  18.00  Fénix                    0-2 (0-0)  Nacional
+[Sun Oct/18]
+  15.30  River Plate              2-1 (0-1)  Danubio
+         Racing                   3-1 (2-0)  Liverpool
+         El Tanque Sisley         0-1 (0-0)  Plaza Colonia
+  18.00  Peñarol                  1-0 (0-0)  Rentistas
+
+
+Matchday 10
+[Fri Oct/23]
+  20.30  Plaza Colonia            0-0  Defensor Sporting
+[Sat Oct/24]
+  15.30  Montevideo Wanderers     1-1 (0-0)  Fénix
+         Rentistas                0-2 (0-0)  Danubio
+  18.00  Nacional                 1-2 (1-2)  Sud América
+[Sun Oct/25]
+  11.00  CA Cerro                 1-1 (1-0)  River Plate
+  15.30  Juventud de Las Piedras  1-0 (0-0)  El Tanque Sisley
+         Villa Teresa             1-2 (0-0)  Racing
+  16.00  Liverpool                1-3 (0-1)  Peñarol
+
+
+Matchday 11
+[Sat Oct/31]
+  15.30  Sud América              1-0 (1-0)  Montevideo Wanderers
+         Fénix                    0-0  Plaza Colonia
+  18.00  Racing                   2-2 (0-1)  Nacional
+  20.00  Defensor Sporting        4-1 (2-0)  Juventud de Las Piedras
+[Sun Nov/1]
+  15.30  River Plate              2-3 (1-0)  Rentistas
+         Danubio                  4-0 (3-0)  Liverpool
+         El Tanque Sisley         2-3 (0-1)  CA Cerro
+  18.00  Peñarol                  4-1 (1-0)  Villa Teresa
+
+
+Matchday 12
+[Fri Nov/6]
+  20.00  Plaza Colonia            1-1 (0-1)  Sud América
+  20.30  El Tanque Sisley         2-1 (2-1)  River Plate
+[Sat Nov/7]
+  16.00  CA Cerro                 2-3 (2-2)  Defensor Sporting
+         Montevideo Wanderers     2-2 (1-2)  Racing
+         Villa Teresa             0-1 (0-0)  Danubio
+[Sun Nov/8]
+  11.00  Juventud de Las Piedras  0-1 (0-1)  Fénix
+         Liverpool                0-3 (0-0)  Rentistas
+  16.00  Nacional                 1-1 (1-0)  Peñarol
+
+
+Matchday 13
+[Fri Nov/20]
+  20.30  Defensor Sporting        2-2 (0-1)  El Tanque Sisley
+[Sat Nov/21]
+  16.00  River Plate              2-2 (1-2)  Liverpool
+         Rentistas                1-0 (1-0)  Villa Teresa
+         Danubio                  2-0 (1-0)  Nacional
+         Sud América              1-1 (0-0)  Juventud de Las Piedras
+[Sun Nov/22]
+  10.30  Fénix                    0-1 (0-0)  CA Cerro
+  16.00  Racing                   2-2 (2-0)  Plaza Colonia
+  18.00  Peñarol                  1-1 (0-0)  Montevideo Wanderers
+
+
+Matchday 14
+[Fri Nov/27]
+  20.30  Defensor Sporting        1-2 (1-0)  River Plate
+         El Tanque Sisley         1-0 (1-0)  Fénix
+[Sat Nov/28]
+  16.00  CA Cerro                 2-0 (0-0)  Sud América
+  19.00  Plaza Colonia            1-1 (0-1)  Peñarol
+[Sun Nov/29]
+  15.00  Montevideo Wanderers     0-0  Danubio
+  16.00  Juventud de Las Piedras  3-2 (3-2)  Racing
+         Villa Teresa             0-1 (0-0)  Liverpool
+  18.00  Nacional                 3-2 (1-1)  Rentistas
+
+
+Matchday 15
+[Sat Dec/5]
+  16.00  River Plate              4-0 (2-0)  Villa Teresa
+         Rentistas                1-2 (1-1)  Montevideo Wanderers
+         Danubio                  2-2 (0-0)  Plaza Colonia
+         Sud América              1-1 (0-0)  El Tanque Sisley
+         Fénix                    3-0 (3-0)  Defensor Sporting
+[Sun Dec/6]
+  10.00  Racing                   0-2 (0-0)  CA Cerro
+  16.00  Liverpool                2-3 (1-1)  Nacional
+         Peñarol                  1-0 (1-0)  Juventud de Las Piedras
+
+
+== Clausura
+
+Matchday 1
+[Sat Feb/6]
+  17.00  Fénix                    1-1 (0-1)  River Plate
+         Rentistas                1-3 (0-1)  Plaza Colonia
+         Liverpool                1-4 (0-2)  Montevideo Wanderers
+  20.00  Sud América              2-0 (0-0)  Defensor Sporting
+         Villa Teresa             0-3 (0-2)  Nacional
+[Sun Feb/7]
+  17.00  Racing                   2-0 (0-0)  El Tanque Sisley
+         Peñarol                  2-1 (1-0)  CA Cerro
+         Danubio                  2-1 (1-0)  Juventud de Las Piedras
+
+
+Matchday 2
+[Sat Feb/13]
+  17.00  River Plate              0-3 (0-2)  Nacional
+         Montevideo Wanderers     2-3 (0-1)  Villa Teresa
+         Fénix                    2-0 (1-0)  Sud América
+  20.00  Plaza Colonia            1-0 (0-0)  Liverpool
+         El Tanque Sisley         0-2 (0-2)  Peñarol
+[Sun Feb/14]
+  17.00  Rentistas                2-1 (0-1)  Juventud de Las Piedras
+         CA Cerro                 1-0 (0-0)  Danubio
+  19.30  Defensor Sporting        1-3 (0-2)  Racing
+
+
+Matchday 3
+[Sat Feb/20]
+  16.30  Racing                   2-2 (0-1)  Fénix
+         Rentistas                0-0  CA Cerro
+  20.00  Sud América              2-1 (1-1)  River Plate
+         Nacional                 2-1 (1-1)  Montevideo Wanderers
+[Sun Feb/21]
+  16.30  Danubio                  3-3 (1-2)  El Tanque Sisley
+         Liverpool                1-3 (0-1)  Juventud de Las Piedras
+         Villa Teresa             1-1 (0-0)  Plaza Colonia
+  20.00  Peñarol                  5-1 (2-1)  Defensor Sporting
+
+
+Matchday 4
+[Sat Feb/27]
+  15.30  River Plate              1-1 (0-1)  Montevideo Wanderers
+  16.30  Juventud de Las Piedras  0-1 (0-0)  Villa Teresa
+         Sud América              2-2 (2-1)  Racing
+  20.00  Fénix                    2-0 (2-0)  Peñarol
+[Sun Feb/28]
+  16.30  CA Cerro                 1-0 (0-0)  Liverpool
+         El Tanque Sisley         2-1 (1-0)  Rentistas
+         Defensor Sporting        3-2 (1-2)  Danubio
+  20.00  Plaza Colonia            2-0 (0-0)  Nacional
+
+
+Matchday 5
+[Sat Mar/5]
+  16.30  Liverpool                0-1 (0-1)  El Tanque Sisley
+         Villa Teresa             0-1 (0-1)  CA Cerro
+  20.00  Peñarol                  1-1 (1-1)  Sud América
+[Sun Mar/6]
+  10.30  Danubio                  0-2 (0-0)  Fénix
+  16.30  Racing                   0-1 (0-0)  River Plate
+         Rentistas                0-1 (0-0)  Defensor Sporting
+         Montevideo Wanderers     0-1 (0-0)  Plaza Colonia
+  20.00  Nacional                 1-1 (0-0)  Juventud de Las Piedras
+
+
+Matchday 6
+[Fri Mar/18]
+  20.00  El Tanque Sisley         0-1 (0-0)  Villa Teresa
+[Sat Mar/19]
+  16.30  Fénix                    1-1 (0-0)  Rentistas
+  20.00  Sud América              2-1 (2-0)  Danubio
+         Racing                   0-1 (0-0)  Peñarol
+[Sun Mar/20]
+  10.30  River Plate              0-1 (0-1)  Plaza Colonia
+  15.00  CA Cerro                 1-0 (0-0)  Nacional
+  16.30  Juventud de Las Piedras  3-3 (1-1)  Montevideo Wanderers
+  20.00  Defensor Sporting        1-2 (1-1)  Liverpool
+
+
+Matchday 7
+[Sat Apr/2]
+  15.30  Danubio                  1-1 (0-0)  Racing
+         Villa Teresa             2-2 (1-1)  Defensor Sporting
+  16.00  Plaza Colonia            1-2 (1-1)  Juventud de Las Piedras
+  19.00  Nacional                 3-1 (1-1)  El Tanque Sisley
+[Sun Apr/3]
+  15.00  Montevideo Wanderers     3-1 (2-0)  CA Cerro
+  15.30  Rentistas                1-0 (1-0)  Sud América
+         Liverpool                1-1 (0-0)  Fénix
+  18.00  Peñarol                  0-2 (0-1)  River Plate
+
+
+Matchday 8
+[Sat Apr/9]
+  15.30  Fénix                    1-0 (1-0)  Villa Teresa
+         Racing                   0-3 (0-3)  Rentistas
+  19.00  Peñarol                  2-1 (2-0)  Danubio
+  20.00  Sud América              0-3 (0-2)  Liverpool
+[Sun Apr/10]
+  15.30  River Plate              0-0  Juventud de Las Piedras
+         CA Cerro                 0-0  Plaza Colonia
+         El Tanque Sisley         1-3 (0-1)  Montevideo Wanderers
+  19.00  Defensor Sporting        2-4 (1-3)  Nacional
+
+
+Matchday 9
+[Sat Apr/23]
+  15.30  Liverpool                3-2 (1-1)  Racing
+         Montevideo Wanderers     0-0  Defensor Sporting
+         Plaza Colonia            2-1 (1-1)  El Tanque Sisley
+  20.15  Nacional                 1-0 (0-0)  Fénix
+[Sun Apr/24]
+  15.30  Danubio                  0-3 (0-1)  River Plate
+         Villa Teresa             0-1 (0-0)  Sud América
+         Juventud de Las Piedras  1-3 (1-1)  CA Cerro
+  19.00  Rentistas                1-3 (1-0)  Peñarol
+
+
+Matchday 10
+[Thu Apr/28]
+  15.30  Racing                   2-3 (0-2)  Villa Teresa
+[Fri Apr/29]
+  15.30  Danubio                  1-2 (1-1)  Rentistas
+  19.00  El Tanque Sisley         0-2 (0-0)  Juventud de Las Piedras
+  21.30  Peñarol                  1-0 (0-0)  Liverpool
+[Sat Apr/30]
+  10.30  River Plate              3-1 (2-0)  CA Cerro
+  13.00  Fénix                    2-1 (0-1)  Montevideo Wanderers
+  15.30  Defensor Sporting        1-1 (0-0)  Plaza Colonia
+  19.00  Sud América              1-1 (1-0)  Nacional
+
+
+Matchday 11
+[Sat May/7]
+  15.00  Montevideo Wanderers     0-2 (0-1)  Sud América
+  16.00  Plaza Colonia            1-0 (0-0)  Fénix
+  19.00  Villa Teresa             0-3 (0-0)  Peñarol
+[Sun May/8]
+  13.00  CA Cerro                 2-0 (1-0)  El Tanque Sisley
+  15.00  Rentistas                2-1 (2-0)  River Plate
+         Juventud de Las Piedras  2-1 (1-1)  Defensor Sporting
+  15.30  Liverpool                0-3 (0-1)  Danubio
+  19.00  Nacional                 1-0 (1-0)  Racing
+
+
+Matchday 12
+[Sat May/14]
+  15.00  River Plate              1-0 (0-0)  El Tanque Sisley
+         Fénix                    2-2 (0-0)  Juventud de Las Piedras
+         Racing                   1-3 (1-0)  Montevideo Wanderers
+         Danubio                  1-1 (1-0)  Villa Teresa
+  17.30  Defensor Sporting        1-0 (0-0)  CA Cerro
+[Sun May/15]
+  10.00  Rentistas                0-1 (0-0)  Liverpool
+  15.30  Peñarol                  2-2 (0-0)  Nacional
+  19.15  Sud América              0-2 (0-2)  Plaza Colonia
+
+
+Matchday 13
+[Sat May/21]
+  15.00  Montevideo Wanderers     4-1 (1-0)  Peñarol
+         Juventud de Las Piedras  0-1 (0-1)  Sud América
+  18.00  Plaza Colonia            2-2 (2-2)  Racing
+[Sun May/22]
+  15.00  Liverpool                1-0 (0-0)  River Plate
+         Villa Teresa             1-1 (1-1)  Rentistas
+         CA Cerro                 2-1 (0-1)  Fénix
+         El Tanque Sisley         5-6 (1-4)  Defensor Sporting
+  19.00  Nacional                 0-2 (0-1)  Danubio
+
+
+Matchday 14
+[Sat May/28]
+  15.00  Fénix                    1-0 (1-0)  El Tanque Sisley
+         Racing                   0-0  Juventud de Las Piedras
+         Danubio                  1-4 (0-1)  Montevideo Wanderers
+         Rentistas                2-0 (0-0)  Nacional
+         Liverpool                1-0 (0-0)  Villa Teresa
+[Sun May/29]
+  15.00  River Plate              1-2 (1-0)  Defensor Sporting
+  16.15  Sud América              2-2 (2-1)  CA Cerro
+         Peñarol                  1-2 (1-1)  Plaza Colonia
+
+
+Matchday 15
+[Sat Jun/4]
+  15.00  Nacional                 0-2 (0-1)  Liverpool
+         Montevideo Wanderers     2-1 (0-1)  Rentistas
+         Juventud de Las Piedras  1-1 (1-0)  Peñarol
+         CA Cerro                 1-2 (1-1)  Racing
+[Sun Jun/5]
+  15.00  Villa Teresa             2-0 (1-0)  River Plate
+         El Tanque Sisley         0-1 (0-1)  Sud América
+         Defensor Sporting        1-0 (0-0)  Fénix
+  15.30  Plaza Colonia            0-0  Danubio
+
+
+== Playoff
+
+Final
+[Sun Jun/12]
+  16.00  Peñarol                  3-1 a.e.t. (1-1, 0-0)  Plaza Colonia

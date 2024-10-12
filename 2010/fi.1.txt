@@ -1,0 +1,372 @@
+= FI 1 2010
+
+# Date       Fri Apr/16 - Sat Oct/30 2010 (197d)
+# Teams      15
+# Matches    184
+# Stages     Regular Season (182)  Relegation (2)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Apr/16]
+  19.00  Kuopion PS               0-5 (0-3)  HJK Helsinki
+[Sat Apr/17]
+  19.00  FC Lahti                 1-3 (1-2)  FF Jaro
+[Sun Apr/18]
+  18.30  AC Oulu                  3-0 (1-0)  Tampere United
+         FC Honka                 3-1 (0-0)  MyPa-47
+[Mon Apr/19]
+  18.30  Haka Valkeakoski         0-0  TPS Turku
+  20.30  Inter Turku              1-1 (1-1)  IFK Mariehamn
+[Wed Apr/28]
+  18.30  Vaasan PS                0-1 (0-1)  JJK Jyväskylä
+
+
+Matchday 2
+[Fri Apr/23]
+  19.00  Tampere United           0-2 (0-1)  JJK Jyväskylä
+[Sat Apr/24]
+  19.00  MyPa-47                  1-1 (0-0)  AC Oulu
+[Sun Apr/25]
+  18.30  FF Jaro                  0-1 (0-0)  Inter Turku
+         Kuopion PS               1-1 (0-0)  FC Lahti
+         IFK Mariehamn            0-3 (0-1)  Vaasan PS
+[Mon Apr/26]
+  18.30  TPS Turku                1-0 (0-0)  FC Honka
+  20.30  HJK Helsinki             1-1 (1-1)  Haka Valkeakoski
+
+
+Matchday 3
+[Fri Apr/30]
+  19.00  Haka Valkeakoski         4-3 (2-1)  FF Jaro
+[Sat May/1]
+  19.00  FC Honka                 3-0 (1-0)  IFK Mariehamn
+[Sun May/2]
+  18.30  Vaasan PS                0-3 (0-1)  HJK Helsinki
+         JJK Jyväskylä            0-2 (0-2)  TPS Turku
+         AC Oulu                  2-5 (2-3)  Kuopion PS
+[Mon May/3]
+  18.30  Inter Turku              1-3 (1-0)  FC Lahti
+  20.30  Tampere United           1-1 (0-1)  MyPa-47
+
+
+Matchday 4
+[Fri May/7]
+  19.00  TPS Turku                1-1 (0-1)  Vaasan PS
+[Sat May/8]
+  19.00  MyPa-47                  2-4 (1-1)  JJK Jyväskylä
+[Sun May/9]
+  18.30  Kuopion PS               2-1 (2-0)  Inter Turku
+         IFK Mariehamn            2-3 (2-0)  Tampere United
+         FF Jaro                  0-0  FC Honka
+[Mon May/10]
+  18.30  HJK Helsinki             2-0 (1-0)  AC Oulu
+  20.30  FC Lahti                 0-1 (0-1)  Haka Valkeakoski
+
+
+Matchday 5
+[Fri May/14]
+  19.00  FC Lahti                 0-2 (0-2)  MyPa-47
+[Sat May/15]
+  19.00  TPS Turku                2-2 (2-1)  Inter Turku
+[Sun May/16]
+  18.30  AC Oulu                  0-0  IFK Mariehamn
+         FF Jaro                  3-2 (2-1)  Vaasan PS
+         FC Honka                 3-1 (3-1)  HJK Helsinki
+[Mon May/17]
+  18.30  Tampere United           2-1 (1-0)  Haka Valkeakoski
+  20.30  Kuopion PS               2-0 (0-0)  JJK Jyväskylä
+
+
+Matchday 6
+[Fri May/21]
+  19.00  Haka Valkeakoski         2-0 (1-0)  AC Oulu
+[Sun May/23]
+  18.30  JJK Jyväskylä            0-1 (0-0)  FC Honka
+         Vaasan PS                2-0 (1-0)  Kuopion PS
+  19.00  IFK Mariehamn            0-0  FF Jaro
+[Mon May/24]
+  18.30  HJK Helsinki             0-0  FC Lahti
+         Inter Turku              0-2 (0-1)  Tampere United
+  20.30  MyPa-47                  2-2 (1-1)  TPS Turku
+
+
+Matchday 7
+[Sat May/29]
+  19.00  IFK Mariehamn            1-2 (0-1)  HJK Helsinki
+[Sun May/30]
+  18.30  FC Honka                 0-0  Vaasan PS
+[Mon May/31]
+  18.30  Inter Turku              0-2 (0-2)  AC Oulu
+  20.30  Haka Valkeakoski         0-1 (0-0)  MyPa-47
+[Tue Jun/1]
+  18.30  FC Lahti                 0-0  JJK Jyväskylä
+         Kuopion PS               2-1 (1-0)  TPS Turku
+         FF Jaro                  2-2 (1-2)  Tampere United
+
+
+Matchday 8
+[Fri Jun/4]
+  19.00  Tampere United           0-0  FC Lahti
+[Sat Jun/5]
+  19.00  AC Oulu                  2-0 (2-0)  FC Honka
+[Sun Jun/6]
+  18.30  JJK Jyväskylä            0-3 (0-3)  Inter Turku
+         HJK Helsinki             2-1 (1-0)  FF Jaro
+         TPS Turku                1-4 (0-1)  IFK Mariehamn
+[Mon Jun/7]
+  18.30  MyPa-47                  1-1 (0-0)  Kuopion PS
+  20.30  Vaasan PS                2-1 (1-0)  Haka Valkeakoski
+
+
+Matchday 9
+[Fri Jun/11]
+  19.00  FF Jaro                  1-3 (1-2)  JJK Jyväskylä
+[Sat Jun/12]
+  19.00  FC Lahti                 0-3 (0-1)  AC Oulu
+[Sun Jun/13]
+  19.00  Kuopion PS               0-2 (0-1)  FC Honka
+         IFK Mariehamn            2-3 (2-1)  Haka Valkeakoski
+         HJK Helsinki             2-0 (1-0)  MyPa-47
+[Mon Jun/14]
+  19.00  Tampere United           1-1 (1-0)  TPS Turku
+         Inter Turku              1-0 (0-0)  Vaasan PS
+
+
+Matchday 10
+[Fri Jun/18]
+  19.00  JJK Jyväskylä            0-2 (0-2)  IFK Mariehamn
+[Sat Jun/19]
+  19.00  AC Oulu                  0-2 (0-1)  TPS Turku
+[Sun Jun/20]
+  19.00  MyPa-47                  0-1 (0-1)  FF Jaro
+         FC Honka                 0-2 (0-1)  Tampere United
+         Inter Turku              0-0  HJK Helsinki
+[Mon Jun/21]
+  19.00  Haka Valkeakoski         2-1 (1-0)  Kuopion PS
+         Vaasan PS                1-1 (1-0)  FC Lahti
+
+
+Matchday 11
+[Wed Jun/23]
+  19.00  TPS Turku                0-3 (0-2)  FF Jaro
+         IFK Mariehamn            1-2 (1-1)  MyPa-47
+         HJK Helsinki             1-0 (0-0)  JJK Jyväskylä
+[Wed Jun/30]
+  19.00  Kuopion PS               6-2 (2-0)  Tampere United
+         Haka Valkeakoski         1-3 (0-0)  Inter Turku
+         FC Lahti                 2-4 (1-2)  FC Honka
+[Fri Jul/2]
+  19.00  Vaasan PS                2-0 (0-0)  AC Oulu
+
+
+Matchday 12
+[Sat Jul/3]
+  19.00  IFK Mariehamn            2-2 (2-0)  FC Lahti
+[Sun Jul/4]
+  19.00  FC Honka                 4-2 (2-1)  Haka Valkeakoski
+         FF Jaro                  0-1 (0-0)  Kuopion PS
+         TPS Turku                0-1 (0-0)  HJK Helsinki
+         MyPa-47                  3-2 (2-1)  Inter Turku
+[Mon Jul/5]
+  18.30  Tampere United           3-0 (1-0)  Vaasan PS
+  20.30  JJK Jyväskylä            6-1 (4-0)  AC Oulu
+
+
+Matchday 13
+[Fri Jul/9]
+  19.00  Inter Turku              2-0 (0-0)  FC Honka
+[Sat Jul/10]
+  16.00  HJK Helsinki             3-1 (1-0)  Tampere United
+[Sun Jul/11]
+  16.00  AC Oulu                  0-1 (0-0)  FF Jaro
+         Vaasan PS                2-1 (1-0)  MyPa-47
+         FC Lahti                 1-3 (0-2)  TPS Turku
+[Mon Jul/12]
+  18.30  Haka Valkeakoski         1-2 (0-1)  JJK Jyväskylä
+  20.30  Kuopion PS               0-0  IFK Mariehamn
+
+
+Matchday 14
+[Fri Jul/16]
+  19.00  FF Jaro                  2-0 (1-0)  FC Lahti
+[Sat Jul/17]
+  19.00  HJK Helsinki             1-2 (1-1)  Kuopion PS
+[Sun Jul/18]
+  18.30  IFK Mariehamn            3-0 (2-0)  Inter Turku
+         MyPa-47                  2-2 (1-1)  FC Honka
+         TPS Turku                1-1 (0-0)  Haka Valkeakoski
+[Mon Jul/19]
+  18.30  Tampere United           3-1 (1-1)  AC Oulu
+  20.30  JJK Jyväskylä            0-1 (0-0)  Vaasan PS
+
+
+Matchday 15
+[Fri Jul/23]
+  19.00  FC Lahti                 2-1 (2-0)  Kuopion PS
+[Sat Jul/24]
+  19.00  Haka Valkeakoski         0-3 (0-1)  HJK Helsinki
+[Sun Jul/25]
+  18.30  FC Honka                 1-0 (0-0)  TPS Turku
+         Inter Turku              2-0 (0-0)  FF Jaro
+[Mon Jul/26]
+  18.30  JJK Jyväskylä            0-1 (0-0)  Tampere United
+  20.30  Vaasan PS                1-4 (0-3)  IFK Mariehamn
+[Thu Aug/12]
+  18.30  AC Oulu                  1-1 (0-1)  MyPa-47
+
+
+Matchday 16
+[Fri Jul/30]
+  19.00  Kuopion PS               3-1 (2-1)  AC Oulu
+[Sat Jul/31]
+  19.00  HJK Helsinki             3-0 (2-0)  Vaasan PS
+[Sun Aug/1]
+  18.30  IFK Mariehamn            2-2 (1-0)  FC Honka
+         MyPa-47                  3-0 (2-0)  Tampere United
+         FC Lahti                 1-1 (1-1)  Inter Turku
+         TPS Turku                2-0 (1-0)  JJK Jyväskylä
+[Mon Aug/2]
+  18.30  FF Jaro                  5-0 (3-0)  Haka Valkeakoski
+
+
+Matchday 17
+[Fri Aug/6]
+  19.00  Haka Valkeakoski         0-0  FC Lahti
+[Sat Aug/7]
+  19.00  AC Oulu                  1-1 (0-0)  HJK Helsinki
+[Sun Aug/8]
+  18.30  FC Honka                 3-1 (2-1)  FF Jaro
+         Tampere United           3-4 (3-3)  IFK Mariehamn
+         JJK Jyväskylä            1-1 (1-1)  MyPa-47
+         Inter Turku              1-3 (1-2)  Kuopion PS
+  19.00  Vaasan PS                0-3 (0-0)  TPS Turku
+
+
+Matchday 18
+[Fri Aug/13]
+  19.00  JJK Jyväskylä            1-3 (0-1)  Kuopion PS
+[Sat Aug/14]
+  19.00  HJK Helsinki             0-1 (0-0)  FC Honka
+[Sun Aug/15]
+  18.30  MyPa-47                  1-1 (0-0)  FC Lahti
+         Inter Turku              1-2 (0-2)  TPS Turku
+[Mon Aug/16]
+  18.30  Haka Valkeakoski         1-0 (0-0)  Tampere United
+         Vaasan PS                1-1 (0-0)  FF Jaro
+  20.30  IFK Mariehamn            0-2 (0-0)  AC Oulu
+
+
+Matchday 19
+[Fri Aug/20]
+  19.00  FF Jaro                  2-0 (2-0)  IFK Mariehamn
+[Sat Aug/21]
+  19.00  AC Oulu                  1-1 (1-1)  Haka Valkeakoski
+[Sun Aug/22]
+  18.30  FC Lahti                 0-1 (0-1)  HJK Helsinki
+         Tampere United           0-1 (0-1)  Inter Turku
+         TPS Turku                3-0 (2-0)  MyPa-47
+[Mon Aug/23]
+  18.30  FC Honka                 2-3 (0-1)  JJK Jyväskylä
+  20.30  Kuopion PS               1-2 (0-2)  Vaasan PS
+
+
+Matchday 20
+[Fri Aug/27]
+  19.00  JJK Jyväskylä            2-2 (1-1)  FC Lahti
+[Sat Aug/28]
+  19.00  TPS Turku                3-0 (0-0)  Kuopion PS
+[Sun Aug/29]
+  18.30  AC Oulu                  1-0 (0-0)  Inter Turku
+         Vaasan PS                1-3 (1-1)  FC Honka
+[Mon Aug/30]
+  18.30  MyPa-47                  2-1 (2-0)  Haka Valkeakoski
+         HJK Helsinki             3-1 (2-0)  IFK Mariehamn
+  20.30  Tampere United           1-4 (0-1)  FF Jaro
+
+
+Matchday 21
+[Fri Sep/10]
+  19.00  FC Lahti                 0-1 (0-0)  Tampere United
+[Sat Sep/11]
+  19.00  Haka Valkeakoski         1-1 (0-0)  Vaasan PS
+[Sun Sep/12]
+  18.30  Kuopion PS               2-1 (1-0)  MyPa-47
+         IFK Mariehamn            2-1 (1-1)  TPS Turku
+         FF Jaro                  1-1 (0-1)  HJK Helsinki
+[Mon Sep/13]
+  18.30  Inter Turku              3-2 (3-0)  JJK Jyväskylä
+         FC Honka                 3-4 (1-3)  AC Oulu
+
+
+Matchday 22
+[Sat Sep/18]
+  14.00  AC Oulu                  1-2 (0-0)  FC Lahti
+  16.00  TPS Turku                4-3 (2-3)  Tampere United
+[Sun Sep/19]
+  15.00  JJK Jyväskylä            1-2 (1-1)  FF Jaro
+  18.30  MyPa-47                  1-1 (0-1)  HJK Helsinki
+         FC Honka                 2-1 (1-1)  Kuopion PS
+         Vaasan PS                0-3 (0-1)  Inter Turku
+[Mon Sep/20]
+  18.30  Haka Valkeakoski         2-1 (1-0)  IFK Mariehamn
+
+
+Matchday 23
+[Wed Sep/22]
+  19.00  TPS Turku                5-0 (4-0)  AC Oulu
+         HJK Helsinki             2-2 (2-2)  Inter Turku
+         Tampere United           2-1 (2-0)  FC Honka
+[Fri Sep/24]
+  19.00  FF Jaro                  3-2 (0-1)  MyPa-47
+[Mon Sep/27]
+  18.30  Kuopion PS               1-0 (0-0)  Haka Valkeakoski
+         FC Lahti                 2-1 (1-1)  Vaasan PS
+  20.30  IFK Mariehamn            3-2 (1-2)  JJK Jyväskylä
+
+
+Matchday 24
+[Sat Oct/2]
+  14.00  JJK Jyväskylä            1-2 (0-1)  HJK Helsinki
+  16.00  MyPa-47                  2-1 (2-0)  IFK Mariehamn
+[Sun Oct/3]
+  18.30  Tampere United           1-3 (1-1)  Kuopion PS
+         AC Oulu                  1-1 (1-1)  Vaasan PS
+         FF Jaro                  1-3 (0-1)  TPS Turku
+[Mon Oct/4]
+  18.30  Inter Turku              1-0 (0-0)  Haka Valkeakoski
+         FC Honka                 1-2 (1-1)  FC Lahti
+
+
+Matchday 25
+[Sat Oct/16]
+  14.00  Kuopion PS               2-1 (1-0)  FF Jaro
+  16.00  Haka Valkeakoski         2-0 (1-0)  FC Honka
+[Sun Oct/17]
+  18.30  AC Oulu                  1-2 (1-1)  JJK Jyväskylä
+         Vaasan PS                3-1 (2-1)  Tampere United
+         FC Lahti                 1-1 (0-1)  IFK Mariehamn
+[Mon Oct/18]
+  18.30  HJK Helsinki             2-0 (1-0)  TPS Turku
+         Inter Turku              1-1 (0-1)  MyPa-47
+
+
+Matchday 26
+[Sat Oct/23]
+  14.00  FC Honka                 1-1 (0-0)  Inter Turku
+         Tampere United           2-0 (2-0)  HJK Helsinki
+         JJK Jyväskylä            1-2 (0-1)  Haka Valkeakoski
+         IFK Mariehamn            1-2 (0-1)  Kuopion PS
+         FF Jaro                  1-2 (0-1)  AC Oulu
+         MyPa-47                  2-2 (1-2)  Vaasan PS
+         TPS Turku                3-2 (0-2)  FC Lahti
+
+
+== Relegation
+
+Relegation
+[Wed Oct/27]
+  18.30  FC Viikingit             1-1 (0-0)  JJK Jyväskylä
+[Sat Oct/30]
+  14.00  JJK Jyväskylä            2-0 (2-0)  FC Viikingit

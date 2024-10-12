@@ -1,0 +1,108 @@
+= UEFA CL 1994/95
+
+# Date       Wed Sep/14 1994 - Wed May/24 1995 (252d)
+# Teams      16
+# Matches    61
+
+
+
+Group
+[Wed Sep/14]
+         FC Barcelona (ESP)       2-1 (1-1)  Galatasaray (TUR)
+         Manchester United (ENG)  4-2 (1-1)  IFK Göteborg (SWE)
+[Wed Sep/28]
+         Galatasaray (TUR)        0-0  Manchester United (ENG)
+         IFK Göteborg (SWE)       2-1 (0-1)  FC Barcelona (ESP)
+[Wed Oct/19]
+         IFK Göteborg (SWE)       1-0 (0-0)  Galatasaray (TUR)
+         Manchester United (ENG)  2-2 (1-1)  FC Barcelona (ESP)
+[Wed Nov/2]
+         Galatasaray (TUR)        0-1 (0-0)  IFK Göteborg (SWE)
+         FC Barcelona (ESP)       4-0 (2-0)  Manchester United (ENG)
+[Wed Nov/23]
+         Galatasaray (TUR)        2-1 (0-1)  FC Barcelona (ESP)
+         IFK Göteborg (SWE)       3-1 (1-0)  Manchester United (ENG)
+[Wed Dec/7]
+         Manchester United (ENG)  4-0 (2-0)  Galatasaray (TUR)
+         FC Barcelona (ESP)       1-1 (0-0)  IFK Göteborg (SWE)
+[Wed Sep/14]
+         Dinamo Kiev (UKR)        3-2 (0-2)  Spartak Moskva (RUS)
+         Paris Saint-Germain (FRA)  2-0 (1-0)  Bayern München (GER)
+[Wed Sep/28]
+         Bayern München (GER)     1-0 (1-0)  Dinamo Kiev (UKR)
+         Spartak Moskva (RUS)     1-2 (1-0)  Paris Saint-Germain (FRA)
+[Wed Oct/19]
+         Dinamo Kiev (UKR)        1-2 (1-1)  Paris Saint-Germain (FRA)
+         Spartak Moskva (RUS)     1-1 (0-0)  Bayern München (GER)
+[Wed Nov/2]
+         Paris Saint-Germain (FRA)  1-0 (0-0)  Dinamo Kiev (UKR)
+         Bayern München (GER)     2-2 (2-2)  Spartak Moskva (RUS)
+[Wed Nov/23]
+         Spartak Moskva (RUS)     1-0 (0-0)  Dinamo Kiev (UKR)
+         Bayern München (GER)     0-1 (0-0)  Paris Saint-Germain (FRA)
+[Wed Dec/7]
+         Dinamo Kiev (UKR)        1-4 (1-1)  Bayern München (GER)
+         Paris Saint-Germain (FRA)  4-1 (2-0)  Spartak Moskva (RUS)
+[Wed Sep/14]
+         RSC Anderlecht (BEL)     0-0  CSA Steaua București (ROU)
+         Hajduk Split (CRO)       0-0  SL Benfica (POR)
+[Wed Sep/28]
+         SL Benfica (POR)         3-1 (2-0)  RSC Anderlecht (BEL)
+         CSA Steaua București (ROU)  0-1 (0-0)  Hajduk Split (CRO)
+[Wed Oct/19]
+         SL Benfica (POR)         2-1 (1-0)  CSA Steaua București (ROU)
+         Hajduk Split (CRO)       2-1 (1-0)  RSC Anderlecht (BEL)
+[Wed Nov/2]
+         CSA Steaua București (ROU)  1-1 (1-0)  SL Benfica (POR)
+         RSC Anderlecht (BEL)     0-0  Hajduk Split (CRO)
+[Wed Nov/23]
+         CSA Steaua București (ROU)  1-1 (0-1)  RSC Anderlecht (BEL)
+         SL Benfica (POR)         2-1 (1-0)  Hajduk Split (CRO)
+[Wed Dec/7]
+         RSC Anderlecht (BEL)     1-1 (0-0)  SL Benfica (POR)
+         Hajduk Split (CRO)       1-4 (0-3)  CSA Steaua București (ROU)
+[Wed Sep/14]
+         AFC Ajax (NED)           2-0 (0-0)  AC Milan (ITA)
+         SV Austria Salzburg (AUT)  0-0  AEK Athen (GRE)
+[Wed Sep/28]
+         AEK Athen (GRE)          1-2 (1-1)  AFC Ajax (NED)
+         AC Milan (ITA)           3-0 (1-0)  SV Austria Salzburg (AUT)
+[Wed Oct/19]
+         AEK Athen (GRE)          0-0  AC Milan (ITA)
+         SV Austria Salzburg (AUT)  0-0  AFC Ajax (NED)
+[Wed Nov/2]
+         AC Milan (ITA)           2-1 (0-1)  AEK Athen (GRE)
+         AFC Ajax (NED)           1-1 (0-0)  SV Austria Salzburg (AUT)
+[Wed Nov/23]
+         AC Milan (ITA)           0-2 (0-1)  AFC Ajax (NED)
+         AEK Athen (GRE)          1-3 (1-2)  SV Austria Salzburg (AUT)
+[Wed Dec/7]
+         AFC Ajax (NED)           2-0 (1-0)  AEK Athen (GRE)
+         SV Austria Salzburg (AUT)  0-1 (0-1)  AC Milan (ITA)
+
+
+Quarterfinals
+[Wed Mar/1]
+         FC Barcelona (ESP)       1-1 (0-0)  Paris Saint-Germain (FRA)
+         Bayern München (GER)     0-0  IFK Göteborg (SWE)
+         Hajduk Split (CRO)       0-0  AFC Ajax (NED)
+         AC Milan (ITA)           2-0 (0-0)  SL Benfica (POR)
+[Wed Mar/15]
+         Paris Saint-Germain (FRA)  2-1 (0-0)  FC Barcelona (ESP)
+         IFK Göteborg (SWE)       2-2 (0-0)  Bayern München (GER)
+         AFC Ajax (NED)           3-0 (2-0)  Hajduk Split (CRO)
+         SL Benfica (POR)         0-0  AC Milan (ITA)
+
+
+Semifinals
+[Wed Apr/5]
+         Bayern München (GER)     0-0  AFC Ajax (NED)
+         Paris Saint-Germain (FRA)  0-1 (0-0)  AC Milan (ITA)
+[Wed Apr/19]
+         AFC Ajax (NED)           5-2 (3-1)  Bayern München (GER)
+         AC Milan (ITA)           2-0 (1-0)  Paris Saint-Germain (FRA)
+
+
+Final
+[Wed May/24]
+  20.30  AFC Ajax (NED)           1-0 (0-0)  AC Milan (ITA)

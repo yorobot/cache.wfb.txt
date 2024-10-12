@@ -1,0 +1,411 @@
+= SV 1 2011/12
+
+# Date       Mon Apr/18 2011 - Sun May/6 2012 (384d)
+# Teams      10
+# Matches    192
+# Stages     Apertura (90)  Apertura Playoffs (6)  Clausura (90)  Clausura Playoffs (6)
+
+
+== Apertura
+
+Matchday 1
+[Sat Jul/30]
+  17.00  Universidad de El Salvador  0-0  Vista Hermosa
+  19.00  CD Águila                2-2  Once Municipal
+[Sun Jul/31]
+  15.00  Alianza                  0-1  Isidro Metapán
+         Juventud Independiente   1-2  Atlético Marte
+  15.15  FAS                      1-1  Luis Ángel Firpo
+
+
+Matchday 2
+[Sat Aug/13]
+  15.00  Once Municipal           0-1  Universidad de El Salvador
+         Atlético Marte           0-2  Alianza
+         Vista Hermosa            0-1  Juventud Independiente
+  17.00  Luis Ángel Firpo         2-0  CD Águila
+  18.00  Isidro Metapán           0-0  FAS
+
+
+Matchday 3
+[Wed Aug/17]
+  15.00  Juventud Independiente   1-2  Once Municipal
+  18.45  FAS                      1-0  Atlético Marte
+  19.00  CD Águila                3-0  Universidad de El Salvador
+  19.15  Alianza                  2-1  Vista Hermosa
+[Wed Oct/5]
+  15.00  Luis Ángel Firpo         1-3  Isidro Metapán
+
+
+Matchday 4
+[Sat Aug/20]
+  15.00  Vista Hermosa            2-2  FAS
+         Universidad de El Salvador  1-0  Juventud Independiente
+  18.00  Isidro Metapán           3-1  CD Águila
+[Sun Aug/21]
+  15.00  Once Municipal           1-2  Alianza
+         Atlético Marte           0-1  Luis Ángel Firpo
+
+
+Matchday 5
+[Sat Aug/27]
+  18.00  Isidro Metapán           2-1  Atlético Marte
+  19.00  Alianza                  0-0  Universidad de El Salvador
+[Sun Aug/28]
+  15.00  Luis Ángel Firpo         0-2  Vista Hermosa
+         FAS                      2-1  Once Municipal
+         CD Águila                5-1  Juventud Independiente
+
+
+Matchday 6
+[Wed Sep/21]
+  15.00  Juventud Independiente   1-2  Alianza
+  15.15  Once Municipal           2-1  Luis Ángel Firpo
+  17.00  Universidad de El Salvador  0-2  FAS
+  19.00  Atlético Marte           2-4  CD Águila
+[Sun Oct/9]
+  15.00  Vista Hermosa            0-1  Isidro Metapán
+
+
+Matchday 7
+[Sat Sep/10]
+  15.00  Atlético Marte           0-0  Vista Hermosa
+  18.00  Isidro Metapán           1-1  Once Municipal
+  19.00  CD Águila                1-2  Alianza
+[Sun Sep/11]
+  15.00  FAS                      2-1  Juventud Independiente
+         Luis Ángel Firpo         1-1  Universidad de El Salvador
+
+
+Matchday 8
+[Sun Sep/18]
+  15.00  Once Municipal           1-1  Atlético Marte
+         Juventud Independiente   2-3  Luis Ángel Firpo
+         CD Águila                2-2  Vista Hermosa
+  15.15  Universidad de El Salvador  1-3  Isidro Metapán
+         Alianza                  1-2  FAS
+
+
+Matchday 9
+[Sat Sep/24]
+  15.00  Vista Hermosa            0-2  Once Municipal
+  16.00  FAS                      1-3  CD Águila
+  17.00  Luis Ángel Firpo         2-2  Alianza
+[Sun Sep/25]
+  15.00  Atlético Marte           2-0  Universidad de El Salvador
+         Isidro Metapán           0-1  Juventud Independiente
+
+
+Matchday 10
+[Sat Oct/1]
+  15.00  Vista Hermosa            1-1  Universidad de El Salvador
+  18.00  Isidro Metapán           1-0  Alianza
+[Sun Oct/2]
+  15.00  Luis Ángel Firpo         3-1  FAS
+         Once Municipal           2-0  CD Águila
+         Atlético Marte           3-0  Juventud Independiente
+
+
+Matchday 11
+[Sat Oct/22]
+  19.00  CD Águila                3-2  Luis Ángel Firpo
+[Sun Oct/23]
+  15.00  Juventud Independiente   1-1  Vista Hermosa
+         Universidad de El Salvador  1-3  Once Municipal
+         FAS                      3-0  Isidro Metapán
+  15.15  Alianza                  0-1  Atlético Marte
+
+
+Matchday 12
+[Wed Oct/26]
+  15.00  Vista Hermosa            0-0  Alianza
+         Universidad de El Salvador  2-2  CD Águila
+  15.30  Once Municipal           0-0  Juventud Independiente
+  19.00  Isidro Metapán           4-2  Luis Ángel Firpo
+         Atlético Marte           0-0  FAS
+
+
+Matchday 13
+[Fri Oct/28]
+  19.00  CD Águila                1-0  Isidro Metapán
+[Sun Oct/30]
+  16.00  Luis Ángel Firpo         1-0  Atlético Marte
+         FAS                      3-1  Vista Hermosa
+         Juventud Independiente   3-1  Universidad de El Salvador
+         Alianza                  0-1  Once Municipal
+
+
+Matchday 14
+[Sat Nov/5]
+  16.00  Atlético Marte           5-3  Isidro Metapán
+         Juventud Independiente   2-1  CD Águila
+         Vista Hermosa            0-1  Luis Ángel Firpo
+         Once Municipal           1-0  FAS
+         Universidad de El Salvador  1-1  Alianza
+
+
+Matchday 15
+[Wed Nov/2]
+  16.00  FAS                      1-0  Universidad de El Salvador
+         Alianza                  1-0  Juventud Independiente
+  19.00  Luis Ángel Firpo         6-3  Once Municipal
+  20.00  CD Águila                2-0  Atlético Marte
+         Isidro Metapán           1-0  Vista Hermosa
+
+
+Matchday 16
+[Thu Nov/17]
+  20.00  Alianza                  1-1  CD Águila
+[Sat Nov/19]
+  16.00  Universidad de El Salvador  1-1  Luis Ángel Firpo
+         Vista Hermosa            0-1  Atlético Marte
+[Sun Nov/20]
+  16.00  Juventud Independiente   1-0  FAS
+         Once Municipal           1-1  Isidro Metapán
+
+
+Matchday 17
+[Wed Nov/23]
+  16.00  Vista Hermosa            1-2  CD Águila
+  16.15  Atlético Marte           1-1  Once Municipal
+  19.00  Isidro Metapán           4-2  Universidad de El Salvador
+         Luis Ángel Firpo         2-1  Juventud Independiente
+  20.30  FAS                      2-1  Alianza
+
+
+Matchday 18
+[Sun Nov/27]
+  16.00  Once Municipal           5-0  Vista Hermosa
+         CD Águila                1-1  FAS
+         Universidad de El Salvador  2-2  Atlético Marte
+         Juventud Independiente   1-4  Isidro Metapán
+         Alianza                  1-1  Luis Ángel Firpo
+
+
+== Apertura Playoffs
+
+Decider
+[Wed Nov/30]
+  20.00  CD Águila                0-1  Luis Ángel Firpo
+
+
+Semifinals
+[Sat Dec/3]
+  20.00  Isidro Metapán           3-3  Luis Ángel Firpo
+[Sun Dec/4]
+  16.00  Once Municipal           1-0  FAS
+[Sat Dec/10]
+  20.00  FAS                      1-2  Once Municipal
+[Sun Dec/11]
+  16.00  Luis Ángel Firpo         0-3  Isidro Metapán
+
+
+Final
+[Sun Dec/18]
+  16.00  Once Municipal           0-1  Isidro Metapán
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/7]
+  15.30  Vista Hermosa            1-1  FAS
+  16.00  Universidad de El Salvador  2-1  Alianza
+  20.00  Isidro Metapán           4-1  CD Águila
+[Sun Jan/8]
+  16.00  Once Municipal           2-1  Juventud Independiente
+         Atlético Marte           0-4  Luis Ángel Firpo
+
+
+Matchday 2
+[Fri Jan/13]
+  19.00  Luis Ángel Firpo         1-0  Once Municipal
+  19.30  FAS                      1-1  Isidro Metapán
+[Sun Jan/15]
+  16.00  Juventud Independiente   2-0  Vista Hermosa
+         CD Águila                1-3  Universidad de El Salvador
+         Alianza                  1-0  Atlético Marte
+
+
+Matchday 3
+[Wed Jan/18]
+  16.00  Juventud Independiente   0-0  Luis Ángel Firpo
+         Vista Hermosa            2-2  Isidro Metapán
+  16.30  Once Municipal           2-1  Alianza
+  18.00  Universidad de El Salvador  1-1  FAS
+  20.00  Atlético Marte           0-2  CD Águila
+
+
+Matchday 4
+[Sat Jan/21]
+  16.00  FAS                      1-1  Atlético Marte
+  19.00  Luis Ángel Firpo         2-1  Vista Hermosa
+  20.00  CD Águila                1-0  Once Municipal
+         Isidro Metapán           1-0  Universidad de El Salvador
+[Sun Jan/22]
+  16.00  Alianza                  2-1  Juventud Independiente
+
+
+Matchday 5
+[Tue Jan/24]
+  16.30  Atlético Marte           0-2  Isidro Metapán
+[Wed Jan/25]
+  16.00  Juventud Independiente   2-1  CD Águila
+  16.30  Once Municipal           5-0  FAS
+[Thu Jan/26]
+  16.00  Vista Hermosa            1-2  Universidad de El Salvador
+  19.00  Luis Ángel Firpo         4-4  Alianza
+
+
+Matchday 6
+[Sat Jan/28]
+  20.00  Isidro Metapán           1-0  Once Municipal
+[Sun Jan/29]
+  16.00  Alianza                  1-2  Vista Hermosa
+         Universidad de El Salvador  0-2  Atlético Marte
+[Wed Feb/1]
+  20.00  CD Águila                1-0  Luis Ángel Firpo
+         FAS                      1-0  Juventud Independiente
+
+
+Matchday 7
+[Sat Feb/4]
+  16.00  Vista Hermosa            1-1  Atlético Marte
+  19.00  Luis Ángel Firpo         3-0  FAS
+[Sun Feb/5]
+  16.00  Juventud Independiente   1-1  Isidro Metapán
+         Once Municipal           4-1  Universidad de El Salvador
+         Alianza                  1-3  CD Águila
+
+
+Matchday 8
+[Sat Feb/11]
+  16.00  Universidad de El Salvador  2-2  Juventud Independiente
+         Vista Hermosa            0-1  CD Águila
+  20.00  FAS                      3-0  Alianza
+         Isidro Metapán           2-1  Luis Ángel Firpo
+[Sun Feb/12]
+  16.00  Atlético Marte           1-0  Once Municipal
+
+
+Matchday 9
+[Sat Feb/18]
+  16.00  Once Municipal           3-0  Vista Hermosa
+  19.00  Luis Ángel Firpo         2-1  Universidad de El Salvador
+  20.00  CD Águila                2-0  FAS
+[Sun Feb/19]
+  16.00  Alianza                  2-2  Isidro Metapán
+         Juventud Independiente   4-2  Atlético Marte
+
+
+Matchday 10
+[Sat Feb/25]
+  19.00  Luis Ángel Firpo         0-0  Atlético Marte
+  20.00  FAS                      1-1  Vista Hermosa
+         CD Águila                0-1  Isidro Metapán
+[Sun Feb/26]
+  16.00  Juventud Independiente   2-2  Once Municipal
+         Alianza                  2-4  Universidad de El Salvador
+
+
+Matchday 11
+[Fri Mar/2]
+  18.00  Universidad de El Salvador  1-0  CD Águila
+[Sat Mar/3]
+  16.00  Vista Hermosa            2-2  Juventud Independiente
+  20.00  Isidro Metapán           1-1  FAS
+[Sun Mar/4]
+  16.00  Once Municipal           0-0  Luis Ángel Firpo
+         Atlético Marte           2-3  Alianza
+
+
+Matchday 12
+[Wed Mar/7]
+  19.00  Luis Ángel Firpo         1-0  Juventud Independiente
+  20.00  Alianza                  1-1  Once Municipal
+         CD Águila                5-0  Atlético Marte
+[Tue Mar/13]
+  20.00  FAS                      4-1  Universidad de El Salvador
+[Wed Mar/28]
+  19.00  Isidro Metapán           3-1  Vista Hermosa
+
+
+Matchday 13
+[Sat Mar/17]
+  16.00  Vista Hermosa            1-0  Luis Ángel Firpo
+  20.00  Universidad de El Salvador  1-1  Isidro Metapán
+[Sun Mar/18]
+  16.00  Once Municipal           1-0  CD Águila
+         Juventud Independiente   3-0  Alianza
+         Atlético Marte           0-1  FAS
+
+
+Matchday 14
+[Wed Mar/21]
+  16.00  Alianza                  3-3  Luis Ángel Firpo
+  18.00  Universidad de El Salvador  0-2  Vista Hermosa
+  20.00  CD Águila                2-2  Juventud Independiente
+         Isidro Metapán           1-1  Atlético Marte
+         FAS                      2-1  Once Municipal
+
+
+Matchday 15
+[Sat Mar/24]
+  16.00  Vista Hermosa            1-1  Alianza
+  19.00  Luis Ángel Firpo         1-1  CD Águila
+[Sun Mar/25]
+  15.00  Juventud Independiente   1-1  FAS
+         Once Municipal           0-0  Isidro Metapán
+         Atlético Marte           2-1  Universidad de El Salvador
+
+
+Matchday 16
+[Thu Mar/29]
+  17.00  Universidad de El Salvador  1-1  Once Municipal
+[Fri Mar/30]
+  19.00  CD Águila                2-0  Alianza
+[Sat Mar/31]
+  19.00  Isidro Metapán           4-1  Juventud Independiente
+  19.15  FAS                      2-2  Luis Ángel Firpo
+[Sun Apr/1]
+  15.00  Atlético Marte           4-1  Vista Hermosa
+
+
+Matchday 17
+[Wed Apr/4]
+  15.00  Luis Ángel Firpo         2-4  Isidro Metapán
+         Once Municipal           0-0  Atlético Marte
+         Juventud Independiente   5-0  Universidad de El Salvador
+         CD Águila                5-0  Vista Hermosa
+         Alianza                  2-2  FAS
+
+
+Matchday 18
+[Sat Apr/14]
+  19.00  Isidro Metapán           3-0  Alianza
+[Sun Apr/15]
+  15.00  Universidad de El Salvador  3-4  Luis Ángel Firpo
+         Atlético Marte           1-2  Juventud Independiente
+         Vista Hermosa            0-3  Once Municipal
+         FAS                      2-0  CD Águila
+
+
+== Clausura Playoffs
+
+Decider
+[Mon Apr/18]
+  19.00  FAS                      3-0  Once Municipal
+
+
+Semifinals
+[Sun Apr/22]
+  15.00  Luis Ángel Firpo         0-4  CD Águila
+  16.00  FAS                      2-0  Isidro Metapán
+[Sat Apr/28]
+  19.00  CD Águila                1-2  Luis Ángel Firpo
+         Isidro Metapán           3-0  FAS
+
+
+Final
+[Sun May/6]
+  15.00  Isidro Metapán           1-2  CD Águila

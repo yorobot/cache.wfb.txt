@@ -1,0 +1,247 @@
+= CA 1 2023
+
+# Date       Sat Apr/15 - Sat Oct/28 2023 (196d)
+# Teams      8
+# Matches    117
+# Stages     Regular Season (112)  Playoffs (5)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Apr/15]
+  13.00  Atlético Ottawa          1-1 (1-1)  HFX Wanderers
+  16.00  Forge FC                 2-2 (1-1)  Cavalry FC
+  19.00  Pacific FC               1-0 (0-0)  Vancouver FC
+[Sun Apr/16]
+  14.00  York United              0-2 (0-0)  Valour FC
+[Sat Apr/22]
+  13.00  York United              1-2 (1-2)  Vancouver FC
+  16.00  Forge FC                 1-1 (0-1)  HFX Wanderers
+  19.00  Valour FC                1-1 (1-1)  Atlético Ottawa
+[Sun Apr/23]
+  16.00  Pacific FC               1-1 (1-1)  Cavalry FC
+[Sat Apr/29]
+  14.00  HFX Wanderers            1-1 (1-1)  Vancouver FC
+  17.00  Atlético Ottawa          0-1 (0-1)  York United
+[Sun Apr/30]
+  17.00  Cavalry FC               1-1 (1-0)  Valour FC
+
+
+Matchday 2
+[Sun Apr/30]
+  20.00  Pacific FC               0-1 (0-1)  Forge FC
+[Fri May/5]
+  19.30  York United              0-1 (0-1)  Forge FC
+[Sat May/6]
+  16.00  Valour FC                0-0  HFX Wanderers
+  19.00  Atlético Ottawa          1-4 (0-3)  Pacific FC
+[Sun May/7]
+  19.00  Vancouver FC             1-1 (0-0)  Cavalry FC
+[Sat May/13]
+  16.00  Forge FC                 3-2 (1-1)  Valour FC
+  19.00  Cavalry FC               2-2 (1-2)  HFX Wanderers
+  21.30  Vancouver FC             0-5 (0-2)  Atlético Ottawa
+[Sun May/14]
+  18.00  Pacific FC               4-1 (2-0)  York United
+[Fri May/19]
+  19.00  Forge FC                 0-0  Vancouver FC
+[Sat May/20]
+  14.00  HFX Wanderers            0-3 (0-2)  York United
+  17.00  Valour FC                1-1 (0-0)  Pacific FC
+[Sun May/21]
+  19.00  Cavalry FC               2-0 (1-0)  Atlético Ottawa
+[Sat May/27]
+  14.00  Atlético Ottawa          0-1 (0-0)  Forge FC
+  22.00  Pacific FC               1-1 (1-0)  HFX Wanderers
+[Sun May/28]
+  17.00  York United              1-0 (1-0)  Cavalry FC
+  20.00  Vancouver FC             0-0  Valour FC
+
+
+Matchday 3
+[Wed May/31]
+  19.00  Forge FC                 1-2 (0-0)  York United
+[Fri Jun/2]
+  22.00  Vancouver FC             3-6 (2-2)  Pacific FC
+[Sat Jun/3]
+  16.00  Cavalry FC               1-1 (1-0)  Forge FC
+  19.00  Atlético Ottawa          2-0 (0-0)  HFX Wanderers
+[Sun Jun/4]
+  15.00  Valour FC                1-1 (0-0)  York United
+[Fri Jun/9]
+  19.30  York United              2-1 (1-1)  Atlético Ottawa
+[Sat Jun/10]
+  15.00  HFX Wanderers            2-0 (1-0)  Valour FC
+  19.00  Forge FC                 0-1 (0-0)  Pacific FC
+[Sun Jun/11]
+  17.00  Cavalry FC               3-1 (3-1)  Vancouver FC
+[Fri Jun/16]
+  20.00  Valour FC                2-0 (1-0)  Forge FC
+[Sat Jun/17]
+  14.00  Atlético Ottawa          1-0 (1-0)  Vancouver FC
+         HFX Wanderers            3-1 (1-1)  Cavalry FC
+[Sun Jun/18]
+  16.00  Pacific FC               1-0 (0-0)  York United
+[Tue Jun/20]
+  22.00  Vancouver FC             2-0 (2-0)  Forge FC
+[Wed Jun/21]
+  19.00  York United              2-2 (1-1)  HFX Wanderers
+  22.00  Pacific FC               1-0 (0-0)  Valour FC
+[Sat Jun/24]
+  17.00  Cavalry FC               2-1 (0-0)  York United
+[Sun Jun/25]
+  15.00  Valour FC                1-0 (0-0)  Vancouver FC
+  18.00  Forge FC                 4-3 (3-1)  Atlético Ottawa
+
+
+Matchday 4
+[Fri Jun/30]
+  18.00  HFX Wanderers            2-1 (1-0)  Forge FC
+  21.30  Pacific FC               2-2 (1-1)  Atlético Ottawa
+[Sat Jul/1]
+  15.00  Valour FC                0-2 (0-1)  Cavalry FC
+[Sun Jul/2]
+  18.00  Vancouver FC             1-2 (1-1)  York United
+[Fri Jul/7]
+  22.00  Vancouver FC             2-1 (1-1)  HFX Wanderers
+[Sat Jul/8]
+  21.00  Pacific FC               1-2 (0-2)  Cavalry FC
+[Sun Jul/9]
+  15.00  Atlético Ottawa          2-0 (1-0)  Valour FC
+  19.30  York United              0-4 (0-2)  Forge FC
+[Tue Jul/11]
+  18.00  HFX Wanderers            2-1 (1-0)  Pacific FC
+[Wed Jul/12]
+  20.30  Cavalry FC               0-2 (0-0)  Atlético Ottawa
+[Fri Jul/14]
+  19.30  York United              0-0  Pacific FC
+[Sat Jul/15]
+  16.00  Cavalry FC               1-0 (0-0)  HFX Wanderers
+  19.00  Forge FC                 1-1 (0-0)  Valour FC
+[Sun Jul/16]
+  14.00  Atlético Ottawa          3-1 (1-0)  Vancouver FC
+[Fri Jul/21]
+  22.00  Pacific FC               0-2 (0-2)  Forge FC
+[Sat Jul/22]
+  19.00  Vancouver FC             1-5 (1-3)  Cavalry FC
+[Sun Jul/23]
+  16.00  HFX Wanderers            1-0 (1-0)  Atlético Ottawa
+  19.00  Valour FC                1-2 (1-2)  York United
+[Fri Jul/28]
+  19.00  Forge FC                 2-0 (0-0)  Vancouver FC
+[Sat Jul/29]
+  16.00  Valour FC                0-3 (0-1)  Pacific FC
+  19.00  Atlético Ottawa          1-0 (1-0)  Cavalry FC
+[Sun Jul/30]
+  14.00  York United              0-2 (0-1)  HFX Wanderers
+
+
+Matchday 5
+[Fri Aug/4]
+  21.00  Cavalry FC               3-0 (0-0)  Forge FC
+[Sat Aug/5]
+  19.00  Atlético Ottawa          3-3 (1-2)  York United
+[Sun Aug/6]
+  17.00  Vancouver FC             0-0  Valour FC
+[Mon Aug/7]
+  14.00  HFX Wanderers            1-2 (0-1)  Pacific FC
+[Fri Aug/11]
+  20.00  Valour FC                3-2 (0-1)  Cavalry FC
+[Sat Aug/12]
+  15.00  HFX Wanderers            3-0 (1-0)  Vancouver FC
+  19.00  Forge FC                 3-3 (1-0)  York United
+[Sun Aug/13]
+  16.30  Pacific FC               0-1 (0-1)  Atlético Ottawa
+[Fri Aug/18]
+  20.00  Valour FC                1-3 (0-2)  Atlético Ottawa
+[Sat Aug/19]
+  16.00  Vancouver FC             3-2 (1-0)  Pacific FC
+  19.00  Forge FC                 1-1 (0-1)  HFX Wanderers
+[Sun Aug/20]
+  17.00  Cavalry FC               2-1 (1-0)  York United
+[Fri Aug/25]
+  19.30  York United              2-1 (0-1)  Vancouver FC
+[Sat Aug/26]
+  15.00  HFX Wanderers            3-0 (0-0)  Valour FC
+  19.00  Atlético Ottawa          0-0  Forge FC
+[Sun Aug/27]
+  17.00  Cavalry FC               1-0 (0-0)  Pacific FC
+
+
+Matchday 6
+[Sat Sep/2]
+  16.00  Pacific FC               2-1 (1-0)  Valour FC
+  19.00  Atlético Ottawa          1-2 (0-1)  Cavalry FC
+[Sun Sep/3]
+  17.00  Vancouver FC             0-3 (0-2)  Forge FC
+[Mon Sep/4]
+  14.00  HFX Wanderers            1-2 (1-1)  York United
+[Fri Sep/8]
+  19.00  York United              1-3 (0-1)  Valour FC
+  22.00  Pacific FC               1-1 (0-1)  HFX Wanderers
+[Sat Sep/9]
+  19.00  Forge FC                 0-0  Cavalry FC
+  22.00  Vancouver FC             2-1 (1-1)  Atlético Ottawa
+[Tue Sep/12]
+  18.00  HFX Wanderers            1-2 (0-1)  Cavalry FC
+[Wed Sep/13]
+  17.30  Atlético Ottawa          1-1 (0-1)  Pacific FC
+[Sat Sep/16]
+  17.00  Cavalry FC               2-1 (1-0)  Vancouver FC
+[Sun Sep/17]
+  14.00  Valour FC                2-3 (1-1)  Forge FC
+  17.00  York United              1-4 (0-2)  Pacific FC
+[Mon Sep/18]
+  18.00  HFX Wanderers            3-2 (0-1)  Atlético Ottawa
+[Wed Sep/20]
+  20.00  Valour FC                0-1 (0-0)  Vancouver FC
+[Sat Sep/23]
+  13.00  York United              0-1 (0-1)  Cavalry FC
+  16.00  Vancouver FC             2-1 (0-1)  HFX Wanderers
+  19.00  Forge FC                 3-1 (2-1)  Pacific FC
+[Sun Sep/24]
+  14.00  Atlético Ottawa          0-1 (0-0)  Valour FC
+[Fri Sep/29]
+  21.00  Cavalry FC               2-1 (1-1)  Valour FC
+[Sat Sep/30]
+  14.00  HFX Wanderers            2-1 (2-1)  Forge FC
+  17.00  Pacific FC               1-2 (0-2)  Vancouver FC
+
+
+Matchday 7
+[Sun Oct/1]
+  13.00  York United              1-0 (0-0)  Atlético Ottawa
+[Fri Oct/6]
+  19.30  Valour FC                0-1 (0-0)  HFX Wanderers
+  22.30  Vancouver FC             1-2 (1-2)  York United
+[Sat Oct/7]
+  17.00  Forge FC                 0-1 (0-0)  Atlético Ottawa
+         Cavalry FC               3-0 (1-0)  Pacific FC
+
+
+== Playoffs
+
+Play-in round
+[Wed Oct/11]
+  22.00  Pacific FC               1-0 (0-0)  York United
+
+
+Quarterfinal
+[Sat Oct/14]
+  14.00  HFX Wanderers            0-1 (0-1)  Pacific FC
+
+
+First semifinal
+[Sat Oct/14]
+  17.00  Cavalry FC               1-2 (0-1)  Forge FC
+
+
+Second semifinal
+[Sat Oct/21]
+  16.00  Cavalry FC               2-1 (1-0)  Pacific FC
+
+
+Final
+[Sat Oct/28]
+  18.00  Forge FC                 2-1 (0-0)  Cavalry FC

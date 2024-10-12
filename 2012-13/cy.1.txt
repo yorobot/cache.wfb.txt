@@ -1,0 +1,330 @@
+= CY 1 2012/13
+
+# Date       Sat Sep/1 2012 - Sun Mar/31 2013 (211d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Sat Sep/1]
+  19.00  Anorthosis Famagusta     5-1 (2-0)  AE Paphos
+  20.00  Apollon Limassol         2-0 (1-0)  Ethnikos Achna
+         Olympiakos Nikosia       2-1 (1-1)  Nea Salamina
+[Sun Sep/2]
+  19.00  Omonia Nikosia           5-0 (0-0)  AO Agia Napa
+  20.00  Alki Larnaca             0-1 (0-1)  AEK Larnaca
+[Mon Sep/3]
+  19.00  Enosis Neon Paralimni    0-5 (0-3)  APOEL Nikosia
+         Doxa Katokopias          1-3 (0-0)  AEL Limassol
+
+
+Matchday 2
+[Sat Sep/15]
+  19.00  AO Agia Napa             1-1 (0-0)  Olympiakos Nikosia
+         AE Paphos                1-0 (0-0)  Nea Salamina
+         Anorthosis Famagusta     1-1 (1-0)  Enosis Neon Paralimni
+  20.00  AEL Limassol             3-1 (2-0)  Alki Larnaca
+         Ethnikos Achna           1-1 (0-1)  Omonia Nikosia
+[Sun Sep/16]
+  19.00  AEK Larnaca              2-0 (0-0)  Apollon Limassol
+         APOEL Nikosia            3-1 (0-0)  Doxa Katokopias
+
+
+Matchday 3
+[Sat Sep/22]
+  19.00  Enosis Neon Paralimni    1-1 (0-0)  AE Paphos
+         Omonia Nikosia           0-1 (0-0)  AEK Larnaca
+  20.00  Doxa Katokopias          0-2 (0-0)  Anorthosis Famagusta
+         Alki Larnaca             1-3 (0-1)  APOEL Nikosia
+[Sun Sep/23]
+  19.00  Olympiakos Nikosia       3-1 (2-1)  Ethnikos Achna
+         Nea Salamina             1-0 (0-0)  AO Agia Napa
+[Mon Sep/24]
+  19.00  Apollon Limassol         0-0  AEL Limassol
+
+
+Matchday 4
+[Sat Sep/29]
+  18.00  Enosis Neon Paralimni    1-0 (0-0)  Doxa Katokopias
+         Anorthosis Famagusta     3-0 (1-0)  Alki Larnaca
+  19.00  AEL Limassol             1-1 (1-1)  Omonia Nikosia
+         AEK Larnaca              1-0 (0-0)  Olympiakos Nikosia
+[Sun Sep/30]
+  18.00  APOEL Nikosia            1-0 (0-0)  Apollon Limassol
+         Ethnikos Achna           1-1 (1-0)  Nea Salamina
+  19.00  AE Paphos                3-0 (1-0)  AO Agia Napa
+
+
+Matchday 5
+[Sat Oct/6]
+  17.00  Alki Larnaca             1-1 (0-1)  Enosis Neon Paralimni
+  18.00  AO Agia Napa             1-0 (1-0)  Ethnikos Achna
+  19.00  Nea Salamina             0-0  AEK Larnaca
+[Sun Oct/7]
+  18.00  Doxa Katokopias          1-0 (1-0)  AE Paphos
+         Omonia Nikosia           0-0  APOEL Nikosia
+  19.00  Apollon Limassol         0-2 (0-1)  Anorthosis Famagusta
+[Mon Oct/8]
+  19.00  Olympiakos Nikosia       0-0  AEL Limassol
+
+
+Matchday 6
+[Sat Oct/20]
+  18.00  AEK Larnaca              3-0 (1-0)  AO Agia Napa
+  19.00  Enosis Neon Paralimni    0-3 (0-0)  Apollon Limassol
+         AEL Limassol             2-1 (0-1)  Nea Salamina
+         AE Paphos                0-0  Ethnikos Achna
+[Sun Oct/21]
+  18.00  Doxa Katokopias          0-1 (0-0)  Alki Larnaca
+         Anorthosis Famagusta     2-0 (1-0)  Omonia Nikosia
+[Mon Oct/22]
+  19.00  APOEL Nikosia            4-0 (1-0)  Olympiakos Nikosia
+
+
+Matchday 7
+[Sat Oct/27]
+  18.00  Omonia Nikosia           2-0 (0-0)  Enosis Neon Paralimni
+  19.00  Apollon Limassol         1-0 (0-0)  Doxa Katokopias
+         Nea Salamina             0-3 (0-1)  APOEL Nikosia
+[Sun Oct/28]
+  18.00  Alki Larnaca             0-2 (0-1)  AE Paphos
+         Ethnikos Achna           0-1 (0-1)  AEK Larnaca
+  19.00  Olympiakos Nikosia       1-3 (1-1)  Anorthosis Famagusta
+[Mon Oct/29]
+  19.00  AO Agia Napa             0-4 (0-1)  AEL Limassol
+
+
+Matchday 8
+[Sat Nov/3]
+  18.00  Doxa Katokopias          1-1 (0-0)  Omonia Nikosia
+         AE Paphos                0-3 (0-0)  AEK Larnaca
+  19.00  AEL Limassol             1-1 (1-0)  Ethnikos Achna
+[Sun Nov/4]
+  17.00  Enosis Neon Paralimni    1-2 (1-2)  Olympiakos Nikosia
+  18.00  Anorthosis Famagusta     1-0 (0-0)  Nea Salamina
+         Alki Larnaca             1-3 (0-2)  Apollon Limassol
+[Mon Nov/5]
+  19.00  APOEL Nikosia            4-1 (4-0)  AO Agia Napa
+
+
+Matchday 9
+[Sat Nov/10]
+  17.00  Nea Salamina             0-2 (0-0)  Enosis Neon Paralimni
+  18.00  Apollon Limassol         4-0 (2-0)  AE Paphos
+         Olympiakos Nikosia       1-2 (0-1)  Doxa Katokopias
+[Sun Nov/11]
+  17.00  AO Agia Napa             0-1 (0-0)  Anorthosis Famagusta
+  18.00  Ethnikos Achna           0-1 (0-1)  APOEL Nikosia
+         AEK Larnaca              1-2 (0-1)  AEL Limassol
+         Omonia Nikosia           1-0 (0-0)  Alki Larnaca
+
+
+Matchday 10
+[Sat Nov/17]
+  18.00  Enosis Neon Paralimni    1-0 (1-0)  AO Agia Napa
+         Alki Larnaca             0-0  Olympiakos Nikosia
+  19.00  AE Paphos                1-3 (1-3)  AEL Limassol
+[Sun Nov/18]
+  17.00  Doxa Katokopias          1-0 (1-0)  Nea Salamina
+  18.00  Apollon Limassol         2-1 (0-1)  Omonia Nikosia
+         APOEL Nikosia            1-2 (0-1)  AEK Larnaca
+[Mon Nov/19]
+  19.00  Anorthosis Famagusta     5-1 (3-1)  Ethnikos Achna
+
+
+Matchday 11
+[Sat Nov/24]
+  17.00  Ethnikos Achna           0-0  Enosis Neon Paralimni
+  18.00  AEK Larnaca              2-3 (2-2)  Anorthosis Famagusta
+         Omonia Nikosia           4-2 (1-0)  AE Paphos
+[Sun Nov/25]
+  17.00  AO Agia Napa             0-2 (0-2)  Doxa Katokopias
+  18.00  Olympiakos Nikosia       1-1 (0-1)  Apollon Limassol
+         Nea Salamina             1-1 (0-0)  Alki Larnaca
+[Mon Nov/26]
+  19.00  AEL Limassol             1-3 (1-2)  APOEL Nikosia
+
+
+Matchday 12
+[Sat Dec/1]
+  14.30  Anorthosis Famagusta     1-1 (1-0)  AEL Limassol
+  18.00  Enosis Neon Paralimni    1-2 (0-0)  AEK Larnaca
+         Apollon Limassol         3-1 (1-0)  Nea Salamina
+[Sun Dec/2]
+  17.00  Doxa Katokopias          1-1 (1-1)  Ethnikos Achna
+  18.00  AE Paphos                0-2 (0-1)  APOEL Nikosia
+         Alki Larnaca             0-2 (0-1)  AO Agia Napa
+[Mon Dec/3]
+  19.00  Omonia Nikosia           2-0 (0-0)  Olympiakos Nikosia
+
+
+Matchday 13
+[Sat Dec/8]
+  14.30  APOEL Nikosia            0-1 (0-1)  Anorthosis Famagusta
+  17.00  AO Agia Napa             0-1 (0-0)  Apollon Limassol
+  18.00  Nea Salamina             0-1 (0-0)  Omonia Nikosia
+[Sun Dec/9]
+  17.00  Ethnikos Achna           0-2 (0-1)  Alki Larnaca
+  18.00  Olympiakos Nikosia       3-1 (0-0)  AE Paphos
+         AEK Larnaca              1-2 (1-0)  Doxa Katokopias
+[Mon Dec/10]
+  19.00  AEL Limassol             1-1 (0-0)  Enosis Neon Paralimni
+
+
+Matchday 14
+[Sat Dec/15]
+  17.00  Nea Salamina             3-2 (3-2)  Olympiakos Nikosia
+  18.00  APOEL Nikosia            1-0 (0-0)  Enosis Neon Paralimni
+         AE Paphos                0-2 (0-0)  Anorthosis Famagusta
+         AO Agia Napa             0-3 (0-1)  Omonia Nikosia
+[Sun Dec/16]
+  17.00  Ethnikos Achna           1-1 (0-1)  Apollon Limassol
+  18.00  AEL Limassol             2-0 (1-0)  Doxa Katokopias
+         AEK Larnaca              2-0 (1-0)  Alki Larnaca
+
+
+Matchday 15
+[Sat Dec/22]
+  18.00  Apollon Limassol         1-2 (1-1)  AEK Larnaca
+         Doxa Katokopias          0-3 (0-2)  APOEL Nikosia
+         Omonia Nikosia           2-1 (2-0)  Ethnikos Achna
+  19.00  Alki Larnaca             2-3 (1-2)  AEL Limassol
+[Sun Dec/23]
+  17.00  Nea Salamina             1-1 (1-1)  AE Paphos
+  18.00  Enosis Neon Paralimni    1-2 (1-0)  Anorthosis Famagusta
+         Olympiakos Nikosia       3-2 (2-1)  AO Agia Napa
+
+
+Matchday 16
+[Sat Jan/5]
+  14.30  AEL Limassol             3-2 (0-2)  Apollon Limassol
+  17.00  AO Agia Napa             1-2 (1-1)  Nea Salamina
+  18.00  Anorthosis Famagusta     3-0 (1-0)  Doxa Katokopias
+         AE Paphos                0-1 (0-1)  Enosis Neon Paralimni
+         Ethnikos Achna           1-1 (1-0)  Olympiakos Nikosia
+[Sun Jan/6]
+  17.00  AEK Larnaca              2-1 (2-1)  Omonia Nikosia
+  18.00  APOEL Nikosia            1-1 (0-0)  Alki Larnaca
+
+
+Matchday 17
+[Sat Jan/12]
+  17.00  AO Agia Napa             1-2 (1-2)  AE Paphos
+  18.00  Doxa Katokopias          1-1 (0-1)  Enosis Neon Paralimni
+         Olympiakos Nikosia       0-2 (0-0)  AEK Larnaca
+[Sun Jan/13]
+  14.30  Omonia Nikosia           2-0 (1-0)  AEL Limassol
+  17.00  Nea Salamina             0-1 (0-1)  Ethnikos Achna
+[Mon Jan/14]
+  19.00  Alki Larnaca             0-3 (0-2)  Anorthosis Famagusta
+         Apollon Limassol         1-2 (1-0)  APOEL Nikosia
+
+
+Matchday 18
+[Sat Jan/19]
+  14.30  APOEL Nikosia            1-1 (1-0)  Omonia Nikosia
+  17.00  Ethnikos Achna           2-1 (1-1)  AO Agia Napa
+  18.00  AE Paphos                0-4 (0-2)  Doxa Katokopias
+         AEK Larnaca              1-2 (0-1)  Nea Salamina
+[Sun Jan/20]
+  14.30  Anorthosis Famagusta     0-0  Apollon Limassol
+  17.00  Enosis Neon Paralimni    1-1 (1-0)  Alki Larnaca
+  19.00  AEL Limassol             1-1 (1-0)  Olympiakos Nikosia
+
+
+Matchday 19
+[Sat Jan/26]
+  14.30  Omonia Nikosia           1-3 (0-0)  Anorthosis Famagusta
+  17.00  Ethnikos Achna           3-0 (3-0)  AE Paphos
+  18.00  Apollon Limassol         0-0  Enosis Neon Paralimni
+         AO Agia Napa             1-1 (1-0)  AEK Larnaca
+[Sun Jan/27]
+  17.00  Nea Salamina             0-1 (0-1)  AEL Limassol
+  18.00  Olympiakos Nikosia       0-2 (0-0)  APOEL Nikosia
+[Mon Jan/28]
+  19.00  Alki Larnaca             2-2 (1-1)  Doxa Katokopias
+
+
+Matchday 20
+[Sat Feb/2]
+  17.00  AE Paphos                1-4 (0-1)  Alki Larnaca
+         Doxa Katokopias          0-0  Apollon Limassol
+  18.00  Enosis Neon Paralimni    0-1 (0-0)  Omonia Nikosia
+         APOEL Nikosia            2-0 (1-0)  Nea Salamina
+  19.00  AEL Limassol             2-0 (0-0)  AO Agia Napa
+[Sun Feb/3]
+  17.00  AEK Larnaca              2-1 (0-1)  Ethnikos Achna
+  18.00  Anorthosis Famagusta     4-3 (2-1)  Olympiakos Nikosia
+
+
+Matchday 21
+[Sat Feb/9]
+  18.00  Olympiakos Nikosia       2-3 (1-1)  Enosis Neon Paralimni
+[Sun Feb/10]
+  17.00  Apollon Limassol         2-1 (0-1)  Alki Larnaca
+         Ethnikos Achna           1-3 (0-2)  AEL Limassol
+  18.00  Omonia Nikosia           3-0 (1-0)  Doxa Katokopias
+         Nea Salamina             2-1 (0-0)  Anorthosis Famagusta
+[Mon Feb/11]
+  19.00  AEK Larnaca              4-0 (2-0)  AE Paphos
+         AO Agia Napa             0-2 (0-1)  APOEL Nikosia
+
+
+Matchday 22
+[Tue Feb/26]
+  18.00  AE Paphos                0-1 (0-0)  Apollon Limassol
+         Alki Larnaca             2-4 (0-2)  Omonia Nikosia
+[Wed Feb/27]
+  17.00  AEL Limassol             2-2 (1-1)  AEK Larnaca
+         Enosis Neon Paralimni    0-0  Nea Salamina
+  18.00  Doxa Katokopias          1-1 (1-0)  Olympiakos Nikosia
+         APOEL Nikosia            1-0 (0-0)  Ethnikos Achna
+         Anorthosis Famagusta     5-1 (0-0)  AO Agia Napa
+
+
+Matchday 23
+[Sat Mar/2]
+  17.00  Nea Salamina             0-1 (0-0)  Doxa Katokopias
+  18.00  Ethnikos Achna           2-2 (1-0)  Anorthosis Famagusta
+         Omonia Nikosia           2-1 (2-0)  Apollon Limassol
+  19.00  AEL Limassol             4-0 (4-0)  AE Paphos
+[Sun Mar/3]
+  17.00  AO Agia Napa             1-4 (0-3)  Enosis Neon Paralimni
+  18.00  Olympiakos Nikosia       2-2 (2-1)  Alki Larnaca
+         AEK Larnaca              0-1 (0-0)  APOEL Nikosia
+
+
+Matchday 24
+[Sat Mar/9]
+  16.00  Doxa Katokopias          2-1 (1-0)  AO Agia Napa
+         APOEL Nikosia            2-0 (0-0)  AEL Limassol
+         Apollon Limassol         1-1 (0-1)  Olympiakos Nikosia
+         AE Paphos                1-2 (0-2)  Omonia Nikosia
+         Alki Larnaca             1-0 (1-0)  Nea Salamina
+         Enosis Neon Paralimni    1-1 (0-1)  Ethnikos Achna
+         Anorthosis Famagusta     1-1 (1-1)  AEK Larnaca
+
+
+Matchday 25
+[Sat Mar/16]
+  16.00  AEK Larnaca              5-0 (0-0)  Enosis Neon Paralimni
+         Ethnikos Achna           3-1 (3-0)  Doxa Katokopias
+         AEL Limassol             1-1 (0-0)  Anorthosis Famagusta
+         AO Agia Napa             0-3 (0-3)  Alki Larnaca
+         Olympiakos Nikosia       1-4 (1-2)  Omonia Nikosia
+         Nea Salamina             2-0 (1-0)  Apollon Limassol
+[Sun Mar/17]
+  18.00  APOEL Nikosia            6-0 (3-0)  AE Paphos
+
+
+Matchday 26
+[Sat Mar/30]
+  15.30  Enosis Neon Paralimni    1-2 (1-1)  AEL Limassol
+         AE Paphos                0-5 (0-4)  Olympiakos Nikosia
+         Omonia Nikosia           6-0 (2-0)  Nea Salamina
+         Alki Larnaca             6-5 (1-3)  Ethnikos Achna
+[Sun Mar/31]
+  14.30  Apollon Limassol         2-1 (1-1)  AO Agia Napa
+  15.30  Doxa Katokopias          2-6 (1-1)  AEK Larnaca
+  16.00  Anorthosis Famagusta     0-2 (0-0)  APOEL Nikosia

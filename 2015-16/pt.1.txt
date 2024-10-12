@@ -1,0 +1,543 @@
+= PT 1 2015/16
+
+# Date       Fri Aug/14 2015 - Sun May/15 2016 (275d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Fri Aug/14]
+  20.30  CD Tondela               1-2 (0-1)  Sporting CP
+[Sat Aug/15]
+  20.45  FC Porto                 3-0 (1-0)  Vitória Guimarães
+  18.30  Os Belenenses            3-3 (1-1)  Rio Ave FC
+[Sun Aug/16]
+  16.00  Vitória Setúbal          2-2 (2-0)  Boavista
+         União da Madeira         2-1 (1-0)  CS Marítimo
+  17.00  Moreirense FC            0-2 (0-0)  FC Arouca
+  18.15  Sporting Braga           2-1 (1-1)  CD Nacional
+  20.30  SL Benfica               4-0 (0-0)  GD Estoril
+[Mon Aug/17]
+  20.00  Paços de Ferreira        1-0 (1-0)  Académica de Coimbra
+
+
+Matchday 2
+[Fri Aug/21]
+  20.30  Rio Ave FC               1-0 (1-0)  Sporting Braga
+[Sat Aug/22]
+  20.45  CS Marítimo              1-1 (1-1)  FC Porto
+  18.30  Sporting CP              1-1 (1-0)  Paços de Ferreira
+[Sun Aug/23]
+  17.00  GD Estoril               2-0 (0-0)  Moreirense FC
+         CD Nacional              1-0 (1-0)  União da Madeira
+         Vitória Guimarães        1-1 (1-0)  Os Belenenses
+  19.15  FC Arouca                1-0 (1-0)  SL Benfica
+  17.00  Boavista                 1-0 (0-0)  CD Tondela
+[Mon Aug/24]
+  20.00  Académica de Coimbra     0-4 (0-1)  Vitória Setúbal
+
+
+Matchday 3
+[Sat Aug/29]
+  16.15  Vitória Setúbal          2-2 (0-0)  Rio Ave FC
+  18.30  FC Porto                 2-0 (1-0)  GD Estoril
+  20.45  SL Benfica               3-2 (0-1)  Moreirense FC
+[Sun Aug/30]
+  17.00  Paços de Ferreira        1-1 (1-1)  FC Arouca
+         Sporting Braga           4-0 (1-0)  Boavista
+  19.15  Académica de Coimbra     1-3 (1-2)  Sporting CP
+  16.00  CD Tondela               1-0 (0-0)  CD Nacional
+[Mon Aug/31]
+  21.00  União da Madeira         0-0  Vitória Guimarães
+  19.00  Os Belenenses            1-1 (0-1)  CS Marítimo
+
+
+Matchday 4
+[Fri Sep/11]
+  20.30  SL Benfica               6-0 (3-0)  Os Belenenses
+[Sat Sep/12]
+  18.30  GD Estoril               1-0 (0-0)  Sporting Braga
+  20.45  FC Arouca                1-3 (0-1)  FC Porto
+[Sun Sep/13]
+  16.00  Moreirense FC            0-0  União da Madeira
+         CD Nacional              2-0 (1-0)  Académica de Coimbra
+  17.00  Vitória Guimarães        1-0 (1-0)  CD Tondela
+  19.15  Rio Ave FC               1-2 (0-2)  Sporting CP
+  16.00  CS Marítimo              5-2 (0-1)  Vitória Setúbal
+[Mon Sep/14]
+  20.00  Boavista                 0-1 (0-0)  Paços de Ferreira
+
+
+Matchday 5
+[Fri Sep/18]
+  20.30  Vitória Setúbal          2-2 (1-1)  Vitória Guimarães
+[Sat Sep/19]
+  16.00  CD Tondela               0-1 (0-0)  GD Estoril
+  20.45  Paços de Ferreira        0-3 (0-2)  Rio Ave FC
+[Sun Sep/20]
+  16.00  União da Madeira         0-0  FC Arouca
+  19.15  FC Porto                 1-0 (0-0)  SL Benfica
+  16.00  Académica de Coimbra     0-2 (0-1)  Boavista
+[Mon Sep/21]
+  19.00  Sporting Braga           5-1 (2-1)  CS Marítimo
+  21.00  Sporting CP              1-0 (0-0)  CD Nacional
+  18.00  Os Belenenses            2-0 (2-0)  Moreirense FC
+
+
+Matchday 6
+[Fri Sep/25]
+  20.30  Moreirense FC            2-2 (0-1)  FC Porto
+[Sat Sep/26]
+  18.30  SL Benfica               3-0 (1-0)  Paços de Ferreira
+  20.45  Boavista                 0-0  Sporting CP
+[Sun Sep/27]
+  16.00  CD Nacional              1-1 (0-1)  Vitória Setúbal
+  17.00  FC Arouca                2-2 (0-1)  Os Belenenses
+         GD Estoril               2-1 (1-0)  União da Madeira
+  19.15  Vitória Guimarães        0-1 (0-0)  Sporting Braga
+  16.00  CS Marítimo              1-0 (0-0)  CD Tondela
+[Mon Sep/28]
+  20.00  Rio Ave FC               1-0 (1-0)  Académica de Coimbra
+
+
+Matchday 7
+[Fri Oct/2]
+  20.30  Vitória Setúbal          1-0 (0-0)  GD Estoril
+[Sat Oct/3]
+  16.00  Paços de Ferreira        3-1 (1-1)  CD Nacional
+         CD Tondela               1-1 (0-1)  Moreirense FC
+  18.30  Académica de Coimbra     1-0 (0-0)  CS Marítimo
+  20.45  Rio Ave FC               1-0 (0-0)  Boavista
+[Sun Oct/4]
+  18.15  FC Porto                 4-0 (0-0)  Os Belenenses
+  20.30  Sporting CP              5-1 (2-0)  Vitória Guimarães
+  18.00  Sporting Braga           0-0  FC Arouca
+
+
+Matchday 8
+[Fri Oct/23]
+  20.30  CD Nacional              0-0  Boavista
+[Sat Oct/24]
+  16.15  CS Marítimo              0-2 (0-1)  Paços de Ferreira
+  18.30  GD Estoril               2-2 (0-1)  Rio Ave FC
+  20.45  Vitória Guimarães        1-1 (1-0)  Académica de Coimbra
+[Sun Oct/25]
+  19.15  FC Porto                 0-0  Sporting Braga
+  16.00  FC Arouca                1-1 (0-0)  CD Tondela
+         Moreirense FC            0-2 (0-1)  Vitória Setúbal
+  17.00  SL Benfica               0-3 (0-3)  Sporting CP
+[Mon Oct/26]
+  20.00  Os Belenenses            1-0 (0-0)  União da Madeira
+
+
+Matchday 9
+[Fri Oct/30]
+  20.30  CD Tondela               0-4 (0-3)  SL Benfica
+[Sat Oct/31]
+  16.15  Sporting Braga           4-0 (1-0)  Os Belenenses
+  20.45  Sporting CP              1-0 (0-0)  GD Estoril
+[Sun Nov/1]
+  19.15  Boavista                 0-1 (0-1)  CS Marítimo
+  16.00  Académica de Coimbra     1-1 (1-0)  Moreirense FC
+         Vitória Setúbal          0-0  FC Arouca
+         Rio Ave FC               1-0 (0-0)  CD Nacional
+[Mon Nov/2]
+  20.00  Paços de Ferreira        0-1 (0-0)  Vitória Guimarães
+
+
+Matchday 10
+[Fri Nov/6]
+  20.30  GD Estoril               1-1 (1-0)  Académica de Coimbra
+[Sat Nov/7]
+  20.45  Vitória Guimarães        0-1 (0-1)  CD Nacional
+[Sun Nov/8]
+  18.15  FC Porto                 2-0 (0-0)  Vitória Setúbal
+  20.30  FC Arouca                0-1 (0-0)  Sporting CP
+  16.00  SL Benfica               2-0 (1-0)  Boavista
+         CS Marítimo              3-2 (2-0)  Rio Ave FC
+         Moreirense FC            2-0 (1-0)  Paços de Ferreira
+[Mon Nov/9]
+  21.00  União da Madeira         0-1 (0-0)  Sporting Braga
+  19.00  Os Belenenses            2-1 (1-0)  CD Tondela
+
+
+Matchday 11
+[Fri Nov/27]
+  20.30  CD Nacional              3-1 (1-1)  CS Marítimo
+[Sat Nov/28]
+  18.30  Boavista                 1-2 (1-0)  Vitória Guimarães
+  17.00  Vitória Setúbal          2-2 (1-0)  União da Madeira
+  20.45  CD Tondela               0-1 (0-1)  FC Porto
+[Sun Nov/29]
+  19.15  Paços de Ferreira        2-0 (1-0)  GD Estoril
+  16.00  Académica de Coimbra     1-1 (1-1)  FC Arouca
+         Rio Ave FC               0-1 (0-0)  Moreirense FC
+[Mon Nov/30]
+  21.00  Sporting Braga           0-2 (0-2)  SL Benfica
+  19.00  Sporting CP              1-0 (0-0)  Os Belenenses
+
+
+Matchday 9
+[Wed Dec/2]
+  20.00  União da Madeira         0-4 (0-3)  FC Porto
+
+
+Matchday 12
+[Fri Dec/4]
+  20.30  SL Benfica               3-0 (1-0)  Académica de Coimbra
+[Sat Dec/5]
+  16.15  Os Belenenses            0-3 (0-2)  Vitória Setúbal
+  18.30  FC Porto                 2-1 (1-1)  Paços de Ferreira
+  20.45  CS Marítimo              0-1 (0-0)  Sporting CP
+[Sun Dec/6]
+  17.00  Moreirense FC            0-0  Sporting Braga
+  16.00  FC Arouca                3-2 (2-2)  Boavista
+         GD Estoril               1-1 (0-0)  CD Nacional
+         União da Madeira         2-0 (1-0)  CD Tondela
+[Mon Dec/7]
+  20.00  Vitória Guimarães        3-1 (1-1)  Rio Ave FC
+
+
+Matchday 13
+[Fri Dec/11]
+  20.30  Boavista                 1-1 (1-1)  GD Estoril
+[Sat Dec/12]
+  16.15  Rio Ave FC               3-1 (1-0)  FC Arouca
+  18.00  Paços de Ferreira        6-0 (3-0)  União da Madeira
+  18.30  Vitória Guimarães        3-4 (1-2)  CS Marítimo
+  20.45  Vitória Setúbal          2-4 (0-2)  SL Benfica
+[Sun Dec/13]
+  20.30  CD Tondela               0-1 (0-0)  Sporting Braga
+  18.15  Sporting CP              3-1 (2-0)  Moreirense FC
+[Mon Dec/14]
+  12.30  CD Nacional              1-2 (1-2)  FC Porto
+  20.00  Académica de Coimbra     4-3 (2-1)  Os Belenenses
+
+
+Matchday 7
+[Tue Dec/15]
+  21.00  União da Madeira         0-0  SL Benfica
+
+
+Matchday 14
+[Sat Dec/19]
+  20.45  GD Estoril               0-1 (0-1)  Vitória Guimarães
+  18.30  FC Arouca                4-1 (2-0)  CS Marítimo
+[Sun Dec/20]
+  16.00  SL Benfica               3-1 (1-1)  Rio Ave FC
+         Moreirense FC            2-0 (2-0)  CD Nacional
+         CD Tondela               1-3 (1-3)  Vitória Setúbal
+  18.15  União da Madeira         1-0 (0-0)  Sporting CP
+  20.30  FC Porto                 3-1 (1-0)  Académica de Coimbra
+[Mon Dec/21]
+  21.00  Sporting Braga           1-1 (1-0)  Paços de Ferreira
+  19.00  Os Belenenses            1-0 (1-0)  Boavista
+
+
+Matchday 15
+[Sat Jan/2]
+  16.00  Académica de Coimbra     3-1 (1-1)  União da Madeira
+         Boavista                 0-3 (0-1)  Moreirense FC
+         CD Nacional              2-2 (1-2)  FC Arouca
+         CS Marítimo              1-1 (1-0)  GD Estoril
+  16.15  Vitória Setúbal          1-1 (1-0)  Sporting Braga
+  18.00  Paços de Ferreira        2-2 (1-1)  Os Belenenses
+  18.30  Vitória Guimarães        0-1 (0-0)  SL Benfica
+  20.45  Sporting CP              2-0 (1-0)  FC Porto
+[Sun Jan/3]
+  17.00  Rio Ave FC               2-3 (1-0)  CD Tondela
+
+
+Matchday 16
+[Wed Jan/6]
+  15.00  União da Madeira         1-0 (0-0)  Boavista
+  16.00  FC Arouca                1-0 (1-0)  GD Estoril
+         CD Tondela               0-2 (0-1)  Paços de Ferreira
+  16.15  Moreirense FC            3-4 (1-3)  Vitória Guimarães
+  18.00  Os Belenenses            2-2 (0-1)  CD Nacional
+  18.15  Sporting Braga           3-0 (2-0)  Académica de Coimbra
+  19.00  SL Benfica               6-0 (3-0)  CS Marítimo
+  20.15  FC Porto                 1-1 (1-1)  Rio Ave FC
+         Vitória Setúbal          0-6 (0-2)  Sporting CP
+
+
+Matchday 17
+[Sat Jan/9]
+  18.30  Vitória Guimarães        2-2 (2-0)  FC Arouca
+[Sun Jan/10]
+  16.00  Académica de Coimbra     2-1 (0-1)  CD Tondela
+         CS Marítimo              5-1 (2-0)  Moreirense FC
+         Rio Ave FC               1-0 (1-0)  União da Madeira
+         GD Estoril               2-0 (0-0)  Os Belenenses
+         Sporting CP              3-2 (0-2)  Sporting Braga
+  18.15  Boavista                 0-5 (0-1)  FC Porto
+[Mon Jan/11]
+  20.00  Paços de Ferreira        2-1 (1-1)  Vitória Setúbal
+  12.00  CD Nacional              1-4 (0-1)  SL Benfica
+
+
+Matchday 18
+[Fri Jan/15]
+  20.30  Sporting CP              2-2 (0-1)  CD Tondela
+[Sat Jan/16]
+  18.30  CS Marítimo              0-1 (0-0)  União da Madeira
+  20.45  GD Estoril               1-2 (1-0)  SL Benfica
+  16.15  Académica de Coimbra     1-1 (1-1)  Paços de Ferreira
+[Sun Jan/17]
+  16.00  Rio Ave FC               1-2 (1-2)  Os Belenenses
+         FC Arouca                1-2 (1-1)  Moreirense FC
+  18.15  CD Nacional              2-3 (1-1)  Sporting Braga
+  20.30  Vitória Guimarães        1-0 (1-0)  FC Porto
+[Mon Jan/18]
+  20.00  Boavista                 4-0 (1-0)  Vitória Setúbal
+
+
+Matchday 19
+[Fri Jan/22]
+  20.30  Vitória Setúbal          2-1 (1-0)  Académica de Coimbra
+[Sat Jan/23]
+  16.00  Moreirense FC            1-3 (1-2)  GD Estoril
+         União da Madeira         3-0 (2-0)  CD Nacional
+  18.30  SL Benfica               3-1 (2-0)  FC Arouca
+  20.45  Paços de Ferreira        1-3 (0-1)  Sporting CP
+[Sun Jan/24]
+  18.15  Sporting Braga           5-1 (2-0)  Rio Ave FC
+  20.30  FC Porto                 1-0 (1-0)  CS Marítimo
+  16.00  Os Belenenses            3-3 (2-2)  Vitória Guimarães
+[Mon Jan/25]
+  20.00  CD Tondela               1-2 (1-1)  Boavista
+
+
+Matchday 20
+[Fri Jan/29]
+  20.30  Vitória Guimarães        3-1 (1-1)  União da Madeira
+[Sat Jan/30]
+  18.30  GD Estoril               1-3 (1-2)  FC Porto
+  20.45  Sporting CP              3-2 (2-1)  Académica de Coimbra
+[Sun Jan/31]
+  16.00  CD Nacional              3-1 (2-0)  CD Tondela
+         Rio Ave FC               2-1 (2-0)  Vitória Setúbal
+  17.00  Boavista                 0-0  Sporting Braga
+  19.15  Moreirense FC            1-4 (0-2)  SL Benfica
+  16.00  FC Arouca                2-2 (0-1)  Paços de Ferreira
+[Mon Feb/1]
+  20.00  CS Marítimo              1-2 (0-1)  Os Belenenses
+
+
+Matchday 21
+[Fri Feb/5]
+  20.30  Os Belenenses            0-5 (0-1)  SL Benfica
+[Sat Feb/6]
+  18.30  Vitória Setúbal          1-1 (1-0)  CS Marítimo
+  20.45  CD Tondela               1-1 (1-1)  Vitória Guimarães
+[Sun Feb/7]
+  16.00  União da Madeira         0-1 (0-1)  Moreirense FC
+         Académica de Coimbra     2-2 (1-0)  CD Nacional
+  19.15  FC Porto                 1-2 (1-1)  FC Arouca
+  16.00  Paços de Ferreira        0-1 (0-0)  Boavista
+[Mon Feb/8]
+  21.00  Sporting Braga           2-0 (0-0)  GD Estoril
+  19.00  Sporting CP              0-0  Rio Ave FC
+
+
+Matchday 22
+[Fri Feb/12]
+  20.30  SL Benfica               1-2 (1-1)  FC Porto
+[Sat Feb/13]
+  16.15  Moreirense FC            2-3 (1-2)  Os Belenenses
+  18.30  CD Nacional              0-4 (0-1)  Sporting CP
+  20.45  Vitória Guimarães        2-2 (1-1)  Vitória Setúbal
+[Sun Feb/14]
+  16.00  GD Estoril               2-1 (1-1)  CD Tondela
+  17.00  Boavista                 0-0  Académica de Coimbra
+  19.15  CS Marítimo              1-3 (1-3)  Sporting Braga
+  16.00  FC Arouca                3-0 (1-0)  União da Madeira
+[Mon Feb/15]
+  20.00  Rio Ave FC               1-1 (0-1)  Paços de Ferreira
+
+
+Matchday 23
+[Fri Feb/19]
+  20.30  União da Madeira         1-1 (1-0)  GD Estoril
+[Sat Feb/20]
+  18.30  Paços de Ferreira        1-3 (1-2)  SL Benfica
+  20.45  Académica de Coimbra     0-2 (0-1)  Rio Ave FC
+[Sun Feb/21]
+  16.00  CD Tondela               3-4 (1-2)  CS Marítimo
+         Vitória Setúbal          1-1 (0-1)  CD Nacional
+  18.15  FC Porto                 3-2 (1-2)  Moreirense FC
+  20.30  Sporting Braga           3-3 (2-2)  Vitória Guimarães
+  16.00  Os Belenenses            0-2 (0-0)  FC Arouca
+[Mon Feb/22]
+  20.00  Sporting CP              2-0 (2-0)  Boavista
+
+
+Matchday 24
+[Fri Feb/26]
+  20.30  CD Nacional              3-0 (1-0)  Paços de Ferreira
+[Sat Feb/27]
+  16.15  Boavista                 1-2 (0-1)  Rio Ave FC
+  18.30  FC Arouca                0-0  Sporting Braga
+  20.45  GD Estoril               3-0 (2-0)  Vitória Setúbal
+[Sun Feb/28]
+  16.00  Moreirense FC            1-2 (1-1)  CD Tondela
+  19.15  Os Belenenses            1-2 (0-2)  FC Porto
+  16.00  CS Marítimo              1-0 (0-0)  Académica de Coimbra
+[Mon Feb/29]
+  20.00  Vitória Guimarães        0-0  Sporting CP
+  19.45  SL Benfica               2-0 (1-0)  União da Madeira
+
+
+Matchday 25
+[Fri Mar/4]
+  20.30  Paços de Ferreira        2-2 (0-0)  CS Marítimo
+[Sat Mar/5]
+  20.45  Sporting CP              0-1 (0-1)  SL Benfica
+[Sun Mar/6]
+  16.00  CD Tondela               0-1 (0-0)  FC Arouca
+         União da Madeira         0-0  Os Belenenses
+         Vitória Setúbal          0-1 (0-0)  Moreirense FC
+         Boavista                 0-1 (0-1)  CD Nacional
+  18.15  Académica de Coimbra     2-0 (0-0)  Vitória Guimarães
+  20.30  Sporting Braga           3-1 (0-0)  FC Porto
+[Mon Mar/7]
+  20.00  Rio Ave FC               1-3 (0-1)  GD Estoril
+
+
+Matchday 26
+[Fri Mar/11]
+  20.30  CS Marítimo              0-3 (0-0)  Boavista
+[Sat Mar/12]
+  20.45  FC Porto                 3-2 (1-0)  União da Madeira
+  18.30  GD Estoril               1-2 (0-2)  Sporting CP
+[Sun Mar/13]
+  16.00  Moreirense FC            2-2 (0-1)  Académica de Coimbra
+         FC Arouca                1-0 (1-0)  Vitória Setúbal
+         CD Nacional              1-0 (0-0)  Rio Ave FC
+  18.15  Vitória Guimarães        0-1 (0-1)  Paços de Ferreira
+  20.30  Os Belenenses            3-0 (0-0)  Sporting Braga
+[Mon Mar/14]
+  20.00  SL Benfica               4-1 (2-0)  CD Tondela
+
+
+Matchday 27
+[Fri Mar/18]
+  20.30  Rio Ave FC               1-0 (1-0)  CS Marítimo
+[Sat Mar/19]
+  20.45  Vitória Setúbal          0-1 (0-1)  FC Porto
+  18.30  Sporting CP              5-1 (4-0)  FC Arouca
+[Sun Mar/20]
+  16.00  CD Tondela               2-2 (0-1)  Os Belenenses
+         CD Nacional              3-2 (1-2)  Vitória Guimarães
+         Académica de Coimbra     0-3 (0-2)  GD Estoril
+         Paços de Ferreira        0-0  Moreirense FC
+  18.15  Boavista                 0-1 (0-0)  SL Benfica
+  20.30  Sporting Braga           2-0 (1-0)  União da Madeira
+
+
+Matchday 28
+[Fri Apr/1]
+  20.30  SL Benfica               5-1 (3-0)  Sporting Braga
+[Sat Apr/2]
+  18.30  CS Marítimo              2-0 (0-0)  CD Nacional
+  20.45  Vitória Guimarães        1-1 (1-1)  Boavista
+  16.15  FC Arouca                3-2 (3-1)  Académica de Coimbra
+[Sun Apr/3]
+  17.00  GD Estoril               1-0 (1-0)  Paços de Ferreira
+  19.15  Moreirense FC            0-1 (0-0)  Rio Ave FC
+  16.00  União da Madeira         2-2 (2-0)  Vitória Setúbal
+[Mon Apr/4]
+  19.00  FC Porto                 0-1 (0-0)  CD Tondela
+  21.00  Os Belenenses            2-5 (0-2)  Sporting CP
+
+
+Matchday 29
+[Fri Apr/8]
+  20.30  Boavista                 0-0  FC Arouca
+[Sat Apr/9]
+  20.45  Sporting CP              3-1 (1-0)  CS Marítimo
+  18.30  Académica de Coimbra     1-2 (1-1)  SL Benfica
+[Sun Apr/10]
+  16.00  CD Nacional              4-1 (1-0)  GD Estoril
+         CD Tondela               1-0 (1-0)  União da Madeira
+  18.15  Paços de Ferreira        1-0 (0-0)  FC Porto
+  20.30  Sporting Braga           1-1 (0-0)  Moreirense FC
+  16.00  Vitória Setúbal          0-1 (0-0)  Os Belenenses
+[Mon Apr/11]
+  20.00  Rio Ave FC               2-0 (2-0)  Vitória Guimarães
+
+
+Matchday 30
+[Sat Apr/16]
+  18.30  GD Estoril               1-0 (0-0)  Boavista
+  20.45  Moreirense FC            0-1 (0-1)  Sporting CP
+  16.15  FC Arouca                0-0  Rio Ave FC
+[Sun Apr/17]
+  16.00  União da Madeira         3-4 (2-0)  Paços de Ferreira
+  18.15  CS Marítimo              3-0 (2-0)  Vitória Guimarães
+  20.30  FC Porto                 4-0 (2-0)  CD Nacional
+  16.00  Os Belenenses            1-1 (1-0)  Académica de Coimbra
+[Mon Apr/18]
+  19.00  Sporting Braga           3-0 (1-0)  CD Tondela
+  21.00  SL Benfica               2-1 (2-1)  Vitória Setúbal
+
+
+Matchday 31
+[Fri Apr/22]
+  20.30  Boavista                 1-0 (1-0)  Os Belenenses
+[Sat Apr/23]
+  18.30  Sporting CP              2-0 (2-0)  União da Madeira
+  20.45  Paços de Ferreira        1-0 (1-0)  Sporting Braga
+  16.15  Académica de Coimbra     1-2 (1-1)  FC Porto
+[Sun Apr/24]
+  16.00  CS Marítimo              1-2 (0-2)  FC Arouca
+         CD Nacional              0-1 (0-1)  Moreirense FC
+         Vitória Setúbal          0-1 (0-0)  CD Tondela
+  18.15  Vitória Guimarães        1-1 (0-0)  GD Estoril
+  20.30  Rio Ave FC               0-1 (0-0)  SL Benfica
+
+
+Matchday 32
+[Fri Apr/29]
+  19.00  SL Benfica               1-0 (0-0)  Vitória Guimarães
+  21.00  Sporting Braga           3-2 (1-1)  Vitória Setúbal
+[Sat Apr/30]
+  16.00  Os Belenenses            0-2 (0-1)  Paços de Ferreira
+  18.30  FC Porto                 1-3 (1-2)  Sporting CP
+  16.00  CD Tondela               1-1 (1-0)  Rio Ave FC
+[Sun May/1]
+  16.00  GD Estoril               2-1 (0-1)  CS Marítimo
+  18.15  FC Arouca                3-0 (2-0)  CD Nacional
+  20.30  União da Madeira         3-1 (1-0)  Académica de Coimbra
+  16.00  Moreirense FC            1-1 (1-1)  Boavista
+
+
+Matchday 33
+[Fri May/6]
+  20.30  Paços de Ferreira        1-4 (1-1)  CD Tondela
+[Sat May/7]
+  18.30  Académica de Coimbra     0-0  Sporting Braga
+  20.45  Sporting CP              5-0 (2-0)  Vitória Setúbal
+  16.15  Rio Ave FC               1-3 (1-1)  FC Porto
+[Sun May/8]
+  16.00  Boavista                 1-0 (1-0)  União da Madeira
+  18.15  Vitória Guimarães        4-1 (1-1)  Moreirense FC
+  20.30  CS Marítimo              0-2 (0-0)  SL Benfica
+  16.00  CD Nacional              2-2 (1-0)  Os Belenenses
+[Mon May/9]
+  20.00  GD Estoril               1-1 (0-1)  FC Arouca
+
+
+Matchday 34
+[Sat May/14]
+  11.45  FC Porto                 4-0 (1-0)  Boavista
+  18.00  FC Arouca                2-2 (0-2)  Vitória Guimarães
+  19.30  CD Tondela               2-0 (1-0)  Académica de Coimbra
+         Vitória Setúbal          0-0  Paços de Ferreira
+         União da Madeira         1-2 (1-0)  Rio Ave FC
+         Os Belenenses            2-1 (2-1)  GD Estoril
+[Sun May/15]
+  17.00  SL Benfica               4-1 (2-0)  CD Nacional
+         Sporting Braga           0-4 (0-2)  Sporting CP
+  15.00  Moreirense FC            2-1 (1-0)  CS Marítimo

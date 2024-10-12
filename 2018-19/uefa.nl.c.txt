@@ -1,0 +1,84 @@
+= UEFA NL C 2018/19
+
+# Date       Thu Sep/6 - Tue Nov/20 2018 (75d)
+# Teams      15
+# Matches    42
+
+
+
+Gruppe 1
+[Fri Sep/7]
+  20.45  Albanien                 1-0 (0-0)  Israel
+[Mon Sep/10]
+  20.45  Schottland               2-0 (0-0)  Albanien
+[Thu Oct/11]
+  20.45  Israel                   2-1 (0-1)  Schottland
+[Sun Oct/14]
+  20.45  Israel                   2-0 (1-0)  Albanien
+[Sat Nov/17]
+  20.45  Albanien                 0-4 (0-2)  Schottland
+[Tue Nov/20]
+  20.45  Schottland               3-2 (2-1)  Israel
+
+
+Gruppe 2
+[Sat Sep/8]
+  18.00  Finnland                 1-0 (1-0)  Ungarn
+  20.45  Estland                  0-1 (0-1)  Griechenland
+[Tue Sep/11]
+  20.45  Finnland                 1-0 (1-0)  Estland
+         Ungarn                   2-1 (2-1)  Griechenland
+[Fri Oct/12]
+  20.45  Estland                  0-1 (0-0)  Finnland
+         Griechenland             1-0 (0-0)  Ungarn
+[Mon Oct/15]
+  20.45  Estland                  3-3 (1-1)  Ungarn
+         Finnland                 2-0 (0-0)  Griechenland
+[Thu Nov/15]
+  20.45  Ungarn                   2-0 (1-0)  Estland
+         Griechenland             1-0 (1-0)  Finnland
+[Sun Nov/18]
+  20.45  Griechenland             0-1 (0-1)  Estland
+         Ungarn                   2-0 (2-0)  Finnland
+
+
+Gruppe 3
+[Thu Sep/6]
+  20.45  Slowenien                1-2 (1-1)  Bulgarien
+         Norwegen                 2-0 (2-0)  Zypern
+[Sun Sep/9]
+  18.00  Bulgarien                1-0 (0-0)  Norwegen
+  20.45  Zypern                   2-1 (0-0)  Slowenien
+[Sat Oct/13]
+  18.00  Norwegen                 1-0 (1-0)  Slowenien
+  20.45  Bulgarien                2-1 (0-1)  Zypern
+[Tue Oct/16]
+  20.45  Norwegen                 1-0 (1-0)  Bulgarien
+         Slowenien                1-1 (0-1)  Zypern
+[Fri Nov/16]
+  20.45  Zypern                   1-1 (1-0)  Bulgarien
+         Slowenien                1-1 (1-0)  Norwegen
+[Mon Nov/19]
+  20.45  Bulgarien                1-1 (0-0)  Slowenien
+         Zypern                   0-2 (0-1)  Norwegen
+
+
+Gruppe 4
+[Fri Sep/7]
+  20.45  Litauen                  0-1 (0-1)  Serbien
+         Rumänien                 0-0  Montenegro
+[Mon Sep/10]
+  20.45  Montenegro               2-0 (2-0)  Litauen
+         Serbien                  2-2 (1-0)  Rumänien
+[Thu Oct/11]
+  20.45  Litauen                  1-2 (0-1)  Rumänien
+         Montenegro               0-2 (0-1)  Serbien
+[Sun Oct/14]
+  15.00  Rumänien                 0-0  Serbien
+  20.45  Litauen                  1-4 (0-3)  Montenegro
+[Sat Nov/17]
+  15.00  Serbien                  2-1 (2-0)  Montenegro
+  20.45  Rumänien                 3-0 (1-0)  Litauen
+[Tue Nov/20]
+  20.45  Serbien                  4-1 (0-0)  Litauen
+         Montenegro               0-1 (0-1)  Rumänien

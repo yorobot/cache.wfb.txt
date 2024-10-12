@@ -1,0 +1,618 @@
+= IT 3 C 2014/15
+
+# Date       Fri Aug/29 2014 - Sat May/30 2015 (274d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/29]
+  19.30  Matera Calcio            1-1 (1-0)  Paganese Calcio
+[Sat Aug/30]
+  14.30  Aversa Normanna          1-1 (0-1)  Vigor Lamezia
+  15.00  Foggia Calcio            3-2 (2-1)  ASD Martina Calcio
+  16.00  US Catanzaro             2-0 (1-0)  SS Juve Stabia
+  17.00  AC Savoia 1908           1-1 (1-0)  AS Melfi
+  19.30  SS Barletta Calcio       1-0 (0-0)  ACR Messina
+[Sun Aug/31]
+  14.30  Ischia                   0-1 (0-1)  Benevento Calcio
+  16.00  Reggina Calcio           2-2 (1-0)  Casertana FC
+  18.00  US Salernitana 1919      1-1 (1-1)  Cosenza Calcio
+  12.30  Lupa Roma                2-1 (0-1)  US Lecce
+
+
+Matchday 2
+[Fri Sep/5]
+  20.45  Benevento Calcio         1-1 (1-0)  US Catanzaro
+[Sat Sep/6]
+  14.30  Vigor Lamezia            3-1 (2-1)  AC Savoia 1908
+  15.00  Cosenza Calcio           2-2 (0-2)  Foggia Calcio
+  16.00  AS Melfi                 0-0  Ischia
+  17.00  SS Juve Stabia           1-1 (1-0)  Matera Calcio
+  19.30  US Lecce                 1-0 (0-0)  SS Barletta Calcio
+[Sun Sep/7]
+  14.30  ASD Martina Calcio       1-2 (0-0)  US Salernitana 1919
+  16.00  Paganese Calcio          1-2 (0-0)  Reggina Calcio
+  18.00  Casertana FC             2-2 (1-0)  Aversa Normanna
+  12.30  ACR Messina              2-2 (1-0)  Lupa Roma
+
+
+Matchday 3
+[Fri Sep/12]
+  19.30  Foggia Calcio            0-0  AS Melfi
+  20.30  Reggina Calcio           0-1 (0-0)  ACR Messina
+[Sat Sep/13]
+  14.30  Ischia                   0-0  Vigor Lamezia
+  15.00  Matera Calcio            0-0  US Lecce
+  16.00  US Catanzaro             1-0 (0-0)  ASD Martina Calcio
+  17.00  SS Barletta Calcio       3-0 (1-0)  Cosenza Calcio
+  19.30  Casertana FC             0-1 (0-0)  SS Juve Stabia
+[Sun Sep/14]
+  14.30  Lupa Roma                1-0 (1-0)  Paganese Calcio
+  16.00  AC Savoia 1908           2-3 (2-1)  Benevento Calcio
+  11.00  US Salernitana 1919      4-3 (0-1)  Aversa Normanna
+
+
+Matchday 4
+[Fri Sep/19]
+  20.45  US Lecce                 2-0 (1-0)  Reggina Calcio
+[Sat Sep/20]
+  14.30  Cosenza Calcio           1-2 (0-1)  Lupa Roma
+  15.00  Paganese Calcio          0-2 (0-1)  Casertana FC
+         Vigor Lamezia            0-1 (0-0)  US Salernitana 1919
+  16.00  ACR Messina              0-5 (0-5)  Matera Calcio
+  17.00  AS Melfi                 2-4 (1-3)  US Catanzaro
+[Sun Sep/21]
+  14.30  Aversa Normanna          0-2 (0-1)  AC Savoia 1908
+  16.00  Benevento Calcio         2-0 (2-0)  Foggia Calcio
+  18.00  SS Juve Stabia           3-1 (1-1)  SS Barletta Calcio
+  12.30  ASD Martina Calcio       2-2 (1-0)  Ischia
+
+
+Matchday 5
+[Wed Sep/24]
+  15.00  Ischia                   0-1 (0-1)  US Salernitana 1919
+  16.00  Lupa Roma                1-1 (0-0)  Benevento Calcio
+  20.30  ASD Martina Calcio       2-2 (2-0)  SS Juve Stabia
+         AS Melfi                 1-2 (0-2)  Vigor Lamezia
+         AC Savoia 1908           0-0  US Lecce
+  20.45  Casertana FC             1-0 (1-0)  Cosenza Calcio
+         US Catanzaro             1-2 (1-1)  Matera Calcio
+         Foggia Calcio            0-0  Aversa Normanna
+         Paganese Calcio          1-0 (1-0)  ACR Messina
+         Reggina Calcio           0-0  SS Barletta Calcio
+
+
+Matchday 6
+[Sat Sep/27]
+  15.00  US Salernitana 1919      0-0  AS Melfi
+  16.00  Benevento Calcio         1-0 (0-0)  ASD Martina Calcio
+  17.00  US Lecce                 1-0 (1-0)  Paganese Calcio
+  14.30  Aversa Normanna          1-2 (0-0)  Ischia
+[Sun Sep/28]
+  12.30  Vigor Lamezia            1-1 (0-0)  Foggia Calcio
+  14.30  SS Juve Stabia           2-1 (0-0)  Reggina Calcio
+         ACR Messina              1-5 (0-5)  Casertana FC
+  16.00  Cosenza Calcio           0-0  US Catanzaro
+  18.00  Matera Calcio            3-1 (2-0)  Lupa Roma
+[Mon Sep/29]
+  20.45  SS Barletta Calcio       0-0  AC Savoia 1908
+
+
+Matchday 7
+[Fri Oct/3]
+  19.30  Casertana FC             1-0 (0-0)  Matera Calcio
+[Sat Oct/4]
+  14.30  AC Savoia 1908           1-1 (1-0)  Ischia
+  15.00  ACR Messina              3-1 (0-1)  US Lecce
+  16.00  Paganese Calcio          0-1 (0-0)  SS Juve Stabia
+  17.00  Foggia Calcio            1-1 (0-1)  US Salernitana 1919
+  19.30  ASD Martina Calcio       1-2 (1-1)  Vigor Lamezia
+[Sun Oct/5]
+  14.30  US Catanzaro             2-0 (1-0)  Aversa Normanna
+  16.00  Reggina Calcio           3-0 (2-0)  Cosenza Calcio
+  18.00  AS Melfi                 2-2 (0-2)  Benevento Calcio
+  11.00  Lupa Roma                2-0 (1-0)  SS Barletta Calcio
+
+
+Matchday 8
+[Sat Oct/11]
+  14.30  US Lecce                 2-0 (1-0)  Casertana FC
+  15.00  Ischia                   1-3 (0-1)  Foggia Calcio
+  16.00  US Salernitana 1919      2-0 (2-0)  AC Savoia 1908
+  17.00  Cosenza Calcio           1-1 (0-0)  Paganese Calcio
+  18.00  Aversa Normanna          0-0  AS Melfi
+  19.30  Matera Calcio            1-0 (0-0)  Reggina Calcio
+  20.00  SS Juve Stabia           1-1 (0-1)  ACR Messina
+  20.45  SS Barletta Calcio       0-1 (0-1)  Benevento Calcio
+[Sun Oct/12]
+  15.00  Vigor Lamezia            2-1 (0-1)  US Catanzaro
+  14.30  Lupa Roma                0-0  ASD Martina Calcio
+
+
+Matchday 9
+[Fri Oct/17]
+  19.30  Reggina Calcio           1-1 (1-0)  Lupa Roma
+[Sat Oct/18]
+  14.30  Matera Calcio            2-3 (0-1)  Cosenza Calcio
+  15.00  ACR Messina              1-0 (1-0)  Vigor Lamezia
+  16.00  Foggia Calcio            1-0 (1-0)  AC Savoia 1908
+  17.00  Paganese Calcio          2-2 (0-1)  AS Melfi
+  19.30  ASD Martina Calcio       3-1 (1-0)  Aversa Normanna
+[Sun Oct/19]
+  14.30  Benevento Calcio         0-0  US Salernitana 1919
+  16.00  SS Juve Stabia           1-1 (0-0)  US Lecce
+  18.00  Casertana FC             2-1 (1-0)  SS Barletta Calcio
+  12.30  US Catanzaro             2-1 (2-0)  Ischia
+
+
+Matchday 10
+[Fri Oct/24]
+  20.45  US Salernitana 1919      1-3 (1-0)  US Lecce
+[Sat Oct/25]
+  14.30  Cosenza Calcio           0-1 (0-1)  SS Juve Stabia
+  15.00  Ischia                   0-2 (0-2)  Paganese Calcio
+  16.00  AS Melfi                 0-0  ACR Messina
+  17.00  AC Savoia 1908           1-2 (1-0)  ASD Martina Calcio
+  19.30  SS Barletta Calcio       0-1 (0-1)  Matera Calcio
+[Sun Oct/26]
+  14.30  Vigor Lamezia            4-0 (2-0)  Reggina Calcio
+  16.00  Aversa Normanna          0-2 (0-2)  Benevento Calcio
+  18.00  Foggia Calcio            1-1 (0-1)  US Catanzaro
+  11.00  Lupa Roma                1-1 (1-1)  Casertana FC
+
+
+Matchday 11
+[Sat Nov/1]
+  15.00  Casertana FC             3-1 (1-1)  Ischia
+  16.00  Paganese Calcio          2-1 (0-0)  SS Barletta Calcio
+  17.00  SS Juve Stabia           2-0 (1-0)  Lupa Roma
+  14.30  ASD Martina Calcio       0-0  AS Melfi
+[Sun Nov/2]
+  12.30  Reggina Calcio           1-1 (1-1)  Aversa Normanna
+  14.30  Benevento Calcio         3-1 (1-0)  Vigor Lamezia
+         ACR Messina              0-1 (0-0)  Foggia Calcio
+  16.00  Matera Calcio            1-2 (1-1)  US Salernitana 1919
+  18.00  US Lecce                 1-0 (0-0)  Cosenza Calcio
+[Mon Nov/3]
+  20.45  US Catanzaro             1-1 (0-1)  AC Savoia 1908
+
+
+Matchday 12
+[Sat Nov/8]
+  15.00  Cosenza Calcio           0-0  ACR Messina
+  16.00  US Salernitana 1919      2-1 (0-0)  US Catanzaro
+  17.00  AS Melfi                 2-0 (1-0)  Reggina Calcio
+  19.30  SS Barletta Calcio       2-1 (1-0)  ASD Martina Calcio
+  14.30  Aversa Normanna          0-1 (0-0)  US Lecce
+[Sun Nov/9]
+  12.30  AC Savoia 1908           0-1 (0-0)  Paganese Calcio
+  14.30  Ischia                   1-2 (0-0)  SS Juve Stabia
+  16.00  Benevento Calcio         1-0 (1-0)  Casertana FC
+  18.00  Vigor Lamezia            1-0 (1-0)  Matera Calcio
+[Mon Nov/10]
+  20.45  Foggia Calcio            1-0 (0-0)  Lupa Roma
+
+
+Matchday 13
+[Fri Nov/14]
+  20.45  Reggina Calcio           0-1 (0-1)  US Salernitana 1919
+  20.00  Matera Calcio            2-0 (2-0)  AC Savoia 1908
+[Sat Nov/15]
+  15.00  Paganese Calcio          2-2 (1-1)  Benevento Calcio
+  16.00  SS Juve Stabia           2-2 (1-0)  Foggia Calcio
+  17.00  ACR Messina              1-1 (1-0)  Aversa Normanna
+  19.30  US Lecce                 2-2 (2-0)  US Catanzaro
+  14.30  Cosenza Calcio           3-0 (1-0)  Vigor Lamezia
+[Sun Nov/16]
+  14.30  Lupa Roma                1-0 (0-0)  Ischia
+  16.00  Casertana FC             2-1 (0-1)  ASD Martina Calcio
+  18.00  SS Barletta Calcio       0-0  AS Melfi
+
+
+Matchday 14
+[Fri Nov/21]
+  20.45  US Catanzaro             1-0 (0-0)  SS Barletta Calcio
+[Sat Nov/22]
+  14.30  US Salernitana 1919      1-0 (1-0)  Paganese Calcio
+  16.00  AC Savoia 1908           1-1 (0-0)  Cosenza Calcio
+  17.00  Aversa Normanna          1-2 (1-0)  SS Juve Stabia
+  14.00  Ischia                   2-0 (0-0)  Reggina Calcio
+[Sun Nov/23]
+  12.30  AS Melfi                 1-0 (0-0)  Casertana FC
+  14.30  Benevento Calcio         1-2 (0-2)  US Lecce
+         Vigor Lamezia            2-2 (1-1)  Lupa Roma
+  16.00  Foggia Calcio            0-0  Matera Calcio
+  18.00  ASD Martina Calcio       2-1 (0-1)  ACR Messina
+
+
+Matchday 15
+[Sat Nov/29]
+  14.30  ACR Messina              1-1 (0-0)  US Catanzaro
+  15.00  Casertana FC             1-2 (0-1)  Foggia Calcio
+  16.00  Paganese Calcio          1-0 (1-0)  Vigor Lamezia
+  17.00  Reggina Calcio           0-2 (0-2)  Benevento Calcio
+  19.30  US Lecce                 4-1 (1-1)  AS Melfi
+[Sun Nov/30]
+  14.30  Lupa Roma                0-4 (0-2)  US Salernitana 1919
+  16.00  SS Barletta Calcio       0-0  Aversa Normanna
+  18.00  Cosenza Calcio           3-1 (1-1)  Ischia
+  12.30  SS Juve Stabia           2-1 (0-0)  AC Savoia 1908
+[Mon Dec/1]
+  20.45  Matera Calcio            3-1 (2-1)  ASD Martina Calcio
+
+
+Matchday 16
+[Fri Dec/5]
+  20.45  Foggia Calcio            2-0 (0-0)  US Lecce
+[Sat Dec/6]
+  16.00  ASD Martina Calcio       1-1 (1-1)  Cosenza Calcio
+  17.00  AS Melfi                 3-0 (2-0)  Lupa Roma
+  19.30  Benevento Calcio         3-3 (1-0)  Matera Calcio
+  15.00  AC Savoia 1908           2-0 (1-0)  Reggina Calcio
+[Sun Dec/7]
+  11.00  Ischia                   2-2 (1-1)  ACR Messina
+         US Salernitana 1919      3-2 (0-1)  SS Juve Stabia
+  14.30  Aversa Normanna          1-2 (0-1)  Paganese Calcio
+  16.00  US Catanzaro             0-1 (0-1)  Casertana FC
+  18.00  Vigor Lamezia            0-2 (0-1)  SS Barletta Calcio
+
+
+Matchday 17
+[Fri Dec/12]
+  20.45  ACR Messina              1-1 (0-1)  Benevento Calcio
+[Sat Dec/13]
+  15.00  Reggina Calcio           0-2 (0-1)  Foggia Calcio
+  16.00  SS Barletta Calcio       1-0 (1-0)  US Salernitana 1919
+  17.00  US Lecce                 0-1 (0-0)  ASD Martina Calcio
+  14.30  Casertana FC             3-0 (2-0)  Vigor Lamezia
+[Sun Dec/14]
+  12.30  Paganese Calcio          1-0 (0-0)  US Catanzaro
+  14.30  Lupa Roma                2-2 (1-1)  AC Savoia 1908
+         Cosenza Calcio           2-0 (0-0)  Aversa Normanna
+  16.00  Matera Calcio            0-0  Ischia
+  18.00  SS Juve Stabia           2-0 (2-0)  AS Melfi
+
+
+Matchday 18
+[Sat Dec/20]
+  16.00  Foggia Calcio            0-1 (0-1)  SS Barletta Calcio
+  17.00  ASD Martina Calcio       2-0 (0-0)  Paganese Calcio
+  19.30  Aversa Normanna          3-1 (1-0)  Lupa Roma
+  14.30  AC Savoia 1908           0-3 (0-0)  Casertana FC
+[Sun Dec/21]
+  11.00  US Salernitana 1919      1-0 (1-0)  ACR Messina
+  12.30  Ischia                   2-1 (1-1)  US Lecce
+  14.30  US Catanzaro             1-0 (0-0)  Reggina Calcio
+  16.00  Benevento Calcio         3-2 (3-1)  Cosenza Calcio
+         Vigor Lamezia            1-1 (0-1)  SS Juve Stabia
+  18.00  AS Melfi                 1-1 (0-1)  Matera Calcio
+
+
+Matchday 19
+[Mon Jan/5]
+  20.00  Matera Calcio            1-0 (1-0)  Aversa Normanna
+[Tue Jan/6]
+  11.00  ACR Messina              3-0 (1-0)  AC Savoia 1908
+  12.30  SS Barletta Calcio       3-1 (2-0)  Ischia
+         Casertana FC             1-0 (0-0)  US Salernitana 1919
+  14.00  Lupa Roma                1-2 (1-1)  US Catanzaro
+  15.00  SS Juve Stabia           1-2 (1-0)  Benevento Calcio
+  16.00  Paganese Calcio          0-4 (0-2)  Foggia Calcio
+  18.00  Cosenza Calcio           2-0 (1-0)  AS Melfi
+  19.30  US Lecce                 3-3 (1-1)  Vigor Lamezia
+  20.00  Reggina Calcio           1-0 (1-0)  ASD Martina Calcio
+
+
+Matchday 20
+[Sat Jan/10]
+  14.30  Casertana FC             0-0  Reggina Calcio
+  15.00  AS Melfi                 2-2 (1-1)  AC Savoia 1908
+  16.00  SS Juve Stabia           1-0 (0-0)  US Catanzaro
+[Sun Jan/11]
+  12.30  Benevento Calcio         2-0 (2-0)  Ischia
+  14.30  ACR Messina              0-2 (0-0)  SS Barletta Calcio
+         Cosenza Calcio           0-0  US Salernitana 1919
+  16.00  US Lecce                 2-1 (2-0)  Lupa Roma
+  17.00  ASD Martina Calcio       2-1 (1-0)  Foggia Calcio
+  18.00  Paganese Calcio          0-0  Matera Calcio
+  11.00  Vigor Lamezia            1-1 (0-1)  Aversa Normanna
+
+
+Matchday 21
+[Fri Jan/16]
+  20.45  Matera Calcio            3-1 (2-1)  SS Juve Stabia
+[Sat Jan/17]
+  14.30  Ischia                   0-1 (0-1)  AS Melfi
+  15.00  US Catanzaro             0-1 (0-1)  Benevento Calcio
+  17.00  AC Savoia 1908           2-1 (0-0)  Vigor Lamezia
+[Sun Jan/18]
+  14.30  Lupa Roma                2-2 (1-2)  ACR Messina
+         Foggia Calcio            4-1 (1-0)  Cosenza Calcio
+  16.00  SS Barletta Calcio       1-1 (0-1)  US Lecce
+  18.00  US Salernitana 1919      1-0 (0-0)  ASD Martina Calcio
+  14.30  Aversa Normanna          1-1 (0-1)  Casertana FC
+[Mon Jan/19]
+  20.45  Reggina Calcio           1-1 (0-1)  Paganese Calcio
+
+
+Matchday 22
+[Fri Jan/23]
+  19.30  Vigor Lamezia            0-0  Ischia
+[Sat Jan/24]
+  14.30  SS Juve Stabia           1-0 (1-0)  Casertana FC
+  15.00  AS Melfi                 2-1 (0-1)  Foggia Calcio
+  16.00  Cosenza Calcio           1-1 (1-0)  SS Barletta Calcio
+  17.00  Benevento Calcio         1-0 (0-0)  AC Savoia 1908
+[Sun Jan/25]
+  14.00  ACR Messina              4-1 (1-0)  Reggina Calcio
+  14.30  Aversa Normanna          0-1 (0-0)  US Salernitana 1919
+  15.00  US Lecce                 2-0 (0-0)  Matera Calcio
+  18.00  Paganese Calcio          2-2 (0-0)  Lupa Roma
+  12.30  ASD Martina Calcio       2-0 (1-0)  US Catanzaro
+
+
+Matchday 23
+[Fri Jan/30]
+  19.30  AC Savoia 1908           1-0 (1-0)  Aversa Normanna
+[Sat Jan/31]
+  14.30  Ischia                   1-0 (0-0)  ASD Martina Calcio
+  15.00  Foggia Calcio            2-2 (1-1)  Benevento Calcio
+         US Catanzaro             2-1 (2-1)  AS Melfi
+  17.00  US Salernitana 1919      2-2 (0-0)  Vigor Lamezia
+  19.30  Reggina Calcio           2-1 (0-1)  US Lecce
+[Sun Feb/1]
+  14.30  Lupa Roma                1-0 (1-0)  Cosenza Calcio
+  16.00  Casertana FC             1-0 (0-0)  Paganese Calcio
+  18.00  SS Barletta Calcio       1-1 (0-1)  SS Juve Stabia
+  12.30  Matera Calcio            3-1 (2-1)  ACR Messina
+
+
+Matchday 24
+[Sat Feb/7]
+  15.00  ACR Messina              1-1 (1-0)  Paganese Calcio
+  16.00  Matera Calcio            2-4 (2-3)  US Catanzaro
+  14.30  Cosenza Calcio           2-2 (1-1)  Casertana FC
+[Sun Feb/8]
+  11.00  SS Barletta Calcio       2-2 (0-1)  Reggina Calcio
+  12.30  Aversa Normanna          1-3 (1-1)  Foggia Calcio
+  14.30  US Salernitana 1919      2-1 (1-0)  Ischia
+         US Lecce                 1-0 (1-0)  AC Savoia 1908
+  16.00  SS Juve Stabia           1-1 (1-1)  ASD Martina Calcio
+  18.00  Vigor Lamezia            1-0 (0-0)  AS Melfi
+[Mon Feb/9]
+  15.00  Benevento Calcio         2-0 (0-0)  Lupa Roma
+
+
+Matchday 25
+[Fri Feb/13]
+  20.45  Paganese Calcio          0-2 (0-1)  US Lecce
+[Sat Feb/14]
+  15.00  Ischia                   1-2 (0-1)  Aversa Normanna
+         AC Savoia 1908           0-1 (0-0)  SS Barletta Calcio
+  16.00  ASD Martina Calcio       0-1 (0-0)  Benevento Calcio
+         Foggia Calcio            0-0  Vigor Lamezia
+  14.00  AS Melfi                 0-2 (0-2)  US Salernitana 1919
+[Sun Feb/15]
+  12.30  Reggina Calcio           0-0  SS Juve Stabia
+  14.00  US Catanzaro             1-0 (0-0)  Cosenza Calcio
+  14.30  Lupa Roma                0-2 (0-1)  Matera Calcio
+  16.00  Casertana FC             3-1 (0-0)  ACR Messina
+
+
+Matchday 26
+[Fri Feb/20]
+  20.45  US Salernitana 1919      2-2 (0-1)  Foggia Calcio
+[Sat Feb/21]
+  14.30  SS Juve Stabia           2-0 (2-0)  Paganese Calcio
+         Ischia                   2-0 (2-0)  AC Savoia 1908
+  15.00  Cosenza Calcio           2-0 (1-0)  Reggina Calcio
+  16.00  SS Barletta Calcio       0-2 (0-1)  Lupa Roma
+  17.00  Matera Calcio            2-1 (2-0)  Casertana FC
+         Benevento Calcio         2-1 (1-1)  AS Melfi
+[Sun Feb/22]
+  18.00  Aversa Normanna          3-0 (2-0)  US Catanzaro
+  16.00  Vigor Lamezia            1-1 (1-1)  ASD Martina Calcio
+[Mon Feb/23]
+  20.45  US Lecce                 2-1 (1-1)  ACR Messina
+
+
+Matchday 27
+[Sat Feb/28]
+  16.00  Benevento Calcio         1-1 (0-1)  SS Barletta Calcio
+  17.00  Reggina Calcio           2-3 (0-2)  Matera Calcio
+  15.00  ASD Martina Calcio       2-0 (1-0)  Lupa Roma
+[Sun Mar/1]
+  11.00  Paganese Calcio          0-0  Cosenza Calcio
+  14.00  ACR Messina              0-3 (0-2)  SS Juve Stabia
+         US Catanzaro             1-1 (1-0)  Vigor Lamezia
+  14.30  Foggia Calcio            6-0 (2-0)  Ischia
+         AC Savoia 1908           0-1 (0-0)  US Salernitana 1919
+  16.00  Casertana FC             1-0 (0-0)  US Lecce
+  18.00  AS Melfi                 3-4 (2-2)  Aversa Normanna
+
+
+Matchday 28
+[Fri Mar/6]
+  19.30  Aversa Normanna          2-0 (2-0)  ASD Martina Calcio
+  20.45  US Lecce                 1-0 (0-0)  SS Juve Stabia
+[Sat Mar/7]
+  14.30  AC Savoia 1908           2-1 (1-1)  Foggia Calcio
+  15.00  US Salernitana 1919      2-0 (0-0)  Benevento Calcio
+  16.00  Cosenza Calcio           2-0 (1-0)  Matera Calcio
+         AS Melfi                 1-0 (1-0)  Paganese Calcio
+  19.30  SS Barletta Calcio       0-2 (0-1)  Casertana FC
+  14.30  Ischia                   0-0  US Catanzaro
+[Sun Mar/8]
+  14.30  Lupa Roma                3-1 (1-0)  Reggina Calcio
+         Vigor Lamezia            2-1 (0-1)  ACR Messina
+
+
+Matchday 29
+[Wed Mar/11]
+  14.30  ACR Messina              1-2 (1-0)  AS Melfi
+         Reggina Calcio           0-2 (0-1)  Vigor Lamezia
+  15.00  Benevento Calcio         0-0  Aversa Normanna
+         US Catanzaro             3-0 (2-0)  Foggia Calcio
+         SS Juve Stabia           1-1 (0-0)  Cosenza Calcio
+  20.30  Paganese Calcio          4-0 (1-0)  Ischia
+         Casertana FC             3-2 (2-1)  Lupa Roma
+         US Lecce                 0-1 (0-0)  US Salernitana 1919
+         ASD Martina Calcio       3-1 (1-0)  AC Savoia 1908
+  20.45  Matera Calcio            2-1 (1-1)  SS Barletta Calcio
+
+
+Matchday 30
+[Sat Mar/14]
+  16.00  AC Savoia 1908           4-1 (2-0)  US Catanzaro
+  15.00  Ischia                   1-1 (0-0)  Casertana FC
+[Sun Mar/15]
+  11.00  AS Melfi                 0-0  ASD Martina Calcio
+  12.30  Vigor Lamezia            0-1 (0-1)  Benevento Calcio
+         Cosenza Calcio           1-0 (1-0)  US Lecce
+  14.30  Lupa Roma                0-3 (0-1)  SS Juve Stabia
+         Foggia Calcio            2-0 (1-0)  ACR Messina
+  16.00  Aversa Normanna          0-1 (0-0)  Reggina Calcio
+  18.00  SS Barletta Calcio       2-1 (0-0)  Paganese Calcio
+[Mon Mar/16]
+  20.45  US Salernitana 1919      0-1 (0-0)  Matera Calcio
+
+
+Matchday 31
+[Fri Mar/20]
+  20.45  Casertana FC             0-0  Benevento Calcio
+[Sat Mar/21]
+  14.30  Paganese Calcio          2-2 (1-1)  AC Savoia 1908
+  15.00  Matera Calcio            0-0  Vigor Lamezia
+  16.00  US Lecce                 3-0 (2-0)  Aversa Normanna
+         Reggina Calcio           2-1 (0-0)  AS Melfi
+  14.30  ACR Messina              0-0  Cosenza Calcio
+[Sun Mar/22]
+  12.30  Lupa Roma                1-1 (1-0)  Foggia Calcio
+         US Catanzaro             1-2 (0-0)  US Salernitana 1919
+  14.00  SS Juve Stabia           1-1 (1-0)  Ischia
+[Mon Mar/23]
+  20.45  ASD Martina Calcio       0-1 (0-1)  SS Barletta Calcio
+
+
+Matchday 32
+[Fri Mar/27]
+  19.30  Benevento Calcio         2-0 (2-0)  Paganese Calcio
+[Sat Mar/28]
+  14.30  Ischia                   1-1 (0-0)  Lupa Roma
+         AC Savoia 1908           0-2 (0-0)  Matera Calcio
+         Aversa Normanna          1-1 (0-0)  ACR Messina
+  16.00  US Catanzaro             2-1 (1-0)  US Lecce
+         US Salernitana 1919      2-1 (2-1)  Reggina Calcio
+  17.00  AS Melfi                 3-0 (2-0)  SS Barletta Calcio
+[Sun Mar/29]
+  16.00  Vigor Lamezia            0-1 (0-0)  Cosenza Calcio
+  14.30  Foggia Calcio            1-1 (0-0)  SS Juve Stabia
+
+
+Matchday 33
+[Wed Apr/1]
+  19.30  SS Juve Stabia           3-2 (2-1)  Aversa Normanna
+  14.30  Reggina Calcio           0-1 (0-0)  Ischia
+         Paganese Calcio          0-1 (0-0)  US Salernitana 1919
+  17.00  US Lecce                 1-0 (0-0)  Benevento Calcio
+         SS Barletta Calcio       1-1 (1-0)  US Catanzaro
+  20.45  Casertana FC             2-3 (1-1)  AS Melfi
+[Thu Apr/2]
+  20.45  Matera Calcio            2-5 (0-1)  Foggia Calcio
+  14.00  ACR Messina              0-0  ASD Martina Calcio
+         Cosenza Calcio           0-0  AC Savoia 1908
+  14.30  Lupa Roma                0-0  Vigor Lamezia
+
+
+Matchday 34
+[Fri Apr/10]
+  20.45  Foggia Calcio            1-0 (1-0)  Casertana FC
+[Sat Apr/11]
+  14.30  AC Savoia 1908           1-3 (1-1)  SS Juve Stabia
+  16.00  Aversa Normanna          0-1 (0-1)  SS Barletta Calcio
+         US Salernitana 1919      4-1 (2-0)  Lupa Roma
+  17.00  Benevento Calcio         4-0 (1-0)  Reggina Calcio
+  19.30  ASD Martina Calcio       0-1 (0-0)  Matera Calcio
+[Sun Apr/12]
+  16.00  Vigor Lamezia            1-1 (0-0)  Paganese Calcio
+  14.30  AS Melfi                 1-0 (0-0)  US Lecce
+         Ischia                   1-1 (0-1)  Cosenza Calcio
+  16.00  US Catanzaro             0-0  ACR Messina
+
+
+Matchday 35
+[Sat Apr/18]
+  14.30  ACR Messina              1-1 (0-1)  Ischia
+  15.00  Matera Calcio            2-1 (2-0)  Benevento Calcio
+         Cosenza Calcio           0-0  ASD Martina Calcio
+         SS Juve Stabia           1-0 (1-0)  US Salernitana 1919
+  19.30  Paganese Calcio          0-1 (0-1)  Aversa Normanna
+  17.00  Lupa Roma                0-0  AS Melfi
+[Sun Apr/19]
+  18.00  Casertana FC             2-1 (2-0)  US Catanzaro
+  12.30  SS Barletta Calcio       3-3 (2-2)  Vigor Lamezia
+  14.30  Reggina Calcio           2-2 (0-1)  AC Savoia 1908
+  16.00  US Lecce                 1-0 (0-0)  Foggia Calcio
+
+
+Matchday 32
+[Wed Apr/22]
+  20.30  ASD Martina Calcio       1-3 (0-2)  Casertana FC
+
+
+Matchday 36
+[Sat Apr/25]
+  17.30  US Salernitana 1919      3-1 (2-1)  SS Barletta Calcio
+         Vigor Lamezia            1-2 (0-1)  Casertana FC
+         AS Melfi                 2-1 (1-0)  SS Juve Stabia
+         ASD Martina Calcio       0-1 (0-0)  US Lecce
+         AC Savoia 1908           1-3 (1-0)  Lupa Roma
+         Ischia                   1-2 (0-0)  Matera Calcio
+         Benevento Calcio         1-1 (1-0)  ACR Messina
+         Aversa Normanna          0-0  Cosenza Calcio
+         US Catanzaro             1-1 (1-1)  Paganese Calcio
+         Foggia Calcio            3-2 (1-1)  Reggina Calcio
+
+
+Matchday 37
+[Sun May/3]
+  15.00  Lupa Roma                0-2 (0-1)  Aversa Normanna
+         Cosenza Calcio           0-1 (0-1)  Benevento Calcio
+         Reggina Calcio           3-1 (1-0)  US Catanzaro
+         SS Barletta Calcio       0-1 (0-0)  Foggia Calcio
+         US Lecce                 3-0 (2-0)  Ischia
+         Paganese Calcio          0-0  ASD Martina Calcio
+         Matera Calcio            1-0 (1-0)  AS Melfi
+         ACR Messina              4-2 (2-0)  US Salernitana 1919
+         Casertana FC             4-1 (1-0)  AC Savoia 1908
+         SS Juve Stabia           4-2 (1-0)  Vigor Lamezia
+
+
+Matchday 38
+[Sat May/9]
+  17.30  Ischia                   3-0 (2-0)  SS Barletta Calcio
+         US Salernitana 1919      1-1 (0-0)  Casertana FC
+         Benevento Calcio         1-1 (0-1)  SS Juve Stabia
+         Vigor Lamezia            2-2 (1-1)  US Lecce
+         US Catanzaro             5-1 (1-0)  Lupa Roma
+         Aversa Normanna          1-1 (0-0)  Matera Calcio
+         AC Savoia 1908           2-1 (0-0)  ACR Messina
+         AS Melfi                 4-3 (2-1)  Cosenza Calcio
+         Foggia Calcio            3-0 (1-0)  Paganese Calcio
+         ASD Martina Calcio       0-2 (0-1)  Reggina Calcio
+
+
+== Playout
+
+Final
+[Sat May/23]
+  17.00  Ischia                   4-1 (3-0)  Aversa Normanna
+[Tue May/26]
+  17.00  Reggina Calcio           1-0 (1-0)  ACR Messina
+[Sat May/30]
+  15.00  ACR Messina              0-1 (0-0)  Reggina Calcio
+         Aversa Normanna          3-1 (1-0)  Ischia

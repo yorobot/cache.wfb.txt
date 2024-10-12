@@ -1,0 +1,531 @@
+= BG 1 2016/17
+
+# Date       Fri Jul/29 2016 - Sun Jun/4 2017 (310d)
+# Teams      14
+# Matches    243
+# Stages     Regular Season (182)  Relegation (24)  EL-Playoffs (7)  Championship (30)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Jul/29]
+  19.00  Lokomotiv Gorna Oryahovitsa  0-0  Neftochimik Burgas
+  21.15  CSKA Sofia               2-0 (0-0)  Slavia Sofia
+[Sat Jul/30]
+  19.00  Botev Plovdiv            1-1 (0-0)  Lokomotiv Plovdiv
+  21.15  FC Dunav Ruse            0-0  FK Vereya
+[Sun Jul/31]
+  19.00  Levski Sofia             0-0  PFC Montana
+  21.15  Pirin Blagoevgrad        1-3 (1-1)  Cherno More Varna
+[Wed Nov/16]
+  17.30  PFC Beroe                0-2 (0-2)  PFC Ludogorets Razgrad
+
+
+Matchday 2
+[Fri Aug/5]
+  19.00  Neftochimik Burgas       1-2 (0-2)  FC Dunav Ruse
+  21.15  Pirin Blagoevgrad        2-1 (0-0)  Lokomotiv Gorna Oryahovitsa
+[Sat Aug/6]
+  19.00  FK Vereya                1-0 (1-0)  CSKA Sofia
+  21.15  PFC Ludogorets Razgrad   4-1 (3-1)  Botev Plovdiv
+[Sun Aug/7]
+  19.00  Lokomotiv Plovdiv        2-2 (1-2)  Levski Sofia
+  21.15  Slavia Sofia             1-2 (1-1)  PFC Beroe
+[Mon Aug/8]
+  20.00  Cherno More Varna        1-0 (1-0)  PFC Montana
+
+
+Matchday 3
+[Fri Aug/12]
+  19.00  PFC Montana              0-3 (0-2)  Lokomotiv Plovdiv
+  21.15  FC Dunav Ruse            1-0 (1-0)  Pirin Blagoevgrad
+[Sat Aug/13]
+  19.00  PFC Beroe                1-0 (0-0)  FK Vereya
+  21.15  Levski Sofia             1-0 (0-0)  PFC Ludogorets Razgrad
+[Sun Aug/14]
+  19.00  Lokomotiv Gorna Oryahovitsa  2-2 (1-0)  Cherno More Varna
+  21.15  CSKA Sofia               5-1 (4-0)  Neftochimik Burgas
+[Mon Aug/15]
+  20.00  Botev Plovdiv            3-2 (1-1)  Slavia Sofia
+
+
+Matchday 4
+[Fri Aug/19]
+  19.00  Lokomotiv Gorna Oryahovitsa  0-2 (0-0)  FC Dunav Ruse
+  21.15  Cherno More Varna        2-0 (1-0)  Lokomotiv Plovdiv
+[Sat Aug/20]
+  19.00  Pirin Blagoevgrad        1-1 (0-0)  CSKA Sofia
+  21.15  PFC Ludogorets Razgrad   2-0 (1-0)  PFC Montana
+[Sun Aug/21]
+  19.00  Neftochimik Burgas       1-0 (0-0)  PFC Beroe
+  21.15  Slavia Sofia             0-4 (0-2)  Levski Sofia
+[Mon Aug/22]
+  20.00  FK Vereya                1-0 (1-0)  Botev Plovdiv
+
+
+Matchday 5
+[Fri Aug/26]
+  19.00  PFC Montana              1-2 (0-0)  Slavia Sofia
+  21.15  PFC Beroe                1-0 (0-0)  Pirin Blagoevgrad
+[Sat Aug/27]
+  17.00  FC Dunav Ruse            3-0 (2-0)  Cherno More Varna
+  19.00  Botev Plovdiv            2-1 (1-1)  Neftochimik Burgas
+  21.15  CSKA Sofia               2-0 (0-0)  Lokomotiv Gorna Oryahovitsa
+[Sun Aug/28]
+  19.00  Levski Sofia             4-0 (2-0)  FK Vereya
+  21.15  Lokomotiv Plovdiv        2-2 (1-0)  PFC Ludogorets Razgrad
+
+
+Matchday 6
+[Fri Sep/9]
+  19.00  FK Vereya                3-0 (2-0)  PFC Montana
+  21.15  Cherno More Varna        1-3 (1-0)  PFC Ludogorets Razgrad
+[Sat Sep/10]
+  19.00  Slavia Sofia             5-2 (0-2)  Lokomotiv Plovdiv
+  21.15  Neftochimik Burgas       1-2 (0-1)  Levski Sofia
+[Sun Sep/11]
+  19.00  Pirin Blagoevgrad        2-1 (1-1)  Botev Plovdiv
+  21.15  FC Dunav Ruse            2-0 (2-0)  CSKA Sofia
+[Mon Sep/12]
+  20.00  Lokomotiv Gorna Oryahovitsa  0-1 (0-0)  PFC Beroe
+
+
+Matchday 7
+[Fri Sep/16]
+  19.00  PFC Montana              2-0 (2-0)  Neftochimik Burgas
+  21.15  Lokomotiv Plovdiv        3-1 (1-1)  FK Vereya
+[Sat Sep/17]
+  17.00  Botev Plovdiv            4-0 (2-0)  Lokomotiv Gorna Oryahovitsa
+  19.00  Levski Sofia             2-0 (2-0)  Pirin Blagoevgrad
+  21.15  PFC Ludogorets Razgrad   3-1 (2-0)  Slavia Sofia
+[Sun Sep/18]
+  19.00  CSKA Sofia               1-0 (0-0)  Cherno More Varna
+  21.15  PFC Beroe                0-0  FC Dunav Ruse
+
+
+Matchday 8
+[Fri Sep/23]
+  19.00  Pirin Blagoevgrad        1-0 (0-0)  PFC Montana
+  21.15  FK Vereya                1-5 (0-2)  PFC Ludogorets Razgrad
+[Sat Sep/24]
+  19.00  Neftochimik Burgas       1-2 (0-0)  Lokomotiv Plovdiv
+  21.15  FC Dunav Ruse            1-2 (1-1)  Botev Plovdiv
+[Sun Sep/25]
+  19.00  CSKA Sofia               4-0 (2-0)  PFC Beroe
+  21.15  Cherno More Varna        0-0  Slavia Sofia
+[Mon Sep/26]
+  20.00  Lokomotiv Gorna Oryahovitsa  0-1 (0-1)  Levski Sofia
+
+
+Matchday 9
+[Fri Sep/30]
+  17.30  Lokomotiv Plovdiv        2-3 (0-0)  Pirin Blagoevgrad
+  20.00  PFC Beroe                0-1 (0-1)  Cherno More Varna
+[Sat Oct/1]
+  15.15  PFC Montana              2-4 (1-1)  Lokomotiv Gorna Oryahovitsa
+  17.30  Botev Plovdiv            0-0  CSKA Sofia
+  20.00  Slavia Sofia             3-1 (2-1)  FK Vereya
+[Sun Oct/2]
+  17.45  Levski Sofia             2-0 (1-0)  FC Dunav Ruse
+  20.00  PFC Ludogorets Razgrad   3-1 (1-0)  Neftochimik Burgas
+
+
+Matchday 10
+[Fri Oct/14]
+  17.30  Cherno More Varna        2-1 (1-1)  FK Vereya
+  20.00  Pirin Blagoevgrad        1-3 (1-2)  PFC Ludogorets Razgrad
+[Sat Oct/15]
+  16.30  CSKA Sofia               1-1 (0-1)  Levski Sofia
+  20.00  Neftochimik Burgas       2-0 (1-0)  Slavia Sofia
+[Sun Oct/16]
+  17.30  PFC Beroe                3-4 (2-2)  Botev Plovdiv
+  20.00  FC Dunav Ruse            1-1 (0-1)  PFC Montana
+[Mon Oct/17]
+  20.00  Lokomotiv Gorna Oryahovitsa  2-1 (1-0)  Lokomotiv Plovdiv
+
+
+Matchday 11
+[Fri Oct/21]
+  17.30  Lokomotiv Plovdiv        0-0  FC Dunav Ruse
+  20.00  PFC Montana              0-2 (0-0)  CSKA Sofia
+[Sat Oct/22]
+  15.00  Botev Plovdiv            2-3 (0-3)  Cherno More Varna
+  17.30  Levski Sofia             2-0 (0-0)  PFC Beroe
+  20.00  PFC Ludogorets Razgrad   4-0 (1-0)  Lokomotiv Gorna Oryahovitsa
+[Sun Oct/23]
+  17.30  Slavia Sofia             3-1 (0-0)  Pirin Blagoevgrad
+  20.00  FK Vereya                1-1 (0-0)  Neftochimik Burgas
+
+
+Matchday 12
+[Fri Oct/28]
+  17.30  Lokomotiv Gorna Oryahovitsa  1-0 (0-0)  Slavia Sofia
+  20.00  FC Dunav Ruse            3-5 (2-3)  PFC Ludogorets Razgrad
+[Sat Oct/29]
+  17.30  CSKA Sofia               0-1 (0-1)  Lokomotiv Plovdiv
+  20.00  PFC Beroe                2-1 (1-0)  PFC Montana
+[Sun Oct/30]
+  17.30  Botev Plovdiv            1-1 (1-1)  Levski Sofia
+  20.00  Cherno More Varna        3-1 (2-0)  Neftochimik Burgas
+[Mon Oct/31]
+  20.00  Pirin Blagoevgrad        1-1 (0-1)  FK Vereya
+
+
+Matchday 13
+[Wed Nov/2]
+  15.00  Slavia Sofia             0-2 (0-1)  FC Dunav Ruse
+  17.30  Lokomotiv Plovdiv        1-1 (0-0)  PFC Beroe
+[Thu Nov/3]
+  15.30  PFC Montana              3-1 (1-0)  Botev Plovdiv
+[Fri Nov/4]
+  13.00  FK Vereya                1-0 (1-0)  Lokomotiv Gorna Oryahovitsa
+  15.00  Neftochimik Burgas       3-1 (0-0)  Pirin Blagoevgrad
+  17.30  Levski Sofia             1-0 (1-0)  Cherno More Varna
+[Sat Nov/5]
+  15.00  PFC Ludogorets Razgrad   2-1 (1-0)  CSKA Sofia
+
+
+Matchday 14
+[Fri Nov/18]
+  17.30  Cherno More Varna        0-0  Pirin Blagoevgrad
+[Sat Nov/19]
+  13.00  FK Vereya                1-0 (1-0)  FC Dunav Ruse
+  15.00  Slavia Sofia             0-1 (0-0)  CSKA Sofia
+  17.30  PFC Ludogorets Razgrad   1-0 (0-0)  PFC Beroe
+[Sun Nov/20]
+  15.00  Lokomotiv Plovdiv        2-0 (1-0)  Botev Plovdiv
+  17.30  PFC Montana              1-3 (1-1)  Levski Sofia
+[Mon Nov/21]
+  17.30  Neftochimik Burgas       1-1 (0-1)  Lokomotiv Gorna Oryahovitsa
+
+
+Matchday 15
+[Fri Nov/25]
+  17.30  Lokomotiv Gorna Oryahovitsa  1-0 (1-0)  Pirin Blagoevgrad
+[Sat Nov/26]
+  13.00  PFC Montana              0-2 (0-1)  Cherno More Varna
+  15.15  Levski Sofia             1-2 (1-1)  Lokomotiv Plovdiv
+  17.30  Botev Plovdiv            1-3 (1-1)  PFC Ludogorets Razgrad
+[Sun Nov/27]
+  12.30  PFC Beroe                1-1 (0-0)  Slavia Sofia
+  15.15  FC Dunav Ruse            3-0 (3-0)  Neftochimik Burgas
+  17.45  CSKA Sofia               1-1 (1-0)  FK Vereya
+
+
+Matchday 16
+[Tue Nov/29]
+  15.00  Cherno More Varna        1-1 (0-1)  Lokomotiv Gorna Oryahovitsa
+  17.30  Lokomotiv Plovdiv        2-0 (1-0)  PFC Montana
+[Wed Nov/30]
+  13.00  Pirin Blagoevgrad        4-1 (3-1)  FC Dunav Ruse
+  15.00  Slavia Sofia             3-2 (1-1)  Botev Plovdiv
+  17.30  PFC Ludogorets Razgrad   2-1 (0-1)  Levski Sofia
+[Thu Dec/1]
+  15.00  FK Vereya                1-0 (1-0)  PFC Beroe
+  17.30  Neftochimik Burgas       0-2 (0-0)  CSKA Sofia
+
+
+Matchday 17
+[Fri Dec/2]
+  17.30  Lokomotiv Plovdiv        1-0 (0-0)  Cherno More Varna
+[Sat Dec/3]
+  15.00  FC Dunav Ruse            1-0 (0-0)  Lokomotiv Gorna Oryahovitsa
+  17.30  Levski Sofia             1-0 (0-0)  Slavia Sofia
+[Sun Dec/4]
+  15.00  PFC Beroe                2-0 (2-0)  Neftochimik Burgas
+  17.30  CSKA Sofia               2-0 (1-0)  Pirin Blagoevgrad
+[Mon Dec/5]
+  17.30  Botev Plovdiv            2-1 (1-0)  FK Vereya
+[Sun Feb/12]
+  15.00  PFC Montana              0-4 (0-1)  PFC Ludogorets Razgrad
+
+
+Matchday 18
+[Fri Dec/9]
+  17.30  Neftochimik Burgas       4-0 (3-0)  Botev Plovdiv
+[Sat Dec/10]
+  13.00  Slavia Sofia             2-0 (1-0)  PFC Montana
+  15.00  FK Vereya                0-1 (0-0)  Levski Sofia
+  17.30  PFC Ludogorets Razgrad   1-0 (1-0)  Lokomotiv Plovdiv
+[Sun Dec/11]
+  15.00  Lokomotiv Gorna Oryahovitsa  0-0  CSKA Sofia
+  17.30  Cherno More Varna        1-0 (1-0)  FC Dunav Ruse
+[Mon Dec/12]
+  17.30  Pirin Blagoevgrad        1-1 (0-1)  PFC Beroe
+
+
+Matchday 19
+[Tue Dec/13]
+  17.30  PFC Montana              1-1 (1-1)  FK Vereya
+[Wed Dec/14]
+  13.00  Lokomotiv Plovdiv        1-1 (1-1)  Slavia Sofia
+  15.15  PFC Ludogorets Razgrad   1-1 (0-0)  Cherno More Varna
+  17.30  Levski Sofia             1-0 (0-0)  Neftochimik Burgas
+[Thu Dec/15]
+  15.00  PFC Beroe                1-1 (0-0)  Lokomotiv Gorna Oryahovitsa
+  17.30  Botev Plovdiv            3-2 (2-1)  Pirin Blagoevgrad
+[Fri Dec/16]
+  14.30  CSKA Sofia               3-0 (0-0)  FC Dunav Ruse
+
+
+Matchday 20
+[Fri Feb/17]
+  17.30  FC Dunav Ruse            0-4 (0-1)  PFC Beroe
+[Sat Feb/18]
+  13.00  Neftochimik Burgas       2-0 (1-0)  PFC Montana
+  15.00  Pirin Blagoevgrad        1-0 (0-0)  Levski Sofia
+  17.30  Lokomotiv Gorna Oryahovitsa  0-1 (0-1)  Botev Plovdiv
+[Sun Feb/19]
+  12.30  Cherno More Varna        0-2 (0-0)  CSKA Sofia
+[Mon Feb/20]
+  15.00  Slavia Sofia             0-2 (0-0)  PFC Ludogorets Razgrad
+  17.30  FK Vereya                0-1 (0-0)  Lokomotiv Plovdiv
+
+
+Matchday 21
+[Fri Feb/24]
+  17.30  Botev Plovdiv            0-2 (0-1)  FC Dunav Ruse
+[Sat Feb/25]
+  13.00  Lokomotiv Plovdiv        0-0  Neftochimik Burgas
+  15.00  PFC Beroe                0-1 (0-0)  CSKA Sofia
+  17.30  Levski Sofia             1-1 (0-0)  Lokomotiv Gorna Oryahovitsa
+[Sun Feb/26]
+  12.30  Slavia Sofia             2-1 (1-0)  Cherno More Varna
+  15.00  PFC Montana              1-2 (1-0)  Pirin Blagoevgrad
+  17.30  PFC Ludogorets Razgrad   4-0 (0-0)  FK Vereya
+
+
+Matchday 22
+[Tue Feb/28]
+  15.00  FC Dunav Ruse            2-2 (2-1)  Levski Sofia
+  17.30  CSKA Sofia               0-0  Botev Plovdiv
+[Wed Mar/1]
+  13.00  Lokomotiv Gorna Oryahovitsa  0-1 (0-1)  PFC Montana
+  15.00  Pirin Blagoevgrad        1-0 (1-0)  Lokomotiv Plovdiv
+  17.30  Neftochimik Burgas       1-1 (0-0)  PFC Ludogorets Razgrad
+[Thu Mar/2]
+  15.00  Cherno More Varna        1-0 (0-0)  PFC Beroe
+  17.30  FK Vereya                3-0 (1-0)  Slavia Sofia
+
+
+Matchday 23
+[Sat Mar/4]
+  12.30  PFC Montana              1-2 (0-0)  FC Dunav Ruse
+  14.30  Levski Sofia             2-1 (0-1)  CSKA Sofia
+  17.30  Lokomotiv Plovdiv        2-1 (1-1)  Lokomotiv Gorna Oryahovitsa
+[Sun Mar/5]
+  12.30  Slavia Sofia             0-3 (0-1)  Neftochimik Burgas
+  15.00  FK Vereya                0-0  Cherno More Varna
+  17.30  PFC Ludogorets Razgrad   3-0 (0-0)  Pirin Blagoevgrad
+[Mon Mar/6]
+  17.30  Botev Plovdiv            2-0 (1-0)  PFC Beroe
+
+
+Matchday 24
+[Fri Mar/10]
+  17.30  FC Dunav Ruse            1-1 (1-0)  Lokomotiv Plovdiv
+[Sat Mar/11]
+  15.00  Cherno More Varna        1-1 (1-1)  Botev Plovdiv
+  17.30  CSKA Sofia               2-1 (2-0)  PFC Montana
+[Sun Mar/12]
+  13.00  Pirin Blagoevgrad        4-0 (0-0)  Slavia Sofia
+  15.00  PFC Beroe                1-0 (1-0)  Levski Sofia
+  17.30  Lokomotiv Gorna Oryahovitsa  0-5 (0-1)  PFC Ludogorets Razgrad
+[Mon Mar/13]
+  17.30  Neftochimik Burgas       1-0 (0-0)  FK Vereya
+
+
+Matchday 25
+[Thu Mar/16]
+  17.30  Slavia Sofia             3-1 (1-0)  Lokomotiv Gorna Oryahovitsa
+[Fri Mar/17]
+  17.30  PFC Montana              0-3 (0-0)  PFC Beroe
+[Sat Mar/18]
+  13.00  FK Vereya                2-0 (1-0)  Pirin Blagoevgrad
+  15.00  Lokomotiv Plovdiv        1-1 (1-0)  CSKA Sofia
+  17.30  PFC Ludogorets Razgrad   2-2 (1-1)  FC Dunav Ruse
+[Sun Mar/19]
+  15.00  Neftochimik Burgas       1-3 (0-0)  Cherno More Varna
+  17.30  Levski Sofia             2-0 (1-0)  Botev Plovdiv
+
+
+Matchday 26
+[Fri Mar/31]
+  17.30  Pirin Blagoevgrad        1-0 (0-0)  Neftochimik Burgas
+  20.00  Botev Plovdiv            2-0 (1-0)  PFC Montana
+[Sat Apr/1]
+  15.00  PFC Beroe                3-2 (2-0)  Lokomotiv Plovdiv
+  17.30  Cherno More Varna        1-0 (0-0)  Levski Sofia
+  20.00  CSKA Sofia               0-2 (0-2)  PFC Ludogorets Razgrad
+[Sun Apr/2]
+  17.30  FC Dunav Ruse            1-1 (0-1)  Slavia Sofia
+  20.00  Lokomotiv Gorna Oryahovitsa  5-0 (3-0)  FK Vereya
+
+
+== Relegation
+
+Matchday 1
+[Fri Apr/7]
+  17.30  Pirin Blagoevgrad        2-1 (1-1)  Neftochimik Burgas
+  20.00  Botev Plovdiv            7-1 (2-0)  PFC Montana
+[Sat Apr/8]
+  17.45  PFC Beroe                2-3 (0-2)  Lokomotiv Gorna Oryahovitsa
+[Mon Apr/10]
+  20.00  FK Vereya                0-1 (0-0)  Slavia Sofia
+
+
+Matchday 2
+[Thu Apr/13]
+  17.00  Lokomotiv Gorna Oryahovitsa  1-1 (1-1)  Neftochimik Burgas
+[Fri Apr/14]
+  15.30  Botev Plovdiv            0-1 (0-1)  FK Vereya
+  18.00  PFC Beroe                1-1 (1-1)  Pirin Blagoevgrad
+[Sat Apr/15]
+  14.15  PFC Montana              3-4 (1-1)  Slavia Sofia
+
+
+Matchday 3
+[Fri Apr/21]
+  17.30  Neftochimik Burgas       0-0  PFC Beroe
+[Sat Apr/22]
+  17.30  Slavia Sofia             0-3 (0-2)  Botev Plovdiv
+  20.00  FK Vereya                1-0 (0-0)  PFC Montana
+[Mon Apr/24]
+  20.00  Pirin Blagoevgrad        1-1 (0-1)  Lokomotiv Gorna Oryahovitsa
+
+
+Matchday 4
+[Fri Apr/28]
+  20.00  Neftochimik Burgas       0-3 (0-1)  Pirin Blagoevgrad
+[Sat Apr/29]
+  20.00  Lokomotiv Gorna Oryahovitsa  0-1 (0-0)  PFC Beroe
+[Sun Apr/30]
+  17.45  PFC Montana              2-1 (2-0)  Botev Plovdiv
+[Mon May/1]
+  17.30  Slavia Sofia             0-1 (0-0)  FK Vereya
+
+
+Matchday 5
+[Fri May/5]
+  17.30  Slavia Sofia             1-0 (0-0)  PFC Montana
+         FK Vereya                3-1 (1-1)  Botev Plovdiv
+[Sat May/6]
+  17.30  Neftochimik Burgas       4-1 (1-0)  Lokomotiv Gorna Oryahovitsa
+  20.00  Pirin Blagoevgrad        1-1 (1-0)  PFC Beroe
+
+
+Matchday 6
+[Wed May/10]
+  19.00  PFC Montana              2-3 (2-2)  FK Vereya
+         Botev Plovdiv            3-1 (3-0)  Slavia Sofia
+[Thu May/11]
+  17.00  Lokomotiv Gorna Oryahovitsa  4-3 (1-1)  Pirin Blagoevgrad
+  19.30  PFC Beroe                3-0 (2-0)  Neftochimik Burgas
+
+
+== EL-Playoffs
+
+Round 1
+[Mon May/15]
+  20.00  Botev Plovdiv            3-0 (2-0)  PFC Beroe
+[Tue May/16]
+  17.30  Pirin Blagoevgrad        1-1 (0-0)  FK Vereya
+[Fri May/19]
+  20.00  PFC Beroe                2-1 (1-0)  Botev Plovdiv
+[Sat May/20]
+  17.30  FK Vereya                1-0 (1-0)  Pirin Blagoevgrad
+
+
+Round 2
+[Sat May/27]
+         FK Vereya                -  Botev Plovdiv            [cancelled]
+[Tue May/30]
+         Botev Plovdiv            -  FK Vereya                [cancelled]
+
+
+Final
+[Sun Jun/4]
+  20.00  Levski Sofia             9-8 pen. 1-1 a.e.t. (1-1, 1-0)  FK Vereya
+
+
+== Championship
+
+Matchday 1
+[Sat Apr/8]
+  20.00  CSKA Sofia               3-1 (2-0)  Cherno More Varna
+[Sun Apr/9]
+  17.30  Levski Sofia             5-0 (3-0)  Lokomotiv Plovdiv
+  20.00  PFC Ludogorets Razgrad   0-1 (0-1)  FC Dunav Ruse
+
+
+Matchday 2
+[Thu Apr/13]
+  19.30  Lokomotiv Plovdiv        1-2 (1-1)  CSKA Sofia
+[Fri Apr/14]
+  20.00  PFC Ludogorets Razgrad   0-0  Levski Sofia
+[Sat Apr/15]
+  16.30  FC Dunav Ruse            1-0 (1-0)  Cherno More Varna
+
+
+Matchday 3
+[Fri Apr/21]
+  20.00  Levski Sofia             1-1 (1-0)  FC Dunav Ruse
+[Sun Apr/23]
+  17.45  Cherno More Varna        3-2 (1-1)  Lokomotiv Plovdiv
+  20.00  CSKA Sofia               1-1 (0-0)  PFC Ludogorets Razgrad
+
+
+Matchday 4
+[Fri Apr/28]
+  17.30  FC Dunav Ruse            2-3 (1-1)  Lokomotiv Plovdiv
+[Sat Apr/29]
+  17.00  Levski Sofia             0-3 (0-2)  CSKA Sofia
+[Mon May/1]
+  20.00  PFC Ludogorets Razgrad   4-0 (4-0)  Cherno More Varna
+
+
+Matchday 5
+[Fri May/5]
+  20.00  Lokomotiv Plovdiv        0-3 (0-1)  PFC Ludogorets Razgrad
+[Sun May/7]
+  17.30  Cherno More Varna        0-1 (0-1)  Levski Sofia
+  20.00  CSKA Sofia               2-0 (0-0)  FC Dunav Ruse
+
+
+Matchday 6
+[Fri May/12]
+  17.30  FC Dunav Ruse            2-2 (1-0)  PFC Ludogorets Razgrad
+  20.00  Lokomotiv Plovdiv        2-1 (1-0)  Levski Sofia
+[Sat May/13]
+  17.30  Cherno More Varna        0-1 (0-0)  CSKA Sofia
+
+
+Matchday 7
+[Tue May/16]
+  20.00  Levski Sofia             1-3 (1-2)  PFC Ludogorets Razgrad
+[Wed May/17]
+  17.30  Cherno More Varna        1-2 (0-1)  FC Dunav Ruse
+  20.00  CSKA Sofia               0-0  Lokomotiv Plovdiv
+
+
+Matchday 8
+[Sat May/20]
+  20.00  PFC Ludogorets Razgrad   1-1 (1-0)  CSKA Sofia
+[Sun May/21]
+  17.30  FC Dunav Ruse            0-1 (0-0)  Levski Sofia
+  20.00  Lokomotiv Plovdiv        2-1 (1-1)  Cherno More Varna
+
+
+Matchday 9
+[Sun May/28]
+  18.30  CSKA Sofia               3-0 (1-0)  Levski Sofia
+  21.00  Lokomotiv Plovdiv        3-4 (1-1)  FC Dunav Ruse
+         Cherno More Varna        1-3 (1-3)  PFC Ludogorets Razgrad
+
+
+Matchday 10
+[Wed May/31]
+  20.00  FC Dunav Ruse            1-0 (0-0)  CSKA Sofia
+         Levski Sofia             2-2 (0-1)  Cherno More Varna
+         PFC Ludogorets Razgrad   1-2 (0-1)  Lokomotiv Plovdiv

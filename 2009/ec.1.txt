@@ -1,0 +1,471 @@
+= EC 1 2009
+
+# Date       Sat Jan/31 - Mon Dec/7 2009 (310d)
+# Teams      12
+# Matches    232
+# Stages     Apertura (132)  Clausura (72)  Cuadrangulares (28)
+
+
+== Apertura
+
+Matchday 1
+[Sat Jan/31]
+  16.00  Manta                    0-0  Barcelona
+[Sun Feb/1]
+  11.30  Macará                   1-0 (0-0)  El Nacional
+         LDU Quito                1-1 (0-1)  Olmedo
+         Deportivo Quito          1-1 (0-0)  Técnico Universitario
+  17.00  Emelec                   0-1 (0-0)  Liga de Portoviejo
+[Wed Feb/11]
+  16.00  Espoli                   1-0 (1-0)  Deportivo Cuenca
+
+
+Matchday 2
+[Fri Feb/6]
+  19.00  Barcelona                0-0  Deportivo Quito
+  20.30  Liga de Portoviejo       2-1 (1-0)  LDU Quito
+[Sat Feb/7]
+  16.00  Técnico Universitario    1-3 (0-1)  Espoli
+  19.00  Deportivo Cuenca         0-1 (0-1)  Macará
+[Sun Feb/8]
+  11.30  El Nacional              2-1 (1-1)  Emelec
+  12.00  Olmedo                   2-0 (1-0)  Manta
+
+
+Matchday 3
+[Fri Feb/13]
+  20.30  LDU Quito                2-1 (1-1)  Manta
+[Sun Feb/15]
+  11.30  Espoli                   2-1 (1-1)  Barcelona
+         Macará                   2-1 (2-1)  Técnico Universitario
+  15.00  Liga de Portoviejo       0-1 (0-1)  El Nacional
+  16.00  Deportivo Quito          2-1 (1-1)  Olmedo
+[Wed Mar/4]
+  18.00  Emelec                   3-2 (0-0)  Deportivo Cuenca
+
+
+Matchday 4
+[Fri Feb/20]
+  19.30  Barcelona                0-0  Macará
+[Sat Feb/21]
+  11.30  Deportivo Cuenca         3-0 (1-0)  Liga de Portoviejo
+  12.00  El Nacional              1-1 (0-1)  LDU Quito
+  13.00  Manta                    1-0 (1-0)  Deportivo Quito
+  16.00  Técnico Universitario    2-1 (1-1)  Emelec
+  18.00  Olmedo                   0-1 (0-1)  Espoli
+
+
+Matchday 5
+[Fri Feb/27]
+  20.30  Liga de Portoviejo       1-0 (1-0)  Técnico Universitario
+[Sat Feb/28]
+  14.00  Espoli                   0-0  Manta
+  18.00  LDU Quito                4-0 (3-0)  Deportivo Quito
+[Sun Mar/1]
+  11.30  El Nacional              2-3 (1-0)  Deportivo Cuenca
+  12.30  Macará                   1-3 (1-1)  Olmedo
+  17.30  Emelec                   0-0  Barcelona
+
+
+Matchday 6
+[Fri Mar/6]
+  19.30  Deportivo Quito          2-1 (2-1)  Espoli
+         Técnico Universitario    1-3 (1-0)  El Nacional
+[Sun Mar/8]
+  12.00  Olmedo                   0-0  Emelec
+         Manta                    1-2 (1-0)  Macará
+  16.00  Barcelona                5-0 (2-0)  Liga de Portoviejo
+[Thu Apr/2]
+  19.00  Deportivo Cuenca         1-0 (0-0)  LDU Quito
+
+
+Matchday 7
+[Fri Mar/13]
+  20.30  Liga de Portoviejo       1-2 (1-1)  Olmedo
+[Sun Mar/15]
+  11.30  El Nacional              2-0 (1-0)  Barcelona
+         Macará                   0-2 (0-2)  Deportivo Quito
+  17.30  Emelec                   2-0 (2-0)  Manta
+[Mon Mar/16]
+  19.15  LDU Quito                3-2 (2-2)  Espoli
+[Fri Mar/27]
+  18.00  Deportivo Cuenca         3-2 (2-1)  Técnico Universitario
+
+
+Matchday 8
+[Sat Mar/21]
+  16.00  Espoli                   3-1 (1-0)  Macará
+         Técnico Universitario    1-4 (1-2)  LDU Quito
+  18.00  Olmedo                   0-0  El Nacional
+[Sun Mar/22]
+  12.00  Manta                    1-1 (0-1)  Liga de Portoviejo
+  16.00  Barcelona                2-1 (0-1)  Deportivo Cuenca
+[Wed Mar/25]
+  12.15  Deportivo Quito          0-1 (0-1)  Emelec
+
+
+Matchday 9
+[Sat Apr/4]
+  12.15  El Nacional              2-0 (1-0)  Manta
+  20.00  Liga de Portoviejo       1-0 (0-0)  Deportivo Quito
+[Sun Apr/5]
+  11.30  LDU Quito                1-0 (0-0)  Macará
+  12.00  Técnico Universitario    4-1 (2-0)  Barcelona
+  17.30  Emelec                   5-1 (3-0)  Espoli
+         Deportivo Cuenca         2-1 (1-1)  Olmedo
+
+
+Matchday 10
+[Wed Apr/8]
+  19.15  Deportivo Quito          0-1 (0-0)  El Nacional
+[Sat Apr/11]
+  16.00  Espoli                   2-0 (2-0)  Liga de Portoviejo
+  17.00  Manta                    2-0 (1-0)  Deportivo Cuenca
+[Sun Apr/12]
+  11.40  Macará                   1-2 (1-1)  Emelec
+  12.00  Olmedo                   0-1 (0-1)  Técnico Universitario
+  18.00  Barcelona                2-1 (1-1)  LDU Quito
+
+
+Matchday 11
+[Fri Apr/17]
+  19.30  LDU Quito                2-0 (2-0)  Emelec
+[Sat Apr/18]
+  16.00  Técnico Universitario    0-2 (0-1)  Manta
+  19.00  Deportivo Cuenca         0-1 (0-0)  Deportivo Quito
+  20.30  Liga de Portoviejo       1-1 (0-0)  Macará
+[Sun Apr/19]
+  12.15  El Nacional              0-2 (0-1)  Espoli
+  16.00  Barcelona                1-0 (1-0)  Olmedo
+
+
+Matchday 12
+[Fri Apr/24]
+  19.30  Emelec                   1-1 (0-0)  LDU Quito
+[Sat Apr/25]
+  16.00  Espoli                   0-0  El Nacional
+         Olmedo                   1-0 (0-0)  Barcelona
+         Macará                   1-2 (0-1)  Liga de Portoviejo
+  18.00  Manta                    1-1 (1-1)  Técnico Universitario
+[Wed May/20]
+  19.10  Deportivo Quito          2-0 (1-0)  Deportivo Cuenca
+
+
+Matchday 13
+[Fri May/1]
+  19.00  El Nacional              0-1 (0-1)  Deportivo Quito
+[Sat May/2]
+  20.00  Liga de Portoviejo       2-1 (0-1)  Espoli
+[Sun May/3]
+  11.30  LDU Quito                3-0 (1-0)  Barcelona
+  12.00  Técnico Universitario    1-1 (0-0)  Olmedo
+  17.30  Emelec                   1-0 (1-0)  Macará
+[Wed May/27]
+  18.00  Deportivo Cuenca         2-1 (1-0)  Manta
+
+
+Matchday 14
+[Sat May/9]
+  14.00  Olmedo                   3-2 (3-1)  Deportivo Cuenca
+  16.00  Manta                    1-0 (0-0)  El Nacional
+         Espoli                   1-2 (1-1)  Emelec
+[Sun May/10]
+  11.45  Macará                   2-1 (0-1)  LDU Quito
+  12.00  Deportivo Quito          2-0 (1-0)  Liga de Portoviejo
+  17.00  Barcelona                4-1 (1-1)  Técnico Universitario
+
+
+Matchday 15
+[Sat May/16]
+  15.30  Macará                   3-2 (2-1)  Espoli
+  18.00  LDU Quito                4-0 (0-0)  Técnico Universitario
+  20.00  Liga de Portoviejo       0-1 (0-0)  Manta
+[Sun May/17]
+  11.30  El Nacional              3-0 (1-0)  Olmedo
+  12.00  Deportivo Cuenca         1-0 (0-0)  Barcelona
+  17.30  Emelec                   2-0 (2-0)  Deportivo Quito
+
+
+Matchday 16
+[Sat May/23]
+  16.00  Espoli                   2-2 (1-0)  LDU Quito
+  17.00  Deportivo Quito          0-2 (0-1)  Macará
+  18.00  Manta                    0-1 (0-0)  Emelec
+  19.00  Barcelona                0-0  El Nacional
+         Técnico Universitario    2-1 (1-1)  Deportivo Cuenca
+[Sun May/24]
+  12.00  Olmedo                   2-1 (1-0)  Liga de Portoviejo
+
+
+Matchday 17
+[Sat May/30]
+  16.00  Espoli                   1-0 (1-0)  Deportivo Quito
+  20.00  Liga de Portoviejo       1-0 (1-0)  Barcelona
+[Sun May/31]
+  11.30  El Nacional              4-1 (1-1)  Técnico Universitario
+  11.45  LDU Quito                1-1 (0-1)  Deportivo Cuenca
+  12.00  Macará                   1-0 (0-0)  Manta
+  17.30  Emelec                   0-1 (0-0)  Olmedo
+
+
+Matchday 18
+[Fri Jun/12]
+  18.00  Manta                    2-1 (1-0)  Espoli
+[Sat Jun/13]
+  12.00  Técnico Universitario    2-2 (1-1)  Liga de Portoviejo
+  16.00  Deportivo Quito          1-1 (1-1)  LDU Quito
+  17.00  Barcelona                0-1 (0-0)  Emelec
+  18.00  Olmedo                   3-3 (0-2)  Macará
+  20.00  Deportivo Cuenca         1-0 (0-0)  El Nacional
+
+
+Matchday 19
+[Sat Jun/20]
+  16.00  Deportivo Quito          3-0 (1-0)  Manta
+         Espoli                   1-3 (1-2)  Olmedo
+  17.00  Emelec                   2-2 (1-0)  Técnico Universitario
+  18.00  LDU Quito                2-0 (2-0)  El Nacional
+  20.00  Liga de Portoviejo       2-2 (0-0)  Deportivo Cuenca
+[Sun Jun/21]
+  12.00  Macará                   2-0 (0-0)  Barcelona
+
+
+Matchday 20
+[Sun Jun/28]
+  11.00  Técnico Universitario    2-0 (1-0)  Macará
+  11.30  El Nacional              2-3 (1-1)  Liga de Portoviejo
+  12.00  Deportivo Cuenca         0-1 (0-1)  Emelec
+  13.00  Olmedo                   1-0 (0-0)  Deportivo Quito
+  16.00  Barcelona                0-1 (0-0)  Espoli
+[Wed Jul/1]
+  19.00  Manta                    0-2 (0-1)  LDU Quito
+
+
+Matchday 21
+[Sun Jul/5]
+  12.00  Deportivo Quito          0-2 (0-1)  Barcelona
+         Emelec                   2-0 (0-0)  El Nacional
+         LDU Quito                4-0 (2-0)  Liga de Portoviejo
+         Espoli                   0-2 (0-1)  Técnico Universitario
+         Macará                   3-0 (1-0)  Deportivo Cuenca
+         Manta                    1-1 (1-1)  Olmedo
+
+
+Matchday 22
+[Sun Jul/12]
+  12.00  Deportivo Cuenca         0-1 (0-1)  Espoli
+         Técnico Universitario    1-1 (0-1)  Deportivo Quito
+         Olmedo                   2-3 (0-1)  LDU Quito
+         Liga de Portoviejo       1-2 (1-1)  Emelec
+         Barcelona                1-0 (1-0)  Manta
+         El Nacional              1-1 (0-0)  Macará
+
+
+== Clausura
+
+Matchday 1
+[Fri Jul/17]
+  19.00  Técnico Universitario    1-2 (0-2)  Espoli
+[Sat Jul/18]
+  18.00  LDU Quito                2-2 (0-1)  Deportivo Cuenca
+  20.00  Liga de Portoviejo       2-0 (0-0)  Barcelona
+[Sun Jul/19]
+  11.30  El Nacional              1-0 (0-0)  Macará
+  12.00  Olmedo                   0-2 (0-1)  Deportivo Quito
+  17.30  Emelec                   1-1 (1-0)  Manta
+
+
+Matchday 2
+[Fri Jul/24]
+  18.00  Deportivo Cuenca         1-0 (0-0)  El Nacional
+[Sat Jul/25]
+  16.00  Espoli                   1-2 (1-1)  Olmedo
+[Sun Jul/26]
+  11.45  Deportivo Quito          1-0 (1-0)  Emelec
+  12.00  Macará                   3-0 (1-0)  Liga de Portoviejo
+         Manta                    3-1 (0-1)  Técnico Universitario
+[Wed Aug/5]
+  19.00  Barcelona                1-1 (1-0)  LDU Quito
+
+
+Matchday 3
+[Sat Aug/1]
+  14.00  Técnico Universitario    0-2 (0-0)  Emelec
+  16.00  Espoli                   0-1 (0-0)  Deportivo Quito
+  17.00  Barcelona                3-1 (2-0)  Macará
+[Sun Aug/2]
+  11.30  LDU Quito                1-0 (0-0)  El Nacional
+  12.00  Olmedo                   1-1 (0-1)  Manta
+  14.00  Liga de Portoviejo       1-0 (0-0)  Deportivo Cuenca
+
+
+Matchday 4
+[Fri Aug/7]
+  18.00  Deportivo Cuenca         0-0  Olmedo
+  19.00  El Nacional              4-0 (3-0)  Espoli
+  19.30  Técnico Universitario    0-2 (0-0)  Macará
+[Sat Aug/8]
+  20.00  Liga de Portoviejo       0-0  Manta
+[Wed Aug/19]
+  19.30  LDU Quito                0-0  Deportivo Quito
+  20.00  Emelec                   2-2 (0-2)  Barcelona
+
+
+Matchday 5
+[Sat Aug/15]
+  17.00  Deportivo Quito          1-2 (1-0)  Técnico Universitario
+[Sun Aug/16]
+  10.30  Macará                   0-2 (0-1)  LDU Quito
+  11.30  El Nacional              3-0 (2-0)  Liga de Portoviejo
+  12.00  Manta                    2-1 (1-1)  Espoli
+  12.30  Deportivo Cuenca         2-1 (1-0)  Barcelona
+  17.30  Emelec                   2-1 (0-0)  Olmedo
+
+
+Matchday 6
+[Sat Aug/22]
+  17.00  LDU Quito                2-0 (0-0)  Liga de Portoviejo
+  18.00  Olmedo                   0-0  Técnico Universitario
+[Sun Aug/23]
+  11.30  Macará                   0-0  Deportivo Cuenca
+  12.00  Espoli                   2-0 (1-0)  Emelec
+         Manta                    2-0 (0-0)  Deportivo Quito
+  18.00  Barcelona                1-1 (0-0)  El Nacional
+
+
+Matchday 7
+[Fri Aug/28]
+  19.00  Deportivo Quito          2-0 (0-0)  Manta
+[Sat Aug/29]
+  12.15  El Nacional              1-1 (0-1)  Barcelona
+  18.00  Deportivo Cuenca         0-0  Macará
+         Técnico Universitario    3-3 (1-0)  Olmedo
+  20.30  Liga de Portoviejo       0-4 (0-1)  LDU Quito
+[Wed Sep/16]
+  20.00  Emelec                   4-0 (1-0)  Espoli
+
+
+Matchday 8
+[Fri Sep/11]
+  12.00  Espoli                   2-0 (0-0)  Manta
+[Sat Sep/12]
+  18.00  Técnico Universitario    0-1 (0-0)  Deportivo Quito
+  20.00  Barcelona                1-1 (0-0)  Deportivo Cuenca
+         Liga de Portoviejo       1-0 (1-0)  El Nacional
+[Sun Sep/13]
+  11.30  LDU Quito                1-1 (1-0)  Macará
+  12.00  Olmedo                   2-0 (0-0)  Emelec
+
+
+Matchday 9
+[Sat Sep/19]
+  18.00  Deportivo Quito          3-0 (3-0)  LDU Quito
+[Sun Sep/20]
+  12.00  Espoli                   3-2 (1-2)  El Nacional
+         Macará                   1-1 (0-0)  Técnico Universitario
+         Olmedo                   1-1 (0-1)  Deportivo Cuenca
+  14.00  Manta                    3-2 (0-1)  Liga de Portoviejo
+  17.00  Barcelona                0-0  Emelec
+
+
+Matchday 10
+[Wed Sep/16]
+  19.15  El Nacional              0-1 (0-0)  LDU Quito
+[Wed Sep/23]
+  13.00  Manta                    0-1 (0-1)  Olmedo
+  14.00  Deportivo Cuenca         2-1 (1-0)  Liga de Portoviejo
+  19.15  Deportivo Quito          1-0 (0-0)  Espoli
+  20.00  Macará                   1-2 (0-0)  Barcelona
+[Thu Oct/1]
+  18.00  Emelec                   4-1 (2-1)  Técnico Universitario
+
+
+Matchday 11
+[Sun Sep/27]
+  12.00  LDU Quito                4-0 (1-0)  Barcelona
+         El Nacional              4-1 (1-0)  Deportivo Cuenca
+         Liga de Portoviejo       1-1 (0-0)  Macará
+         Emelec                   2-0 (1-0)  Deportivo Quito
+         Técnico Universitario    2-3 (2-2)  Manta
+         Olmedo                   1-0 (1-0)  Espoli
+
+
+Matchday 12
+[Sat Oct/3]
+  16.00  Barcelona                2-0 (0-0)  Liga de Portoviejo
+         Macará                   1-1 (0-0)  El Nacional
+         Deportivo Cuenca         3-0 (1-0)  LDU Quito
+         Espoli                   2-2 (2-2)  Técnico Universitario
+         Deportivo Quito          2-2 (1-1)  Olmedo
+         Manta                    2-0 (1-0)  Emelec
+
+
+== Cuadrangulares
+
+Matchday 1
+[Fri Oct/16]
+  19.30  LDU Quito                4-0 (3-0)  Manta
+[Sun Oct/18]
+  12.00  Macará                   0-1 (0-1)  Deportivo Quito
+         Emelec                   0-1 (0-1)  Deportivo Cuenca
+         Olmedo                   0-0  Espoli
+
+
+Matchday 2
+[Fri Oct/23]
+  20.00  Deportivo Cuenca         2-1 (1-1)  Olmedo
+[Sun Oct/25]
+  12.00  Deportivo Quito          0-0  LDU Quito
+         Manta                    0-2 (0-0)  Macará
+         Espoli                   0-0  Emelec
+
+
+Matchday 3
+[Fri Oct/30]
+  20.00  Deportivo Cuenca         1-0 (1-0)  Espoli
+[Sat Oct/31]
+  16.00  Deportivo Quito          4-0 (1-0)  Manta
+         Macará                   0-0  LDU Quito
+[Sun Nov/1]
+  12.00  Olmedo                   2-0 (0-0)  Emelec
+
+
+Matchday 4
+[Sat Nov/7]
+  16.00  Manta                    0-0  Deportivo Quito
+[Sun Nov/8]
+  11.45  LDU Quito                0-0  Macará
+  12.00  Emelec                   2-1 (1-1)  Olmedo
+  14.00  Espoli                   0-1 (0-1)  Deportivo Cuenca
+
+
+Matchday 5
+[Sun Nov/15]
+  12.00  Macará                   0-0  Manta
+         Emelec                   1-1 (1-1)  Espoli
+         Olmedo                   1-2 (1-1)  Deportivo Cuenca
+[Mon Nov/16]
+  15.45  LDU Quito                0-1 (0-1)  Deportivo Quito
+
+
+Matchday 6
+[Sat Nov/21]
+  12.00  Espoli                   2-3 (0-0)  Olmedo
+[Sun Nov/22]
+  12.00  Manta                    1-0 (0-0)  LDU Quito
+         Deportivo Quito          2-0 (0-0)  Macará
+         Deportivo Cuenca         1-1 (0-0)  Emelec
+
+
+Match for 3rd place
+[Sun Nov/29]
+  12.00  Emelec                   1-0 (1-0)  LDU Quito
+[Mon Dec/7]
+  16.00  LDU Quito                0-1 (0-0)  Emelec
+
+
+Final
+[Sun Nov/29]
+  12.00  Deportivo Cuenca         1-1 (0-0)  Deportivo Quito
+[Sat Dec/5]
+  15.45  Deportivo Quito          3-2 (0-0)  Deportivo Cuenca

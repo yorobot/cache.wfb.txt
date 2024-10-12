@@ -1,0 +1,538 @@
+= EC 1 2015
+
+# Date       Sat Jan/31 - Sun Dec/20 2015 (323d)
+# Teams      12
+# Matches    266
+# Stages     Primera Etapa (132)  Segunda Etapa (132)  Tercera Etapa (2)
+
+
+== Primera Etapa
+
+Matchday 1
+[Sat Jan/31]
+  11.45  Universidad Catolica     0-1 (0-0)  Independiente del Valle
+  14.00  Liga de Loja             1-1 (1-0)  Barcelona
+  16.00  Club Deportivo River Plate Ecuador  2-1 (1-0)  Aucas
+[Sun Feb/1]
+  11.30  LDU Quito                1-0 (1-0)  El Nacional
+  12.00  Deportivo Quito          1-1 (0-0)  Emelec
+  14.00  Mushuc Runa              2-1 (1-1)  Deportivo Cuenca
+
+
+Matchday 2
+[Fri Feb/6]
+  20.00  Deportivo Cuenca         1-2 (1-0)  Universidad Catolica
+[Sat Feb/7]
+  16.00  Emelec                   5-2 (3-0)  Mushuc Runa
+[Sun Feb/8]
+  12.00  Aucas                    1-1 (1-0)  LDU Quito
+         El Nacional              0-1 (0-1)  Liga de Loja
+  16.00  Independiente del Valle  2-0 (0-0)  Deportivo Quito
+  16.30  Barcelona                1-1 (0-1)  Club Deportivo River Plate Ecuador
+
+
+Matchday 3
+[Fri Feb/13]
+  19.00  Deportivo Quito          2-3 (1-2)  Deportivo Cuenca
+  19.30  Liga de Loja             0-2 (0-0)  Emelec
+[Sat Feb/14]
+  16.30  Club Deportivo River Plate Ecuador  3-1 (0-1)  El Nacional
+[Sun Feb/15]
+  12.00  Universidad Catolica     2-2 (0-1)  Aucas
+         LDU Quito                2-1 (0-1)  Mushuc Runa
+[Mon Feb/16]
+  16.30  Barcelona                2-1 (0-1)  Independiente del Valle
+
+
+Matchday 4
+[Fri Feb/20]
+  20.00  Deportivo Cuenca         1-1 (1-0)  LDU Quito
+[Sat Feb/21]
+  15.00  Mushuc Runa              2-2 (2-2)  Deportivo Quito
+  16.00  El Nacional              2-1 (1-1)  Barcelona
+         Emelec                   1-1 (1-1)  Universidad Catolica
+  17.00  Independiente del Valle  3-2 (1-1)  Club Deportivo River Plate Ecuador
+[Sun Feb/22]
+  11.30  Aucas                    1-2 (1-1)  Liga de Loja
+
+
+Matchday 5
+[Fri Feb/27]
+  19.30  Liga de Loja             1-1 (0-1)  Deportivo Cuenca
+[Sat Feb/28]
+  12.00  LDU Quito                2-1 (2-1)  Emelec
+  16.00  El Nacional              1-2 (1-2)  Independiente del Valle
+         Club Deportivo River Plate Ecuador  2-0 (1-0)  Mushuc Runa
+[Sun Mar/1]
+  12.00  Universidad Catolica     2-1 (1-0)  Deportivo Quito
+[Wed Apr/1]
+  19.15  Barcelona                2-0 (1-0)  Aucas
+
+
+Matchday 6
+[Fri Mar/6]
+  20.00  Deportivo Cuenca         1-2 (0-1)  Club Deportivo River Plate Ecuador
+[Sat Mar/7]
+  16.00  Mushuc Runa              0-2 (0-1)  Universidad Catolica
+  17.00  Independiente del Valle  2-0 (1-0)  Liga de Loja
+[Sun Mar/8]
+  11.30  Deportivo Quito          0-0  LDU Quito
+  12.00  Aucas                    2-3 (2-1)  El Nacional
+  17.30  Emelec                   2-0 (0-0)  Barcelona
+
+
+Matchday 7
+[Sat Mar/14]
+  14.00  Liga de Loja             1-2 (0-1)  Mushuc Runa
+  16.00  Club Deportivo River Plate Ecuador  2-2 (0-0)  Deportivo Quito
+[Sun Mar/15]
+  11.30  LDU Quito                3-0 (1-0)  Universidad Catolica
+         El Nacional              1-1 (0-1)  Emelec
+  12.00  Aucas                    0-1 (0-0)  Independiente del Valle
+  16.30  Barcelona                2-0 (0-0)  Deportivo Cuenca
+
+
+Matchday 8
+[Fri Mar/20]
+  12.00  Universidad Catolica     4-1 (0-1)  Club Deportivo River Plate Ecuador
+  19.15  Deportivo Quito          3-1 (2-0)  Liga de Loja
+  20.00  Deportivo Cuenca         1-0 (0-0)  El Nacional
+[Sat Mar/21]
+  16.00  Mushuc Runa              0-1 (0-1)  Independiente del Valle
+[Sun Mar/22]
+  16.15  Emelec                   2-0 (2-0)  Aucas
+[Wed Apr/29]
+  19.30  LDU Quito                2-0 (1-0)  Barcelona
+
+
+Matchday 9
+[Wed Mar/25]
+  12.30  Aucas                    2-0 (1-0)  Deportivo Cuenca
+  16.30  Club Deportivo River Plate Ecuador  1-1 (0-0)  LDU Quito
+  19.00  Barcelona                6-0 (1-0)  Mushuc Runa
+  19.30  El Nacional              2-3 (0-1)  Deportivo Quito
+         Liga de Loja             1-0 (0-0)  Universidad Catolica
+[Wed Apr/8]
+  19.00  Independiente del Valle  3-1 (2-0)  Emelec
+
+
+Matchday 10
+[Sun Mar/29]
+  10.00  Deportivo Quito          3-2 (2-1)  Aucas
+  11.30  LDU Quito                2-1 (1-1)  Liga de Loja
+         Mushuc Runa              0-3 (0-2)  El Nacional
+  12.30  Universidad Catolica     1-2 (0-0)  Barcelona
+  13.40  Deportivo Cuenca         1-1 (1-0)  Independiente del Valle
+  16.00  Club Deportivo River Plate Ecuador  1-2 (0-1)  Emelec
+
+
+Matchday 11
+[Fri Apr/3]
+  16.00  Emelec                   3-1 (1-0)  Deportivo Cuenca
+[Sat Apr/4]
+  17.00  Independiente del Valle  1-1 (1-1)  LDU Quito
+  19.00  Liga de Loja             1-0 (0-0)  Club Deportivo River Plate Ecuador
+[Sun Apr/5]
+  11.30  El Nacional              0-0  Universidad Catolica
+  12.00  Aucas                    2-2 (0-1)  Mushuc Runa
+  16.30  Barcelona                1-2 (0-2)  Deportivo Quito
+
+
+Matchday 12
+[Sat Apr/11]
+  12.00  Universidad Catolica     0-4 (0-1)  El Nacional
+  14.30  Mushuc Runa              2-2 (1-0)  Aucas
+  16.30  Club Deportivo River Plate Ecuador  1-0 (1-0)  Liga de Loja
+[Sun Apr/12]
+  11.30  LDU Quito                2-0 (0-0)  Independiente del Valle
+[Mon Apr/13]
+  19.00  Deportivo Quito          1-0 (0-0)  Barcelona
+[Wed Apr/29]
+  20.00  Deportivo Cuenca         0-4 (0-1)  Emelec
+
+
+Matchday 13
+[Fri Apr/17]
+  19.05  Barcelona                2-0 (2-0)  Universidad Catolica
+  19.30  Liga de Loja             0-0  LDU Quito
+[Sat Apr/18]
+  13.00  Aucas                    2-3 (1-3)  Deportivo Quito
+  16.30  El Nacional              1-2 (1-0)  Mushuc Runa
+  17.00  Independiente del Valle  2-2 (0-1)  Deportivo Cuenca
+[Sun Apr/19]
+  16.00  Emelec                   0-0  Club Deportivo River Plate Ecuador
+
+
+Matchday 14
+[Wed Apr/22]
+  16.30  Universidad Catolica     1-3 (0-0)  Liga de Loja
+  19.00  Deportivo Quito          0-1 (0-0)  El Nacional
+  19.30  Deportivo Cuenca         0-2 (0-0)  Aucas
+         LDU Quito                2-0 (1-0)  Club Deportivo River Plate Ecuador
+[Wed May/13]
+  12.00  Mushuc Runa              1-1 (0-0)  Barcelona
+[Wed Jul/1]
+  16.00  Emelec                   3-3 (3-1)  Independiente del Valle
+
+
+Matchday 15
+[Sat Apr/25]
+  17.00  Independiente del Valle  1-0 (1-0)  Mushuc Runa
+[Sun Apr/26]
+  11.30  Liga de Loja             1-1 (1-1)  Deportivo Quito
+         El Nacional              1-1 (0-0)  Deportivo Cuenca
+  12.00  Aucas                    0-0  Emelec
+  14.00  Club Deportivo River Plate Ecuador  1-0 (1-0)  Universidad Catolica
+  16.30  Barcelona                0-1 (0-1)  LDU Quito
+
+
+Matchday 16
+[Sat May/2]
+  16.00  Mushuc Runa              3-1 (0-0)  Liga de Loja
+  17.00  Independiente del Valle  1-1 (1-0)  Aucas
+  19.00  Deportivo Quito          1-1 (1-0)  Club Deportivo River Plate Ecuador
+[Sun May/3]
+  11.30  Deportivo Cuenca         3-2 (0-1)  Barcelona
+  12.00  Universidad Catolica     1-1 (0-0)  LDU Quito
+  16.00  Emelec                   2-0 (0-0)  El Nacional
+
+
+Matchday 17
+[Fri May/8]
+  19.30  Liga de Loja             0-2 (0-2)  Independiente del Valle
+[Sat May/9]
+  12.00  Universidad Catolica     0-1 (0-1)  Mushuc Runa
+  16.30  Club Deportivo River Plate Ecuador  2-3 (0-2)  Deportivo Cuenca
+  18.30  LDU Quito                3-1 (1-0)  Deportivo Quito
+[Sun May/10]
+  12.00  El Nacional              1-1 (0-1)  Aucas
+  16.30  Barcelona                2-0 (1-0)  Emelec
+
+
+Matchday 18
+[Fri May/15]
+  20.00  Deportivo Cuenca         1-0 (0-0)  Liga de Loja
+[Sat May/16]
+  17.00  Independiente del Valle  1-0 (1-0)  El Nacional
+         Deportivo Quito          0-3 (0-1)  Universidad Catolica
+[Sun May/17]
+  12.00  Mushuc Runa              1-0 (0-0)  Club Deportivo River Plate Ecuador
+         Aucas                    0-2 (0-1)  Barcelona
+[Tue Jul/7]
+  16.00  Emelec                   1-0 (0-0)  LDU Quito
+
+
+Matchday 19
+[Fri May/22]
+  19.30  Liga de Loja             2-5 (0-2)  Aucas
+[Sat May/23]
+  16.00  Deportivo Quito          1-1 (1-1)  Mushuc Runa
+  16.30  Club Deportivo River Plate Ecuador  1-2 (0-1)  Independiente del Valle
+[Sun May/24]
+  11.30  LDU Quito                0-0  Deportivo Cuenca
+  16.30  Barcelona                0-2 (0-0)  El Nacional
+[Fri Jul/10]
+  12.00  Universidad Catolica     0-1 (0-0)  Emelec
+
+
+Matchday 20
+[Fri Jun/26]
+  20.00  Deportivo Cuenca         3-3 (1-0)  Deportivo Quito
+[Sat Jun/27]
+  16.00  Emelec                   4-0 (3-0)  Liga de Loja
+  19.00  Independiente del Valle  2-3 (1-1)  Barcelona
+[Sun Jun/28]
+  11.30  Mushuc Runa              0-1 (0-1)  LDU Quito
+  12.00  El Nacional              2-1 (0-0)  Club Deportivo River Plate Ecuador
+         Aucas                    3-1 (0-1)  Universidad Catolica
+
+
+Matchday 21
+[Sat Jul/4]
+         Liga de Loja             0-3  El Nacional              [awarded]
+[Fri Jul/3]
+  19.30  Club Deportivo River Plate Ecuador  2-1 (2-1)  Barcelona
+[Sat Jul/4]
+  12.00  Universidad Catolica     1-1 (0-0)  Deportivo Cuenca
+  18.30  LDU Quito                1-0 (1-0)  Aucas
+[Sun Jul/5]
+  11.30  Mushuc Runa              1-3 (0-2)  Emelec
+         Deportivo Quito          3-2 (0-1)  Independiente del Valle
+
+
+Matchday 22
+[Fri Jul/10]
+  20.00  Deportivo Cuenca         0-2 (0-2)  Mushuc Runa
+[Sun Jul/12]
+  12.00  Independiente del Valle  1-1 (1-1)  Universidad Catolica
+         Aucas                    3-1 (1-0)  Club Deportivo River Plate Ecuador
+         El Nacional              0-1 (0-1)  LDU Quito
+         Emelec                   2-0 (1-0)  Deportivo Quito
+  16.30  Barcelona                2-0 (2-0)  Liga de Loja
+
+
+== Segunda Etapa
+
+Matchday 1
+[Fri Jul/17]
+  19.30  Liga de Loja             0-0  Club Deportivo River Plate Ecuador
+[Sat Jul/18]
+  14.00  Mushuc Runa              2-1 (1-1)  Deportivo Cuenca
+  16.00  El Nacional              1-0 (0-0)  Aucas
+  17.00  Independiente del Valle  1-3 (0-2)  LDU Quito
+[Sun Jul/19]
+  12.00  Universidad Catolica     0-2 (0-0)  Barcelona
+  16.00  Emelec                   0-0  Deportivo Quito
+
+
+Matchday 2
+[Fri Jul/24]
+  19.30  Deportivo Quito          1-0 (1-0)  El Nacional
+  20.00  Deportivo Cuenca         0-2 (0-2)  Independiente del Valle
+[Sat Jul/25]
+  15.00  Aucas                    1-0 (0-0)  Liga de Loja
+  16.30  Barcelona                0-0  Mushuc Runa
+  18.30  LDU Quito                1-1 (1-0)  Universidad Catolica
+         Club Deportivo River Plate Ecuador  0-4 (0-3)  Emelec
+
+
+Matchday 3
+[Wed Jul/29]
+  12.00  Universidad Catolica     1-3 (0-1)  Deportivo Cuenca
+  16.00  Emelec                   3-0 (1-0)  Aucas
+  18.00  Independiente del Valle  3-0 (0-0)  Deportivo Quito
+  19.00  Club Deportivo River Plate Ecuador  1-0 (1-0)  LDU Quito
+         Liga de Loja             1-2 (1-1)  Barcelona
+  19.30  El Nacional              1-0 (1-0)  Mushuc Runa
+
+
+Matchday 4
+[Sun Aug/2]
+  11.30  LDU Quito                2-1 (2-0)  Emelec
+         Deportivo Cuenca         0-0  El Nacional
+  12.00  Deportivo Quito          1-1 (1-0)  Liga de Loja
+         Aucas                    4-0 (3-0)  Club Deportivo River Plate Ecuador
+  14.00  Mushuc Runa              1-3 (1-1)  Universidad Catolica
+  16.30  Barcelona                2-1 (0-0)  Independiente del Valle
+
+
+Matchday 5
+[Fri Aug/7]
+  19.15  Independiente del Valle  0-1 (0-0)  Universidad Catolica
+         Liga de Loja             0-1 (0-0)  Deportivo Cuenca
+[Sat Aug/8]
+  16.30  Club Deportivo River Plate Ecuador  3-1 (2-1)  Deportivo Quito
+  17.30  Emelec                   1-0 (0-0)  Mushuc Runa
+[Sun Aug/9]
+  11.30  Aucas                    3-2 (2-1)  LDU Quito
+  12.00  El Nacional              1-0 (1-0)  Barcelona
+
+
+Matchday 6
+[Sat Aug/15]
+  16.00  Mushuc Runa              2-4 (2-1)  Independiente del Valle
+[Sun Aug/16]
+  12.00  Deportivo Quito          0-1 (0-0)  Aucas
+  16.30  Barcelona                0-1 (0-0)  Club Deportivo River Plate Ecuador
+  18.00  Deportivo Cuenca         0-1 (0-0)  Emelec
+[Wed Aug/26]
+  19.00  Universidad Catolica     3-1 (0-1)  El Nacional
+[Fri Oct/9]
+  11.30  LDU Quito                1-2 (0-1)  Liga de Loja
+
+
+Matchday 7
+[Sat Aug/22]
+  16.00  El Nacional              0-1 (0-1)  Independiente del Valle
+  16.30  Club Deportivo River Plate Ecuador  1-1 (1-0)  Deportivo Cuenca
+[Sun Aug/23]
+  12.00  Deportivo Quito          1-4 (0-1)  LDU Quito
+         Aucas                    3-1 (2-0)  Barcelona
+  17.00  Emelec                   2-2 (1-0)  Universidad Catolica
+[Mon Aug/24]
+  19.30  Liga de Loja             2-1 (1-0)  Mushuc Runa
+
+
+Matchday 8
+[Fri Aug/28]
+  20.00  Deportivo Cuenca         1-1 (0-1)  Aucas
+[Sat Aug/29]
+  17.00  Universidad Catolica     3-0 (2-0)  Liga de Loja
+[Sun Aug/30]
+  11.00  Mushuc Runa              1-3 (1-1)  LDU Quito
+  11.30  El Nacional              2-0 (0-0)  Club Deportivo River Plate Ecuador
+  16.30  Barcelona                3-0 (2-0)  Deportivo Quito
+  17.00  Independiente del Valle  1-0 (0-0)  Emelec
+
+
+Matchday 9
+[Fri Sep/4]
+  19.30  Deportivo Quito          0-3 (0-1)  Deportivo Cuenca
+         Liga de Loja             3-2 (1-1)  Independiente del Valle
+[Sat Sep/5]
+  16.30  Club Deportivo River Plate Ecuador  2-2 (1-1)  Mushuc Runa
+[Sun Sep/6]
+  11.30  LDU Quito                2-0 (1-0)  Barcelona
+  12.00  Aucas                    2-1 (0-0)  Universidad Catolica
+[Wed Oct/28]
+  18.30  Emelec                   2-1 (1-0)  El Nacional
+
+
+Matchday 10
+[Fri Sep/11]
+  20.00  Deportivo Cuenca         0-1 (0-0)  LDU Quito
+[Sat Sep/12]
+  17.00  Independiente del Valle  1-1 (0-1)  Club Deportivo River Plate Ecuador
+[Sun Sep/13]
+  10.00  El Nacional              1-3 (1-1)  Liga de Loja
+  12.00  Mushuc Runa              3-1 (1-0)  Aucas
+  12.30  Universidad Catolica     2-1 (2-0)  Deportivo Quito
+  17.00  Emelec                   0-0  Barcelona
+
+
+Matchday 11
+[Sat Sep/19]
+  16.00  Club Deportivo River Plate Ecuador  1-3 (0-1)  Universidad Catolica
+[Sun Sep/20]
+  11.30  LDU Quito                1-1 (0-1)  El Nacional
+  12.00  Deportivo Quito          1-2 (0-1)  Mushuc Runa
+         Aucas                    1-1 (0-0)  Independiente del Valle
+  16.30  Barcelona                1-1 (0-0)  Deportivo Cuenca
+[Wed Nov/25]
+  19.00  Liga de Loja             2-4 (1-3)  Emelec
+
+
+Matchday 12
+[Sat Sep/26]
+  12.30  Universidad Catolica     1-0 (0-0)  Club Deportivo River Plate Ecuador
+  15.00  Mushuc Runa              1-1 (0-0)  Deportivo Quito
+  17.00  Independiente del Valle  1-1 (0-1)  Aucas
+         Emelec                   1-1 (1-1)  Liga de Loja
+[Sun Sep/27]
+  11.30  El Nacional              1-5 (1-2)  LDU Quito
+         Deportivo Cuenca         3-0 (0-0)  Barcelona
+
+
+Matchday 13
+[Fri Oct/2]
+  15.00  Aucas                    0-0  Mushuc Runa
+         Club Deportivo River Plate Ecuador  1-3 (0-1)  Independiente del Valle
+  19.30  Liga de Loja             1-0 (0-0)  El Nacional
+[Sat Oct/3]
+  17.00  Barcelona                0-1 (0-0)  Emelec
+[Sun Oct/4]
+  11.30  Deportivo Quito          4-1 (2-0)  Universidad Catolica
+         LDU Quito                3-2 (2-0)  Deportivo Cuenca
+
+
+Matchday 14
+[Fri Oct/16]
+  20.00  Deportivo Cuenca         1-0 (1-0)  Deportivo Quito
+[Sat Oct/17]
+  12.00  Universidad Catolica     3-0 (1-0)  Aucas
+  17.00  Independiente del Valle  2-1 (1-0)  Liga de Loja
+[Sun Oct/18]
+  11.30  El Nacional              1-1 (0-1)  Emelec
+  12.00  Mushuc Runa              1-1 (0-0)  Club Deportivo River Plate Ecuador
+  16.30  Barcelona                1-0 (1-0)  LDU Quito
+
+
+Matchday 15
+[Fri Oct/23]
+  19.30  Liga de Loja             1-2 (0-0)  Universidad Catolica
+[Sat Oct/24]
+  16.00  Emelec                   3-2 (2-1)  Independiente del Valle
+  19.00  Club Deportivo River Plate Ecuador  5-0 (1-0)  El Nacional
+[Sun Oct/25]
+  11.30  LDU Quito                1-1 (0-1)  Mushuc Runa
+  12.00  Deportivo Quito          0-1 (0-1)  Barcelona
+         Aucas                    0-0  Deportivo Cuenca
+
+
+Matchday 16
+[Fri Oct/30]
+  19.00  Barcelona                0-0  Aucas
+  19.15  LDU Quito                2-0 (2-0)  Deportivo Quito
+[Sat Oct/31]
+  14.00  Mushuc Runa              2-1 (0-0)  Liga de Loja
+[Sun Nov/1]
+  11.30  Independiente del Valle  2-1 (1-0)  El Nacional
+  12.00  Universidad Catolica     0-3 (0-1)  Emelec
+[Mon Nov/2]
+  18.00  Deportivo Cuenca         1-1 (1-0)  Club Deportivo River Plate Ecuador
+
+
+Matchday 17
+[Fri Nov/6]
+  16.00  Emelec                   6-0 (3-0)  Deportivo Cuenca
+  19.00  Independiente del Valle  4-1 (2-0)  Mushuc Runa
+         El Nacional              0-2 (0-1)  Universidad Catolica
+         Club Deportivo River Plate Ecuador  1-1 (0-0)  Barcelona
+  20.00  Liga de Loja             2-3 (2-0)  LDU Quito
+[Sun Nov/8]
+  12.00  Aucas                    2-2 (1-2)  Deportivo Quito
+
+
+Matchday 18
+[Fri Nov/20]
+  20.00  Deportivo Cuenca         1-2 (0-1)  Liga de Loja
+[Sun Nov/22]
+         Deportivo Quito          0-3  Club Deportivo River Plate Ecuador  [awarded]
+[Sat Nov/21]
+  19.00  Universidad Catolica     2-1 (1-1)  Independiente del Valle
+[Sun Nov/22]
+  11.30  LDU Quito                0-2 (0-2)  Aucas
+         Mushuc Runa              2-2 (1-0)  Emelec
+  16.30  Barcelona                3-0 (1-0)  El Nacional
+
+
+Matchday 19
+[Fri Nov/27]
+  19.00  Universidad Catolica     1-1 (0-0)  Mushuc Runa
+[Sat Nov/28]
+  17.00  Independiente del Valle  3-3 (2-2)  Barcelona
+  19.00  Club Deportivo River Plate Ecuador  1-0 (1-0)  Aucas
+[Sun Nov/29]
+  11.30  El Nacional              2-0 (0-0)  Deportivo Cuenca
+         Liga de Loja             1-0 (1-0)  Deportivo Quito
+  16.00  Emelec                   0-2 (0-0)  LDU Quito
+
+
+Matchday 20
+[Wed Dec/2]
+  15.00  Aucas                    3-3 (1-2)  Emelec
+  16.00  Mushuc Runa              1-2 (1-2)  El Nacional
+  19.00  Deportivo Quito          0-5 (0-3)  Independiente del Valle
+  19.15  LDU Quito                1-0 (0-0)  Club Deportivo River Plate Ecuador
+  19.30  Barcelona                2-1 (1-1)  Liga de Loja
+  20.00  Deportivo Cuenca         1-0 (0-0)  Universidad Catolica
+
+
+Matchday 21
+[Sun Dec/6]
+  12.00  Independiente del Valle  2-0 (1-0)  Deportivo Cuenca
+         El Nacional              1-2 (1-1)  Deportivo Quito
+         Universidad Catolica     2-1 (1-0)  LDU Quito
+         Emelec                   3-1 (2-1)  Club Deportivo River Plate Ecuador
+         Liga de Loja             2-1 (0-1)  Aucas
+         Mushuc Runa              1-0 (0-0)  Barcelona
+
+
+Matchday 22
+[Sat Dec/12]
+  15.30  Aucas                    1-0 (1-0)  El Nacional
+         Club Deportivo River Plate Ecuador  2-1 (2-0)  Liga de Loja
+         Deportivo Cuenca         1-1 (1-0)  Mushuc Runa
+[Sun Dec/13]
+  11.30  Deportivo Quito          0-1 (0-0)  Emelec
+         LDU Quito                4-3 (2-2)  Independiente del Valle
+         Barcelona                1-1 (1-1)  Universidad Catolica
+
+
+== Tercera Etapa
+
+Final
+[Wed Dec/16]
+  19.15  Emelec                   3-1 (1-0)  LDU Quito
+[Sun Dec/20]
+  11.30  LDU Quito                0-0  Emelec

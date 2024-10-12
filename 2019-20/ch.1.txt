@@ -1,0 +1,375 @@
+= CH 1 2019/20
+
+# Date       Fri Jul/19 2019 - Sun Aug/2 2020 (380d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Jul/19]
+  20.00  FC Sion                  1-4 (1-1)  FC Basel
+[Sat Jul/20]
+  19.00  FC Thun                  2-2 (0-1)  Neuchâtel Xamax FCS
+         FC St.Gallen             0-2 (0-0)  FC Luzern
+[Sun Jul/21]
+  16.00  BSC Young Boys           1-1 (1-1)  Servette Genève
+         FC Zürich                0-4 (0-3)  FC Lugano
+
+
+Matchday 2
+[Sat Jul/27]
+  19.00  FC Basel                 1-2 (0-1)  FC St.Gallen
+         Servette Genève          0-0  FC Sion
+[Sun Jul/28]
+  16.00  Neuchâtel Xamax FCS      0-1 (0-0)  BSC Young Boys
+         FC Luzern                0-0  FC Zürich
+         FC Lugano                0-0  FC Thun
+
+
+Matchday 3
+[Sat Aug/3]
+  19.00  FC Sion                  3-1 (1-1)  FC Zürich
+         FC Thun                  2-3 (1-1)  FC Basel
+[Sun Aug/4]
+  16.00  BSC Young Boys           2-0 (1-0)  FC Lugano
+         Servette Genève          1-0 (0-0)  FC Luzern
+         Neuchâtel Xamax FCS      1-1 (0-1)  FC St.Gallen
+
+
+Matchday 4
+[Sat Aug/10]
+  19.00  FC Basel                 3-1 (2-1)  Servette Genève
+         FC St.Gallen             2-3 (1-2)  BSC Young Boys
+[Sun Aug/11]
+  16.00  FC Lugano                0-1 (0-0)  FC Sion
+         FC Zürich                2-2 (1-0)  Neuchâtel Xamax FCS
+         FC Luzern                0-2 (0-1)  FC Thun
+
+
+Matchday 6
+[Wed Aug/14]
+  19.00  FC Zürich                2-1 (1-1)  FC St.Gallen
+
+
+Matchday 5
+[Sat Aug/24]
+  19.00  BSC Young Boys           4-0 (1-0)  FC Zürich
+         Neuchâtel Xamax FCS      0-3 (0-0)  FC Basel
+[Sun Aug/25]
+  16.00  FC Sion                  2-1 (1-0)  FC Luzern
+         FC Thun                  0-4 (0-2)  Servette Genève
+         FC St.Gallen             3-2 (0-1)  FC Lugano
+
+
+Matchday 6
+[Sat Aug/31]
+  19.00  Servette Genève          2-2 (0-2)  Neuchâtel Xamax FCS
+[Sun Sep/1]
+  16.00  FC Basel                 2-1 (1-0)  FC Lugano
+         FC Thun                  0-1 (0-1)  FC Sion
+         FC Luzern                2-2 (1-2)  BSC Young Boys
+
+
+Matchday 7
+[Sat Sep/21]
+  19.00  Neuchâtel Xamax FCS      1-3 (1-1)  FC Sion
+         FC St.Gallen             3-1 (2-0)  Servette Genève
+[Sun Sep/22]
+  16.00  FC Lugano                1-1 (1-1)  FC Luzern
+         BSC Young Boys           1-1 (0-1)  FC Basel
+         FC Zürich                2-0 (1-0)  FC Thun
+
+
+Matchday 8
+[Wed Sep/25]
+  20.00  FC Basel                 4-0 (1-0)  FC Zürich
+         FC Thun                  1-1 (0-0)  BSC Young Boys
+         FC Sion                  1-2 (0-1)  FC St.Gallen
+[Thu Sep/26]
+  20.00  FC Luzern                1-0 (0-0)  Neuchâtel Xamax FCS
+         Servette Genève          0-0  FC Lugano
+
+
+Matchday 9
+[Sat Sep/28]
+  19.00  FC St.Gallen             4-0 (2-0)  FC Thun
+         BSC Young Boys           3-2 (2-1)  FC Sion
+[Sun Sep/29]
+  16.00  Servette Genève          0-1 (0-1)  FC Zürich
+         FC Lugano                0-1 (0-1)  Neuchâtel Xamax FCS
+         FC Basel                 3-0 (1-0)  FC Luzern
+
+
+Matchday 10
+[Sat Oct/5]
+  19.00  FC Thun                  0-2 (0-0)  FC Luzern
+         Neuchâtel Xamax FCS      2-2 (0-2)  Servette Genève
+[Sun Oct/6]
+  16.00  FC Sion                  1-2 (0-0)  FC Lugano
+         FC St.Gallen             0-0  FC Basel
+         FC Zürich                0-4 (0-1)  BSC Young Boys
+
+
+Matchday 11
+[Sat Oct/19]
+  19.00  BSC Young Boys           4-1 (1-0)  Neuchâtel Xamax FCS
+         FC Basel                 3-1 (0-0)  FC Thun
+[Sun Oct/20]
+  16.00  FC Lugano                0-0  FC Zürich
+         Servette Genève          1-2 (0-1)  FC St.Gallen
+         FC Luzern                3-1 (0-1)  FC Sion
+
+
+Matchday 12
+[Sat Oct/26]
+  19.00  Neuchâtel Xamax FCS      2-0 (1-0)  FC Luzern
+         FC Sion                  1-1 (1-1)  Servette Genève
+[Sun Oct/27]
+  16.00  FC Lugano                1-3 (0-2)  FC St.Gallen
+         FC Zürich                3-2 (2-1)  FC Basel
+         BSC Young Boys           4-2 (2-1)  FC Thun
+
+
+Matchday 13
+[Sat Nov/2]
+  19.00  FC St.Gallen             3-0 (0-0)  FC Sion
+         FC Thun                  0-1 (0-1)  FC Zürich
+[Sun Nov/3]
+  16.00  FC Basel                 1-1 (0-1)  Neuchâtel Xamax FCS
+         FC Luzern                1-2 (0-0)  FC Lugano
+         Servette Genève          3-0 (0-0)  BSC Young Boys
+
+
+Matchday 14
+[Sat Nov/9]
+  19.00  FC Luzern                1-2 (0-2)  Servette Genève
+         Neuchâtel Xamax FCS      2-3 (0-0)  FC Thun
+[Sun Nov/10]
+  16.00  FC Lugano                0-3 (0-2)  FC Basel
+         BSC Young Boys           4-3 (2-2)  FC St.Gallen
+         FC Zürich                4-2 (2-2)  FC Sion
+
+
+Matchday 15
+[Sat Nov/23]
+  19.00  Servette Genève          2-0 (1-0)  FC Basel
+         FC Zürich                3-0 (1-0)  FC Luzern
+[Sun Nov/24]
+  16.00  FC Sion                  3-4 (2-3)  BSC Young Boys
+         FC Thun                  0-3 (0-2)  FC Lugano
+         FC St.Gallen             4-1 (2-0)  Neuchâtel Xamax FCS
+
+
+Matchday 16
+[Sat Nov/30]
+  19.00  FC Sion                  2-1 (0-1)  FC Thun
+         Neuchâtel Xamax FCS      0-1 (0-0)  FC Zürich
+[Sun Dec/1]
+  16.00  FC Basel                 3-0 (2-0)  BSC Young Boys
+         FC Lugano                1-0 (0-0)  Servette Genève
+         FC Luzern                1-4 (1-1)  FC St.Gallen
+
+
+Matchday 17
+[Sat Dec/7]
+  19.00  BSC Young Boys           1-0 (0-0)  FC Luzern
+         Neuchâtel Xamax FCS      1-1 (1-0)  FC Lugano
+[Sun Dec/8]
+  16.00  FC Basel                 4-0 (2-0)  FC Sion
+         FC Thun                  1-4 (0-2)  FC St.Gallen
+         FC Zürich                0-5 (0-2)  Servette Genève
+
+
+Matchday 18
+[Sat Dec/14]
+  19.00  Servette Genève          2-1 (0-0)  FC Thun
+         FC St.Gallen             1-3 (1-2)  FC Zürich
+[Sun Dec/15]
+  16.00  FC Lugano                0-0  BSC Young Boys
+         FC Luzern                2-1 (1-0)  FC Basel
+         FC Sion                  1-1 (1-0)  Neuchâtel Xamax FCS
+
+
+Matchday 19
+[Sat Jan/25]
+  19.00  FC Zürich                2-3 (1-3)  FC Luzern
+         Neuchâtel Xamax FCS      1-2 (0-2)  Servette Genève
+[Sun Jan/26]
+  16.00  FC St.Gallen             3-1 (0-1)  FC Lugano
+         FC Thun                  2-1 (2-0)  FC Sion
+         BSC Young Boys           2-0 (1-0)  FC Basel
+
+
+Matchday 20
+[Sat Feb/1]
+  19.00  FC Luzern                2-0 (0-0)  BSC Young Boys
+         FC Lugano                1-1 (1-1)  Neuchâtel Xamax FCS
+[Sun Feb/2]
+  16.00  FC Basel                 1-2 (1-1)  FC St.Gallen
+         FC Sion                  1-1 (1-1)  FC Zürich
+         Servette Genève          2-0 (0-0)  FC Thun
+
+
+Matchday 21
+[Sat Feb/8]
+  19.00  BSC Young Boys           1-0 (1-0)  FC Sion
+         FC Zürich                0-4 (0-2)  FC Basel
+[Sun Feb/9]
+  16.00  Neuchâtel Xamax FCS      0-1 (0-1)  FC Luzern
+         FC Thun                  3-2 (2-1)  FC Lugano
+         FC St.Gallen             1-0 (1-0)  Servette Genève
+
+
+Matchday 22
+[Sat Feb/15]
+  19.00  FC Basel                 0-1 (0-0)  FC Thun
+         FC Sion                  1-2 (0-1)  Neuchâtel Xamax FCS
+[Sun Feb/16]
+  16.00  FC Lugano                2-1 (1-0)  BSC Young Boys
+         FC Luzern                1-0 (1-0)  FC St.Gallen
+         Servette Genève          4-1 (1-0)  FC Zürich
+
+
+Matchday 23
+[Sat Feb/22]
+  19.00  FC Thun                  1-1 (1-1)  FC Luzern
+         FC Zürich                1-1 (1-1)  Neuchâtel Xamax FCS
+[Sun Feb/23]
+  16.00  FC Basel                 2-2 (2-0)  Servette Genève
+         FC Lugano                0-0  FC Sion
+         FC St.Gallen             3-3 (1-2)  BSC Young Boys
+
+
+Matchday 24
+[Fri Jun/19]
+  20.30  BSC Young Boys           3-2 (1-2)  FC Zürich
+[Sat Jun/20]
+  18.15  Neuchâtel Xamax FCS      2-1 (1-0)  FC Thun
+  20.30  FC Sion                  1-2 (0-1)  FC St.Gallen
+[Sun Jun/21]
+  16.00  FC Luzern                2-1 (1-0)  FC Basel
+         Servette Genève          1-1 (0-1)  FC Lugano
+
+
+Matchday 25
+[Tue Jun/23]
+  20.30  FC Thun                  1-0 (0-0)  BSC Young Boys
+[Wed Jun/24]
+  18.15  Neuchâtel Xamax FCS      1-2 (1-1)  FC Basel
+  20.30  FC Lugano                2-0 (0-0)  FC Luzern
+         FC Sion                  1-1 (1-1)  Servette Genève
+[Thu Jun/25]
+  20.30  FC St.Gallen             0-4 (0-1)  FC Zürich
+
+
+Matchday 26
+[Sat Jun/27]
+  20.30  BSC Young Boys           6-0 (4-0)  Neuchâtel Xamax FCS
+  18.15  FC Luzern                2-2 (0-2)  Servette Genève
+[Sun Jun/28]
+  16.00  FC Basel                 2-0 (0-0)  FC Sion
+         FC St.Gallen             3-2 (3-0)  FC Thun
+         FC Zürich                1-0 (0-0)  FC Lugano
+
+
+Matchday 27
+[Tue Jun/30]
+  20.30  Servette Genève          1-1 (0-0)  BSC Young Boys
+[Wed Jul/1]
+  20.30  FC Thun                  3-2 (3-2)  FC Zürich
+         Neuchâtel Xamax FCS      1-2 (1-1)  FC St.Gallen
+  18.15  FC Lugano                2-1 (0-0)  FC Basel
+[Thu Jul/2]
+  20.30  FC Sion                  0-2 (0-1)  FC Luzern
+
+
+Matchday 28
+[Sat Jul/4]
+  18.15  FC Basel                 2-0 (1-0)  Neuchâtel Xamax FCS
+  20.30  FC Zürich                2-0 (1-0)  Servette Genève
+[Sun Jul/5]
+  16.00  FC Luzern                3-0 (2-0)  FC Thun
+         FC St.Gallen             2-1 (2-1)  FC Sion
+         BSC Young Boys           3-0 (1-0)  FC Lugano
+
+
+Matchday 29
+[Tue Jul/7]
+  20.30  Neuchâtel Xamax FCS      -  FC Zürich
+[Wed Jul/8]
+  18.15  BSC Young Boys           -  FC Thun
+  20.30  Servette Genève          -  FC Luzern
+         FC Sion                  -  FC Basel
+[Thu Jul/9]
+  20.30  FC Lugano                -  FC St.Gallen
+
+
+Matchday 30
+[Sat Jul/11]
+  16.00  FC Basel                 -  BSC Young Boys
+  18.15  FC Zürich                -  FC Sion
+[Sun Jul/12]
+  16.00  FC Luzern                -  FC Lugano
+         FC Thun                  -  Neuchâtel Xamax FCS
+         Servette Genève          -  FC St.Gallen
+
+
+Matchday 31
+[Tue Jul/14]
+  20.30  FC Basel                 -  FC Zürich
+[Wed Jul/15]
+  20.30  FC Lugano                -  FC Thun
+  18.15  Neuchâtel Xamax FCS      -  FC Sion
+  20.30  BSC Young Boys           -  Servette Genève
+[Thu Jul/16]
+  20.30  FC St.Gallen             -  FC Luzern
+
+
+Matchday 32
+[Sat Jul/18]
+  18.15  FC Sion                  -  FC Lugano
+  20.30  FC Zürich                -  BSC Young Boys
+[Sun Jul/19]
+  16.00  FC Luzern                -  Neuchâtel Xamax FCS
+         FC Thun                  -  FC St.Gallen
+         Servette Genève          -  FC Basel
+
+
+Matchday 33
+[Tue Jul/21]
+  20.30  FC Lugano                -  FC Zürich
+[Wed Jul/22]
+  20.30  FC Luzern                -  FC Sion
+  18.15  FC Thun                  -  Servette Genève
+  20.30  FC St.Gallen             -  FC Basel
+[Thu Jul/23]
+  20.30  Neuchâtel Xamax FCS      -  BSC Young Boys
+
+
+Matchday 34
+[Sat Jul/25]
+  18.15  FC Basel                 -  FC Lugano
+  20.30  FC Zürich                -  FC St.Gallen
+[Sun Jul/26]
+  16.00  BSC Young Boys           -  FC Luzern
+         FC Sion                  -  FC Thun
+         Servette Genève          -  Neuchâtel Xamax FCS
+
+
+Matchday 35
+[Wed Jul/29]
+  20.30  FC Thun                  -  FC Basel
+         FC Luzern                -  FC Zürich
+         FC Sion                  -  BSC Young Boys
+         FC St.Gallen             -  Neuchâtel Xamax FCS
+         FC Lugano                -  Servette Genève
+
+
+Matchday 36
+[Sun Aug/2]
+  16.00  FC Basel                 -  FC Luzern
+         Neuchâtel Xamax FCS      -  FC Lugano
+         Servette Genève          -  FC Sion
+         BSC Young Boys           -  FC St.Gallen
+         FC Zürich                -  FC Thun

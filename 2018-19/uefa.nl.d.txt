@@ -1,0 +1,91 @@
+= UEFA NL D 2018/19
+
+# Date       Thu Sep/6 - Tue Nov/20 2018 (75d)
+# Teams      16
+# Matches    48
+
+
+
+Gruppe 1
+[Thu Sep/6]
+  16.00  Kasachstan               0-2 (0-0)  Georgien
+  20.45  Lettland                 0-0  Andorra
+[Sun Sep/9]
+  18.00  Georgien                 1-0 (0-0)  Lettland
+[Mon Sep/10]
+  20.45  Andorra                  1-1 (0-0)  Kasachstan
+[Sat Oct/13]
+  18.00  Georgien                 3-0 (1-0)  Andorra
+         Lettland                 1-1 (1-1)  Kasachstan
+[Tue Oct/16]
+  16.00  Kasachstan               4-0 (2-0)  Andorra
+  20.45  Lettland                 0-3 (0-2)  Georgien
+[Thu Nov/15]
+  16.00  Kasachstan               1-1 (1-0)  Lettland
+  20.45  Andorra                  1-1 (0-1)  Georgien
+[Mon Nov/19]
+  18.00  Georgien                 2-1 (0-0)  Kasachstan
+         Andorra                  0-0  Lettland
+
+
+Gruppe 2
+[Sat Sep/8]
+  18.00  Belarus                  5-0 (2-0)  San Marino
+  20.45  Luxemburg                4-0 (1-0)  Moldau
+[Tue Sep/11]
+  20.45  Moldau                   0-0  Belarus
+         San Marino               0-3 (0-2)  Luxemburg
+[Fri Oct/12]
+  20.45  Belarus                  1-0 (1-0)  Luxemburg
+         Moldau                   2-0 (1-0)  San Marino
+[Mon Oct/15]
+  20.45  Belarus                  0-0  Moldau
+         Luxemburg                3-0 (1-0)  San Marino
+[Thu Nov/15]
+  20.45  Luxemburg                0-2 (0-1)  Belarus
+         San Marino               0-1 (0-0)  Moldau
+[Sun Nov/18]
+  18.00  San Marino               0-2 (0-1)  Belarus
+         Moldau                   1-1 (0-0)  Luxemburg
+
+
+Gruppe 3
+[Fri Sep/7]
+  18.00  Aserbaidschan            0-0  Kosovo
+  20.45  Färöer                   3-1 (2-1)  Malta
+[Mon Sep/10]
+  20.45  Malta                    1-1 (1-1)  Aserbaidschan
+         Kosovo                   2-0 (0-0)  Färöer
+[Thu Oct/11]
+  20.45  Färöer                   0-3 (0-1)  Aserbaidschan
+         Kosovo                   3-1 (1-0)  Malta
+[Sun Oct/14]
+  18.00  Aserbaidschan            1-1 (0-1)  Malta
+         Färöer                   1-1 (0-1)  Kosovo
+[Sat Nov/17]
+  18.00  Aserbaidschan            2-0 (2-0)  Färöer
+         Malta                    0-5 (0-1)  Kosovo
+[Tue Nov/20]
+  20.45  Kosovo                   4-0 (1-0)  Aserbaidschan
+         Malta                    1-1 (1-1)  Färöer
+
+
+Gruppe 4
+[Thu Sep/6]
+  18.00  Armenien                 2-1 (1-1)  Liechtenstein
+  20.45  Gibraltar                0-2 (0-2)  Nordmazedonien
+[Sun Sep/9]
+  18.00  Nordmazedonien           2-0 (1-0)  Armenien
+  20.45  Liechtenstein            2-0 (1-0)  Gibraltar
+[Sat Oct/13]
+  18.00  Armenien                 0-1 (0-0)  Gibraltar
+  20.45  Nordmazedonien           4-1 (3-1)  Liechtenstein
+[Tue Oct/16]
+  18.00  Armenien                 4-0 (1-0)  Nordmazedonien
+  20.45  Gibraltar                2-1 (0-1)  Liechtenstein
+[Fri Nov/16]
+  20.45  Liechtenstein            0-2 (0-0)  Nordmazedonien
+         Gibraltar                2-6 (1-1)  Armenien
+[Mon Nov/19]
+  20.45  Nordmazedonien           4-0 (1-0)  Gibraltar
+         Liechtenstein            2-2 (1-1)  Armenien

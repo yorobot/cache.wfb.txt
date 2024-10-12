@@ -1,0 +1,367 @@
+= IT 1 1973/74
+
+# Date       Sun Oct/7 1973 - Sun May/19 1974 (224d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Oct/7]
+         ACF Fiorentina           2-1 (2-0)  Hellas Verona
+         Inter                    0-0  Genoa CFC
+         Juventus                 2-1 (1-1)  US Foggia
+         Lanerossi Vicenza        0-3 (0-1)  Lazio Roma
+         AS Roma                  2-1 (0-1)  Bologna FC
+         Sampdoria                3-2 (2-1)  AC Milan
+         Cagliari Calcio          0-0  SSC Napoli
+         AC Cesena                0-0  Torino FC
+
+
+Matchday 2
+[Sun Oct/14]
+         AC Milan                 1-0 (0-0)  AC Cesena
+         Hellas Verona            1-3 (1-0)  Inter
+         SSC Napoli               2-0 (1-0)  Juventus
+         Bologna FC               4-0 (2-0)  Lanerossi Vicenza
+         Genoa CFC                0-1 (0-0)  ACF Fiorentina
+         US Foggia                1-1 (0-1)  Cagliari Calcio
+         Lazio Roma               1-0 (0-0)  Sampdoria
+         Torino FC                1-0 (0-0)  AS Roma
+
+
+Matchday 3
+[Sun Oct/28]
+         Sampdoria                0-0  Bologna FC
+         AS Roma                  1-2 (1-2)  AC Milan
+         Lanerossi Vicenza        1-1 (1-0)  Genoa CFC
+         Inter                    2-2 (1-2)  SSC Napoli
+         AC Cesena                1-0 (0-0)  Hellas Verona
+         Cagliari Calcio          1-1 (1-0)  Torino FC
+         Juventus                 3-1 (0-1)  Lazio Roma
+         ACF Fiorentina           0-1 (0-1)  US Foggia
+
+
+Matchday 4
+[Sun Nov/4]
+         SSC Napoli               1-0 (0-0)  Sampdoria
+         AC Milan                 2-2 (1-1)  Cagliari Calcio
+         Hellas Verona            1-1 (1-1)  Lanerossi Vicenza
+         Bologna FC               0-0  Juventus
+         Genoa CFC                2-1 (1-0)  AS Roma
+         Lazio Roma               0-0  ACF Fiorentina
+         US Foggia                1-1 (0-0)  AC Cesena
+         Torino FC                2-2 (0-1)  Inter
+
+
+Matchday 5
+[Sun Nov/18]
+         Sampdoria                1-1 (0-1)  Torino FC
+         AS Roma                  1-0 (0-0)  Hellas Verona
+         Lanerossi Vicenza        1-1 (1-1)  AC Milan
+         Inter                    5-1 (3-0)  US Foggia
+         AC Cesena                0-0  Lazio Roma
+         Cagliari Calcio          0-0  Bologna FC
+         Juventus                 3-0 (2-0)  Genoa CFC
+         ACF Fiorentina           1-1 (1-0)  SSC Napoli
+
+
+Matchday 6
+[Sun Nov/25]
+         Genoa CFC                0-2 (0-2)  Sampdoria
+         Torino FC                0-1 (0-1)  ACF Fiorentina
+         SSC Napoli               2-1 (1-1)  Lanerossi Vicenza
+         Hellas Verona            2-0 (1-0)  Cagliari Calcio
+         Lazio Roma               1-1 (1-0)  Inter
+         US Foggia                1-0 (1-0)  AS Roma
+         Bologna FC               1-1 (1-1)  AC Cesena
+         AC Milan                 2-2 (1-1)  Juventus
+
+
+Matchday 7
+[Sun Dec/2]
+         AC Cesena                1-1 (0-0)  Genoa CFC
+         ACF Fiorentina           1-1 (0-0)  Bologna FC
+         Inter                    2-1 (1-1)  AC Milan
+         Juventus                 5-1 (2-0)  Hellas Verona
+         Lanerossi Vicenza        0-0  Torino FC
+         AS Roma                  0-1 (0-1)  SSC Napoli
+         Sampdoria                0-0  US Foggia
+         Cagliari Calcio          0-1 (0-1)  Lazio Roma
+
+
+Matchday 8
+[Sun Dec/9]
+         AC Milan                 1-1 (1-0)  ACF Fiorentina
+         SSC Napoli               1-0 (1-0)  AC Cesena
+         Torino FC                0-1 (0-0)  Juventus
+         Genoa CFC                1-1 (0-1)  Cagliari Calcio
+         Bologna FC               3-0 (2-0)  Inter
+         US Foggia                2-1 (2-0)  Lanerossi Vicenza
+         Lazio Roma               2-1 (0-1)  AS Roma
+         Hellas Verona            1-0 (0-0)  Sampdoria
+
+
+Matchday 9
+[Sun Dec/16]
+         Sampdoria                1-1 (0-1)  Cagliari Calcio
+         AC Milan                 2-1 (1-0)  Hellas Verona
+         Lazio Roma               1-0 (0-0)  SSC Napoli
+         Juventus                 2-2 (1-1)  AC Cesena
+         ACF Fiorentina           1-0 (1-0)  Inter
+         Bologna FC               2-2 (0-2)  Torino FC
+         Lanerossi Vicenza        0-1 (0-0)  AS Roma
+         US Foggia                1-0 (1-0)  Genoa CFC
+
+
+Matchday 10
+[Sun Dec/23]
+         Genoa CFC                1-1 (1-1)  Bologna FC
+         Hellas Verona            0-1 (0-1)  Lazio Roma
+         Torino FC                0-0  US Foggia
+         AS Roma                  0-0  ACF Fiorentina
+         AC Cesena                2-1 (1-0)  Sampdoria
+         Cagliari Calcio          2-1 (1-0)  Juventus
+         SSC Napoli               1-2 (0-0)  AC Milan
+         Inter                    2-0 (1-0)  Lanerossi Vicenza
+
+
+Matchday 11
+[Sun Dec/30]
+         Torino FC                1-0 (0-0)  Genoa CFC
+         Sampdoria                1-2 (1-1)  Juventus
+         Lazio Roma               1-0 (0-0)  AC Milan
+         Inter                    2-0 (1-0)  AS Roma
+         Cagliari Calcio          0-0  AC Cesena
+         Bologna FC               0-0  US Foggia
+         SSC Napoli               2-0 (1-0)  Hellas Verona
+         Lanerossi Vicenza        2-1 (0-1)  ACF Fiorentina
+
+
+Matchday 12
+[Sun Jan/6]
+         US Foggia                1-0 (1-0)  SSC Napoli
+         AS Roma                  2-1 (1-0)  Sampdoria
+         AC Milan                 1-0 (1-0)  Torino FC
+         Hellas Verona            1-1 (0-0)  Bologna FC
+         ACF Fiorentina           4-1 (4-0)  Cagliari Calcio
+         AC Cesena                2-2 (1-0)  Lanerossi Vicenza
+         Juventus                 2-0 (0-0)  Inter
+         Genoa CFC                1-2 (0-1)  Lazio Roma
+
+
+Matchday 13
+[Sun Jan/13]
+         Hellas Verona            3-0 (1-0)  US Foggia
+         Sampdoria                1-1 (0-1)  Inter
+         AC Milan                 2-0 (1-0)  Genoa CFC
+         Juventus                 2-1 (1-0)  AS Roma
+         AC Cesena                0-0  ACF Fiorentina
+         Cagliari Calcio          2-0 (1-0)  Lanerossi Vicenza
+         SSC Napoli               2-0 (0-0)  Bologna FC
+         Lazio Roma               0-1 (0-0)  Torino FC
+
+
+Matchday 14
+[Mon Jan/21]
+         Genoa CFC                1-0 (1-0)  Hellas Verona
+         AS Roma                  1-0 (0-0)  AC Cesena
+         Torino FC                1-1 (1-1)  SSC Napoli
+         Inter                    0-1 (0-0)  Cagliari Calcio
+         ACF Fiorentina           2-0 (1-0)  Juventus
+         Bologna FC               3-2 (1-2)  AC Milan
+         Lanerossi Vicenza        0-0  Sampdoria
+         US Foggia                0-1 (0-0)  Lazio Roma
+
+
+Matchday 15
+[Sun Jan/27]
+         Hellas Verona            0-1 (0-0)  Torino FC
+         Sampdoria                1-2 (0-2)  ACF Fiorentina
+         AC Milan                 1-0 (0-0)  US Foggia
+         Juventus                 0-0  Lanerossi Vicenza
+         AC Cesena                0-1 (0-0)  Inter
+         Cagliari Calcio          1-1 (0-1)  AS Roma
+         SSC Napoli               1-0 (1-0)  Genoa CFC
+         Lazio Roma               4-0 (1-0)  Bologna FC
+
+
+Matchday 16
+[Sun Feb/3]
+         SSC Napoli               1-0 (0-0)  Cagliari Calcio
+         US Foggia                0-0  Juventus
+         Hellas Verona            1-1 (1-0)  ACF Fiorentina
+         Torino FC                2-1 (0-1)  AC Cesena
+         Bologna FC               0-0  AS Roma
+         Genoa CFC                1-1 (1-0)  Inter
+         Lazio Roma               3-0 (1-0)  Lanerossi Vicenza
+         AC Milan                 2-1 (2-1)  Sampdoria
+
+
+Matchday 17
+[Sat Feb/9]
+         Cagliari Calcio          1-0 (0-0)  US Foggia
+[Sun Feb/10]
+         Sampdoria                1-0 (0-0)  Lazio Roma
+         AS Roma                  0-0  Torino FC
+         Juventus                 4-1 (2-0)  SSC Napoli
+         ACF Fiorentina           0-0  Genoa CFC
+         AC Cesena                1-0 (0-0)  AC Milan
+         Lanerossi Vicenza        2-1 (1-0)  Bologna FC
+         Inter                    0-0  Hellas Verona
+
+
+Matchday 18
+[Sun Feb/17]
+         Lazio Roma               3-1 (2-0)  Juventus
+         AC Milan                 2-0 (1-0)  AS Roma
+         Hellas Verona            2-1 (0-0)  AC Cesena
+         Torino FC                1-2 (0-1)  Cagliari Calcio
+         Bologna FC               2-1 (1-0)  Sampdoria
+         Genoa CFC                1-1 (1-0)  Lanerossi Vicenza
+         US Foggia                2-1 (2-1)  ACF Fiorentina
+         SSC Napoli               2-1 (1-0)  Inter
+
+
+Matchday 19
+[Sun Mar/3]
+         Sampdoria                0-0  SSC Napoli
+         AS Roma                  2-0 (0-0)  Genoa CFC
+         Juventus                 1-1 (0-0)  Bologna FC
+         ACF Fiorentina           1-1 (1-0)  Lazio Roma
+         AC Cesena                2-0 (1-0)  US Foggia
+         Cagliari Calcio          0-1 (0-0)  AC Milan
+         Lanerossi Vicenza        1-1 (1-1)  Hellas Verona
+         Inter                    3-0 (1-0)  Torino FC
+
+
+Matchday 20
+[Sun Mar/10]
+         Lazio Roma               2-0 (2-0)  AC Cesena
+         AC Milan                 1-2 (0-1)  Lanerossi Vicenza
+         Hellas Verona            0-1 (0-0)  AS Roma
+         Torino FC                1-1 (1-1)  Sampdoria
+         Bologna FC               3-1 (1-0)  Cagliari Calcio
+         Genoa CFC                0-1 (0-1)  Juventus
+         US Foggia                1-2 (0-1)  Inter
+         SSC Napoli               2-1 (2-0)  ACF Fiorentina
+
+
+Matchday 21
+[Sun Mar/17]
+         Sampdoria                1-1 (0-0)  Genoa CFC
+         AS Roma                  3-0 (1-0)  US Foggia
+         Juventus                 2-0 (0-0)  AC Milan
+         ACF Fiorentina           3-1 (3-0)  Torino FC
+         AC Cesena                3-0 (1-0)  Bologna FC
+         Cagliari Calcio          1-1 (1-0)  Hellas Verona
+         Lanerossi Vicenza        2-1 (2-0)  SSC Napoli
+         Inter                    3-1 (2-0)  Lazio Roma
+
+
+Matchday 22
+[Sun Mar/24]
+         Lazio Roma               2-0 (1-0)  Cagliari Calcio
+         AC Milan                 1-5 (1-4)  Inter
+         Hellas Verona            0-0  Juventus
+         Torino FC                1-0 (1-0)  Lanerossi Vicenza
+         Genoa CFC                1-2 (0-1)  AC Cesena
+         US Foggia                2-2 (1-0)  Sampdoria
+         Bologna FC               1-1 (1-0)  ACF Fiorentina
+         SSC Napoli               1-1 (0-0)  AS Roma
+
+
+Matchday 23
+[Sun Mar/31]
+         AS Roma                  1-2 (1-0)  Lazio Roma
+         Juventus                 1-1 (1-1)  Torino FC
+         Sampdoria                2-1 (0-0)  Hellas Verona
+         ACF Fiorentina           3-2 (2-1)  AC Milan
+         AC Cesena                1-1 (0-0)  SSC Napoli
+         Cagliari Calcio          0-1 (0-1)  Genoa CFC
+         Lanerossi Vicenza        1-0 (1-0)  US Foggia
+         Inter                    1-1 (1-0)  Bologna FC
+
+
+Matchday 24
+[Sun Apr/7]
+         SSC Napoli               3-3 (2-2)  Lazio Roma
+         Torino FC                2-0 (1-0)  Bologna FC
+         Hellas Verona            2-1 (2-0)  AC Milan
+         AS Roma                  0-0  Lanerossi Vicenza
+         Genoa CFC                2-1 (0-0)  US Foggia
+         Cagliari Calcio          2-1 (1-0)  Sampdoria
+         AC Cesena                0-2 (0-1)  Juventus
+         Inter                    1-1 (1-0)  ACF Fiorentina
+
+
+Matchday 25
+[Mon Apr/15]
+         Sampdoria                1-1 (0-0)  AC Cesena
+         AC Milan                 0-0  SSC Napoli
+         Lanerossi Vicenza        1-0 (1-0)  Inter
+         US Foggia                1-1 (0-1)  Torino FC
+         ACF Fiorentina           1-0 (1-0)  AS Roma
+         Bologna FC               2-0 (2-0)  Genoa CFC
+         Lazio Roma               4-2 (1-2)  Hellas Verona
+         Juventus                 1-1 (0-0)  Cagliari Calcio
+
+
+Matchday 26
+[Sun Apr/21]
+         Genoa CFC                0-2 (0-0)  Torino FC
+         Juventus                 2-0 (1-0)  Sampdoria
+         Hellas Verona            1-0 (1-0)  SSC Napoli
+         AS Roma                  3-3 (1-2)  Inter
+         AC Cesena                1-1 (0-1)  Cagliari Calcio
+         US Foggia                1-1 (1-0)  Bologna FC
+         ACF Fiorentina           0-1 (0-0)  Lanerossi Vicenza
+         AC Milan                 0-0  Lazio Roma
+
+
+Matchday 27
+[Sun Apr/28]
+         Sampdoria                0-0  AS Roma
+         Lazio Roma               1-0 (1-0)  Genoa CFC
+         Torino FC                1-0 (1-0)  AC Milan
+         Inter                    0-2 (0-1)  Juventus
+         Cagliari Calcio          1-0 (0-0)  ACF Fiorentina
+         Bologna FC               1-2 (1-1)  Hellas Verona
+         SSC Napoli               1-1 (0-0)  US Foggia
+         Lanerossi Vicenza        0-0  AC Cesena
+
+
+Matchday 28
+[Sun May/5]
+         Inter                    2-1 (1-1)  Sampdoria
+         AS Roma                  3-2 (2-1)  Juventus
+         Torino FC                2-1 (2-1)  Lazio Roma
+         Lanerossi Vicenza        1-1 (1-1)  Cagliari Calcio
+         US Foggia                1-1 (0-0)  Hellas Verona
+         Bologna FC               2-2 (1-1)  SSC Napoli
+         Genoa CFC                0-1 (0-1)  AC Milan
+         ACF Fiorentina           0-0  AC Cesena
+
+
+Matchday 29
+[Sun May/12]
+         Cagliari Calcio          1-1 (0-1)  Inter
+         AC Cesena                1-1 (0-0)  AS Roma
+         Juventus                 3-1 (1-0)  ACF Fiorentina
+         Lazio Roma               1-0 (0-0)  US Foggia
+         AC Milan                 1-1 (1-0)  Bologna FC
+         SSC Napoli               1-1 (1-1)  Torino FC
+         Sampdoria                2-1 (0-1)  Lanerossi Vicenza
+         Hellas Verona            2-0 (2-0)  Genoa CFC
+
+
+Matchday 30
+[Sun May/19]
+         AS Roma                  2-0 (1-0)  Cagliari Calcio
+         Lanerossi Vicenza        0-3 (0-3)  Juventus
+         Inter                    3-1 (2-0)  AC Cesena
+         Genoa CFC                1-2 (0-2)  SSC Napoli
+         US Foggia                0-0  AC Milan
+         Bologna FC               2-2 (2-1)  Lazio Roma
+         Torino FC                0-0  Hellas Verona
+         ACF Fiorentina           1-1 (1-1)  Sampdoria

@@ -1,0 +1,340 @@
+= EE 1 2007
+
+# Date       Sat Mar/3 - Tue Nov/13 2007 (255d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Mar/10]
+  14.00  JK Narva Trans           5-1  Tulevik Viljandi
+         FC Kuressaare            0-2  FC TVMK
+         JK Maag Tammeka          2-0  Pärnu JK Vaprus
+         FC Levadia               5-0  Ajax Lasnamäe
+  17.00  JK Tallinna Kalev        0-1  FC Flora
+
+
+Matchday 2
+[Sat Mar/17]
+  14.00  Tulevik Viljandi         0-1  Pärnu JK Vaprus
+         Ajax Lasnamäe            0-2  JK Maag Tammeka
+         FC TVMK                  5-0  JK Tallinna Kalev
+         JK Narva Trans           3-1  FC Kuressaare
+  17.00  FC Flora                 1-2  FC Levadia
+
+
+Matchday 3
+[Sat Mar/31]
+  14.00  FC Kuressaare            0-1  Tulevik Viljandi
+         JK Tallinna Kalev        0-2  JK Narva Trans
+         JK Maag Tammeka          0-0  FC Flora
+         Pärnu JK Vaprus          1-0  Ajax Lasnamäe
+  17.00  FC Levadia               2-0  FC TVMK
+
+
+Matchday 4
+[Tue Apr/3]
+  18.45  Tulevik Viljandi         2-0  Ajax Lasnamäe
+         FC Flora                 7-0  Pärnu JK Vaprus
+         FC TVMK                  2-0  JK Maag Tammeka
+         JK Narva Trans           0-0  FC Levadia
+         FC Kuressaare            1-3  JK Tallinna Kalev
+
+
+Matchday 5
+[Sat Apr/7]
+  14.00  FC Levadia               4-0  FC Kuressaare
+         Ajax Lasnamäe            0-2  FC Flora
+  17.00  JK Tallinna Kalev        2-1  Tulevik Viljandi
+         JK Maag Tammeka          0-2  JK Narva Trans
+         Pärnu JK Vaprus          0-2  FC TVMK
+
+
+Matchday 6
+[Sat Apr/14]
+  14.00  FC TVMK                  7-1  Ajax Lasnamäe
+  17.00  Tulevik Viljandi         1-2  FC Flora
+         JK Narva Trans           2-0  Pärnu JK Vaprus
+         FC Kuressaare            0-2  JK Maag Tammeka
+         JK Tallinna Kalev        1-0  FC Levadia
+
+
+Matchday 7
+[Sat Apr/21]
+  14.00  Ajax Lasnamäe            0-4  JK Narva Trans
+         FC Levadia               4-0  Tulevik Viljandi
+  17.00  JK Maag Tammeka          1-1  JK Tallinna Kalev
+         FC Flora                 2-2  FC TVMK
+[Tue May/1]
+  18.45  Pärnu JK Vaprus          0-0  FC Kuressaare
+
+
+Matchday 8
+[Tue Apr/24]
+  18.45  Tulevik Viljandi         1-1  FC TVMK
+         JK Narva Trans           3-1  FC Flora
+         FC Kuressaare            2-2  Ajax Lasnamäe
+         JK Tallinna Kalev        0-2  Pärnu JK Vaprus
+         FC Levadia               2-2  JK Maag Tammeka
+
+
+Matchday 9
+[Sat Apr/28]
+  14.00  Ajax Lasnamäe            1-4  JK Tallinna Kalev
+         FC Flora                 5-0  FC Kuressaare
+  18.00  JK Maag Tammeka          1-1  Tulevik Viljandi
+         Pärnu JK Vaprus          0-5  FC Levadia
+         FC TVMK                  2-2  JK Narva Trans
+
+
+Matchday 10
+[Sat May/5]
+  14.00  FC Levadia               4-1  Pärnu JK Vaprus
+  17.00  Tulevik Viljandi         0-1  JK Maag Tammeka
+         JK Tallinna Kalev        5-0  Ajax Lasnamäe
+         FC Kuressaare            0-1  FC Flora
+         JK Narva Trans           3-1  FC TVMK
+
+
+Matchday 11
+[Sat May/12]
+  14.00  Ajax Lasnamäe            1-4  FC Kuressaare
+         FC TVMK                  3-1  Tulevik Viljandi
+  17.00  FC Flora                 0-2  JK Narva Trans
+         Pärnu JK Vaprus          0-1  JK Tallinna Kalev
+         JK Maag Tammeka          1-3  FC Levadia
+
+
+Matchday 12
+[Sat May/19]
+  14.00  JK Tallinna Kalev        0-2  JK Maag Tammeka
+  17.00  Tulevik Viljandi         0-4  FC Levadia
+         FC Kuressaare            3-0  Pärnu JK Vaprus
+         JK Narva Trans           2-0  Ajax Lasnamäe
+         FC TVMK                  6-0  FC Flora
+
+
+Matchday 13
+[Sat May/26]
+  14.00  FC Flora                 4-0  Tulevik Viljandi
+         Ajax Lasnamäe            0-6  FC TVMK
+  17.00  Pärnu JK Vaprus          0-3  JK Narva Trans
+         JK Maag Tammeka          4-1  FC Kuressaare
+         FC Levadia               4-2  JK Tallinna Kalev
+
+
+Matchday 14
+[Sat Jun/9]
+  14.00  FC Flora                 11-0  Ajax Lasnamäe
+  17.00  Tulevik Viljandi         2-1  JK Tallinna Kalev
+         FC Kuressaare            0-5  FC Levadia
+         JK Narva Trans           0-1  JK Maag Tammeka
+         FC TVMK                  9-0  Pärnu JK Vaprus
+
+
+Matchday 15
+[Sat Jun/16]
+  14.00  JK Tallinna Kalev        2-1  FC Kuressaare
+         Ajax Lasnamäe            0-5  Tulevik Viljandi
+  17.00  Pärnu JK Vaprus          0-3  FC Flora
+         JK Maag Tammeka          1-3  FC TVMK
+         FC Levadia               2-0  JK Narva Trans
+
+
+Matchday 16
+[Tue Jun/19]
+  18.45  Tulevik Viljandi         0-1  FC Kuressaare
+         JK Narva Trans           0-1  JK Tallinna Kalev
+         FC TVMK                  1-1  FC Levadia
+         FC Flora                 3-0  JK Maag Tammeka
+         Ajax Lasnamäe            0-5  Pärnu JK Vaprus
+
+
+Matchday 17
+[Tue May/29]
+  18.45  FC Kuressaare            0-5  JK Narva Trans
+[Sat Jun/30]
+  17.00  Pärnu JK Vaprus          2-3  Tulevik Viljandi
+         JK Maag Tammeka          2-0  Ajax Lasnamäe
+         FC Levadia               2-1  FC Flora
+[Tue Jul/17]
+  18.45  JK Tallinna Kalev        1-2  FC TVMK
+
+
+Matchday 18
+[Sat Jul/7]
+  14.00  Ajax Lasnamäe            0-10  FC Levadia
+  17.00  Tulevik Viljandi         0-2  JK Narva Trans
+         Pärnu JK Vaprus          0-1  JK Maag Tammeka
+         FC Flora                 4-2  JK Tallinna Kalev
+[Tue Jul/24]
+  18.45  FC TVMK                  4-0  FC Kuressaare
+
+
+Matchday 19
+[Sat Jul/14]
+  14.00  Ajax Lasnamäe            1-1  JK Tallinna Kalev
+         FC Flora                 5-1  FC Kuressaare
+  17.00  JK Maag Tammeka          3-1  Tulevik Viljandi
+         Pärnu JK Vaprus          0-2  FC Levadia
+         FC TVMK                  1-0  JK Narva Trans
+
+
+Matchday 20
+[Sat Mar/3]
+  14.00  FC Levadia               4-0  JK Maag Tammeka
+[Tue Jun/5]
+  18.45  FC Kuressaare            0-1  Ajax Lasnamäe
+[Sat Jul/21]
+  17.00  JK Tallinna Kalev        2-1  Pärnu JK Vaprus
+         Tulevik Viljandi         0-1  FC TVMK
+[Tue Jul/24]
+  18.45  JK Narva Trans           0-3  FC Flora
+
+
+Matchday 21
+[Sat Jul/28]
+  14.00  FC Levadia               5-0  Tulevik Viljandi
+         Ajax Lasnamäe            0-3  JK Narva Trans
+  17.00  JK Maag Tammeka          4-1  JK Tallinna Kalev
+         Pärnu JK Vaprus          2-0  FC Kuressaare
+         FC Flora                 2-0  FC TVMK
+
+
+Matchday 22
+[Sat Aug/4]
+  14.00  FC TVMK                  13-0  Ajax Lasnamäe
+  17.00  FC Kuressaare            1-1  JK Maag Tammeka
+[Tue Aug/7]
+  18.45  Tulevik Viljandi         0-3  FC Flora
+         JK Narva Trans           2-1  Pärnu JK Vaprus
+[Tue Aug/14]
+  18.45  JK Tallinna Kalev        0-4  FC Levadia
+
+
+Matchday 23
+[Sat Aug/11]
+  14.00  Ajax Lasnamäe            0-4  FC Flora
+         FC Levadia               4-0  FC Kuressaare
+  17.00  JK Maag Tammeka          2-1  JK Narva Trans
+         Pärnu JK Vaprus          0-5  FC TVMK
+         JK Tallinna Kalev        1-1  Tulevik Viljandi
+
+
+Matchday 24
+[Sat Aug/18]
+  14.00  FC Flora                 8-1  Pärnu JK Vaprus
+  17.00  Tulevik Viljandi         4-1  Ajax Lasnamäe
+         FC TVMK                  2-0  JK Maag Tammeka
+         JK Narva Trans           0-3  FC Levadia
+         FC Kuressaare            2-0  JK Tallinna Kalev
+
+
+Matchday 25
+[Sat Aug/25]
+  14.00  JK Tallinna Kalev        1-5  JK Narva Trans
+  17.00  FC Kuressaare            0-2  Tulevik Viljandi
+         FC Levadia               1-0  FC TVMK
+         JK Maag Tammeka          0-0  FC Flora
+         Pärnu JK Vaprus          2-0  Ajax Lasnamäe
+
+
+Matchday 26
+[Sat Sep/1]
+  14.00  FC TVMK                  5-0  JK Tallinna Kalev
+         Ajax Lasnamäe            0-2  JK Maag Tammeka
+  17.00  Tulevik Viljandi         4-1  Pärnu JK Vaprus
+         FC Flora                 3-2  FC Levadia
+         JK Narva Trans           5-0  FC Kuressaare
+
+
+Matchday 27
+[Sat Sep/15]
+  14.00  FC Levadia               7-1  Ajax Lasnamäe
+  17.00  JK Narva Trans           7-0  Tulevik Viljandi
+         FC Kuressaare            0-6  FC TVMK
+         JK Tallinna Kalev        1-3  FC Flora
+         JK Maag Tammeka          3-0  Pärnu JK Vaprus
+
+
+Matchday 28
+[Tue Sep/18]
+  17.00  Tulevik Viljandi         1-4  JK Narva Trans
+         FC TVMK                  5-1  FC Kuressaare
+         Ajax Lasnamäe            1-2  FC Levadia
+         Pärnu JK Vaprus          0-4  JK Maag Tammeka
+  18.45  FC Flora                 4-1  JK Tallinna Kalev
+
+
+Matchday 29
+[Sat Sep/22]
+  14.00  JK Tallinna Kalev        1-3  FC TVMK
+  17.00  Pärnu JK Vaprus          0-3  Tulevik Viljandi
+         JK Maag Tammeka          5-1  Ajax Lasnamäe
+         FC Kuressaare            0-3  JK Narva Trans
+         FC Levadia               1-1  FC Flora
+
+
+Matchday 30
+[Sat Sep/29]
+  14.00  Ajax Lasnamäe            1-7  Pärnu JK Vaprus
+         FC Flora                 3-1  JK Maag Tammeka
+  17.00  Tulevik Viljandi         3-2  FC Kuressaare
+         JK Narva Trans           2-0  JK Tallinna Kalev
+         FC TVMK                  2-6  FC Levadia
+
+
+Matchday 31
+[Tue Oct/2]
+  17.00  JK Tallinna Kalev        2-1  FC Kuressaare
+         Ajax Lasnamäe            0-3  Tulevik Viljandi
+         Pärnu JK Vaprus          0-1  FC Flora
+         JK Maag Tammeka          0-1  FC TVMK
+         FC Levadia               1-2  JK Narva Trans
+
+
+Matchday 32
+[Sat Oct/6]
+  14.00  Tulevik Viljandi         1-2  JK Tallinna Kalev
+         FC Kuressaare            0-3  FC Levadia
+         JK Narva Trans           2-3  JK Maag Tammeka
+         FC TVMK                  6-3  Pärnu JK Vaprus
+  17.00  FC Flora                 10-0  Ajax Lasnamäe
+
+
+Matchday 33
+[Sat Oct/20]
+  14.00  Ajax Lasnamäe            0-2  FC TVMK
+         Pärnu JK Vaprus          1-3  JK Narva Trans
+         JK Maag Tammeka          1-0  FC Kuressaare
+         FC Levadia               8-0  JK Tallinna Kalev
+  17.00  FC Flora                 5-0  Tulevik Viljandi
+
+
+Matchday 34
+[Sat Oct/27]
+  14.00  Tulevik Viljandi         0-6  FC Levadia
+         JK Tallinna Kalev        2-2  JK Maag Tammeka
+         FC Kuressaare            0-3  Pärnu JK Vaprus
+         JK Narva Trans           6-1  Ajax Lasnamäe
+         FC TVMK                  1-2  FC Flora
+
+
+Matchday 35
+[Sat Nov/3]
+  13.00  FC TVMK                  5-1  Tulevik Viljandi
+         Ajax Lasnamäe            1-2  FC Kuressaare
+         Pärnu JK Vaprus          1-2  JK Tallinna Kalev
+         JK Maag Tammeka          0-3  FC Levadia
+  17.00  FC Flora                 0-0  JK Narva Trans
+
+
+Matchday 36
+[Sat Nov/10]
+  13.00  Tulevik Viljandi         0-0  JK Maag Tammeka
+         FC Levadia               5-0  Pärnu JK Vaprus
+         JK Tallinna Kalev        1-0  Ajax Lasnamäe
+[Tue Nov/13]
+  18.45  FC Kuressaare            1-3  FC Flora
+         JK Narva Trans           4-0  FC TVMK

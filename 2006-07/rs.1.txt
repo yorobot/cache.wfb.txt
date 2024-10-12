@@ -1,0 +1,398 @@
+= RS 1 2006/07
+
+# Date       Fri Aug/4 2006 - Wed May/30 2007 (299d)
+# Teams      12
+# Matches    192
+# Stages     Regular Season (132)  Relegation (30)  Meisterrunde (30)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/4]
+  17.30  FK Zemun                 1-2  OFK Beograd
+[Sat Aug/5]
+  17.30  FK Bežanija              3-4  Partizan
+         Hajduk Rodić             1-0  Vojvodina
+         FK Smederevo             1-2  Mladost Apatin
+  20.00  Crvena Zvezda            2-0  FK Voždovac
+[Sun Aug/6]
+  17.30  Borac Čačak              0-1  FK Banat Zrenjanin
+
+
+Matchday 2
+[Sat Aug/12]
+  17.30  Vojvodina                0-2  Borac Čačak
+         Mladost Apatin           2-0  FK Zemun
+         FK Banat Zrenjanin       0-2  FK Bežanija
+[Sun Aug/13]
+  17.30  OFK Beograd              5-1  Hajduk Rodić
+         FK Voždovac              1-3  Partizan
+  20.00  Crvena Zvezda            1-0  FK Smederevo
+
+
+Matchday 3
+[Sat Aug/19]
+  17.00  Borac Čačak              0-0  OFK Beograd
+         Hajduk Rodić             0-2  Mladost Apatin
+         FK Smederevo             3-1  FK Voždovac
+  19.30  Partizan                 2-0  FK Banat Zrenjanin
+[Sun Aug/20]
+  17.00  FK Bežanija              0-0  Vojvodina
+[Wed Sep/20]
+  17.00  FK Zemun                 1-2  Crvena Zvezda
+
+
+Matchday 4
+[Sat Aug/26]
+  17.00  FK Smederevo             2-0  FK Zemun
+         FK Voždovac              1-3  FK Banat Zrenjanin
+         Mladost Apatin           1-0  Borac Čačak
+[Sun Aug/27]
+  17.00  OFK Beograd              1-1  FK Bežanija
+         Vojvodina                1-0  Partizan
+  19.30  Crvena Zvezda            3-1  Hajduk Rodić
+
+
+Matchday 5
+[Sat Sep/9]
+  16.30  FK Zemun                 0-0  FK Voždovac
+         Hajduk Rodić             1-0  FK Smederevo
+         FK Bežanija              2-0  Mladost Apatin
+         FK Banat Zrenjanin       0-0  Vojvodina
+  20.00  Partizan                 0-1  OFK Beograd
+[Sun Sep/10]
+  16.30  Borac Čačak              0-2  Crvena Zvezda
+
+
+Matchday 6
+[Sat Sep/16]
+  16.30  OFK Beograd              3-0  FK Banat Zrenjanin
+         FK Smederevo             1-0  Borac Čačak
+         FK Voždovac              1-0  Vojvodina
+         FK Zemun                 0-1  Hajduk Rodić
+[Sun Sep/17]
+  16.30  Mladost Apatin           1-0  Partizan
+  19.00  Crvena Zvezda            1-1  FK Bežanija
+
+
+Matchday 7
+[Sat Sep/23]
+  16.00  Hajduk Rodić             2-0  FK Voždovac
+         FK Banat Zrenjanin       0-0  Mladost Apatin
+         FK Bežanija              0-0  FK Smederevo
+         Borac Čačak              1-0  FK Zemun
+         Vojvodina                1-2  OFK Beograd
+  17.00  Partizan                 0-0  Crvena Zvezda
+
+
+Matchday 8
+[Sat Sep/30]
+  15.30  FK Voždovac              1-1  OFK Beograd
+         Hajduk Rodić             1-0  Borac Čačak
+         Mladost Apatin           2-0  Vojvodina
+[Sun Oct/1]
+  15.00  FK Zemun                 0-1  FK Bežanija
+  15.30  FK Smederevo             2-2  Partizan
+  18.00  Crvena Zvezda            2-0  FK Banat Zrenjanin
+
+
+Matchday 9
+[Sat Oct/14]
+  14.30  FK Banat Zrenjanin       0-0  FK Smederevo
+         Borac Čačak              0-1  FK Voždovac
+         FK Bežanija              1-0  Hajduk Rodić
+         Vojvodina                0-1  Crvena Zvezda
+[Sun Oct/15]
+  14.30  OFK Beograd              2-0  Mladost Apatin
+  17.00  Partizan                 2-0  FK Zemun
+
+
+Matchday 10
+[Sat Oct/21]
+  14.00  FK Smederevo             0-0  Vojvodina
+         FK Voždovac              0-0  Mladost Apatin
+         Borac Čačak              1-1  FK Bežanija
+         FK Zemun                 0-1  FK Banat Zrenjanin
+         Hajduk Rodić             0-1  Partizan
+  18.00  Crvena Zvezda            1-0  OFK Beograd
+
+
+Matchday 11
+[Sat Oct/28]
+  14.00  FK Banat Zrenjanin       1-0  Hajduk Rodić
+         FK Bežanija              1-1  FK Voždovac
+         Vojvodina                2-1  FK Zemun
+  16.30  Partizan                 2-0  Borac Čačak
+[Sun Oct/29]
+  14.00  Mladost Apatin           0-1  Crvena Zvezda
+         OFK Beograd              0-0  FK Smederevo
+
+
+Matchday 12
+[Sat Nov/4]
+  13.30  OFK Beograd              3-0  FK Zemun
+         FK Voždovac              2-0  Crvena Zvezda
+         FK Banat Zrenjanin       0-1  Borac Čačak
+         Mladost Apatin           3-0  FK Smederevo
+[Sun Nov/5]
+  13.00  Vojvodina                1-0  Hajduk Rodić
+  16.00  Partizan                 1-3  FK Bežanija
+
+
+Matchday 13
+[Sat Nov/11]
+  13.30  FK Zemun                 1-1  Mladost Apatin
+         Hajduk Rodić             2-0  OFK Beograd
+         FK Bežanija              2-2  FK Banat Zrenjanin
+         Borac Čačak              2-1  Vojvodina
+         Partizan                 2-0  FK Voždovac
+[Sun Nov/12]
+  13.00  FK Smederevo             1-2  Crvena Zvezda
+
+
+Matchday 14
+[Sat Nov/18]
+  13.00  Crvena Zvezda            5-0  FK Zemun
+         Vojvodina                1-0  FK Bežanija
+         OFK Beograd              0-0  Borac Čačak
+         FK Banat Zrenjanin       1-2  Partizan
+         Mladost Apatin           1-0  Hajduk Rodić
+[Sun Nov/19]
+  13.00  FK Voždovac              3-0  FK Smederevo
+
+
+Matchday 15
+[Sat Nov/25]
+  13.00  FK Zemun                 0-1  FK Smederevo
+         Borac Čačak              0-0  Mladost Apatin
+         FK Banat Zrenjanin       2-0  FK Voždovac
+[Sun Nov/26]
+  13.00  Hajduk Rodić             0-2  Crvena Zvezda
+         FK Bežanija              0-0  OFK Beograd
+         Partizan                 0-1  Vojvodina
+
+
+Matchday 16
+[Sat Dec/2]
+  13.00  Vojvodina                4-2  FK Banat Zrenjanin
+         Crvena Zvezda            2-1  Borac Čačak
+         FK Voždovac              1-1  FK Zemun
+         FK Smederevo             1-1  Hajduk Rodić
+         Mladost Apatin           1-1  FK Bežanija
+[Sun Dec/3]
+  13.00  OFK Beograd              1-1  Partizan
+
+
+Matchday 17
+[Sat Feb/17]
+  13.00  Hajduk Rodić             1-0  FK Zemun
+         Borac Čačak              0-0  FK Smederevo
+         FK Banat Zrenjanin       1-0  OFK Beograd
+         Vojvodina                1-0  FK Voždovac
+         Partizan                 1-0  Mladost Apatin
+[Sun Feb/18]
+  13.00  FK Bežanija              1-1  Crvena Zvezda
+
+
+Matchday 18
+[Sat Feb/24]
+  13.00  OFK Beograd              0-1  Vojvodina
+         FK Smederevo             2-0  FK Bežanija
+         FK Voždovac              1-2  Hajduk Rodić
+         Mladost Apatin           1-1  FK Banat Zrenjanin
+         FK Zemun                 0-2  Borac Čačak
+  16.00  Crvena Zvezda            2-4  Partizan
+
+
+Matchday 19
+[Sat Mar/3]
+  13.30  FK Banat Zrenjanin       1-4  Crvena Zvezda
+         Borac Čačak              0-3  Hajduk Rodić
+         FK Bežanija              2-0  FK Zemun
+         Vojvodina                1-1  Mladost Apatin
+         Partizan                 2-1  FK Smederevo
+[Sun Mar/4]
+  14.00  OFK Beograd              6-2  FK Voždovac
+
+
+Matchday 20
+[Sat Mar/10]
+  13.30  Crvena Zvezda            0-3  Vojvodina
+         FK Zemun                 1-2  Partizan
+         FK Smederevo             0-1  FK Banat Zrenjanin
+         FK Voždovac              0-0  Borac Čačak
+         Mladost Apatin           0-0  OFK Beograd
+[Sun Mar/11]
+  14.00  Hajduk Rodić             1-1  FK Bežanija
+
+
+Matchday 21
+[Sat Mar/17]
+  14.00  Mladost Apatin           1-0  FK Voždovac
+         FK Banat Zrenjanin       2-1  FK Zemun
+         Vojvodina                1-0  FK Smederevo
+         OFK Beograd              0-1  Crvena Zvezda
+[Sun Mar/18]
+  14.00  FK Bežanija              0-0  Borac Čačak
+  16.30  Partizan                 0-1  Hajduk Rodić
+
+
+Matchday 22
+[Sat Mar/31]
+  14.00  FK Smederevo             2-1  OFK Beograd
+         FK Voždovac              0-1  FK Bežanija
+         Hajduk Rodić             2-1  FK Banat Zrenjanin
+[Sun Apr/1]
+  14.00  FK Zemun                 1-4  Vojvodina
+  15.00  Borac Čačak              0-1  Partizan
+  17.30  Crvena Zvezda            2-0  Mladost Apatin
+
+
+== Relegation
+
+Matchday 23
+[Sat Apr/7]
+  15.00  OFK Beograd              2-0  FK Zemun
+         FK Banat Zrenjanin       0-1  FK Voždovac
+         FK Smederevo             1-0  Borac Čačak
+
+
+Matchday 24
+[Sat Apr/14]
+  15.00  FK Zemun                 3-1  Borac Čačak
+         FK Voždovac              4-1  FK Smederevo
+         OFK Beograd              2-1  FK Banat Zrenjanin
+
+
+Matchday 25
+[Sat Apr/21]
+  16.00  FK Banat Zrenjanin       3-2  FK Zemun
+         FK Smederevo             3-2  OFK Beograd
+         Borac Čačak              1-0  FK Voždovac
+
+
+Matchday 26
+[Sat Apr/28]
+  17.00  FK Zemun                 2-2  FK Voždovac
+         OFK Beograd              4-1  Borac Čačak
+         FK Banat Zrenjanin       1-0  FK Smederevo
+
+
+Matchday 27
+[Wed May/2]
+  17.00  FK Smederevo             4-2  FK Zemun
+         Borac Čačak              3-0  FK Banat Zrenjanin
+         FK Voždovac              1-0  OFK Beograd
+
+
+Matchday 28
+[Sat May/5]
+  17.00  FK Zemun                 0-2  OFK Beograd
+         FK Voždovac              1-4  FK Banat Zrenjanin
+         Borac Čačak              2-0  FK Smederevo
+
+
+Matchday 29
+[Sat May/12]
+  17.00  Borac Čačak              3-1  FK Zemun
+         FK Smederevo             2-1  FK Voždovac
+         FK Banat Zrenjanin       1-2  OFK Beograd
+
+
+Matchday 30
+[Sat May/19]
+  17.00  FK Zemun                 1-2  FK Banat Zrenjanin
+         OFK Beograd              4-0  FK Smederevo
+         FK Voždovac              1-0  Borac Čačak
+
+
+Matchday 31
+[Sat May/26]
+  17.00  FK Voždovac              3-2  FK Zemun
+         Borac Čačak              3-1  OFK Beograd
+         FK Smederevo             3-1  FK Banat Zrenjanin
+
+
+Matchday 32
+[Wed May/30]
+  17.00  FK Zemun                 1-2  FK Smederevo
+         FK Banat Zrenjanin       2-2  Borac Čačak
+         OFK Beograd              2-3  FK Voždovac
+
+
+== Meisterrunde
+
+Matchday 23
+[Sat Apr/7]
+  15.00  Partizan                 2-0  Hajduk Rodić
+         Vojvodina                4-1  Mladost Apatin
+  19.00  Crvena Zvezda            1-3  FK Bežanija
+
+
+Matchday 24
+[Wed Apr/11]
+  15.00  FK Bežanija              1-0  Mladost Apatin
+         Hajduk Rodić             0-0  Vojvodina
+  17.30  Crvena Zvezda            1-0  Partizan
+
+
+Matchday 25
+[Sat Apr/14]
+  16.00  Vojvodina                0-0  Crvena Zvezda
+  18.30  Partizan                 1-0  FK Bežanija
+[Sun Apr/15]
+  15.30  Mladost Apatin           1-0  Hajduk Rodić
+
+
+Matchday 26
+[Sat Apr/21]
+  16.00  FK Bežanija              1-0  Hajduk Rodić
+  18.30  Crvena Zvezda            2-1  Mladost Apatin
+[Sun Apr/22]
+  17.00  Partizan                 1-0  Vojvodina
+
+
+Matchday 27
+[Fri Apr/27]
+  17.00  Mladost Apatin           0-2  Partizan
+[Sat Apr/28]
+  15.00  Vojvodina                3-0  FK Bežanija
+  17.00  Hajduk Rodić             1-2  Crvena Zvezda
+
+
+Matchday 28
+[Wed May/2]
+  16.00  FK Bežanija              2-4  Crvena Zvezda
+  17.00  Hajduk Rodić             3-0  Partizan
+         Mladost Apatin           0-1  Vojvodina
+
+
+Matchday 29
+[Sat May/5]
+  17.00  Mladost Apatin           1-0  FK Bežanija
+         Vojvodina                1-0  Hajduk Rodić
+  19.30  Partizan                 1-2  Crvena Zvezda
+
+
+Matchday 30
+[Fri May/11]
+  18.00  Crvena Zvezda            4-2  Vojvodina
+[Sat May/12]
+  17.00  FK Bežanija              2-1  Partizan
+         Hajduk Rodić             2-1  Mladost Apatin
+
+
+Matchday 31
+[Sat May/19]
+  17.00  Hajduk Rodić             1-0  FK Bežanija
+         Mladost Apatin           0-1  Crvena Zvezda
+[Sun May/20]
+  17.00  Vojvodina                2-0  Partizan
+
+
+Matchday 32
+[Sat May/26]
+  17.00  FK Bežanija              3-2  Vojvodina
+         Partizan                 7-1  Mladost Apatin
+  18.15  Crvena Zvezda            1-1  Hajduk Rodić

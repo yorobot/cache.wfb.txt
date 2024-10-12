@@ -1,0 +1,586 @@
+= RS 1 2021/22
+
+# Date       Fri Jul/16 2021 - Sun May/22 2022 (310d)
+# Teams      16
+# Matches    296
+# Stages     Regular Season (240)  Championship (28)  Relegation (28)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Jul/16]
+  17.55  FK Čukarički             2-1 (1-1)  FK Voždovac
+  20.00  Crvena Zvezda            0-0  Vojvodina
+[Sat Jul/17]
+  18.55  TSC Bačka Topola         2-0 (1-0)  FK Novi Pazar
+  21.00  Proleter Novi Sad        0-4 (0-4)  Partizan
+[Sun Jul/18]
+  18.55  Spartak Subotica         1-1 (0-0)  Radnički Niš
+  21.00  Mladost Lučani           0-1 (0-0)  FK Radnički 1923
+[Mon Jul/19]
+  18.55  Radnik Surdulica         0-0  FK Metalac
+  21.00  FK Napredak              3-0 (2-0)  FK Kolubara
+
+
+Matchday 2
+[Fri Jul/23]
+  17.30  FK Radnički 1923         3-2 (2-1)  Spartak Subotica
+  20.00  FK Voždovac              2-1 (1-0)  Proleter Novi Sad
+[Sat Jul/24]
+  18.55  Radnički Niš             4-2 (1-2)  FK Napredak
+  21.00  Crvena Zvezda            1-0 (1-0)  Mladost Lučani
+[Sun Jul/25]
+  18.55  FK Metalac               2-4 (1-2)  TSC Bačka Topola
+  21.00  Vojvodina                0-2 (0-1)  Partizan
+[Mon Jul/26]
+  19.00  FK Kolubara              1-1 (1-0)  Radnik Surdulica
+[Thu Nov/18]
+  15.00  FK Novi Pazar            2-2 (2-1)  FK Čukarički
+
+
+Matchday 3
+[Fri Jul/30]
+  18.55  Proleter Novi Sad        2-2 (0-1)  FK Novi Pazar
+  21.00  FK Napredak              1-0 (0-0)  FK Radnički 1923
+[Sat Jul/31]
+  18.55  Spartak Subotica         1-3 (1-2)  Crvena Zvezda
+  21.00  Radnik Surdulica         1-1 (1-1)  Radnički Niš
+[Sun Aug/1]
+  18.55  FK Čukarički             2-1 (1-0)  FK Metalac
+  21.00  Partizan                 4-0 (2-0)  FK Voždovac
+[Mon Aug/2]
+  19.00  TSC Bačka Topola         4-0 (2-0)  FK Kolubara
+[Thu Nov/25]
+  14.30  Mladost Lučani           0-2 (0-1)  Vojvodina
+
+
+Matchday 4
+[Fri Aug/6]
+  17.30  FK Radnički 1923         0-1 (0-1)  Radnik Surdulica
+  20.00  Crvena Zvezda            1-0 (0-0)  FK Napredak
+[Sat Aug/7]
+  18.55  Mladost Lučani           1-2 (0-1)  Spartak Subotica
+  21.00  FK Metalac               3-0 (2-0)  Proleter Novi Sad
+[Sun Aug/8]
+  18.55  Vojvodina                2-0 (2-0)  FK Voždovac
+         FK Kolubara              3-1 (1-1)  FK Čukarički
+  21.00  FK Novi Pazar            1-4 (0-1)  Partizan
+[Mon Aug/9]
+  19.00  Radnički Niš             1-2 (0-1)  TSC Bačka Topola
+
+
+Matchday 5
+[Sat Aug/14]
+  16.55  TSC Bačka Topola         4-4 (2-1)  FK Radnički 1923
+  19.00  FK Napredak              2-1 (0-1)  Mladost Lučani
+[Sun Aug/15]
+  18.30  FK Čukarički             0-0  Radnički Niš
+  19.00  FK Voždovac              3-2 (1-0)  FK Novi Pazar
+[Mon Aug/16]
+  16.55  Proleter Novi Sad        0-1 (0-1)  FK Kolubara
+  19.00  Spartak Subotica         2-2 (0-1)  Vojvodina
+[Wed Oct/27]
+  17.00  Radnik Surdulica         2-1 (1-0)  Crvena Zvezda
+[Thu Oct/28]
+  16.55  Partizan                 3-1 (1-1)  FK Metalac
+
+
+Matchday 6
+[Fri Aug/20]
+  18.55  Mladost Lučani           0-2 (0-0)  Radnik Surdulica
+  21.00  FK Metalac               0-1 (0-0)  FK Voždovac
+[Sat Aug/21]
+  16.55  FK Radnički 1923         0-3 (0-2)  FK Čukarički
+  19.00  Crvena Zvezda            3-1 (1-1)  TSC Bačka Topola
+[Sun Aug/22]
+  16.30  Vojvodina                2-1 (1-0)  FK Novi Pazar
+  18.00  Spartak Subotica         3-2 (2-0)  FK Napredak
+  21.00  FK Kolubara              0-4 (0-2)  Partizan
+[Mon Aug/23]
+  17.30  Radnički Niš             0-1 (0-0)  Proleter Novi Sad
+
+
+Matchday 7
+[Fri Aug/27]
+  18.00  TSC Bačka Topola         2-1 (2-0)  Mladost Lučani
+[Sat Aug/28]
+  15.25  FK Novi Pazar            2-0 (0-0)  FK Metalac
+  17.30  Radnik Surdulica         1-2 (0-1)  Spartak Subotica
+[Sun Aug/29]
+  16.00  FK Napredak              2-0 (1-0)  Vojvodina
+  18.55  FK Čukarički             1-2 (0-1)  Crvena Zvezda
+  21.00  Partizan                 4-0 (2-0)  Radnički Niš
+[Mon Aug/30]
+  17.55  Proleter Novi Sad        1-1 (1-0)  FK Radnički 1923
+  20.00  FK Voždovac              2-0 (2-0)  FK Kolubara
+
+
+Matchday 8
+[Fri Sep/10]
+  16.55  FK Napredak              1-0 (0-0)  Radnik Surdulica
+  19.00  Spartak Subotica         0-0  TSC Bačka Topola
+[Sat Sep/11]
+  16.00  Vojvodina                2-2 (1-2)  FK Metalac
+         FK Radnički 1923         1-3 (1-2)  Partizan
+  20.00  Crvena Zvezda            3-0 (2-0)  Proleter Novi Sad
+[Sun Sep/12]
+  16.55  FK Kolubara              3-0 (1-0)  FK Novi Pazar
+         Radnički Niš             1-0 (1-0)  FK Voždovac
+  19.00  Mladost Lučani           0-0  FK Čukarički
+
+
+Matchday 9
+[Thu Sep/16]
+  16.30  TSC Bačka Topola         1-2 (0-1)  FK Napredak
+[Fri Sep/17]
+  16.00  FK Novi Pazar            2-1 (1-1)  Radnički Niš
+  19.00  FK Metalac               3-1 (1-1)  FK Kolubara
+         Radnik Surdulica         0-2 (0-2)  Vojvodina
+[Sat Sep/18]
+  16.00  FK Čukarički             2-1 (1-1)  Spartak Subotica
+         Proleter Novi Sad        2-3 (1-3)  Mladost Lučani
+  18.30  FK Voždovac              1-2 (0-1)  FK Radnički 1923
+[Sun Sep/19]
+  18.00  Partizan                 1-1 (1-0)  Crvena Zvezda
+
+
+Matchday 10
+[Tue Sep/21]
+  18.30  Vojvodina                2-1 (1-0)  FK Kolubara
+[Wed Sep/22]
+  15.30  FK Radnički 1923         2-1 (2-1)  FK Novi Pazar
+  17.30  FK Napredak              1-2 (0-1)  FK Čukarički
+         Spartak Subotica         1-2 (0-1)  Proleter Novi Sad
+[Thu Sep/23]
+  17.50  Mladost Lučani           0-2 (0-2)  Partizan
+[Thu Sep/30]
+  16.30  Radnički Niš             1-1 (0-1)  FK Metalac
+[Wed Nov/24]
+  15.00  Radnik Surdulica         2-1 (1-0)  TSC Bačka Topola
+[Wed Dec/1]
+  18.30  Crvena Zvezda            1-0 (1-0)  FK Voždovac
+
+
+Matchday 11
+[Sat Sep/25]
+  16.00  TSC Bačka Topola         1-0 (0-0)  Vojvodina
+  19.00  FK Kolubara              2-3 (1-1)  Radnički Niš
+[Sun Sep/26]
+  15.55  FK Novi Pazar            0-4 (0-3)  Crvena Zvezda
+  18.00  FK Metalac               4-1 (1-1)  FK Radnički 1923
+  20.15  Partizan                 5-0 (2-0)  Spartak Subotica
+[Mon Sep/27]
+  16.00  FK Voždovac              1-1 (0-1)  Mladost Lučani
+  18.00  Proleter Novi Sad        1-0 (0-0)  FK Napredak
+  20.00  FK Čukarički             1-1 (1-1)  Radnik Surdulica
+
+
+Matchday 12
+[Fri Oct/1]
+  15.00  FK Radnički 1923         0-2 (0-0)  FK Kolubara
+[Sat Oct/2]
+  16.00  TSC Bačka Topola         1-2 (0-1)  FK Čukarički
+  18.00  Radnik Surdulica         0-1 (0-0)  Proleter Novi Sad
+         Spartak Subotica         0-4 (0-2)  FK Voždovac
+[Sun Oct/3]
+  16.00  FK Napredak              0-1 (0-1)  Partizan
+  18.00  Mladost Lučani           3-0 (1-0)  FK Novi Pazar
+  20.00  Vojvodina                1-1 (0-1)  Radnički Niš
+         Crvena Zvezda            3-1 (1-1)  FK Metalac
+
+
+Matchday 13
+[Fri Oct/15]
+  15.00  FK Novi Pazar            0-1 (0-0)  Spartak Subotica
+  17.00  FK Voždovac              0-0  FK Napredak
+[Sat Oct/16]
+  15.55  FK Kolubara              1-7 (0-6)  Crvena Zvezda
+  18.00  FK Čukarički             1-1 (0-1)  Vojvodina
+[Sun Oct/17]
+  17.00  Partizan                 2-0 (1-0)  Radnik Surdulica
+  19.05  Proleter Novi Sad        1-0 (1-0)  TSC Bačka Topola
+[Mon Oct/18]
+  17.00  FK Metalac               0-2 (0-1)  Mladost Lučani
+[Wed Nov/3]
+  16.00  Radnički Niš             2-1 (1-1)  FK Radnički 1923
+
+
+Matchday 14
+[Thu Oct/21]
+  16.30  FK Napredak              1-1 (0-0)  FK Novi Pazar
+[Fri Oct/22]
+  16.00  Radnik Surdulica         1-3 (1-1)  FK Voždovac
+  18.00  FK Čukarički             6-1 (2-1)  Proleter Novi Sad
+[Sat Oct/23]
+  15.00  Mladost Lučani           3-1 (1-1)  FK Kolubara
+  17.00  Spartak Subotica         2-0 (1-0)  FK Metalac
+[Sun Oct/24]
+  13.30  TSC Bačka Topola         1-3 (1-3)  Partizan
+  17.00  Vojvodina                3-1 (0-1)  FK Radnički 1923
+  18.45  Crvena Zvezda            1-0 (0-0)  Radnički Niš
+
+
+Matchday 15
+[Sat Oct/30]
+  16.00  Radnički Niš             2-0 (1-0)  Mladost Lučani
+[Sun Oct/31]
+  13.30  FK Radnički 1923         0-3 (0-2)  Crvena Zvezda
+  17.00  FK Voždovac              1-1 (0-0)  TSC Bačka Topola
+  18.30  Partizan                 2-0 (2-0)  FK Čukarički
+[Mon Nov/1]
+  14.00  FK Novi Pazar            1-1 (1-1)  Radnik Surdulica
+  18.00  Proleter Novi Sad        0-1 (0-1)  Vojvodina
+[Tue Nov/2]
+  14.00  FK Kolubara              1-2 (1-1)  Spartak Subotica
+  16.00  FK Metalac               2-3 (1-3)  FK Napredak
+
+
+Matchday 16
+[Fri Nov/5]
+  16.00  FK Voždovac              1-1 (0-1)  FK Čukarički
+  18.00  FK Novi Pazar            1-1 (1-0)  TSC Bačka Topola
+[Sat Nov/6]
+  14.55  FK Kolubara              1-0 (1-0)  FK Napredak
+  17.00  FK Metalac               1-1 (0-1)  Radnik Surdulica
+[Sun Nov/7]
+  16.45  Vojvodina                1-2 (1-0)  Crvena Zvezda
+  19.00  Radnički Niš             0-0  Spartak Subotica
+  20.15  Partizan                 0-0  Proleter Novi Sad
+[Mon Nov/8]
+  13.00  FK Radnički 1923         1-2 (0-1)  Mladost Lučani
+
+
+Matchday 17
+[Fri Nov/19]
+  18.00  TSC Bačka Topola         1-2 (1-1)  FK Metalac
+[Sat Nov/20]
+  13.00  Proleter Novi Sad        1-0 (1-0)  FK Voždovac
+  15.00  Radnik Surdulica         1-1 (0-1)  FK Kolubara
+  17.00  FK Napredak              1-1 (1-0)  Radnički Niš
+[Sun Nov/21]
+  13.30  Mladost Lučani           1-5 (1-1)  Crvena Zvezda
+  15.45  Partizan                 4-1 (2-0)  Vojvodina
+  17.00  Spartak Subotica         1-1 (0-0)  FK Radnički 1923
+[Mon Nov/22]
+  15.00  FK Čukarički             1-1 (0-1)  FK Novi Pazar
+
+
+Matchday 18
+[Sat Nov/27]
+  13.00  FK Radnički 1923         1-2 (1-1)  FK Napredak
+  17.00  FK Metalac               0-3 (0-1)  FK Čukarički
+[Sun Nov/28]
+  13.00  FK Kolubara              2-1 (0-1)  TSC Bačka Topola
+         Radnički Niš             3-0 (2-0)  Radnik Surdulica
+  14.25  Crvena Zvezda            3-0 (1-0)  Spartak Subotica
+  16.30  FK Voždovac              0-3 (0-1)  Partizan
+[Mon Nov/29]
+  15.00  FK Novi Pazar            2-0 (2-0)  Proleter Novi Sad
+  17.00  Vojvodina                3-1 (2-0)  Mladost Lučani
+
+
+Matchday 19
+[Sat Dec/4]
+  15.00  Proleter Novi Sad        1-0 (1-0)  FK Metalac
+[Sun Dec/5]
+  13.30  FK Napredak              0-2 (0-2)  Crvena Zvezda
+  15.45  Partizan                 2-0 (0-0)  FK Novi Pazar
+  17.00  Spartak Subotica         0-0  Mladost Lučani
+[Mon Dec/6]
+  14.00  Radnik Surdulica         0-0  FK Radnički 1923
+  16.00  FK Čukarički             5-0 (3-0)  FK Kolubara
+  18.00  TSC Bačka Topola         1-1 (0-0)  Radnički Niš
+[Tue Dec/7]
+  14.00  FK Voždovac              3-1 (1-1)  Vojvodina
+
+
+Matchday 20
+[Sat Dec/11]
+  13.00  FK Radnički 1923         0-3 (0-1)  TSC Bačka Topola
+  15.00  Radnički Niš             1-1 (0-1)  FK Čukarički
+  17.00  FK Kolubara              2-1 (1-1)  Proleter Novi Sad
+[Mon Dec/13]
+  18.00  Crvena Zvezda            1-1 (1-0)  Radnik Surdulica
+[Tue Dec/14]
+  13.00  FK Novi Pazar            0-0  FK Voždovac
+  15.00  Vojvodina                2-3 (0-2)  Spartak Subotica
+[Wed Dec/15]
+  13.00  Mladost Lučani           3-2 (2-2)  FK Napredak
+  15.00  FK Metalac               0-3 (0-3)  Partizan
+
+
+Matchday 21
+[Wed Dec/15]
+  17.00  FK Čukarički             2-0 (0-0)  FK Radnički 1923
+[Thu Dec/16]
+  14.00  Proleter Novi Sad        0-3  Radnički Niš             [awarded]
+  16.05  TSC Bačka Topola         2-3 (2-2)  Crvena Zvezda
+[Sat Dec/18]
+  12.55  Partizan                 1-0 (0-0)  FK Kolubara
+  13.00  FK Novi Pazar            1-1 (0-0)  Vojvodina
+  15.00  FK Napredak              1-0 (0-0)  Spartak Subotica
+[Sun Dec/19]
+  13.00  Radnik Surdulica         0-2 (0-1)  Mladost Lučani
+  15.00  FK Voždovac              5-2 (1-1)  FK Metalac
+
+
+Matchday 22
+[Sat Feb/12]
+  13.00  FK Radnički 1923         0-1 (0-0)  Proleter Novi Sad
+  14.30  Radnički Niš             0-2 (0-1)  Partizan
+  17.00  Crvena Zvezda            3-0 (1-0)  FK Čukarički
+[Sun Feb/13]
+  13.00  Mladost Lučani           2-0 (1-0)  TSC Bačka Topola
+  15.00  FK Metalac               1-0 (0-0)  FK Novi Pazar
+  17.00  FK Kolubara              1-0 (1-0)  FK Voždovac
+[Mon Feb/14]
+  13.00  Spartak Subotica         0-2 (0-1)  Radnik Surdulica
+  15.00  Vojvodina                1-0 (0-0)  FK Napredak
+
+
+Matchday 23
+[Sat Feb/19]
+  14.00  FK Novi Pazar            1-2 (0-1)  FK Kolubara
+  16.00  FK Čukarički             1-0 (0-0)  Mladost Lučani
+  18.00  TSC Bačka Topola         2-1 (1-1)  Spartak Subotica
+[Sun Feb/20]
+  13.00  Proleter Novi Sad        1-2 (0-1)  Crvena Zvezda
+  15.30  Partizan                 2-0 (2-0)  FK Radnički 1923
+  18.00  FK Voždovac              0-0  Radnički Niš
+[Mon Feb/21]
+  15.00  FK Metalac               2-3 (1-1)  Vojvodina
+  17.00  Radnik Surdulica         0-0  FK Napredak
+
+
+Matchday 24
+[Fri Feb/25]
+  14.00  FK Radnički 1923         1-0 (1-0)  FK Voždovac
+  16.00  Mladost Lučani           2-1 (1-0)  Proleter Novi Sad
+         Radnički Niš             1-1 (1-0)  FK Novi Pazar
+  18.00  Spartak Subotica         1-2 (1-1)  FK Čukarički
+[Sat Feb/26]
+  14.00  FK Napredak              2-2 (1-0)  TSC Bačka Topola
+  16.00  Vojvodina                0-1 (0-0)  Radnik Surdulica
+  18.00  FK Kolubara              0-1 (0-0)  FK Metalac
+[Sun Feb/27]
+  18.00  Crvena Zvezda            2-0 (2-0)  Partizan
+
+
+Matchday 25
+[Tue Mar/1]
+  16.00  FK Novi Pazar            0-1 (0-0)  FK Radnički 1923
+  18.00  Proleter Novi Sad        0-3 (0-2)  Spartak Subotica
+[Wed Mar/2]
+  16.00  FK Metalac               1-1 (1-1)  Radnički Niš
+         TSC Bačka Topola         0-0  Radnik Surdulica
+  18.00  FK Čukarički             3-0 (2-0)  FK Napredak
+         FK Kolubara              1-0 (1-0)  Vojvodina
+[Thu Mar/3]
+  15.00  FK Voždovac              0-3 (0-1)  Crvena Zvezda
+  17.05  Partizan                 2-1 (1-0)  Mladost Lučani
+
+
+Matchday 26
+[Sun Mar/6]
+  14.00  Spartak Subotica         0-1 (0-0)  Partizan
+  16.15  Crvena Zvezda            5-0 (4-0)  FK Novi Pazar
+  18.30  Vojvodina                0-1 (0-0)  TSC Bačka Topola
+[Mon Mar/7]
+  14.00  FK Radnički 1923         1-0 (0-0)  FK Metalac
+  16.00  FK Napredak              1-1 (0-1)  Proleter Novi Sad
+         Radnik Surdulica         0-0  FK Čukarički
+  18.00  Radnički Niš             1-0 (1-0)  FK Kolubara
+[Tue Mar/8]
+  16.00  Mladost Lučani           2-4 (1-2)  FK Voždovac
+
+
+Matchday 27
+[Sat Mar/12]
+  14.30  Proleter Novi Sad        0-2 (0-0)  Radnik Surdulica
+  17.00  Radnički Niš             1-0 (1-0)  Vojvodina
+  19.00  FK Čukarički             1-1 (0-0)  TSC Bačka Topola
+[Sun Mar/13]
+  13.00  FK Kolubara              0-0  FK Radnički 1923
+  14.30  Partizan                 0-0  FK Napredak
+  19.00  FK Voždovac              1-1 (1-0)  Spartak Subotica
+[Mon Mar/14]
+  14.00  FK Novi Pazar            0-0  Mladost Lučani
+  15.55  FK Metalac               1-2 (1-1)  Crvena Zvezda
+
+
+Matchday 28
+[Fri Mar/18]
+  18.00  TSC Bačka Topola         2-1 (1-0)  Proleter Novi Sad
+[Sat Mar/19]
+  14.00  FK Radnički 1923         0-0  Radnički Niš
+  16.00  FK Napredak              1-3 (0-1)  FK Voždovac
+  18.00  Vojvodina                1-2 (1-0)  FK Čukarički
+[Sun Mar/20]
+  14.00  Spartak Subotica         1-2 (1-1)  FK Novi Pazar
+  16.00  Mladost Lučani           3-3 (2-1)  FK Metalac
+  18.30  Crvena Zvezda            3-0 (2-0)  FK Kolubara
+[Mon Mar/21]
+  17.00  Radnik Surdulica         1-2 (1-1)  Partizan
+
+
+Matchday 29
+[Fri Apr/1]
+  16.15  FK Novi Pazar            1-0 (1-0)  FK Napredak
+  18.30  FK Kolubara              2-2 (1-1)  Mladost Lučani
+[Sat Apr/2]
+  14.00  Partizan                 2-0 (2-0)  TSC Bačka Topola
+         FK Radnički 1923         3-2 (2-0)  Vojvodina
+  16.15  Radnički Niš             1-5 (1-1)  Crvena Zvezda
+  18.30  FK Metalac               2-0 (1-0)  Spartak Subotica
+[Mon Apr/4]
+  16.15  FK Voždovac              4-0 (1-0)  Radnik Surdulica
+  18.30  Proleter Novi Sad        1-1 (0-1)  FK Čukarički
+
+
+Matchday 30
+[Sat Apr/9]
+  16.00  Spartak Subotica         4-3 (0-1)  FK Kolubara
+  18.30  Mladost Lučani           2-0 (1-0)  Radnički Niš
+[Sun Apr/10]
+  14.00  TSC Bačka Topola         2-1 (2-1)  FK Voždovac
+  17.00  Crvena Zvezda            4-1 (1-0)  FK Radnički 1923
+  19.05  FK Čukarički             0-0  Partizan
+[Mon Apr/11]
+  18.30  FK Napredak              1-0 (0-0)  FK Metalac
+         Vojvodina                2-1 (2-0)  Proleter Novi Sad
+         Radnik Surdulica         2-0 (2-0)  FK Novi Pazar
+
+
+== Championship
+
+Matchday 31
+[Fri Apr/15]
+  19.00  Radnički Niš             0-0  FK Voždovac
+[Sat Apr/16]
+  14.00  FK Čukarički             2-3 (0-1)  TSC Bačka Topola
+  18.00  Crvena Zvezda            0-0  Partizan
+[Sun Apr/17]
+  18.00  Vojvodina                2-0 (0-0)  FK Napredak
+
+
+Matchday 32
+[Wed Apr/20]
+  16.00  TSC Bačka Topola         0-4 (0-1)  Crvena Zvezda
+  18.05  Partizan                 3-1 (1-0)  FK Čukarički
+  18.30  FK Napredak              0-4 (0-2)  Radnički Niš
+[Thu Apr/21]
+  19.05  FK Voždovac              2-1 (1-1)  Vojvodina
+
+
+Matchday 33
+[Tue Apr/26]
+  18.30  Radnički Niš             1-0 (0-0)  Vojvodina
+[Wed Apr/27]
+  14.00  Partizan                 4-1 (2-1)  TSC Bačka Topola
+  16.05  FK Voždovac              3-0 (3-0)  FK Napredak
+  18.30  Crvena Zvezda            1-0 (1-0)  FK Čukarički
+
+
+Matchday 34
+[Sun May/1]
+  17.00  Vojvodina                0-3 (0-2)  Crvena Zvezda
+  18.30  TSC Bačka Topola         1-1 (0-0)  FK Voždovac
+  19.05  FK Napredak              0-3 (0-1)  Partizan
+[Mon May/2]
+  18.30  FK Čukarički             0-0  Radnički Niš
+
+
+Matchday 35
+[Fri May/6]
+  18.30  TSC Bačka Topola         2-0 (0-0)  FK Napredak
+[Sat May/7]
+  14.00  Partizan                 2-1 (2-0)  Vojvodina
+  17.00  Crvena Zvezda            4-1 (3-0)  Radnički Niš
+[Mon May/9]
+  17.30  FK Čukarički             0-0  FK Voždovac
+
+
+Matchday 36
+[Fri May/13]
+  18.30  Radnički Niš             2-0 (1-0)  TSC Bačka Topola
+[Sun May/15]
+  16.30  Vojvodina                0-3 (0-1)  FK Čukarički
+  18.30  FK Napredak              0-1 (0-1)  Crvena Zvezda
+[Mon May/16]
+  20.30  FK Voždovac              0-3 (0-2)  Partizan
+
+
+Matchday 37
+[Thu May/19]
+  18.00  FK Čukarički             0-0  FK Napredak
+[Sun May/22]
+  18.30  Crvena Zvezda            3-1 (1-0)  FK Voždovac
+         Partizan                 2-0 (1-0)  Radnički Niš
+         TSC Bačka Topola         0-2 (0-0)  Vojvodina
+
+
+== Relegation
+
+Matchday 31
+[Fri Apr/15]
+  16.30  Radnik Surdulica         1-1 (1-0)  FK Radnički 1923
+[Sat Apr/16]
+  16.00  Mladost Lučani           0-0  Proleter Novi Sad
+[Sun Apr/17]
+  14.00  Spartak Subotica         1-3 (0-1)  FK Novi Pazar
+  16.00  FK Kolubara              2-0 (2-0)  FK Metalac
+
+
+Matchday 32
+[Wed Apr/20]
+  16.00  Proleter Novi Sad        0-0  Radnik Surdulica
+[Thu Apr/21]
+  15.00  FK Radnički 1923         1-2 (0-0)  FK Kolubara
+  17.00  FK Novi Pazar            1-1 (0-0)  Mladost Lučani
+         FK Metalac               1-1 (1-1)  Spartak Subotica
+
+
+Matchday 33
+[Tue Apr/26]
+  16.00  FK Kolubara              1-3 (1-3)  FK Novi Pazar
+  18.30  Mladost Lučani           0-0  FK Radnički 1923
+[Thu Apr/28]
+  16.00  Radnik Surdulica         3-3 (1-1)  FK Metalac
+  18.05  Spartak Subotica         3-1 (3-0)  Proleter Novi Sad
+
+
+Matchday 34
+[Sat Apr/30]
+  16.00  FK Novi Pazar            2-1 (0-1)  FK Radnički 1923
+  18.30  FK Kolubara              3-0 (2-0)  Mladost Lučani
+[Mon May/2]
+  15.00  Radnik Surdulica         2-0 (1-0)  Spartak Subotica
+  17.05  Proleter Novi Sad        0-0  FK Metalac
+
+
+Matchday 35
+[Sat May/7]
+  19.00  FK Metalac               0-3 (0-1)  FK Novi Pazar
+[Sun May/8]
+  15.00  FK Radnički 1923         2-1 (0-1)  Proleter Novi Sad
+  17.00  Spartak Subotica         2-1 (2-1)  FK Kolubara
+  19.05  Mladost Lučani           2-3 (1-1)  Radnik Surdulica
+
+
+Matchday 36
+[Sat May/14]
+  17.00  FK Kolubara              1-0 (0-0)  Proleter Novi Sad
+  19.00  FK Metalac               0-3 (0-1)  Mladost Lučani
+         Spartak Subotica         2-1 (1-1)  FK Radnički 1923
+[Sun May/15]
+  14.25  FK Novi Pazar            0-1 (0-1)  Radnik Surdulica
+
+
+Matchday 37
+[Thu May/19]
+  16.00  Radnik Surdulica         3-0 (1-0)  FK Kolubara
+[Fri May/20]
+  17.30  Mladost Lučani           2-1 (1-0)  Spartak Subotica
+         FK Radnički 1923         1-2 (1-0)  FK Metalac
+         Proleter Novi Sad        0-2 (0-0)  FK Novi Pazar

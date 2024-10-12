@@ -1,0 +1,574 @@
+= IT 3 B 2022/23
+
+# Date       Sun Sep/4 2022 - Sat May/13 2023 (251d)
+# Teams      20
+# Matches    382
+# Stages     Regular Season (380)  Playout (2)
+
+
+# Regular Season
+
+Matchday 1
+[Sun Sep/4]
+  14.30  Cesena FC                1-2 (1-0)  Carrarese Calcio
+         AS Gubbio                2-0 (0-0)  Aquila Montevarchi
+         US Recanatese            0-0  Vis Pesaro
+         AC Reggiana 1919         2-1 (2-1)  Lucchese
+         San Donato Tavarnelle    1-1 (0-1)  AC Rimini
+         US Fiorenzuola           1-0 (1-0)  Fermana FC
+         Virtus Entella           1-0 (1-0)  SEF Torres 1903
+  17.30  Imolese Calcio           1-0 (0-0)  US Alessandria 1912
+         Olbia Calcio             1-0 (0-0)  US Pontedera
+[Mon Sep/5]
+  20.30  Ancona 1905              1-1 (0-0)  ACN Siena 1904
+
+
+Matchday 2
+[Sun Sep/11]
+  14.30  AC Rimini                0-1 (0-1)  Cesena FC
+         Lucchese                 3-1 (2-0)  Imolese Calcio
+         Carrarese Calcio         3-1 (3-1)  US Recanatese
+         Fermana FC               1-1 (0-0)  AS Gubbio
+         Aquila Montevarchi       0-0  Olbia Calcio
+         SEF Torres 1903          1-2 (1-0)  San Donato Tavarnelle
+         ACN Siena 1904           1-0 (0-0)  AC Reggiana 1919
+         US Alessandria 1912      1-3 (0-1)  Virtus Entella
+         US Pontedera             2-2 (0-2)  Ancona 1905
+         Vis Pesaro               1-0 (0-0)  US Fiorenzuola
+
+
+Matchday 3
+[Wed Sep/14]
+  18.00  Cesena FC                1-1 (0-0)  SEF Torres 1903
+         Ancona 1905              2-0 (2-0)  US Fiorenzuola
+         AS Gubbio                2-0 (0-0)  US Alessandria 1912
+         Imolese Calcio           0-4 (0-3)  ACN Siena 1904
+         Olbia Calcio             0-1 (0-0)  Vis Pesaro
+         US Recanatese            1-1 (1-1)  Fermana FC
+         AC Reggiana 1919         4-0 (2-0)  Aquila Montevarchi
+         San Donato Tavarnelle    1-2 (1-1)  Carrarese Calcio
+         Virtus Entella           0-2 (0-1)  AC Rimini
+  21.00  Lucchese                 1-1 (0-0)  US Pontedera
+
+
+Matchday 4
+[Sun Sep/18]
+  14.30  AC Rimini                3-0 (2-0)  Olbia Calcio
+         Ancona 1905              0-1 (0-0)  AS Gubbio
+         Carrarese Calcio         3-1 (2-1)  Virtus Entella
+         Fermana FC               2-0 (2-0)  Cesena FC
+         San Donato Tavarnelle    0-0  US Recanatese
+         SEF Torres 1903          0-0  Imolese Calcio
+         ACN Siena 1904           1-0 (1-0)  Aquila Montevarchi
+         US Fiorenzuola           1-0 (1-0)  Lucchese
+         US Pontedera             1-1 (0-1)  Vis Pesaro
+[Mon Sep/19]
+  20.30  US Alessandria 1912      0-2 (0-1)  AC Reggiana 1919
+
+
+Matchday 5
+[Sat Sep/24]
+  14.30  Cesena FC                1-1 (1-0)  US Pontedera
+         US Recanatese            0-2 (0-2)  SEF Torres 1903
+  17.30  AS Gubbio                0-0  Virtus Entella
+         Lucchese                 2-1 (2-0)  AC Rimini
+         Imolese Calcio           0-2 (0-1)  US Fiorenzuola
+         Aquila Montevarchi       2-2 (1-0)  Fermana FC
+         Olbia Calcio             0-0  ACN Siena 1904
+         AC Reggiana 1919         2-0 (0-0)  San Donato Tavarnelle
+         US Alessandria 1912      2-1 (0-0)  Carrarese Calcio
+         Vis Pesaro               0-3 (0-1)  Ancona 1905
+
+
+Matchday 6
+[Sat Oct/1]
+  17.30  US Pontedera             0-2 (0-1)  ACN Siena 1904
+  14.30  SEF Torres 1903          2-2 (0-1)  Vis Pesaro
+[Sun Oct/2]
+  14.30  Cesena FC                2-0 (2-0)  US Recanatese
+         AC Rimini                3-0 (0-0)  US Alessandria 1912
+         Ancona 1905              1-2 (0-1)  Aquila Montevarchi
+         Carrarese Calcio         0-2 (0-1)  AS Gubbio
+         Fermana FC               0-0  Olbia Calcio
+         San Donato Tavarnelle    0-2 (0-2)  Lucchese
+         US Fiorenzuola           5-0 (3-0)  AC Reggiana 1919
+         Virtus Entella           0-0  Imolese Calcio
+
+
+Matchday 7
+[Sun Oct/9]
+  14.30  Fermana FC               0-1 (0-1)  Virtus Entella
+         Aquila Montevarchi       2-1 (1-0)  Carrarese Calcio
+         Olbia Calcio             1-2 (0-2)  US Fiorenzuola
+         Vis Pesaro               1-0 (0-0)  San Donato Tavarnelle
+  17.30  AS Gubbio                1-2 (0-2)  AC Rimini
+         Lucchese                 0-0  SEF Torres 1903
+         Imolese Calcio           2-1 (1-1)  US Recanatese
+         AC Reggiana 1919         1-0 (1-0)  Ancona 1905
+         US Alessandria 1912      2-3 (1-3)  US Pontedera
+[Mon Oct/10]
+  20.30  ACN Siena 1904           0-0  Cesena FC
+
+
+Matchday 8
+[Sun Oct/16]
+  14.30  Cesena FC                4-0 (3-0)  Imolese Calcio
+         AC Rimini                5-0 (4-0)  Vis Pesaro
+         Ancona 1905              2-1 (1-0)  Fermana FC
+         AS Gubbio                1-2 (0-2)  AC Reggiana 1919
+         Carrarese Calcio         1-0 (0-0)  US Pontedera
+         US Recanatese            0-0  Lucchese
+         San Donato Tavarnelle    0-1 (0-0)  US Alessandria 1912
+         SEF Torres 1903          2-0 (1-0)  ACN Siena 1904
+         US Fiorenzuola           1-0 (1-0)  Aquila Montevarchi
+         Virtus Entella           2-1 (1-0)  Olbia Calcio
+
+
+Matchday 9
+[Wed Oct/19]
+  14.30  Imolese Calcio           2-1 (1-1)  Carrarese Calcio
+  18.00  Aquila Montevarchi       1-2 (1-1)  Virtus Entella
+         US Fiorenzuola           0-1 (0-1)  AS Gubbio
+         US Pontedera             0-0  US Recanatese
+         Vis Pesaro               0-1 (0-0)  Lucchese
+  20.30  ACN Siena 1904           0-0  AC Rimini
+  21.00  Fermana FC               1-1 (1-1)  San Donato Tavarnelle
+         Olbia Calcio             2-4 (1-3)  Ancona 1905
+         AC Reggiana 1919         0-1 (0-0)  Cesena FC
+         US Alessandria 1912      0-0  SEF Torres 1903
+
+
+Matchday 10
+[Sun Oct/23]
+  14.30  AS Gubbio                3-0 (0-0)  Imolese Calcio
+         US Recanatese            2-1 (0-1)  ACN Siena 1904
+         Virtus Entella           3-2 (0-2)  Ancona 1905
+         Vis Pesaro               0-0  US Alessandria 1912
+  15.30  SEF Torres 1903          1-1 (0-0)  Olbia Calcio
+  17.30  Cesena FC                2-1 (1-1)  US Fiorenzuola
+         AC Rimini                2-2 (1-1)  Fermana FC
+         Lucchese                 1-0 (0-0)  Aquila Montevarchi
+         San Donato Tavarnelle    1-2 (1-0)  US Pontedera
+[Mon Oct/24]
+  20.30  Carrarese Calcio         1-1 (0-0)  AC Reggiana 1919
+
+
+Matchday 11
+[Sat Oct/29]
+  14.30  Aquila Montevarchi       0-3 (0-2)  Cesena FC
+         Olbia Calcio             1-3 (1-3)  AS Gubbio
+         US Alessandria 1912      0-1 (0-0)  US Recanatese
+         US Fiorenzuola           0-1 (0-0)  Virtus Entella
+  17.30  AC Rimini                0-1 (0-0)  Carrarese Calcio
+         Ancona 1905              2-1 (0-1)  Lucchese
+         Fermana FC               1-2 (0-2)  Imolese Calcio
+         AC Reggiana 1919         3-0 (1-0)  Vis Pesaro
+         ACN Siena 1904           3-0 (1-0)  San Donato Tavarnelle
+         US Pontedera             1-0 (0-0)  SEF Torres 1903
+
+
+Matchday 12
+[Sat Nov/5]
+  14.30  Cesena FC                3-0 (1-0)  AS Gubbio
+         Carrarese Calcio         2-0 (0-0)  Fermana FC
+         US Recanatese            0-1 (0-0)  US Fiorenzuola
+         SEF Torres 1903          2-1 (1-0)  Aquila Montevarchi
+         Vis Pesaro               0-2 (0-0)  ACN Siena 1904
+  17.30  Lucchese                 1-2 (1-1)  US Alessandria 1912
+         San Donato Tavarnelle    1-1 (1-1)  Ancona 1905
+         US Pontedera             1-0 (1-0)  AC Rimini
+  21.00  Virtus Entella           0-0  AC Reggiana 1919
+[Sun Nov/6]
+  14.30  Imolese Calcio           0-1 (0-0)  Olbia Calcio
+
+
+Matchday 13
+[Sun Nov/13]
+  12.00  AS Gubbio                1-3 (1-2)  US Recanatese
+  14.30  AC Rimini                1-1 (1-1)  SEF Torres 1903
+         Ancona 1905              1-0 (0-0)  Imolese Calcio
+         Fermana FC               0-0  US Alessandria 1912
+         Aquila Montevarchi       0-0  Vis Pesaro
+         Olbia Calcio             2-2 (1-2)  San Donato Tavarnelle
+         AC Reggiana 1919         1-1 (1-1)  US Pontedera
+         ACN Siena 1904           0-1 (0-0)  Lucchese
+         US Fiorenzuola           2-0 (1-0)  Carrarese Calcio
+[Mon Nov/14]
+  20.30  Virtus Entella           0-0  Cesena FC
+
+
+Matchday 14
+[Sun Nov/20]
+  12.00  Carrarese Calcio         1-0 (0-0)  Olbia Calcio
+  14.30  Cesena FC                0-1 (0-0)  Ancona 1905
+         SEF Torres 1903          0-2 (0-0)  AC Reggiana 1919
+         US Alessandria 1912      0-1 (0-0)  ACN Siena 1904
+         US Pontedera             1-0 (1-0)  US Fiorenzuola
+  17.30  Lucchese                 0-2 (0-1)  AS Gubbio
+         Imolese Calcio           0-2 (0-0)  Aquila Montevarchi
+         US Recanatese            0-1 (0-1)  AC Rimini
+         San Donato Tavarnelle    1-1 (0-0)  Virtus Entella
+         Vis Pesaro               1-1 (0-0)  Fermana FC
+
+
+Matchday 15
+[Sat Nov/26]
+  14.30  Ancona 1905              1-1 (0-1)  SEF Torres 1903
+         Aquila Montevarchi       1-1 (0-0)  US Recanatese
+         Olbia Calcio             0-1 (0-1)  Cesena FC
+         US Fiorenzuola           0-0  US Alessandria 1912
+  17.30  AS Gubbio                1-0 (0-0)  San Donato Tavarnelle
+         Fermana FC               1-0 (1-0)  Lucchese
+         Imolese Calcio           1-2 (0-1)  US Pontedera
+         AC Reggiana 1919         2-0 (1-0)  AC Rimini
+         ACN Siena 1904           0-0  Carrarese Calcio
+         Virtus Entella           2-1 (1-0)  Vis Pesaro
+
+
+Matchday 16
+[Tue Nov/29]
+  13.00  US Alessandria 1912      1-1 (1-0)  Olbia Calcio
+  17.30  Carrarese Calcio         2-0 (0-0)  Ancona 1905
+         SEF Torres 1903          0-1 (0-0)  US Fiorenzuola
+         US Pontedera             2-1 (1-1)  Virtus Entella
+  21.00  AC Rimini                3-1 (2-1)  Imolese Calcio
+         Lucchese                 1-0 (0-0)  Cesena FC
+         US Recanatese            0-1 (0-0)  AC Reggiana 1919
+         San Donato Tavarnelle    3-1 (1-1)  Aquila Montevarchi
+         ACN Siena 1904           2-3 (0-1)  Fermana FC
+         Vis Pesaro               0-4 (0-3)  AS Gubbio
+
+
+Matchday 17
+[Sat Dec/3]
+  14.30  Ancona 1905              3-0 (1-0)  US Alessandria 1912
+         AS Gubbio                2-0 (1-0)  ACN Siena 1904
+         Carrarese Calcio         0-1 (0-1)  SEF Torres 1903
+         Imolese Calcio           0-0  Vis Pesaro
+         Aquila Montevarchi       1-2 (0-2)  US Pontedera
+         US Fiorenzuola           2-1 (0-0)  AC Rimini
+  17.30  Cesena FC                3-2 (2-0)  San Donato Tavarnelle
+         Fermana FC               0-3 (0-2)  AC Reggiana 1919
+         Olbia Calcio             1-1 (0-0)  US Recanatese
+         Virtus Entella           1-1 (0-1)  Lucchese
+
+
+Matchday 18
+[Sat Dec/10]
+  14.30  AC Reggiana 1919         0-0  Olbia Calcio
+         San Donato Tavarnelle    0-0  Imolese Calcio
+         SEF Torres 1903          0-0  AS Gubbio
+         US Alessandria 1912      2-2 (1-0)  Aquila Montevarchi
+         Vis Pesaro               1-2 (1-1)  Cesena FC
+  17.30  AC Rimini                2-1 (0-0)  Ancona 1905
+         Lucchese                 3-2 (1-2)  Carrarese Calcio
+         ACN Siena 1904           1-1 (0-1)  US Fiorenzuola
+         US Pontedera             2-1 (1-0)  Fermana FC
+[Sun Dec/11]
+  17.30  US Recanatese            1-2 (0-0)  Virtus Entella
+
+
+Matchday 19
+[Sat Dec/17]
+  14.30  Cesena FC                3-1 (1-1)  US Alessandria 1912
+         AS Gubbio                1-0 (0-0)  US Pontedera
+         Carrarese Calcio         3-0 (1-0)  Vis Pesaro
+         Imolese Calcio           0-1 (0-1)  AC Reggiana 1919
+         US Fiorenzuola           1-2 (1-2)  San Donato Tavarnelle
+         Virtus Entella           1-2 (1-1)  ACN Siena 1904
+  17.30  Ancona 1905              4-0 (2-0)  US Recanatese
+         Fermana FC               1-0 (0-0)  SEF Torres 1903
+         Aquila Montevarchi       0-1 (0-1)  AC Rimini
+         Olbia Calcio             1-1 (0-1)  Lucchese
+
+
+Matchday 20
+[Fri Dec/23]
+  14.30  Carrarese Calcio         1-1 (0-1)  Cesena FC
+         Aquila Montevarchi       2-1 (0-1)  AS Gubbio
+         SEF Torres 1903          0-1 (0-1)  Virtus Entella
+         US Alessandria 1912      2-0 (2-0)  Imolese Calcio
+         Vis Pesaro               0-1 (0-0)  US Recanatese
+  17.30  AC Rimini                1-2 (1-1)  San Donato Tavarnelle
+         Lucchese                 0-1 (0-0)  AC Reggiana 1919
+         Fermana FC               4-2 (3-0)  US Fiorenzuola
+         ACN Siena 1904           0-0  Ancona 1905
+         US Pontedera             5-4 (3-2)  Olbia Calcio
+
+
+Matchday 21
+[Sun Jan/8]
+  14.30  Cesena FC                1-0 (0-0)  AC Rimini
+         Olbia Calcio             2-1 (1-1)  Aquila Montevarchi
+         San Donato Tavarnelle    1-3 (1-1)  SEF Torres 1903
+         US Fiorenzuola           0-3 (0-1)  Vis Pesaro
+         Virtus Entella           4-2 (1-2)  US Alessandria 1912
+  17.30  AS Gubbio                1-3 (1-1)  Fermana FC
+         Imolese Calcio           0-2 (0-1)  Lucchese
+         US Recanatese            4-2 (1-0)  Carrarese Calcio
+         AC Reggiana 1919         4-0 (2-0)  ACN Siena 1904
+[Mon Jan/9]
+  20.30  Ancona 1905              3-0 (3-0)  US Pontedera
+
+
+Matchday 22
+[Sat Jan/14]
+  14.30  AC Rimini                1-4 (0-1)  Virtus Entella
+[Sun Jan/15]
+  14.30  Carrarese Calcio         1-3 (1-1)  San Donato Tavarnelle
+         Fermana FC               0-0  US Recanatese
+         Aquila Montevarchi       1-2 (0-1)  AC Reggiana 1919
+         SEF Torres 1903          0-1 (0-0)  Cesena FC
+         ACN Siena 1904           1-0 (1-0)  Imolese Calcio
+         US Alessandria 1912      2-1 (1-0)  AS Gubbio
+         US Fiorenzuola           0-1 (0-1)  Ancona 1905
+         US Pontedera             0-0  Lucchese
+         Vis Pesaro               2-1 (1-0)  Olbia Calcio
+
+
+Matchday 23
+[Sun Jan/22]
+  14.30  Imolese Calcio           0-1 (0-0)  SEF Torres 1903
+         Aquila Montevarchi       1-2 (0-2)  ACN Siena 1904
+         Olbia Calcio             1-1 (0-0)  AC Rimini
+         US Recanatese            1-1 (1-1)  San Donato Tavarnelle
+         AC Reggiana 1919         3-2 (3-2)  US Alessandria 1912
+  17.30  Cesena FC                1-1 (1-0)  Fermana FC
+         AS Gubbio                0-1 (0-1)  Ancona 1905
+         Lucchese                 0-1 (0-0)  US Fiorenzuola
+         Virtus Entella           4-0 (2-0)  Carrarese Calcio
+
+
+Matchday 24
+[Sat Jan/28]
+  14.30  US Fiorenzuola           1-2 (0-1)  Imolese Calcio
+         Carrarese Calcio         0-1 (0-0)  US Alessandria 1912
+         San Donato Tavarnelle    0-3 (0-1)  AC Reggiana 1919
+         SEF Torres 1903          1-1 (1-0)  US Recanatese
+         ACN Siena 1904           1-1 (1-0)  Olbia Calcio
+  17.30  US Pontedera             0-3 (0-1)  Cesena FC
+  14.30  Virtus Entella           0-0  AS Gubbio
+  17.30  AC Rimini                1-1 (0-1)  Lucchese
+         Ancona 1905              1-1 (1-0)  Vis Pesaro
+         Fermana FC               1-1 (1-1)  Aquila Montevarchi
+
+
+Matchday 25
+[Tue Jan/31]
+  21.00  Vis Pesaro               2-1 (1-1)  SEF Torres 1903
+  14.30  Imolese Calcio           1-2 (1-0)  Virtus Entella
+         Aquila Montevarchi       1-2 (0-1)  Ancona 1905
+  18.30  AS Gubbio                1-2 (0-0)  Carrarese Calcio
+         US Alessandria 1912      0-1 (0-1)  AC Rimini
+  21.00  Lucchese                 0-0  San Donato Tavarnelle
+         Olbia Calcio             2-4 (0-2)  Fermana FC
+         US Recanatese            0-3 (0-2)  Cesena FC
+         AC Reggiana 1919         2-0 (2-0)  US Fiorenzuola
+         ACN Siena 1904           1-1 (1-0)  US Pontedera
+
+
+Matchday 26
+[Sat Feb/4]
+  17.30  US Pontedera             2-0 (1-0)  US Alessandria 1912
+  14.30  Carrarese Calcio         1-0 (0-0)  Aquila Montevarchi
+         San Donato Tavarnelle    1-1 (1-0)  Vis Pesaro
+         SEF Torres 1903          1-1 (0-0)  Lucchese
+         US Fiorenzuola           0-1 (0-0)  Olbia Calcio
+         Virtus Entella           2-0 (0-0)  Fermana FC
+  17.30  Cesena FC                4-0 (2-0)  ACN Siena 1904
+         AC Rimini                0-1 (0-0)  AS Gubbio
+         Ancona 1905              2-1 (1-1)  AC Reggiana 1919
+         US Recanatese            0-0  Imolese Calcio
+
+
+Matchday 27
+[Sat Feb/11]
+  17.30  Olbia Calcio             1-1 (0-1)  Virtus Entella
+[Sun Feb/12]
+  14.30  Imolese Calcio           2-4 (0-2)  Cesena FC
+         Lucchese                 1-3 (0-1)  US Recanatese
+         Fermana FC               2-1 (2-1)  Ancona 1905
+         Vis Pesaro               0-0  AC Rimini
+         Aquila Montevarchi       1-1 (1-1)  US Fiorenzuola
+         US Alessandria 1912      1-1 (0-1)  San Donato Tavarnelle
+         US Pontedera             0-1 (0-0)  Carrarese Calcio
+[Mon Feb/13]
+  20.30  AC Reggiana 1919         3-1 (2-0)  AS Gubbio
+
+
+Matchday 23
+[Wed Feb/15]
+  18.00  Vis Pesaro               1-1 (0-1)  US Pontedera
+
+
+Matchday 27
+[Wed Feb/15]
+  19.30  ACN Siena 1904           2-2 (1-1)  SEF Torres 1903
+
+
+Matchday 28
+[Sun Feb/19]
+  14.30  AC Rimini                0-0  ACN Siena 1904
+         AS Gubbio                0-0  US Fiorenzuola
+         San Donato Tavarnelle    1-1 (0-0)  Fermana FC
+         SEF Torres 1903          1-0 (1-0)  US Alessandria 1912
+  17.30  Ancona 1905              1-1 (0-1)  Olbia Calcio
+         Lucchese                 3-0 (0-0)  Vis Pesaro
+         Carrarese Calcio         2-1 (2-1)  Imolese Calcio
+         US Recanatese            1-0 (0-0)  US Pontedera
+         Virtus Entella           3-0 (0-0)  Aquila Montevarchi
+[Mon Feb/20]
+  20.30  Cesena FC                1-2 (0-1)  AC Reggiana 1919
+
+
+Matchday 29
+[Sat Feb/25]
+  14.30  ACN Siena 1904           1-1 (0-0)  US Recanatese
+[Sun Feb/26]
+  14.30  Ancona 1905              0-3 (0-1)  Virtus Entella
+         Fermana FC               1-2 (0-0)  AC Rimini
+         Imolese Calcio           1-1 (1-0)  AS Gubbio
+         Aquila Montevarchi       0-0  Lucchese
+         Olbia Calcio             3-1 (2-1)  SEF Torres 1903
+         AC Reggiana 1919         0-0  Carrarese Calcio
+         US Alessandria 1912      2-2 (1-1)  Vis Pesaro
+         US Fiorenzuola           0-0  Cesena FC
+         US Pontedera             2-4 (2-2)  San Donato Tavarnelle
+
+
+Matchday 30
+[Sat Mar/4]
+  14.30  AS Gubbio                0-1 (0-0)  Olbia Calcio
+[Sun Mar/5]
+  14.30  Cesena FC                2-2 (1-1)  Aquila Montevarchi
+         Lucchese                 1-1 (0-0)  Ancona 1905
+         Carrarese Calcio         3-1 (2-1)  AC Rimini
+         Imolese Calcio           0-0  Fermana FC
+         US Recanatese            1-2 (0-0)  US Alessandria 1912
+         San Donato Tavarnelle    1-1 (1-0)  ACN Siena 1904
+         SEF Torres 1903          0-1 (0-1)  US Pontedera
+         Virtus Entella           3-1 (2-0)  US Fiorenzuola
+         Vis Pesaro               0-3 (0-1)  AC Reggiana 1919
+
+
+Matchday 31
+[Sat Mar/11]
+  14.30  AS Gubbio                1-1 (0-1)  Cesena FC
+         Aquila Montevarchi       1-0 (1-0)  SEF Torres 1903
+         Olbia Calcio             1-2 (1-0)  Imolese Calcio
+         US Fiorenzuola           0-1 (0-1)  US Recanatese
+  17.30  AC Rimini                1-1 (0-1)  US Pontedera
+         Ancona 1905              3-0 (2-0)  San Donato Tavarnelle
+         Fermana FC               0-0  Carrarese Calcio
+         AC Reggiana 1919         0-1 (0-0)  Virtus Entella
+         ACN Siena 1904           4-0 (2-0)  Vis Pesaro
+         US Alessandria 1912      0-1 (0-1)  Lucchese
+
+
+Matchday 32
+[Tue Mar/14]
+  14.30  San Donato Tavarnelle    0-2 (0-2)  Olbia Calcio
+  18.00  Carrarese Calcio         2-0 (1-0)  US Fiorenzuola
+         Imolese Calcio           2-1 (1-1)  Ancona 1905
+         US Alessandria 1912      1-1 (1-0)  Fermana FC
+         US Pontedera             0-0  AC Reggiana 1919
+  21.00  Cesena FC                4-0 (2-0)  Virtus Entella
+         Lucchese                 1-1 (0-0)  ACN Siena 1904
+         US Recanatese            0-2 (0-1)  AS Gubbio
+         SEF Torres 1903          0-0  AC Rimini
+         Vis Pesaro               0-1 (0-1)  Aquila Montevarchi
+
+
+Matchday 33
+[Sat Mar/18]
+  14.30  Aquila Montevarchi       1-2 (1-1)  Imolese Calcio
+         AC Reggiana 1919         1-0 (0-0)  SEF Torres 1903
+         ACN Siena 1904           0-0  US Alessandria 1912
+  17.30  AC Rimini                1-2 (0-0)  US Recanatese
+         AS Gubbio                2-0 (1-0)  Lucchese
+         Fermana FC               0-1 (0-1)  Vis Pesaro
+         Olbia Calcio             1-1 (1-0)  Carrarese Calcio
+         US Fiorenzuola           0-4 (0-1)  US Pontedera
+         Virtus Entella           4-1 (2-0)  San Donato Tavarnelle
+[Mon Mar/20]
+  20.30  Ancona 1905              0-1 (0-0)  Cesena FC
+
+
+Matchday 34
+[Sat Mar/25]
+  17.30  AC Rimini                2-2 (1-0)  AC Reggiana 1919
+[Sun Mar/26]
+  14.30  Cesena FC                1-0 (0-0)  Olbia Calcio
+         Lucchese                 1-1 (0-0)  Fermana FC
+         Carrarese Calcio         3-0 (1-0)  ACN Siena 1904
+         US Recanatese            3-1 (0-0)  Aquila Montevarchi
+         San Donato Tavarnelle    1-2 (1-1)  AS Gubbio
+         SEF Torres 1903          1-1 (0-1)  Ancona 1905
+         US Alessandria 1912      1-1 (1-1)  US Fiorenzuola
+         US Pontedera             2-0 (1-0)  Imolese Calcio
+         Vis Pesaro               0-2 (0-1)  Virtus Entella
+
+
+Matchday 35
+[Sat Apr/1]
+  14.00  Olbia Calcio             4-0 (0-0)  US Alessandria 1912
+  14.30  Ancona 1905              3-3 (2-2)  Carrarese Calcio
+         US Fiorenzuola           1-3 (1-1)  SEF Torres 1903
+  17.30  Cesena FC                1-1 (1-1)  Lucchese
+         AS Gubbio                3-0 (1-0)  Vis Pesaro
+         Fermana FC               3-1 (2-0)  ACN Siena 1904
+         Aquila Montevarchi       1-3 (1-0)  San Donato Tavarnelle
+         AC Reggiana 1919         1-1 (1-0)  US Recanatese
+         Virtus Entella           1-0 (0-0)  US Pontedera
+  18.30  Imolese Calcio           1-1 (1-1)  AC Rimini
+
+
+Matchday 36
+[Thu Apr/6]
+  14.30  SEF Torres 1903          1-1 (1-1)  Carrarese Calcio
+  18.00  US Alessandria 1912      3-0 (3-0)  Ancona 1905
+  20.30  AC Rimini                1-1 (1-0)  US Fiorenzuola
+         Lucchese                 0-0  Virtus Entella
+         US Recanatese            2-3 (1-1)  Olbia Calcio
+         AC Reggiana 1919         4-2 (2-0)  Fermana FC
+         San Donato Tavarnelle    1-6 (1-2)  Cesena FC
+         ACN Siena 1904           2-2 (1-0)  AS Gubbio
+         US Pontedera             2-0 (1-0)  Aquila Montevarchi
+         Vis Pesaro               1-0 (1-0)  Imolese Calcio
+
+
+Matchday 37
+[Sat Apr/15]
+  17.30  Cesena FC                2-0 (1-0)  Vis Pesaro
+         Ancona 1905              3-0 (1-0)  AC Rimini
+         AS Gubbio                2-2 (2-1)  SEF Torres 1903
+         Carrarese Calcio         2-1 (1-1)  Lucchese
+         Fermana FC               0-4 (0-3)  US Pontedera
+         Imolese Calcio           3-1 (0-0)  San Donato Tavarnelle
+         Aquila Montevarchi       1-2 (0-0)  US Alessandria 1912
+         Olbia Calcio             1-2 (1-2)  AC Reggiana 1919
+         US Fiorenzuola           1-1 (0-1)  ACN Siena 1904
+         Virtus Entella           1-1 (1-0)  US Recanatese
+
+
+Matchday 38
+[Sun Apr/23]
+  14.30  AC Rimini                1-1 (1-1)  Aquila Montevarchi
+         Lucchese                 2-0 (1-0)  Olbia Calcio
+         US Recanatese            4-0 (2-0)  Ancona 1905
+         AC Reggiana 1919         2-2 (2-1)  Imolese Calcio
+         San Donato Tavarnelle    1-0 (1-0)  US Fiorenzuola
+         SEF Torres 1903          1-1 (0-0)  Fermana FC
+         ACN Siena 1904           1-2 (0-1)  Virtus Entella
+         US Alessandria 1912      0-1 (0-0)  Cesena FC
+         US Pontedera             1-1 (1-1)  AS Gubbio
+         Vis Pesaro               1-0 (1-0)  Carrarese Calcio
+
+
+== Playout
+
+Final
+[Sat May/6]
+  17.30  San Donato Tavarnelle    1-2 (0-1)  US Alessandria 1912
+[Sat May/13]
+  17.30  US Alessandria 1912      1-1 (0-1)  San Donato Tavarnelle

@@ -1,0 +1,82 @@
+= NIR 1 2014
+
+# Date       Fri Mar/28 - Sat Apr/26 2014 (29d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat Mar/29]
+  15.00  Crusaders FC             3-1 (1-1)  Portadown FC
+         Glentoran FC             0-4 (0-0)  Glenavon FC
+         Linfield FC              1-3 (0-0)  Cliftonville FC
+
+
+Matchday 2
+[Sat Apr/12]
+  15.00  Cliftonville FC          2-0  Glentoran FC
+         Crusaders FC             2-3  Linfield FC
+         Portadown FC             3-0  Glenavon FC
+
+
+Matchday 3
+[Sat Apr/19]
+  15.00  Cliftonville FC          5-0  Glenavon FC
+         Glentoran FC             3-0  Crusaders FC
+         Linfield FC              1-1  Portadown FC
+
+
+Matchday 4
+[Tue Apr/22]
+  14.35  Glenavon FC              1-3  Crusaders FC
+         Linfield FC              0-2  Glentoran FC
+         Portadown FC             0-2  Cliftonville FC
+
+
+Matchday 5
+[Sat Apr/26]
+  15.00  Crusaders FC             2-3  Cliftonville FC
+         Glenavon FC              2-5  Linfield FC
+         Portadown FC             1-2  Glentoran FC
+
+
+== Relegation
+
+Matchday 1
+[Fri Mar/28]
+  20.00  Ards FC                  2-2 (0-1)  Warrenpoint Town
+[Sat Mar/29]
+  15.00  Ballinamallard United FC  2-1 (0-0)  Coleraine FC
+         Ballymena United         1-2 (0-1)  Dungannon Swifts
+
+
+Matchday 2
+[Fri Apr/11]
+  20.00  Ards FC                  0-0  Ballinamallard United FC
+[Sat Apr/12]
+  15.00  Coleraine FC             1-1  Ballymena United
+         Dungannon Swifts         0-4  Warrenpoint Town
+
+
+Matchday 3
+[Sat Apr/19]
+  15.00  Ballinamallard United FC  0-0  Ballymena United
+         Dungannon Swifts         2-0  Ards FC
+         Warrenpoint Town         0-1  Coleraine FC
+
+
+Matchday 4
+[Tue Apr/22]
+  14.35  Ards FC                  0-1  Coleraine FC
+         Ballinamallard United FC  2-2  Dungannon Swifts
+         Warrenpoint Town         1-0  Ballymena United
+
+
+Matchday 5
+[Sat Apr/26]
+  15.00  Ballymena United         1-1  Ards FC
+         Coleraine FC             0-0  Dungannon Swifts
+         Warrenpoint Town         0-3  Ballinamallard United FC

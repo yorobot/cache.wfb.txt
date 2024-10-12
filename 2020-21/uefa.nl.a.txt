@@ -1,0 +1,107 @@
+= UEFA NL A 2020/21
+
+# Date       Thu Sep/3 2020 - Sun Oct/10 2021 (402d)
+# Teams      16
+# Matches    52
+
+
+
+Gruppe 1
+[Fri Sep/4]
+  20.45  Niederlande              1-0 (0-0)  Polen
+         Italien                  1-1 (0-0)  Bosnien-Herzegowina
+[Mon Sep/7]
+  20.45  Niederlande              0-1 (0-1)  Italien
+         Bosnien-Herzegowina      1-2 (1-1)  Polen
+[Sun Oct/11]
+  18.00  Bosnien-Herzegowina      0-0  Niederlande
+  20.45  Polen                    0-0  Italien
+[Wed Oct/14]
+  20.45  Italien                  1-1 (1-1)  Niederlande
+         Polen                    3-0 (2-0)  Bosnien-Herzegowina
+[Sun Nov/15]
+  18.00  Niederlande              3-1 (2-0)  Bosnien-Herzegowina
+  20.45  Italien                  2-0 (1-0)  Polen
+[Wed Nov/18]
+  20.45  Bosnien-Herzegowina      0-2 (0-1)  Italien
+         Polen                    1-2 (1-0)  Niederlande
+
+
+Gruppe 2
+[Sat Sep/5]
+  18.00  Island                   0-1 (0-0)  England
+  20.45  Dänemark                 0-2 (0-1)  Belgien
+[Tue Sep/8]
+  20.45  Belgien                  5-1 (2-1)  Island
+         Dänemark                 0-0  England
+[Sun Oct/11]
+  18.00  England                  2-1 (1-1)  Belgien
+  20.45  Island                   0-3 (0-1)  Dänemark
+[Wed Oct/14]
+  20.45  England                  0-1 (0-1)  Dänemark
+         Island                   1-2 (1-2)  Belgien
+[Sun Nov/15]
+  20.45  Belgien                  2-0 (2-0)  England
+         Dänemark                 2-1 (1-0)  Island
+[Wed Nov/18]
+  20.45  Belgien                  4-2 (1-1)  Dänemark
+         England                  4-0 (2-0)  Island
+
+
+Gruppe 3
+[Sat Sep/5]
+  20.45  Portugal                 4-1 (1-0)  Kroatien
+         Schweden                 0-1 (0-1)  Frankreich
+[Tue Sep/8]
+  20.45  Frankreich               4-2 (2-1)  Kroatien
+         Schweden                 0-2 (0-1)  Portugal
+[Sun Oct/11]
+  18.00  Kroatien                 2-1 (1-0)  Schweden
+  20.45  Frankreich               0-0  Portugal
+[Wed Oct/14]
+  20.45  Kroatien                 1-2 (0-1)  Frankreich
+         Portugal                 3-0 (2-0)  Schweden
+[Sat Nov/14]
+  20.45  Portugal                 0-1 (0-0)  Frankreich
+         Schweden                 2-1 (2-0)  Kroatien
+[Tue Nov/17]
+  20.45  Kroatien                 2-3 (1-0)  Portugal
+         Frankreich               4-2 (2-1)  Schweden
+
+
+Gruppe 4
+[Thu Sep/3]
+  20.45  Deutschland              1-1 (0-0)  Spanien
+         Ukraine                  2-1 (1-1)  Schweiz
+[Sun Sep/6]
+  20.45  Spanien                  4-0 (3-0)  Ukraine
+         Schweiz                  1-1 (0-1)  Deutschland
+[Sat Oct/10]
+  20.45  Spanien                  1-0 (1-0)  Schweiz
+         Ukraine                  1-2 (0-1)  Deutschland
+[Tue Oct/13]
+  20.45  Deutschland              3-3 (1-2)  Schweiz
+         Ukraine                  1-0 (0-0)  Spanien
+[Sat Nov/14]
+  20.45  Deutschland              3-1 (2-1)  Ukraine
+         Schweiz                  1-1 (1-0)  Spanien
+[Tue Nov/17]
+         Schweiz                  3-0  Ukraine                  [awarded]
+  20.45  Spanien                  6-0 (3-0)  Deutschland
+
+
+Semifinals
+[Wed Oct/6]
+  20.45  Italien                  1-2 (0-2)  Spanien
+[Thu Oct/7]
+  20.45  Belgien                  2-3 (2-0)  Frankreich
+
+
+Match for 3rd place
+[Sun Oct/10]
+  15.00  Italien                  2-1 (0-0)  Belgien
+
+
+Final
+[Sun Oct/10]
+  20.45  Spanien                  1-2 (0-0)  Frankreich

@@ -1,0 +1,122 @@
+= AD 1 2014/15
+
+# Date       Sun Sep/21 2014 - Sun Feb/15 2015 (147d)
+# Teams      8
+# Matches    56
+
+
+
+Matchday 1
+[Sun Sep/21]
+  12.00  FC Santa Coloma          2-0  UE Sant Julià
+  15.00  UE Santa Coloma          3-1  FC Lusitanos
+  18.00  UE Engordany             3-2  Inter Club d'Escaldes
+  12.00  FC Encamp                1-0  FC Ordino
+
+
+Matchday 2
+[Sun Sep/28]
+  12.00  Inter Club d'Escaldes    1-1  FC Encamp
+         UE Sant Julià            6-0  UE Engordany
+  15.00  FC Lusitanos             2-1  FC Santa Coloma
+  18.00  FC Ordino                0-1  UE Santa Coloma
+
+
+Matchday 3
+[Sun Oct/5]
+  12.00  UE Santa Coloma          1-0  FC Santa Coloma
+  14.00  FC Ordino                3-1  Inter Club d'Escaldes
+  18.00  FC Encamp                0-1  UE Sant Julià
+  12.00  UE Engordany             0-5  FC Lusitanos
+
+
+Matchday 4
+[Sun Oct/19]
+  12.00  Inter Club d'Escaldes    0-3  UE Santa Coloma
+         UE Sant Julià            0-3  FC Ordino
+  15.00  FC Santa Coloma          9-0  UE Engordany
+  18.00  FC Lusitanos             2-0  FC Encamp
+
+
+Matchday 5
+[Sun Oct/26]
+  12.00  UE Santa Coloma          4-0  UE Engordany
+  16.00  Inter Club d'Escaldes    0-3  UE Sant Julià
+  18.00  FC Encamp                0-3  FC Santa Coloma
+  12.00  FC Ordino                1-2  FC Lusitanos
+
+
+Matchday 6
+[Sun Nov/2]
+  12.00  FC Lusitanos             3-0  Inter Club d'Escaldes
+         FC Santa Coloma          0-1  FC Ordino
+  16.00  UE Engordany             0-3  FC Encamp
+  18.00  UE Santa Coloma          0-1  UE Sant Julià
+
+
+Matchday 7
+[Sun Nov/9]
+  12.00  FC Encamp                1-0  UE Santa Coloma
+  15.00  FC Ordino                2-2  UE Engordany
+  18.00  Inter Club d'Escaldes    0-9  FC Santa Coloma
+  12.00  UE Sant Julià            0-0  FC Lusitanos
+
+
+Matchday 8
+[Sun Nov/23]
+  12.00  FC Ordino                4-1  FC Encamp
+         UE Sant Julià            2-2  FC Santa Coloma
+         FC Lusitanos             1-2  UE Santa Coloma
+  18.00  Inter Club d'Escaldes    2-0  UE Engordany
+
+
+Matchday 9
+[Sun Nov/30]
+  16.00  FC Santa Coloma          5-1  FC Lusitanos
+  18.00  UE Santa Coloma          1-1  FC Ordino
+  12.00  UE Engordany             0-5  UE Sant Julià
+
+
+Matchday 10
+[Sun Dec/7]
+  18.00  FC Lusitanos             8-2  UE Engordany
+  12.00  FC Santa Coloma          2-0  UE Santa Coloma
+  14.00  Inter Club d'Escaldes    0-2  FC Ordino
+  16.00  UE Sant Julià            4-1  FC Encamp
+
+
+Matchday 11
+[Sun Dec/14]
+  12.00  UE Engordany             0-9  FC Santa Coloma
+  15.00  UE Santa Coloma          3-0  Inter Club d'Escaldes
+  16.00  FC Encamp                0-6  FC Lusitanos
+  18.00  FC Ordino                1-2  UE Sant Julià
+
+
+Matchday 9
+[Sun Jan/18]
+  12.00  FC Encamp                3-1  Inter Club d'Escaldes
+
+
+Matchday 12
+[Sun Jan/25]
+  12.00  UE Sant Julià            8-0  Inter Club d'Escaldes
+  14.00  UE Engordany             0-2  UE Santa Coloma
+  16.00  FC Santa Coloma          1-0  FC Encamp
+  18.00  FC Lusitanos             7-1  FC Ordino
+
+
+Matchday 13
+[Sun Feb/8]
+  12.00  FC Encamp                2-3  UE Engordany
+  16.00  UE Sant Julià            1-1  UE Santa Coloma
+  18.00  Inter Club d'Escaldes    0-4  FC Lusitanos
+  12.00  FC Ordino                0-3  FC Santa Coloma
+
+
+Matchday 14
+[Sun Feb/15]
+  12.00  FC Santa Coloma          7-0  Inter Club d'Escaldes
+  16.00  UE Engordany             1-3  FC Ordino
+  18.00  UE Santa Coloma          2-0  FC Encamp
+  12.00  FC Lusitanos             3-2  UE Sant Julià

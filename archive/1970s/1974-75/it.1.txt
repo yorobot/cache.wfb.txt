@@ -1,0 +1,366 @@
+= IT 1 1974/75
+
+# Date       Mon Sep/30 1974 - Sun May/18 1975 (230d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Mon Sep/30]
+         AS Varese 1910           2-0 (1-0)  Inter
+         Torino FC                1-0 (0-0)  AS Roma
+         Ternana Calcio           0-1 (0-1)  ACF Fiorentina
+         Lazio Roma               2-1 (2-0)  AC Cesena
+         AC Milan                 0-0  Sampdoria
+         Bologna FC               2-1 (1-1)  Juventus
+         Cagliari Calcio          0-0  Lanerossi Vicenza
+         SSC Napoli               3-1 (1-0)  Ascoli Calcio
+
+
+Matchday 2
+[Sun Oct/6]
+         Inter                    4-1 (2-0)  Cagliari Calcio
+         Sampdoria                1-0 (0-0)  AS Varese 1910
+         AS Roma                  0-0  SSC Napoli
+         Juventus                 2-1 (1-1)  AC Milan
+         ACF Fiorentina           1-0 (0-0)  Bologna FC
+         AC Cesena                2-1 (0-0)  Ternana Calcio
+         Ascoli Calcio            1-1 (1-0)  Torino FC
+         Lanerossi Vicenza        1-2 (0-1)  Lazio Roma
+
+
+Matchday 3
+[Sun Oct/13]
+         SSC Napoli               2-0 (2-0)  Lanerossi Vicenza
+         AS Varese 1910           0-0  Juventus
+         Torino FC                2-0 (1-0)  AC Cesena
+         Ascoli Calcio            0-0  Inter
+         Lazio Roma               3-0 (1-0)  Sampdoria
+         Bologna FC               1-0 (1-0)  AS Roma
+         Ternana Calcio           0-2 (0-0)  Cagliari Calcio
+         AC Milan                 1-1 (0-0)  ACF Fiorentina
+
+
+Matchday 4
+[Sun Oct/20]
+         Juventus                 4-0 (2-0)  Ascoli Calcio
+         Ternana Calcio           1-1 (0-0)  Lazio Roma
+         Sampdoria                1-1 (1-0)  SSC Napoli
+         Lanerossi Vicenza        1-0 (1-0)  Torino FC
+         Inter                    1-1 (0-1)  Bologna FC
+         AC Cesena                1-1 (1-1)  ACF Fiorentina
+         Cagliari Calcio          1-1 (0-0)  AS Varese 1910
+         AS Roma                  0-1 (0-0)  AC Milan
+
+
+Matchday 5
+[Sun Oct/27]
+         AC Milan                 1-0 (0-0)  Lanerossi Vicenza
+         AS Varese 1910           0-0  AS Roma
+         Torino FC                1-1 (1-0)  Ternana Calcio
+         Ascoli Calcio            0-0  AC Cesena
+         ACF Fiorentina           1-1 (1-0)  SSC Napoli
+         Bologna FC               2-0 (0-0)  Cagliari Calcio
+         Sampdoria                1-3 (0-0)  Juventus
+         Lazio Roma               1-2 (1-0)  Inter
+
+
+Matchday 6
+[Mon Nov/4]
+         Lanerossi Vicenza        0-1 (0-0)  Bologna FC
+         Torino FC                2-1 (1-0)  ACF Fiorentina
+         Ternana Calcio           2-0 (1-0)  AS Varese 1910
+         SSC Napoli               1-1 (1-0)  Lazio Roma
+         Inter                    0-0  AC Milan
+         AC Cesena                0-1 (0-0)  Juventus
+         Cagliari Calcio          1-0 (0-0)  Sampdoria
+         AS Roma                  1-0 (1-0)  Ascoli Calcio
+
+
+Matchday 7
+[Sun Nov/10]
+         Lanerossi Vicenza        1-0 (1-0)  Ternana Calcio
+         Sampdoria                1-1 (0-1)  Inter
+         AC Milan                 2-0 (2-0)  Ascoli Calcio
+         ACF Fiorentina           2-0 (2-0)  AS Varese 1910
+         AC Cesena                0-0  SSC Napoli
+         Bologna FC               1-3 (0-1)  Torino FC
+         Lazio Roma               1-0 (0-0)  Cagliari Calcio
+         Juventus                 1-0 (0-0)  AS Roma
+
+
+Matchday 8
+[Sun Nov/24]
+         SSC Napoli               5-0 (3-0)  Cagliari Calcio
+         Torino FC                1-1 (1-1)  AC Milan
+         AS Roma                  1-0 (1-0)  Lazio Roma
+         AS Varese 1910           1-1 (1-1)  AC Cesena
+         Inter                    0-1 (0-0)  Juventus
+         Bologna FC               1-1 (1-0)  Ternana Calcio
+         Ascoli Calcio            0-1 (0-0)  ACF Fiorentina
+         Sampdoria                1-1 (1-1)  Lanerossi Vicenza
+
+
+Matchday 9
+[Sun Dec/1]
+         Ternana Calcio           1-1 (1-0)  Sampdoria
+         Lazio Roma               1-0 (0-0)  Bologna FC
+         AC Milan                 0-0  SSC Napoli
+         ACF Fiorentina           0-0  Lanerossi Vicenza
+         Cagliari Calcio          1-2 (0-1)  AS Roma
+         AC Cesena                0-0  Inter
+         Juventus                 0-0  Torino FC
+         AS Varese 1910           3-1 (2-0)  Ascoli Calcio
+
+
+Matchday 10
+[Sun Dec/8]
+         Inter                    1-0 (0-0)  Ternana Calcio
+         Torino FC                2-2 (0-0)  Lazio Roma
+         AS Roma                  1-0 (0-0)  ACF Fiorentina
+         Lanerossi Vicenza        2-0 (0-0)  AC Cesena
+         Cagliari Calcio          0-0  AC Milan
+         Bologna FC               1-1 (0-0)  AS Varese 1910
+         Ascoli Calcio            1-0 (1-0)  Sampdoria
+         SSC Napoli               2-6 (0-3)  Juventus
+
+
+Matchday 11
+[Sun Dec/15]
+         AS Roma                  2-0 (1-0)  AC Cesena
+         AS Varese 1910           0-1 (0-1)  Lazio Roma
+         Ternana Calcio           0-0  SSC Napoli
+         Ascoli Calcio            1-0 (0-0)  Lanerossi Vicenza
+         Juventus                 1-0 (0-0)  Cagliari Calcio
+         ACF Fiorentina           1-1 (1-0)  Inter
+         Sampdoria                0-0  Torino FC
+         AC Milan                 3-0 (1-0)  Bologna FC
+
+
+Matchday 12
+[Mon Dec/23]
+         Inter                    0-0  SSC Napoli
+         Ternana Calcio           1-0 (0-0)  Ascoli Calcio
+         Lanerossi Vicenza        0-2 (0-1)  AS Roma
+         Torino FC                3-1 (2-1)  AS Varese 1910
+         AC Cesena                1-0 (0-0)  AC Milan
+         Cagliari Calcio          2-1 (2-1)  ACF Fiorentina
+         Bologna FC               2-2 (1-0)  Sampdoria
+         Lazio Roma               1-0 (1-0)  Juventus
+
+
+Matchday 13
+[Sun Jan/5]
+         SSC Napoli               1-0 (0-0)  Torino FC
+         AS Roma                  1-0 (0-0)  Sampdoria
+         AC Milan                 4-0 (3-0)  AS Varese 1910
+         ACF Fiorentina           1-1 (0-1)  Lazio Roma
+         Ascoli Calcio            1-3 (1-2)  Bologna FC
+         AC Cesena                2-1 (1-1)  Cagliari Calcio
+         Juventus                 2-0 (1-0)  Ternana Calcio
+         Lanerossi Vicenza        1-3 (0-2)  Inter
+
+
+Matchday 14
+[Sun Jan/12]
+         Juventus                 0-0  ACF Fiorentina
+         Ternana Calcio           2-2 (1-1)  AS Roma
+         Lazio Roma               3-0 (0-0)  AC Milan
+         AS Varese 1910           1-1 (1-0)  Lanerossi Vicenza
+         Inter                    1-0 (0-0)  Torino FC
+         Cagliari Calcio          2-0 (1-0)  Ascoli Calcio
+         Bologna FC               1-0 (0-0)  SSC Napoli
+         Sampdoria                0-0  AC Cesena
+
+
+Matchday 15
+[Sun Jan/26]
+         AS Roma                  1-0 (1-0)  Inter
+         Torino FC                1-0 (0-0)  Cagliari Calcio
+         SSC Napoli               3-0 (2-0)  AS Varese 1910
+         Lanerossi Vicenza        1-2 (0-1)  Juventus
+         ACF Fiorentina           0-2 (0-1)  Sampdoria
+         Ascoli Calcio            1-0 (0-0)  Lazio Roma
+         AC Cesena                2-2 (0-1)  Bologna FC
+         AC Milan                 3-1 (1-1)  Ternana Calcio
+
+
+Matchday 16
+[Sun Feb/2]
+         AC Cesena                0-0  Lazio Roma
+         AS Roma                  0-1 (0-1)  Torino FC
+         Sampdoria                2-4 (2-3)  AC Milan
+         Lanerossi Vicenza        0-0  Cagliari Calcio
+         ACF Fiorentina           2-0 (0-0)  Ternana Calcio
+         Ascoli Calcio            1-1 (1-0)  SSC Napoli
+         Inter                    1-0 (1-0)  AS Varese 1910
+         Juventus                 0-0  Bologna FC
+
+
+Matchday 17
+[Sun Feb/9]
+         Torino FC                1-0 (0-0)  Ascoli Calcio
+         SSC Napoli               2-0 (1-0)  AS Roma
+         AS Varese 1910           4-0 (2-0)  Sampdoria
+         Lazio Roma               1-0 (1-0)  Lanerossi Vicenza
+         Cagliari Calcio          0-1 (0-0)  Inter
+         Bologna FC               1-0 (0-0)  ACF Fiorentina
+         Ternana Calcio           1-0 (0-0)  AC Cesena
+         AC Milan                 0-2  Juventus                 [awarded]
+
+
+Matchday 18
+[Sun Feb/16]
+         Juventus                 3-0 (1-0)  AS Varese 1910
+         Sampdoria                0-2 (0-2)  Lazio Roma
+         AS Roma                  2-1 (1-0)  Bologna FC
+         Lanerossi Vicenza        2-2 (2-1)  SSC Napoli
+         Inter                    0-1 (0-1)  Ascoli Calcio
+         ACF Fiorentina           1-1 (1-1)  AC Milan
+         Cagliari Calcio          2-0 (1-0)  Ternana Calcio
+         AC Cesena                1-1 (1-1)  Torino FC
+
+
+Matchday 19
+[Sun Feb/23]
+         Torino FC                2-1 (0-0)  Lanerossi Vicenza
+         AS Varese 1910           0-1 (0-1)  Cagliari Calcio
+         SSC Napoli               2-0 (2-0)  Sampdoria
+         ACF Fiorentina           2-2 (2-0)  AC Cesena
+         Ascoli Calcio            0-0  Juventus
+         Bologna FC               2-1 (2-1)  Inter
+         Lazio Roma               0-0  Ternana Calcio
+         AC Milan                 1-1 (1-1)  AS Roma
+
+
+Matchday 20
+[Sat Mar/1]
+         Juventus                 1-1 (1-1)  Sampdoria
+         Ternana Calcio           2-1 (1-1)  Torino FC
+         AS Roma                  1-0 (0-0)  AS Varese 1910
+         Cagliari Calcio          1-1 (0-1)  Bologna FC
+         Lanerossi Vicenza        2-0 (1-0)  AC Milan
+         Inter                    3-1 (1-0)  Lazio Roma
+         AC Cesena                0-0  Ascoli Calcio
+         SSC Napoli               1-0 (1-0)  ACF Fiorentina
+
+
+Matchday 21
+[Sun Mar/9]
+         Sampdoria                0-0  Cagliari Calcio
+         AC Milan                 3-0 (2-0)  Inter
+         AS Varese 1910           1-1 (0-0)  Ternana Calcio
+         Juventus                 1-0 (1-0)  AC Cesena
+         Bologna FC               1-1 (0-1)  Lanerossi Vicenza
+         Ascoli Calcio            0-0  AS Roma
+         Lazio Roma               1-1 (0-0)  SSC Napoli
+         ACF Fiorentina           2-2 (0-0)  Torino FC
+
+
+Matchday 22
+[Sun Mar/16]
+         Ascoli Calcio            1-1 (0-0)  AC Milan
+         Cagliari Calcio          1-1 (0-1)  Lazio Roma
+         Inter                    0-0  Sampdoria
+         SSC Napoli               4-0 (3-0)  AC Cesena
+         AS Roma                  1-0 (0-0)  Juventus
+         Ternana Calcio           0-0  Lanerossi Vicenza
+         Torino FC                3-3 (1-1)  Bologna FC
+         AS Varese 1910           1-1 (0-1)  ACF Fiorentina
+
+
+Matchday 23
+[Sun Mar/23]
+         AC Milan                 2-0 (2-0)  Torino FC
+         Lazio Roma               0-1 (0-0)  AS Roma
+         ACF Fiorentina           0-0  Ascoli Calcio
+         AC Cesena                1-1 (1-1)  AS Varese 1910
+         Cagliari Calcio          1-1 (0-0)  SSC Napoli
+         Ternana Calcio           0-0  Bologna FC
+         Juventus                 1-0 (1-0)  Inter
+         Lanerossi Vicenza        1-1 (1-1)  Sampdoria
+
+
+Matchday 24
+[Mon Mar/31]
+         Inter                    0-1 (0-0)  AC Cesena
+         Torino FC                3-2 (1-1)  Juventus
+         Sampdoria                1-0 (1-0)  Ternana Calcio
+         AS Roma                  1-1 (1-0)  Cagliari Calcio
+         Lanerossi Vicenza        0-1 (0-1)  ACF Fiorentina
+         Bologna FC               1-2 (1-1)  Lazio Roma
+         Ascoli Calcio            2-0 (0-0)  AS Varese 1910
+         SSC Napoli               2-0 (0-0)  AC Milan
+
+
+Matchday 25
+[Sun Apr/6]
+         Juventus                 2-1 (1-0)  SSC Napoli
+         AS Varese 1910           1-4 (0-1)  Bologna FC
+         Ternana Calcio           0-0  Inter
+         Lazio Roma               1-5 (0-2)  Torino FC
+         AC Cesena                3-1 (1-1)  Lanerossi Vicenza
+         ACF Fiorentina           0-0  AS Roma
+         AC Milan                 0-0  Cagliari Calcio
+         Sampdoria                0-0  Ascoli Calcio
+
+
+Matchday 26
+[Sun Apr/13]
+         Inter                    1-0 (0-0)  ACF Fiorentina
+         Torino FC                1-1 (1-0)  Sampdoria
+         SSC Napoli               7-1 (4-0)  Ternana Calcio
+         Lanerossi Vicenza        1-0 (1-0)  Ascoli Calcio
+         AC Cesena                0-0  AS Roma
+         Cagliari Calcio          1-1 (1-0)  Juventus
+         Bologna FC               0-0  AC Milan
+         Lazio Roma               2-0 (1-0)  AS Varese 1910
+
+
+Matchday 27
+[Sun Apr/27]
+         Ascoli Calcio            1-0 (1-0)  Ternana Calcio
+         Sampdoria                1-0 (0-0)  Bologna FC
+         AS Varese 1910           0-0  Torino FC
+         AC Milan                 3-0 (1-0)  AC Cesena
+         ACF Fiorentina           2-1 (1-0)  Cagliari Calcio
+         SSC Napoli               3-2 (1-0)  Inter
+         Juventus                 4-0 (1-0)  Lazio Roma
+         AS Roma                  1-0 (1-0)  Lanerossi Vicenza
+
+
+Matchday 28
+[Sun May/4]
+         Lazio Roma               1-0 (0-0)  ACF Fiorentina
+         AS Varese 1910           0-1 (0-1)  AC Milan
+         Torino FC                1-1 (0-0)  SSC Napoli
+         Sampdoria                0-0  AS Roma
+         Inter                    0-0  Lanerossi Vicenza
+         Cagliari Calcio          2-2 (1-1)  AC Cesena
+         Bologna FC               1-1 (1-1)  Ascoli Calcio
+         Ternana Calcio           0-2 (0-1)  Juventus
+
+
+Matchday 29
+[Sun May/11]
+         AS Roma                  4-2 (1-1)  Ternana Calcio
+         Torino FC                2-3 (1-1)  Inter
+         SSC Napoli               1-0 (1-0)  Bologna FC
+         AC Milan                 1-1 (1-1)  Lazio Roma
+         ACF Fiorentina           4-1 (2-0)  Juventus
+         Ascoli Calcio            0-0  Cagliari Calcio
+         Lanerossi Vicenza        1-1 (0-0)  AS Varese 1910
+         AC Cesena                1-1 (1-0)  Sampdoria
+
+
+Matchday 30
+[Sun May/18]
+         Ternana Calcio           1-3 (1-0)  AC Milan
+         Bologna FC               3-2 (2-0)  AC Cesena
+         Cagliari Calcio          0-0  Torino FC
+         Inter                    0-2 (0-2)  AS Roma
+         Juventus                 5-0 (4-0)  Lanerossi Vicenza
+         Lazio Roma               1-0 (1-0)  Ascoli Calcio
+         Sampdoria                3-4 (2-2)  ACF Fiorentina
+         AS Varese 1910           0-2 (0-1)  SSC Napoli

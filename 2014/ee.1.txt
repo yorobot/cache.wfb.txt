@@ -1,0 +1,370 @@
+= EE 1 2014
+
+# Date       Sat Mar/1 - Sat Nov/8 2014 (252d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Mar/1]
+  13.00  JK Nõmme Kalju           0-0  FC Infonet               [awarded]
+         Jõhvi FC Lokomotiv       1-3 (0-1)  FC Flora
+  16.00  FC Levadia               0-1 (0-0)  Paide Linnameeskond
+  19.00  JK Tallinna Kalev        0-6 (0-4)  JK Sillamäe Kalev
+[Sat May/31]
+  16.00  JK Tammeka               1-1 (1-1)  JK Narva Trans
+
+
+Matchday 2
+[Sat Mar/8]
+  13.00  FC Levadia               2-2 (2-1)  JK Sillamäe Kalev
+         Jõhvi FC Lokomotiv       0-2 (0-1)  JK Nõmme Kalju
+         JK Narva Trans           1-1 (0-0)  JK Tallinna Kalev
+  16.00  FC Flora                 5-0 (4-0)  Paide Linnameeskond
+  19.00  FC Infonet               3-0 (2-0)  JK Tammeka
+
+
+Matchday 3
+[Fri Mar/14]
+  19.00  FC Flora                 3-0 (1-0)  JK Tammeka
+[Sat Mar/15]
+  13.00  Paide Linnameeskond      0-6 (0-3)  JK Nõmme Kalju
+         JK Tallinna Kalev        0-8 (0-4)  FC Levadia
+         JK Sillamäe Kalev        3-1 (1-0)  FC Infonet
+  16.00  JK Narva Trans           5-0 (2-0)  Jõhvi FC Lokomotiv
+
+
+Matchday 4
+[Fri Mar/21]
+  19.00  FC Infonet               1-1 (0-1)  Paide Linnameeskond
+[Sat Mar/22]
+  13.00  JK Sillamäe Kalev        1-1 (0-0)  JK Narva Trans
+         FC Levadia               2-0 (2-0)  JK Tammeka
+         Jõhvi FC Lokomotiv       0-1 (0-0)  JK Tallinna Kalev
+  16.00  JK Nõmme Kalju           1-1 (1-0)  FC Flora
+
+
+Matchday 5
+[Fri Mar/28]
+  19.00  FC Flora                 2-3 (0-2)  FC Infonet
+[Sat Mar/29]
+  13.00  JK Tallinna Kalev        1-6 (0-3)  JK Tammeka
+         Paide Linnameeskond      0-0  JK Narva Trans
+         Jõhvi FC Lokomotiv       1-3 (0-1)  JK Sillamäe Kalev
+  16.00  JK Nõmme Kalju           0-0  FC Levadia
+
+
+Matchday 6
+[Fri Apr/4]
+  19.00  JK Tallinna Kalev        1-1 (0-0)  Paide Linnameeskond
+[Sat Apr/5]
+  13.00  JK Sillamäe Kalev        5-0 (2-0)  JK Tammeka
+         FC Infonet               2-0 (0-0)  Jõhvi FC Lokomotiv
+  16.00  FC Levadia               1-1 (1-1)  FC Flora
+  19.00  JK Narva Trans           0-4 (0-4)  JK Nõmme Kalju
+
+
+Matchday 7
+[Fri Apr/11]
+  19.00  FC Levadia               3-0 (0-0)  FC Infonet
+[Sat Apr/12]
+  13.00  Paide Linnameeskond      0-3 (0-2)  JK Sillamäe Kalev
+         JK Nõmme Kalju           2-1 (2-0)  JK Tallinna Kalev
+  16.00  FC Flora                 1-0 (0-0)  JK Narva Trans
+  19.00  JK Tammeka               1-1 (0-1)  Jõhvi FC Lokomotiv
+
+
+Matchday 8
+[Fri Apr/18]
+  18.45  JK Narva Trans           1-1 (1-1)  FC Infonet
+  19.00  JK Tammeka               2-4 (1-3)  Paide Linnameeskond
+[Sat Apr/19]
+  13.00  Jõhvi FC Lokomotiv       0-4 (0-2)  FC Levadia
+  16.00  JK Sillamäe Kalev        0-3 (0-1)  JK Nõmme Kalju
+  18.45  JK Tallinna Kalev        1-4 (1-2)  FC Flora
+
+
+Matchday 9
+[Fri Apr/25]
+  19.00  FC Infonet               6-0 (2-0)  JK Tallinna Kalev
+[Sat Apr/26]
+  13.00  Paide Linnameeskond      3-0 (2-0)  Jõhvi FC Lokomotiv
+  16.00  FC Flora                 1-1 (0-1)  JK Sillamäe Kalev
+  19.00  FC Levadia               1-0 (1-0)  JK Narva Trans
+[Mon Apr/28]
+  19.00  JK Nõmme Kalju           6-0 (3-0)  JK Tammeka
+
+
+Matchday 10
+[Fri May/2]
+  19.00  JK Tammeka               0-2 (0-1)  JK Nõmme Kalju
+         JK Tallinna Kalev        1-3 (0-1)  FC Infonet
+[Sat May/3]
+  13.00  Jõhvi FC Lokomotiv       1-2 (1-0)  Paide Linnameeskond
+  16.00  JK Narva Trans           0-0  FC Levadia
+  19.00  JK Sillamäe Kalev        1-2 (0-1)  FC Flora
+
+
+Matchday 11
+[Fri May/9]
+  19.00  FC Levadia               6-0 (2-0)  Jõhvi FC Lokomotiv
+         FC Flora                 5-1 (2-0)  JK Tallinna Kalev
+  21.00  FC Infonet               4-0 (3-0)  JK Narva Trans
+[Sat May/10]
+  16.00  JK Nõmme Kalju           1-0 (0-0)  JK Sillamäe Kalev
+  19.00  Paide Linnameeskond      0-4 (0-1)  JK Tammeka
+
+
+Matchday 12
+[Mon May/12]
+  19.00  FC Infonet               0-4 (0-2)  FC Levadia
+[Tue May/13]
+  19.00  JK Narva Trans           0-1 (0-0)  FC Flora
+         Jõhvi FC Lokomotiv       2-2 (1-0)  JK Tammeka
+         JK Tallinna Kalev        0-3 (0-1)  JK Nõmme Kalju
+         JK Sillamäe Kalev        3-1 (1-0)  Paide Linnameeskond
+
+
+Matchday 13
+[Mon May/19]
+  19.00  JK Nõmme Kalju           2-1 (0-0)  JK Narva Trans
+[Tue May/20]
+  19.00  FC Flora                 0-0  FC Levadia
+         JK Tammeka               0-6 (0-4)  JK Sillamäe Kalev
+         Paide Linnameeskond      6-2 (1-1)  JK Tallinna Kalev
+         Jõhvi FC Lokomotiv       1-1 (0-1)  FC Infonet
+
+
+Matchday 14
+[Fri May/23]
+  19.00  FC Levadia               1-0 (0-0)  JK Nõmme Kalju
+         FC Infonet               2-3 (0-1)  FC Flora
+[Sat May/24]
+  13.00  JK Narva Trans           1-0 (1-0)  Paide Linnameeskond
+  16.00  JK Sillamäe Kalev        6-1 (3-0)  Jõhvi FC Lokomotiv
+  19.00  JK Tallinna Kalev        1-1 (0-0)  JK Tammeka
+
+
+Matchday 15
+[Sat Jun/7]
+  16.00  JK Narva Trans           1-4 (0-2)  JK Sillamäe Kalev
+[Mon Jun/9]
+  19.00  JK Tallinna Kalev        2-1 (1-1)  Jõhvi FC Lokomotiv
+[Tue Jun/10]
+  19.00  Paide Linnameeskond      0-1 (0-1)  FC Infonet
+         JK Tammeka               0-7 (0-2)  FC Levadia
+         FC Flora                 1-0 (0-0)  JK Nõmme Kalju
+
+
+Matchday 16
+[Sat Jun/14]
+  13.00  FC Infonet               3-3 (1-2)  JK Sillamäe Kalev
+  16.00  Jõhvi FC Lokomotiv       0-2 (0-2)  JK Narva Trans
+         FC Flora                 1-0 (1-0)  JK Tammeka
+         JK Nõmme Kalju           3-0 (1-0)  Paide Linnameeskond
+[Sun Jun/15]
+  16.00  FC Levadia               9-0 (5-0)  JK Tallinna Kalev
+
+
+Matchday 17
+[Sat Jun/21]
+  13.00  Paide Linnameeskond      1-5 (0-2)  FC Flora
+         Jõhvi FC Lokomotiv       1-3 (1-1)  JK Nõmme Kalju
+         JK Tallinna Kalev        3-1 (1-1)  JK Narva Trans
+         JK Tammeka               0-4 (0-2)  FC Infonet
+  16.00  JK Sillamäe Kalev        0-2 (0-1)  FC Levadia
+
+
+Matchday 18
+[Sat Jul/5]
+  16.00  Paide Linnameeskond      0-2 (0-1)  FC Levadia
+[Sun Jul/6]
+  19.00  FC Flora                 3-1 (2-0)  Jõhvi FC Lokomotiv
+[Mon Jul/7]
+  19.00  FC Infonet               0-0  JK Nõmme Kalju
+         JK Sillamäe Kalev        6-1 (0-1)  JK Tallinna Kalev
+         JK Narva Trans           1-2 (1-1)  JK Tammeka
+
+
+Matchday 19
+[Fri Jul/11]
+  19.00  Jõhvi FC Lokomotiv       0-0  Paide Linnameeskond
+[Sat Jul/12]
+  19.00  FC Levadia               7-0 (2-0)  JK Narva Trans
+[Sun Jul/13]
+  19.00  FC Infonet               5-0 (1-0)  JK Tallinna Kalev
+[Mon Jul/14]
+  18.00  JK Nõmme Kalju           3-0 (0-0)  JK Tammeka
+  20.30  FC Flora                 1-0 (0-0)  JK Sillamäe Kalev
+
+
+Matchday 20
+[Fri Jul/18]
+  19.00  JK Tallinna Kalev        0-2 (0-1)  FC Flora
+         JK Narva Trans           0-3 (0-0)  FC Infonet
+         Jõhvi FC Lokomotiv       1-5 (1-3)  FC Levadia
+[Sat Jul/19]
+  19.00  JK Tammeka               0-4 (0-0)  Paide Linnameeskond
+[Mon Jul/21]
+  19.00  JK Sillamäe Kalev        2-3 (1-1)  JK Nõmme Kalju
+
+
+Matchday 21
+[Fri Jul/25]
+  19.00  JK Tammeka               3-3 (3-1)  Jõhvi FC Lokomotiv
+         FC Levadia               2-3 (0-2)  FC Infonet
+[Sat Jul/26]
+  19.00  FC Flora                 6-0 (2-0)  JK Narva Trans
+[Mon Jul/28]
+  19.00  Paide Linnameeskond      2-3 (1-1)  JK Sillamäe Kalev
+         JK Nõmme Kalju           5-0 (3-0)  JK Tallinna Kalev
+
+
+Matchday 22
+[Fri Aug/1]
+  19.00  JK Sillamäe Kalev        1-0 (0-0)  JK Tammeka
+         FC Infonet               10-1 (2-0)  Jõhvi FC Lokomotiv
+[Sat Aug/2]
+  16.00  JK Narva Trans           0-0  JK Nõmme Kalju
+  19.00  JK Tallinna Kalev        0-3 (0-2)  Paide Linnameeskond
+[Mon Aug/4]
+  19.00  FC Levadia               1-1 (0-0)  FC Flora
+
+
+Matchday 23
+[Fri Aug/8]
+  19.00  FC Flora                 2-2 (0-1)  FC Infonet
+         Jõhvi FC Lokomotiv       1-2 (0-0)  JK Sillamäe Kalev
+         JK Tammeka               2-0 (1-0)  JK Tallinna Kalev
+[Sat Aug/9]
+  16.00  JK Nõmme Kalju           0-1 (0-1)  FC Levadia
+  19.00  Paide Linnameeskond      1-1 (0-1)  JK Narva Trans
+
+
+Matchday 24
+[Fri Aug/15]
+  19.00  FC Levadia               1-0 (0-0)  JK Tammeka
+         Jõhvi FC Lokomotiv       1-0 (0-0)  JK Tallinna Kalev
+[Sat Aug/16]
+  16.00  JK Nõmme Kalju           1-0 (0-0)  FC Flora
+  19.00  JK Sillamäe Kalev        7-1 (4-1)  JK Narva Trans
+         FC Infonet               0-0  Paide Linnameeskond
+
+
+Matchday 25
+[Mon Aug/18]
+  19.00  JK Tallinna Kalev        0-7 (0-1)  FC Levadia
+[Tue Aug/19]
+  19.00  JK Narva Trans           2-2 (1-1)  Jõhvi FC Lokomotiv
+         JK Sillamäe Kalev        3-0 (0-0)  FC Infonet
+         Paide Linnameeskond      1-1 (0-0)  JK Nõmme Kalju
+  21.00  JK Tammeka               1-1 (1-0)  FC Flora
+
+
+Matchday 26
+[Fri Aug/22]
+  19.00  JK Nõmme Kalju           5-1 (3-0)  Jõhvi FC Lokomotiv
+         FC Infonet               3-2 (2-0)  JK Tammeka
+[Sat Aug/23]
+  16.00  FC Levadia               0-3 (0-1)  JK Sillamäe Kalev
+  19.00  JK Narva Trans           4-1 (1-1)  JK Tallinna Kalev
+         FC Flora                 3-0 (1-0)  Paide Linnameeskond
+
+
+Matchday 27
+[Fri Aug/29]
+  18.30  JK Nõmme Kalju           1-1 (1-0)  FC Infonet
+[Sat Aug/30]
+  13.00  Jõhvi FC Lokomotiv       2-5 (2-2)  FC Flora
+  16.00  JK Sillamäe Kalev        8-0 (2-0)  JK Tallinna Kalev
+  18.30  FC Levadia               4-1 (3-1)  Paide Linnameeskond
+  19.00  JK Tammeka               2-1 (0-1)  JK Narva Trans
+
+
+Matchday 28
+[Fri Sep/12]
+  18.00  Paide Linnameeskond      0-3 (0-1)  FC Levadia
+[Sat Sep/13]
+  13.00  JK Tallinna Kalev        1-8 (1-5)  JK Sillamäe Kalev
+         JK Narva Trans           2-1 (1-1)  JK Tammeka
+  16.00  FC Infonet               1-3 (1-2)  JK Nõmme Kalju
+  19.00  FC Flora                 6-2 (3-1)  Jõhvi FC Lokomotiv
+
+
+Matchday 29
+[Tue Sep/16]
+  17.45  JK Sillamäe Kalev        0-1 (0-1)  FC Levadia
+         Paide Linnameeskond      1-2 (0-1)  FC Flora
+         JK Nõmme Kalju           9-0 (4-0)  Jõhvi FC Lokomotiv
+         JK Tallinna Kalev        0-3 (0-0)  JK Narva Trans
+  19.00  JK Tammeka               1-1 (0-1)  FC Infonet
+
+
+Matchday 30
+[Fri Sep/19]
+  17.30  FC Levadia               5-0 (2-0)  JK Tallinna Kalev
+  19.00  FC Infonet               0-2 (0-1)  JK Sillamäe Kalev
+[Sat Sep/20]
+  13.00  JK Nõmme Kalju           3-1 (1-1)  Paide Linnameeskond
+  16.00  Jõhvi FC Lokomotiv       3-2 (0-0)  JK Narva Trans
+  19.00  JK Tammeka               2-4 (0-3)  FC Flora
+
+
+Matchday 31
+[Fri Sep/26]
+  19.00  JK Tammeka               0-1 (0-0)  FC Levadia
+[Sat Sep/27]
+  13.00  Paide Linnameeskond      0-1 (0-1)  FC Infonet
+         JK Tallinna Kalev        0-5 (0-2)  Jõhvi FC Lokomotiv
+  16.00  FC Flora                 0-2 (0-0)  JK Nõmme Kalju
+  19.00  JK Narva Trans           0-1 (0-0)  JK Sillamäe Kalev
+
+
+Matchday 32
+[Fri Oct/3]
+  19.00  FC Infonet               1-3 (0-1)  FC Flora
+         JK Tammeka               2-1 (1-0)  JK Tallinna Kalev
+[Sat Oct/4]
+  13.00  JK Sillamäe Kalev        2-0 (0-0)  Jõhvi FC Lokomotiv
+  16.00  FC Levadia               3-2 (0-1)  JK Nõmme Kalju
+  19.00  JK Narva Trans           0-0  Paide Linnameeskond
+
+
+Matchday 33
+[Fri Oct/17]
+  19.00  JK Tammeka               1-4 (0-2)  JK Sillamäe Kalev
+[Sat Oct/18]
+  13.00  Jõhvi FC Lokomotiv       0-3 (0-0)  FC Infonet
+         JK Nõmme Kalju           1-0 (1-0)  JK Narva Trans
+         Paide Linnameeskond      4-1 (3-0)  JK Tallinna Kalev
+  16.00  FC Flora                 1-2 (1-0)  FC Levadia
+
+
+Matchday 34
+[Fri Oct/24]
+  19.00  FC Infonet               2-0 (0-0)  FC Levadia
+[Sat Oct/25]
+  13.00  JK Tallinna Kalev        0-7 (0-1)  JK Nõmme Kalju
+         JK Sillamäe Kalev        4-0 (1-0)  Paide Linnameeskond
+         Jõhvi FC Lokomotiv       2-0 (1-0)  JK Tammeka
+  16.00  JK Narva Trans           2-5 (1-4)  FC Flora
+
+
+Matchday 35
+[Sat Nov/1]
+  13.00  JK Nõmme Kalju           0-2 (0-1)  JK Sillamäe Kalev
+         Paide Linnameeskond      0-1 (0-0)  JK Tammeka
+  16.00  FC Flora                 2-0 (0-0)  JK Tallinna Kalev
+  19.00  FC Infonet               5-2 (2-0)  JK Narva Trans
+[Sun Nov/2]
+  13.00  FC Levadia               9-0 (4-0)  Jõhvi FC Lokomotiv
+
+
+Matchday 36
+[Sat Nov/8]
+  13.00  JK Tallinna Kalev        0-4 (0-1)  FC Infonet
+         JK Sillamäe Kalev        3-2 (1-0)  FC Flora
+         JK Tammeka               0-1 (0-0)  JK Nõmme Kalju
+         Paide Linnameeskond      1-0 (0-0)  Jõhvi FC Lokomotiv
+         JK Narva Trans           1-8 (0-3)  FC Levadia

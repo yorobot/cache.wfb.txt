@@ -1,0 +1,188 @@
+= WAL 1 2013
+
+# Date       Fri Feb/8 - Sat May/18 2013 (99d)
+# Teams      12
+# Matches    64
+# Stages     Championship (30)  EL Playoffs (4)  Relegation (30)
+
+
+== Championship
+
+Matchday 1
+[Sat Feb/9]
+  14.00  Bangor City              3-3 (0-1)  Prestatyn Town
+  14.30  The New Saints           5-0 (2-0)  Port Talbot Town
+[Tue Apr/9]
+  19.30  Airbus UK                2-0 (1-0)  Carmarthen Town
+
+
+Matchday 2
+[Fri Feb/15]
+  19.30  Prestatyn Town           0-4 (0-1)  Airbus UK
+[Sat Feb/16]
+  15.00  Port Talbot Town         1-1 (1-0)  Bangor City
+[Tue Apr/16]
+  19.30  Carmarthen Town          0-1 (0-0)  The New Saints
+
+
+Matchday 3
+[Sat Feb/23]
+  14.30  Prestatyn Town           0-1 (0-1)  Port Talbot Town
+         Carmarthen Town          0-1 (0-1)  Bangor City
+  17.15  Airbus UK                1-2 (1-2)  The New Saints
+
+
+Matchday 4
+[Fri Mar/8]
+  19.30  Bangor City              2-0 (0-0)  Airbus UK
+         Port Talbot Town         1-0 (1-0)  Carmarthen Town
+  19.45  The New Saints           3-0 (2-0)  Prestatyn Town
+
+
+Matchday 5
+[Sat Mar/16]
+  14.00  The New Saints           6-0 (3-0)  Bangor City
+  14.30  Airbus UK                2-0 (2-0)  Port Talbot Town
+         Carmarthen Town          3-2 (3-0)  Prestatyn Town
+
+
+Matchday 6
+[Sun Mar/24]
+  15.30  Port Talbot Town         0-3 (0-2)  The New Saints
+[Sat Apr/6]
+  14.30  Carmarthen Town          1-0 (1-0)  Airbus UK
+[Tue Apr/9]
+  19.30  Prestatyn Town           0-1 (0-0)  Bangor City
+
+
+Matchday 7
+[Fri Mar/29]
+  19.30  Airbus UK                4-1 (2-0)  Prestatyn Town
+[Sat Mar/30]
+  14.30  Bangor City              3-3 (1-1)  Port Talbot Town
+         The New Saints           3-0 (1-0)  Carmarthen Town
+
+
+Matchday 8
+[Fri Apr/12]
+  19.45  The New Saints           4-2 (3-0)  Airbus UK
+[Sat Apr/13]
+  14.00  Bangor City              2-0 (1-0)  Carmarthen Town
+  14.30  Port Talbot Town         4-1 (1-1)  Prestatyn Town
+
+
+Matchday 9
+[Sat Apr/20]
+  14.30  Carmarthen Town          0-0  Port Talbot Town
+         Prestatyn Town           1-7 (0-3)  The New Saints
+  15.45  Airbus UK                2-0 (1-0)  Bangor City
+
+
+Matchday 10
+[Sat Apr/27]
+  15.45  Bangor City              1-4 (0-2)  The New Saints
+         Port Talbot Town         1-0 (0-0)  Airbus UK
+         Prestatyn Town           2-1 (1-1)  Carmarthen Town
+
+
+== EL Playoffs
+
+Round 1
+[Sat May/4]
+  14.30  Bala Town                1-0 (0-0)  GAP Connah's Quay FC
+
+
+Semifinals
+[Sat May/11]
+  14.00  Bangor City              2-4 (0-3)  Bala Town
+         Port Talbot Town         1-0 (0-0)  Carmarthen Town
+
+
+Final
+[Sat May/18]
+  15.00  Port Talbot Town         0-1 (0-0)  Bala Town
+
+
+== Relegation
+
+Matchday 1
+[Fri Feb/8]
+  19.45  Bala Town                3-1 (2-0)  Newtown AFC
+[Sat Feb/9]
+  14.30  Llanelli AFC             0-2 (0-0)  Afan Lido FC
+[Sat Mar/2]
+  14.30  GAP Connah's Quay FC     1-1 (0-0)  Aberystwyth Town
+
+
+Matchday 2
+[Fri Feb/15]
+  19.45  Aberystwyth Town         1-3 (1-1)  Bala Town
+[Sat Feb/16]
+  14.30  Newtown AFC              1-2 (1-1)  Llanelli AFC
+[Sat Apr/6]
+  14.30  Afan Lido FC             2-1 (0-1)  GAP Connah's Quay FC
+
+
+Matchday 3
+[Sat Feb/23]
+  14.30  Afan Lido FC             0-2 (0-1)  Bala Town
+         Newtown AFC              0-0  Aberystwyth Town
+         Llanelli AFC             0-1 (0-1)  GAP Connah's Quay FC
+
+
+Matchday 4
+[Sat Mar/9]
+  14.30  Newtown AFC              1-0 (1-0)  GAP Connah's Quay FC
+  17.10  Aberystwyth Town         4-3 (2-2)  Afan Lido FC
+[Sun Mar/10]
+  14.30  Bala Town                4-0 (1-0)  Llanelli AFC
+
+
+Matchday 5
+[Fri Mar/15]
+  19.30  GAP Connah's Quay FC     0-5 (0-4)  Bala Town
+[Sat Mar/16]
+  14.00  Llanelli AFC             4-3 (3-2)  Aberystwyth Town
+[Mon Apr/1]
+  14.30  Afan Lido FC             2-1 (1-1)  Newtown AFC
+
+
+Matchday 6
+[Sat Mar/23]
+  15.15  Afan Lido FC             1-3 (0-1)  Llanelli AFC
+[Tue Apr/9]
+  19.30  Aberystwyth Town         1-1 (1-1)  GAP Connah's Quay FC
+[Tue Apr/16]
+  19.30  Newtown AFC              0-1 (0-1)  Bala Town
+
+
+Matchday 7
+[Sat Mar/30]
+  14.30  Llanelli AFC             0-1 (0-0)  Newtown AFC
+[Tue Apr/16]
+  19.30  GAP Connah's Quay FC     3-0 (2-0)  Afan Lido FC
+[Tue Apr/23]
+  19.30  Bala Town                1-0 (0-0)  Aberystwyth Town
+
+
+Matchday 8
+[Sat Apr/13]
+  14.30  GAP Connah's Quay FC     4-2 (2-1)  Llanelli AFC
+         Bala Town                4-0 (3-0)  Afan Lido FC
+  15.45  Aberystwyth Town         0-0  Newtown AFC
+
+
+Matchday 9
+[Fri Apr/19]
+  19.30  Afan Lido FC             0-0  Aberystwyth Town
+[Sat Apr/20]
+  14.30  GAP Connah's Quay FC     0-2 (0-2)  Newtown AFC
+         Llanelli AFC             1-5 (1-1)  Bala Town
+
+
+Matchday 10
+[Sat Apr/6]
+  14.30  Aberystwyth Town         2-1 (1-1)  Llanelli AFC
+[Sat Apr/27]
+  15.45  Bala Town                1-0 (0-0)  GAP Connah's Quay FC
+         Newtown AFC              0-1 (0-0)  Afan Lido FC

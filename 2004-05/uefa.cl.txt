@@ -1,0 +1,208 @@
+= UEFA CL 2004/05
+
+# Date       Tue Sep/14 2004 - Wed May/25 2005 (253d)
+# Teams      32
+# Matches    125
+
+
+
+Group
+[Wed Sep/15]
+  20.45  Deportivo La Coruña (ESP)  0-0  Olympiakos Piraeus (GRE)
+         Liverpool FC (ENG)       2-0 (1-0)  AS Monaco (FRA)
+[Tue Sep/28]
+  20.45  AS Monaco (FRA)          2-0 (2-0)  Deportivo La Coruña (ESP)
+         Olympiakos Piraeus (GRE)  1-0 (1-0)  Liverpool FC (ENG)
+[Tue Oct/19]
+  20.45  Liverpool FC (ENG)       0-0  Deportivo La Coruña (ESP)
+         AS Monaco (FRA)          2-1 (2-0)  Olympiakos Piraeus (GRE)
+[Wed Nov/3]
+  20.45  Deportivo La Coruña (ESP)  0-1 (0-1)  Liverpool FC (ENG)
+         Olympiakos Piraeus (GRE)  1-0 (0-0)  AS Monaco (FRA)
+[Tue Nov/23]
+  20.45  Olympiakos Piraeus (GRE)  1-0 (0-0)  Deportivo La Coruña (ESP)
+         AS Monaco (FRA)          1-0 (0-0)  Liverpool FC (ENG)
+[Wed Dec/8]
+  20.45  Deportivo La Coruña (ESP)  0-5 (0-3)  AS Monaco (FRA)
+         Liverpool FC (ENG)       3-1 (0-1)  Olympiakos Piraeus (GRE)
+[Wed Sep/15]
+  20.45  Bayer Leverkusen (GER)   3-0 (1-0)  Real Madrid (ESP)
+         AS Roma (ITA)            0-3 (0-1)  Dinamo Kiev (UKR)
+[Tue Sep/28]
+  20.45  Dinamo Kiev (UKR)        4-2 (1-0)  Bayer Leverkusen (GER)
+         Real Madrid (ESP)        4-2 (1-2)  AS Roma (ITA)
+[Tue Oct/19]
+  20.45  Bayer Leverkusen (GER)   3-1 (0-1)  AS Roma (ITA)
+         Real Madrid (ESP)        1-0 (1-0)  Dinamo Kiev (UKR)
+[Wed Nov/3]
+  20.45  Dinamo Kiev (UKR)        2-2 (2-2)  Real Madrid (ESP)
+         AS Roma (ITA)            1-1 (0-0)  Bayer Leverkusen (GER)
+[Tue Nov/23]
+  20.45  Dinamo Kiev (UKR)        2-0 (0-0)  AS Roma (ITA)
+         Real Madrid (ESP)        1-1 (0-1)  Bayer Leverkusen (GER)
+[Wed Dec/8]
+  20.45  Bayer Leverkusen (GER)   3-0 (0-0)  Dinamo Kiev (UKR)
+         AS Roma (ITA)            0-3 (0-1)  Real Madrid (ESP)
+[Wed Sep/15]
+  20.45  AFC Ajax (NED)           0-1 (0-1)  Juventus (ITA)
+         Maccabi Tel Aviv (ISR)   0-1 (0-0)  Bayern München (GER)
+[Tue Sep/28]
+  20.45  Bayern München (GER)     4-0 (2-0)  AFC Ajax (NED)
+         Juventus (ITA)           1-0 (1-0)  Maccabi Tel Aviv (ISR)
+[Tue Oct/19]
+  20.45  AFC Ajax (NED)           3-0 (3-0)  Maccabi Tel Aviv (ISR)
+         Juventus (ITA)           1-0 (0-0)  Bayern München (GER)
+[Wed Nov/3]
+  20.45  Maccabi Tel Aviv (ISR)   2-1 (0-0)  AFC Ajax (NED)
+         Bayern München (GER)     0-1 (0-0)  Juventus (ITA)
+[Tue Nov/23]
+  20.45  Juventus (ITA)           1-0 (1-0)  AFC Ajax (NED)
+         Bayern München (GER)     5-1 (3-0)  Maccabi Tel Aviv (ISR)
+[Wed Dec/8]
+  20.45  AFC Ajax (NED)           2-2 (1-1)  Bayern München (GER)
+         Maccabi Tel Aviv (ISR)   1-1 (1-0)  Juventus (ITA)
+[Wed Sep/15]
+  20.45  Fenerbahçe (TUR)         1-0 (1-0)  AC Sparta Praha (CZE)
+         Olympique Lyonnais (FRA)  2-2 (2-0)  Manchester United (ENG)
+[Tue Sep/28]
+  20.45  Manchester United (ENG)  6-2 (3-0)  Fenerbahçe (TUR)
+         AC Sparta Praha (CZE)    1-2 (1-1)  Olympique Lyonnais (FRA)
+[Tue Oct/19]
+  20.45  Fenerbahçe (TUR)         1-3 (0-0)  Olympique Lyonnais (FRA)
+         AC Sparta Praha (CZE)    0-0  Manchester United (ENG)
+[Wed Nov/3]
+  20.45  Olympique Lyonnais (FRA)  4-2 (1-1)  Fenerbahçe (TUR)
+         Manchester United (ENG)  4-1 (2-0)  AC Sparta Praha (CZE)
+[Tue Nov/23]
+  20.45  Manchester United (ENG)  2-1 (1-1)  Olympique Lyonnais (FRA)
+         AC Sparta Praha (CZE)    0-1 (0-1)  Fenerbahçe (TUR)
+[Wed Dec/8]
+  20.45  Fenerbahçe (TUR)         3-0 (0-0)  Manchester United (ENG)
+         Olympique Lyonnais (FRA)  5-0 (2-0)  AC Sparta Praha (CZE)
+[Tue Sep/14]
+  20.45  Arsenal FC (ENG)         1-0 (1-0)  PSV Eindhoven (NED)
+         Panathinaikos (GRE)      2-1 (1-0)  Rosenborg BK (NOR)
+[Wed Sep/29]
+  20.45  PSV Eindhoven (NED)      1-0 (0-0)  Panathinaikos (GRE)
+         Rosenborg BK (NOR)       1-1 (0-1)  Arsenal FC (ENG)
+[Wed Oct/20]
+  20.45  Panathinaikos (GRE)      2-2 (0-1)  Arsenal FC (ENG)
+         Rosenborg BK (NOR)       1-2 (1-1)  PSV Eindhoven (NED)
+[Tue Nov/2]
+  20.45  Arsenal FC (ENG)         1-1 (1-0)  Panathinaikos (GRE)
+         PSV Eindhoven (NED)      1-0 (1-0)  Rosenborg BK (NOR)
+[Wed Nov/24]
+  20.45  PSV Eindhoven (NED)      1-1 (1-1)  Arsenal FC (ENG)
+         Rosenborg BK (NOR)       2-2 (0-1)  Panathinaikos (GRE)
+[Tue Dec/7]
+  20.45  Arsenal FC (ENG)         5-1 (4-1)  Rosenborg BK (NOR)
+         Panathinaikos (GRE)      4-1 (2-1)  PSV Eindhoven (NED)
+[Tue Sep/14]
+  20.45  Shakhtar Donetsk (UKR)   0-1 (0-0)  AC Milan (ITA)
+  21.20  Celtic FC (SCO)          1-3 (0-1)  FC Barcelona (ESP)
+[Wed Sep/29]
+  20.45  FC Barcelona (ESP)       3-0 (1-0)  Shakhtar Donetsk (UKR)
+         AC Milan (ITA)           3-1 (1-0)  Celtic FC (SCO)
+[Wed Oct/20]
+  20.45  AC Milan (ITA)           1-0 (1-0)  FC Barcelona (ESP)
+         Shakhtar Donetsk (UKR)   3-0 (0-0)  Celtic FC (SCO)
+[Tue Nov/2]
+  20.45  FC Barcelona (ESP)       2-1 (1-1)  AC Milan (ITA)
+         Celtic FC (SCO)          1-0 (1-0)  Shakhtar Donetsk (UKR)
+[Wed Nov/24]
+  20.45  FC Barcelona (ESP)       1-1 (1-1)  Celtic FC (SCO)
+         AC Milan (ITA)           4-0 (0-0)  Shakhtar Donetsk (UKR)
+[Tue Dec/7]
+  20.45  Celtic FC (SCO)          0-0  AC Milan (ITA)
+         Shakhtar Donetsk (UKR)   2-0 (2-0)  FC Barcelona (ESP)
+[Tue Sep/14]
+  20.45  Inter (ITA)              2-0 (1-0)  Werder Bremen (GER)
+         Valencia CF (ESP)        2-0 (2-0)  RSC Anderlecht (BEL)
+[Wed Sep/29]
+  20.45  RSC Anderlecht (BEL)     1-3 (0-1)  Inter (ITA)
+         Werder Bremen (GER)      2-1 (0-1)  Valencia CF (ESP)
+[Wed Oct/20]
+  20.45  RSC Anderlecht (BEL)     1-2 (1-1)  Werder Bremen (GER)
+         Valencia CF (ESP)        1-5 (0-0)  Inter (ITA)
+[Tue Nov/2]
+  20.45  Werder Bremen (GER)      5-1 (3-1)  RSC Anderlecht (BEL)
+         Inter (ITA)              0-0  Valencia CF (ESP)
+[Wed Nov/24]
+  20.45  RSC Anderlecht (BEL)     1-2 (1-1)  Valencia CF (ESP)
+         Werder Bremen (GER)      1-1 (0-0)  Inter (ITA)
+[Tue Dec/7]
+  20.45  Inter (ITA)              3-0 (1-0)  RSC Anderlecht (BEL)
+         Valencia CF (ESP)        0-2 (0-0)  Werder Bremen (GER)
+[Tue Sep/14]
+  20.45  FC Porto (POR)           0-0  CSKA Moskva (RUS)
+         Paris Saint-Germain (FRA)  0-3 (0-2)  Chelsea FC (ENG)
+[Wed Sep/29]
+  18.30  CSKA Moskva (RUS)        2-0 (0-0)  Paris Saint-Germain (FRA)
+  20.45  Chelsea FC (ENG)         3-1 (1-0)  FC Porto (POR)
+[Wed Oct/20]
+  20.45  Chelsea FC (ENG)         2-0 (2-0)  CSKA Moskva (RUS)
+         Paris Saint-Germain (FRA)  2-0 (2-0)  FC Porto (POR)
+[Tue Nov/2]
+  18.30  CSKA Moskva (RUS)        0-1 (0-1)  Chelsea FC (ENG)
+  20.45  FC Porto (POR)           0-0  Paris Saint-Germain (FRA)
+[Wed Nov/24]
+  18.30  CSKA Moskva (RUS)        0-1 (0-1)  FC Porto (POR)
+  20.45  Chelsea FC (ENG)         0-0  Paris Saint-Germain (FRA)
+[Tue Dec/7]
+  20.45  FC Porto (POR)           2-1 (0-1)  Chelsea FC (ENG)
+         Paris Saint-Germain (FRA)  1-3 (1-1)  CSKA Moskva (RUS)
+
+
+Round of 16
+[Tue Feb/22]
+  20.45  Real Madrid (ESP)        1-0 (1-0)  Juventus (ITA)
+         Liverpool FC (ENG)       3-1 (2-0)  Bayer Leverkusen (GER)
+         PSV Eindhoven (NED)      1-0 (1-0)  AS Monaco (FRA)
+         Bayern München (GER)     3-1 (1-0)  Arsenal FC (ENG)
+[Wed Feb/23]
+  20.45  FC Porto (POR)           1-1 (0-1)  Inter (ITA)
+         FC Barcelona (ESP)       2-1 (0-1)  Chelsea FC (ENG)
+         Werder Bremen (GER)      0-3 (0-1)  Olympique Lyonnais (FRA)
+         Manchester United (ENG)  0-1 (0-0)  AC Milan (ITA)
+[Tue Mar/8]
+  20.45  Chelsea FC (ENG)         4-2 (3-2)  FC Barcelona (ESP)
+         Olympique Lyonnais (FRA)  7-2 (3-1)  Werder Bremen (GER)
+         AC Milan (ITA)           1-0 (0-0)  Manchester United (ENG)
+[Wed Mar/9]
+  20.45  Juventus (ITA)           2-0 a.e.t. (1-0, 0-0)  Real Madrid (ESP)
+         Bayer Leverkusen (GER)   1-3 (0-2)  Liverpool FC (ENG)
+         AS Monaco (FRA)          0-2 (0-1)  PSV Eindhoven (NED)
+         Arsenal FC (ENG)         1-0 (0-0)  Bayern München (GER)
+[Tue Mar/15]
+  20.45  Inter (ITA)              3-1 (1-0)  FC Porto (POR)
+
+
+Quarterfinals
+[Tue Apr/5]
+  20.45  Liverpool FC (ENG)       2-1 (2-0)  Juventus (ITA)
+         Olympique Lyonnais (FRA)  1-1 (1-0)  PSV Eindhoven (NED)
+[Wed Apr/6]
+  20.45  AC Milan (ITA)           2-0 (1-0)  Inter (ITA)
+         Chelsea FC (ENG)         4-2 (1-0)  Bayern München (GER)
+[Tue Apr/12]
+  20.45  Inter (ITA)              0-3 (0-1)  AC Milan (ITA)
+         Bayern München (GER)     3-2 (0-1)  Chelsea FC (ENG)
+[Wed Apr/13]
+  20.45  Juventus (ITA)           0-0  Liverpool FC (ENG)
+         PSV Eindhoven (NED)      4-2 pen. 1-1 a.e.t. (1-1, 0-1)  Olympique Lyonnais (FRA)
+
+
+Semifinals
+[Tue Apr/26]
+  20.45  AC Milan (ITA)           2-0 (1-0)  PSV Eindhoven (NED)
+[Wed Apr/27]
+  20.45  Chelsea FC (ENG)         0-0  Liverpool FC (ENG)
+[Tue May/3]
+  20.45  Liverpool FC (ENG)       1-0 (1-0)  Chelsea FC (ENG)
+[Wed May/4]
+  20.45  PSV Eindhoven (NED)      3-1 (1-0)  AC Milan (ITA)
+
+
+Final
+[Wed May/25]
+  20.45  Liverpool FC (ENG)       3-2 pen. 3-3 a.e.t. (3-3, 0-3)  AC Milan (ITA)

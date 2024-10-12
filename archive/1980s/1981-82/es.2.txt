@@ -1,0 +1,538 @@
+= ES 2 1981/82
+
+# Date       Sun Sep/6 1981 - Sun May/23 1982 (259d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Sep/6]
+         Castilla CF              1-0  Atlético Madrileño
+         RCD Mallorca             0-0  Burgos CF
+         Real Murcia              4-1  CE Sabadell
+         Levante UD               0-1  UD Salamanca
+         Recreativo Huelva        2-1  Elche CF
+         Córdoba CF               1-1  RC Celta
+         Real Oviedo              1-0  Rayo Vallecano
+         AD Almería               1-1  CD Alavés
+         Club Getafe Deportivo    2-3  CD Málaga
+         Linares CF               0-0  Deportivo La Coruña
+
+
+Matchday 2
+[Sun Sep/13]
+         CE Sabadell              2-1  Real Oviedo
+         Rayo Vallecano           2-0  AD Almería
+         UD Salamanca             3-1  Recreativo Huelva
+         CD Alavés                3-0  Levante UD
+         Atlético Madrileño       1-1  Córdoba CF
+         Elche CF                 1-0  RCD Mallorca
+         RC Celta                 5-1  Linares CF
+         Burgos CF                1-0  Club Getafe Deportivo
+         CD Málaga                1-1  Castilla CF
+         Deportivo La Coruña      2-1  Real Murcia
+
+
+Matchday 3
+[Sun Sep/20]
+         Castilla CF              2-1  Burgos CF
+         RCD Mallorca             1-0  UD Salamanca
+         Real Murcia              0-2  RC Celta
+         Rayo Vallecano           2-2  CE Sabadell
+         Recreativo Huelva        4-0  CD Alavés
+         Córdoba CF               1-1  CD Málaga
+         Real Oviedo              0-2  Deportivo La Coruña
+         AD Almería               2-0  Levante UD
+         Club Getafe Deportivo    0-1  Elche CF
+         Linares CF               2-0  Atlético Madrileño
+
+
+Matchday 4
+[Sun Sep/27]
+         CE Sabadell              0-0  AD Almería
+         UD Salamanca             3-0  Club Getafe Deportivo
+         CD Alavés                3-0  RCD Mallorca
+         Levante UD               1-0  Recreativo Huelva
+         Atlético Madrileño       0-2  Real Murcia
+         Elche CF                 2-0  Castilla CF
+         RC Celta                 3-2  Real Oviedo
+         Burgos CF                3-1  Córdoba CF
+         CD Málaga                2-0  Linares CF
+         Deportivo La Coruña      1-2  Rayo Vallecano
+
+
+Matchday 5
+[Sun Oct/4]
+         Castilla CF              2-0  UD Salamanca
+         CE Sabadell              0-0  Deportivo La Coruña
+         RCD Mallorca             3-0  Levante UD
+         Real Murcia              1-0  CD Málaga
+         Rayo Vallecano           3-1  RC Celta
+         Córdoba CF               1-1  Elche CF
+         Real Oviedo              3-0  Atlético Madrileño
+         AD Almería               0-0  Recreativo Huelva
+         Club Getafe Deportivo    2-0  CD Alavés
+         Linares CF               3-1  Burgos CF
+
+
+Matchday 6
+[Sun Oct/11]
+         UD Salamanca             4-0  Córdoba CF
+         CD Alavés                2-1  Castilla CF
+         Levante UD               2-0  Club Getafe Deportivo
+         Atlético Madrileño       3-0  Rayo Vallecano
+         Elche CF                 2-0  Linares CF
+         Recreativo Huelva        0-0  RCD Mallorca
+         RC Celta                 2-2  CE Sabadell
+         Burgos CF                0-1  Real Murcia
+         CD Málaga                3-1  Real Oviedo
+         Deportivo La Coruña      0-0  AD Almería
+
+
+Matchday 7
+[Sun Oct/18]
+         Castilla CF              3-1  Levante UD
+         CE Sabadell              4-2  Atlético Madrileño
+         Real Murcia              1-1  Elche CF
+         Rayo Vallecano           1-3  CD Málaga
+         Córdoba CF               1-0  CD Alavés
+         Real Oviedo              1-1  Burgos CF
+         AD Almería               1-2  RCD Mallorca
+         Club Getafe Deportivo    2-2  Recreativo Huelva
+         Linares CF               1-2  UD Salamanca
+         Deportivo La Coruña      1-1  RC Celta
+
+
+Matchday 8
+[Sun Oct/25]
+         RCD Mallorca             1-1  Club Getafe Deportivo
+         UD Salamanca             1-0  Real Murcia
+         CD Alavés                2-0  Linares CF
+         Levante UD               1-0  Córdoba CF
+         Atlético Madrileño       2-2  Deportivo La Coruña
+         Elche CF                 1-0  Real Oviedo
+         Recreativo Huelva        1-1  Castilla CF
+         RC Celta                 2-1  AD Almería
+         Burgos CF                1-0  Rayo Vallecano
+         CD Málaga                3-0  CE Sabadell
+
+
+Matchday 9
+[Sun Nov/1]
+         Castilla CF              2-2  RCD Mallorca
+         CE Sabadell              5-3  Burgos CF
+         Real Murcia              2-1  CD Alavés
+         Rayo Vallecano           2-0  Elche CF
+         Córdoba CF               1-1  Recreativo Huelva
+         Real Oviedo              0-2  UD Salamanca
+         RC Celta                 2-0  Atlético Madrileño
+         AD Almería               1-3  Club Getafe Deportivo
+         Linares CF               1-1  Levante UD
+         Deportivo La Coruña      0-2  CD Málaga
+
+
+Matchday 10
+[Sun Nov/8]
+         RCD Mallorca             3-0  Córdoba CF
+         UD Salamanca             2-1  Rayo Vallecano
+         CD Alavés                1-0  Real Oviedo
+         Levante UD               3-1  Real Murcia
+         Atlético Madrileño       0-0  AD Almería
+         Elche CF                 4-2  CE Sabadell
+         Recreativo Huelva        0-1  Linares CF
+         Burgos CF                1-0  Deportivo La Coruña
+         Club Getafe Deportivo    2-0  Castilla CF
+         CD Málaga                0-0  RC Celta
+
+
+Matchday 11
+[Sun Nov/15]
+         CE Sabadell              1-0  UD Salamanca
+         Real Murcia              1-1  Recreativo Huelva
+         Rayo Vallecano           1-1  CD Alavés
+         Atlético Madrileño       0-2  CD Málaga
+         Córdoba CF               3-0  Club Getafe Deportivo
+         Real Oviedo              2-1  Levante UD
+         RC Celta                 0-0  Burgos CF
+         AD Almería               1-0  Castilla CF
+         Linares CF               3-1  RCD Mallorca
+         Deportivo La Coruña      0-3  Elche CF
+
+
+Matchday 12
+[Sun Nov/22]
+         Castilla CF              1-1  Córdoba CF
+         RCD Mallorca             1-1  Real Murcia
+         UD Salamanca             4-0  Deportivo La Coruña
+         CD Alavés                3-2  CE Sabadell
+         Levante UD               1-1  Rayo Vallecano
+         Elche CF                 2-1  RC Celta
+         Recreativo Huelva        0-1  Real Oviedo
+         Burgos CF                0-1  Atlético Madrileño
+         Club Getafe Deportivo    1-2  Linares CF
+         CD Málaga                2-0  AD Almería
+
+
+Matchday 13
+[Sun Nov/29]
+         CE Sabadell              1-1  Levante UD
+         Real Murcia              3-0  Club Getafe Deportivo
+         Rayo Vallecano           0-1  Recreativo Huelva
+         Atlético Madrileño       1-1  Elche CF
+         Real Oviedo              1-1  RCD Mallorca
+         RC Celta                 0-3  UD Salamanca
+         AD Almería               2-1  Córdoba CF
+         CD Málaga                1-0  Burgos CF
+         Linares CF               1-1  Castilla CF
+         Deportivo La Coruña      4-1  CD Alavés
+
+
+Matchday 14
+[Sun Dec/6]
+         Castilla CF              2-2  Real Murcia
+         RCD Mallorca             1-0  Rayo Vallecano
+         UD Salamanca             2-1  Atlético Madrileño
+         CD Alavés                0-1  RC Celta
+         Levante UD               2-0  Deportivo La Coruña
+         Elche CF                 1-1  CD Málaga
+         Recreativo Huelva        1-0  CE Sabadell
+         Córdoba CF               0-0  Linares CF
+         Burgos CF                0-0  AD Almería
+         Club Getafe Deportivo    2-2  Real Oviedo
+
+
+Matchday 15
+[Sun Dec/13]
+         CE Sabadell              2-1  RCD Mallorca
+         Real Murcia              1-0  Córdoba CF
+         Rayo Vallecano           1-1  Club Getafe Deportivo
+         Atlético Madrileño       1-0  CD Alavés
+         Real Oviedo              1-1  Castilla CF
+         RC Celta                 5-1  Levante UD
+         AD Almería               3-1  Linares CF
+         Burgos CF                0-1  Elche CF
+         CD Málaga                2-0  UD Salamanca
+         Deportivo La Coruña      3-0  Recreativo Huelva
+
+
+Matchday 16
+[Sun Dec/20]
+         Castilla CF              0-1  Rayo Vallecano
+         RCD Mallorca             1-1  Deportivo La Coruña
+         UD Salamanca             0-0  Burgos CF
+         CD Alavés                2-0  CD Málaga
+         Levante UD               1-1  Atlético Madrileño
+         Elche CF                 0-1  AD Almería
+         Recreativo Huelva        0-0  RC Celta
+         Córdoba CF               2-0  Real Oviedo
+         Club Getafe Deportivo    3-4  CE Sabadell
+         Linares CF               2-1  Real Murcia
+
+
+Matchday 17
+[Sun Dec/27]
+         CE Sabadell              3-0  Castilla CF
+         Rayo Vallecano           1-1  Córdoba CF
+         Atlético Madrileño       3-0  Recreativo Huelva
+         Elche CF                 1-1  UD Salamanca
+         Real Oviedo              2-1  Linares CF
+         RC Celta                 4-0  RCD Mallorca
+         AD Almería               0-0  Real Murcia
+         Burgos CF                2-0  CD Alavés
+         CD Málaga                3-1  Levante UD
+         Deportivo La Coruña      2-0  Club Getafe Deportivo
+
+
+Matchday 18
+[Sun Jan/3]
+         Castilla CF              1-2  Deportivo La Coruña
+         RCD Mallorca             1-0  Atlético Madrileño
+         Real Murcia              3-0  Real Oviedo
+         CD Alavés                1-1  Elche CF
+         Levante UD               0-1  Burgos CF
+         Recreativo Huelva        0-1  CD Málaga
+         Córdoba CF               0-1  CE Sabadell
+         AD Almería               1-1  UD Salamanca
+         Club Getafe Deportivo    0-2  RC Celta
+         Linares CF               0-1  Rayo Vallecano
+
+
+Matchday 19
+[Sun Jan/10]
+         CE Sabadell              1-1  Linares CF
+         Rayo Vallecano           0-0  Real Murcia
+         UD Salamanca             4-0  CD Alavés
+         Atlético Madrileño       3-1  Club Getafe Deportivo
+         Elche CF                 3-0  Levante UD
+         Real Oviedo              2-1  AD Almería
+         RC Celta                 1-2  Castilla CF
+         Burgos CF                1-0  Recreativo Huelva
+         CD Málaga                1-0  RCD Mallorca
+         Deportivo La Coruña      1-1  Córdoba CF
+
+
+Matchday 20
+[Sun Jan/17]
+         CE Sabadell              1-2  Real Murcia
+         Rayo Vallecano           0-0  Real Oviedo
+         UD Salamanca             6-0  Levante UD
+         CD Alavés                1-1  AD Almería
+         Atlético Madrileño       0-0  Castilla CF
+         Elche CF                 1-0  Recreativo Huelva
+         RC Celta                 3-1  Córdoba CF
+         Burgos CF                2-1  RCD Mallorca
+         CD Málaga                2-2  Club Getafe Deportivo
+         Deportivo La Coruña      3-0  Linares CF
+
+
+Matchday 21
+[Sun Jan/24]
+         Castilla CF              2-2  CD Málaga
+         RCD Mallorca             2-0  Elche CF
+         Real Murcia              2-1  Deportivo La Coruña
+         Levante UD               1-1  CD Alavés
+         Recreativo Huelva        2-1  UD Salamanca
+         Córdoba CF               2-2  Atlético Madrileño
+         Real Oviedo              1-1  CE Sabadell
+         AD Almería               0-0  Rayo Vallecano
+         Club Getafe Deportivo    1-2  Burgos CF
+         Linares CF               0-5  RC Celta
+
+
+Matchday 22
+[Sun Jan/31]
+         CE Sabadell              1-0  Rayo Vallecano
+         UD Salamanca             2-0  RCD Mallorca
+         CD Alavés                1-0  Recreativo Huelva
+         Levante UD               1-0  AD Almería
+         Atlético Madrileño       0-0  Linares CF
+         Elche CF                 2-0  Club Getafe Deportivo
+         RC Celta                 4-1  Real Murcia
+         Burgos CF                1-1  Castilla CF
+         CD Málaga                1-1  Córdoba CF
+         Deportivo La Coruña      1-1  Real Oviedo
+
+
+Matchday 23
+[Sun Feb/7]
+         Castilla CF              2-1  Elche CF
+         RCD Mallorca             4-1  CD Alavés
+         Real Murcia              2-0  Atlético Madrileño
+         Rayo Vallecano           1-0  Deportivo La Coruña
+         Recreativo Huelva        3-0  Levante UD
+         Córdoba CF               1-0  Burgos CF
+         Real Oviedo              1-5  RC Celta
+         AD Almería               1-2  CE Sabadell
+         Club Getafe Deportivo    0-1  UD Salamanca
+         Linares CF               2-2  CD Málaga
+
+
+Matchday 24
+[Sun Feb/14]
+         UD Salamanca             4-0  Castilla CF
+         CD Alavés                1-1  Club Getafe Deportivo
+         Levante UD               0-2  RCD Mallorca
+         Atlético Madrileño       0-0  Real Oviedo
+         Elche CF                 2-1  Córdoba CF
+         Recreativo Huelva        0-0  AD Almería
+         RC Celta                 3-1  Rayo Vallecano
+         Burgos CF                2-2  Linares CF
+         CD Málaga                2-0  Real Murcia
+         Deportivo La Coruña      3-1  CE Sabadell
+
+
+Matchday 25
+[Sun Feb/21]
+         Castilla CF              2-0  CD Alavés
+         CE Sabadell              3-5  RC Celta
+         RCD Mallorca             1-1  Recreativo Huelva
+         Real Murcia              1-2  Burgos CF
+         Rayo Vallecano           1-0  Atlético Madrileño
+         Córdoba CF               1-0  UD Salamanca
+         Real Oviedo              1-2  CD Málaga
+         AD Almería               0-0  Deportivo La Coruña
+         Club Getafe Deportivo    2-1  Levante UD
+         Linares CF               0-0  Elche CF
+
+
+Matchday 26
+[Sun Feb/28]
+         RCD Mallorca             2-0  AD Almería
+         UD Salamanca             2-1  Linares CF
+         CD Alavés                5-1  Córdoba CF
+         Levante UD               0-1  Castilla CF
+         Atlético Madrileño       2-0  CE Sabadell
+         Elche CF                 1-1  Real Murcia
+         Recreativo Huelva        5-0  Club Getafe Deportivo
+         RC Celta                 1-0  Deportivo La Coruña
+         Burgos CF                3-0  Real Oviedo
+         CD Málaga                5-0  Rayo Vallecano
+
+
+Matchday 27
+[Sun Mar/7]
+         Castilla CF              0-0  Recreativo Huelva
+         CE Sabadell              1-0  CD Málaga
+         Real Murcia              1-0  UD Salamanca
+         Rayo Vallecano           2-0  Burgos CF
+         Córdoba CF               4-0  Levante UD
+         Real Oviedo              1-1  Elche CF
+         AD Almería               4-0  RC Celta
+         Club Getafe Deportivo    1-2  RCD Mallorca
+         Linares CF               1-0  CD Alavés
+         Deportivo La Coruña      1-0  Atlético Madrileño
+
+
+Matchday 28
+[Sun Mar/14]
+         RCD Mallorca             1-1  Castilla CF
+         UD Salamanca             2-0  Real Oviedo
+         CD Alavés                1-2  Real Murcia
+         Levante UD               0-1  Linares CF
+         Atlético Madrileño       1-0  RC Celta
+         Elche CF                 0-3  Rayo Vallecano
+         Recreativo Huelva        2-1  Córdoba CF
+         Burgos CF                2-1  CE Sabadell
+         Club Getafe Deportivo    1-1  AD Almería
+         CD Málaga                8-0  Deportivo La Coruña
+
+
+Matchday 29
+[Sun Mar/21]
+         Castilla CF              2-1  Club Getafe Deportivo
+         CE Sabadell              0-1  Elche CF
+         Real Murcia              2-1  Levante UD
+         Rayo Vallecano           4-2  UD Salamanca
+         Córdoba CF               3-1  RCD Mallorca
+         Real Oviedo              1-0  CD Alavés
+         RC Celta                 2-0  CD Málaga
+         AD Almería               0-0  Atlético Madrileño
+         Linares CF               1-1  Recreativo Huelva
+         Deportivo La Coruña      2-1  Burgos CF
+
+
+Matchday 30
+[Sun Mar/28]
+         Castilla CF              4-1  AD Almería
+         RCD Mallorca             2-1  Linares CF
+         UD Salamanca             2-1  CE Sabadell
+         CD Alavés                3-0  Rayo Vallecano
+         Levante UD               0-1  Real Oviedo
+         Elche CF                 2-0  Deportivo La Coruña
+         Recreativo Huelva        1-2  Real Murcia
+         Burgos CF                1-1  RC Celta
+         Club Getafe Deportivo    0-1  Córdoba CF
+         CD Málaga                1-2  Atlético Madrileño
+
+
+Matchday 31
+[Sun Apr/4]
+         CE Sabadell              1-0  CD Alavés
+         Real Murcia              1-1  RCD Mallorca
+         Rayo Vallecano           3-0  Levante UD
+         Atlético Madrileño       3-3  Burgos CF
+         Córdoba CF               1-1  Castilla CF
+         Real Oviedo              0-1  Recreativo Huelva
+         RC Celta                 1-0  Elche CF
+         AD Almería               0-0  CD Málaga
+         Linares CF               3-1  Club Getafe Deportivo
+         Deportivo La Coruña      1-0  UD Salamanca
+
+
+Matchday 32
+[Sun Apr/11]
+         Castilla CF              1-2  Linares CF
+         RCD Mallorca             4-1  Real Oviedo
+         UD Salamanca             0-1  RC Celta
+         CD Alavés                1-0  Deportivo La Coruña
+         Levante UD               1-0  CE Sabadell
+         Elche CF                 2-2  Atlético Madrileño
+         Recreativo Huelva        2-0  Rayo Vallecano
+         Córdoba CF               4-0  AD Almería
+         Burgos CF                2-0  CD Málaga
+         Club Getafe Deportivo    0-2  Real Murcia
+
+
+Matchday 33
+[Sun Apr/18]
+         CE Sabadell              2-0  Recreativo Huelva
+         Real Murcia              3-0  Castilla CF
+         Rayo Vallecano           2-1  RCD Mallorca
+         Atlético Madrileño       3-3  UD Salamanca
+         Real Oviedo              1-1  Club Getafe Deportivo
+         RC Celta                 1-0  CD Alavés
+         AD Almería               0-0  Burgos CF
+         CD Málaga                1-1  Elche CF
+         Linares CF               0-1  Córdoba CF
+         Deportivo La Coruña      1-0  Levante UD
+
+
+Matchday 34
+[Sun Apr/25]
+         Castilla CF              2-1  Real Oviedo
+         RCD Mallorca             5-1  CE Sabadell
+         UD Salamanca             2-1  CD Málaga
+         CD Alavés                0-0  Atlético Madrileño
+         Levante UD               1-1  RC Celta
+         Elche CF                 3-1  Burgos CF
+         Recreativo Huelva        2-0  Deportivo La Coruña
+         Córdoba CF               2-1  Real Murcia
+         Club Getafe Deportivo    3-0  Rayo Vallecano
+         Linares CF               2-2  AD Almería
+
+
+Matchday 35
+[Sun May/2]
+         CE Sabadell              1-1  Club Getafe Deportivo
+         Real Murcia              1-1  Linares CF
+         Rayo Vallecano           2-1  Castilla CF
+         Atlético Madrileño       1-0  Levante UD
+         Real Oviedo              1-0  Córdoba CF
+         RC Celta                 4-1  Recreativo Huelva
+         AD Almería               0-1  Elche CF
+         Burgos CF                2-3  UD Salamanca
+         CD Málaga                3-1  CD Alavés
+         Deportivo La Coruña      1-1  RCD Mallorca
+
+
+Matchday 36
+[Sun May/9]
+         Castilla CF              2-2  CE Sabadell
+         RCD Mallorca             2-2  RC Celta
+         Real Murcia              3-0  AD Almería
+         UD Salamanca             1-1  Elche CF
+         CD Alavés                0-1  Burgos CF
+         Levante UD               2-3  CD Málaga
+         Recreativo Huelva        0-1  Atlético Madrileño
+         Córdoba CF               1-1  Rayo Vallecano
+         Club Getafe Deportivo    2-3  Deportivo La Coruña
+         Linares CF               1-1  Real Oviedo
+
+
+Matchday 37
+[Sun May/16]
+         CE Sabadell              4-1  Córdoba CF
+         Rayo Vallecano           4-1  Linares CF
+         UD Salamanca             4-1  AD Almería
+         Atlético Madrileño       4-2  RCD Mallorca
+         Elche CF                 3-0  CD Alavés
+         Real Oviedo              1-1  Real Murcia
+         RC Celta                 6-0  Club Getafe Deportivo
+         Burgos CF                5-0  Levante UD
+         CD Málaga                5-1  Recreativo Huelva
+         Deportivo La Coruña      0-1  Castilla CF
+
+
+Matchday 38
+[Sun May/23]
+         Castilla CF              4-1  RC Celta
+         RCD Mallorca             2-1  CD Málaga
+         Real Murcia              1-2  Rayo Vallecano
+         CD Alavés                1-2  UD Salamanca
+         Levante UD               1-6  Elche CF
+         Recreativo Huelva        3-0  Burgos CF
+         Córdoba CF               2-2  Deportivo La Coruña
+         AD Almería               1-1  Real Oviedo
+         Club Getafe Deportivo    2-4  Atlético Madrileño
+         Linares CF               3-3  CE Sabadell

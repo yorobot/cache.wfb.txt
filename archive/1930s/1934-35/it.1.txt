@@ -1,0 +1,366 @@
+= IT 1 1934/35
+
+# Date       Sun Sep/30 1934 - Sun Jun/2 1935 (245d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Sep/30]
+         Torino FC                3-1  US Triestina
+         Sampierdarenese          2-1  Bologna FC
+         SSC Napoli               0-1  US Alessandria 1912
+         ACF Fiorentina           4-1  AS Roma
+         Brescia Calcio           0-2  Juventus
+         Inter                    3-0  Palermo FBC
+         Pro Vercelli             1-2  AC Milan
+         Lazio Roma               6-1  US Livorno
+
+
+Matchday 2
+[Sun Oct/7]
+         AC Milan                 1-1  ACF Fiorentina
+         US Livorno               1-1  Inter
+         US Triestina             2-1  Lazio Roma
+         AS Roma                  4-0  Brescia Calcio
+         US Alessandria 1912      2-2  Sampierdarenese
+         Juventus                 2-1  SSC Napoli
+         Bologna FC               3-1  Torino FC
+         Palermo FBC              2-0  Pro Vercelli
+
+
+Matchday 3
+[Sun Oct/14]
+         Torino FC                2-1  US Alessandria 1912
+         Sampierdarenese          0-1  Juventus
+         SSC Napoli               3-2  AS Roma
+         ACF Fiorentina           1-0  Pro Vercelli
+         Brescia Calcio           2-0  AC Milan
+         Inter                    7-0  US Triestina
+         Palermo FBC              2-2  US Livorno
+         Lazio Roma               2-1  Bologna FC
+
+
+Matchday 4
+[Sun Oct/21]
+         Juventus                 1-1  Torino FC
+         US Livorno               1-0  US Triestina
+         AS Roma                  2-0  Sampierdarenese
+         Pro Vercelli             1-1  Brescia Calcio
+         ACF Fiorentina           2-0  Palermo FBC
+         Bologna FC               0-0  Inter
+         US Alessandria 1912      1-2  Lazio Roma
+         AC Milan                 2-2  SSC Napoli
+
+
+Matchday 5
+[Sun Nov/4]
+         US Triestina             1-1  Palermo FBC
+         Torino FC                2-3  AS Roma
+         SSC Napoli               1-0  Pro Vercelli
+         Lazio Roma               5-3  Juventus
+         Brescia Calcio           1-1  ACF Fiorentina
+         Inter                    0-0  US Alessandria 1912
+         Sampierdarenese          0-0  AC Milan
+         US Livorno               4-1  Bologna FC
+
+
+Matchday 6
+[Sun Nov/18]
+         ACF Fiorentina           3-2  SSC Napoli
+         AS Roma                  1-1  Lazio Roma
+         Pro Vercelli             2-3  Sampierdarenese
+         Palermo FBC              0-0  Brescia Calcio
+         Juventus                 1-0  Inter
+         Bologna FC               1-3  US Triestina
+         US Alessandria 1912      4-1  US Livorno
+         AC Milan                 0-0  Torino FC
+
+
+Matchday 7
+[Sun Nov/25]
+         US Triestina             3-1  US Alessandria 1912
+         Torino FC                2-0  Pro Vercelli
+         Palermo FBC              0-1  Bologna FC
+         US Livorno               1-2  Juventus
+         Lazio Roma               1-4  AC Milan
+         Inter                    0-1  AS Roma
+         Sampierdarenese          0-1  ACF Fiorentina
+         SSC Napoli               2-0  Brescia Calcio
+
+
+Matchday 8
+[Sun Dec/2]
+         ACF Fiorentina           4-0  Torino FC
+         Pro Vercelli             1-0  Lazio Roma
+         SSC Napoli               6-0  Palermo FBC
+         AS Roma                  5-1  US Livorno
+         Juventus                 0-0  US Triestina
+         Brescia Calcio           1-0  Sampierdarenese
+         US Alessandria 1912      2-0  Bologna FC
+         AC Milan                 2-2  Inter
+
+
+Matchday 9
+[Sun Dec/16]
+         Inter                    1-0  Pro Vercelli
+         Bologna FC               2-0  Juventus
+         Lazio Roma               3-5  ACF Fiorentina
+         US Livorno               0-2  AC Milan
+         Sampierdarenese          1-3  SSC Napoli
+         Torino FC                4-2  Brescia Calcio
+         US Triestina             0-2  AS Roma
+         US Alessandria 1912      4-2  Palermo FBC
+
+
+Matchday 10
+[Sun Dec/23]
+         Palermo FBC              1-0  Sampierdarenese
+         Pro Vercelli             0-1  US Livorno
+         SSC Napoli               2-1  Torino FC
+         Juventus                 4-1  US Alessandria 1912
+         ACF Fiorentina           1-1  Inter
+         Brescia Calcio           1-0  Lazio Roma
+         AS Roma                  1-1  Bologna FC
+         AC Milan                 0-1  US Triestina
+
+
+Matchday 11
+[Sun Jan/6]
+         US Triestina             3-1  Pro Vercelli
+         Torino FC                5-2  Sampierdarenese
+         Palermo FBC              0-0  Juventus
+         Lazio Roma               3-1  SSC Napoli
+         Inter                    5-1  Brescia Calcio
+         US Alessandria 1912      1-1  AS Roma
+         US Livorno               1-2  ACF Fiorentina
+         Bologna FC               6-3  AC Milan
+
+
+Matchday 12
+[Sun Jan/13]
+         AC Milan                 2-2  US Alessandria 1912
+         Torino FC                0-0  Palermo FBC
+         Sampierdarenese          2-3  Lazio Roma
+         AS Roma                  1-2  Juventus
+         ACF Fiorentina           1-0  US Triestina
+         Brescia Calcio           4-0  US Livorno
+         Pro Vercelli             2-1  Bologna FC
+         SSC Napoli               0-1  Inter
+
+
+Matchday 13
+[Sun Jan/27]
+         US Triestina             3-0  Brescia Calcio
+         Palermo FBC              1-0  AS Roma
+         Lazio Roma               1-1  Torino FC
+         Bologna FC               2-1  ACF Fiorentina
+         Inter                    6-1  Sampierdarenese
+         US Alessandria 1912      2-1  Pro Vercelli
+         US Livorno               0-2  SSC Napoli
+         Juventus                 1-0  AC Milan
+
+
+Matchday 14
+[Sun Feb/10]
+         Lazio Roma               1-0  Palermo FBC
+         Torino FC                1-2  Inter
+         Sampierdarenese          0-0  US Livorno
+         Pro Vercelli             0-1  Juventus
+         AC Milan                 4-4  AS Roma
+         ACF Fiorentina           4-1  US Alessandria 1912
+         Brescia Calcio           1-1  Bologna FC
+         SSC Napoli               2-1  US Triestina
+
+
+Matchday 15
+[Sun Feb/10]
+         Juventus                 0-0  ACF Fiorentina
+         US Triestina             2-1  Sampierdarenese
+         AS Roma                  3-2  Pro Vercelli
+         US Livorno               1-1  Torino FC
+         Bologna FC               3-0  SSC Napoli
+         Inter                    1-0  Lazio Roma
+         US Alessandria 1912      1-0  Brescia Calcio
+         Palermo FBC              1-0  AC Milan
+
+
+Matchday 16
+[Sun Feb/17]
+         Juventus                 0-0  Brescia Calcio
+         AS Roma                  0-0  ACF Fiorentina
+         Palermo FBC              1-1  Inter
+         US Triestina             1-0  Torino FC
+         US Livorno               0-2  Lazio Roma
+         Bologna FC               0-1  Sampierdarenese
+         US Alessandria 1912      4-2  SSC Napoli
+         AC Milan                 1-0  Pro Vercelli
+
+
+Matchday 17
+[Sun Feb/24]
+         Brescia Calcio           2-1  AS Roma
+         ACF Fiorentina           1-0  AC Milan
+         Lazio Roma               0-0  US Triestina
+         SSC Napoli               0-0  Juventus
+         Pro Vercelli             0-0  Palermo FBC
+         Sampierdarenese          2-1  US Alessandria 1912
+         Torino FC                0-1  Bologna FC
+         Inter                    5-1  US Livorno
+
+
+Matchday 18
+[Sun Mar/3]
+         AC Milan                 0-1  Brescia Calcio
+         US Triestina             1-1  Inter
+         Pro Vercelli             2-0  ACF Fiorentina
+         Juventus                 4-0  Sampierdarenese
+         Bologna FC               1-2  Lazio Roma
+         US Alessandria 1912      3-0  Torino FC
+         AS Roma                  4-0  SSC Napoli
+         US Livorno               0-3  Palermo FBC
+
+
+Matchday 19
+[Sun Mar/10]
+         US Triestina             1-2  US Livorno
+         Torino FC                1-3  Juventus
+         Sampierdarenese          1-0  AS Roma
+         SSC Napoli               0-1  AC Milan
+         Brescia Calcio           3-0  Pro Vercelli
+         Inter                    1-0  Bologna FC
+         Palermo FBC              0-0  ACF Fiorentina
+         Lazio Roma               0-1  US Alessandria 1912
+
+
+Matchday 20
+[Sun Mar/17]
+         ACF Fiorentina           1-0  Brescia Calcio
+         AS Roma                  2-1  Torino FC
+         Pro Vercelli             1-1  SSC Napoli
+         Palermo FBC              2-0  US Triestina
+         Juventus                 6-1  Lazio Roma
+         Bologna FC               4-0  US Livorno
+         US Alessandria 1912      1-3  Inter
+         AC Milan                 2-1  Sampierdarenese
+
+
+Matchday 21
+[Sun Mar/31]
+         Brescia Calcio           2-2  Palermo FBC
+         Lazio Roma               0-0  AS Roma
+         US Livorno               1-0  US Alessandria 1912
+         SSC Napoli               1-1  ACF Fiorentina
+         Sampierdarenese          0-0  Pro Vercelli
+         Torino FC                1-1  AC Milan
+         US Triestina             1-3  Bologna FC
+         Inter                    0-0  Juventus
+
+
+Matchday 22
+[Sun Apr/7]
+         Juventus                 2-1  US Livorno
+         AS Roma                  3-4  Inter
+         AC Milan                 1-1  Lazio Roma
+         Brescia Calcio           0-1  SSC Napoli
+         Bologna FC               0-0  Palermo FBC
+         US Alessandria 1912      3-0  US Triestina
+         Pro Vercelli             0-3  Torino FC
+         ACF Fiorentina           0-0  Sampierdarenese
+
+
+Matchday 23
+[Sun Apr/14]
+         US Triestina             2-1  Juventus
+         Torino FC                1-0  ACF Fiorentina
+         Sampierdarenese          3-0  Brescia Calcio
+         US Livorno               1-1  AS Roma
+         Bologna FC               3-3  US Alessandria 1912
+         Inter                    2-0  AC Milan
+         Palermo FBC              2-0  SSC Napoli
+         Lazio Roma               6-0  Pro Vercelli
+
+
+Matchday 24
+[Sun Apr/21]
+         SSC Napoli               1-1  Sampierdarenese
+         AS Roma                  1-2  US Triestina
+         Palermo FBC              2-0  US Alessandria 1912
+         Juventus                 1-0  Bologna FC
+         ACF Fiorentina           2-1  Lazio Roma
+         Brescia Calcio           2-1  Torino FC
+         Pro Vercelli             1-1  Inter
+         AC Milan                 1-1  US Livorno
+
+
+Matchday 25
+[Sun Apr/28]
+         US Triestina             2-1  AC Milan
+         Sampierdarenese          1-0  Palermo FBC
+         Lazio Roma               4-0  Brescia Calcio
+         Bologna FC               1-1  AS Roma
+         Inter                    1-1  ACF Fiorentina
+         US Alessandria 1912      0-0  Juventus
+         Torino FC                0-0  SSC Napoli
+         US Livorno               1-0  Pro Vercelli
+
+
+Matchday 26
+[Sun May/5]
+         Sampierdarenese          3-2  Torino FC
+         Brescia Calcio           1-1  Inter
+         ACF Fiorentina           0-1  US Livorno
+         Juventus                 2-1  Palermo FBC
+         AC Milan                 0-0  Bologna FC
+         SSC Napoli               3-0  Lazio Roma
+         AS Roma                  3-0  US Alessandria 1912
+         Pro Vercelli             4-2  US Triestina
+
+
+Matchday 27
+[Mon May/13]
+         Inter                    2-1  SSC Napoli
+         Bologna FC               5-0  Pro Vercelli
+         Juventus                 2-1  AS Roma
+         Lazio Roma               2-1  Sampierdarenese
+         US Livorno               3-1  Brescia Calcio
+         Palermo FBC              0-0  Torino FC
+         US Triestina             0-1  ACF Fiorentina
+         US Alessandria 1912      2-1  AC Milan
+
+
+Matchday 28
+[Mon May/20]
+         Pro Vercelli             1-0  US Alessandria 1912
+         Torino FC                2-2  Lazio Roma
+         AS Roma                  5-1  Palermo FBC
+         Brescia Calcio           2-1  US Triestina
+         AC Milan                 3-0  Juventus
+         ACF Fiorentina           1-0  Bologna FC
+         SSC Napoli               1-1  US Livorno
+         Sampierdarenese          0-0  Inter
+
+
+Matchday 29
+[Mon May/27]
+         US Triestina             0-0  SSC Napoli
+         AS Roma                  1-0  AC Milan
+         Palermo FBC              2-1  Lazio Roma
+         Juventus                 3-0  Pro Vercelli
+         Inter                    4-0  Torino FC
+         US Alessandria 1912      2-0  ACF Fiorentina
+         US Livorno               0-0  Sampierdarenese
+         Bologna FC               3-0  Brescia Calcio
+
+
+Matchday 30
+[Sun Jun/2]
+         Pro Vercelli             1-4  AS Roma
+         SSC Napoli               1-1  Bologna FC
+         Torino FC                1-0  US Livorno
+         Brescia Calcio           1-0  US Alessandria 1912
+         Lazio Roma               4-2  Inter
+         AC Milan                 2-1  Palermo FBC
+         ACF Fiorentina           0-1  Juventus
+         Sampierdarenese          1-0  US Triestina

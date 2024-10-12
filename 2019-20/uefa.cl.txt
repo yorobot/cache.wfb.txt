@@ -1,0 +1,203 @@
+= UEFA CL 2019/20
+
+# Date       Tue Sep/17 2019 - Sun Aug/23 2020 (341d)
+# Teams      32
+# Matches    119
+
+
+
+Group
+[Wed Sep/18]
+  18.55  Club Brugge KV (BEL)     0-0  Galatasaray (TUR)
+  21.00  Paris Saint-Germain (FRA)  3-0 (2-0)  Real Madrid (ESP)
+[Tue Oct/1]
+  18.55  Real Madrid (ESP)        2-2 (0-2)  Club Brugge KV (BEL)
+  21.00  Galatasaray (TUR)        0-1 (0-0)  Paris Saint-Germain (FRA)
+[Tue Oct/22]
+  21.00  Club Brugge KV (BEL)     0-5 (0-1)  Paris Saint-Germain (FRA)
+         Galatasaray (TUR)        0-1 (0-1)  Real Madrid (ESP)
+[Wed Nov/6]
+  21.00  Paris Saint-Germain (FRA)  1-0 (1-0)  Club Brugge KV (BEL)
+         Real Madrid (ESP)        6-0 (4-0)  Galatasaray (TUR)
+[Tue Nov/26]
+  18.55  Galatasaray (TUR)        1-1 (1-0)  Club Brugge KV (BEL)
+  21.00  Real Madrid (ESP)        2-2 (1-0)  Paris Saint-Germain (FRA)
+[Wed Dec/11]
+  21.00  Paris Saint-Germain (FRA)  5-0 (2-0)  Galatasaray (TUR)
+         Club Brugge KV (BEL)     1-3 (0-0)  Real Madrid (ESP)
+[Wed Sep/18]
+  18.55  Olympiakos Piraeus (GRE)  2-2 (1-2)  Tottenham Hotspur (ENG)
+  21.00  Bayern München (GER)     3-0 (1-0)  Crvena Zvezda (SRB)
+[Tue Oct/1]
+  21.00  Tottenham Hotspur (ENG)  2-7 (1-2)  Bayern München (GER)
+         Crvena Zvezda (SRB)      3-1 (0-1)  Olympiakos Piraeus (GRE)
+[Tue Oct/22]
+  21.00  Tottenham Hotspur (ENG)  5-0 (3-0)  Crvena Zvezda (SRB)
+         Olympiakos Piraeus (GRE)  2-3 (1-1)  Bayern München (GER)
+[Wed Nov/6]
+  18.55  Bayern München (GER)     2-0 (0-0)  Olympiakos Piraeus (GRE)
+  21.00  Crvena Zvezda (SRB)      0-4 (0-1)  Tottenham Hotspur (ENG)
+[Tue Nov/26]
+  21.00  Tottenham Hotspur (ENG)  4-2 (1-2)  Olympiakos Piraeus (GRE)
+         Crvena Zvezda (SRB)      0-6 (0-1)  Bayern München (GER)
+[Wed Dec/11]
+  21.00  Bayern München (GER)     3-1 (2-1)  Tottenham Hotspur (ENG)
+         Olympiakos Piraeus (GRE)  1-0 (0-0)  Crvena Zvezda (SRB)
+[Wed Sep/18]
+  21.00  Shakhtar Donetsk (UKR)   0-3 (0-2)  Manchester City (ENG)
+         Dinamo Zagreb (CRO)      4-0 (3-0)  Atalanta (ITA)
+[Tue Oct/1]
+  18.55  Atalanta (ITA)           1-2 (1-1)  Shakhtar Donetsk (UKR)
+  21.00  Manchester City (ENG)    2-0 (0-0)  Dinamo Zagreb (CRO)
+[Tue Oct/22]
+  18.55  Shakhtar Donetsk (UKR)   2-2 (1-1)  Dinamo Zagreb (CRO)
+  21.00  Manchester City (ENG)    5-1 (2-1)  Atalanta (ITA)
+[Wed Nov/6]
+  21.00  Dinamo Zagreb (CRO)      3-3 (1-1)  Shakhtar Donetsk (UKR)
+         Atalanta (ITA)           1-1 (0-1)  Manchester City (ENG)
+[Tue Nov/26]
+  21.00  Manchester City (ENG)    1-1 (0-0)  Shakhtar Donetsk (UKR)
+         Atalanta (ITA)           2-0 (1-0)  Dinamo Zagreb (CRO)
+[Wed Dec/11]
+  18.55  Shakhtar Donetsk (UKR)   0-3 (0-0)  Atalanta (ITA)
+         Dinamo Zagreb (CRO)      1-4 (1-1)  Manchester City (ENG)
+[Wed Sep/18]
+  21.00  Atlético Madrid (ESP)    2-2 (0-0)  Juventus (ITA)
+         Bayer Leverkusen (GER)   1-2 (1-2)  Lokomotiv Moskva (RUS)
+[Tue Oct/1]
+  21.00  Juventus (ITA)           3-0 (1-0)  Bayer Leverkusen (GER)
+         Lokomotiv Moskva (RUS)   0-2 (0-0)  Atlético Madrid (ESP)
+[Tue Oct/22]
+  18.55  Atlético Madrid (ESP)    1-0 (0-0)  Bayer Leverkusen (GER)
+  21.00  Juventus (ITA)           2-1 (0-1)  Lokomotiv Moskva (RUS)
+[Wed Nov/6]
+  18.55  Lokomotiv Moskva (RUS)   1-2 (1-1)  Juventus (ITA)
+  21.00  Bayer Leverkusen (GER)   2-1 (1-0)  Atlético Madrid (ESP)
+[Tue Nov/26]
+  18.55  Lokomotiv Moskva (RUS)   0-2 (0-1)  Bayer Leverkusen (GER)
+  21.00  Juventus (ITA)           1-0 (1-0)  Atlético Madrid (ESP)
+[Wed Dec/11]
+  21.00  Atlético Madrid (ESP)    2-0 (1-0)  Lokomotiv Moskva (RUS)
+         Bayer Leverkusen (GER)   0-2 (0-0)  Juventus (ITA)
+[Tue Sep/17]
+  21.00  SSC Napoli (ITA)         2-0 (0-0)  Liverpool FC (ENG)
+         RB Salzburg (AUT)        6-2 (5-1)  KRC Genk (BEL)
+[Wed Oct/2]
+  18.55  KRC Genk (BEL)           0-0  SSC Napoli (ITA)
+  21.00  Liverpool FC (ENG)       4-3 (3-1)  RB Salzburg (AUT)
+[Wed Oct/23]
+  21.00  RB Salzburg (AUT)        2-3 (1-1)  SSC Napoli (ITA)
+         KRC Genk (BEL)           1-4 (0-1)  Liverpool FC (ENG)
+[Tue Nov/5]
+  21.00  Liverpool FC (ENG)       2-1 (1-1)  KRC Genk (BEL)
+         SSC Napoli (ITA)         1-1 (1-1)  RB Salzburg (AUT)
+[Wed Nov/27]
+  21.00  Liverpool FC (ENG)       1-1 (0-1)  SSC Napoli (ITA)
+         KRC Genk (BEL)           1-4 (0-2)  RB Salzburg (AUT)
+[Tue Dec/10]
+  18.55  SSC Napoli (ITA)         4-0 (3-0)  KRC Genk (BEL)
+         RB Salzburg (AUT)        0-2 (0-0)  Liverpool FC (ENG)
+[Tue Sep/17]
+  18.55  Inter (ITA)              1-1 (0-0)  Slavia Praha (CZE)
+  21.00  Borussia Dortmund (GER)  0-0  FC Barcelona (ESP)
+[Wed Oct/2]
+  18.55  Slavia Praha (CZE)       0-2 (0-1)  Borussia Dortmund (GER)
+  21.00  FC Barcelona (ESP)       2-1 (0-1)  Inter (ITA)
+[Wed Oct/23]
+  21.00  Inter (ITA)              2-0 (1-0)  Borussia Dortmund (GER)
+         Slavia Praha (CZE)       1-2 (0-1)  FC Barcelona (ESP)
+[Tue Nov/5]
+  18.55  FC Barcelona (ESP)       0-0  Slavia Praha (CZE)
+  21.00  Borussia Dortmund (GER)  3-2 (0-2)  Inter (ITA)
+[Wed Nov/27]
+  21.00  FC Barcelona (ESP)       3-1 (2-0)  Borussia Dortmund (GER)
+         Slavia Praha (CZE)       1-3 (1-1)  Inter (ITA)
+[Tue Dec/10]
+  21.00  Borussia Dortmund (GER)  2-1 (1-1)  Slavia Praha (CZE)
+         Inter (ITA)              1-2 (1-1)  FC Barcelona (ESP)
+[Tue Sep/17]
+  18.55  Olympique Lyon (FRA)     1-1 (0-1)  Zenit St. Petersburg (RUS)
+  21.00  SL Benfica (POR)         1-2 (0-0)  RB Leipzig (GER)
+[Wed Oct/2]
+  21.00  Zenit St. Petersburg (RUS)  3-1 (1-0)  SL Benfica (POR)
+         RB Leipzig (GER)         0-2 (0-1)  Olympique Lyon (FRA)
+[Wed Oct/23]
+  18.55  RB Leipzig (GER)         2-1 (0-1)  Zenit St. Petersburg (RUS)
+  21.00  SL Benfica (POR)         2-1 (1-0)  Olympique Lyon (FRA)
+[Tue Nov/5]
+  18.55  Zenit St. Petersburg (RUS)  0-2 (0-1)  RB Leipzig (GER)
+  21.00  Olympique Lyon (FRA)     3-1 (2-0)  SL Benfica (POR)
+[Wed Nov/27]
+  18.55  Zenit St. Petersburg (RUS)  2-0 (1-0)  Olympique Lyon (FRA)
+  21.00  RB Leipzig (GER)         2-2 (0-1)  SL Benfica (POR)
+[Tue Dec/10]
+  21.00  SL Benfica (POR)         3-0 (0-0)  Zenit St. Petersburg (RUS)
+         Olympique Lyon (FRA)     2-2 (0-2)  RB Leipzig (GER)
+[Tue Sep/17]
+  21.00  Chelsea FC (ENG)         0-1 (0-0)  Valencia CF (ESP)
+         AFC Ajax (NED)           3-0 (1-0)  Lille OSC (FRA)
+[Wed Oct/2]
+  21.00  Valencia CF (ESP)        0-3 (0-2)  AFC Ajax (NED)
+         Lille OSC (FRA)          1-2 (1-1)  Chelsea FC (ENG)
+[Wed Oct/23]
+  18.55  AFC Ajax (NED)           0-1 (0-0)  Chelsea FC (ENG)
+  21.00  Lille OSC (FRA)          1-1 (0-0)  Valencia CF (ESP)
+[Tue Nov/5]
+  21.00  Chelsea FC (ENG)         4-4 (1-3)  AFC Ajax (NED)
+         Valencia CF (ESP)        4-1 (0-1)  Lille OSC (FRA)
+[Wed Nov/27]
+  18.55  Valencia CF (ESP)        2-2 (1-1)  Chelsea FC (ENG)
+  21.00  Lille OSC (FRA)          0-2 (0-1)  AFC Ajax (NED)
+[Tue Dec/10]
+  21.00  Chelsea FC (ENG)         2-1 (2-0)  Lille OSC (FRA)
+         AFC Ajax (NED)           0-1 (0-1)  Valencia CF (ESP)
+
+
+Round of 16
+[Tue Feb/18]
+  21.00  Borussia Dortmund (GER)  2-1 (0-0)  Paris Saint-Germain (FRA)
+         Atlético Madrid (ESP)    1-0 (1-0)  Liverpool FC (ENG)
+[Wed Feb/19]
+  21.00  Atalanta (ITA)           4-1 (2-0)  Valencia CF (ESP)
+         Tottenham Hotspur (ENG)  0-1 (0-0)  RB Leipzig (GER)
+[Tue Feb/25]
+  21.00  Chelsea FC (ENG)         0-3 (0-0)  Bayern München (GER)
+         SSC Napoli (ITA)         1-1 (1-0)  FC Barcelona (ESP)
+[Wed Feb/26]
+  21.00  Real Madrid (ESP)        1-2 (0-0)  Manchester City (ENG)
+         Olympique Lyon (FRA)     1-0 (1-0)  Juventus (ITA)
+[Tue Mar/10]
+  21.00  Valencia CF (ESP)        3-4 (1-2)  Atalanta (ITA)
+         RB Leipzig (GER)         3-0 (2-0)  Tottenham Hotspur (ENG)
+[Wed Mar/11]
+  21.00  Paris Saint-Germain (FRA)  2-0 (2-0)  Borussia Dortmund (GER)
+         Liverpool FC (ENG)       2-3 a.e.t. (1-0, 1-0)  Atlético Madrid (ESP)
+[Fri Aug/7]
+  21.00  Manchester City (ENG)    2-1 (1-1)  Real Madrid (ESP)
+         Juventus (ITA)           2-1 (1-1)  Olympique Lyon (FRA)
+[Sat Aug/8]
+  21.00  Bayern München (GER)     4-1 (2-1)  Chelsea FC (ENG)
+         FC Barcelona (ESP)       3-1 (3-1)  SSC Napoli (ITA)
+
+
+Quarterfinals
+[Wed Aug/12]
+  21.00  Atalanta (ITA)           1-2 (1-0)  Paris Saint-Germain (FRA)
+[Thu Aug/13]
+  21.00  RB Leipzig (GER)         2-1 (0-0)  Atlético Madrid (ESP)
+[Fri Aug/14]
+  21.00  FC Barcelona (ESP)       2-8 (1-4)  Bayern München (GER)
+[Sat Aug/15]
+  21.00  Manchester City (ENG)    1-3 (0-1)  Olympique Lyon (FRA)
+
+
+Semifinals
+[Tue Aug/18]
+  21.00  RB Leipzig (GER)         0-3 (0-2)  Paris Saint-Germain (FRA)
+[Wed Aug/19]
+  21.00  Olympique Lyon (FRA)     0-3 (0-2)  Bayern München (GER)
+
+
+Final
+[Sun Aug/23]
+  21.00  Paris Saint-Germain (FRA)  0-1 (0-0)  Bayern München (GER)

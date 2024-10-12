@@ -1,0 +1,95 @@
+= NIR 1 2024
+
+# Date       Sat Apr/6 - Mon May/6 2024 (30d)
+# Teams      12
+# Matches    33
+# Stages     Championship (15)  ECL Playoffs (3)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat Apr/6]
+  15.00  Coleraine FC             2-2 (0-2)  Cliftonville FC
+         Larne FC                 0-1 (0-0)  Crusaders FC
+  17.30  Glentoran FC             0-0  Linfield FC
+
+
+Matchday 2
+[Fri Apr/12]
+  19.45  Crusaders FC             1-2 (0-1)  Linfield FC
+[Sat Apr/13]
+  15.00  Coleraine FC             2-1 (0-0)  Glentoran FC
+  17.30  Larne FC                 8-1 (4-0)  Cliftonville FC
+
+
+Matchday 3
+[Tue Apr/16]
+  19.45  Crusaders FC             2-1 (1-0)  Cliftonville FC
+         Glentoran FC             1-2 (0-1)  Larne FC
+         Linfield FC              2-2 (0-1)  Coleraine FC
+
+
+Matchday 4
+[Sat Apr/20]
+  15.00  Cliftonville FC          2-0 (1-0)  Glentoran FC
+         Coleraine FC             0-2 (0-2)  Crusaders FC
+[Mon Apr/22]
+  19.45  Linfield FC              1-1 (1-1)  Larne FC
+
+
+Matchday 5
+[Sat Apr/27]
+  17.30  Glentoran FC             4-0 (1-0)  Crusaders FC
+         Larne FC                 5-0 (3-0)  Coleraine FC
+         Linfield FC              1-1 (0-0)  Cliftonville FC
+
+
+== ECL Playoffs
+
+Semifinals
+[Wed May/1]
+  19.45  Crusaders FC             3-1 (2-1)  Carrick Rangers
+         Glentoran FC             0-3 (0-2)  Coleraine FC
+
+
+Final
+[Mon May/6]
+  15.00  Crusaders FC             3-2 (2-1)  Coleraine FC
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/6]
+  15.00  Dungannon Swifts         3-2 (3-0)  Carrick Rangers
+         Glenavon FC              3-2 (1-0)  Newry City FC
+         Loughgall FC             2-3 (0-2)  Ballymena United
+
+
+Matchday 2
+[Sat Apr/13]
+  15.00  Carrick Rangers          2-1 (0-0)  Ballymena United
+         Loughgall FC             3-1 (2-0)  Glenavon FC
+         Newry City FC            0-2 (0-1)  Dungannon Swifts
+
+
+Matchday 3
+[Tue Apr/16]
+  19.45  Ballymena United         1-0 (1-0)  Glenavon FC
+         Dungannon Swifts         2-0 (0-0)  Loughgall FC
+         Newry City FC            1-3 (1-3)  Carrick Rangers
+
+
+Matchday 4
+[Sat Apr/20]
+  15.00  Ballymena United         4-0 (2-0)  Newry City FC
+         Carrick Rangers          2-1 (2-1)  Loughgall FC
+         Dungannon Swifts         2-0 (1-0)  Glenavon FC
+
+
+Matchday 5
+[Sat Apr/27]
+  17.30  Dungannon Swifts         3-0 (1-0)  Ballymena United
+         Glenavon FC              1-2 (1-2)  Carrick Rangers
+         Newry City FC            1-4 (1-2)  Loughgall FC

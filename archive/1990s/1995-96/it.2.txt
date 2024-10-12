@@ -1,0 +1,538 @@
+= IT 2 1995/96
+
+# Date       Sun Aug/27 1995 - Sun Jun/9 1996 (287d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Aug/27]
+         AC Cesena                1-0  AC Pistoiese
+         AS Fidelis Andria        0-2  Bologna FC
+         Lucchese                 1-1  Chievo Verona
+         AC Perugia               1-1  US Foggia
+         Pescara Calcio           2-4  Brescia Calcio
+         AC Reggiana              0-0  US Palermo
+         Reggina Calcio           2-2  Ancona Calcio
+         Salernitana Sport        1-0  Cosenza Calcio
+         AC Venezia               0-2  US Avellino
+         Hellas Verona            2-0  Genoa CFC
+
+
+Matchday 2
+[Sun Sep/3]
+         Ancona Calcio            0-2  Lucchese
+         US Avellino              0-1  Hellas Verona
+         Bologna FC               1-0  AC Perugia
+         Brescia Calcio           2-2  AS Fidelis Andria
+         Chievo Verona            0-0  Salernitana Sport
+         Cosenza Calcio           0-0  Pescara Calcio
+         US Foggia                1-0  AC Venezia
+         Genoa CFC                7-0  Reggina Calcio
+         US Palermo               1-1  AC Cesena
+         AC Pistoiese             2-0  AC Reggiana
+
+
+Matchday 3
+[Sun Sep/10]
+         AC Cesena                0-1  AC Venezia
+         AS Fidelis Andria        3-1  US Avellino
+         US Foggia                1-0  Ancona Calcio
+         Genoa CFC                2-1  AC Pistoiese
+         Lucchese                 0-0  Brescia Calcio
+         Pescara Calcio           0-0  US Palermo
+         AC Reggiana              0-0  AC Perugia
+         Reggina Calcio           1-1  Chievo Verona
+         Salernitana Sport        0-0  Bologna FC
+         Hellas Verona            3-0  Cosenza Calcio
+
+
+Matchday 4
+[Sun Sep/17]
+         Ancona Calcio            3-2  AC Cesena
+         US Avellino              0-0  US Foggia
+         Bologna FC               1-1  Reggina Calcio
+         Brescia Calcio           1-0  Hellas Verona
+         Chievo Verona            0-0  Pescara Calcio
+         Cosenza Calcio           3-1  AC Reggiana
+         US Palermo               3-2  AS Fidelis Andria
+         AC Perugia               2-2  Genoa CFC
+         AC Pistoiese             2-0  Lucchese
+         AC Venezia               0-3  Salernitana Sport
+
+
+Matchday 5
+[Sun Sep/24]
+         Brescia Calcio           1-0  Salernitana Sport
+         AC Cesena                2-0  AC Perugia
+         Cosenza Calcio           1-3  Chievo Verona
+         AS Fidelis Andria        1-2  Ancona Calcio
+         US Foggia                0-0  Reggina Calcio
+         Genoa CFC                1-1  AC Reggiana
+         Lucchese                 0-0  US Palermo
+         Pescara Calcio           2-1  AC Venezia
+         AC Pistoiese             1-1  US Avellino
+         Hellas Verona            1-1  Bologna FC
+
+
+Matchday 6
+[Sun Oct/1]
+         Ancona Calcio            1-2  Hellas Verona
+         US Avellino              2-1  Brescia Calcio
+         Bologna FC               2-1  Pescara Calcio
+         Chievo Verona            0-1  Genoa CFC
+         US Palermo               1-1  Cosenza Calcio
+         AC Perugia               1-0  AC Pistoiese
+         AC Reggiana              1-1  Lucchese
+         Reggina Calcio           0-0  AC Cesena
+         Salernitana Sport        3-0  US Foggia
+         AC Venezia               0-0  AS Fidelis Andria
+
+
+Matchday 7
+[Sun Oct/8]
+         US Avellino              1-0  Salernitana Sport
+         Brescia Calcio           1-1  AC Venezia
+         AC Cesena                4-2  Chievo Verona
+         Cosenza Calcio           2-0  Ancona Calcio
+         AS Fidelis Andria        2-1  US Foggia
+         Genoa CFC                2-1  Lucchese
+         AC Perugia               0-0  US Palermo
+         Pescara Calcio           4-1  AC Reggiana
+         AC Pistoiese             1-1  Bologna FC
+         Hellas Verona            1-1  Reggina Calcio
+
+
+Matchday 8
+[Sun Oct/15]
+         Ancona Calcio            4-0  AC Perugia
+         Bologna FC               1-0  Brescia Calcio
+         US Foggia                0-0  Chievo Verona
+         Genoa CFC                2-1  AC Cesena
+         Lucchese                 0-1  Pescara Calcio
+         US Palermo               2-1  US Avellino
+         AC Reggiana              3-0  AC Venezia
+         Reggina Calcio           0-0  Cosenza Calcio
+         Salernitana Sport        1-0  AS Fidelis Andria
+         Hellas Verona            2-3  AC Pistoiese
+
+
+Matchday 9
+[Sun Oct/22]
+         US Avellino              1-0  Bologna FC
+         Brescia Calcio           0-0  US Palermo
+         AC Cesena                1-1  AC Reggiana
+         Chievo Verona            1-1  AC Pistoiese
+         Cosenza Calcio           1-1  Genoa CFC
+         AS Fidelis Andria        1-0  Reggina Calcio
+         AC Perugia               5-0  Lucchese
+         Pescara Calcio           3-2  US Foggia
+         Salernitana Sport        1-0  Ancona Calcio
+         AC Venezia               1-1  Hellas Verona
+
+
+Matchday 10
+[Sun Oct/29]
+         Ancona Calcio            2-1  US Avellino
+         Bologna FC               1-1  AC Venezia
+         US Foggia                0-5  Brescia Calcio
+         Genoa CFC                5-1  Pescara Calcio
+         Lucchese                 4-3  AC Cesena
+         US Palermo               2-1  Chievo Verona
+         AC Pistoiese             1-1  Cosenza Calcio
+         AC Reggiana              2-1  Salernitana Sport
+         Reggina Calcio           1-0  AC Perugia
+         Hellas Verona            0-0  AS Fidelis Andria
+
+
+Matchday 11
+[Sun Nov/5]
+         US Avellino              0-3  AC Reggiana
+         Brescia Calcio           2-0  Genoa CFC
+         AC Cesena                2-0  Hellas Verona
+         Chievo Verona            1-1  AS Fidelis Andria
+         Cosenza Calcio           2-2  AC Perugia
+         US Foggia                0-0  Bologna FC
+         US Palermo               1-0  AC Pistoiese
+         Pescara Calcio           0-3  Ancona Calcio
+         Salernitana Sport        0-2  Reggina Calcio
+         AC Venezia               0-0  Lucchese
+
+
+Matchday 12
+[Sun Nov/12]
+         Ancona Calcio            2-1  Brescia Calcio
+         AC Cesena                4-0  US Avellino
+         AS Fidelis Andria        1-1  Cosenza Calcio
+         Genoa CFC                1-0  US Palermo
+         Lucchese                 1-1  Salernitana Sport
+         AC Perugia               0-0  Chievo Verona
+         AC Pistoiese             0-1  Pescara Calcio
+         AC Reggiana              1-0  Bologna FC
+         Reggina Calcio           0-2  AC Venezia
+         Hellas Verona            1-0  US Foggia
+
+
+Matchday 13
+[Sun Nov/26]
+         US Avellino              3-0  Reggina Calcio
+         Bologna FC               1-1  Ancona Calcio
+         Brescia Calcio           3-2  AC Pistoiese
+         Chievo Verona            1-2  Hellas Verona
+         Cosenza Calcio           1-0  Lucchese
+         AS Fidelis Andria        0-3  AC Perugia
+         US Foggia                3-0  AC Reggiana
+         Pescara Calcio           3-2  AC Cesena
+         Salernitana Sport        3-1  Genoa CFC
+         AC Venezia               1-1  US Palermo
+
+
+Matchday 14
+[Sun Dec/3]
+         Ancona Calcio            1-2  AC Venezia
+         AC Cesena                0-0  Cosenza Calcio
+         Genoa CFC                0-1  Bologna FC
+         Lucchese                 1-0  US Avellino
+         US Palermo               0-0  US Foggia
+         AC Perugia               2-1  Pescara Calcio
+         AC Pistoiese             1-1  AS Fidelis Andria
+         AC Reggiana              1-0  Chievo Verona
+         Reggina Calcio           2-1  Brescia Calcio
+         Hellas Verona            1-0  Salernitana Sport
+
+
+Matchday 15
+[Sun Dec/10]
+         US Avellino              3-3  Genoa CFC
+         Bologna FC               0-0  AC Cesena
+         Brescia Calcio           0-1  AC Reggiana
+         Chievo Verona            1-0  Ancona Calcio
+         AS Fidelis Andria        0-0  Lucchese
+         US Foggia                4-0  AC Pistoiese
+         Pescara Calcio           1-0  Hellas Verona
+         Reggina Calcio           4-0  US Palermo
+         Salernitana Sport        1-1  AC Perugia
+         AC Venezia               0-0  Cosenza Calcio
+
+
+Matchday 16
+[Sun Dec/17]
+         AC Cesena                1-0  US Foggia
+         Chievo Verona            0-0  AC Venezia
+         Cosenza Calcio           3-2  Brescia Calcio
+         Genoa CFC                2-1  Ancona Calcio
+         Lucchese                 2-1  Bologna FC
+         US Palermo               2-1  Hellas Verona
+         AC Perugia               2-1  US Avellino
+         Pescara Calcio           2-0  Reggina Calcio
+         AC Pistoiese             1-1  Salernitana Sport
+         AC Reggiana              0-0  AS Fidelis Andria
+
+
+Matchday 17
+[Sat Dec/23]
+         Ancona Calcio            1-0  AC Reggiana
+         US Avellino              1-2  Cosenza Calcio
+         Bologna FC               0-0  US Palermo
+         Brescia Calcio           0-1  Chievo Verona
+         AS Fidelis Andria        2-1  Pescara Calcio
+         US Foggia                2-1  Genoa CFC
+         Reggina Calcio           1-1  AC Pistoiese
+         Salernitana Sport        0-0  AC Cesena
+         AC Venezia               3-1  AC Perugia
+         Hellas Verona            0-0  Lucchese
+
+
+Matchday 18
+[Sun Jan/7]
+         AC Cesena                2-1  AS Fidelis Andria
+         Chievo Verona            0-0  Bologna FC
+         Cosenza Calcio           3-0  US Foggia
+         Genoa CFC                0-1  AC Venezia
+         Lucchese                 3-1  Reggina Calcio
+         US Palermo               2-1  Salernitana Sport
+         AC Perugia               3-1  Brescia Calcio
+         Pescara Calcio           1-1  US Avellino
+         AC Pistoiese             1-0  Ancona Calcio
+         AC Reggiana              2-0  Hellas Verona
+
+
+Matchday 19
+[Sun Jan/14]
+         Ancona Calcio            1-0  US Palermo
+         US Avellino              0-0  Chievo Verona
+         Bologna FC               3-2  Cosenza Calcio
+         Brescia Calcio           0-0  AC Cesena
+         AS Fidelis Andria        4-0  Genoa CFC
+         US Foggia                0-0  Lucchese
+         Reggina Calcio           2-0  AC Reggiana
+         Salernitana Sport        0-2  Pescara Calcio
+         AC Venezia               1-0  AC Pistoiese
+         Hellas Verona            0-0  AC Perugia
+
+
+Matchday 20
+[Sun Jan/21]
+         AC Pistoiese             1-2  AC Cesena
+         Bologna FC               2-1  AS Fidelis Andria
+         Chievo Verona            2-2  Lucchese
+         US Foggia                1-0  AC Perugia
+         Brescia Calcio           1-0  Pescara Calcio
+         US Palermo               0-0  AC Reggiana
+         Ancona Calcio            4-2  Reggina Calcio
+         Cosenza Calcio           0-0  Salernitana Sport
+         US Avellino              2-1  AC Venezia
+         Genoa CFC                2-2  Hellas Verona
+
+
+Matchday 21
+[Sun Jan/28]
+         Lucchese                 3-1  Ancona Calcio
+         Hellas Verona            2-1  US Avellino
+         AC Perugia               2-1  Bologna FC
+         AS Fidelis Andria        1-0  Brescia Calcio
+         Salernitana Sport        2-2  Chievo Verona
+         Pescara Calcio           1-1  Cosenza Calcio
+         AC Venezia               1-1  US Foggia
+         Reggina Calcio           2-1  Genoa CFC
+         AC Cesena                1-0  US Palermo
+         AC Reggiana              2-0  AC Pistoiese
+
+
+Matchday 22
+[Sun Feb/4]
+         AC Venezia               1-0  AC Cesena
+         US Avellino              2-1  AS Fidelis Andria
+         Ancona Calcio            3-0  US Foggia
+         AC Pistoiese             0-0  Genoa CFC
+         Brescia Calcio           1-1  Lucchese
+         US Palermo               1-1  Pescara Calcio
+         AC Perugia               2-1  AC Reggiana
+         Chievo Verona            2-0  Reggina Calcio
+         Bologna FC               0-0  Salernitana Sport
+         Cosenza Calcio           1-2  Hellas Verona
+
+
+Matchday 23
+[Sun Feb/18]
+         AC Cesena                2-1  Ancona Calcio
+         US Foggia                0-1  US Avellino
+         Reggina Calcio           0-1  Bologna FC
+         Hellas Verona            2-1  Brescia Calcio
+         Pescara Calcio           0-0  Chievo Verona
+         AC Reggiana              1-1  Cosenza Calcio
+         AS Fidelis Andria        4-0  US Palermo
+         Genoa CFC                0-1  AC Perugia
+         Lucchese                 2-1  AC Pistoiese
+         Salernitana Sport        3-1  AC Venezia
+
+
+Matchday 24
+[Sun Feb/25]
+         Salernitana Sport        5-0  Brescia Calcio
+         AC Perugia               2-2  AC Cesena
+         Chievo Verona            3-0  Cosenza Calcio
+         Ancona Calcio            1-1  AS Fidelis Andria
+         Reggina Calcio           1-0  US Foggia
+         AC Reggiana              0-0  Genoa CFC
+         US Palermo               2-2  Lucchese
+         AC Venezia               2-1  Pescara Calcio
+         US Avellino              2-0  AC Pistoiese
+         Bologna FC               0-0  Hellas Verona
+
+
+Matchday 25
+[Sun Mar/3]
+         Hellas Verona            3-0  Ancona Calcio
+         Brescia Calcio           2-0  US Avellino
+         Pescara Calcio           0-0  Bologna FC
+         Genoa CFC                3-1  Chievo Verona
+         Cosenza Calcio           1-1  US Palermo
+         AC Pistoiese             2-1  AC Perugia
+         Lucchese                 0-2  AC Reggiana
+         AC Cesena                0-0  Reggina Calcio
+         US Foggia                1-3  Salernitana Sport
+         AS Fidelis Andria        1-1  AC Venezia
+
+
+Matchday 26
+[Sun Mar/10]
+         Salernitana Sport        0-0  US Avellino
+         AC Venezia               3-0  Brescia Calcio
+         Chievo Verona            1-0  AC Cesena
+         Ancona Calcio            1-3  Cosenza Calcio
+         US Foggia                0-1  AS Fidelis Andria
+         Lucchese                 2-0  Genoa CFC
+         US Palermo               0-1  AC Perugia
+         AC Reggiana              3-1  Pescara Calcio
+         Bologna FC               1-1  AC Pistoiese
+         Reggina Calcio           1-1  Hellas Verona
+
+
+Matchday 27
+[Sun Mar/24]
+         AC Perugia               1-1  Ancona Calcio
+         Brescia Calcio           1-0  Bologna FC
+         Chievo Verona            4-0  US Foggia
+         AC Cesena                3-1  Genoa CFC
+         Pescara Calcio           2-1  Lucchese
+         US Avellino              2-3  US Palermo
+         AC Venezia               0-0  AC Reggiana
+         Cosenza Calcio           2-0  Reggina Calcio
+         AS Fidelis Andria        1-2  Salernitana Sport
+         AC Pistoiese             1-2  Hellas Verona
+
+
+Matchday 28
+[Sun Mar/31]
+         Bologna FC               4-0  US Avellino
+         US Palermo               2-0  Brescia Calcio
+         AC Reggiana              1-0  AC Cesena
+         AC Pistoiese             0-0  Chievo Verona
+         Genoa CFC                3-0  Cosenza Calcio
+         Reggina Calcio           2-2  AS Fidelis Andria
+         Lucchese                 2-1  AC Perugia
+         US Foggia                1-0  Pescara Calcio
+         Ancona Calcio            0-1  Salernitana Sport
+         Hellas Verona            2-1  AC Venezia
+
+
+Matchday 29
+[Sat Apr/6]
+         US Avellino              0-0  Ancona Calcio
+         AC Venezia               1-1  Bologna FC
+         Brescia Calcio           0-1  US Foggia
+         Pescara Calcio           1-0  Genoa CFC
+         AC Cesena                1-2  Lucchese
+         Chievo Verona            1-1  US Palermo
+         Cosenza Calcio           2-0  AC Pistoiese
+         Salernitana Sport        1-0  AC Reggiana
+         AC Perugia               2-1  Reggina Calcio
+         AS Fidelis Andria        0-0  Hellas Verona
+
+
+Matchday 30
+[Sun Apr/14]
+         AC Reggiana              1-0  US Avellino
+         Genoa CFC                2-2  Brescia Calcio
+         Hellas Verona            6-1  AC Cesena
+         AS Fidelis Andria        1-1  Chievo Verona
+         AC Perugia               2-1  Cosenza Calcio
+         Bologna FC               2-0  US Foggia
+         AC Pistoiese             2-1  US Palermo
+         Ancona Calcio            1-1  Pescara Calcio
+         Reggina Calcio           1-1  Salernitana Sport
+         Lucchese                 2-0  AC Venezia
+
+
+Matchday 31
+[Sat Apr/20]
+         Brescia Calcio           4-0  Ancona Calcio
+         US Avellino              2-1  AC Cesena
+         Cosenza Calcio           2-1  AS Fidelis Andria
+         US Palermo               4-0  Genoa CFC
+         Salernitana Sport        1-1  Lucchese
+         Chievo Verona            2-4  AC Perugia
+         Pescara Calcio           1-2  AC Pistoiese
+         Bologna FC               0-0  AC Reggiana
+         AC Venezia               1-0  Reggina Calcio
+         US Foggia                2-1  Hellas Verona
+
+
+Matchday 32
+[Sun Apr/28]
+         Reggina Calcio           1-1  US Avellino
+         Ancona Calcio            1-1  Bologna FC
+         AC Pistoiese             1-1  Brescia Calcio
+         Hellas Verona            1-0  Chievo Verona
+         Lucchese                 2-1  Cosenza Calcio
+         AC Perugia               1-0  AS Fidelis Andria
+         AC Reggiana              5-1  US Foggia
+         AC Cesena                3-2  Pescara Calcio
+         Genoa CFC                1-0  Salernitana Sport
+         US Palermo               1-0  AC Venezia
+
+
+Matchday 33
+[Sun May/5]
+         AC Venezia               0-0  Ancona Calcio
+         Cosenza Calcio           2-2  AC Cesena
+         Bologna FC               2-1  Genoa CFC
+         US Avellino              2-0  Lucchese
+         US Foggia                1-0  US Palermo
+         Pescara Calcio           2-2  AC Perugia
+         AS Fidelis Andria        2-1  AC Pistoiese
+         Chievo Verona            0-0  AC Reggiana
+         Brescia Calcio           1-1  Reggina Calcio
+         Salernitana Sport        1-2  Hellas Verona
+
+
+Matchday 34
+[Sun May/12]
+         Genoa CFC                3-0  US Avellino
+         AC Cesena                2-3  Bologna FC
+         AC Reggiana              3-2  Brescia Calcio
+         Ancona Calcio            0-0  Chievo Verona
+         Lucchese                 1-1  AS Fidelis Andria
+         AC Pistoiese             2-3  US Foggia
+         Hellas Verona            3-0  Pescara Calcio
+         US Palermo               1-0  Reggina Calcio
+         AC Perugia               1-2  Salernitana Sport
+         Cosenza Calcio           3-1  AC Venezia
+
+
+Matchday 35
+[Sun May/19]
+         US Foggia                1-0  AC Cesena
+         AC Venezia               0-0  Chievo Verona
+         Brescia Calcio           4-1  Cosenza Calcio
+         Ancona Calcio            2-3  Genoa CFC
+         Bologna FC               2-0  Lucchese
+         Hellas Verona            0-0  US Palermo
+         US Avellino              1-1  AC Perugia
+         Reggina Calcio           1-0  Pescara Calcio
+         Salernitana Sport        2-1  AC Pistoiese
+         AS Fidelis Andria        1-1  AC Reggiana
+
+
+Matchday 36
+[Sun May/26]
+         AC Reggiana              2-1  Ancona Calcio
+         Cosenza Calcio           3-3  US Avellino
+         US Palermo               1-2  Bologna FC
+         Chievo Verona            2-0  Brescia Calcio
+         Pescara Calcio           5-1  AS Fidelis Andria
+         Genoa CFC                1-1  US Foggia
+         AC Pistoiese             0-2  Reggina Calcio
+         AC Cesena                3-2  Salernitana Sport
+         AC Perugia               1-0  AC Venezia
+         Lucchese                 1-1  Hellas Verona
+
+
+Matchday 37
+[Sun Jun/2]
+         AS Fidelis Andria        1-0  AC Cesena
+         Bologna FC               1-0  Chievo Verona
+         US Foggia                1-0  Cosenza Calcio
+         AC Venezia               2-2  Genoa CFC
+         Reggina Calcio           2-0  Lucchese
+         Salernitana Sport        2-1  US Palermo
+         Brescia Calcio           1-1  AC Perugia
+         US Avellino              1-2  Pescara Calcio
+         Ancona Calcio            1-0  AC Pistoiese
+         Hellas Verona            0-1  AC Reggiana
+
+
+Matchday 38
+[Sun Jun/9]
+         US Palermo               2-0  Ancona Calcio
+         Chievo Verona            3-0  US Avellino
+         Cosenza Calcio           0-3  Bologna FC
+         AC Cesena                1-2  Brescia Calcio
+         Genoa CFC                2-0  AS Fidelis Andria
+         Lucchese                 5-1  US Foggia
+         AC Reggiana              1-3  Reggina Calcio
+         Pescara Calcio           1-1  Salernitana Sport
+         AC Pistoiese             2-3  AC Venezia
+         AC Perugia               3-2  Hellas Verona

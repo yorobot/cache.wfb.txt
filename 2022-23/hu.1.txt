@@ -1,0 +1,398 @@
+= HU 1 2022/23
+
+# Date       Fri Jul/29 2022 - Sun May/28 2023 (303d)
+# Teams      12
+# Matches    198
+
+
+
+Matchday 1
+[Fri Jul/29]
+  20.00  Budapest Honvéd          0-1 (0-0)  Zalaegerszegi TE
+[Sat Jul/30]
+  17.45  Kecskeméti TE            0-0  Budapesti Vasas
+  20.00  Újpest FC                1-1 (1-0)  Mezőkövesdi SE
+[Sun Jul/31]
+  15.45  Kisvárda FC              2-2 (0-0)  Debreceni VSC
+  18.00  Paksi SE                 2-0 (1-0)  Fehérvár FC
+  20.30  Ferencvárosi TC          1-0 (0-0)  Puskás FC
+
+
+Matchday 2
+[Fri Aug/5]
+  20.00  Budapesti Vasas          2-2 (2-1)  Paksi SE
+[Sat Aug/6]
+  20.00  Debreceni VSC            1-1 (0-0)  Kecskeméti TE
+[Sun Aug/7]
+  15.30  Kisvárda FC              4-2 (2-1)  Mezőkövesdi SE
+  17.45  Puskás FC                2-0 (1-0)  Újpest FC
+  20.00  Fehérvár FC              4-0 (2-0)  Budapest Honvéd
+[Tue Jan/24]
+  18.30  Zalaegerszegi TE         1-2 (1-1)  Ferencvárosi TC
+
+
+Matchday 3
+[Fri Aug/12]
+  20.00  Debreceni VSC            1-1 (0-1)  Budapesti Vasas
+[Sat Aug/13]
+  18.00  Kecskeméti TE            1-0 (1-0)  Mezőkövesdi SE
+  20.15  Újpest FC                1-1 (0-1)  Zalaegerszegi TE
+[Sun Aug/14]
+  18.00  Kisvárda FC              1-1 (0-1)  Puskás FC
+  20.00  Ferencvárosi TC          4-0 (3-0)  Fehérvár FC
+         Budapest Honvéd          3-3 (2-0)  Paksi SE
+
+
+Matchday 4
+[Fri Aug/19]
+  20.00  Puskás FC                1-1 (0-1)  Kecskeméti TE
+[Sun Aug/21]
+  17.55  Zalaegerszegi TE         1-3 (1-1)  Kisvárda FC
+  20.00  Budapesti Vasas          1-2 (1-1)  Budapest Honvéd
+[Mon Aug/22]
+  20.00  Mezőkövesdi SE           4-2 (3-1)  Debreceni VSC
+[Mon Oct/10]
+  19.00  Fehérvár FC              0-1 (0-0)  Újpest FC
+[Wed Feb/1]
+  18.30  Paksi SE                 1-3 (0-0)  Ferencvárosi TC
+
+
+Matchday 5
+[Fri Aug/26]
+  20.00  Újpest FC                2-3 (0-1)  Paksi SE
+[Sat Aug/27]
+  15.30  Mezőkövesdi SE           1-1 (1-1)  Budapesti Vasas
+  17.30  Kecskeméti TE            3-1 (1-1)  Zalaegerszegi TE
+  19.45  Debreceni VSC            1-1 (1-0)  Puskás FC
+[Sun Aug/28]
+  14.30  Kisvárda FC              3-1 (0-0)  Fehérvár FC
+  17.30  Ferencvárosi TC          3-1 (1-0)  Budapest Honvéd
+
+
+Matchday 6
+[Tue Aug/30]
+  17.45  Puskás FC                1-0 (0-0)  Mezőkövesdi SE
+  20.00  Zalaegerszegi TE         4-2 (1-0)  Debreceni VSC
+[Wed Aug/31]
+  17.00  Paksi SE                 1-3 (0-2)  Kisvárda FC
+  19.30  Fehérvár FC              2-1 (1-1)  Kecskeméti TE
+  20.30  Budapesti Vasas          0-1 (0-1)  Ferencvárosi TC
+[Thu Sep/1]
+  19.00  Budapest Honvéd          0-0  Újpest FC
+
+
+Matchday 7
+[Fri Sep/2]
+  20.00  Mezőkövesdi SE           0-5 (0-1)  Zalaegerszegi TE
+[Sat Sep/3]
+  14.00  Kecskeméti TE            3-1 (0-0)  Paksi SE
+  16.15  Budapesti Vasas          1-1 (1-0)  Puskás FC
+  18.15  Debreceni VSC            1-0 (1-0)  Fehérvár FC
+[Sun Sep/4]
+  14.45  Kisvárda FC              0-1 (0-1)  Budapest Honvéd
+  17.30  Újpest FC                0-6 (0-4)  Ferencvárosi TC
+
+
+Matchday 8
+[Sat Sep/10]
+  15.30  Paksi SE                 1-0 (1-0)  Debreceni VSC
+  17.45  Budapest Honvéd          0-0  Kecskeméti TE
+  20.00  Fehérvár FC              2-1 (1-0)  Mezőkövesdi SE
+[Sun Sep/11]
+  15.00  Zalaegerszegi TE         1-2 (1-0)  Puskás FC
+  17.30  Ferencvárosi TC          3-0 (1-0)  Kisvárda FC
+  20.00  Újpest FC                2-1 (1-1)  Budapesti Vasas
+
+
+Matchday 9
+[Fri Sep/30]
+  20.00  Mezőkövesdi SE           1-2 (1-0)  Paksi SE
+[Sat Oct/1]
+  14.30  Újpest FC                4-0 (3-0)  Kisvárda FC
+  17.00  Debreceni VSC            4-3 (3-0)  Budapest Honvéd
+  19.30  Budapesti Vasas          1-1 (1-0)  Zalaegerszegi TE
+[Sun Oct/2]
+  16.30  Kecskeméti TE            2-0 (2-0)  Ferencvárosi TC
+  18.45  Puskás FC                1-1 (0-0)  Fehérvár FC
+
+
+Matchday 10
+[Fri Oct/7]
+  18.00  Fehérvár FC              1-1 (1-0)  Zalaegerszegi TE
+  20.05  Újpest FC                1-2 (0-0)  Kecskeméti TE
+[Sat Oct/8]
+  17.00  Kisvárda FC              2-0 (2-0)  Budapesti Vasas
+  19.30  Budapest Honvéd          2-2 (2-2)  Mezőkövesdi SE
+[Sun Oct/9]
+  15.30  Paksi SE                 1-3 (1-1)  Puskás FC
+  18.00  Ferencvárosi TC          2-0 (1-0)  Debreceni VSC
+
+
+Matchday 11
+[Fri Oct/14]
+  20.00  Kecskeméti TE            3-3 (1-1)  Kisvárda FC
+[Sat Oct/15]
+  14.45  Zalaegerszegi TE         3-0 (2-0)  Paksi SE
+  17.00  Puskás FC                1-0 (1-0)  Budapest Honvéd
+  19.30  Budapesti Vasas          2-0 (1-0)  Fehérvár FC
+[Sun Oct/16]
+  13.45  Debreceni VSC            4-1 (1-1)  Újpest FC
+  17.45  Mezőkövesdi SE           2-1 (1-1)  Ferencvárosi TC
+
+
+Matchday 12
+[Fri Oct/21]
+  20.00  Budapesti Vasas          1-2 (0-2)  Kecskeméti TE
+[Sat Oct/22]
+  13.30  Zalaegerszegi TE         0-2 (0-1)  Budapest Honvéd
+  16.30  Fehérvár FC              1-1 (1-0)  Paksi SE
+  18.30  Puskás FC                2-4 (2-3)  Ferencvárosi TC
+[Mon Oct/24]
+  18.00  Mezőkövesdi SE           1-0 (0-0)  Újpest FC
+  20.15  Debreceni VSC            2-3 (1-1)  Kisvárda FC
+
+
+Matchday 13
+[Fri Oct/28]
+  20.00  Mezőkövesdi SE           1-1 (0-0)  Kisvárda FC
+[Sat Oct/29]
+  14.15  Budapest Honvéd          0-1 (0-1)  Fehérvár FC
+  17.00  Kecskeméti TE            2-2 (1-0)  Debreceni VSC
+  19.30  Paksi SE                 0-1 (0-1)  Budapesti Vasas
+[Sun Oct/30]
+  15.00  Újpest FC                3-3 (1-1)  Puskás FC
+  17.30  Ferencvárosi TC          2-1 (1-0)  Zalaegerszegi TE
+
+
+Matchday 14
+[Sat Nov/5]
+  14.45  Mezőkövesdi SE           2-1 (2-1)  Kecskeméti TE
+  17.00  Puskás FC                0-1 (0-0)  Kisvárda FC
+  19.30  Zalaegerszegi TE         1-0 (1-0)  Újpest FC
+[Sun Nov/6]
+  15.15  Budapesti Vasas          0-3 (0-3)  Debreceni VSC
+  18.00  Paksi SE                 5-0 (2-0)  Budapest Honvéd
+  20.00  Fehérvár FC              2-2 (0-1)  Ferencvárosi TC
+
+
+Matchday 15
+[Tue Nov/8]
+  18.00  Kisvárda FC              0-3 (0-1)  Zalaegerszegi TE
+  20.00  Kecskeméti TE            1-1 (0-1)  Puskás FC
+[Wed Nov/9]
+  18.00  Debreceni VSC            1-0 (0-0)  Mezőkövesdi SE
+  18.15  Ferencvárosi TC          3-2 (2-2)  Paksi SE
+  20.00  Újpest FC                2-1 (1-0)  Fehérvár FC
+[Thu Nov/10]
+  19.00  Budapest Honvéd          2-0 (0-0)  Budapesti Vasas
+
+
+Matchday 16
+[Sat Nov/12]
+  14.15  Puskás FC                2-1 (1-1)  Debreceni VSC
+  16.00  Paksi SE                 3-1 (1-0)  Újpest FC
+  18.15  Zalaegerszegi TE         0-0  Kecskeméti TE
+[Sun Nov/13]
+  13.30  Fehérvár FC              4-1 (2-0)  Kisvárda FC
+  15.45  Budapest Honvéd          0-2 (0-0)  Ferencvárosi TC
+  18.00  Budapesti Vasas          1-0 (1-0)  Mezőkövesdi SE
+
+
+Matchday 17
+[Sat Jan/28]
+  14.30  Kisvárda FC              2-2 (0-1)  Paksi SE
+  17.00  Debreceni VSC            3-0 (2-0)  Zalaegerszegi TE
+  19.30  Ferencvárosi TC          0-0  Budapesti Vasas
+[Sun Jan/29]
+  13.00  Mezőkövesdi SE           1-0 (0-0)  Puskás FC
+  15.30  Újpest FC                2-1 (0-1)  Budapest Honvéd
+  17.30  Kecskeméti TE            2-1 (1-1)  Fehérvár FC
+
+
+Matchday 18
+[Fri Feb/3]
+  20.00  Puskás FC                1-1 (1-0)  Budapesti Vasas
+[Sat Feb/4]
+  14.30  Paksi SE                 0-0  Kecskeméti TE
+  17.00  Budapest Honvéd          1-1 (0-0)  Kisvárda FC
+  19.30  Fehérvár FC              1-1 (0-1)  Debreceni VSC
+[Sun Feb/5]
+  15.00  Zalaegerszegi TE         0-0  Mezőkövesdi SE
+  17.30  Ferencvárosi TC          3-1 (1-0)  Újpest FC
+
+
+Matchday 19
+[Fri Feb/10]
+  20.00  Mezőkövesdi SE           2-1 (1-1)  Fehérvár FC
+[Sat Feb/11]
+  14.30  Kecskeméti TE            2-2 (2-2)  Budapest Honvéd
+  17.00  Kisvárda FC              0-0  Ferencvárosi TC
+  19.30  Debreceni VSC            2-1 (0-0)  Paksi SE
+[Sun Feb/12]
+  15.00  Puskás FC                1-0 (0-0)  Zalaegerszegi TE
+  17.30  Budapesti Vasas          0-1 (0-0)  Újpest FC
+
+
+Matchday 20
+[Fri Feb/17]
+  20.00  Kisvárda FC              2-1 (1-0)  Újpest FC
+[Sat Feb/18]
+  14.30  Paksi SE                 0-2 (0-0)  Mezőkövesdi SE
+  17.00  Ferencvárosi TC          1-1 (1-0)  Kecskeméti TE
+  19.30  Fehérvár FC              1-1 (0-0)  Puskás FC
+[Sun Feb/19]
+  15.00  Zalaegerszegi TE         0-0  Budapesti Vasas
+  17.30  Budapest Honvéd          2-3 (0-1)  Debreceni VSC
+
+
+Matchday 21
+[Fri Feb/24]
+  20.00  Mezőkövesdi SE           0-0  Budapest Honvéd
+[Sat Feb/25]
+  14.30  Zalaegerszegi TE         2-1 (1-1)  Fehérvár FC
+  17.00  Puskás FC                1-4 (1-2)  Paksi SE
+  19.30  Budapesti Vasas          2-2 (1-1)  Kisvárda FC
+[Sun Feb/26]
+  14.00  Kecskeméti TE            2-2 (0-1)  Újpest FC
+  16.30  Debreceni VSC            0-2 (0-1)  Ferencvárosi TC
+
+
+Matchday 22
+[Fri Mar/3]
+  20.15  Ferencvárosi TC          1-1 (1-1)  Mezőkövesdi SE
+[Sat Mar/4]
+  14.15  Kisvárda FC              0-1 (0-0)  Kecskeméti TE
+  17.45  Paksi SE                 3-1 (2-1)  Zalaegerszegi TE
+  20.15  Fehérvár FC              2-1 (1-1)  Budapesti Vasas
+[Sun Mar/5]
+  15.00  Budapest Honvéd          3-1 (0-0)  Puskás FC
+  18.30  Újpest FC                1-1 (1-1)  Debreceni VSC
+
+
+Matchday 23
+[Sat Mar/11]
+  14.30  Kisvárda FC              0-1 (0-0)  Debreceni VSC
+  17.00  Paksi SE                 2-1 (1-1)  Fehérvár FC
+  19.30  Budapest Honvéd          1-0 (1-0)  Zalaegerszegi TE
+[Sun Mar/12]
+  14.05  Kecskeméti TE            2-0 (0-0)  Budapesti Vasas
+  16.00  Újpest FC                1-0 (1-0)  Mezőkövesdi SE
+  18.15  Ferencvárosi TC          1-2 (0-2)  Puskás FC
+
+
+Matchday 24
+[Sat Mar/18]
+  14.05  Mezőkövesdi SE           1-1 (1-1)  Kisvárda FC
+  15.45  Debreceni VSC            1-2 (0-0)  Kecskeméti TE
+  19.45  Fehérvár FC              2-0 (1-0)  Budapest Honvéd
+[Sun Mar/19]
+  13.30  Budapesti Vasas          2-3 (0-1)  Paksi SE
+  15.30  Puskás FC                5-1 (1-0)  Újpest FC
+  20.15  Zalaegerszegi TE         1-0 (1-0)  Ferencvárosi TC
+
+
+Matchday 25
+[Sat Apr/1]
+  13.00  Kisvárda FC              2-2 (1-0)  Puskás FC
+  15.00  Újpest FC                3-2 (1-0)  Zalaegerszegi TE
+  19.30  Budapest Honvéd          1-2 (0-1)  Paksi SE
+[Sun Apr/2]
+  14.15  Kecskeméti TE            0-1 (0-0)  Mezőkövesdi SE
+  16.30  Ferencvárosi TC          2-2 (0-1)  Fehérvár FC
+  19.00  Debreceni VSC            3-1 (2-0)  Budapesti Vasas
+
+
+Matchday 26
+[Fri Apr/7]
+  20.00  Mezőkövesdi SE           0-1 (0-0)  Debreceni VSC
+[Sat Apr/8]
+  14.30  Puskás FC                0-3 (0-1)  Kecskeméti TE
+  17.00  Fehérvár FC              0-0  Újpest FC
+  19.30  Paksi SE                 3-2 (1-1)  Ferencvárosi TC
+[Sun Apr/9]
+  14.15  Budapesti Vasas          0-1 (0-0)  Budapest Honvéd
+  16.30  Zalaegerszegi TE         0-0  Kisvárda FC
+
+
+Matchday 27
+[Fri Apr/14]
+  20.00  Debreceni VSC            0-1 (0-0)  Puskás FC
+[Sat Apr/15]
+  14.30  Kecskeméti TE            3-0 (2-0)  Zalaegerszegi TE
+  17.00  Mezőkövesdi SE           1-4 (1-2)  Budapesti Vasas
+  19.30  Ferencvárosi TC          3-0 (1-0)  Budapest Honvéd
+[Sun Apr/16]
+  15.30  Kisvárda FC              0-0  Fehérvár FC
+  18.00  Újpest FC                3-2 (2-1)  Paksi SE
+
+
+Matchday 28
+[Fri Apr/21]
+  20.00  Budapest Honvéd          0-1 (0-0)  Újpest FC
+[Sat Apr/22]
+  15.00  Fehérvár FC              1-2 (0-2)  Kecskeméti TE
+  19.30  Budapesti Vasas          0-1 (0-0)  Ferencvárosi TC
+[Sun Apr/23]
+  14.15  Paksi SE                 2-0 (1-0)  Kisvárda FC
+  16.30  Puskás FC                2-1 (2-0)  Mezőkövesdi SE
+  18.45  Zalaegerszegi TE         0-2 (0-1)  Debreceni VSC
+
+
+Matchday 29
+[Fri Apr/28]
+  20.00  Kecskeméti TE            2-3 (2-0)  Paksi SE
+[Sat Apr/29]
+  14.15  Mezőkövesdi SE           1-2 (1-0)  Zalaegerszegi TE
+  17.00  Kisvárda FC              2-2 (1-1)  Budapest Honvéd
+  19.30  Budapesti Vasas          2-2 (0-0)  Puskás FC
+[Sun Apr/30]
+  15.30  Debreceni VSC            2-0 (0-0)  Fehérvár FC
+[Mon May/1]
+  18.00  Újpest FC                2-3 (1-1)  Ferencvárosi TC
+
+
+Matchday 30
+[Fri May/5]
+  18.30  Budapest Honvéd          1-0 (0-0)  Kecskeméti TE
+[Sat May/6]
+  14.00  Újpest FC                1-1 (1-1)  Budapesti Vasas
+  16.30  Paksi SE                 0-0  Debreceni VSC
+  19.45  Ferencvárosi TC          3-0 (0-0)  Kisvárda FC
+[Sun May/7]
+  15.00  Zalaegerszegi TE         2-1 (2-1)  Puskás FC
+  19.30  Fehérvár FC              1-1 (1-0)  Mezőkövesdi SE
+
+
+Matchday 31
+[Sat May/13]
+  14.15  Budapesti Vasas          1-1 (0-1)  Zalaegerszegi TE
+  17.00  Debreceni VSC            0-0  Budapest Honvéd
+  19.30  Kecskeméti TE            2-0 (1-0)  Ferencvárosi TC
+[Sun May/14]
+  13.30  Mezőkövesdi SE           6-1 (2-0)  Paksi SE
+  15.30  Kisvárda FC              2-0 (0-0)  Újpest FC
+  18.00  Puskás FC                2-1 (0-0)  Fehérvár FC
+
+
+Matchday 32
+[Fri May/19]
+  18.15  Paksi SE                 0-2 (0-0)  Puskás FC
+  20.30  Kisvárda FC              2-1 (1-1)  Budapesti Vasas
+[Sat May/20]
+  14.10  Fehérvár FC              3-0 (2-0)  Zalaegerszegi TE
+  17.45  Ferencvárosi TC          1-3 (1-0)  Debreceni VSC
+[Sun May/21]
+  14.10  Budapest Honvéd          2-3 (1-1)  Mezőkövesdi SE
+  17.30  Újpest FC                3-0 (2-0)  Kecskeméti TE
+
+
+Matchday 33
+[Fri May/26]
+  18.15  Kecskeméti TE            1-0 (0-0)  Kisvárda FC
+  20.30  Zalaegerszegi TE         1-1 (1-1)  Paksi SE
+[Sat May/27]
+  20.00  Debreceni VSC            2-0 (1-0)  Újpest FC
+         Puskás FC                2-1 (0-0)  Budapest Honvéd
+         Budapesti Vasas          0-0  Fehérvár FC
+[Sun May/28]
+  17.30  Mezőkövesdi SE           1-0 (1-0)  Ferencvárosi TC

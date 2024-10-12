@@ -1,0 +1,366 @@
+= IT 1 1937/38
+
+# Date       Sun Sep/12 1937 - Sun Apr/24 1938 (224d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sun Sep/12]
+         Genova 1893 Circolo del Calcio  0-0  Atalanta
+         Juventus                 2-0  US Livorno
+         Lucchese                 3-3  Inter
+         AC Milan                 2-1  AC Liguria
+         AS Roma                  4-0  ACF Fiorentina
+         US Triestina             0-0  Lazio Roma
+         AS Bari                  0-0  Torino FC
+         Bologna FC               3-2  SSC Napoli
+
+
+Matchday 2
+[Sun Sep/19]
+         Lazio Roma               2-1  Genova 1893 Circolo del Calcio
+         Torino FC                3-2  Lucchese
+         AC Liguria               1-1  AS Roma
+         Inter                    3-1  US Livorno
+         AS Bari                  2-3  AC Milan
+         Atalanta                 0-1  Juventus
+         ACF Fiorentina           2-1  Bologna FC
+         SSC Napoli               3-0  US Triestina
+
+
+Matchday 3
+[Sun Sep/26]
+         US Triestina             1-1  Inter
+         AS Roma                  2-1  SSC Napoli
+         AC Milan                 0-1  Torino FC
+         US Livorno               2-3  AC Liguria
+         Genova 1893 Circolo del Calcio  1-0  ACF Fiorentina
+         Bologna FC               2-1  Atalanta
+         Lucchese                 0-0  Lazio Roma
+         Juventus                 3-1  AS Bari
+
+
+Matchday 4
+[Sun Oct/3]
+         Lucchese                 1-1  US Livorno
+         AC Liguria               0-0  Bologna FC
+         Torino FC                1-1  Juventus
+         Inter                    5-1  ACF Fiorentina
+         AS Bari                  2-0  Genova 1893 Circolo del Calcio
+         Lazio Roma               1-1  AS Roma
+         Atalanta                 0-3  US Triestina
+         SSC Napoli               1-1  AC Milan
+
+
+Matchday 5
+[Sun Oct/10]
+         US Triestina             1-0  AC Liguria
+         AS Roma                  5-0  Lucchese
+         AC Milan                 2-2  Lazio Roma
+         Juventus                 2-1  SSC Napoli
+         ACF Fiorentina           1-1  AS Bari
+         Bologna FC               1-0  Inter
+         US Livorno               1-1  Atalanta
+         Genova 1893 Circolo del Calcio  2-1  Torino FC
+
+
+Matchday 6
+[Sun Oct/17]
+         AS Bari                  1-1  US Livorno
+         SSC Napoli               3-0  ACF Fiorentina
+         Lucchese                 0-0  Juventus
+         Torino FC                1-0  US Triestina
+         Lazio Roma               2-0  Bologna FC
+         Atalanta                 0-2  AS Roma
+         Inter                    2-1  AC Milan
+         AC Liguria               0-1  Genova 1893 Circolo del Calcio
+
+
+Matchday 7
+[Sun Oct/24]
+         Atalanta                 1-0  Lucchese
+         Bologna FC               2-0  AS Roma
+         ACF Fiorentina           1-1  Juventus
+         Genova 1893 Circolo del Calcio  2-2  US Triestina
+         Lazio Roma               3-1  AS Bari
+         US Livorno               1-2  AC Milan
+         Torino FC                3-0  AC Liguria
+         Inter                    2-1  SSC Napoli
+
+
+Matchday 8
+[Sun Nov/7]
+         US Livorno               1-0  SSC Napoli
+         AC Milan                 3-0  Atalanta
+         AS Roma                  2-1  Torino FC
+         Genova 1893 Circolo del Calcio  1-1  Inter
+         Bologna FC               3-0  Lucchese
+         ACF Fiorentina           3-1  AC Liguria
+         Juventus                 1-1  Lazio Roma
+         US Triestina             6-0  AS Bari
+
+
+Matchday 9
+[Sun Nov/14]
+         US Triestina             0-0  AC Milan
+         Torino FC                3-1  Bologna FC
+         SSC Napoli               2-2  Genova 1893 Circolo del Calcio
+         AC Liguria               2-1  Atalanta
+         AS Bari                  2-0  AS Roma
+         Inter                    2-1  Juventus
+         Lucchese                 2-1  ACF Fiorentina
+         Lazio Roma               3-0  US Livorno
+
+
+Matchday 10
+[Sun Nov/21]
+         ACF Fiorentina           2-2  US Triestina
+         AC Milan                 1-0  AS Roma
+         US Livorno               1-1  Torino FC
+         AC Liguria               2-1  Lucchese
+         Bologna FC               4-1  AS Bari
+         Atalanta                 2-0  SSC Napoli
+         Lazio Roma               1-3  Inter
+         Juventus                 1-2  Genova 1893 Circolo del Calcio
+
+
+Matchday 11
+[Sun Nov/28]
+         US Triestina             3-1  Bologna FC
+         Torino FC                2-0  ACF Fiorentina
+         SSC Napoli               1-0  Lazio Roma
+         Genova 1893 Circolo del Calcio  4-1  US Livorno
+         AS Bari                  2-1  Atalanta
+         Inter                    2-1  AC Liguria
+         AS Roma                  2-1  Juventus
+         Lucchese                 1-1  AC Milan
+
+
+Matchday 12
+[Sun Dec/12]
+         Juventus                 2-0  US Triestina
+         Lucchese                 2-2  SSC Napoli
+         US Livorno               0-2  AS Roma
+         AC Milan                 3-1  ACF Fiorentina
+         Bologna FC               2-2  Genova 1893 Circolo del Calcio
+         Atalanta                 1-1  Inter
+         AC Liguria               5-0  AS Bari
+         Lazio Roma               6-0  Torino FC
+
+
+Matchday 13
+[Sun Dec/19]
+         US Triestina             0-0  AS Roma
+         SSC Napoli               3-2  AC Liguria
+         Juventus                 0-0  Bologna FC
+         ACF Fiorentina           1-2  US Livorno
+         AS Bari                  2-1  Lucchese
+         Inter                    1-0  Torino FC
+         Lazio Roma               4-0  Atalanta
+         Genova 1893 Circolo del Calcio  0-1  AC Milan
+
+
+Matchday 14
+[Sun Jan/2]
+         US Livorno               0-1  US Triestina
+         AS Roma                  1-1  Inter
+         Torino FC                2-1  Atalanta
+         Lucchese                 0-4  Genova 1893 Circolo del Calcio
+         ACF Fiorentina           1-1  Lazio Roma
+         AS Bari                  3-1  SSC Napoli
+         AC Milan                 0-1  Bologna FC
+         AC Liguria               1-3  Juventus
+
+
+Matchday 15
+[Sun Jan/9]
+         US Triestina             0-0  Lucchese
+         AS Roma                  1-3  Genova 1893 Circolo del Calcio
+         AC Liguria               2-1  Lazio Roma
+         Bologna FC               5-1  US Livorno
+         Atalanta                 1-1  ACF Fiorentina
+         Inter                    9-2  AS Bari
+         SSC Napoli               1-1  Torino FC
+         Juventus                 2-0  AC Milan
+
+
+Matchday 16
+[Sun Jan/16]
+         US Livorno               0-1  Juventus
+         Atalanta                 3-4  Genova 1893 Circolo del Calcio
+         Torino FC                2-4  AS Bari
+         SSC Napoli               1-1  Bologna FC
+         Inter                    4-0  Lucchese
+         ACF Fiorentina           1-4  AS Roma
+         Lazio Roma               2-1  US Triestina
+         AC Liguria               1-1  AC Milan
+
+
+Matchday 17
+[Sun Jan/23]
+         US Triestina             3-0  SSC Napoli
+         AS Roma                  1-0  AC Liguria
+         Lucchese                 2-2  Torino FC
+         Juventus                 5-0  Atalanta
+         Genova 1893 Circolo del Calcio  2-1  Lazio Roma
+         Bologna FC               0-0  ACF Fiorentina
+         AC Milan                 5-1  AS Bari
+         US Livorno               0-0  Inter
+
+
+Matchday 18
+[Sun Jan/30]
+         ACF Fiorentina           1-2  Genova 1893 Circolo del Calcio
+         Lazio Roma               3-0  Lucchese
+         Torino FC                0-0  AC Milan
+         SSC Napoli               2-2  AS Roma
+         Inter                    1-2  US Triestina
+         AS Bari                  0-0  Juventus
+         Atalanta                 1-2  Bologna FC
+         AC Liguria               1-1  US Livorno
+
+
+Matchday 19
+[Sun Feb/6]
+         US Triestina             0-0  Atalanta
+         AS Roma                  2-1  Lazio Roma
+         US Livorno               2-1  Lucchese
+         Genova 1893 Circolo del Calcio  4-1  AS Bari
+         ACF Fiorentina           0-3  Inter
+         Bologna FC               3-2  AC Liguria
+         AC Milan                 3-1  SSC Napoli
+         Juventus                 3-0  Torino FC
+
+
+Matchday 20
+[Sun Feb/13]
+         Lazio Roma               1-1  AC Milan
+         AC Liguria               1-2  US Triestina
+         Torino FC                0-1  Genova 1893 Circolo del Calcio
+         SSC Napoli               1-1  Juventus
+         Inter                    2-0  Bologna FC
+         AS Bari                  1-0  ACF Fiorentina
+         Atalanta                 1-3  US Livorno
+         Lucchese                 2-0  AS Roma
+
+
+Matchday 21
+[Sun Feb/20]
+         US Triestina             1-0  Torino FC
+         AS Roma                  2-1  Atalanta
+         US Livorno               1-0  AS Bari
+         Genova 1893 Circolo del Calcio  0-2  AC Liguria
+         ACF Fiorentina           1-3  SSC Napoli
+         Bologna FC               0-2  Lazio Roma
+         AC Milan                 1-0  Inter
+         Juventus                 1-0  Lucchese
+
+
+Matchday 22
+[Sun Feb/27]
+         Lucchese                 3-2  Atalanta
+         AC Milan                 1-0  US Livorno
+         US Triestina             2-1  Genova 1893 Circolo del Calcio
+         AS Roma                  0-1  Bologna FC
+         AC Liguria               0-3  Torino FC
+         Juventus                 5-2  ACF Fiorentina
+         AS Bari                  5-1  Lazio Roma
+         SSC Napoli               1-1  Inter
+
+
+Matchday 23
+[Sun Mar/6]
+         SSC Napoli               1-1  US Livorno
+         AC Liguria               1-1  ACF Fiorentina
+         Torino FC                3-1  AS Roma
+         AS Bari                  0-0  US Triestina
+         Atalanta                 0-0  AC Milan
+         Inter                    0-0  Genova 1893 Circolo del Calcio
+         Lucchese                 3-3  Bologna FC
+         Lazio Roma               1-1  Juventus
+
+
+Matchday 24
+[Sun Mar/13]
+         Juventus                 2-1  Inter
+         AC Milan                 0-0  US Triestina
+         AS Roma                  3-2  AS Bari
+         US Livorno               1-0  Lazio Roma
+         ACF Fiorentina           0-0  Lucchese
+         Atalanta                 2-0  AC Liguria
+         Bologna FC               2-0  Torino FC
+         Genova 1893 Circolo del Calcio  2-1  SSC Napoli
+
+
+Matchday 25
+[Sun Mar/20]
+         US Triestina             2-1  ACF Fiorentina
+         Torino FC                4-1  US Livorno
+         SSC Napoli               1-0  Atalanta
+         Genova 1893 Circolo del Calcio  1-2  Juventus
+         AS Bari                  0-1  Bologna FC
+         Inter                    3-1  Lazio Roma
+         AS Roma                  3-1  AC Milan
+         Lucchese                 0-0  AC Liguria
+
+
+Matchday 26
+[Sun Mar/27]
+         Juventus                 0-0  AS Roma
+         Lazio Roma               0-0  SSC Napoli
+         AC Milan                 4-0  Lucchese
+         US Livorno               0-1  Genova 1893 Circolo del Calcio
+         Atalanta                 0-0  AS Bari
+         ACF Fiorentina           1-2  Torino FC
+         Bologna FC               0-0  US Triestina
+         AC Liguria               3-1  Inter
+
+
+Matchday 27
+[Sun Apr/3]
+         Torino FC                1-0  Lazio Roma
+         SSC Napoli               2-1  Lucchese
+         US Triestina             2-0  Juventus
+         ACF Fiorentina           0-1  AC Milan
+         AS Bari                  0-0  AC Liguria
+         Inter                    1-0  Atalanta
+         AS Roma                  1-0  US Livorno
+         Genova 1893 Circolo del Calcio  1-3  Bologna FC
+
+
+Matchday 28
+[Sun Apr/10]
+         Lucchese                 2-1  AS Bari
+         AS Roma                  1-1  US Triestina
+         Torino FC                1-1  Inter
+         AC Milan                 2-2  Genova 1893 Circolo del Calcio
+         AC Liguria               0-0  SSC Napoli
+         Atalanta                 0-0  Lazio Roma
+         US Livorno               1-1  ACF Fiorentina
+         Bologna FC               0-0  Juventus
+
+
+Matchday 29
+[Sun Apr/17]
+         Inter                    1-0  AS Roma
+         Atalanta                 2-1  Torino FC
+         Bologna FC               2-2  AC Milan
+         Genova 1893 Circolo del Calcio  3-0  Lucchese
+         Juventus                 0-1  AC Liguria
+         Lazio Roma               5-0  ACF Fiorentina
+         SSC Napoli               1-0  AS Bari
+         US Triestina             0-2  US Livorno
+
+
+Matchday 30
+[Sun Apr/24]
+         AC Milan                 1-1  Juventus
+         Lucchese                 1-0  US Triestina
+         US Livorno               3-2  Bologna FC
+         Lazio Roma               3-0  AC Liguria
+         Genova 1893 Circolo del Calcio  1-1  AS Roma
+         AS Bari                  0-2  Inter
+         Torino FC                0-0  SSC Napoli
+         ACF Fiorentina           4-0  Atalanta

@@ -1,0 +1,622 @@
+= ES 1 2019/20
+
+# Date       Fri Aug/16 2019 - Sun Jul/19 2020 (338d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Aug/16]
+  21.00  Athletic Bilbao          1-0 (0-0)  FC Barcelona
+[Sat Aug/17]
+  17.00  RC Celta                 1-3 (0-1)  Real Madrid
+  19.00  Valencia CF              1-1 (0-0)  Real Sociedad
+  20.00  RCD Mallorca             2-1 (1-0)  SD Eibar
+  21.00  CD Leganés               0-1 (0-0)  CA Osasuna
+         Villarreal CF            4-4 (1-1)  Granada CF
+[Sun Aug/18]
+  19.00  Espanyol Barcelona       0-2 (0-1)  Sevilla FC
+  21.00  Real Betis               1-2 (0-0)  Real Valladolid
+  22.00  Atlético Madrid          1-0 (1-0)  Getafe CF
+  17.00  CD Alavés                1-0 (0-0)  Levante UD
+
+
+Matchday 2
+[Fri Aug/23]
+  20.00  Granada CF               0-1 (0-0)  Sevilla FC
+  22.00  Levante UD               2-1 (0-1)  Villarreal CF
+[Sat Aug/24]
+  19.00  Real Madrid              1-1 (0-0)  Real Valladolid
+  21.00  RC Celta                 1-0 (1-0)  Valencia CF
+         Getafe CF                1-1 (1-1)  Athletic Bilbao
+  17.00  CA Osasuna               0-0  SD Eibar
+[Sun Aug/25]
+  17.00  CD Alavés                0-0  Espanyol Barcelona
+         RCD Mallorca             0-1 (0-0)  Real Sociedad
+  19.00  CD Leganés               0-1 (0-0)  Atlético Madrid
+  21.00  FC Barcelona             5-2 (1-1)  Real Betis
+
+
+Matchday 3
+[Fri Aug/30]
+  22.00  Athletic Bilbao          2-0 (2-0)  Real Sociedad
+  20.00  Sevilla FC               1-1 (0-0)  RC Celta
+[Sat Aug/31]
+  17.00  CA Osasuna               2-2 (1-0)  FC Barcelona
+  19.00  Getafe CF                1-1 (1-1)  CD Alavés
+         Levante UD               2-0 (0-0)  Real Valladolid
+  21.00  Real Betis               2-1 (0-0)  CD Leganés
+[Sun Sep/1]
+  19.00  Atlético Madrid          3-2 (1-2)  SD Eibar
+         Espanyol Barcelona       0-3 (0-1)  Granada CF
+  21.00  Villarreal CF            2-2 (1-1)  Real Madrid
+  17.00  Valencia CF              2-0 (1-0)  RCD Mallorca
+
+
+Matchday 4
+[Fri Sep/13]
+  21.00  RCD Mallorca             0-0  Athletic Bilbao
+[Sat Sep/14]
+  16.00  CD Leganés               0-3 (0-2)  Villarreal CF
+  18.30  Real Sociedad            2-0 (0-0)  Atlético Madrid
+  21.00  FC Barcelona             5-2 (2-1)  Valencia CF
+  13.00  Real Madrid              3-2 (3-0)  Levante UD
+[Sun Sep/15]
+  12.00  SD Eibar                 1-2 (0-0)  Espanyol Barcelona
+  14.00  CD Alavés                0-1 (0-1)  Sevilla FC
+  16.00  RC Celta                 0-2 (0-1)  Granada CF
+  18.30  Real Valladolid          1-1 (0-0)  CA Osasuna
+  21.00  Real Betis               1-1 (0-1)  Getafe CF
+
+
+Matchday 5
+[Fri Sep/20]
+  21.00  CA Osasuna               0-0  Real Betis
+[Sat Sep/21]
+  16.00  Levante UD               0-0  SD Eibar
+  18.30  Atlético Madrid          0-0  RC Celta
+  21.00  Granada CF               2-0 (1-0)  FC Barcelona
+  13.00  Villarreal CF            2-0 (0-0)  Real Valladolid
+[Sun Sep/22]
+  12.00  Getafe CF                4-2 (2-0)  RCD Mallorca
+  14.00  Espanyol Barcelona       1-3 (0-2)  Real Sociedad
+  16.00  Valencia CF              1-1 (1-1)  CD Leganés
+  18.30  Athletic Bilbao          2-0 (1-0)  CD Alavés
+  21.00  Sevilla FC               0-1 (0-0)  Real Madrid
+
+
+Matchday 6
+[Tue Sep/24]
+  20.00  Real Betis               3-1 (1-1)  Levante UD
+  21.00  FC Barcelona             2-1 (2-1)  Villarreal CF
+  19.00  Real Valladolid          1-1 (1-1)  Granada CF
+[Wed Sep/25]
+  19.00  CD Leganés               1-1 (0-0)  Athletic Bilbao
+         RCD Mallorca             0-2 (0-1)  Atlético Madrid
+  20.00  Valencia CF              3-3 (3-1)  Getafe CF
+  21.00  Real Madrid              2-0 (1-0)  CA Osasuna
+[Thu Sep/26]
+  20.00  RC Celta                 1-1 (0-0)  Espanyol Barcelona
+  21.00  Real Sociedad            3-0 (3-0)  CD Alavés
+  19.00  SD Eibar                 3-2 (0-2)  Sevilla FC
+
+
+Matchday 7
+[Fri Sep/27]
+  21.00  Villarreal CF            5-1 (1-0)  Real Betis
+[Sat Sep/28]
+  16.00  Getafe CF                0-2 (0-1)  FC Barcelona
+  18.30  Granada CF               1-0 (1-0)  CD Leganés
+  21.00  Atlético Madrid          0-0  Real Madrid
+  13.00  Athletic Bilbao          0-1 (0-1)  Valencia CF
+[Sun Sep/29]
+  12.00  Espanyol Barcelona       0-2 (0-1)  Real Valladolid
+  14.00  SD Eibar                 2-0 (0-0)  RC Celta
+  16.00  CD Alavés                2-0 (0-0)  RCD Mallorca
+  18.30  Levante UD               1-1 (1-0)  CA Osasuna
+  21.00  Sevilla FC               3-2 (1-1)  Real Sociedad
+
+
+Matchday 8
+[Fri Oct/4]
+  21.00  Real Betis               1-1 (0-1)  SD Eibar
+[Sat Oct/5]
+  13.00  CD Leganés               1-2 (0-1)  Levante UD
+  16.00  Real Madrid              4-2 (2-0)  Granada CF
+  18.30  Valencia CF              2-1 (1-0)  CD Alavés
+  21.00  CA Osasuna               2-1 (0-1)  Villarreal CF
+[Sun Oct/6]
+  14.00  RC Celta                 1-0 (0-0)  Athletic Bilbao
+  16.00  Real Valladolid          0-0  Atlético Madrid
+  18.30  Real Sociedad            1-2 (1-0)  Getafe CF
+  21.00  FC Barcelona             4-0 (3-0)  Sevilla FC
+  12.00  RCD Mallorca             2-0 (1-0)  Espanyol Barcelona
+
+
+Matchday 9
+[Fri Oct/18]
+  21.00  Granada CF               1-0 (1-0)  CA Osasuna
+[Sat Oct/19]
+  13.00  SD Eibar                 0-3 (0-1)  FC Barcelona
+  16.00  Atlético Madrid          1-1 (1-0)  Valencia CF
+  18.30  Getafe CF                2-0 (0-0)  CD Leganés
+  21.00  RCD Mallorca             1-0 (1-0)  Real Madrid
+[Sun Oct/20]
+  12.00  CD Alavés                2-0 (0-0)  RC Celta
+  14.00  Real Sociedad            3-1 (2-1)  Real Betis
+  16.00  Espanyol Barcelona       0-1 (0-1)  Villarreal CF
+  18.30  Athletic Bilbao          1-1 (1-0)  Real Valladolid
+  21.00  Sevilla FC               1-0 (0-0)  Levante UD
+
+
+Matchday 10
+[Fri Oct/25]
+  21.00  Villarreal CF            4-1 (1-0)  CD Alavés
+[Sat Oct/26]
+  18.30  Real Valladolid          2-0 (2-0)  SD Eibar
+  21.00  Atlético Madrid          2-0 (1-0)  Athletic Bilbao
+  16.00  CD Leganés               1-0 (1-0)  RCD Mallorca
+[Sun Oct/27]
+  12.00  RC Celta                 0-1 (0-0)  Real Sociedad
+  14.00  Granada CF               1-0 (0-0)  Real Betis
+  16.00  Levante UD               0-1 (0-1)  Espanyol Barcelona
+  18.30  Sevilla FC               2-0 (0-0)  Getafe CF
+  21.00  CA Osasuna               3-1 (1-1)  Valencia CF
+
+
+Matchday 11
+[Tue Oct/29]
+  19.00  CD Alavés                1-1 (0-0)  Atlético Madrid
+  21.15  FC Barcelona             5-1 (3-1)  Real Valladolid
+[Wed Oct/30]
+  19.00  Real Sociedad            1-2 (0-2)  Levante UD
+         Valencia CF              1-1 (0-1)  Sevilla FC
+  20.00  Athletic Bilbao          3-0 (2-0)  Espanyol Barcelona
+  21.00  Real Betis               2-1 (1-0)  RC Celta
+  21.15  Real Madrid              5-0 (3-0)  CD Leganés
+[Thu Oct/31]
+  21.15  Getafe CF                3-1 (2-0)  Granada CF
+  19.00  SD Eibar                 2-1 (0-0)  Villarreal CF
+         RCD Mallorca             2-2 (1-0)  CA Osasuna
+
+
+Matchday 12
+[Sat Nov/2]
+  13.00  Espanyol Barcelona       1-2 (1-0)  Valencia CF
+  16.00  Levante UD               3-1 (0-1)  FC Barcelona
+  18.30  Sevilla FC               1-1 (1-0)  Atlético Madrid
+  21.00  Real Madrid              0-0  Real Betis
+[Sun Nov/3]
+  14.00  Villarreal CF            0-0  Athletic Bilbao
+  12.00  Real Valladolid          3-0 (1-0)  RCD Mallorca
+  18.30  CD Leganés               1-2 (1-1)  SD Eibar
+  16.00  CA Osasuna               4-2 (3-1)  CD Alavés
+  18.30  RC Celta                 0-1 (0-1)  Getafe CF
+  21.00  Granada CF               1-2 (1-1)  Real Sociedad
+
+
+Matchday 13
+[Fri Nov/8]
+  21.00  Real Sociedad            1-1 (0-0)  CD Leganés
+[Sat Nov/9]
+  13.00  CD Alavés                3-0 (2-0)  Real Valladolid
+  16.00  Valencia CF              2-0 (0-0)  Granada CF
+  18.30  SD Eibar                 0-4 (0-3)  Real Madrid
+  21.00  FC Barcelona             4-1 (2-1)  RC Celta
+[Sun Nov/10]
+  12.00  RCD Mallorca             3-1 (2-0)  Villarreal CF
+  21.00  Real Betis               1-2 (1-1)  Sevilla FC
+  14.00  Athletic Bilbao          2-1 (0-1)  Levante UD
+  16.00  Atlético Madrid          3-1 (1-1)  Espanyol Barcelona
+  18.30  Getafe CF                0-0  CA Osasuna
+
+
+Matchday 14
+[Fri Nov/22]
+  21.00  Levante UD               2-1 (0-0)  RCD Mallorca
+[Sat Nov/23]
+  21.00  Real Madrid              3-1 (1-1)  Real Sociedad
+  13.00  CD Leganés               1-2 (1-0)  FC Barcelona
+  16.00  Real Betis               2-1 (1-1)  Valencia CF
+  18.30  Granada CF               1-1 (0-0)  Atlético Madrid
+[Sun Nov/24]
+  12.00  Espanyol Barcelona       1-1 (1-1)  Getafe CF
+  14.00  CA Osasuna               1-2 (0-1)  Athletic Bilbao
+  16.00  SD Eibar                 0-2 (0-0)  CD Alavés
+  18.30  Villarreal CF            1-3 (0-0)  RC Celta
+  21.00  Real Valladolid          0-1 (0-1)  Sevilla FC
+
+
+Matchday 15
+[Fri Nov/29]
+  21.00  RC Celta                 0-0  Real Valladolid
+[Sat Nov/30]
+  21.00  Valencia CF              2-1 (0-0)  Villarreal CF
+  13.00  CD Alavés                1-2 (0-0)  Real Madrid
+  16.00  Real Sociedad            4-1 (1-1)  SD Eibar
+  18.30  RCD Mallorca             1-2 (0-2)  Real Betis
+[Sun Dec/1]
+  12.00  Sevilla FC               1-0 (0-0)  CD Leganés
+  14.00  Athletic Bilbao          2-0 (1-0)  Granada CF
+  16.00  Espanyol Barcelona       2-4 (1-0)  CA Osasuna
+  18.30  Getafe CF                4-0 (0-0)  Levante UD
+  21.00  Atlético Madrid          0-1 (0-0)  FC Barcelona
+
+
+Matchday 16
+[Fri Dec/6]
+  21.00  Villarreal CF            0-0  Atlético Madrid
+[Sat Dec/7]
+  21.00  FC Barcelona             5-2 (4-1)  RCD Mallorca
+  13.00  Real Madrid              2-0 (1-0)  Espanyol Barcelona
+  16.00  Granada CF               3-0 (0-0)  CD Alavés
+  18.30  Levante UD               2-4 (2-1)  Valencia CF
+[Sun Dec/8]
+  16.00  Real Valladolid          0-0  Real Sociedad
+  12.00  SD Eibar                 0-1 (0-0)  Getafe CF
+  14.00  Real Betis               3-2 (3-1)  Athletic Bilbao
+  21.00  CA Osasuna               1-1 (1-1)  Sevilla FC
+  18.30  CD Leganés               3-2 (2-0)  RC Celta
+
+
+Matchday 17
+[Fri Dec/13]
+  21.00  CD Alavés                1-1 (0-1)  CD Leganés
+[Sat Dec/14]
+  13.00  Granada CF               1-2 (0-0)  Levante UD
+  16.00  Real Sociedad            2-2 (1-1)  FC Barcelona
+  18.30  Athletic Bilbao          0-0  SD Eibar
+  21.00  Atlético Madrid          2-0 (0-0)  CA Osasuna
+[Sun Dec/15]
+  21.00  Valencia CF              1-1 (0-0)  Real Madrid
+  12.00  Getafe CF                2-0 (1-0)  Real Valladolid
+  14.00  RC Celta                 2-2 (1-1)  RCD Mallorca
+  16.00  Espanyol Barcelona       2-2 (2-1)  Real Betis
+  18.30  Sevilla FC               1-2 (0-1)  Villarreal CF
+
+
+Matchday 10
+[Wed Dec/18]
+  20.00  FC Barcelona             0-0  Real Madrid
+
+
+Matchday 18
+[Fri Dec/20]
+  21.00  SD Eibar                 3-0 (2-0)  Granada CF
+[Sat Dec/21]
+  16.00  FC Barcelona             4-1 (2-0)  CD Alavés
+  18.30  Villarreal CF            1-0 (0-0)  Getafe CF
+  21.00  Real Valladolid          1-1 (0-0)  Valencia CF
+  13.00  RCD Mallorca             0-2 (0-1)  Sevilla FC
+[Sun Dec/22]
+  12.00  CD Leganés               2-0 (1-0)  Espanyol Barcelona
+  14.00  CA Osasuna               3-4 (1-3)  Real Sociedad
+  16.00  Real Betis               1-2 (0-0)  Atlético Madrid
+  18.30  Levante UD               3-1 (0-1)  RC Celta
+  21.00  Real Madrid              0-0  Athletic Bilbao
+
+
+Matchday 19
+[Fri Jan/3]
+  19.00  Real Valladolid          2-2 (1-2)  CD Leganés
+  21.00  Sevilla FC               1-1 (0-1)  Athletic Bilbao
+[Sat Jan/4]
+  16.00  Getafe CF                0-3 (0-1)  Real Madrid
+  18.30  Atlético Madrid          2-1 (2-1)  Levante UD
+  21.00  Espanyol Barcelona       2-2 (1-0)  FC Barcelona
+  13.00  Valencia CF              1-0 (1-0)  SD Eibar
+[Sun Jan/5]
+  14.00  Real Sociedad            1-2 (1-0)  Villarreal CF
+  16.00  CD Alavés                1-1 (1-0)  Real Betis
+  21.00  RC Celta                 1-1 (0-0)  CA Osasuna
+  12.00  Granada CF               1-0 (1-0)  RCD Mallorca
+
+
+Matchday 20
+[Fri Jan/17]
+  21.00  CD Leganés               0-3 (0-3)  Getafe CF
+[Sat Jan/18]
+  16.00  Real Madrid              2-1 (0-0)  Sevilla FC
+  18.30  CA Osasuna               0-0  Real Valladolid
+  21.00  SD Eibar                 2-0 (1-0)  Atlético Madrid
+  13.00  Levante UD               0-1 (0-0)  CD Alavés
+[Sun Jan/19]
+  12.00  RCD Mallorca             4-1 (3-0)  Valencia CF
+  14.00  Real Betis               3-0 (2-0)  Real Sociedad
+  16.00  Villarreal CF            1-2 (0-1)  Espanyol Barcelona
+  18.30  Athletic Bilbao          1-1 (0-0)  RC Celta
+  21.00  FC Barcelona             1-0 (0-0)  Granada CF
+
+
+Matchday 21
+[Fri Jan/24]
+  21.00  CA Osasuna               2-0 (0-0)  Levante UD
+[Sat Jan/25]
+  16.00  Valencia CF              2-0 (0-0)  FC Barcelona
+  18.30  CD Alavés                1-2 (0-1)  Villarreal CF
+  21.00  Sevilla FC               2-0 (2-0)  Granada CF
+  13.00  Espanyol Barcelona       1-1 (0-1)  Athletic Bilbao
+[Sun Jan/26]
+  12.00  Atlético Madrid          0-0  CD Leganés
+  14.00  RC Celta                 0-0  SD Eibar
+  16.00  Getafe CF                1-0 (0-0)  Real Betis
+  18.30  Real Sociedad            3-0 (0-0)  RCD Mallorca
+  21.00  Real Valladolid          0-1 (0-0)  Real Madrid
+
+
+Matchday 22
+[Sat Feb/1]
+  13.00  Granada CF               2-1 (1-1)  Espanyol Barcelona
+  16.00  Real Madrid              1-0 (0-0)  Atlético Madrid
+  18.30  RCD Mallorca             0-1 (0-0)  Real Valladolid
+  21.00  Valencia CF              1-0 (0-0)  RC Celta
+[Sun Feb/2]
+  14.00  SD Eibar                 1-1 (1-1)  Real Betis
+  16.00  Athletic Bilbao          0-2 (0-1)  Getafe CF
+  18.30  Sevilla FC               1-1 (0-0)  CD Alavés
+         Villarreal CF            3-1 (1-0)  CA Osasuna
+  21.00  FC Barcelona             2-1 (2-0)  Levante UD
+  12.00  CD Leganés               2-1 (0-1)  Real Sociedad
+
+
+Matchday 23
+[Fri Feb/7]
+  21.00  CD Alavés                2-1 (0-0)  SD Eibar
+[Sat Feb/8]
+  13.00  Levante UD               2-0 (2-0)  CD Leganés
+  16.00  Getafe CF                3-0 (0-0)  Valencia CF
+  18.30  Real Valladolid          1-1 (1-0)  Villarreal CF
+  21.00  Atlético Madrid          1-0 (1-0)  Granada CF
+[Sun Feb/9]
+  14.00  Real Sociedad            2-1 (0-0)  Athletic Bilbao
+  16.00  CA Osasuna               1-4 (1-2)  Real Madrid
+  18.30  RC Celta                 2-1 (0-1)  Sevilla FC
+  21.00  Real Betis               2-3 (2-2)  FC Barcelona
+  12.00  Espanyol Barcelona       1-0 (0-0)  RCD Mallorca
+
+
+Matchday 24
+[Fri Feb/14]
+  21.00  Valencia CF              2-2 (1-2)  Atlético Madrid
+[Sat Feb/15]
+  16.00  FC Barcelona             2-1 (2-0)  Getafe CF
+  18.30  Villarreal CF            2-1 (1-0)  Levante UD
+  21.00  Granada CF               2-1 (0-0)  Real Valladolid
+  13.00  RCD Mallorca             1-0 (0-0)  CD Alavés
+[Sun Feb/16]
+  12.00  Sevilla FC               2-2 (1-1)  Espanyol Barcelona
+  14.00  CD Leganés               0-0  Real Betis
+  18.30  Athletic Bilbao          0-1 (0-1)  CA Osasuna
+  21.00  Real Madrid              2-2 (0-1)  RC Celta
+
+
+Matchday 25
+[Fri Feb/21]
+  21.00  Real Betis               3-3 (2-2)  RCD Mallorca
+[Sat Feb/22]
+  13.00  RC Celta                 1-0 (0-0)  CD Leganés
+  16.00  FC Barcelona             5-0 (3-0)  SD Eibar
+  18.30  Real Sociedad            3-0 (2-0)  Valencia CF
+  21.00  Levante UD               1-0 (0-0)  Real Madrid
+[Sun Feb/23]
+  21.00  Atlético Madrid          3-1 (1-1)  Villarreal CF
+  12.00  CA Osasuna               0-3 (0-3)  Granada CF
+  14.00  CD Alavés                2-1 (1-1)  Athletic Bilbao
+  16.00  Real Valladolid          2-1 (0-0)  Espanyol Barcelona
+  18.30  Getafe CF                0-3 (0-1)  Sevilla FC
+
+
+Matchday 26
+[Fri Feb/28]
+  21.00  Real Sociedad            1-0 (0-0)  Real Valladolid
+[Sat Feb/29]
+  21.00  Granada CF               0-0  RC Celta
+  13.00  SD Eibar                 3-0 (1-0)  Levante UD
+  16.00  Valencia CF              2-1 (0-0)  Real Betis
+  18.30  CD Leganés               1-1 (0-0)  CD Alavés
+[Sun Mar/1]
+  12.00  Sevilla FC               3-2 (2-0)  CA Osasuna
+  14.00  Athletic Bilbao          1-0 (0-0)  Villarreal CF
+  16.00  Espanyol Barcelona       1-1 (1-0)  Atlético Madrid
+  18.30  RCD Mallorca             0-1 (0-0)  Getafe CF
+  21.00  Real Madrid              2-0 (0-0)  FC Barcelona
+
+
+Matchday 27
+[Fri Mar/6]
+  21.00  CD Alavés                1-1 (0-1)  Valencia CF
+[Sat Mar/7]
+  16.00  Atlético Madrid          2-2 (2-2)  Sevilla FC
+  13.00  SD Eibar                 1-2 (0-1)  RCD Mallorca
+  21.00  Getafe CF                0-0  RC Celta
+  18.30  FC Barcelona             1-0 (0-0)  Real Sociedad
+[Sun Mar/8]
+  12.00  CA Osasuna               1-0 (0-0)  Espanyol Barcelona
+  14.00  Real Valladolid          1-4 (0-2)  Athletic Bilbao
+  16.00  Levante UD               1-1 (1-0)  Granada CF
+  18.30  Villarreal CF            1-2 (1-0)  CD Leganés
+  21.00  Real Betis               2-1 (1-1)  Real Madrid
+
+
+Matchday 24
+[Tue Mar/10]
+  20.00  SD Eibar                 1-2 (0-1)  Real Sociedad
+
+
+Matchday 28
+[Thu Jun/11]
+  22.00  Sevilla FC               2-0 (0-0)  Real Betis
+[Fri Jun/12]
+  22.00  Valencia CF              1-1 (0-0)  Levante UD
+  19.30  Granada CF               2-1 (0-1)  Getafe CF
+[Sat Jun/13]
+  17.00  RC Celta                 0-1 (0-0)  Villarreal CF
+  19.30  CD Leganés               1-2 (0-1)  Real Valladolid
+  22.00  RCD Mallorca             0-4 (0-2)  FC Barcelona
+  14.00  Espanyol Barcelona       2-0 (1-0)  CD Alavés
+[Sun Jun/14]
+  14.00  Athletic Bilbao          1-1 (1-1)  Atlético Madrid
+  19.30  Real Madrid              3-1 (3-0)  SD Eibar
+  22.00  Real Sociedad            1-1 (0-1)  CA Osasuna
+
+
+Matchday 29
+[Mon Jun/15]
+  22.00  Real Betis               2-2 (0-1)  Granada CF
+  19.30  Levante UD               1-1 (0-0)  Sevilla FC
+[Tue Jun/16]
+  19.30  Villarreal CF            1-0 (1-0)  RCD Mallorca
+  22.00  FC Barcelona             2-0 (1-0)  CD Leganés
+  19.30  Getafe CF                0-0  Espanyol Barcelona
+[Wed Jun/17]
+  19.30  SD Eibar                 2-2 (1-1)  Athletic Bilbao
+         Real Valladolid          0-0  RC Celta
+  22.00  CA Osasuna               0-5 (0-1)  Atlético Madrid
+[Thu Jun/18]
+  22.00  Real Madrid              3-0 (0-0)  Valencia CF
+  19.30  CD Alavés                2-0 (0-0)  Real Sociedad
+
+
+Matchday 30
+[Fri Jun/19]
+  19.30  Granada CF               0-1 (0-1)  Villarreal CF
+         RCD Mallorca             1-1 (1-0)  CD Leganés
+  22.00  Sevilla FC               0-0  FC Barcelona
+[Sat Jun/20]
+  17.00  Athletic Bilbao          1-0 (1-0)  Real Betis
+  19.30  Getafe CF                1-1 (1-1)  SD Eibar
+  22.00  Atlético Madrid          1-0 (0-0)  Real Valladolid
+  14.00  Espanyol Barcelona       1-3 (1-1)  Levante UD
+[Sun Jun/21]
+  14.00  RC Celta                 6-0 (4-0)  CD Alavés
+  19.30  Valencia CF              2-0 (2-0)  CA Osasuna
+  22.00  Real Sociedad            1-2 (0-0)  Real Madrid
+
+
+Matchday 31
+[Mon Jun/22]
+  22.00  CD Leganés               0-0  Granada CF
+  19.30  Villarreal CF            2-2 (2-1)  Sevilla FC
+[Tue Jun/23]
+  19.30  Real Valladolid          1-1 (1-1)  Getafe CF
+  22.00  FC Barcelona             1-0 (0-0)  Athletic Bilbao
+  19.30  Levante UD               0-1 (0-1)  Atlético Madrid
+[Wed Jun/24]
+  19.30  CD Alavés                0-1 (0-0)  CA Osasuna
+         Real Sociedad            0-1 (0-1)  RC Celta
+  22.00  Real Madrid              2-0 (1-0)  RCD Mallorca
+[Thu Jun/25]
+  22.00  Real Betis               1-0 (0-0)  Espanyol Barcelona
+  19.30  SD Eibar                 1-0 (1-0)  Valencia CF
+
+
+Matchday 32
+[Fri Jun/26]
+  22.00  Sevilla FC               1-1 (0-1)  Real Valladolid
+[Sat Jun/27]
+  14.00  Athletic Bilbao          3-1 (2-0)  RCD Mallorca
+  17.00  RC Celta                 2-2 (0-1)  FC Barcelona
+  19.30  CA Osasuna               2-1 (1-0)  CD Leganés
+  22.00  Atlético Madrid          2-1 (0-0)  CD Alavés
+[Sun Jun/28]
+  17.00  Villarreal CF            2-0 (2-0)  Valencia CF
+  19.30  Granada CF               1-2 (0-1)  SD Eibar
+  22.00  Espanyol Barcelona       0-1 (0-1)  Real Madrid
+  14.00  Levante UD               4-2 (2-0)  Real Betis
+[Mon Jun/29]
+  22.00  Getafe CF                2-1 (1-0)  Real Sociedad
+
+
+Matchday 33
+[Tue Jun/30]
+  21.00  CD Leganés               0-3 (0-2)  Sevilla FC
+  22.00  FC Barcelona             2-2 (1-1)  Atlético Madrid
+  19.30  RCD Mallorca             5-1 (3-0)  RC Celta
+[Wed Jul/1]
+  19.30  CD Alavés                0-2 (0-1)  Granada CF
+         Valencia CF              0-2 (0-1)  Athletic Bilbao
+  22.00  Real Betis               0-2 (0-2)  Villarreal CF
+         Real Valladolid          0-0  Levante UD
+[Thu Jul/2]
+  19.30  Real Sociedad            2-1 (0-1)  Espanyol Barcelona
+  22.00  Real Madrid              1-0 (0-0)  Getafe CF
+  19.30  SD Eibar                 0-2 (0-1)  CA Osasuna
+
+
+Matchday 34
+[Fri Jul/3]
+  22.00  Atlético Madrid          3-0 (2-0)  RCD Mallorca
+[Sat Jul/4]
+  19.30  Real Valladolid          1-0 (0-0)  CD Alavés
+  22.00  Granada CF               2-2 (0-0)  Valencia CF
+  17.00  RC Celta                 1-1 (1-0)  Real Betis
+[Sun Jul/5]
+  14.00  Athletic Bilbao          0-1 (0-0)  Real Madrid
+  17.00  Espanyol Barcelona       0-1 (0-0)  CD Leganés
+  19.30  CA Osasuna               0-0  Getafe CF
+  22.00  Villarreal CF            1-4 (1-3)  FC Barcelona
+[Mon Jul/6]
+  22.00  Sevilla FC               1-0 (0-0)  SD Eibar
+  19.30  Levante UD               1-1 (1-1)  Real Sociedad
+
+
+Matchday 35
+[Tue Jul/7]
+  22.00  RC Celta                 1-1 (0-1)  Atlético Madrid
+  19.30  Valencia CF              2-1 (1-0)  Real Valladolid
+[Wed Jul/8]
+  20.30  Getafe CF                1-3 (0-0)  Villarreal CF
+  22.00  FC Barcelona             1-0 (0-0)  Espanyol Barcelona
+  20.30  Real Betis               3-0 (2-0)  CA Osasuna
+[Thu Jul/9]
+  19.30  SD Eibar                 0-0  CD Leganés
+         RCD Mallorca             2-0 (1-0)  Levante UD
+  22.00  Athletic Bilbao          1-2 (1-0)  Sevilla FC
+[Fri Jul/10]
+  22.00  Real Madrid              2-0 (1-0)  CD Alavés
+  19.30  Real Sociedad            2-3 (0-2)  Granada CF
+
+
+Matchday 36
+[Sat Jul/11]
+  17.00  CA Osasuna               2-1 (1-1)  RC Celta
+  19.30  Real Valladolid          0-1 (0-1)  FC Barcelona
+  22.00  Atlético Madrid          1-0 (0-0)  Real Betis
+[Sun Jul/12]
+  17.00  Levante UD               1-2 (0-2)  Athletic Bilbao
+  19.30  CD Leganés               1-0 (1-0)  Valencia CF
+  22.00  Sevilla FC               2-0 (1-0)  RCD Mallorca
+  14.00  Espanyol Barcelona       0-2 (0-2)  SD Eibar
+[Mon Jul/13]
+  19.30  CD Alavés                0-0  Getafe CF
+         Villarreal CF            1-2 (0-0)  Real Sociedad
+  22.00  Granada CF               1-2 (0-2)  Real Madrid
+
+
+Matchday 37
+[Thu Jul/16]
+  18.30  SD Eibar                 3-1 (2-0)  Real Valladolid
+  21.00  Athletic Bilbao          0-2 (0-0)  CD Leganés
+         FC Barcelona             1-2 (0-1)  CA Osasuna
+         Real Betis               1-2 (0-0)  CD Alavés
+         RC Celta                 2-3 (2-2)  Levante UD
+         Getafe CF                0-2 (0-0)  Atlético Madrid
+         RCD Mallorca             1-2 (1-1)  Granada CF
+         Real Madrid              2-1 (1-0)  Villarreal CF
+         Real Sociedad            0-0  Sevilla FC
+         Valencia CF              1-0 (1-0)  Espanyol Barcelona
+
+
+Matchday 38
+[Sun Jul/19]
+  17.00  CD Alavés                0-5 (0-3)  FC Barcelona
+  18.30  Villarreal CF            4-0 (0-0)  SD Eibar
+         Real Valladolid          2-0 (1-0)  Real Betis
+  21.00  Atlético Madrid          1-1 (1-0)  Real Sociedad
+         Espanyol Barcelona       0-0  RC Celta
+         Granada CF               4-0 (1-0)  Athletic Bilbao
+         CD Leganés               2-2 (1-1)  Real Madrid
+         Levante UD               1-0 (0-0)  Getafe CF
+         CA Osasuna               2-2 (1-1)  RCD Mallorca
+         Sevilla FC               1-0 (0-0)  Valencia CF

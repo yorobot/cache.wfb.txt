@@ -1,0 +1,507 @@
+= GR 1 2014/15
+
+# Date       Sat Aug/23 2014 - Sun May/10 2015 (260d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sat Aug/23]
+  19.15  OFI Heraklion            1-0 (0-0)  Panetolikos
+         AO Kerkyra               2-1 (2-0)  Panthrakikos
+  21.30  Olympiakos Piraeus       3-1 (3-0)  Niki Volou FC
+[Sun Aug/24]
+  19.15  Veria FC                 3-2 (1-0)  Skoda Xanthi
+         PAS Giannina             3-1 (0-1)  Asteras Tripolis
+         Atromitos                1-0 (1-0)  Platanias Chanion
+         PAOK Saloniki            1-1 (0-0)  AEL Kalloni
+  21.30  Levadiakos               1-1 (0-0)  Panathinaikos
+[Mon Aug/25]
+  21.30  Panionios GSS            2-1 (1-1)  Ergotelis
+
+
+Matchday 2
+[Sat Aug/30]
+  19.15  Panthrakikos             1-1 (0-1)  PAS Giannina
+         AEL Kalloni              2-0 (1-0)  Ergotelis
+  21.30  Panetolikos              1-1 (0-0)  Olympiakos Piraeus
+[Sun Aug/31]
+  19.15  Skoda Xanthi             0-0  AO Kerkyra
+         Niki Volou FC            0-1 (0-1)  Atromitos
+         Asteras Tripolis         2-1 (1-1)  Levadiakos
+         Platanias Chanion        0-4 (0-1)  PAOK Saloniki
+  21.30  Panathinaikos            2-1 (0-0)  Panionios GSS
+[Mon Sep/1]
+  21.30  OFI Heraklion            0-1 (0-0)  Veria FC
+
+
+Matchday 3
+[Sat Sep/13]
+  16.00  Veria FC                 2-1 (1-1)  AO Kerkyra
+  18.15  PAOK Saloniki            3-0 (1-0)  Niki Volou FC
+  20.30  Olympiakos Piraeus       3-0 (2-0)  OFI Heraklion
+[Sun Sep/14]
+  16.00  Panionios GSS            2-1 (2-1)  Asteras Tripolis
+  18.15  PAS Giannina             2-2 (0-1)  Skoda Xanthi
+         Atromitos                0-0  Panetolikos
+         Levadiakos               1-1 (1-1)  Panthrakikos
+  20.30  AEL Kalloni              1-0 (1-0)  Panathinaikos
+[Mon Sep/15]
+  19.30  Ergotelis                0-3 (0-1)  Platanias Chanion
+
+
+Matchday 4
+[Sat Sep/20]
+  16.00  Skoda Xanthi             2-0 (1-0)  Levadiakos
+  18.15  OFI Heraklion            1-0 (0-0)  Atromitos
+  20.30  Olympiakos Piraeus       3-0 (1-0)  Veria FC
+[Sun Sep/21]
+  16.00  Asteras Tripolis         1-0 (1-0)  AEL Kalloni
+  18.15  AO Kerkyra               2-0 (1-0)  PAS Giannina
+         Panthrakikos             1-0 (0-0)  Panionios GSS
+         Niki Volou FC            1-4 (1-1)  Ergotelis
+  20.30  Platanias Chanion        2-3 (1-1)  Panathinaikos
+[Mon Sep/22]
+  19.30  Panetolikos              0-1 (0-1)  PAOK Saloniki
+
+
+Matchday 5
+[Sat Sep/27]
+  16.00  Platanias Chanion        0-1 (0-0)  Asteras Tripolis
+  18.15  Panionios GSS            1-1 (1-1)  Skoda Xanthi
+  20.30  Atromitos                1-0 (1-0)  Olympiakos Piraeus
+[Sun Sep/28]
+  16.00  Panathinaikos            1-0 (1-0)  Niki Volou FC
+  18.15  Veria FC                 2-0 (0-0)  PAS Giannina
+         Levadiakos               2-3 (1-2)  AO Kerkyra
+         Ergotelis                1-1 (0-1)  Panetolikos
+  20.30  PAOK Saloniki            4-0 (4-0)  OFI Heraklion
+[Mon Sep/29]
+  19.30  AEL Kalloni              2-0 (1-0)  Panthrakikos
+
+
+Matchday 6
+[Wed Dec/3]
+  15.00  Panthrakikos             1-0 (1-0)  Platanias Chanion
+  17.15  Atromitos                0-0  Veria FC
+         PAS Giannina             0-4 (0-2)  Levadiakos
+         AO Kerkyra               1-0 (1-0)  Panionios GSS
+         Skoda Xanthi             2-1 (2-0)  AEL Kalloni
+  19.30  Olympiakos Piraeus       1-2 (1-1)  PAOK Saloniki
+[Thu Dec/4]
+  17.15  Panetolikos              0-1 (0-0)  Panathinaikos
+         Niki Volou FC            0-2 (0-1)  Asteras Tripolis
+  19.30  OFI Heraklion            1-0 (0-0)  Ergotelis
+
+
+Matchday 7
+[Sat Oct/18]
+  16.00  Niki Volou FC            1-0 (1-0)  Panthrakikos
+  18.15  Asteras Tripolis         1-1 (1-1)  Panetolikos
+  20.30  Ergotelis                2-3 (1-1)  Olympiakos Piraeus
+[Sun Oct/19]
+  16.00  Panathinaikos            1-2 (0-1)  OFI Heraklion
+  18.15  Veria FC                 2-1 (2-1)  Levadiakos
+         AEL Kalloni              1-0 (0-0)  AO Kerkyra
+         Platanias Chanion        1-0 (0-0)  Skoda Xanthi
+  20.30  PAOK Saloniki            2-1 (2-0)  Atromitos
+[Mon Oct/20]
+  19.30  Panionios GSS            0-1 (0-0)  PAS Giannina
+
+
+Matchday 8
+[Sat Oct/25]
+  15.00  PAS Giannina             0-0  AEL Kalloni
+  17.15  Levadiakos               1-0 (0-0)  Panionios GSS
+  19.30  Atromitos                1-1 (0-0)  Ergotelis
+[Sun Oct/26]
+  15.00  OFI Heraklion            2-3 (0-1)  Asteras Tripolis
+  17.15  PAOK Saloniki            4-1 (2-0)  Veria FC
+         AO Kerkyra               1-2 (1-1)  Platanias Chanion
+         Panetolikos              3-1 (1-0)  Panthrakikos
+  19.30  Olympiakos Piraeus       1-0 (0-0)  Panathinaikos
+[Mon Oct/27]
+  19.30  Skoda Xanthi             2-0 (0-0)  Niki Volou FC
+
+
+Matchday 9
+[Sat Nov/1]
+  15.00  Platanias Chanion        0-0  PAS Giannina
+  17.15  Veria FC                 2-2 (2-1)  Panionios GSS
+  19.30  Asteras Tripolis         0-0  Olympiakos Piraeus
+[Sun Nov/2]
+  15.00  Ergotelis                0-2 (0-1)  PAOK Saloniki
+  17.15  Niki Volou FC            0-0  AO Kerkyra
+         Panthrakikos             0-0  OFI Heraklion
+         Panetolikos              5-2 (2-2)  Skoda Xanthi
+  19.30  Panathinaikos            2-0 (1-0)  Atromitos
+[Mon Nov/3]
+  19.30  AEL Kalloni              0-0  Levadiakos
+
+
+Matchday 10
+[Sat Nov/8]
+  15.00  Ergotelis                2-2 (2-1)  Veria FC
+  17.15  AO Kerkyra               1-2 (0-2)  Panetolikos
+  19.30  Skoda Xanthi             2-1 (2-1)  OFI Heraklion
+[Sun Nov/9]
+  15.00  Olympiakos Piraeus       5-1 (2-0)  Panthrakikos
+  17.15  Panionios GSS            0-2 (0-0)  AEL Kalloni
+         Levadiakos               0-0  Platanias Chanion
+         PAS Giannina             4-0 (1-0)  Niki Volou FC
+  19.30  PAOK Saloniki            1-2 (0-0)  Panathinaikos
+[Mon Nov/10]
+  19.30  Atromitos                4-3 (3-1)  Asteras Tripolis
+
+
+Matchday 11
+[Sat Jan/10]
+  15.00  Veria FC                 1-1 (1-1)  AEL Kalloni
+  17.15  Platanias Chanion        3-0 (0-0)  Panionios GSS
+  19.30  Asteras Tripolis         3-0 (3-0)  PAOK Saloniki
+[Sun Jan/11]
+         Niki Volou FC            0-3  Levadiakos               [awarded]
+  15.00  Panetolikos              0-0  PAS Giannina
+  17.15  Panathinaikos            5-0 (5-0)  Ergotelis
+         Panthrakikos             1-1 (1-0)  Atromitos
+         OFI Heraklion            3-2 (1-1)  AO Kerkyra
+  19.30  Skoda Xanthi             1-3 (0-2)  Olympiakos Piraeus
+
+
+Matchday 12
+[Sat Nov/29]
+  15.00  AEL Kalloni              0-0  Platanias Chanion
+  17.15  Levadiakos               0-0  Panetolikos
+  19.30  Atromitos                2-0 (1-0)  Skoda Xanthi
+[Sun Nov/30]
+  15.00  AO Kerkyra               0-4 (0-1)  Olympiakos Piraeus
+  17.15  Ergotelis                1-4 (1-1)  Asteras Tripolis
+         Panionios GSS            2-1 (1-0)  Niki Volou FC
+         PAOK Saloniki            3-2 (1-1)  Panthrakikos
+         PAS Giannina             3-0 (2-0)  OFI Heraklion
+  19.30  Panathinaikos            2-1 (1-0)  Veria FC
+
+
+Matchday 13
+[Sat Dec/6]
+  15.00  Veria FC                 2-0 (1-0)  Platanias Chanion
+  17.15  AO Kerkyra               1-1 (0-0)  Atromitos
+  19.30  Olympiakos Piraeus       2-2 (0-1)  PAS Giannina
+[Sun Dec/7]
+  15.00  Skoda Xanthi             4-2 (1-1)  PAOK Saloniki
+  17.15  Niki Volou FC            2-0 (0-0)  AEL Kalloni
+         Panetolikos              2-1 (0-0)  Panionios GSS
+         OFI Heraklion            0-2 (0-0)  Levadiakos
+  19.30  Asteras Tripolis         1-1 (1-1)  Panathinaikos
+[Mon Dec/8]
+  19.30  Panthrakikos             0-0  Ergotelis
+
+
+Matchday 14
+[Sat Dec/13]
+  15.00  Platanias Chanion        3-1 (2-0)  Niki Volou FC
+  17.15  AEL Kalloni              0-0  Panetolikos
+  19.30  Levadiakos               1-2 (1-0)  Olympiakos Piraeus
+[Sun Dec/14]
+  15.00  Panionios GSS            2-0 (0-0)  OFI Heraklion
+  17.15  Asteras Tripolis         2-0 (2-0)  Veria FC
+         Ergotelis                0-2 (0-1)  Skoda Xanthi
+         PAOK Saloniki            2-1 (0-0)  AO Kerkyra
+         PAS Giannina             1-0 (0-0)  Atromitos
+  19.30  Panathinaikos            4-0 (1-0)  Panthrakikos
+
+
+Matchday 15
+[Wed Dec/17]
+  15.00  Panthrakikos             1-1 (1-1)  Asteras Tripolis
+         AO Kerkyra               3-1 (0-1)  Ergotelis
+  17.15  Veria FC                 2-0 (1-0)  Niki Volou FC
+         Panetolikos              1-0 (1-0)  Platanias Chanion
+         OFI Heraklion            1-1 (0-0)  AEL Kalloni
+         Atromitos                1-0 (1-0)  Levadiakos
+  19.30  Olympiakos Piraeus       2-0 (1-0)  Panionios GSS
+[Thu Dec/18]
+  17.15  PAS Giannina             3-0 (1-0)  PAOK Saloniki
+  19.30  Skoda Xanthi             4-2 (2-1)  Panathinaikos
+
+
+Matchday 16
+[Sat Dec/20]
+  15.00  Panthrakikos             1-1 (1-0)  Veria FC
+  17.15  Platanias Chanion        1-0 (0-0)  OFI Heraklion
+  19.30  AEL Kalloni              0-5 (0-1)  Olympiakos Piraeus
+[Sun Dec/21]
+         Niki Volou FC            0-3  Panetolikos              [awarded]
+  15.00  Panionios GSS            2-2 (1-2)  Atromitos
+  17.15  Asteras Tripolis         2-1 (1-0)  Skoda Xanthi
+         Ergotelis                1-0 (1-0)  PAS Giannina
+  19.30  Levadiakos               1-2 (0-1)  PAOK Saloniki
+[Mon Dec/22]
+  19.30  Panathinaikos            2-0 (1-0)  AO Kerkyra
+
+
+Matchday 17
+[Sat Jan/3]
+         OFI Heraklion            3-0  Niki Volou FC            [awarded]
+  15.00  Veria FC                 1-3 (0-1)  Panetolikos
+  17.15  AO Kerkyra               1-0 (0-0)  Asteras Tripolis
+  19.30  PAOK Saloniki            3-2 (2-2)  Panionios GSS
+[Sun Jan/4]
+  15.00  Olympiakos Piraeus       2-1 (1-0)  Platanias Chanion
+  17.15  Atromitos                0-0  AEL Kalloni
+         Levadiakos               1-1 (1-1)  Ergotelis
+  19.30  PAS Giannina             0-0  Panathinaikos
+[Mon Jan/5]
+  19.30  Skoda Xanthi             0-0  Panthrakikos
+
+
+Matchday 18
+[Wed Jan/14]
+  15.00  Panthrakikos             1-0 (1-0)  AO Kerkyra
+  17.15  Skoda Xanthi             2-2 (1-1)  Veria FC
+         Panetolikos              3-1 (1-0)  OFI Heraklion
+         Asteras Tripolis         2-2 (2-1)  PAS Giannina
+         Panathinaikos            1-0 (1-0)  Levadiakos
+  19.30  AEL Kalloni              1-2 (1-0)  PAOK Saloniki
+[Thu Jan/15]
+         Niki Volou FC            0-3  Olympiakos Piraeus       [awarded]
+  19.30  Platanias Chanion        0-0  Atromitos
+[Wed Feb/18]
+  17.15  Ergotelis                2-2 (1-2)  Panionios GSS
+
+
+Matchday 19
+[Sat Jan/17]
+  15.00  Veria FC                 4-1 (3-1)  OFI Heraklion
+  17.15  AO Kerkyra               0-0  Skoda Xanthi
+  19.30  Panionios GSS            1-1 (1-0)  Panathinaikos
+[Sun Jan/18]
+         Atromitos                3-0  Niki Volou FC            [awarded]
+  15.00  Levadiakos               3-1 (1-1)  Asteras Tripolis
+  17.15  PAS Giannina             2-2 (1-0)  Panthrakikos
+         PAOK Saloniki            1-0 (1-0)  Platanias Chanion
+  19.30  Olympiakos Piraeus       2-0 (0-0)  Panetolikos
+[Mon Jan/19]
+  19.30  Ergotelis                3-3 (0-2)  AEL Kalloni
+
+
+Matchday 20
+[Sat Jan/24]
+  15.00  Skoda Xanthi             1-1 (0-0)  PAS Giannina
+  17.15  AO Kerkyra               4-0 (3-0)  Veria FC
+         Panthrakikos             1-0 (1-0)  Levadiakos
+         Asteras Tripolis         2-0 (1-0)  Panionios GSS
+         Panathinaikos            1-0 (0-0)  AEL Kalloni
+  19.30  OFI Heraklion            0-3 (0-1)  Olympiakos Piraeus
+[Sun Jan/25]
+  17.15  Niki Volou FC            0-3  PAOK Saloniki            [awarded]
+[Mon Jan/26]
+  17.15  Panetolikos              1-1 (0-1)  Atromitos
+  19.30  Platanias Chanion        1-2 (1-0)  Ergotelis
+
+
+Matchday 21
+[Sat Jan/31]
+  15.00  Panionios GSS            2-1 (1-0)  Panthrakikos
+  17.15  AEL Kalloni              1-0 (0-0)  Asteras Tripolis
+  19.30  PAOK Saloniki            1-2 (0-1)  Panetolikos
+[Sun Feb/1]
+         Atromitos                3-0  OFI Heraklion            [awarded]
+         Ergotelis                3-0  Niki Volou FC            [awarded]
+  15.00  Panathinaikos            3-0 (1-0)  Platanias Chanion
+  17.15  PAS Giannina             2-1 (1-1)  AO Kerkyra
+         Levadiakos               1-2 (0-1)  Skoda Xanthi
+  19.30  Veria FC                 0-2 (0-0)  Olympiakos Piraeus
+
+
+Matchday 22
+[Wed Feb/4]
+  15.00  AO Kerkyra               0-0  Levadiakos
+         Panetolikos              4-0 (2-0)  Ergotelis
+  17.15  PAS Giannina             4-1 (4-1)  Veria FC
+         OFI Heraklion            3-1 (2-0)  PAOK Saloniki
+         Skoda Xanthi             1-1 (1-1)  Panionios GSS
+         Asteras Tripolis         1-0 (0-0)  Platanias Chanion
+  19.30  Olympiakos Piraeus       2-1 (1-0)  Atromitos
+[Thu Feb/5]
+         Niki Volou FC            0-3  Panathinaikos            [awarded]
+  19.30  Panthrakikos             3-2 (2-1)  AEL Kalloni
+
+
+Matchday 23
+[Sat Feb/7]
+  15.00  Levadiakos               1-2 (0-1)  PAS Giannina
+  17.15  Ergotelis                3-2 (3-1)  OFI Heraklion
+  19.30  Veria FC                 1-1 (1-0)  Atromitos
+[Sun Feb/8]
+         Asteras Tripolis         3-0  Niki Volou FC            [awarded]
+  15.00  Panionios GSS            0-0  AO Kerkyra
+  17.15  Panathinaikos            1-0 (0-0)  Panetolikos
+         Platanias Chanion        2-0 (1-0)  Panthrakikos
+  19.30  PAOK Saloniki            0-0  Olympiakos Piraeus
+[Mon Feb/9]
+  19.30  AEL Kalloni              2-2 (0-1)  Skoda Xanthi
+
+
+Matchday 24
+[Sat Feb/14]
+         Panthrakikos             3-0  Niki Volou FC            [awarded]
+  15.00  Panetolikos              2-0 (1-0)  Asteras Tripolis
+  17.15  PAS Giannina             1-3 (0-1)  Panionios GSS
+  19.30  Olympiakos Piraeus       3-0 (0-0)  Ergotelis
+[Sun Feb/15]
+  15.00  OFI Heraklion            2-3 (2-1)  Panathinaikos
+  17.15  Levadiakos               0-2 (0-0)  Veria FC
+         AO Kerkyra               2-0 (0-0)  AEL Kalloni
+  19.30  Atromitos                4-0 (1-0)  PAOK Saloniki
+[Mon Feb/16]
+  19.30  Skoda Xanthi             0-0  Platanias Chanion
+
+
+Matchday 25
+[Sat Feb/21]
+         Niki Volou FC            0-3  Skoda Xanthi             [awarded]
+  15.00  Panthrakikos             0-0  Panetolikos
+  17.15  AEL Kalloni              1-0 (1-0)  PAS Giannina
+  19.30  Veria FC                 1-3 (0-3)  PAOK Saloniki
+[Sun Feb/22]
+  15.00  Asteras Tripolis         6-1 (3-0)  OFI Heraklion
+  17.15  Panionios GSS            1-0 (0-0)  Levadiakos
+         Platanias Chanion        1-1 (0-1)  AO Kerkyra
+  19.30  Panathinaikos            2-1 (0-0)  Olympiakos Piraeus
+[Mon Feb/23]
+  19.30  Ergotelis                1-2 (1-1)  Atromitos
+
+
+Matchday 26
+[Sun Mar/1]
+         AO Kerkyra               3-0  Niki Volou FC            [awarded]
+[Wed Mar/18]
+  15.00  PAS Giannina             1-0 (0-0)  Platanias Chanion
+         OFI Heraklion            0-1 (0-1)  Panthrakikos
+  17.15  Panionios GSS            4-2 (1-1)  Veria FC
+         PAOK Saloniki            1-0 (0-0)  Ergotelis
+         Levadiakos               3-0 (3-0)  AEL Kalloni
+         Skoda Xanthi             3-0 (1-0)  Panetolikos
+  19.30  Atromitos                2-0 (1-0)  Panathinaikos
+[Thu Mar/19]
+  16.45  Olympiakos Piraeus       2-0 (1-0)  Asteras Tripolis
+
+
+Matchday 27
+[Sat Mar/7]
+  15.00  Veria FC                 0-1 (0-1)  Ergotelis
+  17.15  Asteras Tripolis         1-0 (1-0)  Atromitos
+[Sun Mar/8]
+         Niki Volou FC            0-3  PAS Giannina             [awarded]
+  15.00  AEL Kalloni              1-0 (0-0)  Panionios GSS
+  17.15  Panetolikos              0-1 (0-1)  AO Kerkyra
+         OFI Heraklion            0-1 (0-0)  Skoda Xanthi
+  19.30  Panathinaikos            4-3 (1-1)  PAOK Saloniki
+[Mon Mar/9]
+  19.30  Platanias Chanion        1-3 (0-1)  Levadiakos
+[Wed Apr/15]
+  19.00  Panthrakikos             1-3 (1-3)  Olympiakos Piraeus
+
+
+Matchday 28
+[Sat Mar/14]
+  15.00  Ergotelis                0-2 (0-2)  Panathinaikos
+  17.15  Atromitos                2-0 (2-0)  Panthrakikos
+  19.30  PAOK Saloniki            0-0  Asteras Tripolis
+[Sun Mar/15]
+         Levadiakos               3-0  Niki Volou FC            [awarded]
+  15.00  PAS Giannina             0-0  Panetolikos
+  17.15  AEL Kalloni              4-1 (2-1)  Veria FC
+         Panionios GSS            0-0  Platanias Chanion
+         AO Kerkyra               4-1 (1-1)  OFI Heraklion
+  19.30  Olympiakos Piraeus       2-0 (0-0)  Skoda Xanthi
+
+
+Matchday 29
+[Sat Mar/21]
+         Niki Volou FC            0-3  Panionios GSS            [awarded]
+         OFI Heraklion            0-3  PAS Giannina             [awarded]
+  17.15  Panetolikos              0-1 (0-0)  Levadiakos
+  19.30  Panthrakikos             3-1 (2-0)  PAOK Saloniki
+[Sun Mar/22]
+  15.00  Skoda Xanthi             1-0 (0-0)  Atromitos
+  17.15  Asteras Tripolis         2-1 (2-0)  Ergotelis
+         Olympiakos Piraeus       3-0 (2-0)  AO Kerkyra
+  19.30  Veria FC                 1-0 (1-0)  Panathinaikos
+[Mon Mar/23]
+  19.30  Platanias Chanion        1-0 (0-0)  AEL Kalloni
+
+
+Matchday 30
+[Sat Apr/4]
+         AEL Kalloni              3-0  Niki Volou FC            [awarded]
+  15.00  Platanias Chanion        1-0 (1-0)  Veria FC
+  19.30  Panathinaikos            2-2 (2-0)  Asteras Tripolis
+[Sun Apr/5]
+  15.00  Panionios GSS            3-0 (0-0)  Panetolikos
+  17.15  Ergotelis                2-1 (1-0)  Panthrakikos
+         PAOK Saloniki            2-1 (1-0)  Skoda Xanthi
+         Levadiakos               3-0  OFI Heraklion            [awarded]
+  19.30  PAS Giannina             3-1 (2-0)  Olympiakos Piraeus
+[Mon Apr/6]
+  19.30  Atromitos                2-1 (1-0)  AO Kerkyra
+
+
+Matchday 31
+[Sat Apr/11]
+         Niki Volou FC            0-3  Platanias Chanion        [awarded]
+[Sat Apr/18]
+  15.00  Panetolikos              2-0 (1-0)  AEL Kalloni
+  17.15  Skoda Xanthi             0-1 (0-0)  Ergotelis
+  19.30  AO Kerkyra               0-1 (0-0)  PAOK Saloniki
+[Sun Apr/19]
+         OFI Heraklion            0-3  Panionios GSS            [awarded]
+  15.00  Panthrakikos             2-1 (1-0)  Panathinaikos
+  17.15  Atromitos                1-1 (0-1)  PAS Giannina
+  19.30  Olympiakos Piraeus       4-0 (1-0)  Levadiakos
+[Mon Apr/20]
+  19.30  Veria FC                 4-0 (2-0)  Asteras Tripolis
+
+
+Matchday 32
+[Sat Apr/18]
+         Niki Volou FC            0-3  Veria FC                 [awarded]
+[Sat Apr/25]
+         AEL Kalloni              3-0  OFI Heraklion            [awarded]
+  19.30  Panathinaikos            2-0 (0-0)  Skoda Xanthi
+[Sun Apr/26]
+  15.00  PAOK Saloniki            1-1 (1-1)  PAS Giannina
+  17.15  Asteras Tripolis         2-1 (0-0)  Panthrakikos
+         Platanias Chanion        2-0 (0-0)  Panetolikos
+         Levadiakos               2-1 (2-0)  Atromitos
+  19.30  Panionios GSS            2-2 (1-0)  Olympiakos Piraeus
+[Mon Apr/27]
+  19.30  Ergotelis                1-2 (0-0)  AO Kerkyra
+
+
+Matchday 33
+[Sun May/3]
+         Panetolikos              3-0  Niki Volou FC            [awarded]
+  19.00  Veria FC                 0-1 (0-0)  Panthrakikos
+         Skoda Xanthi             0-0  Asteras Tripolis
+         OFI Heraklion            0-3  Platanias Chanion        [awarded]
+         AO Kerkyra               1-1 (0-1)  Panathinaikos
+         Olympiakos Piraeus       5-0 (2-0)  AEL Kalloni
+         PAS Giannina             0-0  Ergotelis
+         Atromitos                3-1 (1-0)  Panionios GSS
+         PAOK Saloniki            1-0 (1-0)  Levadiakos
+
+
+Matchday 34
+[Sun May/10]
+         Niki Volou FC            -  OFI Heraklion            [cancelled]
+  19.00  Panetolikos              2-0 (1-0)  Veria FC
+         Panthrakikos             2-0 (2-0)  Skoda Xanthi
+         Asteras Tripolis         2-0 (2-0)  AO Kerkyra
+         Platanias Chanion        1-1 (1-0)  Olympiakos Piraeus
+         Panathinaikos            3-1 (1-1)  PAS Giannina
+         AEL Kalloni              1-1 (1-0)  Atromitos
+         Ergotelis                0-2 (0-0)  Levadiakos
+         Panionios GSS            0-0  PAOK Saloniki

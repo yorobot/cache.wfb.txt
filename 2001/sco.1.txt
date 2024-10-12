@@ -1,0 +1,86 @@
+= SCO 1 2001
+
+# Date       Sat Apr/21 - Sun May/20 2001 (29d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat Apr/21]
+  15.00  Dundee FC                0-3 (0-3)  Rangers FC
+         Hibernian FC             1-1 (1-1)  Kilmarnock FC
+[Sun Apr/22]
+  18.05  Celtic FC                1-0 (0-0)  Heart of Midlothian
+
+
+Matchday 2
+[Fri Apr/27]
+  20.00  Kilmarnock FC            1-1 (0-0)  Heart of Midlothian
+[Sun Apr/29]
+  13.00  Rangers FC               0-3 (0-0)  Celtic FC
+  15.00  Dundee FC                0-2 (0-0)  Hibernian FC
+
+
+Matchday 3
+[Sat May/5]
+  15.00  Dundee FC                2-1 (1-0)  Kilmarnock FC
+         Heart of Midlothian      1-4 (0-1)  Rangers FC
+[Sun May/6]
+  15.00  Hibernian FC             2-5 (0-2)  Celtic FC
+
+
+Matchday 4
+[Sat May/12]
+  15.00  Rangers FC               5-1 (1-0)  Kilmarnock FC
+[Sun May/13]
+  15.00  Celtic FC                0-2 (0-2)  Dundee FC
+  18.05  Hibernian FC             0-0  Heart of Midlothian
+
+
+Matchday 5
+[Sun May/20]
+  15.00  Heart of Midlothian      2-0 (0-0)  Dundee FC
+         Kilmarnock FC            1-0 (0-0)  Celtic FC
+         Rangers FC               4-0 (2-0)  Hibernian FC
+
+
+== Relegation
+
+Matchday 1
+[Sat Apr/21]
+  15.00  Motherwell FC            0-1 (0-0)  St. Johnstone FC
+         Aberdeen FC              1-0 (1-0)  Dunfermline Athletic
+[Mon Apr/23]
+  20.00  St. Mirren FC            2-1 (0-0)  Dundee United
+
+
+Matchday 2
+[Sat Apr/28]
+  15.00  Dunfermline Athletic     1-2 (0-2)  St. Mirren FC
+         Dundee United            1-0 (1-0)  Motherwell FC
+         St. Johnstone FC         0-3 (0-2)  Aberdeen FC
+
+
+Matchday 3
+[Sat May/5]
+  15.00  Motherwell FC            0-2 (0-1)  Aberdeen FC
+         St. Johnstone FC         2-2 (1-2)  St. Mirren FC
+[Sun May/6]
+  15.00  Dundee United            1-0 (1-0)  Dunfermline Athletic
+
+
+Matchday 4
+[Sat May/12]
+  15.00  Dunfermline Athletic     1-2 (1-2)  Motherwell FC
+         St. Johnstone FC         2-3 (2-0)  Dundee United
+         St. Mirren FC            2-1 (2-1)  Aberdeen FC
+
+
+Matchday 5
+[Sun May/20]
+  15.00  Aberdeen FC              1-2 (0-2)  Dundee United
+         Dunfermline Athletic     0-0  St. Johnstone FC
+         Motherwell FC            3-3 (1-1)  St. Mirren FC

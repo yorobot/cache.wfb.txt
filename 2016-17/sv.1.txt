@@ -1,0 +1,575 @@
+= SV 1 2016/17
+
+# Date       Fri Jul/29 2016 - Sun May/21 2017 (296d)
+# Teams      12
+# Matches    290
+# Stages     Apertura (132)  Apertura Playoffs (13)  Clausura (132)  Clausura Playoffs (13)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jul/29]
+  17.30  Universidad de El Salvador  1-2  FAS
+[Sat Jul/30]
+  15.00  Pasaquina FC             2-1  Alianza
+  16.00  Santa Tecla FC           0-0  Sonsonate FC
+  18.00  CD Águila                1-1  Luis Ángel Firpo
+  18.30  AD Chalatenango          1-2  Isidro Metapán
+[Sun Jul/31]
+  15.30  Dragón                   1-2  Municipal Limeño
+
+
+Matchday 2
+[Fri Aug/5]
+  15.00  Universidad de El Salvador  2-1  Santa Tecla FC
+[Sat Aug/6]
+  18.00  Luis Ángel Firpo         1-0  Pasaquina FC
+  18.30  Sonsonate FC             0-1  AD Chalatenango
+  19.00  Isidro Metapán           1-1  Dragón
+[Sun Aug/7]
+  15.00  Municipal Limeño         1-2  CD Águila
+  15.15  Alianza                  1-2  FAS
+
+
+Matchday 3
+[Wed Aug/10]
+  15.00  Municipal Limeño         0-0  Isidro Metapán
+  18.30  Santa Tecla FC           1-0  Alianza
+  18.45  AD Chalatenango          2-2  Universidad de El Salvador
+  19.00  FAS                      1-0  Luis Ángel Firpo
+  19.35  CD Águila                0-0  Pasaquina FC
+[Thu Aug/11]
+  15.30  Dragón                   0-0  Sonsonate FC
+
+
+Matchday 4
+[Wed Aug/3]
+  15.15  Alianza                  4-0  AD Chalatenango
+[Sat Aug/13]
+  14.30  Pasaquina FC             2-1  FAS
+  19.00  Isidro Metapán           1-1  CD Águila
+[Sun Aug/14]
+  15.00  Luis Ángel Firpo         1-1  Santa Tecla FC
+  16.30  Sonsonate FC             4-2  Municipal Limeño
+[Mon Aug/15]
+  17.30  Universidad de El Salvador  2-2  Dragón
+
+
+Matchday 5
+[Sat Aug/20]
+  16.00  Santa Tecla FC           1-1  Pasaquina FC
+  18.30  AD Chalatenango          2-0  Luis Ángel Firpo
+  19.00  Isidro Metapán           3-2  Sonsonate FC
+         Dragón                   0-1  Alianza
+[Sun Aug/21]
+  15.00  Municipal Limeño         1-1  Universidad de El Salvador
+         CD Águila                2-1  FAS
+
+
+Matchday 6
+[Fri Aug/26]
+  17.30  Universidad de El Salvador  1-2  Isidro Metapán
+[Sat Aug/27]
+  15.00  Pasaquina FC             3-1  AD Chalatenango
+  18.30  Sonsonate FC             0-0  CD Águila
+  19.00  FAS                      1-2  Santa Tecla FC
+[Sun Aug/28]
+  15.15  Alianza                  0-1  Municipal Limeño
+  15.30  Luis Ángel Firpo         0-0  Dragón
+
+
+Matchday 7
+[Sat Sep/3]
+  18.30  Sonsonate FC             1-0  Universidad de El Salvador
+         AD Chalatenango          1-1  FAS
+[Sun Sep/4]
+  15.00  Municipal Limeño         0-0  Luis Ángel Firpo
+  15.30  Dragón                   0-1  Pasaquina FC
+  16.30  Isidro Metapán           1-1  Alianza
+[Wed Sep/14]
+  19.15  CD Águila                0-1  Santa Tecla FC
+
+
+Matchday 8
+[Fri Sep/9]
+  17.30  Universidad de El Salvador  0-1  CD Águila
+[Sat Sep/10]
+  15.00  Pasaquina FC             1-0  Municipal Limeño
+  17.00  Santa Tecla FC           1-0  AD Chalatenango
+  18.30  Luis Ángel Firpo         0-3  Isidro Metapán
+  19.00  FAS                      2-0  Dragón
+[Sun Sep/11]
+  15.15  Alianza                  4-1  Sonsonate FC
+
+
+Matchday 9
+[Sat Sep/17]
+  18.30  Sonsonate FC             2-1  Luis Ángel Firpo
+  19.00  Isidro Metapán           4-1  Pasaquina FC
+[Sun Sep/18]
+  15.00  Municipal Limeño         2-2  FAS
+         CD Águila                0-1  AD Chalatenango
+  15.30  Dragón                   1-2  Santa Tecla FC
+[Mon Sep/19]
+  17.30  Universidad de El Salvador  1-1  Alianza
+
+
+Matchday 10
+[Wed Sep/21]
+  15.00  Pasaquina FC             0-2  Sonsonate FC
+  18.30  Luis Ángel Firpo         3-0  Universidad de El Salvador
+         Santa Tecla FC           3-0  Municipal Limeño
+  18.45  AD Chalatenango          3-4  Dragón
+  19.00  FAS                      1-0  Isidro Metapán
+[Wed Oct/5]
+  19.30  CD Águila                2-1  Alianza
+
+
+Matchday 11
+[Sat Sep/24]
+  15.30  Dragón                   0-0  CD Águila
+  18.30  Sonsonate FC             1-2  FAS
+  19.00  Isidro Metapán           3-2  Santa Tecla FC
+[Sun Sep/25]
+  15.00  Municipal Limeño         2-0  AD Chalatenango
+  15.15  Alianza                  4-1  Luis Ángel Firpo
+[Mon Sep/26]
+  17.30  Universidad de El Salvador  3-5  Pasaquina FC
+
+
+Matchday 12
+[Sat Oct/1]
+  18.30  Sonsonate FC             2-0  Santa Tecla FC
+  19.00  Isidro Metapán           0-2  AD Chalatenango
+         Luis Ángel Firpo         2-2  CD Águila
+[Sun Oct/2]
+  15.00  Municipal Limeño         3-2  Dragón
+  15.15  Alianza                  2-2  Pasaquina FC
+[Wed Oct/19]
+  19.00  FAS                      3-1  Universidad de El Salvador
+
+
+Matchday 13
+[Sat Oct/8]
+  15.00  Pasaquina FC             0-4  Luis Ángel Firpo
+  17.00  Santa Tecla FC           2-1  Universidad de El Salvador
+  19.00  FAS                      2-2  Alianza
+[Sun Oct/9]
+  15.00  CD Águila                1-0  Municipal Limeño
+         AD Chalatenango          2-2  Sonsonate FC
+  15.30  Dragón                   2-1  Isidro Metapán
+
+
+Matchday 14
+[Wed Oct/12]
+  15.00  Pasaquina FC             2-1  CD Águila
+  17.35  Universidad de El Salvador  3-3  AD Chalatenango
+  18.30  Sonsonate FC             3-0  Dragón
+  19.00  Isidro Metapán           1-1  Municipal Limeño
+         Luis Ángel Firpo         1-1  FAS
+  19.15  Alianza                  4-2  Santa Tecla FC
+
+
+Matchday 15
+[Sat Oct/15]
+  15.00  Dragón                   1-2  Universidad de El Salvador
+  17.00  Santa Tecla FC           2-2  Luis Ángel Firpo
+  19.00  FAS                      2-1  Pasaquina FC
+[Sun Oct/16]
+  15.00  CD Águila                1-0  Isidro Metapán
+         Municipal Limeño         1-1  Sonsonate FC
+         AD Chalatenango          2-3  Alianza
+
+
+Matchday 16
+[Sat Oct/22]
+  15.00  Pasaquina FC             2-0  Santa Tecla FC
+  19.00  Luis Ángel Firpo         1-0  AD Chalatenango
+         FAS                      0-0  CD Águila
+[Sun Oct/23]
+  15.00  Sonsonate FC             1-0  Isidro Metapán
+  15.15  Alianza                  4-2  Dragón
+[Mon Oct/24]
+  17.30  Universidad de El Salvador  2-4  Municipal Limeño
+
+
+Matchday 17
+[Sat Oct/29]
+  15.00  Dragón                   0-1  Luis Ángel Firpo
+  17.00  Santa Tecla FC           2-1  FAS
+  18.00  Isidro Metapán           2-0  Universidad de El Salvador
+         AD Chalatenango          2-1  Pasaquina FC
+[Sun Oct/30]
+  15.00  CD Águila                0-0  Sonsonate FC
+         Municipal Limeño         0-2  Alianza
+
+
+Matchday 18
+[Wed Nov/2]
+  15.00  Pasaquina FC             1-1  Dragón
+  15.15  Alianza                  1-1  Isidro Metapán
+  16.00  Universidad de El Salvador  2-3  Sonsonate FC
+         Santa Tecla FC           1-2  CD Águila
+  18.30  Luis Ángel Firpo         2-3  Municipal Limeño
+[Wed Nov/9]
+  19.00  FAS                      0-0  AD Chalatenango
+
+
+Matchday 19
+[Sat Nov/5]
+  18.00  CD Águila                5-1  Universidad de El Salvador
+         AD Chalatenango          1-2  Santa Tecla FC
+  18.30  Sonsonate FC             2-2  Alianza
+  19.00  Isidro Metapán           2-3  Luis Ángel Firpo
+[Sun Nov/6]
+  15.00  Municipal Limeño         3-1  Pasaquina FC
+  17.30  Dragón                   0-0  FAS
+
+
+Matchday 20
+[Sat Nov/12]
+  15.00  Pasaquina FC             1-2  Isidro Metapán
+  17.00  Santa Tecla FC           2-1  Dragón
+  18.00  AD Chalatenango          0-2  CD Águila
+  18.30  Luis Ángel Firpo         0-1  Sonsonate FC
+[Sun Nov/13]
+  15.00  FAS                      1-2  Municipal Limeño
+[Wed Nov/16]
+  19.15  Alianza                  2-0  Universidad de El Salvador
+
+
+Matchday 21
+[Sat Nov/19]
+  15.00  Dragón                   1-2  AD Chalatenango
+[Sun Nov/20]
+  15.00  Alianza                  1-2  CD Águila
+         Universidad de El Salvador  1-2  Luis Ángel Firpo
+         Sonsonate FC             4-1  Pasaquina FC
+         Isidro Metapán           2-1  FAS
+         Municipal Limeño         1-1  Santa Tecla FC
+
+
+Matchday 22
+[Sat Nov/26]
+  15.00  Luis Ángel Firpo         0-4  Alianza
+         Pasaquina FC             0-0  Universidad de El Salvador
+         FAS                      0-3  Sonsonate FC
+         Santa Tecla FC           2-1  Isidro Metapán
+         AD Chalatenango          1-2  Municipal Limeño
+         CD Águila                0-0  Dragón
+
+
+== Apertura Playoffs
+
+Quarterfinals
+[Wed Nov/30]
+  15.00  Pasaquina FC             2-1  Sonsonate FC
+  19.00  FAS                      1-1  CD Águila
+[Thu Dec/1]
+  15.00  Municipal Limeño         1-2  Alianza
+  19.00  Isidro Metapán           2-2  Santa Tecla FC
+[Sat Dec/3]
+  15.00  CD Águila                2-0  FAS
+  19.30  Sonsonate FC             1-0  Pasaquina FC
+[Sun Dec/4]
+  15.00  Alianza                  0-1  Municipal Limeño
+  17.00  Santa Tecla FC           1-0  Isidro Metapán
+
+
+Semifinals
+[Thu Dec/8]
+  19.00  Santa Tecla FC           4-1  CD Águila
+  19.30  Alianza                  0-0  Sonsonate FC
+[Sun Dec/11]
+  15.00  CD Águila                2-0  Santa Tecla FC
+  17.00  Sonsonate FC             0-4  Alianza
+
+
+Final
+[Sun Dec/18]
+  15.15  Santa Tecla FC           3-2  Alianza
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/14]
+  15.00  Pasaquina FC             1-1  Alianza
+[Sun Jan/15]
+  15.00  Dragón                   0-0  Municipal Limeño
+         AD Chalatenango          1-2  Isidro Metapán
+         FAS                      2-2  Universidad de El Salvador
+         CD Águila                5-2  Luis Ángel Firpo
+[Wed Feb/1]
+  19.00  Santa Tecla FC           2-0  Sonsonate FC
+
+
+Matchday 2
+[Sat Jan/21]
+  18.30  Sonsonate FC             3-2  AD Chalatenango
+         Luis Ángel Firpo         3-2  Pasaquina FC
+  19.00  Isidro Metapán           1-0  Dragón
+[Sun Jan/22]
+  15.30  Municipal Limeño         2-0  CD Águila
+[Wed Feb/1]
+  19.15  Alianza                  3-1  FAS
+[Wed Mar/1]
+  17.30  Universidad de El Salvador  2-3  Santa Tecla FC
+
+
+Matchday 3
+[Tue Jan/24]
+  15.00  Dragón                   2-2  Sonsonate FC
+[Wed Jan/25]
+  15.00  Municipal Limeño         3-3  Isidro Metapán
+  18.30  AD Chalatenango          1-1  Universidad de El Salvador
+  19.00  Santa Tecla FC           0-2  Alianza
+         FAS                      1-2  Luis Ángel Firpo
+[Thu Jan/26]
+  15.00  CD Águila                1-1  Pasaquina FC
+
+
+Matchday 4
+[Sat Jan/28]
+  16.00  Sonsonate FC             2-1  Municipal Limeño
+  18.30  Luis Ángel Firpo         1-1  Santa Tecla FC
+  19.00  Isidro Metapán           0-1  CD Águila
+[Sun Jan/29]
+  15.00  Pasaquina FC             0-0  FAS
+  15.15  Alianza                  2-0  AD Chalatenango
+[Mon Jan/30]
+  17.30  Universidad de El Salvador  3-2  Dragón
+
+
+Matchday 5
+[Sat Feb/4]
+  17.00  Santa Tecla FC           1-0  Pasaquina FC
+  18.30  AD Chalatenango          2-3  Luis Ángel Firpo
+         CD Águila                0-0  FAS
+  19.00  Isidro Metapán           1-2  Sonsonate FC
+[Sun Feb/5]
+  15.15  Dragón                   2-3  Alianza
+  15.30  Municipal Limeño         0-3  Universidad de El Salvador
+
+
+Matchday 6
+[Wed Feb/8]
+  15.00  Pasaquina FC             2-1  AD Chalatenango
+  17.30  Universidad de El Salvador  2-3  Isidro Metapán
+  18.30  Sonsonate FC             0-2  CD Águila
+         Luis Ángel Firpo         0-1  Dragón
+  19.15  Alianza                  5-2  Municipal Limeño
+[Thu Mar/9]
+  19.00  FAS                      0-2  Santa Tecla FC
+
+
+Matchday 7
+[Sat Feb/11]
+  15.00  Dragón                   2-2  Pasaquina FC
+  18.30  Sonsonate FC             0-1  Universidad de El Salvador
+         AD Chalatenango          2-2  FAS
+  19.00  Isidro Metapán           3-1  Alianza
+[Sun Feb/12]
+  15.00  CD Águila                1-1  Santa Tecla FC
+  15.30  Municipal Limeño         0-3  Luis Ángel Firpo
+
+
+Matchday 8
+[Thu Feb/16]
+  17.30  Universidad de El Salvador  0-1  CD Águila
+[Sat Feb/18]
+  15.00  Pasaquina FC             0-1  Municipal Limeño
+  17.00  Santa Tecla FC           4-2  AD Chalatenango
+  18.30  Luis Ángel Firpo         1-3  Isidro Metapán
+[Sun Feb/19]
+  15.15  Alianza                  2-1  Sonsonate FC
+  15.45  FAS                      2-1  Dragón
+
+
+Matchday 9
+[Tue Feb/21]
+  15.00  CD Águila                3-1  AD Chalatenango
+[Wed Feb/22]
+  15.30  Dragón                   0-3  Santa Tecla FC
+  18.00  Universidad de El Salvador  2-2  Alianza
+  19.00  Sonsonate FC             2-2  Luis Ángel Firpo
+         Isidro Metapán           1-1  Pasaquina FC
+[Thu Feb/23]
+  15.00  Municipal Limeño         1-1  FAS
+
+
+Matchday 10
+[Sat Feb/25]
+  15.00  Pasaquina FC             2-1  Sonsonate FC
+  18.30  Luis Ángel Firpo         4-2  Universidad de El Salvador
+         AD Chalatenango          1-0  Dragón
+[Sun Feb/26]
+  15.15  CD Águila                0-0  Alianza
+  15.30  FAS                      0-3  Isidro Metapán
+  17.00  Santa Tecla FC           2-2  Municipal Limeño
+
+
+Matchday 11
+[Sat Mar/4]
+  15.00  Pasaquina FC             2-0  Universidad de El Salvador
+         Dragón                   0-2  CD Águila
+  18.30  Sonsonate FC             0-1  FAS
+  19.00  Isidro Metapán           1-0  Santa Tecla FC
+[Sun Mar/5]
+  15.00  Municipal Limeño         4-1  AD Chalatenango
+  15.15  Alianza                  1-0  Luis Ángel Firpo
+
+
+Matchday 12
+[Wed Mar/8]
+  19.15  Alianza                  1-0  Pasaquina FC
+[Sat Mar/11]
+  19.00  Isidro Metapán           0-1  AD Chalatenango
+         Luis Ángel Firpo         0-0  CD Águila
+[Sun Mar/12]
+  15.00  Municipal Limeño         0-3  Dragón
+         Sonsonate FC             1-4  Santa Tecla FC
+[Mon Mar/13]
+  17.30  Universidad de El Salvador  1-1  FAS
+
+
+Matchday 13
+[Sat Mar/18]
+  15.00  Dragón                   2-1  Isidro Metapán
+         Pasaquina FC             3-0  Luis Ángel Firpo
+  17.00  Santa Tecla FC           0-0  Universidad de El Salvador
+  18.30  AD Chalatenango          1-0  Sonsonate FC
+[Sun Mar/19]
+  15.00  CD Águila                1-2  Municipal Limeño
+  15.30  FAS                      1-0  Alianza
+
+
+Matchday 14
+[Wed Mar/22]
+  15.00  Pasaquina FC             1-1  CD Águila
+  17.30  Universidad de El Salvador  2-2  AD Chalatenango
+  18.30  Sonsonate FC             2-0  Dragón
+  19.00  Isidro Metapán           1-0  Municipal Limeño
+         Luis Ángel Firpo         1-1  FAS
+[Wed Mar/29]
+  19.15  Alianza                  0-2  Santa Tecla FC
+
+
+Matchday 15
+[Sat Mar/25]
+  15.00  CD Águila                1-1  Isidro Metapán
+  15.15  Dragón                   2-0  Universidad de El Salvador
+[Sun Mar/26]
+  15.00  Municipal Limeño         1-0  Sonsonate FC
+  15.30  FAS                      1-0  Pasaquina FC
+[Wed Apr/12]
+  16.00  Santa Tecla FC           5-2  Luis Ángel Firpo
+  18.30  AD Chalatenango          1-3  Alianza
+
+
+Matchday 16
+[Fri Mar/31]
+  17.30  Universidad de El Salvador  1-1  Municipal Limeño
+[Sat Apr/1]
+  15.00  Pasaquina FC             4-1  Santa Tecla FC
+  18.30  Sonsonate FC             2-3  Isidro Metapán
+  19.00  Luis Ángel Firpo         3-1  AD Chalatenango
+[Sun Apr/2]
+  15.15  Alianza                  3-1  Dragón
+  15.30  FAS                      0-0  CD Águila
+
+
+Matchday 17
+[Wed Apr/5]
+  15.15  Municipal Limeño         0-2  Alianza
+         Dragón                   1-2  Luis Ángel Firpo
+  18.30  AD Chalatenango          1-1  Pasaquina FC
+  19.00  Isidro Metapán           0-0  Universidad de El Salvador
+         Santa Tecla FC           3-3  FAS
+  19.30  CD Águila                2-0  Sonsonate FC
+
+
+Matchday 18
+[Sat Apr/8]
+  15.00  Pasaquina FC             1-0  Dragón
+  17.30  Santa Tecla FC           0-0  CD Águila
+  19.00  Luis Ángel Firpo         0-0  Municipal Limeño
+[Sun Apr/9]
+  15.00  Universidad de El Salvador  1-0  Sonsonate FC
+  15.15  Alianza                  0-0  Isidro Metapán
+  15.30  FAS                      1-0  AD Chalatenango
+
+
+Matchday 19
+[Wed Apr/12]
+  19.00  CD Águila                3-2  Universidad de El Salvador
+[Thu Apr/13]
+  15.15  Dragón                   1-1  FAS
+[Sat Apr/15]
+  18.30  AD Chalatenango          2-1  Santa Tecla FC
+  19.00  Isidro Metapán           0-1  Luis Ángel Firpo
+[Sun Apr/16]
+  15.15  Sonsonate FC             2-4  Alianza
+  15.30  Municipal Limeño         3-0  Pasaquina FC
+
+
+Matchday 20
+[Wed Apr/19]
+  15.00  Pasaquina FC             1-1  Isidro Metapán
+  19.00  Luis Ángel Firpo         2-2  Sonsonate FC
+         FAS                      1-0  Municipal Limeño
+         Santa Tecla FC           0-1  Dragón
+         AD Chalatenango          0-0  CD Águila
+  19.15  Alianza                  2-0  Universidad de El Salvador
+
+
+Matchday 21
+[Sat Apr/22]
+  15.00  Universidad de El Salvador  2-1  Luis Ángel Firpo
+         Dragón                   2-1  AD Chalatenango
+  15.30  Municipal Limeño         3-1  Santa Tecla FC
+  18.30  Sonsonate FC             1-0  Pasaquina FC
+  19.00  Isidro Metapán           0-1  FAS
+  19.15  Alianza                  0-1  CD Águila
+
+
+Matchday 22
+[Sat Apr/29]
+  19.00  Luis Ángel Firpo         1-1  Alianza
+         Universidad de El Salvador  1-0  Pasaquina FC
+         FAS                      0-1  Sonsonate FC
+         Santa Tecla FC           0-0  Isidro Metapán
+         AD Chalatenango          2-0  Municipal Limeño
+         CD Águila                0-1  Dragón
+
+
+== Clausura Playoffs
+
+Quarterfinals
+[Wed May/3]
+  15.00  Municipal Limeño         1-1  CD Águila
+  19.00  Luis Ángel Firpo         2-1  Isidro Metapán
+  19.15  Pasaquina FC             0-1  Alianza
+         FAS                      0-0  Santa Tecla FC
+[Sat May/6]
+  17.00  Santa Tecla FC           1-0  FAS
+  19.00  Isidro Metapán           1-0  Luis Ángel Firpo
+[Sun May/7]
+  15.00  CD Águila                2-2  Municipal Limeño
+  15.15  Alianza                  3-0  Pasaquina FC
+
+
+Semifinals
+[Wed May/10]
+  17.00  Santa Tecla FC           2-0  CD Águila
+[Thu May/11]
+  19.00  Isidro Metapán           0-0  Alianza
+[Sun May/14]
+  15.00  CD Águila                2-3  Santa Tecla FC
+  15.15  Alianza                  2-0  Isidro Metapán
+
+
+Final
+[Sun May/21]
+  15.00  Alianza                  0-4  Santa Tecla FC

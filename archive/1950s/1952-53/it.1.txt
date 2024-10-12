@@ -1,0 +1,448 @@
+= IT 1 1952/53
+
+# Date       Sun Sep/14 1952 - Sun May/31 1953 (259d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sun Sep/14]
+         AC Milan                 2-0 (0-0)  Novara Calcio
+         US Palermo               1-1 (0-0)  Juventus
+         Torino FC                2-0 (1-0)  Sampdoria
+         SSC Napoli               2-0 (0-0)  Atalanta
+         ACF Fiorentina           1-1 (1-0)  SPAL Ferrara
+         Calcio Como              0-1 (0-1)  Inter
+         Bologna FC               4-1 (2-1)  Aurora Pro Patria
+         US Triestina             2-3 (0-1)  AS Roma
+         Lazio Roma               1-2 (1-0)  Udinese Calcio
+
+
+Matchday 2
+[Sun Sep/21]
+         SPAL Ferrara             0-0  Calcio Como
+         Udinese Calcio           1-0 (1-0)  Torino FC
+         Sampdoria                0-0  SSC Napoli
+         AS Roma                  1-0 (0-0)  ACF Fiorentina
+         US Palermo               0-1 (0-1)  AC Milan
+         Novara Calcio            2-2 (2-1)  Lazio Roma
+         Juventus                 1-2 (0-1)  Bologna FC
+         Inter                    1-0 (0-0)  Atalanta
+         Aurora Pro Patria        3-2 (2-1)  US Triestina
+
+
+Matchday 3
+[Sun Sep/28]
+         ACF Fiorentina           1-0 (1-0)  Novara Calcio
+         US Triestina             1-1 (0-1)  Sampdoria
+         Torino FC                1-1 (0-0)  Inter
+         SSC Napoli               4-2 (1-1)  Udinese Calcio
+         Atalanta                 1-5 (0-2)  Juventus
+         Lazio Roma               3-1 (3-1)  Aurora Pro Patria
+         Calcio Como              3-1 (3-0)  US Palermo
+         Bologna FC               0-1 (0-1)  AS Roma
+         AC Milan                 1-0 (0-0)  SPAL Ferrara
+
+
+Matchday 4
+[Sun Oct/5]
+         Aurora Pro Patria        3-0 (2-0)  Torino FC
+         AS Roma                  2-1 (0-1)  AC Milan
+         Udinese Calcio           0-1 (0-1)  ACF Fiorentina
+         Sampdoria                0-0  Atalanta
+         Bologna FC               5-2 (3-1)  US Palermo
+         Juventus                 3-2 (2-0)  US Triestina
+         SPAL Ferrara             1-0 (0-0)  Lazio Roma
+         Inter                    5-1 (1-1)  SSC Napoli
+         Novara Calcio            2-1 (1-0)  Calcio Como
+
+
+Matchday 5
+[Sun Oct/12]
+         Lazio Roma               2-1 (0-1)  SSC Napoli
+         US Triestina             2-0 (1-0)  SPAL Ferrara
+         Torino FC                4-1 (2-1)  Novara Calcio
+         Aurora Pro Patria        2-2 (0-2)  Inter
+         AC Milan                 2-1 (0-0)  Sampdoria
+         ACF Fiorentina           1-2 (1-1)  Juventus
+         Calcio Como              0-0  Udinese Calcio
+         Atalanta                 2-0 (1-0)  Bologna FC
+         US Palermo               1-1 (1-0)  AS Roma
+
+
+Matchday 6
+[Sun Oct/19]
+         AS Roma                  3-0 (3-0)  Calcio Como
+         SPAL Ferrara             1-1 (0-1)  Torino FC
+         US Triestina             1-1 (1-0)  AC Milan
+         Sampdoria                1-2 (0-1)  Lazio Roma
+         Novara Calcio            1-1 (1-1)  Atalanta
+         SSC Napoli               1-0 (0-0)  Aurora Pro Patria
+         Juventus                 4-0 (2-0)  Udinese Calcio
+         Inter                    2-1 (1-1)  Bologna FC
+         US Palermo               0-0  ACF Fiorentina
+
+
+Matchday 7
+[Sun Nov/2]
+         Torino FC                0-0  AS Roma
+         Atalanta                 5-2 (1-0)  US Triestina
+         Udinese Calcio           2-1 (2-0)  Novara Calcio
+         Aurora Pro Patria        2-0 (0-0)  SPAL Ferrara
+         AC Milan                 0-1 (0-0)  Inter
+         ACF Fiorentina           2-1 (1-1)  SSC Napoli
+         Calcio Como              0-1 (0-0)  Juventus
+         Bologna FC               2-0 (2-0)  Sampdoria
+         Lazio Roma               2-0 (1-0)  US Palermo
+
+
+Matchday 8
+[Sun Nov/9]
+         SSC Napoli               0-0  US Palermo
+         US Triestina             1-1 (0-0)  ACF Fiorentina
+         SPAL Ferrara             0-1 (0-0)  Inter
+         Sampdoria                1-1 (1-0)  Calcio Como
+         Atalanta                 0-0  Lazio Roma
+         Novara Calcio            2-2 (1-1)  Bologna FC
+         AC Milan                 4-0 (0-0)  Aurora Pro Patria
+         Juventus                 4-1 (1-0)  Torino FC
+         AS Roma                  2-2 (1-1)  Udinese Calcio
+
+
+Matchday 9
+[Sun Nov/16]
+         Lazio Roma               1-0 (1-0)  AS Roma
+         Sampdoria                2-2 (1-1)  SPAL Ferrara
+         US Palermo               3-2 (1-0)  Udinese Calcio
+         Torino FC                2-3 (1-2)  Atalanta
+         Inter                    1-0 (1-0)  US Triestina
+         ACF Fiorentina           2-2 (1-0)  Aurora Pro Patria
+         Bologna FC               1-0 (1-0)  Calcio Como
+         Novara Calcio            0-6 (0-4)  Juventus
+         SSC Napoli               4-2 (1-1)  AC Milan
+
+
+Matchday 10
+[Sun Nov/23]
+         Juventus                 3-0 (2-0)  Sampdoria
+         Udinese Calcio           0-1 (0-0)  AC Milan
+         US Triestina             2-0 (0-0)  Novara Calcio
+         Aurora Pro Patria        0-1 (0-0)  AS Roma
+         Lazio Roma               2-1 (1-0)  Torino FC
+         Inter                    3-0 (1-0)  ACF Fiorentina
+         Calcio Como              2-1 (2-1)  SSC Napoli
+         Bologna FC               2-1 (1-1)  SPAL Ferrara
+         US Palermo               4-2 (3-1)  Atalanta
+
+
+Matchday 11
+[Sun Nov/30]
+         Sampdoria                1-0 (0-0)  Aurora Pro Patria
+         Torino FC                3-1 (1-1)  US Palermo
+         Udinese Calcio           1-1 (1-0)  US Triestina
+         SPAL Ferrara             2-2 (0-0)  Juventus
+         SSC Napoli               2-3 (1-2)  Novara Calcio
+         AC Milan                 3-1 (2-0)  Lazio Roma
+         ACF Fiorentina           1-1 (1-0)  Bologna FC
+         Atalanta                 1-1 (1-0)  Calcio Como
+         AS Roma                  1-3 (0-1)  Inter
+
+
+Matchday 12
+[Sun Dec/7]
+         AS Roma                  0-0  Sampdoria
+         Bologna FC               1-3 (0-2)  SSC Napoli
+         US Triestina             3-0 (2-0)  Torino FC
+         Aurora Pro Patria        2-1 (1-1)  US Palermo
+         Novara Calcio            0-0  SPAL Ferrara
+         Inter                    0-0  Udinese Calcio
+         ACF Fiorentina           1-1 (0-0)  Atalanta
+         Calcio Como              0-1 (0-1)  Lazio Roma
+         Juventus                 0-3 (0-2)  AC Milan
+
+
+Matchday 13
+[Sun Dec/14]
+         AC Milan                 4-2 (0-0)  Calcio Como
+         Udinese Calcio           2-0 (0-0)  SPAL Ferrara
+         Torino FC                1-2 (1-1)  SSC Napoli
+         Sampdoria                4-0 (1-0)  ACF Fiorentina
+         Atalanta                 1-5 (1-2)  AS Roma
+         US Palermo               2-1 (1-0)  Novara Calcio
+         Lazio Roma               1-1 (1-1)  Inter
+         Bologna FC               0-1 (0-1)  US Triestina
+         Aurora Pro Patria        3-3 (1-3)  Juventus
+
+
+Matchday 14
+[Sun Dec/21]
+         Novara Calcio            2-2 (1-1)  Aurora Pro Patria
+         Udinese Calcio           3-2 (2-2)  Sampdoria
+         SPAL Ferrara             2-2 (0-0)  Atalanta
+         US Palermo               0-3 (0-1)  Inter
+         AC Milan                 2-1 (1-0)  ACF Fiorentina
+         Lazio Roma               1-2 (0-1)  Bologna FC
+         Juventus                 3-2 (1-0)  AS Roma
+         Calcio Como              0-1 (0-1)  Torino FC
+         SSC Napoli               1-1 (0-1)  US Triestina
+
+
+Matchday 15
+[Sun Jan/4]
+         Inter                    2-0 (1-0)  Juventus
+         Atalanta                 3-2 (2-1)  Aurora Pro Patria
+         US Triestina             4-1 (2-1)  Calcio Como
+         Torino FC                1-1 (1-1)  AC Milan
+         SPAL Ferrara             4-0 (2-0)  US Palermo
+         AS Roma                  5-2 (2-0)  SSC Napoli
+         ACF Fiorentina           0-0  Lazio Roma
+         Bologna FC               3-1 (2-1)  Udinese Calcio
+         Sampdoria                1-1 (0-1)  Novara Calcio
+
+
+Matchday 16
+[Sun Jan/11]
+         SSC Napoli               1-0 (1-0)  SPAL Ferrara
+         AS Roma                  4-1 (4-0)  Novara Calcio
+         US Triestina             2-1 (1-0)  US Palermo
+         Aurora Pro Patria        2-0 (1-0)  Calcio Como
+         Inter                    2-1 (1-1)  Sampdoria
+         ACF Fiorentina           0-2 (0-0)  Torino FC
+         Atalanta                 5-0 (2-0)  Udinese Calcio
+         Bologna FC               2-0 (1-0)  AC Milan
+         Juventus                 5-0 (1-0)  Lazio Roma
+
+
+Matchday 17
+[Sun Jan/18]
+         Torino FC                1-1 (1-1)  Bologna FC
+         Calcio Como              2-1 (2-1)  ACF Fiorentina
+         Udinese Calcio           7-3 (3-0)  Aurora Pro Patria
+         SPAL Ferrara             2-1 (1-0)  AS Roma
+         US Palermo               3-0 (1-0)  Sampdoria
+         SSC Napoli               3-2 (2-2)  Juventus
+         AC Milan                 5-1 (3-0)  Atalanta
+         Lazio Roma               4-1 (1-1)  US Triestina
+         Novara Calcio            1-2 (0-2)  Inter
+
+
+Matchday 18
+[Sun Jan/25]
+         Novara Calcio            2-1 (1-0)  AC Milan
+         Udinese Calcio           0-4 (0-0)  Lazio Roma
+         SPAL Ferrara             1-1 (0-0)  ACF Fiorentina
+         Sampdoria                1-0 (0-0)  Torino FC
+         Atalanta                 1-1 (1-1)  SSC Napoli
+         Aurora Pro Patria        3-0 (1-0)  Bologna FC
+         Juventus                 2-1 (1-0)  US Palermo
+         Inter                    3-1 (1-1)  Calcio Como
+         AS Roma                  2-2 (0-2)  US Triestina
+
+
+Matchday 19
+[Sun Feb/1]
+         SSC Napoli               2-1 (1-0)  Sampdoria
+         ACF Fiorentina           2-0 (1-0)  AS Roma
+         US Triestina             4-0 (2-0)  Aurora Pro Patria
+         Torino FC                0-3 (0-1)  Udinese Calcio
+         Atalanta                 0-1 (0-0)  Inter
+         AC Milan                 5-0 (3-0)  US Palermo
+         Calcio Como              1-0 (0-0)  SPAL Ferrara
+         Bologna FC               1-0 (1-0)  Juventus
+         Lazio Roma               1-3 (0-1)  Novara Calcio
+
+
+Matchday 20
+[Sun Feb/8]
+         US Palermo               2-0 (0-0)  Calcio Como
+         Udinese Calcio           1-1 (1-1)  SSC Napoli
+         SPAL Ferrara             1-1 (1-0)  AC Milan
+         Sampdoria                3-1 (3-1)  US Triestina
+         Aurora Pro Patria        1-0 (0-0)  Lazio Roma
+         Novara Calcio            1-2 (0-0)  ACF Fiorentina
+         Juventus                 1-1 (0-1)  Atalanta
+         Inter                    1-3 (1-0)  Torino FC
+         AS Roma                  2-1 (1-1)  Bologna FC
+
+
+Matchday 21
+[Sun Feb/15]
+         SSC Napoli               0-1 (0-1)  Inter
+         Torino FC                1-1 (1-1)  Aurora Pro Patria
+         US Triestina             2-1 (1-0)  Juventus
+         US Palermo               4-1 (3-0)  Bologna FC
+         Lazio Roma               3-1 (1-1)  SPAL Ferrara
+         ACF Fiorentina           1-0 (0-0)  Udinese Calcio
+         Calcio Como              0-0  Novara Calcio
+         Atalanta                 4-0 (2-0)  Sampdoria
+         AC Milan                 4-1 (0-1)  AS Roma
+
+
+Matchday 22
+[Sun Feb/22]
+         SPAL Ferrara             2-0 (0-0)  US Triestina
+         Bologna FC               3-1 (1-1)  Atalanta
+         Udinese Calcio           1-0 (0-0)  Calcio Como
+         Sampdoria                2-1 (1-0)  AC Milan
+         AS Roma                  1-0 (0-0)  US Palermo
+         SSC Napoli               3-0 (2-0)  Lazio Roma
+         Juventus                 8-0 (2-0)  ACF Fiorentina
+         Inter                    2-1 (1-0)  Aurora Pro Patria
+         Novara Calcio            2-0 (1-0)  Torino FC
+
+
+Matchday 23
+[Sun Mar/1]
+         ACF Fiorentina           0-2 (0-1)  US Palermo
+         Udinese Calcio           1-1 (1-1)  Juventus
+         Torino FC                1-1 (0-1)  SPAL Ferrara
+         Aurora Pro Patria        1-1 (1-0)  SSC Napoli
+         Atalanta                 1-0 (0-0)  Novara Calcio
+         Lazio Roma               0-1 (0-1)  Sampdoria
+         Calcio Como              2-1 (1-0)  AS Roma
+         Bologna FC               2-0 (1-0)  Inter
+         AC Milan                 4-1 (2-1)  US Triestina
+
+
+Matchday 24
+[Sun Mar/8]
+         AS Roma                  2-1 (0-0)  Torino FC
+         US Palermo               3-1 (2-0)  Lazio Roma
+         Sampdoria                1-1 (0-0)  Bologna FC
+         US Triestina             2-2 (1-0)  Atalanta
+         SSC Napoli               0-0  ACF Fiorentina
+         Juventus                 2-1 (2-1)  Calcio Como
+         Inter                    0-0  AC Milan
+         Novara Calcio            3-1 (2-0)  Udinese Calcio
+         SPAL Ferrara             4-0 (4-0)  Aurora Pro Patria
+
+
+Matchday 25
+[Sun Mar/15]
+         Inter                    1-1 (0-1)  SPAL Ferrara
+         Udinese Calcio           3-1 (0-0)  AS Roma
+         Torino FC                0-1 (0-0)  Juventus
+         Aurora Pro Patria        0-1 (0-0)  AC Milan
+         Lazio Roma               0-2 (0-1)  Atalanta
+         ACF Fiorentina           2-0 (1-0)  US Triestina
+         Calcio Como              1-0 (0-0)  Sampdoria
+         Bologna FC               1-0 (0-0)  Novara Calcio
+         US Palermo               0-0  SSC Napoli
+
+
+Matchday 26
+[Sun Mar/22]
+         AS Roma                  0-2 (0-0)  Lazio Roma
+         US Triestina             0-0  Inter
+         Udinese Calcio           1-1 (0-0)  US Palermo
+         SPAL Ferrara             0-0  Sampdoria
+         AC Milan                 2-2 (1-2)  SSC Napoli
+         Juventus                 1-1 (0-1)  Novara Calcio
+         Atalanta                 1-3 (1-2)  Torino FC
+         Calcio Como              1-0 (0-0)  Bologna FC
+         Aurora Pro Patria        0-0  ACF Fiorentina
+
+
+Matchday 27
+[Sun Mar/29]
+         SPAL Ferrara             1-4 (0-1)  Bologna FC
+         Atalanta                 0-0  US Palermo
+         Torino FC                2-0 (2-0)  Lazio Roma
+         Sampdoria                1-1 (1-1)  Juventus
+         AS Roma                  0-0  Aurora Pro Patria
+         SSC Napoli               1-0 (0-0)  Calcio Como
+         AC Milan                 0-0  Udinese Calcio
+         ACF Fiorentina           1-0 (0-0)  Inter
+         Novara Calcio            1-0 (0-0)  US Triestina
+
+
+Matchday 28
+[Sun Apr/5]
+         Juventus                 2-2 (1-2)  SPAL Ferrara
+         US Triestina             1-1 (0-0)  Udinese Calcio
+         Aurora Pro Patria        0-1 (0-1)  Sampdoria
+         US Palermo               1-1 (0-0)  Torino FC
+         Bologna FC               2-1 (2-1)  ACF Fiorentina
+         Lazio Roma               0-0  AC Milan
+         Inter                    1-0 (0-0)  AS Roma
+         Calcio Como              2-1 (1-1)  Atalanta
+         Novara Calcio            0-1 (0-1)  SSC Napoli
+
+
+Matchday 29
+[Sun Apr/12]
+         US Palermo               2-0 (2-0)  Aurora Pro Patria
+         Sampdoria                2-2 (2-2)  AS Roma
+         SPAL Ferrara             0-0  Novara Calcio
+         Udinese Calcio           0-0  Inter
+         AC Milan                 1-2 (1-1)  Juventus
+         Lazio Roma               2-0 (2-0)  Calcio Como
+         Atalanta                 1-2 (0-1)  ACF Fiorentina
+         Torino FC                5-0 (2-0)  US Triestina
+         SSC Napoli               4-1 (0-0)  Bologna FC
+
+
+Matchday 30
+[Sun Apr/19]
+         Juventus                 2-0 (1-0)  Aurora Pro Patria
+         SPAL Ferrara             3-0 (0-0)  Udinese Calcio
+         AS Roma                  2-2 (1-0)  Atalanta
+         SSC Napoli               3-0 (1-0)  Torino FC
+         US Triestina             1-0 (0-0)  Bologna FC
+         Inter                    1-1 (0-1)  Lazio Roma
+         ACF Fiorentina           2-2 (1-2)  Sampdoria
+         Calcio Como              3-1 (0-0)  AC Milan
+         Novara Calcio            3-4 (2-2)  US Palermo
+
+
+Matchday 31
+[Sun May/3]
+         AS Roma                  3-0 (3-0)  Juventus
+         US Triestina             2-3 (1-1)  SSC Napoli
+         Torino FC                2-1 (1-0)  Calcio Como
+         Sampdoria                1-1 (0-1)  Udinese Calcio
+         Aurora Pro Patria        2-3 (1-0)  Novara Calcio
+         Inter                    3-0 (1-0)  US Palermo
+         ACF Fiorentina           0-3 (0-1)  AC Milan
+         Atalanta                 0-1 (0-0)  SPAL Ferrara
+         Bologna FC               1-1 (1-0)  Lazio Roma
+
+
+Matchday 32
+[Sun May/10]
+         Novara Calcio            2-0 (0-0)  Sampdoria
+         Aurora Pro Patria        0-3 (0-0)  Atalanta
+         Juventus                 2-1 (1-0)  Inter
+         US Palermo               2-2 (0-1)  SPAL Ferrara
+         Udinese Calcio           0-2  Bologna FC               [awarded]
+         Lazio Roma               0-1 (0-0)  ACF Fiorentina
+         Calcio Como              2-0 (2-0)  US Triestina
+         AC Milan                 5-1 (3-1)  Torino FC
+         SSC Napoli               0-0  AS Roma
+
+
+Matchday 33
+[Sun May/24]
+         SPAL Ferrara             4-1 (2-0)  SSC Napoli
+         Torino FC                4-1 (1-0)  ACF Fiorentina
+         Sampdoria                2-0 (0-0)  Inter
+         US Palermo               0-0  US Triestina
+         Novara Calcio            3-1 (2-1)  AS Roma
+         AC Milan                 1-1 (1-0)  Bologna FC
+         Lazio Roma               0-1 (0-1)  Juventus
+         Calcio Como              4-1 (1-0)  Aurora Pro Patria
+         Udinese Calcio           1-3 (0-1)  Atalanta
+
+
+Matchday 34
+[Sun May/31]
+         US Triestina             3-0 (2-0)  Lazio Roma
+         Atalanta                 1-1 (1-1)  AC Milan
+         Bologna FC               2-2 (1-1)  Torino FC
+         ACF Fiorentina           2-0 (1-0)  Calcio Como
+         Inter                    0-1 (0-1)  Novara Calcio
+         Juventus                 1-1 (0-1)  SSC Napoli
+         Aurora Pro Patria        2-3 (1-0)  Udinese Calcio
+         AS Roma                  0-0  SPAL Ferrara
+         Sampdoria                4-1 (1-1)  US Palermo

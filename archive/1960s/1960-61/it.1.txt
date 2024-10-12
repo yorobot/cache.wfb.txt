@@ -1,0 +1,482 @@
+= IT 1 1960/61
+
+# Date       Sun Sep/25 1960 - Sun Jun/18 1961 (266d)
+# Teams      18
+# Matches    309
+# Stages     Regular Season (306)  Relegation (3)
+
+
+# Regular Season
+
+Matchday 1
+[Sun Sep/25]
+         Udinese Calcio           0-1 (0-0)  Juventus
+         Torino FC                0-1 (0-1)  Sampdoria
+         AC Milan                 3-0 (2-0)  Calcio Catania
+         SPAL Ferrara             1-1 (1-0)  Calcio Padova
+         Lanerossi Vicenza        2-3 (1-2)  SSC Napoli
+         ACF Fiorentina           4-0 (2-0)  Calcio Lecco 1912
+         Atalanta                 1-5 (0-3)  Inter
+         AS Bari                  0-3 (0-1)  AS Roma
+         Lazio Roma               1-3 (1-1)  Bologna FC
+
+
+Matchday 2
+[Sun Oct/2]
+         Inter                    2-1 (1-0)  AS Bari
+         Sampdoria                3-1 (2-1)  ACF Fiorentina
+         AS Roma                  6-1 (3-1)  Udinese Calcio
+         Calcio Padova            4-1 (1-0)  AC Milan
+         Juventus                 3-1 (1-0)  Lazio Roma
+         Calcio Catania           2-0 (1-0)  Calcio Lecco 1912
+         Bologna FC               1-1 (1-0)  Lanerossi Vicenza
+         Atalanta                 1-1 (0-1)  SPAL Ferrara
+         SSC Napoli               1-1 (1-0)  Torino FC
+
+
+Matchday 3
+[Sun Oct/9]
+         SPAL Ferrara             1-2 (1-1)  Juventus
+         Lazio Roma               1-1 (0-0)  SSC Napoli
+         Udinese Calcio           0-6 (0-4)  Inter
+         Torino FC                1-3 (1-1)  AS Roma
+         Calcio Catania           3-1 (1-0)  Atalanta
+         Lanerossi Vicenza        1-1 (0-1)  Sampdoria
+         ACF Fiorentina           4-0 (2-0)  AS Bari
+         AC Milan                 5-1 (1-1)  Bologna FC
+         Calcio Lecco 1912        2-1 (1-0)  Calcio Padova
+
+
+Matchday 4
+[Sun Oct/16]
+         Inter                    5-0 (1-0)  Lanerossi Vicenza
+         Udinese Calcio           2-0 (1-0)  Lazio Roma
+         Sampdoria                2-2 (2-1)  AC Milan
+         AS Roma                  2-1 (0-0)  SPAL Ferrara
+         Juventus                 4-1 (1-1)  Calcio Catania
+         Bologna FC               0-2 (0-0)  SSC Napoli
+         AS Bari                  4-1 (2-0)  Calcio Lecco 1912
+         Atalanta                 1-1 (1-1)  Torino FC
+         Calcio Padova            0-0  ACF Fiorentina
+
+
+Matchday 5
+[Sun Oct/23]
+         SPAL Ferrara             2-2 (1-1)  Sampdoria
+         AC Milan                 0-0  Atalanta
+         Torino FC                2-1 (1-0)  AS Bari
+         SSC Napoli               3-2 (2-2)  AS Roma
+         Lazio Roma               0-0  Inter
+         Lanerossi Vicenza        2-1 (1-0)  Calcio Padova
+         Bologna FC               1-2 (1-1)  Calcio Catania
+         ACF Fiorentina           3-0 (2-0)  Juventus
+         Calcio Lecco 1912        3-1 (2-0)  Udinese Calcio
+
+
+Matchday 6
+[Sun Nov/6]
+         Juventus                 3-4 (0-2)  AC Milan
+         Udinese Calcio           1-0 (0-0)  Lanerossi Vicenza
+         SPAL Ferrara             3-2 (2-2)  SSC Napoli
+         Sampdoria                1-0 (0-0)  Lazio Roma
+         Calcio Padova            5-1 (4-0)  Torino FC
+         Inter                    1-1 (1-0)  Calcio Lecco 1912
+         Calcio Catania           1-1 (1-0)  ACF Fiorentina
+         AS Bari                  1-3 (0-0)  Bologna FC
+         AS Roma                  0-0  Atalanta
+
+
+Matchday 7
+[Sun Nov/13]
+         AC Milan                 3-1 (2-0)  Udinese Calcio
+         Calcio Padova            2-1 (0-1)  Inter
+         Torino FC                0-0  Juventus
+         SSC Napoli               1-0 (1-0)  ACF Fiorentina
+         Lazio Roma               0-4 (0-3)  AS Roma
+         Calcio Catania           4-0 (1-0)  Lanerossi Vicenza
+         Bologna FC               3-1 (3-0)  SPAL Ferrara
+         Atalanta                 2-0 (1-0)  AS Bari
+         Calcio Lecco 1912        1-1 (0-1)  Sampdoria
+
+
+Matchday 8
+[Sun Nov/20]
+         Sampdoria                0-0  SSC Napoli
+         Atalanta                 3-0 (1-0)  Calcio Lecco 1912
+         Udinese Calcio           0-1 (0-0)  Calcio Catania
+         AS Roma                  3-1 (1-1)  Calcio Padova
+         Lanerossi Vicenza        1-1 (0-1)  Torino FC
+         Inter                    1-0 (1-0)  AC Milan
+         ACF Fiorentina           4-0 (1-0)  Lazio Roma
+         AS Bari                  2-0 (1-0)  SPAL Ferrara
+         Juventus                 3-0 (3-0)  Bologna FC
+
+
+Matchday 9
+[Sun Nov/27]
+         SSC Napoli               1-2 (0-2)  AC Milan
+         Udinese Calcio           0-0  AS Bari
+         Torino FC                0-0  ACF Fiorentina
+         SPAL Ferrara             2-0 (0-0)  Calcio Catania
+         Bologna FC               3-1 (3-1)  Atalanta
+         Calcio Padova            2-1 (1-0)  Lazio Roma
+         Lanerossi Vicenza        1-0 (1-0)  Calcio Lecco 1912
+         Inter                    3-0 (1-0)  Sampdoria
+         AS Roma                  2-1 (0-0)  Juventus
+
+
+Matchday 10
+[Sun Dec/4]
+         Lazio Roma               4-0 (1-0)  SPAL Ferrara
+         Sampdoria                1-0 (1-0)  Atalanta
+         AC Milan                 2-0 (1-0)  Torino FC
+         Calcio Lecco 1912        1-0 (0-0)  SSC Napoli
+         ACF Fiorentina           3-0 (2-0)  Udinese Calcio
+         Calcio Catania           1-1 (1-0)  AS Roma
+         Bologna FC               2-1 (0-1)  Inter
+         AS Bari                  1-0 (1-0)  Calcio Padova
+         Juventus                 2-0 (2-0)  Lanerossi Vicenza
+
+
+Matchday 11
+[Sun Dec/18]
+         Lanerossi Vicenza        0-0  Lazio Roma
+         Torino FC                3-1 (2-0)  Calcio Lecco 1912
+         SPAL Ferrara             2-0 (1-0)  ACF Fiorentina
+         SSC Napoli               1-0 (0-0)  AS Bari
+         Inter                    3-1 (1-0)  Juventus
+         Calcio Catania           3-0 (2-0)  Sampdoria
+         AS Roma                  2-2 (2-2)  AC Milan
+
+
+Matchday 12
+[Sat Dec/24]
+         Lazio Roma               2-2 (1-1)  Calcio Catania
+[Sun Dec/25]
+         AS Bari                  0-0  AC Milan
+         SSC Napoli               0-0  Atalanta
+         Inter                    4-1 (0-1)  SPAL Ferrara
+         Calcio Padova            1-0 (0-0)  Udinese Calcio
+         Juventus                 3-2 (3-0)  Sampdoria
+         Calcio Lecco 1912        0-0  AS Roma
+         ACF Fiorentina           0-1 (0-0)  Lanerossi Vicenza
+         Bologna FC               3-1 (2-1)  Torino FC
+
+
+Matchday 13
+[Sun Jan/1]
+         Bologna FC               2-0 (1-0)  AS Roma
+         AC Milan                 4-1 (1-0)  ACF Fiorentina
+         Lazio Roma               1-2 (1-0)  Atalanta
+         Udinese Calcio           1-1 (0-1)  SSC Napoli
+         Torino FC                0-1 (0-1)  Inter
+         Sampdoria                3-0 (3-0)  Calcio Padova
+         Calcio Lecco 1912        2-2 (1-2)  Juventus
+         Lanerossi Vicenza        1-0 (1-0)  SPAL Ferrara
+
+
+Matchday 11
+[Wed Jan/4]
+         Udinese Calcio           0-0  Bologna FC
+
+
+Matchday 14
+[Sun Jan/8]
+         SSC Napoli               0-1 (0-1)  Calcio Catania
+         Calcio Padova            2-1 (1-1)  Bologna FC
+         SPAL Ferrara             1-0 (1-0)  Calcio Lecco 1912
+         AS Roma                  3-2 (0-0)  Sampdoria
+         Torino FC                3-1 (1-0)  Udinese Calcio
+         ACF Fiorentina           1-1 (0-0)  Inter
+         AS Bari                  1-1 (1-1)  Lanerossi Vicenza
+         Atalanta                 2-2 (2-1)  Juventus
+
+
+Matchday 15
+[Sun Jan/15]
+         Calcio Lecco 1912        2-2 (0-2)  AC Milan
+         Calcio Catania           2-0 (1-0)  Calcio Padova
+         ACF Fiorentina           3-1 (2-0)  Bologna FC
+         Juventus                 2-2 (1-1)  SSC Napoli
+         SPAL Ferrara             1-1 (1-1)  Udinese Calcio
+         Sampdoria                1-0 (1-0)  AS Bari
+         Lazio Roma               1-0 (1-0)  Torino FC
+         Lanerossi Vicenza        1-0 (1-0)  Atalanta
+         Inter                    3-1 (0-1)  AS Roma
+
+
+Matchday 11
+[Wed Jan/18]
+         Atalanta                 1-0 (0-0)  Calcio Padova
+
+
+Matchday 13
+[Wed Jan/18]
+         Calcio Catania           3-1 (2-0)  AS Bari
+
+
+Matchday 16
+[Sun Jan/22]
+         Juventus                 2-1 (2-1)  Calcio Padova
+         Calcio Catania           0-0  Torino FC
+         AS Roma                  6-3 (4-1)  Lanerossi Vicenza
+         SSC Napoli               0-0  Inter
+         Udinese Calcio           7-1 (3-0)  Sampdoria
+         Bologna FC               0-0  Calcio Lecco 1912
+         AS Bari                  0-0  Lazio Roma
+         Atalanta                 4-1 (2-1)  ACF Fiorentina
+         AC Milan                 4-0 (1-0)  SPAL Ferrara
+
+
+Matchday 14
+[Wed Jan/25]
+         AC Milan                 5-1 (2-0)  Lazio Roma
+
+
+Matchday 17
+[Sun Jan/29]
+         Lanerossi Vicenza        1-0 (0-0)  AC Milan
+         Torino FC                3-2 (1-1)  SPAL Ferrara
+         Sampdoria                2-1 (2-0)  Bologna FC
+         AS Roma                  1-3 (0-1)  ACF Fiorentina
+         Calcio Lecco 1912        2-1 (1-0)  Lazio Roma
+         Inter                    5-0 (3-0)  Calcio Catania
+         AS Bari                  0-1 (0-0)  Juventus
+         Atalanta                 1-1 (1-1)  Udinese Calcio
+         Calcio Padova            2-0 (0-0)  SSC Napoli
+
+
+Matchday 18
+[Sun Feb/5]
+         SSC Napoli               0-0  Lanerossi Vicenza
+         AS Roma                  1-0 (1-0)  AS Bari
+         Calcio Catania           4-3 (2-0)  AC Milan
+         Calcio Padova            1-1 (1-0)  SPAL Ferrara
+         Sampdoria                2-1 (1-0)  Torino FC
+         Inter                    2-1 (1-0)  Atalanta
+         Bologna FC               1-1 (1-0)  Lazio Roma
+         Juventus                 5-1 (2-0)  Udinese Calcio
+         Calcio Lecco 1912        0-2 (0-1)  ACF Fiorentina
+
+
+Matchday 19
+[Sun Feb/12]
+         Lazio Roma               1-4 (0-2)  Juventus
+         Udinese Calcio           2-1 (1-0)  AS Roma
+         Torino FC                1-0 (0-0)  SSC Napoli
+         SPAL Ferrara             2-1 (2-1)  Atalanta
+         Calcio Lecco 1912        2-2 (2-2)  Calcio Catania
+         Lanerossi Vicenza        2-2 (0-1)  Bologna FC
+         ACF Fiorentina           1-0 (0-0)  Sampdoria
+         AS Bari                  1-1 (0-0)  Inter
+         AC Milan                 3-0 (1-0)  Calcio Padova
+
+
+Matchday 20
+[Sun Feb/19]
+         Calcio Padova            3-1 (2-1)  Calcio Lecco 1912
+         Inter                    1-0 (1-0)  Udinese Calcio
+         Sampdoria                3-1 (1-0)  Lanerossi Vicenza
+         AS Roma                  2-1 (1-1)  Torino FC
+         Atalanta                 1-0 (1-0)  Calcio Catania
+         Bologna FC               0-2 (0-1)  AC Milan
+         AS Bari                  0-0  ACF Fiorentina
+         SSC Napoli               2-5 (0-3)  Lazio Roma
+         Juventus                 1-0 (0-0)  SPAL Ferrara
+
+
+Matchday 21
+[Sun Feb/26]
+         Lazio Roma               0-1 (0-1)  Udinese Calcio
+         Torino FC                1-1 (0-0)  Atalanta
+         SPAL Ferrara             2-2 (2-2)  AS Roma
+         SSC Napoli               1-2 (0-1)  Bologna FC
+         Calcio Lecco 1912        0-0  AS Bari
+         Lanerossi Vicenza        1-3 (0-2)  Inter
+         ACF Fiorentina           2-0 (0-0)  Calcio Padova
+         Calcio Catania           1-2 (0-0)  Juventus
+         AC Milan                 3-1 (0-0)  Sampdoria
+
+
+Matchday 22
+[Sun Mar/5]
+         Inter                    7-0 (1-0)  Lazio Roma
+         AS Roma                  2-0 (0-0)  SSC Napoli
+         Udinese Calcio           2-0 (1-0)  Calcio Lecco 1912
+         Sampdoria                1-1 (1-1)  SPAL Ferrara
+         Atalanta                 2-0 (1-0)  AC Milan
+         Calcio Padova            2-1 (1-0)  Lanerossi Vicenza
+         Calcio Catania           1-0 (1-0)  Bologna FC
+         AS Bari                  1-0 (1-0)  Torino FC
+         Juventus                 3-0 (3-0)  ACF Fiorentina
+
+
+Matchday 23
+[Sun Mar/12]
+         Lanerossi Vicenza        2-2 (2-1)  Udinese Calcio
+         Torino FC                0-0  Calcio Padova
+         SSC Napoli               0-2 (0-0)  SPAL Ferrara
+         AC Milan                 3-1 (1-1)  Juventus
+         Lazio Roma               0-1 (0-1)  Sampdoria
+         ACF Fiorentina           2-0 (0-0)  Calcio Catania
+         Bologna FC               0-0  AS Bari
+         Atalanta                 0-0  AS Roma
+         Calcio Lecco 1912        2-1 (1-0)  Inter
+
+
+Matchday 24
+[Sun Mar/19]
+         Juventus                 1-0 (0-0)  Torino FC
+         SPAL Ferrara             0-1 (0-1)  Bologna FC
+         Sampdoria                1-0 (0-0)  Calcio Lecco 1912
+         Udinese Calcio           0-0  AC Milan
+         Inter                    1-2 (0-0)  Calcio Padova
+         ACF Fiorentina           0-0  SSC Napoli
+         AS Bari                  2-2 (1-1)  Atalanta
+         AS Roma                  1-2 (1-2)  Lazio Roma
+         Lanerossi Vicenza        1-0 (0-0)  Calcio Catania
+
+
+Matchday 25
+[Sun Mar/26]
+         Calcio Lecco 1912        1-0 (1-0)  Atalanta
+         Torino FC                2-0 (1-0)  Lanerossi Vicenza
+         SPAL Ferrara             1-0 (0-0)  AS Bari
+         Calcio Padova            0-0  AS Roma
+         AC Milan                 2-1 (2-0)  Inter
+         Lazio Roma               1-2 (1-0)  ACF Fiorentina
+         Calcio Catania           3-0 (3-0)  Udinese Calcio
+         Bologna FC               2-4 (1-2)  Juventus
+         SSC Napoli               1-0 (1-0)  Sampdoria
+
+
+Matchday 26
+[Sun Apr/2]
+         Calcio Lecco 1912        0-1 (0-1)  Lanerossi Vicenza
+         AC Milan                 2-1 (2-0)  SSC Napoli
+         Juventus                 3-0 (1-0)  AS Roma
+         Lazio Roma               1-2 (0-1)  Calcio Padova
+         Calcio Catania           1-1 (0-1)  SPAL Ferrara
+         AS Bari                  2-1 (1-0)  Udinese Calcio
+         Atalanta                 1-1 (0-1)  Bologna FC
+         ACF Fiorentina           1-1 (0-0)  Torino FC
+         Sampdoria                4-2 (1-1)  Inter
+
+
+Matchday 27
+[Sun Apr/9]
+         SSC Napoli               3-1 (1-0)  Calcio Lecco 1912
+         Udinese Calcio           0-0  ACF Fiorentina
+         Torino FC                1-1 (1-1)  AC Milan
+         SPAL Ferrara             3-2 (1-0)  Lazio Roma
+         Calcio Padova            1-1 (1-1)  AS Bari
+         Lanerossi Vicenza        0-1 (0-1)  Juventus
+         Inter                    0-0  Bologna FC
+         Atalanta                 0-3 (0-2)  Sampdoria
+         AS Roma                  4-1 (0-0)  Calcio Catania
+
+
+Matchday 28
+[Sun Apr/16]
+         Sampdoria                2-0 (1-0)  Calcio Catania
+         Calcio Padova            3-0 (2-0)  Atalanta
+         AS Bari                  1-0 (1-0)  SSC Napoli
+         ACF Fiorentina           0-3 (0-2)  SPAL Ferrara
+         Bologna FC               1-1 (1-0)  Udinese Calcio
+         Calcio Lecco 1912        2-1 (1-1)  Torino FC
+         Lazio Roma               1-1 (0-0)  Lanerossi Vicenza
+         AC Milan                 2-1 (0-1)  AS Roma
+
+
+Matchday 29
+[Sun Apr/30]
+         Sampdoria                3-2 (2-2)  Juventus
+         AC Milan                 1-3 (0-2)  AS Bari
+         Udinese Calcio           3-1 (3-0)  Calcio Padova
+         Torino FC                1-0 (0-0)  Bologna FC
+         SPAL Ferrara             1-3 (1-1)  Inter
+         AS Roma                  1-0 (0-0)  Calcio Lecco 1912
+         Lanerossi Vicenza        0-0  ACF Fiorentina
+         Calcio Catania           0-1 (0-0)  Lazio Roma
+         Atalanta                 1-1 (1-1)  SSC Napoli
+
+
+Matchday 30
+[Sun May/7]
+         ACF Fiorentina           2-0 (0-0)  AC Milan
+         SSC Napoli               2-2 (1-2)  Udinese Calcio
+         Juventus                 4-2 (1-1)  Calcio Lecco 1912
+         Calcio Padova            3-0 (1-0)  Sampdoria
+         SPAL Ferrara             2-1 (0-1)  Lanerossi Vicenza
+         AS Roma                  1-0 (1-0)  Bologna FC
+         AS Bari                  0-1 (0-0)  Calcio Catania
+         Atalanta                 0-0  Lazio Roma
+         Inter                    1-1 (0-0)  Torino FC
+
+
+Matchday 31
+[Sun May/14]
+         Lazio Roma               0-1 (0-0)  AC Milan
+         Juventus                 3-2 (1-0)  Atalanta
+         Udinese Calcio           3-0 (2-0)  Torino FC
+         Sampdoria                3-2 (2-1)  AS Roma
+         Calcio Lecco 1912        2-0 (1-0)  SPAL Ferrara
+         Lanerossi Vicenza        4-1 (1-0)  AS Bari
+         Inter                    2-2 (2-0)  ACF Fiorentina
+         Calcio Catania           1-0 (1-0)  SSC Napoli
+         Bologna FC               2-1 (2-1)  Calcio Padova
+
+
+Matchday 32
+[Sun May/21]
+         Bologna FC               3-3 (2-2)  ACF Fiorentina
+         SSC Napoli               0-4 (0-3)  Juventus
+         Calcio Padova            2-1 (1-0)  Calcio Catania
+         AS Roma                  0-2 (0-1)  Inter
+         Udinese Calcio           0-0  SPAL Ferrara
+         AC Milan                 1-1 (0-0)  Calcio Lecco 1912
+         AS Bari                  1-0 (1-0)  Sampdoria
+         Atalanta                 1-0 (0-0)  Lanerossi Vicenza
+         Torino FC                4-1 (1-1)  Lazio Roma
+
+
+Matchday 33
+[Tue May/30]
+         Lanerossi Vicenza        4-0 (4-0)  AS Roma
+         Calcio Padova            1-0 (1-0)  Juventus
+         Torino FC                2-1 (2-0)  Calcio Catania
+         Sampdoria                3-2 (3-0)  Udinese Calcio
+         Calcio Lecco 1912        2-0 (0-0)  Bologna FC
+         Lazio Roma               0-1 (0-1)  AS Bari
+         SPAL Ferrara             1-2 (0-1)  AC Milan
+         Inter                    3-0 (1-0)  SSC Napoli
+         ACF Fiorentina           0-1 (0-1)  Atalanta
+
+
+Matchday 34
+[Sun Jun/4]
+         Juventus                 1-1 (1-0)  AS Bari
+         Udinese Calcio           2-1 (2-0)  Atalanta
+         Bologna FC               4-4 (2-2)  Sampdoria
+         Calcio Catania           2-0 (1-0)  Inter
+         ACF Fiorentina           0-1 (0-1)  AS Roma
+         SPAL Ferrara             0-0  Torino FC
+         Lazio Roma               0-1 (0-1)  Calcio Lecco 1912
+         AC Milan                 0-0  Lanerossi Vicenza
+         SSC Napoli               1-2 (0-1)  Calcio Padova
+
+
+Matchday 28
+[Sat Jun/10]
+         Juventus                 9-1 (3-0)  Inter
+
+
+== Relegation
+
+Spiele
+[Sun Jun/11]
+         Calcio Lecco 1912        4-2 (1-0)  AS Bari
+[Wed Jun/14]
+         Udinese Calcio           0-0  AS Bari
+[Sun Jun/18]
+         Calcio Lecco 1912        3-3 (1-1)  Udinese Calcio

@@ -1,0 +1,195 @@
+= EC 2 2020
+
+# Date       Sat Feb/29 - Sat Nov/14 2020 (259d)
+# Teams      10
+# Matches    90
+
+
+
+Matchday 1
+[Sat Feb/29]
+  13.00  9 de Octubre             1-0 (1-0)  Manta
+  15.00  Atlético Santo Domingo   3-0 (1-0)  Santa Rita
+[Sun Mar/1]
+  10.00  América de Quito         2-1 (2-1)  Fuerza Amarilla
+  14.45  Independiente Juniors    0-1 (0-1)  Atlético Porteño
+  15.00  Chacaritas FC            1-0 (1-0)  Gualaceo SC
+
+
+Matchday 2
+[Sat Mar/7]
+  10.00  Atlético Porteño         1-3 (0-0)  9 de Octubre
+  14.00  Manta                    1-0 (1-0)  América de Quito
+  15.30  Santa Rita               3-1 (2-0)  Independiente Juniors
+[Sun Mar/8]
+  09.15  Fuerza Amarilla          4-1 (2-1)  Chacaritas FC
+  12.00  Gualaceo SC              4-0 (2-0)  Atlético Santo Domingo
+
+
+Matchday 3
+[Sat Mar/14]
+  11.00  Atlético Santo Domingo   1-1 (1-1)  Manta
+[Sat Aug/22]
+  11.30  América de Quito         0-1 (0-0)  Atlético Porteño
+  15.00  Chacaritas FC            1-2 (0-2)  Santa Rita
+         Fuerza Amarilla          2-1 (0-0)  Gualaceo SC
+[Sun Aug/23]
+  10.30  Independiente Juniors    2-0 (1-0)  9 de Octubre
+
+
+Matchday 4
+[Fri Aug/28]
+  16.45  Independiente Juniors    2-2 (1-2)  Chacaritas FC
+[Sat Aug/29]
+  10.30  9 de Octubre             1-1 (0-1)  Atlético Santo Domingo
+  10.45  Manta                    3-2 (1-1)  Fuerza Amarilla
+  15.00  Santa Rita               0-1 (0-0)  América de Quito
+[Sun Aug/30]
+  11.00  Atlético Porteño         2-1 (0-1)  Gualaceo SC
+
+
+Matchday 5
+[Thu Sep/3]
+  19.00  América de Quito         0-0  9 de Octubre
+[Fri Sep/4]
+  15.00  Chacaritas FC            2-1 (1-0)  Manta
+         Fuerza Amarilla          0-2 (0-0)  Atlético Porteño
+[Sat Sep/5]
+  11.30  Atlético Santo Domingo   0-1 (0-0)  Independiente Juniors
+  12.00  Gualaceo SC              2-1 (1-1)  Santa Rita
+
+
+Matchday 6
+[Thu Sep/10]
+  19.00  Manta                    2-1 (1-0)  Atlético Porteño
+[Fri Sep/11]
+  10.30  9 de Octubre             1-1 (1-1)  Chacaritas FC
+  12.00  Atlético Santo Domingo   1-0 (1-0)  América de Quito
+         Santa Rita               1-2 (1-1)  Fuerza Amarilla
+[Mon Sep/14]
+  18.00  Independiente Juniors    1-1 (0-0)  Gualaceo SC
+
+
+Matchday 7
+[Wed Sep/16]
+  12.00  Chacaritas FC            3-3 (2-0)  Atlético Santo Domingo
+  15.00  Fuerza Amarilla          0-0  9 de Octubre
+  19.00  Atlético Porteño         1-0 (1-0)  Santa Rita
+[Thu Sep/17]
+  12.00  Gualaceo SC              0-1 (0-0)  Manta
+[Fri Sep/18]
+  16.30  América de Quito         1-0 (1-0)  Independiente Juniors
+
+
+Matchday 8
+[Sun Sep/20]
+  11.00  9 de Octubre             2-1 (0-1)  Gualaceo SC
+  12.00  Atlético Santo Domingo   0-0  Atlético Porteño
+[Mon Sep/21]
+  15.00  Santa Rita               1-1 (0-0)  Manta
+         Independiente Juniors    2-0 (1-0)  Fuerza Amarilla
+  18.00  América de Quito         1-2 (0-2)  Chacaritas FC
+
+
+Matchday 9
+[Fri Sep/25]
+  14.15  Atlético Porteño         1-0 (1-0)  Chacaritas FC
+[Sat Sep/26]
+  15.00  Gualaceo SC              1-0 (0-0)  América de Quito
+         Fuerza Amarilla          0-0  Atlético Santo Domingo
+         Santa Rita               1-1 (0-0)  9 de Octubre
+[Mon Sep/28]
+  16.00  Manta                    1-3 (1-1)  Independiente Juniors
+
+
+Matchday 10
+[Fri Oct/2]
+  14.00  9 de Octubre             2-0 (0-0)  Atlético Porteño
+[Sat Oct/3]
+  12.00  Atlético Santo Domingo   0-1 (0-1)  Gualaceo SC
+  15.00  Chacaritas FC            0-0  Fuerza Amarilla
+[Sun Oct/4]
+  14.30  Independiente Juniors    2-2 (1-0)  Santa Rita
+[Mon Oct/5]
+  18.00  América de Quito         2-2 (1-2)  Manta
+
+
+Matchday 11
+[Fri Oct/9]
+  19.00  Atlético Porteño         0-1 (0-0)  América de Quito
+[Sat Oct/10]
+  12.00  Gualaceo SC              1-1 (1-0)  Fuerza Amarilla
+  15.00  9 de Octubre             5-1 (3-1)  Independiente Juniors
+         Santa Rita               2-3 (1-1)  Chacaritas FC
+[Sun Oct/11]
+  11.00  Manta                    1-0 (0-0)  Atlético Santo Domingo
+
+
+Matchday 12
+[Fri Oct/16]
+  15.00  Gualaceo SC              1-1 (1-0)  Atlético Porteño
+  19.00  América de Quito         2-1 (1-1)  Santa Rita
+[Sat Oct/17]
+  12.00  Fuerza Amarilla          0-3 (0-3)  Manta
+         Atlético Santo Domingo   1-4 (1-2)  9 de Octubre
+[Sun Oct/18]
+  15.00  Chacaritas FC            1-1 (0-0)  Independiente Juniors
+
+
+Matchday 13
+[Wed Oct/21]
+  12.00  Santa Rita               3-1 (1-0)  Gualaceo SC
+  15.00  9 de Octubre             1-0 (0-0)  América de Quito
+  17.00  Atlético Porteño         0-0  Fuerza Amarilla
+[Thu Oct/22]
+  14.30  Manta                    3-1 (0-1)  Chacaritas FC
+  19.00  Independiente Juniors    0-0  Atlético Santo Domingo
+
+
+Matchday 14
+[Sun Oct/25]
+  12.00  América de Quito         3-0 (1-0)  Atlético Santo Domingo
+  14.00  Gualaceo SC              1-0 (0-0)  Independiente Juniors
+  15.00  Fuerza Amarilla          1-1 (0-0)  Santa Rita
+[Mon Oct/26]
+  13.00  Chacaritas FC            1-1 (1-0)  9 de Octubre
+[Tue Oct/27]
+  19.00  Atlético Porteño         1-0 (0-0)  Manta
+
+
+Matchday 15
+[Thu Oct/29]
+  19.00  Independiente Juniors    0-3 (0-2)  América de Quito
+[Sat Oct/31]
+  10.45  Manta                    3-2 (3-1)  Gualaceo SC
+  12.00  Atlético Santo Domingo   1-0 (1-0)  Chacaritas FC
+  15.00  Santa Rita               0-0  Atlético Porteño
+         9 de Octubre             1-0 (0-0)  Fuerza Amarilla
+
+
+Matchday 16
+[Wed Nov/4]
+  15.30  Chacaritas FC            2-2 (1-0)  América de Quito
+         Fuerza Amarilla          0-0  Independiente Juniors
+  19.00  Atlético Porteño         0-1 (0-0)  Atlético Santo Domingo
+[Thu Nov/5]
+  14.15  Manta                    0-0  Santa Rita
+         Gualaceo SC              3-2 (3-0)  9 de Octubre
+
+
+Matchday 17
+[Sun Nov/8]
+  15.30  Independiente Juniors    1-1 (0-1)  Manta
+         9 de Octubre             2-1 (0-0)  Santa Rita
+         Chacaritas FC            2-1 (2-0)  Atlético Porteño
+         América de Quito         1-0 (0-0)  Gualaceo SC
+         Atlético Santo Domingo   0-0  Fuerza Amarilla
+
+
+Matchday 18
+[Sat Nov/14]
+  13.00  Gualaceo SC              0-0  Chacaritas FC
+  15.30  Fuerza Amarilla          1-1 (1-1)  América de Quito
+         Atlético Porteño         2-2 (1-2)  Independiente Juniors
+         Santa Rita               0-0  Atlético Santo Domingo
+         Manta                    2-0 (2-0)  9 de Octubre

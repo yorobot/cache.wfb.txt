@@ -1,0 +1,622 @@
+= BR 1 2018
+
+# Date       Sat Apr/14 - Sun Dec/2 2018 (232d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sat Apr/14]
+  19.00  Vitória BA               2-2 (1-1)  Flamengo RJ
+  21.00  Santos FC                2-0 (1-0)  Ceará CE
+  16.00  Cruzeiro                 0-1 (0-0)  Grêmio Porto Alegre
+[Sun Apr/15]
+  11.00  América MG               3-0 (3-0)  Sport Recife PE
+  16.00  Vasco da Gama RJ         2-1 (0-1)  Atlético Mineiro
+         Corinthians SP           2-1 (1-0)  Fluminense RJ
+         Internacional            2-0 (1-0)  Bahia BA
+  19.00  Athletico Paranaense     5-1 (0-0)  Chapecoense
+[Mon Apr/16]
+  20.00  São Paulo FC             1-0 (1-0)  Paraná Clube
+         Botafogo RJ              1-1 (0-0)  Palmeiras
+
+
+Matchday 2
+[Sat Apr/21]
+  16.00  Bahia BA                 1-0 (0-0)  Santos FC
+  19.00  Flamengo RJ              2-0 (2-0)  América MG
+[Sun Apr/22]
+  16.00  Atlético Mineiro         2-1 (1-0)  Vitória BA
+         Chapecoense              1-1 (1-0)  Vasco da Gama RJ
+         Fluminense RJ            1-0 (0-0)  Cruzeiro
+         Ceará CE                 0-0  São Paulo FC
+         Palmeiras                1-0 (1-0)  Internacional
+  19.00  Grêmio Porto Alegre      0-0  Athletico Paranaense
+  11.00  Paraná Clube             0-4 (0-2)  Corinthians SP
+[Mon Apr/23]
+  20.00  Sport Recife PE          1-1 (0-0)  Botafogo RJ
+
+
+Matchday 3
+[Sat Apr/28]
+  16.00  Botafogo RJ              2-1 (1-1)  Grêmio Porto Alegre
+[Sun Apr/29]
+  16.00  Paraná Clube             1-2 (0-1)  Sport Recife PE
+         Bahia BA                 0-0  Athletico Paranaense
+         Fluminense RJ            1-1 (0-1)  São Paulo FC
+         Ceará CE                 0-3 (0-1)  Flamengo RJ
+         Palmeiras                0-0  Chapecoense
+  19.00  Internacional            0-0  Cruzeiro
+  16.00  Atlético Mineiro         1-0 (0-0)  Corinthians SP
+[Mon Apr/30]
+  20.00  América MG               2-1 (2-0)  Vitória BA
+
+
+Matchday 4
+[Sat May/5]
+  19.00  São Paulo FC             2-2 (1-0)  Atlético Mineiro
+         Vasco da Gama RJ         4-1 (0-1)  América MG
+[Sun May/6]
+  16.00  Flamengo RJ              2-0 (0-0)  Internacional
+  11.00  Corinthians SP           1-1 (1-1)  Ceará CE
+  16.00  Cruzeiro                 1-0 (0-0)  Botafogo RJ
+         Athletico Paranaense     1-3 (0-1)  Palmeiras
+         Vitória BA               1-2 (1-0)  Fluminense RJ
+  19.00  Grêmio Porto Alegre      5-1 (2-1)  Santos FC
+         Sport Recife PE          2-0 (1-0)  Bahia BA
+[Mon May/7]
+  20.00  Chapecoense              1-1 (0-0)  Paraná Clube
+
+
+Matchday 5
+[Sat May/12]
+  16.00  Grêmio Porto Alegre      0-0  Internacional
+[Sun May/13]
+  19.00  Santos FC                3-1 (0-0)  Paraná Clube
+  11.00  Cruzeiro                 2-0 (1-0)  Sport Recife PE
+  16.00  Athletico Paranaense     1-2 (1-0)  Atlético Mineiro
+         Chapecoense              3-2 (1-0)  Flamengo RJ
+         Bahia BA                 2-2 (2-1)  São Paulo FC
+         Vasco da Gama RJ         2-3 (1-1)  Vitória BA
+         Corinthians SP           1-0 (1-0)  Palmeiras
+[Mon May/14]
+  20.00  Botafogo RJ              2-1 (1-1)  Fluminense RJ
+         Ceará CE                 2-2 (1-2)  América MG
+
+
+Matchday 6
+[Sat May/19]
+  16.00  Atlético Mineiro         1-0 (0-0)  Cruzeiro
+  19.00  Flamengo RJ              1-1 (1-1)  Vasco da Gama RJ
+  21.00  Palmeiras                3-0 (3-0)  Bahia BA
+[Sun May/20]
+  16.00  América MG               1-0 (0-0)  Botafogo RJ
+  11.00  Vitória BA               2-1 (1-0)  Ceará CE
+  16.00  Paraná Clube             0-0  Grêmio Porto Alegre
+  19.00  Fluminense RJ            2-0 (2-0)  Athletico Paranaense
+  16.00  São Paulo FC             1-0 (0-0)  Santos FC
+         Sport Recife PE          1-1 (0-0)  Corinthians SP
+[Mon May/21]
+  20.00  Internacional            3-0 (1-0)  Chapecoense
+
+
+Matchday 7
+[Sat May/26]
+  21.00  Atlético Mineiro         0-1 (0-0)  Flamengo RJ
+  16.00  Fluminense RJ            3-1 (2-0)  Chapecoense
+  19.00  Palmeiras                2-3 (1-0)  Sport Recife PE
+[Sun May/27]
+  16.00  Botafogo RJ              1-1 (1-1)  Vitória BA
+  11.00  Paraná Clube             0-0  Athletico Paranaense
+  16.00  Bahia BA                 3-0 (0-0)  Vasco da Gama RJ
+  19.00  Ceará CE                 0-1 (0-0)  Grêmio Porto Alegre
+  16.00  Santos FC                0-1 (0-0)  Cruzeiro
+         Internacional            2-1 (0-1)  Corinthians SP
+  19.00  América MG               1-3 (1-2)  São Paulo FC
+
+
+Matchday 8
+[Wed May/30]
+  19.30  Vitória BA               2-3 (1-2)  Internacional
+         Vasco da Gama RJ         1-0 (1-0)  Paraná Clube
+         Sport Recife PE          3-2 (1-0)  Atlético Mineiro
+  21.00  Chapecoense              2-0 (0-0)  Ceará CE
+  21.45  Grêmio Porto Alegre      0-0  Fluminense RJ
+         Cruzeiro                 1-0 (0-0)  Palmeiras
+  21.00  São Paulo FC             3-2 (3-1)  Botafogo RJ
+[Thu May/31]
+  21.00  Athletico Paranaense     2-0 (1-0)  Santos FC
+  16.00  Flamengo RJ              2-0 (2-0)  Bahia BA
+  18.00  Corinthians SP           1-0 (0-0)  América MG
+
+
+Matchday 9
+[Sat Jun/2]
+  21.00  Palmeiras                3-1 (0-1)  São Paulo FC
+  16.00  Atlético Mineiro         3-3 (2-2)  Chapecoense
+         Internacional            0-0  Sport Recife PE
+  19.00  Vasco da Gama RJ         1-2 (0-2)  Botafogo RJ
+[Sun Jun/3]
+  19.00  Ceará CE                 0-1 (0-1)  Cruzeiro
+  16.00  América MG               3-1 (1-1)  Athletico Paranaense
+         Bahia BA                 0-2 (0-1)  Grêmio Porto Alegre
+         Flamengo RJ              1-0 (0-0)  Corinthians SP
+         Santos FC                5-2 (4-0)  Vitória BA
+[Mon Jun/4]
+  20.00  Paraná Clube             2-1 (0-0)  Fluminense RJ
+
+
+Matchday 10
+[Tue Jun/5]
+  21.30  São Paulo FC             0-0  Internacional
+[Wed Jun/6]
+  21.45  Grêmio Porto Alegre      0-2 (0-0)  Palmeiras
+  19.30  Vitória BA               1-0 (0-0)  Chapecoense
+         Botafogo RJ              0-0  Ceará CE
+  21.00  Sport Recife PE          1-0 (0-0)  Athletico Paranaense
+         Corinthians SP           1-1 (0-0)  Santos FC
+  21.45  Cruzeiro                 1-1 (0-1)  Vasco da Gama RJ
+[Thu Jun/7]
+  20.00  Paraná Clube             1-0 (0-0)  Bahia BA
+         Fluminense RJ            0-2 (0-1)  Flamengo RJ
+  21.00  América MG               1-3 (0-2)  Atlético Mineiro
+
+
+Matchday 11
+[Sat Jun/9]
+  21.00  Corinthians SP           0-0  Vitória BA
+  16.00  Athletico Paranaense     0-1 (0-0)  São Paulo FC
+  19.00  Chapecoense              2-0 (0-0)  Cruzeiro
+         Vasco da Gama RJ         3-2 (2-1)  Sport Recife PE
+[Sun Jun/10]
+  16.00  Ceará CE                 2-2 (1-2)  Palmeiras
+         Atlético Mineiro         5-2 (2-2)  Fluminense RJ
+         Bahia BA                 3-3 (1-1)  Botafogo RJ
+  19.00  Santos FC                1-2 (0-1)  Internacional
+  16.00  Grêmio Porto Alegre      1-0 (1-0)  América MG
+  19.00  Flamengo RJ              2-0 (1-0)  Paraná Clube
+
+
+Matchday 12
+[Tue Jun/12]
+  21.30  São Paulo FC             3-0 (2-0)  Vitória BA
+[Wed Jun/13]
+  19.30  Sport Recife PE          0-0  Grêmio Porto Alegre
+  16.00  América MG               0-0  Chapecoense
+  19.00  Fluminense RJ            0-1 (0-0)  Santos FC
+  19.30  Paraná Clube             1-1 (0-0)  Cruzeiro
+  21.45  Internacional            3-1 (2-0)  Vasco da Gama RJ
+  21.00  Botafogo RJ              2-0 (1-0)  Athletico Paranaense
+         Palmeiras                1-1 (1-0)  Flamengo RJ
+  21.45  Atlético Mineiro         2-1 (0-0)  Ceará CE
+         Bahia BA                 1-0 (0-0)  Corinthians SP
+
+
+Matchday 13
+[Wed Jul/18]
+  21.45  Grêmio Porto Alegre      2-0 (0-0)  Atlético Mineiro
+  19.30  Ceará CE                 1-0 (0-0)  Sport Recife PE
+  21.00  Vitória BA               1-0 (1-0)  Paraná Clube
+  21.45  Flamengo RJ              0-1 (0-0)  São Paulo FC
+         Corinthians SP           2-0 (1-0)  Botafogo RJ
+[Thu Jul/19]
+  20.00  Santos FC                1-1 (0-1)  Palmeiras
+  19.30  Cruzeiro                 3-1 (1-1)  América MG
+         Chapecoense              1-1 (0-0)  Bahia BA
+  20.00  Vasco da Gama RJ         1-1 (0-0)  Fluminense RJ
+  21.00  Athletico Paranaense     2-2 (1-1)  Internacional
+
+
+Matchday 14
+[Sat Jul/21]
+  19.00  Flamengo RJ              2-0 (2-0)  Botafogo RJ
+  21.00  São Paulo FC             3-1 (0-0)  Corinthians SP
+[Sun Jul/22]
+  16.00  Palmeiras                3-2 (1-0)  Atlético Mineiro
+         Paraná Clube             1-0 (1-0)  América MG
+         Bahia BA                 4-1 (2-0)  Vitória BA
+         Vasco da Gama RJ         1-0 (1-0)  Grêmio Porto Alegre
+         Sport Recife PE          1-2 (1-1)  Fluminense RJ
+  19.00  Chapecoense              0-0  Santos FC
+         Cruzeiro                 2-1 (0-1)  Athletico Paranaense
+[Mon Jul/23]
+  20.00  Internacional            1-0 (0-0)  Ceará CE
+
+
+Matchday 15
+[Wed Jul/25]
+  21.45  Corinthians SP           2-0 (0-0)  Cruzeiro
+  19.30  Fluminense RJ            1-0 (1-0)  Palmeiras
+  21.00  Atlético Mineiro         2-0 (1-0)  Paraná Clube
+  21.45  Santos FC                1-1 (1-1)  Flamengo RJ
+[Thu Jul/26]
+  19.30  Grêmio Porto Alegre      2-1 (1-1)  São Paulo FC
+         Vitória BA               1-0 (0-0)  Sport Recife PE
+         Botafogo RJ              1-0 (0-0)  Chapecoense
+  20.00  América MG               2-1 (2-0)  Internacional
+
+
+Matchday 16
+[Sat Jul/28]
+  16.00  Ceará CE                 1-0 (1-0)  Fluminense RJ
+[Sun Jul/29]
+  19.00  Chapecoense              1-1 (0-1)  Grêmio Porto Alegre
+         Santos FC                0-1 (0-1)  América MG
+  16.00  Cruzeiro                 0-2 (0-1)  São Paulo FC
+  11.00  Vasco da Gama RJ         1-4 (1-0)  Corinthians SP
+         Palmeiras                3-0 (2-0)  Paraná Clube
+  16.00  Flamengo RJ              4-1 (1-1)  Sport Recife PE
+         Athletico Paranaense     4-0 (3-0)  Vitória BA
+         Internacional            3-0 (2-0)  Botafogo RJ
+[Mon Jul/30]
+  20.00  Bahia BA                 2-2 (0-1)  Atlético Mineiro
+
+
+Matchday 17
+[Sat Aug/4]
+  19.00  Grêmio Porto Alegre      2-0 (1-0)  Flamengo RJ
+  21.00  Corinthians SP           0-0  Athletico Paranaense
+  16.00  Botafogo RJ              0-0  Santos FC
+[Sun Aug/5]
+  16.00  São Paulo FC             2-1 (1-0)  Vasco da Gama RJ
+  19.00  Fluminense RJ            1-1 (1-0)  Bahia BA
+         Sport Recife PE          1-1 (0-1)  Chapecoense
+  16.00  Paraná Clube             0-1 (0-1)  Ceará CE
+         América MG               0-0  Palmeiras
+         Vitória BA               1-1 (0-0)  Cruzeiro
+[Mon Aug/6]
+  20.00  Atlético Mineiro         0-1 (0-0)  Internacional
+
+
+Matchday 20
+[Wed Aug/8]
+  19.30  Ceará CE                 1-1 (0-0)  Santos FC
+
+
+Matchday 18
+[Sat Aug/11]
+  16.00  Ceará CE                 0-0  Athletico Paranaense
+  19.00  Bahia BA                 1-0 (0-0)  América MG
+[Sun Aug/12]
+  19.00  Grêmio Porto Alegre      4-0 (2-0)  Vitória BA
+  16.00  Flamengo RJ              1-0 (1-0)  Cruzeiro
+  11.00  Atlético Mineiro         3-1 (1-1)  Santos FC
+         Paraná Clube             1-1 (0-0)  Botafogo RJ
+  16.00  Chapecoense              2-1 (0-1)  Corinthians SP
+         Sport Recife PE          1-3 (0-1)  São Paulo FC
+  19.00  Palmeiras                1-0 (0-0)  Vasco da Gama RJ
+[Mon Aug/13]
+  20.00  Fluminense RJ            0-3 (0-3)  Internacional
+
+
+Matchday 19
+[Sat Aug/18]
+  16.00  Santos FC                3-0 (1-0)  Sport Recife PE
+  19.00  Corinthians SP           0-1 (0-0)  Grêmio Porto Alegre
+[Sun Aug/19]
+  19.00  São Paulo FC             2-0 (1-0)  Chapecoense
+         América MG               0-0  Fluminense RJ
+  11.00  Athletico Paranaense     3-0 (3-0)  Flamengo RJ
+         Internacional            1-0 (0-0)  Paraná Clube
+  16.00  Cruzeiro                 1-1 (0-0)  Bahia BA
+         Vitória BA               0-3 (0-2)  Palmeiras
+         Botafogo RJ              0-3 (0-0)  Atlético Mineiro
+[Mon Aug/20]
+  20.00  Vasco da Gama RJ         1-1 (0-0)  Ceará CE
+
+
+Matchday 20
+[Wed Aug/22]
+  21.00  Palmeiras                2-0 (0-0)  Botafogo RJ
+  21.45  Grêmio Porto Alegre      1-1 (0-1)  Cruzeiro
+         Fluminense RJ            1-0 (1-0)  Corinthians SP
+  19.30  Paraná Clube             1-1 (1-1)  São Paulo FC
+         Bahia BA                 0-1 (0-1)  Internacional
+  21.00  Sport Recife PE          0-2 (0-0)  América MG
+[Thu Aug/23]
+  19.30  Flamengo RJ              1-0 (1-0)  Vitória BA
+  20.00  Atlético Mineiro         0-0  Vasco da Gama RJ
+
+
+Matchday 21
+[Sat Aug/25]
+  19.00  Corinthians SP           1-0 (1-0)  Paraná Clube
+  21.00  Cruzeiro                 2-1 (1-1)  Fluminense RJ
+  19.00  Athletico Paranaense     2-1 (1-1)  Grêmio Porto Alegre
+  21.00  Botafogo RJ              2-0 (0-0)  Sport Recife PE
+  16.00  Santos FC                2-0 (0-0)  Bahia BA
+[Sun Aug/26]
+  16.00  América MG               2-2 (1-1)  Flamengo RJ
+  19.00  Vasco da Gama RJ         3-1 (0-0)  Chapecoense
+  16.00  Internacional            0-0  Palmeiras
+         Vitória BA               1-0 (0-0)  Atlético Mineiro
+  11.00  São Paulo FC             1-0 (0-0)  Ceará CE
+
+
+Matchday 15
+[Wed Aug/29]
+  19.30  Ceará CE                 0-2 (0-1)  Bahia BA
+         Athletico Paranaense     1-0 (0-0)  Vasco da Gama RJ
+
+
+Matchday 22
+[Sat Sep/1]
+  19.00  Vasco da Gama RJ         0-3 (0-1)  Santos FC
+  16.00  Vitória BA               1-0 (0-0)  América MG
+         Grêmio Porto Alegre      4-0 (2-0)  Botafogo RJ
+  21.00  Corinthians SP           1-1 (1-1)  Atlético Mineiro
+[Sun Sep/2]
+  19.00  Cruzeiro                 0-0  Internacional
+  11.00  Flamengo RJ              0-1 (0-0)  Ceará CE
+  19.00  Chapecoense              1-2 (0-1)  Palmeiras
+  16.00  Athletico Paranaense     2-0 (0-0)  Bahia BA
+         São Paulo FC             1-1 (0-0)  Fluminense RJ
+         Sport Recife PE          1-0 (1-0)  Paraná Clube
+
+
+Matchday 23
+[Wed Sep/5]
+  21.45  Atlético Mineiro         1-0 (1-0)  São Paulo FC
+         Internacional            2-1 (1-0)  Flamengo RJ
+  19.30  Bahia BA                 2-0 (0-0)  Sport Recife PE
+         Botafogo RJ              1-1 (1-1)  Cruzeiro
+  20.00  Ceará CE                 2-1 (1-0)  Corinthians SP
+  21.00  Paraná Clube             1-1 (1-0)  Chapecoense
+         Palmeiras                2-0 (0-0)  Athletico Paranaense
+[Thu Sep/6]
+  19.00  Santos FC                0-0  Grêmio Porto Alegre
+         Fluminense RJ            0-0  Vitória BA
+  20.00  América MG               2-1 (1-0)  Vasco da Gama RJ
+
+
+Matchday 24
+[Sat Sep/8]
+  19.00  São Paulo FC             1-0 (0-0)  Bahia BA
+  16.00  Sport Recife PE          0-0  Cruzeiro
+  21.00  Flamengo RJ              2-0 (1-0)  Chapecoense
+[Sun Sep/9]
+  16.00  Internacional            1-0 (0-0)  Grêmio Porto Alegre
+  19.00  Paraná Clube             0-2 (0-0)  Santos FC
+  16.00  América MG               0-0  Ceará CE
+         Fluminense RJ            1-0 (1-0)  Botafogo RJ
+         Palmeiras                1-0 (0-0)  Corinthians SP
+  19.00  Vitória BA               1-0 (0-0)  Vasco da Gama RJ
+[Mon Sep/10]
+  20.00  Atlético Mineiro         3-1 (1-1)  Athletico Paranaense
+
+
+Matchday 20
+[Thu Sep/13]
+  20.00  Chapecoense              2-1 (0-0)  Athletico Paranaense
+
+
+Matchday 25
+[Sat Sep/15]
+  16.00  Ceará CE                 2-0 (1-0)  Vitória BA
+         Grêmio Porto Alegre      2-0 (0-0)  Paraná Clube
+  19.00  Vasco da Gama RJ         1-1 (1-0)  Flamengo RJ
+[Sun Sep/16]
+  16.00  Cruzeiro                 0-0  Atlético Mineiro
+  11.00  Botafogo RJ              1-0 (1-0)  América MG
+  19.00  Corinthians SP           2-1 (0-1)  Sport Recife PE
+  16.00  Athletico Paranaense     3-1 (2-0)  Fluminense RJ
+         Bahia BA                 1-1 (1-0)  Palmeiras
+         Santos FC                0-0  São Paulo FC
+[Mon Sep/17]
+  20.00  Chapecoense              2-1 (1-1)  Internacional
+
+
+Matchday 26
+[Sat Sep/22]
+  16.00  São Paulo FC             1-1 (1-0)  América MG
+[Sun Sep/23]
+  16.00  Corinthians SP           1-1 (0-1)  Internacional
+  11.00  Grêmio Porto Alegre      3-2 (2-2)  Ceará CE
+  16.00  Athletico Paranaense     3-0 (2-0)  Paraná Clube
+         Flamengo RJ              2-1 (1-1)  Atlético Mineiro
+  18.00  Sport Recife PE          0-1 (0-0)  Palmeiras
+         Vitória BA               3-4 (1-2)  Botafogo RJ
+  19.00  Cruzeiro                 2-1 (0-1)  Santos FC
+[Mon Sep/24]
+  20.00  Vasco da Gama RJ         2-1 (1-1)  Bahia BA
+         Chapecoense              1-2 (0-2)  Fluminense RJ
+
+
+Matchday 3
+[Thu Sep/27]
+  20.00  Santos FC                1-1 (1-0)  Vasco da Gama RJ
+
+
+Matchday 27
+[Sat Sep/29]
+  16.00  Fluminense RJ            0-1 (0-0)  Grêmio Porto Alegre
+  19.00  América MG               0-0  Corinthians SP
+  21.00  Bahia BA                 0-0  Flamengo RJ
+[Sun Sep/30]
+  11.00  Palmeiras                3-1 (2-1)  Cruzeiro
+  16.00  Atlético Mineiro         5-2 (4-1)  Sport Recife PE
+         Botafogo RJ              2-2 (2-1)  São Paulo FC
+         Santos FC                1-0 (0-0)  Athletico Paranaense
+         Internacional            2-1 (0-1)  Vitória BA
+  19.00  Ceará CE                 3-1 (0-1)  Chapecoense
+[Mon Oct/1]
+  20.00  Paraná Clube             1-1 (1-1)  Vasco da Gama RJ
+
+
+Matchday 28
+[Fri Oct/5]
+  21.00  Corinthians SP           0-3 (0-0)  Flamengo RJ
+  21.30  Vitória BA               0-1 (0-1)  Santos FC
+  19.00  Sport Recife PE          2-1 (0-0)  Internacional
+[Sat Oct/6]
+  16.00  Athletico Paranaense     4-0 (2-0)  América MG
+         Chapecoense              1-0 (0-0)  Atlético Mineiro
+  18.00  São Paulo FC             0-2 (0-2)  Palmeiras
+  21.00  Grêmio Porto Alegre      2-2 (0-1)  Bahia BA
+[Mon Oct/8]
+  20.00  Fluminense RJ            4-0 (2-0)  Paraná Clube
+[Tue Oct/9]
+  21.00  Botafogo RJ              1-1 (1-1)  Vasco da Gama RJ
+
+
+Matchday 29
+[Sat Oct/13]
+  17.00  Flamengo RJ              3-0 (2-0)  Fluminense RJ
+  19.00  Santos FC                1-0 (1-0)  Corinthians SP
+  21.00  Bahia BA                 2-0 (0-0)  Paraná Clube
+[Sun Oct/14]
+  19.00  Athletico Paranaense     4-0 (0-0)  Sport Recife PE
+  11.00  Chapecoense              0-1 (0-1)  Vitória BA
+  16.00  Vasco da Gama RJ         2-0 (0-0)  Cruzeiro
+         Palmeiras                2-0 (1-0)  Grêmio Porto Alegre
+         Internacional            3-1 (1-1)  São Paulo FC
+  19.00  Atlético Mineiro         0-0  América MG
+[Mon Oct/15]
+  20.00  Ceará CE                 0-0  Botafogo RJ
+
+
+Matchday 30
+[Sat Oct/20]
+  16.00  América MG               1-1 (1-0)  Grêmio Porto Alegre
+         Botafogo RJ              0-1 (0-0)  Bahia BA
+  19.00  São Paulo FC             0-0  Athletico Paranaense
+         Sport Recife PE          2-1 (1-1)  Vasco da Gama RJ
+[Sun Oct/21]
+  16.00  Vitória BA               2-2 (1-1)  Corinthians SP
+  19.00  Cruzeiro                 3-0 (3-0)  Chapecoense
+  16.00  Fluminense RJ            1-0 (0-0)  Atlético Mineiro
+         Palmeiras                2-1 (2-0)  Ceará CE
+  19.00  Paraná Clube             0-4 (0-1)  Flamengo RJ
+[Mon Oct/22]
+  20.00  Internacional            2-2 (1-0)  Santos FC
+
+
+Matchday 28
+[Wed Oct/24]
+  19.30  Cruzeiro                 0-2 (0-0)  Ceará CE
+
+
+Matchday 31
+[Fri Oct/26]
+  19.30  Vitória BA               0-1 (0-1)  São Paulo FC
+  21.30  Vasco da Gama RJ         1-1 (0-0)  Internacional
+[Sat Oct/27]
+  16.30  Santos FC                3-0 (0-0)  Fluminense RJ
+         Grêmio Porto Alegre      3-4 (1-2)  Sport Recife PE
+  19.00  Chapecoense              1-0 (0-0)  América MG
+         Flamengo RJ              1-1 (0-0)  Palmeiras
+         Corinthians SP           2-1 (0-0)  Bahia BA
+  21.00  Cruzeiro                 3-1 (2-1)  Paraná Clube
+         Athletico Paranaense     2-1 (0-1)  Botafogo RJ
+[Mon Oct/29]
+  20.00  Ceará CE                 2-1 (1-1)  Atlético Mineiro
+
+
+Matchday 32
+[Sat Nov/3]
+  17.00  Fluminense RJ            0-1 (0-0)  Vasco da Gama RJ
+  19.00  Palmeiras                3-2 (2-0)  Santos FC
+  17.00  Atlético Mineiro         0-1 (0-1)  Grêmio Porto Alegre
+[Sun Nov/4]
+  17.00  Paraná Clube             1-1 (0-0)  Vitória BA
+         América MG               1-2 (0-1)  Cruzeiro
+         Botafogo RJ              1-0 (1-0)  Corinthians SP
+         São Paulo FC             2-2 (1-1)  Flamengo RJ
+  19.00  Bahia BA                 1-0 (0-0)  Chapecoense
+         Internacional            2-1 (0-0)  Athletico Paranaense
+[Mon Nov/5]
+  20.00  Sport Recife PE          1-0 (0-0)  Ceará CE
+
+
+Matchday 33
+[Sat Nov/10]
+  17.00  Corinthians SP           1-1 (0-0)  São Paulo FC
+  19.00  Athletico Paranaense     2-0 (2-0)  Cruzeiro
+         Botafogo RJ              2-1 (2-0)  Flamengo RJ
+  17.00  América MG               0-1 (0-0)  Paraná Clube
+[Sun Nov/11]
+  17.00  Atlético Mineiro         1-1 (0-0)  Palmeiras
+         Vitória BA               2-2 (1-1)  Bahia BA
+         Ceará CE                 1-1 (1-1)  Internacional
+         Grêmio Porto Alegre      2-1 (1-1)  Vasco da Gama RJ
+  19.00  Fluminense RJ            0-0  Sport Recife PE
+[Mon Nov/12]
+  20.00  Santos FC                0-1 (0-1)  Chapecoense
+
+
+Matchday 34
+[Wed Nov/14]
+  21.00  Paraná Clube             0-1 (0-1)  Atlético Mineiro
+         Bahia BA                 2-1 (1-1)  Ceará CE
+  21.45  Cruzeiro                 1-0 (1-0)  Corinthians SP
+         Sport Recife PE          0-0  Vitória BA
+         Palmeiras                3-0 (1-0)  Fluminense RJ
+  19.30  Vasco da Gama RJ         1-1 (0-0)  Athletico Paranaense
+[Thu Nov/15]
+  17.00  Chapecoense              0-1 (0-0)  Botafogo RJ
+         Flamengo RJ              1-0 (0-0)  Santos FC
+  19.00  São Paulo FC             1-1 (0-0)  Grêmio Porto Alegre
+  21.00  Internacional            2-0 (2-0)  América MG
+
+
+Matchday 35
+[Sat Nov/17]
+  19.00  Corinthians SP           1-0 (0-0)  Vasco da Gama RJ
+  21.00  Atlético Mineiro         1-0 (0-0)  Bahia BA
+  19.00  Vitória BA               1-2 (0-1)  Athletico Paranaense
+[Sun Nov/18]
+  17.00  Paraná Clube             1-1 (1-0)  Palmeiras
+         América MG               2-1 (1-1)  Santos FC
+         Botafogo RJ              1-0 (1-0)  Internacional
+         Sport Recife PE          0-1 (0-0)  Flamengo RJ
+  19.00  São Paulo FC             1-0 (1-0)  Cruzeiro
+         Grêmio Porto Alegre      2-0 (1-0)  Chapecoense
+[Mon Nov/19]
+  20.00  Fluminense RJ            0-0  Ceará CE
+
+
+Matchday 36
+[Wed Nov/21]
+  19.30  Internacional            1-2 (0-1)  Atlético Mineiro
+  21.00  Santos FC                1-1 (1-0)  Botafogo RJ
+  21.45  Cruzeiro                 3-0 (1-0)  Vitória BA
+         Athletico Paranaense     1-0 (0-0)  Corinthians SP
+         Flamengo RJ              2-0 (0-0)  Grêmio Porto Alegre
+         Palmeiras                4-0 (0-0)  América MG
+[Thu Nov/22]
+  21.00  Chapecoense              2-1 (2-0)  Sport Recife PE
+         Bahia BA                 2-0 (0-0)  Fluminense RJ
+         Ceará CE                 1-0 (1-0)  Paraná Clube
+  20.00  Vasco da Gama RJ         2-0 (1-0)  São Paulo FC
+
+
+Matchday 37
+[Sat Nov/24]
+  20.00  Santos FC                3-2 (3-1)  Atlético Mineiro
+[Sun Nov/25]
+  17.00  Cruzeiro                 0-2 (0-1)  Flamengo RJ
+         Athletico Paranaense     2-2 (0-1)  Ceará CE
+         Vitória BA               0-0  Grêmio Porto Alegre
+         Vasco da Gama RJ         0-1 (0-0)  Palmeiras
+  19.00  América MG               1-0 (0-0)  Bahia BA
+         Corinthians SP           0-0  Chapecoense
+         Internacional            2-0 (0-0)  Fluminense RJ
+[Mon Nov/26]
+  20.00  Botafogo RJ              2-1 (1-0)  Paraná Clube
+         São Paulo FC             0-0  Sport Recife PE
+
+
+Matchday 38
+[Sat Dec/1]
+  19.00  Flamengo RJ              1-2 (1-0)  Athletico Paranaense
+         Atlético Mineiro         1-0 (1-0)  Botafogo RJ
+[Sun Dec/2]
+  17.00  Paraná Clube             1-1 (0-0)  Internacional
+         Chapecoense              1-0 (0-0)  São Paulo FC
+         Bahia BA                 0-0  Cruzeiro
+         Fluminense RJ            1-0 (1-0)  América MG
+         Ceará CE                 0-0  Vasco da Gama RJ
+         Sport Recife PE          2-1 (0-0)  Santos FC
+         Palmeiras                3-2 (1-0)  Vitória BA
+         Grêmio Porto Alegre      1-0 (1-0)  Corinthians SP

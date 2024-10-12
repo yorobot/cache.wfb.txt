@@ -1,0 +1,536 @@
+= PL 1 2021/22
+
+# Date       Fri Jul/23 2021 - Sat May/21 2022 (302d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Fri Jul/23]
+  18.00  Bruk-Bet Termalica Nieciecza  1-1 (1-0)  FKS Stal Mielec
+  20.30  Lech Poznań              0-0  Radomiak Radom
+[Sat Jul/24]
+  15.00  Górnik Łęczna            1-1 (1-0)  KS Cracovia
+  17.30  Jagiellonia Białystok    1-1 (0-0)  Lechia Gdańsk
+  20.00  Legia Warszawa           1-0 (1-0)  Wisła Płock
+[Sun Jul/25]
+  15.00  Piast Gliwice            2-3 (1-1)  Raków Częstochowa
+  17.30  Śląsk Wrocław            2-2 (0-1)  Warta Poznań
+  20.00  Pogoń Szczecin           2-0 (1-0)  Górnik Zabrze
+[Mon Jul/26]
+  18.00  Wisła Kraków             3-0 (2-0)  Zagłębie Lubin
+
+
+Matchday 2
+[Fri Jul/30]
+  18.00  Zagłębie Lubin           3-1 (1-1)  Górnik Łęczna
+  20.30  Górnik Zabrze            1-3 (1-1)  Lech Poznań
+[Sat Jul/31]
+  15.00  FKS Stal Mielec          0-2 (0-2)  Piast Gliwice
+  17.30  Bruk-Bet Termalica Nieciecza  2-2 (1-0)  Wisła Kraków
+  20.00  Radomiak Radom           3-1 (0-0)  Legia Warszawa
+[Sun Aug/1]
+  15.00  Warta Poznań             1-1 (0-1)  Pogoń Szczecin
+  17.30  KS Cracovia              1-2 (0-1)  Śląsk Wrocław
+  20.00  Raków Częstochowa        0-3 (0-2)  Jagiellonia Białystok
+[Mon Aug/2]
+  18.00  Lechia Gdańsk            1-0 (0-0)  Wisła Płock
+
+
+Matchday 3
+[Fri Aug/6]
+  18.00  Górnik Łęczna            0-4 (0-1)  Warta Poznań
+  20.30  Lech Poznań              2-0 (0-0)  KS Cracovia
+[Sat Aug/7]
+  15.00  Jagiellonia Białystok    1-0 (1-0)  Bruk-Bet Termalica Nieciecza
+  17.30  Górnik Zabrze            1-0 (0-0)  FKS Stal Mielec
+[Sun Aug/8]
+  15.00  Pogoń Szczecin           1-0 (1-0)  Piast Gliwice
+  17.30  Wisła Kraków             1-2 (1-0)  Raków Częstochowa
+  20.00  Śląsk Wrocław            1-1 (1-0)  Lechia Gdańsk
+[Mon Aug/9]
+  18.00  Wisła Płock              1-0 (1-0)  Radomiak Radom
+[Wed Dec/15]
+  20.30  Legia Warszawa           4-0 (2-0)  Zagłębie Lubin
+
+
+Matchday 4
+[Fri Aug/13]
+  18.00  Bruk-Bet Termalica Nieciecza  1-3 (1-2)  Lech Poznań
+  20.30  FKS Stal Mielec          2-1 (1-0)  Wisła Kraków
+[Sat Aug/14]
+  15.00  Piast Gliwice            4-3 (3-1)  Wisła Płock
+  17.30  Lechia Gdańsk            3-0 (1-0)  KS Cracovia
+  20.00  Warta Poznań             0-2 (0-1)  Legia Warszawa
+[Sun Aug/15]
+  17.30  Śląsk Wrocław            0-0  Górnik Łęczna
+  20.00  Zagłębie Lubin           2-0 (1-0)  Pogoń Szczecin
+[Mon Aug/16]
+  18.00  Jagiellonia Białystok    1-3 (1-2)  Górnik Zabrze
+[Wed Sep/29]
+  17.00  Raków Częstochowa        2-2 (1-1)  Radomiak Radom
+
+
+Matchday 5
+[Fri Aug/20]
+  18.00  Wisła Płock              4-0 (2-0)  Zagłębie Lubin
+  20.30  Radomiak Radom           1-0 (0-0)  Warta Poznań
+[Sat Aug/21]
+  15.00  Pogoń Szczecin           4-1 (0-1)  FKS Stal Mielec
+  17.30  KS Cracovia              2-1 (1-0)  Jagiellonia Białystok
+  20.00  Górnik Łęczna            1-3 (0-1)  Wisła Kraków
+[Sun Aug/22]
+  15.00  Piast Gliwice            1-1 (0-0)  Śląsk Wrocław
+  17.30  Lech Poznań              2-0 (1-0)  Lechia Gdańsk
+[Wed Dec/15]
+  18.00  Raków Częstochowa        1-2 (1-0)  Górnik Zabrze
+[Tue Mar/15]
+  18.45  Legia Warszawa           4-1 (3-0)  Bruk-Bet Termalica Nieciecza
+
+
+Matchday 6
+[Fri Aug/27]
+  18.00  FKS Stal Mielec          2-0 (2-0)  Górnik Łęczna
+  20.30  Warta Poznań             1-1 (0-0)  Jagiellonia Białystok
+[Sat Aug/28]
+  12.30  Bruk-Bet Termalica Nieciecza  1-2 (0-0)  KS Cracovia
+  15.00  Lechia Gdańsk            2-2 (2-0)  Radomiak Radom
+  17.30  Lech Poznań              1-1 (0-0)  Pogoń Szczecin
+  20.00  Górnik Zabrze            0-1 (0-0)  Piast Gliwice
+[Sun Aug/29]
+  12.30  Wisła Płock              1-1 (1-1)  Raków Częstochowa
+  15.00  Zagłębie Lubin           1-3 (1-2)  Śląsk Wrocław
+  17.30  Wisła Kraków             1-0 (1-0)  Legia Warszawa
+
+
+Matchday 7
+[Sat Sep/11]
+  12.30  Warta Poznań             0-0  Bruk-Bet Termalica Nieciecza
+  15.00  KS Cracovia              2-2 (0-2)  Górnik Zabrze
+  17.30  Jagiellonia Białystok    1-1 (1-1)  FKS Stal Mielec
+  20.00  Śląsk Wrocław            1-0 (0-0)  Legia Warszawa
+[Sun Sep/12]
+  12.30  Piast Gliwice            0-1 (0-0)  Zagłębie Lubin
+  15.00  Wisła Kraków             2-2 (0-2)  Lechia Gdańsk
+  17.30  Raków Częstochowa        2-2 (1-0)  Lech Poznań
+[Mon Sep/13]
+  18.00  Górnik Łęczna            3-2 (0-1)  Wisła Płock
+  20.30  Radomiak Radom           1-1 (0-1)  Pogoń Szczecin
+
+
+Matchday 8
+[Fri Sep/17]
+  18.00  Zagłębie Lubin           2-1 (0-1)  Bruk-Bet Termalica Nieciecza
+  20.30  Lech Poznań              5-0 (2-0)  Wisła Kraków
+[Sat Sep/18]
+  12.30  Wisła Płock              3-0 (0-0)  Jagiellonia Białystok
+  15.00  Pogoń Szczecin           1-1 (1-0)  KS Cracovia
+  17.30  Radomiak Radom           1-1 (1-1)  Śląsk Wrocław
+  20.00  Lechia Gdańsk            1-0 (1-0)  Piast Gliwice
+[Sun Sep/19]
+  12.30  FKS Stal Mielec          0-3 (0-0)  Raków Częstochowa
+  15.00  Górnik Zabrze            1-0 (1-0)  Warta Poznań
+  17.30  Legia Warszawa           3-1 (2-1)  Górnik Łęczna
+
+
+Matchday 9
+[Fri Sep/24]
+  18.00  Górnik Łęczna            0-4 (0-2)  Lechia Gdańsk
+  20.30  Jagiellonia Białystok    1-0 (0-0)  Lech Poznań
+[Sat Sep/25]
+  15.00  FKS Stal Mielec          1-0 (1-0)  Radomiak Radom
+  17.30  Warta Poznań             0-2 (0-1)  Zagłębie Lubin
+  20.00  Legia Warszawa           2-3 (1-1)  Raków Częstochowa
+[Sun Sep/26]
+  12.30  Bruk-Bet Termalica Nieciecza  3-1 (0-0)  Górnik Zabrze
+  15.00  Śląsk Wrocław            3-1 (2-1)  Wisła Płock
+  17.30  Wisła Kraków             0-1 (0-1)  Pogoń Szczecin
+[Mon Sep/27]
+  18.00  Piast Gliwice            2-4 (1-2)  KS Cracovia
+
+
+Matchday 10
+[Fri Oct/1]
+  18.00  Zagłębie Lubin           0-1 (0-0)  Jagiellonia Białystok
+  20.30  Piast Gliwice            1-0 (0-0)  Wisła Kraków
+[Sat Oct/2]
+  12.30  Radomiak Radom           1-1 (0-0)  Bruk-Bet Termalica Nieciecza
+  15.00  KS Cracovia              3-3 (1-3)  FKS Stal Mielec
+  17.30  Lech Poznań              4-0 (2-0)  Śląsk Wrocław
+  20.00  Górnik Zabrze            4-2 (1-1)  Wisła Płock
+[Sun Oct/3]
+  12.30  Raków Częstochowa        3-0 (2-0)  Warta Poznań
+  15.00  Pogoń Szczecin           4-1 (2-1)  Górnik Łęczna
+  17.30  Lechia Gdańsk            3-1 (1-0)  Legia Warszawa
+
+
+Matchday 11
+[Sat Oct/16]
+  12.30  Górnik Łęczna            1-1 (1-1)  Piast Gliwice
+  15.00  Bruk-Bet Termalica Nieciecza  0-2 (0-0)  Lechia Gdańsk
+  17.30  Górnik Zabrze            0-1 (0-0)  Wisła Kraków
+  20.00  Śląsk Wrocław            1-2 (0-0)  Raków Częstochowa
+[Sun Oct/17]
+  12.30  Wisła Płock              1-0 (0-0)  Pogoń Szczecin
+  15.00  KS Cracovia              2-0 (0-0)  Warta Poznań
+  17.30  Legia Warszawa           0-1 (0-0)  Lech Poznań
+[Mon Oct/18]
+  18.00  FKS Stal Mielec          4-2 (1-2)  Zagłębie Lubin
+  20.30  Jagiellonia Białystok    1-1 (1-1)  Radomiak Radom
+
+
+Matchday 12
+[Fri Oct/22]
+  18.00  Radomiak Radom           3-1 (2-0)  Górnik Łęczna
+  20.30  Lech Poznań              4-1 (1-1)  Wisła Płock
+[Sat Oct/23]
+  12.30  Raków Częstochowa        3-2 (1-0)  Bruk-Bet Termalica Nieciecza
+  15.00  Lechia Gdańsk            1-1 (1-1)  Górnik Zabrze
+  17.30  Pogoń Szczecin           4-1 (2-1)  Jagiellonia Białystok
+  20.00  Wisła Kraków             0-5 (0-3)  Śląsk Wrocław
+[Sun Oct/24]
+  15.00  Zagłębie Lubin           1-1 (0-0)  KS Cracovia
+  17.30  Warta Poznań             0-0  FKS Stal Mielec
+  20.00  Piast Gliwice            4-1 (2-1)  Legia Warszawa
+
+
+Matchday 13
+[Fri Oct/29]
+  18.00  KS Cracovia              1-2 (0-1)  Radomiak Radom
+  20.30  FKS Stal Mielec          0-0  Lech Poznań
+[Sat Oct/30]
+  12.30  Bruk-Bet Termalica Nieciecza  4-3 (1-1)  Śląsk Wrocław
+  15.00  Warta Poznań             0-2 (0-0)  Lechia Gdańsk
+  17.30  Górnik Zabrze            0-0  Zagłębie Lubin
+  20.00  Jagiellonia Białystok    3-3 (0-2)  Piast Gliwice
+[Sun Oct/31]
+  12.30  Wisła Płock              2-0 (1-0)  Wisła Kraków
+  15.00  Górnik Łęczna            0-0  Raków Częstochowa
+  17.30  Legia Warszawa           0-2 (0-1)  Pogoń Szczecin
+
+
+Matchday 14
+[Fri Nov/5]
+  18.00  Wisła Płock              1-1 (1-1)  Bruk-Bet Termalica Nieciecza
+  20.30  Śląsk Wrocław            2-2 (1-0)  Jagiellonia Białystok
+[Sat Nov/6]
+  12.30  Piast Gliwice            0-1 (0-0)  Warta Poznań
+  15.00  Radomiak Radom           1-0 (1-0)  Górnik Zabrze
+  17.30  Lechia Gdańsk            2-1 (0-1)  Zagłębie Lubin
+  20.00  Górnik Łęczna            1-1 (0-1)  Lech Poznań
+[Sun Nov/7]
+  15.00  Raków Częstochowa        0-0  Pogoń Szczecin
+  17.30  Legia Warszawa           1-3 (1-2)  FKS Stal Mielec
+  20.00  Wisła Kraków             1-0 (0-0)  KS Cracovia
+
+
+Matchday 15
+[Sat Nov/20]
+  12.30  Warta Poznań             1-2 (0-1)  Wisła Płock
+  15.00  Jagiellonia Białystok    3-1 (1-1)  Wisła Kraków
+  17.30  FKS Stal Mielec          3-3 (1-2)  Lechia Gdańsk
+  20.00  Lech Poznań              1-0 (0-0)  Piast Gliwice
+[Sun Nov/21]
+  12.30  Bruk-Bet Termalica Nieciecza  1-1 (1-0)  Górnik Łęczna
+  15.00  Pogoń Szczecin           2-1 (0-0)  Śląsk Wrocław
+  17.30  Górnik Zabrze            3-2 (2-0)  Legia Warszawa
+[Mon Nov/22]
+  18.00  Zagłębie Lubin           0-2 (0-2)  Radomiak Radom
+  20.30  KS Cracovia              1-0 (0-0)  Raków Częstochowa
+
+
+Matchday 16
+[Fri Nov/26]
+  18.00  Piast Gliwice            2-1 (0-1)  Bruk-Bet Termalica Nieciecza
+  20.30  Wisła Kraków             0-1 (0-1)  Radomiak Radom
+[Sat Nov/27]
+  12.30  Górnik Łęczna            1-2 (1-2)  Górnik Zabrze
+  15.00  Śląsk Wrocław            2-1 (0-0)  FKS Stal Mielec
+  17.30  Pogoń Szczecin           5-1 (2-1)  Lechia Gdańsk
+  20.00  Raków Częstochowa        4-0 (1-0)  Zagłębie Lubin
+[Sun Nov/28]
+  12.30  Wisła Płock              2-1 (2-0)  KS Cracovia
+  15.00  Lech Poznań              2-0 (0-0)  Warta Poznań
+  17.30  Legia Warszawa           1-0 (1-0)  Jagiellonia Białystok
+
+
+Matchday 17
+[Fri Dec/3]
+  18.00  FKS Stal Mielec          2-1 (2-0)  Wisła Płock
+  20.30  Górnik Zabrze            3-1 (0-0)  Śląsk Wrocław
+[Sat Dec/4]
+  15.00  Bruk-Bet Termalica Nieciecza  1-3 (1-2)  Pogoń Szczecin
+  17.30  Jagiellonia Białystok    1-2 (0-2)  Górnik Łęczna
+  20.00  Lechia Gdańsk            3-1 (0-1)  Raków Częstochowa
+[Sun Dec/5]
+  17.30  Zagłębie Lubin           2-3 (0-2)  Lech Poznań
+  20.00  KS Cracovia              1-0 (1-0)  Legia Warszawa
+[Mon Dec/6]
+  18.00  Warta Poznań             1-1 (0-0)  Wisła Kraków
+[Tue Dec/14]
+  18.45  Radomiak Radom           2-2 (1-2)  Piast Gliwice
+
+
+Matchday 18
+[Fri Dec/10]
+  18.00  FKS Stal Mielec          1-0 (1-0)  Bruk-Bet Termalica Nieciecza
+  20.30  Raków Częstochowa        1-0 (0-0)  Piast Gliwice
+[Sat Dec/11]
+  15.00  Radomiak Radom           2-1 (2-0)  Lech Poznań
+  17.30  Zagłębie Lubin           2-1 (0-1)  Wisła Kraków
+  20.00  Lechia Gdańsk            1-2 (1-1)  Jagiellonia Białystok
+[Sun Dec/12]
+  12.30  KS Cracovia              0-2 (0-2)  Górnik Łęczna
+  15.00  Wisła Płock              1-0 (1-0)  Legia Warszawa
+  17.30  Górnik Zabrze            2-2 (1-1)  Pogoń Szczecin
+[Mon Dec/13]
+  18.00  Warta Poznań             2-1 (1-0)  Śląsk Wrocław
+
+
+Matchday 19
+[Fri Dec/17]
+  18.00  Wisła Kraków             3-0 (2-0)  Bruk-Bet Termalica Nieciecza
+  20.30  Wisła Płock              1-0 (1-0)  Lechia Gdańsk
+[Sat Dec/18]
+  12.30  Piast Gliwice            1-1 (1-0)  FKS Stal Mielec
+  15.00  Pogoń Szczecin           1-1 (0-0)  Warta Poznań
+  17.30  Śląsk Wrocław            0-2 (0-1)  KS Cracovia
+  20.00  Raków Częstochowa        5-0 (0-0)  Jagiellonia Białystok
+[Sun Dec/19]
+  12.30  Górnik Łęczna            2-1 (0-1)  Zagłębie Lubin
+  15.00  Lech Poznań              2-1 (1-1)  Górnik Zabrze
+  17.30  Legia Warszawa           0-3 (0-1)  Radomiak Radom
+
+
+Matchday 20
+[Fri Feb/4]
+  18.00  Bruk-Bet Termalica Nieciecza  2-1 (1-0)  Jagiellonia Białystok
+  20.30  Zagłębie Lubin           1-3 (0-2)  Legia Warszawa
+[Sat Feb/5]
+  15.00  FKS Stal Mielec          1-2 (1-0)  Górnik Zabrze
+  17.30  Piast Gliwice            0-2 (0-0)  Pogoń Szczecin
+  20.00  Lechia Gdańsk            2-0 (1-0)  Śląsk Wrocław
+[Sun Feb/6]
+  12.30  Warta Poznań             1-1 (0-0)  Górnik Łęczna
+  15.00  Raków Częstochowa        2-0 (0-0)  Wisła Kraków
+  17.30  KS Cracovia              3-3 (1-1)  Lech Poznań
+[Mon Feb/7]
+  18.00  Radomiak Radom           1-1 (1-1)  Wisła Płock
+
+
+Matchday 21
+[Fri Feb/11]
+  18.00  Górnik Łęczna            1-1 (1-0)  Śląsk Wrocław
+  20.30  KS Cracovia              2-0 (0-0)  Lechia Gdańsk
+[Sat Feb/12]
+  15.00  Wisła Kraków             0-1 (0-1)  FKS Stal Mielec
+  17.30  Radomiak Radom           0-1 (0-1)  Raków Częstochowa
+  20.00  Lech Poznań              5-0 (3-0)  Bruk-Bet Termalica Nieciecza
+[Sun Feb/13]
+  12.30  Wisła Płock              0-2 (0-0)  Piast Gliwice
+  15.00  Pogoń Szczecin           2-1 (1-0)  Zagłębie Lubin
+  17.30  Legia Warszawa           0-1 (0-1)  Warta Poznań
+[Mon Feb/14]
+  18.00  Górnik Zabrze            1-2 (1-0)  Jagiellonia Białystok
+
+
+Matchday 22
+[Fri Feb/18]
+  18.00  Zagłębie Lubin           3-1 (1-1)  Wisła Płock
+  20.30  FKS Stal Mielec          0-1 (0-0)  Pogoń Szczecin
+[Sat Feb/19]
+  15.00  Jagiellonia Białystok    0-0  KS Cracovia
+  17.30  Śląsk Wrocław            1-3 (1-3)  Piast Gliwice
+  20.00  Bruk-Bet Termalica Nieciecza  0-0  Legia Warszawa
+[Sun Feb/20]
+  12.30  Warta Poznań             3-1 (0-1)  Radomiak Radom
+  15.00  Górnik Zabrze            1-1 (1-1)  Raków Częstochowa
+  17.30  Lechia Gdańsk            1-0 (0-0)  Lech Poznań
+[Mon Feb/21]
+  18.00  Wisła Kraków             0-0  Górnik Łęczna
+
+
+Matchday 23
+[Fri Feb/25]
+  18.00  Raków Częstochowa        2-0 (1-0)  Wisła Płock
+  20.30  Legia Warszawa           2-1 (1-0)  Wisła Kraków
+[Sat Feb/26]
+  15.00  Pogoń Szczecin           0-3 (0-0)  Lech Poznań
+  17.30  Górnik Łęczna            2-0 (2-0)  FKS Stal Mielec
+  20.00  Piast Gliwice            0-0  Górnik Zabrze
+[Sun Feb/27]
+  12.30  Jagiellonia Białystok    1-1 (0-0)  Warta Poznań
+  15.00  Radomiak Radom           2-0 (1-0)  Lechia Gdańsk
+  17.30  Śląsk Wrocław            0-0  Zagłębie Lubin
+[Mon Feb/28]
+  18.00  KS Cracovia              1-2 (0-2)  Bruk-Bet Termalica Nieciecza
+
+
+Matchday 24
+[Fri Mar/4]
+  18.00  FKS Stal Mielec          1-1 (0-0)  Jagiellonia Białystok
+  20.30  Pogoń Szczecin           4-0 (1-0)  Radomiak Radom
+[Sat Mar/5]
+  15.00  Bruk-Bet Termalica Nieciecza  1-0 (0-0)  Warta Poznań
+  17.30  Zagłębie Lubin           0-0  Piast Gliwice
+  20.00  Lechia Gdańsk            1-1 (1-0)  Wisła Kraków
+[Sun Mar/6]
+  12.30  Wisła Płock              3-1 (3-1)  Górnik Łęczna
+  15.00  Górnik Zabrze            3-0 (2-0)  KS Cracovia
+  17.30  Lech Poznań              0-1 (0-0)  Raków Częstochowa
+[Mon Mar/7]
+  19.00  Legia Warszawa           1-0 (0-0)  Śląsk Wrocław
+
+
+Matchday 25
+[Fri Mar/11]
+  18.00  Bruk-Bet Termalica Nieciecza  0-2 (0-0)  Zagłębie Lubin
+  20.30  Górnik Łęczna            0-1 (0-0)  Legia Warszawa
+[Sat Mar/12]
+  15.00  Warta Poznań             2-1 (1-1)  Górnik Zabrze
+  17.30  Piast Gliwice            1-0 (0-0)  Lechia Gdańsk
+  20.00  KS Cracovia              1-1 (0-0)  Pogoń Szczecin
+[Sun Mar/13]
+  12.30  Jagiellonia Białystok    0-1 (0-1)  Wisła Płock
+  15.00  Śląsk Wrocław            0-0  Radomiak Radom
+  17.30  Wisła Kraków             1-1 (1-0)  Lech Poznań
+[Mon Mar/14]
+  18.00  Raków Częstochowa        2-1 (0-0)  FKS Stal Mielec
+
+
+Matchday 26
+[Fri Mar/18]
+  18.00  Zagłębie Lubin           0-4 (0-3)  Warta Poznań
+  20.30  Pogoń Szczecin           4-1 (2-1)  Wisła Kraków
+[Sat Mar/19]
+  12.30  Wisła Płock              1-2 (1-0)  Śląsk Wrocław
+  15.00  Raków Częstochowa        1-1 (0-1)  Legia Warszawa
+  17.30  Lechia Gdańsk            2-0 (1-0)  Górnik Łęczna
+  20.00  Lech Poznań              3-0 (0-0)  Jagiellonia Białystok
+[Sun Mar/20]
+  12.30  Radomiak Radom           1-1 (0-1)  FKS Stal Mielec
+  15.00  KS Cracovia              0-1 (0-1)  Piast Gliwice
+  17.30  Górnik Zabrze            1-1 (0-1)  Bruk-Bet Termalica Nieciecza
+
+
+Matchday 27
+[Fri Apr/1]
+  18.00  FKS Stal Mielec          1-2 (0-2)  KS Cracovia
+  20.30  Śląsk Wrocław            0-1 (0-0)  Lech Poznań
+[Sat Apr/2]
+  15.00  Warta Poznań             0-2 (0-1)  Raków Częstochowa
+  17.30  Górnik Łęczna            0-4 (0-2)  Pogoń Szczecin
+  20.00  Legia Warszawa           2-1 (1-0)  Lechia Gdańsk
+[Sun Apr/3]
+  12.30  Bruk-Bet Termalica Nieciecza  1-1 (0-1)  Radomiak Radom
+  15.00  Jagiellonia Białystok    2-1 (0-0)  Zagłębie Lubin
+  17.30  Wisła Kraków             2-2 (1-0)  Piast Gliwice
+[Mon Apr/4]
+  18.00  Wisła Płock              3-2 (2-0)  Górnik Zabrze
+
+
+Matchday 28
+[Fri Apr/8]
+  18.00  Zagłębie Lubin           3-1 (0-0)  FKS Stal Mielec
+  20.30  Pogoń Szczecin           1-2 (1-1)  Wisła Płock
+[Sat Apr/9]
+  15.00  Piast Gliwice            1-0 (1-0)  Górnik Łęczna
+  17.30  Lech Poznań              1-1 (1-1)  Legia Warszawa
+  20.00  Lechia Gdańsk            2-0 (1-0)  Bruk-Bet Termalica Nieciecza
+[Sun Apr/10]
+  12.30  Warta Poznań             1-0 (0-0)  KS Cracovia
+  15.00  Wisła Kraków             4-1 (1-0)  Górnik Zabrze
+  17.30  Raków Częstochowa        1-1 (0-1)  Śląsk Wrocław
+[Mon Apr/11]
+  18.00  Radomiak Radom           2-2 (1-0)  Jagiellonia Białystok
+
+
+Matchday 29
+[Sat Apr/16]
+  12.30  FKS Stal Mielec          0-1 (0-1)  Warta Poznań
+         Górnik Łęczna            1-0 (0-0)  Radomiak Radom
+  15.00  Bruk-Bet Termalica Nieciecza  0-3 (0-1)  Raków Częstochowa
+  17.30  Jagiellonia Białystok    1-2 (1-1)  Pogoń Szczecin
+  20.00  Wisła Płock              0-1 (0-1)  Lech Poznań
+[Mon Apr/18]
+  12.30  KS Cracovia              1-0 (1-0)  Zagłębie Lubin
+  15.00  Śląsk Wrocław            1-1 (1-1)  Wisła Kraków
+  17.30  Górnik Zabrze            1-3 (0-1)  Lechia Gdańsk
+  20.00  Legia Warszawa           0-1 (0-1)  Piast Gliwice
+
+
+Matchday 30
+[Fri Apr/22]
+  18.00  Radomiak Radom           0-1 (0-1)  KS Cracovia
+  20.30  Zagłębie Lubin           2-4 (1-2)  Górnik Zabrze
+[Sat Apr/23]
+  15.00  Śląsk Wrocław            0-4 (0-3)  Bruk-Bet Termalica Nieciecza
+  17.30  Piast Gliwice            2-1 (0-0)  Jagiellonia Białystok
+  20.00  Lechia Gdańsk            2-0 (2-0)  Warta Poznań
+[Sun Apr/24]
+  12.30  Lech Poznań              3-1 (2-1)  FKS Stal Mielec
+  15.00  Raków Częstochowa        2-1 (2-0)  Górnik Łęczna
+  17.30  Pogoń Szczecin           3-1 (1-1)  Legia Warszawa
+[Mon Apr/25]
+  19.00  Wisła Kraków             3-4 (1-3)  Wisła Płock
+
+
+Matchday 31
+[Wed Apr/20]
+  18.00  Lech Poznań              3-0 (3-0)  Górnik Łęczna
+  20.30  Pogoń Szczecin           1-2 (1-0)  Raków Częstochowa
+[Fri Apr/29]
+  18.00  Warta Poznań             2-3 (1-1)  Piast Gliwice
+  20.30  Górnik Zabrze            0-0  Radomiak Radom
+[Sat Apr/30]
+  15.00  Jagiellonia Białystok    1-1 (0-0)  Śląsk Wrocław
+  17.30  Zagłębie Lubin           2-2 (0-2)  Lechia Gdańsk
+  20.00  FKS Stal Mielec          2-1 (2-1)  Legia Warszawa
+[Sun May/1]
+  15.00  Bruk-Bet Termalica Nieciecza  1-0 (0-0)  Wisła Płock
+  17.30  KS Cracovia              0-0  Wisła Kraków
+
+
+Matchday 32
+[Fri May/6]
+  18.00  Radomiak Radom           1-6 (0-3)  Zagłębie Lubin
+  20.30  Legia Warszawa           5-3 (4-2)  Górnik Zabrze
+[Sat May/7]
+  15.00  Wisła Płock              0-3 (0-1)  Warta Poznań
+  17.30  Śląsk Wrocław            1-1 (1-0)  Pogoń Szczecin
+  20.00  Wisła Kraków             0-0  Jagiellonia Białystok
+[Sun May/8]
+  12.30  Lechia Gdańsk            3-2 (2-0)  FKS Stal Mielec
+  15.00  Raków Częstochowa        1-1 (1-0)  KS Cracovia
+  17.30  Piast Gliwice            1-2 (0-1)  Lech Poznań
+[Mon May/9]
+  18.00  Górnik Łęczna            1-1 (1-0)  Bruk-Bet Termalica Nieciecza
+
+
+Matchday 33
+[Fri May/13]
+  18.00  KS Cracovia              3-0 (2-0)  Wisła Płock
+  20.30  Jagiellonia Białystok    2-2 (0-0)  Legia Warszawa
+[Sat May/14]
+  12.30  Bruk-Bet Termalica Nieciecza  0-1 (0-0)  Piast Gliwice
+  15.00  Warta Poznań             1-2 (1-2)  Lech Poznań
+  17.30  Zagłębie Lubin           1-0 (0-0)  Raków Częstochowa
+  20.00  Lechia Gdańsk            0-0  Pogoń Szczecin
+[Sun May/15]
+  12.30  FKS Stal Mielec          1-1 (0-1)  Śląsk Wrocław
+  15.00  Górnik Zabrze            4-2 (0-1)  Górnik Łęczna
+  17.30  Radomiak Radom           4-2 (0-1)  Wisła Kraków
+
+
+Matchday 34
+[Sat May/21]
+  17.30  Lech Poznań              2-1 (2-0)  Zagłębie Lubin
+         Legia Warszawa           3-0 (0-0)  KS Cracovia
+         Piast Gliwice            1-1 (0-1)  Radomiak Radom
+         Pogoń Szczecin           2-2 (1-0)  Bruk-Bet Termalica Nieciecza
+         Raków Częstochowa        3-0 (2-0)  Lechia Gdańsk
+         Wisła Kraków             0-1 (0-1)  Warta Poznań
+         Wisła Płock              3-0 (1-0)  FKS Stal Mielec
+         Śląsk Wrocław            3-4 (3-2)  Górnik Zabrze
+         Górnik Łęczna            0-1 (0-0)  Jagiellonia Białystok

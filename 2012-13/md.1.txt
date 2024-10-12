@@ -1,0 +1,371 @@
+= MD 1 2012/13
+
+# Date       Fri Jul/13 2012 - Fri May/31 2013 (322d)
+# Teams      12
+# Matches    198
+
+
+
+Matchday 1
+[Fri Jul/13]
+  19.00  FC Sheriff               5-0 (2-0)  FC Costuleni
+[Sat Jul/14]
+  18.00  FC Olimpia Bălți         2-0 (2-0)  Nistru Otaci
+         FC Milsami               1-0 (0-0)  FC Academia UTM
+         FC Rapid Ghidighici      0-1 (0-0)  FC Tiraspol
+[Sun Jul/15]
+  18.00  FC Iskra-Stal            2-2 (1-0)  Dacia Chişinău
+         FC Zimbru                1-1 (0-1)  Speranţa Crihana Veche
+
+
+Matchday 2
+[Sat Jul/21]
+  18.00  FC Academia UTM          1-4 (0-2)  FC Sheriff
+         FC Costuleni             0-0  FC Iskra-Stal
+         Speranţa Crihana Veche   0-1 (0-1)  FC Rapid Ghidighici
+  19.00  FC Tiraspol              0-0  FC Olimpia Bălți
+[Sun Jul/22]
+  18.00  Dacia Chişinău           3-2 (0-2)  FC Zimbru
+         FC Milsami               2-0 (1-0)  Nistru Otaci
+
+
+Matchday 3
+[Sat Jul/28]
+  18.00  FC Iskra-Stal            1-0 (0-0)  FC Academia UTM
+         Nistru Otaci             0-0  FC Tiraspol
+[Sun Jul/29]
+  18.00  FC Rapid Ghidighici      0-1 (0-1)  Dacia Chişinău
+         FC Zimbru                3-3 (1-0)  FC Costuleni
+         Speranţa Crihana Veche   0-2 (0-1)  FC Olimpia Bălți
+  19.00  FC Sheriff               1-0 (1-0)  FC Milsami
+
+
+Matchday 4
+[Sat Aug/4]
+  17.00  Speranţa Crihana Veche   0-0  Nistru Otaci
+         FC Costuleni             0-2 (0-1)  FC Rapid Ghidighici
+  19.00  FC Sheriff               1-0 (0-0)  FC Iskra-Stal
+[Sun Aug/5]
+  17.00  FC Academia UTM          2-2 (1-1)  FC Zimbru
+         FC Milsami               0-0  FC Tiraspol
+  20.00  Dacia Chişinău           1-0 (1-0)  FC Olimpia Bălți
+
+
+Matchday 5
+[Fri Aug/10]
+  17.00  FC Rapid Ghidighici      0-2 (0-1)  FC Academia UTM
+  19.00  FC Tiraspol              3-0 (2-0)  Speranţa Crihana Veche
+[Sat Aug/11]
+  17.00  FC Olimpia Bălți         0-1 (0-1)  FC Costuleni
+         FC Iskra-Stal            3-3 (3-2)  FC Milsami
+         Nistru Otaci             0-2 (0-0)  Dacia Chişinău
+  20.00  FC Zimbru                0-1 (0-1)  FC Sheriff
+
+
+Matchday 6
+[Sat Aug/18]
+  17.00  FC Academia UTM          1-2 (1-1)  FC Olimpia Bălți
+         FC Costuleni             1-1 (1-1)  Nistru Otaci
+[Sun Aug/19]
+  17.00  FC Milsami               3-2 (0-1)  Speranţa Crihana Veche
+         FC Iskra-Stal            2-3 (1-0)  FC Zimbru
+  18.00  Dacia Chişinău           1-1 (0-1)  FC Tiraspol
+  19.00  FC Sheriff               0-0  FC Rapid Ghidighici
+
+
+Matchday 7
+[Sat Aug/25]
+  17.00  FC Rapid Ghidighici      2-1 (0-0)  FC Iskra-Stal
+         Nistru Otaci             1-2 (1-1)  FC Academia UTM
+  19.00  FC Tiraspol              4-0 (1-0)  FC Costuleni
+[Sun Aug/26]
+  17.00  FC Olimpia Bălți         0-1 (0-0)  FC Sheriff
+         Speranţa Crihana Veche   1-1 (1-0)  Dacia Chişinău
+  19.00  FC Zimbru                2-1 (1-0)  FC Milsami
+
+
+Matchday 8
+[Fri Aug/31]
+  17.00  FC Costuleni             2-2 (2-2)  Speranţa Crihana Veche
+[Sat Sep/1]
+  17.00  FC Milsami               0-0  Dacia Chişinău
+         FC Iskra-Stal            1-0 (1-0)  FC Olimpia Bălți
+         FC Academia UTM          1-0 (0-0)  FC Tiraspol
+  19.00  FC Zimbru                1-0 (0-0)  FC Rapid Ghidighici
+[Sun Sep/2]
+  18.00  FC Sheriff               2-1 (2-0)  Nistru Otaci
+
+
+Matchday 9
+[Sat Sep/15]
+  16.00  FC Olimpia Bălți         0-0  FC Zimbru
+         FC Rapid Ghidighici      3-2 (0-0)  FC Milsami
+         Nistru Otaci             1-1 (0-1)  FC Iskra-Stal
+  19.00  FC Tiraspol              1-2 (1-0)  FC Sheriff
+[Sun Sep/16]
+  16.00  Dacia Chişinău           4-2 (2-0)  FC Costuleni
+         Speranţa Crihana Veche   1-3 (1-3)  FC Academia UTM
+
+
+Matchday 10
+[Fri Sep/21]
+  16.00  FC Iskra-Stal            0-0  FC Tiraspol
+         FC Zimbru                4-0 (1-0)  Nistru Otaci
+         FC Rapid Ghidighici      0-0  FC Olimpia Bălți
+[Sat Sep/22]
+  16.00  FC Academia UTM          0-4 (0-2)  Dacia Chişinău
+         FC Milsami               3-0 (1-0)  FC Costuleni
+  19.00  FC Sheriff               3-0 (1-0)  Speranţa Crihana Veche
+
+
+Matchday 11
+[Sat Sep/29]
+  16.00  FC Olimpia Bălți         0-2 (0-2)  FC Milsami
+  18.00  FC Tiraspol              2-1 (1-0)  FC Zimbru
+  19.00  Dacia Chişinău           0-1 (0-0)  FC Sheriff
+[Sun Sep/30]
+  16.00  Nistru Otaci             0-1 (0-0)  FC Rapid Ghidighici
+         Speranţa Crihana Veche   0-1 (0-0)  FC Iskra-Stal
+         FC Costuleni             1-2 (1-0)  FC Academia UTM
+
+
+Matchday 12
+[Fri Oct/5]
+  15.00  FC Academia UTM          3-1 (0-0)  FC Milsami
+         Speranţa Crihana Veche   1-2 (1-2)  FC Zimbru
+[Sat Oct/6]
+  15.00  FC Costuleni             0-3 (0-1)  FC Sheriff
+         Nistru Otaci             0-3 (0-2)  FC Olimpia Bălți
+  17.00  FC Tiraspol              2-2 (1-2)  FC Rapid Ghidighici
+  19.00  Dacia Chişinău           4-1 (1-1)  FC Iskra-Stal
+
+
+Matchday 13
+[Sat Oct/20]
+  15.00  Nistru Otaci             2-1 (1-1)  FC Milsami
+         FC Olimpia Bălți         2-0 (0-0)  FC Tiraspol
+         FC Rapid Ghidighici      2-0 (1-0)  Speranţa Crihana Veche
+         FC Iskra-Stal            2-0 (0-0)  FC Costuleni
+[Sun Oct/21]
+  17.00  FC Zimbru                1-1 (1-0)  Dacia Chişinău
+  18.30  FC Sheriff               3-0 (1-0)  FC Academia UTM
+
+
+Matchday 14
+[Fri Oct/26]
+  15.00  FC Academia UTM          3-2 (1-1)  FC Iskra-Stal
+         FC Costuleni             1-0 (1-0)  FC Zimbru
+[Sat Oct/27]
+  15.00  FC Milsami               3-0 (1-0)  FC Sheriff
+         FC Olimpia Bălți         2-0 (1-0)  Speranţa Crihana Veche
+         Dacia Chişinău           1-0 (0-0)  FC Rapid Ghidighici
+  17.00  FC Tiraspol              3-1 (1-0)  Nistru Otaci
+
+
+Matchday 15
+[Sat Nov/3]
+  14.00  FC Zimbru                4-0 (1-0)  FC Academia UTM
+[Sun Nov/4]
+  13.00  FC Iskra-Stal            2-2 (0-0)  FC Sheriff
+  14.00  Nistru Otaci             1-1 (0-1)  Speranţa Crihana Veche
+         FC Olimpia Bălți         0-1 (0-0)  Dacia Chişinău
+         FC Rapid Ghidighici      1-2 (0-1)  FC Costuleni
+  17.00  FC Tiraspol              2-1 (2-0)  FC Milsami
+
+
+Matchday 16
+[Fri Nov/9]
+  14.00  Speranţa Crihana Veche   0-2 (0-0)  FC Tiraspol
+         Dacia Chişinău           3-0 (1-0)  Nistru Otaci
+[Sat Nov/10]
+  14.00  FC Milsami               2-0 (0-0)  FC Iskra-Stal
+         FC Costuleni             0-1 (0-0)  FC Olimpia Bălți
+  18.00  FC Sheriff               1-0 (1-0)  FC Zimbru
+[Sun Nov/11]
+  14.00  FC Academia UTM          5-0 (3-0)  FC Rapid Ghidighici
+
+
+Matchday 17
+[Sat Nov/17]
+  13.00  Speranţa Crihana Veche   0-1 (0-1)  FC Milsami
+         Nistru Otaci             0-2 (0-1)  FC Costuleni
+         FC Zimbru                0-1 (0-0)  FC Iskra-Stal
+[Sun Nov/18]
+  13.00  FC Olimpia Bălți         1-1 (1-0)  FC Academia UTM
+         FC Rapid Ghidighici      0-2 (0-1)  FC Sheriff
+  15.00  FC Tiraspol              0-0  Dacia Chişinău
+
+
+Matchday 18
+[Fri Nov/23]
+  13.00  FC Milsami               0-0  FC Zimbru
+         FC Iskra-Stal            0-1 (0-0)  FC Rapid Ghidighici
+         Dacia Chişinău           1-0 (0-0)  Speranţa Crihana Veche
+[Sat Nov/24]
+  13.00  FC Academia UTM          6-0 (2-0)  Nistru Otaci
+         FC Costuleni             1-1 (1-0)  FC Tiraspol
+  15.00  FC Sheriff               3-0 (1-0)  FC Olimpia Bălți
+
+
+Matchday 19
+[Tue Nov/27]
+  13.00  FC Rapid Ghidighici      2-1 (0-0)  FC Zimbru
+[Wed Nov/28]
+  13.00  Dacia Chişinău           1-0 (1-0)  FC Milsami
+         Speranţa Crihana Veche   0-0  FC Costuleni
+         Nistru Otaci             1-7 (0-3)  FC Sheriff
+         FC Olimpia Bălți         2-3 (2-1)  FC Iskra-Stal
+  15.00  FC Tiraspol              1-0 (0-0)  FC Academia UTM
+
+
+Matchday 20
+[Sun Dec/2]
+  13.00  FC Zimbru                4-3 (0-1)  FC Olimpia Bălți
+         FC Iskra-Stal            5-2 (2-0)  Nistru Otaci
+         FC Costuleni             0-0  Dacia Chişinău
+  15.00  FC Sheriff               2-0 (2-0)  FC Tiraspol
+[Mon Dec/3]
+  13.00  FC Milsami               2-0 (0-0)  FC Rapid Ghidighici
+         FC Academia UTM          3-5 (1-3)  Speranţa Crihana Veche
+
+
+Matchday 21
+[Sat Mar/2]
+  13.00  FC Costuleni             0-1 (0-0)  FC Milsami
+[Sun Mar/3]
+  13.00  Dacia Chişinău           1-1 (0-0)  FC Academia UTM
+         Speranţa Crihana Veche   0-2 (0-1)  FC Sheriff
+         Nistru Otaci             2-0 (0-0)  FC Zimbru
+  15.30  FC Olimpia Bălți         1-3 (1-1)  FC Rapid Ghidighici
+  17.00  FC Tiraspol              3-0 (3-0)  FC Iskra-Stal
+
+
+Matchday 22
+[Sat Mar/9]
+  14.00  FC Zimbru                0-1 (0-0)  FC Tiraspol
+         FC Iskra-Stal            4-3 (3-2)  Speranţa Crihana Veche
+  17.00  FC Sheriff               0-0  Dacia Chişinău
+[Sun Mar/10]
+  12.00  FC Academia UTM          1-1 (0-0)  FC Costuleni
+  15.00  FC Rapid Ghidighici      3-1 (1-0)  Nistru Otaci
+         FC Milsami               0-1 (0-0)  FC Olimpia Bălți
+
+
+Matchday 23
+[Fri Mar/15]
+  14.00  FC Milsami               2-1 (2-0)  FC Zimbru
+         Dacia Chişinău           2-0 (1-0)  Nistru Otaci
+  17.00  FC Sheriff               2-1 (2-1)  Speranţa Crihana Veche
+[Sat Mar/16]
+  14.00  FC Rapid Ghidighici      1-0 (0-0)  FC Olimpia Bălți
+         FC Academia UTM          0-2 (0-1)  FC Iskra-Stal
+  17.00  FC Tiraspol              3-1 (2-0)  FC Costuleni
+
+
+Matchday 24
+[Sat Mar/30]
+  14.00  Speranţa Crihana Veche   0-1 (0-0)  FC Iskra-Stal
+         FC Olimpia Bălți         0-3 (0-1)  FC Academia UTM
+         FC Zimbru                4-2 (1-0)  FC Rapid Ghidighici
+[Sun Mar/31]
+  14.00  FC Costuleni             1-2 (0-1)  FC Milsami
+         Nistru Otaci             0-3 (0-2)  FC Tiraspol
+  17.00  FC Sheriff               0-0  Dacia Chişinău
+
+
+Matchday 25
+[Sat Apr/6]
+  13.00  Dacia Chişinău           3-2 (3-0)  Speranţa Crihana Veche
+  15.00  FC Milsami               4-0 (1-0)  Nistru Otaci
+         FC Academia UTM          0-1 (0-1)  FC Zimbru
+  18.00  FC Tiraspol              2-1 (1-0)  FC Sheriff
+[Sun Apr/7]
+  15.00  FC Rapid Ghidighici      0-0  FC Costuleni
+         FC Iskra-Stal            0-1 (0-1)  FC Olimpia Bălți
+
+
+Matchday 26
+[Fri Apr/12]
+  13.00  Dacia Chişinău           0-0  FC Tiraspol
+  15.00  Nistru Otaci             0-2 (0-1)  FC Rapid Ghidighici
+  18.00  FC Zimbru                0-0  FC Iskra-Stal
+         FC Sheriff               1-2 (0-1)  FC Milsami
+[Sat Apr/13]
+  15.00  FC Costuleni             2-2 (1-1)  FC Academia UTM
+[Mon Apr/15]
+  15.00  Speranţa Crihana Veche   3-1 (2-0)  FC Olimpia Bălți
+
+
+Matchday 27
+[Sat Apr/20]
+         FC Iskra-Stal            0-3  FC Costuleni             [awarded]
+[Sun Apr/21]
+  15.00  FC Academia UTM          5-1 (2-0)  Nistru Otaci
+  16.00  FC Milsami               1-0 (0-0)  Dacia Chişinău
+         FC Rapid Ghidighici      0-2 (0-2)  FC Sheriff
+         FC Olimpia Bălți         2-2 (1-0)  FC Zimbru
+  18.00  FC Tiraspol              5-0 (2-0)  Speranţa Crihana Veche
+
+
+Matchday 28
+[Fri Apr/26]
+  18.00  Speranţa Crihana Veche   1-8 (1-3)  FC Zimbru
+         FC Tiraspol              2-0 (1-0)  FC Milsami
+[Sat Apr/27]
+  16.00  FC Costuleni             4-0 (2-0)  FC Olimpia Bălți
+         Nistru Otaci             2-2 (2-0)  FC Iskra-Stal
+         Dacia Chişinău           1-0 (0-0)  FC Rapid Ghidighici
+  18.00  FC Sheriff               1-1 (0-1)  FC Academia UTM
+
+
+Matchday 29
+[Thu May/2]
+  17.00  FC Academia UTM          1-2 (0-1)  Dacia Chişinău
+[Fri May/3]
+         FC Iskra-Stal            0-3  FC Sheriff               [awarded]
+  17.00  FC Milsami               2-1 (1-0)  Speranţa Crihana Veche
+         FC Rapid Ghidighici      0-1 (0-1)  FC Tiraspol
+  18.00  FC Olimpia Bălți         3-1 (2-0)  Nistru Otaci
+         FC Zimbru                1-1 (1-0)  FC Costuleni
+
+
+Matchday 30
+[Fri May/10]
+  17.00  Speranţa Crihana Veche   1-4 (0-3)  FC Costuleni
+[Sat May/11]
+         Dacia Chişinău           3-0  FC Iskra-Stal            [awarded]
+  16.00  FC Tiraspol              1-1 (1-1)  FC Academia UTM
+  17.00  Nistru Otaci             0-3 (0-1)  FC Zimbru
+         FC Milsami               1-2 (0-1)  FC Rapid Ghidighici
+  19.00  FC Sheriff               3-0 (1-0)  FC Olimpia Bălți
+
+
+Matchday 31
+[Thu May/16]
+         FC Iskra-Stal            0-3  FC Tiraspol              [awarded]
+  17.00  FC Rapid Ghidighici      0-3 (0-2)  Speranţa Crihana Veche
+  19.00  FC Zimbru                0-2 (0-2)  FC Sheriff
+[Fri May/17]
+  17.00  FC Academia UTM          2-1 (2-1)  FC Milsami
+  18.00  FC Olimpia Bălți         1-3 (0-1)  Dacia Chişinău
+         FC Costuleni             2-0 (2-0)  Nistru Otaci
+
+
+Matchday 32
+[Tue May/21]
+         FC Milsami               3-0  FC Iskra-Stal            [awarded]
+  18.00  Speranţa Crihana Veche   4-2 (1-2)  Nistru Otaci
+         FC Sheriff               2-1 (1-1)  FC Costuleni
+         Dacia Chişinău           0-0  FC Zimbru
+         FC Tiraspol              7-1 (3-1)  FC Olimpia Bălți
+         FC Rapid Ghidighici      3-1 (2-0)  FC Academia UTM
+
+
+Matchday 33
+[Fri May/31]
+         FC Iskra-Stal            0-3  FC Rapid Ghidighici      [awarded]
+  18.00  FC Academia UTM          2-2 (1-2)  Speranţa Crihana Veche
+         FC Olimpia Bălți         0-1 (0-0)  FC Milsami
+         FC Zimbru                2-0 (1-0)  FC Tiraspol
+         FC Costuleni             2-1 (1-0)  Dacia Chişinău
+         Nistru Otaci             1-2 (0-1)  FC Sheriff

@@ -1,0 +1,153 @@
+= IL 1 2020
+
+# Date       Sat May/30 - Tue Jul/7 2020 (38d)
+# Teams      14
+# Matches    58
+# Stages     Playoff (30)  Relegation (28)
+
+
+== Playoff
+
+Matchday 1
+[Sat May/30]
+  20.00  Maccabi Tel Aviv         2-0 (1-0)  Hapoel Haifa
+  20.45  Beitar Jerusalem         1-1 (0-0)  Hapoel Be'er Sheva
+  21.00  Maccabi Haifa            1-2 (0-1)  Hapoel Tel Aviv
+
+
+Matchday 2
+[Tue Jun/2]
+  20.45  Hapoel Tel Aviv          3-0 (2-0)  Beitar Jerusalem
+[Wed Jun/3]
+  20.30  Hapoel Haifa             1-1 (0-0)  Hapoel Be'er Sheva
+  20.45  Maccabi Tel Aviv         2-0 (1-0)  Maccabi Haifa
+
+
+Matchday 3
+[Sat Jun/6]
+  21.00  Hapoel Be'er Sheva       0-0  Hapoel Tel Aviv
+[Sun Jun/7]
+  20.45  Maccabi Haifa            2-2 (1-0)  Hapoel Haifa
+[Mon Jun/8]
+  20.45  Beitar Jerusalem         0-0  Maccabi Tel Aviv
+
+
+Matchday 4
+[Sat Jun/13]
+  21.00  Maccabi Haifa            0-0  Beitar Jerusalem
+[Sun Jun/14]
+  20.15  Hapoel Haifa             4-0 (1-0)  Hapoel Tel Aviv
+[Mon Jun/15]
+  20.45  Maccabi Tel Aviv         1-1 (1-0)  Hapoel Be'er Sheva
+
+
+Matchday 5
+[Wed Jun/17]
+  20.15  Beitar Jerusalem         1-1 (1-0)  Hapoel Haifa
+[Sat Jun/20]
+  20.30  Hapoel Be'er Sheva       0-1 (0-0)  Maccabi Haifa
+  21.00  Hapoel Tel Aviv          0-2 (0-0)  Maccabi Tel Aviv
+
+
+Matchday 6
+[Tue Jun/23]
+  20.00  Hapoel Be'er Sheva       2-2 (1-1)  Beitar Jerusalem
+  20.50  Hapoel Haifa             0-3 (0-2)  Maccabi Tel Aviv
+  21.00  Hapoel Tel Aviv          1-3 (0-2)  Maccabi Haifa
+
+
+Matchday 7
+[Sat Jun/27]
+  20.45  Maccabi Haifa            2-1 (1-0)  Hapoel Be'er Sheva
+  21.00  Maccabi Tel Aviv         3-0 (0-0)  Hapoel Tel Aviv
+[Sun Jun/28]
+  20.45  Hapoel Haifa             0-0  Beitar Jerusalem
+
+
+Matchday 8
+[Tue Jun/30]
+  20.15  Hapoel Tel Aviv          1-0 (0-0)  Hapoel Be'er Sheva
+[Wed Jul/1]
+  20.30  Hapoel Haifa             1-4 (0-4)  Maccabi Haifa
+  21.00  Maccabi Tel Aviv         1-0 (0-0)  Beitar Jerusalem
+
+
+Matchday 9
+[Sat Jul/4]
+  20.45  Beitar Jerusalem         3-0 (2-0)  Hapoel Tel Aviv
+         Hapoel Be'er Sheva       3-1 (1-0)  Hapoel Haifa
+  21.00  Maccabi Haifa            0-1 (0-1)  Maccabi Tel Aviv
+
+
+Matchday 10
+[Tue Jul/7]
+  21.00  Hapoel Tel Aviv          0-3 (0-1)  Hapoel Haifa
+         Hapoel Be'er Sheva       2-0 (2-0)  Maccabi Tel Aviv
+         Beitar Jerusalem         2-2 (0-1)  Maccabi Haifa
+
+
+== Relegation
+
+Matchday 1
+[Mon Jun/1]
+  20.15  Bnei Yehuda Tel Aviv     0-0  Hapoel Kfar Saba
+[Tue Jun/2]
+  19.45  FC Ashdod                3-2 (0-1)  Hapoel Ra'anana
+  20.00  Maccabi Netanya          3-1 (2-0)  Ironi Kiryat Shmona
+[Wed Jun/3]
+  19.45  Hapoel Hadera            2-2 (0-0)  Sektzia Nes Tziona
+
+
+Matchday 2
+[Sat Jun/6]
+  20.00  Ironi Kiryat Shmona      3-0 (2-0)  FC Ashdod
+         Bnei Yehuda Tel Aviv     5-0 (3-0)  Hapoel Hadera
+  20.15  Hapoel Kfar Saba         2-0 (0-0)  Hapoel Ra'anana
+[Sun Jun/7]
+  19.45  Sektzia Nes Tziona       1-0 (0-0)  Maccabi Netanya
+
+
+Matchday 3
+[Sat Jun/13]
+  20.00  Hapoel Hadera            0-0  Hapoel Kfar Saba
+         Hapoel Ra'anana          0-1 (0-0)  Ironi Kiryat Shmona
+  20.45  FC Ashdod                2-0 (1-0)  Sektzia Nes Tziona
+[Mon Jun/15]
+  19.45  Maccabi Netanya          1-3 (1-1)  Bnei Yehuda Tel Aviv
+
+
+Matchday 4
+[Thu Jun/18]
+  20.00  Sektzia Nes Tziona       2-1 (1-0)  Hapoel Ra'anana
+  20.15  Hapoel Hadera            1-2 (0-0)  Maccabi Netanya
+[Sat Jun/20]
+  19.45  Hapoel Kfar Saba         0-0  Ironi Kiryat Shmona
+[Sun Jun/21]
+  21.00  Bnei Yehuda Tel Aviv     3-3 (1-2)  FC Ashdod
+
+
+Matchday 5
+[Tue Jun/23]
+  19.45  Hapoel Ra'anana          2-4 (0-2)  Maccabi Netanya
+[Wed Jun/24]
+  20.15  FC Ashdod                2-3 (1-2)  Hapoel Kfar Saba
+         Sektzia Nes Tziona       0-0  Bnei Yehuda Tel Aviv
+         Ironi Kiryat Shmona      0-3 (0-1)  Hapoel Hadera
+
+
+Matchday 6
+[Sat Jun/27]
+  19.45  Hapoel Hadera            2-2 (2-1)  Hapoel Ra'anana
+[Sun Jun/28]
+  21.00  Hapoel Kfar Saba         0-1 (0-1)  Sektzia Nes Tziona
+         Bnei Yehuda Tel Aviv     2-0 (0-0)  Ironi Kiryat Shmona
+         Maccabi Netanya          2-5 (1-3)  FC Ashdod
+
+
+Matchday 7
+[Wed Jul/1]
+  20.15  Hapoel Ra'anana          0-4 (0-2)  Bnei Yehuda Tel Aviv
+[Thu Jul/2]
+  20.15  Maccabi Netanya          0-1 (0-1)  Hapoel Kfar Saba
+         FC Ashdod                3-1 (2-0)  Hapoel Hadera
+         Ironi Kiryat Shmona      1-0 (0-0)  Sektzia Nes Tziona

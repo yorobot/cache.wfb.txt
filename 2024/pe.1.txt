@@ -1,0 +1,545 @@
+= PE 1 2024
+
+# Date       Fri Jan/26 - Wed Oct/30 2024 (278d)
+# Teams      18
+# Matches    306
+# Stages     Apertura (153)  Clausura (153)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jan/26]
+  15.00  Universidad Técnica      1-0 (1-0)  Deportivo Garcilaso
+  19.00  FBC Melgar               2-3 (1-2)  Cusco FC
+[Sat Jan/27]
+  15.00  Sporting Cristal         6-2 (1-1)  AD Tarma
+  17.30  Sport Huancayo           1-0 (0-0)  Sport Boys
+  20.00  Cienciano                1-0 (1-0)  Comerciantes Unidos
+[Sun Jan/28]
+  14.30  Atlético Grau            1-1 (1-0)  Alianza Atlético
+  17.00  Mannucci                 0-4 (0-2)  Universitario de Deportes
+  20.00  Alianza Lima             2-1 (1-1)  Universidad Cesar Vallejo
+[Mon Jan/29]
+  15.00  Los Chankas              2-1 (1-0)  Unión Comercio
+
+
+Matchday 2
+[Fri Feb/2]
+  15.00  Cusco FC                 1-1 (0-0)  Universidad Técnica
+  20.00  Universidad Cesar Vallejo  3-2 (2-1)  FBC Melgar
+[Sat Feb/3]
+  15.00  AD Tarma                 1-1 (0-1)  Cienciano
+  15.30  Unión Comercio           2-2 (0-0)  Mannucci
+  20.00  Universitario de Deportes  1-0 (0-0)  Atlético Grau
+[Sun Feb/4]
+  14.00  Alianza Atlético         0-2 (0-1)  Alianza Lima
+  16.00  Sport Boys               1-3 (0-3)  Sporting Cristal
+  19.00  Deportivo Garcilaso      0-2 (0-0)  Sport Huancayo
+[Mon Feb/5]
+  15.00  Comerciantes Unidos      3-2 (0-2)  Los Chankas
+
+
+Matchday 3
+[Fri Feb/9]
+  15.00  Universidad Técnica      4-0 (1-0)  Universidad Cesar Vallejo
+  19.00  Cienciano                2-2 (2-1)  Sporting Cristal
+[Sat Feb/10]
+  15.00  FBC Melgar               1-0 (0-0)  Alianza Atlético
+  15.30  Mannucci                 1-3 (1-2)  Comerciantes Unidos
+  20.00  Alianza Lima             0-1 (0-1)  Universitario de Deportes
+[Sun Feb/11]
+  15.00  Los Chankas              2-0 (0-0)  AD Tarma
+  16.00  Sport Boys               2-0 (1-0)  Deportivo Garcilaso
+  18.00  Sport Huancayo           2-0 (1-0)  Cusco FC
+[Mon Feb/12]
+  14.30  Atlético Grau            1-0 (0-0)  Unión Comercio
+
+
+Matchday 4
+[Thu Feb/15]
+  20.00  Sporting Cristal         4-1 (3-0)  Los Chankas
+[Fri Feb/16]
+  14.30  Alianza Atlético         2-0 (1-0)  Universidad Técnica
+[Sat Feb/17]
+  15.00  AD Tarma                 4-0 (0-0)  Mannucci
+  18.00  Cusco FC                 1-0 (0-0)  Deportivo Garcilaso
+  20.00  Universitario de Deportes  2-0 (0-0)  FBC Melgar
+[Sun Feb/18]
+  14.00  Unión Comercio           1-3 (0-2)  Alianza Lima
+  17.00  Cienciano                3-2 (0-1)  Sport Boys
+  19.30  Universidad Cesar Vallejo  1-1 (1-0)  Sport Huancayo
+[Mon Feb/19]
+  15.00  Comerciantes Unidos      2-2 (1-0)  Atlético Grau
+
+
+Matchday 5
+[Fri Feb/23]
+  15.00  Sport Huancayo           4-0 (3-0)  Alianza Atlético
+[Sat Feb/24]
+  15.00  Universidad Técnica      0-0  Universitario de Deportes
+         Sport Boys               3-0 (2-0)  Cusco FC
+  17.30  FBC Melgar               2-1 (1-1)  Unión Comercio
+  18.15  Mannucci                 0-4 (0-2)  Sporting Cristal
+[Sun Feb/25]
+  13.45  Atlético Grau            2-2 (0-2)  AD Tarma
+  16.00  Alianza Lima             5-1 (3-1)  Comerciantes Unidos
+  19.00  Deportivo Garcilaso      2-0 (0-0)  Universidad Cesar Vallejo
+[Mon Feb/26]
+  15.00  Los Chankas              1-2 (1-0)  Cienciano
+
+
+Matchday 6
+[Thu Feb/29]
+  14.15  Alianza Atlético         3-0 (0-0)  Deportivo Garcilaso
+[Fri Mar/1]
+  15.00  AD Tarma                 2-0 (0-0)  Alianza Lima
+  20.30  Universitario de Deportes  2-0 (1-0)  Sport Huancayo
+[Sat Mar/2]
+  13.15  Sporting Cristal         1-0 (0-0)  Atlético Grau
+  15.45  Comerciantes Unidos      0-0  FBC Melgar
+  19.00  Universidad Cesar Vallejo  2-2 (1-2)  Cusco FC
+[Sun Mar/3]
+  15.00  Los Chankas              2-0 (1-0)  Sport Boys
+  19.00  Cienciano                2-2 (1-0)  Mannucci
+[Mon Mar/4]
+  14.00  Unión Comercio           2-0 (0-0)  Universidad Técnica
+
+
+Matchday 7
+[Thu Mar/7]
+  15.00  Cusco FC                 2-0 (2-0)  Alianza Atlético
+[Fri Mar/8]
+  15.00  Universidad Técnica      2-3 (2-2)  Comerciantes Unidos
+  20.00  Deportivo Garcilaso      2-2 (1-1)  Universitario de Deportes
+[Sat Mar/9]
+  13.15  Atlético Grau            1-1 (0-0)  Cienciano
+  15.30  FBC Melgar               3-1 (1-0)  AD Tarma
+  16.00  Mannucci                 2-1 (0-1)  Los Chankas
+  20.00  Alianza Lima             1-2 (1-0)  Sporting Cristal
+[Sun Mar/10]
+  15.00  Sport Huancayo           2-2 (0-1)  Unión Comercio
+         Sport Boys               2-0 (2-0)  Universidad Cesar Vallejo
+
+
+Matchday 8
+[Tue Mar/12]
+  20.30  Universitario de Deportes  1-0 (1-0)  Cusco FC
+[Wed Mar/13]
+  18.30  Cienciano                2-1 (1-0)  Alianza Lima
+  21.00  Sporting Cristal         1-2 (0-2)  FBC Melgar
+[Thu Mar/14]
+  13.30  Alianza Atlético         1-1 (0-0)  Universidad Cesar Vallejo
+  15.45  Comerciantes Unidos      3-2 (1-1)  Sport Huancayo
+  19.00  Mannucci                 1-0 (0-0)  Sport Boys
+[Fri Mar/15]
+  13.15  Unión Comercio           0-4 (0-2)  Deportivo Garcilaso
+  15.30  Los Chankas              0-1 (0-1)  Atlético Grau
+[Sat Mar/16]
+  15.00  AD Tarma                 2-1 (1-0)  Universidad Técnica
+
+
+Matchday 9
+[Thu Mar/28]
+  15.00  Deportivo Garcilaso      1-2 (0-1)  Comerciantes Unidos
+  20.00  Alianza Lima             3-0 (2-0)  Los Chankas
+[Fri Mar/29]
+  19.00  Cusco FC                 1-0 (0-0)  Unión Comercio
+[Sat Mar/30]
+  14.15  Atlético Grau            3-0 (0-0)  Mannucci
+  16.45  FBC Melgar               2-0 (2-0)  Cienciano
+  20.00  Universidad Cesar Vallejo  0-0  Universitario de Deportes
+[Sun Mar/31]
+  13.00  Sport Huancayo           0-2 (0-0)  AD Tarma
+  15.00  Sport Boys               0-0  Alianza Atlético
+  15.30  Universidad Técnica      1-2 (0-2)  Sporting Cristal
+
+
+Matchday 10
+[Fri Apr/5]
+  14.30  Atlético Grau            0-0  Sport Boys
+  20.30  Universitario de Deportes  1-0 (0-0)  Alianza Atlético
+[Sat Apr/6]
+  13.00  Los Chankas              2-2 (0-1)  FBC Melgar
+  15.30  Unión Comercio           2-2 (1-1)  Universidad Cesar Vallejo
+  17.30  Mannucci                 0-4 (0-0)  Alianza Lima
+  19.30  Cienciano                1-1 (1-1)  Universidad Técnica
+[Sun Apr/7]
+  13.00  AD Tarma                 2-2 (0-2)  Deportivo Garcilaso
+  15.30  Sporting Cristal         4-0 (0-0)  Sport Huancayo
+[Mon Apr/8]
+  15.00  Comerciantes Unidos      0-1 (0-1)  Cusco FC
+
+
+Matchday 11
+[Fri Apr/12]
+  15.00  Sport Huancayo           1-2 (1-0)  Cienciano
+[Sat Apr/13]
+  14.30  Alianza Atlético         2-0 (2-0)  Unión Comercio
+  17.00  FBC Melgar               2-0 (0-0)  Mannucci
+  20.00  Sport Boys               1-2 (0-0)  Universitario de Deportes
+[Sun Apr/14]
+  13.00  Universidad Cesar Vallejo  3-1 (2-1)  Comerciantes Unidos
+  17.00  Cusco FC                 3-2 (2-2)  AD Tarma
+  19.30  Alianza Lima             2-0 (0-0)  Atlético Grau
+[Mon Apr/15]
+  15.00  Universidad Técnica      2-0 (1-0)  Los Chankas
+  19.30  Deportivo Garcilaso      2-3 (1-3)  Sporting Cristal
+
+
+Matchday 12
+[Thu Apr/18]
+  20.00  Alianza Lima             3-0 (1-0)  Sport Boys
+[Fri Apr/19]
+  15.00  Unión Comercio           1-2 (0-1)  Universitario de Deportes
+  20.00  Cienciano                0-2 (0-0)  Deportivo Garcilaso
+[Sat Apr/20]
+  13.00  Los Chankas              6-0 (2-0)  Sport Huancayo
+  15.30  Mannucci                 2-0 (1-0)  Universidad Técnica
+         AD Tarma                 1-0 (1-0)  Universidad Cesar Vallejo
+[Sun Apr/21]
+  11.00  Sporting Cristal         2-0 (1-0)  Cusco FC
+  14.30  Atlético Grau            1-2 (0-1)  FBC Melgar
+[Tue Apr/23]
+  15.00  Comerciantes Unidos      0-0  Alianza Atlético
+
+
+Matchday 13
+[Fri Apr/26]
+  15.00  Sport Huancayo           1-0 (1-0)  Mannucci
+[Sat Apr/27]
+  13.00  Sport Boys               0-0  Unión Comercio
+  15.00  Universidad Técnica      3-2 (1-0)  Atlético Grau
+  17.30  Cusco FC                 2-0 (1-0)  Cienciano
+[Sun Apr/28]
+  14.30  Alianza Atlético         1-2 (0-1)  AD Tarma
+  17.30  FBC Melgar               1-0 (0-0)  Alianza Lima
+  20.00  Universitario de Deportes  6-0 (4-0)  Comerciantes Unidos
+         Deportivo Garcilaso      1-1 (0-1)  Los Chankas
+[Mon Apr/29]
+  20.00  Universidad Cesar Vallejo  2-1 (2-1)  Sporting Cristal
+
+
+Matchday 14
+[Fri May/3]
+  15.00  AD Tarma                 2-0 (1-0)  Universitario de Deportes
+  18.00  Cienciano                1-1 (1-1)  Universidad Cesar Vallejo
+  20.30  Alianza Lima             1-0 (0-0)  Universidad Técnica
+[Sat May/4]
+  13.00  Los Chankas              2-0 (2-0)  Cusco FC
+  15.30  Comerciantes Unidos      3-1 (1-0)  Unión Comercio
+         Mannucci                 1-1 (1-0)  Deportivo Garcilaso
+[Sun May/5]
+  11.00  Sporting Cristal         2-1 (2-1)  Alianza Atlético
+  15.00  FBC Melgar               2-1 (1-0)  Sport Boys
+[Mon May/6]
+  14.30  Atlético Grau            0-0  Sport Huancayo
+
+
+Matchday 15
+[Fri May/10]
+  14.30  Unión Comercio           2-2 (1-0)  AD Tarma
+[Sat May/11]
+  15.00  Sport Boys               1-1 (1-0)  Comerciantes Unidos
+  15.30  Cusco FC                 3-0 (1-0)  Mannucci
+  18.30  Sport Huancayo           0-2 (0-0)  Alianza Lima
+  21.00  Universidad Cesar Vallejo  1-1 (1-1)  Los Chankas
+[Sun May/12]
+  13.00  Universidad Técnica      2-6 (0-2)  FBC Melgar
+  15.00  Deportivo Garcilaso      0-0  Atlético Grau
+  18.30  Universitario de Deportes  4-1 (1-1)  Sporting Cristal
+[Mon May/13]
+  14.30  Alianza Atlético         0-1 (0-0)  Cienciano
+
+
+Matchday 16
+[Fri May/17]
+  14.30  Atlético Grau            4-0 (3-0)  Cusco FC
+[Sat May/18]
+  15.00  Sporting Cristal         5-1 (4-1)  Unión Comercio
+  18.00  FBC Melgar               4-1 (2-0)  Sport Huancayo
+[Sun May/19]
+  13.00  AD Tarma                 2-0 (1-0)  Comerciantes Unidos
+  15.30  Los Chankas              2-0 (0-0)  Alianza Atlético
+  18.00  Mannucci                 0-0  Universidad Cesar Vallejo
+  20.00  Alianza Lima             3-2 (1-2)  Deportivo Garcilaso
+[Mon May/20]
+  15.00  Universidad Técnica      2-4 (0-2)  Sport Boys
+  20.00  Cienciano                0-0  Universitario de Deportes
+
+
+Matchday 17
+[Fri May/24]
+  18.00  Cusco FC                 3-0 (1-0)  Alianza Lima
+  20.30  Universidad Cesar Vallejo  2-1 (0-1)  Atlético Grau
+[Sat May/25]
+  11.00  Sport Huancayo           1-1 (0-0)  Universidad Técnica
+  15.00  Deportivo Garcilaso      1-3 (0-0)  FBC Melgar
+         Comerciantes Unidos      0-1 (0-1)  Sporting Cristal
+         Universitario de Deportes  4-0 (2-0)  Los Chankas
+[Sun May/26]
+  14.30  Alianza Atlético         0-0  Mannucci
+  15.00  Sport Boys               1-0 (0-0)  AD Tarma
+[Mon May/27]
+  14.30  Unión Comercio           1-1 (1-0)  Cienciano
+
+
+== Clausura
+
+Matchday 1
+[Fri Jul/12]
+  13.00  Unión Comercio           1-2 (1-1)  Los Chankas
+  15.15  AD Tarma                 3-1 (1-1)  Sporting Cristal
+  19.00  Deportivo Garcilaso      1-0 (0-0)  Universidad Técnica
+[Sat Jul/13]
+  13.00  Comerciantes Unidos      1-2 (1-2)  Cienciano
+  15.30  Universidad Cesar Vallejo  2-3 (2-1)  Alianza Lima
+  18.00  Universitario de Deportes  6-0 (2-0)  Mannucci
+[Sun Jul/14]
+  13.00  Alianza Atlético         0-0  Atlético Grau
+  15.00  Sport Boys               2-1 (0-0)  Sport Huancayo
+  15.15  Cusco FC                 0-3 (0-2)  FBC Melgar
+
+
+Matchday 2
+[Fri Jul/19]
+  13.00  Universidad Técnica      2-1 (1-0)  Cusco FC
+  15.15  Sport Huancayo           1-0 (0-0)  Deportivo Garcilaso
+[Sat Jul/20]
+  13.00  Los Chankas              2-0 (0-0)  Comerciantes Unidos
+  15.15  FBC Melgar               5-2 (2-1)  Universidad Cesar Vallejo
+  19.00  Alianza Lima             2-0 (1-0)  Alianza Atlético
+[Sun Jul/21]
+  13.00  Atlético Grau            1-1 (1-1)  Universitario de Deportes
+  15.00  Mannucci                 0-0  Unión Comercio
+  15.15  Sporting Cristal         4-0 (1-0)  Sport Boys
+  18.00  Cienciano                0-1 (0-0)  AD Tarma
+
+
+Matchday 3
+[Thu Jul/25]
+  13.00  Alianza Atlético         3-1 (1-0)  FBC Melgar
+  15.15  Cusco FC                 3-0 (1-0)  Sport Huancayo
+  19.00  Universidad Cesar Vallejo  2-0 (0-0)  Universidad Técnica
+[Fri Jul/26]
+  15.00  Comerciantes Unidos      2-1 (2-0)  Mannucci
+  18.00  Deportivo Garcilaso      2-0 (2-0)  Sport Boys
+  20.30  Universitario de Deportes  2-1 (0-0)  Alianza Lima
+[Sat Jul/27]
+  13.00  Sporting Cristal         5-1 (1-1)  Cienciano
+  15.15  AD Tarma                 2-1 (1-0)  Los Chankas
+[Sun Sep/1]
+  13.00  Unión Comercio           1-2 (1-0)  Atlético Grau
+
+
+Matchday 4
+[Mon Jul/29]
+  15.00  Deportivo Garcilaso      0-2 (0-0)  Cusco FC
+[Tue Jul/30]
+  15.00  Sport Huancayo           1-0 (0-0)  Universidad Cesar Vallejo
+         Sport Boys               2-0 (1-0)  Cienciano
+  19.30  Alianza Lima             1-0 (0-0)  Unión Comercio
+[Wed Jul/31]
+  13.00  Atlético Grau            3-0 (1-0)  Comerciantes Unidos
+  15.15  Los Chankas              3-3 (1-1)  Sporting Cristal
+  19.30  Mannucci                 3-2 (2-1)  AD Tarma
+  20.00  FBC Melgar               1-0 (0-0)  Universitario de Deportes
+[Thu Aug/1]
+  15.00  Universidad Técnica      1-1 (1-0)  Alianza Atlético
+
+
+Matchday 5
+[Sat Aug/3]
+  15.00  Comerciantes Unidos      1-3 (1-1)  Alianza Lima
+  18.00  Cienciano                0-0  Los Chankas
+  20.30  Universidad Cesar Vallejo  0-2 (0-0)  Deportivo Garcilaso
+[Sun Aug/4]
+  11.00  Sporting Cristal         4-0 (2-0)  Mannucci
+  13.10  Unión Comercio           2-1 (1-1)  FBC Melgar
+  15.20  AD Tarma                 1-2 (1-1)  Atlético Grau
+  20.00  Universitario de Deportes  1-0 (0-0)  Universidad Técnica
+[Mon Aug/5]
+  12.30  Alianza Atlético         1-1 (1-0)  Sport Huancayo
+  18.00  Cusco FC                 3-1 (2-1)  Sport Boys
+
+
+Matchday 6
+[Fri Aug/9]
+  15.00  Universidad Técnica      3-1 (1-0)  Unión Comercio
+[Sat Aug/10]
+  15.00  Deportivo Garcilaso      0-1 (0-0)  Alianza Atlético
+         Sport Boys               2-1 (2-0)  Los Chankas
+  20.15  Alianza Lima             0-0  AD Tarma
+[Sun Aug/11]
+  13.00  Atlético Grau            1-1 (1-0)  Sporting Cristal
+  15.00  Mannucci                 1-2 (1-2)  Cienciano
+  15.15  Sport Huancayo           1-1 (0-0)  Universitario de Deportes
+  18.00  Cusco FC                 2-1 (1-1)  Universidad Cesar Vallejo
+[Sat Sep/7]
+  15.15  FBC Melgar               3-0 (2-0)  Comerciantes Unidos
+
+
+Matchday 7
+[Thu Aug/15]
+  13.00  Alianza Atlético         1-1 (1-0)  Cusco FC
+  15.15  Comerciantes Unidos      1-1 (1-0)  Universidad Técnica
+[Fri Aug/16]
+  13.00  AD Tarma                 1-1 (1-1)  FBC Melgar
+  15.15  Universidad Cesar Vallejo  2-2 (0-1)  Sport Boys
+  20.30  Universitario de Deportes  3-1 (0-1)  Deportivo Garcilaso
+[Sat Aug/17]
+  13.00  Unión Comercio           0-1 (0-0)  Sport Huancayo
+  15.15  Cienciano                1-0 (0-0)  Atlético Grau
+  20.00  Sporting Cristal         0-0  Alianza Lima
+[Sun Aug/18]
+  15.00  Los Chankas              1-1 (1-1)  Mannucci
+
+
+Matchday 8
+[Mon Aug/19]
+  15.30  Universidad Cesar Vallejo  0-0  Alianza Atlético
+[Tue Aug/20]
+  13.00  Universidad Técnica      1-1 (0-1)  AD Tarma
+  15.15  Sport Huancayo           2-2 (2-0)  Comerciantes Unidos
+  17.30  Cusco FC                 1-1 (0-1)  Universitario de Deportes
+  20.30  Alianza Lima             3-0 (1-0)  Cienciano
+[Wed Aug/21]
+  13.00  Atlético Grau            1-1 (0-1)  Los Chankas
+         Sport Boys               2-6 (0-3)  Mannucci
+  15.15  Deportivo Garcilaso      3-1 (2-1)  Unión Comercio
+  19.30  FBC Melgar               2-0 (1-0)  Sporting Cristal
+
+
+Matchday 9
+[Sat Aug/24]
+  12.50  Alianza Atlético         2-0 (1-0)  Sport Boys
+  15.20  Los Chankas              0-1 (0-0)  Alianza Lima
+  20.30  Universitario de Deportes  1-0 (1-0)  Universidad Cesar Vallejo
+[Sun Aug/25]
+  11.00  Sporting Cristal         4-0 (1-0)  Universidad Técnica
+  13.15  AD Tarma                 2-1 (2-0)  Sport Huancayo
+  15.30  Comerciantes Unidos      2-1 (1-0)  Deportivo Garcilaso
+  20.00  Cienciano                3-1 (1-1)  FBC Melgar
+[Mon Aug/26]
+  13.00  Unión Comercio           3-3 (2-2)  Cusco FC
+  20.00  Mannucci                 1-1 (1-0)  Atlético Grau
+
+
+Matchday 10
+[Fri Sep/13]
+  13.00  Universidad Técnica      1-2 (0-0)  Cienciano
+  15.15  Deportivo Garcilaso      1-0 (1-0)  AD Tarma
+  18.00  Universidad Cesar Vallejo  1-0 (1-0)  Unión Comercio
+[Sat Sep/14]
+  13.00  Cusco FC                 2-1 (2-1)  Comerciantes Unidos
+  15.00  Sport Boys               0-0  Atlético Grau
+  15.15  Sport Huancayo           1-2 (1-0)  Sporting Cristal
+  19.00  Alianza Lima             1-0 (1-0)  Mannucci
+[Sun Sep/15]
+  13.00  Alianza Atlético         0-3 (0-2)  Universitario de Deportes
+  15.15  FBC Melgar               2-0 (1-0)  Los Chankas
+
+
+Matchday 11
+[Tue Sep/17]
+  13.00  Sporting Cristal         1-0 (0-0)  Deportivo Garcilaso
+  15.15  AD Tarma                 1-2 (1-0)  Cusco FC
+[Wed Sep/18]
+  13.00  Atlético Grau            1-0 (0-0)  Alianza Lima
+  15.30  Comerciantes Unidos      2-0 (1-0)  Universidad Cesar Vallejo
+  18.00  Cienciano                3-1 (2-0)  Sport Huancayo
+  20.30  Universitario de Deportes  3-0 (2-0)  Sport Boys
+[Thu Sep/19]
+  13.00  Unión Comercio           1-2 (0-2)  Alianza Atlético
+  15.15  Los Chankas              1-1 (0-0)  Universidad Técnica
+  20.00  Mannucci                 1-1 (0-0)  FBC Melgar
+
+
+Matchday 12
+[Sat Sep/21]
+  18.30  Deportivo Garcilaso      1-0 (1-0)  Cienciano
+  20.30  Sport Boys               0-3 (0-2)  Alianza Lima
+[Sun Sep/22]
+  15.00  Cusco FC                 1-1 (1-1)  Sporting Cristal
+  17.30  Universitario de Deportes  1-0 (0-0)  Unión Comercio
+  20.00  Universidad Cesar Vallejo  0-0  AD Tarma
+[Mon Sep/23]
+  13.00  Alianza Atlético         1-0 (1-0)  Comerciantes Unidos
+  17.30  Sport Huancayo           3-1 (1-1)  Los Chankas
+  20.00  FBC Melgar               0-0  Atlético Grau
+[Tue Sep/24]
+  15.00  Universidad Técnica      2-0 (1-0)  Mannucci
+
+
+Matchday 13
+[Fri Sep/27]
+  13.00  Unión Comercio           0-2 (0-0)  Sport Boys
+[Sat Sep/28]
+  15.00  AD Tarma                 0-1 (0-0)  Alianza Atlético
+  17.30  Cienciano                1-2 (1-2)  Cusco FC
+  20.30  Alianza Lima             1-1 (0-1)  FBC Melgar
+[Sun Sep/29]
+  11.00  Sporting Cristal         4-1 (2-1)  Universidad Cesar Vallejo
+  13.15  Los Chankas              1-0 (1-0)  Deportivo Garcilaso
+  15.00  Mannucci                 1-2 (1-1)  Sport Huancayo
+  15.30  Comerciantes Unidos      0-2 (0-1)  Universitario de Deportes
+[Mon Sep/30]
+  13.00  Atlético Grau            4-0 (1-0)  Universidad Técnica
+
+
+Matchday 14
+[Thu Oct/17]
+  13.00  Unión Comercio           -  Comerciantes Unidos
+  15.15  Cusco FC                 -  Los Chankas
+  18.00  Sport Huancayo           -  Atlético Grau
+[Fri Oct/18]
+  13.00  Sport Boys               -  FBC Melgar
+  15.00  Universidad Técnica      -  Alianza Lima
+  17.30  Universidad Cesar Vallejo  -  Cienciano
+  20.00  Deportivo Garcilaso      -  Mannucci
+[Sat Oct/19]
+  13.00  Alianza Atlético         -  Sporting Cristal
+  19.30  Universitario de Deportes  -  AD Tarma
+
+
+Matchday 15
+[Tue Oct/22]
+  13.00  Atlético Grau            -  Deportivo Garcilaso
+  15.15  Los Chankas              -  Universidad Cesar Vallejo
+  18.00  FBC Melgar               -  Universidad Técnica
+  21.00  Alianza Lima             -  Sport Huancayo
+[Wed Oct/23]
+  15.15  AD Tarma                 -  Unión Comercio
+  17.30  Cienciano                -  Alianza Atlético
+  20.00  Mannucci                 -  Cusco FC
+  20.30  Sporting Cristal         -  Universitario de Deportes
+[Thu Oct/24]
+  15.00  Comerciantes Unidos      -  Sport Boys
+
+
+Matchday 16
+[Sat Oct/26]
+  18.00  Deportivo Garcilaso      -  Alianza Lima
+  19.30  Universidad Cesar Vallejo  -  Mannucci
+[Sun Oct/27]
+  13.00  Unión Comercio           -  Sporting Cristal
+         Sport Boys               -  Universidad Técnica
+  15.15  Sport Huancayo           -  FBC Melgar
+  18.00  Universitario de Deportes  -  Cienciano
+[Mon Oct/28]
+  13.00  Alianza Atlético         -  Los Chankas
+  15.30  Comerciantes Unidos      -  AD Tarma
+  18.30  Cusco FC                 -  Atlético Grau
+
+
+Matchday 17
+[Wed Oct/30]
+         Cienciano                -  Unión Comercio
+         FBC Melgar               -  Deportivo Garcilaso
+         Universidad Técnica      -  Sport Huancayo
+         Sporting Cristal         -  Comerciantes Unidos
+         Alianza Lima             -  Cusco FC
+         Atlético Grau            -  Universidad Cesar Vallejo
+         Mannucci                 -  Alianza Atlético
+         Los Chankas              -  Universitario de Deportes
+         AD Tarma                 -  Sport Boys

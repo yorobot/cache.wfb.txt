@@ -1,0 +1,603 @@
+= IT 3 B 2019/20
+
+# Date       Sat Aug/24 2019 - Tue Jun/30 2020 (311d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Aug/24]
+  20.45  Reggio Audace FC         4-1 (2-0)  Feralpisalò
+[Sun Aug/25]
+  15.00  Arzignano Valchiampo     0-0  Piacenza Calcio
+         Carpi FC                 4-1 (1-1)  Cesena FC
+         Vis Pesaro               1-2 (0-2)  FC Südtirol
+  16.30  US Triestina             2-1 (1-1)  AS Gubbio
+  17.30  Alma Juventus Fano       1-3 (1-1)  Sambenedettese
+         Fermana FC               2-1 (2-0)  Ravenna Calcio
+         Modena FC                0-0  L.R. Vicenza Virtus
+         AC Rimini                2-1 (2-0)  Imolese Calcio
+         Virtus Verona            1-3 (0-1)  Calcio Padova
+
+
+Matchday 2
+[Sat Aug/31]
+  20.45  Piacenza Calcio          2-1 (0-0)  Modena FC
+[Sun Sep/1]
+  15.00  Feralpisalò              2-2 (1-1)  AC Rimini
+         AS Gubbio                2-2 (0-1)  Virtus Verona
+         Calcio Padova            6-1 (0-0)  Alma Juventus Fano
+         FC Südtirol              2-3 (0-1)  Carpi FC
+  17.30  Imolese Calcio           0-0  Arzignano Valchiampo
+         L.R. Vicenza Virtus      3-1 (1-1)  Fermana FC
+         Ravenna Calcio           1-2 (0-0)  Reggio Audace FC
+         Sambenedettese           0-0  US Triestina
+[Mon Sep/2]
+  20.45  Cesena FC                1-2 (1-0)  Vis Pesaro
+
+
+Matchday 3
+[Sat Sep/7]
+  20.45  Carpi FC                 1-1 (0-0)  L.R. Vicenza Virtus
+[Sun Sep/8]
+  15.00  Arzignano Valchiampo     1-1 (1-0)  AS Gubbio
+         Fermana FC               0-1 (0-1)  Feralpisalò
+         Virtus Verona            0-2 (0-0)  Cesena FC
+  17.30  Alma Juventus Fano       1-1 (0-1)  Ravenna Calcio
+         Reggio Audace FC         2-2 (0-1)  Imolese Calcio
+         AC Rimini                1-1 (0-0)  FC Südtirol
+         US Triestina             1-3 (1-0)  Piacenza Calcio
+         Vis Pesaro               2-1 (1-1)  Sambenedettese
+[Mon Sep/9]
+  20.45  Modena FC                0-1 (0-1)  Calcio Padova
+
+
+Matchday 4
+[Sat Sep/14]
+  20.45  AS Gubbio                1-1 (1-0)  Alma Juventus Fano
+[Sun Sep/15]
+  15.00  Imolese Calcio           0-1 (0-1)  Modena FC
+         Piacenza Calcio          0-1 (0-0)  Fermana FC
+         Sambenedettese           2-1 (0-1)  Arzignano Valchiampo
+         FC Südtirol              0-3 (0-1)  Reggio Audace FC
+  17.30  Cesena FC                3-2 (1-0)  US Triestina
+         Feralpisalò              2-1 (1-0)  Virtus Verona
+         L.R. Vicenza Virtus      2-0 (0-0)  AC Rimini
+         Calcio Padova            0-0  Carpi FC
+         Ravenna Calcio           2-1 (0-0)  Vis Pesaro
+
+
+Matchday 5
+[Sat Sep/21]
+  17.30  Carpi FC                 2-1 (2-1)  AC Rimini
+  18.30  Ravenna Calcio           1-0 (0-0)  Imolese Calcio
+  20.45  Cesena FC                1-1 (0-1)  Piacenza Calcio
+         Modena FC                1-1 (1-1)  Feralpisalò
+  15.00  Arzignano Valchiampo     0-1 (0-0)  FC Südtirol
+[Sun Sep/22]
+  15.00  Fermana FC               1-1 (1-1)  Sambenedettese
+         AS Gubbio                0-3 (0-2)  L.R. Vicenza Virtus
+         Virtus Verona            3-2 (3-1)  US Triestina
+         Vis Pesaro               0-2 (0-1)  Calcio Padova
+  17.30  Alma Juventus Fano       0-0  Reggio Audace FC
+
+
+Matchday 6
+[Wed Sep/25]
+  18.30  Feralpisalò              1-3 (0-2)  Alma Juventus Fano
+         L.R. Vicenza Virtus      0-0  Vis Pesaro
+         AC Rimini                1-1 (1-1)  AS Gubbio
+         Sambenedettese           1-1 (1-1)  Modena FC
+         FC Südtirol              3-0 (2-0)  Fermana FC
+  20.45  Imolese Calcio           1-3 (1-2)  Virtus Verona
+         Calcio Padova            1-0 (1-0)  Cesena FC
+         Piacenza Calcio          3-1 (1-0)  Ravenna Calcio
+         Reggio Audace FC         2-0 (1-0)  Carpi FC
+         US Triestina             3-0 (2-0)  Arzignano Valchiampo
+
+
+Matchday 7
+[Sat Sep/28]
+  20.45  Piacenza Calcio          2-1 (2-1)  Carpi FC
+[Sun Sep/29]
+  15.00  Alma Juventus Fano       0-2 (0-0)  FC Südtirol
+         Fermana FC               1-2 (0-0)  Calcio Padova
+         AS Gubbio                0-0  Feralpisalò
+         Ravenna Calcio           0-2 (0-1)  Sambenedettese
+         Vis Pesaro               1-2 (1-1)  US Triestina
+  17.30  Arzignano Valchiampo     0-0  Reggio Audace FC
+         Cesena FC                1-0 (1-0)  Imolese Calcio
+         Modena FC                4-2 (2-1)  AC Rimini
+         Virtus Verona            1-2 (1-1)  L.R. Vicenza Virtus
+
+
+Matchday 8
+[Sat Oct/5]
+  20.45  Vis Pesaro               1-1 (0-1)  Fermana FC
+[Sun Oct/6]
+  15.00  Reggio Audace FC         1-1 (0-1)  AS Gubbio
+         Sambenedettese           4-2 (1-1)  Piacenza Calcio
+         FC Südtirol              4-3 (2-2)  Modena FC
+         US Triestina             0-1 (0-0)  Ravenna Calcio
+  17.30  Carpi FC                 1-0 (1-0)  Feralpisalò
+         Imolese Calcio           0-1 (0-0)  Alma Juventus Fano
+         Calcio Padova            2-0 (1-0)  Arzignano Valchiampo
+         AC Rimini                1-2 (0-0)  Virtus Verona
+[Mon Oct/7]
+  20.45  L.R. Vicenza Virtus      2-1 (1-1)  Cesena FC
+
+
+Matchday 9
+[Sat Oct/12]
+  20.45  Calcio Padova            1-2 (0-0)  Ravenna Calcio
+[Sun Oct/13]
+  15.00  Cesena FC                1-3 (0-2)  Sambenedettese
+         Alma Juventus Fano       0-0  AC Rimini
+         Feralpisalò              1-0 (1-0)  FC Südtirol
+         AS Gubbio                1-2 (1-1)  Carpi FC
+         Reggio Audace FC         3-1 (1-1)  US Triestina
+         Virtus Verona            3-1 (2-0)  Vis Pesaro
+  17.30  Arzignano Valchiampo     1-1 (1-0)  Modena FC
+         Fermana FC               0-1 (0-0)  Imolese Calcio
+         Piacenza Calcio          2-1 (0-1)  L.R. Vicenza Virtus
+
+
+Matchday 10
+[Sat Oct/19]
+  18.30  Ravenna Calcio           1-2 (1-1)  Arzignano Valchiampo
+  20.45  Sambenedettese           1-2 (1-1)  Virtus Verona
+  15.00  FC Südtirol              3-0 (1-0)  AS Gubbio
+[Sun Oct/20]
+  15.00  Imolese Calcio           0-1 (0-0)  Feralpisalò
+         AC Rimini                1-1 (1-1)  Cesena FC
+         US Triestina             2-0 (1-0)  Calcio Padova
+  17.30  Carpi FC                 2-0 (0-0)  Alma Juventus Fano
+         L.R. Vicenza Virtus      1-0 (1-0)  Reggio Audace FC
+         Vis Pesaro               1-0 (0-0)  Piacenza Calcio
+[Mon Oct/21]
+  20.45  Modena FC                1-1 (0-0)  Fermana FC
+
+
+Matchday 11
+[Wed Oct/23]
+  18.30  AS Gubbio                1-1 (1-0)  Imolese Calcio
+         Virtus Verona            3-0 (2-0)  Ravenna Calcio
+  20.45  Arzignano Valchiampo     0-1 (0-1)  L.R. Vicenza Virtus
+         Feralpisalò              0-0  Piacenza Calcio
+         Calcio Padova            2-0 (0-0)  Sambenedettese
+         Reggio Audace FC         2-2 (2-2)  AC Rimini
+  18.30  Cesena FC                0-1 (0-0)  FC Südtirol
+[Thu Oct/24]
+  20.45  Carpi FC                 0-1 (0-0)  Modena FC
+         Alma Juventus Fano       0-2 (0-1)  Vis Pesaro
+         Fermana FC               0-3 (0-1)  US Triestina
+
+
+Matchday 12
+[Sat Oct/26]
+  20.45  Piacenza Calcio          1-1 (1-0)  Calcio Padova
+[Sun Oct/27]
+  15.00  Modena FC                0-1 (0-1)  Reggio Audace FC
+         Ravenna Calcio           1-1 (1-0)  Cesena FC
+         Sambenedettese           0-3 (0-1)  L.R. Vicenza Virtus
+         FC Südtirol              1-0 (1-0)  Virtus Verona
+  17.30  Arzignano Valchiampo     1-2 (0-1)  Feralpisalò
+         AC Rimini                0-1 (0-0)  Fermana FC
+         Vis Pesaro               0-1 (0-0)  AS Gubbio
+[Mon Oct/28]
+  20.45  US Triestina             1-0 (0-0)  Alma Juventus Fano
+         Imolese Calcio           2-1 (0-1)  Carpi FC
+
+
+Matchday 13
+[Sat Nov/2]
+  15.00  AC Rimini                1-0 (1-0)  Vis Pesaro
+[Sun Nov/3]
+  15.00  Alma Juventus Fano       0-2 (0-1)  Arzignano Valchiampo
+         AS Gubbio                1-0 (0-0)  Modena FC
+         Imolese Calcio           2-2 (1-1)  FC Südtirol
+         L.R. Vicenza Virtus      0-1 (0-0)  Calcio Padova
+  17.30  Carpi FC                 4-1 (2-0)  Ravenna Calcio
+         Fermana FC               3-3 (1-2)  Cesena FC
+         Reggio Audace FC         2-1 (0-0)  Sambenedettese
+         Virtus Verona            0-0  Piacenza Calcio
+[Mon Nov/4]
+  20.45  Feralpisalò              3-0 (1-0)  US Triestina
+
+
+Matchday 14
+[Sat Nov/9]
+  20.45  Cesena FC                0-0  Reggio Audace FC
+[Sun Nov/10]
+  15.00  Fermana FC               0-2 (0-1)  Virtus Verona
+         Piacenza Calcio          1-0 (0-0)  AS Gubbio
+         Sambenedettese           2-0 (0-0)  AC Rimini
+         US Triestina             0-3 (0-0)  L.R. Vicenza Virtus
+  17.30  Arzignano Valchiampo     0-1 (0-1)  Carpi FC
+         Modena FC                2-1 (1-1)  Alma Juventus Fano
+         Calcio Padova            0-1 (0-0)  FC Südtirol
+         Vis Pesaro               1-1 (0-1)  Imolese Calcio
+[Mon Nov/11]
+  20.00  Ravenna Calcio           1-2 (1-2)  Feralpisalò
+
+
+Matchday 15
+[Sat Nov/16]
+  20.45  Feralpisalò              1-0 (1-0)  Calcio Padova
+[Sun Nov/17]
+  15.00  Alma Juventus Fano       2-4 (1-1)  Piacenza Calcio
+         L.R. Vicenza Virtus      1-0 (0-0)  Ravenna Calcio
+         FC Südtirol              3-0 (3-0)  Sambenedettese
+  17.30  Carpi FC                 4-0 (2-0)  Fermana FC
+         AS Gubbio                0-2 (0-1)  Cesena FC
+         Modena FC                1-0 (0-0)  Virtus Verona
+         Reggio Audace FC         2-1 (0-1)  Vis Pesaro
+         AC Rimini                0-2 (0-0)  Arzignano Valchiampo
+
+
+Matchday 16
+[Sat Nov/23]
+  20.45  Virtus Verona            1-2 (0-1)  Carpi FC
+[Sun Nov/24]
+  17.30  Cesena FC                1-0 (1-0)  Modena FC
+  15.00  L.R. Vicenza Virtus      2-1 (0-1)  Alma Juventus Fano
+         Calcio Padova            1-0 (0-0)  AC Rimini
+         Sambenedettese           2-0 (1-0)  Feralpisalò
+         Vis Pesaro               2-1 (1-0)  Arzignano Valchiampo
+  17.30  US Triestina             1-0 (0-0)  FC Südtirol
+         Fermana FC               1-1 (0-1)  Reggio Audace FC
+         Piacenza Calcio          0-0  Imolese Calcio
+         Ravenna Calcio           3-3 (2-2)  AS Gubbio
+
+
+Matchday 17
+[Sat Nov/30]
+  20.45  Arzignano Valchiampo     1-1 (0-1)  Virtus Verona
+[Sun Dec/1]
+  17.30  Reggio Audace FC         2-2 (2-0)  Piacenza Calcio
+  15.00  Carpi FC                 1-0 (0-0)  US Triestina
+         AS Gubbio                0-0  Calcio Padova
+         Modena FC                3-1 (0-1)  Vis Pesaro
+         FC Südtirol              0-1 (0-0)  L.R. Vicenza Virtus
+  17.30  Alma Juventus Fano       0-1 (0-0)  Fermana FC
+         Feralpisalò              2-2 (0-1)  Cesena FC
+         Imolese Calcio           1-1 (0-0)  Sambenedettese
+[Mon Dec/2]
+  20.45  AC Rimini                1-2 (1-0)  Ravenna Calcio
+
+
+Matchday 15
+[Wed Dec/4]
+  17.00  Imolese Calcio           1-1 (1-1)  US Triestina
+
+
+Matchday 18
+[Sat Dec/7]
+  20.45  Cesena FC                0-4 (0-2)  Alma Juventus Fano
+[Sun Dec/8]
+  15.00  Calcio Padova            2-0 (0-0)  Imolese Calcio
+         Piacenza Calcio          3-0 (1-0)  AC Rimini
+         Ravenna Calcio           0-2 (0-2)  FC Südtirol
+  17.30  Fermana FC               1-1 (1-0)  Arzignano Valchiampo
+         L.R. Vicenza Virtus      3-1 (2-1)  Feralpisalò
+         US Triestina             0-1 (0-0)  Modena FC
+         Virtus Verona            1-4 (1-3)  Reggio Audace FC
+         Vis Pesaro               0-1 (0-1)  Carpi FC
+[Mon Dec/9]
+  20.45  Sambenedettese           2-0 (2-0)  AS Gubbio
+
+
+Matchday 19
+[Sat Dec/14]
+  15.15  Modena FC                2-0 (0-0)  Ravenna Calcio
+[Sun Dec/15]
+  15.15  Arzignano Valchiampo     0-1 (0-1)  Cesena FC
+         Feralpisalò              1-1 (1-0)  Vis Pesaro
+         AS Gubbio                0-1 (0-1)  Fermana FC
+         AC Rimini                0-1 (0-1)  US Triestina
+         FC Südtirol              0-2 (0-1)  Piacenza Calcio
+  17.45  Carpi FC                 1-0 (0-0)  Sambenedettese
+         Alma Juventus Fano       0-1 (0-1)  Virtus Verona
+         Imolese Calcio           0-3 (0-2)  L.R. Vicenza Virtus
+[Mon Dec/16]
+  21.00  Reggio Audace FC         1-0 (1-0)  Calcio Padova
+
+
+Matchday 21
+[Sat Jan/11]
+  19.30  US Triestina             1-2 (0-1)  Sambenedettese
+[Sun Jan/12]
+  15.00  AC Rimini                2-1 (1-1)  Feralpisalò
+         Reggio Audace FC         3-1 (1-0)  Ravenna Calcio
+         Modena FC                0-0  Piacenza Calcio
+         Alma Juventus Fano       2-1 (1-1)  Calcio Padova
+  17.30  Arzignano Valchiampo     0-1 (0-0)  Imolese Calcio
+         Carpi FC                 1-1 (1-0)  FC Südtirol
+         Vis Pesaro               1-0 (1-0)  Cesena FC
+         Fermana FC               0-0  L.R. Vicenza Virtus
+
+
+Matchday 22
+[Sat Jan/18]
+  16.00  Feralpisalò              1-0 (0-0)  Fermana FC
+  15.00  Cesena FC                3-3 (0-1)  Virtus Verona
+         Imolese Calcio           1-2 (1-1)  Reggio Audace FC
+         Sambenedettese           0-1 (0-0)  Vis Pesaro
+[Sun Jan/19]
+  15.00  FC Südtirol              4-1 (2-1)  AC Rimini
+         AS Gubbio                0-1 (0-0)  Arzignano Valchiampo
+         Calcio Padova            0-1 (0-0)  Modena FC
+  17.30  L.R. Vicenza Virtus      1-0 (0-0)  Carpi FC
+         Ravenna Calcio           1-1 (0-1)  Alma Juventus Fano
+[Mon Jan/20]
+  20.45  Piacenza Calcio          1-2 (0-1)  US Triestina
+
+
+Matchday 20
+[Wed Jan/22]
+  20.45  Sambenedettese           1-1 (0-0)  Alma Juventus Fano
+         Calcio Padova            3-2 (3-1)  Virtus Verona
+         L.R. Vicenza Virtus      1-0 (1-0)  Modena FC
+         Feralpisalò              1-1 (0-0)  Reggio Audace FC
+  18.30  Ravenna Calcio           1-0 (0-0)  Fermana FC
+         Cesena FC                0-1 (0-1)  Carpi FC
+  16.00  FC Südtirol              2-0 (1-0)  Vis Pesaro
+  18.30  Imolese Calcio           1-0 (1-0)  AC Rimini
+[Thu Jan/23]
+  20.45  Piacenza Calcio          0-0  Arzignano Valchiampo
+  18.00  AS Gubbio                2-0 (1-0)  US Triestina
+
+
+Matchday 23
+[Sat Jan/25]
+  20.45  Carpi FC                 1-1 (0-1)  Calcio Padova
+[Sun Jan/26]
+  15.00  US Triestina             4-1 (2-0)  Cesena FC
+         Arzignano Valchiampo     1-1 (1-0)  Sambenedettese
+         Fermana FC               1-1 (1-0)  Piacenza Calcio
+  17.30  Virtus Verona            1-2 (1-1)  Feralpisalò
+  15.00  Vis Pesaro               0-0  Ravenna Calcio
+  17.30  Alma Juventus Fano       0-2 (0-1)  AS Gubbio
+         Modena FC                2-2 (1-0)  Imolese Calcio
+         AC Rimini                1-3 (0-3)  L.R. Vicenza Virtus
+[Mon Jan/27]
+  20.45  Reggio Audace FC         1-0 (0-0)  FC Südtirol
+
+
+Matchday 21
+[Wed Jan/29]
+  16.00  Virtus Verona            0-1 (0-1)  AS Gubbio
+
+
+Matchday 24
+[Sat Feb/1]
+  20.45  Imolese Calcio           1-1 (0-1)  Ravenna Calcio
+[Sun Feb/2]
+  15.00  Calcio Padova            4-0 (1-0)  Vis Pesaro
+         AC Rimini                2-2 (2-0)  Carpi FC
+         FC Südtirol              5-0 (2-0)  Arzignano Valchiampo
+         US Triestina             0-0  Virtus Verona
+  17.30  Feralpisalò              2-1 (2-1)  Modena FC
+         L.R. Vicenza Virtus      0-0  AS Gubbio
+         Piacenza Calcio          1-1 (1-0)  Cesena FC
+         Reggio Audace FC         2-1 (1-0)  Alma Juventus Fano
+[Mon Feb/3]
+  20.45  Sambenedettese           0-1 (0-0)  Fermana FC
+
+
+Matchday 25
+[Sat Feb/8]
+  16.30  Alma Juventus Fano       1-2 (1-1)  Feralpisalò
+[Sun Feb/9]
+  15.00  Carpi FC                 5-1 (2-1)  Reggio Audace FC
+         Fermana FC               2-1 (1-1)  FC Südtirol
+         Modena FC                1-0 (0-0)  Sambenedettese
+         Vis Pesaro               1-1 (1-1)  L.R. Vicenza Virtus
+  17.30  Arzignano Valchiampo     2-2 (1-0)  US Triestina
+         Cesena FC                1-1 (0-0)  Calcio Padova
+         AS Gubbio                1-1 (0-1)  AC Rimini
+         Ravenna Calcio           0-1 (0-0)  Piacenza Calcio
+         Virtus Verona            0-0  Imolese Calcio
+
+
+Matchday 26
+[Sat Feb/15]
+  15.00  AC Rimini                2-0 (1-0)  Modena FC
+[Sun Feb/16]
+  15.00  Carpi FC                 3-0 (2-0)  Piacenza Calcio
+         Feralpisalò              3-3 (1-2)  AS Gubbio
+         Imolese Calcio           1-4 (0-2)  Cesena FC
+         Calcio Padova            0-1 (0-0)  Fermana FC
+         FC Südtirol              2-0 (1-0)  Alma Juventus Fano
+         US Triestina             4-0 (2-0)  Vis Pesaro
+  17.30  L.R. Vicenza Virtus      0-0  Virtus Verona
+         Sambenedettese           1-2 (1-1)  Ravenna Calcio
+[Mon Feb/17]
+  20.45  Reggio Audace FC         3-1 (1-0)  Arzignano Valchiampo
+
+
+Matchday 27
+[Sat Feb/22]
+  15.00  Modena FC                1-0 (1-0)  FC Südtirol
+         Virtus Verona            0-0  AC Rimini
+  18.30  Fermana FC               1-1 (1-0)  Vis Pesaro
+  20.45  Alma Juventus Fano       2-0 (0-0)  Imolese Calcio
+[Sun Feb/23]
+  15.00  AS Gubbio                0-0  Reggio Audace FC
+         Ravenna Calcio           0-1 (0-0)  US Triestina
+         Cesena FC                1-3 (0-1)  L.R. Vicenza Virtus
+[Tue Mar/10]
+         Piacenza Calcio          -  Sambenedettese           [cancelled]
+[Wed Mar/11]
+         Feralpisalò              -  Carpi FC                 [cancelled]
+         Arzignano Valchiampo     -  Calcio Padova            [cancelled]
+
+
+Matchday 31
+[Sat Mar/14]
+         Virtus Verona            -  FC Südtirol              [cancelled]
+         Reggio Audace FC         -  Modena FC                [cancelled]
+         AS Gubbio                -  Vis Pesaro               [cancelled]
+         Fermana FC               -  AC Rimini                [cancelled]
+         Alma Juventus Fano       -  US Triestina             [cancelled]
+         Cesena FC                -  Ravenna Calcio           [cancelled]
+[Sun Mar/15]
+         Calcio Padova            -  Piacenza Calcio          [cancelled]
+         Feralpisalò              -  Arzignano Valchiampo     [cancelled]
+         Carpi FC                 -  Imolese Calcio           [cancelled]
+         L.R. Vicenza Virtus      -  Sambenedettese           [cancelled]
+
+
+Matchday 28
+[Wed Mar/18]
+         Modena FC                -  Arzignano Valchiampo     [cancelled]
+         Vis Pesaro               -  Virtus Verona            [cancelled]
+         Imolese Calcio           -  Fermana FC               [cancelled]
+         Carpi FC                 -  AS Gubbio                [cancelled]
+         US Triestina             -  Reggio Audace FC         [cancelled]
+         FC Südtirol              -  Feralpisalò              [cancelled]
+         L.R. Vicenza Virtus      -  Piacenza Calcio          [cancelled]
+         Ravenna Calcio           -  Calcio Padova            [cancelled]
+         AC Rimini                -  Alma Juventus Fano       [cancelled]
+         Sambenedettese           -  Cesena FC                [cancelled]
+
+
+Matchday 32
+[Sun Mar/22]
+         Cesena FC                -  Fermana FC               [cancelled]
+         Modena FC                -  AS Gubbio                [cancelled]
+         Calcio Padova            -  L.R. Vicenza Virtus      [cancelled]
+         Piacenza Calcio          -  Virtus Verona            [cancelled]
+         Ravenna Calcio           -  Carpi FC                 [cancelled]
+         Sambenedettese           -  Reggio Audace FC         [cancelled]
+         FC Südtirol              -  Imolese Calcio           [cancelled]
+         US Triestina             -  Feralpisalò              [cancelled]
+         Vis Pesaro               -  AC Rimini                [cancelled]
+         Arzignano Valchiampo     -  Alma Juventus Fano       [cancelled]
+
+
+Matchday 33
+[Wed Mar/25]
+         Carpi FC                 -  Arzignano Valchiampo     [cancelled]
+         Feralpisalò              -  Ravenna Calcio           [cancelled]
+         AS Gubbio                -  Piacenza Calcio          [cancelled]
+         Imolese Calcio           -  Vis Pesaro               [cancelled]
+         L.R. Vicenza Virtus      -  US Triestina             [cancelled]
+         Reggio Audace FC         -  Cesena FC                [cancelled]
+         AC Rimini                -  Sambenedettese           [cancelled]
+         FC Südtirol              -  Calcio Padova            [cancelled]
+         Virtus Verona            -  Fermana FC               [cancelled]
+         Alma Juventus Fano       -  Modena FC                [cancelled]
+
+
+Matchday 34
+[Sun Mar/29]
+         Arzignano Valchiampo     -  AC Rimini                [cancelled]
+         Fermana FC               -  Carpi FC                 [cancelled]
+         Calcio Padova            -  Feralpisalò              [cancelled]
+         Piacenza Calcio          -  Alma Juventus Fano       [cancelled]
+         Ravenna Calcio           -  L.R. Vicenza Virtus      [cancelled]
+         Sambenedettese           -  FC Südtirol              [cancelled]
+         US Triestina             -  Imolese Calcio           [cancelled]
+         Virtus Verona            -  Modena FC                [cancelled]
+         Vis Pesaro               -  Reggio Audace FC         [cancelled]
+         Cesena FC                -  AS Gubbio                [cancelled]
+
+
+Matchday 29
+[Wed Apr/1]
+         AS Gubbio                -  FC Südtirol              [cancelled]
+         Arzignano Valchiampo     -  Ravenna Calcio           [cancelled]
+         Cesena FC                -  AC Rimini                [cancelled]
+         Alma Juventus Fano       -  Carpi FC                 [cancelled]
+         Feralpisalò              -  Imolese Calcio           [cancelled]
+         Fermana FC               -  Modena FC                [cancelled]
+         Reggio Audace FC         -  L.R. Vicenza Virtus      [cancelled]
+         Calcio Padova            -  US Triestina             [cancelled]
+         Piacenza Calcio          -  Vis Pesaro               [cancelled]
+         Virtus Verona            -  Sambenedettese           [cancelled]
+
+
+Matchday 35
+[Sat Apr/4]
+         Imolese Calcio           -  Piacenza Calcio          [cancelled]
+[Sun Apr/5]
+         FC Südtirol              -  US Triestina             [cancelled]
+         Reggio Audace FC         -  Fermana FC               [cancelled]
+         Modena FC                -  Cesena FC                [cancelled]
+         AS Gubbio                -  Ravenna Calcio           [cancelled]
+         Feralpisalò              -  Sambenedettese           [cancelled]
+         Alma Juventus Fano       -  L.R. Vicenza Virtus      [cancelled]
+         Carpi FC                 -  Virtus Verona            [cancelled]
+         Arzignano Valchiampo     -  Vis Pesaro               [cancelled]
+         AC Rimini                -  Calcio Padova            [cancelled]
+
+
+Matchday 36
+[Sat Apr/11]
+         Virtus Verona            -  Arzignano Valchiampo     [cancelled]
+         US Triestina             -  Carpi FC                 [cancelled]
+         Sambenedettese           -  Imolese Calcio           [cancelled]
+         Ravenna Calcio           -  AC Rimini                [cancelled]
+         Piacenza Calcio          -  Reggio Audace FC         [cancelled]
+         Calcio Padova            -  AS Gubbio                [cancelled]
+         Fermana FC               -  Alma Juventus Fano       [cancelled]
+         Cesena FC                -  Feralpisalò              [cancelled]
+         L.R. Vicenza Virtus      -  FC Südtirol              [cancelled]
+         Vis Pesaro               -  Modena FC                [cancelled]
+
+
+Matchday 30
+[Wed Apr/15]
+         L.R. Vicenza Virtus      -  Arzignano Valchiampo     [cancelled]
+         Modena FC                -  Carpi FC                 [cancelled]
+         Vis Pesaro               -  Alma Juventus Fano       [cancelled]
+         Piacenza Calcio          -  Feralpisalò              [cancelled]
+         Ravenna Calcio           -  Virtus Verona            [cancelled]
+         AC Rimini                -  Reggio Audace FC         [cancelled]
+         Sambenedettese           -  Calcio Padova            [cancelled]
+         FC Südtirol              -  Cesena FC                [cancelled]
+         US Triestina             -  Fermana FC               [cancelled]
+         Imolese Calcio           -  AS Gubbio                [cancelled]
+
+
+Matchday 37
+[Sun Apr/19]
+         Arzignano Valchiampo     -  Fermana FC               [cancelled]
+         Carpi FC                 -  Vis Pesaro               [cancelled]
+         Alma Juventus Fano       -  Cesena FC                [cancelled]
+         Feralpisalò              -  L.R. Vicenza Virtus      [cancelled]
+         AS Gubbio                -  Sambenedettese           [cancelled]
+         Imolese Calcio           -  Calcio Padova            [cancelled]
+         Modena FC                -  US Triestina             [cancelled]
+         Reggio Audace FC         -  Virtus Verona            [cancelled]
+         AC Rimini                -  Piacenza Calcio          [cancelled]
+         FC Südtirol              -  Ravenna Calcio           [cancelled]
+
+
+Matchday 38
+[Sun Apr/26]
+         Cesena FC                -  Arzignano Valchiampo     [cancelled]
+         Fermana FC               -  AS Gubbio                [cancelled]
+         L.R. Vicenza Virtus      -  Imolese Calcio           [cancelled]
+         Calcio Padova            -  Reggio Audace FC         [cancelled]
+         Piacenza Calcio          -  FC Südtirol              [cancelled]
+         Ravenna Calcio           -  Modena FC                [cancelled]
+         Sambenedettese           -  Carpi FC                 [cancelled]
+         US Triestina             -  AC Rimini                [cancelled]
+         Virtus Verona            -  Alma Juventus Fano       [cancelled]
+         Vis Pesaro               -  Feralpisalò              [cancelled]
+
+
+== Playout
+
+Finals
+[Sat Jun/27]
+  18.30  Alma Juventus Fano       2-0 (0-0)  Ravenna Calcio
+  17.30  Arzignano Valchiampo     1-2 (0-2)  Imolese Calcio
+[Tue Jun/30]
+  18.30  Ravenna Calcio           0-1 (0-1)  Alma Juventus Fano
+  17.30  Imolese Calcio           0-0  Arzignano Valchiampo

@@ -1,0 +1,324 @@
+= UEFA EL 2011/12
+
+# Date       Thu Sep/15 2011 - Wed May/9 2012 (237d)
+# Teams      56
+# Matches    205
+
+
+
+Group
+[Thu Sep/15]
+  19.00  PAOK Saloniki (GRE)      0-0  Tottenham Hotspur (ENG)
+         Shamrock Rovers (IRL)    0-3 (0-1)  Rubin Kazan (RUS)
+[Thu Sep/29]
+  17.00  Rubin Kazan (RUS)        2-2 (0-1)  PAOK Saloniki (GRE)
+  21.05  Tottenham Hotspur (ENG)  3-1 (0-0)  Shamrock Rovers (IRL)
+[Thu Oct/20]
+  21.05  Tottenham Hotspur (ENG)  1-0 (1-0)  Rubin Kazan (RUS)
+         PAOK Saloniki (GRE)      2-1 (1-0)  Shamrock Rovers (IRL)
+[Thu Nov/3]
+  18.00  Rubin Kazan (RUS)        1-0 (0-0)  Tottenham Hotspur (ENG)
+  19.00  Shamrock Rovers (IRL)    1-3 (0-3)  PAOK Saloniki (GRE)
+[Wed Nov/30]
+  18.00  Rubin Kazan (RUS)        4-1 (2-1)  Shamrock Rovers (IRL)
+  21.05  Tottenham Hotspur (ENG)  1-2 (1-2)  PAOK Saloniki (GRE)
+[Thu Dec/15]
+  19.00  PAOK Saloniki (GRE)      1-1 (1-0)  Rubin Kazan (RUS)
+         Shamrock Rovers (IRL)    0-4 (0-3)  Tottenham Hotspur (ENG)
+[Thu Sep/15]
+  19.00  Hannover 96 (GER)        0-0  Standard Liège (BEL)
+         FC København (DEN)       1-0 (0-0)  Vorskla Poltava (UKR)
+[Thu Sep/29]
+  21.05  Standard Liège (BEL)     3-0 (0-0)  FC København (DEN)
+         Vorskla Poltava (UKR)    1-2 (0-2)  Hannover 96 (GER)
+[Thu Oct/20]
+  21.05  Hannover 96 (GER)        2-2 (1-0)  FC København (DEN)
+         Standard Liège (BEL)     0-0  Vorskla Poltava (UKR)
+[Thu Nov/3]
+  19.00  FC København (DEN)       1-2 (0-0)  Hannover 96 (GER)
+         Vorskla Poltava (UKR)    1-3 (1-2)  Standard Liège (BEL)
+[Wed Nov/30]
+  21.05  Standard Liège (BEL)     2-0 (1-0)  Hannover 96 (GER)
+         Vorskla Poltava (UKR)    1-1 (1-1)  FC København (DEN)
+[Thu Dec/15]
+  19.00  FC København (DEN)       0-1 (0-1)  Standard Liège (BEL)
+         Hannover 96 (GER)        3-1 (2-1)  Vorskla Poltava (UKR)
+[Thu Sep/15]
+  19.00  Hapoel Tel Aviv (ISR)    0-1 (0-0)  Rapid Bucureşti (ROU)
+         PSV Eindhoven (NED)      1-0 (1-0)  Legia Warszawa (POL)
+[Thu Sep/29]
+  21.05  Rapid Bucureşti (ROU)    1-3 (1-1)  PSV Eindhoven (NED)
+         Legia Warszawa (POL)     3-2 (0-1)  Hapoel Tel Aviv (ISR)
+[Thu Oct/20]
+  21.05  Hapoel Tel Aviv (ISR)    0-1 (0-0)  PSV Eindhoven (NED)
+         Rapid Bucureşti (ROU)    0-1 (0-0)  Legia Warszawa (POL)
+[Thu Nov/3]
+  19.00  PSV Eindhoven (NED)      3-3 (1-2)  Hapoel Tel Aviv (ISR)
+         Legia Warszawa (POL)     3-1 (0-0)  Rapid Bucureşti (ROU)
+[Wed Nov/30]
+  21.05  Rapid Bucureşti (ROU)    1-3 (1-3)  Hapoel Tel Aviv (ISR)
+         Legia Warszawa (POL)     0-3 (0-1)  PSV Eindhoven (NED)
+[Thu Dec/15]
+  19.00  PSV Eindhoven (NED)      2-1 (0-0)  Rapid Bucureşti (ROU)
+         Hapoel Tel Aviv (ISR)    2-0 (1-0)  Legia Warszawa (POL)
+[Thu Sep/15]
+  19.00  FC Zürich (SUI)          0-2 (0-2)  Sporting CP (POR)
+         Lazio Roma (ITA)         2-2 (1-0)  FC Vaslui (ROU)
+[Thu Sep/29]
+  21.05  Sporting CP (POR)        2-1 (2-1)  Lazio Roma (ITA)
+         FC Vaslui (ROU)          2-2 (0-1)  FC Zürich (SUI)
+[Thu Oct/20]
+  21.05  FC Zürich (SUI)          1-1 (1-1)  Lazio Roma (ITA)
+         Sporting CP (POR)        2-0 (1-0)  FC Vaslui (ROU)
+[Thu Nov/3]
+  19.00  Lazio Roma (ITA)         1-0 (0-0)  FC Zürich (SUI)
+         FC Vaslui (ROU)          1-0 (1-0)  Sporting CP (POR)
+[Thu Dec/1]
+  21.05  Sporting CP (POR)        2-0 (1-0)  FC Zürich (SUI)
+         FC Vaslui (ROU)          0-0  Lazio Roma (ITA)
+[Wed Dec/14]
+  19.00  Lazio Roma (ITA)         2-0 (1-0)  Sporting CP (POR)
+         FC Zürich (SUI)          2-0 (0-0)  FC Vaslui (ROU)
+[Thu Sep/15]
+  19.00  Dinamo Kiev (UKR)        1-1 (0-0)  Stoke City (ENG)
+         Beşiktaş (TUR)           5-1 (2-0)  Maccabi Tel Aviv (ISR)
+[Thu Sep/29]
+  21.05  Stoke City (ENG)         2-1 (1-1)  Beşiktaş (TUR)
+         Maccabi Tel Aviv (ISR)   1-1 (1-1)  Dinamo Kiev (UKR)
+[Thu Oct/20]
+  21.05  Dinamo Kiev (UKR)        1-0 (0-0)  Beşiktaş (TUR)
+         Stoke City (ENG)         3-0 (3-0)  Maccabi Tel Aviv (ISR)
+[Thu Nov/3]
+  19.00  Beşiktaş (TUR)           1-0 (0-0)  Dinamo Kiev (UKR)
+         Maccabi Tel Aviv (ISR)   1-2 (0-0)  Stoke City (ENG)
+[Thu Dec/1]
+  21.05  Stoke City (ENG)         1-1 (0-1)  Dinamo Kiev (UKR)
+         Maccabi Tel Aviv (ISR)   2-3 (0-1)  Beşiktaş (TUR)
+[Wed Dec/14]
+  19.00  Beşiktaş (TUR)           3-1 (0-1)  Stoke City (ENG)
+         Dinamo Kiev (UKR)        3-3 (2-0)  Maccabi Tel Aviv (ISR)
+[Thu Sep/15]
+  19.00  Paris Saint-Germain (FRA)  3-1 (2-0)  RB Salzburg (AUT)
+         Slovan Bratislava (SVK)  1-2 (1-2)  Athletic Bilbao (ESP)
+[Thu Sep/29]
+  21.05  Athletic Bilbao (ESP)    2-0 (2-0)  Paris Saint-Germain (FRA)
+         RB Salzburg (AUT)        3-0 (0-0)  Slovan Bratislava (SVK)
+[Thu Oct/20]
+  21.05  Athletic Bilbao (ESP)    2-2 (0-2)  RB Salzburg (AUT)
+         Slovan Bratislava (SVK)  0-0  Paris Saint-Germain (FRA)
+[Thu Nov/3]
+  19.00  RB Salzburg (AUT)        0-1 (0-1)  Athletic Bilbao (ESP)
+         Paris Saint-Germain (FRA)  1-0 (0-0)  Slovan Bratislava (SVK)
+[Thu Dec/1]
+  21.05  RB Salzburg (AUT)        2-0 (1-0)  Paris Saint-Germain (FRA)
+         Athletic Bilbao (ESP)    2-1 (1-1)  Slovan Bratislava (SVK)
+[Wed Dec/14]
+  19.00  Paris Saint-Germain (FRA)  4-2 (2-1)  Athletic Bilbao (ESP)
+         Slovan Bratislava (SVK)  2-3 (2-2)  RB Salzburg (AUT)
+[Thu Sep/15]
+  21.05  Austria Wien (AUT)       1-2 (1-0)  Metalist Kharkiv (UKR)
+         AZ Alkmaar (NED)         4-1 (3-0)  Malmö FF (SWE)
+[Thu Sep/29]
+  19.00  Metalist Kharkiv (UKR)   1-1 (0-1)  AZ Alkmaar (NED)
+         Malmö FF (SWE)           1-2 (0-2)  Austria Wien (AUT)
+[Thu Oct/20]
+  19.00  AZ Alkmaar (NED)         2-2 (0-2)  Austria Wien (AUT)
+         Malmö FF (SWE)           1-4 (1-2)  Metalist Kharkiv (UKR)
+[Thu Nov/3]
+  21.05  Austria Wien (AUT)       2-2 (0-2)  AZ Alkmaar (NED)
+         Metalist Kharkiv (UKR)   3-1 (0-0)  Malmö FF (SWE)
+[Wed Nov/30]
+  19.00  Metalist Kharkiv (UKR)   4-1 (2-1)  Austria Wien (AUT)
+         Malmö FF (SWE)           0-0  AZ Alkmaar (NED)
+[Thu Dec/15]
+  21.05  AZ Alkmaar (NED)         1-1 (1-1)  Metalist Kharkiv (UKR)
+         Austria Wien (AUT)       2-0 (0-0)  Malmö FF (SWE)
+[Thu Sep/15]
+  21.05  Birmingham City (ENG)    1-3 (0-1)  Sporting Braga (POR)
+         Club Brugge KV (BEL)     2-0 (2-0)  NK Maribor (SVN)
+[Thu Sep/29]
+  19.00  Sporting Braga (POR)     1-2 (0-0)  Club Brugge KV (BEL)
+         NK Maribor (SVN)         1-2 (1-0)  Birmingham City (ENG)
+[Thu Oct/20]
+  19.00  Club Brugge KV (BEL)     1-2 (1-1)  Birmingham City (ENG)
+         NK Maribor (SVN)         1-1 (1-1)  Sporting Braga (POR)
+[Thu Nov/3]
+  21.05  Birmingham City (ENG)    2-2 (0-2)  Club Brugge KV (BEL)
+         Sporting Braga (POR)     5-1 (3-0)  NK Maribor (SVN)
+[Wed Nov/30]
+  19.00  Sporting Braga (POR)     1-0 (0-0)  Birmingham City (ENG)
+         NK Maribor (SVN)         3-4 (1-0)  Club Brugge KV (BEL)
+[Thu Dec/15]
+  21.05  Club Brugge KV (BEL)     1-1 (0-0)  Sporting Braga (POR)
+         Birmingham City (ENG)    1-0 (1-0)  NK Maribor (SVN)
+
+
+Gruppe I
+[Thu Sep/15]
+  21.05  Udinese Calcio (ITA)     2-1 (1-1)  Stade Rennais (FRA)
+         Atlético Madrid (ESP)    2-0 (1-0)  Celtic FC (SCO)
+[Thu Sep/29]
+  19.00  Stade Rennais (FRA)      1-1 (0-0)  Atlético Madrid (ESP)
+         Celtic FC (SCO)          1-1 (1-0)  Udinese Calcio (ITA)
+[Thu Oct/20]
+  19.00  Udinese Calcio (ITA)     2-0 (0-0)  Atlético Madrid (ESP)
+         Stade Rennais (FRA)      1-1 (1-0)  Celtic FC (SCO)
+[Thu Nov/3]
+  21.05  Atlético Madrid (ESP)    4-0 (3-0)  Udinese Calcio (ITA)
+         Celtic FC (SCO)          3-1 (2-1)  Stade Rennais (FRA)
+[Wed Nov/30]
+  19.00  Stade Rennais (FRA)      0-0  Udinese Calcio (ITA)
+         Celtic FC (SCO)          0-1 (0-1)  Atlético Madrid (ESP)
+[Thu Dec/15]
+  21.05  Atlético Madrid (ESP)    3-1 (2-0)  Stade Rennais (FRA)
+         Udinese Calcio (ITA)     1-1 (1-1)  Celtic FC (SCO)
+
+
+Gruppe J
+[Thu Sep/15]
+  21.05  FC Steaua Bucureşti (ROU)  0-0  FC Schalke 04 (GER)
+         Maccabi Haifa (ISR)      1-0 (0-0)  AEK Larnaca (CYP)
+[Thu Sep/29]
+  19.00  FC Schalke 04 (GER)      3-1 (1-1)  Maccabi Haifa (ISR)
+         AEK Larnaca (CYP)        1-1 (0-0)  FC Steaua Bucureşti (ROU)
+[Thu Oct/20]
+  19.00  Maccabi Haifa (ISR)      5-0 (3-0)  FC Steaua Bucureşti (ROU)
+         AEK Larnaca (CYP)        0-5 (0-3)  FC Schalke 04 (GER)
+[Thu Nov/3]
+  21.05  FC Steaua Bucureşti (ROU)  4-2 (2-2)  Maccabi Haifa (ISR)
+         FC Schalke 04 (GER)      0-0  AEK Larnaca (CYP)
+[Thu Dec/1]
+  19.00  FC Schalke 04 (GER)      2-1 (1-1)  FC Steaua Bucureşti (ROU)
+         AEK Larnaca (CYP)        2-1 (1-0)  Maccabi Haifa (ISR)
+[Wed Dec/14]
+  21.05  Maccabi Haifa (ISR)      0-3 (0-1)  FC Schalke 04 (GER)
+         FC Steaua Bucureşti (ROU)  3-1 (0-0)  AEK Larnaca (CYP)
+
+
+Gruppe K
+[Thu Sep/15]
+  21.05  Fulham FC (ENG)          1-1 (1-1)  FC Twente (NED)
+         Wisła Kraków (POL)       1-3 (0-1)  Odense BK (DEN)
+[Thu Sep/29]
+  19.00  Odense BK (DEN)          0-2 (0-1)  Fulham FC (ENG)
+         FC Twente (NED)          4-1 (2-1)  Wisła Kraków (POL)
+[Thu Oct/20]
+  19.00  Odense BK (DEN)          1-4 (0-2)  FC Twente (NED)
+         Wisła Kraków (POL)       1-0 (0-0)  Fulham FC (ENG)
+[Thu Nov/3]
+  21.05  FC Twente (NED)          3-2 (2-1)  Odense BK (DEN)
+         Fulham FC (ENG)          4-1 (2-1)  Wisła Kraków (POL)
+[Thu Dec/1]
+  19.00  FC Twente (NED)          1-0 (0-0)  Fulham FC (ENG)
+         Odense BK (DEN)          1-2 (0-2)  Wisła Kraków (POL)
+[Wed Dec/14]
+  21.05  Fulham FC (ENG)          2-2 (2-0)  Odense BK (DEN)
+         Wisła Kraków (POL)       2-1 (1-1)  FC Twente (NED)
+
+
+Gruppe L
+[Thu Sep/15]
+  21.05  RSC Anderlecht (BEL)     4-1 (3-1)  AEK Athen (GRE)
+  21.45  Sturm Graz (AUT)         1-2 (1-2)  Lokomotiv Moskva (RUS)
+[Thu Sep/29]
+  18.00  Lokomotiv Moskva (RUS)   0-2 (0-1)  RSC Anderlecht (BEL)
+  19.00  AEK Athen (GRE)          1-2 (0-0)  Sturm Graz (AUT)
+[Thu Oct/20]
+  18.00  Lokomotiv Moskva (RUS)   3-1 (0-0)  AEK Athen (GRE)
+  19.00  Sturm Graz (AUT)         0-2 (0-0)  RSC Anderlecht (BEL)
+[Thu Nov/3]
+  21.05  AEK Athen (GRE)          1-3 (0-0)  Lokomotiv Moskva (RUS)
+         RSC Anderlecht (BEL)     3-0 (1-0)  Sturm Graz (AUT)
+[Thu Dec/1]
+  18.00  Lokomotiv Moskva (RUS)   3-1 (0-0)  Sturm Graz (AUT)
+  19.00  AEK Athen (GRE)          1-2 (1-2)  RSC Anderlecht (BEL)
+[Wed Dec/14]
+  21.05  RSC Anderlecht (BEL)     5-3 (2-1)  Lokomotiv Moskva (RUS)
+         Sturm Graz (AUT)         1-3 (0-2)  AEK Athen (GRE)
+
+
+Round 2
+[Tue Feb/14]
+  12.00  Rubin Kazan (RUS)        0-1 (0-0)  Olympiakos Piraeus (GRE)
+  18.30  Sporting Braga (POR)     0-2 (0-1)  Beşiktaş (TUR)
+[Thu Feb/16]
+  18.00  Lokomotiv Moskva (RUS)   2-1 (0-1)  Athletic Bilbao (ESP)
+  19.00  AFC Ajax (NED)           0-2 (0-0)  Manchester United (ENG)
+         RB Salzburg (AUT)        0-4 (0-3)  Metalist Kharkiv (UKR)
+         AZ Alkmaar (NED)         1-0 (1-0)  RSC Anderlecht (BEL)
+         Lazio Roma (ITA)         1-3 (1-2)  Atlético Madrid (ESP)
+         Viktoria Plzeň (CZE)     1-1 (1-0)  FC Schalke 04 (GER)
+         Legia Warszawa (POL)     2-2 (1-0)  Sporting CP (POR)
+  21.05  FC Porto (POR)           1-2 (1-0)  Manchester City (ENG)
+         Stoke City (ENG)         0-1 (0-1)  Valencia CF (ESP)
+         FC Steaua Bucureşti (ROU)  0-1 (0-0)  FC Twente (NED)
+         Wisła Kraków (POL)       1-1 (0-1)  Standard Liège (BEL)
+         Udinese Calcio (ITA)     0-0  PAOK Saloniki (GRE)
+         Trabzonspor (TUR)        1-2 (1-2)  PSV Eindhoven (NED)
+         Hannover 96 (GER)        2-1 (0-0)  Club Brugge KV (BEL)
+[Wed Feb/22]
+  18.00  Manchester City (ENG)    4-0 (1-0)  FC Porto (POR)
+[Thu Feb/23]
+  19.00  Athletic Bilbao (ESP)    1-0 (0-0)  Lokomotiv Moskva (RUS)
+         Valencia CF (ESP)        1-0 (1-0)  Stoke City (ENG)
+         FC Twente (NED)          1-0 (1-0)  FC Steaua Bucureşti (ROU)
+         Standard Liège (BEL)     0-0  Wisła Kraków (POL)
+         PAOK Saloniki (GRE)      0-3 (0-2)  Udinese Calcio (ITA)
+         PSV Eindhoven (NED)      4-1 (3-1)  Trabzonspor (TUR)
+         Club Brugge KV (BEL)     0-1 (0-1)  Hannover 96 (GER)
+  21.05  Manchester United (ENG)  1-2 (1-1)  AFC Ajax (NED)
+         Metalist Kharkiv (UKR)   4-1 (1-0)  RB Salzburg (AUT)
+         Olympiakos Piraeus (GRE)  1-0 (1-0)  Rubin Kazan (RUS)
+         RSC Anderlecht (BEL)     0-1 (0-0)  AZ Alkmaar (NED)
+         Atlético Madrid (ESP)    1-0 (0-0)  Lazio Roma (ITA)
+         FC Schalke 04 (GER)      3-1 a.e.t. (1-1, 1-0)  Viktoria Plzeň (CZE)
+         Beşiktaş (TUR)           0-1 (0-1)  Sporting Braga (POR)
+         Sporting CP (POR)        1-0 (0-0)  Legia Warszawa (POL)
+
+
+Round of 16
+[Thu Mar/8]
+  19.00  Metalist Kharkiv (UKR)   0-1 (0-0)  Olympiakos Piraeus (GRE)
+         Sporting CP (POR)        1-0 (0-0)  Manchester City (ENG)
+         FC Twente (NED)          1-0 (0-0)  FC Schalke 04 (GER)
+         Atlético Madrid (ESP)    3-1 (3-0)  Beşiktaş (TUR)
+  21.05  Standard Liège (BEL)     2-2 (2-1)  Hannover 96 (GER)
+         Valencia CF (ESP)        4-2 (3-0)  PSV Eindhoven (NED)
+         AZ Alkmaar (NED)         2-0 (0-0)  Udinese Calcio (ITA)
+         Manchester United (ENG)  2-3 (1-1)  Athletic Bilbao (ESP)
+[Thu Mar/15]
+  19.00  Hannover 96 (GER)        4-0 (2-0)  Standard Liège (BEL)
+         PSV Eindhoven (NED)      1-1 (0-0)  Valencia CF (ESP)
+         Udinese Calcio (ITA)     2-1 (2-1)  AZ Alkmaar (NED)
+         Athletic Bilbao (ESP)    2-1 (1-0)  Manchester United (ENG)
+  21.05  Olympiakos Piraeus (GRE)  1-2 (1-0)  Metalist Kharkiv (UKR)
+         Manchester City (ENG)    3-2 (0-2)  Sporting CP (POR)
+         FC Schalke 04 (GER)      4-1 (1-1)  FC Twente (NED)
+         Beşiktaş (TUR)           0-3 (0-1)  Atlético Madrid (ESP)
+
+
+Quarterfinals
+[Thu Mar/29]
+  21.05  AZ Alkmaar (NED)         2-1 (1-0)  Valencia CF (ESP)
+         FC Schalke 04 (GER)      2-4 (1-1)  Athletic Bilbao (ESP)
+         Sporting CP (POR)        2-1 (0-0)  Metalist Kharkiv (UKR)
+         Atlético Madrid (ESP)    2-1 (1-1)  Hannover 96 (GER)
+[Thu Apr/5]
+  21.05  Valencia CF (ESP)        4-0 (2-0)  AZ Alkmaar (NED)
+         Athletic Bilbao (ESP)    2-2 (1-1)  FC Schalke 04 (GER)
+         Metalist Kharkiv (UKR)   1-1 (0-1)  Sporting CP (POR)
+         Hannover 96 (GER)        1-2 (0-0)  Atlético Madrid (ESP)
+
+
+Semifinals
+[Thu Apr/19]
+  21.05  Atlético Madrid (ESP)    4-2 (1-1)  Valencia CF (ESP)
+         Sporting CP (POR)        2-1 (0-0)  Athletic Bilbao (ESP)
+[Thu Apr/26]
+  21.05  Valencia CF (ESP)        0-1 (0-0)  Atlético Madrid (ESP)
+         Athletic Bilbao (ESP)    3-1 (2-1)  Sporting CP (POR)
+
+
+Final
+[Wed May/9]
+  20.45  Atlético Madrid (ESP)    3-0 (2-0)  Athletic Bilbao (ESP)

@@ -1,0 +1,323 @@
+= UEFA EL 2020/21
+
+# Date       Thu Oct/22 2020 - Wed May/26 2021 (216d)
+# Teams      56
+# Matches    205
+
+
+
+Group
+[Thu Oct/22]
+  18.55  BSC Young Boys (SUI)     1-2 (1-0)  AS Roma (ITA)
+         CSKA Sofia (BUL)         0-2 (0-0)  CFR Cluj (ROU)
+[Thu Oct/29]
+  21.00  AS Roma (ITA)            0-0  CSKA Sofia (BUL)
+         CFR Cluj (ROU)           1-1 (0-0)  BSC Young Boys (SUI)
+[Thu Nov/5]
+  18.55  AS Roma (ITA)            5-0 (3-0)  CFR Cluj (ROU)
+  21.00  BSC Young Boys (SUI)     3-0 (3-0)  CSKA Sofia (BUL)
+[Thu Nov/26]
+  18.55  CSKA Sofia (BUL)         0-1 (0-1)  BSC Young Boys (SUI)
+  21.00  CFR Cluj (ROU)           0-2 (0-0)  AS Roma (ITA)
+[Thu Dec/3]
+  21.00  AS Roma (ITA)            3-1 (1-1)  BSC Young Boys (SUI)
+         CFR Cluj (ROU)           0-0  CSKA Sofia (BUL)
+[Thu Dec/10]
+  18.55  CSKA Sofia (BUL)         3-1 (2-1)  AS Roma (ITA)
+         BSC Young Boys (SUI)     2-1 (0-0)  CFR Cluj (ROU)
+[Thu Oct/22]
+  18.55  Rapid Wien (AUT)         1-2 (0-0)  Arsenal FC (ENG)
+         Dundalk FC (IRL)         1-2 (1-0)  Molde FK (NOR)
+[Thu Oct/29]
+  21.00  Arsenal FC (ENG)         3-0 (2-0)  Dundalk FC (IRL)
+         Molde FK (NOR)           1-0 (0-0)  Rapid Wien (AUT)
+[Thu Nov/5]
+  18.55  Rapid Wien (AUT)         4-3 (1-1)  Dundalk FC (IRL)
+  21.00  Arsenal FC (ENG)         4-1 (1-1)  Molde FK (NOR)
+[Thu Nov/26]
+  18.55  Molde FK (NOR)           0-3 (0-0)  Arsenal FC (ENG)
+  21.00  Dundalk FC (IRL)         1-3 (0-2)  Rapid Wien (AUT)
+[Thu Dec/3]
+  21.00  Arsenal FC (ENG)         4-1 (3-0)  Rapid Wien (AUT)
+         Molde FK (NOR)           3-1 (2-0)  Dundalk FC (IRL)
+[Thu Dec/10]
+  18.55  Dundalk FC (IRL)         2-4 (1-2)  Arsenal FC (ENG)
+         Rapid Wien (AUT)         2-2 (1-1)  Molde FK (NOR)
+[Thu Oct/22]
+  18.55  Bayer Leverkusen (GER)   6-2 (2-1)  OGC Nice (FRA)
+         Hapoel Be'er Sheva (ISR)  3-1 (1-0)  Slavia Praha (CZE)
+[Thu Oct/29]
+  21.00  Slavia Praha (CZE)       1-0 (0-0)  Bayer Leverkusen (GER)
+         OGC Nice (FRA)           1-0 (1-0)  Hapoel Be'er Sheva (ISR)
+[Thu Nov/5]
+  18.55  Hapoel Be'er Sheva (ISR)  2-4 (2-2)  Bayer Leverkusen (GER)
+         Slavia Praha (CZE)       3-2 (2-1)  OGC Nice (FRA)
+[Thu Nov/26]
+  21.00  Bayer Leverkusen (GER)   4-1 (1-0)  Hapoel Be'er Sheva (ISR)
+         OGC Nice (FRA)           1-3 (0-1)  Slavia Praha (CZE)
+[Thu Dec/3]
+  21.00  OGC Nice (FRA)           2-3 (1-2)  Bayer Leverkusen (GER)
+         Slavia Praha (CZE)       3-0 (2-0)  Hapoel Be'er Sheva (ISR)
+[Thu Dec/10]
+  18.55  Bayer Leverkusen (GER)   4-0 (2-0)  Slavia Praha (CZE)
+         Hapoel Be'er Sheva (ISR)  1-0 (0-0)  OGC Nice (FRA)
+[Thu Oct/22]
+  18.55  Lech Poznań (POL)        2-4 (1-2)  SL Benfica (POR)
+         Standard Liège (BEL)     0-2 (0-1)  Rangers FC (SCO)
+[Thu Oct/29]
+  21.00  Rangers FC (SCO)         1-0 (0-0)  Lech Poznań (POL)
+         SL Benfica (POR)         3-0 (0-0)  Standard Liège (BEL)
+[Thu Nov/5]
+  18.55  Lech Poznań (POL)        3-1 (2-1)  Standard Liège (BEL)
+         SL Benfica (POR)         3-3 (1-2)  Rangers FC (SCO)
+[Thu Nov/26]
+  21.00  Standard Liège (BEL)     2-1 (0-0)  Lech Poznań (POL)
+         Rangers FC (SCO)         2-2 (1-0)  SL Benfica (POR)
+[Thu Dec/3]
+  21.00  SL Benfica (POR)         4-0 (1-0)  Lech Poznań (POL)
+         Rangers FC (SCO)         3-2 (2-2)  Standard Liège (BEL)
+[Thu Dec/10]
+  18.55  Lech Poznań (POL)        0-2 (0-1)  Rangers FC (SCO)
+         Standard Liège (BEL)     2-2 (1-1)  SL Benfica (POR)
+[Thu Oct/22]
+  18.55  PSV Eindhoven (NED)      1-2 (1-0)  Granada CF (ESP)
+         PAOK Saloniki (GRE)      1-1 (0-1)  Omonia Nikosia (CYP)
+[Thu Oct/29]
+  21.00  Granada CF (ESP)         0-0  PAOK Saloniki (GRE)
+         Omonia Nikosia (CYP)     1-2 (1-1)  PSV Eindhoven (NED)
+[Thu Nov/5]
+  18.55  Omonia Nikosia (CYP)     0-2 (0-1)  Granada CF (ESP)
+         PAOK Saloniki (GRE)      4-1 (0-1)  PSV Eindhoven (NED)
+[Thu Nov/26]
+  21.00  Granada CF (ESP)         2-1 (1-0)  Omonia Nikosia (CYP)
+         PSV Eindhoven (NED)      3-2 (1-2)  PAOK Saloniki (GRE)
+[Thu Dec/3]
+  21.00  Granada CF (ESP)         0-1 (0-1)  PSV Eindhoven (NED)
+         Omonia Nikosia (CYP)     2-1 (1-1)  PAOK Saloniki (GRE)
+[Thu Dec/10]
+  18.55  PAOK Saloniki (GRE)      0-0  Granada CF (ESP)
+         PSV Eindhoven (NED)      4-0 (1-0)  Omonia Nikosia (CYP)
+[Thu Oct/22]
+  18.55  SSC Napoli (ITA)         0-1 (0-0)  AZ Alkmaar (NED)
+         HNK Rijeka (CRO)         0-1 (0-0)  Real Sociedad (ESP)
+[Thu Oct/29]
+  21.00  AZ Alkmaar (NED)         4-1 (2-0)  HNK Rijeka (CRO)
+         Real Sociedad (ESP)      0-1 (0-0)  SSC Napoli (ITA)
+[Thu Nov/5]
+  18.55  Real Sociedad (ESP)      1-0 (0-0)  AZ Alkmaar (NED)
+         HNK Rijeka (CRO)         1-2 (1-1)  SSC Napoli (ITA)
+[Thu Nov/26]
+  21.00  AZ Alkmaar (NED)         0-0  Real Sociedad (ESP)
+         SSC Napoli (ITA)         2-0 (1-0)  HNK Rijeka (CRO)
+[Thu Dec/3]
+  21.00  AZ Alkmaar (NED)         1-1 (0-1)  SSC Napoli (ITA)
+         Real Sociedad (ESP)      2-2 (0-1)  HNK Rijeka (CRO)
+[Thu Dec/10]
+  18.55  HNK Rijeka (CRO)         2-1 (0-0)  AZ Alkmaar (NED)
+         SSC Napoli (ITA)         1-1 (1-0)  Real Sociedad (ESP)
+[Thu Oct/22]
+  21.00  Sporting Braga (POR)     3-0 (1-0)  AEK Athen (GRE)
+         Leicester City (ENG)     3-0 (2-0)  Zorya Lugansk (UKR)
+[Thu Oct/29]
+  18.55  AEK Athen (GRE)          1-2 (0-2)  Leicester City (ENG)
+         Zorya Lugansk (UKR)      1-2 (0-2)  Sporting Braga (POR)
+[Thu Nov/5]
+  21.00  Zorya Lugansk (UKR)      1-4 (0-2)  AEK Athen (GRE)
+         Leicester City (ENG)     4-0 (1-0)  Sporting Braga (POR)
+[Thu Nov/26]
+  18.55  AEK Athen (GRE)          0-3 (0-0)  Zorya Lugansk (UKR)
+         Sporting Braga (POR)     3-3 (2-1)  Leicester City (ENG)
+[Thu Dec/3]
+  18.55  AEK Athen (GRE)          2-4 (1-3)  Sporting Braga (POR)
+         Zorya Lugansk (UKR)      1-0 (0-0)  Leicester City (ENG)
+[Thu Dec/10]
+  21.00  Leicester City (ENG)     2-0 (2-0)  AEK Athen (GRE)
+         Sporting Braga (POR)     2-0 (0-0)  Zorya Lugansk (UKR)
+[Thu Oct/22]
+  21.00  Celtic FC (SCO)          1-3 (0-2)  AC Milan (ITA)
+         AC Sparta Praha (CZE)    1-4 (0-1)  Lille OSC (FRA)
+[Thu Oct/29]
+  18.55  AC Milan (ITA)           3-0 (1-0)  AC Sparta Praha (CZE)
+         Lille OSC (FRA)          2-2 (0-2)  Celtic FC (SCO)
+[Thu Nov/5]
+  21.00  AC Milan (ITA)           0-3 (0-1)  Lille OSC (FRA)
+         Celtic FC (SCO)          1-4 (0-2)  AC Sparta Praha (CZE)
+[Thu Nov/26]
+  18.55  Lille OSC (FRA)          1-1 (0-0)  AC Milan (ITA)
+         AC Sparta Praha (CZE)    4-1 (2-1)  Celtic FC (SCO)
+[Thu Dec/3]
+  18.55  AC Milan (ITA)           4-2 (2-2)  Celtic FC (SCO)
+         Lille OSC (FRA)          2-1 (0-0)  AC Sparta Praha (CZE)
+[Thu Dec/10]
+  21.00  AC Sparta Praha (CZE)    0-1 (0-1)  AC Milan (ITA)
+         Celtic FC (SCO)          3-2 (2-1)  Lille OSC (FRA)
+
+
+Gruppe I
+[Thu Oct/22]
+  21.00  Maccabi Tel Aviv (ISR)   1-0 (1-0)  Qarabağ FK (AZE)
+         Villarreal CF (ESP)      5-3 (2-2)  Sivasspor (TUR)
+[Thu Oct/29]
+  18.55  Sivasspor (TUR)          1-2 (0-0)  Maccabi Tel Aviv (ISR)
+         Qarabağ FK (AZE)         1-3 (0-0)  Villarreal CF (ESP)
+[Thu Nov/5]
+  18.55  Sivasspor (TUR)          2-0 (1-0)  Qarabağ FK (AZE)
+  22.10  Villarreal CF (ESP)      4-0 (1-0)  Maccabi Tel Aviv (ISR)
+[Thu Nov/26]
+  18.55  Maccabi Tel Aviv (ISR)   1-1 (0-1)  Villarreal CF (ESP)
+         Qarabağ FK (AZE)         2-3 (1-1)  Sivasspor (TUR)
+[Thu Dec/3]
+  18.55  Qarabağ FK (AZE)         1-1 (1-1)  Maccabi Tel Aviv (ISR)
+         Sivasspor (TUR)          0-1 (0-0)  Villarreal CF (ESP)
+[Thu Dec/10]
+         Villarreal CF (ESP)      3-0  Qarabağ FK (AZE)         [awarded]
+  21.00  Maccabi Tel Aviv (ISR)   1-0 (0-0)  Sivasspor (TUR)
+
+
+Gruppe J
+[Thu Oct/22]
+  21.00  Tottenham Hotspur (ENG)  3-0 (2-0)  LASK (AUT)
+         PFC Ludogorets Razgrad (BUL)  1-2 (0-0)  Royal Antwerp FC (BEL)
+[Thu Oct/29]
+  18.55  LASK (AUT)               4-3 (3-1)  PFC Ludogorets Razgrad (BUL)
+         Royal Antwerp FC (BEL)   1-0 (1-0)  Tottenham Hotspur (ENG)
+[Thu Nov/5]
+  18.55  PFC Ludogorets Razgrad (BUL)  1-3 (0-2)  Tottenham Hotspur (ENG)
+  21.00  Royal Antwerp FC (BEL)   0-1 (0-0)  LASK (AUT)
+[Thu Nov/26]
+  18.55  LASK (AUT)               0-2 (0-0)  Royal Antwerp FC (BEL)
+  21.00  Tottenham Hotspur (ENG)  4-0 (2-0)  PFC Ludogorets Razgrad (BUL)
+[Thu Dec/3]
+  18.55  LASK (AUT)               3-3 (1-1)  Tottenham Hotspur (ENG)
+         Royal Antwerp FC (BEL)   3-1 (1-0)  PFC Ludogorets Razgrad (BUL)
+[Thu Dec/10]
+  21.00  PFC Ludogorets Razgrad (BUL)  1-3 (0-0)  LASK (AUT)
+         Tottenham Hotspur (ENG)  2-0 (0-0)  Royal Antwerp FC (BEL)
+
+
+Gruppe K
+[Thu Oct/22]
+  21.00  Wolfsberger AC (AUT)     1-1 (1-1)  CSKA Moskva (RUS)
+         Dinamo Zagreb (CRO)      0-0  Feyenoord (NED)
+[Thu Oct/29]
+  18.55  CSKA Moskva (RUS)        0-0  Dinamo Zagreb (CRO)
+         Feyenoord (NED)          1-4 (0-2)  Wolfsberger AC (AUT)
+[Thu Nov/5]
+  21.00  Feyenoord (NED)          3-1 (0-0)  CSKA Moskva (RUS)
+         Dinamo Zagreb (CRO)      1-0 (0-0)  Wolfsberger AC (AUT)
+[Thu Nov/26]
+  18.55  CSKA Moskva (RUS)        0-0  Feyenoord (NED)
+         Wolfsberger AC (AUT)     0-3 (0-0)  Dinamo Zagreb (CRO)
+[Thu Dec/3]
+  18.55  CSKA Moskva (RUS)        0-1 (0-1)  Wolfsberger AC (AUT)
+         Feyenoord (NED)          0-2 (0-1)  Dinamo Zagreb (CRO)
+[Thu Dec/10]
+  21.00  Dinamo Zagreb (CRO)      3-1 (2-0)  CSKA Moskva (RUS)
+         Wolfsberger AC (AUT)     1-0 (1-0)  Feyenoord (NED)
+
+
+Gruppe L
+[Thu Oct/22]
+  21.00  1899 Hoffenheim (GER)    2-0 (0-0)  Crvena Zvezda (SRB)
+         Slovan Liberec (CZE)     1-0 (1-0)  KAA Gent (BEL)
+[Thu Oct/29]
+  18.55  KAA Gent (BEL)           1-4 (0-1)  1899 Hoffenheim (GER)
+         Crvena Zvezda (SRB)      5-1 (2-1)  Slovan Liberec (CZE)
+[Thu Nov/5]
+  21.00  1899 Hoffenheim (GER)    5-0 (2-0)  Slovan Liberec (CZE)
+         Crvena Zvezda (SRB)      2-1 (1-1)  KAA Gent (BEL)
+[Thu Nov/26]
+  18.55  Slovan Liberec (CZE)     0-2 (0-0)  1899 Hoffenheim (GER)
+         KAA Gent (BEL)           0-2 (0-1)  Crvena Zvezda (SRB)
+[Thu Dec/3]
+  18.55  Crvena Zvezda (SRB)      0-0  1899 Hoffenheim (GER)
+         KAA Gent (BEL)           1-2 (0-1)  Slovan Liberec (CZE)
+[Thu Dec/10]
+  21.00  1899 Hoffenheim (GER)    4-1 (2-0)  KAA Gent (BEL)
+         Slovan Liberec (CZE)     0-0  Crvena Zvezda (SRB)
+
+
+Sechzehntelfinale
+[Thu Feb/18]
+  16.00  Dinamo Kiev (UKR)        1-1 (0-0)  Club Brugge KV (BEL)
+  18.55  Wolfsberger AC (AUT)     1-4 (0-3)  Tottenham Hotspur (ENG)
+         Real Sociedad (ESP)      0-4 (0-1)  Manchester United (ENG)
+         Crvena Zvezda (SRB)      2-2 (0-1)  AC Milan (ITA)
+         Slavia Praha (CZE)       0-0  Leicester City (ENG)
+         Sporting Braga (POR)     0-2 (0-1)  AS Roma (ITA)
+         FK Krasnodar (RUS)       2-3 (1-1)  Dinamo Zagreb (CRO)
+         BSC Young Boys (SUI)     4-3 (3-0)  Bayer Leverkusen (GER)
+         Olympiakos Piraeus (GRE)  4-2 (3-2)  PSV Eindhoven (NED)
+  21.00  SL Benfica (POR)         1-1 (0-0)  Arsenal FC (ENG)
+         Royal Antwerp FC (BEL)   3-4 (2-1)  Rangers FC (SCO)
+         RB Salzburg (AUT)        0-2 (0-1)  Villarreal CF (ESP)
+         Molde FK (NOR)           3-3 (1-3)  1899 Hoffenheim (GER)
+         Granada CF (ESP)         2-0 (2-0)  SSC Napoli (ITA)
+         Maccabi Tel Aviv (ISR)   0-2 (0-1)  Shakhtar Donetsk (UKR)
+         Lille OSC (FRA)          1-2 (0-0)  AFC Ajax (NED)
+[Wed Feb/24]
+  18.00  Tottenham Hotspur (ENG)  4-0 (1-0)  Wolfsberger AC (AUT)
+[Thu Feb/25]
+  18.55  Arsenal FC (ENG)         3-2 (1-1)  SL Benfica (POR)
+         Rangers FC (SCO)         5-2 (1-1)  Royal Antwerp FC (BEL)
+         Villarreal CF (ESP)      2-1 (1-1)  RB Salzburg (AUT)
+         1899 Hoffenheim (GER)    0-2 (0-1)  Molde FK (NOR)
+         SSC Napoli (ITA)         2-1 (1-1)  Granada CF (ESP)
+         Shakhtar Donetsk (UKR)   1-0 (0-0)  Maccabi Tel Aviv (ISR)
+         AFC Ajax (NED)           2-1 (1-0)  Lille OSC (FRA)
+  21.00  Club Brugge KV (BEL)     0-1 (0-0)  Dinamo Kiev (UKR)
+         Manchester United (ENG)  0-0  Real Sociedad (ESP)
+         AC Milan (ITA)           1-1 (1-1)  Crvena Zvezda (SRB)
+         Leicester City (ENG)     0-2 (0-0)  Slavia Praha (CZE)
+         AS Roma (ITA)            3-1 (1-0)  Sporting Braga (POR)
+         Dinamo Zagreb (CRO)      1-0 (1-0)  FK Krasnodar (RUS)
+         Bayer Leverkusen (GER)   0-2 (0-0)  BSC Young Boys (SUI)
+         PSV Eindhoven (NED)      2-1 (2-0)  Olympiakos Piraeus (GRE)
+
+
+Round of 16
+[Thu Mar/11]
+  18.55  AFC Ajax (NED)           3-0 (0-0)  BSC Young Boys (SUI)
+         Dinamo Kiev (UKR)        0-2 (0-1)  Villarreal CF (ESP)
+         Manchester United (ENG)  1-1 (0-0)  AC Milan (ITA)
+         Slavia Praha (CZE)       1-1 (1-1)  Rangers FC (SCO)
+  21.00  AS Roma (ITA)            3-0 (1-0)  Shakhtar Donetsk (UKR)
+         Olympiakos Piraeus (GRE)  1-3 (0-1)  Arsenal FC (ENG)
+         Tottenham Hotspur (ENG)  2-0 (1-0)  Dinamo Zagreb (CRO)
+         Granada CF (ESP)         2-0 (1-0)  Molde FK (NOR)
+[Thu Mar/18]
+  18.55  Shakhtar Donetsk (UKR)   1-2 (0-0)  AS Roma (ITA)
+         Arsenal FC (ENG)         0-1 (0-0)  Olympiakos Piraeus (GRE)
+         Dinamo Zagreb (CRO)      3-0 a.e.t. (2-0, 0-0)  Tottenham Hotspur (ENG)
+         Molde FK (NOR)           2-1 (1-0)  Granada CF (ESP)
+  21.00  BSC Young Boys (SUI)     0-2 (0-1)  AFC Ajax (NED)
+         Villarreal CF (ESP)      2-0 (2-0)  Dinamo Kiev (UKR)
+         AC Milan (ITA)           0-1 (0-0)  Manchester United (ENG)
+         Rangers FC (SCO)         0-2 (0-1)  Slavia Praha (CZE)
+
+
+Quarterfinals
+[Thu Apr/8]
+  21.00  Granada CF (ESP)         0-2 (0-1)  Manchester United (ENG)
+         Arsenal FC (ENG)         1-1 (0-0)  Slavia Praha (CZE)
+         AFC Ajax (NED)           1-2 (1-0)  AS Roma (ITA)
+         Dinamo Zagreb (CRO)      0-1 (0-1)  Villarreal CF (ESP)
+[Thu Apr/15]
+  21.00  Manchester United (ENG)  2-0 (1-0)  Granada CF (ESP)
+         Slavia Praha (CZE)       0-4 (0-3)  Arsenal FC (ENG)
+         AS Roma (ITA)            1-1 (0-0)  AFC Ajax (NED)
+         Villarreal CF (ESP)      2-1 (2-0)  Dinamo Zagreb (CRO)
+
+
+Semifinals
+[Thu Apr/29]
+  21.00  Manchester United (ENG)  6-2 (1-2)  AS Roma (ITA)
+         Villarreal CF (ESP)      2-1 (2-0)  Arsenal FC (ENG)
+[Thu May/6]
+  21.00  AS Roma (ITA)            3-2 (0-1)  Manchester United (ENG)
+         Arsenal FC (ENG)         0-0  Villarreal CF (ESP)
+
+
+Final
+[Wed May/26]
+  21.00  Villarreal CF (ESP)      11-10 pen. 1-1 a.e.t. (1-1, 1-0)  Manchester United (ENG)

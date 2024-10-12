@@ -1,0 +1,228 @@
+= CR 1 2024/25
+
+# Date       Sun Jul/21 - Sun Nov/24 2024 (126d)
+# Teams      12
+# Matches    132
+# Stages     Apertura (132)
+
+
+== Apertura
+
+Matchday 1
+[Sun Jul/21]
+         LD Alajuelense           -  Santos de Guápiles
+         CS Cartaginés            -  Santa Ana
+         AD Guanacasteca          -  AD San Carlos
+         Puntarenas FC            -  Municipal Liberia
+         Sporting FC              -  Deportivo Saprissa
+         Municipal Pérez Zeledón  -  CS Herediano
+
+
+Matchday 2
+[Wed Jul/24]
+         Santos de Guápiles       -  Municipal Pérez Zeledón
+         CS Herediano             -  Puntarenas FC
+         Municipal Liberia        -  LD Alajuelense
+         AD San Carlos            -  CS Cartaginés
+         Santa Ana                -  Sporting FC
+         Deportivo Saprissa       -  AD Guanacasteca
+
+
+Matchday 3
+[Sun Jul/28]
+         LD Alajuelense           -  Santa Ana
+         CS Cartaginés            -  Santos de Guápiles
+         AD Guanacasteca          -  CS Herediano
+         Puntarenas FC            -  Deportivo Saprissa
+         AD San Carlos            -  Municipal Liberia
+         Municipal Pérez Zeledón  -  Sporting FC
+
+
+Matchday 4
+[Sun Aug/4]
+         Santos de Guápiles       -  Puntarenas FC
+         CS Cartaginés            -  LD Alajuelense
+         Santa Ana                -  CS Herediano
+         Deportivo Saprissa       -  Municipal Liberia
+         Sporting FC              -  AD Guanacasteca
+         Municipal Pérez Zeledón  -  AD San Carlos
+
+
+Matchday 5
+[Sun Aug/11]
+         LD Alajuelense           -  Municipal Pérez Zeledón
+         AD Guanacasteca          -  CS Cartaginés
+         CS Herediano             -  Deportivo Saprissa
+         Municipal Liberia        -  Santos de Guápiles
+         Puntarenas FC            -  Sporting FC
+         AD San Carlos            -  Santa Ana
+
+
+Matchday 6
+[Sun Aug/18]
+         Santos de Guápiles       -  AD San Carlos
+         LD Alajuelense           -  AD Guanacasteca
+         CS Cartaginés            -  CS Herediano
+         Santa Ana                -  Deportivo Saprissa
+         Sporting FC              -  Municipal Liberia
+         Municipal Pérez Zeledón  -  Puntarenas FC
+
+
+Matchday 7
+[Sun Aug/25]
+         AD Guanacasteca          -  Santos de Guápiles
+         CS Herediano             -  Sporting FC
+         Municipal Liberia        -  Municipal Pérez Zeledón
+         Puntarenas FC            -  Santa Ana
+         AD San Carlos            -  LD Alajuelense
+         Deportivo Saprissa       -  CS Cartaginés
+
+
+Matchday 8
+[Sun Sep/1]
+         Santos de Guápiles       -  CS Herediano
+         LD Alajuelense           -  Deportivo Saprissa
+         CS Cartaginés            -  Puntarenas FC
+         Santa Ana                -  Municipal Liberia
+         Sporting FC              -  AD San Carlos
+         Municipal Pérez Zeledón  -  AD Guanacasteca
+
+
+Matchday 9
+[Wed Sep/11]
+         AD Guanacasteca          -  Santa Ana
+         CS Herediano             -  AD San Carlos
+         Municipal Liberia        -  CS Cartaginés
+         Puntarenas FC            -  LD Alajuelense
+         Deportivo Saprissa       -  Municipal Pérez Zeledón
+         Sporting FC              -  Santos de Guápiles
+
+
+Matchday 10
+[Sun Sep/15]
+         Santos de Guápiles       -  Deportivo Saprissa
+         LD Alajuelense           -  CS Herediano
+         CS Cartaginés            -  Sporting FC
+         Municipal Liberia        -  AD Guanacasteca
+         AD San Carlos            -  Puntarenas FC
+         Santa Ana                -  Municipal Pérez Zeledón
+
+
+Matchday 11
+[Wed Sep/18]
+         CS Herediano             -  Municipal Liberia
+         Puntarenas FC            -  AD Guanacasteca
+         Santa Ana                -  Santos de Guápiles
+         Deportivo Saprissa       -  AD San Carlos
+         Sporting FC              -  LD Alajuelense
+         Municipal Pérez Zeledón  -  CS Cartaginés
+
+
+Matchday 12
+[Sun Sep/22]
+         LD Alajuelense           -  CS Cartaginés
+         AD Guanacasteca          -  Sporting FC
+         CS Herediano             -  Santa Ana
+         Municipal Liberia        -  Deportivo Saprissa
+         Puntarenas FC            -  Municipal Pérez Zeledón
+         AD San Carlos            -  Santos de Guápiles
+
+
+Matchday 13
+[Sun Sep/29]
+         Santos de Guápiles       -  Municipal Liberia
+         CS Cartaginés            -  AD Guanacasteca
+         Santa Ana                -  AD San Carlos
+         Deportivo Saprissa       -  CS Herediano
+         Sporting FC              -  Puntarenas FC
+         Municipal Pérez Zeledón  -  LD Alajuelense
+
+
+Matchday 14
+[Sun Oct/6]
+         Santos de Guápiles       -  LD Alajuelense
+         AD Guanacasteca          -  Municipal Pérez Zeledón
+         CS Herediano             -  CS Cartaginés
+         Municipal Liberia        -  Santa Ana
+         AD San Carlos            -  Sporting FC
+         Deportivo Saprissa       -  Puntarenas FC
+
+
+Matchday 15
+[Wed Oct/16]
+         LD Alajuelense           -  Municipal Liberia
+         CS Cartaginés            -  AD San Carlos
+         AD Guanacasteca          -  Deportivo Saprissa
+         Puntarenas FC            -  CS Herediano
+         Sporting FC              -  Santa Ana
+         Municipal Pérez Zeledón  -  Santos de Guápiles
+
+
+Matchday 16
+[Sun Oct/20]
+         Santos de Guápiles       -  AD Guanacasteca
+         CS Herediano             -  LD Alajuelense
+         Municipal Liberia        -  Puntarenas FC
+         AD San Carlos            -  Municipal Pérez Zeledón
+         Santa Ana                -  CS Cartaginés
+         Deportivo Saprissa       -  Sporting FC
+
+
+Matchday 17
+[Sun Oct/27]
+         LD Alajuelense           -  AD San Carlos
+         CS Cartaginés            -  Deportivo Saprissa
+         AD Guanacasteca          -  Municipal Liberia
+         Puntarenas FC            -  Santos de Guápiles
+         Sporting FC              -  CS Herediano
+         Municipal Pérez Zeledón  -  Santa Ana
+
+
+Matchday 18
+[Sun Nov/3]
+         Santos de Guápiles       -  CS Cartaginés
+         CS Herediano             -  Municipal Pérez Zeledón
+         Municipal Liberia        -  Sporting FC
+         AD San Carlos            -  AD Guanacasteca
+         Santa Ana                -  Puntarenas FC
+         Deportivo Saprissa       -  LD Alajuelense
+
+
+Matchday 19
+[Wed Nov/6]
+         Santos de Guápiles       -  Santa Ana
+         LD Alajuelense           -  Sporting FC
+         CS Cartaginés            -  Municipal Liberia
+         AD Guanacasteca          -  Puntarenas FC
+         AD San Carlos            -  CS Herediano
+         Municipal Pérez Zeledón  -  Deportivo Saprissa
+
+
+Matchday 20
+[Sun Nov/10]
+         CS Herediano             -  AD Guanacasteca
+         Municipal Liberia        -  AD San Carlos
+         Puntarenas FC            -  CS Cartaginés
+         Santa Ana                -  LD Alajuelense
+         Deportivo Saprissa       -  Santos de Guápiles
+         Sporting FC              -  Municipal Pérez Zeledón
+
+
+Matchday 21
+[Wed Nov/20]
+         Santos de Guápiles       -  Sporting FC
+         LD Alajuelense           -  Puntarenas FC
+         CS Cartaginés            -  Municipal Pérez Zeledón
+         Municipal Liberia        -  CS Herediano
+         AD San Carlos            -  Deportivo Saprissa
+         Santa Ana                -  AD Guanacasteca
+
+
+Matchday 22
+[Sun Nov/24]
+         AD Guanacasteca          -  LD Alajuelense
+         CS Herediano             -  Santos de Guápiles
+         Puntarenas FC            -  AD San Carlos
+         Deportivo Saprissa       -  Santa Ana
+         Sporting FC              -  CS Cartaginés
+         Municipal Pérez Zeledón  -  Municipal Liberia

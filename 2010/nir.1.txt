@@ -1,0 +1,88 @@
+= NIR 1 2010
+
+# Date       Sat Apr/3 - Sat May/1 2010 (28d)
+# Teams      12
+# Matches    30
+# Stages     Championship (15)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Sat Apr/3]
+  15.00  Glentoran FC             1-0  Dungannon Swifts
+[Tue Apr/20]
+  19.45  Portadown FC             2-2  Crusaders FC
+[Tue Apr/27]
+  19.45  Linfield FC              1-0  Cliftonville FC
+
+
+Matchday 2
+[Tue Apr/6]
+  19.45  Linfield FC              3-1  Glentoran FC
+         Portadown FC             1-2  Dungannon Swifts
+[Thu Apr/8]
+  19.45  Cliftonville FC          1-0  Crusaders FC
+
+
+Matchday 3
+[Sat Apr/10]
+  15.00  Dungannon Swifts         0-1  Linfield FC
+[Sat Apr/17]
+  15.00  Cliftonville FC          2-1  Portadown FC
+         Crusaders FC             2-1  Glentoran FC
+
+
+Matchday 4
+[Sat Apr/24]
+  15.00  Cliftonville FC          4-1  Dungannon Swifts
+         Crusaders FC             0-0  Linfield FC
+         Glentoran FC             2-0  Portadown FC
+
+
+Matchday 5
+[Sat May/1]
+  15.00  Crusaders FC             2-3  Dungannon Swifts
+         Glentoran FC             0-3  Cliftonville FC
+         Portadown FC             1-0  Linfield FC
+
+
+== Relegation
+
+Matchday 1
+[Tue Apr/6]
+  19.45  Ballymena United         2-4  Coleraine FC
+         Glenavon FC              1-2  Institute FC Drumahoe
+[Tue Apr/27]
+  19.45  Newry City FC            2-2  Lisburn Distillery
+
+
+Matchday 2
+[Tue Apr/13]
+  19.45  Coleraine FC             2-3  Newry City FC
+[Sat Apr/17]
+  15.00  Ballymena United         3-0  Institute FC Drumahoe
+         Glenavon FC              1-3  Lisburn Distillery
+
+
+Matchday 3
+[Sat Apr/10]
+  15.00  Lisburn Distillery       2-1  Institute FC Drumahoe
+[Tue Apr/20]
+  19.45  Coleraine FC             1-0  Glenavon FC
+         Newry City FC            1-0  Ballymena United
+
+
+Matchday 4
+[Fri Apr/23]
+  19.45  Institute FC Drumahoe    1-1  Coleraine FC
+[Sat Apr/24]
+  15.00  Ballymena United         1-2  Lisburn Distillery
+         Newry City FC            3-2  Glenavon FC
+
+
+Matchday 5
+[Sat May/1]
+  15.00  Glenavon FC              1-1  Ballymena United
+         Institute FC Drumahoe    1-1  Newry City FC
+         Lisburn Distillery       1-1  Coleraine FC

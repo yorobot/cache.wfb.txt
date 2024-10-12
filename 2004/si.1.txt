@@ -1,0 +1,161 @@
+= SI 1 2004
+
+# Date       Fri Apr/9 - Sun May/30 2004 (51d)
+# Teams      12
+# Matches    60
+# Stages     Relegation (30)  Playoff (30)
+
+
+== Relegation
+
+Matchday 1
+[Fri Apr/9]
+  19.00  NK Publikum Celje        0-1  NK Drava
+[Sat Apr/10]
+  16.00  NK Šmartno               2-0  NK Dravograd
+         NK Domžale               0-0  NK Factor Ljubljana
+
+
+Matchday 2
+[Wed Apr/14]
+  16.00  NK Drava                 0-3  NK Factor Ljubljana
+         NK Dravograd             0-2  NK Domžale
+  19.00  NK Publikum Celje        2-1  NK Šmartno
+
+
+Matchday 3
+[Sun Apr/18]
+  16.00  NK Šmartno               3-0  NK Drava
+         NK Domžale               2-2  NK Publikum Celje
+         NK Factor Ljubljana      2-1  NK Dravograd
+
+
+Matchday 4
+[Sat Apr/24]
+  20.00  NK Publikum Celje        1-2  NK Factor Ljubljana
+[Sun Apr/25]
+  16.00  NK Drava                 3-1  NK Dravograd
+         NK Šmartno               1-1  NK Domžale
+
+
+Matchday 5
+[Sat May/1]
+  16.30  NK Factor Ljubljana      1-0  NK Šmartno
+[Sun May/2]
+  16.30  NK Domžale               5-0  NK Drava
+[Wed May/5]
+  16.30  NK Dravograd             1-4  NK Publikum Celje
+
+
+Matchday 6
+[Sat May/8]
+  17.00  NK Dravograd             2-1  NK Šmartno
+[Sun May/9]
+  16.30  NK Drava                 0-0  NK Publikum Celje
+         NK Factor Ljubljana      1-1  NK Domžale
+
+
+Matchday 7
+[Wed May/12]
+  16.30  NK Šmartno               3-2  NK Publikum Celje
+         NK Factor Ljubljana      2-1  NK Drava
+         NK Domžale               4-1  NK Dravograd
+
+
+Matchday 8
+[Sat May/15]
+  20.30  NK Publikum Celje        1-3  NK Domžale
+[Sun May/16]
+  16.30  NK Drava                 2-0  NK Šmartno
+         NK Dravograd             1-2  NK Factor Ljubljana
+
+
+Matchday 9
+[Fri May/21]
+  17.30  NK Factor Ljubljana      2-1  NK Publikum Celje
+         NK Domžale               2-2  NK Šmartno
+[Sun May/23]
+  15.00  NK Dravograd             3-1  NK Drava
+
+
+Matchday 10
+[Sun May/30]
+  15.00  NK Drava                 3-1  NK Domžale
+         NK Šmartno               3-1  NK Factor Ljubljana
+         NK Publikum Celje        5-1  NK Dravograd
+
+
+== Playoff
+
+Matchday 1
+[Fri Apr/9]
+  18.00  Olimpija Ljubljana       2-2  FC Anet Koper
+[Sat Apr/10]
+  16.00  ND Gorica                0-0  NK Mura Murska Sobota
+  18.00  NK Maribor               1-1  NK Primorje
+
+
+Matchday 2
+[Wed Apr/14]
+  16.00  NK Mura Murska Sobota    1-0  NK Primorje
+         FC Anet Koper            1-0  NK Maribor
+  20.00  ND Gorica                1-0  Olimpija Ljubljana
+
+
+Matchday 3
+[Sun Apr/18]
+  16.00  NK Primorje              3-0  FC Anet Koper
+  18.00  Olimpija Ljubljana       2-1  NK Mura Murska Sobota
+         NK Maribor               1-2  ND Gorica
+
+
+Matchday 4
+[Sat Apr/24]
+  20.00  ND Gorica                0-0  NK Primorje
+         Olimpija Ljubljana       1-2  NK Maribor
+[Sun Apr/25]
+  16.00  NK Mura Murska Sobota    2-2  FC Anet Koper
+
+
+Matchday 5
+[Sun May/2]
+  16.00  NK Primorje              1-2  Olimpija Ljubljana
+  16.30  FC Anet Koper            1-1  ND Gorica
+  18.00  NK Maribor               1-0  NK Mura Murska Sobota
+
+
+Matchday 6
+[Sat May/8]
+  15.00  NK Mura Murska Sobota    1-1  ND Gorica
+  17.00  FC Anet Koper            2-0  Olimpija Ljubljana
+         NK Primorje              2-2  NK Maribor
+
+
+Matchday 7
+[Tue May/11]
+  20.35  Olimpija Ljubljana       2-1  ND Gorica
+[Wed May/12]
+  16.30  NK Primorje              1-2  NK Mura Murska Sobota
+  18.00  NK Maribor               3-1  FC Anet Koper
+
+
+Matchday 8
+[Sat May/15]
+  15.30  ND Gorica                1-1  NK Maribor
+  17.00  FC Anet Koper            0-0  NK Primorje
+[Sun May/16]
+  16.30  NK Mura Murska Sobota    2-1  Olimpija Ljubljana
+
+
+Matchday 9
+[Sun May/23]
+  17.30  FC Anet Koper            4-1  NK Mura Murska Sobota
+         NK Primorje              2-0  ND Gorica
+         NK Maribor               0-0  Olimpija Ljubljana
+
+
+Matchday 10
+[Sun May/30]
+  17.00  NK Mura Murska Sobota    2-1  NK Maribor
+         Olimpija Ljubljana       3-0  NK Primorje
+         ND Gorica                2-0  FC Anet Koper

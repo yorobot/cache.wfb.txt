@@ -1,0 +1,611 @@
+= IT 3 A 2019/20
+
+# Date       Sat Aug/24 2019 - Tue Jun/30 2020 (311d)
+# Teams      20
+# Matches    384
+# Stages     Regular Season (380)  Playout (4)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Aug/24]
+  20.45  US Pontedera             3-1 (1-1)  Carrarese Calcio
+[Sun Aug/25]
+  15.00  US Pistoiese             1-2 (0-2)  UC AlbinoLeffe
+         Pro Vercelli             2-0 (0-0)  US Pianese
+         Robur Siena              1-2 (1-1)  Olbia Calcio
+  17.30  US Alessandria 1912      2-2 (0-1)  Gozzano
+         US Arezzo                3-1 (3-0)  Calcio Lecco 1912
+         Como 1907                2-0 (0-0)  US Pergolettese
+         Giana Erminio            0-2 (0-0)  AC Renate
+         Aurora Pro Patria        1-2 (1-1)  AC Monza
+[Mon Aug/26]
+  20.45  Novara Calcio            2-0 (0-0)  Juventus II
+
+
+Matchday 2
+[Sat Aug/31]
+  17.00  US Pianese               1-0 (1-0)  US Arezzo
+[Sun Sep/1]
+  15.00  Carrarese Calcio         1-1 (1-1)  US Alessandria 1912
+         Gozzano                  0-2 (0-0)  Como 1907
+         Juventus II              2-3 (0-2)  Robur Siena
+         Olbia Calcio             2-1 (0-1)  Giana Erminio
+         US Pergolettese          0-2 (0-0)  US Pistoiese
+         AC Renate                4-0 (2-0)  US Pontedera
+  17.30  UC AlbinoLeffe           1-1 (1-1)  Aurora Pro Patria
+         Calcio Lecco 1912        2-0 (0-0)  Pro Vercelli
+         AC Monza                 2-0 (1-0)  Novara Calcio
+
+
+Matchday 3
+[Sat Sep/7]
+  20.45  Novara Calcio            3-0 (1-0)  Calcio Lecco 1912
+[Sun Sep/8]
+  15.00  Giana Erminio            0-4 (0-2)  US Pianese
+         US Pontedera             3-2 (2-2)  Olbia Calcio
+         Aurora Pro Patria        1-1 (1-1)  US Pergolettese
+  17.30  US Alessandria 1912      1-0 (0-0)  AC Renate
+         Como 1907                0-1 (0-0)  AC Monza
+         US Pistoiese             1-1 (0-1)  Gozzano
+         Pro Vercelli             1-0 (1-0)  UC AlbinoLeffe
+         Robur Siena              0-2 (0-1)  Carrarese Calcio
+
+
+Matchday 4
+[Sat Sep/14]
+  20.45  AC Monza                 1-0 (0-0)  Pro Vercelli
+[Sun Sep/15]
+  17.30  AC Renate                2-1 (0-1)  Como 1907
+  15.00  UC AlbinoLeffe           0-0  US Pianese
+         Carrarese Calcio         2-1 (0-1)  US Pistoiese
+         Calcio Lecco 1912        0-2 (0-2)  Robur Siena
+         Olbia Calcio             0-3 (0-1)  US Alessandria 1912
+         US Pontedera             0-0  Novara Calcio
+  17.30  Gozzano                  1-1 (0-0)  Giana Erminio
+         Juventus II              2-2 (1-1)  Aurora Pro Patria
+         US Pergolettese          1-1 (0-0)  US Arezzo
+
+
+Matchday 3
+[Wed Sep/18]
+  20.30  US Arezzo                1-2 (1-2)  Juventus II
+
+
+Matchday 5
+[Sat Sep/21]
+  20.45  US Pistoiese             1-1 (1-0)  Como 1907
+  15.00  Pro Vercelli             1-2 (1-1)  Gozzano
+[Sun Sep/22]
+  15.00  US Arezzo                0-1 (0-0)  UC AlbinoLeffe
+         US Pianese               0-1 (0-1)  US Alessandria 1912
+         AC Renate                2-0 (0-0)  Olbia Calcio
+         Robur Siena              0-1 (0-0)  Aurora Pro Patria
+  17.30  Juventus II              1-1 (0-0)  US Pontedera
+         Calcio Lecco 1912        0-3 (0-1)  AC Monza
+         Novara Calcio            0-0  US Pergolettese
+[Mon Sep/23]
+  18.00  Giana Erminio            1-1 (0-1)  Carrarese Calcio
+
+
+Matchday 6
+[Wed Sep/25]
+  18.30  Como 1907                0-0  US Arezzo
+         Gozzano                  1-2 (0-1)  Novara Calcio
+         US Pistoiese             0-0  AC Renate
+         Aurora Pro Patria        2-0 (1-0)  US Pianese
+  20.45  UC AlbinoLeffe           1-1 (0-0)  Juventus II
+         AC Monza                 0-2 (0-1)  Robur Siena
+         US Pergolettese          1-2 (0-1)  Calcio Lecco 1912
+         US Pontedera             1-1 (1-0)  Pro Vercelli
+[Thu Sep/26]
+  20.45  US Alessandria 1912      4-0 (3-0)  Giana Erminio
+  16.00  Carrarese Calcio         4-2 (1-0)  Olbia Calcio
+
+
+Matchday 7
+[Sat Sep/28]
+  20.45  Robur Siena              2-2 (0-2)  US Pistoiese
+[Sun Sep/29]
+  15.00  Olbia Calcio             1-1 (1-1)  Como 1907
+         US Pianese               1-1 (0-0)  Gozzano
+         Pro Vercelli             0-0  US Pergolettese
+  17.30  US Arezzo                3-1 (1-1)  Aurora Pro Patria
+         Giana Erminio            1-3 (0-1)  US Pontedera
+         Calcio Lecco 1912        0-2 (0-1)  US Alessandria 1912
+         Novara Calcio            1-0 (0-0)  UC AlbinoLeffe
+         AC Renate                0-0  Carrarese Calcio
+[Mon Sep/30]
+  21.00  Juventus II              1-4 (0-3)  AC Monza
+
+
+Matchday 8
+[Sat Oct/5]
+  20.45  Novara Calcio            0-1 (0-1)  Pro Vercelli
+         Como 1907                2-1 (0-0)  Giana Erminio
+[Sun Oct/6]
+  15.00  UC AlbinoLeffe           0-1 (0-1)  Robur Siena
+         Gozzano                  1-1 (1-1)  Carrarese Calcio
+         US Pianese               0-1 (0-0)  Juventus II
+         US Pistoiese             2-1 (1-1)  Olbia Calcio
+         Aurora Pro Patria        1-0 (1-0)  Calcio Lecco 1912
+  17.30  US Alessandria 1912      0-2 (0-0)  US Pontedera
+         US Arezzo                0-4 (0-4)  AC Monza
+         US Pergolettese          0-1 (0-1)  AC Renate
+
+
+Matchday 9
+[Sun Oct/13]
+  15.00  Carrarese Calcio         3-0 (1-0)  US Pergolettese
+         Calcio Lecco 1912        1-3 (1-3)  US Pianese
+         Olbia Calcio             0-1 (0-1)  Aurora Pro Patria
+  17.30  US Alessandria 1912      1-1 (1-0)  Como 1907
+         Giana Erminio            2-1 (2-0)  Novara Calcio
+         AC Monza                 1-0 (0-0)  UC AlbinoLeffe
+         AC Renate                3-0 (3-0)  Gozzano
+         Robur Siena              1-1 (0-0)  US Arezzo
+[Mon Oct/14]
+  20.45  US Pontedera             2-1 (1-1)  US Pistoiese
+
+
+Matchday 10
+[Sat Oct/19]
+  15.00  US Pianese               1-1 (0-0)  AC Monza
+         Aurora Pro Patria        1-1 (1-0)  Pro Vercelli
+  20.45  US Arezzo                1-1 (0-1)  US Alessandria 1912
+[Sun Oct/20]
+  17.30  Juventus II              2-1 (0-1)  AC Renate
+  15.00  Como 1907                2-0 (0-0)  US Pontedera
+         Gozzano                  0-0  Olbia Calcio
+         Novara Calcio            2-1 (2-0)  Carrarese Calcio
+         US Pergolettese          0-1 (0-0)  Robur Siena
+         US Pistoiese             1-1 (0-0)  Giana Erminio
+  17.30  UC AlbinoLeffe           2-0 (1-0)  Calcio Lecco 1912
+
+
+Matchday 11
+[Wed Oct/23]
+  18.30  US Pontedera             2-1 (1-0)  Aurora Pro Patria
+  15.00  Olbia Calcio             1-1 (1-0)  UC AlbinoLeffe
+  18.30  Carrarese Calcio         2-0 (0-0)  Como 1907
+         Giana Erminio            1-1 (0-1)  US Pergolettese
+         Calcio Lecco 1912        1-1 (0-0)  Juventus II
+  20.45  Robur Siena              2-0 (1-0)  US Pianese
+  18.30  AC Renate                1-1 (0-1)  Novara Calcio
+  20.45  US Alessandria 1912      1-1 (1-0)  US Pistoiese
+         AC Monza                 1-0 (0-0)  Gozzano
+         Pro Vercelli             1-1 (0-1)  US Arezzo
+
+
+Matchday 12
+[Sat Oct/26]
+  20.45  AC Monza                 2-2 (2-0)  AC Renate
+[Sun Oct/27]
+  15.00  Robur Siena              1-2 (1-2)  Pro Vercelli
+         US Arezzo                2-0 (1-0)  Giana Erminio
+         Gozzano                  2-2 (1-1)  US Pontedera
+         US Pianese               2-2 (0-0)  Olbia Calcio
+         Aurora Pro Patria        2-3 (2-1)  Carrarese Calcio
+  17.30  Novara Calcio            0-0  US Pistoiese
+         UC AlbinoLeffe           4-1 (0-1)  US Alessandria 1912
+         Como 1907                1-1 (1-0)  Calcio Lecco 1912
+         Juventus II              1-0 (0-0)  US Pergolettese
+
+
+Matchday 9
+[Wed Oct/30]
+  18.30  Pro Vercelli             0-1 (0-1)  Juventus II
+
+
+Matchday 13
+[Sat Nov/2]
+  20.45  US Alessandria 1912      1-0 (1-0)  Novara Calcio
+[Sun Nov/3]
+  15.00  Gozzano                  2-0 (1-0)  UC AlbinoLeffe
+         Olbia Calcio             1-1 (0-1)  Pro Vercelli
+         AC Renate                0-0  Robur Siena
+  17.30  Carrarese Calcio         0-2 (0-1)  Calcio Lecco 1912
+         Como 1907                0-0  Aurora Pro Patria
+         Giana Erminio            1-1 (0-0)  Juventus II
+         US Pergolettese          0-2 (0-0)  AC Monza
+         US Pistoiese             1-0 (1-0)  US Pianese
+         US Pontedera             2-1 (1-1)  US Arezzo
+
+
+Matchday 14
+[Sat Nov/9]
+  20.45  AC Monza                 2-2 (1-2)  Carrarese Calcio
+[Sun Nov/10]
+  15.00  UC AlbinoLeffe           1-0 (0-0)  US Pontedera
+         US Arezzo                2-1 (1-0)  Olbia Calcio
+         Juventus II              0-2 (0-2)  US Pistoiese
+         Calcio Lecco 1912        0-2 (0-0)  AC Renate
+         US Pianese               2-0 (2-0)  US Pergolettese
+  17.30  Novara Calcio            2-1 (1-0)  Como 1907
+         Aurora Pro Patria        0-0  US Alessandria 1912
+         Pro Vercelli             1-1 (1-1)  Giana Erminio
+         Robur Siena              1-1 (0-1)  Gozzano
+
+
+Matchday 15
+[Sat Nov/16]
+  20.45  US Pergolettese          2-1 (0-0)  UC AlbinoLeffe
+[Sun Nov/17]
+  15.00  Olbia Calcio             1-2 (1-1)  Novara Calcio
+         US Pistoiese             0-1 (0-0)  AC Monza
+         AC Renate                1-1 (0-1)  US Pianese
+  17.30  Carrarese Calcio         2-2 (0-0)  US Arezzo
+         Giana Erminio            1-2 (0-1)  Robur Siena
+         Gozzano                  2-2 (2-0)  Aurora Pro Patria
+  15.00  Como 1907                1-3 (0-3)  Pro Vercelli
+
+
+Matchday 16
+[Sat Nov/23]
+  20.45  Calcio Lecco 1912        1-1 (0-0)  Giana Erminio
+  14.55  Pro Vercelli             2-2 (0-2)  AC Renate
+[Sun Nov/24]
+  17.30  Robur Siena              0-1 (0-0)  US Pontedera
+  15.00  AC Monza                 2-0 (0-0)  US Alessandria 1912
+         US Pergolettese          3-0 (0-0)  Olbia Calcio
+         US Pianese               1-4 (0-3)  Como 1907
+  17.30  Aurora Pro Patria        1-1 (0-0)  US Pistoiese
+[Mon Nov/25]
+  17.00  UC AlbinoLeffe           1-0 (1-0)  Carrarese Calcio
+  20.45  US Arezzo                3-1 (0-0)  Novara Calcio
+
+
+Matchday 17
+[Sat Nov/30]
+  20.45  Como 1907                1-1 (1-0)  Juventus II
+[Sun Dec/1]
+  17.30  Gozzano                  0-2 (0-1)  Calcio Lecco 1912
+         US Pistoiese             1-1 (1-1)  US Arezzo
+         AC Renate                1-1 (1-1)  Aurora Pro Patria
+  15.00  US Alessandria 1912      1-3 (0-1)  Robur Siena
+         Novara Calcio            1-1 (1-0)  US Pianese
+         Olbia Calcio             0-3 (0-1)  AC Monza
+         US Pontedera             2-2 (0-1)  US Pergolettese
+  17.30  Carrarese Calcio         3-2 (2-1)  Pro Vercelli
+         Giana Erminio            1-2 (1-1)  UC AlbinoLeffe
+
+
+Matchday 15
+[Wed Dec/4]
+  20.00  US Alessandria 1912      1-1 (1-0)  Juventus II
+
+
+Matchday 18
+[Sat Dec/7]
+  15.00  Pro Vercelli             0-0  US Pistoiese
+         US Pianese               1-2 (0-1)  US Pontedera
+  20.45  Robur Siena              1-0 (0-0)  Como 1907
+[Sun Dec/8]
+  17.30  AC Monza                 3-0 (2-0)  Giana Erminio
+  15.00  Juventus II              1-3 (0-1)  Carrarese Calcio
+         US Arezzo                1-0 (0-0)  Gozzano
+  17.30  UC AlbinoLeffe           1-2 (1-1)  AC Renate
+  15.00  Calcio Lecco 1912        2-0 (1-0)  Olbia Calcio
+         Aurora Pro Patria        1-2 (0-1)  Novara Calcio
+  17.30  US Pergolettese          2-1 (1-1)  US Alessandria 1912
+
+
+Matchday 15
+[Wed Dec/11]
+  18.00  US Pontedera             4-1 (0-1)  Calcio Lecco 1912
+
+
+Matchday 16
+[Wed Dec/11]
+  15.00  Juventus II              0-1 (0-1)  Gozzano
+
+
+Matchday 19
+[Sat Dec/14]
+  21.00  Carrarese Calcio         1-1 (0-0)  US Pianese
+[Sun Dec/15]
+  15.15  US Alessandria 1912      2-1 (1-0)  Pro Vercelli
+         Giana Erminio            0-3 (0-0)  Aurora Pro Patria
+         Novara Calcio            4-0 (2-0)  Robur Siena
+         Olbia Calcio             1-1 (0-1)  Juventus II
+         AC Renate                1-1 (0-0)  US Arezzo
+  17.45  Como 1907                0-0  UC AlbinoLeffe
+         Gozzano                  0-1 (0-0)  US Pergolettese
+         US Pistoiese             0-0  Calcio Lecco 1912
+         US Pontedera             2-2 (0-1)  AC Monza
+
+
+Matchday 21
+[Sat Jan/11]
+  15.00  Aurora Pro Patria        2-3 (1-1)  UC AlbinoLeffe
+[Sun Jan/12]
+  17.30  Pro Vercelli             1-1 (1-1)  Calcio Lecco 1912
+         US Pontedera             2-1 (0-0)  AC Renate
+         US Pistoiese             0-0  US Pergolettese
+         Novara Calcio            0-3 (0-0)  AC Monza
+         Como 1907                3-2 (1-1)  Gozzano
+         US Arezzo                0-0  US Pianese
+  15.00  Giana Erminio            2-2 (2-1)  Olbia Calcio
+         US Alessandria 1912      2-2 (0-0)  Carrarese Calcio
+[Mon Jan/13]
+  20.45  Robur Siena              1-1 (1-0)  Juventus II
+
+
+Matchday 22
+[Sat Jan/18]
+  15.00  Gozzano                  1-1 (0-1)  US Pistoiese
+         US Pianese               1-2 (1-1)  Giana Erminio
+         AC Renate                1-0 (1-0)  US Alessandria 1912
+         UC AlbinoLeffe           2-0 (1-0)  Pro Vercelli
+[Sun Jan/19]
+  15.00  Juventus II              1-0 (0-0)  US Arezzo
+         AC Monza                 1-1 (0-1)  Como 1907
+  17.30  Calcio Lecco 1912        3-2 (1-1)  Novara Calcio
+  15.00  Olbia Calcio             1-1 (1-1)  US Pontedera
+         US Pergolettese          0-3 (0-1)  Aurora Pro Patria
+  17.30  Carrarese Calcio         3-1 (2-0)  Robur Siena
+
+
+Matchday 20
+[Wed Jan/22]
+  20.45  AC Monza                 2-0 (1-0)  Aurora Pro Patria
+         Carrarese Calcio         2-1 (1-1)  US Pontedera
+  18.30  US Pergolettese          0-0  Como 1907
+         Calcio Lecco 1912        2-2 (1-0)  US Arezzo
+  18.00  Olbia Calcio             1-2 (1-1)  Robur Siena
+  16.00  UC AlbinoLeffe           0-1 (0-0)  US Pistoiese
+  15.00  US Pianese               0-0  Pro Vercelli
+         Juventus II              2-2 (0-0)  Novara Calcio
+         Gozzano                  0-1 (0-0)  US Alessandria 1912
+         AC Renate                2-1 (1-0)  Giana Erminio
+
+
+Matchday 23
+[Sat Jan/25]
+  20.45  US Pistoiese             1-1 (0-1)  Carrarese Calcio
+  15.00  Aurora Pro Patria        3-2 (1-1)  Juventus II
+[Sun Jan/26]
+  15.00  US Alessandria 1912      3-3 (0-0)  Olbia Calcio
+         US Arezzo                3-0 (2-0)  US Pergolettese
+         Novara Calcio            1-1 (0-1)  US Pontedera
+         Pro Vercelli             1-2 (0-2)  AC Monza
+         Robur Siena              1-1 (0-0)  Calcio Lecco 1912
+  17.30  Como 1907                2-0 (1-0)  AC Renate
+         Giana Erminio            1-0 (0-0)  Gozzano
+         US Pianese               2-2 (0-0)  UC AlbinoLeffe
+
+
+Matchday 24
+[Sat Feb/1]
+  20.45  AC Monza                 4-0 (3-0)  Calcio Lecco 1912
+[Sun Feb/2]
+  15.00  US Alessandria 1912      0-0  US Pianese
+         Carrarese Calcio         1-4 (1-1)  Giana Erminio
+         Olbia Calcio             0-0  AC Renate
+         Aurora Pro Patria        0-0  Robur Siena
+  17.30  UC AlbinoLeffe           1-1 (0-1)  US Arezzo
+         Como 1907                1-2 (1-1)  US Pistoiese
+         Gozzano                  0-1 (0-0)  Pro Vercelli
+         US Pergolettese          2-2 (1-2)  Novara Calcio
+         US Pontedera             0-0  Juventus II
+
+
+Matchday 25
+[Sat Feb/8]
+  15.00  Pro Vercelli             3-1 (1-1)  US Pontedera
+[Sun Feb/9]
+  15.00  Juventus II              1-1 (0-1)  UC AlbinoLeffe
+         Novara Calcio            4-1 (1-0)  Gozzano
+         Olbia Calcio             2-1 (0-1)  Carrarese Calcio
+         US Pianese               1-1 (0-1)  Aurora Pro Patria
+         AC Renate                1-0 (0-0)  US Pistoiese
+  17.30  US Arezzo                1-1 (0-1)  Como 1907
+         Giana Erminio            2-1 (2-1)  US Alessandria 1912
+         Calcio Lecco 1912        3-1 (3-0)  US Pergolettese
+         Robur Siena              2-2 (2-2)  AC Monza
+
+
+Matchday 26
+[Sat Feb/15]
+  15.00  Gozzano                  1-0 (0-0)  US Pianese
+[Sun Feb/16]
+  15.00  Como 1907                0-1 (0-1)  Olbia Calcio
+         AC Monza                 1-2 (1-0)  Juventus II
+         Aurora Pro Patria        0-1 (0-1)  US Arezzo
+  17.30  UC AlbinoLeffe           1-0 (0-0)  Novara Calcio
+         US Alessandria 1912      2-1 (2-0)  Calcio Lecco 1912
+         US Pergolettese          2-1 (1-0)  Pro Vercelli
+         US Pistoiese             1-1 (0-0)  Robur Siena
+         US Pontedera             0-2 (0-0)  Giana Erminio
+[Mon Feb/17]
+  20.45  Carrarese Calcio         2-1 (1-0)  AC Renate
+
+
+Matchday 27
+[Sat Feb/22]
+  15.00  AC Renate                1-2 (0-0)  US Pergolettese
+  17.30  AC Monza                 1-1 (1-1)  US Arezzo
+  20.45  Robur Siena              1-1 (0-1)  UC AlbinoLeffe
+  15.00  Carrarese Calcio         3-0 (2-0)  Gozzano
+[Sun Feb/23]
+  15.00  Juventus II              1-0 (1-0)  US Pianese
+         Olbia Calcio             1-0 (1-0)  US Pistoiese
+         US Pontedera             0-1 (0-0)  US Alessandria 1912
+[Tue Mar/10]
+         Calcio Lecco 1912        -  Aurora Pro Patria        [cancelled]
+         Giana Erminio            -  Como 1907                [cancelled]
+[Wed Mar/11]
+         Pro Vercelli             -  Novara Calcio            [cancelled]
+
+
+Matchday 31
+[Sat Mar/14]
+         AC Renate                -  AC Monza                 [cancelled]
+         US Alessandria 1912      -  UC AlbinoLeffe           [cancelled]
+[Sun Mar/15]
+         US Pistoiese             -  Novara Calcio            [cancelled]
+         Calcio Lecco 1912        -  Como 1907                [cancelled]
+         Giana Erminio            -  US Arezzo                [cancelled]
+         Carrarese Calcio         -  Aurora Pro Patria        [cancelled]
+         US Pontedera             -  Gozzano                  [cancelled]
+         Olbia Calcio             -  US Pianese               [cancelled]
+         US Pergolettese          -  Juventus II              [cancelled]
+[Mon Mar/16]
+         Pro Vercelli             -  Robur Siena              [cancelled]
+
+
+Matchday 28
+[Wed Mar/18]
+         Aurora Pro Patria        -  Olbia Calcio             [cancelled]
+         US Pistoiese             -  US Pontedera             [cancelled]
+         US Pianese               -  Calcio Lecco 1912        [cancelled]
+         US Pergolettese          -  Carrarese Calcio         [cancelled]
+         Novara Calcio            -  Giana Erminio            [cancelled]
+         Gozzano                  -  AC Renate                [cancelled]
+         Como 1907                -  US Alessandria 1912      [cancelled]
+         UC AlbinoLeffe           -  AC Monza                 [cancelled]
+[Thu Mar/19]
+         Juventus II              -  Pro Vercelli             [cancelled]
+         US Arezzo                -  Robur Siena              [cancelled]
+
+
+Matchday 32
+[Sat Mar/21]
+         Robur Siena              -  AC Renate                [cancelled]
+[Sun Mar/22]
+         Juventus II              -  Giana Erminio            [cancelled]
+         Calcio Lecco 1912        -  Carrarese Calcio         [cancelled]
+         UC AlbinoLeffe           -  Gozzano                  [cancelled]
+         Novara Calcio            -  US Alessandria 1912      [cancelled]
+         US Pianese               -  US Pistoiese             [cancelled]
+         Aurora Pro Patria        -  Como 1907                [cancelled]
+         AC Monza                 -  US Pergolettese          [cancelled]
+         US Arezzo                -  US Pontedera             [cancelled]
+         Pro Vercelli             -  Olbia Calcio             [cancelled]
+
+
+Matchday 33
+[Wed Mar/25]
+         Carrarese Calcio         -  AC Monza                 [cancelled]
+         Como 1907                -  Novara Calcio            [cancelled]
+         Giana Erminio            -  Pro Vercelli             [cancelled]
+         Gozzano                  -  Robur Siena              [cancelled]
+         Olbia Calcio             -  US Arezzo                [cancelled]
+         US Pergolettese          -  US Pianese               [cancelled]
+         US Pistoiese             -  Juventus II              [cancelled]
+         US Pontedera             -  UC AlbinoLeffe           [cancelled]
+         AC Renate                -  Calcio Lecco 1912        [cancelled]
+         US Alessandria 1912      -  Aurora Pro Patria        [cancelled]
+
+
+Matchday 34
+[Sat Mar/28]
+         Aurora Pro Patria        -  Gozzano                  [cancelled]
+[Sun Mar/29]
+         US Arezzo                -  Carrarese Calcio         [cancelled]
+         Juventus II              -  US Alessandria 1912      [cancelled]
+         Calcio Lecco 1912        -  US Pontedera             [cancelled]
+         AC Monza                 -  US Pistoiese             [cancelled]
+         Novara Calcio            -  Olbia Calcio             [cancelled]
+         US Pianese               -  AC Renate                [cancelled]
+         Pro Vercelli             -  Como 1907                [cancelled]
+         Robur Siena              -  Giana Erminio            [cancelled]
+         UC AlbinoLeffe           -  US Pergolettese          [cancelled]
+
+
+Matchday 29
+[Wed Apr/1]
+         Olbia Calcio             -  Gozzano                  [cancelled]
+         US Alessandria 1912      -  US Arezzo                [cancelled]
+         Carrarese Calcio         -  Novara Calcio            [cancelled]
+         Giana Erminio            -  US Pistoiese             [cancelled]
+         Calcio Lecco 1912        -  UC AlbinoLeffe           [cancelled]
+         AC Monza                 -  US Pianese               [cancelled]
+         AC Renate                -  Juventus II              [cancelled]
+         US Pontedera             -  Como 1907                [cancelled]
+         Pro Vercelli             -  Aurora Pro Patria        [cancelled]
+         Robur Siena              -  US Pergolettese          [cancelled]
+
+
+Matchday 35
+[Sat Apr/4]
+         Novara Calcio            -  US Arezzo                [cancelled]
+[Sun Apr/5]
+         AC Renate                -  Pro Vercelli             [cancelled]
+         US Pistoiese             -  Aurora Pro Patria        [cancelled]
+         Olbia Calcio             -  US Pergolettese          [cancelled]
+         Gozzano                  -  Juventus II              [cancelled]
+         Giana Erminio            -  Calcio Lecco 1912        [cancelled]
+         Como 1907                -  US Pianese               [cancelled]
+         Carrarese Calcio         -  UC AlbinoLeffe           [cancelled]
+         US Alessandria 1912      -  AC Monza                 [cancelled]
+         US Pontedera             -  Robur Siena              [cancelled]
+
+
+Matchday 36
+[Thu Apr/9]
+         Pro Vercelli             -  Carrarese Calcio         [cancelled]
+         Calcio Lecco 1912        -  Gozzano                  [cancelled]
+[Sat Apr/11]
+         AC Monza                 -  Olbia Calcio             [cancelled]
+         Juventus II              -  Como 1907                [cancelled]
+         US Arezzo                -  US Pistoiese             [cancelled]
+         US Pergolettese          -  US Pontedera             [cancelled]
+         US Pianese               -  Novara Calcio            [cancelled]
+         Aurora Pro Patria        -  AC Renate                [cancelled]
+         UC AlbinoLeffe           -  Giana Erminio            [cancelled]
+         Robur Siena              -  US Alessandria 1912      [cancelled]
+
+
+Matchday 30
+[Tue Apr/14]
+         US Arezzo                -  Pro Vercelli             [cancelled]
+         Como 1907                -  Carrarese Calcio         [cancelled]
+         Aurora Pro Patria        -  US Pontedera             [cancelled]
+         Gozzano                  -  AC Monza                 [cancelled]
+         Juventus II              -  Calcio Lecco 1912        [cancelled]
+         Novara Calcio            -  AC Renate                [cancelled]
+         US Pergolettese          -  Giana Erminio            [cancelled]
+         US Pianese               -  Robur Siena              [cancelled]
+         US Pistoiese             -  US Alessandria 1912      [cancelled]
+         UC AlbinoLeffe           -  Olbia Calcio             [cancelled]
+
+
+Matchday 37
+[Sun Apr/19]
+         US Alessandria 1912      -  US Pergolettese          [cancelled]
+         Carrarese Calcio         -  Juventus II              [cancelled]
+         Como 1907                -  Robur Siena              [cancelled]
+         Giana Erminio            -  AC Monza                 [cancelled]
+         Gozzano                  -  US Arezzo                [cancelled]
+         Novara Calcio            -  Aurora Pro Patria        [cancelled]
+         Olbia Calcio             -  Calcio Lecco 1912        [cancelled]
+         US Pistoiese             -  Pro Vercelli             [cancelled]
+         US Pontedera             -  US Pianese               [cancelled]
+         AC Renate                -  UC AlbinoLeffe           [cancelled]
+
+
+Matchday 38
+[Sun Apr/26]
+         UC AlbinoLeffe           -  Como 1907                [cancelled]
+         US Arezzo                -  AC Renate                [cancelled]
+         Juventus II              -  Olbia Calcio             [cancelled]
+         Calcio Lecco 1912        -  US Pistoiese             [cancelled]
+         AC Monza                 -  US Pontedera             [cancelled]
+         US Pergolettese          -  Gozzano                  [cancelled]
+         US Pianese               -  Carrarese Calcio         [cancelled]
+         Aurora Pro Patria        -  Giana Erminio            [cancelled]
+         Pro Vercelli             -  US Alessandria 1912      [cancelled]
+         Robur Siena              -  Novara Calcio            [cancelled]
+
+
+== Playout
+
+Finals
+[Sat Jun/27]
+  20.00  Olbia Calcio             1-0 (0-0)  Giana Erminio
+  17.30  US Pianese               0-0  US Pergolettese
+[Tue Jun/30]
+  20.00  Giana Erminio            1-1 (1-0)  Olbia Calcio
+  17.30  US Pergolettese          3-3 (1-2)  US Pianese

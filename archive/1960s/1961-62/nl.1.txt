@@ -1,0 +1,450 @@
+= NL 1 1961/62
+
+# Date       Sun Aug/20 1961 - Sun May/20 1962 (273d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sun Aug/20]
+         ADO                      2-1 (0-1)  Fortuna '54
+         De Volewijckers          0-3 (0-1)  NAC Breda
+         DOS Utrecht              2-2 (1-0)  AFC Ajax
+         DWS Amsterdam            1-0 (0-0)  MVV
+         Groninger VAV            2-2 (2-0)  Blauw Wit
+         Rapid JC Heerlen         1-6 (0-3)  Feijenoord
+         Sportclub Enschede       2-3 (1-1)  RKSV Volendam
+         RC&FC Sparta             4-2 (1-1)  Willem II
+         VVV                      1-3 (1-2)  PSV Eindhoven
+
+
+Matchday 2
+[Sun Aug/27]
+         AFC Ajax                 6-1 (3-0)  Sportclub Enschede
+         Blauw Wit                2-1 (0-1)  VVV
+         Feijenoord               3-0 (1-0)  RC&FC Sparta
+         Fortuna '54              5-2 (2-2)  De Volewijckers
+         MVV                      0-0  Groninger VAV
+         NAC Breda                1-1 (1-0)  Rapid JC Heerlen
+         PSV Eindhoven            6-1 (3-1)  ADO
+         RKSV Volendam            0-0  DWS Amsterdam
+         Willem II                2-1 (1-1)  DOS Utrecht
+
+
+Matchday 3
+[Sun Sep/3]
+         ADO                      5-1 (1-1)  VVV
+         De Volewijckers          3-6 (2-3)  PSV Eindhoven
+         DOS Utrecht              0-0  Feijenoord
+         DWS Amsterdam            0-0  AFC Ajax
+         Groninger VAV            1-3 (1-1)  RKSV Volendam
+         MVV                      5-3 (4-3)  Blauw Wit
+         Rapid JC Heerlen         0-3 (0-1)  Fortuna '54
+         Sportclub Enschede       2-4 (0-2)  Willem II
+         RC&FC Sparta             3-3 (1-1)  NAC Breda
+
+
+Matchday 4
+[Sun Sep/10]
+         AFC Ajax                 4-2 (1-2)  Groninger VAV
+         Blauw Wit                0-0  ADO
+         Feijenoord               2-0 (0-0)  Sportclub Enschede
+         Fortuna '54              1-0 (0-0)  RC&FC Sparta
+         NAC Breda                2-0 (1-0)  DOS Utrecht
+         PSV Eindhoven            7-1 (5-1)  Rapid JC Heerlen
+         RKSV Volendam            2-3 (2-2)  MVV
+         VVV                      1-1 (0-1)  De Volewijckers
+         Willem II                3-1 (2-1)  DWS Amsterdam
+
+
+Matchday 5
+[Sun Sep/17]
+         De Volewijckers          2-7 (0-5)  ADO
+         DOS Utrecht              2-3 (2-0)  Fortuna '54
+         DWS Amsterdam            2-3 (1-2)  Feijenoord
+         Groninger VAV            2-2 (1-1)  Willem II
+         MVV                      2-4 (1-3)  AFC Ajax
+         Rapid JC Heerlen         3-0 (1-0)  VVV
+         Sportclub Enschede       3-1 (2-0)  NAC Breda
+         RC&FC Sparta             0-5 (0-2)  PSV Eindhoven
+         RKSV Volendam            2-4 (0-2)  Blauw Wit
+
+
+Matchday 6
+[Sun Sep/24]
+         ADO                      4-1 (3-1)  Rapid JC Heerlen
+         AFC Ajax                 9-1 (5-0)  RKSV Volendam
+         Blauw Wit                5-1 (2-0)  De Volewijckers
+         Feijenoord               7-4 (1-4)  Groninger VAV
+         Fortuna '54              5-0 (0-0)  Sportclub Enschede
+         NAC Breda                1-1 (0-0)  DWS Amsterdam
+         PSV Eindhoven            0-1 (0-0)  DOS Utrecht
+         VVV                      1-1 (0-0)  RC&FC Sparta
+         Willem II                4-3 (1-3)  MVV
+
+
+Matchday 7
+[Sun Oct/1]
+         AFC Ajax                 2-2 (2-0)  Blauw Wit
+         DOS Utrecht              1-1 (0-1)  VVV
+         DWS Amsterdam            2-1 (1-0)  Fortuna '54
+         Groninger VAV            2-2 (0-2)  NAC Breda
+         MVV                      0-0  Feijenoord
+         Rapid JC Heerlen         4-1 (3-0)  De Volewijckers
+         Sportclub Enschede       0-1 (0-1)  PSV Eindhoven
+         RC&FC Sparta             2-2 (1-0)  ADO
+         RKSV Volendam            3-2 (2-0)  Willem II
+
+
+Matchday 8
+[Sun Oct/8]
+         ADO                      1-2 (1-0)  DOS Utrecht
+         Blauw Wit                3-1 (0-0)  Rapid JC Heerlen
+         De Volewijckers          3-0 (2-0)  RC&FC Sparta
+         Feijenoord               3-0 (1-0)  RKSV Volendam
+         Fortuna '54              0-3 (0-3)  Groninger VAV
+         NAC Breda                1-0 (1-0)  MVV
+         PSV Eindhoven            2-1 (1-1)  DWS Amsterdam
+         VVV                      2-0 (1-0)  Sportclub Enschede
+         Willem II                0-1 (0-0)  AFC Ajax
+
+
+Matchday 9
+[Sun Oct/15]
+         AFC Ajax                 1-3 (0-2)  Feijenoord
+         DOS Utrecht              4-1 (2-1)  De Volewijckers
+         DWS Amsterdam            1-1 (0-0)  VVV
+         Groninger VAV            3-2 (1-2)  PSV Eindhoven
+         MVV                      3-1 (1-1)  Fortuna '54
+         Sportclub Enschede       4-1 (2-0)  ADO
+         RC&FC Sparta             3-0 (1-0)  Rapid JC Heerlen
+         RKSV Volendam            3-1 (1-1)  NAC Breda
+         Willem II                3-0 (1-0)  Blauw Wit
+
+
+Matchday 10
+[Sun Oct/29]
+         ADO                      3-0 (1-0)  DWS Amsterdam
+         Blauw Wit                3-0 (2-0)  RC&FC Sparta
+         De Volewijckers          3-1 (2-0)  Sportclub Enschede
+         Feijenoord               0-2 (0-0)  Willem II
+         Fortuna '54              6-1 (5-0)  RKSV Volendam
+         NAC Breda                1-3 (1-2)  AFC Ajax
+         PSV Eindhoven            2-1 (0-0)  MVV
+         Rapid JC Heerlen         3-3 (1-0)  DOS Utrecht
+         VVV                      2-0 (1-0)  Groninger VAV
+
+
+Matchday 11
+[Sun Nov/5]
+         AFC Ajax                 3-4 (1-0)  Fortuna '54
+         DOS Utrecht              3-2 (1-2)  RC&FC Sparta
+         DWS Amsterdam            2-2 (0-0)  De Volewijckers
+         Feijenoord               9-1 (5-0)  Blauw Wit
+         Groninger VAV            3-1 (2-1)  ADO
+         MVV                      1-0 (0-0)  VVV
+         Sportclub Enschede       1-2 (1-2)  Rapid JC Heerlen
+         RKSV Volendam            3-1 (1-0)  PSV Eindhoven
+         Willem II                0-1 (0-1)  NAC Breda
+
+
+Matchday 12
+[Sun Nov/19]
+         ADO                      0-1 (0-1)  MVV
+         Blauw Wit                2-1 (0-1)  DOS Utrecht
+         De Volewijckers          1-1 (0-0)  Groninger VAV
+         Fortuna '54              1-3 (1-0)  Willem II
+         NAC Breda                2-3 (1-1)  Feijenoord
+         PSV Eindhoven            2-2 (1-1)  AFC Ajax
+         Rapid JC Heerlen         0-1 (0-0)  DWS Amsterdam
+         RC&FC Sparta             0-2 (0-1)  Sportclub Enschede
+         VVV                      0-0  RKSV Volendam
+
+
+Matchday 13
+[Sun Nov/26]
+         AFC Ajax                 3-1 (0-0)  VVV
+         DWS Amsterdam            0-0  RC&FC Sparta
+         Feijenoord               1-1 (1-0)  Fortuna '54
+         Groninger VAV            2-1 (2-0)  Rapid JC Heerlen
+         MVV                      2-1 (0-1)  De Volewijckers
+         NAC Breda                0-1 (0-0)  Blauw Wit
+         Sportclub Enschede       3-4 (1-1)  DOS Utrecht
+         RKSV Volendam            3-2 (2-0)  ADO
+         Willem II                1-2 (0-1)  PSV Eindhoven
+
+
+Matchday 14
+[Sun Dec/3]
+         ADO                      1-3 (1-2)  AFC Ajax
+         Blauw Wit                1-1 (0-0)  Sportclub Enschede
+         De Volewijckers          2-1 (1-1)  RKSV Volendam
+         DOS Utrecht              2-2 (1-1)  DWS Amsterdam
+         Fortuna '54              0-2 (0-1)  NAC Breda
+         PSV Eindhoven            0-3 (0-1)  Feijenoord
+         Rapid JC Heerlen         0-0  MVV
+         RC&FC Sparta             3-1 (2-1)  Groninger VAV
+         VVV                      2-4 (1-0)  Willem II
+
+
+Matchday 15
+[Sun Dec/10]
+         AFC Ajax                 2-1 (1-0)  De Volewijckers
+         DWS Amsterdam            2-2 (2-2)  Sportclub Enschede
+         Feijenoord               3-0 (2-0)  VVV
+         Fortuna '54              0-0  Blauw Wit
+         Groninger VAV            3-0 (1-0)  DOS Utrecht
+         MVV                      1-1 (0-0)  RC&FC Sparta
+         NAC Breda                1-3 (0-3)  PSV Eindhoven
+         RKSV Volendam            3-0 (1-0)  Rapid JC Heerlen
+         Willem II                2-2 (1-0)  ADO
+
+
+Matchday 16
+[Sun Dec/17]
+         ADO                      0-2 (0-1)  Feijenoord
+         De Volewijckers          2-1 (0-1)  Willem II
+         DOS Utrecht              3-3 (3-1)  MVV
+         DWS Amsterdam            0-2 (0-1)  Blauw Wit
+         PSV Eindhoven            0-1 (0-0)  Fortuna '54
+         Rapid JC Heerlen         1-2 (1-1)  AFC Ajax
+         Sportclub Enschede       0-1 (0-0)  Groninger VAV
+         RC&FC Sparta             4-2 (2-1)  RKSV Volendam
+         VVV                      1-0 (0-0)  NAC Breda
+
+
+Matchday 17
+[Sun Jan/14]
+         AFC Ajax                 3-2 (1-0)  DOS Utrecht
+         Blauw Wit                2-1 (2-1)  Groninger VAV
+         Feijenoord               3-0 (1-0)  Rapid JC Heerlen
+         Fortuna '54              3-0 (0-0)  ADO
+         MVV                      0-0  DWS Amsterdam
+         NAC Breda                1-2 (0-0)  De Volewijckers
+         PSV Eindhoven            2-1 (2-1)  VVV
+         RKSV Volendam            4-1 (0-0)  Sportclub Enschede
+         Willem II                0-1 (0-0)  RC&FC Sparta
+
+
+Matchday 18
+[Sun Jan/21]
+         ADO                      1-1 (1-1)  PSV Eindhoven
+         De Volewijckers          2-4 (0-2)  Fortuna '54
+         DOS Utrecht              3-1 (0-1)  Willem II
+         DWS Amsterdam            1-1 (0-1)  RKSV Volendam
+         Groninger VAV            2-2 (0-2)  MVV
+         Rapid JC Heerlen         2-5 (0-4)  NAC Breda
+         Sportclub Enschede       2-0 (0-0)  AFC Ajax
+         RC&FC Sparta             1-3 (1-0)  Feijenoord
+         VVV                      1-5 (1-3)  Blauw Wit
+
+
+Matchday 19
+[Sun Jan/28]
+         AFC Ajax                 8-0 (1-0)  DWS Amsterdam
+         Blauw Wit                3-1 (1-1)  MVV
+         Feijenoord               3-0 (1-0)  DOS Utrecht
+         Fortuna '54              0-1 (0-0)  Rapid JC Heerlen
+         NAC Breda                3-2 (1-1)  RC&FC Sparta
+         PSV Eindhoven            4-2 (2-1)  De Volewijckers
+         RKSV Volendam            5-2 (1-0)  Groninger VAV
+         VVV                      1-1 (0-0)  ADO
+         Willem II                2-0 (1-0)  Sportclub Enschede
+
+
+Matchday 20
+[Sun Feb/4]
+         ADO                      1-4 (0-3)  Blauw Wit
+         De Volewijckers          1-0 (0-0)  VVV
+         DOS Utrecht              2-3 (0-2)  NAC Breda
+         DWS Amsterdam            0-2 (0-1)  Willem II
+         Groninger VAV            1-0 (0-0)  AFC Ajax
+         MVV                      3-0 (1-0)  RKSV Volendam
+         Rapid JC Heerlen         1-0 (0-0)  PSV Eindhoven
+         RC&FC Sparta             3-1 (1-0)  Fortuna '54
+[Wed Apr/4]
+         Sportclub Enschede       3-3 (2-1)  Feijenoord
+
+
+Matchday 21
+[Sun Feb/11]
+         AFC Ajax                 3-0 (0-0)  RC&FC Sparta
+         Blauw Wit                1-2 (0-1)  PSV Eindhoven
+         Feijenoord               6-0 (4-0)  De Volewijckers
+         Fortuna '54              4-1 (1-0)  VVV
+         Groninger VAV            3-2 (2-0)  DWS Amsterdam
+         MVV                      1-2 (0-1)  Sportclub Enschede
+         NAC Breda                1-1 (1-1)  ADO
+         RKSV Volendam            4-0 (2-0)  DOS Utrecht
+         Willem II                0-0  Rapid JC Heerlen
+
+
+Matchday 22
+[Sun Feb/18]
+         ADO                      2-1 (2-0)  De Volewijckers
+         AFC Ajax                 0-2 (0-1)  MVV
+         Blauw Wit                4-2 (1-2)  RKSV Volendam
+         Feijenoord               5-2 (3-2)  DWS Amsterdam
+         Fortuna '54              2-2 (1-1)  DOS Utrecht
+         NAC Breda                3-0 (0-0)  Sportclub Enschede
+         PSV Eindhoven            4-0 (4-0)  RC&FC Sparta
+         VVV                      2-0 (2-0)  Rapid JC Heerlen
+         Willem II                1-1 (1-0)  Groninger VAV
+
+
+Matchday 23
+[Sun Feb/25]
+         De Volewijckers          3-3 (1-0)  Blauw Wit
+         DOS Utrecht              1-1 (1-1)  PSV Eindhoven
+         DWS Amsterdam            0-3 (0-0)  NAC Breda
+         Groninger VAV            1-1 (0-0)  Feijenoord
+         MVV                      1-0 (1-0)  Willem II
+         Rapid JC Heerlen         3-3 (2-1)  ADO
+         Sportclub Enschede       1-1 (1-0)  Fortuna '54
+         RC&FC Sparta             2-0 (1-0)  VVV
+         RKSV Volendam            4-0 (2-0)  AFC Ajax
+
+
+Matchday 24
+[Sun Mar/4]
+         ADO                      1-0 (1-0)  RC&FC Sparta
+         Blauw Wit                2-2 (1-1)  AFC Ajax
+         Feijenoord               3-2 (3-2)  MVV
+         Fortuna '54              2-2 (1-2)  DWS Amsterdam
+         NAC Breda                0-0  Groninger VAV
+         PSV Eindhoven            1-1 (0-0)  Sportclub Enschede
+         VVV                      3-2 (1-1)  DOS Utrecht
+         Willem II                3-1 (0-0)  RKSV Volendam
+[Sun Apr/1]
+         De Volewijckers          3-2 (2-1)  Rapid JC Heerlen
+
+
+Matchday 25
+[Sun Mar/11]
+         AFC Ajax                 3-2 (2-0)  Willem II
+         DOS Utrecht              2-2 (1-1)  ADO
+         DWS Amsterdam            0-0  PSV Eindhoven
+         Groninger VAV            0-0  Fortuna '54
+         MVV                      2-2 (0-0)  NAC Breda
+         Rapid JC Heerlen         2-3 (1-3)  Blauw Wit
+         Sportclub Enschede       2-0 (0-0)  VVV
+         RC&FC Sparta             2-2 (1-1)  De Volewijckers
+         RKSV Volendam            1-1 (0-1)  Feijenoord
+
+
+Matchday 26
+[Sun Mar/18]
+         ADO                      2-2 (1-2)  Sportclub Enschede
+         Blauw Wit                2-0 (0-0)  Willem II
+         De Volewijckers          3-0 (0-0)  DOS Utrecht
+         Feijenoord               1-2 (1-2)  AFC Ajax
+         Fortuna '54              2-2 (2-1)  MVV
+         NAC Breda                4-1 (0-1)  RKSV Volendam
+         PSV Eindhoven            4-0 (1-0)  Groninger VAV
+         Rapid JC Heerlen         0-2 (0-0)  RC&FC Sparta
+         VVV                      3-1 (1-1)  DWS Amsterdam
+
+
+Matchday 27
+[Sun Mar/25]
+         AFC Ajax                 2-0 (1-0)  NAC Breda
+         DOS Utrecht              5-0 (2-0)  Rapid JC Heerlen
+         DWS Amsterdam            4-2 (1-0)  ADO
+         Groninger VAV            1-1 (1-0)  VVV
+         MVV                      1-1 (1-0)  PSV Eindhoven
+         Sportclub Enschede       5-3 (2-2)  De Volewijckers
+         RC&FC Sparta             0-0  Blauw Wit
+         RKSV Volendam            2-1 (0-0)  Fortuna '54
+         Willem II                0-0  Feijenoord
+
+
+Matchday 28
+[Sun Apr/8]
+         ADO                      2-2 (2-1)  Groninger VAV
+         Blauw Wit                1-1 (1-1)  Feijenoord
+         De Volewijckers          3-5 (1-2)  DWS Amsterdam
+         Fortuna '54              2-2 (1-2)  AFC Ajax
+         NAC Breda                2-0 (1-0)  Willem II
+         PSV Eindhoven            5-1 (1-0)  RKSV Volendam
+         Rapid JC Heerlen         0-1 (0-1)  Sportclub Enschede
+         RC&FC Sparta             0-0  DOS Utrecht
+         VVV                      2-3 (1-0)  MVV
+
+
+Matchday 29
+[Sun Apr/15]
+         AFC Ajax                 4-5 (2-3)  PSV Eindhoven
+         DOS Utrecht              2-0 (1-0)  Blauw Wit
+         DWS Amsterdam            0-0  Rapid JC Heerlen
+         Feijenoord               4-1 (3-0)  NAC Breda
+         Groninger VAV            2-2 (1-1)  De Volewijckers
+         MVV                      3-1 (2-1)  ADO
+         Sportclub Enschede       0-0  RC&FC Sparta
+         RKSV Volendam            5-0 (1-0)  VVV
+         Willem II                2-0 (1-0)  Fortuna '54
+
+
+Matchday 30
+[Sat Apr/21]
+         ADO                      2-1 (0-1)  RKSV Volendam
+         Blauw Wit                0-2 (0-1)  NAC Breda
+         De Volewijckers          2-0 (2-0)  MVV
+         DOS Utrecht              2-3 (2-0)  Sportclub Enschede
+         Fortuna '54              1-4 (0-1)  Feijenoord
+         PSV Eindhoven            3-2 (2-1)  Willem II
+         Rapid JC Heerlen         1-0 (0-0)  Groninger VAV
+         RC&FC Sparta             2-0 (1-0)  DWS Amsterdam
+         VVV                      1-0 (0-0)  AFC Ajax
+
+
+Matchday 31
+[Mon Apr/23]
+         AFC Ajax                 1-2 (1-0)  ADO
+         DWS Amsterdam            0-0  DOS Utrecht
+         Feijenoord               1-1 (0-0)  PSV Eindhoven
+         Groninger VAV            0-3 (0-1)  RC&FC Sparta
+         MVV                      0-0  Rapid JC Heerlen
+         NAC Breda                0-0  Fortuna '54
+         Sportclub Enschede       2-1 (2-0)  Blauw Wit
+         RKSV Volendam            1-2 (1-0)  De Volewijckers
+         Willem II                1-2 (0-0)  VVV
+
+
+Matchday 32
+[Sun May/6]
+         ADO                      0-3 (0-2)  Willem II
+         Blauw Wit                7-0 (2-0)  Fortuna '54
+         De Volewijckers          3-1 (0-1)  AFC Ajax
+         DOS Utrecht              2-1 (0-1)  Groninger VAV
+         PSV Eindhoven            4-1 (2-0)  NAC Breda
+         Rapid JC Heerlen         1-3 (0-1)  RKSV Volendam
+         Sportclub Enschede       6-1 (1-1)  DWS Amsterdam
+         RC&FC Sparta             1-0 (1-0)  MVV
+         VVV                      1-0 (0-0)  Feijenoord
+
+
+Matchday 33
+[Sun May/13]
+         AFC Ajax                 2-2 (1-0)  Rapid JC Heerlen
+         Blauw Wit                1-2 (0-0)  DWS Amsterdam
+         Feijenoord               1-1 (1-1)  ADO
+         Fortuna '54              1-3 (0-0)  PSV Eindhoven
+         Groninger VAV            1-1 (0-1)  Sportclub Enschede
+         MVV                      1-1 (0-0)  DOS Utrecht
+         NAC Breda                4-1 (0-0)  VVV
+         RKSV Volendam            1-0 (0-0)  RC&FC Sparta
+         Willem II                4-5 (1-5)  De Volewijckers
+
+
+Matchday 34
+[Sun May/20]
+         ADO                      2-3 (2-2)  NAC Breda
+         De Volewijckers          3-0 (2-0)  Feijenoord
+         DOS Utrecht              6-2 (2-1)  RKSV Volendam
+         DWS Amsterdam            2-0 (2-0)  Groninger VAV
+         PSV Eindhoven            2-1 (1-0)  Blauw Wit
+         Rapid JC Heerlen         1-5 (1-3)  Willem II
+         Sportclub Enschede       1-6 (1-4)  MVV
+         RC&FC Sparta             4-0 (1-0)  AFC Ajax
+         VVV                      3-0 (2-0)  Fortuna '54

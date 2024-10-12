@@ -1,0 +1,361 @@
+= LT 1 2000
+
+# Date       Sat Mar/25 - Sat Nov/4 2000 (224d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Mar/25]
+  14.00  Zalgiris Kaunas          0-0  FK Dainava Alytus
+         FK Ekranas               1-1  Inkaras Kaunas
+         FK Atlantas              2-0  Banga Gargždai
+         FK Zalgiris              3-0  Polonija Vilnius
+[Sun Mar/26]
+  13.00  FK Kareda Kaunas         1-1  FK Nevėžis
+
+
+Matchday 2
+[Sat Apr/1]
+  14.00  Polonija Vilnius         0-5  Zalgiris Kaunas
+         FK Kareda Kaunas         1-0  Inkaras Kaunas
+         FK Ekranas               2-3  FK Dainava Alytus
+         Banga Gargždai           1-1  FK Zalgiris
+         FK Atlantas              1-2  FK Nevėžis
+
+
+Matchday 3
+[Tue Apr/4]
+  15.00  FK Kareda Kaunas         0-0  FK Ekranas
+         FK Dainava Alytus        1-1  Polonija Vilnius
+         Banga Gargždai           0-1  Zalgiris Kaunas
+         FK Atlantas              4-1  Inkaras Kaunas
+         FK Zalgiris              5-0  FK Nevėžis
+
+
+Matchday 4
+[Sat Apr/8]
+  13.00  Inkaras Kaunas           0-1  FK Zalgiris
+  15.00  Polonija Vilnius         3-0  Banga Gargždai
+         FK Ekranas               3-1  FK Atlantas
+         FK Dainava Alytus        1-2  FK Kareda Kaunas
+  15.30  Zalgiris Kaunas          0-0  FK Nevėžis
+
+
+Matchday 5
+[Sun Apr/16]
+  15.30  FK Nevėžis               0-0  Polonija Vilnius
+         Zalgiris Kaunas          0-0  Inkaras Kaunas
+         Banga Gargždai           1-2  FK Dainava Alytus
+         FK Atlantas              1-0  FK Kareda Kaunas
+         FK Zalgiris              1-0  FK Ekranas
+
+
+Matchday 6
+[Thu Apr/20]
+  16.00  FK Nevėžis               0-2  Banga Gargždai
+         FK Kareda Kaunas         2-1  FK Zalgiris
+         FK Ekranas               0-4  Zalgiris Kaunas
+         FK Atlantas              2-0  FK Dainava Alytus
+[Fri Apr/21]
+  16.00  Inkaras Kaunas           0-3  Polonija Vilnius
+
+
+Matchday 7
+[Sun Apr/30]
+  14.00  Polonija Vilnius         0-4  FK Ekranas
+         Inkaras Kaunas           2-1  Banga Gargždai
+  16.30  Zalgiris Kaunas          2-0  FK Kareda Kaunas
+         FK Dainava Alytus        1-1  FK Nevėžis
+         FK Zalgiris              1-0  FK Atlantas
+
+
+Matchday 8
+[Sun May/7]
+  16.30  FK Nevėžis               2-0  Inkaras Kaunas
+         FK Kareda Kaunas         2-1  Polonija Vilnius
+         FK Ekranas               5-0  Banga Gargždai
+         FK Atlantas              1-4  Zalgiris Kaunas
+         FK Zalgiris              4-0  FK Dainava Alytus
+
+
+Matchday 9
+[Wed May/10]
+  17.00  Polonija Vilnius         1-3  FK Atlantas
+         FK Nevėžis               0-1  FK Ekranas
+         Zalgiris Kaunas          0-0  FK Zalgiris
+         FK Dainava Alytus        3-1  Inkaras Kaunas
+         Banga Gargždai           0-2  FK Kareda Kaunas
+
+
+Matchday 10
+[Sun May/14]
+  16.00  FK Kareda Kaunas         3-1  Inkaras Kaunas
+  17.00  Polonija Vilnius         0-1  Zalgiris Kaunas
+         FK Ekranas               2-0  FK Dainava Alytus
+         Banga Gargždai           1-2  FK Zalgiris
+         FK Atlantas              2-0  FK Nevėžis
+
+
+Matchday 11
+[Wed May/17]
+  16.00  Inkaras Kaunas           1-3  FK Ekranas
+  17.00  Polonija Vilnius         0-4  FK Zalgiris
+         FK Nevėžis               0-0  FK Kareda Kaunas
+         FK Dainava Alytus        1-4  Zalgiris Kaunas
+         Banga Gargždai           0-5  FK Atlantas
+
+
+Matchday 12
+[Wed May/24]
+  15.30  Inkaras Kaunas           1-1  FK Kareda Kaunas
+  17.30  FK Nevėžis               1-2  FK Atlantas
+         FK Dainava Alytus        0-1  FK Ekranas
+         FK Zalgiris              3-0  Banga Gargždai
+  18.00  Zalgiris Kaunas          5-0  Polonija Vilnius
+
+
+Matchday 13
+[Sun May/28]
+  16.00  Inkaras Kaunas           1-4  FK Atlantas
+  18.00  Polonija Vilnius         2-1  FK Dainava Alytus
+         FK Nevėžis               0-7  FK Zalgiris
+         Zalgiris Kaunas          7-1  Banga Gargždai
+         FK Ekranas               0-2  FK Kareda Kaunas
+
+
+Matchday 14
+[Sat Jun/10]
+  16.00  Banga Gargždai           2-2  Polonija Vilnius
+  17.00  FK Nevėžis               0-2  Zalgiris Kaunas
+[Sun Jun/11]
+  15.00  FK Kareda Kaunas         5-1  FK Dainava Alytus
+         FK Atlantas              2-0  FK Ekranas
+         FK Zalgiris              4-0  Inkaras Kaunas
+
+
+Matchday 15
+[Wed Jun/14]
+  17.00  Polonija Vilnius         0-1  FK Nevėžis
+         FK Ekranas               1-2  FK Zalgiris
+         FK Dainava Alytus        0-0  Banga Gargždai
+  18.30  Inkaras Kaunas           1-3  Zalgiris Kaunas
+[Sat Jul/15]
+  17.00  FK Kareda Kaunas         1-0  FK Atlantas
+
+
+Matchday 16
+[Fri Jun/2]
+  17.30  FK Dainava Alytus        1-3  FK Atlantas
+[Sat Jun/17]
+  15.00  Polonija Vilnius         3-1  Inkaras Kaunas
+[Sun Jun/18]
+  15.00  Zalgiris Kaunas          1-1  FK Ekranas
+         Banga Gargždai           1-2  FK Nevėžis
+         FK Zalgiris              2-1  FK Kareda Kaunas
+
+
+Matchday 17
+[Thu Jun/22]
+  18.00  FK Nevėžis               1-1  FK Dainava Alytus
+         FK Kareda Kaunas         1-5  Zalgiris Kaunas
+  18.30  FK Ekranas               3-0  Polonija Vilnius
+         Banga Gargždai           1-1  Inkaras Kaunas
+[Wed Sep/27]
+  15.30  FK Atlantas              4-1  FK Zalgiris
+
+
+Matchday 18
+[Thu Jun/1]
+  17.00  Banga Gargždai           0-0  FK Ekranas
+[Mon Jun/26]
+  18.30  Polonija Vilnius         0-0  FK Kareda Kaunas
+         FK Dainava Alytus        0-4  FK Zalgiris
+         Inkaras Kaunas           2-5  FK Nevėžis
+[Wed Oct/25]
+  14.00  Zalgiris Kaunas          5-1  FK Atlantas
+
+
+Matchday 19
+[Thu Jun/29]
+  18.30  FK Atlantas              2-0  Polonija Vilnius
+[Fri Jun/30]
+  16.00  Inkaras Kaunas           0-4  FK Dainava Alytus
+  18.30  FK Kareda Kaunas         4-2  Banga Gargždai
+         FK Ekranas               0-1  FK Nevėžis
+         FK Zalgiris              1-1  Zalgiris Kaunas
+
+
+Matchday 20
+[Tue Jul/4]
+  16.00  Inkaras Kaunas           0-3  FK Kareda Kaunas
+  18.00  FK Dainava Alytus        0-1  FK Ekranas
+         FK Zalgiris              2-0  Banga Gargždai
+  18.30  Zalgiris Kaunas          4-0  Polonija Vilnius
+[Wed Aug/9]
+  17.00  FK Nevėžis               0-0  FK Atlantas
+
+
+Matchday 21
+[Sat Jul/22]
+  17.30  FK Kareda Kaunas         1-1  FK Ekranas
+  18.00  FK Dainava Alytus        0-0  Polonija Vilnius
+         FK Atlantas              3-0  Inkaras Kaunas
+         FK Zalgiris              2-0  FK Nevėžis
+[Wed Sep/13]
+  16.00  Banga Gargždai           0-7  Zalgiris Kaunas
+
+
+Matchday 22
+[Tue Jul/25]
+  17.00  Inkaras Kaunas           0-8  FK Zalgiris
+[Sat Jul/29]
+  18.00  FK Dainava Alytus        0-2  FK Kareda Kaunas
+[Tue Aug/1]
+  18.00  FK Ekranas               0-0  FK Atlantas
+[Wed Aug/2]
+  18.00  Polonija Vilnius         2-0  Banga Gargždai
+[Wed Oct/4]
+  14.30  Zalgiris Kaunas          2-0  FK Nevėžis
+
+
+Matchday 23
+[Sun Aug/6]
+  17.00  Zalgiris Kaunas          8-0  Inkaras Kaunas
+  18.00  FK Nevėžis               0-0  Polonija Vilnius
+         Banga Gargždai           0-1  FK Dainava Alytus
+         FK Atlantas              0-2  FK Kareda Kaunas
+         FK Zalgiris              2-0  FK Ekranas
+
+
+Matchday 24
+[Wed Aug/2]
+  15.00  FK Kareda Kaunas         2-2  FK Zalgiris
+[Sat Aug/12]
+  15.00  Inkaras Kaunas           2-0  Polonija Vilnius
+  17.30  FK Nevėžis               1-0  Banga Gargždai
+         FK Atlantas              2-1  FK Dainava Alytus
+[Wed Sep/27]
+  15.30  FK Ekranas               1-0  Zalgiris Kaunas
+
+
+Matchday 25
+[Fri Aug/18]
+  17.00  Polonija Vilnius         1-2  FK Ekranas
+[Sat Aug/19]
+  15.00  Inkaras Kaunas           1-0  Banga Gargždai
+  17.30  Zalgiris Kaunas          6-1  FK Kareda Kaunas
+         FK Dainava Alytus        1-1  FK Nevėžis
+         FK Zalgiris              3-1  FK Atlantas
+
+
+Matchday 26
+[Thu Aug/24]
+  15.00  Inkaras Kaunas           1-2  FK Nevėžis
+  17.00  FK Kareda Kaunas         0-2  Polonija Vilnius
+         FK Atlantas              1-3  Zalgiris Kaunas
+[Sat Sep/2]
+  17.00  FK Ekranas               3-1  Banga Gargždai
+[Wed Sep/13]
+  16.00  FK Zalgiris              8-1  FK Dainava Alytus
+
+
+Matchday 27
+[Mon Aug/28]
+  17.00  Polonija Vilnius         1-2  FK Atlantas
+         FK Dainava Alytus        1-1  Inkaras Kaunas
+         Banga Gargždai           0-3  FK Kareda Kaunas
+[Tue Aug/29]
+  17.00  Zalgiris Kaunas          3-3  FK Zalgiris
+[Wed Sep/13]
+  16.00  FK Nevėžis               0-2  FK Ekranas
+
+
+Matchday 28
+[Wed Sep/6]
+  16.30  FK Nevėžis               0-0  FK Kareda Kaunas
+         Zalgiris Kaunas          0-2  FK Dainava Alytus
+         FK Ekranas               6-0  Inkaras Kaunas
+         Banga Gargždai           0-2  FK Atlantas
+         FK Zalgiris              9-0  Polonija Vilnius
+
+
+Matchday 29
+[Sat Jul/15]
+  15.00  Polonija Vilnius         1-6  FK Zalgiris
+[Sat Sep/9]
+  14.45  FK Dainava Alytus        1-4  Zalgiris Kaunas
+[Sun Sep/10]
+  13.00  Inkaras Kaunas           0-2  FK Ekranas
+  16.00  FK Kareda Kaunas         2-3  FK Nevėžis
+         FK Atlantas              3-1  Banga Gargždai
+
+
+Matchday 30
+[Sat Sep/16]
+  13.00  FK Kareda Kaunas         1-1  Banga Gargždai
+  14.45  FK Zalgiris              1-1  Zalgiris Kaunas
+  16.00  FK Ekranas               0-0  FK Nevėžis
+         Inkaras Kaunas           1-2  FK Dainava Alytus
+         FK Atlantas              5-1  Polonija Vilnius
+
+
+Matchday 31
+[Sat Sep/23]
+  14.45  Zalgiris Kaunas          5-3  FK Atlantas
+  15.30  Polonija Vilnius         1-2  FK Kareda Kaunas
+         FK Nevėžis               1-1  Inkaras Kaunas
+         FK Dainava Alytus        1-3  FK Zalgiris
+         Banga Gargždai           0-1  FK Ekranas
+
+
+Matchday 32
+[Wed Sep/27]
+  15.30  FK Nevėžis               4-0  FK Dainava Alytus
+[Fri Sep/29]
+  15.00  Banga Gargždai           1-0  Inkaras Kaunas
+[Sat Sep/30]
+  14.45  FK Atlantas              2-2  FK Zalgiris
+[Sun Oct/1]
+  14.30  FK Kareda Kaunas         1-5  Zalgiris Kaunas
+  15.00  FK Ekranas               7-1  Polonija Vilnius
+
+
+Matchday 33
+[Sat Oct/14]
+  12.30  Polonija Vilnius         1-2  Inkaras Kaunas
+  14.30  FK Dainava Alytus        0-1  FK Atlantas
+  14.45  FK Zalgiris              2-3  FK Kareda Kaunas
+[Tue Oct/31]
+  14.00  Zalgiris Kaunas          2-0  FK Ekranas
+  15.30  Banga Gargždai           0-0  FK Nevėžis
+
+
+Matchday 34
+[Thu Oct/5]
+  14.30  FK Kareda Kaunas         1-3  FK Atlantas
+[Sat Oct/21]
+  12.00  Inkaras Kaunas           1-2  Zalgiris Kaunas
+  13.30  FK Ekranas               1-2  FK Zalgiris
+  14.00  Polonija Vilnius         0-2  FK Nevėžis
+         FK Dainava Alytus        2-0  Banga Gargždai
+
+
+Matchday 35
+[Sat Oct/28]
+  13.00  FK Nevėžis               0-5  Zalgiris Kaunas
+         Banga Gargždai           1-0  Polonija Vilnius
+  13.30  FK Atlantas              0-0  FK Ekranas
+[Sun Oct/29]
+  14.00  FK Kareda Kaunas         2-1  FK Dainava Alytus
+         FK Zalgiris              6-1  Inkaras Kaunas
+
+
+Matchday 36
+[Sat Nov/4]
+  13.30  Polonija Vilnius         0-0  FK Dainava Alytus
+         FK Ekranas               3-2  FK Kareda Kaunas
+         Inkaras Kaunas           3-2  FK Atlantas
+  14.30  FK Nevėžis               0-0  FK Zalgiris
+         Zalgiris Kaunas          8-1  Banga Gargždai

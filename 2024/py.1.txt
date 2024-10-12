@@ -1,0 +1,539 @@
+= PY 1 2024
+
+# Date       Fri Jan/19 - Sat Dec/14 2024 (330d)
+# Teams      12
+# Matches    264
+# Stages     Apertura (132)  Clausura (132)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jan/19]
+  18.00  Sportivo Ameliano        1-0 (0-0)  Club Nacional
+  20.30  Club Olimpia             1-1 (1-0)  Sol de América
+[Sat Jan/20]
+  18.00  Sportivo Luqueño         2-0 (2-0)  2 de Mayo
+  20.30  General Caballero DJLM   2-1 (1-0)  Tacuary
+[Sun Jan/21]
+  18.00  Cerro Porteño            3-1 (1-1)  Sportivo Trinidense
+  20.30  Guaraní                  1-1 (1-0)  Libertad
+
+
+Matchday 2
+[Tue Jan/23]
+  18.30  Club Nacional            2-2 (1-1)  General Caballero DJLM
+  20.30  Tacuary                  0-1 (0-0)  Club Olimpia
+[Wed Jan/24]
+  18.30  Sol de América           2-2 (1-0)  Guaraní
+  20.30  Libertad                 2-1 (2-1)  Sportivo Luqueño
+[Thu Jan/25]
+  18.30  2 de Mayo                2-1 (0-0)  Sportivo Trinidense
+  20.30  Sportivo Ameliano        1-4 (1-1)  Cerro Porteño
+
+
+Matchday 3
+[Sat Jan/27]
+  18.30  Sportivo Luqueño         1-1 (0-0)  Sol de América
+  20.50  Club Olimpia             2-2 (2-1)  Club Nacional
+[Sun Jan/28]
+  18.30  General Caballero DJLM   1-1 (0-1)  Sportivo Ameliano
+  20.50  Guaraní                  3-0 (3-0)  Tacuary
+[Mon Jan/29]
+  18.30  Sportivo Trinidense      1-2 (0-0)  Libertad
+[Tue Jan/30]
+         Cerro Porteño            0-3  2 de Mayo                [awarded]
+
+
+Matchday 4
+[Fri Feb/2]
+  18.15  Club Nacional            1-4 (1-3)  Guaraní
+  20.45  Sol de América           2-3 (2-3)  Sportivo Trinidense
+[Sat Feb/3]
+  19.00  Tacuary                  1-1 (1-1)  Sportivo Luqueño
+[Sun Feb/4]
+  18.15  General Caballero DJLM   2-2 (1-0)  Cerro Porteño
+  20.45  Libertad                 3-0 (1-0)  2 de Mayo
+[Mon Feb/5]
+  19.30  Sportivo Ameliano        2-1 (1-0)  Club Olimpia
+
+
+Matchday 5
+[Fri Feb/9]
+  18.15  2 de Mayo                3-0 (0-0)  Sol de América
+  20.45  Sportivo Trinidense      1-3 (0-2)  Tacuary
+[Sat Feb/10]
+  18.15  Guaraní                  0-0  Sportivo Ameliano
+  20.45  Club Olimpia             1-1 (1-1)  General Caballero DJLM
+[Sun Feb/11]
+  18.15  Cerro Porteño            1-1 (0-0)  Libertad
+  20.45  Sportivo Luqueño         2-0 (1-0)  Club Nacional
+
+
+Matchday 6
+[Fri Feb/16]
+  18.15  General Caballero DJLM   0-0  Guaraní
+  20.45  Sportivo Ameliano        1-3 (1-1)  Sportivo Luqueño
+[Sat Feb/17]
+  18.15  Club Olimpia             1-1 (1-0)  Cerro Porteño
+[Sun Feb/18]
+  18.15  Sol de América           1-2 (1-1)  Libertad
+  20.45  Club Nacional            2-1 (1-1)  Sportivo Trinidense
+[Mon Feb/19]
+  19.30  Tacuary                  1-1 (1-0)  2 de Mayo
+
+
+Matchday 7
+[Fri Feb/23]
+  19.30  Sportivo Luqueño         1-1 (0-0)  General Caballero DJLM
+[Sat Feb/24]
+  18.15  2 de Mayo                2-0 (2-0)  Club Nacional
+  20.45  Cerro Porteño            0-0  Sol de América
+[Sun Feb/25]
+  18.15  Sportivo Trinidense      0-1 (0-0)  Sportivo Ameliano
+  20.45  Guaraní                  1-3 (0-1)  Club Olimpia
+[Mon Feb/26]
+  19.30  Libertad                 1-1 (0-1)  Tacuary
+
+
+Matchday 8
+[Fri Mar/1]
+  19.30  Guaraní                  1-1 (0-1)  Cerro Porteño
+[Sat Mar/2]
+  18.00  Sportivo Ameliano        0-2 (0-0)  2 de Mayo
+  20.30  Club Olimpia             1-0 (0-0)  Sportivo Luqueño
+[Sun Mar/3]
+  18.00  General Caballero DJLM   3-2 (1-1)  Sportivo Trinidense
+[Mon Mar/4]
+  19.30  Tacuary                  0-2 (0-0)  Sol de América
+[Wed Apr/17]
+  19.00  Club Nacional            1-1 (0-0)  Libertad
+
+
+Matchday 9
+[Fri Mar/8]
+  18.00  Sol de América           1-0 (0-0)  Club Nacional
+  20.30  2 de Mayo                1-1 (1-1)  General Caballero DJLM
+[Sat Mar/9]
+  19.30  Cerro Porteño            0-1 (0-0)  Tacuary
+[Sun Mar/10]
+  18.00  Sportivo Trinidense      1-1 (0-0)  Club Olimpia
+  20.30  Sportivo Luqueño         1-0 (1-0)  Guaraní
+[Mon Mar/11]
+  19.30  Libertad                 4-1 (2-1)  Sportivo Ameliano
+
+
+Matchday 10
+[Fri Mar/15]
+  19.30  Sportivo Luqueño         0-1 (0-0)  Cerro Porteño
+[Sat Mar/16]
+  18.40  Club Olimpia             2-1 (1-0)  2 de Mayo
+  21.00  General Caballero DJLM   0-2 (0-1)  Libertad
+[Sun Mar/17]
+  18.40  Club Nacional            0-1 (0-0)  Tacuary
+  21.00  Guaraní                  1-2 (0-2)  Sportivo Trinidense
+[Mon Mar/18]
+  19.30  Sportivo Ameliano        2-1 (2-0)  Sol de América
+
+
+Matchday 11
+[Wed Mar/27]
+  18.00  Tacuary                  1-1 (1-0)  Sportivo Ameliano
+  20.30  Sportivo Trinidense      0-1 (0-0)  Sportivo Luqueño
+[Sat Mar/30]
+  18.00  Cerro Porteño            1-0 (0-0)  Club Nacional
+  20.30  Libertad                 0-0  Club Olimpia
+[Sun Mar/31]
+  17.30  Sol de América           2-1 (1-0)  General Caballero DJLM
+  20.00  2 de Mayo                0-1 (0-1)  Guaraní
+
+
+Matchday 12
+[Fri Apr/5]
+  18.00  Tacuary                  1-1 (0-1)  General Caballero DJLM
+  20.30  Club Nacional            1-1 (1-1)  Sportivo Ameliano
+[Sat Apr/6]
+  18.00  Sportivo Trinidense      1-3 (1-2)  Cerro Porteño
+  20.30  Libertad                 2-1 (2-1)  Guaraní
+[Sun Apr/7]
+  17.30  Sol de América           0-0  Club Olimpia
+  20.00  2 de Mayo                0-0  Sportivo Luqueño
+
+
+Matchday 13
+[Fri Apr/12]
+  18.00  Guaraní                  1-0 (0-0)  Sol de América
+  21.00  Sportivo Trinidense      1-2 (1-0)  2 de Mayo
+[Sat Apr/13]
+  18.00  Club Olimpia             2-1 (1-0)  Tacuary
+  20.30  General Caballero DJLM   1-2 (0-2)  Club Nacional
+[Sun Apr/14]
+  17.30  Sportivo Luqueño         0-3 (0-1)  Libertad
+  20.00  Cerro Porteño            3-0 (1-0)  Sportivo Ameliano
+
+
+Matchday 14
+[Fri Apr/19]
+  18.00  Sol de América           0-3 (0-2)  Sportivo Luqueño
+  20.30  2 de Mayo                0-2 (0-1)  Cerro Porteño
+[Sat Apr/20]
+  17.30  Sportivo Ameliano        2-0 (1-0)  General Caballero DJLM
+  20.00  Libertad                 2-0 (1-0)  Sportivo Trinidense
+[Sun Apr/21]
+  17.30  Tacuary                  4-4 (3-1)  Guaraní
+  20.00  Club Nacional            0-1 (0-0)  Club Olimpia
+
+
+Matchday 15
+[Fri Apr/26]
+  19.30  Sportivo Trinidense      4-0 (1-0)  Sol de América
+[Sat Apr/27]
+  20.00  Sportivo Luqueño         1-2 (0-1)  Tacuary
+[Sun Apr/28]
+  17.30  Guaraní                  3-1 (2-1)  Club Nacional
+         2 de Mayo                2-0 (1-0)  Libertad
+  20.00  Cerro Porteño            4-0 (2-0)  General Caballero DJLM
+[Mon Apr/29]
+  19.30  Club Olimpia             0-1 (0-1)  Sportivo Ameliano
+
+
+Matchday 16
+[Fri May/3]
+  17.30  Sportivo Ameliano        0-3 (0-0)  Guaraní
+  20.00  Libertad                 1-3 (0-1)  Cerro Porteño
+         Club Nacional            0-1 (0-0)  Sportivo Luqueño
+[Sat May/4]
+  19.30  Tacuary                  0-0  Sportivo Trinidense
+[Sun May/5]
+  17.00  General Caballero DJLM   1-3 (1-0)  Club Olimpia
+  19.30  Sol de América           1-0 (0-0)  2 de Mayo
+
+
+Matchday 17
+[Fri May/10]
+  18.00  2 de Mayo                3-1 (1-0)  Tacuary
+  20.30  Libertad                 4-1 (3-0)  Sol de América
+[Sat May/11]
+  17.00  Sportivo Trinidense      0-1 (0-1)  Club Nacional
+  19.30  Sportivo Luqueño         0-0  Sportivo Ameliano
+[Sun May/12]
+  16.30  Cerro Porteño            1-1 (0-1)  Club Olimpia
+[Mon May/13]
+  19.30  Guaraní                  0-0  General Caballero DJLM
+
+
+Matchday 18
+[Fri May/17]
+  17.30  Sportivo Ameliano        0-2 (0-1)  Sportivo Trinidense
+  20.00  Club Nacional            3-1 (2-1)  2 de Mayo
+[Sat May/18]
+  15.00  Club Olimpia             2-1 (0-1)  Guaraní
+  17.30  Tacuary                  0-0  Libertad
+[Sun May/19]
+  15.15  Sol de América           0-3 (0-2)  Cerro Porteño
+  17.30  General Caballero DJLM   1-2 (1-1)  Sportivo Luqueño
+
+
+Matchday 19
+[Tue May/21]
+  17.30  2 de Mayo                2-1 (2-1)  Sportivo Ameliano
+  20.00  Libertad                 5-0 (2-0)  Club Nacional
+[Wed May/22]
+  14.30  Sol de América           6-3 (2-2)  Tacuary
+  17.30  Sportivo Luqueño         0-2 (0-0)  Club Olimpia
+  20.00  Cerro Porteño            2-0 (0-0)  Guaraní
+[Thu May/23]
+  19.30  Sportivo Trinidense      1-1 (1-0)  General Caballero DJLM
+
+
+Matchday 20
+[Sat May/25]
+  17.00  Tacuary                  1-3 (0-1)  Cerro Porteño
+         Club Nacional            3-0 (1-0)  Sol de América
+  19.30  Guaraní                  0-1 (0-0)  Sportivo Luqueño
+[Sun May/26]
+  14.30  Sportivo Ameliano        0-1 (0-1)  Libertad
+  17.00  Club Olimpia             1-2 (1-0)  Sportivo Trinidense
+[Mon May/27]
+  19.30  General Caballero DJLM   1-0 (0-0)  2 de Mayo
+
+
+Matchday 21
+[Sat Jun/1]
+  15.00  Sportivo Trinidense      0-1 (0-1)  Guaraní
+         Tacuary                  2-5 (0-2)  Club Nacional
+  17.30  2 de Mayo                1-1 (0-0)  Club Olimpia
+[Sun Jun/2]
+  16.30  Cerro Porteño            0-2 (0-2)  Sportivo Luqueño
+         Libertad                 2-0 (1-0)  General Caballero DJLM
+[Mon Jun/3]
+  18.00  Sol de América           2-1 (1-0)  Sportivo Ameliano
+
+
+Matchday 22
+[Tue Jun/4]
+  18.00  Guaraní                  3-2 (0-1)  2 de Mayo
+[Wed Jun/5]
+  15.30  Sportivo Luqueño         2-6 (1-3)  Sportivo Trinidense
+  18.00  Club Nacional            0-2 (0-1)  Cerro Porteño
+         Club Olimpia             1-3 (0-1)  Libertad
+[Thu Jun/6]
+  15.30  Sportivo Ameliano        0-1 (0-1)  Tacuary
+  18.00  General Caballero DJLM   2-3 (1-2)  Sol de América
+
+
+== Clausura
+
+Matchday 1
+[Fri Jul/19]
+  18.30  Club Nacional            0-0  Sportivo Trinidense
+[Sat Jul/20]
+  16.00  Tacuary                  2-4 (1-3)  Libertad
+  18.30  Club Olimpia             1-1 (0-0)  Guaraní
+[Sun Jul/21]
+  16.00  General Caballero DJLM   0-0  Sportivo Luqueño
+  18.30  Sol de América           0-2 (0-1)  2 de Mayo
+[Thu Aug/1]
+  18.30  Cerro Porteño            1-0 (1-0)  Sportivo Ameliano
+
+
+Matchday 2
+[Fri Jul/26]
+  18.30  Sportivo Trinidense      1-2 (1-0)  Guaraní
+[Sat Jul/27]
+  16.00  Sportivo Ameliano        0-0  Tacuary
+  18.30  Sportivo Luqueño         2-1 (1-1)  Sol de América
+[Sun Jul/28]
+  16.00  General Caballero DJLM   0-0  Club Olimpia
+  18.30  Libertad                 1-2 (0-1)  Club Nacional
+[Mon Jul/29]
+  19.00  2 de Mayo                1-1 (0-1)  Cerro Porteño
+
+
+Matchday 3
+[Fri Aug/2]
+  17.30  Tacuary                  0-2 (0-1)  2 de Mayo
+  20.00  Sol de América           3-0 (1-0)  General Caballero DJLM
+[Sat Aug/3]
+  16.30  Guaraní                  0-0  Libertad
+  19.00  Club Olimpia             2-0 (1-0)  Sportivo Trinidense
+[Sun Aug/4]
+  16.00  Club Nacional            0-0  Sportivo Ameliano
+  18.30  Cerro Porteño            4-0 (3-0)  Sportivo Luqueño
+
+
+Matchday 4
+[Tue Aug/6]
+  17.30  Libertad                 2-2 (1-1)  Sportivo Trinidense
+  20.00  Sol de América           0-1 (0-1)  Club Olimpia
+[Wed Aug/7]
+  17.30  Sportivo Ameliano        2-2 (0-0)  Guaraní
+  20.00  2 de Mayo                1-0 (1-0)  Club Nacional
+[Thu Aug/8]
+  17.30  Sportivo Luqueño         1-1 (0-0)  Tacuary
+  20.00  General Caballero DJLM   2-1 (0-1)  Cerro Porteño
+
+
+Matchday 5
+[Sat Aug/10]
+  16.30  Sportivo Trinidense      3-0 (1-0)  Sportivo Ameliano
+  19.00  Guaraní                  0-0  2 de Mayo
+[Sun Aug/11]
+  16.00  Club Olimpia             4-0 (3-0)  Libertad
+  18.30  Cerro Porteño            1-0 (0-0)  Sol de América
+[Mon Aug/12]
+  17.30  Tacuary                  2-1 (1-1)  General Caballero DJLM
+  20.00  Club Nacional            1-0 (0-0)  Sportivo Luqueño
+
+
+Matchday 6
+[Fri Aug/16]
+  17.30  Sportivo Luqueño         2-1 (0-0)  Guaraní
+  20.00  2 de Mayo                1-0 (0-0)  Sportivo Trinidense
+[Sat Aug/17]
+  16.30  General Caballero DJLM   0-0  Club Nacional
+  19.00  Sol de América           1-2 (0-0)  Tacuary
+[Sun Aug/18]
+  16.30  Cerro Porteño            1-1 (0-1)  Club Olimpia
+[Mon Aug/19]
+  18.30  Sportivo Ameliano        0-0  Libertad
+
+
+Matchday 7
+[Fri Aug/23]
+  17.30  Sportivo Trinidense      3-2 (1-1)  Sportivo Luqueño
+  20.00  Club Nacional            3-1 (0-0)  Sol de América
+[Sat Aug/24]
+  16.30  Guaraní                  1-1 (0-1)  General Caballero DJLM
+  19.00  Tacuary                  0-1 (0-0)  Cerro Porteño
+[Sun Aug/25]
+  16.00  Club Olimpia             1-0 (0-0)  Sportivo Ameliano
+  18.30  Libertad                 2-0 (1-0)  2 de Mayo
+
+
+Matchday 8
+[Tue Aug/27]
+  17.30  General Caballero DJLM   2-1 (0-0)  Sportivo Trinidense
+  20.00  Cerro Porteño            2-1 (2-0)  Club Nacional
+[Wed Aug/28]
+  17.30  Sol de América           0-0  Guaraní
+  20.00  Sportivo Luqueño         1-1 (0-0)  Libertad
+[Thu Aug/29]
+  17.30  2 de Mayo                1-1 (1-1)  Sportivo Ameliano
+  20.00  Tacuary                  0-1 (0-0)  Club Olimpia
+
+
+Matchday 9
+[Sat Aug/31]
+  16.30  Libertad                 0-1 (0-1)  General Caballero DJLM
+  19.00  Guaraní                  1-0 (1-0)  Cerro Porteño
+[Sun Sep/1]
+  16.30  Club Olimpia             2-1 (1-0)  2 de Mayo
+  19.00  Club Nacional            1-0 (1-0)  Tacuary
+[Mon Sep/2]
+  17.00  Sportivo Ameliano        3-1 (0-1)  Sportivo Luqueño
+  19.30  Sportivo Trinidense      1-0 (0-0)  Sol de América
+
+
+Matchday 10
+[Wed Sep/11]
+  17.30  Sol de América           0-1 (0-0)  Libertad
+  20.00  Cerro Porteño            1-1 (0-0)  Sportivo Trinidense
+[Thu Sep/12]
+  17.30  Sportivo Luqueño         2-3 (0-1)  2 de Mayo
+  20.00  Club Nacional            2-0 (2-0)  Club Olimpia
+[Fri Sep/13]
+  17.30  General Caballero DJLM   0-4 (0-2)  Sportivo Ameliano
+  20.00  Tacuary                  1-2 (1-1)  Guaraní
+
+
+Matchday 11
+[Sat Sep/14]
+  18.30  Libertad                 2-1 (0-1)  Cerro Porteño
+[Sun Sep/15]
+  18.30  Club Olimpia             4-3 (2-2)  Sportivo Luqueño
+[Mon Sep/16]
+  17.30  Sportivo Trinidense      2-3 (2-2)  Tacuary
+  20.00  Guaraní                  0-0  Club Nacional
+[Tue Sep/17]
+  17.30  Sportivo Ameliano        1-0 (0-0)  Sol de América
+  20.00  2 de Mayo                0-2 (0-1)  General Caballero DJLM
+
+
+Matchday 12
+[Sat Sep/21]
+  17.30  Sportivo Trinidense      0-2 (0-1)  Club Nacional
+  20.00  Sportivo Ameliano        0-1 (0-0)  Cerro Porteño
+[Sun Sep/22]
+  17.00  Libertad                 1-0 (0-0)  Tacuary
+  19.30  Guaraní                  0-0  Club Olimpia
+[Mon Sep/23]
+  17.30  2 de Mayo                1-2 (0-0)  Sol de América
+  20.00  Sportivo Luqueño         1-1 (1-0)  General Caballero DJLM
+
+
+Matchday 13
+[Fri Sep/27]
+  17.30  Tacuary                  0-2 (0-0)  Sportivo Ameliano
+  20.00  Guaraní                  0-0  Sportivo Trinidense
+[Sat Sep/28]
+  17.00  Club Olimpia             0-0  General Caballero DJLM
+  19.30  Sol de América           1-1 (1-0)  Sportivo Luqueño
+[Sun Sep/29]
+  17.00  Club Nacional            2-1 (0-1)  Libertad
+  19.30  Cerro Porteño            0-3 (0-2)  2 de Mayo
+
+
+Matchday 14
+[Fri Oct/4]
+  17.30  General Caballero DJLM   1-1 (0-0)  Sol de América
+  20.00  Sportivo Trinidense      1-2 (1-0)  Club Olimpia
+[Sat Oct/5]
+  17.30  Sportivo Luqueño         1-0 (0-0)  Cerro Porteño
+  20.00  Libertad                 0-2 (0-1)  Guaraní
+[Sun Oct/6]
+  17.00  2 de Mayo                2-1 (1-0)  Tacuary
+  20.00  Sportivo Ameliano        1-0 (0-0)  Club Nacional
+
+
+Matchday 15
+[Fri Oct/11]
+  20.00  Tacuary                  -  Sportivo Luqueño
+[Sat Oct/12]
+  17.30  Guaraní                  -  Sportivo Ameliano
+  20.00  Club Olimpia             -  Sol de América
+[Sun Oct/13]
+  17.00  Sportivo Trinidense      -  Libertad
+  19.30  Cerro Porteño            -  General Caballero DJLM
+[Wed Oct/16]
+  21.00  Club Nacional            -  2 de Mayo
+
+
+Matchday 16
+[Sat Nov/2]
+         Club Olimpia             -  Libertad
+         Sportivo Trinidense      -  Sportivo Ameliano
+         Guaraní                  -  2 de Mayo
+         Club Nacional            -  Sportivo Luqueño
+         Tacuary                  -  General Caballero DJLM
+         Cerro Porteño            -  Sol de América
+
+
+Matchday 17
+[Sat Nov/9]
+         Cerro Porteño            -  Club Olimpia
+         Sol de América           -  Tacuary
+         General Caballero DJLM   -  Club Nacional
+         Sportivo Luqueño         -  Guaraní
+         2 de Mayo                -  Sportivo Trinidense
+         Sportivo Ameliano        -  Libertad
+
+
+Matchday 18
+[Sat Nov/16]
+         Club Olimpia             -  Sportivo Ameliano
+         Libertad                 -  2 de Mayo
+         Sportivo Trinidense      -  Sportivo Luqueño
+         Guaraní                  -  General Caballero DJLM
+         Club Nacional            -  Sol de América
+         Tacuary                  -  Cerro Porteño
+
+
+Matchday 19
+[Sat Nov/23]
+         Tacuary                  -  Club Olimpia
+         Cerro Porteño            -  Club Nacional
+         Sol de América           -  Guaraní
+         General Caballero DJLM   -  Sportivo Trinidense
+         Sportivo Luqueño         -  Libertad
+         2 de Mayo                -  Sportivo Ameliano
+
+
+Matchday 20
+[Sat Nov/30]
+         Club Olimpia             -  2 de Mayo
+         Sportivo Ameliano        -  Sportivo Luqueño
+         Libertad                 -  General Caballero DJLM
+         Sportivo Trinidense      -  Sol de América
+         Guaraní                  -  Cerro Porteño
+         Club Nacional            -  Tacuary
+
+
+Matchday 21
+[Sat Dec/7]
+         Club Nacional            -  Club Olimpia
+         Tacuary                  -  Guaraní
+         Cerro Porteño            -  Sportivo Trinidense
+         Sol de América           -  Libertad
+         General Caballero DJLM   -  Sportivo Ameliano
+         Sportivo Luqueño         -  2 de Mayo
+
+
+Matchday 22
+[Sat Dec/14]
+         Club Olimpia             -  Sportivo Luqueño
+         2 de Mayo                -  General Caballero DJLM
+         Sportivo Ameliano        -  Sol de América
+         Libertad                 -  Cerro Porteño
+         Sportivo Trinidense      -  Tacuary
+         Guaraní                  -  Club Nacional

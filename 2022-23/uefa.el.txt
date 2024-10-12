@@ -1,0 +1,223 @@
+= UEFA EL 2022/23
+
+# Date       Thu Sep/8 2022 - Wed May/31 2023 (265d)
+# Teams      40
+# Matches    141
+
+
+
+Group
+[Thu Sep/8]
+  18.45  FC Zürich (SUI)          1-2 (1-1)  Arsenal FC (ENG)
+         PSV Eindhoven (NED)      1-1 (0-1)  FK Bodø/Glimt (NOR)
+[Thu Sep/15]
+  21.00  FK Bodø/Glimt (NOR)      2-1 (0-0)  FC Zürich (SUI)
+[Thu Oct/6]
+  18.45  FC Zürich (SUI)          1-5 (0-4)  PSV Eindhoven (NED)
+  21.00  Arsenal FC (ENG)         3-0 (2-0)  FK Bodø/Glimt (NOR)
+[Thu Oct/13]
+  18.45  FK Bodø/Glimt (NOR)      0-1 (0-1)  Arsenal FC (ENG)
+  21.00  PSV Eindhoven (NED)      5-0 (3-0)  FC Zürich (SUI)
+[Thu Oct/20]
+  19.00  Arsenal FC (ENG)         1-0 (0-0)  PSV Eindhoven (NED)
+[Thu Oct/27]
+  18.45  PSV Eindhoven (NED)      2-0 (0-0)  Arsenal FC (ENG)
+         FC Zürich (SUI)          2-1 (0-1)  FK Bodø/Glimt (NOR)
+[Thu Nov/3]
+  21.00  Arsenal FC (ENG)         1-0 (1-0)  FC Zürich (SUI)
+         FK Bodø/Glimt (NOR)      1-2 (0-1)  PSV Eindhoven (NED)
+[Thu Sep/8]
+  18.45  Fenerbahçe (TUR)         2-1 (1-0)  Dinamo Kiev (UKR)
+         AEK Larnaca (CYP)        1-2 (1-1)  Stade Rennais (FRA)
+[Thu Sep/15]
+  21.00  Dinamo Kiev (UKR)        0-1 (0-1)  AEK Larnaca (CYP)
+         Stade Rennais (FRA)      2-2 (0-0)  Fenerbahçe (TUR)
+[Thu Oct/6]
+  21.00  Stade Rennais (FRA)      2-1 (1-1)  Dinamo Kiev (UKR)
+         Fenerbahçe (TUR)         2-0 (1-0)  AEK Larnaca (CYP)
+[Thu Oct/13]
+  18.45  Dinamo Kiev (UKR)        0-1 (0-0)  Stade Rennais (FRA)
+         AEK Larnaca (CYP)        1-2 (0-1)  Fenerbahçe (TUR)
+[Thu Oct/27]
+  18.45  AEK Larnaca (CYP)        3-3 (1-1)  Dinamo Kiev (UKR)
+         Fenerbahçe (TUR)         3-3 (1-3)  Stade Rennais (FRA)
+[Thu Nov/3]
+  21.00  Dinamo Kiev (UKR)        0-2 (0-2)  Fenerbahçe (TUR)
+         Stade Rennais (FRA)      1-1 (1-0)  AEK Larnaca (CYP)
+[Thu Sep/8]
+  18.45  PFC Ludogorets Razgrad (BUL)  2-1 (0-0)  AS Roma (ITA)
+         HJK Helsinki (FIN)       0-2 (0-1)  Real Betis (ESP)
+[Thu Sep/15]
+  21.00  AS Roma (ITA)            3-0 (0-0)  HJK Helsinki (FIN)
+         Real Betis (ESP)         3-2 (2-1)  PFC Ludogorets Razgrad (BUL)
+[Thu Oct/6]
+  18.45  HJK Helsinki (FIN)       1-1 (0-1)  PFC Ludogorets Razgrad (BUL)
+  21.00  AS Roma (ITA)            1-2 (1-1)  Real Betis (ESP)
+[Thu Oct/13]
+  18.45  Real Betis (ESP)         1-1 (1-0)  AS Roma (ITA)
+  21.00  PFC Ludogorets Razgrad (BUL)  2-0 (1-0)  HJK Helsinki (FIN)
+[Thu Oct/27]
+  18.45  PFC Ludogorets Razgrad (BUL)  0-1 (0-0)  Real Betis (ESP)
+  21.00  HJK Helsinki (FIN)       1-2 (0-1)  AS Roma (ITA)
+[Thu Nov/3]
+  21.00  AS Roma (ITA)            3-1 (0-1)  PFC Ludogorets Razgrad (BUL)
+         Real Betis (ESP)         3-0 (2-0)  HJK Helsinki (FIN)
+[Thu Sep/8]
+  18.45  Malmö FF (SWE)           0-2 (0-1)  Sporting Braga (POR)
+         1. FC Union Berlin (GER)  0-1 (0-1)  Union Saint-Gilloise (BEL)
+[Thu Sep/15]
+  21.00  Sporting Braga (POR)     1-0 (0-0)  1. FC Union Berlin (GER)
+         Union Saint-Gilloise (BEL)  3-2 (1-1)  Malmö FF (SWE)
+[Thu Oct/6]
+  18.45  Malmö FF (SWE)           0-1 (0-0)  1. FC Union Berlin (GER)
+  21.00  Sporting Braga (POR)     1-2 (0-0)  Union Saint-Gilloise (BEL)
+[Thu Oct/13]
+  18.45  Union Saint-Gilloise (BEL)  3-3 (1-3)  Sporting Braga (POR)
+  21.00  1. FC Union Berlin (GER)  1-0 (0-0)  Malmö FF (SWE)
+[Thu Oct/27]
+  18.45  1. FC Union Berlin (GER)  1-0 (0-0)  Sporting Braga (POR)
+         Malmö FF (SWE)           0-2 (0-2)  Union Saint-Gilloise (BEL)
+[Thu Nov/3]
+  21.00  Sporting Braga (POR)     2-1 (1-0)  Malmö FF (SWE)
+         Union Saint-Gilloise (BEL)  0-1 (0-1)  1. FC Union Berlin (GER)
+[Thu Sep/8]
+  21.00  Manchester United (ENG)  0-1 (0-0)  Real Sociedad (ESP)
+         Omonia Nikosia (CYP)     0-3 (0-1)  FC Sheriff (MDA)
+[Thu Sep/15]
+  18.45  Real Sociedad (ESP)      2-1 (1-0)  Omonia Nikosia (CYP)
+         FC Sheriff (MDA)         0-2 (0-2)  Manchester United (ENG)
+[Thu Oct/6]
+  18.45  FC Sheriff (MDA)         0-2 (0-0)  Real Sociedad (ESP)
+         Omonia Nikosia (CYP)     2-3 (1-0)  Manchester United (ENG)
+[Thu Oct/13]
+  21.00  Manchester United (ENG)  1-0 (0-0)  Omonia Nikosia (CYP)
+         Real Sociedad (ESP)      3-0 (1-0)  FC Sheriff (MDA)
+[Thu Oct/27]
+  21.00  Manchester United (ENG)  3-0 (1-0)  FC Sheriff (MDA)
+         Omonia Nikosia (CYP)     0-2 (0-1)  Real Sociedad (ESP)
+[Thu Nov/3]
+  18.45  FC Sheriff (MDA)         1-0 (0-0)  Omonia Nikosia (CYP)
+         Real Sociedad (ESP)      0-1 (0-1)  Manchester United (ENG)
+[Thu Sep/8]
+  21.00  Lazio Roma (ITA)         4-2 (3-0)  Feyenoord (NED)
+         Sturm Graz (AUT)         1-0 (1-0)  FC Midtjylland (DEN)
+[Thu Sep/15]
+  18.45  FC Midtjylland (DEN)     5-1 (2-0)  Lazio Roma (ITA)
+         Feyenoord (NED)          6-0 (4-0)  Sturm Graz (AUT)
+[Thu Oct/6]
+  18.45  Sturm Graz (AUT)         0-0  Lazio Roma (ITA)
+  21.00  FC Midtjylland (DEN)     2-2 (0-2)  Feyenoord (NED)
+[Thu Oct/13]
+  18.45  Feyenoord (NED)          2-2 (1-1)  FC Midtjylland (DEN)
+  21.00  Lazio Roma (ITA)         2-2 (1-0)  Sturm Graz (AUT)
+[Thu Oct/27]
+  18.45  Lazio Roma (ITA)         2-1 (1-1)  FC Midtjylland (DEN)
+  21.00  Sturm Graz (AUT)         1-0 (0-0)  Feyenoord (NED)
+[Thu Nov/3]
+  18.45  Feyenoord (NED)          1-0 (0-0)  Lazio Roma (ITA)
+         FC Midtjylland (DEN)     2-0 (1-0)  Sturm Graz (AUT)
+[Thu Sep/8]
+  21.00  FC Nantes (FRA)          2-1 (1-0)  Olympiakos Piraeus (GRE)
+         SC Freiburg (GER)        2-1 (2-1)  Qarabağ FK (AZE)
+[Thu Sep/15]
+  18.45  Olympiakos Piraeus (GRE)  0-3 (0-2)  SC Freiburg (GER)
+         Qarabağ FK (AZE)         3-0 (0-0)  FC Nantes (FRA)
+[Thu Oct/6]
+  21.00  Olympiakos Piraeus (GRE)  0-3 (0-0)  Qarabağ FK (AZE)
+         SC Freiburg (GER)        2-0 (0-0)  FC Nantes (FRA)
+[Thu Oct/13]
+  18.45  Qarabağ FK (AZE)         0-0  Olympiakos Piraeus (GRE)
+         FC Nantes (FRA)          0-4 (0-1)  SC Freiburg (GER)
+[Thu Oct/27]
+  21.00  SC Freiburg (GER)        1-1 (0-1)  Olympiakos Piraeus (GRE)
+         FC Nantes (FRA)          2-1 (1-0)  Qarabağ FK (AZE)
+[Thu Nov/3]
+  18.45  Olympiakos Piraeus (GRE)  0-2 (0-0)  FC Nantes (FRA)
+         Qarabağ FK (AZE)         1-1 (0-1)  SC Freiburg (GER)
+[Thu Sep/8]
+  21.00  Crvena Zvezda (SRB)      0-1 (0-0)  AS Monaco (FRA)
+         Ferencvárosi TC (HUN)    3-2 (3-1)  Trabzonspor (TUR)
+[Thu Sep/15]
+  18.45  Trabzonspor (TUR)        2-1 (1-0)  Crvena Zvezda (SRB)
+         AS Monaco (FRA)          0-1 (0-0)  Ferencvárosi TC (HUN)
+[Thu Oct/6]
+  18.45  Crvena Zvezda (SRB)      4-1 (2-0)  Ferencvárosi TC (HUN)
+         AS Monaco (FRA)          3-1 (2-0)  Trabzonspor (TUR)
+[Thu Oct/13]
+  21.00  Ferencvárosi TC (HUN)    2-1 (1-0)  Crvena Zvezda (SRB)
+         Trabzonspor (TUR)        4-0 (1-0)  AS Monaco (FRA)
+[Thu Oct/27]
+  21.00  Crvena Zvezda (SRB)      2-1 (1-1)  Trabzonspor (TUR)
+         Ferencvárosi TC (HUN)    1-1 (0-1)  AS Monaco (FRA)
+[Thu Nov/3]
+  18.45  AS Monaco (FRA)          4-1 (2-0)  Crvena Zvezda (SRB)
+         Trabzonspor (TUR)        1-0 (1-0)  Ferencvárosi TC (HUN)
+
+
+Playoffs
+[Thu Feb/16]
+  18.45  FC Barcelona (ESP)       2-2 (0-0)  Manchester United (ENG)
+         Shakhtar Donetsk (UKR)   2-1 (2-0)  Stade Rennais (FRA)
+         AFC Ajax (NED)           0-0  1. FC Union Berlin (GER)
+         RB Salzburg (AUT)        1-0 (0-0)  AS Roma (ITA)
+  21.00  Juventus (ITA)           1-1 (1-0)  FC Nantes (FRA)
+         Sporting CP (POR)        1-1 (0-0)  FC Midtjylland (DEN)
+         Bayer Leverkusen (GER)   2-3 (0-1)  AS Monaco (FRA)
+         Sevilla FC (ESP)         3-0 (1-0)  PSV Eindhoven (NED)
+[Thu Feb/23]
+  18.45  FC Nantes (FRA)          0-3 (0-2)  Juventus (ITA)
+         FC Midtjylland (DEN)     0-4 (0-1)  Sporting CP (POR)
+         AS Monaco (FRA)          3-5 pen. 2-3 a.e.t. (2-3, 1-2)  Bayer Leverkusen (GER)
+         PSV Eindhoven (NED)      2-0 (0-0)  Sevilla FC (ESP)
+  21.00  Manchester United (ENG)  2-1 (0-1)  FC Barcelona (ESP)
+         Stade Rennais (FRA)      4-5 pen. 2-1 a.e.t. (1-0, 0-0)  Shakhtar Donetsk (UKR)
+         1. FC Union Berlin (GER)  3-1 (2-0)  AFC Ajax (NED)
+         AS Roma (ITA)            2-0 (2-0)  RB Salzburg (AUT)
+
+
+Round of 16
+[Thu Mar/9]
+  18.45  1. FC Union Berlin (GER)  3-3 (1-1)  Union Saint-Gilloise (BEL)
+         Bayer Leverkusen (GER)   2-0 (1-0)  Ferencvárosi TC (HUN)
+         Sporting CP (POR)        2-2 (1-1)  Arsenal FC (ENG)
+         AS Roma (ITA)            2-0 (1-0)  Real Sociedad (ESP)
+  21.00  Sevilla FC (ESP)         2-0 (0-0)  Fenerbahçe (TUR)
+         Juventus (ITA)           1-0 (0-0)  SC Freiburg (GER)
+         Manchester United (ENG)  4-1 (1-1)  Real Betis (ESP)
+         Shakhtar Donetsk (UKR)   1-1 (0-0)  Feyenoord (NED)
+[Thu Mar/16]
+  18.45  Fenerbahçe (TUR)         1-0 (1-0)  Sevilla FC (ESP)
+         SC Freiburg (GER)        0-2 (0-1)  Juventus (ITA)
+         Real Betis (ESP)         0-1 (0-0)  Manchester United (ENG)
+         Feyenoord (NED)          7-1 (3-0)  Shakhtar Donetsk (UKR)
+  21.00  Union Saint-Gilloise (BEL)  3-0 (1-0)  1. FC Union Berlin (GER)
+         Ferencvárosi TC (HUN)    0-2 (0-1)  Bayer Leverkusen (GER)
+         Arsenal FC (ENG)         3-5 pen. 1-1 a.e.t. (1-1, 1-0)  Sporting CP (POR)
+         Real Sociedad (ESP)      0-0  AS Roma (ITA)
+
+
+Quarterfinals
+[Thu Apr/13]
+  18.45  Feyenoord (NED)          1-0 (0-0)  AS Roma (ITA)
+  21.00  Manchester United (ENG)  2-2 (2-0)  Sevilla FC (ESP)
+         Juventus (ITA)           1-0 (0-0)  Sporting CP (POR)
+         Bayer Leverkusen (GER)   1-1 (0-0)  Union Saint-Gilloise (BEL)
+[Thu Apr/20]
+  21.00  Sevilla FC (ESP)         3-0 (1-0)  Manchester United (ENG)
+         Sporting CP (POR)        1-1 (1-1)  Juventus (ITA)
+         Union Saint-Gilloise (BEL)  1-4 (0-2)  Bayer Leverkusen (GER)
+         AS Roma (ITA)            4-1 a.e.t. (2-1, 0-0)  Feyenoord (NED)
+
+
+Semifinals
+[Thu May/11]
+  21.00  Juventus (ITA)           1-1 (0-1)  Sevilla FC (ESP)
+         AS Roma (ITA)            1-0 (0-0)  Bayer Leverkusen (GER)
+[Thu May/18]
+  21.00  Sevilla FC (ESP)         2-1 a.e.t. (1-1, 0-0)  Juventus (ITA)
+         Bayer Leverkusen (GER)   0-0  AS Roma (ITA)
+
+
+Final
+[Wed May/31]
+  21.00  Sevilla FC (ESP)         4-1 pen. 1-1 a.e.t. (1-1, 0-1)  AS Roma (ITA)

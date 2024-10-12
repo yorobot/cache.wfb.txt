@@ -1,0 +1,518 @@
+= SV 1 2019/20
+
+# Date       Fri Jul/26 2019 - Sat May/9 2020 (288d)
+# Teams      12
+# Matches    273
+# Stages     Apertura (132)  Apertura Playoffs (9)  Clausura (132)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jul/26]
+  19.30  Santa Tecla FC           3-0 (2-0)  AD Chalatenango
+[Sat Jul/27]
+  15.30  CD Águila                3-0 (0-0)  El Vencedor
+[Sun Jul/28]
+  15.00  Municipal Limeño         3-0 (1-0)  Once Municipal
+  15.15  Independiente San Vincente  0-1 (0-1)  Isidro Metapán
+  15.30  Alianza                  2-2 (1-1)  FAS
+         Sonsonate FC             0-0  Jocoro FC
+
+
+Matchday 2
+[Sat Aug/3]
+  15.15  Jocoro FC                2-1 (1-0)  Santa Tecla FC
+  15.30  Alianza                  3-0 (0-0)  Once Municipal
+[Sun Aug/4]
+  15.00  El Vencedor              0-0  Independiente San Vincente
+  15.30  FAS                      1-2 (1-1)  CD Águila
+         AD Chalatenango          2-3 (0-3)  Municipal Limeño
+  15.45  Isidro Metapán           1-1 (1-0)  Sonsonate FC
+
+
+Matchday 3
+[Sat Aug/10]
+  15.30  CD Águila                2-1 (0-1)  Once Municipal
+  16.00  Isidro Metapán           2-1 (1-1)  El Vencedor
+[Sun Aug/11]
+  15.00  Municipal Limeño         2-1 (1-0)  Jocoro FC
+  15.15  Independiente San Vincente  1-1 (1-1)  FAS
+  15.30  Alianza                  1-0 (0-0)  AD Chalatenango
+  16.00  Sonsonate FC             2-1 (1-0)  Santa Tecla FC
+
+
+Matchday 4
+[Wed Aug/14]
+  15.30  El Vencedor              2-2 (2-1)  Sonsonate FC
+  16.00  AD Chalatenango          1-0 (0-0)  CD Águila
+         Jocoro FC                1-2 (1-1)  Alianza
+  19.15  Santa Tecla FC           0-0  Municipal Limeño
+[Thu Aug/15]
+  19.00  Once Municipal           1-1 (1-0)  Independiente San Vincente
+  19.30  FAS                      1-0 (1-0)  Isidro Metapán
+
+
+Matchday 5
+[Sat Aug/17]
+  15.30  El Vencedor              1-1 (1-0)  FAS
+  15.45  CD Águila                2-0 (1-0)  Jocoro FC
+  18.30  Sonsonate FC             3-2 (0-0)  Municipal Limeño
+  19.00  Isidro Metapán           1-2 (0-0)  Once Municipal
+         Alianza                  1-0 (0-0)  Santa Tecla FC
+[Sun Aug/18]
+  15.15  Independiente San Vincente  0-1 (0-1)  AD Chalatenango
+
+
+Matchday 6
+[Sat Aug/24]
+  15.30  Jocoro FC                0-1 (0-0)  Independiente San Vincente
+  18.30  AD Chalatenango          3-3 (2-0)  Isidro Metapán
+[Sun Aug/25]
+  15.00  Once Municipal           0-4 (0-2)  El Vencedor
+         Municipal Limeño         1-0 (1-0)  Alianza
+  15.30  FAS                      3-0 (1-0)  Sonsonate FC
+[Wed Sep/25]
+  19.15  Santa Tecla FC           2-1 (2-0)  CD Águila
+
+
+Matchday 7
+[Sat Aug/31]
+  15.30  El Vencedor              1-1 (1-1)  AD Chalatenango
+  18.30  Sonsonate FC             1-4 (0-1)  Alianza
+  19.00  Isidro Metapán           1-0 (1-0)  Jocoro FC
+[Sun Sep/1]
+  15.15  Independiente San Vincente  0-5 (0-1)  Santa Tecla FC
+  15.30  FAS                      2-2 (1-1)  Once Municipal
+         CD Águila                2-3 (1-2)  Municipal Limeño
+
+
+Matchday 8
+[Sun Sep/8]
+  13.30  Jocoro FC                0-3 (0-1)  El Vencedor
+  15.45  Municipal Limeño         2-3 (1-0)  Independiente San Vincente
+  16.00  AD Chalatenango          1-1 (0-0)  FAS
+[Wed Sep/11]
+  15.30  Once Municipal           2-3 (1-1)  Sonsonate FC
+[Thu Sep/12]
+  19.15  Santa Tecla FC           2-2 (1-1)  Isidro Metapán
+  19.30  Alianza                  2-0 (1-0)  CD Águila
+
+
+Matchday 9
+[Sat Sep/14]
+  15.30  Once Municipal           0-3 (0-0)  AD Chalatenango
+         El Vencedor              1-1 (1-0)  Santa Tecla FC
+  18.30  Sonsonate FC             2-0 (2-0)  CD Águila
+[Sun Sep/15]
+  15.30  FAS                      1-2 (1-2)  Jocoro FC
+         Independiente San Vincente  1-1 (0-0)  Alianza
+[Wed Sep/25]
+  15.30  Isidro Metapán           1-1 (0-1)  Municipal Limeño
+
+
+Matchday 10
+[Wed Sep/18]
+  15.30  Jocoro FC                1-0 (0-0)  Once Municipal
+         El Vencedor              1-0 (0-0)  Municipal Limeño
+         CD Águila                1-0 (0-0)  Independiente San Vincente
+  19.00  Sonsonate FC             2-1 (1-1)  AD Chalatenango
+  19.15  Santa Tecla FC           3-1 (0-1)  FAS
+  19.30  Isidro Metapán           1-2 (1-0)  Alianza
+
+
+Matchday 11
+[Sat Sep/21]
+  18.30  AD Chalatenango          2-2 (1-0)  Jocoro FC
+  19.15  Isidro Metapán           2-0 (1-0)  CD Águila
+[Sun Sep/22]
+  15.00  Once Municipal           2-3 (1-3)  Santa Tecla FC
+  15.15  Municipal Limeño         1-2 (0-1)  FAS
+         Independiente San Vincente  1-1 (0-1)  Sonsonate FC
+  15.30  El Vencedor              2-0 (1-0)  Alianza
+
+
+Matchday 12
+[Sat Sep/28]
+  15.00  Once Municipal           0-1 (0-1)  Municipal Limeño
+  15.30  Jocoro FC                0-1 (0-0)  Sonsonate FC
+  18.30  AD Chalatenango          3-0 (0-0)  Santa Tecla FC
+  19.15  Isidro Metapán           4-2 (2-2)  Independiente San Vincente
+[Sun Sep/29]
+  15.15  FAS                      2-2 (1-2)  Alianza
+  15.30  El Vencedor              0-0  CD Águila
+
+
+Matchday 13
+[Fri Oct/4]
+  19.15  Santa Tecla FC           2-0 (1-0)  Jocoro FC
+[Sat Oct/5]
+  15.30  CD Águila                1-2 (0-0)  FAS
+  18.30  Sonsonate FC             2-0 (2-0)  Isidro Metapán
+[Sun Oct/6]
+  15.15  Alianza                  2-1 (1-0)  Once Municipal
+         Independiente San Vincente  1-2 (0-2)  El Vencedor
+         Municipal Limeño         1-3 (0-1)  AD Chalatenango
+
+
+Matchday 14
+[Fri Oct/18]
+  15.15  El Vencedor              2-2 (1-1)  Isidro Metapán
+[Sat Oct/19]
+  17.00  Santa Tecla FC           3-1 (1-0)  Sonsonate FC
+  18.30  AD Chalatenango          0-2 (0-1)  Alianza
+[Sun Oct/20]
+  15.00  Once Municipal           0-1 (0-0)  CD Águila
+         Jocoro FC                1-2 (0-1)  Municipal Limeño
+  15.15  FAS                      3-1 (2-1)  Independiente San Vincente
+
+
+Matchday 15
+[Thu Oct/17]
+  19.30  Alianza                  1-0 (1-0)  Jocoro FC
+[Wed Oct/23]
+  14.45  Municipal Limeño         2-2 (1-1)  Santa Tecla FC
+  15.15  CD Águila                2-2 (2-1)  AD Chalatenango
+  15.30  Independiente San Vincente  3-0 (2-0)  Once Municipal
+  19.00  Sonsonate FC             3-2 (1-2)  El Vencedor
+  19.30  Isidro Metapán           0-2 (0-0)  FAS
+
+
+Matchday 16
+[Sat Oct/26]
+  15.15  Jocoro FC                2-2 (0-1)  CD Águila
+  18.30  AD Chalatenango          3-1 (2-0)  Independiente San Vincente
+[Sun Oct/27]
+  14.45  Municipal Limeño         3-1 (2-0)  Sonsonate FC
+  15.00  Once Municipal           1-1 (1-1)  Isidro Metapán
+  15.15  FAS                      4-1 (2-1)  El Vencedor
+         Santa Tecla FC           0-0  Alianza
+
+
+Matchday 17
+[Sat Nov/2]
+  19.00  Sonsonate FC             1-0 (0-0)  FAS
+  19.15  Isidro Metapán           2-2 (0-0)  AD Chalatenango
+[Sun Nov/3]
+  15.00  El Vencedor              0-1 (0-0)  Once Municipal
+  15.15  Independiente San Vincente  2-1 (1-1)  Jocoro FC
+         Alianza                  4-1 (2-0)  Municipal Limeño
+         CD Águila                1-0 (1-0)  Santa Tecla FC
+
+
+Matchday 18
+[Sat Nov/9]
+  15.00  Jocoro FC                0-1 (0-1)  Isidro Metapán
+  17.00  Santa Tecla FC           1-1 (0-0)  Independiente San Vincente
+  18.30  AD Chalatenango          0-0  El Vencedor
+  19.00  Alianza                  3-1 (2-1)  Sonsonate FC
+[Sun Nov/10]
+  14.45  Municipal Limeño         0-0  CD Águila
+  15.00  Once Municipal           1-1 (1-1)  FAS
+
+
+Matchday 19
+[Sun Nov/17]
+  15.00  El Vencedor              1-2 (0-1)  Jocoro FC
+  15.15  Independiente San Vincente  2-2 (0-1)  Municipal Limeño
+  16.00  Sonsonate FC             0-4 (0-1)  Once Municipal
+[Wed Nov/20]
+  19.30  FAS                      4-0 (3-0)  AD Chalatenango
+         Isidro Metapán           0-0  Santa Tecla FC
+[Thu Nov/21]
+  15.00  CD Águila                0-0  Alianza
+
+
+Matchday 20
+[Sat Nov/23]
+  14.30  Jocoro FC                1-2 (0-1)  FAS
+[Sun Nov/24]
+         Isidro Metapán           0-2  Municipal Limeño         [awarded]
+[Sat Nov/23]
+  17.30  Santa Tecla FC           1-3 (1-2)  El Vencedor
+  18.30  AD Chalatenango          3-0 (1-0)  Once Municipal
+[Sun Nov/24]
+  15.00  CD Águila                2-1 (1-1)  Sonsonate FC
+  15.15  Alianza                  0-0  Independiente San Vincente
+
+
+Matchday 21
+[Wed Nov/27]
+  15.00  AD Chalatenango          2-4 (2-3)  Sonsonate FC
+         Once Municipal           2-2 (1-1)  Jocoro FC
+         FAS                      2-1 (0-0)  Santa Tecla FC
+         Alianza                  2-1 (0-0)  Isidro Metapán
+         Municipal Limeño         0-1 (0-1)  El Vencedor
+         Independiente San Vincente  0-1 (0-1)  CD Águila
+
+
+Matchday 22
+[Sun Dec/1]
+  15.00  Jocoro FC                4-1 (1-0)  AD Chalatenango
+         Santa Tecla FC           2-1 (1-1)  Once Municipal
+         FAS                      0-1 (0-0)  Municipal Limeño
+         Alianza                  4-3 (2-1)  El Vencedor
+         CD Águila                1-2 (0-1)  Isidro Metapán
+         Sonsonate FC             1-1 (1-0)  Independiente San Vincente
+
+
+== Apertura Playoffs
+
+Qualifikation
+[Wed Dec/4]
+  17.15  Santa Tecla FC           3-0 (2-0)  Municipal Limeño
+[Thu Dec/5]
+  19.15  CD Águila                1-0 (0-0)  Sonsonate FC
+[Sat Dec/7]
+  19.00  Sonsonate FC             1-0 (1-0)  CD Águila
+[Sun Dec/8]
+  15.00  Municipal Limeño         2-0 (1-0)  Santa Tecla FC
+
+
+Semifinals
+[Wed Dec/11]
+  19.15  Sonsonate FC             0-0  Alianza
+[Thu Dec/12]
+  19.15  Santa Tecla FC           1-1 (1-1)  FAS
+[Sun Dec/15]
+  15.00  FAS                      0-0  Santa Tecla FC
+  17.00  Alianza                  4-1 (2-1)  Sonsonate FC
+
+
+Final
+[Sun Dec/22]
+  15.00  Alianza                  1-0 (0-0)  FAS
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/18]
+  17.00  Santa Tecla FC           2-2 (0-0)  Jocoro FC
+  18.30  AD Chalatenango          0-0  CD Águila
+         Sonsonate FC             0-2 (0-0)  El Vencedor
+  19.15  Isidro Metapán           1-3 (1-1)  Alianza
+[Sun Jan/19]
+  15.00  Municipal Limeño         0-1 (0-0)  FAS
+  15.15  Independiente San Vincente  1-0 (1-0)  Once Municipal
+
+
+Matchday 2
+[Wed Jan/22]
+  15.00  Once Municipal           2-1 (1-0)  Municipal Limeño
+  15.15  Jocoro FC                0-0  Isidro Metapán
+  15.30  El Vencedor              1-0 (0-0)  AD Chalatenango
+  19.30  Alianza                  2-2 (1-0)  Sonsonate FC
+[Thu Jan/23]
+  15.00  FAS                      2-0 (0-0)  Santa Tecla FC
+  15.15  CD Águila                0-0  Independiente San Vincente
+
+
+Matchday 3
+[Sat Jan/25]
+  18.30  AD Chalatenango          3-1 (2-1)  Alianza
+         Sonsonate FC             3-2 (3-1)  Jocoro FC
+[Sun Jan/26]
+  15.00  Municipal Limeño         2-0 (2-0)  CD Águila
+  15.15  FAS                      0-1 (0-0)  Once Municipal
+         Independiente San Vincente  0-0  El Vencedor
+  16.30  Santa Tecla FC           0-0  Isidro Metapán
+
+
+Matchday 4
+[Sat Feb/1]
+  15.15  Jocoro FC                4-1 (2-0)  AD Chalatenango
+  19.15  Isidro Metapán           1-0 (1-0)  Sonsonate FC
+[Sun Feb/2]
+  15.00  Once Municipal           1-0 (1-0)  Santa Tecla FC
+  15.15  CD Águila                1-0 (1-0)  FAS
+         Alianza                  0-1 (0-0)  Independiente San Vincente
+  15.30  El Vencedor              1-1 (0-0)  Municipal Limeño
+
+
+Matchday 5
+[Wed Feb/5]
+  15.15  Once Municipal           0-0  CD Águila
+         FAS                      0-1 (0-0)  El Vencedor
+  15.30  Municipal Limeño         2-2 (0-2)  Alianza
+         Independiente San Vincente  2-2 (0-1)  Jocoro FC
+  18.30  AD Chalatenango          0-0  Isidro Metapán
+  19.15  Santa Tecla FC           2-2 (1-0)  Sonsonate FC
+
+
+Matchday 6
+[Sat Feb/8]
+  15.15  Jocoro FC                2-2 (1-0)  Municipal Limeño
+  18.30  Sonsonate FC             1-1 (1-0)  AD Chalatenango
+  19.00  Alianza                  2-0 (2-0)  FAS
+  19.15  Isidro Metapán           0-1 (0-1)  Independiente San Vincente
+[Sun Feb/9]
+  15.15  CD Águila                1-0 (0-0)  Santa Tecla FC
+  15.30  El Vencedor              0-1 (0-1)  Once Municipal
+
+
+Matchday 7
+[Sat Feb/15]
+  15.15  CD Águila                1-1 (0-1)  El Vencedor
+  17.00  Santa Tecla FC           2-1 (1-1)  AD Chalatenango
+[Sun Feb/16]
+  15.15  FAS                      2-1 (1-1)  Jocoro FC
+         Municipal Limeño         0-1 (0-1)  Isidro Metapán
+         Independiente San Vincente  1-1 (0-1)  Sonsonate FC
+  15.30  Once Municipal           0-0  Alianza
+
+
+Matchday 8
+[Sat Feb/22]
+  15.15  Jocoro FC                3-2 (1-0)  Once Municipal
+  18.30  AD Chalatenango          0-0  Independiente San Vincente
+  19.00  Alianza                  1-0 (0-0)  CD Águila
+         Sonsonate FC             0-3 (0-1)  Municipal Limeño
+  19.15  Isidro Metapán           0-1 (0-1)  FAS
+[Sun Feb/23]
+  15.30  El Vencedor              1-1 (0-0)  Santa Tecla FC
+
+
+Matchday 9
+[Wed Feb/26]
+  14.30  Municipal Limeño         1-1 (1-0)  AD Chalatenango
+  15.15  CD Águila                1-0 (1-0)  Jocoro FC
+         FAS                      0-1 (0-1)  Sonsonate FC
+  15.30  Once Municipal           0-1 (0-1)  Isidro Metapán
+  19.15  Santa Tecla FC           2-0 (0-0)  Independiente San Vincente
+[Wed Mar/4]
+  19.30  El Vencedor              1-2 (0-1)  Alianza
+
+
+Matchday 10
+[Sat Feb/29]
+  15.15  Jocoro FC                2-3 (0-2)  El Vencedor
+  17.00  Santa Tecla FC           1-1 (0-1)  Alianza
+  18.30  AD Chalatenango          1-0 (1-0)  FAS
+  19.00  Sonsonate FC             1-2 (0-1)  Once Municipal
+  19.15  Isidro Metapán           1-0 (0-0)  CD Águila
+[Sun Mar/1]
+  15.15  Independiente San Vincente  1-1 (0-0)  Municipal Limeño
+
+
+Matchday 11
+[Sat Mar/7]
+  15.30  CD Águila                1-1 (1-1)  Sonsonate FC
+  19.00  Alianza                  1-2 (0-0)  Jocoro FC
+[Sun Mar/8]
+  14.30  Municipal Limeño         2-1 (1-0)  Santa Tecla FC
+  15.00  Once Municipal           3-0 (1-0)  AD Chalatenango
+  15.30  El Vencedor              2-0 (0-0)  Isidro Metapán
+         FAS                      2-1 (0-1)  Independiente San Vincente
+
+
+Matchday 12
+[Sat Mar/14]
+         CD Águila                -  AD Chalatenango          [cancelled]
+[Sun Mar/15]
+         FAS                      -  Municipal Limeño         [cancelled]
+         Once Municipal           -  Independiente San Vincente  [cancelled]
+         El Vencedor              -  Sonsonate FC             [cancelled]
+         Jocoro FC                -  Santa Tecla FC           [cancelled]
+[Mon Mar/16]
+         Alianza                  -  Isidro Metapán           [cancelled]
+
+
+Matchday 13
+[Wed Mar/18]
+         Santa Tecla FC           -  FAS                      [cancelled]
+         Municipal Limeño         -  Once Municipal           [cancelled]
+         Independiente San Vincente  -  CD Águila                [cancelled]
+         AD Chalatenango          -  El Vencedor              [cancelled]
+         Sonsonate FC             -  Alianza                  [cancelled]
+         Isidro Metapán           -  Jocoro FC                [cancelled]
+
+
+Matchday 14
+[Sun Mar/22]
+         Once Municipal           -  FAS                      [cancelled]
+         CD Águila                -  Municipal Limeño         [cancelled]
+         El Vencedor              -  Independiente San Vincente  [cancelled]
+         Alianza                  -  AD Chalatenango          [cancelled]
+         Jocoro FC                -  Sonsonate FC             [cancelled]
+         Isidro Metapán           -  Santa Tecla FC           [cancelled]
+
+
+Matchday 15
+[Sun Apr/5]
+         Santa Tecla FC           -  Once Municipal           [cancelled]
+         FAS                      -  CD Águila                [cancelled]
+         Municipal Limeño         -  El Vencedor              [cancelled]
+         Independiente San Vincente  -  Alianza                  [cancelled]
+         AD Chalatenango          -  Jocoro FC                [cancelled]
+         Sonsonate FC             -  Isidro Metapán           [cancelled]
+
+
+Matchday 16
+[Wed Apr/8]
+         CD Águila                -  Once Municipal           [cancelled]
+         El Vencedor              -  FAS                      [cancelled]
+         Alianza                  -  Municipal Limeño         [cancelled]
+         Jocoro FC                -  Independiente San Vincente  [cancelled]
+         Isidro Metapán           -  AD Chalatenango          [cancelled]
+         Sonsonate FC             -  Santa Tecla FC           [cancelled]
+
+
+Matchday 17
+[Sun Apr/12]
+         Santa Tecla FC           -  CD Águila                [cancelled]
+         Once Municipal           -  El Vencedor              [cancelled]
+         FAS                      -  Alianza                  [cancelled]
+         Municipal Limeño         -  Jocoro FC                [cancelled]
+         Independiente San Vincente  -  Isidro Metapán           [cancelled]
+         AD Chalatenango          -  Sonsonate FC             [cancelled]
+
+
+Matchday 18
+[Sun Apr/19]
+         El Vencedor              -  CD Águila                [cancelled]
+         Alianza                  -  Once Municipal           [cancelled]
+         Jocoro FC                -  FAS                      [cancelled]
+         Isidro Metapán           -  Municipal Limeño         [cancelled]
+         Sonsonate FC             -  Independiente San Vincente  [cancelled]
+         AD Chalatenango          -  Santa Tecla FC           [cancelled]
+
+
+Matchday 19
+[Sun Apr/26]
+         Santa Tecla FC           -  El Vencedor              [cancelled]
+         CD Águila                -  Alianza                  [cancelled]
+         Once Municipal           -  Jocoro FC                [cancelled]
+         FAS                      -  Isidro Metapán           [cancelled]
+         Municipal Limeño         -  Sonsonate FC             [cancelled]
+         Independiente San Vincente  -  AD Chalatenango          [cancelled]
+
+
+Matchday 20
+[Wed Apr/29]
+         Alianza                  -  El Vencedor              [cancelled]
+         Jocoro FC                -  CD Águila                [cancelled]
+         Isidro Metapán           -  Once Municipal           [cancelled]
+         Sonsonate FC             -  FAS                      [cancelled]
+         AD Chalatenango          -  Municipal Limeño         [cancelled]
+         Independiente San Vincente  -  Santa Tecla FC           [cancelled]
+
+
+Matchday 21
+[Sun May/3]
+         Alianza                  -  Santa Tecla FC           [cancelled]
+         El Vencedor              -  Jocoro FC                [cancelled]
+         CD Águila                -  Isidro Metapán           [cancelled]
+         Once Municipal           -  Sonsonate FC             [cancelled]
+         FAS                      -  AD Chalatenango          [cancelled]
+         Municipal Limeño         -  Independiente San Vincente  [cancelled]
+
+
+Matchday 22
+[Sat May/9]
+         Jocoro FC                -  Alianza                  [cancelled]
+         Isidro Metapán           -  El Vencedor              [cancelled]
+         Sonsonate FC             -  CD Águila                [cancelled]
+         AD Chalatenango          -  Once Municipal           [cancelled]
+         Independiente San Vincente  -  FAS                      [cancelled]
+         Santa Tecla FC           -  Municipal Limeño         [cancelled]

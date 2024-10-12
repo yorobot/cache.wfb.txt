@@ -1,0 +1,538 @@
+= ES 2 1969/70
+
+# Date       Sun Sep/7 1969 - Sun Jun/7 1970 (273d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Sep/7]
+         Athletic Bilbao B        1-1  Rayo Vallecano
+         Real Betis               1-1  Sporting Gijón
+         CD Castellón             2-1  CD Ilicitano
+         UD Salamanca             3-2  CD Ourense
+         Racing Ferrol            1-5  CD Málaga
+         Real Oviedo              1-0  Real Murcia
+         Burgos CF                0-0  Espanyol Barcelona
+         CF Calvo Sotelo          0-1  Córdoba CF
+         Ontinyent CF             1-0  CA Osasuna
+         UE Sant Andreu           0-1  Real Valladolid
+
+
+Matchday 2
+[Sun Sep/14]
+         Real Valladolid          1-1  Real Betis
+         Espanyol Barcelona       5-0  UD Salamanca
+         Real Murcia              1-1  Burgos CF
+         Rayo Vallecano           3-1  Racing Ferrol
+         CA Osasuna               3-0  UE Sant Andreu
+         CD Ourense               1-1  Athletic Bilbao B
+         Sporting Gijón           2-1  CD Castellón
+         Córdoba CF               2-1  Ontinyent CF
+         CD Ilicitano             1-1  Real Oviedo
+         CD Málaga                1-1  CF Calvo Sotelo
+
+
+Matchday 3
+[Sun Sep/21]
+         Athletic Bilbao B        1-0  Espanyol Barcelona
+         Real Betis               2-1  CA Osasuna
+         CD Castellón             1-0  Real Oviedo
+         UD Salamanca             2-1  Real Murcia
+         Sporting Gijón           3-0  Real Valladolid
+         Racing Ferrol            1-0  CD Ourense
+         Burgos CF                2-3  CD Ilicitano
+         CF Calvo Sotelo          2-1  Rayo Vallecano
+         Ontinyent CF             1-0  CD Málaga
+         UE Sant Andreu           2-0  Córdoba CF
+
+
+Matchday 4
+[Sun Sep/28]
+         Real Valladolid          1-0  CD Castellón
+         Espanyol Barcelona       3-0  Racing Ferrol
+         Real Murcia              2-1  Athletic Bilbao B
+         Rayo Vallecano           1-2  Ontinyent CF
+         CA Osasuna               2-2  Sporting Gijón
+         CD Ourense               1-0  CF Calvo Sotelo
+         Córdoba CF               0-0  Real Betis
+         Real Oviedo              4-1  Burgos CF
+         CD Ilicitano             1-0  UD Salamanca
+         CD Málaga                3-0  UE Sant Andreu
+
+
+Matchday 5
+[Sun Oct/5]
+         Athletic Bilbao B        1-1  CD Ilicitano
+         Real Betis               4-1  CD Málaga
+         Real Valladolid          3-1  CA Osasuna
+         CD Castellón             1-3  Burgos CF
+         UD Salamanca             1-1  Real Oviedo
+         Sporting Gijón           4-2  Córdoba CF
+         Racing Ferrol            3-0  Real Murcia
+         CF Calvo Sotelo          0-0  Espanyol Barcelona
+         Ontinyent CF             1-2  CD Ourense
+         UE Sant Andreu           1-1  Rayo Vallecano
+
+
+Matchday 6
+[Sun Oct/12]
+         Espanyol Barcelona       1-0  Ontinyent CF
+         Real Murcia              0-1  CF Calvo Sotelo
+         Rayo Vallecano           2-1  Real Betis
+         CA Osasuna               3-1  CD Castellón
+         CD Ourense               0-0  UE Sant Andreu
+         Córdoba CF               2-0  Real Valladolid
+         Real Oviedo              0-1  Athletic Bilbao B
+         Burgos CF                2-1  UD Salamanca
+         CD Ilicitano             1-0  Racing Ferrol
+         CD Málaga                0-1  Sporting Gijón
+
+
+Matchday 7
+[Sun Oct/19]
+         Athletic Bilbao B        1-1  Burgos CF
+         Real Betis               3-1  CD Ourense
+         Real Valladolid          4-1  CD Málaga
+         CD Castellón             2-1  UD Salamanca
+         CA Osasuna               3-1  Córdoba CF
+         Sporting Gijón           0-1  Rayo Vallecano
+         Racing Ferrol            1-1  Real Oviedo
+         CF Calvo Sotelo          2-2  CD Ilicitano
+         Ontinyent CF             2-0  Real Murcia
+         UE Sant Andreu           0-2  Espanyol Barcelona
+
+
+Matchday 8
+[Sun Oct/26]
+         Espanyol Barcelona       2-1  Real Betis
+         Real Murcia              2-1  UE Sant Andreu
+         Rayo Vallecano           2-0  Real Valladolid
+         UD Salamanca             0-2  Athletic Bilbao B
+         CD Ourense               1-4  Sporting Gijón
+         Córdoba CF               1-0  CD Castellón
+         Real Oviedo              3-0  CF Calvo Sotelo
+         Burgos CF                0-0  Racing Ferrol
+         CD Ilicitano             2-1  Ontinyent CF
+         CD Málaga                3-1  CA Osasuna
+
+
+Matchday 9
+[Sun Nov/2]
+         Real Betis               1-1  Real Murcia
+         Real Valladolid          4-1  CD Ourense
+         CD Castellón             2-0  Athletic Bilbao B
+         CA Osasuna               2-1  Rayo Vallecano
+         Sporting Gijón           2-1  Espanyol Barcelona
+         Córdoba CF               0-0  CD Málaga
+         Racing Ferrol            1-0  UD Salamanca
+         CF Calvo Sotelo          1-0  Burgos CF
+         Ontinyent CF             1-0  Real Oviedo
+         UE Sant Andreu           1-0  CD Ilicitano
+
+
+Matchday 10
+[Sun Nov/9]
+         Athletic Bilbao B        0-0  Racing Ferrol
+         Espanyol Barcelona       4-0  Real Valladolid
+         Real Murcia              1-0  Sporting Gijón
+         Rayo Vallecano           2-0  Córdoba CF
+         UD Salamanca             3-0  CF Calvo Sotelo
+         CD Ourense               2-2  CA Osasuna
+         Real Oviedo              1-0  UE Sant Andreu
+         Burgos CF                3-2  Ontinyent CF
+         CD Ilicitano             3-1  Real Betis
+         CD Málaga                2-1  CD Castellón
+
+
+Matchday 11
+[Sun Nov/16]
+         Real Betis               0-0  Real Oviedo
+         Real Valladolid          1-1  Real Murcia
+         CD Castellón             2-1  Racing Ferrol
+         CA Osasuna               2-2  Espanyol Barcelona
+         Sporting Gijón           2-1  CD Ilicitano
+         Córdoba CF               2-1  CD Ourense
+         CD Málaga                0-0  Rayo Vallecano
+         CF Calvo Sotelo          1-0  Athletic Bilbao B
+         Ontinyent CF             0-0  UD Salamanca
+         UE Sant Andreu           2-1  Burgos CF
+
+
+Matchday 12
+[Sun Nov/23]
+         Athletic Bilbao B        0-0  Ontinyent CF
+         Espanyol Barcelona       0-0  Córdoba CF
+         Real Murcia              1-1  CA Osasuna
+         Rayo Vallecano           2-0  CD Castellón
+         UD Salamanca             0-0  UE Sant Andreu
+         CD Ourense               3-0  CD Málaga
+         Racing Ferrol            2-1  CF Calvo Sotelo
+         Real Oviedo              0-0  Sporting Gijón
+         Burgos CF                1-0  Real Betis
+         CD Ilicitano             0-0  Real Valladolid
+
+
+Matchday 13
+[Sun Nov/30]
+         Real Betis               1-0  UD Salamanca
+         Real Valladolid          2-1  Real Oviedo
+         CD Castellón             2-1  CF Calvo Sotelo
+         Rayo Vallecano           2-0  CD Ourense
+         CA Osasuna               2-1  CD Ilicitano
+         Sporting Gijón           3-0  Burgos CF
+         Córdoba CF               0-0  Real Murcia
+         CD Málaga                5-0  Espanyol Barcelona
+         Ontinyent CF             3-0  Racing Ferrol
+         UE Sant Andreu           1-0  Athletic Bilbao B
+
+
+Matchday 14
+[Sun Dec/7]
+         Athletic Bilbao B        0-1  Real Betis
+         Espanyol Barcelona       3-1  Rayo Vallecano
+         Real Murcia              2-2  CD Málaga
+         UD Salamanca             0-4  Sporting Gijón
+         CD Ourense               1-0  CD Castellón
+         Racing Ferrol            3-2  UE Sant Andreu
+         Real Oviedo              2-0  CA Osasuna
+         Burgos CF                4-1  Real Valladolid
+         CD Ilicitano             6-1  Córdoba CF
+         CF Calvo Sotelo          2-0  Ontinyent CF
+
+
+Matchday 15
+[Sun Dec/14]
+         Real Betis               0-0  Racing Ferrol
+         Real Valladolid          3-1  UD Salamanca
+         CD Castellón             0-1  Ontinyent CF
+         Rayo Vallecano           3-2  Real Murcia
+         CA Osasuna               2-2  Burgos CF
+         CD Ourense               1-1  Espanyol Barcelona
+         Sporting Gijón           3-0  Athletic Bilbao B
+         Córdoba CF               0-0  Real Oviedo
+         CD Málaga                1-0  CD Ilicitano
+         UE Sant Andreu           0-1  CF Calvo Sotelo
+
+
+Matchday 16
+[Sun Dec/21]
+         Athletic Bilbao B        0-1  Real Valladolid
+         Espanyol Barcelona       2-0  CD Castellón
+         Real Murcia              0-0  CD Ourense
+         UD Salamanca             1-0  CA Osasuna
+         Racing Ferrol            1-3  Sporting Gijón
+         Real Oviedo              2-2  CD Málaga
+         Burgos CF                1-2  Córdoba CF
+         CD Ilicitano             0-0  Rayo Vallecano
+         CF Calvo Sotelo          1-2  Real Betis
+         Ontinyent CF             1-0  UE Sant Andreu
+
+
+Matchday 17
+[Sun Dec/28]
+         Real Betis               2-1  Ontinyent CF
+         Real Valladolid          0-0  Racing Ferrol
+         CD Castellón             0-0  UE Sant Andreu
+         Espanyol Barcelona       1-0  Real Murcia
+         Rayo Vallecano           3-3  Real Oviedo
+         CA Osasuna               3-0  Athletic Bilbao B
+         CD Ourense               2-0  CD Ilicitano
+         Sporting Gijón           0-0  CF Calvo Sotelo
+         Córdoba CF               3-2  UD Salamanca
+         CD Málaga                2-0  Burgos CF
+
+
+Matchday 18
+[Sun Jan/4]
+         Athletic Bilbao B        1-1  Córdoba CF
+         CD Castellón             3-0  Real Murcia
+         UD Salamanca             0-0  CD Málaga
+         Racing Ferrol            3-2  CA Osasuna
+         Real Oviedo              3-0  CD Ourense
+         Burgos CF                2-1  Rayo Vallecano
+         CD Ilicitano             3-3  Espanyol Barcelona
+         CF Calvo Sotelo          3-3  Real Valladolid
+         Ontinyent CF             1-0  Sporting Gijón
+         UE Sant Andreu           0-1  Real Betis
+
+
+Matchday 19
+[Sun Jan/11]
+         Real Betis               2-1  CD Castellón
+         Real Valladolid          1-1  Ontinyent CF
+         Espanyol Barcelona       1-1  Real Oviedo
+         Real Murcia              2-1  CD Ilicitano
+         Rayo Vallecano           2-0  UD Salamanca
+         CA Osasuna               0-0  CF Calvo Sotelo
+         CD Ourense               3-1  Burgos CF
+         Sporting Gijón           3-0  UE Sant Andreu
+         Córdoba CF               2-0  Racing Ferrol
+         CD Málaga                1-1  Athletic Bilbao B
+
+
+Matchday 20
+[Sun Jan/18]
+         Real Valladolid          4-2  UE Sant Andreu
+         Espanyol Barcelona       3-2  Burgos CF
+         Real Murcia              0-0  Real Oviedo
+         Rayo Vallecano           3-0  Athletic Bilbao B
+         CA Osasuna               2-3  Ontinyent CF
+         CD Ourense               1-2  UD Salamanca
+         Sporting Gijón           4-0  Real Betis
+         Córdoba CF               3-0  CF Calvo Sotelo
+         CD Ilicitano             0-1  CD Castellón
+         CD Málaga                2-0  Racing Ferrol
+
+
+Matchday 21
+[Sun Jan/25]
+         Athletic Bilbao B        2-0  CD Ourense
+         Real Betis               1-0  Real Valladolid
+         CD Castellón             0-0  Sporting Gijón
+         UD Salamanca             2-0  Espanyol Barcelona
+         Racing Ferrol            1-1  Rayo Vallecano
+         Real Oviedo              1-0  CD Ilicitano
+         Burgos CF                1-0  Real Murcia
+         CF Calvo Sotelo          2-2  CD Málaga
+         Ontinyent CF             0-1  Córdoba CF
+         UE Sant Andreu           1-1  CA Osasuna
+
+
+Matchday 22
+[Sun Feb/1]
+         Real Valladolid          1-3  Sporting Gijón
+         Espanyol Barcelona       3-0  Athletic Bilbao B
+         Real Murcia              0-1  UD Salamanca
+         Rayo Vallecano           1-0  CF Calvo Sotelo
+         CA Osasuna               3-1  Real Betis
+         CD Ourense               2-1  Racing Ferrol
+         Córdoba CF               1-0  UE Sant Andreu
+         Real Oviedo              0-0  CD Castellón
+         CD Ilicitano             2-1  Burgos CF
+         CD Málaga                1-0  Ontinyent CF
+
+
+Matchday 23
+[Sun Feb/8]
+         Athletic Bilbao B        2-0  Real Murcia
+         Real Betis               0-0  Córdoba CF
+         CD Castellón             2-0  Real Valladolid
+         UD Salamanca             1-1  CD Ilicitano
+         Sporting Gijón           3-0  CA Osasuna
+         Racing Ferrol            1-0  Espanyol Barcelona
+         Burgos CF                2-1  Real Oviedo
+         CF Calvo Sotelo          1-1  CD Ourense
+         Ontinyent CF             1-0  Rayo Vallecano
+         UE Sant Andreu           0-0  CD Málaga
+
+
+Matchday 24
+[Sun Feb/15]
+         Espanyol Barcelona       3-1  CF Calvo Sotelo
+         Real Murcia              2-0  Racing Ferrol
+         Rayo Vallecano           0-0  UE Sant Andreu
+         CA Osasuna               2-0  Real Valladolid
+         CD Ourense               1-0  Ontinyent CF
+         Córdoba CF               0-1  Sporting Gijón
+         Real Oviedo              1-0  UD Salamanca
+         Burgos CF                1-2  CD Castellón
+         CD Ilicitano             1-0  Athletic Bilbao B
+         CD Málaga                1-1  Real Betis
+
+
+Matchday 25
+[Sun Feb/22]
+         Athletic Bilbao B        1-0  Real Oviedo
+         Real Betis               0-0  Rayo Vallecano
+         Real Valladolid          1-2  Córdoba CF
+         CD Castellón             3-2  CA Osasuna
+         UD Salamanca             0-0  Burgos CF
+         Sporting Gijón           2-1  CD Málaga
+         Racing Ferrol            0-0  CD Ilicitano
+         CF Calvo Sotelo          0-1  Real Murcia
+         Ontinyent CF             0-1  Espanyol Barcelona
+         UE Sant Andreu           3-1  CD Ourense
+
+
+Matchday 26
+[Sun Mar/1]
+         Espanyol Barcelona       1-1  UE Sant Andreu
+         Real Murcia              2-1  Ontinyent CF
+         Rayo Vallecano           1-1  Sporting Gijón
+         UD Salamanca             2-1  CD Castellón
+         CD Ourense               0-1  Real Betis
+         Córdoba CF               1-0  CA Osasuna
+         Real Oviedo              2-1  Racing Ferrol
+         Burgos CF                1-1  Athletic Bilbao B
+         CD Ilicitano             0-1  CF Calvo Sotelo
+         CD Málaga                2-1  Real Valladolid
+
+
+Matchday 27
+[Sun Mar/8]
+         Athletic Bilbao B        2-0  UD Salamanca
+         Real Betis               1-1  Espanyol Barcelona
+         Real Valladolid          1-0  Rayo Vallecano
+         CD Castellón             1-1  Córdoba CF
+         CA Osasuna               0-0  CD Málaga
+         Sporting Gijón           1-1  CD Ourense
+         Racing Ferrol            5-1  Burgos CF
+         CF Calvo Sotelo          0-0  Real Oviedo
+         Ontinyent CF             2-0  CD Ilicitano
+         UE Sant Andreu           1-0  Real Murcia
+
+
+Matchday 28
+[Sun Mar/15]
+         Athletic Bilbao B        3-0  CD Castellón
+         Espanyol Barcelona       2-1  Sporting Gijón
+         Real Murcia              1-1  Real Betis
+         Rayo Vallecano           1-0  CA Osasuna
+         UD Salamanca             3-0  Racing Ferrol
+         CD Ourense               0-1  Real Valladolid
+         Real Oviedo              1-0  Ontinyent CF
+         Burgos CF                0-1  CF Calvo Sotelo
+         CD Ilicitano             3-2  UE Sant Andreu
+         CD Málaga                3-1  Córdoba CF
+
+
+Matchday 29
+[Sun Mar/22]
+         Real Betis               3-1  CD Ilicitano
+         Real Valladolid          3-1  Espanyol Barcelona
+         CD Castellón             0-0  CD Málaga
+         CA Osasuna               1-0  CD Ourense
+         Sporting Gijón           3-0  Real Murcia
+         Córdoba CF               0-1  Rayo Vallecano
+         Racing Ferrol            2-1  Athletic Bilbao B
+         CF Calvo Sotelo          2-0  UD Salamanca
+         Ontinyent CF             1-0  Burgos CF
+         UE Sant Andreu           1-0  Real Oviedo
+
+
+Matchday 30
+[Sun Mar/29]
+         Athletic Bilbao B        2-1  CF Calvo Sotelo
+         Espanyol Barcelona       4-0  CA Osasuna
+         Real Murcia              2-2  Real Valladolid
+         Rayo Vallecano           0-0  CD Málaga
+         UD Salamanca             0-2  Ontinyent CF
+         CD Ourense               2-1  Córdoba CF
+         Racing Ferrol            1-0  CD Castellón
+         Real Oviedo              2-1  Real Betis
+         Burgos CF                0-0  UE Sant Andreu
+         CD Ilicitano             2-7  Sporting Gijón
+
+
+Matchday 31
+[Sun Apr/5]
+         Real Betis               3-1  Burgos CF
+         Real Valladolid          1-1  CD Ilicitano
+         CD Castellón             1-0  Rayo Vallecano
+         CA Osasuna               1-1  Real Murcia
+         Sporting Gijón           4-0  Real Oviedo
+         Córdoba CF               2-0  Espanyol Barcelona
+         CD Málaga                3-0  CD Ourense
+         CF Calvo Sotelo          1-2  Racing Ferrol
+         Ontinyent CF             0-1  Athletic Bilbao B
+         UE Sant Andreu           0-0  UD Salamanca
+
+
+Matchday 32
+[Sun Apr/12]
+         Athletic Bilbao B        0-2  UE Sant Andreu
+         Espanyol Barcelona       1-1  CD Málaga
+         Real Murcia              0-0  Córdoba CF
+         UD Salamanca             0-0  Real Betis
+         CD Ourense               0-0  Rayo Vallecano
+         Racing Ferrol            0-0  Ontinyent CF
+         Real Oviedo              3-0  Real Valladolid
+         Burgos CF                1-1  Sporting Gijón
+         CD Ilicitano             0-1  CA Osasuna
+         CF Calvo Sotelo          1-1  CD Castellón
+
+
+Matchday 33
+[Sun Apr/19]
+         Real Betis               2-1  Athletic Bilbao B
+         Real Valladolid          1-3  Burgos CF
+         CD Castellón             3-0  CD Ourense
+         Rayo Vallecano           0-0  Espanyol Barcelona
+         CA Osasuna               1-0  Real Oviedo
+         Sporting Gijón           3-1  UD Salamanca
+         Córdoba CF               2-1  CD Ilicitano
+         CD Málaga                1-0  Real Murcia
+         Ontinyent CF             0-0  CF Calvo Sotelo
+         UE Sant Andreu           2-0  Racing Ferrol
+
+
+Matchday 34
+[Sun Apr/26]
+         Athletic Bilbao B        1-0  Sporting Gijón
+         Espanyol Barcelona       1-0  CD Ourense
+         Real Murcia              3-1  Rayo Vallecano
+         UD Salamanca             2-1  Real Valladolid
+         Racing Ferrol            0-2  Real Betis
+         Real Oviedo              2-0  Córdoba CF
+         Burgos CF                3-2  CA Osasuna
+         CD Ilicitano             0-2  CD Málaga
+         CF Calvo Sotelo          0-1  UE Sant Andreu
+         Ontinyent CF             0-1  CD Castellón
+
+
+Matchday 35
+[Sun May/17]
+         Real Betis               1-0  CF Calvo Sotelo
+         Real Valladolid          0-2  Athletic Bilbao B
+         CD Castellón             0-3  Espanyol Barcelona
+         Rayo Vallecano           0-1  CD Ilicitano
+         CA Osasuna               4-1  UD Salamanca
+         CD Ourense               2-0  Real Murcia
+         Sporting Gijón           2-1  Racing Ferrol
+         Córdoba CF               0-1  Burgos CF
+         CD Málaga                3-0  Real Oviedo
+         UE Sant Andreu           1-0  Ontinyent CF
+
+
+Matchday 36
+[Sun May/24]
+         Athletic Bilbao B        1-0  CA Osasuna
+         Real Murcia              1-2  Espanyol Barcelona
+         UD Salamanca             1-2  Córdoba CF
+         Racing Ferrol            1-0  Real Valladolid
+         Real Oviedo              0-1  Rayo Vallecano
+         Burgos CF                1-1  CD Málaga
+         CD Ilicitano             4-1  CD Ourense
+         CF Calvo Sotelo          2-1  Sporting Gijón
+         Ontinyent CF             1-1  Real Betis
+         UE Sant Andreu           1-0  CD Castellón
+
+
+Matchday 37
+[Sun May/31]
+         Real Betis               0-0  UE Sant Andreu
+         Real Valladolid          1-2  CF Calvo Sotelo
+         Espanyol Barcelona       7-0  CD Ilicitano
+         Real Murcia              3-0  CD Castellón
+         Rayo Vallecano           0-0  Burgos CF
+         CA Osasuna               0-1  Racing Ferrol
+         CD Ourense               2-0  Real Oviedo
+         Sporting Gijón           3-1  Ontinyent CF
+         Córdoba CF               2-1  Athletic Bilbao B
+         CD Málaga                2-1  UD Salamanca
+
+
+Matchday 38
+[Sun Jun/7]
+         Athletic Bilbao B        1-2  CD Málaga
+         CD Castellón             1-1  Real Betis
+         UD Salamanca             3-2  Rayo Vallecano
+         Racing Ferrol            2-1  Córdoba CF
+         Real Oviedo              2-0  Espanyol Barcelona
+         Burgos CF                2-0  CD Ourense
+         CD Ilicitano             2-2  Real Murcia
+         CF Calvo Sotelo          5-2  CA Osasuna
+         Ontinyent CF             2-1  Real Valladolid
+         UE Sant Andreu           4-0  Sporting Gijón

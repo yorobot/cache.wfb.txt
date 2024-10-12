@@ -1,0 +1,451 @@
+= RO 1 1977/78
+
+# Date       Sun Aug/21 1977 - Thu Jun/15 1978 (298d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sun Aug/21]
+         Petrolul Ploieşti        0-0  ASA Târgu Mureș
+         CS Târgoviște            1-0  Corvinul Hunedoara
+         Dinamo Bucureşti         0-0  SC Bacau
+         Argeș Pitești            3-2  Politehnica Iasi
+         Farul Constanța          3-1  CS Politechnica Timisoara
+         FC Bihor Oradea          2-1  CSA Steaua București
+         Jiul Petroşani           3-0  FCM Resita
+         FC Universitatea Craiova  3-0  Sportul Studenţesc
+         Olimpia Satu Mare        2-0  UT Arad
+
+
+Matchday 2
+[Wed Aug/24]
+         ASA Târgu Mureș          4-1  FC Bihor Oradea
+         Corvinul Hunedoara       2-2  Argeș Pitești
+         Politehnica Iasi         2-1  Dinamo Bucureşti
+         UT Arad                  2-0  CS Târgoviște
+         Sportul Studenţesc       1-0  Farul Constanța
+         CSA Steaua București     4-1  Jiul Petroşani
+         FCM Resita               1-1  Petrolul Ploieşti
+         CS Politechnica Timisoara  1-1  FC Universitatea Craiova
+         SC Bacau                 1-1  Olimpia Satu Mare
+
+
+Matchday 3
+[Sun Aug/28]
+         Argeș Pitești            4-2  ASA Târgu Mureș
+         Corvinul Hunedoara       2-1  UT Arad
+         Dinamo Bucureşti         0-1  Sportul Studenţesc
+         CS Târgoviște            3-1  SC Bacau
+         Farul Constanța          4-0  FCM Resita
+         FC Bihor Oradea          1-3  CS Politechnica Timisoara
+         Olimpia Satu Mare        2-0  Jiul Petroşani
+         Petrolul Ploieşti        0-3  CSA Steaua București
+         FC Universitatea Craiova  0-0  Politehnica Iasi
+
+
+Matchday 4
+[Sun Sep/4]
+         ASA Târgu Mureș          4-0  SC Bacau
+         Jiul Petroşani           1-0  Corvinul Hunedoara
+         Dinamo Bucureşti         2-0  FC Universitatea Craiova
+         CSA Steaua București     1-1  Argeș Pitești
+         CS Târgoviște            1-0  Farul Constanța
+         FCM Resita               3-0  FC Bihor Oradea
+         Petrolul Ploieşti        2-0  Olimpia Satu Mare
+         Politehnica Iasi         0-0  UT Arad
+         CS Politechnica Timisoara  2-1  Sportul Studenţesc
+
+
+Matchday 5
+[Sat Sep/10]
+         Corvinul Hunedoara       1-1  Dinamo Bucureşti
+         SC Bacau                 0-0  CSA Steaua București
+         UT Arad                  1-1  FC Universitatea Craiova
+[Sun Sep/11]
+         Argeș Pitești            2-0  CS Târgoviște
+         Farul Constanța          1-0  Jiul Petroşani
+         FC Bihor Oradea          1-0  Petrolul Ploieşti
+         CS Politechnica Timisoara  3-2  Olimpia Satu Mare
+         Sportul Studenţesc       2-1  Politehnica Iasi
+         ASA Târgu Mureș          4-1  FCM Resita
+
+
+Matchday 6
+[Sun Sep/18]
+         CSA Steaua București     3-1  ASA Târgu Mureș
+         SC Bacau                 3-1  Corvinul Hunedoara
+         Dinamo Bucureşti         3-1  UT Arad
+         Jiul Petroşani           1-1  Argeș Pitești
+         FC Universitatea Craiova  2-0  CS Târgoviște
+         Petrolul Ploieşti        4-1  Farul Constanța
+         Olimpia Satu Mare        2-1  FC Bihor Oradea
+         FCM Resita               0-2  Sportul Studenţesc
+         Politehnica Iasi         0-1  CS Politechnica Timisoara
+
+
+Matchday 7
+[Sat Sep/24]
+         Jiul Petroşani           4-1  Dinamo Bucureşti
+[Sun Sep/25]
+         ASA Târgu Mureș          2-0  Farul Constanța
+         Corvinul Hunedoara       2-0  CS Politechnica Timisoara
+         Argeș Pitești            4-3  Petrolul Ploieşti
+         CS Târgoviște            1-1  CSA Steaua București
+         Sportul Studenţesc       2-0  FC Bihor Oradea
+         FC Universitatea Craiova  1-0  FCM Resita
+         Olimpia Satu Mare        1-0  Politehnica Iasi
+         UT Arad                  2-2  SC Bacau
+
+
+Matchday 8
+[Sun Oct/2]
+         Politehnica Iasi         0-0  ASA Târgu Mureș
+         Farul Constanța          4-1  Corvinul Hunedoara
+         Dinamo Bucureşti         3-0  CS Târgoviște
+         CS Politechnica Timisoara  1-0  Argeș Pitești
+         FC Bihor Oradea          2-1  FC Universitatea Craiova
+         Petrolul Ploieşti        2-0  Jiul Petroşani
+         SC Bacau                 0-0  FCM Resita
+         UT Arad                  2-1  Sportul Studenţesc
+         CSA Steaua București     2-0  Olimpia Satu Mare
+
+
+Matchday 9
+[Wed Oct/12]
+         ASA Târgu Mureș          4-2  Olimpia Satu Mare
+         Corvinul Hunedoara       1-0  Petrolul Ploieşti
+         Farul Constanța          2-4  Dinamo Bucureşti
+         FC Universitatea Craiova  1-0  Argeș Pitești
+         FCM Resita               3-0  CS Târgoviște
+         FC Bihor Oradea          4-1  SC Bacau
+         Jiul Petroşani           2-1  Politehnica Iasi
+         CS Politechnica Timisoara  1-1  UT Arad
+         Sportul Studenţesc       2-1  CSA Steaua București
+
+
+Matchday 10
+[Sat Oct/29]
+         SC Bacau                 3-1  FC Universitatea Craiova
+[Sun Oct/30]
+         ASA Târgu Mureș          3-1  CS Politechnica Timisoara
+         Sportul Studenţesc       3-1  Corvinul Hunedoara
+         Dinamo Bucureşti         2-1  Petrolul Ploieşti
+         Argeș Pitești            2-0  FCM Resita
+         CS Târgoviște            1-0  FC Bihor Oradea
+         Olimpia Satu Mare        2-1  Farul Constanța
+         UT Arad                  3-2  Jiul Petroşani
+         Politehnica Iasi         3-2  CSA Steaua București
+
+
+Matchday 11
+[Sat Nov/5]
+         Jiul Petroşani           0-1  ASA Târgu Mureș
+         FC Universitatea Craiova  1-1  Corvinul Hunedoara
+         FC Bihor Oradea          2-1  Dinamo Bucureşti
+         SC Bacau                 3-1  Argeș Pitești
+         Petrolul Ploieşti        0-0  CS Târgoviște
+         Farul Constanța          2-1  UT Arad
+         FCM Resita               0-2  Politehnica Iasi
+         Olimpia Satu Mare        2-0  Sportul Studenţesc
+         CSA Steaua București     2-2  CS Politechnica Timisoara
+
+
+Matchday 12
+[Wed Nov/16]
+         CS Târgoviște            0-0  ASA Târgu Mureș
+         Corvinul Hunedoara       1-1  CSA Steaua București
+         Dinamo Bucureşti         1-0  FCM Resita
+         Argeș Pitești            1-1  Farul Constanța
+         UT Arad                  1-1  FC Bihor Oradea
+         Sportul Studenţesc       3-1  Jiul Petroşani
+         CS Politechnica Timisoara  4-0  Petrolul Ploieşti
+         Politehnica Iasi         4-0  SC Bacau
+         FC Universitatea Craiova  1-0  Olimpia Satu Mare
+
+
+Matchday 13
+[Sun Nov/20]
+         ASA Târgu Mureș          1-0  FC Universitatea Craiova
+         FCM Resita               4-1  Corvinul Hunedoara
+         Argeș Pitești            1-0  Dinamo Bucureşti
+         Olimpia Satu Mare        2-2  CS Târgoviște
+         Farul Constanța          2-0  Politehnica Iasi
+         Jiul Petroşani           3-1  FC Bihor Oradea
+         Petrolul Ploieşti        3-0  Sportul Studenţesc
+         SC Bacau                 2-2  CS Politechnica Timisoara
+         CSA Steaua București     5-0  UT Arad
+
+
+Matchday 14
+[Wed Nov/23]
+         UT Arad                  2-0  ASA Târgu Mureș
+         FC Bihor Oradea          2-1  Corvinul Hunedoara
+         Dinamo Bucureşti         3-2  Olimpia Satu Mare
+         Sportul Studenţesc       1-3  Argeș Pitești
+         CS Târgoviște            4-1  Jiul Petroşani
+         SC Bacau                 3-1  Farul Constanța
+         FCM Resita               1-0  CS Politechnica Timisoara
+         Politehnica Iasi         0-0  Petrolul Ploieşti
+         FC Universitatea Craiova  3-0  CSA Steaua București
+
+
+Matchday 15
+[Sun Nov/27]
+         ASA Târgu Mureș          2-0  Sportul Studenţesc
+         Corvinul Hunedoara       0-0  Politehnica Iasi
+         CSA Steaua București     3-3  Dinamo Bucureşti
+         Olimpia Satu Mare        3-1  Argeș Pitești
+         CS Politechnica Timisoara  2-0  CS Târgoviște
+         Farul Constanța          1-1  FC Bihor Oradea
+         Jiul Petroşani           5-2  SC Bacau
+         UT Arad                  3-1  FCM Resita
+         Petrolul Ploieşti        2-0  FC Universitatea Craiova
+
+
+Matchday 16
+[Wed Nov/30]
+         ASA Târgu Mureș          0-1  Corvinul Hunedoara
+         CS Politechnica Timisoara  1-0  Dinamo Bucureşti
+         Argeș Pitești            3-1  FC Bihor Oradea
+         Politehnica Iasi         3-1  CS Târgoviște
+         CSA Steaua București     5-0  Farul Constanța
+         FC Universitatea Craiova  0-1  Jiul Petroşani
+         Olimpia Satu Mare        2-1  FCM Resita
+         Petrolul Ploieşti        4-3  UT Arad
+         Sportul Studenţesc       1-1  SC Bacau
+
+
+Matchday 17
+[Sun Dec/4]
+         Dinamo Bucureşti         1-1  ASA Târgu Mureș
+         Corvinul Hunedoara       1-0  Olimpia Satu Mare
+         UT Arad                  1-0  Argeș Pitești
+         CS Târgoviște            1-0  Sportul Studenţesc
+         Farul Constanța          1-0  FC Universitatea Craiova
+         FC Bihor Oradea          1-0  Politehnica Iasi
+         Jiul Petroşani           2-0  CS Politechnica Timisoara
+         FCM Resita               0-4  CSA Steaua București
+         SC Bacau                 1-0  Petrolul Ploieşti
+
+
+Matchday 18
+[Sun Feb/26]
+         ASA Târgu Mureș          3-1  Petrolul Ploieşti
+         Corvinul Hunedoara       0-0  CS Târgoviște
+         SC Bacau                 1-0  Dinamo Bucureşti
+         Politehnica Iasi         6-1  Argeș Pitești
+         CS Politechnica Timisoara  2-0  Farul Constanța
+         CSA Steaua București     0-1  FC Bihor Oradea
+         FCM Resita               3-2  Jiul Petroşani
+         UT Arad                  2-1  Olimpia Satu Mare
+         Sportul Studenţesc       3-1  FC Universitatea Craiova
+
+
+Matchday 19
+[Sun Mar/5]
+         FC Bihor Oradea          2-1  ASA Târgu Mureș
+         Argeș Pitești            0-0  Corvinul Hunedoara
+         Dinamo Bucureşti         1-0  Politehnica Iasi
+         CS Târgoviște            2-0  UT Arad
+         Farul Constanța          1-3  Sportul Studenţesc
+         Jiul Petroşani           4-2  CSA Steaua București
+         Petrolul Ploieşti        2-0  FCM Resita
+         Olimpia Satu Mare        2-1  SC Bacau
+         FC Universitatea Craiova  1-0  CS Politechnica Timisoara
+
+
+Matchday 20
+[Wed Mar/8]
+         ASA Târgu Mureș          3-0  Argeș Pitești
+         UT Arad                  5-2  Corvinul Hunedoara
+         Sportul Studenţesc       0-2  Dinamo Bucureşti
+         SC Bacau                 2-0  CS Târgoviște
+         FCM Resita               0-0  Farul Constanța
+         CS Politechnica Timisoara  1-0  FC Bihor Oradea
+         Jiul Petroşani           3-0  Olimpia Satu Mare
+         CSA Steaua București     4-1  Petrolul Ploieşti
+         Politehnica Iasi         0-1  FC Universitatea Craiova
+
+
+Matchday 21
+[Sun Mar/12]
+         SC Bacau                 2-1  ASA Târgu Mureș
+         Corvinul Hunedoara       1-1  Jiul Petroşani
+         FC Universitatea Craiova  3-2  Dinamo Bucureşti
+         Argeș Pitești            3-1  CSA Steaua București
+         Farul Constanța          1-0  CS Târgoviște
+         FC Bihor Oradea          3-0  FCM Resita
+         Olimpia Satu Mare        1-0  Petrolul Ploieşti
+         UT Arad                  4-1  Politehnica Iasi
+         Sportul Studenţesc       2-0  CS Politechnica Timisoara
+
+
+Matchday 22
+[Thu Mar/16]
+         FCM Resita               2-0  ASA Târgu Mureș
+         Dinamo Bucureşti         3-1  Corvinul Hunedoara
+         CS Târgoviște            1-0  Argeș Pitești
+         Jiul Petroşani           2-1  Farul Constanța
+         Petrolul Ploieşti        4-0  FC Bihor Oradea
+         Politehnica Iasi         1-1  Sportul Studenţesc
+         Olimpia Satu Mare        0-0  CS Politechnica Timisoara
+         CSA Steaua București     3-0  SC Bacau
+         FC Universitatea Craiova  1-1  UT Arad
+
+
+Matchday 23
+[Sun Mar/26]
+         ASA Târgu Mureș          2-3  CSA Steaua București
+         Corvinul Hunedoara       3-1  SC Bacau
+         UT Arad                  1-0  Dinamo Bucureşti
+         Argeș Pitești            2-1  Jiul Petroşani
+         CS Târgoviște            1-0  FC Universitatea Craiova
+         Farul Constanța          3-1  Petrolul Ploieşti
+         FC Bihor Oradea          2-1  Olimpia Satu Mare
+         Sportul Studenţesc       2-0  FCM Resita
+         CS Politechnica Timisoara  1-0  Politehnica Iasi
+
+
+Matchday 24
+[Wed Apr/12]
+         Farul Constanța          1-0  ASA Târgu Mureș
+         CS Politechnica Timisoara  2-0  Corvinul Hunedoara
+         Dinamo Bucureşti         2-1  Jiul Petroşani
+         Petrolul Ploieşti        2-0  Argeș Pitești
+         CSA Steaua București     2-1  CS Târgoviște
+         FC Bihor Oradea          0-1  Sportul Studenţesc
+         FCM Resita               2-1  FC Universitatea Craiova
+         Politehnica Iasi         3-0  Olimpia Satu Mare
+         SC Bacau                 3-1  UT Arad
+
+
+Matchday 25
+[Sun Apr/16]
+         ASA Târgu Mureș          5-0  Politehnica Iasi
+         Corvinul Hunedoara       2-0  Farul Constanța
+         CS Târgoviște            2-0  Dinamo Bucureşti
+         Argeș Pitești            2-1  CS Politechnica Timisoara
+         FC Universitatea Craiova  2-0  FC Bihor Oradea
+         Jiul Petroşani           3-0  Petrolul Ploieşti
+         FCM Resita               4-1  SC Bacau
+         Olimpia Satu Mare        3-2  CSA Steaua București
+         Sportul Studenţesc       3-2  UT Arad
+
+
+Matchday 26
+[Sun Apr/23]
+         Olimpia Satu Mare        1-0  ASA Târgu Mureș
+         Petrolul Ploieşti        0-0  Corvinul Hunedoara
+         Dinamo Bucureşti         1-2  Farul Constanța
+         Argeș Pitești            2-1  FC Universitatea Craiova
+         CS Târgoviște            1-0  FCM Resita
+         SC Bacau                 3-0  FC Bihor Oradea
+         Politehnica Iasi         1-0  Jiul Petroşani
+         UT Arad                  2-1  CS Politechnica Timisoara
+         CSA Steaua București     2-1  Sportul Studenţesc
+
+
+Matchday 27
+[Thu Apr/27]
+         CS Politechnica Timisoara  2-0  ASA Târgu Mureș
+         Corvinul Hunedoara       1-0  Sportul Studenţesc
+         Petrolul Ploieşti        3-2  Dinamo Bucureşti
+         FCM Resita               1-2  Argeș Pitești
+         FC Bihor Oradea          1-0  CS Târgoviște
+         Farul Constanța          2-0  Olimpia Satu Mare
+         Jiul Petroşani           3-0  UT Arad
+         CSA Steaua București     4-2  Politehnica Iasi
+         FC Universitatea Craiova  2-0  SC Bacau
+
+
+Matchday 28
+[Sun May/7]
+         ASA Târgu Mureș          1-1  Jiul Petroşani
+         Corvinul Hunedoara       1-1  FC Universitatea Craiova
+         Dinamo Bucureşti         2-0  FC Bihor Oradea
+         Argeș Pitești            4-1  SC Bacau
+         CS Târgoviște            0-0  Petrolul Ploieşti
+         UT Arad                  2-1  Farul Constanța
+         Politehnica Iasi         3-0  FCM Resita
+         Sportul Studenţesc       3-0  Olimpia Satu Mare
+         CS Politechnica Timisoara  4-1  CSA Steaua București
+
+
+Matchday 29
+[Thu May/18]
+         ASA Târgu Mureș          1-0  CS Târgoviște
+         CSA Steaua București     2-2  Corvinul Hunedoara
+         FCM Resita               0-3  Dinamo Bucureşti
+         Farul Constanța          1-2  Argeș Pitești
+         FC Bihor Oradea          2-1  UT Arad
+         Jiul Petroşani           1-0  Sportul Studenţesc
+         Petrolul Ploieşti        1-0  CS Politechnica Timisoara
+         SC Bacau                 2-1  Politehnica Iasi
+         Olimpia Satu Mare        1-0  FC Universitatea Craiova
+
+
+Matchday 30
+[Sun May/21]
+         FC Universitatea Craiova  3-0  ASA Târgu Mureș
+         Corvinul Hunedoara       5-1  FCM Resita
+         Dinamo Bucureşti         1-0  Argeș Pitești
+         CS Târgoviște            1-0  Olimpia Satu Mare
+         Politehnica Iasi         1-0  Farul Constanța
+         FC Bihor Oradea          2-0  Jiul Petroşani
+         Sportul Studenţesc       3-2  Petrolul Ploieşti
+         CS Politechnica Timisoara  2-0  SC Bacau
+         UT Arad                  1-2  CSA Steaua București
+
+
+Matchday 31
+[Sun May/28]
+         ASA Târgu Mureș          1-1  UT Arad
+         Corvinul Hunedoara       7-1  FC Bihor Oradea
+         Olimpia Satu Mare        0-0  Dinamo Bucureşti
+         Argeș Pitești            4-2  Sportul Studenţesc
+         Jiul Petroşani           1-1  CS Târgoviște
+         Farul Constanța          1-0  SC Bacau
+         CS Politechnica Timisoara  3-0  FCM Resita
+         Petrolul Ploieşti        1-1  Politehnica Iasi
+         CSA Steaua București     3-1  FC Universitatea Craiova
+
+
+Matchday 32
+[Sun Jun/4]
+         Sportul Studenţesc       3-0  ASA Târgu Mureș
+         Politehnica Iasi         1-0  Corvinul Hunedoara
+         Dinamo Bucureşti         0-1  CSA Steaua București
+         Argeș Pitești            3-2  Olimpia Satu Mare
+         CS Târgoviște            3-1  CS Politechnica Timisoara
+         FC Bihor Oradea          0-0  Farul Constanța
+         SC Bacau                 4-0  Jiul Petroşani
+         FCM Resita               0-0  UT Arad
+         FC Universitatea Craiova  2-0  Petrolul Ploieşti
+
+
+Matchday 33
+[Sun Jun/11]
+         Corvinul Hunedoara       1-0  ASA Târgu Mureș
+         Dinamo Bucureşti         4-2  CS Politechnica Timisoara
+         FC Bihor Oradea          2-1  Argeș Pitești
+         CS Târgoviște            0-0  Politehnica Iasi
+         Farul Constanța          3-1  CSA Steaua București
+         Jiul Petroşani           2-2  FC Universitatea Craiova
+         FCM Resita               1-3  Olimpia Satu Mare
+         UT Arad                  2-0  Petrolul Ploieşti
+         SC Bacau                 2-0  Sportul Studenţesc
+
+
+Matchday 34
+[Thu Jun/15]
+         ASA Târgu Mureș          1-1  Dinamo Bucureşti
+         Olimpia Satu Mare        1-1  Corvinul Hunedoara
+         Argeș Pitești            5-0  UT Arad
+         Sportul Studenţesc       2-0  CS Târgoviște
+         FC Universitatea Craiova  5-1  Farul Constanța
+         Politehnica Iasi         4-2  FC Bihor Oradea
+         CS Politechnica Timisoara  1-1  Jiul Petroşani
+         CSA Steaua București     4-0  FCM Resita
+         Petrolul Ploieşti        1-1  SC Bacau

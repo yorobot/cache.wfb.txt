@@ -1,0 +1,587 @@
+= IT 1 2009/10
+
+# Date       Sat Aug/22 2009 - Sun May/16 2010 (267d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sat Aug/22]
+  20.45  AC Siena                 1-2 (1-1)  AC Milan
+  18.00  Bologna FC               1-1 (1-0)  ACF Fiorentina
+[Sun Aug/23]
+  18.00  Inter                    1-1 (0-0)  AS Bari
+  20.45  Calcio Catania           1-2 (1-1)  Sampdoria
+         Genoa CFC                3-2 (0-0)  AS Roma
+         Juventus                 1-0 (1-0)  Chievo Verona
+         Lazio Roma               1-0 (1-0)  Atalanta
+         AS Livorno               0-0  Cagliari Calcio
+         US Palermo               2-1 (1-0)  SSC Napoli
+         Udinese Calcio           2-2 (1-1)  Parma FC
+
+
+Matchday 2
+[Sat Aug/29]
+  18.00  AS Bari                  0-0  Bologna FC
+  20.45  AC Milan                 0-4 (0-3)  Inter
+[Sun Aug/30]
+  20.45  Atalanta                 0-1 (0-1)  Genoa CFC
+         Cagliari Calcio          1-3 (0-0)  AC Siena
+         Chievo Verona            1-2 (1-1)  Lazio Roma
+         ACF Fiorentina           1-0 (1-0)  US Palermo
+         SSC Napoli               3-1 (2-0)  AS Livorno
+         Parma FC                 2-1 (1-1)  Calcio Catania
+         Sampdoria                3-1 (2-0)  Udinese Calcio
+  18.00  AS Roma                  1-3 (1-1)  Juventus
+
+
+Matchday 3
+[Sat Sep/12]
+  18.00  AS Livorno               0-0  AC Milan
+  20.45  Lazio Roma               0-2 (0-0)  Juventus
+[Sun Sep/13]
+  15.00  Bologna FC               0-2 (0-2)  Chievo Verona
+         ACF Fiorentina           1-0 (0-0)  Cagliari Calcio
+         Inter                    2-0 (0-0)  Parma FC
+         US Palermo               1-1 (0-1)  AS Bari
+         AC Siena                 1-2 (1-0)  AS Roma
+         Udinese Calcio           4-2 (1-2)  Calcio Catania
+  20.45  Genoa CFC                4-1 (1-1)  SSC Napoli
+  15.00  Atalanta                 0-1 (0-0)  Sampdoria
+
+
+Matchday 4
+[Sat Sep/19]
+  18.00  SSC Napoli               0-0  Udinese Calcio
+  20.45  Juventus                 2-0 (2-0)  AS Livorno
+[Sun Sep/20]
+  15.00  Cagliari Calcio          1-2 (1-0)  Inter
+         Calcio Catania           1-1 (1-0)  Lazio Roma
+         Chievo Verona            3-1 (2-0)  Genoa CFC
+         AC Milan                 1-0 (0-0)  Bologna FC
+         Parma FC                 1-0 (1-0)  US Palermo
+         Sampdoria                4-1 (2-0)  AC Siena
+  20.45  AS Roma                  3-1 (3-0)  ACF Fiorentina
+  15.00  AS Bari                  4-1 (3-0)  Atalanta
+
+
+Matchday 5
+[Wed Sep/23]
+  20.45  Atalanta                 0-0  Calcio Catania
+         AS Bari                  0-1 (0-0)  Cagliari Calcio
+         Bologna FC               2-0 (1-0)  AS Livorno
+         ACF Fiorentina           2-0 (1-0)  Sampdoria
+         Inter                    3-1 (3-1)  SSC Napoli
+         Lazio Roma               1-2 (1-2)  Parma FC
+         US Palermo               3-3 (2-2)  AS Roma
+         AC Siena                 0-0  Chievo Verona
+         Udinese Calcio           1-0 (1-0)  AC Milan
+[Thu Sep/24]
+  20.45  Genoa CFC                2-2 (1-1)  Juventus
+
+
+Matchday 6
+[Sat Sep/26]
+  20.45  AS Livorno               0-1 (0-0)  ACF Fiorentina
+  18.00  Sampdoria                1-0 (0-0)  Inter
+[Sun Sep/27]
+  15.00  Calcio Catania           1-1 (1-0)  AS Roma
+         Chievo Verona            1-1 (0-0)  Atalanta
+         Juventus                 1-1 (1-0)  Bologna FC
+         Lazio Roma               1-1 (0-0)  US Palermo
+         SSC Napoli               2-1 (0-0)  AC Siena
+         Parma FC                 0-2 (0-1)  Cagliari Calcio
+         Udinese Calcio           2-0 (0-0)  Genoa CFC
+  20.45  AC Milan                 0-0  AS Bari
+
+
+Matchday 7
+[Sat Oct/3]
+  20.45  Inter                    2-1 (1-1)  Udinese Calcio
+  18.00  AS Bari                  0-0  Calcio Catania
+[Sun Oct/4]
+  15.00  Atalanta                 1-1 (1-0)  AC Milan
+         Bologna FC               1-3 (0-2)  Genoa CFC
+         Cagliari Calcio          1-2 (1-1)  Chievo Verona
+         ACF Fiorentina           0-0  Lazio Roma
+         AS Roma                  2-1 (1-1)  SSC Napoli
+         Sampdoria                1-1 (1-1)  Parma FC
+         AC Siena                 0-0  AS Livorno
+  20.45  US Palermo               2-0 (2-0)  Juventus
+
+
+Matchday 8
+[Sat Oct/17]
+  20.45  Genoa CFC                0-5 (0-3)  Inter
+  18.00  Juventus                 1-1 (1-1)  ACF Fiorentina
+[Sun Oct/18]
+  15.00  Calcio Catania           2-1 (1-1)  Cagliari Calcio
+         Chievo Verona            1-2 (0-1)  AS Bari
+         Lazio Roma               1-1 (1-1)  Sampdoria
+         AS Livorno               1-2 (0-0)  US Palermo
+         SSC Napoli               2-1 (0-1)  Bologna FC
+         Parma FC                 1-0 (1-0)  AC Siena
+         Udinese Calcio           1-3 (1-1)  Atalanta
+  20.45  AC Milan                 2-1 (0-1)  AS Roma
+
+
+Matchday 9
+[Sat Oct/24]
+  18.00  Sampdoria                4-1 (4-0)  Bologna FC
+  20.45  Inter                    2-1 (2-0)  Calcio Catania
+[Sun Oct/25]
+  15.00  AS Bari                  2-0 (1-0)  Lazio Roma
+         Cagliari Calcio          3-2 (0-1)  Genoa CFC
+         ACF Fiorentina           0-1 (0-0)  SSC Napoli
+         US Palermo               1-0 (0-0)  Udinese Calcio
+         AS Roma                  0-1 (0-1)  AS Livorno
+         AC Siena                 0-1 (0-0)  Juventus
+  20.45  Chievo Verona            1-2 (1-0)  AC Milan
+  15.00  Atalanta                 3-1 (1-0)  Parma FC
+
+
+Matchday 10
+[Wed Oct/28]
+  20.45  Bologna FC               2-1 (1-0)  AC Siena
+         Calcio Catania           1-2 (1-1)  Chievo Verona
+         Genoa CFC                2-1 (1-0)  ACF Fiorentina
+         Juventus                 5-1 (2-0)  Sampdoria
+         Lazio Roma               0-1 (0-0)  Cagliari Calcio
+         AS Livorno               1-0 (0-0)  Atalanta
+         SSC Napoli               2-2 (0-2)  AC Milan
+         Parma FC                 2-0 (0-0)  AS Bari
+         Udinese Calcio           2-1 (1-1)  AS Roma
+[Thu Oct/29]
+  20.45  Inter                    5-3 (4-0)  US Palermo
+
+
+Matchday 11
+[Sat Oct/31]
+  20.45  AC Milan                 2-0 (1-0)  Parma FC
+  18.00  Juventus                 2-3 (1-0)  SSC Napoli
+[Sun Nov/1]
+  15.00  Cagliari Calcio          3-0 (3-0)  Atalanta
+         Chievo Verona            1-1 (0-1)  Udinese Calcio
+         ACF Fiorentina           3-1 (1-0)  Calcio Catania
+         AS Livorno               0-2 (0-0)  Inter
+         AS Roma                  2-1 (1-1)  Bologna FC
+         Sampdoria                0-0  AS Bari
+         AC Siena                 1-1 (1-1)  Lazio Roma
+  20.45  US Palermo               0-0  Genoa CFC
+
+
+Matchday 12
+[Sat Nov/7]
+  20.45  Atalanta                 2-5 (0-2)  Juventus
+  18.00  Calcio Catania           0-0  SSC Napoli
+[Sun Nov/8]
+  15.00  AS Bari                  1-0 (1-0)  AS Livorno
+         Bologna FC               3-1 (1-1)  US Palermo
+         Cagliari Calcio          2-0 (0-0)  Sampdoria
+         Genoa CFC                4-2 (3-0)  AC Siena
+         Lazio Roma               1-2 (0-2)  AC Milan
+         Parma FC                 2-0 (1-0)  Chievo Verona
+         Udinese Calcio           0-1 (0-0)  ACF Fiorentina
+  20.45  Inter                    1-1 (0-1)  AS Roma
+
+
+Matchday 13
+[Sat Nov/21]
+  18.00  Bologna FC               1-3 (1-2)  Inter
+  20.45  ACF Fiorentina           2-3 (1-1)  Parma FC
+[Sun Nov/22]
+  15.00  AS Livorno               2-1 (1-0)  Genoa CFC
+         AC Milan                 4-3 (3-2)  Cagliari Calcio
+         SSC Napoli               0-0  Lazio Roma
+         US Palermo               1-1 (1-0)  Calcio Catania
+         AS Roma                  3-1 (3-0)  AS Bari
+         Sampdoria                2-1 (1-0)  Chievo Verona
+         AC Siena                 0-2 (0-0)  Atalanta
+  20.45  Juventus                 1-0 (0-0)  Udinese Calcio
+
+
+Matchday 14
+[Sat Nov/28]
+  20.45  Genoa CFC                3-0 (1-0)  Sampdoria
+  18.00  Udinese Calcio           2-0 (2-0)  AS Livorno
+[Sun Nov/29]
+  15.00  Atalanta                 1-2 (1-1)  AS Roma
+         AS Bari                  2-1 (0-1)  AC Siena
+         Cagliari Calcio          2-0 (1-0)  Juventus
+         Chievo Verona            1-0 (0-0)  US Palermo
+         Inter                    1-0 (0-0)  ACF Fiorentina
+         Lazio Roma               0-0  Bologna FC
+         Parma FC                 1-1 (0-1)  SSC Napoli
+  20.45  Calcio Catania           0-2 (0-0)  AC Milan
+
+
+Matchday 15
+[Sat Dec/5]
+  20.45  Juventus                 2-1 (1-1)  Inter
+  18.00  AC Milan                 3-0 (3-0)  Sampdoria
+[Sun Dec/6]
+  15.00  Bologna FC               2-1 (1-1)  Udinese Calcio
+         ACF Fiorentina           2-0 (1-0)  Atalanta
+         Genoa CFC                2-2 (1-1)  Parma FC
+         AS Livorno               0-2 (0-1)  Chievo Verona
+         SSC Napoli               3-2 (0-0)  AS Bari
+         US Palermo               2-1 (0-1)  Cagliari Calcio
+         AC Siena                 3-2 (0-1)  Calcio Catania
+  20.45  AS Roma                  1-0 (0-0)  Lazio Roma
+
+
+Matchday 16
+[Sat Dec/12]
+  20.45  AS Bari                  3-1 (2-1)  Juventus
+  18.00  Cagliari Calcio          3-3 (0-1)  SSC Napoli
+[Sun Dec/13]
+  15.00  Atalanta                 1-1 (0-1)  Inter
+         Calcio Catania           0-1 (0-0)  AS Livorno
+         Chievo Verona            2-1 (2-1)  ACF Fiorentina
+         Lazio Roma               1-0 (1-0)  Genoa CFC
+         AC Milan                 0-2 (0-0)  US Palermo
+         Parma FC                 2-1 (0-1)  Bologna FC
+         AC Siena                 2-1 (0-0)  Udinese Calcio
+  20.45  Sampdoria                0-0  AS Roma
+
+
+Matchday 17
+[Sun Dec/20]
+  15.00  Juventus                 1-2 (0-1)  Calcio Catania
+         AS Livorno               3-1 (1-1)  Sampdoria
+         SSC Napoli               2-0 (1-0)  Chievo Verona
+         US Palermo               1-0 (1-0)  AC Siena
+         AS Roma                  2-0 (0-0)  Parma FC
+  20.45  Inter                    1-0 (1-0)  Lazio Roma
+
+
+Matchday 18
+[Wed Jan/6]
+  15.00  AS Bari                  2-0 (1-0)  Udinese Calcio
+         Parma FC                 1-2 (1-2)  Juventus
+  20.45  AC Milan                 5-2 (2-1)  Genoa CFC
+  15.00  AC Siena                 1-5 (0-3)  ACF Fiorentina
+  12.30  Chievo Verona            0-1 (0-1)  Inter
+  15.00  Atalanta                 0-2 (0-1)  SSC Napoli
+         Sampdoria                1-1 (1-1)  US Palermo
+         Cagliari Calcio          2-2 (0-0)  AS Roma
+         Calcio Catania           1-0 (0-0)  Bologna FC
+         Lazio Roma               4-1 (0-1)  AS Livorno
+
+
+Matchday 19
+[Sat Jan/9]
+  20.45  Inter                    4-3 (2-2)  AC Siena
+  18.00  AS Roma                  1-0 (1-0)  Chievo Verona
+[Sun Jan/10]
+  20.45  Juventus                 0-3 (0-1)  AC Milan
+  15.00  AS Livorno               2-1 (1-0)  Parma FC
+         SSC Napoli               1-0 (0-0)  Sampdoria
+         Udinese Calcio           1-1 (1-1)  Lazio Roma
+         Bologna FC               0-1 (0-0)  Cagliari Calcio
+         ACF Fiorentina           2-1 (1-1)  AS Bari
+         Genoa CFC                2-0 (1-0)  Calcio Catania
+         US Palermo               1-0 (0-0)  Atalanta
+
+
+Matchday 20
+[Sat Jan/16]
+  20.45  AS Bari                  2-2 (0-0)  Inter
+  18.00  Cagliari Calcio          3-0 (1-0)  AS Livorno
+[Sun Jan/17]
+  20.45  SSC Napoli               0-0  US Palermo
+  15.00  ACF Fiorentina           1-2 (0-2)  Bologna FC
+         Parma FC                 0-0  Udinese Calcio
+         AC Milan                 4-0 (2-0)  AC Siena
+         Sampdoria                1-1 (1-1)  Calcio Catania
+         AS Roma                  3-0 (2-0)  Genoa CFC
+         Chievo Verona            1-0 (1-0)  Juventus
+         Atalanta                 3-0 (3-0)  Lazio Roma
+
+
+Matchday 17
+[Wed Jan/20]
+  18.00  Genoa CFC                1-1 (0-1)  AS Bari
+         Bologna FC               2-2 (2-1)  Atalanta
+
+
+Matchday 21
+[Sat Jan/23]
+  18.00  Calcio Catania           3-0 (1-0)  Parma FC
+  20.45  Juventus                 1-2 (0-0)  AS Roma
+[Sun Jan/24]
+  15.00  Udinese Calcio           2-3 (2-1)  Sampdoria
+         AS Livorno               0-2 (0-1)  SSC Napoli
+         Genoa CFC                2-0 (2-0)  Atalanta
+         Bologna FC               2-1 (0-1)  AS Bari
+         AC Siena                 1-1 (0-0)  Cagliari Calcio
+         Lazio Roma               1-1 (1-0)  Chievo Verona
+         US Palermo               3-0 (2-0)  ACF Fiorentina
+  20.45  Inter                    2-0 (1-0)  AC Milan
+
+
+Matchday 22
+[Sat Jan/30]
+  18.00  AS Bari                  4-2 (2-1)  US Palermo
+  20.45  SSC Napoli               0-0  Genoa CFC
+[Sun Jan/31]
+  15.00  AS Roma                  2-1 (1-1)  AC Siena
+         Calcio Catania           1-1 (0-1)  Udinese Calcio
+         Sampdoria                2-0 (2-0)  Atalanta
+         Chievo Verona            1-1 (0-1)  Bologna FC
+         Cagliari Calcio          2-2 (1-1)  ACF Fiorentina
+         AC Milan                 1-1 (1-0)  AS Livorno
+  20.45  Juventus                 1-1 (0-0)  Lazio Roma
+
+
+Matchday 23
+[Sat Feb/6]
+  18.00  US Palermo               2-1 (0-0)  Parma FC
+  20.45  AS Livorno               1-1 (1-1)  Juventus
+[Sun Feb/7]
+  20.45  ACF Fiorentina           0-1 (0-0)  AS Roma
+  15.00  AC Siena                 1-2 (0-1)  Sampdoria
+         Udinese Calcio           3-1 (1-1)  SSC Napoli
+         Atalanta                 1-0 (0-0)  AS Bari
+         Inter                    3-0 (2-0)  Cagliari Calcio
+         Lazio Roma               0-1 (0-0)  Calcio Catania
+         Genoa CFC                1-0 (0-0)  Chievo Verona
+         Bologna FC               0-0  AC Milan
+
+
+Matchday 22
+[Wed Feb/10]
+  20.45  Parma FC                 1-1 (0-0)  Inter
+
+
+Matchday 24
+[Fri Feb/12]
+  20.45  AC Milan                 3-2 (2-1)  Udinese Calcio
+[Sat Feb/13]
+  18.00  AS Roma                  4-1 (1-0)  US Palermo
+  20.45  Sampdoria                2-0 (2-0)  ACF Fiorentina
+[Sun Feb/14]
+  20.45  SSC Napoli               0-0  Inter
+  15.00  AS Livorno               0-1 (0-1)  Bologna FC
+         Calcio Catania           0-0  Atalanta
+         Cagliari Calcio          3-1 (2-0)  AS Bari
+         Chievo Verona            0-1 (0-0)  AC Siena
+         Juventus                 3-2 (1-1)  Genoa CFC
+         Parma FC                 0-2 (0-0)  Lazio Roma
+
+
+Matchday 25
+[Sat Feb/20]
+  18.00  Genoa CFC                3-0 (1-0)  Udinese Calcio
+  20.45  Inter                    0-0  Sampdoria
+[Sun Feb/21]
+  15.00  Cagliari Calcio          2-0 (2-0)  Parma FC
+         Bologna FC               1-2 (0-1)  Juventus
+         AS Roma                  1-0 (1-0)  Calcio Catania
+         Atalanta                 0-1 (0-1)  Chievo Verona
+  20.45  AS Bari                  0-2 (0-1)  AC Milan
+  15.00  US Palermo               3-1 (2-0)  Lazio Roma
+         ACF Fiorentina           2-1 (0-1)  AS Livorno
+         AC Siena                 0-0  SSC Napoli
+
+
+Matchday 17
+[Wed Feb/24]
+  18.30  Udinese Calcio           2-1 (0-1)  Cagliari Calcio
+         ACF Fiorentina           1-2 (1-0)  AC Milan
+
+
+Matchday 26
+[Sat Feb/27]
+  20.45  Lazio Roma               1-1 (1-0)  ACF Fiorentina
+  18.00  Calcio Catania           4-0 (2-0)  AS Bari
+[Sun Feb/28]
+  15.00  AC Milan                 3-1 (2-0)  Atalanta
+         Genoa CFC                3-4 (3-2)  Bologna FC
+         Chievo Verona            2-1 (1-0)  Cagliari Calcio
+         Udinese Calcio           2-3 (1-3)  Inter
+         SSC Napoli               2-2 (0-0)  AS Roma
+         Parma FC                 1-0 (0-0)  Sampdoria
+         AS Livorno               1-2 (1-0)  AC Siena
+  20.45  Juventus                 0-2 (0-0)  US Palermo
+
+
+Matchday 27
+[Sat Mar/6]
+  20.45  AS Roma                  0-0  AC Milan
+  18.00  ACF Fiorentina           1-2 (1-1)  Juventus
+[Sun Mar/7]
+  15.00  Cagliari Calcio          2-2 (1-2)  Calcio Catania
+         AS Bari                  1-0 (1-0)  Chievo Verona
+         Sampdoria                2-1 (2-1)  Lazio Roma
+         US Palermo               1-0 (0-0)  AS Livorno
+         Bologna FC               2-1 (2-1)  SSC Napoli
+         AC Siena                 1-1 (0-1)  Parma FC
+         Atalanta                 0-0  Udinese Calcio
+  20.45  Inter                    0-0  Genoa CFC
+
+
+Matchday 28
+[Fri Mar/12]
+  20.45  Calcio Catania           3-1 (0-0)  Inter
+[Sat Mar/13]
+  20.45  SSC Napoli               1-3 (0-0)  ACF Fiorentina
+[Sun Mar/14]
+  15.00  Parma FC                 1-0 (0-0)  Atalanta
+         Lazio Roma               0-2 (0-0)  AS Bari
+         Genoa CFC                5-3 (4-2)  Cagliari Calcio
+         Udinese Calcio           3-2 (1-0)  US Palermo
+         AS Livorno               3-3 (2-3)  AS Roma
+         Bologna FC               1-1 (0-0)  Sampdoria
+         Juventus                 3-3 (3-1)  AC Siena
+  20.45  AC Milan                 1-0 (0-0)  Chievo Verona
+
+
+Matchday 29
+[Sat Mar/20]
+  20.45  US Palermo               1-1 (1-1)  Inter
+         AS Roma                  4-2 (2-1)  Udinese Calcio
+  18.00  ACF Fiorentina           3-0 (1-0)  Genoa CFC
+[Sun Mar/21]
+  15.00  AC Siena                 1-0 (1-0)  Bologna FC
+         Chievo Verona            1-1 (0-0)  Calcio Catania
+         Cagliari Calcio          0-2 (0-2)  Lazio Roma
+         Atalanta                 3-0 (1-0)  AS Livorno
+         AC Milan                 1-1 (1-1)  SSC Napoli
+         AS Bari                  1-1 (0-1)  Parma FC
+  20.45  Sampdoria                1-0 (0-0)  Juventus
+
+
+Matchday 30
+[Wed Mar/24]
+  20.45  Atalanta                 3-1 (0-0)  Cagliari Calcio
+         Udinese Calcio           0-0  Chievo Verona
+         Calcio Catania           1-0 (1-0)  ACF Fiorentina
+         Inter                    3-0 (2-0)  AS Livorno
+         Parma FC                 1-0 (0-0)  AC Milan
+         Genoa CFC                2-2 (0-1)  US Palermo
+         Bologna FC               0-2 (0-0)  AS Roma
+         AS Bari                  2-1 (0-1)  Sampdoria
+         Lazio Roma               2-0 (1-0)  AC Siena
+[Thu Mar/25]
+  20.45  SSC Napoli               3-1 (0-1)  Juventus
+
+
+Matchday 31
+[Sat Mar/27]
+  18.00  AS Roma                  2-1 (1-0)  Inter
+  20.45  US Palermo               3-1 (2-1)  Bologna FC
+[Sun Mar/28]
+  15.00  AS Livorno               1-1 (0-1)  AS Bari
+         Sampdoria                1-1 (0-0)  Cagliari Calcio
+         SSC Napoli               1-0 (0-0)  Calcio Catania
+         AC Siena                 0-0  Genoa CFC
+         Chievo Verona            0-0  Parma FC
+         ACF Fiorentina           4-1 (1-1)  Udinese Calcio
+  20.45  AC Milan                 1-1 (1-1)  Lazio Roma
+  15.00  Juventus                 2-1 (1-1)  Atalanta
+
+
+Matchday 32
+[Sat Apr/3]
+  15.00  Inter                    3-0 (1-0)  Bologna FC
+         Parma FC                 1-1 (0-1)  ACF Fiorentina
+         Genoa CFC                1-1 (0-0)  AS Livorno
+         Cagliari Calcio          2-3 (2-3)  AC Milan
+         Lazio Roma               1-1 (1-1)  SSC Napoli
+         AS Bari                  0-1 (0-1)  AS Roma
+         Chievo Verona            1-2 (0-1)  Sampdoria
+         Atalanta                 2-0 (1-0)  AC Siena
+  19.00  Calcio Catania           2-0 (2-0)  US Palermo
+  21.00  Udinese Calcio           3-0 (1-0)  Juventus
+
+
+Matchday 33
+[Sat Apr/10]
+  20.45  ACF Fiorentina           2-2 (1-0)  Inter
+  18.00  SSC Napoli               2-3 (1-0)  Parma FC
+[Sun Apr/11]
+  15.00  AS Roma                  2-1 (2-0)  Atalanta
+         AC Siena                 3-2 (1-2)  AS Bari
+         Juventus                 1-0 (1-0)  Cagliari Calcio
+         AC Milan                 2-2 (0-2)  Calcio Catania
+         US Palermo               3-1 (2-1)  Chievo Verona
+         Bologna FC               2-3 (2-1)  Lazio Roma
+         AS Livorno               0-2 (0-2)  Udinese Calcio
+  20.45  Sampdoria                1-0 (1-0)  Genoa CFC
+
+
+Matchday 34
+[Fri Apr/16]
+  20.45  Inter                    2-0 (0-0)  Juventus
+[Sat Apr/17]
+  18.00  Chievo Verona            2-0 (1-0)  AS Livorno
+[Sun Apr/18]
+  15.00  Udinese Calcio           1-1 (0-1)  Bologna FC
+         Atalanta                 2-1 (1-0)  ACF Fiorentina
+         Parma FC                 2-3 (0-1)  Genoa CFC
+         Sampdoria                2-1 (0-1)  AC Milan
+         AS Bari                  1-2 (0-1)  SSC Napoli
+         Cagliari Calcio          2-2 (1-0)  US Palermo
+         Calcio Catania           2-2 (1-0)  AC Siena
+  18.30  Lazio Roma               1-2 (1-0)  AS Roma
+
+
+Matchday 35
+[Sat Apr/24]
+  20.45  US Palermo               3-1 (2-0)  AC Milan
+  18.00  Inter                    3-1 (2-1)  Atalanta
+[Sun Apr/25]
+  15.00  Juventus                 3-0 (0-0)  AS Bari
+         SSC Napoli               0-0  Cagliari Calcio
+         AS Livorno               3-1 (0-0)  Calcio Catania
+         ACF Fiorentina           0-2 (0-0)  Chievo Verona
+         Genoa CFC                1-2 (1-2)  Lazio Roma
+         Bologna FC               2-1 (1-1)  Parma FC
+         Udinese Calcio           4-1 (2-1)  AC Siena
+  20.45  AS Roma                  1-2 (1-0)  Sampdoria
+
+
+Matchday 36
+[Sat May/1]
+  18.00  Parma FC                 1-2 (0-1)  AS Roma
+  20.45  AC Milan                 1-0 (0-0)  ACF Fiorentina
+[Sun May/2]
+  15.00  AS Bari                  3-0 (0-0)  Genoa CFC
+         Calcio Catania           1-1 (1-0)  Juventus
+         Sampdoria                2-0 (1-0)  AS Livorno
+         Chievo Verona            1-2 (0-1)  SSC Napoli
+         AC Siena                 1-2 (0-1)  US Palermo
+         Cagliari Calcio          2-2 (1-2)  Udinese Calcio
+  20.45  Lazio Roma               0-2 (0-1)  Inter
+  15.00  Atalanta                 1-1 (1-0)  Bologna FC
+
+
+Matchday 37
+[Sun May/9]
+  15.00  SSC Napoli               2-0 (1-0)  Atalanta
+         Udinese Calcio           3-3 (2-2)  AS Bari
+         AS Roma                  2-1 (0-0)  Cagliari Calcio
+         Bologna FC               1-1 (1-0)  Calcio Catania
+         Inter                    4-3 (3-1)  Chievo Verona
+         AS Livorno               1-2 (1-2)  Lazio Roma
+         Genoa CFC                1-0 (0-0)  AC Milan
+         Juventus                 2-3 (1-2)  Parma FC
+         US Palermo               1-1 (0-0)  Sampdoria
+         ACF Fiorentina           1-1 (1-1)  AC Siena
+
+
+Matchday 38
+[Sat May/15]
+  20.45  Lazio Roma               3-1 (2-1)  Udinese Calcio
+         AC Milan                 3-0 (2-0)  Juventus
+[Sun May/16]
+  15.00  Cagliari Calcio          1-1 (0-1)  Bologna FC
+         AS Bari                  2-0 (1-0)  ACF Fiorentina
+         Calcio Catania           1-0 (0-0)  Genoa CFC
+         AC Siena                 0-1 (0-0)  Inter
+         Parma FC                 4-1 (1-0)  AS Livorno
+         Sampdoria                1-0 (0-0)  SSC Napoli
+         Atalanta                 1-2 (0-1)  US Palermo
+         Chievo Verona            0-2 (0-2)  AS Roma

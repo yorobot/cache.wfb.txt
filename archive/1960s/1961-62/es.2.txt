@@ -1,0 +1,612 @@
+= ES 2 1961/62
+
+# Date       Sun Sep/3 1961 - Sun Apr/1 1962 (210d)
+# Teams      32
+# Matches    480
+
+
+
+Matchday 1
+[Sun Sep/3]
+         Real Valladolid          4-0  CD Basconia
+         CD Ourense               0-0  AD Plus Ultra
+         CD Alavés                3-0  RC Celta
+         Sporting Gijón           1-1  Burgos CF
+         Pontevedra CF            2-1  SD Indautxu
+         Deportivo La Coruña      4-1  UD Salamanca
+         Atlético Baleares        2-0  CD Leonesa
+         San Sebastián CF         4-1  CE Sabadell
+         Cádiz CF                 0-0  Albacete
+         Hércules CF              3-5  CD Mestalla
+         Levante UD               2-2  Real Murcia
+         Real Jaén                1-0  CD San Fernando
+         Recreativo Huelva        1-0  Granada CF
+         CD Málaga                1-0  Córdoba CF
+         CD Cartagena             3-0  CA Ceuta
+         CD Villarrobledo         1-3  UD Las Palmas
+
+
+Matchday 2
+[Sun Sep/10]
+         AD Plus Ultra            0-2  Pontevedra CF
+         CE Sabadell              2-1  Sporting Gijón
+         UD Salamanca             4-1  CD Ourense
+         RC Celta                 3-0  Atlético Baleares
+         Burgos CF                2-0  CD Alavés
+         CD Leonesa               2-2  Real Valladolid
+         SD Indautxu              2-3  San Sebastián CF
+         CD Basconia              1-1  Deportivo La Coruña
+         Real Murcia              1-4  Hércules CF
+         UD Las Palmas            3-0  Cádiz CF
+         Albacete                 1-0  Recreativo Huelva
+         Córdoba CF               5-0  Levante UD
+         Granada CF               1-1  CD Málaga
+         CD Mestalla              4-1  CD Cartagena
+         CA Ceuta                 2-0  Real Jaén
+         CD San Fernando          4-2  CD Villarrobledo
+
+
+Matchday 3
+[Sun Sep/17]
+         Real Valladolid          4-0  RC Celta
+         CE Sabadell              3-1  SD Indautxu
+         CD Ourense               5-0  CD Basconia
+         Sporting Gijón           1-2  CD Alavés
+         Pontevedra CF            4-1  UD Salamanca
+         Deportivo La Coruña      3-2  CD Leonesa
+         Atlético Baleares        3-1  Burgos CF
+         San Sebastián CF         1-1  AD Plus Ultra
+         Hércules CF              1-3  Córdoba CF
+         Levante UD               4-1  Granada CF
+         Real Jaén                6-2  CD Mestalla
+         Recreativo Huelva        3-1  Cádiz CF
+         CD Málaga                0-0  Albacete
+         CD Cartagena             0-1  Real Murcia
+         CD San Fernando          0-1  UD Las Palmas
+         CD Villarrobledo         3-0  CA Ceuta
+
+
+Matchday 4
+[Sun Sep/24]
+         AD Plus Ultra            3-2  CE Sabadell
+         UD Salamanca             3-3  San Sebastián CF
+         CD Alavés                1-2  Atlético Baleares
+         Sporting Gijón           3-1  SD Indautxu
+         RC Celta                 1-1  Deportivo La Coruña
+         Burgos CF                1-0  Real Valladolid
+         CD Leonesa               2-0  CD Ourense
+         CD Basconia              2-1  Pontevedra CF
+         Cádiz CF                 2-1  CD Málaga
+         Real Murcia              3-0  Real Jaén
+         Albacete                 1-1  Levante UD
+         Recreativo Huelva        3-1  UD Las Palmas
+         Córdoba CF               5-0  CD Cartagena
+         Granada CF               5-1  Hércules CF
+         CD Mestalla              3-0  CD Villarrobledo
+         CA Ceuta                 1-1  CD San Fernando
+
+
+Matchday 5
+[Sun Oct/1]
+         Real Valladolid          5-0  CD Alavés
+         CE Sabadell              2-0  UD Salamanca
+         CD Ourense               0-0  RC Celta
+         Pontevedra CF            3-0  CD Leonesa
+         Deportivo La Coruña      6-1  Burgos CF
+         SD Indautxu              1-0  AD Plus Ultra
+         Atlético Baleares        4-0  Sporting Gijón
+         San Sebastián CF         5-2  CD Basconia
+         Hércules CF              2-0  Albacete
+         UD Las Palmas            0-0  CA Ceuta
+         Levante UD               2-0  Cádiz CF
+         Real Jaén                0-1  Córdoba CF
+         CD Málaga                4-1  Recreativo Huelva
+         CD Cartagena             1-2  Granada CF
+         CD San Fernando          3-3  CD Mestalla
+         CD Villarrobledo         0-3  Real Murcia
+
+
+Matchday 6
+[Mon Oct/9]
+         AD Plus Ultra            5-0  Sporting Gijón
+         UD Salamanca             2-1  SD Indautxu
+         CD Alavés                2-1  Deportivo La Coruña
+         RC Celta                 2-1  Pontevedra CF
+         Burgos CF                3-0  CD Ourense
+         CD Leonesa               1-0  San Sebastián CF
+         Atlético Baleares        0-2  Real Valladolid
+         CD Basconia              3-1  CE Sabadell
+         Cádiz CF                 1-2  Hércules CF
+         Real Murcia              3-0  CD San Fernando
+         UD Las Palmas            2-0  CD Málaga
+         Albacete                 4-1  CD Cartagena
+         Recreativo Huelva        4-2  Levante UD
+         Córdoba CF               2-0  CD Villarrobledo
+         Granada CF               1-0  Real Jaén
+         CD Mestalla              2-0  CA Ceuta
+
+
+Matchday 7
+[Thu Oct/12]
+         AD Plus Ultra            6-3  UD Salamanca
+         CE Sabadell              4-0  CD Leonesa
+         CD Ourense               1-0  CD Alavés
+         Sporting Gijón           1-1  Real Valladolid
+         Pontevedra CF            1-0  Burgos CF
+         Deportivo La Coruña      2-0  Atlético Baleares
+         SD Indautxu              0-2  CD Basconia
+         San Sebastián CF         0-0  RC Celta
+         Hércules CF              1-0  Recreativo Huelva
+         Levante UD               2-0  CD Málaga
+         Real Jaén                3-0  Albacete
+         CD Cartagena             2-0  Cádiz CF
+         CD Mestalla              2-2  UD Las Palmas
+         CA Ceuta                 2-1  Real Murcia
+         CD San Fernando          2-1  Córdoba CF
+         CD Villarrobledo         1-1  Granada CF
+
+
+Matchday 8
+[Sun Oct/15]
+         Real Valladolid          4-0  Deportivo La Coruña
+         CD Alavés                1-0  Pontevedra CF
+         Sporting Gijón           1-0  UD Salamanca
+         RC Celta                 0-0  CE Sabadell
+         Burgos CF                3-2  San Sebastián CF
+         CD Leonesa               2-1  SD Indautxu
+         Atlético Baleares        1-2  CD Ourense
+         CD Basconia              0-1  AD Plus Ultra
+         Cádiz CF                 2-1  Real Jaén
+         Real Murcia              1-0  CD Mestalla
+         Levante UD               3-1  UD Las Palmas
+         Albacete                 1-0  CD Villarrobledo
+         Recreativo Huelva        0-0  CD Cartagena
+         Córdoba CF               3-2  CA Ceuta
+         CD Málaga                3-2  Hércules CF
+         Granada CF               2-1  CD San Fernando
+
+
+Matchday 9
+[Sun Oct/22]
+         AD Plus Ultra            5-1  CD Leonesa
+         CE Sabadell              1-1  Burgos CF
+         UD Salamanca             0-1  CD Basconia
+         CD Ourense               1-1  Real Valladolid
+         Pontevedra CF            2-1  Atlético Baleares
+         Deportivo La Coruña      4-0  Sporting Gijón
+         SD Indautxu              2-0  RC Celta
+         San Sebastián CF         2-1  CD Alavés
+         Hércules CF              2-1  Levante UD
+         UD Las Palmas            1-1  Real Murcia
+         Real Jaén                6-2  Recreativo Huelva
+         CD Cartagena             3-0  CD Málaga
+         CD Mestalla              0-1  Córdoba CF
+         CA Ceuta                 0-0  Granada CF
+         CD San Fernando          2-0  Albacete
+         CD Villarrobledo         1-1  Cádiz CF
+
+
+Matchday 10
+[Sun Oct/29]
+         Real Valladolid          5-1  Pontevedra CF
+         CD Alavés                5-0  CE Sabadell
+         Sporting Gijón           2-1  CD Basconia
+         RC Celta                 2-0  AD Plus Ultra
+         Burgos CF                0-3  SD Indautxu
+         CD Leonesa               2-1  UD Salamanca
+         Deportivo La Coruña      4-1  CD Ourense
+         Atlético Baleares        3-2  San Sebastián CF
+         Cádiz CF                 1-1  CD San Fernando
+         Hércules CF              1-0  UD Las Palmas
+         Levante UD               6-0  CD Cartagena
+         Albacete                 2-0  CA Ceuta
+         Recreativo Huelva        2-0  CD Villarrobledo
+         Córdoba CF               0-0  Real Murcia
+         CD Málaga                3-0  Real Jaén
+         Granada CF               0-0  CD Mestalla
+
+
+Matchday 11
+[Wed Nov/1]
+         AD Plus Ultra            4-1  Burgos CF
+         CE Sabadell              3-3  Atlético Baleares
+         UD Salamanca             2-1  RC Celta
+         Sporting Gijón           3-1  CD Ourense
+         Pontevedra CF            0-3  Deportivo La Coruña
+         SD Indautxu              3-3  CD Alavés
+         CD Basconia              2-1  CD Leonesa
+         San Sebastián CF         3-3  Real Valladolid
+         Real Murcia              1-2  Granada CF
+         Real Jaén                3-0  Levante UD
+         Córdoba CF               2-0  UD Las Palmas
+         CD Cartagena             3-1  Hércules CF
+         CD Mestalla              2-0  Albacete
+         CA Ceuta                 3-1  Cádiz CF
+         CD San Fernando          0-0  Recreativo Huelva
+         CD Villarrobledo         1-3  CD Málaga
+
+
+Matchday 12
+[Sun Nov/5]
+         Real Valladolid          3-1  CE Sabadell
+         CD Ourense               2-0  Pontevedra CF
+         CD Alavés                3-1  AD Plus Ultra
+         RC Celta                 5-1  CD Basconia
+         Burgos CF                2-2  UD Salamanca
+         CD Leonesa               1-1  Sporting Gijón
+         Deportivo La Coruña      1-1  San Sebastián CF
+         Atlético Baleares        4-1  SD Indautxu
+         Cádiz CF                 3-0  CD Mestalla
+         Hércules CF              0-0  Real Jaén
+         UD Las Palmas            3-4  CD Cartagena
+         Levante UD               2-0  CD Villarrobledo
+         Albacete                 1-1  Real Murcia
+         Recreativo Huelva        1-0  CA Ceuta
+         CD Málaga                3-2  CD San Fernando
+         Granada CF               3-0  Córdoba CF
+
+
+Matchday 13
+[Sun Nov/19]
+         AD Plus Ultra            4-0  Atlético Baleares
+         CE Sabadell              2-2  Deportivo La Coruña
+         UD Salamanca             3-1  CD Alavés
+         Pontevedra CF            2-1  Sporting Gijón
+         CD Leonesa               3-1  RC Celta
+         SD Indautxu              1-2  Real Valladolid
+         CD Basconia              0-1  Burgos CF
+         San Sebastián CF         3-0  CD Ourense
+         Real Murcia              2-1  Cádiz CF
+         UD Las Palmas            2-2  Granada CF
+         Real Jaén                4-0  CD Cartagena
+         Córdoba CF               1-1  Albacete
+         CD Mestalla              2-0  Recreativo Huelva
+         CA Ceuta                 2-2  CD Málaga
+         CD San Fernando          0-1  Levante UD
+         CD Villarrobledo         1-0  Hércules CF
+
+
+Matchday 14
+[Sun Nov/26]
+         Real Valladolid          2-1  AD Plus Ultra
+         CD Ourense               2-1  CE Sabadell
+         CD Alavés                4-3  CD Basconia
+         Sporting Gijón           1-3  RC Celta
+         Pontevedra CF            3-2  San Sebastián CF
+         Burgos CF                2-0  CD Leonesa
+         Deportivo La Coruña      2-1  SD Indautxu
+         Atlético Baleares        2-2  UD Salamanca
+         Cádiz CF                 1-1  Córdoba CF
+         Hércules CF              3-1  CD San Fernando
+         Levante UD               3-0  CA Ceuta
+         Albacete                 2-1  Granada CF
+         Real Jaén                2-1  UD Las Palmas
+         Recreativo Huelva        2-1  Real Murcia
+         CD Málaga                3-1  CD Mestalla
+         CD Cartagena             3-1  CD Villarrobledo
+
+
+Matchday 15
+[Sun Dec/3]
+         AD Plus Ultra            2-2  Deportivo La Coruña
+         CE Sabadell              2-0  Pontevedra CF
+         UD Salamanca             3-0  Real Valladolid
+         RC Celta                 4-0  Burgos CF
+         CD Leonesa               0-1  CD Alavés
+         SD Indautxu              1-1  CD Ourense
+         CD Basconia              2-0  Atlético Baleares
+         San Sebastián CF         2-2  Sporting Gijón
+         Real Murcia              1-1  CD Málaga
+         UD Las Palmas            3-1  Albacete
+         Córdoba CF               2-1  Recreativo Huelva
+         Granada CF               1-3  Cádiz CF
+         CD Mestalla              0-2  Levante UD
+         CA Ceuta                 2-2  Hércules CF
+         CD San Fernando          2-0  CD Cartagena
+         CD Villarrobledo         0-2  Real Jaén
+
+
+Matchday 16
+[Sun Dec/17]
+         AD Plus Ultra            0-0  CD Ourense
+         CE Sabadell              1-2  San Sebastián CF
+         UD Salamanca             0-1  Deportivo La Coruña
+         RC Celta                 3-0  CD Alavés
+         Burgos CF                1-2  Sporting Gijón
+         CD Leonesa               1-1  Atlético Baleares
+         SD Indautxu              0-0  Pontevedra CF
+         CD Basconia              2-0  Real Valladolid
+         Real Murcia              1-2  Levante UD
+         UD Las Palmas            4-0  CD Villarrobledo
+         Albacete                 3-0  Cádiz CF
+         Córdoba CF               0-0  CD Málaga
+         Granada CF               1-1  Recreativo Huelva
+         CD Mestalla              0-1  Hércules CF
+         CA Ceuta                 0-1  CD Cartagena
+         CD San Fernando          2-1  Real Jaén
+
+
+Matchday 17
+[Sun Dec/31]
+         Real Valladolid          5-0  CD Leonesa
+         CD Ourense               2-1  UD Salamanca
+         CD Alavés                2-2  Burgos CF
+         Sporting Gijón           8-2  CE Sabadell
+         Pontevedra CF            1-1  AD Plus Ultra
+         Deportivo La Coruña      5-1  CD Basconia
+         Atlético Baleares        1-0  RC Celta
+         San Sebastián CF         4-0  SD Indautxu
+         Cádiz CF                 3-2  UD Las Palmas
+         Hércules CF              1-2  Real Murcia
+         Levante UD               1-2  Córdoba CF
+         Real Jaén                6-2  CA Ceuta
+         Recreativo Huelva        1-0  Albacete
+         CD Málaga                2-0  Granada CF
+         CD Cartagena             2-1  CD Mestalla
+         CD Villarrobledo         3-2  CD San Fernando
+
+
+Matchday 18
+[Sun Jan/7]
+         AD Plus Ultra            1-1  San Sebastián CF
+         UD Salamanca             1-0  Pontevedra CF
+         CD Alavés                4-0  Sporting Gijón
+         RC Celta                 4-1  Real Valladolid
+         Burgos CF                3-0  Atlético Baleares
+         CD Leonesa               2-1  Deportivo La Coruña
+         SD Indautxu              3-2  CE Sabadell
+         CD Basconia              0-2  CD Ourense
+         Cádiz CF                 2-1  Recreativo Huelva
+         Real Murcia              1-1  CD Cartagena
+         UD Las Palmas            2-1  CD San Fernando
+         Albacete                 1-1  CD Málaga
+         Córdoba CF               0-0  Hércules CF
+         Granada CF               3-2  Levante UD
+         CD Mestalla              4-0  Real Jaén
+         CA Ceuta                 4-0  CD Villarrobledo
+
+
+Matchday 19
+[Sun Jan/14]
+         Real Valladolid          1-0  Burgos CF
+         CE Sabadell              2-1  AD Plus Ultra
+         CD Ourense               3-1  CD Leonesa
+         Pontevedra CF            2-0  CD Basconia
+         Deportivo La Coruña      2-0  RC Celta
+         SD Indautxu              1-0  Sporting Gijón
+         Atlético Baleares        2-3  CD Alavés
+         San Sebastián CF         5-1  UD Salamanca
+         Hércules CF              3-2  Granada CF
+         UD Las Palmas            3-2  Recreativo Huelva
+         Levante UD               1-0  Albacete
+         Real Jaén                0-0  Real Murcia
+         CD Málaga                3-0  Cádiz CF
+         CD Cartagena             1-0  Córdoba CF
+         CD San Fernando          1-2  CA Ceuta
+         CD Villarrobledo         2-1  CD Mestalla
+
+
+Matchday 20
+[Sun Jan/21]
+         AD Plus Ultra            0-1  SD Indautxu
+         UD Salamanca             2-1  CE Sabadell
+         CD Alavés                1-1  Real Valladolid
+         Sporting Gijón           5-1  Atlético Baleares
+         RC Celta                 0-0  CD Ourense
+         Burgos CF                1-3  Deportivo La Coruña
+         CD Leonesa               3-2  Pontevedra CF
+         CD Basconia              1-2  San Sebastián CF
+         Cádiz CF                 3-0  Levante UD
+         Real Murcia              4-1  CD Villarrobledo
+         Albacete                 0-2  Hércules CF
+         Recreativo Huelva        1-1  CD Málaga
+         Córdoba CF               1-0  Real Jaén
+         Granada CF               2-1  CD Cartagena
+         CD Mestalla              8-1  CD San Fernando
+         CA Ceuta                 0-1  UD Las Palmas
+
+
+Matchday 21
+[Sun Jan/28]
+         Real Valladolid          4-0  Atlético Baleares
+         CE Sabadell              1-0  CD Basconia
+         CD Ourense               2-1  Burgos CF
+         Sporting Gijón           3-0  AD Plus Ultra
+         Pontevedra CF            1-0  RC Celta
+         Deportivo La Coruña      1-1  CD Alavés
+         SD Indautxu              3-1  UD Salamanca
+         San Sebastián CF         4-1  CD Leonesa
+         Hércules CF              2-1  Cádiz CF
+         Levante UD               3-0  Recreativo Huelva
+         Real Jaén                0-3  Granada CF
+         CD Málaga                3-1  UD Las Palmas
+         CD Cartagena             1-0  Albacete
+         CA Ceuta                 1-1  CD Mestalla
+         CD San Fernando          0-1  Real Murcia
+         CD Villarrobledo         2-2  Córdoba CF
+
+
+Matchday 22
+[Sun Feb/4]
+         Real Valladolid          4-2  Sporting Gijón
+         UD Salamanca             2-0  AD Plus Ultra
+         CD Alavés                1-2  CD Ourense
+         RC Celta                 4-0  San Sebastián CF
+         Burgos CF                2-2  Pontevedra CF
+         CD Leonesa               0-0  CE Sabadell
+         Atlético Baleares        1-1  Deportivo La Coruña
+         CD Basconia              0-0  SD Indautxu
+         Cádiz CF                 5-1  CD Cartagena
+         Real Murcia              2-0  CA Ceuta
+         UD Las Palmas            2-0  CD Mestalla
+         Albacete                 2-0  Real Jaén
+         Recreativo Huelva        3-2  Hércules CF
+         Córdoba CF               3-0  CD San Fernando
+         CD Málaga                1-1  Levante UD
+         Granada CF               3-0  CD Villarrobledo
+
+
+Matchday 23
+[Sun Feb/11]
+         AD Plus Ultra            1-0  CD Basconia
+         CE Sabadell              3-2  RC Celta
+         UD Salamanca             1-0  Sporting Gijón
+         CD Ourense               2-1  Atlético Baleares
+         Pontevedra CF            0-1  CD Alavés
+         Deportivo La Coruña      2-0  Real Valladolid
+         SD Indautxu              3-0  CD Leonesa
+         San Sebastián CF         2-0  Burgos CF
+         Hércules CF              1-1  CD Málaga
+         UD Las Palmas            1-0  Levante UD
+         Real Jaén                6-0  Cádiz CF
+         CD Cartagena             0-1  Recreativo Huelva
+         CD Mestalla              2-1  Real Murcia
+         CA Ceuta                 1-0  Córdoba CF
+         CD San Fernando          2-0  Granada CF
+         CD Villarrobledo         0-1  Albacete
+
+
+Matchday 24
+[Sun Feb/18]
+         Real Valladolid          0-0  CD Ourense
+         CD Alavés                0-1  San Sebastián CF
+         Sporting Gijón           2-4  Deportivo La Coruña
+         RC Celta                 2-1  SD Indautxu
+         Burgos CF                2-0  CE Sabadell
+         CD Leonesa               2-5  AD Plus Ultra
+         Atlético Baleares        1-0  Pontevedra CF
+         CD Basconia              0-0  UD Salamanca
+         Cádiz CF                 4-1  CD Villarrobledo
+         Real Murcia              0-1  UD Las Palmas
+         Levante UD               3-1  Hércules CF
+         Albacete                 2-0  CD San Fernando
+         Recreativo Huelva        3-2  Real Jaén
+         Córdoba CF               1-0  CD Mestalla
+         CD Málaga                2-1  CD Cartagena
+         Granada CF               3-1  CA Ceuta
+
+
+Matchday 25
+[Sun Feb/25]
+         CE Sabadell              1-0  CD Alavés
+         UD Salamanca             3-1  CD Leonesa
+         CD Ourense               1-1  Deportivo La Coruña
+         Pontevedra CF            1-2  Real Valladolid
+         SD Indautxu              2-1  Burgos CF
+         CD Basconia              5-0  Sporting Gijón
+         San Sebastián CF         4-0  Atlético Baleares
+         Real Murcia              2-1  Córdoba CF
+         UD Las Palmas            2-0  Hércules CF
+         Real Jaén                2-1  CD Málaga
+         CD Cartagena             3-0  Levante UD
+         CD Mestalla              0-1  Granada CF
+         CA Ceuta                 2-0  Albacete
+         CD San Fernando          1-0  Cádiz CF
+         CD Villarrobledo         0-0  Recreativo Huelva
+
+
+Matchday 26
+[Sun Mar/4]
+         CD Málaga                3-2  CD Villarrobledo
+         Real Valladolid          1-0  San Sebastián CF
+         CD Ourense               2-1  Sporting Gijón
+         CD Alavés                4-1  SD Indautxu
+         RC Celta                 4-2  UD Salamanca
+         Burgos CF                3-0  AD Plus Ultra
+         CD Leonesa               2-1  CD Basconia
+         Deportivo La Coruña      3-2  Pontevedra CF
+         Atlético Baleares        1-1  CE Sabadell
+         Cádiz CF                 1-0  CA Ceuta
+         Hércules CF              5-2  CD Cartagena
+         UD Las Palmas            1-1  Córdoba CF
+         Levante UD               2-2  Real Jaén
+         Albacete                 1-0  CD Mestalla
+         Recreativo Huelva        0-0  CD San Fernando
+         Granada CF               3-0  Real Murcia
+
+
+Matchday 25
+[Sun Mar/11]
+         AD Plus Ultra            3-0  RC Celta
+
+
+Matchday 27
+[Sun Mar/11]
+         AD Plus Ultra            0-1  CD Alavés
+         CE Sabadell              1-0  Real Valladolid
+         UD Salamanca             2-0  Burgos CF
+         Sporting Gijón           2-2  CD Leonesa
+         Pontevedra CF            1-2  CD Ourense
+         SD Indautxu              1-1  Atlético Baleares
+         CD Basconia              1-1  RC Celta
+         San Sebastián CF         1-2  Deportivo La Coruña
+         Real Murcia              2-1  Albacete
+         Real Jaén                2-1  Hércules CF
+         Córdoba CF               1-0  Granada CF
+         CD Cartagena             4-0  UD Las Palmas
+         CD Mestalla              3-2  Cádiz CF
+         CA Ceuta                 2-2  Recreativo Huelva
+         CD San Fernando          2-1  CD Málaga
+         CD Villarrobledo         0-1  Levante UD
+
+
+Matchday 28
+[Sun Mar/11]
+         RC Celta                 7-2  CD Leonesa
+[Sun Mar/18]
+         Real Valladolid          3-0  SD Indautxu
+         CD Ourense               0-0  San Sebastián CF
+         CD Alavés                2-1  UD Salamanca
+         Sporting Gijón           5-2  Pontevedra CF
+         Burgos CF                3-1  CD Basconia
+         Deportivo La Coruña      5-1  CE Sabadell
+         Atlético Baleares        3-0  AD Plus Ultra
+         Cádiz CF                 2-1  Real Murcia
+         Hércules CF              9-0  CD Villarrobledo
+         Levante UD               1-2  CD San Fernando
+         Albacete                 1-1  Córdoba CF
+         Recreativo Huelva        6-0  CD Mestalla
+         CD Málaga                4-2  CA Ceuta
+         CD Cartagena             0-2  Real Jaén
+         Granada CF               2-0  UD Las Palmas
+
+
+Matchday 29
+[Sun Mar/18]
+         RC Celta                 3-0  Sporting Gijón
+         Real Murcia              1-2  Recreativo Huelva
+[Sun Mar/25]
+         AD Plus Ultra            1-0  Real Valladolid
+         CE Sabadell              2-1  CD Ourense
+         UD Salamanca             0-2  Atlético Baleares
+         CD Leonesa               0-0  Burgos CF
+         SD Indautxu              2-0  Deportivo La Coruña
+         CD Basconia              0-0  CD Alavés
+         San Sebastián CF         0-2  Pontevedra CF
+         UD Las Palmas            2-1  Real Jaén
+         Córdoba CF               4-1  Cádiz CF
+         Granada CF               2-1  Albacete
+         CD Mestalla              2-2  CD Málaga
+         CA Ceuta                 2-0  Levante UD
+         CD San Fernando          2-0  Hércules CF
+         CD Villarrobledo         2-5  CD Cartagena
+
+
+Matchday 30
+[Sun Apr/1]
+         Real Valladolid          4-2  UD Salamanca
+         CD Ourense               3-1  SD Indautxu
+         CD Alavés                1-0  CD Leonesa
+         Sporting Gijón           4-1  San Sebastián CF
+         Pontevedra CF            5-0  CE Sabadell
+         Burgos CF                1-1  RC Celta
+         Deportivo La Coruña      1-1  AD Plus Ultra
+         Atlético Baleares        1-1  CD Basconia
+         Cádiz CF                 2-1  Granada CF
+         Hércules CF              2-0  CA Ceuta
+         Levante UD               1-2  CD Mestalla
+         Albacete                 0-2  UD Las Palmas
+         Real Jaén                6-2  CD Villarrobledo
+         Recreativo Huelva        0-4  Córdoba CF
+         CD Málaga                2-0  Real Murcia
+         CD Cartagena             1-2  CD San Fernando

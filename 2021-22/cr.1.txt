@@ -1,0 +1,574 @@
+= CR 1 2021/22
+
+# Date       Tue Jul/27 2021 - Wed Jul/6 2022 (344d)
+# Teams      12
+# Matches    280
+# Stages     Apertura (132)  Apertura Playoffs (8)  Clausura (132)  Clausura Playoffs (8)
+
+
+== Apertura
+
+Matchday 1
+[Tue Jul/27]
+  17.00  Municipal Pérez Zeledón  1-1 (0-0)  Jicaral
+  18.00  Sporting FC              1-1 (0-1)  AD Guanacasteca
+  20.00  Deportivo Saprissa       3-0 (0-0)  Santos de Guápiles
+[Wed Jul/28]
+  14.00  Municipal Grecia         4-0 (3-0)  CS Cartaginés
+  18.00  CS Herediano             0-1 (0-1)  Guadalupe
+  19.00  AD San Carlos            2-2 (0-1)  LD Alajuelense
+
+
+Matchday 2
+[Fri Jul/30]
+  19.00  Municipal Pérez Zeledón  0-3 (0-0)  Deportivo Saprissa
+[Sat Jul/31]
+  15.00  CS Cartaginés            1-1 (1-1)  AD Guanacasteca
+  18.00  Santos de Guápiles       1-0 (0-0)  Municipal Grecia
+         LD Alajuelense           3-3 (2-1)  Sporting FC
+  20.00  Guadalupe                1-1 (1-0)  AD San Carlos
+[Sun Aug/1]
+  14.00  Jicaral                  3-2 (0-0)  CS Herediano
+
+
+Matchday 3
+[Fri Aug/6]
+  19.00  AD San Carlos            1-1 (1-0)  Municipal Pérez Zeledón
+[Sat Aug/7]
+  14.00  AD Guanacasteca          0-1 (0-0)  Guadalupe
+  19.00  LD Alajuelense           2-3 (1-2)  CS Cartaginés
+[Sun Aug/8]
+  14.00  Municipal Grecia         0-0  Jicaral
+  17.00  Deportivo Saprissa       2-3 (1-2)  CS Herediano
+[Mon Aug/9]
+  14.00  Sporting FC              2-1 (2-1)  Santos de Guápiles
+
+
+Matchday 4
+[Tue Aug/10]
+  20.00  CS Cartaginés            5-1 (3-1)  AD San Carlos
+  21.00  Guadalupe                1-1 (1-0)  Deportivo Saprissa
+[Wed Aug/11]
+  14.00  AD Guanacasteca          0-2 (0-0)  Municipal Grecia
+  20.00  CS Herediano             1-0 (1-0)  Municipal Pérez Zeledón
+  21.00  Santos de Guápiles       2-1 (1-0)  LD Alajuelense
+[Wed Sep/1]
+  14.00  Jicaral                  1-3 (1-2)  Sporting FC
+
+
+Matchday 5
+[Fri Aug/13]
+  20.00  AD San Carlos            0-0  Jicaral
+[Sat Aug/14]
+  14.00  Deportivo Saprissa       1-0 (0-0)  Municipal Grecia
+  15.00  Sporting FC              4-1 (1-1)  CS Cartaginés
+  17.00  Municipal Pérez Zeledón  1-1 (0-0)  Guadalupe
+  17.30  Santos de Guápiles       2-1 (0-0)  AD Guanacasteca
+  20.00  LD Alajuelense           4-1 (2-1)  CS Herediano
+
+
+Matchday 6
+[Tue Aug/17]
+  11.00  Municipal Grecia         1-0 (1-0)  Municipal Pérez Zeledón
+  14.00  AD Guanacasteca          1-2 (1-2)  LD Alajuelense
+  17.00  CS Herediano             2-0 (1-0)  AD San Carlos
+  20.00  CS Cartaginés            1-0 (0-0)  Deportivo Saprissa
+[Wed Aug/18]
+  15.00  Guadalupe                2-2 (0-1)  Sporting FC
+[Sat Aug/21]
+  14.00  Jicaral                  1-1 (0-0)  Santos de Guápiles
+
+
+Matchday 7
+[Tue Aug/24]
+  14.00  AD Guanacasteca          2-1 (1-1)  Municipal Pérez Zeledón
+  17.00  CS Cartaginés            0-1 (0-0)  Guadalupe
+  20.00  Deportivo Saprissa       4-0 (2-0)  Jicaral
+[Wed Aug/25]
+  15.00  Sporting FC              0-0  AD San Carlos
+  18.00  Santos de Guápiles       2-1 (1-0)  CS Herediano
+  19.00  LD Alajuelense           1-0 (1-0)  Municipal Grecia
+
+
+Matchday 8
+[Sat Aug/28]
+  11.00  Municipal Grecia         1-1 (1-0)  Sporting FC
+  14.00  Jicaral                  0-0  Guadalupe
+  17.00  CS Herediano             2-0 (0-0)  CS Cartaginés
+  20.00  Deportivo Saprissa       4-2 (1-2)  LD Alajuelense
+[Sun Aug/29]
+  16.00  Municipal Pérez Zeledón  1-1 (0-0)  Santos de Guápiles
+  17.00  AD San Carlos            0-1 (0-0)  AD Guanacasteca
+
+
+Matchday 9
+[Tue Sep/7]
+  16.00  Guadalupe                0-2 (0-1)  Municipal Grecia
+  18.00  LD Alajuelense           2-0 (1-0)  Jicaral
+  19.00  Sporting FC              4-0 (3-0)  Deportivo Saprissa
+  20.30  CS Cartaginés            2-1 (0-0)  Municipal Pérez Zeledón
+[Wed Sep/8]
+  14.30  Santos de Guápiles       2-2 (0-1)  AD San Carlos
+[Thu Sep/9]
+  14.00  AD Guanacasteca          2-1 (1-0)  CS Herediano
+
+
+Matchday 10
+[Sat Sep/11]
+  15.00  Sporting FC              1-1 (1-0)  Municipal Pérez Zeledón
+  19.00  Guadalupe                2-4 (0-2)  LD Alajuelense
+  20.00  CS Cartaginés            1-2 (1-1)  Santos de Guápiles
+[Sun Sep/12]
+  11.00  Municipal Grecia         1-2 (0-0)  CS Herediano
+  14.00  AD Guanacasteca          1-1 (0-1)  Jicaral
+  17.00  AD San Carlos            1-0 (0-0)  Deportivo Saprissa
+
+
+Matchday 11
+[Tue Sep/14]
+  19.00  Municipal Pérez Zeledón  1-0 (0-0)  LD Alajuelense
+[Wed Sep/15]
+  14.00  Jicaral                  0-3 (0-1)  CS Cartaginés
+         Municipal Grecia         3-2 (0-1)  AD San Carlos
+[Thu Sep/16]
+  17.00  Santos de Guápiles       2-2 (0-0)  Guadalupe
+         CS Herediano             3-0 (2-0)  Sporting FC
+  20.00  Deportivo Saprissa       1-1 (0-0)  AD Guanacasteca
+
+
+Matchday 12
+[Fri Sep/17]
+  20.00  LD Alajuelense           2-2 (0-1)  AD San Carlos
+[Sat Sep/18]
+  14.00  Jicaral                  3-0 (0-0)  Municipal Pérez Zeledón
+[Sun Sep/19]
+  15.00  CS Cartaginés            1-1 (0-1)  Municipal Grecia
+         Guadalupe                0-2 (0-1)  CS Herediano
+  18.00  Santos de Guápiles       3-3 (1-3)  Deportivo Saprissa
+[Mon Sep/20]
+  14.00  AD Guanacasteca          1-0 (0-0)  Sporting FC
+
+
+Matchday 13
+[Sat Sep/25]
+  14.00  AD Guanacasteca          2-1 (2-0)  CS Cartaginés
+  17.00  AD San Carlos            4-2 (1-0)  Guadalupe
+  20.00  CS Herediano             1-0 (1-0)  Jicaral
+         Sporting FC              0-3 (0-1)  LD Alajuelense
+[Sun Sep/26]
+  11.00  Municipal Grecia         3-2 (1-1)  Santos de Guápiles
+  17.00  Deportivo Saprissa       3-0 (1-0)  Municipal Pérez Zeledón
+
+
+Matchday 14
+[Fri Oct/1]
+  16.00  Guadalupe                1-1 (0-0)  AD Guanacasteca
+[Sat Oct/2]
+  14.00  Jicaral                  3-1 (2-0)  Municipal Grecia
+  17.00  Municipal Pérez Zeledón  1-1 (0-0)  AD San Carlos
+  20.00  CS Cartaginés            1-0 (1-0)  LD Alajuelense
+[Sun Oct/3]
+  15.00  Santos de Guápiles       5-1 (3-1)  Sporting FC
+  17.00  CS Herediano             2-1 (2-0)  Deportivo Saprissa
+
+
+Matchday 15
+[Tue Oct/12]
+  15.00  Sporting FC              2-1 (2-0)  Jicaral
+  16.00  Municipal Pérez Zeledón  0-1 (0-1)  CS Herediano
+  18.00  AD San Carlos            0-1 (0-1)  CS Cartaginés
+  19.00  LD Alajuelense           1-0 (0-0)  Santos de Guápiles
+[Wed Oct/13]
+  14.00  Municipal Grecia         3-1 (1-0)  AD Guanacasteca
+[Thu Oct/14]
+  20.00  Deportivo Saprissa       4-0 (0-0)  Guadalupe
+
+
+Matchday 16
+[Sat Oct/16]
+  20.00  CS Herediano             0-0  LD Alajuelense
+[Sun Oct/17]
+  11.00  Municipal Grecia         1-1 (1-0)  Deportivo Saprissa
+  14.00  AD Guanacasteca          1-3 (0-0)  Santos de Guápiles
+         Jicaral                  0-4 (0-1)  AD San Carlos
+  15.00  Guadalupe                0-1 (0-1)  Municipal Pérez Zeledón
+[Tue Oct/19]
+  11.00  CS Cartaginés            1-0 (1-0)  Sporting FC
+
+
+Matchday 17
+[Fri Oct/22]
+  19.00  AD San Carlos            0-0  CS Herediano
+[Sat Oct/23]
+  15.00  Municipal Pérez Zeledón  3-1 (2-1)  Municipal Grecia
+         Sporting FC              2-0 (1-0)  Guadalupe
+  19.00  LD Alajuelense           4-1 (2-1)  AD Guanacasteca
+[Sun Oct/24]
+  14.00  Santos de Guápiles       2-3 (1-2)  Jicaral
+  16.00  Deportivo Saprissa       1-1 (1-0)  CS Cartaginés
+
+
+Matchday 18
+[Tue Oct/26]
+  19.00  Guadalupe                1-1 (1-0)  CS Cartaginés
+[Wed Oct/27]
+  14.00  Jicaral                  0-0  Deportivo Saprissa
+         Municipal Grecia         1-2 (0-1)  LD Alajuelense
+  17.00  CS Herediano             1-1 (1-0)  Santos de Guápiles
+  19.00  AD San Carlos            3-1 (1-1)  Sporting FC
+  20.00  Municipal Pérez Zeledón  2-0 (0-0)  AD Guanacasteca
+
+
+Matchday 19
+[Sat Oct/30]
+  13.30  Guadalupe                2-0 (2-0)  Jicaral
+  16.30  Santos de Guápiles       3-2 (0-1)  Municipal Pérez Zeledón
+  18.00  LD Alajuelense           0-0  Deportivo Saprissa
+[Sun Oct/31]
+  15.00  CS Cartaginés            0-1 (0-0)  CS Herediano
+  19.00  Sporting FC              2-1 (2-0)  Municipal Grecia
+[Mon Nov/1]
+  14.00  AD Guanacasteca          0-1 (0-0)  AD San Carlos
+
+
+Matchday 20
+[Fri Nov/19]
+  19.00  Municipal Pérez Zeledón  3-0 (2-0)  CS Cartaginés
+[Sat Nov/20]
+  17.00  AD San Carlos            2-4 (0-3)  Santos de Guápiles
+  20.00  Deportivo Saprissa       5-1 (2-0)  Sporting FC
+[Sun Nov/21]
+  11.00  Municipal Grecia         0-0  Guadalupe
+  14.00  Jicaral                  0-3 (0-2)  LD Alajuelense
+  17.00  CS Herediano             5-0 (4-0)  AD Guanacasteca
+
+
+Matchday 21
+[Tue Nov/23]
+  17.00  Municipal Pérez Zeledón  1-0 (1-0)  Sporting FC
+  20.00  Deportivo Saprissa       3-0 (0-0)  AD San Carlos
+[Wed Nov/24]
+  14.00  Jicaral                  2-2 (1-1)  AD Guanacasteca
+  17.00  Santos de Guápiles       1-2 (1-1)  CS Cartaginés
+         CS Herediano             2-0 (1-0)  Municipal Grecia
+  20.00  LD Alajuelense           1-0 (0-0)  Guadalupe
+
+
+Matchday 22
+[Sat Nov/27]
+  18.00  AD San Carlos            1-3 (1-2)  Municipal Grecia
+[Sun Nov/28]
+  11.00  LD Alajuelense           3-0 (1-0)  Municipal Pérez Zeledón
+  15.00  AD Guanacasteca          1-0 (1-0)  Deportivo Saprissa
+         CS Cartaginés            4-0 (1-0)  Jicaral
+         Guadalupe                0-5 (0-2)  Santos de Guápiles
+         Sporting FC              0-2 (0-0)  CS Herediano
+
+
+== Apertura Playoffs
+
+Semifinals
+[Wed Dec/1]
+  20.00  Deportivo Saprissa       3-0 (2-0)  CS Herediano
+[Thu Dec/2]
+  19.00  Santos de Guápiles       3-2 (2-1)  LD Alajuelense
+[Sun Dec/5]
+  16.00  LD Alajuelense           1-0 (1-0)  Santos de Guápiles
+  19.30  CS Herediano             1-0 (1-0)  Deportivo Saprissa
+
+
+Final
+[Thu Dec/9]
+  18.00  Deportivo Saprissa       2-1 (1-1)  LD Alajuelense
+[Sun Dec/12]
+  17.00  LD Alajuelense           0-0  Deportivo Saprissa
+
+
+Gran Final
+[Thu Dec/16]
+  18.00  Deportivo Saprissa       0-1 (0-0)  CS Herediano
+[Sun Dec/19]
+  17.00  CS Herediano             3-2 (1-1)  Deportivo Saprissa
+
+
+== Clausura
+
+Matchday 1
+[Wed Jan/12]
+  20.00  Municipal Pérez Zeledón  1-1 (0-1)  Municipal Grecia
+  20.10  Guadalupe                3-2 (1-2)  CS Cartaginés
+[Thu Feb/17]
+  15.00  Sporting FC              2-1 (0-0)  LD Alajuelense
+  20.00  CS Herediano             1-1 (1-0)  Jicaral
+[Sat Mar/12]
+  19.00  AD San Carlos            1-0 (1-0)  Santos de Guápiles
+[Sun Mar/13]
+  15.00  AD Guanacasteca          1-2 (0-1)  Deportivo Saprissa
+
+
+Matchday 2
+[Sat Jan/15]
+  11.00  Municipal Grecia         1-1 (1-0)  CS Herediano
+  18.00  LD Alajuelense           1-0 (1-0)  Guadalupe
+[Sun Jan/16]
+  11.00  CS Cartaginés            2-1 (1-1)  Municipal Pérez Zeledón
+  16.00  Deportivo Saprissa       1-2 (0-1)  AD San Carlos
+[Wed Feb/23]
+  15.00  Jicaral                  2-2 (1-1)  AD Guanacasteca
+[Sun Mar/20]
+  17.00  Santos de Guápiles       2-3 (2-1)  Sporting FC
+
+
+Matchday 3
+[Fri Jan/21]
+  15.00  Sporting FC              2-2 (0-2)  Guadalupe
+[Sat Jan/22]
+  14.00  Municipal Grecia         1-0 (0-0)  Jicaral
+  15.00  AD San Carlos            1-1 (0-0)  Municipal Pérez Zeledón
+  17.00  LD Alajuelense           4-0 (1-0)  AD Guanacasteca
+  18.00  Santos de Guápiles       0-0  CS Herediano
+  20.00  Deportivo Saprissa       2-4 (1-1)  CS Cartaginés
+
+
+Matchday 4
+[Sat Jan/29]
+  15.00  Jicaral                  1-0 (0-0)  Santos de Guápiles
+[Thu Feb/3]
+  15.00  AD Guanacasteca          1-0 (1-0)  Municipal Grecia
+  18.00  Guadalupe                3-1 (1-0)  AD San Carlos
+  20.00  CS Cartaginés            2-1 (0-1)  Sporting FC
+[Fri Feb/4]
+  15.00  Municipal Pérez Zeledón  2-1 (2-0)  LD Alajuelense
+  17.30  CS Herediano             1-1 (0-1)  Deportivo Saprissa
+
+
+Matchday 5
+[Tue Feb/8]
+  15.00  Sporting FC              3-0 (2-0)  Jicaral
+  20.00  Deportivo Saprissa       1-2 (0-0)  Santos de Guápiles
+[Wed Feb/9]
+  15.00  AD Guanacasteca          0-0  Municipal Pérez Zeledón
+  17.00  Guadalupe                3-1 (2-0)  Municipal Grecia
+  20.00  LD Alajuelense           3-2 (0-2)  CS Cartaginés
+[Thu Feb/10]
+  19.00  AD San Carlos            1-1 (1-1)  CS Herediano
+
+
+Matchday 6
+[Sat Feb/12]
+  15.00  Jicaral                  2-0 (1-0)  Guadalupe
+  18.00  Santos de Guápiles       0-1 (0-1)  Municipal Pérez Zeledón
+[Sun Feb/13]
+  11.00  LD Alajuelense           0-1 (0-0)  Deportivo Saprissa
+  14.00  Municipal Grecia         2-0 (1-0)  CS Cartaginés
+[Mon Feb/14]
+  19.00  AD San Carlos            3-1 (2-0)  AD Guanacasteca
+  20.00  CS Herediano             0-1 (0-0)  Sporting FC
+
+
+Matchday 7
+[Fri Feb/18]
+  19.00  Guadalupe                4-1 (2-1)  Santos de Guápiles
+[Sat Feb/19]
+  14.00  Municipal Grecia         0-1 (0-1)  AD San Carlos
+  20.00  Municipal Pérez Zeledón  0-0  Deportivo Saprissa
+[Sun Feb/20]
+  11.00  CS Cartaginés            1-0 (1-0)  CS Herediano
+  15.00  Jicaral                  0-3 (0-1)  LD Alajuelense
+         AD Guanacasteca          2-0 (1-0)  Sporting FC
+
+
+Matchday 8
+[Fri Feb/25]
+  18.00  AD San Carlos            1-1 (0-0)  Jicaral
+[Sat Feb/26]
+  15.00  Sporting FC              1-1 (0-0)  Municipal Pérez Zeledón
+  17.00  LD Alajuelense           1-0 (0-0)  Municipal Grecia
+  20.00  CS Herediano             1-2 (0-1)  AD Guanacasteca
+[Sun Feb/27]
+  16.00  Deportivo Saprissa       2-1 (1-1)  Guadalupe
+  18.00  Santos de Guápiles       1-3 (1-2)  CS Cartaginés
+
+
+Matchday 9
+[Tue Mar/1]
+  20.00  CS Cartaginés            1-1 (1-1)  AD San Carlos
+[Wed Mar/2]
+  14.00  Municipal Grecia         0-1 (0-1)  Sporting FC
+  15.00  Jicaral                  1-1 (0-0)  Deportivo Saprissa
+  17.00  Municipal Pérez Zeledón  0-1 (0-1)  Guadalupe
+  17.30  Santos de Guápiles       2-0 (1-0)  AD Guanacasteca
+  20.00  CS Herediano             1-1 (0-1)  LD Alajuelense
+
+
+Matchday 10
+[Sat Mar/5]
+  14.00  Municipal Grecia         2-0 (2-0)  Santos de Guápiles
+  17.00  Guadalupe                1-1 (0-1)  CS Herediano
+[Sun Mar/6]
+  15.00  AD Guanacasteca          1-1 (0-1)  CS Cartaginés
+         Sporting FC              0-1 (0-0)  Deportivo Saprissa
+  18.00  AD San Carlos            0-3  LD Alajuelense           [awarded]
+[Mon Mar/7]
+  20.00  Municipal Pérez Zeledón  2-1 (1-0)  Jicaral
+
+
+Matchday 11
+[Thu Mar/31]
+  18.00  CS Herediano             3-2 (0-0)  Municipal Pérez Zeledón
+  19.00  Sporting FC              4-0 (2-0)  AD San Carlos
+  20.30  CS Cartaginés            0-0  Jicaral
+[Fri Apr/1]
+  15.00  AD Guanacasteca          1-2 (0-1)  Guadalupe
+  18.00  LD Alajuelense           0-2 (0-2)  Santos de Guápiles
+  20.40  Deportivo Saprissa       0-1 (0-0)  Municipal Grecia
+
+
+Matchday 12
+[Tue Apr/5]
+  14.00  Municipal Grecia         2-0 (1-0)  Municipal Pérez Zeledón
+  15.00  Jicaral                  0-3 (0-0)  CS Herediano
+  18.00  Santos de Guápiles       1-1 (0-0)  AD San Carlos
+  20.00  LD Alajuelense           1-1 (1-1)  Sporting FC
+[Wed Apr/6]
+  20.00  Deportivo Saprissa       2-2 (1-0)  AD Guanacasteca
+[Thu Apr/7]
+  20.00  CS Cartaginés            4-1 (1-1)  Guadalupe
+
+
+Matchday 13
+[Sat Apr/9]
+  15.00  AD Guanacasteca          3-2 (2-0)  Jicaral
+  19.30  AD San Carlos            4-1 (2-0)  Deportivo Saprissa
+  20.00  CS Herediano             3-1 (3-1)  Municipal Grecia
+[Sun Apr/10]
+  17.00  Municipal Pérez Zeledón  3-0 (1-0)  CS Cartaginés
+  18.00  Guadalupe                0-2 (0-2)  LD Alajuelense
+[Mon Apr/11]
+  19.00  Sporting FC              1-1 (1-1)  Santos de Guápiles
+
+
+Matchday 14
+[Wed Apr/13]
+  20.00  Municipal Pérez Zeledón  1-0 (0-0)  AD San Carlos
+[Sat Apr/16]
+  15.00  Jicaral                  1-1 (0-0)  Municipal Grecia
+         AD Guanacasteca          0-3 (0-3)  LD Alajuelense
+  18.00  Guadalupe                4-2 (0-1)  Sporting FC
+[Sun Apr/17]
+  11.00  CS Cartaginés            3-1 (0-0)  Deportivo Saprissa
+  16.00  CS Herediano             3-0 (1-0)  Santos de Guápiles
+
+
+Matchday 15
+[Tue Apr/19]
+  18.30  AD San Carlos            2-1 (1-0)  Guadalupe
+  20.00  LD Alajuelense           3-1 (2-1)  Municipal Pérez Zeledón
+[Wed Apr/20]
+  14.00  Municipal Grecia         3-1 (3-1)  AD Guanacasteca
+  18.00  Santos de Guápiles       2-2 (2-2)  Jicaral
+  20.00  Deportivo Saprissa       0-1 (0-0)  CS Herediano
+  20.15  Sporting FC              2-2 (2-2)  CS Cartaginés
+
+
+Matchday 16
+[Sat Apr/23]
+  17.00  Municipal Pérez Zeledón  2-2 (2-1)  AD Guanacasteca
+  19.00  Santos de Guápiles       2-1 (1-1)  Deportivo Saprissa
+  20.00  CS Herediano             1-1 (1-0)  AD San Carlos
+[Sun Apr/24]
+  11.00  CS Cartaginés            1-2 (1-0)  LD Alajuelense
+  14.00  Municipal Grecia         3-2 (2-1)  Guadalupe
+  15.00  Jicaral                  2-0 (0-0)  Sporting FC
+
+
+Matchday 17
+[Tue Apr/26]
+  17.00  Municipal Pérez Zeledón  1-1 (0-1)  Santos de Guápiles
+  20.00  CS Cartaginés            4-0 (2-0)  Municipal Grecia
+[Wed Apr/27]
+  15.00  AD Guanacasteca          2-3 (1-0)  AD San Carlos
+  18.00  Guadalupe                1-0 (0-0)  Jicaral
+  20.00  Deportivo Saprissa       2-0 (2-0)  LD Alajuelense
+         Sporting FC              0-2 (0-1)  CS Herediano
+
+
+Matchday 18
+[Sat Apr/30]
+  18.00  Santos de Guápiles       6-0 (2-0)  Guadalupe
+  20.00  CS Herediano             4-1 (2-0)  CS Cartaginés
+  20.10  AD San Carlos            2-2 (0-1)  Municipal Grecia
+[Sun May/1]
+  11.00  LD Alajuelense           3-0 (3-0)  Jicaral
+  15.00  Sporting FC              0-0  AD Guanacasteca
+  16.00  Deportivo Saprissa       2-1 (1-1)  Municipal Pérez Zeledón
+
+
+Matchday 19
+[Tue May/3]
+  20.00  CS Cartaginés            4-1 (1-1)  Santos de Guápiles
+[Wed May/4]
+  11.00  Municipal Grecia         1-1 (0-0)  LD Alajuelense
+  15.00  Jicaral                  2-1 (0-1)  AD San Carlos
+         AD Guanacasteca          0-1 (0-0)  CS Herediano
+  20.00  Municipal Pérez Zeledón  0-1 (0-1)  Sporting FC
+  20.15  Guadalupe                1-2 (1-1)  Deportivo Saprissa
+
+
+Matchday 20
+[Sat May/7]
+  15.00  AD Guanacasteca          2-0 (1-0)  Santos de Guápiles
+  18.00  Guadalupe                2-2 (1-1)  Municipal Pérez Zeledón
+  20.00  Deportivo Saprissa       3-1 (2-0)  Jicaral
+[Sun May/8]
+  15.00  Sporting FC              3-2 (1-1)  Municipal Grecia
+  17.00  LD Alajuelense           2-1 (1-1)  CS Herediano
+  18.00  AD San Carlos            3-2 (0-0)  CS Cartaginés
+
+
+Matchday 21
+[Wed May/11]
+  15.00  Jicaral                  2-1 (1-0)  Municipal Pérez Zeledón
+  18.00  CS Cartaginés            3-0 (3-0)  AD Guanacasteca
+         Santos de Guápiles       2-0 (0-0)  Municipal Grecia
+  20.30  Deportivo Saprissa       1-0 (0-0)  Sporting FC
+[Thu May/12]
+  17.30  CS Herediano             0-0  Guadalupe
+  20.00  LD Alajuelense           1-0 (0-0)  AD San Carlos
+
+
+Matchday 22
+[Sun May/15]
+  15.00  Jicaral                  4-3 (2-1)  CS Cartaginés
+         Guadalupe                0-0  AD Guanacasteca
+         AD San Carlos            2-1 (2-1)  Sporting FC
+         Municipal Pérez Zeledón  2-3 (2-2)  CS Herediano
+  17.15  Santos de Guápiles       2-0 (1-0)  LD Alajuelense
+[Mon May/16]
+  11.00  Municipal Grecia         2-3 (1-0)  Deportivo Saprissa
+
+
+== Clausura Playoffs
+
+Semifinals
+[Sun Jun/19]
+  11.00  CS Cartaginés            1-0 (1-0)  CS Herediano
+  17.00  Deportivo Saprissa       1-1 (0-0)  LD Alajuelense
+[Tue Jun/21]
+  20.00  CS Herediano             1-1 (1-0)  CS Cartaginés
+[Wed Jun/22]
+  20.00  LD Alajuelense           3-1 a.e.t. (1-1, 0-0)  Deportivo Saprissa
+
+
+Final
+[Sun Jun/26]
+  11.00  CS Cartaginés            0-0  LD Alajuelense
+[Thu Jun/30]
+  20.00  LD Alajuelense           1-1 (0-0)  CS Cartaginés
+
+
+Gran Final
+[Sun Jul/3]
+  20.00  CS Cartaginés            1-0 (0-0)  LD Alajuelense
+[Wed Jul/6]
+  20.00  LD Alajuelense           1-1 a.e.t. (1-1, 1-1)  CS Cartaginés

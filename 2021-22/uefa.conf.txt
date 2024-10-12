@@ -1,0 +1,224 @@
+= UEFA CONF 2021/22
+
+# Date       Tue Sep/14 2021 - Wed May/25 2022 (253d)
+# Teams      40
+# Matches    141
+
+
+
+Group
+[Tue Sep/14]
+  16.30  Maccabi Tel Aviv (ISR)   4-1 (3-1)  FC Alashkert (ARM)
+[Thu Sep/16]
+  18.45  HJK Helsinki (FIN)       0-2 (0-1)  LASK (AUT)
+[Thu Sep/30]
+  18.45  FC Alashkert (ARM)       2-4 (1-1)  HJK Helsinki (FIN)
+         LASK (AUT)               1-1 (1-0)  Maccabi Tel Aviv (ISR)
+[Thu Oct/21]
+  16.30  HJK Helsinki (FIN)       0-5 (0-1)  Maccabi Tel Aviv (ISR)
+  18.45  FC Alashkert (ARM)       0-3 (0-1)  LASK (AUT)
+[Thu Nov/4]
+  18.45  LASK (AUT)               2-0 (1-0)  FC Alashkert (ARM)
+         Maccabi Tel Aviv (ISR)   3-0 (1-0)  HJK Helsinki (FIN)
+[Thu Nov/25]
+  18.45  HJK Helsinki (FIN)       1-0 (0-0)  FC Alashkert (ARM)
+  21.00  Maccabi Tel Aviv (ISR)   0-1 (0-0)  LASK (AUT)
+[Thu Dec/9]
+  18.45  FC Alashkert (ARM)       1-1 (0-0)  Maccabi Tel Aviv (ISR)
+         LASK (AUT)               3-0 (1-0)  HJK Helsinki (FIN)
+[Thu Sep/16]
+  18.45  FC Flora (EST)           0-1 (0-0)  KAA Gent (BEL)
+  21.00  Anorthosis Famagusta (CYP)  0-2 (0-1)  Partizan (SRB)
+[Thu Sep/30]
+  18.45  KAA Gent (BEL)           2-0 (1-0)  Anorthosis Famagusta (CYP)
+         Partizan (SRB)           2-0 (2-0)  FC Flora (EST)
+[Thu Oct/21]
+  18.45  Anorthosis Famagusta (CYP)  2-2 (2-1)  FC Flora (EST)
+  21.00  Partizan (SRB)           0-1 (0-0)  KAA Gent (BEL)
+[Thu Nov/4]
+  16.30  FC Flora (EST)           2-2 (0-2)  Anorthosis Famagusta (CYP)
+  18.45  KAA Gent (BEL)           1-1 (0-0)  Partizan (SRB)
+[Thu Nov/25]
+  16.30  FC Flora (EST)           1-0 (1-0)  Partizan (SRB)
+  21.00  Anorthosis Famagusta (CYP)  1-0 (1-0)  KAA Gent (BEL)
+[Thu Dec/9]
+  18.45  Partizan (SRB)           1-1 (1-1)  Anorthosis Famagusta (CYP)
+         KAA Gent (BEL)           1-0 (0-0)  FC Flora (EST)
+[Thu Sep/16]
+  21.00  AS Roma (ITA)            5-1 (2-1)  CSKA Sofia (BUL)
+         FK Bodø/Glimt (NOR)      3-1 (0-0)  Zorya Lugansk (UKR)
+[Thu Sep/30]
+  18.45  Zorya Lugansk (UKR)      0-3 (0-1)  AS Roma (ITA)
+         CSKA Sofia (BUL)         0-0  FK Bodø/Glimt (NOR)
+[Thu Oct/21]
+  18.45  FK Bodø/Glimt (NOR)      6-1 (2-1)  AS Roma (ITA)
+  21.00  CSKA Sofia (BUL)         0-1 (0-0)  Zorya Lugansk (UKR)
+[Thu Nov/4]
+  18.45  Zorya Lugansk (UKR)      2-0 (0-0)  CSKA Sofia (BUL)
+  21.00  AS Roma (ITA)            2-2 (0-1)  FK Bodø/Glimt (NOR)
+[Thu Nov/25]
+  21.00  AS Roma (ITA)            4-0 (2-0)  Zorya Lugansk (UKR)
+         FK Bodø/Glimt (NOR)      2-0 (1-0)  CSKA Sofia (BUL)
+[Thu Dec/9]
+  18.45  CSKA Sofia (BUL)         2-3 (0-2)  AS Roma (ITA)
+         Zorya Lugansk (UKR)      1-1 (1-0)  FK Bodø/Glimt (NOR)
+[Thu Sep/16]
+  21.00  Randers FC (DEN)         2-2 (1-2)  AZ Alkmaar (NED)
+         FK Jablonec (CZE)        1-0 (0-0)  CFR Cluj (ROU)
+[Thu Sep/30]
+  18.45  AZ Alkmaar (NED)         1-0 (0-0)  FK Jablonec (CZE)
+         CFR Cluj (ROU)           1-1 (0-1)  Randers FC (DEN)
+[Thu Oct/21]
+  21.00  CFR Cluj (ROU)           0-1 (0-1)  AZ Alkmaar (NED)
+         FK Jablonec (CZE)        2-2 (1-1)  Randers FC (DEN)
+[Thu Nov/4]
+  18.45  AZ Alkmaar (NED)         2-0 (1-0)  CFR Cluj (ROU)
+         Randers FC (DEN)         2-2 (0-0)  FK Jablonec (CZE)
+[Thu Nov/25]
+  21.00  FK Jablonec (CZE)        1-1 (1-1)  AZ Alkmaar (NED)
+         Randers FC (DEN)         2-1 (0-0)  CFR Cluj (ROU)
+[Thu Dec/9]
+  18.45  AZ Alkmaar (NED)         1-0 (0-0)  Randers FC (DEN)
+         CFR Cluj (ROU)           2-0 (1-0)  FK Jablonec (CZE)
+[Tue Sep/14]
+  16.30  Maccabi Haifa (ISR)      0-0  Feyenoord (NED)
+[Thu Sep/16]
+  18.45  Slavia Praha (CZE)       3-1 (1-0)  1. FC Union Berlin (GER)
+[Thu Sep/30]
+  21.00  1. FC Union Berlin (GER)  3-0 (1-0)  Maccabi Haifa (ISR)
+         Feyenoord (NED)          2-1 (2-0)  Slavia Praha (CZE)
+[Thu Oct/21]
+  18.45  Feyenoord (NED)          3-1 (2-1)  1. FC Union Berlin (GER)
+         Maccabi Haifa (ISR)      1-0 (1-0)  Slavia Praha (CZE)
+[Thu Nov/4]
+  21.00  1. FC Union Berlin (GER)  1-2 (1-1)  Feyenoord (NED)
+         Slavia Praha (CZE)       1-0 (0-0)  Maccabi Haifa (ISR)
+[Thu Nov/25]
+  18.45  Maccabi Haifa (ISR)      0-1 (0-0)  1. FC Union Berlin (GER)
+         Slavia Praha (CZE)       2-2 (1-1)  Feyenoord (NED)
+[Thu Dec/9]
+  21.00  1. FC Union Berlin (GER)  1-1 (0-0)  Slavia Praha (CZE)
+         Feyenoord (NED)          2-1 (1-0)  Maccabi Haifa (ISR)
+[Thu Sep/16]
+  18.45  Slovan Bratislava (SVK)  1-3 (1-2)  FC København (DEN)
+         Lincoln Red Imps (GIB)   0-2 (0-1)  PAOK Saloniki (GRE)
+[Thu Sep/30]
+  21.00  FC København (DEN)       3-1 (2-1)  Lincoln Red Imps (GIB)
+         PAOK Saloniki (GRE)      1-1 (1-1)  Slovan Bratislava (SVK)
+[Thu Oct/21]
+  18.45  FC København (DEN)       1-2 (0-2)  PAOK Saloniki (GRE)
+  21.00  Slovan Bratislava (SVK)  2-0 (0-0)  Lincoln Red Imps (GIB)
+[Thu Nov/4]
+  18.45  Lincoln Red Imps (GIB)   1-4 (1-2)  Slovan Bratislava (SVK)
+  21.00  PAOK Saloniki (GRE)      1-2 (1-1)  FC København (DEN)
+[Thu Nov/25]
+  18.45  Lincoln Red Imps (GIB)   0-4 (0-2)  FC København (DEN)
+         Slovan Bratislava (SVK)  0-0  PAOK Saloniki (GRE)
+[Thu Dec/9]
+  21.00  FC København (DEN)       2-0 (1-0)  Slovan Bratislava (SVK)
+         PAOK Saloniki (GRE)      2-0 (1-0)  Lincoln Red Imps (GIB)
+[Thu Sep/16]
+  18.45  NŠ Mura (SVN)            0-2 (0-1)  Vitesse (NED)
+         Stade Rennais (FRA)      2-2 (1-1)  Tottenham Hotspur (ENG)
+[Thu Sep/30]
+  21.00  Tottenham Hotspur (ENG)  5-1 (2-0)  NŠ Mura (SVN)
+         Vitesse (NED)            1-2 (1-0)  Stade Rennais (FRA)
+[Thu Oct/21]
+  18.45  NŠ Mura (SVN)            1-2 (1-2)  Stade Rennais (FRA)
+         Vitesse (NED)            1-0 (0-0)  Tottenham Hotspur (ENG)
+[Thu Nov/4]
+  21.00  Stade Rennais (FRA)      1-0 (0-0)  NŠ Mura (SVN)
+         Tottenham Hotspur (ENG)  3-2 (3-2)  Vitesse (NED)
+[Thu Nov/25]
+  18.45  NŠ Mura (SVN)            2-1 (1-0)  Tottenham Hotspur (ENG)
+         Stade Rennais (FRA)      3-3 (2-1)  Vitesse (NED)
+[Thu Dec/9]
+         Tottenham Hotspur (ENG)  0-3  Stade Rennais (FRA)      [awarded]
+  21.00  Vitesse (NED)            3-1 (3-0)  NŠ Mura (SVN)
+[Thu Sep/16]
+  16.30  FK Kairat (KAZ)          0-0  Omonia Nikosia (CYP)
+  18.45  Qarabağ FK (AZE)         0-0  FC Basel 1893 (SUI)
+[Thu Sep/30]
+  21.00  FC Basel 1893 (SUI)      4-2 (3-0)  FK Kairat (KAZ)
+         Omonia Nikosia (CYP)     1-4 (1-0)  Qarabağ FK (AZE)
+[Thu Oct/21]
+  18.45  Qarabağ FK (AZE)         2-1 (0-1)  FK Kairat (KAZ)
+  21.00  FC Basel 1893 (SUI)      3-1 (2-1)  Omonia Nikosia (CYP)
+[Thu Nov/4]
+  16.30  FK Kairat (KAZ)          1-2 (0-0)  Qarabağ FK (AZE)
+  18.45  Omonia Nikosia (CYP)     1-1 (1-0)  FC Basel 1893 (SUI)
+[Thu Nov/25]
+  16.30  FK Kairat (KAZ)          2-3 (1-1)  FC Basel 1893 (SUI)
+  18.45  Qarabağ FK (AZE)         2-2 (0-1)  Omonia Nikosia (CYP)
+[Thu Dec/9]
+  21.00  FC Basel 1893 (SUI)      3-0 (1-0)  Qarabağ FK (AZE)
+         Omonia Nikosia (CYP)     0-0  FK Kairat (KAZ)
+
+
+Playoffs
+[Thu Feb/17]
+  18.45  PSV Eindhoven (NED)      1-0 (1-0)  Maccabi Tel Aviv (ISR)
+         Fenerbahçe (TUR)         2-3 (0-1)  Slavia Praha (CZE)
+         FC Midtjylland (DEN)     1-0 (1-0)  PAOK Saloniki (GRE)
+         Rapid Wien (AUT)         2-1 (2-0)  Vitesse (NED)
+  21.00  Olympique Marseille (FRA)  3-1 (2-0)  Qarabağ FK (AZE)
+         Leicester City (ENG)     4-1 (1-1)  Randers FC (DEN)
+         Celtic FC (SCO)          1-3 (0-1)  FK Bodø/Glimt (NOR)
+         AC Sparta Praha (CZE)    0-1 (0-0)  Partizan (SRB)
+[Thu Feb/24]
+  18.45  Qarabağ FK (AZE)         0-3 (0-1)  Olympique Marseille (FRA)
+         Maccabi Tel Aviv (ISR)   1-1 (0-0)  PSV Eindhoven (NED)
+         Randers FC (DEN)         1-3 (0-1)  Leicester City (ENG)
+         FK Bodø/Glimt (NOR)      2-0 (1-0)  Celtic FC (SCO)
+         Partizan (SRB)           2-1 (2-0)  AC Sparta Praha (CZE)
+  21.00  Slavia Praha (CZE)       3-2 (2-1)  Fenerbahçe (TUR)
+         PAOK Saloniki (GRE)      5-3 pen. 2-1 a.e.t. (2-1, 2-0)  FC Midtjylland (DEN)
+         Vitesse (NED)            2-0 (2-0)  Rapid Wien (AUT)
+
+
+Round of 16
+[Thu Mar/10]
+  18.45  PAOK Saloniki (GRE)      1-0 (0-0)  KAA Gent (BEL)
+         Vitesse (NED)            0-1 (0-1)  AS Roma (ITA)
+         Slavia Praha (CZE)       4-1 (2-0)  LASK (AUT)
+         Partizan (SRB)           2-5 (1-1)  Feyenoord (NED)
+  21.00  Olympique Marseille (FRA)  2-1 (1-0)  FC Basel 1893 (SUI)
+         Leicester City (ENG)     2-0 (1-0)  Stade Rennais (FRA)
+         PSV Eindhoven (NED)      4-4 (1-3)  FC København (DEN)
+         FK Bodø/Glimt (NOR)      2-1 (1-0)  AZ Alkmaar (NED)
+[Thu Mar/17]
+  18.45  FC Basel 1893 (SUI)      1-2 (0-0)  Olympique Marseille (FRA)
+         Stade Rennais (FRA)      2-1 (1-0)  Leicester City (ENG)
+         FC København (DEN)       0-4 (0-2)  PSV Eindhoven (NED)
+         AZ Alkmaar (NED)         2-2 a.e.t. (2-1, 2-1)  FK Bodø/Glimt (NOR)
+  21.00  KAA Gent (BEL)           1-2 (1-1)  PAOK Saloniki (GRE)
+         AS Roma (ITA)            1-1 (0-0)  Vitesse (NED)
+         LASK (AUT)               4-3 (1-2)  Slavia Praha (CZE)
+         Feyenoord (NED)          3-1 (1-0)  Partizan (SRB)
+
+
+Quarterfinals
+[Thu Apr/7]
+  18.45  Feyenoord (NED)          3-3 (1-1)  Slavia Praha (CZE)
+  21.00  FK Bodø/Glimt (NOR)      2-1 (0-1)  AS Roma (ITA)
+         Olympique Marseille (FRA)  2-1 (2-0)  PAOK Saloniki (GRE)
+         Leicester City (ENG)     0-0  PSV Eindhoven (NED)
+[Thu Apr/14]
+  18.45  PSV Eindhoven (NED)      1-2 (1-0)  Leicester City (ENG)
+  21.00  AS Roma (ITA)            4-0 (3-0)  FK Bodø/Glimt (NOR)
+         Slavia Praha (CZE)       1-3 (1-1)  Feyenoord (NED)
+         PAOK Saloniki (GRE)      0-1 (0-1)  Olympique Marseille (FRA)
+
+
+Semifinals
+[Thu Apr/28]
+  21.00  Leicester City (ENG)     1-1 (0-1)  AS Roma (ITA)
+         Feyenoord (NED)          3-2 (2-2)  Olympique Marseille (FRA)
+[Thu May/5]
+  21.00  AS Roma (ITA)            1-0 (1-0)  Leicester City (ENG)
+         Olympique Marseille (FRA)  0-0  Feyenoord (NED)
+
+
+Final
+[Wed May/25]
+  21.00  AS Roma (ITA)            1-0 (1-0)  Feyenoord (NED)

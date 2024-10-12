@@ -1,0 +1,90 @@
+= UEFA NL C 2024/25
+
+# Date       Thu Sep/5 - Tue Nov/19 2024 (75d)
+# Teams      16
+# Matches    48
+
+
+
+Gruppe 1
+[Thu Sep/5]
+  18.00  Aserbaidschan            1-3 (0-0)  Schweden
+  20.45  Estland                  0-1 (0-0)  Slowakei
+[Sun Sep/8]
+  18.00  Slowakei                 2-0 (2-0)  Aserbaidschan
+  20.45  Schweden                 3-0 (3-0)  Estland
+[Fri Oct/11]
+  18.00  Estland                  -  Aserbaidschan
+  20.45  Slowakei                 -  Schweden
+[Mon Oct/14]
+  18.00  Aserbaidschan            -  Slowakei
+  20.45  Estland                  -  Schweden
+[Sat Nov/16]
+  15.00  Aserbaidschan            -  Estland
+  20.45  Schweden                 -  Slowakei
+[Tue Nov/19]
+  20.45  Slowakei                 -  Estland
+         Schweden                 -  Aserbaidschan
+
+
+Gruppe 2
+[Fri Sep/6]
+  18.00  Litauen                  0-1 (0-1)  Zypern
+  20.45  Kosovo                   0-3 (0-1)  Rumänien
+[Mon Sep/9]
+  18.00  Zypern                   0-4 (0-2)  Kosovo
+  20.45  Rumänien                 3-1 (1-1)  Litauen
+[Sat Oct/12]
+  15.00  Litauen                  -  Kosovo
+  20.45  Zypern                   -  Rumänien
+[Tue Oct/15]
+  20.45  Kosovo                   -  Zypern
+         Litauen                  -  Rumänien
+[Fri Nov/15]
+  20.45  Zypern                   -  Litauen
+         Rumänien                 -  Kosovo
+[Mon Nov/18]
+  20.45  Kosovo                   -  Litauen
+         Rumänien                 -  Zypern
+
+
+Gruppe 3
+[Thu Sep/5]
+  20.45  Belarus                  0-0  Bulgarien
+         Nordirland               2-0 (2-0)  Luxemburg
+[Sun Sep/8]
+  15.00  Luxemburg                0-1 (0-0)  Belarus
+  18.00  Bulgarien                1-0 (1-0)  Nordirland
+[Sat Oct/12]
+  18.00  Bulgarien                -  Luxemburg
+  20.45  Belarus                  -  Nordirland
+[Tue Oct/15]
+  20.45  Belarus                  -  Luxemburg
+         Nordirland               -  Bulgarien
+[Fri Nov/15]
+  20.45  Luxemburg                -  Bulgarien
+         Nordirland               -  Belarus
+[Mon Nov/18]
+  20.45  Bulgarien                -  Belarus
+         Luxemburg                -  Nordirland
+
+
+Gruppe 4
+[Sat Sep/7]
+  15.00  Färöer                   1-1 (1-0)  Nordmazedonien
+  18.00  Armenien                 4-1 (2-1)  Lettland
+[Tue Sep/10]
+  18.00  Lettland                 1-0 (0-0)  Färöer
+  20.45  Nordmazedonien           2-0 (0-0)  Armenien
+[Thu Oct/10]
+  18.00  Lettland                 0-3 (0-1)  Nordmazedonien
+  20.45  Färöer                   2-2 (1-1)  Armenien
+[Sun Oct/13]
+  18.00  Armenien                 -  Nordmazedonien
+  20.45  Färöer                   -  Lettland
+[Thu Nov/14]
+  18.00  Armenien                 -  Färöer
+  20.45  Nordmazedonien           -  Lettland
+[Sun Nov/17]
+  15.00  Lettland                 -  Armenien
+         Nordmazedonien           -  Färöer

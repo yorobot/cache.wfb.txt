@@ -1,0 +1,397 @@
+= GE 1 2015/16
+
+# Date       Thu Aug/13 2015 - Sun May/22 2016 (283d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Thu Aug/13]
+  17.00  FC Tskhinvali            1-2 (1-0)  FC Saburtalo
+         Chikhura Sachkhere       1-0 (0-0)  Lokomotiv Tbilisi
+[Fri Aug/14]
+  17.00  Dila Gori                2-0 (1-0)  Kolkheti Poti
+         Dinamo Batumi            5-0 (4-0)  FC Zugdidi
+         FC Samtredia             2-0 (0-0)  Shukura Kobuleti
+         Guria Lanchkhuti         1-1 (1-0)  Sioni Bolnisi
+  19.00  Torpedo Kutaisi          4-0 (1-0)  FC Merani Martvili
+  20.00  Dinamo Tbilisi           4-0 (2-0)  FC Sapovnela
+
+
+Matchday 2
+[Fri Aug/21]
+  17.00  Dila Gori                1-1 (1-0)  Dinamo Batumi
+  20.00  Lokomotiv Tbilisi        1-4 (1-3)  Dinamo Tbilisi
+[Sat Aug/22]
+  17.00  Kolkheti Poti            0-1 (0-1)  Sioni Bolnisi
+         Shukura Kobuleti         2-1 (1-1)  Guria Lanchkhuti
+         FC Sapovnela             2-3 (1-1)  FC Samtredia
+         FC Merani Martvili       2-3 (1-1)  FC Tskhinvali
+         FC Zugdidi               1-1 (0-0)  Torpedo Kutaisi
+         FC Saburtalo             1-0 (0-0)  Chikhura Sachkhere
+
+
+Matchday 3
+[Sat Aug/29]
+  18.00  Dinamo Tbilisi           4-0 (2-0)  FC Saburtalo
+[Sun Aug/30]
+  17.00  Dinamo Batumi            2-0 (2-0)  Kolkheti Poti
+         FC Tskhinvali            5-1 (3-1)  FC Zugdidi
+         Chikhura Sachkhere       3-0 (0-0)  FC Merani Martvili
+         FC Samtredia             3-2 (2-1)  Lokomotiv Tbilisi
+         Guria Lanchkhuti         3-0 (1-0)  FC Sapovnela
+         Sioni Bolnisi            2-0 (0-0)  Shukura Kobuleti
+  20.00  Torpedo Kutaisi          0-2 (0-0)  Dila Gori
+
+
+Matchday 4
+[Fri Sep/11]
+  16.00  FC Merani Martvili       1-4 (0-1)  Dinamo Tbilisi
+  20.00  Lokomotiv Tbilisi        3-0 (2-0)  Guria Lanchkhuti
+[Sat Sep/12]
+  16.00  Kolkheti Poti            1-0 (1-0)  Shukura Kobuleti
+         FC Sapovnela             0-0  Sioni Bolnisi
+         FC Zugdidi               1-4 (0-1)  Chikhura Sachkhere
+         Dila Gori                3-0 (3-0)  FC Tskhinvali
+         Dinamo Batumi            1-1 (0-0)  Torpedo Kutaisi
+         FC Saburtalo             3-2 (2-0)  FC Samtredia
+
+
+Matchday 5
+[Sun Sep/20]
+  16.00  Sioni Bolnisi            1-0 (0-0)  Lokomotiv Tbilisi
+         Shukura Kobuleti         4-0 (1-0)  FC Sapovnela
+         FC Tskhinvali            3-2 (3-0)  Dinamo Batumi
+         Chikhura Sachkhere       0-1 (0-0)  Dila Gori
+         FC Samtredia             4-0 (2-0)  FC Merani Martvili
+         Guria Lanchkhuti         0-0  FC Saburtalo
+  18.00  Torpedo Kutaisi          1-0 (0-0)  Kolkheti Poti
+         Dinamo Tbilisi           3-1 (1-0)  FC Zugdidi
+
+
+Matchday 6
+[Fri Sep/25]
+  16.00  FC Saburtalo             2-3 (1-1)  Sioni Bolnisi
+  18.00  Lokomotiv Tbilisi        0-0  Shukura Kobuleti
+[Sat Sep/26]
+  16.00  Kolkheti Poti            0-0  FC Sapovnela
+         FC Merani Martvili       2-0 (1-0)  Guria Lanchkhuti
+         FC Zugdidi               3-3 (2-2)  FC Samtredia
+         Dila Gori                2-0 (1-0)  Dinamo Tbilisi
+         Dinamo Batumi            1-1 (1-0)  Chikhura Sachkhere
+  18.00  Torpedo Kutaisi          1-3 (0-3)  FC Tskhinvali
+
+
+Matchday 7
+[Sat Oct/3]
+  15.00  FC Tskhinvali            5-1 (1-0)  Kolkheti Poti
+         FC Sapovnela             2-1 (1-1)  Lokomotiv Tbilisi
+         FC Samtredia             5-0 (3-0)  Dila Gori
+  18.00  Dinamo Tbilisi           1-0 (0-0)  Dinamo Batumi
+[Sun Oct/4]
+  15.00  Chikhura Sachkhere       3-0 (1-0)  Torpedo Kutaisi
+         Shukura Kobuleti         1-0 (0-0)  FC Saburtalo
+         Sioni Bolnisi            3-0 (2-0)  FC Merani Martvili
+[Sat Oct/10]
+  15.00  Guria Lanchkhuti         2-0 (1-0)  FC Zugdidi
+
+
+Matchday 8
+[Fri Oct/16]
+  19.00  FC Saburtalo             2-1 (0-0)  FC Sapovnela
+[Sat Oct/17]
+  15.00  Kolkheti Poti            4-0 (4-0)  Lokomotiv Tbilisi
+         FC Merani Martvili       1-2 (1-1)  Shukura Kobuleti
+         Dinamo Batumi            2-0 (1-0)  FC Samtredia
+         Torpedo Kutaisi          1-1 (0-0)  Dinamo Tbilisi
+[Sun Oct/18]
+  15.00  Dila Gori                5-0 (2-0)  Guria Lanchkhuti
+         FC Tskhinvali            1-1 (0-0)  Chikhura Sachkhere
+[Sat Nov/14]
+  14.00  FC Zugdidi               1-3 (0-2)  Sioni Bolnisi
+
+
+Matchday 9
+[Fri Oct/23]
+  15.00  Chikhura Sachkhere       0-1 (0-1)  Kolkheti Poti
+         Guria Lanchkhuti         1-1 (0-0)  Dinamo Batumi
+         Sioni Bolnisi            0-1 (0-0)  Dila Gori
+         FC Samtredia             3-1 (1-1)  Torpedo Kutaisi
+         Shukura Kobuleti         2-1 (2-1)  FC Zugdidi
+  18.00  Dinamo Tbilisi           2-1 (1-1)  FC Tskhinvali
+[Sat Oct/24]
+  15.00  FC Sapovnela             2-1 (1-0)  FC Merani Martvili
+[Sun Oct/25]
+  20.00  Lokomotiv Tbilisi        3-2 (2-0)  FC Saburtalo
+
+
+Matchday 10
+[Sat Oct/31]
+  15.00  Kolkheti Poti            1-0 (1-0)  FC Saburtalo
+[Sun Nov/1]
+  14.00  FC Zugdidi               2-1 (0-1)  FC Sapovnela
+         Dila Gori                1-3 (1-0)  Shukura Kobuleti
+         Dinamo Batumi            3-5 (1-1)  Sioni Bolnisi
+         FC Tskhinvali            1-0 (1-0)  FC Samtredia
+         FC Merani Martvili       0-3 (0-2)  Lokomotiv Tbilisi
+  16.00  Chikhura Sachkhere       0-2 (0-1)  Dinamo Tbilisi
+  18.00  Torpedo Kutaisi          2-1 (0-1)  Guria Lanchkhuti
+
+
+Matchday 11
+[Fri Nov/6]
+  20.00  Lokomotiv Tbilisi        3-0 (2-0)  FC Zugdidi
+[Sat Nov/7]
+  14.00  Shukura Kobuleti         0-1 (0-1)  Dinamo Batumi
+         FC Sapovnela             1-5 (0-3)  Dila Gori
+         FC Saburtalo             4-2 (1-1)  FC Merani Martvili
+[Sun Nov/8]
+  14.00  FC Samtredia             0-1 (0-1)  Chikhura Sachkhere
+         Guria Lanchkhuti         1-2 (0-2)  FC Tskhinvali
+         Sioni Bolnisi            6-2 (1-1)  Torpedo Kutaisi
+  18.00  Dinamo Tbilisi           5-2 (3-0)  Kolkheti Poti
+
+
+Matchday 12
+[Sat Nov/21]
+  14.00  Kolkheti Poti            2-1 (0-0)  FC Merani Martvili
+         Dila Gori                1-0 (1-0)  Lokomotiv Tbilisi
+         Dinamo Batumi            1-0 (1-0)  FC Sapovnela
+         Chikhura Sachkhere       5-0 (1-0)  Guria Lanchkhuti
+  16.00  Dinamo Tbilisi           3-1 (2-1)  FC Samtredia
+  17.00  Torpedo Kutaisi          0-0  Shukura Kobuleti
+[Sun Nov/22]
+  14.00  FC Saburtalo             1-0 (0-0)  FC Zugdidi
+         FC Tskhinvali            2-0 (0-0)  Sioni Bolnisi
+
+
+Matchday 13
+[Fri Nov/27]
+  20.00  Lokomotiv Tbilisi        1-1 (1-0)  Dinamo Batumi
+[Sat Nov/28]
+  14.00  FC Samtredia             1-0 (0-0)  Kolkheti Poti
+         Guria Lanchkhuti         0-2 (0-0)  Dinamo Tbilisi
+         Shukura Kobuleti         2-2 (2-1)  FC Tskhinvali
+         FC Sapovnela             1-5 (1-4)  Torpedo Kutaisi
+         FC Merani Martvili       0-0  FC Zugdidi
+  15.00  Sioni Bolnisi            4-0 (0-0)  Chikhura Sachkhere
+[Sun Nov/29]
+  14.00  FC Saburtalo             1-3 (0-1)  Dila Gori
+
+
+Matchday 14
+[Sun Dec/6]
+  14.00  Dinamo Batumi            2-1 (1-1)  FC Saburtalo
+         FC Tskhinvali            3-0 (2-0)  FC Sapovnela
+         Kolkheti Poti            0-0  FC Zugdidi
+         Torpedo Kutaisi          2-0 (1-0)  Lokomotiv Tbilisi
+         Chikhura Sachkhere       1-0 (1-0)  Shukura Kobuleti
+         FC Samtredia             3-1 (2-0)  Guria Lanchkhuti
+  18.00  Dinamo Tbilisi           5-2 (1-0)  Sioni Bolnisi
+[Mon Dec/7]
+  14.00  Dila Gori                2-0 (1-0)  FC Merani Martvili
+
+
+Matchday 15
+[Fri Dec/11]
+  14.00  Guria Lanchkhuti         1-1 (1-0)  Kolkheti Poti
+  20.00  Lokomotiv Tbilisi        0-1 (0-0)  FC Tskhinvali
+[Sat Dec/12]
+  14.00  Sioni Bolnisi            0-2 (0-2)  FC Samtredia
+         FC Merani Martvili       0-4 (0-1)  Dinamo Batumi
+         FC Zugdidi               1-1 (1-0)  Dila Gori
+         Shukura Kobuleti         1-3 (0-1)  Dinamo Tbilisi
+         FC Sapovnela             0-2 (0-0)  Chikhura Sachkhere
+         FC Saburtalo             4-4 (2-3)  Torpedo Kutaisi
+
+
+Matchday 16
+[Fri Feb/19]
+  14.00  FC Saburtalo             2-2 (2-0)  FC Tskhinvali
+         FC Zugdidi               0-1 (0-1)  Dinamo Batumi
+         FC Sapovnela             1-2 (0-0)  Dinamo Tbilisi
+         Shukura Kobuleti         1-1 (1-0)  FC Samtredia
+         FC Merani Martvili       2-1 (1-0)  Torpedo Kutaisi
+         Kolkheti Poti            0-1 (0-0)  Dila Gori
+         Sioni Bolnisi            1-1 (1-1)  Guria Lanchkhuti
+  20.00  Lokomotiv Tbilisi        2-2 (1-1)  Chikhura Sachkhere
+
+
+Matchday 17
+[Tue Feb/23]
+  14.00  Chikhura Sachkhere       5-0 (3-0)  FC Saburtalo
+         Sioni Bolnisi            3-1 (1-0)  Kolkheti Poti
+         FC Tskhinvali            1-1 (1-1)  FC Merani Martvili
+         Torpedo Kutaisi          2-0 (1-0)  FC Zugdidi
+         FC Samtredia             3-0 (2-0)  FC Sapovnela
+         Guria Lanchkhuti         0-0  Shukura Kobuleti
+         Dinamo Batumi            2-2 (2-1)  Dila Gori
+  18.00  Dinamo Tbilisi           2-1 (0-0)  Lokomotiv Tbilisi
+
+
+Matchday 18
+[Sat Feb/27]
+  12.00  FC Saburtalo             0-4 (0-2)  Dinamo Tbilisi
+  14.00  FC Sapovnela             0-2 (0-1)  Guria Lanchkhuti
+         Dila Gori                0-1 (0-0)  Torpedo Kutaisi
+         FC Merani Martvili       3-2 (1-0)  Chikhura Sachkhere
+         Kolkheti Poti            0-1 (0-1)  Dinamo Batumi
+         Shukura Kobuleti         0-0  Sioni Bolnisi
+         FC Zugdidi               1-1 (0-0)  FC Tskhinvali
+  20.00  Lokomotiv Tbilisi        0-1 (0-0)  FC Samtredia
+
+
+Matchday 19
+[Sun Mar/6]
+  15.00  Chikhura Sachkhere       4-0 (1-0)  FC Zugdidi
+         Shukura Kobuleti         1-0 (1-0)  Kolkheti Poti
+         FC Tskhinvali            0-0  Dila Gori
+         Sioni Bolnisi            4-1 (1-0)  FC Sapovnela
+         Torpedo Kutaisi          1-0 (0-0)  Dinamo Batumi
+         Guria Lanchkhuti         0-0  Lokomotiv Tbilisi
+  18.00  Dinamo Tbilisi           2-0 (2-0)  FC Merani Martvili
+[Mon Mar/7]
+  15.00  FC Samtredia             8-2 (2-0)  FC Saburtalo
+
+
+Matchday 20
+[Fri Mar/11]
+  20.00  Lokomotiv Tbilisi        0-0  Sioni Bolnisi
+[Sat Mar/12]
+  15.00  Dila Gori                1-1 (1-1)  Chikhura Sachkhere
+         FC Zugdidi               2-3 (1-1)  Dinamo Tbilisi
+[Sun Mar/13]
+  15.00  Kolkheti Poti            2-0 (0-0)  Torpedo Kutaisi
+         Dinamo Batumi            2-0 (1-0)  FC Tskhinvali
+         FC Merani Martvili       2-3 (0-0)  FC Samtredia
+         FC Saburtalo             4-2 (1-0)  Guria Lanchkhuti
+         FC Sapovnela             2-0 (1-0)  Shukura Kobuleti
+
+
+Matchday 21
+[Thu Mar/17]
+  18.00  Dinamo Tbilisi           0-1 (0-1)  Dila Gori
+[Fri Mar/18]
+  15.00  FC Samtredia             2-0 (1-0)  FC Zugdidi
+         Sioni Bolnisi            0-0  FC Saburtalo
+         FC Tskhinvali            0-0  Torpedo Kutaisi
+         Chikhura Sachkhere       2-0 (1-0)  Dinamo Batumi
+         Shukura Kobuleti         2-1 (2-0)  Lokomotiv Tbilisi
+[Sat Mar/19]
+  15.00  Guria Lanchkhuti         0-0  FC Merani Martvili
+         FC Sapovnela             0-0  Kolkheti Poti
+
+
+Matchday 22
+[Sat Apr/2]
+  16.00  FC Saburtalo             3-2 (1-1)  Shukura Kobuleti
+         Dinamo Batumi            1-2 (0-1)  Dinamo Tbilisi
+         Dila Gori                1-2 (0-1)  FC Samtredia
+         FC Merani Martvili       1-1 (1-0)  Sioni Bolnisi
+         FC Zugdidi               3-2 (2-1)  Guria Lanchkhuti
+         Kolkheti Poti            0-0  FC Tskhinvali
+  18.00  Lokomotiv Tbilisi        0-0  FC Sapovnela
+         Torpedo Kutaisi          0-2 (0-1)  Chikhura Sachkhere
+
+
+Matchday 23
+[Wed Apr/6]
+  16.00  Sioni Bolnisi            3-1 (1-0)  FC Zugdidi
+         Chikhura Sachkhere       2-1 (2-1)  FC Tskhinvali
+         Shukura Kobuleti         0-0  FC Merani Martvili
+         Guria Lanchkhuti         0-1 (0-0)  Dila Gori
+         FC Samtredia             2-0 (0-0)  Dinamo Batumi
+         FC Sapovnela             0-0  FC Saburtalo
+  18.00  Dinamo Tbilisi           2-1 (1-0)  Torpedo Kutaisi
+         Lokomotiv Tbilisi        1-0 (1-0)  Kolkheti Poti
+
+
+Matchday 24
+[Sun Apr/10]
+  16.00  FC Zugdidi               3-0 (1-0)  Shukura Kobuleti
+         Dinamo Batumi            1-2 (1-2)  Guria Lanchkhuti
+         Dila Gori                2-1 (1-0)  Sioni Bolnisi
+         FC Merani Martvili       2-0 (0-0)  FC Sapovnela
+         Torpedo Kutaisi          2-1 (1-1)  FC Samtredia
+         FC Tskhinvali            2-4 (1-2)  Dinamo Tbilisi
+[Mon Apr/11]
+  16.00  Kolkheti Poti            2-0 (1-0)  Chikhura Sachkhere
+         FC Saburtalo             0-0  Lokomotiv Tbilisi
+
+
+Matchday 25
+[Fri Apr/15]
+  19.00  Lokomotiv Tbilisi        1-1 (1-0)  FC Merani Martvili
+[Sat Apr/16]
+  16.00  Sioni Bolnisi            1-0 (0-0)  Dinamo Batumi
+         Chikhura Sachkhere       1-0 (0-0)  Dinamo Tbilisi
+[Sun Apr/17]
+  16.00  Shukura Kobuleti         1-0 (0-0)  Dila Gori
+         FC Sapovnela             2-2 (2-1)  FC Zugdidi
+         FC Saburtalo             5-0 (1-0)  Kolkheti Poti
+         FC Samtredia             2-1 (0-0)  FC Tskhinvali
+         Guria Lanchkhuti         3-2 (1-1)  Torpedo Kutaisi
+
+
+Matchday 26
+[Sat Apr/23]
+  16.00  Dila Gori                3-1 (1-0)  FC Sapovnela
+         Dinamo Batumi            2-2 (2-1)  Shukura Kobuleti
+         FC Merani Martvili       2-5 (1-1)  FC Saburtalo
+         FC Zugdidi               1-1 (1-0)  Lokomotiv Tbilisi
+         FC Tskhinvali            0-0  Guria Lanchkhuti
+[Sun Apr/24]
+  16.00  Kolkheti Poti            1-3 (0-2)  Dinamo Tbilisi
+         Chikhura Sachkhere       1-1 (1-0)  FC Samtredia
+  19.00  Torpedo Kutaisi          1-0 (0-0)  Sioni Bolnisi
+
+
+Matchday 27
+[Sat Apr/30]
+  16.00  FC Merani Martvili       1-1 (1-1)  Kolkheti Poti
+         FC Samtredia             2-1 (1-1)  Dinamo Tbilisi
+         Guria Lanchkhuti         1-3 (1-3)  Chikhura Sachkhere
+         FC Sapovnela             2-1 (1-0)  Dinamo Batumi
+         Shukura Kobuleti         2-3 (1-3)  Torpedo Kutaisi
+         Sioni Bolnisi            1-3 (0-0)  FC Tskhinvali
+         FC Zugdidi               0-1 (0-0)  FC Saburtalo
+  20.00  Lokomotiv Tbilisi        0-2 (0-2)  Dila Gori
+
+
+Matchday 28
+[Sun May/8]
+  17.00  FC Tskhinvali            5-0 (2-0)  Shukura Kobuleti
+         Kolkheti Poti            0-3 (0-0)  FC Samtredia
+         FC Zugdidi               3-0 (0-0)  FC Merani Martvili
+         Dila Gori                2-1 (1-0)  FC Saburtalo
+         Dinamo Batumi            1-0 (1-0)  Lokomotiv Tbilisi
+  18.00  Torpedo Kutaisi          4-1 (0-0)  FC Sapovnela
+[Mon May/9]
+  17.00  Chikhura Sachkhere       1-1 (1-0)  Sioni Bolnisi
+  18.00  Dinamo Tbilisi           3-2 (2-1)  Guria Lanchkhuti
+
+
+Matchday 29
+[Fri May/13]
+  17.00  Lokomotiv Tbilisi        1-2 (0-1)  Torpedo Kutaisi
+[Sat May/14]
+  17.00  Shukura Kobuleti         0-2 (0-1)  Chikhura Sachkhere
+         FC Zugdidi               2-1 (0-1)  Kolkheti Poti
+         Sioni Bolnisi            1-2 (0-2)  Dinamo Tbilisi
+         FC Saburtalo             1-2 (0-0)  Dinamo Batumi
+         Guria Lanchkhuti         0-2 (0-1)  FC Samtredia
+         FC Sapovnela             2-1 (0-1)  FC Tskhinvali
+         FC Merani Martvili       3-2 (2-1)  Dila Gori
+
+
+Matchday 30
+[Sun May/22]
+  17.00  Torpedo Kutaisi          5-0 (2-0)  FC Saburtalo
+         Dila Gori                3-0 (1-0)  FC Zugdidi
+         Dinamo Batumi            0-0  FC Merani Martvili
+         FC Samtredia             1-2 (0-0)  Sioni Bolnisi
+         Dinamo Tbilisi           1-0 (0-0)  Shukura Kobuleti
+         Kolkheti Poti            0-1 (0-0)  Guria Lanchkhuti
+         FC Tskhinvali            1-1 (0-0)  Lokomotiv Tbilisi
+         Chikhura Sachkhere       3-2 (0-0)  FC Sapovnela

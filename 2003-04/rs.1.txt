@@ -1,0 +1,390 @@
+= RS 1 2003/04
+
+# Date       Fri Aug/8 2003 - Sat May/15 2004 (281d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Aug/8]
+  17.00  OFK Beograd              1-0  FK Zeleznik
+  17.30  FK Smederevo             2-0  Radnički Obrenovac
+[Sat Aug/9]
+  17.30  FK Obilić                3-1  FK KOM Podgorica
+         FK Sutjeska              1-0  Buducnost Banatski Dvor
+         Vojvodina                0-0  FK Zemun
+         FK Napredak              2-1  Crvena Zvezda
+         Hajduk Rodić             2-1  FK Zeta
+  20.00  Partizan                 6-1  Borac Čačak
+
+
+Matchday 2
+[Sat Aug/23]
+  17.00  FK KOM Podgorica         1-2  FK Zeta
+         Radnički Obrenovac       0-0  FK Napredak
+         FK Zemun                 3-0  FK Smederevo
+         Buducnost Banatski Dvor  3-1  Vojvodina
+         FK Zeleznik              3-0  FK Sutjeska
+         Borac Čačak              1-2  OFK Beograd
+         FK Obilić                2-1  Partizan
+  19.30  Crvena Zvezda            2-0  Hajduk Rodić
+
+
+Matchday 3
+[Sat Aug/30]
+  17.00  OFK Beograd              1-0  FK Obilić
+         FK Sutjeska              4-1  Borac Čačak
+         Vojvodina                0-3  FK Zeleznik
+         FK Napredak              1-0  FK Zemun
+         Hajduk Rodić             1-1  Radnički Obrenovac
+[Sun Aug/31]
+  17.00  FK Smederevo             5-1  Buducnost Banatski Dvor
+         FK Zeta                  1-1  Crvena Zvezda
+  18.30  Partizan                 6-2  FK KOM Podgorica
+
+
+Matchday 4
+[Sat Sep/13]
+  16.30  FK KOM Podgorica         0-2  Crvena Zvezda
+         Radnički Obrenovac       3-2  FK Zeta
+         FK Zemun                 1-0  Hajduk Rodić
+         Buducnost Banatski Dvor  2-1  FK Napredak
+         FK Zeleznik              2-0  FK Smederevo
+         Borac Čačak              0-0  Vojvodina
+         FK Obilić                1-1  FK Sutjeska
+  19.00  Partizan                 3-2  OFK Beograd
+
+
+Matchday 5
+[Sat Sep/20]
+  16.30  OFK Beograd              2-0  FK KOM Podgorica
+         FK Sutjeska              0-1  Partizan
+         Vojvodina                1-0  FK Obilić
+         FK Smederevo             1-0  Borac Čačak
+         FK Napredak              1-1  FK Zeleznik
+         Hajduk Rodić             2-0  Buducnost Banatski Dvor
+         FK Zeta                  1-1  FK Zemun
+         Crvena Zvezda            3-0  Radnički Obrenovac
+
+
+Matchday 6
+[Fri Sep/26]
+  18.30  Partizan                 2-1  Vojvodina
+[Sat Sep/27]
+  16.00  FK KOM Podgorica         1-0  Radnički Obrenovac
+         Buducnost Banatski Dvor  3-1  FK Zeta
+         FK Zeleznik              1-0  Hajduk Rodić
+         Borac Čačak              2-1  FK Napredak
+         FK Obilić                2-4  FK Smederevo
+         OFK Beograd              3-2  FK Sutjeska
+[Sun Sep/28]
+  16.00  FK Zemun                 0-1  Crvena Zvezda
+
+
+Matchday 7
+[Sat Oct/4]
+  15.30  FK Sutjeska              0-1  FK KOM Podgorica
+         Vojvodina                0-0  OFK Beograd
+         FK Napredak              0-3  FK Obilić
+         Hajduk Rodić             2-0  Borac Čačak
+         FK Zeta                  1-0  FK Zeleznik
+         Crvena Zvezda            4-0  Buducnost Banatski Dvor
+         Radnički Obrenovac       0-0  FK Zemun
+[Sun Oct/5]
+  15.30  FK Smederevo             2-1  Partizan
+
+
+Matchday 8
+[Fri Oct/17]
+  17.30  Partizan                 1-0  FK Napredak
+[Sat Oct/18]
+  14.30  FK KOM Podgorica         0-1  FK Zemun
+         Buducnost Banatski Dvor  3-0  Radnički Obrenovac
+         Borac Čačak              1-1  FK Zeta
+         FK Obilić                0-2  Hajduk Rodić
+         FK Sutjeska              1-0  Vojvodina
+[Sun Oct/19]
+  14.30  FK Zeleznik              0-2  Crvena Zvezda
+         OFK Beograd              2-4  FK Smederevo
+
+
+Matchday 9
+[Sat Oct/25]
+  14.00  FK Smederevo             3-2  FK Sutjeska
+         FK Napredak              1-1  OFK Beograd
+         FK Zeta                  0-1  FK Obilić
+         Crvena Zvezda            5-1  Borac Čačak
+         Radnički Obrenovac       1-2  FK Zeleznik
+         FK Zemun                 1-2  Buducnost Banatski Dvor
+[Sun Oct/26]
+  13.30  Hajduk Rodić             0-0  Partizan
+  14.00  Vojvodina                4-2  FK KOM Podgorica
+
+
+Matchday 10
+[Fri Oct/31]
+  16.30  Partizan                 3-0  FK Zeta
+[Sat Nov/1]
+  14.00  OFK Beograd              1-0  Hajduk Rodić
+         FK Sutjeska              2-1  FK Napredak
+         FK KOM Podgorica         1-4  Buducnost Banatski Dvor
+         FK Zeleznik              4-2  FK Zemun
+         Borac Čačak              2-2  Radnički Obrenovac
+[Sun Nov/2]
+  13.30  Vojvodina                2-2  FK Smederevo
+  14.00  FK Obilić                1-3  Crvena Zvezda
+
+
+Matchday 11
+[Sat Nov/8]
+  13.30  Radnički Obrenovac       0-0  FK Obilić
+         FK Zemun                 2-1  Borac Čačak
+         Buducnost Banatski Dvor  0-2  FK Zeleznik
+         FK Smederevo             3-0  FK KOM Podgorica
+         FK Napredak              3-4  Vojvodina
+         Hajduk Rodić             1-0  FK Sutjeska
+         FK Zeta                  2-1  OFK Beograd
+  16.00  Crvena Zvezda            3-0  Partizan
+
+
+Matchday 12
+[Fri Nov/21]
+  15.30  Partizan                 3-1  Radnički Obrenovac
+[Sat Nov/22]
+  13.00  FK KOM Podgorica         0-2  FK Zeleznik
+         Borac Čačak              2-0  Buducnost Banatski Dvor
+         FK Sutjeska              2-0  FK Zeta
+         Vojvodina                0-0  Hajduk Rodić
+         FK Smederevo             3-2  FK Napredak
+[Sun Nov/23]
+  13.00  OFK Beograd              1-0  Crvena Zvezda
+  13.30  FK Obilić                3-0  FK Zemun
+
+
+Matchday 13
+[Sat Nov/29]
+  13.00  FK Napredak              0-1  FK KOM Podgorica
+         Hajduk Rodić             0-2  FK Smederevo
+         FK Zeta                  1-0  Vojvodina
+         Radnički Obrenovac       1-1  OFK Beograd
+         Buducnost Banatski Dvor  0-2  FK Obilić
+         FK Zeleznik              2-0  Borac Čačak
+[Sun Nov/30]
+  13.00  Crvena Zvezda            1-0  FK Sutjeska
+  13.30  FK Zemun                 1-2  Partizan
+
+
+Matchday 14
+[Sat Dec/6]
+  13.00  FK KOM Podgorica         3-3  Borac Čačak
+         Partizan                 3-0  Buducnost Banatski Dvor
+         OFK Beograd              1-0  FK Zemun
+         FK Sutjeska              0-0  Radnički Obrenovac
+         Vojvodina                0-2  Crvena Zvezda
+         FK Smederevo             0-0  FK Zeta
+         FK Napredak              0-2  Hajduk Rodić
+[Sun Dec/7]
+  13.00  FK Obilić                0-1  FK Zeleznik
+
+
+Matchday 15
+[Sat Dec/13]
+  13.00  Hajduk Rodić             3-1  FK KOM Podgorica
+         FK Zeta                  5-1  FK Napredak
+         Crvena Zvezda            1-0  FK Smederevo
+         Radnički Obrenovac       1-1  Vojvodina
+         FK Zemun                 2-1  FK Sutjeska
+         Buducnost Banatski Dvor  1-1  OFK Beograd
+         FK Zeleznik              0-1  Partizan
+         Borac Čačak              1-0  FK Obilić
+
+
+Matchday 16
+[Sat Feb/21]
+  13.30  FK KOM Podgorica         0-3  FK Obilić
+         FK Zeleznik              1-1  OFK Beograd
+         Buducnost Banatski Dvor  2-4  FK Sutjeska
+         FK Zemun                 0-0  Vojvodina
+         Radnički Obrenovac       3-1  FK Smederevo
+         Crvena Zvezda            2-0  FK Napredak
+[Sun Feb/22]
+  13.30  Borac Čačak              0-1  Partizan
+         FK Zeta                  2-0  Hajduk Rodić
+
+
+Matchday 17
+[Sat Feb/28]
+  13.30  FK Zeta                  4-0  FK KOM Podgorica
+         FK Napredak              0-0  Radnički Obrenovac
+         FK Smederevo             0-0  FK Zemun
+         Vojvodina                1-0  Buducnost Banatski Dvor
+         FK Sutjeska              3-1  FK Zeleznik
+         OFK Beograd              0-0  Borac Čačak
+         Partizan                 2-0  FK Obilić
+[Sun Feb/29]
+  13.30  Hajduk Rodić             1-2  Crvena Zvezda
+
+
+Matchday 18
+[Sat Mar/6]
+  14.00  FK KOM Podgorica         0-0  Partizan
+         Borac Čačak              0-2  FK Sutjeska
+         FK Zeleznik              2-2  Vojvodina
+         Buducnost Banatski Dvor  0-0  FK Smederevo
+         FK Zemun                 1-0  FK Napredak
+         Radnički Obrenovac       1-2  Hajduk Rodić
+[Sun Mar/7]
+  14.00  FK Obilić                3-0  OFK Beograd
+         Crvena Zvezda            4-0  FK Zeta
+
+
+Matchday 19
+[Sat Mar/13]
+  14.00  Crvena Zvezda            2-0  FK KOM Podgorica
+         FK Zeta                  4-2  Radnički Obrenovac
+         Hajduk Rodić             3-1  FK Zemun
+         FK Napredak              0-1  Buducnost Banatski Dvor
+         FK Smederevo             0-0  FK Zeleznik
+         Vojvodina                1-2  Borac Čačak
+         OFK Beograd              1-1  Partizan
+[Wed Mar/24]
+  14.00  FK Sutjeska              0-0  FK Obilić
+
+
+Matchday 20
+[Wed Mar/17]
+  14.30  FK KOM Podgorica         0-1  OFK Beograd
+         Partizan                 3-0  FK Sutjeska
+         FK Obilić                2-1  Vojvodina
+         Borac Čačak              0-0  FK Smederevo
+         FK Zeleznik              2-1  FK Napredak
+         Buducnost Banatski Dvor  2-1  Hajduk Rodić
+         FK Zemun                 1-0  FK Zeta
+         Radnički Obrenovac       0-0  Crvena Zvezda
+
+
+Matchday 21
+[Sat Mar/20]
+  14.30  Radnički Obrenovac       1-0  FK KOM Podgorica
+         FK Zeta                  0-0  Buducnost Banatski Dvor
+         FK Napredak              2-1  Borac Čačak
+         FK Smederevo             3-1  FK Obilić
+         FK Sutjeska              2-1  OFK Beograd
+[Sun Mar/21]
+  14.30  Crvena Zvezda            2-1  FK Zemun
+         Hajduk Rodić             1-0  FK Zeleznik
+         Vojvodina                0-0  Partizan
+
+
+Matchday 22
+[Fri Apr/2]
+  15.00  FK Obilić                2-1  FK Napredak
+[Sat Apr/3]
+  15.00  FK KOM Podgorica         1-2  FK Sutjeska
+         OFK Beograd              0-1  Vojvodina
+         Borac Čačak              1-0  Hajduk Rodić
+         FK Zeleznik              2-0  FK Zeta
+         Buducnost Banatski Dvor  0-2  Crvena Zvezda
+         FK Zemun                 0-0  Radnički Obrenovac
+  17.00  Partizan                 1-0  FK Smederevo
+
+
+Matchday 23
+[Wed Apr/7]
+  15.00  FK Zemun                 1-0  FK KOM Podgorica
+         Radnički Obrenovac       1-0  Buducnost Banatski Dvor
+         Crvena Zvezda            0-0  FK Zeleznik
+         FK Zeta                  1-2  Borac Čačak
+         Hajduk Rodić             0-3  FK Obilić
+         FK Napredak              0-1  Partizan
+         FK Smederevo             1-1  OFK Beograd
+         Vojvodina                2-1  FK Sutjeska
+
+
+Matchday 24
+[Sat Apr/10]
+  15.00  FK KOM Podgorica         2-4  Vojvodina
+         FK Sutjeska              2-1  FK Smederevo
+         OFK Beograd              2-1  FK Napredak
+         FK Obilić                2-0  FK Zeta
+         Borac Čačak              1-1  Crvena Zvezda
+         FK Zeleznik              4-0  Radnički Obrenovac
+         Buducnost Banatski Dvor  1-2  FK Zemun
+  17.30  Partizan                 1-0  Hajduk Rodić
+
+
+Matchday 25
+[Tue Apr/13]
+  16.30  Crvena Zvezda            2-0  FK Obilić
+[Wed Apr/14]
+  15.30  FK Zeta                  1-2  Partizan
+         Hajduk Rodić             1-1  OFK Beograd
+         FK Napredak              2-1  FK Sutjeska
+         FK Smederevo             1-0  Vojvodina
+         Buducnost Banatski Dvor  2-1  FK KOM Podgorica
+         FK Zemun                 0-1  FK Zeleznik
+         Radnički Obrenovac       0-0  Borac Čačak
+
+
+Matchday 26
+[Sat Apr/17]
+  14.30  FK Obilić                3-0  Radnički Obrenovac
+         OFK Beograd              1-0  FK Zeta
+  16.30  Borac Čačak              0-0  FK Zemun
+         FK Zeleznik              5-1  Buducnost Banatski Dvor
+         FK KOM Podgorica         1-0  FK Smederevo
+         Vojvodina                1-0  FK Napredak
+  17.00  Partizan                 0-0  Crvena Zvezda
+[Sun Apr/18]
+  15.00  FK Sutjeska              1-1  Hajduk Rodić
+
+
+Matchday 27
+[Sat Apr/24]
+  16.30  FK Zeleznik              3-0  FK KOM Podgorica
+         Radnički Obrenovac       0-3  Partizan
+         FK Zeta                  2-1  FK Sutjeska
+         Hajduk Rodić             0-1  Vojvodina
+         FK Napredak              0-1  FK Smederevo
+[Sun Apr/25]
+  16.30  Buducnost Banatski Dvor  0-0  Borac Čačak
+         FK Zemun                 3-2  FK Obilić
+  17.00  Crvena Zvezda            2-1  OFK Beograd
+
+
+Matchday 28
+[Sat May/1]
+  15.30  Vojvodina                0-0  FK Zeta
+  17.00  FK Smederevo             1-0  Hajduk Rodić
+         FK Sutjeska              0-1  Crvena Zvezda
+         OFK Beograd              1-0  Radnički Obrenovac
+         FK Obilić                3-0  Buducnost Banatski Dvor
+         Borac Čačak              2-2  FK Zeleznik
+[Sun May/2]
+  17.00  FK KOM Podgorica         1-2  FK Napredak
+         Partizan                 0-0  FK Zemun
+
+
+Matchday 29
+[Sat May/8]
+  17.00  Borac Čačak              4-0  FK KOM Podgorica
+         FK Zeleznik              0-0  FK Obilić
+         Buducnost Banatski Dvor  1-0  Partizan
+         FK Zemun                 2-3  OFK Beograd
+         Radnički Obrenovac       0-3  FK Sutjeska
+         FK Zeta                  4-0  FK Smederevo
+         Hajduk Rodić             0-1  FK Napredak
+  19.30  Crvena Zvezda            3-0  Vojvodina
+
+
+Matchday 30
+[Sat May/15]
+  17.00  FK KOM Podgorica         1-3  Hajduk Rodić
+         FK Napredak              4-2  FK Zeta
+         FK Smederevo             3-5  Crvena Zvezda
+         Vojvodina                5-0  Radnički Obrenovac
+         FK Sutjeska              0-1  FK Zemun
+         OFK Beograd              2-1  Buducnost Banatski Dvor
+         Partizan                 0-2  FK Zeleznik
+         FK Obilić                0-1  Borac Čačak

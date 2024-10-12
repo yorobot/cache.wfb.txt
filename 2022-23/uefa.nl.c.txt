@@ -1,0 +1,97 @@
+= UEFA NL C 2022/23
+
+# Date       Thu Jun/2 2022 - Tue Mar/26 2024 (663d)
+# Teams      16
+# Matches    50
+
+
+
+Gruppe 1
+[Sat Jun/4]
+  18.00  Litauen                  0-2 (0-1)  Luxemburg
+  20.45  Türkei                   4-0 (1-0)  Färöer
+[Tue Jun/7]
+  20.45  Färöer                   0-1 (0-0)  Luxemburg
+         Litauen                  0-6 (0-2)  Türkei
+[Sat Jun/11]
+  18.00  Färöer                   2-1 (2-1)  Litauen
+  20.45  Luxemburg                0-2 (0-1)  Türkei
+[Tue Jun/14]
+  20.45  Luxemburg                2-2 (1-0)  Färöer
+         Türkei                   2-0 (1-0)  Litauen
+[Thu Sep/22]
+  20.45  Litauen                  1-1 (1-1)  Färöer
+         Türkei                   3-3 (2-2)  Luxemburg
+[Sun Sep/25]
+  20.45  Luxemburg                1-0 (0-0)  Litauen
+         Färöer                   2-1 (0-0)  Türkei
+
+
+Gruppe 2
+[Thu Jun/2]
+  18.00  Zypern                   0-2 (0-0)  Kosovo
+  20.45  Nordirland               0-1 (0-1)  Griechenland
+[Sun Jun/5]
+  18.00  Zypern                   0-0  Nordirland
+  20.45  Kosovo                   0-1 (0-1)  Griechenland
+[Thu Jun/9]
+  20.45  Kosovo                   3-2 (2-1)  Nordirland
+         Griechenland             3-0 (2-0)  Zypern
+[Sun Jun/12]
+  15.00  Nordirland               2-2 (0-1)  Zypern
+  20.45  Griechenland             2-0 (0-0)  Kosovo
+[Sat Sep/24]
+  18.00  Nordirland               2-1 (0-0)  Kosovo
+  20.45  Zypern                   1-0 (1-0)  Griechenland
+[Tue Sep/27]
+  20.45  Kosovo                   5-1 (2-0)  Zypern
+         Griechenland             3-1 (1-1)  Nordirland
+
+
+Gruppe 3
+[Fri Jun/3]
+  16.00  Kasachstan               2-0 (0-0)  Aserbaidschan
+  20.45  Belarus                  0-1 (0-0)  Slowakei
+[Mon Jun/6]
+  20.45  Belarus                  0-0  Aserbaidschan
+         Slowakei                 0-1 (0-1)  Kasachstan
+[Fri Jun/10]
+  18.00  Aserbaidschan            0-1 (0-0)  Slowakei
+  20.45  Belarus                  1-1 (0-1)  Kasachstan
+[Mon Jun/13]
+  16.00  Kasachstan               2-1 (2-0)  Slowakei
+  18.00  Aserbaidschan            2-0 (0-0)  Belarus
+[Thu Sep/22]
+  16.00  Kasachstan               2-1 (1-1)  Belarus
+  20.45  Slowakei                 1-2 (0-1)  Aserbaidschan
+[Sun Sep/25]
+  18.00  Slowakei                 1-1 (0-1)  Belarus
+         Aserbaidschan            3-0 (0-0)  Kasachstan
+
+
+Gruppe 4
+[Thu Jun/2]
+  18.00  Georgien                 4-0 (2-0)  Gibraltar
+         Bulgarien                1-1 (1-0)  Nordmazedonien
+[Sun Jun/5]
+  18.00  Gibraltar                0-2 (0-1)  Nordmazedonien
+  20.45  Bulgarien                2-5 (0-2)  Georgien
+[Thu Jun/9]
+  20.45  Gibraltar                1-1 (0-1)  Bulgarien
+         Nordmazedonien           0-3 (0-0)  Georgien
+[Sun Jun/12]
+  18.00  Georgien                 0-0  Bulgarien
+         Nordmazedonien           4-0 (4-0)  Gibraltar
+[Fri Sep/23]
+  18.00  Georgien                 2-0 (1-0)  Nordmazedonien
+  20.45  Bulgarien                5-1 (2-1)  Gibraltar
+[Mon Sep/26]
+  20.45  Gibraltar                1-2 (0-1)  Georgien
+         Nordmazedonien           0-1 (0-0)  Bulgarien
+
+
+Relegation
+[Thu Mar/21]
+  20.45  Gibraltar                0-1 (0-0)  Litauen
+[Tue Mar/26]
+  18.00  Litauen                  1-0 (0-0)  Gibraltar

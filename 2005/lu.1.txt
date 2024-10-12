@@ -1,0 +1,121 @@
+= LU 1 2005
+
+# Date       Sat Apr/30 - Sun May/29 2005 (29d)
+# Teams      12
+# Matches    36
+# Stages     Abstieg Gr. A (12)  Abstieg Gr. B (12)  Playoff (12)
+
+
+== Abstieg Gr. A
+
+Matchday 1
+[Sat Apr/30]
+  18.00  Union Luxembourg         4-2  FC Wiltz 71
+         CS Grevenmacher          2-3  Alliance 01
+
+
+Matchday 2
+[Tue May/3]
+  20.00  FC Wiltz 71              0-2  Alliance 01
+[Wed May/4]
+  19.30  CS Grevenmacher          2-3  Union Luxembourg
+
+
+Matchday 3
+[Sun May/8]
+         FC Wiltz 71              0-5  CS Grevenmacher
+         Alliance 01              3-1  Union Luxembourg
+
+
+Matchday 4
+[Sun May/22]
+  16.00  Union Luxembourg         2-2  CS Grevenmacher
+         Alliance 01              4-0  FC Wiltz 71
+
+
+Matchday 5
+[Wed May/25]
+  19.30  Union Luxembourg         2-0  Alliance 01
+  20.00  CS Grevenmacher          4-3  FC Wiltz 71
+
+
+Matchday 6
+[Sun May/29]
+  16.00  Alliance 01              2-2  CS Grevenmacher
+         FC Wiltz 71              0-0  Union Luxembourg
+
+
+== Abstieg Gr. B
+
+Matchday 1
+[Sat Apr/30]
+  18.00  CS Pétange               4-3  Swift Hesperange
+         Avenir Beggen            1-0  Spora Luxemburg
+
+
+Matchday 2
+[Wed May/4]
+  19.30  CS Pétange               1-3  Avenir Beggen
+         Spora Luxemburg          2-3  Swift Hesperange
+
+
+Matchday 3
+[Sun May/8]
+         Spora Luxemburg          0-3  CS Pétange
+         Swift Hesperange         0-3  Avenir Beggen
+
+
+Matchday 4
+[Sun May/22]
+  16.00  Avenir Beggen            3-3  CS Pétange
+         Swift Hesperange         1-1  Spora Luxemburg
+
+
+Matchday 5
+[Wed May/25]
+  19.30  CS Pétange               1-1  Spora Luxemburg
+         Avenir Beggen            2-3  Swift Hesperange
+
+
+Matchday 6
+[Sun May/29]
+  16.00  Swift Hesperange         1-0  CS Pétange
+         Spora Luxemburg          1-5  Avenir Beggen
+
+
+== Playoff
+
+Matchday 1
+[Sat Apr/30]
+  18.00  Victoria Rosport         1-3  Etzella Ettelbruck
+         Jeunesse Esch            0-4  F91 Dudelange
+
+
+Matchday 2
+[Tue May/3]
+  19.30  Etzella Ettelbruck       0-0  F91 Dudelange
+         Jeunesse Esch            3-0  Victoria Rosport
+
+
+Matchday 3
+[Sun May/8]
+         F91 Dudelange            5-0  Victoria Rosport
+         Etzella Ettelbruck       1-1  Jeunesse Esch
+
+
+Matchday 4
+[Sun May/22]
+  16.00  F91 Dudelange            1-1  Etzella Ettelbruck
+         Victoria Rosport         1-0  Jeunesse Esch
+
+
+Matchday 5
+[Thu May/26]
+  19.30  Victoria Rosport         0-1  F91 Dudelange
+         Jeunesse Esch            3-4  Etzella Ettelbruck
+
+
+Matchday 6
+[Sun May/29]
+  16.00  Etzella Ettelbruck       2-0  Victoria Rosport
+         F91 Dudelange            7-1  Jeunesse Esch

@@ -1,0 +1,624 @@
+= SV 1 2022/23
+
+# Date       Sat Jul/9 2022 - Sun May/21 2023 (316d)
+# Teams      12
+# Matches    345
+# Stages     Apertura (132)  Apertura nueva (73)  Clausura (132)  Clausura Playoffs (8)
+
+
+== Apertura
+
+Matchday 1
+[Sat Jul/9]
+  15.15  Jocoro FC                2-0 (2-0)  Atlético Marte
+  18.30  AD Chalatenango          0-0  Santa Tecla FC
+  19.00  CD Águila                1-2 (0-1)  Once Deportivo
+         Isidro Metapán           1-0 (1-0)  Platense Zacatecoluca
+[Sun Jul/10]
+  15.00  FAS                      4-0 (1-0)  Dragón
+[Wed Jul/13]
+  19.15  Alianza                  2-1 (0-0)  Luis Ángel Firpo
+
+
+Matchday 2
+[Sun Jul/17]
+         Luis Ángel Firpo         -  FAS                      [cancelled]
+         Alianza                  -  Once Deportivo           [cancelled]
+         Atlético Marte           -  CD Águila                [cancelled]
+         Platense Zacatecoluca    -  Jocoro FC                [cancelled]
+         Dragón                   -  AD Chalatenango          [cancelled]
+[Sat Jul/16]
+  18.00  Santa Tecla FC           1-0 (0-0)  Isidro Metapán
+
+
+Matchday 3
+[Wed Jul/20]
+         Luis Ángel Firpo         -  Once Deportivo           [cancelled]
+         Alianza                  -  Atlético Marte           [cancelled]
+         CD Águila                -  Platense Zacatecoluca    [cancelled]
+         Jocoro FC                -  Santa Tecla FC           [cancelled]
+         Isidro Metapán           -  Dragón                   [cancelled]
+         FAS                      -  AD Chalatenango          [cancelled]
+
+
+Matchday 4
+[Sat Jul/23]
+         Once Deportivo           -  FAS                      [cancelled]
+         Atlético Marte           -  Luis Ángel Firpo         [cancelled]
+         Platense Zacatecoluca    -  Alianza                  [cancelled]
+         Santa Tecla FC           -  CD Águila                [cancelled]
+         Dragón                   -  Jocoro FC                [cancelled]
+         AD Chalatenango          -  Isidro Metapán           [cancelled]
+
+
+Matchday 5
+[Sat Jul/30]
+         Once Deportivo           -  Atlético Marte           [cancelled]
+         Luis Ángel Firpo         -  Platense Zacatecoluca    [cancelled]
+         Alianza                  -  Santa Tecla FC           [cancelled]
+         CD Águila                -  Dragón                   [cancelled]
+         Jocoro FC                -  AD Chalatenango          [cancelled]
+         FAS                      -  Isidro Metapán           [cancelled]
+
+
+Matchday 6
+[Wed Aug/3]
+         Atlético Marte           -  FAS                      [cancelled]
+         Platense Zacatecoluca    -  Once Deportivo           [cancelled]
+         Santa Tecla FC           -  Luis Ángel Firpo         [cancelled]
+         Dragón                   -  Alianza                  [cancelled]
+         Isidro Metapán           -  Jocoro FC                [cancelled]
+         AD Chalatenango          -  CD Águila                [cancelled]
+
+
+Matchday 7
+[Sat Aug/6]
+         Atlético Marte           -  Platense Zacatecoluca    [cancelled]
+         Once Deportivo           -  Santa Tecla FC           [cancelled]
+         Luis Ángel Firpo         -  Dragón                   [cancelled]
+         AD Chalatenango          -  Alianza                  [cancelled]
+         CD Águila                -  Isidro Metapán           [cancelled]
+         FAS                      -  Jocoro FC                [cancelled]
+
+
+Matchday 8
+[Sat Aug/13]
+         Platense Zacatecoluca    -  FAS                      [cancelled]
+         Santa Tecla FC           -  Atlético Marte           [cancelled]
+         Dragón                   -  Once Deportivo           [cancelled]
+         AD Chalatenango          -  Luis Ángel Firpo         [cancelled]
+         Isidro Metapán           -  Alianza                  [cancelled]
+         Jocoro FC                -  CD Águila                [cancelled]
+
+
+Matchday 9
+[Wed Aug/17]
+         Platense Zacatecoluca    -  Santa Tecla FC           [cancelled]
+         Atlético Marte           -  Dragón                   [cancelled]
+         Once Deportivo           -  AD Chalatenango          [cancelled]
+         Luis Ángel Firpo         -  Isidro Metapán           [cancelled]
+         Alianza                  -  Jocoro FC                [cancelled]
+         FAS                      -  CD Águila                [cancelled]
+
+
+Matchday 10
+[Sat Aug/20]
+         FAS                      -  Santa Tecla FC           [cancelled]
+         Dragón                   -  Platense Zacatecoluca    [cancelled]
+         AD Chalatenango          -  Atlético Marte           [cancelled]
+         Isidro Metapán           -  Once Deportivo           [cancelled]
+         Jocoro FC                -  Luis Ángel Firpo         [cancelled]
+         CD Águila                -  Alianza                  [cancelled]
+
+
+Matchday 11
+[Sat Aug/27]
+         Santa Tecla FC           -  Dragón                   [cancelled]
+         Platense Zacatecoluca    -  AD Chalatenango          [cancelled]
+         Atlético Marte           -  Isidro Metapán           [cancelled]
+         Once Deportivo           -  Jocoro FC                [cancelled]
+         Luis Ángel Firpo         -  CD Águila                [cancelled]
+         Alianza                  -  FAS                      [cancelled]
+
+
+Matchday 12
+[Sat Sep/3]
+         Luis Ángel Firpo         -  Alianza                  [cancelled]
+         Once Deportivo           -  CD Águila                [cancelled]
+         Atlético Marte           -  Jocoro FC                [cancelled]
+         Platense Zacatecoluca    -  Isidro Metapán           [cancelled]
+         Santa Tecla FC           -  AD Chalatenango          [cancelled]
+         Dragón                   -  FAS                      [cancelled]
+
+
+Matchday 13
+[Sat Sep/10]
+         FAS                      -  Luis Ángel Firpo         [cancelled]
+         Once Deportivo           -  Alianza                  [cancelled]
+         CD Águila                -  Atlético Marte           [cancelled]
+         Jocoro FC                -  Platense Zacatecoluca    [cancelled]
+         Isidro Metapán           -  Santa Tecla FC           [cancelled]
+         AD Chalatenango          -  Dragón                   [cancelled]
+
+
+Matchday 14
+[Wed Sep/14]
+         Once Deportivo           -  Luis Ángel Firpo         [cancelled]
+         Atlético Marte           -  Alianza                  [cancelled]
+         Platense Zacatecoluca    -  CD Águila                [cancelled]
+         Santa Tecla FC           -  Jocoro FC                [cancelled]
+         Dragón                   -  Isidro Metapán           [cancelled]
+         AD Chalatenango          -  FAS                      [cancelled]
+
+
+Matchday 15
+[Sat Sep/17]
+         FAS                      -  Once Deportivo           [cancelled]
+         Luis Ángel Firpo         -  Atlético Marte           [cancelled]
+         Alianza                  -  Platense Zacatecoluca    [cancelled]
+         CD Águila                -  Santa Tecla FC           [cancelled]
+         Jocoro FC                -  Dragón                   [cancelled]
+         Isidro Metapán           -  AD Chalatenango          [cancelled]
+
+
+Matchday 16
+[Sat Sep/24]
+         Atlético Marte           -  Once Deportivo           [cancelled]
+         Platense Zacatecoluca    -  Luis Ángel Firpo         [cancelled]
+         Santa Tecla FC           -  Alianza                  [cancelled]
+         Dragón                   -  CD Águila                [cancelled]
+         AD Chalatenango          -  Jocoro FC                [cancelled]
+         Isidro Metapán           -  FAS                      [cancelled]
+
+
+Matchday 17
+[Wed Sep/28]
+         FAS                      -  Atlético Marte           [cancelled]
+         Once Deportivo           -  Platense Zacatecoluca    [cancelled]
+         Luis Ángel Firpo         -  Santa Tecla FC           [cancelled]
+         Alianza                  -  Dragón                   [cancelled]
+         CD Águila                -  AD Chalatenango          [cancelled]
+         Jocoro FC                -  Isidro Metapán           [cancelled]
+
+
+Matchday 18
+[Sat Oct/1]
+         Platense Zacatecoluca    -  Atlético Marte           [cancelled]
+         Santa Tecla FC           -  Once Deportivo           [cancelled]
+         Dragón                   -  Luis Ángel Firpo         [cancelled]
+         Alianza                  -  AD Chalatenango          [cancelled]
+         Isidro Metapán           -  CD Águila                [cancelled]
+         Jocoro FC                -  FAS                      [cancelled]
+
+
+Matchday 19
+[Sat Oct/8]
+         FAS                      -  Platense Zacatecoluca    [cancelled]
+         Atlético Marte           -  Santa Tecla FC           [cancelled]
+         Once Deportivo           -  Dragón                   [cancelled]
+         Luis Ángel Firpo         -  AD Chalatenango          [cancelled]
+         Alianza                  -  Isidro Metapán           [cancelled]
+         CD Águila                -  Jocoro FC                [cancelled]
+
+
+Matchday 20
+[Wed Oct/12]
+         Santa Tecla FC           -  Platense Zacatecoluca    [cancelled]
+         Dragón                   -  Atlético Marte           [cancelled]
+         AD Chalatenango          -  Once Deportivo           [cancelled]
+         Isidro Metapán           -  Luis Ángel Firpo         [cancelled]
+         Jocoro FC                -  Alianza                  [cancelled]
+         CD Águila                -  FAS                      [cancelled]
+
+
+Matchday 21
+[Sat Oct/15]
+         Santa Tecla FC           -  FAS                      [cancelled]
+         Platense Zacatecoluca    -  Dragón                   [cancelled]
+         Atlético Marte           -  AD Chalatenango          [cancelled]
+         Once Deportivo           -  Isidro Metapán           [cancelled]
+         Luis Ángel Firpo         -  Jocoro FC                [cancelled]
+         Alianza                  -  CD Águila                [cancelled]
+
+
+Matchday 22
+[Sat Oct/22]
+         Dragón                   -  Santa Tecla FC           [cancelled]
+         AD Chalatenango          -  Platense Zacatecoluca    [cancelled]
+         Isidro Metapán           -  Atlético Marte           [cancelled]
+         Jocoro FC                -  Once Deportivo           [cancelled]
+         CD Águila                -  Luis Ángel Firpo         [cancelled]
+         FAS                      -  Alianza                  [cancelled]
+
+
+== Apertura nueva
+
+Gruppe A
+[Sat Sep/17]
+  14.15  Jocoro FC                1-0 (1-0)  Dragón
+  17.30  AD Chalatenango          1-1 (0-1)  Luis Ángel Firpo
+[Sun Sep/18]
+  14.30  CD Águila                1-0 (0-0)  Platense Zacatecoluca
+[Wed Sep/21]
+  15.00  Dragón                   0-1 (0-1)  AD Chalatenango
+  15.15  Platense Zacatecoluca    0-0  Jocoro FC
+         Luis Ángel Firpo         1-1 (1-0)  CD Águila
+[Sat Sep/24]
+  15.15  Jocoro FC                3-2 (0-1)  CD Águila
+  18.30  AD Chalatenango          2-4 (2-3)  Platense Zacatecoluca
+[Sun Sep/25]
+  15.00  Luis Ángel Firpo         1-2 (0-2)  Dragón
+[Wed Sep/28]
+  15.00  Jocoro FC                2-2 (0-0)  Luis Ángel Firpo
+  15.15  Platense Zacatecoluca    0-0  Dragón
+  15.30  CD Águila                2-0 (0-0)  AD Chalatenango
+[Sat Oct/1]
+  18.30  AD Chalatenango          0-0  Jocoro FC
+[Sun Oct/2]
+  15.00  Luis Ángel Firpo         0-0  Platense Zacatecoluca
+         Dragón                   1-1 (1-1)  CD Águila
+[Sat Oct/8]
+  15.00  Dragón                   1-0 (0-0)  Jocoro FC
+  15.15  Luis Ángel Firpo         0-0  AD Chalatenango
+[Sun Oct/9]
+  15.00  Platense Zacatecoluca    2-1 (0-0)  CD Águila
+[Wed Oct/12]
+  15.15  Jocoro FC                2-1 (0-1)  Platense Zacatecoluca
+  15.30  CD Águila                6-0 (3-0)  Luis Ángel Firpo
+[Thu Oct/13]
+  15.30  AD Chalatenango          1-2 (0-2)  Dragón
+[Sat Oct/15]
+  15.30  CD Águila                5-1 (3-0)  Jocoro FC
+[Sun Oct/16]
+  15.00  Platense Zacatecoluca    3-1 (2-0)  AD Chalatenango
+         Dragón                   1-0 (0-0)  Luis Ángel Firpo
+[Wed Oct/19]
+  15.00  Dragón                   1-0 (1-0)  Platense Zacatecoluca
+  15.15  Luis Ángel Firpo         1-3 (1-2)  Jocoro FC
+[Thu Oct/20]
+  15.00  AD Chalatenango          1-2 (0-1)  CD Águila
+[Sun Oct/23]
+  15.00  Jocoro FC                4-0 (1-0)  AD Chalatenango
+         Platense Zacatecoluca    1-0 (0-0)  Luis Ángel Firpo
+         CD Águila                2-2 (2-0)  Dragón
+
+
+Gruppe B
+[Sat Sep/17]
+  18.30  Santa Tecla FC           1-2 (0-0)  FAS
+[Sun Sep/18]
+  14.00  Once Deportivo           1-1 (0-1)  Atlético Marte
+  14.15  Alianza                  2-2 (1-2)  Isidro Metapán
+[Wed Sep/21]
+  19.15  Alianza                  3-0 (2-0)  Atlético Marte
+  19.30  Isidro Metapán           3-1 (1-1)  Santa Tecla FC
+[Thu Sep/22]
+  20.00  FAS                      1-0 (1-0)  Once Deportivo
+[Sat Sep/24]
+  15.00  Atlético Marte           3-2 (1-1)  Santa Tecla FC
+  19.00  Isidro Metapán           2-2 (1-1)  FAS
+[Sun Sep/25]
+  15.15  Alianza                  5-0 (1-0)  Once Deportivo
+[Wed Sep/28]
+  19.00  Santa Tecla FC           1-2 (1-2)  Alianza
+  20.00  Atlético Marte           0-0  FAS
+[Sat Oct/1]
+  15.00  Atlético Marte           2-1 (0-1)  Isidro Metapán
+  19.15  Santa Tecla FC           1-4 (1-3)  Once Deportivo
+[Sun Oct/2]
+  15.15  Alianza                  3-1 (0-0)  FAS
+[Wed Oct/5]
+  15.30  Once Deportivo           1-1 (0-0)  Isidro Metapán
+[Sat Oct/8]
+  15.00  Atlético Marte           1-0 (0-0)  Once Deportivo
+  19.00  Isidro Metapán           1-0 (1-0)  Alianza
+[Sun Oct/9]
+  15.15  FAS                      1-1 (1-0)  Santa Tecla FC
+[Wed Oct/12]
+  15.15  FAS                      0-1 (0-0)  Isidro Metapán
+  15.30  Once Deportivo           0-2 (0-1)  Alianza
+  19.15  Santa Tecla FC           2-0 (1-0)  Atlético Marte
+[Sat Oct/15]
+  19.15  Santa Tecla FC           4-1 (0-0)  Isidro Metapán
+[Sun Oct/16]
+  15.00  Once Deportivo           1-1 (1-0)  FAS
+         Atlético Marte           2-4 (1-2)  Alianza
+[Wed Oct/19]
+  15.15  FAS                      1-0 (1-0)  Atlético Marte
+  19.15  Alianza                  0-1 (0-1)  Santa Tecla FC
+  19.30  Isidro Metapán           2-1 (2-0)  Once Deportivo
+[Sun Oct/23]
+  15.00  Isidro Metapán           0-0  Atlético Marte
+         Once Deportivo           1-1 (0-1)  Santa Tecla FC
+         FAS                      3-0 (1-0)  Alianza
+
+
+Quarterfinals
+[Wed Oct/26]
+  15.00  Dragón                   3-2 (1-1)  FAS
+         Platense Zacatecoluca    1-1 (0-0)  Alianza
+  19.30  Atlético Marte           0-0  CD Águila
+[Thu Oct/27]
+  19.30  Isidro Metapán           1-1 (1-0)  Jocoro FC
+[Sun Oct/30]
+  15.00  FAS                      3-1 (1-0)  Dragón
+         Jocoro FC                4-2 pen. (0-0)  Isidro Metapán
+         CD Águila                1-0 (0-0)  Atlético Marte
+  15.15  Alianza                  0-1 (0-1)  Platense Zacatecoluca
+
+
+Semifinals
+[Wed Nov/2]
+  15.00  FAS                      1-0 (0-0)  CD Águila
+  15.15  Platense Zacatecoluca    2-0 (2-0)  Jocoro FC
+[Sat Nov/5]
+  15.00  CD Águila                3-4 pen. 1-0 a.e.t. (1-0, 1-0)  FAS
+[Sun Nov/6]
+  15.00  Jocoro FC                4-2 pen. 4-2 a.e.t. (4-2, 4-2)  Platense Zacatecoluca
+
+
+Final
+[Sun Nov/13]
+  15.00  FAS                      2-0 (1-0)  Jocoro FC
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/28]
+  17.30  Santa Tecla FC           1-2 (0-1)  CD Águila
+  19.00  Isidro Metapán           1-0 (0-0)  AD Chalatenango
+[Sun Jan/29]
+  15.00  FAS                      2-2 (1-2)  Once Deportivo
+         Luis Ángel Firpo         1-1 (0-1)  Atlético Marte
+  15.15  Platense Zacatecoluca    0-3 (0-2)  Alianza
+  15.30  Dragón                   0-1 (0-0)  Jocoro FC
+
+
+Matchday 2
+[Wed Feb/1]
+  15.00  CD Águila                2-1 (1-1)  Isidro Metapán
+         Jocoro FC                0-3 (0-1)  Alianza
+  15.30  AD Chalatenango          2-1 (1-0)  Santa Tecla FC
+         Luis Ángel Firpo         3-1 (2-0)  Platense Zacatecoluca
+         Once Deportivo           0-0  Dragón
+         Atlético Marte           2-4 (0-1)  FAS
+
+
+Matchday 3
+[Sat Feb/4]
+  15.30  Jocoro FC                1-1 (0-0)  Luis Ángel Firpo
+[Sun Feb/5]
+  15.00  Once Deportivo           2-0 (0-0)  Isidro Metapán
+         CD Águila                1-0 (1-0)  FAS
+  15.15  Platense Zacatecoluca    3-3 (1-2)  Santa Tecla FC
+         AD Chalatenango          0-1 (0-0)  Alianza
+  15.30  Atlético Marte           0-0  Dragón
+
+
+Matchday 4
+[Sat Feb/11]
+  15.30  CD Águila                0-0  Alianza
+  17.30  Santa Tecla FC           0-0  Atlético Marte
+  19.00  Isidro Metapán           3-0 (2-0)  Jocoro FC
+[Sun Feb/12]
+  15.00  Dragón                   7-1 (4-0)  AD Chalatenango
+         FAS                      2-0 (0-0)  Platense Zacatecoluca
+  15.30  Luis Ángel Firpo         0-0  Once Deportivo
+
+
+Matchday 5
+[Wed Feb/15]
+  15.30  CD Águila                0-1 (0-1)  Dragón
+         Platense Zacatecoluca    3-3 (1-1)  Isidro Metapán
+         Once Deportivo           1-1 (1-1)  Santa Tecla FC
+         AD Chalatenango          0-1 (0-1)  Luis Ángel Firpo
+  19.30  Alianza                  1-1 (0-0)  Atlético Marte
+[Thu Feb/16]
+  15.30  Jocoro FC                2-1 (1-0)  FAS
+
+
+Matchday 6
+[Sat Feb/18]
+  19.00  Alianza                  2-0 (0-0)  Once Deportivo
+         Isidro Metapán           0-0  Atlético Marte
+[Sun Feb/19]
+  15.00  Dragón                   0-2 (0-1)  Platense Zacatecoluca
+         FAS                      1-1 (0-1)  AD Chalatenango
+  15.30  Jocoro FC                2-3 (2-1)  Santa Tecla FC
+         Luis Ángel Firpo         0-0  CD Águila
+
+
+Matchday 7
+[Sat Feb/25]
+  19.00  Isidro Metapán           0-0  Dragón
+         Santa Tecla FC           0-0  FAS
+[Sun Feb/26]
+  15.00  Platense Zacatecoluca    3-2 (0-1)  Atlético Marte
+         Once Deportivo           4-0 (2-0)  AD Chalatenango
+  15.15  CD Águila                1-0 (1-0)  Jocoro FC
+         Luis Ángel Firpo         1-1 (0-1)  Alianza
+
+
+Matchday 8
+[Wed Mar/1]
+  15.15  Atlético Marte           1-2 (1-1)  Once Deportivo
+         Dragón                   2-0 (0-0)  Santa Tecla FC
+  19.00  FAS                      1-0 (0-0)  Luis Ángel Firpo
+  19.30  Alianza                  0-0  Isidro Metapán
+[Thu Mar/2]
+  15.15  Jocoro FC                2-1 (1-1)  Platense Zacatecoluca
+  15.30  AD Chalatenango          1-2 (1-0)  CD Águila
+
+
+Matchday 9
+[Sat Mar/4]
+  18.00  Santa Tecla FC           4-2 (2-0)  Isidro Metapán
+  19.00  FAS                      0-2 (0-2)  Alianza
+[Sun Mar/5]
+  15.00  Atlético Marte           2-0 (0-0)  Jocoro FC
+         Platense Zacatecoluca    3-1 (0-1)  AD Chalatenango
+  15.15  Luis Ángel Firpo         0-0  Dragón
+         CD Águila                1-1 (0-0)  Once Deportivo
+
+
+Matchday 10
+[Fri Mar/10]
+  19.15  Alianza                  1-1 (1-1)  Dragón
+[Sat Mar/11]
+  15.15  Jocoro FC                1-4 (1-2)  AD Chalatenango
+  15.30  CD Águila                4-0 (2-0)  Atlético Marte
+  18.30  Santa Tecla FC           0-0  Luis Ángel Firpo
+  19.30  Isidro Metapán           1-0 (1-0)  FAS
+[Sun Mar/12]
+  15.00  Once Deportivo           1-1 (0-0)  Platense Zacatecoluca
+
+
+Matchday 11
+[Sat Mar/18]
+  15.15  Luis Ángel Firpo         1-0 (1-0)  Isidro Metapán
+  15.30  Once Deportivo           2-0 (1-0)  Jocoro FC
+[Sun Mar/19]
+  15.15  Alianza                  0-0  Santa Tecla FC
+  15.30  Dragón                   0-2 (0-2)  FAS
+         Platense Zacatecoluca    0-3 (0-1)  CD Águila
+  16.00  AD Chalatenango          0-2 (0-2)  Atlético Marte
+
+
+Matchday 12
+[Sat Mar/25]
+  15.15  Jocoro FC                2-0 (0-0)  Dragón
+  19.15  Alianza                  2-0 (1-0)  Platense Zacatecoluca
+[Sun Mar/26]
+  15.00  Once Deportivo           0-0  FAS
+  15.15  Atlético Marte           1-1 (1-1)  Luis Ángel Firpo
+  15.30  AD Chalatenango          2-2 (0-1)  Isidro Metapán
+[Wed Apr/19]
+  15.30  CD Águila                3-1 (2-0)  Santa Tecla FC
+
+
+Matchday 13
+[Wed Mar/29]
+  15.00  Dragón                   1-0 (1-0)  Once Deportivo
+  15.30  Platense Zacatecoluca    1-1 (1-0)  Luis Ángel Firpo
+  19.00  Santa Tecla FC           2-3 (1-3)  AD Chalatenango
+  19.15  Alianza                  5-2 (1-1)  Jocoro FC
+  19.30  Isidro Metapán           1-2 (0-1)  CD Águila
+         FAS                      0-0  Atlético Marte
+
+
+Matchday 14
+[Sat Apr/1]
+  19.00  Isidro Metapán           2-1 (2-0)  Platense Zacatecoluca
+         Santa Tecla FC           0-1 (0-1)  Once Deportivo
+         FAS                      1-3 (1-1)  Jocoro FC
+[Sun Apr/2]
+  15.00  Atlético Marte           1-0 (1-0)  Alianza
+  15.15  Dragón                   0-2 (0-2)  CD Águila
+         Luis Ángel Firpo         0-1 (0-0)  AD Chalatenango
+
+
+Matchday 15
+[Wed Apr/5]
+  15.15  Alianza                  2-2 (2-1)  CD Águila
+[Sat Apr/8]
+  15.15  Jocoro FC                1-1 (0-0)  Isidro Metapán
+[Sun Apr/9]
+  15.00  Atlético Marte           2-1 (0-1)  Santa Tecla FC
+         Once Deportivo           0-0  Luis Ángel Firpo
+         Platense Zacatecoluca    0-3 (0-2)  FAS
+  15.30  AD Chalatenango          2-2 (0-0)  Dragón
+
+
+Matchday 16
+[Wed Apr/12]
+  15.00  Dragón                   3-1 (1-0)  Atlético Marte
+  15.15  Luis Ángel Firpo         2-1 (0-0)  Jocoro FC
+  19.00  Santa Tecla FC           1-1 (1-0)  Platense Zacatecoluca
+  19.30  Isidro Metapán           2-2 (0-1)  Once Deportivo
+         FAS                      2-1 (0-0)  CD Águila
+[Wed Apr/19]
+  19.15  Alianza                  0-1 (0-0)  AD Chalatenango
+
+
+Matchday 17
+[Sun Apr/16]
+  15.00  Once Deportivo           1-1 (1-0)  Alianza
+         Atlético Marte           2-0 (1-0)  Isidro Metapán
+  15.30  Platense Zacatecoluca    0-2 (0-2)  Dragón
+         AD Chalatenango          2-1 (2-0)  FAS
+         CD Águila                0-1 (0-0)  Luis Ángel Firpo
+  18.00  Santa Tecla FC           1-0 (0-0)  Jocoro FC
+
+
+Matchday 18
+[Sat Apr/22]
+  15.15  Jocoro FC                0-1 (0-0)  CD Águila
+  19.00  FAS                      2-1 (1-0)  Santa Tecla FC
+[Sun Apr/23]
+  15.00  Atlético Marte           2-3 (1-2)  Platense Zacatecoluca
+         Dragón                   1-2 (0-2)  Isidro Metapán
+  15.15  Alianza                  2-1 (2-1)  Luis Ángel Firpo
+  15.30  AD Chalatenango          2-3 (0-0)  Once Deportivo
+
+
+Matchday 19
+[Wed Apr/26]
+  15.15  Platense Zacatecoluca    0-1 (0-1)  Jocoro FC
+         Luis Ángel Firpo         1-1 (0-1)  FAS
+  15.30  CD Águila                2-1 (0-1)  AD Chalatenango
+         Once Deportivo           1-0 (0-0)  Atlético Marte
+  19.00  Santa Tecla FC           2-0 (2-0)  Dragón
+[Thu Apr/27]
+  19.30  Isidro Metapán           2-2 (1-2)  Alianza
+
+
+Matchday 20
+[Sat Apr/29]
+  15.15  Jocoro FC                3-3 (0-1)  Atlético Marte
+[Sun Apr/30]
+  15.00  Once Deportivo           0-1 (0-0)  CD Águila
+  15.30  AD Chalatenango          0-0  Platense Zacatecoluca
+  17.30  Isidro Metapán           0-1 (0-1)  Santa Tecla FC
+[Wed May/3]
+  15.15  Dragón                   0-2 (0-1)  Luis Ángel Firpo
+  19.15  Alianza                  2-0 (0-0)  FAS
+
+
+Matchday 21
+[Sat May/6]
+  19.00  FAS                      0-3 (0-0)  Isidro Metapán
+[Sun May/7]
+  15.00  Dragón                   1-0 (0-0)  Alianza
+         Atlético Marte           1-2 (0-0)  CD Águila
+  15.15  Luis Ángel Firpo         1-2 (0-2)  Santa Tecla FC
+  15.30  Platense Zacatecoluca    1-0 (0-0)  Once Deportivo
+         AD Chalatenango          1-2 (0-2)  Jocoro FC
+
+
+Matchday 22
+[Sat May/13]
+  15.30  FAS                      1-2 (1-2)  Dragón
+         CD Águila                2-0 (1-0)  Platense Zacatecoluca
+         Isidro Metapán           3-2 (2-0)  Luis Ángel Firpo
+         Santa Tecla FC           1-2 (0-1)  Alianza
+         Atlético Marte           1-2 (0-0)  AD Chalatenango
+         Jocoro FC                1-0 (0-0)  Once Deportivo
+
+
+== Clausura Playoffs
+
+Quarterfinals
+[Wed May/17]
+  15.30  Luis Ángel Firpo         1-1 (0-0)  Dragón
+  19.30  FAS                      1-0 (0-0)  Alianza
+[Thu May/18]
+  15.30  Jocoro FC                2-3 (0-2)  CD Águila
+  19.45  Isidro Metapán           1-0 (1-0)  Once Deportivo
+[Sat May/20]
+  15.00  Dragón                   2-1 (1-0)  Luis Ángel Firpo
+[Sun May/21]
+         CD Águila                -  Jocoro FC                [cancelled]
+         Once Deportivo           -  Isidro Metapán           [cancelled]
+[Sat May/20]
+  19.30  Alianza                  -  FAS                      [cancelled]

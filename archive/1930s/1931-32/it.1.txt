@@ -1,0 +1,448 @@
+= IT 1 1931/32
+
+# Date       Sun Sep/20 1931 - Sun Jun/12 1932 (266d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Sun Sep/20]
+         Genova 1893 Circolo del Calcio  3-0  AS Bari
+         Torino FC                3-1  Lazio Roma
+         AS Roma                  4-2  Modena FC
+         Aurora Pro Patria        1-1  Juventus
+         Bologna FC               1-0  Pro Vercelli
+         AC Milan                 1-1  ACF Fiorentina
+         Casale                   3-1  Inter
+         Brescia Calcio           1-0  US Alessandria 1912
+         SSC Napoli               4-2  US Triestina
+
+
+Matchday 2
+[Sun Sep/27]
+         Pro Vercelli             0-1  Casale
+         US Triestina             2-0  AS Roma
+         Lazio Roma               0-0  AC Milan
+         Modena FC                1-1  Aurora Pro Patria
+         ACF Fiorentina           2-1  Brescia Calcio
+         AS Bari                  1-2  Bologna FC
+         Inter                    1-1  Torino FC
+         US Alessandria 1912      2-2  Genova 1893 Circolo del Calcio
+         Juventus                 5-3  SSC Napoli
+
+
+Matchday 3
+[Sun Oct/4]
+         AS Roma                  2-1  Pro Vercelli
+         Torino FC                6-0  Modena FC
+         Aurora Pro Patria        0-2  US Triestina
+         SSC Napoli               3-0  AS Bari
+         Genova 1893 Circolo del Calcio  1-1  ACF Fiorentina
+         Casale                   1-1  Juventus
+         Bologna FC               5-1  Lazio Roma
+         Brescia Calcio           0-2  Inter
+         AC Milan                 1-1  US Alessandria 1912
+
+
+Matchday 4
+[Sun Oct/11]
+         ACF Fiorentina           1-3  Bologna FC
+         US Triestina             0-0  Genova 1893 Circolo del Calcio
+         Pro Vercelli             2-0  Torino FC
+         Modena FC                2-2  Brescia Calcio
+         US Alessandria 1912      0-1  AS Roma
+         Juventus                 2-0  AC Milan
+         AS Bari                  0-1  Casale
+         Inter                    6-1  SSC Napoli
+         Lazio Roma               1-2  Aurora Pro Patria
+
+
+Matchday 5
+[Sun Oct/18]
+         Pro Vercelli             1-0  Aurora Pro Patria
+         US Triestina             2-1  ACF Fiorentina
+         Torino FC                1-1  Bologna FC
+         AS Roma                  2-0  Juventus
+         AC Milan                 2-3  Inter
+         Genova 1893 Circolo del Calcio  3-0  Modena FC
+         Casale                   0-1  Lazio Roma
+         AS Bari                  1-1  Brescia Calcio
+         SSC Napoli               1-1  US Alessandria 1912
+
+
+Matchday 6
+[Sun Oct/25]
+         Casale                   2-1  Brescia Calcio
+         US Alessandria 1912      3-0  AS Bari
+         Aurora Pro Patria        2-2  AS Roma
+         Modena FC                1-1  US Triestina
+         Lazio Roma               0-2  SSC Napoli
+         ACF Fiorentina           4-2  Torino FC
+         Bologna FC               3-0  AC Milan
+         Inter                    4-1  Pro Vercelli
+         Juventus                 2-1  Genova 1893 Circolo del Calcio
+
+
+Matchday 7
+[Sun Nov/1]
+         Genova 1893 Circolo del Calcio  3-1  Casale
+         AS Roma                  1-1  Bologna FC
+         Modena FC                3-1  Inter
+         US Triestina             1-1  Pro Vercelli
+         ACF Fiorentina           2-0  Lazio Roma
+         Brescia Calcio           1-2  Torino FC
+         AS Bari                  2-1  Aurora Pro Patria
+         AC Milan                 3-1  SSC Napoli
+         Juventus                 3-0  US Alessandria 1912
+
+
+Matchday 8
+[Sun Nov/8]
+         Brescia Calcio           2-3  AC Milan
+         Torino FC                3-1  Aurora Pro Patria
+         Pro Vercelli             2-1  Modena FC
+         SSC Napoli               0-2  ACF Fiorentina
+         Casale                   1-0  AS Roma
+         Bologna FC               2-0  Genova 1893 Circolo del Calcio
+         AS Bari                  0-1  Juventus
+         Inter                    4-0  US Alessandria 1912
+         Lazio Roma               2-0  US Triestina
+
+
+Matchday 9
+[Sun Nov/22]
+         Lazio Roma               0-0  Genova 1893 Circolo del Calcio
+         US Triestina             0-1  Juventus
+         Torino FC                6-1  AS Bari
+         Aurora Pro Patria        0-0  Brescia Calcio
+         SSC Napoli               5-1  Casale
+         ACF Fiorentina           3-1  AS Roma
+         Bologna FC               2-0  Inter
+         US Alessandria 1912      4-5  Pro Vercelli
+         AC Milan                 5-0  Modena FC
+
+
+Matchday 10
+[Sun Nov/29]
+         Aurora Pro Patria        3-1  Casale
+         AS Roma                  1-0  SSC Napoli
+         Modena FC                0-0  Bologna FC
+         Juventus                 4-1  Pro Vercelli
+         Brescia Calcio           2-1  US Triestina
+         AS Bari                  2-5  AC Milan
+         US Alessandria 1912      2-1  Lazio Roma
+         Inter                    1-1  ACF Fiorentina
+         Genova 1893 Circolo del Calcio  2-2  Torino FC
+
+
+Matchday 11
+[Sun Dec/6]
+         ACF Fiorentina           1-0  Aurora Pro Patria
+         US Triestina             2-2  Inter
+         Torino FC                4-1  SSC Napoli
+         AS Roma                  2-0  Lazio Roma
+         AS Bari                  1-0  Modena FC
+         AC Milan                 3-0  Genova 1893 Circolo del Calcio
+         Casale                   2-2  US Alessandria 1912
+         Bologna FC               1-1  Juventus
+         Pro Vercelli             1-0  Brescia Calcio
+
+
+Matchday 12
+[Sun Dec/20]
+         SSC Napoli               4-1  Modena FC
+         Pro Vercelli             0-2  AC Milan
+         Torino FC                0-0  Juventus
+         Aurora Pro Patria        0-2  Bologna FC
+         Genova 1893 Circolo del Calcio  4-0  Brescia Calcio
+         Casale                   3-2  ACF Fiorentina
+         US Alessandria 1912      4-0  US Triestina
+         Inter                    2-1  AS Roma
+         Lazio Roma               3-2  AS Bari
+
+
+Matchday 13
+[Sun Dec/27]
+         Juventus                 1-2  Lazio Roma
+         Inter                    0-0  AS Bari
+         US Triestina             1-3  AC Milan
+         AS Roma                  2-3  Torino FC
+         Aurora Pro Patria        2-1  US Alessandria 1912
+         Modena FC                4-1  Casale
+         ACF Fiorentina           1-0  Pro Vercelli
+         Brescia Calcio           0-1  Bologna FC
+         SSC Napoli               3-1  Genova 1893 Circolo del Calcio
+
+
+Matchday 14
+[Sun Jan/3]
+         Casale                   1-1  Torino FC
+         AC Milan                 1-1  Aurora Pro Patria
+         Lazio Roma               2-0  Brescia Calcio
+         Pro Vercelli             1-1  SSC Napoli
+         Bologna FC               8-0  US Triestina
+         AS Bari                  1-2  AS Roma
+         US Alessandria 1912      1-0  ACF Fiorentina
+         Juventus                 3-0  Modena FC
+         Genova 1893 Circolo del Calcio  0-1  Inter
+
+
+Matchday 15
+[Sun Jan/10]
+         Brescia Calcio           0-4  Juventus
+         US Triestina             2-2  Casale
+         Torino FC                0-0  AC Milan
+         AS Roma                  6-0  Genova 1893 Circolo del Calcio
+         Modena FC                1-1  ACF Fiorentina
+         Bologna FC               3-1  US Alessandria 1912
+         AS Bari                  1-0  Pro Vercelli
+         Inter                    2-0  Lazio Roma
+         Aurora Pro Patria        0-0  SSC Napoli
+
+
+Matchday 16
+[Sun Jan/17]
+         Lazio Roma               5-0  Pro Vercelli
+         US Triestina             1-0  Torino FC
+         SSC Napoli               1-1  Brescia Calcio
+         AC Milan                 1-2  AS Roma
+         Genova 1893 Circolo del Calcio  4-1  Aurora Pro Patria
+         ACF Fiorentina           2-1  AS Bari
+         Casale                   1-5  Bologna FC
+         US Alessandria 1912      5-0  Modena FC
+         Juventus                 6-2  Inter
+
+
+Matchday 17
+[Sun Jan/24]
+         AS Roma                  3-1  Brescia Calcio
+         Torino FC                1-3  US Alessandria 1912
+         Pro Vercelli             4-2  Genova 1893 Circolo del Calcio
+         SSC Napoli               1-1  Bologna FC
+         ACF Fiorentina           1-2  Juventus
+         Casale                   0-1  AC Milan
+         AS Bari                  3-2  US Triestina
+         Inter                    3-1  Aurora Pro Patria
+         Modena FC                3-1  Lazio Roma
+
+
+Matchday 18
+[Sun Jan/31]
+         ACF Fiorentina           3-0  AC Milan
+         US Triestina             1-2  SSC Napoli
+         Pro Vercelli             1-1  Bologna FC
+         Modena FC                2-3  AS Roma
+         US Alessandria 1912      3-2  Brescia Calcio
+         Juventus                 7-2  Aurora Pro Patria
+         AS Bari                  4-2  Genova 1893 Circolo del Calcio
+         Inter                    4-0  Casale
+         Lazio Roma               2-0  Torino FC
+
+
+Matchday 19
+[Sun Feb/7]
+         Genova 1893 Circolo del Calcio  1-2  US Alessandria 1912
+         AS Roma                  1-0  US Triestina
+         Aurora Pro Patria        3-1  Modena FC
+         Torino FC                2-1  Inter
+         Casale                   0-1  Pro Vercelli
+         Brescia Calcio           0-1  ACF Fiorentina
+         Bologna FC               2-0  AS Bari
+         SSC Napoli               2-0  Juventus
+         AC Milan                 2-0  Lazio Roma
+
+
+Matchday 20
+[Sun Feb/21]
+         ACF Fiorentina           2-2  Genova 1893 Circolo del Calcio
+         Pro Vercelli             0-0  AS Roma
+         Modena FC                5-2  Torino FC
+         Juventus                 3-2  Casale
+         US Triestina             0-0  Aurora Pro Patria
+         AS Bari                  0-2  SSC Napoli
+         Inter                    5-0  Brescia Calcio
+         US Alessandria 1912      2-1  AC Milan
+         Lazio Roma               2-1  Bologna FC
+
+
+Matchday 21
+[Sun Feb/28]
+         SSC Napoli               1-0  Inter
+         AS Roma                  1-2  US Alessandria 1912
+         Torino FC                4-0  Pro Vercelli
+         Aurora Pro Patria        1-1  Lazio Roma
+         AC Milan                 0-0  Juventus
+         Genova 1893 Circolo del Calcio  2-0  US Triestina
+         Casale                   6-2  AS Bari
+         Bologna FC               2-1  ACF Fiorentina
+         Brescia Calcio           2-1  Modena FC
+
+
+Matchday 22
+[Sun Mar/6]
+         Juventus                 7-1  AS Roma
+         Modena FC                0-0  Genova 1893 Circolo del Calcio
+         Inter                    0-0  AC Milan
+         Lazio Roma               1-3  Casale
+         Aurora Pro Patria        2-1  Pro Vercelli
+         Bologna FC               4-2  Torino FC
+         US Alessandria 1912      3-1  SSC Napoli
+         Brescia Calcio           0-0  AS Bari
+         ACF Fiorentina           1-0  US Triestina
+
+
+Matchday 23
+[Sun Mar/13]
+         AC Milan                 1-0  Bologna FC
+         Torino FC                1-0  ACF Fiorentina
+         AS Roma                  0-0  Aurora Pro Patria
+         SSC Napoli               0-0  Lazio Roma
+         US Triestina             5-2  Modena FC
+         Genova 1893 Circolo del Calcio  2-0  Juventus
+         Brescia Calcio           1-0  Casale
+         AS Bari                  1-0  US Alessandria 1912
+         Pro Vercelli             2-0  Inter
+
+
+Matchday 24
+[Sun Mar/27]
+         SSC Napoli               3-1  AC Milan
+         Torino FC                4-0  Brescia Calcio
+         Pro Vercelli             1-1  US Triestina
+         Aurora Pro Patria        2-2  AS Bari
+         Lazio Roma               1-0  ACF Fiorentina
+         Casale                   2-0  Genova 1893 Circolo del Calcio
+         Bologna FC               3-0  AS Roma
+         US Alessandria 1912      2-3  Juventus
+         Inter                    4-2  Modena FC
+
+
+Matchday 25
+[Sun Apr/3]
+         Aurora Pro Patria        2-1  Torino FC
+         Juventus                 7-3  AS Bari
+         US Triestina             3-2  Lazio Roma
+         AS Roma                  4-0  Casale
+         US Alessandria 1912      2-1  Inter
+         Modena FC                2-0  Pro Vercelli
+         Genova 1893 Circolo del Calcio  3-2  Bologna FC
+         ACF Fiorentina           2-0  SSC Napoli
+         AC Milan                 2-2  Brescia Calcio
+
+
+Matchday 26
+[Sun Apr/17]
+         Pro Vercelli             1-1  US Alessandria 1912
+         AS Roma                  1-1  ACF Fiorentina
+         Modena FC                2-1  AC Milan
+         Juventus                 4-2  US Triestina
+         Casale                   1-0  SSC Napoli
+         Brescia Calcio           0-0  Aurora Pro Patria
+         AS Bari                  3-2  Torino FC
+         Inter                    4-3  Bologna FC
+         Genova 1893 Circolo del Calcio  1-0  Lazio Roma
+
+
+Matchday 27
+[Sun Apr/24]
+         Lazio Roma               2-2  US Alessandria 1912
+         US Triestina             1-1  Brescia Calcio
+         Torino FC                3-1  Genova 1893 Circolo del Calcio
+         Pro Vercelli             1-2  Juventus
+         Bologna FC               4-0  Modena FC
+         AC Milan                 2-1  AS Bari
+         ACF Fiorentina           3-0  Inter
+         Casale                   1-2  Aurora Pro Patria
+         SSC Napoli               1-0  AS Roma
+
+
+Matchday 28
+[Sun May/1]
+         Modena FC                0-0  AS Bari
+         SSC Napoli               0-0  Torino FC
+         Juventus                 3-2  Bologna FC
+         Lazio Roma               1-4  AS Roma
+         Brescia Calcio           2-0  Pro Vercelli
+         Inter                    4-3  US Triestina
+         US Alessandria 1912      1-4  Casale
+         Genova 1893 Circolo del Calcio  1-2  AC Milan
+         Aurora Pro Patria        0-3  ACF Fiorentina
+
+
+Matchday 29
+[Sun May/15]
+         AS Roma                  2-1  Inter
+         US Triestina             1-4  US Alessandria 1912
+         Modena FC                2-2  SSC Napoli
+         AC Milan                 3-0  Pro Vercelli
+         ACF Fiorentina           4-1  Casale
+         Brescia Calcio           4-2  Genova 1893 Circolo del Calcio
+         AS Bari                  1-0  Lazio Roma
+         Bologna FC               4-0  Aurora Pro Patria
+         Juventus                 3-0  Torino FC
+
+
+Matchday 30
+[Sun May/22]
+         Casale                   4-0  Modena FC
+         Torino FC                2-1  AS Roma
+         Pro Vercelli             1-0  ACF Fiorentina
+         AC Milan                 1-1  US Triestina
+         US Alessandria 1912      6-1  Aurora Pro Patria
+         Genova 1893 Circolo del Calcio  1-0  SSC Napoli
+         Bologna FC               6-1  Brescia Calcio
+         AS Bari                  0-0  Inter
+         Lazio Roma               0-3  Juventus
+
+
+Matchday 31
+[Thu May/26]
+         SSC Napoli               2-1  Pro Vercelli
+         Aurora Pro Patria        2-0  AC Milan
+         AS Roma                  0-0  AS Bari
+         US Triestina             1-1  Bologna FC
+         ACF Fiorentina           0-1  US Alessandria 1912
+         Brescia Calcio           1-0  Lazio Roma
+         Inter                    3-1  Genova 1893 Circolo del Calcio
+         Torino FC                3-1  Casale
+         Modena FC                0-1  Juventus
+
+
+Matchday 32
+[Sun May/29]
+         Genova 1893 Circolo del Calcio  1-1  AS Roma
+         Pro Vercelli             2-0  AS Bari
+         SSC Napoli               1-1  Aurora Pro Patria
+         AC Milan                 6-1  Torino FC
+         Juventus                 3-0  Brescia Calcio
+         ACF Fiorentina           5-0  Modena FC
+         Casale                   0-1  US Triestina
+         US Alessandria 1912      3-3  Bologna FC
+         Lazio Roma               2-2  Inter
+
+
+Matchday 33
+[Sun Jun/5]
+         Aurora Pro Patria        2-0  Genova 1893 Circolo del Calcio
+         AS Bari                  3-0  ACF Fiorentina
+         AS Roma                  1-0  AC Milan
+         Pro Vercelli             2-2  Lazio Roma
+         Torino FC                1-1  US Triestina
+         Modena FC                2-1  US Alessandria 1912
+         Bologna FC               4-2  Casale
+         Inter                    2-4  Juventus
+         Brescia Calcio           1-0  SSC Napoli
+
+
+Matchday 34
+[Sun Jun/12]
+         US Triestina             2-0  AS Bari
+         US Alessandria 1912      1-1  Torino FC
+         Bologna FC               2-0  SSC Napoli
+         Brescia Calcio           1-1  AS Roma
+         Genova 1893 Circolo del Calcio  2-1  Pro Vercelli
+         Juventus                 2-2  ACF Fiorentina
+         Lazio Roma               9-1  Modena FC
+         AC Milan                 4-2  Casale
+         Aurora Pro Patria        1-1  Inter

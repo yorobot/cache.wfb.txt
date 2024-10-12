@@ -1,0 +1,70 @@
+= HN 1 2024/25
+
+# Date       Fri Jul/26 - Sun Sep/1 2024 (37d)
+# Teams      10
+# Matches    30
+# Stages     Apertura (30)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jul/26]
+  19.00  Motagua                  4-2 (1-1)  Lobos UPNFM
+[Sat Jul/27]
+  15.00  Marathón                 2-2 (0-2)  Victoria
+  19.00  Deportivo Génesis        0-3 (0-1)  Olimpia
+[Sun Jul/28]
+  15.00  Real Sociedad            0-3 (0-0)  Real España
+  17.15  Olancho FC               0-1 (0-0)  Juticalpa
+
+
+Matchday 2
+[Sat Aug/3]
+  15.00  Lobos UPNFM              -  Olancho FC
+  17.15  Real España              -  Motagua
+  19.30  Victoria                 -  Deportivo Génesis
+[Sun Aug/4]
+  17.15  Olimpia                  -  Marathón
+  19.30  Juticalpa                -  Real Sociedad
+
+
+Matchday 3
+[Fri Aug/9]
+  19.00  Deportivo Génesis        -  Lobos UPNFM
+[Sat Aug/10]
+  15.00  Marathón                 -  Juticalpa
+  19.00  Motagua                  -  Real Sociedad
+[Sun Aug/11]
+  15.00  Victoria                 -  Olimpia
+  17.15  Olancho FC               -  Real España
+
+
+Matchday 4
+[Sat Aug/17]
+  15.00  Real España              -  Deportivo Génesis
+  17.15  Lobos UPNFM              -  Marathón
+  19.30  Juticalpa                -  Victoria
+[Sun Aug/18]
+  15.00  Real Sociedad            -  Olancho FC
+  17.15  Olimpia                  -  Motagua
+
+
+Matchday 5
+[Sat Aug/24]
+  15.00  Marathón                 -  Real España
+  17.15  Olancho FC               -  Motagua
+  19.30  Deportivo Génesis        -  Real Sociedad
+[Sun Aug/25]
+  15.00  Victoria                 -  Lobos UPNFM
+  17.15  Olimpia                  -  Juticalpa
+
+
+Matchday 6
+[Sat Aug/31]
+  15.00  Lobos UPNFM              -  Juticalpa
+  17.15  Olancho FC               -  Deportivo Génesis
+  19.30  Real Sociedad            -  Victoria
+[Sun Sep/1]
+  15.00  Real España              -  Olimpia
+  17.15  Motagua                  -  Marathón

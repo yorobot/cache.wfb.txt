@@ -1,0 +1,435 @@
+= BY 1 2020
+
+# Date       Thu Mar/19 - Sat Nov/28 2020 (254d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Thu Mar/19]
+  17.00  Energetik-BGU Minsk      3-1 (2-0)  BATE Borisov
+  19.00  Shakhter Soligorsk       0-1 (0-0)  Torpedo-BelAZ Zhodino
+[Fri Mar/20]
+  18.00  Dinamo Brest             1-1 (0-0)  FK Smolevichy-STI
+  20.00  Dinamo Minsk             0-1 (0-1)  Rukh Brest
+[Sat Mar/21]
+  14.00  FK Vitebsk               1-0 (1-0)  FK Gorodeya
+  16.00  FK Isloch Minsk          1-0 (0-0)  Neman Grodno
+[Sun Mar/22]
+  14.00  FK Slutsk                3-1 (1-1)  FK Slaviya Mozyr
+  16.00  Belshina Bobruisk        1-3 (1-0)  FK Minsk
+
+
+Matchday 2
+[Fri Mar/27]
+  18.00  Torpedo-BelAZ Zhodino    1-0 (0-0)  Belshina Bobruisk
+  20.00  Rukh Brest               0-1 (0-1)  Energetik-BGU Minsk
+[Sat Mar/28]
+  13.00  FK Slutsk                0-1 (0-1)  Dinamo Brest
+  15.00  FK Slaviya Mozyr         2-1 (1-1)  BATE Borisov
+  17.00  FK Minsk                 3-2 (3-0)  Dinamo Minsk
+  19.00  FK Gorodeya              0-2 (0-0)  Shakhter Soligorsk
+[Sun Mar/29]
+  16.00  FK Isloch Minsk          1-0 (1-0)  FK Smolevichy-STI
+  18.00  Neman Grodno             2-0 (0-0)  FK Vitebsk
+
+
+Matchday 3
+[Fri Apr/3]
+  17.00  Belshina Bobruisk        0-1 (0-0)  FK Gorodeya
+  19.00  Dinamo Minsk             2-0 (2-0)  Torpedo-BelAZ Zhodino
+[Sat Apr/4]
+  15.30  Shakhter Soligorsk       0-0  Neman Grodno
+  17.30  BATE Borisov             1-0 (1-0)  Rukh Brest
+  19.30  Dinamo Brest             1-2 (0-0)  FK Slaviya Mozyr
+[Sun Apr/5]
+  14.00  Energetik-BGU Minsk      2-0 (1-0)  FK Minsk
+  16.00  FK Smolevichy-STI        0-1 (0-1)  FK Vitebsk
+  18.00  FK Isloch Minsk          2-3 (0-1)  FK Slutsk
+
+
+Matchday 4
+[Fri Apr/10]
+  19.00  Neman Grodno             1-1 (1-0)  Belshina Bobruisk
+[Sat Apr/11]
+  14.00  FK Slutsk                1-1 (0-1)  FK Vitebsk
+  16.00  Torpedo-BelAZ Zhodino    2-0 (0-0)  Energetik-BGU Minsk
+  18.00  FK Gorodeya              1-0 (1-0)  Dinamo Minsk
+[Sun Apr/12]
+  15.00  FK Minsk                 0-3 (0-2)  BATE Borisov
+  17.00  FK Smolevichy-STI        0-0  Shakhter Soligorsk
+  19.00  Dinamo Brest             3-1 (1-1)  FK Isloch Minsk
+[Mon Apr/13]
+  17.30  FK Slaviya Mozyr         0-0  Rukh Brest
+
+
+Matchday 5
+[Thu Apr/16]
+  17.30  Energetik-BGU Minsk      0-1 (0-1)  FK Gorodeya
+  19.30  Dinamo Minsk             2-0 (0-0)  Neman Grodno
+[Fri Apr/17]
+  17.30  Belshina Bobruisk        1-1 (0-0)  FK Smolevichy-STI
+  19.30  Shakhter Soligorsk       1-2 (0-2)  FK Slutsk
+[Sat Apr/18]
+  14.00  FK Isloch Minsk          2-1 (0-0)  FK Slaviya Mozyr
+  16.00  Rukh Brest               1-0 (0-0)  FK Minsk
+  18.00  FK Vitebsk               1-0 (0-0)  Dinamo Brest
+  20.00  BATE Borisov             0-0  Torpedo-BelAZ Zhodino
+
+
+Matchday 6
+[Fri Apr/24]
+  18.00  FK Smolevichy-STI        1-3 (0-2)  Dinamo Minsk
+  20.00  Neman Grodno             3-0 (0-0)  Energetik-BGU Minsk
+[Sat Apr/25]
+  15.00  FK Slaviya Mozyr         1-3 (0-1)  FK Minsk
+  17.00  FK Gorodeya              0-2 (0-0)  BATE Borisov
+  19.00  Dinamo Brest             0-2 (0-1)  Shakhter Soligorsk
+[Sun Apr/26]
+  14.00  FK Slutsk                3-2 (2-1)  Belshina Bobruisk
+  16.00  Torpedo-BelAZ Zhodino    0-0  Rukh Brest
+  18.00  FK Isloch Minsk          2-0 (1-0)  FK Vitebsk
+
+
+Matchday 7
+[Fri May/1]
+  16.00  FK Smolevichy-STI        0-2 (0-1)  Energetik-BGU Minsk
+[Sat May/2]
+  14.00  FK Minsk                 2-5 (1-4)  Torpedo-BelAZ Zhodino
+  16.00  Rukh Brest               1-1 (0-0)  FK Gorodeya
+  18.00  Dinamo Minsk             1-2 (0-1)  FK Slutsk
+[Sun May/3]
+  14.00  Belshina Bobruisk        0-3 (0-1)  Dinamo Brest
+  16.00  FK Vitebsk               2-3 (0-1)  FK Slaviya Mozyr
+  18.00  BATE Borisov             3-1 (2-1)  Neman Grodno
+  20.00  Shakhter Soligorsk       4-0 (1-0)  FK Isloch Minsk
+
+
+Matchday 8
+[Fri May/8]
+  17.00  FK Slutsk                1-2 (1-2)  Energetik-BGU Minsk
+  19.00  FK Gorodeya              1-1 (1-1)  FK Minsk
+[Sat May/9]
+  15.00  FK Slaviya Mozyr         0-0  Torpedo-BelAZ Zhodino
+  17.00  Neman Grodno             2-4 (0-2)  Rukh Brest
+[Sun May/10]
+  14.00  FK Isloch Minsk          2-1 (1-0)  Belshina Bobruisk
+  16.00  FK Vitebsk               0-0  Shakhter Soligorsk
+  18.00  FK Smolevichy-STI        3-5 (1-3)  BATE Borisov
+  20.00  Dinamo Brest             2-1 (1-1)  Dinamo Minsk
+
+
+Matchday 9
+[Fri May/15]
+  18.00  Torpedo-BelAZ Zhodino    3-1 (1-0)  FK Gorodeya
+[Sat May/16]
+  15.00  Energetik-BGU Minsk      2-1 (1-0)  Dinamo Brest
+  17.00  Shakhter Soligorsk       2-0 (1-0)  FK Slaviya Mozyr
+  19.00  BATE Borisov             3-0 (2-0)  FK Slutsk
+[Sun May/17]
+  15.00  Belshina Bobruisk        1-1 (0-0)  FK Vitebsk
+  17.00  Dinamo Minsk             1-0 (0-0)  FK Isloch Minsk
+  19.00  Rukh Brest               0-0  FK Smolevichy-STI
+[Sat Aug/29]
+  14.30  FK Minsk                 4-3 (3-1)  Neman Grodno
+
+
+Matchday 10
+[Wed May/20]
+  19.00  Dinamo Brest             1-3 (1-1)  BATE Borisov
+[Thu May/21]
+  19.00  Neman Grodno             3-1 (1-1)  Torpedo-BelAZ Zhodino
+[Fri May/22]
+  18.00  FK Slaviya Mozyr         1-1 (0-1)  FK Gorodeya
+  20.00  Shakhter Soligorsk       4-0 (1-0)  Belshina Bobruisk
+[Sat May/23]
+  16.30  FK Slutsk                1-1 (0-0)  Rukh Brest
+  18.30  FK Isloch Minsk          1-2 (1-1)  Energetik-BGU Minsk
+  20.30  FK Vitebsk               1-1 (1-1)  Dinamo Minsk
+[Wed Sep/23]
+  16.00  FK Smolevichy-STI        0-4 (0-1)  FK Minsk
+
+
+Matchday 11
+[Fri May/29]
+  18.00  Torpedo-BelAZ Zhodino    2-1 (1-1)  FK Smolevichy-STI
+  20.00  FK Gorodeya              0-2 (0-0)  Neman Grodno
+[Sat May/30]
+  17.00  Belshina Bobruisk        2-3 (2-1)  FK Slaviya Mozyr
+  19.00  Dinamo Minsk             0-1 (0-0)  Shakhter Soligorsk
+[Sun May/31]
+  16.00  Energetik-BGU Minsk      3-3 (3-2)  FK Vitebsk
+  18.00  BATE Borisov             1-0 (1-0)  FK Isloch Minsk
+  20.00  Rukh Brest               1-4 (1-1)  Dinamo Brest
+[Mon Jun/1]
+  18.00  FK Minsk                 1-0 (1-0)  FK Slutsk
+
+
+Matchday 12
+[Fri Jun/5]
+  19.00  FK Smolevichy-STI        4-1 (2-0)  FK Gorodeya
+[Sat Jun/6]
+  14.00  FK Slutsk                1-1 (0-0)  Torpedo-BelAZ Zhodino
+  16.00  FK Isloch Minsk          1-1 (0-0)  Rukh Brest
+  18.00  FK Slaviya Mozyr         1-3 (1-1)  Neman Grodno
+  20.00  Dinamo Brest             6-1 (1-1)  FK Minsk
+[Sun Jun/7]
+  16.00  FK Vitebsk               2-2 (0-1)  BATE Borisov
+  18.00  Belshina Bobruisk        0-4 (0-2)  Dinamo Minsk
+  20.00  Shakhter Soligorsk       1-0 (1-0)  Energetik-BGU Minsk
+
+
+Matchday 13
+[Fri Jun/12]
+  18.00  FK Minsk                 0-1 (0-0)  FK Isloch Minsk
+  20.00  FK Gorodeya              3-0 (1-0)  FK Slutsk
+[Sat Jun/13]
+  16.00  Neman Grodno             2-0 (0-0)  FK Smolevichy-STI
+  18.00  Torpedo-BelAZ Zhodino    0-2 (0-2)  Dinamo Brest
+  20.00  Dinamo Minsk             1-0 (1-0)  FK Slaviya Mozyr
+[Sun Jun/14]
+  16.00  Energetik-BGU Minsk      0-1 (0-0)  Belshina Bobruisk
+  18.00  Rukh Brest               0-1 (0-1)  FK Vitebsk
+  20.00  BATE Borisov             2-2 (0-1)  Shakhter Soligorsk
+
+
+Matchday 14
+[Fri Jun/19]
+  17.00  FK Slaviya Mozyr         2-1 (0-0)  FK Smolevichy-STI
+  19.00  FK Slutsk                0-1 (0-1)  Neman Grodno
+[Sat Jun/20]
+  16.00  FK Isloch Minsk          2-2 (0-1)  Torpedo-BelAZ Zhodino
+  18.00  Dinamo Brest             3-1 (1-1)  FK Gorodeya
+  20.00  Dinamo Minsk             0-0  Energetik-BGU Minsk
+[Sun Jun/21]
+  16.00  Belshina Bobruisk        0-2 (0-1)  BATE Borisov
+  18.00  FK Vitebsk               1-0 (1-0)  FK Minsk
+  20.00  Shakhter Soligorsk       1-1 (0-0)  Rukh Brest
+
+
+Matchday 15
+[Fri Jun/26]
+  17.00  Energetik-BGU Minsk      5-0 (1-0)  FK Slaviya Mozyr
+  19.00  FK Smolevichy-STI        2-1 (1-1)  FK Slutsk
+[Sat Jun/27]
+  16.30  FK Minsk                 1-1 (0-0)  Shakhter Soligorsk
+  18.30  Neman Grodno             1-0 (1-0)  Dinamo Brest
+  20.30  BATE Borisov             0-2 (0-0)  Dinamo Minsk
+[Sun Jun/28]
+  16.00  Torpedo-BelAZ Zhodino    1-0 (0-0)  FK Vitebsk
+  18.00  Rukh Brest               3-0 (3-0)  Belshina Bobruisk
+  20.00  FK Gorodeya              0-2 (0-1)  FK Isloch Minsk
+
+
+Matchday 16
+[Fri Jul/3]
+  17.00  FK Slaviya Mozyr         3-1 (2-1)  FK Slutsk
+  19.00  FK Smolevichy-STI        3-3 (0-2)  Dinamo Brest
+[Sat Jul/4]
+  16.00  BATE Borisov             0-1 (0-1)  Energetik-BGU Minsk
+  18.00  FK Gorodeya              2-2 (1-1)  FK Vitebsk
+  20.00  Neman Grodno             1-0 (0-0)  FK Isloch Minsk
+[Sun Jul/5]
+  16.00  FK Minsk                 2-2 (1-1)  Belshina Bobruisk
+  18.00  Torpedo-BelAZ Zhodino    1-4 (0-1)  Shakhter Soligorsk
+  20.00  Rukh Brest               1-0 (1-0)  Dinamo Minsk
+
+
+Matchday 17
+[Fri Jul/10]
+  18.30  FK Smolevichy-STI        3-1 (2-0)  FK Isloch Minsk
+[Sat Jul/11]
+  16.30  Belshina Bobruisk        2-1 (1-1)  Torpedo-BelAZ Zhodino
+  18.30  BATE Borisov             1-1 (0-0)  FK Slaviya Mozyr
+  20.30  Shakhter Soligorsk       4-1 (3-0)  FK Gorodeya
+[Sun Jul/12]
+  16.30  Energetik-BGU Minsk      1-8 (0-4)  Rukh Brest
+  18.30  Dinamo Minsk             1-0 (1-0)  FK Minsk
+  20.30  FK Vitebsk               0-0  Neman Grodno
+[Thu Oct/22]
+  17.00  Dinamo Brest             3-1 (1-1)  FK Slutsk
+
+
+Matchday 18
+[Fri Jul/17]
+  18.00  FK Slutsk                2-1 (0-1)  FK Isloch Minsk
+  20.00  FK Gorodeya              2-1 (0-0)  Belshina Bobruisk
+[Sat Jul/18]
+  16.30  FK Vitebsk               1-0 (0-0)  FK Smolevichy-STI
+  20.30  Rukh Brest               0-3 (0-3)  BATE Borisov
+[Sun Jul/19]
+  16.45  FK Minsk                 2-1 (1-1)  Energetik-BGU Minsk
+  18.45  Neman Grodno             0-0  Shakhter Soligorsk
+  20.45  Torpedo-BelAZ Zhodino    0-0  Dinamo Minsk
+[Sat Oct/31]
+  13.00  FK Slaviya Mozyr         1-1 (0-0)  Dinamo Brest
+
+
+Matchday 19
+[Fri Jul/24]
+  18.00  Rukh Brest               3-3 (1-0)  FK Slaviya Mozyr
+  20.00  FK Vitebsk               2-0 (1-0)  FK Slutsk
+[Sat Jul/25]
+  16.30  FK Isloch Minsk          2-0 (1-0)  Dinamo Brest
+  18.30  Belshina Bobruisk        0-1 (0-1)  Neman Grodno
+  20.30  Dinamo Minsk             1-0 (0-0)  FK Gorodeya
+[Sun Jul/26]
+  16.00  Energetik-BGU Minsk      1-4 (1-1)  Torpedo-BelAZ Zhodino
+  18.00  BATE Borisov             6-0 (2-0)  FK Minsk
+  20.00  Shakhter Soligorsk       4-0 (1-0)  FK Smolevichy-STI
+
+
+Matchday 20
+[Fri Jul/31]
+  18.30  FK Slutsk                0-2 (0-1)  Shakhter Soligorsk
+  20.30  Dinamo Brest             1-0 (1-0)  FK Vitebsk
+[Sat Aug/1]
+  16.30  FK Smolevichy-STI        0-3 (0-1)  Belshina Bobruisk
+  18.30  FK Slaviya Mozyr         2-4 (1-2)  FK Isloch Minsk
+  20.30  Neman Grodno             1-0 (0-0)  Dinamo Minsk
+[Sun Aug/2]
+  16.00  Torpedo-BelAZ Zhodino    3-2 (1-2)  BATE Borisov
+  18.00  FK Minsk                 0-1 (0-1)  Rukh Brest
+  20.00  FK Gorodeya              1-1 (0-0)  Energetik-BGU Minsk
+
+
+Matchday 21
+[Thu Aug/6]
+  18.00  Belshina Bobruisk        4-2 (3-0)  FK Slutsk
+  20.00  Shakhter Soligorsk       1-0 (0-0)  Dinamo Brest
+[Fri Aug/7]
+  18.00  FK Vitebsk               2-3 (1-1)  FK Isloch Minsk
+[Sat Aug/8]
+  16.00  Energetik-BGU Minsk      1-1 (1-0)  Neman Grodno
+  18.00  Rukh Brest               3-3 (1-1)  Torpedo-BelAZ Zhodino
+  20.00  BATE Borisov             1-0 (1-0)  FK Gorodeya
+[Fri Oct/2]
+  16.00  Dinamo Minsk             2-1 (2-0)  FK Smolevichy-STI
+[Wed Oct/21]
+  15.00  FK Minsk                 2-1 (1-0)  FK Slaviya Mozyr
+
+
+Matchday 22
+[Fri Aug/21]
+  16.00  FK Slutsk                1-2 (1-1)  Dinamo Minsk
+  18.00  FK Isloch Minsk          4-2 (1-0)  Shakhter Soligorsk
+  20.00  Dinamo Brest             1-2 (0-1)  Belshina Bobruisk
+[Sat Aug/22]
+  16.00  Energetik-BGU Minsk      4-1 (2-0)  FK Smolevichy-STI
+  18.00  FK Gorodeya              1-3 (0-2)  Rukh Brest
+[Sun Aug/23]
+  16.00  FK Slaviya Mozyr         1-1 (1-1)  FK Vitebsk
+  18.00  Torpedo-BelAZ Zhodino    1-1 (1-0)  FK Minsk
+  20.00  Neman Grodno             0-2 (0-1)  BATE Borisov
+
+
+Matchday 23
+[Fri Sep/11]
+  17.00  FK Minsk                 3-0 (1-0)  FK Gorodeya
+[Sat Sep/12]
+  14.00  Rukh Brest               2-3 (0-2)  Neman Grodno
+  16.00  BATE Borisov             5-2 (2-0)  FK Smolevichy-STI
+  18.00  Shakhter Soligorsk       5-0 (2-0)  FK Vitebsk
+  20.00  Dinamo Minsk             2-4 (1-0)  Dinamo Brest
+[Sun Sep/13]
+  16.00  Belshina Bobruisk        2-3 (1-1)  FK Isloch Minsk
+  18.00  Torpedo-BelAZ Zhodino    4-2 (2-1)  FK Slaviya Mozyr
+[Sun Nov/1]
+  13.00  Energetik-BGU Minsk      0-2 (0-0)  FK Slutsk
+
+
+Matchday 24
+[Fri Sep/18]
+  16.30  FK Smolevichy-STI        0-6 (0-2)  Rukh Brest
+  18.30  Neman Grodno             2-0 (2-0)  FK Minsk
+[Sat Sep/19]
+  14.00  FK Vitebsk               1-1 (0-0)  Belshina Bobruisk
+  16.00  Dinamo Brest             2-1 (2-1)  Energetik-BGU Minsk
+  18.00  FK Gorodeya              1-3 (0-2)  Torpedo-BelAZ Zhodino
+[Sun Sep/20]
+  13.00  FK Isloch Minsk          2-1 (1-0)  Dinamo Minsk
+  15.00  FK Slutsk                1-3 (1-2)  BATE Borisov
+  17.00  FK Slaviya Mozyr         1-0 (0-0)  Shakhter Soligorsk
+
+
+Matchday 25
+[Sat Sep/26]
+  14.00  Energetik-BGU Minsk      1-1 (1-0)  FK Isloch Minsk
+  16.00  FK Gorodeya              1-1 (0-0)  FK Slaviya Mozyr
+  18.00  Torpedo-BelAZ Zhodino    0-1 (0-1)  Neman Grodno
+  20.00  BATE Borisov             2-4 (0-1)  Dinamo Brest
+[Sun Sep/27]
+  17.00  Dinamo Minsk             1-0 (0-0)  FK Vitebsk
+  19.00  Rukh Brest               5-0 (2-0)  FK Slutsk
+[Mon Sep/28]
+  16.00  FK Minsk                 2-1 (0-1)  FK Smolevichy-STI
+[Sat Oct/31]
+  15.00  Belshina Bobruisk        1-5 (0-0)  Shakhter Soligorsk
+
+
+Matchday 26
+[Fri Oct/16]
+  15.30  FK Slutsk                2-1 (1-0)  FK Minsk
+[Sat Oct/17]
+  16.00  FK Vitebsk               1-0 (0-0)  Energetik-BGU Minsk
+  18.00  Neman Grodno             0-1 (0-0)  FK Gorodeya
+[Sun Oct/18]
+  13.45  FK Smolevichy-STI        1-4 (1-1)  Torpedo-BelAZ Zhodino
+  15.45  FK Isloch Minsk          2-2 (1-1)  BATE Borisov
+  18.00  Shakhter Soligorsk       0-1 (0-0)  Dinamo Minsk
+  20.00  Dinamo Brest             5-2 (1-2)  Rukh Brest
+[Wed Nov/4]
+  15.00  FK Slaviya Mozyr         1-1 (1-0)  Belshina Bobruisk
+
+
+Matchday 27
+[Sat Oct/24]
+  14.30  FK Gorodeya              4-0 (1-0)  FK Smolevichy-STI
+  16.30  BATE Borisov             3-1 (1-0)  FK Vitebsk
+  18.30  Dinamo Minsk             3-1 (1-1)  Belshina Bobruisk
+[Sun Oct/25]
+  13.00  Neman Grodno             1-2 (0-2)  FK Slaviya Mozyr
+  15.00  Energetik-BGU Minsk      1-2 (0-2)  Shakhter Soligorsk
+  17.00  Rukh Brest               1-1 (1-0)  FK Isloch Minsk
+[Mon Oct/26]
+  15.00  FK Minsk                 1-2 (1-1)  Dinamo Brest
+  17.00  Torpedo-BelAZ Zhodino    4-1 (3-1)  FK Slutsk
+
+
+Matchday 28
+[Fri Nov/6]
+  14.30  FK Isloch Minsk          3-4 (2-1)  FK Minsk
+  18.00  FK Vitebsk               0-0  Rukh Brest
+[Sat Nov/7]
+  13.00  FK Smolevichy-STI        1-4 (0-3)  Neman Grodno
+  15.00  FK Slutsk                0-1 (0-1)  FK Gorodeya
+  17.00  Dinamo Brest             2-3 (1-0)  Torpedo-BelAZ Zhodino
+  19.00  Shakhter Soligorsk       1-1 (0-1)  BATE Borisov
+[Sun Nov/8]
+  13.00  Belshina Bobruisk        1-5 (0-2)  Energetik-BGU Minsk
+  15.00  FK Slaviya Mozyr         0-1 (0-0)  Dinamo Minsk
+
+
+Matchday 29
+[Sun Nov/22]
+  14.00  FK Smolevichy-STI        0-3 (0-1)  FK Slaviya Mozyr
+         Neman Grodno             1-0 (1-0)  FK Slutsk
+         FK Gorodeya              1-4 (0-0)  Dinamo Brest
+         Torpedo-BelAZ Zhodino    2-0 (1-0)  FK Isloch Minsk
+         FK Minsk                 2-2 (2-1)  FK Vitebsk
+         Rukh Brest               1-2 (1-2)  Shakhter Soligorsk
+         BATE Borisov             5-0 (1-0)  Belshina Bobruisk
+         Energetik-BGU Minsk      2-3 (1-3)  Dinamo Minsk
+
+
+Matchday 30
+[Sat Nov/28]
+         FK Slutsk                -  FK Smolevichy-STI        [cancelled]
+  14.00  FK Slaviya Mozyr         2-1 (0-0)  Energetik-BGU Minsk
+         Dinamo Minsk             0-0  BATE Borisov
+         Belshina Bobruisk        3-7 (1-4)  Rukh Brest
+         Shakhter Soligorsk       4-2 (1-1)  FK Minsk
+         FK Vitebsk               2-3 (1-1)  Torpedo-BelAZ Zhodino
+         FK Isloch Minsk          2-2 (1-2)  FK Gorodeya
+         Dinamo Brest             3-1 (1-1)  Neman Grodno

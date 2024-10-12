@@ -1,0 +1,647 @@
+= PE 1 2016
+
+# Date       Fri Feb/5 - Sun Dec/18 2016 (317d)
+# Teams      16
+# Matches    359
+# Stages     Apertura (120)  Clausura (120)  Liguilla (112)  Playoffs (7)
+
+
+== Apertura
+
+Matchday 1
+[Fri Feb/5]
+  15.30  Universidad Técnica      1-3 (0-2)  FBC Melgar
+  20.00  Universidad San Martín   0-1 (0-0)  Deportivo Municipal
+[Sat Feb/6]
+  15.00  Sporting Cristal         0-0  Sport Huancayo
+  17.45  Juan Aurich              2-1 (1-0)  Defensor La Bocana
+  20.00  Universidad Cesar Vallejo  1-1 (1-0)  Comerciantes Unidos
+[Sun Feb/7]
+  11.00  Unión Comercio           2-1 (1-1)  Real Garcilaso
+  13.30  Ayacucho FC              2-5 (0-2)  Universitario de Deportes
+  16.00  Alianza Lima             2-1 (2-1)  Alianza Atlético
+
+
+Matchday 2
+[Tue Feb/9]
+  13.15  Sport Huancayo           2-2 (0-0)  Universidad Técnica
+  15.30  Defensor La Bocana       1-1 (1-0)  Ayacucho FC
+  20.00  FBC Melgar               1-2 (0-1)  Sporting Cristal
+[Wed Feb/10]
+  13.15  Alianza Atlético         4-1 (0-0)  Unión Comercio
+  15.30  Comerciantes Unidos      1-2 (1-1)  Universidad San Martín
+         Deportivo Municipal      1-2 (1-1)  Alianza Lima
+[Thu Feb/11]
+  20.00  Universitario de Deportes  2-2 (0-2)  Juan Aurich
+[Wed Apr/6]
+  15.30  Real Garcilaso           5-2 (2-1)  Universidad Cesar Vallejo
+
+
+Matchday 3
+[Sat Feb/13]
+  12.30  Ayacucho FC              0-3 (0-1)  FBC Melgar
+  15.00  Sporting Cristal         1-1 (1-1)  Comerciantes Unidos
+  20.00  Universidad Cesar Vallejo  1-2 (0-1)  Alianza Atlético
+[Sun Feb/14]
+  13.30  Unión Comercio           0-3 (0-2)  Alianza Lima
+  16.00  Universitario de Deportes  3-0 (2-0)  Defensor La Bocana
+  18.15  Universidad San Martín   1-3 (0-0)  Real Garcilaso
+  20.30  Juan Aurich              1-0 (0-0)  Sport Huancayo
+[Mon Feb/15]
+  15.30  Universidad Técnica      2-2 (1-1)  Deportivo Municipal
+
+
+Matchday 4
+[Sat Feb/20]
+  12.30  Sport Huancayo           0-0  Universitario de Deportes
+  15.00  Deportivo Municipal      0-0  Ayacucho FC
+  15.30  Defensor La Bocana       3-3 (3-1)  Unión Comercio
+         Comerciantes Unidos      1-0 (0-0)  Universidad Técnica
+  20.00  FBC Melgar               2-3 (1-2)  Juan Aurich
+[Sun Feb/21]
+  11.15  Alianza Atlético         3-0 (1-0)  Universidad San Martín
+  13.30  Real Garcilaso           1-1 (0-1)  Sporting Cristal
+  16.00  Alianza Lima             1-1 (0-0)  Universidad Cesar Vallejo
+
+
+Matchday 5
+[Tue Feb/23]
+  13.15  Ayacucho FC              1-0 (1-0)  Comerciantes Unidos
+  15.30  Defensor La Bocana       1-2 (1-0)  Sport Huancayo
+  20.00  Juan Aurich              2-3 (1-1)  Deportivo Municipal
+[Wed Feb/24]
+  13.15  Sporting Cristal         3-0 (1-0)  Alianza Atlético
+[Thu Feb/25]
+  20.00  Universidad Cesar Vallejo  0-0  Unión Comercio
+[Wed Apr/13]
+  15.30  Universidad Técnica      1-1 (1-1)  Real Garcilaso
+[Wed May/4]
+  20.00  Universidad San Martín   1-2 (0-1)  Alianza Lima
+[Thu May/5]
+  20.00  Universitario de Deportes  1-3 (0-2)  FBC Melgar
+
+
+Matchday 6
+[Sat Feb/27]
+  12.30  Real Garcilaso           2-0 (1-0)  Ayacucho FC
+  15.00  FBC Melgar               2-2 (0-1)  Defensor La Bocana
+  15.30  Comerciantes Unidos      1-1 (0-0)  Juan Aurich
+  19.45  Alianza Lima             2-4 (0-2)  Sporting Cristal
+[Sun Feb/28]
+  11.15  Unión Comercio           1-0 (0-0)  Universidad San Martín
+  13.30  Sport Huancayo           2-0 (1-0)  Universidad Cesar Vallejo
+  16.00  Deportivo Municipal      1-4 (0-2)  Universitario de Deportes
+[Mon Feb/29]
+  13.30  Alianza Atlético         2-0 (0-0)  Universidad Técnica
+
+
+Matchday 7
+[Fri Mar/4]
+  15.30  Defensor La Bocana       4-1 (2-0)  Deportivo Municipal
+  20.00  Juan Aurich              2-2 (1-1)  Real Garcilaso
+[Sat Mar/5]
+  15.00  Sporting Cristal         2-1 (2-0)  Unión Comercio
+  17.45  Universidad San Martín   1-0 (1-0)  Universidad Cesar Vallejo
+  20.00  Universitario de Deportes  2-0 (0-0)  Comerciantes Unidos
+[Sun Mar/6]
+  11.15  Ayacucho FC              1-0 (0-0)  Alianza Atlético
+  13.30  Sport Huancayo           0-0  FBC Melgar
+  16.00  Universidad Técnica      1-0 (0-0)  Alianza Lima
+
+
+Matchday 8
+[Wed Mar/9]
+  11.00  Real Garcilaso           1-0 (1-0)  Universitario de Deportes
+  13.15  Unión Comercio           1-1 (0-1)  Universidad Técnica
+  15.30  Deportivo Municipal      2-0 (0-0)  Sport Huancayo
+  17.45  Universidad San Martín   2-1 (0-0)  FBC Melgar
+  20.00  Alianza Lima             4-1 (1-1)  Ayacucho FC
+[Thu Mar/10]
+  13.30  Alianza Atlético         3-1 (1-1)  Juan Aurich
+  15.30  Comerciantes Unidos      4-1 (2-0)  Defensor La Bocana
+[Wed May/4]
+  17.45  Universidad Cesar Vallejo  0-2 (0-2)  Sporting Cristal
+
+
+Matchday 9
+[Sat Mar/12]
+  12.30  Ayacucho FC              2-1 (0-0)  Unión Comercio
+  15.00  Sporting Cristal         1-1 (0-1)  Universidad San Martín
+  17.45  FBC Melgar               1-1 (0-0)  Deportivo Municipal
+  20.00  Juan Aurich              1-1 (1-0)  Alianza Lima
+[Sun Mar/13]
+  13.30  Sport Huancayo           2-1 (0-0)  Comerciantes Unidos
+  15.30  Universidad Técnica      3-1 (1-0)  Universidad Cesar Vallejo
+  16.00  Universitario de Deportes  3-1 (2-0)  Alianza Atlético
+[Mon Mar/14]
+  15.30  Defensor La Bocana       5-0 (1-0)  Real Garcilaso
+
+
+Matchday 10
+[Fri Apr/1]
+  15.30  Comerciantes Unidos      2-0 (1-0)  FBC Melgar
+[Sat Apr/2]
+  12.30  Alianza Atlético         2-2 (1-0)  Defensor La Bocana
+  15.00  Sporting Cristal         0-1 (0-0)  Deportivo Municipal
+  20.00  Universidad Cesar Vallejo  5-2 (3-0)  Ayacucho FC
+[Sun Apr/3]
+  11.15  Unión Comercio           0-0  Juan Aurich
+  13.30  Real Garcilaso           1-1 (1-0)  Sport Huancayo
+  16.00  Universidad San Martín   2-4 (1-1)  Universidad Técnica
+[Wed Apr/13]
+  11.00  Alianza Lima             1-2 (0-1)  Universitario de Deportes
+
+
+Matchday 11
+[Fri Apr/15]
+  15.30  Deportivo Municipal      1-0 (0-0)  Comerciantes Unidos
+[Sat Apr/16]
+  12.30  Ayacucho FC              1-1 (0-0)  Universidad San Martín
+  15.00  Universidad Técnica      0-0  Sporting Cristal
+  17.45  Juan Aurich              0-0  Universidad Cesar Vallejo
+  20.00  Universitario de Deportes  1-0 (1-0)  Unión Comercio
+[Sun Apr/17]
+  11.15  Sport Huancayo           1-1 (1-0)  Alianza Atlético
+  16.00  Defensor La Bocana       1-2 (0-2)  Alianza Lima
+[Mon Apr/18]
+  19.00  FBC Melgar               3-1 (2-0)  Real Garcilaso
+
+
+Matchday 12
+[Fri Apr/22]
+  15.30  Universidad Técnica      2-1 (1-0)  Defensor La Bocana
+  20.00  Universidad San Martín   0-1 (0-0)  Juan Aurich
+[Sat Apr/23]
+  12.30  Alianza Atlético         1-0 (0-0)  FBC Melgar
+  15.00  Real Garcilaso           0-0  Deportivo Municipal
+  20.00  Universidad Cesar Vallejo  0-2 (0-0)  Universitario de Deportes
+[Sun Apr/24]
+  11.15  Sporting Cristal         1-0 (1-0)  Ayacucho FC
+  13.30  Unión Comercio           3-2 (2-2)  Comerciantes Unidos
+  16.00  Alianza Lima             1-0 (1-0)  Sport Huancayo
+
+
+Matchday 13
+[Wed Apr/27]
+  11.15  Sport Huancayo           1-2 (0-0)  Unión Comercio
+  13.30  Ayacucho FC              2-1 (0-0)  Universidad Técnica
+  15.30  FBC Melgar               1-0 (0-0)  Alianza Lima
+         Comerciantes Unidos      1-0 (0-0)  Real Garcilaso
+  18.00  Juan Aurich              0-3 (0-0)  Sporting Cristal
+[Thu Apr/28]
+  13.15  Defensor La Bocana       4-2 (1-0)  Universidad Cesar Vallejo
+  15.30  Deportivo Municipal      2-1 (1-1)  Alianza Atlético
+  20.00  Universitario de Deportes  2-0 (1-0)  Universidad San Martín
+
+
+Matchday 14
+[Sat Apr/30]
+  12.30  Ayacucho FC              0-0  Sport Huancayo
+  15.00  Universidad Técnica      2-2 (2-1)  Juan Aurich
+  20.00  Alianza Lima             2-1 (1-1)  Real Garcilaso
+[Sun May/1]
+  11.15  Unión Comercio           2-1 (1-0)  Deportivo Municipal
+  13.30  Alianza Atlético         2-1 (0-1)  Comerciantes Unidos
+  16.00  Sporting Cristal         0-1 (0-0)  Universitario de Deportes
+  18.15  Universidad Cesar Vallejo  1-2 (0-0)  FBC Melgar
+  20.30  Universidad San Martín   4-2 (2-1)  Defensor La Bocana
+
+
+Matchday 15
+[Sat May/7]
+  12.30  Sport Huancayo           3-0 (2-0)  Universidad San Martín
+  15.00  Deportivo Municipal      2-0 (1-0)  Universidad Cesar Vallejo
+  17.30  Juan Aurich              2-0 (2-0)  Ayacucho FC
+[Sun May/8]
+  11.00  Real Garcilaso           3-1 (1-0)  Alianza Atlético
+  13.30  Defensor La Bocana       2-1 (1-1)  Sporting Cristal
+  15.30  Comerciantes Unidos      2-1 (0-1)  Alianza Lima
+  16.00  Universitario de Deportes  3-1 (3-0)  Universidad Técnica
+  20.00  FBC Melgar               2-1 (2-1)  Unión Comercio
+
+
+== Clausura
+
+Matchday 1
+[Fri May/13]
+  13.30  Defensor La Bocana       1-1 (0-0)  Juan Aurich
+  15.30  Comerciantes Unidos      3-1 (3-1)  Universidad Cesar Vallejo
+[Sat May/14]
+  12.30  Real Garcilaso           0-1 (0-0)  Unión Comercio
+  15.00  Deportivo Municipal      1-0 (1-0)  Universidad San Martín
+  20.00  FBC Melgar               1-1 (0-0)  Universidad Técnica
+[Sun May/15]
+  11.15  Sport Huancayo           3-1 (2-1)  Sporting Cristal
+  13.30  Alianza Atlético         0-1 (0-1)  Alianza Lima
+  16.00  Universitario de Deportes  0-2 (0-1)  Ayacucho FC
+
+
+Matchday 2
+[Tue May/17]
+  13.15  Universidad San Martín   1-1 (1-0)  Comerciantes Unidos
+  20.00  Universidad Cesar Vallejo  1-1 (1-0)  Real Garcilaso
+[Wed May/18]
+  13.15  Ayacucho FC              3-0 (1-0)  Defensor La Bocana
+  15.30  Universidad Técnica      0-0  Sport Huancayo
+         Sporting Cristal         2-1 (1-0)  FBC Melgar
+  20.00  Alianza Lima             1-1 (0-0)  Deportivo Municipal
+[Thu May/19]
+  13.15  Unión Comercio           2-2 (2-1)  Alianza Atlético
+  20.00  Juan Aurich              2-0 (0-0)  Universitario de Deportes
+
+
+Matchday 3
+[Sat May/21]
+  12.30  Real Garcilaso           1-0 (1-0)  Universidad San Martín
+  15.00  Deportivo Municipal      0-0  Universidad Técnica
+[Sun May/22]
+  11.15  Sport Huancayo           3-1 (1-0)  Juan Aurich
+  13.30  Defensor La Bocana       2-2 (0-0)  Universitario de Deportes
+  16.00  Alianza Lima             0-1 (0-1)  Unión Comercio
+  18.15  FBC Melgar               2-0 (1-0)  Ayacucho FC
+[Mon May/23]
+  13.15  Alianza Atlético         3-1 (0-0)  Universidad Cesar Vallejo
+[Thu Jun/23]
+  15.30  Comerciantes Unidos      1-3 (1-2)  Sporting Cristal
+
+
+Matchday 4
+[Fri May/27]
+  13.15  Universidad San Martín   2-1 (1-1)  Alianza Atlético
+  15.30  Universidad Técnica      2-0 (2-0)  Comerciantes Unidos
+  20.00  Juan Aurich              1-1 (1-0)  FBC Melgar
+[Sat May/28]
+  12.30  Sporting Cristal         3-1 (2-0)  Real Garcilaso
+  20.00  Universidad Cesar Vallejo  0-0  Alianza Lima
+[Sun May/29]
+  11.15  Unión Comercio           3-0 (2-0)  Defensor La Bocana
+  13.30  Ayacucho FC              1-1 (0-1)  Deportivo Municipal
+[Sun Jun/12]
+  15.00  Universitario de Deportes  0-3 (0-1)  Sport Huancayo
+
+
+Matchday 5
+[Tue Jun/28]
+  13.15  Unión Comercio           0-1 (0-1)  Universidad Cesar Vallejo
+  15.30  Deportivo Municipal      2-1 (2-0)  Juan Aurich
+  20.00  Alianza Lima             3-0 (0-0)  Universidad San Martín
+[Wed Jun/29]
+  11.00  Sport Huancayo           0-0  Defensor La Bocana
+  13.15  Real Garcilaso           0-1 (0-0)  Universidad Técnica
+  15.30  Comerciantes Unidos      2-0 (1-0)  Ayacucho FC
+  20.00  FBC Melgar               5-2 (1-2)  Universitario de Deportes
+[Thu Jun/30]
+  15.30  Alianza Atlético         0-2 (0-0)  Sporting Cristal
+
+
+Matchday 6
+[Fri Jul/1]
+  15.30  Universidad San Martín   1-1 (1-0)  Unión Comercio
+[Sat Jul/2]
+  15.00  Juan Aurich              1-1 (0-1)  Comerciantes Unidos
+  17.45  Universidad Cesar Vallejo  3-1 (1-0)  Sport Huancayo
+  20.00  Universitario de Deportes  2-0 (0-0)  Deportivo Municipal
+[Sun Jul/3]
+  11.00  Defensor La Bocana       2-2 (0-0)  FBC Melgar
+  13.15  Ayacucho FC              1-2 (0-0)  Real Garcilaso
+  15.30  Universidad Técnica      1-2 (0-0)  Alianza Atlético
+         Sporting Cristal         0-2 (0-1)  Alianza Lima
+
+
+Matchday 7
+[Tue Jul/5]
+  15.30  Deportivo Municipal      1-1 (0-0)  Defensor La Bocana
+  20.00  Universidad Cesar Vallejo  2-2 (1-2)  Universidad San Martín
+[Wed Jul/6]
+  11.00  Alianza Atlético         2-0 (0-0)  Ayacucho FC
+  13.15  Real Garcilaso           3-2 (1-1)  Juan Aurich
+  15.30  Unión Comercio           1-2 (0-1)  Sporting Cristal
+  17.45  FBC Melgar               1-2 (1-1)  Sport Huancayo
+  20.00  Alianza Lima             0-1 (0-0)  Universidad Técnica
+[Thu Jul/7]
+  15.30  Comerciantes Unidos      0-0  Universitario de Deportes
+
+
+Matchday 8
+[Sat Jul/9]
+  12.30  Sport Huancayo           2-1 (1-0)  Deportivo Municipal
+  15.00  Sporting Cristal         1-1 (1-0)  Universidad Cesar Vallejo
+  17.45  Juan Aurich              0-0  Alianza Atlético
+  20.00  FBC Melgar               1-0 (0-0)  Universidad San Martín
+[Sun Jul/10]
+  13.15  Ayacucho FC              1-1 (1-1)  Alianza Lima
+  16.00  Universitario de Deportes  4-1 (3-0)  Real Garcilaso
+[Mon Jul/11]
+  13.15  Defensor La Bocana       2-0 (1-0)  Comerciantes Unidos
+  15.30  Universidad Técnica      1-1 (1-0)  Unión Comercio
+
+
+Matchday 9
+[Fri Jul/15]
+  15.30  Comerciantes Unidos      1-0 (1-0)  Sport Huancayo
+  20.00  Universidad San Martín   1-2 (0-1)  Sporting Cristal
+[Sat Jul/16]
+  12.30  Alianza Atlético         2-3 (2-2)  Universitario de Deportes
+  15.00  Deportivo Municipal      1-0 (1-0)  FBC Melgar
+  20.00  Universidad Cesar Vallejo  1-1 (0-0)  Universidad Técnica
+[Sun Jul/17]
+  11.15  Unión Comercio           0-1 (0-1)  Ayacucho FC
+  13.30  Real Garcilaso           4-1 (2-0)  Defensor La Bocana
+  16.00  Alianza Lima             0-2 (0-0)  Juan Aurich
+
+
+Matchday 10
+[Tue Jul/19]
+  15.30  Universidad Técnica      3-1 (2-0)  Universidad San Martín
+  20.00  FBC Melgar               3-2 (2-0)  Comerciantes Unidos
+[Wed Jul/20]
+  11.00  Defensor La Bocana       1-0 (0-0)  Alianza Atlético
+  13.15  Sport Huancayo           3-0 (2-0)  Real Garcilaso
+  15.15  Deportivo Municipal      0-0  Sporting Cristal
+  20.00  Juan Aurich              1-1 (1-1)  Unión Comercio
+[Thu Jul/21]
+  13.15  Ayacucho FC              0-1 (0-1)  Universidad Cesar Vallejo
+  20.00  Universitario de Deportes  1-0 (0-0)  Alianza Lima
+
+
+Matchday 11
+[Sat Jul/23]
+  12.30  Real Garcilaso           1-2 (0-0)  FBC Melgar
+  15.00  Sporting Cristal         4-0 (0-0)  Universidad Técnica
+  20.00  Universidad Cesar Vallejo  1-3 (1-0)  Juan Aurich
+[Sun Jul/24]
+  11.15  Alianza Atlético         0-0  Sport Huancayo
+  13.30  Unión Comercio           2-1 (1-0)  Universitario de Deportes
+  16.00  Alianza Lima             2-0 (0-0)  Defensor La Bocana
+[Mon Jul/25]
+  13.15  Universidad San Martín   1-1 (0-1)  Ayacucho FC
+  15.30  Comerciantes Unidos      1-0 (0-0)  Deportivo Municipal
+
+
+Matchday 12
+[Fri Jul/29]
+  15.30  Comerciantes Unidos      0-0  Unión Comercio
+[Sat Jul/30]
+  12.30  Ayacucho FC              1-1 (1-0)  Sporting Cristal
+  15.00  Deportivo Municipal      3-0 (2-0)  Real Garcilaso
+  17.45  FBC Melgar               2-0 (0-0)  Alianza Atlético
+  20.00  Juan Aurich              1-3 (1-2)  Universidad San Martín
+[Sun Jul/31]
+  11.15  Defensor La Bocana       1-1 (1-0)  Universidad Técnica
+  13.30  Sport Huancayo           2-1 (1-1)  Alianza Lima
+  16.00  Universitario de Deportes  1-1 (0-0)  Universidad Cesar Vallejo
+
+
+Matchday 13
+[Tue Aug/2]
+  13.15  Real Garcilaso           1-3 (1-1)  Comerciantes Unidos
+  15.30  Sporting Cristal         1-1 (1-0)  Juan Aurich
+[Wed Aug/3]
+  11.00  Alianza Atlético         2-0 (1-0)  Deportivo Municipal
+  13.15  Unión Comercio           2-1 (1-1)  Sport Huancayo
+  15.30  Universidad Técnica      1-1 (1-1)  Ayacucho FC
+  17.45  Universidad Cesar Vallejo  1-0 (1-0)  Defensor La Bocana
+  20.00  Alianza Lima             2-1 (1-0)  FBC Melgar
+[Thu Aug/4]
+  20.00  Universidad San Martín   3-1 (2-0)  Universitario de Deportes
+
+
+Matchday 14
+[Sat Aug/6]
+  12.30  Sport Huancayo           2-1 (0-1)  Ayacucho FC
+  15.00  Deportivo Municipal      4-1 (1-0)  Unión Comercio
+  17.45  Juan Aurich              2-0 (2-0)  Universidad Técnica
+  20.00  FBC Melgar               1-1 (0-1)  Universidad Cesar Vallejo
+[Sun Aug/7]
+  11.00  Defensor La Bocana       2-1 (1-0)  Universidad San Martín
+  13.15  Real Garcilaso           1-0 (0-0)  Alianza Lima
+  16.00  Universitario de Deportes  2-2 (0-1)  Sporting Cristal
+[Mon Aug/8]
+  15.30  Comerciantes Unidos      3-1 (1-0)  Alianza Atlético
+
+
+Matchday 15
+[Sat Aug/13]
+  15.30  Universidad Técnica      2-1 (1-1)  Universitario de Deportes
+[Sun Aug/14]
+  13.00  Unión Comercio           3-1 (2-0)  FBC Melgar
+  15.30  Alianza Lima             0-0  Comerciantes Unidos
+         Ayacucho FC              1-0 (0-0)  Juan Aurich
+         Universidad San Martín   2-0 (0-0)  Sport Huancayo
+         Sporting Cristal         1-1 (0-0)  Defensor La Bocana
+         Universidad Cesar Vallejo  2-2 (1-0)  Deportivo Municipal
+         Alianza Atlético         2-1 (0-0)  Real Garcilaso
+
+
+== Liguilla
+
+Gruppe A
+[Sat Aug/20]
+  15.00  Sporting Cristal         1-0 (0-0)  Unión Comercio
+  17.45  FBC Melgar               1-0 (0-0)  Universidad Cesar Vallejo
+  20.00  Juan Aurich              2-1 (1-1)  Real Garcilaso
+[Mon Aug/22]
+  15.30  Defensor La Bocana       1-2 (1-0)  Deportivo Municipal
+[Thu Aug/25]
+  13.15  Unión Comercio           0-0  FBC Melgar
+  15.30  Deportivo Municipal      1-4 (0-0)  Juan Aurich
+  17.45  Universidad Cesar Vallejo  2-1 (2-1)  Sporting Cristal
+[Sun Aug/28]
+  11.30  Real Garcilaso           4-2 (2-1)  Defensor La Bocana
+[Sat Sep/10]
+  12.45  Juan Aurich              1-3 (0-1)  Defensor La Bocana
+  15.00  Sporting Cristal         2-1 (1-0)  Real Garcilaso
+  17.45  Universidad Cesar Vallejo  0-1 (0-1)  Unión Comercio
+[Sun Sep/11]
+  13.30  FBC Melgar               2-1 (0-1)  Deportivo Municipal
+[Sat Sep/17]
+  12.30  Unión Comercio           2-2 (0-1)  Juan Aurich
+  15.00  Deportivo Municipal      2-1 (0-0)  Universidad Cesar Vallejo
+[Sun Sep/18]
+  16.00  Defensor La Bocana       1-2 (0-1)  Sporting Cristal
+[Mon Sep/19]
+  13.15  Real Garcilaso           1-2 (1-1)  FBC Melgar
+[Sat Sep/24]
+  17.45  Universidad Cesar Vallejo  2-0 (1-0)  Real Garcilaso
+[Sun Sep/25]
+  11.00  Unión Comercio           1-2 (1-2)  Deportivo Municipal
+  13.00  FBC Melgar               1-0 (0-0)  Defensor La Bocana
+  15.30  Sporting Cristal         3-0 (0-0)  Juan Aurich
+[Tue Sep/27]
+  15.30  Sporting Cristal         0-2 (0-0)  Deportivo Municipal
+[Wed Sep/28]
+  11.00  Real Garcilaso           1-0 (0-0)  Unión Comercio
+  13.15  Juan Aurich              1-1 (0-0)  FBC Melgar
+[Thu Sep/29]
+  15.30  Defensor La Bocana       1-3 (1-1)  Universidad Cesar Vallejo
+[Sat Oct/15]
+  15.00  Deportivo Municipal      1-0 (1-0)  Real Garcilaso
+  17.45  Universidad Cesar Vallejo  2-1 (0-0)  Juan Aurich
+[Sun Oct/16]
+  11.00  Unión Comercio           1-1 (0-0)  Defensor La Bocana
+  13.30  FBC Melgar               2-0 (1-0)  Sporting Cristal
+[Tue Oct/18]
+  15.30  Real Garcilaso           1-1 (1-0)  Juan Aurich
+[Wed Oct/19]
+  13.15  Unión Comercio           2-0 (0-0)  Sporting Cristal
+  17.45  Universidad Cesar Vallejo  2-3 (0-1)  FBC Melgar
+[Thu Oct/20]
+  15.30  Deportivo Municipal      2-2 (0-1)  Defensor La Bocana
+[Sun Oct/23]
+  13.00  Juan Aurich              0-2 (0-0)  Deportivo Municipal
+  15.30  Sporting Cristal         7-2 (3-1)  Universidad Cesar Vallejo
+[Mon Oct/24]
+  13.15  FBC Melgar               1-0 (0-0)  Unión Comercio
+  15.30  Defensor La Bocana       0-2 (0-1)  Real Garcilaso
+[Fri Oct/28]
+  13.15  Unión Comercio           3-1 (1-0)  Universidad Cesar Vallejo
+[Sat Oct/29]
+  15.00  Deportivo Municipal      0-0  FBC Melgar
+[Sun Oct/30]
+  13.30  Real Garcilaso           1-0 (0-0)  Sporting Cristal
+[Mon Oct/31]
+  15.30  Defensor La Bocana       0-3 (0-0)  Juan Aurich
+[Wed Nov/2]
+  17.45  FBC Melgar               0-0  Real Garcilaso
+[Thu Nov/3]
+  13.15  Juan Aurich              2-1 (1-0)  Unión Comercio
+  15.30  Sporting Cristal         2-5 (1-1)  Defensor La Bocana
+  20.00  Universidad Cesar Vallejo  3-0 (2-0)  Deportivo Municipal
+[Fri Nov/18]
+  15.30  Defensor La Bocana       1-3 (0-2)  FBC Melgar
+[Sat Nov/19]
+  15.00  Deportivo Municipal      2-0 (1-0)  Unión Comercio
+  17.45  Juan Aurich              0-0  Sporting Cristal
+[Sun Nov/20]
+  11.00  Real Garcilaso           2-0 (1-0)  Universidad Cesar Vallejo
+[Tue Nov/22]
+  15.30  FBC Melgar               1-2 (1-1)  Juan Aurich
+[Wed Nov/23]
+  13.15  Unión Comercio           0-0  Real Garcilaso
+  17.45  Universidad Cesar Vallejo  1-1 (0-0)  Defensor La Bocana
+[Thu Nov/24]
+  15.30  Deportivo Municipal      1-3 (1-1)  Sporting Cristal
+[Sun Nov/27]
+  15.00  Sporting Cristal         3-2 (2-0)  FBC Melgar
+         Juan Aurich              0-1 (0-1)  Universidad Cesar Vallejo
+         Defensor La Bocana       3-3 (1-2)  Unión Comercio
+         Real Garcilaso           2-1 (0-0)  Deportivo Municipal
+
+
+Gruppe B
+[Fri Aug/19]
+  15.30  Universidad Técnica      5-0 (1-0)  Universidad San Martín
+[Sun Aug/21]
+  11.15  Sport Huancayo           1-1 (0-0)  Comerciantes Unidos
+  13.30  Ayacucho FC              1-1 (0-0)  Alianza Lima
+  16.00  Universitario de Deportes  4-0 (3-0)  Alianza Atlético
+[Wed Aug/24]
+  13.15  Universidad San Martín   1-1 (0-1)  Ayacucho FC
+  15.30  Comerciantes Unidos      1-1 (1-1)  Universitario de Deportes
+[Thu Aug/25]
+  20.00  Alianza Lima             2-1 (1-1)  Universidad Técnica
+[Mon Aug/29]
+  13.30  Alianza Atlético         3-1 (1-1)  Sport Huancayo
+[Fri Sep/9]
+  15.30  Universidad Técnica      2-2 (2-0)  Comerciantes Unidos
+[Sat Sep/10]
+  20.00  Universidad San Martín   3-0 (1-0)  Alianza Lima
+[Sun Sep/11]
+  11.15  Ayacucho FC              5-2 (1-0)  Alianza Atlético
+  16.00  Universitario de Deportes  1-0 (0-0)  Sport Huancayo
+[Sat Sep/17]
+  19.00  Alianza Lima             1-1 (1-0)  Universitario de Deportes
+[Sun Sep/18]
+  11.15  Sport Huancayo           1-1 (0-1)  Universidad Técnica
+  13.30  Alianza Atlético         2-3 (0-3)  Universidad San Martín
+[Mon Sep/19]
+  15.30  Comerciantes Unidos      3-1 (2-1)  Ayacucho FC
+[Fri Sep/23]
+  15.30  Universidad San Martín   1-1 (1-0)  Comerciantes Unidos
+[Sat Sep/24]
+  12.30  Ayacucho FC              0-1 (0-0)  Sport Huancayo
+  15.00  Universidad Técnica      1-1 (1-0)  Universitario de Deportes
+  20.00  Alianza Lima             0-0  Alianza Atlético
+[Tue Sep/27]
+  13.15  Sport Huancayo           3-0 (0-0)  Universidad San Martín
+  15.30  Universidad Técnica      4-0 (3-0)  Alianza Atlético
+[Wed Sep/28]
+  15.30  Comerciantes Unidos      2-1 (1-0)  Alianza Lima
+[Sun Oct/2]
+  16.00  Universitario de Deportes  4-2 (3-1)  Ayacucho FC
+[Sat Oct/15]
+  12.30  Ayacucho FC              2-0 (0-0)  Universidad Técnica
+[Sun Oct/16]
+  15.30  Alianza Atlético         1-0 (0-0)  Comerciantes Unidos
+  16.00  Alianza Lima             1-0 (1-0)  Sport Huancayo
+[Tue Oct/18]
+  13.15  Universidad San Martín   6-0 (4-0)  Universidad Técnica
+[Wed Oct/19]
+  15.30  Alianza Atlético         1-3 (1-2)  Universitario de Deportes
+[Thu Oct/20]
+  15.30  Comerciantes Unidos      5-1 (2-0)  Sport Huancayo
+[Sat Oct/22]
+  12.30  Ayacucho FC              2-2 (1-1)  Universidad San Martín
+  15.00  Universidad Técnica      0-2 (0-0)  Alianza Lima
+[Sun Oct/23]
+  11.00  Sport Huancayo           3-1 (1-0)  Alianza Atlético
+         Universitario de Deportes  2-0 (1-0)  Comerciantes Unidos
+[Wed Oct/26]
+  20.00  Universidad San Martín   4-4 (4-1)  Universitario de Deportes
+[Fri Oct/28]
+  15.30  Comerciantes Unidos      1-0 (1-0)  Universidad Técnica
+[Sat Oct/29]
+  12.30  Alianza Atlético         1-1 (1-1)  Ayacucho FC
+[Sun Oct/30]
+  11.15  Sport Huancayo           4-0 (1-0)  Universitario de Deportes
+  16.00  Alianza Lima             1-2 (1-1)  Universidad San Martín
+[Tue Nov/1]
+  15.30  Ayacucho FC              2-0 (1-0)  Comerciantes Unidos
+[Wed Nov/2]
+  13.15  Universidad San Martín   3-1 (2-1)  Alianza Atlético
+  15.30  Universidad Técnica      3-0 (1-0)  Sport Huancayo
+[Sun Nov/13]
+  16.00  Alianza Lima             0-1 (0-1)  Ayacucho FC
+[Thu Nov/17]
+         Universitario de Deportes  0-3  Alianza Lima             [awarded]
+[Fri Nov/18]
+  13.15  Sport Huancayo           0-0  Ayacucho FC
+[Sun Nov/20]
+  13.30  Alianza Atlético         4-0 (2-0)  Alianza Lima
+  16.00  Universitario de Deportes  1-1 (1-0)  Universidad Técnica
+[Mon Nov/21]
+  15.30  Comerciantes Unidos      5-1 (3-1)  Universidad San Martín
+[Wed Nov/23]
+  15.30  Ayacucho FC              1-1 (1-1)  Universitario de Deportes
+[Thu Nov/24]
+  13.15  Universidad San Martín   1-0 (1-0)  Sport Huancayo
+  15.30  Alianza Atlético         4-2 (1-1)  Universidad Técnica
+  20.00  Alianza Lima             4-0 (1-0)  Comerciantes Unidos
+[Sun Nov/27]
+  15.00  Comerciantes Unidos      7-2 (4-0)  Alianza Atlético
+         Sport Huancayo           1-1 (0-0)  Alianza Lima
+         Universitario de Deportes  0-1 (0-1)  Universidad San Martín
+         Universidad Técnica      1-1 (1-1)  Ayacucho FC
+
+
+== Playoffs
+
+Semifinals
+[Wed Nov/30]
+  15.30  Deportivo Municipal      1-0 (0-0)  Sporting Cristal
+  20.00  Universitario de Deportes  1-2 (1-0)  FBC Melgar
+[Sun Dec/4]
+  13.00  FBC Melgar               2-2 (0-2)  Universitario de Deportes
+  16.00  Sporting Cristal         3-2 pen. (1-0, 1-0)  Deportivo Municipal
+
+
+3. Platz
+[Sat Dec/10]
+  15.00  Universitario de Deportes  3-2 (1-0)  Deportivo Municipal
+
+
+Final
+[Sun Dec/11]
+  15.30  FBC Melgar               1-1 (0-0)  Sporting Cristal
+[Sun Dec/18]
+  15.30  Sporting Cristal         0-0  FBC Melgar

@@ -1,0 +1,136 @@
+= MT 1 2009
+
+# Date       Sat Mar/14 - Sun May/24 2009 (71d)
+# Teams      10
+# Matches    42
+# Stages     Relegation (12)  Playoff (30)
+
+
+== Relegation
+
+Matchday 1
+[Sun Mar/15]
+  15.00  Qormi FC                 1-2  Tarxien Rainbows
+[Sun Mar/22]
+  14.00  Hamrun Spartans          3-0  Msida St. Joseph FC
+
+
+Matchday 2
+[Sat Apr/4]
+  15.00  Tarxien Rainbows         5-1  Hamrun Spartans
+[Sun Apr/5]
+  15.00  Msida St. Joseph FC      0-5  Qormi FC
+
+
+Matchday 3
+[Sat Apr/11]
+  15.00  Tarxien Rainbows         0-0  Msida St. Joseph FC
+[Sun Apr/12]
+  15.00  Qormi FC                 1-2  Hamrun Spartans
+
+
+Matchday 4
+[Sat Apr/18]
+  15.00  Tarxien Rainbows         0-3  Qormi FC
+[Sun Apr/19]
+  15.00  Msida St. Joseph FC      2-0  Hamrun Spartans
+
+
+Matchday 5
+[Sat Apr/25]
+  15.00  Hamrun Spartans          1-1  Tarxien Rainbows
+[Sun Apr/26]
+  15.00  Qormi FC                 2-1  Msida St. Joseph FC
+
+
+Matchday 6
+[Sun May/3]
+  15.00  Msida St. Joseph FC      2-2  Tarxien Rainbows
+         Hamrun Spartans          0-2  Qormi FC
+
+
+== Playoff
+
+Matchday 1
+[Sat Mar/14]
+  14.00  Marsaxlokk FC            1-4  Hibernians FC
+  16.00  Valletta FC              5-0  Sliema Wanderers
+[Sun Mar/15]
+  16.00  Floriana FC              0-2  Birkirkara FC
+
+
+Matchday 2
+[Sat Mar/21]
+  14.00  Hibernians FC            4-1  Floriana FC
+  16.00  Valletta FC              1-3  Birkirkara FC
+[Sun Mar/22]
+  16.00  Marsaxlokk FC            0-3  Sliema Wanderers
+
+
+Matchday 3
+[Sat Apr/4]
+  17.00  Valletta FC              0-0  Floriana FC
+[Sun Apr/5]
+  17.00  Birkirkara FC            1-2  Marsaxlokk FC
+[Mon Apr/6]
+  19.30  Sliema Wanderers         0-5  Hibernians FC
+
+
+Matchday 4
+[Sat Apr/11]
+  17.00  Marsaxlokk FC            0-1  Valletta FC
+[Sun Apr/12]
+  17.00  Floriana FC              1-1  Sliema Wanderers
+[Mon Apr/13]
+  19.30  Hibernians FC            2-0  Birkirkara FC
+
+
+Matchday 5
+[Sat Apr/18]
+  17.00  Marsaxlokk FC            5-2  Floriana FC
+[Sun Apr/19]
+  17.00  Sliema Wanderers         1-0  Birkirkara FC
+[Mon Apr/20]
+  19.30  Valletta FC              2-1  Hibernians FC
+
+
+Matchday 6
+[Sat Apr/25]
+  17.00  Birkirkara FC            3-1  Floriana FC
+[Sun Apr/26]
+  17.00  Hibernians FC            2-2  Marsaxlokk FC
+[Mon Apr/27]
+  19.30  Sliema Wanderers         0-3  Valletta FC
+
+
+Matchday 7
+[Sat May/2]
+  17.00  Hibernians FC            2-0  Floriana FC
+[Sun May/3]
+  17.00  Sliema Wanderers         1-3  Marsaxlokk FC
+[Mon May/4]
+  19.30  Valletta FC              4-1  Birkirkara FC
+
+
+Matchday 8
+[Sat May/9]
+  15.00  Marsaxlokk FC            2-2  Birkirkara FC
+  17.00  Floriana FC              0-2  Valletta FC
+[Mon May/11]
+  19.30  Hibernians FC            0-0  Sliema Wanderers
+
+
+Matchday 9
+[Sat May/16]
+  15.00  Sliema Wanderers         3-0  Floriana FC
+  17.00  Valletta FC              1-2  Marsaxlokk FC
+[Mon May/18]
+  19.30  Birkirkara FC            0-4  Hibernians FC
+
+
+Matchday 10
+[Sat May/23]
+  15.00  Floriana FC              2-1  Marsaxlokk FC
+  17.00  Birkirkara FC            0-0  Sliema Wanderers
+[Sun May/24]
+  17.00  Hibernians FC            0-0  Valletta FC

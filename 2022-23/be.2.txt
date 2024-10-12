@@ -1,0 +1,456 @@
+= BE 2 2022/23
+
+# Date       Fri Aug/12 2022 - Sat May/13 2023 (274d)
+# Teams      12
+# Matches    192
+# Stages     Regular Season (132)  Relegation (30)  Promotion (30)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/12]
+  20.00  Excelsior Virton         1-1 (0-0)  RWDM Brussels FC
+         FCV Dender EH            1-4 (1-2)  Lommel SK
+[Sat Aug/13]
+  20.00  Club NXT                 2-2 (2-2)  Standard Liège II
+  16.00  K Beerschot VA           1-0 (1-0)  SK Beveren
+[Sun Aug/14]
+  20.00  RSCA Futures             0-0  SK Deinze
+  16.00  KRC Genk II              4-1 (1-1)  Lierse Kempenzonen
+
+
+Matchday 2
+[Fri Aug/19]
+  20.00  SK Deinze                3-2 (1-1)  KRC Genk II
+         Standard Liège II        2-2 (1-0)  K Beerschot VA
+[Sat Aug/20]
+  20.00  RWDM Brussels FC         1-0 (1-0)  FCV Dender EH
+  16.00  SK Beveren               2-2 (2-1)  Excelsior Virton
+[Sun Aug/21]
+  20.00  Lierse Kempenzonen       3-1 (2-1)  Club NXT
+  16.00  Lommel SK                0-2 (0-0)  RSCA Futures
+
+
+Matchday 3
+[Fri Aug/26]
+  20.00  FCV Dender EH            0-1 (0-0)  Standard Liège II
+         KRC Genk II              0-3 (0-1)  Lommel SK
+[Sat Aug/27]
+  20.00  SK Deinze                1-1 (0-0)  Excelsior Virton
+  16.00  RSCA Futures             2-2 (1-1)  SK Beveren
+[Sun Aug/28]
+  20.00  K Beerschot VA           2-3 (1-1)  Lierse Kempenzonen
+  16.00  Club NXT                 2-1 (1-0)  RWDM Brussels FC
+
+
+Matchday 4
+[Fri Sep/2]
+  20.00  RWDM Brussels FC         2-2 (0-1)  RSCA Futures
+         Standard Liège II        2-2 (2-0)  KRC Genk II
+[Sat Sep/3]
+  20.00  Lierse Kempenzonen       4-1 (2-1)  SK Deinze
+  16.00  Club NXT                 1-2 (0-1)  K Beerschot VA
+[Sun Sep/4]
+  20.00  Lommel SK                0-2 (0-1)  SK Beveren
+  16.00  Excelsior Virton         1-1 (1-0)  FCV Dender EH
+
+
+Matchday 5
+[Fri Sep/9]
+  20.00  K Beerschot VA           0-2 (0-1)  Lommel SK
+         FCV Dender EH            2-3 (1-2)  Lierse Kempenzonen
+[Sat Sep/10]
+  20.00  SK Beveren               2-1 (1-1)  Standard Liège II
+  16.00  RSCA Futures             1-1 (1-1)  Club NXT
+[Sun Sep/11]
+  20.00  SK Deinze                1-2 (1-0)  RWDM Brussels FC
+  16.00  KRC Genk II              0-1 (0-0)  Excelsior Virton
+
+
+Matchday 6
+[Fri Sep/16]
+  20.00  SK Deinze                0-2 (0-1)  FCV Dender EH
+         Lierse Kempenzonen       2-3 (1-2)  RSCA Futures
+[Sat Sep/17]
+  20.00  RWDM Brussels FC         1-1 (0-0)  KRC Genk II
+  16.00  Club NXT                 2-2 (1-1)  SK Beveren
+[Sun Sep/18]
+  20.00  Lommel SK                0-1 (0-1)  Standard Liège II
+  16.00  Excelsior Virton         1-2 (1-0)  K Beerschot VA
+
+
+Matchday 7
+[Fri Sep/30]
+  20.00  KRC Genk II              0-2 (0-0)  FCV Dender EH
+         Excelsior Virton         3-3 (2-2)  Club NXT
+[Sat Oct/1]
+  20.00  K Beerschot VA           2-0 (1-0)  SK Deinze
+  16.00  Lommel SK                2-1 (0-0)  RWDM Brussels FC
+[Sun Oct/2]
+  20.00  Standard Liège II        1-3 (0-1)  RSCA Futures
+  16.00  SK Beveren               5-0 (2-0)  Lierse Kempenzonen
+
+
+Matchday 8
+[Fri Oct/7]
+  20.00  FCV Dender EH            0-3 (0-2)  SK Beveren
+         RSCA Futures             3-1 (0-0)  Excelsior Virton
+[Sat Oct/8]
+  20.00  RWDM Brussels FC         2-0 (1-0)  K Beerschot VA
+  16.00  SK Deinze                3-0 (2-0)  Lommel SK
+[Sun Oct/9]
+  20.00  Club NXT                 3-1 (1-0)  KRC Genk II
+  16.00  Lierse Kempenzonen       2-0 (2-0)  Standard Liège II
+
+
+Matchday 9
+[Fri Oct/14]
+  20.00  Standard Liège II        1-4 (0-1)  RWDM Brussels FC
+         SK Beveren               2-1 (1-0)  SK Deinze
+[Sat Oct/15]
+  20.00  Lommel SK                3-4 (0-2)  Club NXT
+  16.00  Excelsior Virton         0-0  Lierse Kempenzonen
+[Sun Oct/16]
+  20.00  K Beerschot VA           1-1 (0-0)  FCV Dender EH
+  16.00  KRC Genk II              3-2 (2-0)  RSCA Futures
+
+
+Matchday 10
+[Fri Oct/21]
+  20.00  Club NXT                 2-0 (1-0)  SK Deinze
+         Standard Liège II        2-1 (1-0)  Excelsior Virton
+[Sat Oct/22]
+  20.00  RSCA Futures             0-2 (0-1)  FCV Dender EH
+  16.00  KRC Genk II              1-2 (0-1)  K Beerschot VA
+[Sun Oct/23]
+  20.00  Lierse Kempenzonen       3-1 (3-1)  Lommel SK
+  16.00  RWDM Brussels FC         3-1 (1-0)  SK Beveren
+
+
+Matchday 11
+[Fri Oct/28]
+  20.00  SK Deinze                4-1 (2-0)  Standard Liège II
+         Lommel SK                3-1 (1-1)  Excelsior Virton
+[Sat Oct/29]
+  20.00  K Beerschot VA           1-2 (0-1)  RSCA Futures
+  16.00  FCV Dender EH            3-2 (2-1)  Club NXT
+[Sun Oct/30]
+  20.00  SK Beveren               3-0 (2-0)  KRC Genk II
+  16.00  RWDM Brussels FC         3-0 (2-0)  Lierse Kempenzonen
+
+
+Matchday 12
+[Fri Nov/4]
+  20.00  FCV Dender EH            0-1 (0-0)  RWDM Brussels FC
+         RSCA Futures             3-0 (2-0)  Standard Liège II
+[Sat Nov/5]
+  20.00  SK Beveren               1-0 (1-0)  Club NXT
+  16.00  Excelsior Virton         0-1 (0-1)  SK Deinze
+[Sun Nov/6]
+  20.00  Lierse Kempenzonen       4-2 (2-1)  KRC Genk II
+  16.00  Lommel SK                1-3 (1-1)  K Beerschot VA
+
+
+Matchday 13
+[Fri Nov/11]
+  20.00  Club NXT                 2-2 (1-1)  RSCA Futures
+         Standard Liège II        1-1 (1-1)  FCV Dender EH
+[Sat Nov/12]
+  20.00  K Beerschot VA           3-0 (0-0)  Excelsior Virton
+  16.00  KRC Genk II              0-0  SK Deinze
+[Sun Nov/13]
+  20.00  RWDM Brussels FC         5-0 (2-0)  Lommel SK
+  16.00  Lierse Kempenzonen       1-5 (1-0)  SK Beveren
+
+
+Matchday 14
+[Fri Nov/18]
+  20.00  Lommel SK                2-1 (1-0)  KRC Genk II
+         Excelsior Virton         0-2 (0-0)  Standard Liège II
+[Sat Nov/19]
+  20.00  SK Beveren               1-1 (1-0)  RWDM Brussels FC
+  16.00  K Beerschot VA           1-0 (1-0)  Club NXT
+[Sun Nov/20]
+  20.00  FCV Dender EH            2-1 (1-1)  RSCA Futures
+  16.00  SK Deinze                2-1 (1-0)  Lierse Kempenzonen
+
+
+Matchday 15
+[Fri Nov/25]
+  20.00  Club NXT                 4-1 (2-1)  FCV Dender EH
+         KRC Genk II              2-0 (1-0)  RWDM Brussels FC
+[Sat Nov/26]
+  20.00  RSCA Futures             1-2 (1-1)  K Beerschot VA
+  16.00  Standard Liège II        1-2 (1-1)  SK Deinze
+[Sun Nov/27]
+  20.00  Lierse Kempenzonen       2-2 (1-0)  Excelsior Virton
+  16.30  SK Beveren               2-3 (1-2)  Lommel SK
+
+
+Matchday 16
+[Fri Dec/2]
+  20.00  RSCA Futures             2-0 (2-0)  KRC Genk II
+         Standard Liège II        2-4 (1-3)  Lierse Kempenzonen
+[Sat Dec/3]
+  20.00  RWDM Brussels FC         0-2 (0-1)  Club NXT
+  16.00  Excelsior Virton         0-1 (0-0)  Lommel SK
+[Sun Dec/4]
+  18.00  SK Deinze                1-4 (0-1)  SK Beveren
+  13.30  FCV Dender EH            2-3 (0-2)  K Beerschot VA
+
+
+Matchday 17
+[Fri Dec/9]
+  20.00  KRC Genk II              1-2 (1-2)  Club NXT
+         SK Beveren               4-1 (2-0)  RSCA Futures
+[Sat Dec/10]
+  20.00  Lierse Kempenzonen       2-1 (2-0)  FCV Dender EH
+[Sun Dec/11]
+  17.00  K Beerschot VA           1-0 (1-0)  Standard Liège II
+  20.30  Lommel SK                1-0 (0-0)  SK Deinze
+  13.30  RWDM Brussels FC         3-1 (2-1)  Excelsior Virton
+
+
+Matchday 18
+[Sat Dec/17]
+  18.00  Standard Liège II        0-3 (0-1)  Lommel SK
+  16.00  Excelsior Virton         0-0  SK Beveren
+[Sun Dec/18]
+  13.30  RSCA Futures             1-2 (0-0)  RWDM Brussels FC
+[Sun Jan/15]
+  16.00  SK Deinze                3-2 (2-0)  K Beerschot VA
+
+
+Matchday 19
+[Fri Jan/20]
+  20.00  Club NXT                 2-1 (1-0)  Lommel SK
+[Sat Jan/21]
+  16.00  RWDM Brussels FC         2-1 (1-0)  SK Deinze
+  20.00  FCV Dender EH            3-4 (2-2)  Excelsior Virton
+[Sun Jan/22]
+  16.00  SK Beveren               2-0 (1-0)  K Beerschot VA
+  20.00  RSCA Futures             3-3 (2-1)  Lierse Kempenzonen
+
+
+Matchday 18
+[Tue Jan/24]
+  20.00  FCV Dender EH            0-1 (0-1)  KRC Genk II
+
+
+Matchday 20
+[Fri Jan/27]
+  20.00  K Beerschot VA           3-2 (1-2)  KRC Genk II
+         SK Deinze                2-1 (0-1)  Club NXT
+[Sat Jan/28]
+  16.00  Excelsior Virton         1-3 (1-2)  RSCA Futures
+  20.00  Lommel SK                1-1 (0-0)  FCV Dender EH
+[Sun Jan/29]
+  20.00  Standard Liège II        2-2 (1-0)  SK Beveren
+  16.00  Lierse Kempenzonen       1-2 (0-2)  RWDM Brussels FC
+
+
+Matchday 18
+[Wed Feb/1]
+  18.30  Club NXT                 1-0 (1-0)  Lierse Kempenzonen
+
+
+Matchday 21
+[Fri Feb/3]
+  20.00  KRC Genk II              2-2 (1-1)  SK Beveren
+         RSCA Futures             2-2 (0-2)  Lommel SK
+[Sat Feb/4]
+  16.00  RWDM Brussels FC         3-1 (1-0)  Standard Liège II
+  20.00  Lierse Kempenzonen       1-0 (1-0)  K Beerschot VA
+[Sun Feb/5]
+  16.00  Club NXT                 1-0 (0-0)  Excelsior Virton
+  19.15  FCV Dender EH            0-1 (0-0)  SK Deinze
+
+
+Matchday 22
+[Sat Feb/11]
+  20.45  Standard Liège II        0-0  Club NXT
+  16.00  SK Beveren               5-2 (3-0)  FCV Dender EH
+  20.45  SK Deinze                2-3 (1-0)  RSCA Futures
+         Lommel SK                0-2 (0-2)  Lierse Kempenzonen
+[Sun Feb/12]
+  16.00  Excelsior Virton         0-1 (0-0)  KRC Genk II
+  19.15  K Beerschot VA           0-1 (0-0)  RWDM Brussels FC
+
+
+Matchday 19
+[Sun Feb/19]
+  16.00  KRC Genk II              2-2 (2-1)  Standard Liège II
+
+
+== Relegation
+
+Matchday 1
+[Fri Feb/24]
+  20.00  Standard Liège II        1-0 (0-0)  Lommel SK
+         FCV Dender EH            2-1 (2-1)  Excelsior Virton
+[Sat Feb/25]
+  16.00  SK Deinze                1-3 (0-1)  KRC Genk II
+
+
+Matchday 2
+[Fri Mar/3]
+  20.00  Lommel SK                1-0 (0-0)  FCV Dender EH
+[Sat Mar/4]
+  16.00  Excelsior Virton         1-2 (1-1)  SK Deinze
+[Sun Mar/5]
+  19.15  KRC Genk II              1-1 (1-0)  Standard Liège II
+
+
+Matchday 3
+[Fri Mar/10]
+  20.00  FCV Dender EH            1-0 (0-0)  SK Deinze
+[Sat Mar/11]
+  16.00  Excelsior Virton         1-0 (1-0)  Standard Liège II
+[Sun Mar/12]
+  19.15  Lommel SK                2-0 (0-0)  KRC Genk II
+
+
+Matchday 4
+[Fri Mar/17]
+  20.00  KRC Genk II              1-1 (0-1)  Excelsior Virton
+[Sat Mar/18]
+  16.00  SK Deinze                1-1 (1-0)  Lommel SK
+[Sun Mar/19]
+  19.15  Standard Liège II        1-1 (0-0)  FCV Dender EH
+
+
+Matchday 5
+[Fri Mar/31]
+  20.00  FCV Dender EH            1-0 (0-0)  KRC Genk II
+[Sat Apr/1]
+  16.00  SK Deinze                5-0 (2-0)  Standard Liège II
+[Sun Apr/2]
+  16.00  Lommel SK                1-2 (0-0)  Excelsior Virton
+
+
+Matchday 6
+[Fri Apr/7]
+  20.00  KRC Genk II              0-4 (0-2)  FCV Dender EH
+         Standard Liège II        1-2 (0-1)  SK Deinze
+[Sun Apr/9]
+  16.00  Excelsior Virton         0-1 (0-0)  Lommel SK
+
+
+Matchday 7
+[Fri Apr/14]
+  20.00  Lommel SK                4-1 (1-0)  SK Deinze
+[Sat Apr/15]
+  16.00  Standard Liège II        0-0  KRC Genk II
+[Sun Apr/16]
+  19.15  Excelsior Virton         0-1 (0-0)  FCV Dender EH
+
+
+Matchday 8
+[Fri Apr/21]
+  20.00  FCV Dender EH            0-0  Standard Liège II
+         KRC Genk II              2-3 (1-2)  Lommel SK
+[Sat Apr/22]
+  16.00  SK Deinze                3-1 (2-0)  Excelsior Virton
+
+
+Matchday 9
+[Fri May/5]
+  20.00  Standard Liège II        1-1 (1-0)  Excelsior Virton
+[Sat May/6]
+  16.00  KRC Genk II              0-2 (0-0)  SK Deinze
+  20.00  FCV Dender EH            2-1 (0-1)  Lommel SK
+
+
+Matchday 10
+[Fri May/12]
+  20.00  Excelsior Virton         3-1 (1-0)  KRC Genk II
+         SK Deinze                3-2 (2-0)  FCV Dender EH
+         Lommel SK                6-1 (5-1)  Standard Liège II
+
+
+== Promotion
+
+Matchday 1
+[Sat Feb/25]
+  20.00  Club NXT                 3-0 (1-0)  SK Beveren
+[Sun Feb/26]
+  19.15  RWDM Brussels FC         3-1 (0-0)  Lierse Kempenzonen
+  16.00  K Beerschot VA           0-0  RSCA Futures
+
+
+Matchday 2
+[Fri Mar/3]
+  20.00  RSCA Futures             1-2 (0-1)  Club NXT
+[Sat Mar/4]
+  20.00  SK Beveren               2-1 (0-1)  RWDM Brussels FC
+[Sun Mar/5]
+  16.00  Lierse Kempenzonen       0-1 (0-0)  K Beerschot VA
+
+
+Matchday 3
+[Fri Mar/10]
+  20.00  K Beerschot VA           0-1 (0-0)  SK Beveren
+[Sat Mar/11]
+  20.00  Lierse Kempenzonen       2-0 (0-0)  RSCA Futures
+[Sun Mar/12]
+  16.00  RWDM Brussels FC         3-2 (0-1)  Club NXT
+
+
+Matchday 4
+[Fri Mar/17]
+  20.00  SK Beveren               2-0 (1-0)  Lierse Kempenzonen
+[Sat Mar/18]
+  20.00  RSCA Futures             0-4 (0-1)  RWDM Brussels FC
+[Sun Mar/19]
+  16.00  Club NXT                 2-1 (2-0)  K Beerschot VA
+
+
+Matchday 5
+[Fri Mar/31]
+  20.00  RSCA Futures             0-4 (0-2)  SK Beveren
+[Sat Apr/1]
+  20.00  Lierse Kempenzonen       1-2 (1-0)  Club NXT
+[Sun Apr/2]
+  19.15  K Beerschot VA           1-1 (0-0)  RWDM Brussels FC
+
+
+Matchday 6
+[Sat Apr/8]
+  16.00  Club NXT                 0-1 (0-0)  Lierse Kempenzonen
+  20.00  SK Beveren               4-1 (0-0)  RSCA Futures
+[Sun Apr/9]
+  19.15  RWDM Brussels FC         4-0 (3-0)  K Beerschot VA
+
+
+Matchday 7
+[Fri Apr/14]
+  20.00  K Beerschot VA           4-0 (2-0)  Club NXT
+[Sat Apr/15]
+  20.00  RSCA Futures             2-2 (0-2)  Lierse Kempenzonen
+[Sun Apr/16]
+  16.00  RWDM Brussels FC         1-1 (0-0)  SK Beveren
+
+
+Matchday 8
+[Fri Apr/21]
+  20.00  Club NXT                 0-0  RSCA Futures
+[Sat Apr/22]
+  20.00  Lierse Kempenzonen       0-3 (0-2)  RWDM Brussels FC
+         SK Beveren               3-0 (0-0)  K Beerschot VA
+
+
+Matchday 9
+[Fri May/5]
+  20.00  RSCA Futures             0-2 (0-2)  K Beerschot VA
+[Sat May/6]
+  20.00  Club NXT                 1-3 (0-2)  RWDM Brussels FC
+[Sun May/7]
+  16.00  Lierse Kempenzonen       2-3 (1-2)  SK Beveren
+
+
+Matchday 10
+[Sat May/13]
+  20.45  SK Beveren               4-1 (0-1)  Club NXT
+         RWDM Brussels FC         1-0 (1-0)  RSCA Futures
+  16.00  K Beerschot VA           1-2 (1-2)  Lierse Kempenzonen

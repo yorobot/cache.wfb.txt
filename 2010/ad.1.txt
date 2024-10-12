@@ -1,0 +1,82 @@
+= AD 1 2010
+
+# Date       Sun Feb/21 - Sun Mar/28 2010 (35d)
+# Teams      8
+# Matches    24
+# Stages     Relegation (12)  Playoff (12)
+
+
+== Relegation
+
+Matchday 1
+[Sun Feb/21]
+  14.00  Inter Club d'Escaldes    1-0  FC Encamp
+  18.00  UE Engordany             2-1  CE Principat
+
+
+Matchday 2
+[Sun Feb/28]
+  20.00  FC Encamp                3-3  CE Principat
+  18.00  Inter Club d'Escaldes    2-1  UE Engordany
+
+
+Matchday 3
+[Sun Mar/7]
+  16.00  FC Encamp                1-4  UE Engordany
+  20.00  CE Principat             2-3  Inter Club d'Escaldes
+
+
+Matchday 4
+[Sun Mar/14]
+  14.00  CE Principat             1-2  UE Engordany
+  18.00  FC Encamp                1-3  Inter Club d'Escaldes
+
+
+Matchday 5
+[Sun Mar/21]
+  20.00  UE Engordany             1-4  Inter Club d'Escaldes
+  14.00  CE Principat             5-5  FC Encamp
+
+
+Matchday 6
+[Sun Mar/28]
+  14.00  UE Engordany             1-2  FC Encamp
+  18.00  Inter Club d'Escaldes    2-3  CE Principat
+
+
+== Playoff
+
+Matchday 1
+[Sun Feb/21]
+  16.00  FC Lusitanos             1-2  UE Santa Coloma
+  12.00  FC Santa Coloma          1-1  UE Sant Julià
+
+
+Matchday 2
+[Sun Feb/28]
+  16.00  FC Santa Coloma          4-1  FC Lusitanos
+  12.00  UE Sant Julià            1-2  UE Santa Coloma
+
+
+Matchday 3
+[Sun Mar/7]
+  12.00  UE Santa Coloma          1-2  FC Santa Coloma
+  18.00  UE Sant Julià            4-0  FC Lusitanos
+
+
+Matchday 4
+[Sun Mar/14]
+  12.00  UE Santa Coloma          2-0  FC Lusitanos
+  16.00  UE Sant Julià            0-0  FC Santa Coloma
+
+
+Matchday 5
+[Sun Mar/21]
+  12.00  FC Lusitanos             0-0  FC Santa Coloma
+         UE Santa Coloma          1-1  UE Sant Julià
+
+
+Matchday 6
+[Sun Mar/28]
+  12.00  FC Santa Coloma          1-1  UE Santa Coloma
+  16.00  FC Lusitanos             2-3  UE Sant Julià

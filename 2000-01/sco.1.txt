@@ -1,0 +1,374 @@
+= SCO 1 2000/01
+
+# Date       Sat Jul/29 2000 - Wed Apr/11 2001 (256d)
+# Teams      12
+# Matches    198
+
+
+
+Matchday 1
+[Sat Jul/29]
+  15.00  Dunfermline Athletic     0-0  Aberdeen FC
+         St. Mirren FC            0-1 (0-0)  Kilmarnock FC
+         Motherwell FC            0-2 (0-1)  Dundee FC
+         Rangers FC               2-1 (0-1)  St. Johnstone FC
+[Sun Jul/30]
+  15.00  Heart of Midlothian      0-0  Hibernian FC
+  18.05  Dundee United            1-2 (0-1)  Celtic FC
+
+
+Matchday 2
+[Sat Aug/5]
+  15.00  Aberdeen FC              2-1 (1-1)  St. Mirren FC
+         Celtic FC                1-0 (1-0)  Motherwell FC
+         Dundee FC                3-0 (1-0)  Dunfermline Athletic
+         Hibernian FC             3-0 (2-0)  Dundee United
+         Kilmarnock FC            2-4 (2-1)  Rangers FC
+[Sun Aug/6]
+  17.05  St. Johnstone FC         2-2 (1-0)  Heart of Midlothian
+
+
+Matchday 3
+[Sat Aug/12]
+  15.00  Dundee United            1-1 (0-1)  Motherwell FC
+         Dunfermline Athletic     1-1 (1-0)  St. Johnstone FC
+         Hibernian FC             5-1 (2-1)  Dundee FC
+[Sun Aug/13]
+  15.00  Aberdeen FC              1-1 (1-1)  Heart of Midlothian
+         Celtic FC                2-1 (0-1)  Kilmarnock FC
+  16.05  St. Mirren FC            1-3 (0-1)  Rangers FC
+
+
+Matchday 4
+[Wed Aug/16]
+  19.45  Kilmarnock FC            0-1 (0-1)  Hibernian FC
+         Motherwell FC            0-1 (0-0)  Dunfermline Athletic
+[Wed Sep/20]
+  19.30  Dundee FC                3-0 (0-0)  Dundee United
+  19.45  Heart of Midlothian      2-0 (0-0)  St. Mirren FC
+[Tue Oct/17]
+  19.45  St. Johnstone FC         0-2 (0-1)  Celtic FC
+[Wed Dec/13]
+  19.45  Rangers FC               3-1 (1-1)  Aberdeen FC
+
+
+Matchday 5
+[Sat Aug/19]
+  15.00  Aberdeen FC              0-2 (0-1)  Hibernian FC
+         Dundee United            1-2 (0-2)  St. Johnstone FC
+         Heart of Midlothian      2-4 (0-3)  Celtic FC
+         Kilmarnock FC            3-2 (1-1)  Motherwell FC
+         Rangers FC               4-1 (3-1)  Dunfermline Athletic
+         St. Mirren FC            2-1 (0-0)  Dundee FC
+
+
+Matchday 6
+[Sat Aug/26]
+  15.00  Dunfermline Athletic     1-0 (1-0)  Dundee United
+         Hibernian FC             2-0 (1-0)  St. Mirren FC
+         St. Johnstone FC         1-1 (1-1)  Kilmarnock FC
+[Sun Aug/27]
+  13.00  Celtic FC                6-2 (3-1)  Rangers FC
+  15.00  Dundee FC                1-1 (0-0)  Heart of Midlothian
+         Motherwell FC            1-1 (1-1)  Aberdeen FC
+
+
+Matchday 7
+[Sat Sep/9]
+  15.00  Aberdeen FC              1-1 (0-0)  St. Johnstone FC
+         Celtic FC                3-0 (2-0)  Hibernian FC
+         Dundee FC                1-1 (0-0)  Rangers FC
+         Heart of Midlothian      2-0 (1-0)  Dunfermline Athletic
+         Kilmarnock FC            1-0 (1-0)  Dundee United
+         St. Mirren FC            0-1 (0-0)  Motherwell FC
+
+
+Matchday 8
+[Sat Sep/16]
+  15.00  Dundee United            0-0  St. Mirren FC
+         Hibernian FC             2-0 (0-0)  Motherwell FC
+         Kilmarnock FC            1-0 (1-0)  Aberdeen FC
+         St. Johnstone FC         0-0  Dundee FC
+[Sun Sep/17]
+  15.00  Rangers FC               1-0 (0-0)  Heart of Midlothian
+[Mon Sep/18]
+  20.00  Dunfermline Athletic     1-2 (0-0)  Celtic FC
+
+
+Matchday 9
+[Sat Sep/23]
+  15.00  Celtic FC                1-0 (0-0)  Dundee FC
+         Dundee United            3-5 (0-3)  Aberdeen FC
+         Dunfermline Athletic     1-1 (0-1)  Hibernian FC
+         Motherwell FC            0-1 (0-1)  Rangers FC
+         St. Mirren FC            0-1 (0-1)  St. Johnstone FC
+[Sun Sep/24]
+  18.05  Heart of Midlothian      0-2 (0-1)  Kilmarnock FC
+
+
+Matchday 10
+[Sat Sep/30]
+  15.00  Dundee FC                0-0  Kilmarnock FC
+         St. Johnstone FC         0-3 (0-2)  Hibernian FC
+         St. Mirren FC            2-1 (2-0)  Dunfermline Athletic
+[Sun Oct/1]
+  15.00  Aberdeen FC              1-1 (1-0)  Celtic FC
+         Heart of Midlothian      3-0 (2-0)  Motherwell FC
+  18.05  Rangers FC               3-0 (2-0)  Dundee United
+
+
+Matchday 11
+[Sat Oct/14]
+  15.00  Aberdeen FC              0-2 (0-1)  Dundee FC
+         Celtic FC                2-0 (1-0)  St. Mirren FC
+         Dundee United            0-4 (0-3)  Heart of Midlothian
+         Hibernian FC             1-0 (1-0)  Rangers FC
+         Kilmarnock FC            2-1 (1-1)  Dunfermline Athletic
+         Motherwell FC            4-0 (2-0)  St. Johnstone FC
+
+
+Matchday 12
+[Sat Oct/21]
+  15.00  Aberdeen FC              0-0  Dunfermline Athletic
+         Celtic FC                2-1 (1-0)  Dundee United
+         Dundee FC                1-2 (1-2)  Motherwell FC
+         Kilmarnock FC            2-1 (0-1)  St. Mirren FC
+[Sun Oct/22]
+  14.35  St. Johnstone FC         2-1 (1-0)  Rangers FC
+  18.05  Hibernian FC             6-2 (2-1)  Heart of Midlothian
+
+
+Matchday 13
+[Sat Oct/28]
+  15.00  Dundee United            0-1 (0-0)  Hibernian FC
+         Dunfermline Athletic     1-0 (0-0)  Dundee FC
+         Heart of Midlothian      0-3 (0-0)  St. Johnstone FC
+         Rangers FC               0-3 (0-2)  Kilmarnock FC
+         St. Mirren FC            2-0 (1-0)  Aberdeen FC
+[Sun Oct/29]
+  18.05  Motherwell FC            3-3 (1-1)  Celtic FC
+
+
+Matchday 14
+[Sat Nov/4]
+  15.00  Heart of Midlothian      3-0 (1-0)  Aberdeen FC
+         Motherwell FC            2-1 (1-0)  Dundee United
+         Rangers FC               7-1 (4-1)  St. Mirren FC
+         St. Johnstone FC         0-2 (0-0)  Dunfermline Athletic
+[Sun Nov/5]
+  14.35  Kilmarnock FC            0-1 (0-0)  Celtic FC
+  18.05  Dundee FC                1-2 (1-1)  Hibernian FC
+
+
+Matchday 15
+[Sat Nov/11]
+  15.00  Dundee United            0-2 (0-1)  Dundee FC
+         Dunfermline Athletic     1-2 (1-0)  Motherwell FC
+         Hibernian FC             1-1 (1-0)  Kilmarnock FC
+         St. Mirren FC            1-2 (0-1)  Heart of Midlothian
+[Sun Nov/12]
+  15.00  Celtic FC                4-1 (3-0)  St. Johnstone FC
+  18.05  Aberdeen FC              1-2 (1-1)  Rangers FC
+
+
+Matchday 16
+[Sat Nov/18]
+  15.00  Celtic FC                6-1 (4-1)  Heart of Midlothian
+         Dundee FC                5-0 (1-0)  St. Mirren FC
+         Dunfermline Athletic     0-0  Rangers FC
+         Hibernian FC             0-2 (0-0)  Aberdeen FC
+         Motherwell FC            1-2 (1-1)  Kilmarnock FC
+         St. Johnstone FC         1-0 (0-0)  Dundee United
+
+
+Matchday 17
+[Sat Nov/25]
+  15.00  Aberdeen FC              3-3 (1-2)  Motherwell FC
+         Dundee United            3-2 (2-0)  Dunfermline Athletic
+         Heart of Midlothian      3-1 (0-1)  Dundee FC
+         Kilmarnock FC            0-2 (0-0)  St. Johnstone FC
+         St. Mirren FC            1-1 (0-1)  Hibernian FC
+[Sun Nov/26]
+  13.00  Rangers FC               5-1 (1-0)  Celtic FC
+
+
+Matchday 18
+[Tue Nov/28]
+  19.45  Dundee United            0-1 (0-0)  Kilmarnock FC
+         St. Johnstone FC         0-0  Aberdeen FC
+[Wed Nov/29]
+  19.45  Dunfermline Athletic     1-0 (1-0)  Heart of Midlothian
+         Hibernian FC             0-0  Celtic FC
+         Motherwell FC            2-0 (0-0)  St. Mirren FC
+[Wed Mar/14]
+  19.45  Rangers FC               0-2 (0-1)  Dundee FC
+
+
+Matchday 19
+[Sat Dec/2]
+  15.00  Aberdeen FC              1-2 (1-2)  Kilmarnock FC
+         Celtic FC                3-1 (2-1)  Dunfermline Athletic
+         Dundee FC                1-1 (1-0)  St. Johnstone FC
+[Sun Dec/3]
+  14.35  Heart of Midlothian      0-1 (0-1)  Rangers FC
+  18.05  Motherwell FC            1-3 (0-1)  Hibernian FC
+[Tue Dec/5]
+  18.45  St. Mirren FC            1-1 (0-1)  Dundee United
+
+
+Matchday 20
+[Sat Dec/9]
+  15.00  Hibernian FC             3-0 (1-0)  Dunfermline Athletic
+         Kilmarnock FC            0-3 (0-1)  Heart of Midlothian
+         St. Johnstone FC         2-0 (1-0)  St. Mirren FC
+[Sun Dec/10]
+  15.00  Rangers FC               2-0 (1-0)  Motherwell FC
+  18.05  Dundee FC                1-2 (0-1)  Celtic FC
+[Wed Apr/4]
+  19.45  Aberdeen FC              4-1 (3-1)  Dundee United
+
+
+Matchday 21
+[Sat Dec/16]
+  15.00  Celtic FC                6-0 (2-0)  Aberdeen FC
+         Dunfermline Athletic     2-0 (1-0)  St. Mirren FC
+         Hibernian FC             2-0 (1-0)  St. Johnstone FC
+         Kilmarnock FC            2-3 (1-0)  Dundee FC
+         Motherwell FC            2-0 (0-0)  Heart of Midlothian
+[Sun Dec/17]
+  18.05  Dundee United            1-1 (1-1)  Rangers FC
+
+
+Matchday 22
+[Sat Dec/23]
+  15.00  Dundee FC                2-2 (0-1)  Aberdeen FC
+         Dunfermline Athletic     1-0 (1-0)  Kilmarnock FC
+         Heart of Midlothian      3-1 (2-1)  Dundee United
+         Rangers FC               1-0 (0-0)  Hibernian FC
+         St. Johnstone FC         2-3 (0-3)  Motherwell FC
+         St. Mirren FC            0-2 (0-1)  Celtic FC
+
+
+Matchday 23
+[Tue Dec/26]
+  15.00  Dundee United            0-4 (0-3)  Celtic FC
+         Dunfermline Athletic     3-2 (1-2)  Aberdeen FC
+         Motherwell FC            0-3 (0-2)  Dundee FC
+         Rangers FC               3-0 (1-0)  St. Johnstone FC
+         St. Mirren FC            1-3 (1-0)  Kilmarnock FC
+  16.00  Heart of Midlothian      1-1 (0-1)  Hibernian FC
+
+
+Matchday 24
+[Sat Dec/30]
+  15.00  Hibernian FC             1-0 (0-0)  Dundee United
+         St. Johnstone FC         2-2 (2-1)  Heart of Midlothian
+[Wed Feb/21]
+  19.30  Dundee FC                0-1 (0-1)  Dunfermline Athletic
+  19.45  Aberdeen FC              3-0 (1-0)  St. Mirren FC
+         Celtic FC                1-0 (0-0)  Motherwell FC
+[Wed Apr/11]
+  19.45  Kilmarnock FC            1-2 (0-2)  Rangers FC
+
+
+Matchday 25
+[Tue Jan/2]
+  15.00  Aberdeen FC              1-0 (1-0)  Heart of Midlothian
+         Celtic FC                6-0 (1-0)  Kilmarnock FC
+         Dundee United            2-0 (0-0)  Motherwell FC
+         Dunfermline Athletic     0-0  St. Johnstone FC
+         Hibernian FC             3-0 (2-0)  Dundee FC
+  20.00  St. Mirren FC            1-3 (1-2)  Rangers FC
+
+
+Matchday 26
+[Tue Jan/30]
+  20.00  Kilmarnock FC            1-1 (0-0)  Hibernian FC
+[Wed Jan/31]
+  19.30  Dundee FC                2-3 (1-1)  Dundee United
+  19.45  Heart of Midlothian      1-0 (0-0)  St. Mirren FC
+         Motherwell FC            1-1 (0-0)  Dunfermline Athletic
+         Rangers FC               1-0 (1-0)  Aberdeen FC
+[Wed Mar/14]
+  20.00  St. Johnstone FC         1-2 (1-1)  Celtic FC
+
+
+Matchday 27
+[Sat Feb/3]
+  12.55  Rangers FC               2-0 (1-0)  Dunfermline Athletic
+  15.00  Dundee United            1-1 (1-0)  St. Johnstone FC
+         Kilmarnock FC            1-2 (0-1)  Motherwell FC
+         St. Mirren FC            2-1 (1-1)  Dundee FC
+[Sun Feb/4]
+  18.05  Heart of Midlothian      0-3 (0-1)  Celtic FC
+[Tue Mar/13]
+  19.45  Aberdeen FC              1-0 (1-0)  Hibernian FC
+
+
+Matchday 28
+[Sat Feb/10]
+  15.00  Dunfermline Athletic     3-1 (0-0)  Dundee United
+         Hibernian FC             4-2 (1-1)  St. Mirren FC
+         Motherwell FC            0-1 (0-0)  Aberdeen FC
+[Sun Feb/11]
+  13.15  Celtic FC                1-0 (1-0)  Rangers FC
+  18.05  St. Johnstone FC         1-2 (0-0)  Kilmarnock FC
+[Sun Mar/18]
+  14.00  Dundee FC                0-0  Heart of Midlothian
+
+
+Matchday 29
+[Sat Feb/24]
+  12.55  Dundee FC                0-1 (0-0)  Rangers FC
+  15.00  Heart of Midlothian      7-1 (4-0)  Dunfermline Athletic
+         Kilmarnock FC            0-0  Dundee United
+         St. Mirren FC            0-1 (0-0)  Motherwell FC
+[Sun Feb/25]
+  18.05  Celtic FC                1-1 (1-0)  Hibernian FC
+[Tue Mar/27]
+  19.45  Aberdeen FC              3-3 (2-1)  St. Johnstone FC
+
+
+Matchday 30
+[Sat Mar/3]
+  15.00  Dundee United            4-0 (2-0)  St. Mirren FC
+         Kilmarnock FC            0-0  Aberdeen FC
+         Rangers FC               2-0 (1-0)  Heart of Midlothian
+         St. Johnstone FC         2-3 (1-0)  Dundee FC
+[Sun Mar/4]
+  14.35  Dunfermline Athletic     0-3 (0-2)  Celtic FC
+  18.05  Hibernian FC             1-1 (0-0)  Motherwell FC
+
+
+Matchday 31
+[Wed Mar/14]
+  19.45  Heart of Midlothian      3-0 (0-0)  Kilmarnock FC
+[Sat Mar/17]
+  15.00  Dundee United            1-1 (1-1)  Aberdeen FC
+         Dunfermline Athletic     2-1 (1-0)  Hibernian FC
+         Motherwell FC            1-2 (1-0)  Rangers FC
+         St. Mirren FC            1-0 (1-0)  St. Johnstone FC
+[Wed Apr/4]
+  19.45  Celtic FC                2-1 (1-0)  Dundee FC
+
+
+Matchday 32
+[Sat Mar/31]
+  15.00  Dundee FC                2-2 (1-1)  Kilmarnock FC
+         Heart of Midlothian      3-0 (1-0)  Motherwell FC
+         Rangers FC               0-2 (0-0)  Dundee United
+         St. Mirren FC            1-1 (0-1)  Dunfermline Athletic
+[Sun Apr/1]
+  14.35  St. Johnstone FC         2-0 (0-0)  Hibernian FC
+  18.05  Aberdeen FC              0-1 (0-0)  Celtic FC
+
+
+Matchday 33
+[Sat Apr/7]
+  12.55  Celtic FC                1-0 (1-0)  St. Mirren FC
+  15.00  Aberdeen FC              0-2 (0-0)  Dundee FC
+         Dundee United            1-1 (1-0)  Heart of Midlothian
+         Kilmarnock FC            2-1 (1-0)  Dunfermline Athletic
+         Motherwell FC            1-0 (1-0)  St. Johnstone FC
+[Sun Apr/8]
+  18.05  Hibernian FC             0-0  Rangers FC

@@ -1,0 +1,363 @@
+= AL 1 2019/20
+
+# Date       Fri Aug/23 2019 - Wed Jul/29 2020 (341d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Aug/23]
+  19.00  FK Kukësi                1-0 (1-0)  FK Partizani
+[Sat Aug/24]
+  16.00  FK Vllaznia              1-0 (1-0)  KF Laçi
+  19.00  KF Tiranë                3-0 (3-0)  Luftëtari Gjirokastër
+         KF Teuta Durrës          1-0 (1-0)  KF Bylis Ballsh
+         KF Skënderbeu            1-0 (0-0)  Flamurtari Vlorë
+
+
+Matchday 2
+[Tue Aug/27]
+  19.00  KF Tiranë                0-0  KF Teuta Durrës
+[Wed Aug/28]
+  16.00  KF Laçi                  1-2 (1-0)  KF Skënderbeu
+         KF Bylis Ballsh          0-0  FK Vllaznia
+         Luftëtari Gjirokastër    0-1 (0-1)  FK Partizani
+  19.00  Flamurtari Vlorë         0-3 (0-1)  FK Kukësi
+
+
+Matchday 3
+[Sat Aug/31]
+  19.00  KF Teuta Durrës          3-1 (2-0)  Luftëtari Gjirokastër
+         FK Vllaznia              0-2 (0-0)  KF Tiranë
+[Sun Sep/1]
+  16.00  FK Kukësi                1-1 (0-0)  KF Laçi
+  19.00  KF Skënderbeu            0-3 (0-2)  KF Bylis Ballsh
+         FK Partizani             1-0 (1-0)  Flamurtari Vlorë
+
+
+Matchday 4
+[Sat Sep/14]
+  16.00  KF Tiranë                3-1 (1-0)  KF Skënderbeu
+         KF Teuta Durrës          0-0  FK Vllaznia
+         Luftëtari Gjirokastër    2-1 (0-0)  Flamurtari Vlorë
+[Sun Sep/15]
+  16.00  KF Laçi                  1-0 (0-0)  FK Partizani
+         KF Bylis Ballsh          2-1 (1-1)  FK Kukësi
+
+
+Matchday 5
+[Sat Sep/21]
+  16.00  KF Skënderbeu            1-0 (1-0)  KF Teuta Durrës
+         FK Partizani             1-1 (0-0)  KF Bylis Ballsh
+  19.00  FK Kukësi                2-1 (1-0)  KF Tiranë
+[Sun Sep/22]
+  16.00  FK Vllaznia              0-0  Luftëtari Gjirokastër
+         Flamurtari Vlorë         3-3 (2-1)  KF Laçi
+
+
+Matchday 6
+[Sat Sep/28]
+  16.00  KF Teuta Durrës          1-0 (0-0)  FK Kukësi
+         FK Vllaznia              4-0 (1-0)  KF Skënderbeu
+         KF Bylis Ballsh          5-0 (3-0)  Flamurtari Vlorë
+         Luftëtari Gjirokastër    1-1 (1-0)  KF Laçi
+[Sun Sep/29]
+  19.00  KF Tiranë                1-2 (0-2)  FK Partizani
+
+
+Matchday 7
+[Sat Oct/5]
+  17.00  KF Skënderbeu            2-0 (0-0)  Luftëtari Gjirokastër
+         FK Partizani             1-1 (1-1)  KF Teuta Durrës
+         Flamurtari Vlorë         2-2 (1-2)  KF Tiranë
+[Sun Oct/6]
+  14.00  KF Laçi                  0-0  KF Bylis Ballsh
+  17.00  FK Kukësi                1-2 (0-1)  FK Vllaznia
+
+
+Matchday 8
+[Fri Oct/18]
+  18.00  KF Teuta Durrës          1-0 (0-0)  Flamurtari Vlorë
+[Sat Oct/19]
+  14.00  Luftëtari Gjirokastër    1-1 (0-0)  KF Bylis Ballsh
+  17.00  KF Tiranë                2-1 (2-1)  KF Laçi
+         FK Vllaznia              1-3 (1-1)  FK Partizani
+         KF Skënderbeu            0-0  FK Kukësi
+
+
+Matchday 9
+[Wed Oct/23]
+  13.00  FK Kukësi                4-1 (2-0)  Luftëtari Gjirokastër
+         KF Laçi                  3-0 (2-0)  KF Teuta Durrës
+         KF Bylis Ballsh          3-1 (2-0)  KF Tiranë
+  16.00  Flamurtari Vlorë         1-3 (1-1)  FK Vllaznia
+[Thu Oct/24]
+  15.00  FK Partizani             3-1 (2-1)  KF Skënderbeu
+
+
+Matchday 10
+[Sun Oct/27]
+  13.00  Luftëtari Gjirokastër    0-3 (0-2)  KF Tiranë
+         KF Bylis Ballsh          0-0  KF Teuta Durrës
+         KF Laçi                  3-0 (1-0)  FK Vllaznia
+[Mon Oct/28]
+  18.00  Flamurtari Vlorë         1-1 (1-1)  KF Skënderbeu
+         FK Partizani             0-0  FK Kukësi
+
+
+Matchday 11
+[Sat Nov/2]
+  17.00  KF Teuta Durrës          1-1 (0-1)  KF Tiranë
+         KF Skënderbeu            1-4 (1-1)  KF Laçi
+[Sun Nov/3]
+  14.00  FK Kukësi                1-0 (0-0)  Flamurtari Vlorë
+  17.00  FK Partizani             2-0 (0-0)  Luftëtari Gjirokastër
+[Mon Nov/4]
+  18.00  FK Vllaznia              0-1 (0-1)  KF Bylis Ballsh
+
+
+Matchday 12
+[Fri Nov/8]
+  18.00  KF Tiranë                0-0  FK Vllaznia
+[Sat Nov/9]
+  13.30  Luftëtari Gjirokastër    0-0  KF Teuta Durrës
+         KF Bylis Ballsh          2-3 (0-1)  KF Skënderbeu
+[Sun Nov/10]
+  13.30  KF Laçi                  1-0 (0-0)  FK Kukësi
+  16.30  Flamurtari Vlorë         1-1 (0-0)  FK Partizani
+
+
+Matchday 13
+[Sat Nov/23]
+  13.30  FK Kukësi                2-1 (1-1)  KF Bylis Ballsh
+         Flamurtari Vlorë         1-1 (0-0)  Luftëtari Gjirokastër
+  16.30  KF Skënderbeu            2-1 (1-0)  KF Tiranë
+[Sun Nov/24]
+  16.30  FK Vllaznia              0-0  KF Teuta Durrës
+[Mon Nov/25]
+  18.00  FK Partizani             1-0 (1-0)  KF Laçi
+
+
+Matchday 14
+[Sat Dec/7]
+  13.30  Luftëtari Gjirokastër    0-2 (0-0)  FK Vllaznia
+         KF Bylis Ballsh          2-1 (1-1)  FK Partizani
+  16.30  KF Tiranë                1-3 (1-0)  FK Kukësi
+[Sun Dec/8]
+  13.30  KF Laçi                  3-0 (0-0)  Flamurtari Vlorë
+  16.30  KF Teuta Durrës          1-0 (0-0)  KF Skënderbeu
+
+
+Matchday 15
+[Fri Dec/13]
+  19.00  FK Partizani             1-2 (1-1)  KF Tiranë
+[Sat Dec/14]
+  13.00  Flamurtari Vlorë         2-2 (1-1)  KF Bylis Ballsh
+         KF Laçi                  4-0 (2-0)  Luftëtari Gjirokastër
+  16.00  FK Kukësi                4-0 (1-0)  KF Teuta Durrës
+         KF Skënderbeu            0-1 (0-0)  FK Vllaznia
+
+
+Matchday 16
+[Wed Dec/18]
+  13.00  Luftëtari Gjirokastër    2-0 (1-0)  KF Skënderbeu
+         FK Vllaznia              1-2 (0-1)  FK Kukësi
+         KF Teuta Durrës          1-0 (1-0)  FK Partizani
+         KF Bylis Ballsh          1-0 (0-0)  KF Laçi
+  16.00  KF Tiranë                2-0 (0-0)  Flamurtari Vlorë
+
+
+Matchday 17
+[Sun Dec/22]
+  13.00  KF Laçi                  1-2 (1-1)  KF Tiranë
+         KF Bylis Ballsh          1-0 (1-0)  Luftëtari Gjirokastër
+  16.00  FK Partizani             1-0 (0-0)  FK Vllaznia
+         FK Kukësi                1-1 (0-1)  KF Skënderbeu
+[Mon Dec/23]
+  12.00  Flamurtari Vlorë         1-3 (0-1)  KF Teuta Durrës
+
+
+Matchday 18
+[Tue Jan/21]
+  14.00  FK Vllaznia              2-0 (1-0)  Flamurtari Vlorë
+  17.00  KF Skënderbeu            3-2 (2-1)  FK Partizani
+         KF Teuta Durrës          0-1 (0-0)  KF Laçi
+[Wed Jan/22]
+  14.00  Luftëtari Gjirokastër    0-0  FK Kukësi
+  17.00  KF Tiranë                2-1 (1-0)  KF Bylis Ballsh
+
+
+Matchday 19
+[Sat Jan/25]
+  14.00  KF Skënderbeu            1-0 (0-0)  Flamurtari Vlorë
+  17.00  FK Vllaznia              0-0  KF Laçi
+[Sun Jan/26]
+  16.00  KF Tiranë                5-1 (3-0)  Luftëtari Gjirokastër
+         KF Teuta Durrës          1-0 (1-0)  KF Bylis Ballsh
+  19.00  FK Kukësi                1-0 (0-0)  FK Partizani
+
+
+Matchday 20
+[Sun Feb/2]
+  14.00  Luftëtari Gjirokastër    0-3 (0-2)  FK Partizani
+  17.00  KF Tiranë                2-1 (2-1)  KF Teuta Durrës
+         Flamurtari Vlorë         1-4 (0-2)  FK Kukësi
+[Mon Feb/3]
+  14.00  KF Laçi                  1-0 (0-0)  KF Skënderbeu
+         KF Bylis Ballsh          2-2 (2-2)  FK Vllaznia
+
+
+Matchday 21
+[Fri Feb/7]
+  18.00  FK Vllaznia              0-1 (0-0)  KF Tiranë
+[Sat Feb/8]
+  14.00  KF Skënderbeu            1-1 (0-0)  KF Bylis Ballsh
+         FK Kukësi                3-1 (1-1)  KF Laçi
+  17.00  KF Teuta Durrës          1-1 (1-0)  Luftëtari Gjirokastër
+         FK Partizani             2-0 (0-0)  Flamurtari Vlorë
+
+
+Matchday 22
+[Sat Feb/15]
+  17.00  KF Tiranë                1-1 (0-1)  KF Skënderbeu
+[Sun Feb/16]
+  14.00  KF Laçi                  1-3 (1-2)  FK Partizani
+         KF Bylis Ballsh          1-1 (0-1)  FK Kukësi
+         Luftëtari Gjirokastër    0-1 (0-1)  Flamurtari Vlorë
+  17.00  KF Teuta Durrës          3-1 (2-1)  FK Vllaznia
+
+
+Matchday 23
+[Fri Feb/21]
+  18.00  FK Kukësi                1-2 (0-0)  KF Tiranë
+[Sat Feb/22]
+  14.00  FK Vllaznia              4-0 (1-0)  Luftëtari Gjirokastër
+         Flamurtari Vlorë         1-3 (0-2)  KF Laçi
+  17.00  KF Skënderbeu            3-2 (2-1)  KF Teuta Durrës
+         FK Partizani             2-2 (2-1)  KF Bylis Ballsh
+
+
+Matchday 24
+[Fri Feb/28]
+  19.00  KF Tiranë                5-1 (2-1)  FK Partizani
+[Sat Feb/29]
+  14.00  FK Vllaznia              0-1 (0-0)  KF Skënderbeu
+         KF Bylis Ballsh          0-0  Flamurtari Vlorë
+         Luftëtari Gjirokastër    0-2 (0-0)  KF Laçi
+  17.00  KF Teuta Durrës          2-2 (1-1)  FK Kukësi
+
+
+Matchday 25
+[Wed Mar/4]
+  14.00  KF Laçi                  2-1 (0-0)  KF Bylis Ballsh
+  17.00  KF Skënderbeu            2-0 (1-0)  Luftëtari Gjirokastër
+         FK Kukësi                0-0  FK Vllaznia
+         FK Partizani             0-1 (0-0)  KF Teuta Durrës
+         Flamurtari Vlorë         0-2 (0-1)  KF Tiranë
+
+
+Matchday 26
+[Sun Mar/8]
+  14.00  Luftëtari Gjirokastër    1-1 (1-1)  KF Bylis Ballsh
+  17.00  KF Tiranë                1-0 (0-0)  KF Laçi
+         KF Teuta Durrës          1-1 (0-1)  Flamurtari Vlorë
+[Mon Mar/9]
+  18.00  FK Vllaznia              1-0 (1-0)  FK Partizani
+         KF Skënderbeu            2-1 (2-1)  FK Kukësi
+
+
+Matchday 27
+[Wed Jun/3]
+  17.00  FK Kukësi                2-1 (1-0)  Luftëtari Gjirokastër
+         Flamurtari Vlorë         1-3 (0-0)  FK Vllaznia
+         KF Laçi                  1-1 (1-1)  KF Teuta Durrës
+         KF Bylis Ballsh          1-3 (0-2)  KF Tiranë
+  20.00  FK Partizani             1-2 (0-2)  KF Skënderbeu
+
+
+Matchday 28
+[Sun Jun/7]
+  17.00  Luftëtari Gjirokastër    0-5 (0-3)  KF Tiranë
+         KF Bylis Ballsh          1-0 (0-0)  KF Teuta Durrës
+         KF Laçi                  5-2 (2-0)  FK Vllaznia
+         Flamurtari Vlorë         0-1 (0-0)  KF Skënderbeu
+  20.00  FK Partizani             1-3 (0-1)  FK Kukësi
+
+
+Matchday 29
+[Sun Jun/14]
+  17.00  FK Partizani             8-1 (4-1)  Luftëtari Gjirokastër
+[Mon Jun/15]
+  17.00  FK Kukësi                4-1 (3-0)  Flamurtari Vlorë
+         FK Vllaznia              2-2 (1-1)  KF Bylis Ballsh
+  18.00  KF Skënderbeu            1-1 (0-1)  KF Laçi
+  20.00  KF Teuta Durrës          1-0 (1-0)  KF Tiranë
+
+
+Matchday 30
+[Fri Jun/19]
+  17.00  KF Tiranë                3-0 (2-0)  FK Vllaznia
+         Flamurtari Vlorë         1-2 (1-1)  FK Partizani
+[Sat Jun/20]
+  17.00  Luftëtari Gjirokastër    1-5 (0-0)  KF Teuta Durrës
+         KF Bylis Ballsh          1-0 (0-0)  KF Skënderbeu
+         KF Laçi                  2-0 (1-0)  FK Kukësi
+
+
+Matchday 31
+[Sat Jun/27]
+  17.00  FK Partizani             1-0 (1-0)  KF Laçi
+         Flamurtari Vlorë         6-1 (2-0)  Luftëtari Gjirokastër
+[Sun Jun/28]
+  17.00  FK Vllaznia              0-3 (0-1)  KF Teuta Durrës
+         FK Kukësi                1-0 (1-0)  KF Bylis Ballsh
+  20.00  KF Skënderbeu            1-2 (1-0)  KF Tiranë
+
+
+Matchday 32
+[Sun Jul/5]
+  17.45  Luftëtari Gjirokastër    0-1 (0-1)  FK Vllaznia
+         KF Laçi                  2-1 (0-0)  Flamurtari Vlorë
+[Mon Jul/6]
+  17.45  KF Tiranë                1-2 (0-0)  FK Kukësi
+         KF Bylis Ballsh          1-1 (1-0)  FK Partizani
+  20.45  KF Teuta Durrës          1-0 (0-0)  KF Skënderbeu
+
+
+Matchday 33
+[Fri Jul/10]
+  17.45  Flamurtari Vlorë         2-3 (1-1)  KF Bylis Ballsh
+  20.45  FK Partizani             1-1 (0-0)  KF Tiranë
+[Sat Jul/11]
+  17.45  KF Laçi                  3-1 (2-0)  Luftëtari Gjirokastër
+  20.45  FK Kukësi                3-0 (3-0)  KF Teuta Durrës
+         KF Skënderbeu            2-1 (1-0)  FK Vllaznia
+
+
+Matchday 34
+[Sat Jul/18]
+  17.45  Luftëtari Gjirokastër    0-1 (0-0)  KF Skënderbeu
+         KF Tiranë                2-0 (1-0)  Flamurtari Vlorë
+[Sun Jul/19]
+  17.45  KF Bylis Ballsh          0-3 (0-2)  KF Laçi
+  20.45  FK Vllaznia              1-0 (0-0)  FK Kukësi
+         KF Teuta Durrës          0-0  FK Partizani
+
+
+Matchday 35
+[Fri Jul/24]
+  17.45  KF Laçi                  3-1 (2-0)  KF Tiranë
+         Flamurtari Vlorë         2-3 (2-2)  KF Teuta Durrës
+         FK Partizani             3-0 (2-0)  FK Vllaznia
+         KF Bylis Ballsh          2-0 (2-0)  Luftëtari Gjirokastër
+  20.45  FK Kukësi                0-0  KF Skënderbeu
+
+
+Matchday 36
+[Wed Jul/29]
+  17.45  Luftëtari Gjirokastër    2-5 (0-2)  FK Kukësi
+         FK Vllaznia              1-1 (0-0)  Flamurtari Vlorë
+  19.00  KF Tiranë                1-1 (1-0)  KF Bylis Ballsh
+  20.45  KF Skënderbeu            4-1 (2-0)  FK Partizani
+         KF Teuta Durrës          2-3 (1-2)  KF Laçi

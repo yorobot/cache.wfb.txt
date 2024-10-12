@@ -1,0 +1,563 @@
+= SV 1 2017/18
+
+# Date       Sat Jul/29 2017 - Sun May/20 2018 (295d)
+# Teams      12
+# Matches    291
+# Stages     Apertura (132)  Apertura Playoffs (13)  Clausura (132)  Clausura Playoffs (13)  Relegation (1)
+
+
+== Apertura
+
+Matchday 1
+[Sat Jul/29]
+  17.00  Santa Tecla FC           2-2 (1-1)  FAS
+  18.00  CD Águila                1-1 (1-0)  Sonsonate FC
+  19.00  Isidro Metapán           3-0 (2-0)  Pasaquina FC
+[Sun Jul/30]
+  15.00  Municipal Limeño         0-0  AD Chalatenango
+         Audaz                    0-0  Luis Ángel Firpo
+  15.15  Alianza                  1-0 (1-0)  Dragón
+
+
+Matchday 2
+[Sat Aug/5]
+  15.00  Pasaquina FC             2-1 (2-0)  Audaz
+         Dragón                   0-2 (1-2)  Santa Tecla FC
+  18.30  Sonsonate FC             0-0  Alianza
+         AD Chalatenango          3-2 (1-1)  CD Águila
+[Sun Aug/6]
+  15.00  Luis Ángel Firpo         0-2 (0-1)  Municipal Limeño
+  15.30  FAS                      2-0 (2-0)  Isidro Metapán
+
+
+Matchday 3
+[Sat Aug/12]
+  18.30  Sonsonate FC             0-0  AD Chalatenango
+  19.00  Isidro Metapán           1-1 (1-0)  Dragón
+[Sun Aug/13]
+  15.00  CD Águila                1-1 (0-0)  Luis Ángel Firpo
+         Municipal Limeño         2-0 (0-0)  Pasaquina FC
+         Audaz                    1-0 (1-0)  FAS
+  15.15  Alianza                  1-1 (0-0)  Santa Tecla FC
+
+
+Matchday 4
+[Wed Aug/30]
+  15.00  Dragón                   1-2 (0-1)  Audaz
+  15.30  Pasaquina FC             2-2 (1-0)  CD Águila
+  19.00  Luis Ángel Firpo         1-1 (0-1)  Sonsonate FC
+         Santa Tecla FC           2-0 (1-0)  Isidro Metapán
+[Thu Aug/31]
+  19.00  FAS                      3-0 (0-0)  Municipal Limeño
+[Wed Sep/6]
+  17.00  AD Chalatenango          0-2 (0-2)  Alianza
+
+
+Matchday 5
+[Sat Aug/19]
+  15.30  CD Águila                1-1 (1-0)  FAS
+  18.30  AD Chalatenango          2-1 (1-1)  Luis Ángel Firpo
+         Sonsonate FC             0-1 (0-0)  Pasaquina FC
+[Sun Aug/20]
+  15.00  Municipal Limeño         3-0 (1-0)  Dragón
+         Audaz                    2-1 (1-0)  Santa Tecla FC
+  15.15  Alianza                  5-3 (4-2)  Isidro Metapán
+
+
+Matchday 6
+[Sat Aug/26]
+  15.00  Municipal Limeño         0-0  Santa Tecla FC
+  19.00  Isidro Metapán           2-0 (2-0)  Audaz
+[Sun Aug/27]
+  15.00  Pasaquina FC             2-1 (1-0)  AD Chalatenango
+         Dragón                   4-3 (1-1)  CD Águila
+  15.30  Luis Ángel Firpo         2-5 (2-3)  Alianza
+         FAS                      0-0  Sonsonate FC
+
+
+Matchday 7
+[Sat Sep/2]
+  18.30  Sonsonate FC             2-0 (1-0)  Dragón
+  19.00  Luis Ángel Firpo         0-0  Pasaquina FC
+[Sun Sep/3]
+  15.00  CD Águila                1-0 (1-0)  Santa Tecla FC
+  15.15  Alianza                  4-1 (3-0)  Audaz
+  15.30  AD Chalatenango          0-1 (0-0)  FAS
+[Wed Sep/6]
+  15.00  Municipal Limeño         1-3 (1-1)  Isidro Metapán
+
+
+Matchday 8
+[Sat Sep/9]
+  15.00  Pasaquina FC             2-2 (1-1)  Alianza
+  15.15  Dragón                   2-0 (2-0)  AD Chalatenango
+  17.00  Santa Tecla FC           2-1 (1-1)  Sonsonate FC
+  19.00  Isidro Metapán           1-0 (1-0)  CD Águila
+[Sun Sep/10]
+  15.00  Audaz                    0-2 (0-1)  Municipal Limeño
+  15.30  FAS                      2-3 (1-1)  Luis Ángel Firpo
+
+
+Matchday 9
+[Wed Sep/13]
+  15.00  Pasaquina FC             0-1 (0-1)  FAS
+  15.30  CD Águila                1-0 (1-0)  Audaz
+  18.30  AD Chalatenango          0-0  Santa Tecla FC
+  19.00  Luis Ángel Firpo         3-0 (0-0)  Dragón
+[Thu Sep/14]
+  18.30  Sonsonate FC             1-2 (0-0)  Isidro Metapán
+  19.30  Alianza                  4-0 (2-0)  Municipal Limeño
+
+
+Matchday 10
+[Sat Sep/16]
+  15.15  Dragón                   2-1 (1-1)  Pasaquina FC
+  17.00  Santa Tecla FC           5-0 (1-0)  Luis Ángel Firpo
+[Sun Sep/17]
+  15.00  Audaz                    3-2 (2-0)  Sonsonate FC
+         Municipal Limeño         1-3 (1-0)  CD Águila
+  15.15  Alianza                  1-1 (1-0)  FAS
+  17.00  Isidro Metapán           1-0 (1-0)  AD Chalatenango
+
+
+Matchday 11
+[Sat Sep/23]
+  15.00  Pasaquina FC             3-3 (1-2)  Santa Tecla FC
+  18.30  AD Chalatenango          0-0  Audaz
+         Sonsonate FC             2-0 (1-0)  Municipal Limeño
+[Sun Sep/24]
+  15.00  FAS                      1-1 (0-0)  Dragón
+         Luis Ángel Firpo         2-2 (1-1)  Isidro Metapán
+         CD Águila                1-3 (0-1)  Alianza
+
+
+Matchday 12
+[Wed Oct/11]
+  15.00  Pasaquina FC             2-0 (1-0)  Isidro Metapán
+  18.30  Sonsonate FC             0-0  CD Águila
+         AD Chalatenango          0-1 (0-0)  Municipal Limeño
+  19.00  Luis Ángel Firpo         1-1 (1-1)  Audaz
+         Dragón                   0-2 (0-1)  Alianza
+[Thu Oct/12]
+  19.30  FAS                      1-2 (0-1)  Santa Tecla FC
+
+
+Matchday 13
+[Sat Oct/7]
+  18.00  Santa Tecla FC           2-2 (2-1)  Dragón
+  19.00  Isidro Metapán           1-1 (0-0)  FAS
+[Sun Oct/8]
+  15.00  CD Águila                4-3 (0-0)  AD Chalatenango
+         Municipal Limeño         1-1 (1-1)  Luis Ángel Firpo
+         Audaz                    2-2 (2-1)  Pasaquina FC
+  15.15  Alianza                  2-1 (1-1)  Sonsonate FC
+
+
+Matchday 14
+[Sat Oct/14]
+  18.30  AD Chalatenango          1-1 (1-0)  Sonsonate FC
+[Sun Oct/15]
+  15.00  Luis Ángel Firpo         1-1 (0-0)  CD Águila
+         Pasaquina FC             1-1 (0-0)  Municipal Limeño
+         FAS                      2-1 (1-1)  Audaz
+  15.05  Dragón                   0-0  Isidro Metapán
+  15.30  Santa Tecla FC           1-1 (0-0)  Alianza
+
+
+Matchday 15
+[Wed Oct/18]
+  15.00  CD Águila                2-2 (1-1)  Pasaquina FC
+         Municipal Limeño         0-3 (0-1)  FAS
+  16.00  Audaz                    1-0 (1-0)  Dragón
+  19.00  Sonsonate FC             4-4 (0-1)  Luis Ángel Firpo
+         Isidro Metapán           1-0 (1-0)  Santa Tecla FC
+  19.30  Alianza                  0-0  AD Chalatenango
+
+
+Matchday 16
+[Sat Oct/21]
+  15.00  Pasaquina FC             4-3 (2-2)  Sonsonate FC
+  15.05  Dragón                   1-1 (1-0)  Municipal Limeño
+  19.00  Luis Ángel Firpo         0-2  AD Chalatenango          [awarded]
+[Sun Oct/22]
+  15.00  FAS                      1-1 (0-0)  CD Águila
+  16.00  Santa Tecla FC           3-2 (2-0)  Audaz
+  17.00  Isidro Metapán           1-2 (0-1)  Alianza
+
+
+Matchday 17
+[Sat Oct/28]
+  18.30  Sonsonate FC             1-2 (1-0)  FAS
+[Sun Oct/29]
+  15.00  AD Chalatenango          0-0  Pasaquina FC
+         CD Águila                1-0 (1-0)  Dragón
+         Audaz                    4-3 (1-2)  Isidro Metapán
+  16.00  Alianza                  0-0  Luis Ángel Firpo
+         Santa Tecla FC           4-0 (3-0)  Municipal Limeño
+
+
+Matchday 18
+[Thu Nov/2]
+  15.05  Dragón                   2-2 (0-0)  Sonsonate FC
+[Sat Nov/4]
+  19.00  Isidro Metapán           2-1 (0-1)  Municipal Limeño
+[Sun Nov/5]
+  15.00  Audaz                    2-3 (0-2)  Alianza
+         Pasaquina FC             0-0  Luis Ángel Firpo
+         FAS                      1-1 (0-1)  AD Chalatenango
+  16.00  Santa Tecla FC           3-1 (2-0)  CD Águila
+
+
+Matchday 19
+[Sat Nov/11]
+  18.00  Luis Ángel Firpo         0-1 (0-1)  FAS
+  18.30  AD Chalatenango          4-2 (2-1)  Dragón
+         Sonsonate FC             1-1 (1-1)  Santa Tecla FC
+[Sun Nov/12]
+  15.00  Alianza                  5-2 (2-0)  Pasaquina FC
+         CD Águila                2-3 (2-2)  Isidro Metapán
+         Municipal Limeño         4-0 (4-0)  Audaz
+
+
+Matchday 20
+[Wed Nov/15]
+  15.00  Municipal Limeño         0-1 (0-0)  Alianza
+  15.05  Dragón                   0-0  Luis Ángel Firpo
+  19.00  Santa Tecla FC           2-1 (0-1)  AD Chalatenango
+         Isidro Metapán           3-1 (1-0)  Sonsonate FC
+  19.30  FAS                      1-1 (1-1)  Pasaquina FC
+[Thu Nov/16]
+  15.30  Audaz                    2-2 (2-1)  CD Águila
+
+
+Matchday 21
+[Sun Nov/19]
+  15.00  FAS                      1-1 (0-0)  Alianza
+         Pasaquina FC             1-2 (1-2)  Dragón
+         Luis Ángel Firpo         2-2 (0-1)  Santa Tecla FC
+         AD Chalatenango          1-0 (0-0)  Isidro Metapán
+         Sonsonate FC             3-2 (1-1)  Audaz
+         CD Águila                2-1 (2-0)  Municipal Limeño
+
+
+Matchday 22
+[Sat Nov/25]
+  16.00  Dragón                   3-2 (1-1)  FAS
+         Santa Tecla FC           3-1 (1-0)  Pasaquina FC
+         Isidro Metapán           4-2 (2-0)  Luis Ángel Firpo
+         Audaz                    1-2 (0-1)  AD Chalatenango
+         Municipal Limeño         3-0 (1-0)  Sonsonate FC
+         Alianza                  5-0 (1-0)  CD Águila
+
+
+== Apertura Playoffs
+
+Quarterfinals
+[Wed Nov/29]
+  14.30  Municipal Limeño         0-0  Santa Tecla FC
+  18.30  AD Chalatenango          0-1 (0-0)  Isidro Metapán
+  19.30  Pasaquina FC             0-0  Alianza
+[Thu Nov/30]
+  15.15  CD Águila                0-0  FAS
+[Sat Dec/2]
+  19.00  Isidro Metapán           2-3 (2-0)  AD Chalatenango
+[Sun Dec/3]
+  15.00  Alianza                  4-0 (2-0)  Pasaquina FC
+         FAS                      1-1 (1-0)  CD Águila
+  16.00  Santa Tecla FC           0-0  Municipal Limeño
+
+
+Semifinals
+[Wed Dec/6]
+  19.00  Isidro Metapán           1-0 (1-0)  Santa Tecla FC
+[Thu Dec/7]
+  19.30  FAS                      1-1 (0-1)  Alianza
+[Sun Dec/10]
+  15.00  Alianza                  1-1 (0-1)  FAS
+  19.00  Santa Tecla FC           2-1 (1-0)  Isidro Metapán
+
+
+Final
+[Sun Dec/17]
+  15.00  Alianza                  4-1 (3-1)  Santa Tecla FC
+
+
+== Clausura
+
+Matchday 1
+[Sat Jan/13]
+  15.00  Pasaquina FC             3-0 (2-0)  Audaz
+  18.30  AD Chalatenango          0-1 (0-1)  CD Águila
+  19.00  Luis Ángel Firpo         1-0 (0-0)  FAS
+[Sun Jan/14]
+  14.30  Dragón                   1-2 (1-1)  Isidro Metapán
+  15.00  Alianza                  2-1 (1-0)  Municipal Limeño
+  16.00  Santa Tecla FC           4-1 (1-0)  Sonsonate FC
+
+
+Matchday 2
+[Sat Jan/20]
+  15.00  Pasaquina FC             1-1 (1-1)  FAS
+  19.00  Isidro Metapán           0-1 (0-0)  Alianza
+         Sonsonate FC             1-1 (1-1)  Dragón
+[Sun Jan/21]
+  15.00  CD Águila                0-0  Santa Tecla FC
+         Audaz                    0-0  AD Chalatenango
+         Municipal Limeño         0-0  Luis Ángel Firpo
+
+
+Matchday 3
+[Wed Jan/24]
+  15.00  Municipal Limeño         4-2 (1-2)  Isidro Metapán
+  15.30  Dragón                   0-2 (0-1)  CD Águila
+  19.00  AD Chalatenango          1-2 (0-1)  FAS
+         Luis Ángel Firpo         1-1 (1-1)  Pasaquina FC
+  19.30  Alianza                  2-0 (0-0)  Sonsonate FC
+[Thu Jan/25]
+  19.00  Santa Tecla FC           4-0 (2-0)  Audaz
+
+
+Matchday 4
+[Sat Jan/27]
+  15.00  Pasaquina FC             0-2 (0-1)  AD Chalatenango
+  19.00  Isidro Metapán           1-1 (0-0)  Luis Ángel Firpo
+         Sonsonate FC             1-0 (1-0)  Municipal Limeño
+[Sun Jan/28]
+  15.00  CD Águila                0-2 (0-1)  Alianza
+         Audaz                    1-1 (1-0)  Dragón
+         FAS                      1-1 (1-0)  Santa Tecla FC
+
+
+Matchday 5
+[Sat Feb/3]
+  14.30  Dragón                   0-1 (0-1)  FAS
+  19.00  Isidro Metapán           1-1 (1-0)  Sonsonate FC
+[Sun Feb/4]
+  15.00  Alianza                  2-0 (1-0)  Audaz
+         Municipal Limeño         2-0 (1-0)  CD Águila
+  16.00  Santa Tecla FC           2-0 (0-0)  Pasaquina FC
+  17.00  Luis Ángel Firpo         0-1 (0-1)  AD Chalatenango
+
+
+Matchday 6
+[Wed Feb/7]
+  15.00  CD Águila                2-0 (1-0)  Isidro Metapán
+  15.15  Audaz                    2-2 (0-0)  Municipal Limeño
+  15.30  Pasaquina FC             1-2 (1-1)  Dragón
+  19.00  Sonsonate FC             1-1 (0-0)  Luis Ángel Firpo
+[Thu Feb/8]
+  19.30  FAS                      1-2 (1-1)  Alianza
+[Wed Feb/14]
+  19.00  AD Chalatenango          1-0 (0-0)  Santa Tecla FC
+
+
+Matchday 7
+[Sat Feb/10]
+  18.30  AD Chalatenango          0-1 (0-0)  Dragón
+  19.00  Luis Ángel Firpo         3-2 (0-2)  Santa Tecla FC
+         Isidro Metapán           1-2 (0-2)  Audaz
+         Sonsonate FC             2-0 (1-0)  CD Águila
+[Sun Feb/11]
+  15.00  Municipal Limeño         2-3 (1-2)  FAS
+  15.15  Alianza                  0-0  Pasaquina FC
+
+
+Matchday 8
+[Sat Feb/17]
+  15.30  Pasaquina FC             2-1 (0-0)  Municipal Limeño
+  18.30  AD Chalatenango          1-1 (0-1)  Alianza
+[Sun Feb/18]
+  15.00  CD Águila                3-0 (1-0)  Luis Ángel Firpo
+         Audaz                    1-2 (1-2)  Sonsonate FC
+         FAS                      2-1 (2-0)  Isidro Metapán
+  16.00  Santa Tecla FC           3-0 (1-0)  Dragón
+
+
+Matchday 9
+[Wed Feb/21]
+  15.15  CD Águila                1-1 (1-0)  Audaz
+  15.30  Municipal Limeño         3-2 (2-0)  AD Chalatenango
+  19.00  Luis Ángel Firpo         1-1 (0-1)  Dragón
+         Isidro Metapán           2-2 (0-2)  Pasaquina FC
+         Sonsonate FC             1-3 (0-0)  FAS
+[Thu Mar/15]
+  19.30  Alianza                  2-1 (1-1)  Santa Tecla FC
+
+
+Matchday 10
+[Sat Feb/24]
+  15.30  Pasaquina FC             1-0 (0-0)  Sonsonate FC
+  18.30  AD Chalatenango          2-3 (0-0)  Isidro Metapán
+  19.00  Luis Ángel Firpo         1-0 (1-0)  Audaz
+[Sun Feb/25]
+  14.30  Dragón                   0-0  Alianza
+  15.00  FAS                      0-1 (0-0)  CD Águila
+  16.00  Santa Tecla FC           2-0 (0-0)  Municipal Limeño
+
+
+Matchday 11
+[Thu Mar/1]
+  19.30  Alianza                  2-1 (1-0)  Luis Ángel Firpo
+[Wed Mar/7]
+  15.00  CD Águila                1-2 (1-1)  Pasaquina FC
+  15.30  Audaz                    2-3 (2-3)  FAS
+         Municipal Limeño         1-1 (0-1)  Dragón
+  19.00  Isidro Metapán           0-3 (0-2)  Santa Tecla FC
+         Sonsonate FC             1-0 (1-0)  AD Chalatenango
+
+
+Matchday 12
+[Sat Mar/10]
+  19.00  Isidro Metapán           0-0  Dragón
+         Sonsonate FC             0-0  Santa Tecla FC
+[Sun Mar/11]
+  15.00  CD Águila                1-1 (0-0)  AD Chalatenango
+         Audaz                    2-1 (1-0)  Pasaquina FC
+         FAS                      4-2 (2-1)  Luis Ángel Firpo
+         Municipal Limeño         1-2 (1-0)  Alianza
+
+
+Matchday 13
+[Sat Mar/17]
+  14.30  Dragón                   3-0 (0-0)  Sonsonate FC
+  18.30  AD Chalatenango          3-0 (0-0)  Audaz
+  19.00  Luis Ángel Firpo         2-2 (1-1)  Municipal Limeño
+[Sun Mar/18]
+  15.00  FAS                      1-0 (1-0)  Pasaquina FC
+  15.15  Alianza                  2-1 (1-1)  Isidro Metapán
+  16.00  Santa Tecla FC           1-0 (1-0)  CD Águila
+
+
+Matchday 14
+[Wed Mar/21]
+  14.30  Pasaquina FC             0-2 (0-1)  Luis Ángel Firpo
+  15.30  CD Águila                0-0  Dragón
+  19.00  Isidro Metapán           3-2 (1-1)  Municipal Limeño
+         Sonsonate FC             0-1 (0-0)  Alianza
+  19.30  FAS                      2-0 (2-0)  AD Chalatenango
+[Thu Mar/22]
+  15.30  Audaz                    0-3 (0-2)  Santa Tecla FC
+
+
+Matchday 15
+[Sat Mar/24]
+  19.00  Luis Ángel Firpo         4-1 (1-1)  Isidro Metapán
+  20.30  AD Chalatenango          1-3 (0-1)  Pasaquina FC
+[Sun Mar/25]
+  14.30  Dragón                   1-2 (0-0)  Audaz
+  15.00  Municipal Limeño         3-1 (0-1)  Sonsonate FC
+  15.15  Alianza                  3-0 (0-0)  CD Águila
+  16.00  Santa Tecla FC           2-0 (1-0)  FAS
+
+
+Matchday 16
+[Wed Mar/28]
+  14.30  Pasaquina FC             1-1 (0-0)  Santa Tecla FC
+  17.00  AD Chalatenango          1-0 (1-0)  Luis Ángel Firpo
+[Thu Mar/29]
+  15.00  FAS                      2-0 (1-0)  Dragón
+  15.30  CD Águila                1-0 (1-0)  Municipal Limeño
+         Audaz                    2-1 (1-1)  Alianza
+  19.00  Sonsonate FC             3-1 (1-0)  Isidro Metapán
+
+
+Matchday 17
+[Wed Apr/4]
+  15.30  Dragón                   1-0 (0-0)  Pasaquina FC
+         Municipal Limeño         2-0 (1-0)  Audaz
+  19.00  Luis Ángel Firpo         1-0 (0-0)  Sonsonate FC
+         Isidro Metapán           2-2 (0-1)  CD Águila
+         Santa Tecla FC           1-0 (1-0)  AD Chalatenango
+[Thu Apr/5]
+  19.30  Alianza                  1-2 (0-1)  FAS
+
+
+Matchday 18
+[Sat Apr/7]
+  15.00  Dragón                   1-1 (1-1)  AD Chalatenango
+[Sun Apr/8]
+  15.00  Audaz                    2-0 (1-0)  Isidro Metapán
+         FAS                      2-1 (1-1)  Municipal Limeño
+         Pasaquina FC             0-3 (0-2)  Alianza
+  15.30  CD Águila                1-1 (0-1)  Sonsonate FC
+  16.00  Santa Tecla FC           2-0 (1-0)  Luis Ángel Firpo
+
+
+Matchday 19
+[Sat Apr/14]
+  18.00  Alianza                  4-1 (2-1)  AD Chalatenango
+  19.00  Luis Ángel Firpo         1-2 (1-1)  CD Águila
+         Isidro Metapán           1-1 (0-0)  FAS
+         Sonsonate FC             2-2 (1-1)  Audaz
+[Sun Apr/15]
+  15.00  Municipal Limeño         1-1 (1-0)  Pasaquina FC
+  15.15  Dragón                   0-3 (0-2)  Santa Tecla FC
+
+
+Matchday 20
+[Wed Apr/18]
+  15.00  FAS                      4-1 (2-1)  Sonsonate FC
+  15.30  Audaz                    3-1 (2-0)  CD Águila
+         Dragón                   1-2 (0-0)  Luis Ángel Firpo
+  19.00  AD Chalatenango          0-2 (0-1)  Municipal Limeño
+[Thu Apr/19]
+  14.30  Pasaquina FC             1-0 (0-0)  Isidro Metapán
+  19.00  Santa Tecla FC           1-0 (0-0)  Alianza
+
+
+Matchday 21
+[Sun Apr/22]
+  15.15  CD Águila                1-0 (0-0)  FAS
+         Alianza                  2-1 (1-1)  Dragón
+         Audaz                    2-1 (0-0)  Luis Ángel Firpo
+         Isidro Metapán           2-1 (2-1)  AD Chalatenango
+         Municipal Limeño         1-2 (0-1)  Santa Tecla FC
+         Sonsonate FC             3-0 (0-0)  Pasaquina FC
+
+
+Matchday 22
+[Sat Apr/28]
+  15.15  AD Chalatenango          2-1 (1-0)  Sonsonate FC
+         Dragón                   0-0  Municipal Limeño
+         FAS                      4-1 (1-0)  Audaz
+         Luis Ángel Firpo         1-2 (1-1)  Alianza
+         Pasaquina FC             0-3 (0-3)  CD Águila
+         Santa Tecla FC           2-2 (1-1)  Isidro Metapán
+
+
+== Clausura Playoffs
+
+Quarterfinals
+[Tue May/1]
+  15.30  Municipal Limeño         1-1 (1-1)  Santa Tecla FC
+         Audaz                    1-1 (0-0)  FAS
+[Thu May/3]
+  19.00  Luis Ángel Firpo         0-1 (0-0)  CD Águila
+  19.30  Pasaquina FC             0-1 (0-0)  Alianza
+[Sat May/5]
+  17.00  Santa Tecla FC           0-0  Municipal Limeño
+[Sun May/6]
+  15.15  FAS                      2-3 (1-0)  Audaz
+  15.30  Alianza                  4-0 (2-0)  Pasaquina FC
+         CD Águila                0-0  Luis Ángel Firpo
+
+
+Semifinals
+[Thu May/10]
+  15.30  Audaz                    1-2 (0-1)  Santa Tecla FC
+         CD Águila                2-3 (0-0)  Alianza
+[Sun May/13]
+  14.00  Santa Tecla FC           4-0  Audaz
+         Alianza                  2-0  CD Águila
+
+
+Final
+[Sun May/20]
+  15.00  Alianza                  1-0  Santa Tecla FC
+
+
+== Relegation
+
+Final
+[Tue May/1]
+  19.00  Sonsonate FC             3-2  Dragón

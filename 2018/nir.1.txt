@@ -1,0 +1,94 @@
+= NIR 1 2018
+
+# Date       Tue Apr/3 - Sat May/12 2018 (39d)
+# Teams      12
+# Matches    33
+# Stages     Championship (15)  EL Playoffs (3)  Relegation (15)
+
+
+== Championship
+
+Matchday 1
+[Tue Apr/3]
+  19.45  Ballymena United         0-3 (0-2)  Cliftonville FC
+         Crusaders FC             1-1 (0-0)  Coleraine FC
+         Glenavon FC              2-3 (1-2)  Linfield FC
+
+
+Matchday 2
+[Sat Apr/7]
+  15.00  Coleraine FC             2-1 (0-1)  Cliftonville FC
+         Crusaders FC             1-1 (1-0)  Glenavon FC
+         Linfield FC              2-0 (0-0)  Ballymena United
+
+
+Matchday 3
+[Sat Apr/14]
+  15.00  Cliftonville FC          1-3 (0-0)  Glenavon FC
+         Coleraine FC             1-0 (0-0)  Ballymena United
+         Crusaders FC             2-0 (1-0)  Linfield FC
+
+
+Matchday 4
+[Sat Apr/21]
+  15.00  Crusaders FC             1-1 (0-0)  Cliftonville FC
+         Glenavon FC              0-0  Ballymena United
+         Linfield FC              2-2 (2-0)  Coleraine FC
+
+
+Matchday 5
+[Sat Apr/28]
+  15.00  Ballymena United         1-2 (0-0)  Crusaders FC
+         Glenavon FC              0-0  Coleraine FC
+         Linfield FC              1-2 (0-2)  Cliftonville FC
+
+
+== EL Playoffs
+
+Semifinals
+[Wed May/9]
+  19.45  Cliftonville FC          4-0 (0-0)  Ballymena United
+         Linfield FC              3-4 (1-0)  Glentoran FC
+
+
+Final
+[Sat May/12]
+  15.00  Cliftonville FC          3-2 (1-0)  Glentoran FC
+
+
+== Relegation
+
+Matchday 1
+[Tue Apr/3]
+  19.45  Ards FC                  4-2 (3-0)  Warrenpoint Town
+[Tue Apr/17]
+  19.45  Glentoran FC             4-2 (3-1)  Dungannon Swifts
+  20.00  Ballinamallard United FC  2-1 (1-0)  Carrick Rangers
+
+
+Matchday 2
+[Sat Apr/7]
+  15.00  Ards FC                  1-4 (0-0)  Glentoran FC
+         Ballinamallard United FC  2-0 (0-0)  Warrenpoint Town
+         Dungannon Swifts         2-0 (0-0)  Carrick Rangers
+
+
+Matchday 3
+[Sat Apr/14]
+  15.00  Ballinamallard United FC  2-2 (1-1)  Dungannon Swifts
+         Carrick Rangers          0-1 (0-1)  Ards FC
+         Warrenpoint Town         1-0 (0-0)  Glentoran FC
+
+
+Matchday 4
+[Sat Apr/21]
+  15.00  Ards FC                  1-1 (1-1)  Ballinamallard United FC
+         Dungannon Swifts         4-2 (0-0)  Warrenpoint Town
+         Glentoran FC             1-2 (1-0)  Carrick Rangers
+
+
+Matchday 5
+[Sat Apr/28]
+  15.00  Ards FC                  3-4 (1-1)  Dungannon Swifts
+         Glentoran FC             1-3 (0-1)  Ballinamallard United FC
+         Warrenpoint Town         2-3 (1-3)  Carrick Rangers

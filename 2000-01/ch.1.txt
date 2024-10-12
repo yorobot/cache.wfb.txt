@@ -1,0 +1,504 @@
+= CH 1 2000/01
+
+# Date       Sat Jul/15 2000 - Sun May/27 2001 (316d)
+# Teams      16
+# Matches    244
+# Stages     Regular Season (132)  Relegation (56)  Finalrunde (56)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Jul/15]
+  17.30  Grasshopper Club Zürich  3-0 (1-0)  Lausanne Sports
+  18.00  FC Basel                 4-1 (1-0)  FC Sion
+  19.30  FC Lugano                1-0 (1-0)  FC St. Gallen
+         Servette FC              2-1 (0-1)  FC Aarau
+         Yverdon Sport FC         1-1 (0-1)  FC Zürich
+         FC Luzern                2-0 (0-0)  Neuchâtel Xamax FC
+
+
+Matchday 2
+[Tue Jul/18]
+  19.30  FC Zürich                2-2 (1-2)  Servette FC
+         FC Aarau                 0-2 (0-1)  FC Lugano
+         Lausanne Sports          4-2 (2-1)  Yverdon Sport FC
+         Neuchâtel Xamax FC       2-0 (0-0)  FC Basel
+         FC Sion                  1-0 (1-0)  Grasshopper Club Zürich
+         FC St. Gallen            2-1 (1-1)  FC Luzern
+
+
+Matchday 3
+[Sat Jul/22]
+  17.30  Grasshopper Club Zürich  6-0 (2-0)  Neuchâtel Xamax FC
+  18.00  FC St. Gallen            3-0 (2-0)  FC Aarau
+  19.30  FC Basel                 7-4 (3-3)  FC Luzern
+         FC Lugano                1-0 (0-0)  FC Zürich
+         Servette FC              0-4 (0-0)  Lausanne Sports
+         Yverdon Sport FC         0-1 (0-1)  FC Sion
+
+
+Matchday 4
+[Sat Jul/29]
+  18.00  FC Basel                 1-0 (0-0)  Grasshopper Club Zürich
+  19.30  Lausanne Sports          1-0 (0-0)  FC Lugano
+         FC Luzern                0-0  FC Aarau
+         Neuchâtel Xamax FC       1-1 (0-0)  Yverdon Sport FC
+         FC Sion                  1-0 (1-0)  Servette FC
+         FC Zürich                0-0  FC St. Gallen
+
+
+Matchday 5
+[Fri Aug/4]
+  19.30  Servette FC              5-2 (5-0)  Neuchâtel Xamax FC
+         FC St. Gallen            3-1 (1-0)  Lausanne Sports
+[Sat Aug/5]
+  18.00  Grasshopper Club Zürich  4-0 (1-0)  FC Luzern
+  19.30  FC Aarau                 2-1 (2-1)  FC Zürich
+         FC Lugano                0-0  FC Sion
+         Yverdon Sport FC         1-0 (0-0)  FC Basel
+
+
+Matchday 6
+[Sat Aug/12]
+  19.30  FC Luzern                2-0 (1-0)  Yverdon Sport FC
+         Neuchâtel Xamax FC       2-1 (0-1)  FC St. Gallen
+         FC Sion                  0-1 (0-1)  FC Aarau
+[Sun Aug/13]
+  16.15  Grasshopper Club Zürich  1-1 (1-0)  Servette FC
+         Lausanne Sports          2-0 (1-0)  FC Zürich
+         FC Basel                 2-3 (2-3)  FC Lugano
+
+
+Matchday 7
+[Fri Aug/18]
+  19.30  FC St. Gallen            3-1 (3-1)  FC Sion
+[Sat Aug/19]
+  19.30  FC Aarau                 1-2 (0-1)  Lausanne Sports
+         FC Lugano                3-0 (1-0)  Neuchâtel Xamax FC
+         Servette FC              1-1 (0-1)  FC Basel
+         Yverdon Sport FC         2-3 (1-1)  Grasshopper Club Zürich
+[Sun Aug/20]
+  16.15  FC Zürich                4-2 (1-0)  FC Luzern
+
+
+Matchday 8
+[Sat Aug/26]
+  19.30  Neuchâtel Xamax FC       1-5 (0-3)  FC Aarau
+         FC Sion                  3-3 (3-2)  FC Zürich
+         Yverdon Sport FC         2-1 (0-1)  Servette FC
+[Sun Aug/27]
+  16.15  FC Basel                 2-2 (2-0)  FC St. Gallen
+         Grasshopper Club Zürich  0-3 (0-1)  FC Lugano
+         FC Luzern                2-1 (1-0)  Lausanne Sports
+
+
+Matchday 9
+[Tue Sep/5]
+  19.30  FC Aarau                 0-1 (0-1)  FC Basel
+         Lausanne Sports          3-2 (1-1)  FC Sion
+         FC Lugano                3-0 (1-0)  Yverdon Sport FC
+         Servette FC              2-0 (1-0)  FC Luzern
+         FC St. Gallen            1-0 (0-0)  Grasshopper Club Zürich
+         FC Zürich                3-0 (1-0)  Neuchâtel Xamax FC
+
+
+Matchday 10
+[Fri Sep/8]
+  19.30  FC Basel                 1-1 (0-0)  FC Zürich
+[Sat Sep/9]
+  19.30  Neuchâtel Xamax FC       2-4 (1-2)  Lausanne Sports
+         Servette FC              2-0 (2-0)  FC Lugano
+         Yverdon Sport FC         1-1 (0-0)  FC St. Gallen
+[Sun Sep/10]
+  16.15  Grasshopper Club Zürich  6-0 (1-0)  FC Aarau
+         FC Luzern                3-1 (1-0)  FC Sion
+
+
+Matchday 11
+[Sat Sep/16]
+  19.30  FC Aarau                 4-3 (1-2)  Yverdon Sport FC
+[Sun Sep/17]
+  16.15  Lausanne Sports          3-0 (1-0)  FC Basel
+         FC Lugano                3-0 (3-0)  FC Luzern
+  19.30  FC Sion                  2-1 (0-0)  Neuchâtel Xamax FC
+[Mon Sep/18]
+  19.30  FC St. Gallen            0-0  Servette FC
+         FC Zürich                1-1 (0-0)  Grasshopper Club Zürich
+
+
+Matchday 12
+[Fri Sep/22]
+  19.30  Neuchâtel Xamax FC       1-1 (1-0)  FC Luzern
+         FC Zürich                5-0 (3-0)  Yverdon Sport FC
+[Sat Sep/23]
+  14.30  FC Aarau                 0-3 (0-3)  Servette FC
+  16.15  FC St. Gallen            1-1 (1-0)  FC Lugano
+  17.30  Lausanne Sports          0-2 (0-1)  Grasshopper Club Zürich
+  19.30  FC Sion                  1-1 (0-0)  FC Basel
+
+
+Matchday 13
+[Fri Sep/29]
+  19.30  FC Lugano                1-1 (1-0)  FC Aarau
+[Sun Oct/1]
+  16.15  FC Basel                 5-1 (2-0)  Neuchâtel Xamax FC
+         Grasshopper Club Zürich  5-0 (2-0)  FC Sion
+         FC Luzern                1-5 (0-4)  FC St. Gallen
+         Yverdon Sport FC         2-0 (1-0)  Lausanne Sports
+  18.00  Servette FC              1-1 (0-0)  FC Zürich
+
+
+Matchday 14
+[Sat Oct/14]
+  19.30  Lausanne Sports          1-1 (1-0)  Servette FC
+         FC Luzern                0-2 (0-2)  FC Basel
+         Neuchâtel Xamax FC       1-3 (1-1)  Grasshopper Club Zürich
+[Sun Oct/15]
+  14.30  FC Aarau                 1-1 (0-0)  FC St. Gallen
+  16.15  FC Zürich                1-2 (1-2)  FC Lugano
+[Tue Oct/24]
+  19.00  FC Sion                  0-0  Yverdon Sport FC
+
+
+Matchday 15
+[Sat Oct/21]
+  17.30  FC St. Gallen            2-0 (0-0)  FC Zürich
+         Yverdon Sport FC         4-0 (1-0)  Neuchâtel Xamax FC
+  19.30  FC Lugano                2-2 (1-1)  Lausanne Sports
+         Servette FC              0-1 (0-1)  FC Sion
+[Sun Oct/22]
+  14.30  FC Aarau                 3-3 (1-2)  FC Luzern
+  16.15  Grasshopper Club Zürich  1-2 (1-2)  FC Basel
+
+
+Matchday 16
+[Sat Oct/28]
+  19.30  FC Luzern                2-3 (1-0)  Grasshopper Club Zürich
+         FC Sion                  3-2 (1-2)  FC Lugano
+[Sun Oct/29]
+  14.30  Neuchâtel Xamax FC       2-1 (2-0)  Servette FC
+         FC Zürich                1-0 (0-0)  FC Aarau
+  16.15  FC Basel                 2-1 (0-1)  Yverdon Sport FC
+         Lausanne Sports          0-2 (0-1)  FC St. Gallen
+
+
+Matchday 17
+[Wed Nov/1]
+  19.30  Yverdon Sport FC         3-1 (1-1)  FC Luzern
+         FC Aarau                 1-1 (1-0)  FC Sion
+         Servette FC              3-1 (2-0)  Grasshopper Club Zürich
+[Sun Nov/12]
+  14.30  FC Lugano                1-0 (0-0)  FC Basel
+         FC St. Gallen            2-0 (0-0)  Neuchâtel Xamax FC
+         FC Zürich                3-1 (1-1)  Lausanne Sports
+
+
+Matchday 18
+[Sat Nov/4]
+  19.30  FC Basel                 4-2 (1-2)  Servette FC
+         Lausanne Sports          1-3 (0-1)  FC Aarau
+[Sun Nov/5]
+  14.30  Neuchâtel Xamax FC       1-0 (0-0)  FC Lugano
+         FC Sion                  2-1 (0-0)  FC St. Gallen
+  16.15  Grasshopper Club Zürich  1-0 (0-0)  Yverdon Sport FC
+         FC Luzern                0-2 (0-1)  FC Zürich
+
+
+Matchday 19
+[Sat Nov/18]
+  19.30  Servette FC              2-0 (1-0)  Yverdon Sport FC
+         Lausanne Sports          1-2 (1-1)  FC Luzern
+[Sun Nov/19]
+  14.30  FC Aarau                 2-0 (1-0)  Neuchâtel Xamax FC
+         FC Lugano                2-0 (2-0)  Grasshopper Club Zürich
+         FC Zürich                1-3 (0-1)  FC Sion
+  16.15  FC St. Gallen            4-0 (2-0)  FC Basel
+
+
+Matchday 20
+[Sat Nov/25]
+  17.30  Yverdon Sport FC         1-1 (1-0)  FC Lugano
+  19.30  FC Luzern                0-2 (0-1)  Servette FC
+[Sun Nov/26]
+  14.30  Neuchâtel Xamax FC       3-1 (2-1)  FC Zürich
+         FC Sion                  0-1 (0-1)  Lausanne Sports
+  16.15  FC Basel                 5-2 (2-1)  FC Aarau
+         Grasshopper Club Zürich  1-1 (0-0)  FC St. Gallen
+
+
+Matchday 21
+[Sat Dec/2]
+  17.30  Lausanne Sports          2-0 (0-0)  Neuchâtel Xamax FC
+[Sun Dec/3]
+  14.30  FC Lugano                1-0 (0-0)  Servette FC
+  16.15  FC Aarau                 1-3 (0-1)  Grasshopper Club Zürich
+         FC Sion                  3-0 (1-0)  FC Luzern
+         FC St. Gallen            7-0 (2-0)  Yverdon Sport FC
+         FC Zürich                2-0 (1-0)  FC Basel
+
+
+Matchday 22
+[Sun Dec/10]
+  14.30  FC Luzern                1-1 (1-0)  FC Lugano
+  16.15  Grasshopper Club Zürich  2-3 (0-2)  FC Zürich
+         FC Basel                 2-3 (2-2)  Lausanne Sports
+         Servette FC              3-1 (0-0)  FC St. Gallen
+         Neuchâtel Xamax FC       1-0 (0-0)  FC Sion
+         Yverdon Sport FC         3-3 (1-2)  FC Aarau
+
+
+== Relegation
+
+Matchday 1
+[Sat Feb/24]
+  16.00  FC Wil 1900              0-0  BSC Young Boys
+  17.30  FC Aarau                 0-2 (0-2)  AC Bellinzona
+[Sun Feb/25]
+  14.30  Neuchâtel Xamax FC       1-1 (1-1)  Yverdon Sport FC
+         FC Winterthur            1-2 (1-1)  FC Luzern
+
+
+Matchday 2
+[Sun Mar/4]
+  14.30  Yverdon Sport FC         1-2 (1-2)  FC Winterthur
+[Wed Mar/7]
+  19.30  BSC Young Boys           1-0 (0-0)  FC Aarau
+[Wed Mar/14]
+  19.30  FC Luzern                2-3 (0-1)  Neuchâtel Xamax FC
+[Sun Mar/25]
+  14.30  AC Bellinzona            0-0  FC Wil 1900
+
+
+Matchday 3
+[Sat Mar/10]
+  17.30  FC Aarau                 0-0  Yverdon Sport FC
+[Sun Mar/11]
+  14.30  FC Wil 1900              0-0  FC Luzern
+         FC Winterthur            2-1 (0-0)  BSC Young Boys
+[Tue May/1]
+  19.30  Neuchâtel Xamax FC       2-0 (0-0)  AC Bellinzona
+
+
+Matchday 4
+[Sun Mar/18]
+  14.30  Yverdon Sport FC         2-2 (1-0)  FC Wil 1900
+         BSC Young Boys           0-0  Neuchâtel Xamax FC
+         AC Bellinzona            0-0  FC Winterthur
+         FC Luzern                3-0 (1-0)  FC Aarau
+
+
+Matchday 5
+[Sat Mar/31]
+  17.30  FC Winterthur            1-2 (0-1)  FC Aarau
+  19.30  BSC Young Boys           3-2 (1-1)  Yverdon Sport FC
+[Sun Apr/1]
+  14.30  FC Wil 1900              2-4 (0-2)  Neuchâtel Xamax FC
+         FC Luzern                2-0 (0-0)  AC Bellinzona
+
+
+Matchday 6
+[Sat Apr/7]
+  17.30  FC Aarau                 1-0 (1-0)  FC Wil 1900
+         AC Bellinzona            2-3 (1-1)  BSC Young Boys
+  19.30  Neuchâtel Xamax FC       0-0  FC Winterthur
+         Yverdon Sport FC         1-1 (0-1)  FC Luzern
+
+
+Matchday 7
+[Sat Apr/14]
+  17.30  FC Wil 1900              1-3 (0-0)  FC Winterthur
+  19.30  Neuchâtel Xamax FC       3-2 (2-0)  FC Aarau
+[Mon Apr/16]
+  17.30  FC Luzern                1-0 (1-0)  BSC Young Boys
+[Wed Apr/18]
+  19.30  AC Bellinzona            1-1 (0-1)  Yverdon Sport FC
+
+
+Matchday 8
+[Sat Apr/21]
+  17.30  FC Aarau                 1-1 (0-1)  Neuchâtel Xamax FC
+  19.30  Yverdon Sport FC         2-0 (0-0)  AC Bellinzona
+[Tue May/1]
+  17.30  FC Winterthur            2-4 (2-2)  FC Wil 1900
+  19.30  BSC Young Boys           2-0 (0-0)  FC Luzern
+
+
+Matchday 9
+[Sat Apr/28]
+  17.30  FC Wil 1900              2-3 (2-0)  FC Aarau
+         FC Winterthur            1-2 (0-0)  Neuchâtel Xamax FC
+  19.30  BSC Young Boys           1-0 (0-0)  AC Bellinzona
+[Sun Apr/29]
+  19.30  FC Luzern                4-3 (2-1)  Yverdon Sport FC
+
+
+Matchday 10
+[Sat May/5]
+  16.15  Yverdon Sport FC         4-2 (2-1)  BSC Young Boys
+  17.30  AC Bellinzona            0-1 (0-1)  FC Luzern
+         FC Aarau                 2-0 (1-0)  FC Winterthur
+  19.30  Neuchâtel Xamax FC       1-0 (0-0)  FC Wil 1900
+
+
+Matchday 11
+[Sat May/12]
+  17.30  FC Wil 1900              1-1 (1-1)  Yverdon Sport FC
+         FC Winterthur            3-1 (3-0)  AC Bellinzona
+         FC Aarau                 3-0 (0-0)  FC Luzern
+         Neuchâtel Xamax FC       1-1 (1-0)  BSC Young Boys
+
+
+Matchday 12
+[Tue May/15]
+  19.30  BSC Young Boys           2-0 (0-0)  FC Winterthur
+[Wed May/16]
+  19.30  AC Bellinzona            1-2 (0-1)  Neuchâtel Xamax FC
+         FC Luzern                4-0 (2-0)  FC Wil 1900
+         Yverdon Sport FC         1-1 (1-1)  FC Aarau
+
+
+Matchday 13
+[Sat May/19]
+  17.30  FC Wil 1900              5-0 (3-0)  AC Bellinzona
+  19.30  Neuchâtel Xamax FC       2-2 (0-1)  FC Luzern
+[Sun May/20]
+  16.15  FC Aarau                 2-0 (1-0)  BSC Young Boys
+         FC Winterthur            0-1 (0-0)  Yverdon Sport FC
+
+
+Matchday 14
+[Sat May/26]
+  17.30  BSC Young Boys           1-0 (0-0)  FC Wil 1900
+[Sun May/27]
+  14.30  AC Bellinzona            1-6 (1-4)  FC Aarau
+  16.15  Yverdon Sport FC         3-2 (1-1)  Neuchâtel Xamax FC
+         FC Luzern                2-3 (2-1)  FC Winterthur
+
+
+== Finalrunde
+
+Matchday 1
+[Fri Feb/23]
+  20.15  Grasshopper Club Zürich  2-1 (0-1)  FC St. Gallen
+[Sat Feb/24]
+  17.30  Lausanne Sports          1-1 (0-0)  FC Zürich
+[Sun Feb/25]
+  14.30  FC Lugano                1-1 (1-1)  FC Sion
+  16.15  Servette FC              3-0 (2-0)  FC Basel
+
+
+Matchday 2
+[Sat Mar/3]
+  17.30  FC St. Gallen            3-2 (1-1)  FC Lugano
+[Sun Mar/4]
+  16.15  FC Zürich                1-0 (0-0)  Servette FC
+[Wed Mar/14]
+  19.30  FC Sion                  2-0 (2-0)  Grasshopper Club Zürich
+[Thu Mar/15]
+  20.15  FC Basel                 0-0  Lausanne Sports
+
+
+Matchday 3
+[Sat Mar/10]
+  17.30  Lausanne Sports          2-1 (2-0)  FC Sion
+  19.30  Servette FC              4-1 (3-1)  FC St. Gallen
+[Sun Mar/11]
+  14.30  FC Lugano                0-1 (0-0)  FC Zürich
+  16.15  Grasshopper Club Zürich  0-0  FC Basel
+
+
+Matchday 4
+[Sun Mar/18]
+  14.30  FC St. Gallen            4-2 (4-1)  Lausanne Sports
+  16.15  FC Basel                 4-1 (0-1)  FC Lugano
+         FC Zürich                0-1 (0-0)  Grasshopper Club Zürich
+[Thu Apr/19]
+  14.30  FC Sion                  1-1 (1-0)  Servette FC
+
+
+Matchday 5
+[Sat Mar/31]
+  14.30  FC Lugano                0-0  Grasshopper Club Zürich
+  16.15  FC Zürich                0-0  FC Basel
+  17.30  Lausanne Sports          2-1 (0-1)  Servette FC
+  19.30  FC Sion                  2-1 (1-0)  FC St. Gallen
+
+
+Matchday 6
+[Fri Apr/6]
+  20.15  FC St. Gallen            1-0 (1-0)  FC Zürich
+[Sat Apr/7]
+  19.30  FC Basel                 2-1 (1-0)  FC Sion
+         Servette FC              2-3 (1-2)  FC Lugano
+[Sun Apr/8]
+  16.15  Grasshopper Club Zürich  4-0 (3-0)  Lausanne Sports
+
+
+Matchday 7
+[Sat Apr/14]
+  20.30  FC Basel                 1-1 (0-0)  FC St. Gallen
+[Mon Apr/16]
+  17.30  Lausanne Sports          0-3 (0-1)  FC Lugano
+         Servette FC              1-0 (0-0)  Grasshopper Club Zürich
+         FC Zürich                3-1 (1-0)  FC Sion
+
+
+Matchday 8
+[Sat Apr/21]
+  19.30  FC Lugano                4-1 (2-1)  Lausanne Sports
+[Sun Apr/22]
+  16.15  FC Sion                  1-1 (1-1)  FC Zürich
+         Grasshopper Club Zürich  4-3 (2-0)  Servette FC
+         FC St. Gallen            3-2 (1-0)  FC Basel
+
+
+Matchday 9
+[Sat Apr/28]
+  16.15  FC Zürich                0-1 (0-0)  FC St. Gallen
+  19.30  Lausanne Sports          1-3 (0-2)  Grasshopper Club Zürich
+         FC Lugano                1-1 (0-0)  Servette FC
+         FC Sion                  0-1 (0-1)  FC Basel
+
+
+Matchday 10
+[Sun May/6]
+  16.15  FC Basel                 2-1 (1-0)  FC Zürich
+         Grasshopper Club Zürich  1-1 (0-0)  FC Lugano
+         Servette FC              3-1 (1-1)  Lausanne Sports
+         FC St. Gallen            4-1 (3-1)  FC Sion
+
+
+Matchday 11
+[Fri May/11]
+  20.15  Grasshopper Club Zürich  4-2 (2-1)  FC Zürich
+[Sat May/12]
+  19.30  Lausanne Sports          2-0 (1-0)  FC St. Gallen
+         Servette FC              2-2 (0-1)  FC Sion
+[Sun May/13]
+  16.15  FC Lugano                1-1 (1-1)  FC Basel
+
+
+Matchday 12
+[Tue May/15]
+  20.15  FC St. Gallen            2-2 (2-0)  Servette FC
+[Wed May/16]
+  19.30  FC Basel                 3-3 (1-1)  Grasshopper Club Zürich
+         FC Sion                  1-0 (0-0)  Lausanne Sports
+         FC Zürich                1-2 (1-2)  FC Lugano
+
+
+Matchday 13
+[Sat May/19]
+  20.15  Grasshopper Club Zürich  3-0 (1-0)  FC Sion
+         Lausanne Sports          1-1 (0-1)  FC Basel
+         FC Lugano                4-1 (1-1)  FC St. Gallen
+         Servette FC              2-0 (1-0)  FC Zürich
+
+
+Matchday 14
+[Sat May/26]
+  20.15  FC St. Gallen            0-4 (0-2)  Grasshopper Club Zürich
+         FC Zürich                1-2 (1-0)  Lausanne Sports
+         FC Basel                 1-1 (0-0)  Servette FC
+         FC Sion                  2-1 (2-0)  FC Lugano

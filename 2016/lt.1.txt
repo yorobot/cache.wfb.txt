@@ -1,0 +1,318 @@
+= LT 1 2016
+
+# Date       Wed Mar/2 - Sat Nov/26 2016 (269d)
+# Teams      8
+# Matches    127
+# Stages     Regular Season (112)  Championship (15)
+
+
+# Regular Season
+
+Matchday 1
+[Wed Mar/2]
+  18.10  FK Žalgiris              2-0 (0-0)  FK Trakai
+[Sat Mar/5]
+  13.00  Utenis Utena             2-3 (1-2)  Kauno Žalgiris
+  15.00  FK Atlantas              2-0 (0-0)  FC Stumbras
+[Sun Mar/6]
+  13.00  FK Jonava                1-1 (1-0)  FK Sūduva
+
+
+Matchday 2
+[Wed Mar/9]
+  18.10  FK Sūduva                1-0 (0-0)  FK Atlantas
+[Sat Mar/12]
+  13.00  FC Stumbras              3-6 (1-5)  FK Žalgiris
+[Sun Mar/13]
+  13.00  Utenis Utena             0-1 (0-1)  FK Jonava
+  15.00  Kauno Žalgiris           0-2 (0-1)  FK Trakai
+
+
+Matchday 3
+[Wed Mar/16]
+  18.10  FK Žalgiris              3-2 (0-1)  FK Sūduva
+  19.30  FK Atlantas              1-0 (0-0)  Utenis Utena
+[Thu Mar/17]
+  18.00  FK Jonava                2-2 (0-2)  Kauno Žalgiris
+  19.30  FK Trakai                3-2 (1-1)  FC Stumbras
+
+
+Matchday 4
+[Sat Mar/19]
+  14.00  Utenis Utena             0-1 (0-0)  FK Žalgiris
+[Sun Mar/20]
+  14.00  FK Jonava                0-1 (0-0)  FK Atlantas
+  17.00  FK Sūduva                0-2 (0-1)  FK Trakai
+[Mon Mar/21]
+  18.30  Kauno Žalgiris           1-2 (0-0)  FC Stumbras
+
+
+Matchday 5
+[Wed Mar/30]
+  18.00  FK Trakai                1-0 (1-0)  Utenis Utena
+[Sat Apr/2]
+  13.00  FK Atlantas              3-1 (2-0)  Kauno Žalgiris
+  15.00  FK Žalgiris              2-2 (0-2)  FK Jonava
+[Sun Apr/3]
+  14.00  FC Stumbras              2-3 (1-1)  FK Sūduva
+
+
+Matchday 6
+[Wed Apr/6]
+  18.10  FK Atlantas              2-1 (0-0)  FK Žalgiris
+[Sat Apr/9]
+  14.00  Utenis Utena             1-0 (0-0)  FC Stumbras
+[Sun Apr/10]
+  14.00  Kauno Žalgiris           2-2 (0-0)  FK Sūduva
+  17.30  FK Jonava                0-1 (0-0)  FK Trakai
+
+
+Matchday 7
+[Sat Apr/16]
+  14.00  FC Stumbras              2-0 (1-0)  FK Jonava
+  16.00  FK Žalgiris              3-0 (1-0)  Kauno Žalgiris
+[Sun Apr/17]
+  17.00  FK Sūduva                2-1 (0-0)  Utenis Utena
+  19.00  FK Trakai                2-0 (1-0)  FK Atlantas
+
+
+Matchday 8
+[Wed Apr/20]
+  19.00  FK Trakai                1-0 (1-0)  FK Žalgiris
+  19.30  FK Sūduva                3-0 (2-0)  FK Jonava
+[Thu Apr/21]
+  18.30  FC Stumbras              2-3 (1-2)  FK Atlantas
+[Fri Apr/22]
+  18.30  Kauno Žalgiris           1-3 (0-1)  Utenis Utena
+
+
+Matchday 9
+[Tue Apr/26]
+  18.00  FK Jonava                1-0 (1-0)  Utenis Utena
+[Wed Apr/27]
+  18.10  FK Atlantas              1-2 (0-0)  FK Sūduva
+  19.30  FK Žalgiris              2-0 (1-0)  FC Stumbras
+[Thu Apr/28]
+  18.30  FK Trakai                0-0  Kauno Žalgiris
+
+
+Matchday 10
+[Tue May/3]
+  18.30  FC Stumbras              0-0  FK Trakai
+[Wed May/4]
+  18.00  FK Sūduva                1-0 (1-0)  FK Žalgiris
+  19.30  Kauno Žalgiris           1-5 (0-1)  FK Jonava
+[Thu May/5]
+  18.00  Utenis Utena             0-2 (0-2)  FK Atlantas
+
+
+Matchday 11
+[Sat May/7]
+  17.00  FK Trakai                3-1 (2-0)  FK Sūduva
+[Sun May/8]
+  15.00  FK Žalgiris              2-0 (0-0)  Utenis Utena
+  17.00  FK Atlantas              2-0 (0-0)  FK Jonava
+[Wed May/11]
+  18.00  FC Stumbras              0-0  Kauno Žalgiris
+
+
+Matchday 12
+[Tue May/17]
+  18.30  Kauno Žalgiris           0-2 (0-1)  FK Atlantas
+[Wed May/18]
+  18.00  FK Jonava                0-1 (0-1)  FK Žalgiris
+  19.30  FK Sūduva                0-1 (0-1)  FC Stumbras
+[Thu May/19]
+  19.30  Utenis Utena             0-2 (0-2)  FK Trakai
+
+
+Matchday 13
+[Sat May/21]
+  17.00  FK Žalgiris              1-0 (1-0)  FK Atlantas
+  19.00  FK Sūduva                1-0 (0-0)  Kauno Žalgiris
+[Sun May/22]
+  17.00  FC Stumbras              3-1 (2-0)  Utenis Utena
+  19.00  FK Trakai                3-0 (1-0)  FK Jonava
+
+
+Matchday 14
+[Wed Jun/8]
+  18.00  Utenis Utena             0-4 (0-2)  FK Sūduva
+  19.30  FK Jonava                2-2 (2-1)  FC Stumbras
+[Thu Jun/9]
+  18.00  FK Atlantas              2-2 (0-1)  FK Trakai
+  19.30  Kauno Žalgiris           1-1 (0-0)  FK Žalgiris
+
+
+Matchday 15
+[Tue Jun/14]
+  18.30  Utenis Utena             2-1 (1-0)  Kauno Žalgiris
+[Wed Jun/15]
+  18.00  FK Žalgiris              3-1 (0-0)  FK Trakai
+  19.30  FK Atlantas              2-0 (2-0)  FC Stumbras
+[Thu Jun/16]
+  18.30  FK Jonava                1-1 (1-1)  FK Sūduva
+
+
+Matchday 16
+[Tue Jun/21]
+  18.30  Kauno Žalgiris           0-4 (0-2)  FK Trakai
+[Wed Jun/22]
+  18.00  Utenis Utena             3-1 (1-1)  FK Jonava
+[Fri Jun/24]
+  18.30  FK Sūduva                3-3 (0-0)  FK Atlantas
+  20.30  FC Stumbras              0-5 (0-3)  FK Žalgiris
+
+
+Matchday 17
+[Tue Jul/12]
+  18.30  FK Atlantas              2-0 (0-0)  Utenis Utena
+[Thu Jul/14]
+  18.00  FK Jonava                3-2 (1-1)  Kauno Žalgiris
+  19.30  FK Trakai                0-2 (0-1)  FC Stumbras
+[Sun Aug/28]
+  18.30  FK Žalgiris              4-1 (1-0)  FK Sūduva
+
+
+Matchday 18
+[Tue Jul/19]
+  18.30  FK Jonava                1-2 (0-1)  FK Atlantas
+[Wed Jul/20]
+  18.00  Kauno Žalgiris           2-1 (0-1)  FC Stumbras
+  19.30  FK Sūduva                1-0 (0-0)  FK Trakai
+[Sat Jul/23]
+  18.30  Utenis Utena             2-4 (2-2)  FK Žalgiris
+
+
+Matchday 19
+[Tue Jul/26]
+  18.30  FC Stumbras              2-3 (2-2)  FK Sūduva
+[Wed Jul/27]
+  18.10  FK Atlantas              1-1 (1-0)  Kauno Žalgiris
+  19.30  FK Žalgiris              4-1 (2-0)  FK Jonava
+[Thu Jul/28]
+  18.30  FK Trakai                4-3 (1-3)  Utenis Utena
+
+
+Matchday 20
+[Tue Aug/2]
+  18.30  FK Atlantas              0-1 (0-0)  FK Žalgiris
+[Wed Aug/3]
+  18.00  Utenis Utena             0-0  FC Stumbras
+  19.30  FK Jonava                1-1 (0-1)  FK Trakai
+[Thu Aug/4]
+  18.30  Kauno Žalgiris           0-1 (0-1)  FK Sūduva
+
+
+Matchday 21
+[Wed Aug/10]
+  18.00  FK Trakai                3-0 (0-0)  FK Atlantas
+  19.30  FK Sūduva                2-1 (0-0)  Utenis Utena
+[Thu Aug/11]
+  18.00  FC Stumbras              2-1 (1-1)  FK Jonava
+  19.30  FK Žalgiris              3-1 (2-0)  Kauno Žalgiris
+
+
+Matchday 22
+[Tue Aug/16]
+  18.30  FC Stumbras              0-2 (0-1)  FK Atlantas
+[Wed Aug/17]
+  18.00  FK Trakai                1-2 (0-1)  FK Žalgiris
+  19.30  FK Sūduva                0-0  FK Jonava
+[Thu Aug/18]
+  18.30  Kauno Žalgiris           1-1 (0-0)  Utenis Utena
+
+
+Matchday 23
+[Wed Aug/24]
+  18.00  FK Atlantas              2-1 (1-0)  FK Sūduva
+  19.30  FK Žalgiris              3-1 (2-0)  FC Stumbras
+[Thu Aug/25]
+  18.00  FK Jonava                1-0 (0-0)  Utenis Utena
+  19.30  FK Trakai                3-0 (0-0)  Kauno Žalgiris
+
+
+Matchday 24
+[Wed Sep/7]
+  18.10  FK Sūduva                0-0  FK Žalgiris
+  19.30  FC Stumbras              1-4 (0-2)  FK Trakai
+[Thu Sep/8]
+  17.30  Utenis Utena             1-1 (0-1)  FK Atlantas
+  19.30  Kauno Žalgiris           0-1 (0-1)  FK Jonava
+
+
+Matchday 25
+[Wed Sep/14]
+  18.10  FK Trakai                2-0 (1-0)  FK Sūduva
+  19.30  FC Stumbras              2-2 (1-0)  Kauno Žalgiris
+[Thu Sep/15]
+  18.00  FK Atlantas              0-0  FK Jonava
+  19.30  FK Žalgiris              2-1 (0-0)  Utenis Utena
+
+
+Matchday 26
+[Mon Sep/19]
+  16.30  Utenis Utena             0-1 (0-1)  FK Trakai
+[Tue Sep/20]
+  16.30  FK Jonava                0-4 (0-0)  FK Žalgiris
+  18.30  FK Sūduva                2-0 (0-0)  FC Stumbras
+[Wed Sep/21]
+  18.00  Kauno Žalgiris           1-1 (0-1)  FK Atlantas
+
+
+Matchday 27
+[Sat Oct/1]
+  15.00  FK Sūduva                2-0 (0-0)  Kauno Žalgiris
+  18.00  FK Žalgiris              0-1 (0-0)  FK Atlantas
+[Sun Oct/2]
+  13.00  FC Stumbras              1-1 (1-0)  Utenis Utena
+  18.00  FK Trakai                0-2 (0-2)  FK Jonava
+
+
+Matchday 28
+[Sun Oct/16]
+  14.00  Utenis Utena             1-2 (0-1)  FK Sūduva
+         FK Jonava                1-4 (1-3)  FC Stumbras
+         FK Atlantas              0-1 (0-0)  FK Trakai
+         Kauno Žalgiris           0-2 (0-0)  FK Žalgiris
+
+
+== Championship
+
+Matchday 1
+[Fri Oct/21]
+  18.00  FK Atlantas              0-0  FK Trakai
+[Sat Oct/22]
+  13.00  FK Jonava                1-4 (0-2)  FK Žalgiris
+  14.00  FK Sūduva                6-1 (4-0)  FC Stumbras
+
+
+Matchday 2
+[Sat Oct/29]
+  13.00  FC Stumbras              3-1 (1-1)  FK Jonava
+  16.00  FK Trakai                1-1 (1-0)  FK Sūduva
+[Sun Oct/30]
+  15.00  FK Žalgiris              2-0 (1-0)  FK Atlantas
+
+
+Matchday 3
+[Sat Nov/5]
+  14.00  FK Sūduva                1-3 (0-2)  FK Žalgiris
+[Sun Nov/6]
+  15.00  FK Trakai                1-1 (0-0)  FC Stumbras
+  18.00  FK Atlantas              2-1 (2-0)  FK Jonava
+
+
+Matchday 4
+[Fri Nov/18]
+  19.15  FK Žalgiris              2-2 (1-1)  FC Stumbras
+[Sun Nov/20]
+  14.00  FK Sūduva                3-1 (2-1)  FK Atlantas
+  15.00  FK Trakai                3-1 (1-0)  FK Jonava
+
+
+Matchday 5
+[Sat Nov/26]
+  12.00  FK Žalgiris              1-3 (0-2)  FK Trakai
+         FC Stumbras              1-1 (1-0)  FK Atlantas
+         FK Jonava                3-2 (1-0)  FK Sūduva

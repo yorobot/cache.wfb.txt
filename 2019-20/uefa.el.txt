@@ -1,0 +1,320 @@
+= UEFA EL 2019/20
+
+# Date       Thu Sep/19 2019 - Fri Aug/21 2020 (337d)
+# Teams      56
+# Matches    199
+
+
+
+Group
+[Thu Sep/19]
+  18.55  APOEL Nikosia (CYP)      3-4 (0-1)  F91 Dudelange (LUX)
+         Qarabağ FK (AZE)         0-3 (0-0)  Sevilla FC (ESP)
+[Thu Oct/3]
+  21.00  Sevilla FC (ESP)         1-0 (1-0)  APOEL Nikosia (CYP)
+         F91 Dudelange (LUX)      1-4 (0-3)  Qarabağ FK (AZE)
+[Thu Oct/24]
+  18.55  Qarabağ FK (AZE)         2-2 (1-2)  APOEL Nikosia (CYP)
+  21.00  Sevilla FC (ESP)         3-0 (0-0)  F91 Dudelange (LUX)
+[Thu Nov/7]
+  18.55  APOEL Nikosia (CYP)      2-1 (0-1)  Qarabağ FK (AZE)
+         F91 Dudelange (LUX)      2-5 (0-4)  Sevilla FC (ESP)
+[Thu Nov/28]
+  21.00  F91 Dudelange (LUX)      0-2 (0-2)  APOEL Nikosia (CYP)
+         Sevilla FC (ESP)         2-0 (0-0)  Qarabağ FK (AZE)
+[Thu Dec/12]
+  18.55  APOEL Nikosia (CYP)      1-0 (0-0)  Sevilla FC (ESP)
+         Qarabağ FK (AZE)         1-1 (0-0)  F91 Dudelange (LUX)
+[Thu Sep/19]
+  18.55  Dinamo Kiev (UKR)        1-0 (0-0)  Malmö FF (SWE)
+         FC København (DEN)       1-0 (0-0)  FC Lugano (SUI)
+[Thu Oct/3]
+  21.00  FC Lugano (SUI)          0-0  Dinamo Kiev (UKR)
+         Malmö FF (SWE)           1-1 (0-1)  FC København (DEN)
+[Thu Oct/24]
+  21.00  Dinamo Kiev (UKR)        1-1 (0-1)  FC København (DEN)
+         Malmö FF (SWE)           2-1 (2-0)  FC Lugano (SUI)
+[Thu Nov/7]
+  18.55  FC København (DEN)       1-1 (1-0)  Dinamo Kiev (UKR)
+         FC Lugano (SUI)          0-0  Malmö FF (SWE)
+[Thu Nov/28]
+  21.00  Malmö FF (SWE)           4-3 (1-2)  Dinamo Kiev (UKR)
+         FC Lugano (SUI)          0-1 (0-1)  FC København (DEN)
+[Thu Dec/12]
+  18.55  Dinamo Kiev (UKR)        1-1 (0-1)  FC Lugano (SUI)
+         FC København (DEN)       0-1 (0-0)  Malmö FF (SWE)
+[Thu Sep/19]
+  18.55  FC Basel 1893 (SUI)      5-0 (2-0)  FK Krasnodar (RUS)
+         Getafe CF (ESP)          1-0 (1-0)  Trabzonspor (TUR)
+[Thu Oct/3]
+  21.00  Trabzonspor (TUR)        2-2 (1-1)  FC Basel 1893 (SUI)
+         FK Krasnodar (RUS)       1-2 (0-1)  Getafe CF (ESP)
+[Thu Oct/24]
+  21.00  Getafe CF (ESP)          0-1 (0-1)  FC Basel 1893 (SUI)
+         Trabzonspor (TUR)        0-2 (0-0)  FK Krasnodar (RUS)
+[Thu Nov/7]
+  18.55  FC Basel 1893 (SUI)      2-1 (1-1)  Getafe CF (ESP)
+         FK Krasnodar (RUS)       3-1 (2-0)  Trabzonspor (TUR)
+[Thu Nov/28]
+  16.50  FK Krasnodar (RUS)       1-0 (0-0)  FC Basel 1893 (SUI)
+         Trabzonspor (TUR)        0-1 (0-0)  Getafe CF (ESP)
+[Thu Dec/12]
+  18.55  FC Basel 1893 (SUI)      2-0 (1-0)  Trabzonspor (TUR)
+         Getafe CF (ESP)          3-0 (0-0)  FK Krasnodar (RUS)
+[Thu Sep/19]
+  18.55  LASK (AUT)               1-0 (1-0)  Rosenborg BK (NOR)
+         PSV Eindhoven (NED)      3-2 (2-1)  Sporting CP (POR)
+[Thu Oct/3]
+  21.00  Sporting CP (POR)        2-1 (0-1)  LASK (AUT)
+         Rosenborg BK (NOR)       1-4 (0-3)  PSV Eindhoven (NED)
+[Thu Oct/24]
+  21.00  PSV Eindhoven (NED)      0-0  LASK (AUT)
+         Sporting CP (POR)        1-0 (0-0)  Rosenborg BK (NOR)
+[Thu Nov/7]
+  18.55  LASK (AUT)               4-1 (0-1)  PSV Eindhoven (NED)
+         Rosenborg BK (NOR)       0-2 (0-2)  Sporting CP (POR)
+[Thu Nov/28]
+  21.00  Rosenborg BK (NOR)       1-2 (1-1)  LASK (AUT)
+         Sporting CP (POR)        4-0 (3-0)  PSV Eindhoven (NED)
+[Thu Dec/12]
+  18.55  LASK (AUT)               3-0 (2-0)  Sporting CP (POR)
+         PSV Eindhoven (NED)      1-1 (0-1)  Rosenborg BK (NOR)
+[Thu Sep/19]
+  18.55  Stade Rennais (FRA)      1-1 (1-0)  Celtic FC (SCO)
+         CFR Cluj (ROU)           2-1 (1-1)  Lazio Roma (ITA)
+[Thu Oct/3]
+  21.00  Celtic FC (SCO)          2-0 (1-0)  CFR Cluj (ROU)
+         Lazio Roma (ITA)         2-1 (0-0)  Stade Rennais (FRA)
+[Thu Oct/24]
+  21.00  Celtic FC (SCO)          2-1 (0-1)  Lazio Roma (ITA)
+         Stade Rennais (FRA)      0-1 (0-1)  CFR Cluj (ROU)
+[Thu Nov/7]
+  18.55  Lazio Roma (ITA)         1-2 (1-1)  Celtic FC (SCO)
+         CFR Cluj (ROU)           1-0 (0-0)  Stade Rennais (FRA)
+[Thu Nov/28]
+  21.00  Celtic FC (SCO)          3-1 (2-0)  Stade Rennais (FRA)
+         Lazio Roma (ITA)         1-0 (1-0)  CFR Cluj (ROU)
+[Thu Dec/12]
+  18.55  CFR Cluj (ROU)           2-0 (0-0)  Celtic FC (SCO)
+         Stade Rennais (FRA)      2-0 (1-0)  Lazio Roma (ITA)
+[Thu Sep/19]
+  18.55  Eintracht Frankfurt (GER)  0-3 (0-1)  Arsenal FC (ENG)
+         Standard Liège (BEL)     2-0 (0-0)  Vitória Guimarães (POR)
+[Thu Oct/3]
+  21.00  Arsenal FC (ENG)         4-0 (3-0)  Standard Liège (BEL)
+         Vitória Guimarães (POR)  0-1 (0-1)  Eintracht Frankfurt (GER)
+[Thu Oct/24]
+  21.00  Arsenal FC (ENG)         3-2 (1-2)  Vitória Guimarães (POR)
+         Eintracht Frankfurt (GER)  2-1 (1-0)  Standard Liège (BEL)
+[Wed Nov/6]
+  16.50  Vitória Guimarães (POR)  1-1 (0-0)  Arsenal FC (ENG)
+[Thu Nov/7]
+  18.55  Standard Liège (BEL)     2-1 (0-0)  Eintracht Frankfurt (GER)
+[Thu Nov/28]
+  21.00  Arsenal FC (ENG)         1-2 (1-0)  Eintracht Frankfurt (GER)
+         Vitória Guimarães (POR)  1-1 (1-1)  Standard Liège (BEL)
+[Thu Dec/12]
+  18.55  Standard Liège (BEL)     2-2 (0-0)  Arsenal FC (ENG)
+         Eintracht Frankfurt (GER)  2-3 (2-1)  Vitória Guimarães (POR)
+[Thu Sep/19]
+  21.00  FC Porto (POR)           2-1 (2-1)  BSC Young Boys (SUI)
+         Rangers FC (SCO)         1-0 (1-0)  Feyenoord (NED)
+[Thu Oct/3]
+  18.55  BSC Young Boys (SUI)     2-1 (0-1)  Rangers FC (SCO)
+         Feyenoord (NED)          2-0 (0-0)  FC Porto (POR)
+[Thu Oct/24]
+  18.55  BSC Young Boys (SUI)     2-0 (2-0)  Feyenoord (NED)
+         FC Porto (POR)           1-1 (1-1)  Rangers FC (SCO)
+[Thu Nov/7]
+  21.00  Feyenoord (NED)          1-1 (1-0)  BSC Young Boys (SUI)
+         Rangers FC (SCO)         2-0 (0-0)  FC Porto (POR)
+[Thu Nov/28]
+  18.55  BSC Young Boys (SUI)     1-2 (1-0)  FC Porto (POR)
+         Feyenoord (NED)          2-2 (1-0)  Rangers FC (SCO)
+[Thu Dec/12]
+  21.00  Rangers FC (SCO)         1-1 (1-0)  BSC Young Boys (SUI)
+         FC Porto (POR)           3-2 (3-2)  Feyenoord (NED)
+[Thu Sep/19]
+  21.00  PFC Ludogorets Razgrad (BUL)  5-1 (0-1)  CSKA Moskva (RUS)
+         Espanyol Barcelona (ESP)  1-1 (0-1)  Ferencvárosi TC (HUN)
+[Thu Oct/3]
+  18.55  CSKA Moskva (RUS)        0-2 (0-0)  Espanyol Barcelona (ESP)
+         Ferencvárosi TC (HUN)    0-3 (0-2)  PFC Ludogorets Razgrad (BUL)
+[Thu Oct/24]
+  18.55  CSKA Moskva (RUS)        0-1 (0-0)  Ferencvárosi TC (HUN)
+         PFC Ludogorets Razgrad (BUL)  0-1 (0-1)  Espanyol Barcelona (ESP)
+[Thu Nov/7]
+  21.00  Ferencvárosi TC (HUN)    0-0  CSKA Moskva (RUS)
+         Espanyol Barcelona (ESP)  6-0 (3-0)  PFC Ludogorets Razgrad (BUL)
+[Thu Nov/28]
+  18.55  CSKA Moskva (RUS)        1-1 (0-0)  PFC Ludogorets Razgrad (BUL)
+         Ferencvárosi TC (HUN)    2-2 (1-1)  Espanyol Barcelona (ESP)
+[Thu Dec/12]
+  21.00  Espanyol Barcelona (ESP)  0-1 (0-0)  CSKA Moskva (RUS)
+         PFC Ludogorets Razgrad (BUL)  1-1 (1-0)  Ferencvárosi TC (HUN)
+
+
+Gruppe I
+[Thu Sep/19]
+  21.00  KAA Gent (BEL)           3-2 (2-1)  AS Saint-Étienne (FRA)
+         VfL Wolfsburg (GER)      3-1 (2-0)  FK Oleksandriya (UKR)
+[Thu Oct/3]
+  18.55  AS Saint-Étienne (FRA)   1-1 (1-1)  VfL Wolfsburg (GER)
+         FK Oleksandriya (UKR)    1-1 (0-1)  KAA Gent (BEL)
+[Thu Oct/24]
+  18.55  AS Saint-Étienne (FRA)   1-1 (1-1)  FK Oleksandriya (UKR)
+         KAA Gent (BEL)           2-2 (1-2)  VfL Wolfsburg (GER)
+[Thu Nov/7]
+  21.00  FK Oleksandriya (UKR)    2-2 (0-1)  AS Saint-Étienne (FRA)
+         VfL Wolfsburg (GER)      1-3 (1-0)  KAA Gent (BEL)
+[Thu Nov/28]
+  18.55  AS Saint-Étienne (FRA)   0-0  KAA Gent (BEL)
+         FK Oleksandriya (UKR)    0-1 (0-1)  VfL Wolfsburg (GER)
+[Thu Dec/12]
+  21.00  VfL Wolfsburg (GER)      1-0 (0-0)  AS Saint-Étienne (FRA)
+         KAA Gent (BEL)           2-1 (2-0)  FK Oleksandriya (UKR)
+
+
+Gruppe J
+[Thu Sep/19]
+  21.00  AS Roma (ITA)            4-0 (1-0)  İstanbul Başakşehir (TUR)
+         Bor. Mönchengladbach (GER)  0-4 (0-3)  Wolfsberger AC (AUT)
+[Thu Oct/3]
+  18.55  Wolfsberger AC (AUT)     1-1 (0-1)  AS Roma (ITA)
+         İstanbul Başakşehir (TUR)  1-1 (0-0)  Bor. Mönchengladbach (GER)
+[Thu Oct/24]
+  18.55  AS Roma (ITA)            1-1 (1-0)  Bor. Mönchengladbach (GER)
+         İstanbul Başakşehir (TUR)  1-0 (0-0)  Wolfsberger AC (AUT)
+[Thu Nov/7]
+  21.00  Bor. Mönchengladbach (GER)  2-1 (1-0)  AS Roma (ITA)
+         Wolfsberger AC (AUT)     0-3 (0-0)  İstanbul Başakşehir (TUR)
+[Thu Nov/28]
+  18.55  İstanbul Başakşehir (TUR)  0-3 (0-3)  AS Roma (ITA)
+         Wolfsberger AC (AUT)     0-1 (0-0)  Bor. Mönchengladbach (GER)
+[Thu Dec/12]
+  21.00  AS Roma (ITA)            2-2 (2-1)  Wolfsberger AC (AUT)
+         Bor. Mönchengladbach (GER)  1-2 (1-1)  İstanbul Başakşehir (TUR)
+
+
+Gruppe K
+[Thu Sep/19]
+  21.00  Slovan Bratislava (SVK)  4-2 (1-2)  Beşiktaş (TUR)
+         Wolverhampton Wanderers (ENG)  0-1 (0-0)  Sporting Braga (POR)
+[Thu Oct/3]
+  18.55  Beşiktaş (TUR)           0-1 (0-0)  Wolverhampton Wanderers (ENG)
+         Sporting Braga (POR)     2-2 (1-1)  Slovan Bratislava (SVK)
+[Thu Oct/24]
+  18.55  Beşiktaş (TUR)           1-2 (0-1)  Sporting Braga (POR)
+         Slovan Bratislava (SVK)  1-2 (1-0)  Wolverhampton Wanderers (ENG)
+[Thu Nov/7]
+  21.00  Sporting Braga (POR)     3-1 (2-1)  Beşiktaş (TUR)
+         Wolverhampton Wanderers (ENG)  1-0 (0-0)  Slovan Bratislava (SVK)
+[Thu Nov/28]
+  18.55  Beşiktaş (TUR)           2-1 (0-1)  Slovan Bratislava (SVK)
+         Sporting Braga (POR)     3-3 (1-3)  Wolverhampton Wanderers (ENG)
+[Thu Dec/12]
+  21.00  Wolverhampton Wanderers (ENG)  4-0 (0-0)  Beşiktaş (TUR)
+         Slovan Bratislava (SVK)  2-4 (1-1)  Sporting Braga (POR)
+
+
+Gruppe L
+[Thu Sep/19]
+  21.00  Partizan (SRB)           2-2 (1-1)  AZ Alkmaar (NED)
+         Manchester United (ENG)  1-0 (0-0)  FK Astana (KAZ)
+[Thu Oct/3]
+  16.50  FK Astana (KAZ)          1-2 (0-1)  Partizan (SRB)
+  18.55  AZ Alkmaar (NED)         0-0  Manchester United (ENG)
+[Thu Oct/24]
+  18.55  AZ Alkmaar (NED)         6-0 (2-0)  FK Astana (KAZ)
+         Partizan (SRB)           0-1 (0-1)  Manchester United (ENG)
+[Thu Nov/7]
+  16.50  FK Astana (KAZ)          0-5 (0-1)  AZ Alkmaar (NED)
+  21.00  Manchester United (ENG)  3-0 (2-0)  Partizan (SRB)
+[Thu Nov/28]
+  16.50  FK Astana (KAZ)          2-1 (0-1)  Manchester United (ENG)
+  18.55  AZ Alkmaar (NED)         2-2 (0-2)  Partizan (SRB)
+[Thu Dec/12]
+  21.00  Manchester United (ENG)  4-0 (0-0)  AZ Alkmaar (NED)
+         Partizan (SRB)           4-1 (3-0)  FK Astana (KAZ)
+
+
+Sechzehntelfinale
+[Thu Feb/20]
+  18.55  Sporting CP (POR)        3-1 (2-0)  İstanbul Başakşehir (TUR)
+         Getafe CF (ESP)          2-0 (1-0)  AFC Ajax (NED)
+         FC København (DEN)       1-1 (0-1)  Celtic FC (SCO)
+         CFR Cluj (ROU)           1-1 (0-0)  Sevilla FC (ESP)
+         Club Brugge KV (BEL)     1-1 (1-1)  Manchester United (ENG)
+         PFC Ludogorets Razgrad (BUL)  0-2 (0-0)  Inter (ITA)
+         Eintracht Frankfurt (GER)  4-1 (2-0)  RB Salzburg (AUT)
+         Shakhtar Donetsk (UKR)   2-1 (0-0)  SL Benfica (POR)
+  21.00  Wolverhampton Wanderers (ENG)  4-0 (1-0)  Espanyol Barcelona (ESP)
+         Bayer Leverkusen (GER)   2-1 (1-0)  FC Porto (POR)
+         APOEL Nikosia (CYP)      0-3 (0-1)  FC Basel 1893 (SUI)
+         Olympiakos Piraeus (GRE)  0-1 (0-0)  Arsenal FC (ENG)
+         AZ Alkmaar (NED)         1-1 (0-1)  LASK (AUT)
+         VfL Wolfsburg (GER)      2-1 (0-0)  Malmö FF (SWE)
+         AS Roma (ITA)            1-0 (1-0)  KAA Gent (BEL)
+         Rangers FC (SCO)         3-2 (0-1)  Sporting Braga (POR)
+[Wed Feb/26]
+  18.00  Sporting Braga (POR)     0-1 (0-0)  Rangers FC (SCO)
+[Thu Feb/27]
+  18.55  Espanyol Barcelona (ESP)  3-2 (1-1)  Wolverhampton Wanderers (ENG)
+         İstanbul Başakşehir (TUR)  4-1 a.e.t. (3-1, 2-0)  Sporting CP (POR)
+         FC Porto (POR)           1-3 (0-1)  Bayer Leverkusen (GER)
+         FC Basel 1893 (SUI)      1-0 (1-0)  APOEL Nikosia (CYP)
+         LASK (AUT)               2-0 (1-0)  AZ Alkmaar (NED)
+         Malmö FF (SWE)           0-3 (0-1)  VfL Wolfsburg (GER)
+         KAA Gent (BEL)           1-1 (1-1)  AS Roma (ITA)
+  21.00  AFC Ajax (NED)           2-1 (1-1)  Getafe CF (ESP)
+         Celtic FC (SCO)          1-3 (0-0)  FC København (DEN)
+         Sevilla FC (ESP)         0-0  CFR Cluj (ROU)
+         Arsenal FC (ENG)         1-2 a.e.t. (0-1, 0-0)  Olympiakos Piraeus (GRE)
+         Manchester United (ENG)  5-0 (3-0)  Club Brugge KV (BEL)
+         Inter (ITA)              2-1 (2-1)  PFC Ludogorets Razgrad (BUL)
+         SL Benfica (POR)         3-3 (2-1)  Shakhtar Donetsk (UKR)
+[Fri Feb/28]
+  18.00  RB Salzburg (AUT)        2-2 (1-1)  Eintracht Frankfurt (GER)
+
+
+Round of 16
+[Thu Mar/12]
+         Inter (ITA)              -  Getafe CF (ESP)          [cancelled]
+         Sevilla FC (ESP)         -  AS Roma (ITA)            [cancelled]
+  18.55  İstanbul Başakşehir (TUR)  1-0 (0-0)  FC København (DEN)
+         Eintracht Frankfurt (GER)  0-3 (0-1)  FC Basel 1893 (SUI)
+         LASK (AUT)               0-5 (0-1)  Manchester United (ENG)
+  21.00  Olympiakos Piraeus (GRE)  1-1 (0-0)  Wolverhampton Wanderers (ENG)
+         Rangers FC (SCO)         1-3 (0-1)  Bayer Leverkusen (GER)
+         VfL Wolfsburg (GER)      1-2 (0-1)  Shakhtar Donetsk (UKR)
+[Wed Aug/5]
+  18.55  FC København (DEN)       3-0 (1-0)  İstanbul Başakşehir (TUR)
+         Shakhtar Donetsk (UKR)   3-0 (0-0)  VfL Wolfsburg (GER)
+  21.00  Inter (ITA)              2-0 (1-0)  Getafe CF (ESP)
+         Manchester United (ENG)  2-1 (0-0)  LASK (AUT)
+[Thu Aug/6]
+  18.55  Bayer Leverkusen (GER)   1-0 (0-0)  Rangers FC (SCO)
+         Sevilla FC (ESP)         2-0 (2-0)  AS Roma (ITA)
+  21.00  Wolverhampton Wanderers (ENG)  1-0 (1-0)  Olympiakos Piraeus (GRE)
+         FC Basel 1893 (SUI)      1-0 (0-0)  Eintracht Frankfurt (GER)
+
+
+Quarterfinals
+[Mon Aug/10]
+  21.00  Manchester United (ENG)  1-0 a.e.t. (0-0)  FC København (DEN)
+         Inter (ITA)              2-1 (2-1)  Bayer Leverkusen (GER)
+[Tue Aug/11]
+  21.00  Shakhtar Donetsk (UKR)   4-1 (2-0)  FC Basel 1893 (SUI)
+         Wolverhampton Wanderers (ENG)  0-1 (0-0)  Sevilla FC (ESP)
+
+
+Semifinals
+[Sun Aug/16]
+  21.00  Sevilla FC (ESP)         2-1 (1-1)  Manchester United (ENG)
+[Mon Aug/17]
+  21.00  Inter (ITA)              5-0 (1-0)  Shakhtar Donetsk (UKR)
+
+
+Final
+[Fri Aug/21]
+  21.00  Sevilla FC (ESP)         3-2 (2-2)  Inter (ITA)

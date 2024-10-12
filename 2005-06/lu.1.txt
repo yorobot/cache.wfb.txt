@@ -1,0 +1,242 @@
+= LU 1 2005/06
+
+# Date       Sat Aug/6 2005 - Sun Apr/2 2006 (239d)
+# Teams      12
+# Matches    132
+
+
+
+Matchday 1
+[Sat Aug/6]
+  17.00  US Rumelange             0-0  Victoria Rosport
+  19.00  FC Wiltz 71              0-0  Swift Hesperange
+  19.30  RFCU Luxemburg           0-0  Avenir Beggen
+[Sun Aug/7]
+  16.00  Jeunesse Esch            0-3  F91 Dudelange
+  17.30  Etzella Ettelbruck       2-1  CS Grevenmacher
+  18.00  UN Käerjéng              3-1  CS Pétange
+
+
+Matchday 2
+[Wed Aug/10]
+  19.30  Avenir Beggen            1-3  Etzella Ettelbruck
+         US Rumelange             1-4  Jeunesse Esch
+         Swift Hesperange         0-0  UN Käerjéng
+         CS Pétange               1-2  RFCU Luxemburg
+         CS Grevenmacher          0-1  Victoria Rosport
+  20.00  F91 Dudelange            2-0  FC Wiltz 71
+
+
+Matchday 3
+[Sun Aug/14]
+  16.00  CS Grevenmacher          4-0  US Rumelange
+         Victoria Rosport         3-0  Avenir Beggen
+         Etzella Ettelbruck       5-0  CS Pétange
+         RFCU Luxemburg           3-0  Swift Hesperange
+         FC Wiltz 71              1-3  Jeunesse Esch
+  18.00  UN Käerjéng              0-4  F91 Dudelange
+
+
+Matchday 4
+[Sat Aug/20]
+  17.00  US Rumelange             1-3  FC Wiltz 71
+  19.00  Avenir Beggen            0-11  CS Grevenmacher
+[Sun Aug/21]
+  16.00  Jeunesse Esch            2-0  UN Käerjéng
+         F91 Dudelange            5-0  RFCU Luxemburg
+         Swift Hesperange         2-3  Etzella Ettelbruck
+         CS Pétange               2-0  Victoria Rosport
+
+
+Matchday 5
+[Sat Sep/10]
+  19.00  Avenir Beggen            1-2  US Rumelange
+[Sun Sep/11]
+  16.00  RFCU Luxemburg           0-1  Jeunesse Esch
+[Mon Sep/12]
+  19.30  UN Käerjéng              2-0  FC Wiltz 71
+         Victoria Rosport         4-3  Swift Hesperange
+         Etzella Ettelbruck       1-0  F91 Dudelange
+  20.00  CS Grevenmacher          2-1  CS Pétange
+
+
+Matchday 6
+[Sat Sep/17]
+  17.00  FC Wiltz 71              1-2  RFCU Luxemburg
+  19.00  US Rumelange             3-5  UN Käerjéng
+[Sun Sep/18]
+  16.00  F91 Dudelange            3-0  Victoria Rosport
+         Swift Hesperange         3-1  CS Grevenmacher
+         Jeunesse Esch            3-0  Etzella Ettelbruck
+         CS Pétange               2-0  Avenir Beggen
+
+
+Matchday 7
+[Thu Sep/22]
+  19.30  Victoria Rosport         1-0  Jeunesse Esch
+         RFCU Luxemburg           1-0  UN Käerjéng
+         Avenir Beggen            1-5  Swift Hesperange
+[Sat Sep/24]
+  18.00  CS Grevenmacher          1-1  F91 Dudelange
+[Sun Sep/25]
+  16.00  CS Pétange               4-2  US Rumelange
+  18.00  Etzella Ettelbruck       1-2  FC Wiltz 71
+
+
+Matchday 8
+[Sun Oct/16]
+  16.00  US Rumelange             1-1  RFCU Luxemburg
+         F91 Dudelange            4-1  Avenir Beggen
+         Swift Hesperange         1-1  CS Pétange
+  17.00  FC Wiltz 71              3-0  Victoria Rosport
+[Mon Oct/17]
+  19.30  UN Käerjéng              2-2  Etzella Ettelbruck
+         Jeunesse Esch            4-2  CS Grevenmacher
+
+
+Matchday 9
+[Sun Oct/23]
+  16.00  CS Pétange               0-1  F91 Dudelange
+         CS Grevenmacher          3-1  FC Wiltz 71
+         Victoria Rosport         1-1  UN Käerjéng
+         Swift Hesperange         1-0  US Rumelange
+         Avenir Beggen            0-1  Jeunesse Esch
+         Etzella Ettelbruck       1-3  RFCU Luxemburg
+
+
+Matchday 10
+[Wed Oct/26]
+  19.30  US Rumelange             0-2  Etzella Ettelbruck
+         UN Käerjéng              5-1  CS Grevenmacher
+         F91 Dudelange            3-1  Swift Hesperange
+         RFCU Luxemburg           5-0  Victoria Rosport
+         Jeunesse Esch            0-1  CS Pétange
+  20.00  FC Wiltz 71              4-0  Avenir Beggen
+
+
+Matchday 11
+[Sun Oct/30]
+  16.00  F91 Dudelange            6-1  US Rumelange
+         CS Pétange               1-1  FC Wiltz 71
+         Avenir Beggen            0-3  UN Käerjéng
+         CS Grevenmacher          0-2  RFCU Luxemburg
+         Victoria Rosport         1-2  Etzella Ettelbruck
+         Swift Hesperange         2-1  Jeunesse Esch
+
+
+Matchday 12
+[Sun Nov/6]
+  16.00  Etzella Ettelbruck       5-0  Avenir Beggen
+         Jeunesse Esch            5-0  US Rumelange
+         FC Wiltz 71              1-1  F91 Dudelange
+         UN Käerjéng              1-1  Swift Hesperange
+         RFCU Luxemburg           1-3  CS Pétange
+         Victoria Rosport         1-4  CS Grevenmacher
+
+
+Matchday 13
+[Sat Nov/12]
+  16.00  Jeunesse Esch            1-1  FC Wiltz 71
+  18.30  Avenir Beggen            1-1  Victoria Rosport
+         Swift Hesperange         3-2  RFCU Luxemburg
+         F91 Dudelange            4-0  UN Käerjéng
+         US Rumelange             0-6  CS Grevenmacher
+         CS Pétange               1-3  Etzella Ettelbruck
+
+
+Matchday 14
+[Sun Nov/20]
+  16.00  CS Grevenmacher          2-0  Avenir Beggen
+         RFCU Luxemburg           1-0  F91 Dudelange
+         Etzella Ettelbruck       2-1  Swift Hesperange
+         Victoria Rosport         1-0  CS Pétange
+         FC Wiltz 71              1-0  US Rumelange
+         UN Käerjéng              1-4  Jeunesse Esch
+
+
+Matchday 15
+[Fri Dec/16]
+  19.30  CS Pétange               1-0  CS Grevenmacher
+[Sat Dec/17]
+  16.00  Jeunesse Esch            4-0  RFCU Luxemburg
+[Sun Dec/18]
+  16.00  F91 Dudelange            3-1  Etzella Ettelbruck
+         US Rumelange             4-1  Avenir Beggen
+[Sun Feb/12]
+  16.00  FC Wiltz 71              3-1  UN Käerjéng
+[Tue Feb/14]
+  19.30  Swift Hesperange         2-2  Victoria Rosport
+
+
+Matchday 16
+[Sun Dec/4]
+  16.00  UN Käerjéng              1-0  US Rumelange
+         RFCU Luxemburg           2-2  FC Wiltz 71
+         Etzella Ettelbruck       2-1  Jeunesse Esch
+         Avenir Beggen            1-2  CS Pétange
+         CS Grevenmacher          3-0  Swift Hesperange
+[Wed Dec/14]
+  19.30  Victoria Rosport         2-4  F91 Dudelange
+
+
+Matchday 17
+[Fri Dec/9]
+  19.30  UN Käerjéng              2-1  RFCU Luxemburg
+[Sat Dec/10]
+  16.00  F91 Dudelange            1-2  CS Grevenmacher
+  17.00  FC Wiltz 71              4-3  Etzella Ettelbruck
+[Sun Dec/11]
+  16.00  Swift Hesperange         1-1  Avenir Beggen
+         Jeunesse Esch            2-0  Victoria Rosport
+         US Rumelange             1-3  CS Pétange
+
+
+Matchday 18
+[Sun Feb/19]
+  15.00  Avenir Beggen            1-1  F91 Dudelange
+  16.00  RFCU Luxemburg           0-2  US Rumelange
+         Victoria Rosport         2-2  FC Wiltz 71
+         CS Pétange               1-0  Swift Hesperange
+         CS Grevenmacher          0-2  Jeunesse Esch
+[Wed Mar/22]
+  19.30  Etzella Ettelbruck       1-3  UN Käerjéng
+
+
+Matchday 19
+[Sun Mar/19]
+  16.00  US Rumelange             1-1  Swift Hesperange
+         Jeunesse Esch            8-0  Avenir Beggen
+         RFCU Luxemburg           1-0  Etzella Ettelbruck
+         F91 Dudelange            5-1  CS Pétange
+         FC Wiltz 71              0-0  CS Grevenmacher
+         UN Käerjéng              1-0  Victoria Rosport
+
+
+Matchday 20
+[Sun Mar/12]
+  16.00  Swift Hesperange         1-6  F91 Dudelange
+         Victoria Rosport         1-3  RFCU Luxemburg
+         Avenir Beggen            0-5  FC Wiltz 71
+         CS Pétange               1-2  Jeunesse Esch
+         Etzella Ettelbruck       4-1  US Rumelange
+         CS Grevenmacher          2-1  UN Käerjéng
+
+
+Matchday 21
+[Sun Mar/26]
+  16.00  Jeunesse Esch            1-1  Swift Hesperange
+         Etzella Ettelbruck       4-2  Victoria Rosport
+         FC Wiltz 71              1-0  CS Pétange
+         RFCU Luxemburg           0-2  CS Grevenmacher
+         US Rumelange             0-4  F91 Dudelange
+         UN Käerjéng              3-0  Avenir Beggen
+
+
+Matchday 22
+[Sun Apr/2]
+  16.00  CS Pétange               2-1  UN Käerjéng
+         Victoria Rosport         1-0  US Rumelange
+         CS Grevenmacher          4-1  Etzella Ettelbruck
+         Avenir Beggen            1-1  RFCU Luxemburg
+         F91 Dudelange            2-0  Jeunesse Esch
+         Swift Hesperange         2-0  FC Wiltz 71

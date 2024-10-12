@@ -1,0 +1,624 @@
+= IT 1 2019/20
+
+# Date       Sat Aug/24 2019 - Sun Aug/2 2020 (344d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sat Aug/24]
+  20.45  ACF Fiorentina           3-4 (1-2)  SSC Napoli
+  18.00  Parma Calcio 1913        0-1 (0-1)  Juventus
+[Sun Aug/25]
+  18.00  Udinese Calcio           1-0 (0-0)  AC Milan
+  20.45  Cagliari Calcio          0-1 (0-0)  Brescia Calcio
+         Hellas Verona            1-1 (1-1)  Bologna FC
+         AS Roma                  3-3 (2-2)  Genoa CFC
+         Sampdoria                0-3 (0-1)  Lazio Roma
+         SPAL 2013 Ferrara        2-3 (2-1)  Atalanta
+         Torino FC                2-1 (1-0)  Sassuolo Calcio
+[Mon Aug/26]
+  20.45  Inter                    4-0 (2-0)  US Lecce
+
+
+Matchday 2
+[Fri Aug/30]
+  20.45  Bologna FC               1-0 (0-0)  SPAL 2013 Ferrara
+[Sat Aug/31]
+  20.45  Juventus                 4-3 (2-0)  SSC Napoli
+  18.00  AC Milan                 1-0 (1-0)  Brescia Calcio
+[Sun Sep/1]
+  18.00  Lazio Roma               1-1 (0-1)  AS Roma
+  20.45  Atalanta                 2-3 (1-1)  Torino FC
+         Cagliari Calcio          1-2 (0-1)  Inter
+         Genoa CFC                2-1 (1-0)  ACF Fiorentina
+         US Lecce                 0-1 (0-0)  Hellas Verona
+         Sassuolo Calcio          4-1 (3-0)  Sampdoria
+         Udinese Calcio           1-3 (1-1)  Parma Calcio 1913
+
+
+Matchday 3
+[Sat Sep/14]
+  15.00  ACF Fiorentina           0-0  Juventus
+  18.00  SSC Napoli               2-0 (1-0)  Sampdoria
+  20.45  Inter                    1-0 (1-0)  Udinese Calcio
+[Sun Sep/15]
+  15.00  Brescia Calcio           3-4 (3-1)  Bologna FC
+         Parma Calcio 1913        1-3 (0-2)  Cagliari Calcio
+         SPAL 2013 Ferrara        2-1 (0-1)  Lazio Roma
+  18.00  AS Roma                  4-2 (4-0)  Sassuolo Calcio
+  20.45  Hellas Verona            0-1 (0-0)  AC Milan
+  12.30  Genoa CFC                1-2 (0-0)  Atalanta
+[Mon Sep/16]
+  20.45  Torino FC                1-2 (0-1)  US Lecce
+
+
+Matchday 4
+[Fri Sep/20]
+  20.45  Cagliari Calcio          3-1 (0-0)  Genoa CFC
+[Sat Sep/21]
+  15.00  Udinese Calcio           0-1 (0-0)  Brescia Calcio
+  18.00  Juventus                 2-1 (1-1)  Hellas Verona
+  20.45  AC Milan                 0-2 (0-0)  Inter
+[Sun Sep/22]
+  15.00  Bologna FC               1-2 (0-0)  AS Roma
+         US Lecce                 1-4 (0-2)  SSC Napoli
+         Sampdoria                1-0 (0-0)  Torino FC
+  18.00  Atalanta                 2-2 (0-1)  ACF Fiorentina
+  20.45  Lazio Roma               2-0 (1-0)  Parma Calcio 1913
+  12.30  Sassuolo Calcio          3-0 (2-0)  SPAL 2013 Ferrara
+
+
+Matchday 5
+[Tue Sep/24]
+  21.00  Brescia Calcio           1-2 (1-1)  Juventus
+  19.00  Hellas Verona            0-0  Udinese Calcio
+[Wed Sep/25]
+  19.00  AS Roma                  0-2 (0-0)  Atalanta
+  21.00  ACF Fiorentina           2-1 (1-0)  Sampdoria
+         Genoa CFC                0-0  Bologna FC
+         Inter                    1-0 (1-0)  Lazio Roma
+         SSC Napoli               0-1 (0-0)  Cagliari Calcio
+         Parma Calcio 1913        1-0 (0-0)  Sassuolo Calcio
+         SPAL 2013 Ferrara        1-3 (1-1)  US Lecce
+[Thu Sep/26]
+  21.00  Torino FC                2-1 (0-1)  AC Milan
+
+
+Matchday 6
+[Sat Sep/28]
+  18.00  Sampdoria                1-3 (0-2)  Inter
+  20.45  Sassuolo Calcio          1-4 (0-4)  Atalanta
+  15.00  Juventus                 2-0 (1-0)  SPAL 2013 Ferrara
+[Sun Sep/29]
+  12.30  SSC Napoli               2-1 (2-0)  Brescia Calcio
+  15.00  Lazio Roma               4-0 (2-0)  Genoa CFC
+         US Lecce                 0-1 (0-0)  AS Roma
+         Udinese Calcio           1-0 (1-0)  Bologna FC
+  18.00  Cagliari Calcio          1-1 (1-0)  Hellas Verona
+  20.45  AC Milan                 1-3 (0-1)  ACF Fiorentina
+[Mon Sep/30]
+  20.45  Parma Calcio 1913        3-2 (2-2)  Torino FC
+
+
+Matchday 7
+[Sat Oct/5]
+  18.00  Hellas Verona            2-0 (1-0)  Sampdoria
+  20.45  Genoa CFC                1-2 (1-0)  AC Milan
+  15.00  SPAL 2013 Ferrara        1-0 (1-0)  Parma Calcio 1913
+[Sun Oct/6]
+  12.30  ACF Fiorentina           1-0 (0-0)  Udinese Calcio
+  15.00  Atalanta                 3-1 (2-0)  US Lecce
+         Bologna FC               2-2 (2-2)  Lazio Roma
+         AS Roma                  1-1 (1-1)  Cagliari Calcio
+  18.00  Torino FC                0-0  SSC Napoli
+  20.45  Inter                    1-2 (1-1)  Juventus
+
+
+Matchday 8
+[Sat Oct/19]
+  20.45  Juventus                 2-1 (1-1)  Bologna FC
+  15.00  Lazio Roma               3-3 (0-3)  Atalanta
+  18.00  SSC Napoli               2-0 (1-0)  Hellas Verona
+[Sun Oct/20]
+  12.30  Sassuolo Calcio          3-4 (1-3)  Inter
+  15.00  Cagliari Calcio          2-0 (1-0)  SPAL 2013 Ferrara
+         Sampdoria                0-0  AS Roma
+  20.45  AC Milan                 2-2 (1-0)  US Lecce
+  18.00  Parma Calcio 1913        5-1 (3-0)  Genoa CFC
+  15.00  Udinese Calcio           1-0 (1-0)  Torino FC
+[Mon Oct/21]
+  21.00  Brescia Calcio           0-0  ACF Fiorentina
+
+
+Matchday 9
+[Fri Oct/25]
+  20.45  Hellas Verona            0-1 (0-0)  Sassuolo Calcio
+[Sat Oct/26]
+  18.00  Inter                    2-2 (1-2)  Parma Calcio 1913
+  15.00  US Lecce                 1-1 (0-0)  Juventus
+  20.45  Genoa CFC                3-1 (0-1)  Brescia Calcio
+[Sun Oct/27]
+  12.30  Bologna FC               2-1 (0-0)  Sampdoria
+  15.00  Atalanta                 7-1 (3-1)  Udinese Calcio
+         SPAL 2013 Ferrara        1-1 (1-1)  SSC Napoli
+         Torino FC                1-1 (0-1)  Cagliari Calcio
+  18.00  AS Roma                  2-1 (1-0)  AC Milan
+  20.45  ACF Fiorentina           1-2 (1-1)  Lazio Roma
+
+
+Matchday 10
+[Tue Oct/29]
+  21.00  Brescia Calcio           1-2 (0-1)  Inter
+  19.00  Parma Calcio 1913        0-1 (0-1)  Hellas Verona
+[Wed Oct/30]
+  21.00  Udinese Calcio           0-4 (0-1)  AS Roma
+  19.00  SSC Napoli               2-2 (1-1)  Atalanta
+  21.00  Cagliari Calcio          3-2 (0-1)  Bologna FC
+         Juventus                 2-1 (1-1)  Genoa CFC
+         Lazio Roma               4-0 (2-0)  Torino FC
+         Sampdoria                1-1 (0-1)  US Lecce
+         Sassuolo Calcio          1-2 (1-0)  ACF Fiorentina
+[Thu Oct/31]
+  21.00  AC Milan                 1-0 (0-0)  SPAL 2013 Ferrara
+
+
+Matchday 11
+[Sat Nov/2]
+  15.00  AS Roma                  2-1 (1-0)  SSC Napoli
+  18.00  Bologna FC               1-2 (0-0)  Inter
+  20.45  Torino FC                0-1 (0-0)  Juventus
+[Sun Nov/3]
+  15.00  Genoa CFC                1-3 (1-1)  Udinese Calcio
+  12.30  Atalanta                 0-2 (0-1)  Cagliari Calcio
+  18.00  ACF Fiorentina           1-1 (0-1)  Parma Calcio 1913
+  15.00  Hellas Verona            2-1 (0-0)  Brescia Calcio
+         US Lecce                 2-2 (2-1)  Sassuolo Calcio
+  20.45  AC Milan                 1-2 (1-1)  Lazio Roma
+[Mon Nov/4]
+  20.45  SPAL 2013 Ferrara        0-1 (0-0)  Sampdoria
+
+
+Matchday 12
+[Fri Nov/8]
+  20.45  Sassuolo Calcio          3-1 (1-0)  Bologna FC
+[Sat Nov/9]
+  20.45  SSC Napoli               0-0  Genoa CFC
+  15.00  Brescia Calcio           0-4 (0-2)  Torino FC
+  18.00  Inter                    2-1 (0-1)  Hellas Verona
+[Sun Nov/10]
+  12.30  Cagliari Calcio          5-2 (3-0)  ACF Fiorentina
+  15.00  Lazio Roma               4-2 (1-1)  US Lecce
+         Sampdoria                0-0  Atalanta
+         Udinese Calcio           0-0  SPAL 2013 Ferrara
+  18.00  Parma Calcio 1913        2-0 (0-0)  AS Roma
+  20.45  Juventus                 1-0 (0-0)  AC Milan
+
+
+Matchday 13
+[Sat Nov/23]
+  18.00  AC Milan                 1-1 (1-1)  SSC Napoli
+  15.00  Atalanta                 1-3 (0-0)  Juventus
+  20.45  Torino FC                0-3 (0-2)  Inter
+[Sun Nov/24]
+  12.30  Bologna FC               2-2 (1-1)  Parma Calcio 1913
+  15.00  Hellas Verona            1-0 (0-0)  ACF Fiorentina
+         AS Roma                  3-0 (0-0)  Brescia Calcio
+         Sassuolo Calcio          1-2 (1-1)  Lazio Roma
+  18.00  Sampdoria                2-1 (1-1)  Udinese Calcio
+[Mon Nov/25]
+  20.45  SPAL 2013 Ferrara        1-1 (0-0)  Genoa CFC
+  15.00  US Lecce                 2-2 (0-1)  Cagliari Calcio
+
+
+Matchday 14
+[Sat Nov/30]
+  15.00  Brescia Calcio           0-3 (0-1)  Atalanta
+  18.00  Genoa CFC                0-1 (0-0)  Torino FC
+  20.45  ACF Fiorentina           0-1 (0-0)  US Lecce
+[Sun Dec/1]
+  15.00  Parma Calcio 1913        0-1 (0-0)  AC Milan
+  12.30  Juventus                 2-2 (1-1)  Sassuolo Calcio
+  15.00  Inter                    2-1 (2-0)  SPAL 2013 Ferrara
+         Lazio Roma               3-0 (3-0)  Udinese Calcio
+  20.45  Hellas Verona            1-3 (1-2)  AS Roma
+  18.00  SSC Napoli               1-2 (1-0)  Bologna FC
+[Mon Dec/2]
+  20.45  Cagliari Calcio          4-3 (0-1)  Sampdoria
+
+
+Matchday 15
+[Fri Dec/6]
+  20.45  Inter                    0-0  AS Roma
+[Sat Dec/7]
+  20.45  Lazio Roma               3-1 (1-1)  Juventus
+  15.00  Atalanta                 3-2 (1-1)  Hellas Verona
+  18.00  Udinese Calcio           1-1 (1-0)  SSC Napoli
+[Sun Dec/8]
+  12.30  US Lecce                 2-2 (0-2)  Genoa CFC
+  20.45  Bologna FC               2-3 (1-2)  AC Milan
+  15.00  Sassuolo Calcio          2-2 (2-0)  Cagliari Calcio
+         SPAL 2013 Ferrara        0-1 (0-0)  Brescia Calcio
+         Torino FC                2-1 (1-0)  ACF Fiorentina
+  18.00  Sampdoria                0-1 (0-1)  Parma Calcio 1913
+
+
+Matchday 16
+[Sat Dec/14]
+  15.00  Brescia Calcio           3-0 (2-0)  US Lecce
+  18.30  SSC Napoli               1-2 (0-1)  Parma Calcio 1913
+  20.45  Genoa CFC                0-1 (0-0)  Sampdoria
+[Sun Dec/15]
+  15.00  Bologna FC               2-1 (1-0)  Atalanta
+  12.30  Hellas Verona            3-3 (0-1)  Torino FC
+  20.45  ACF Fiorentina           1-1 (0-1)  Inter
+  15.00  Juventus                 3-1 (3-0)  Udinese Calcio
+         AC Milan                 0-0  Sassuolo Calcio
+  18.00  AS Roma                  3-1 (0-1)  SPAL 2013 Ferrara
+[Mon Dec/16]
+  20.45  Cagliari Calcio          1-2 (1-0)  Lazio Roma
+
+
+Matchday 7
+[Wed Dec/18]
+  20.45  Brescia Calcio           0-2 (0-1)  Sassuolo Calcio
+
+
+Matchday 17
+[Wed Dec/18]
+  18.55  Sampdoria                1-2 (1-2)  Juventus
+[Fri Dec/20]
+  20.45  ACF Fiorentina           1-4 (1-2)  AS Roma
+[Sat Dec/21]
+  18.00  Inter                    4-0 (2-0)  Genoa CFC
+  20.45  Torino FC                1-2 (1-1)  SPAL 2013 Ferrara
+  15.00  Udinese Calcio           2-1 (1-0)  Cagliari Calcio
+[Sun Dec/22]
+  12.30  Atalanta                 5-0 (1-0)  AC Milan
+  15.00  US Lecce                 2-3 (0-1)  Bologna FC
+         Parma Calcio 1913        1-1 (0-0)  Brescia Calcio
+  20.45  Sassuolo Calcio          1-2 (1-0)  SSC Napoli
+
+
+Matchday 18
+[Sun Jan/5]
+  12.30  Brescia Calcio           1-2 (1-1)  Lazio Roma
+  15.00  SPAL 2013 Ferrara        0-2 (0-1)  Hellas Verona
+  18.00  Genoa CFC                2-1 (1-1)  Sassuolo Calcio
+  20.45  AS Roma                  0-2 (0-1)  Torino FC
+[Mon Jan/6]
+  20.45  SSC Napoli               1-3 (1-2)  Inter
+  12.30  Bologna FC               1-1 (0-1)  ACF Fiorentina
+  15.00  Atalanta                 5-0 (3-0)  Parma Calcio 1913
+         Juventus                 4-0 (0-0)  Cagliari Calcio
+         AC Milan                 0-0  Sampdoria
+  18.00  US Lecce                 0-1 (0-0)  Udinese Calcio
+
+
+Matchday 19
+[Sat Jan/11]
+  15.00  Cagliari Calcio          0-2 (0-0)  AC Milan
+  18.00  Lazio Roma               1-0 (0-0)  SSC Napoli
+  20.45  Inter                    1-1 (1-0)  Atalanta
+[Sun Jan/12]
+  15.00  ACF Fiorentina           1-0 (0-0)  SPAL 2013 Ferrara
+  12.30  Udinese Calcio           3-0 (1-0)  Sassuolo Calcio
+  20.45  AS Roma                  1-2 (0-2)  Juventus
+  15.00  Sampdoria                5-1 (2-1)  Brescia Calcio
+         Torino FC                1-0 (1-0)  Bologna FC
+  18.15  Hellas Verona            2-1 (0-1)  Genoa CFC
+[Mon Jan/13]
+  20.45  Parma Calcio 1913        2-0 (0-0)  US Lecce
+
+
+Matchday 20
+[Sat Jan/18]
+  20.45  SSC Napoli               0-2 (0-1)  ACF Fiorentina
+  15.00  Lazio Roma               5-1 (3-0)  Sampdoria
+  18.00  Sassuolo Calcio          2-1 (0-1)  Torino FC
+[Sun Jan/19]
+  20.45  Juventus                 2-1 (1-0)  Parma Calcio 1913
+  12.30  AC Milan                 3-2 (0-1)  Udinese Calcio
+  15.00  Brescia Calcio           2-2 (1-1)  Cagliari Calcio
+         Bologna FC               1-1 (1-0)  Hellas Verona
+         US Lecce                 1-1 (0-0)  Inter
+  18.00  Genoa CFC                1-3 (1-2)  AS Roma
+[Mon Jan/20]
+  20.45  Atalanta                 1-2 (1-0)  SPAL 2013 Ferrara
+
+
+Matchday 21
+[Fri Jan/24]
+  20.45  Brescia Calcio           0-1 (0-0)  AC Milan
+[Sat Jan/25]
+  15.00  SPAL 2013 Ferrara        1-3 (1-1)  Bologna FC
+  18.00  ACF Fiorentina           0-0  Genoa CFC
+  20.45  Torino FC                0-7 (0-3)  Atalanta
+[Sun Jan/26]
+  15.00  Sampdoria                0-0  Sassuolo Calcio
+  12.30  Inter                    1-1 (1-0)  Cagliari Calcio
+  15.00  Hellas Verona            3-0 (2-0)  US Lecce
+  18.00  AS Roma                  1-1 (1-1)  Lazio Roma
+  15.00  Parma Calcio 1913        2-0 (2-0)  Udinese Calcio
+  20.45  SSC Napoli               2-1 (0-0)  Juventus
+
+
+Matchday 22
+[Sat Feb/1]
+  20.45  Sassuolo Calcio          4-2 (3-0)  AS Roma
+  15.00  Bologna FC               2-1 (1-1)  Brescia Calcio
+  18.00  Cagliari Calcio          2-2 (1-1)  Parma Calcio 1913
+[Sun Feb/2]
+  12.30  Juventus                 3-0 (1-0)  ACF Fiorentina
+  15.00  Atalanta                 2-2 (2-2)  Genoa CFC
+         AC Milan                 1-1 (1-1)  Hellas Verona
+         Lazio Roma               5-1 (4-0)  SPAL 2013 Ferrara
+  18.00  US Lecce                 4-0 (2-0)  Torino FC
+  20.45  Udinese Calcio           0-2 (0-0)  Inter
+[Mon Feb/3]
+  20.45  Sampdoria                2-4 (1-2)  SSC Napoli
+
+
+Matchday 17
+[Wed Feb/5]
+  20.45  Lazio Roma               0-0  Hellas Verona
+
+
+Matchday 23
+[Fri Feb/7]
+  20.45  AS Roma                  2-3 (1-2)  Bologna FC
+[Sat Feb/8]
+  18.00  Torino FC                1-3 (0-0)  Sampdoria
+  20.45  Hellas Verona            2-1 (0-0)  Juventus
+  15.00  ACF Fiorentina           1-2 (1-0)  Atalanta
+[Sun Feb/9]
+  12.30  SPAL 2013 Ferrara        1-2 (1-0)  Sassuolo Calcio
+  15.00  Genoa CFC                1-0 (1-0)  Cagliari Calcio
+         SSC Napoli               2-3 (0-1)  US Lecce
+         Brescia Calcio           1-1 (0-0)  Udinese Calcio
+  18.00  Parma Calcio 1913        0-1 (0-1)  Lazio Roma
+  20.45  Inter                    4-2 (0-2)  AC Milan
+
+
+Matchday 24
+[Sat Feb/15]
+  18.00  Bologna FC               0-3 (0-2)  Genoa CFC
+  20.45  Atalanta                 2-1 (0-1)  AS Roma
+  15.00  US Lecce                 2-1 (1-0)  SPAL 2013 Ferrara
+[Sun Feb/16]
+  12.30  Udinese Calcio           0-0  Hellas Verona
+  15.00  Juventus                 2-0 (1-0)  Brescia Calcio
+         Sampdoria                1-5 (0-3)  ACF Fiorentina
+         Sassuolo Calcio          0-1 (0-1)  Parma Calcio 1913
+  18.00  Cagliari Calcio          0-1 (0-0)  SSC Napoli
+  20.45  Lazio Roma               2-1 (0-1)  Inter
+[Mon Feb/17]
+  20.45  AC Milan                 1-0 (1-0)  Torino FC
+
+
+Matchday 25
+[Fri Feb/21]
+  20.45  Brescia Calcio           1-2 (1-0)  SSC Napoli
+[Sat Feb/22]
+  18.00  SPAL 2013 Ferrara        1-2 (0-1)  Juventus
+  20.45  ACF Fiorentina           1-1 (0-0)  AC Milan
+  15.00  Bologna FC               1-1 (0-1)  Udinese Calcio
+[Sun Feb/23]
+  12.30  Genoa CFC                2-3 (0-1)  Lazio Roma
+  18.00  AS Roma                  4-0 (2-0)  US Lecce
+
+
+Matchday 26
+[Sat Feb/29]
+  20.45  SSC Napoli               2-1 (1-0)  Torino FC
+  15.00  Lazio Roma               2-0 (2-0)  Bologna FC
+[Sun Mar/1]
+  15.00  US Lecce                 2-7 (2-2)  Atalanta
+  18.00  Cagliari Calcio          3-4 (1-2)  AS Roma
+[Sun Mar/8]
+  15.00  Sampdoria                2-1 (0-1)  Hellas Verona
+  18.00  Udinese Calcio           0-0  ACF Fiorentina
+  20.45  Juventus                 2-0 (0-0)  Inter
+  13.45  Parma Calcio 1913        0-1 (0-0)  SPAL 2013 Ferrara
+  15.00  AC Milan                 1-2 (0-2)  Genoa CFC
+[Mon Mar/9]
+  18.30  Sassuolo Calcio          3-0 (1-0)  Brescia Calcio
+
+
+Matchday 25
+[Sat Jun/20]
+  21.45  Hellas Verona            2-1 (2-1)  Cagliari Calcio
+  19.30  Torino FC                1-1 (1-1)  Parma Calcio 1913
+[Sun Jun/21]
+  21.45  Inter                    2-1 (2-0)  Sampdoria
+  19.30  Atalanta                 4-1 (3-0)  Sassuolo Calcio
+
+
+Matchday 27
+[Mon Jun/22]
+  19.30  ACF Fiorentina           1-1 (1-1)  Brescia Calcio
+         US Lecce                 1-4 (0-1)  AC Milan
+  21.45  Bologna FC               0-2 (0-2)  Juventus
+[Tue Jun/23]
+  19.30  Hellas Verona            0-2 (0-1)  SSC Napoli
+  21.45  Genoa CFC                1-4 (0-2)  Parma Calcio 1913
+         Torino FC                1-0 (1-0)  Udinese Calcio
+  19.30  SPAL 2013 Ferrara        0-1 (0-0)  Cagliari Calcio
+[Wed Jun/24]
+  21.45  Atalanta                 3-2 (1-2)  Lazio Roma
+         AS Roma                  2-1 (0-1)  Sampdoria
+  19.30  Inter                    3-3 (2-1)  Sassuolo Calcio
+
+
+Matchday 28
+[Fri Jun/26]
+  21.45  Juventus                 4-0 (0-0)  US Lecce
+[Sat Jun/27]
+  17.15  Brescia Calcio           2-2 (2-1)  Genoa CFC
+  19.30  Cagliari Calcio          4-2 (2-0)  Torino FC
+  21.45  Lazio Roma               2-1 (0-1)  ACF Fiorentina
+[Sun Jun/28]
+  19.30  Udinese Calcio           2-3 (1-1)  Atalanta
+         Sampdoria                1-2 (0-0)  Bologna FC
+         Sassuolo Calcio          3-3 (0-0)  Hellas Verona
+         SSC Napoli               3-1 (2-1)  SPAL 2013 Ferrara
+  21.45  Parma Calcio 1913        1-2 (1-0)  Inter
+  17.15  AC Milan                 2-0 (0-0)  AS Roma
+
+
+Matchday 29
+[Tue Jun/30]
+  21.45  Genoa CFC                1-3 (0-0)  Juventus
+  19.30  Torino FC                1-2 (1-0)  Lazio Roma
+[Wed Jul/1]
+  19.30  Inter                    6-0 (3-0)  Brescia Calcio
+         Bologna FC               1-1 (1-0)  Cagliari Calcio
+  21.45  SPAL 2013 Ferrara        2-2 (2-0)  AC Milan
+         Hellas Verona            3-2 (1-1)  Parma Calcio 1913
+         US Lecce                 1-2 (0-1)  Sampdoria
+         ACF Fiorentina           1-3 (0-2)  Sassuolo Calcio
+[Thu Jul/2]
+  21.45  AS Roma                  0-2 (0-1)  Udinese Calcio
+  19.30  Atalanta                 2-0 (0-0)  SSC Napoli
+
+
+Matchday 30
+[Sat Jul/4]
+  19.30  Sassuolo Calcio          4-2 (1-1)  US Lecce
+  21.45  Lazio Roma               0-3 (0-2)  AC Milan
+  17.15  Juventus                 4-1 (2-1)  Torino FC
+[Sun Jul/5]
+  17.15  Inter                    1-2 (1-0)  Bologna FC
+  19.30  Cagliari Calcio          0-1 (0-1)  Atalanta
+         Parma Calcio 1913        1-2 (0-2)  ACF Fiorentina
+         Udinese Calcio           2-2 (1-0)  Genoa CFC
+         Brescia Calcio           2-0 (0-0)  Hellas Verona
+         Sampdoria                3-0 (3-0)  SPAL 2013 Ferrara
+  21.45  SSC Napoli               2-1 (0-0)  AS Roma
+
+
+Matchday 31
+[Tue Jul/7]
+  21.45  AC Milan                 4-2 (0-0)  Juventus
+  19.30  US Lecce                 2-1 (1-1)  Lazio Roma
+[Wed Jul/8]
+  19.30  ACF Fiorentina           0-0  Cagliari Calcio
+         Genoa CFC                1-2 (0-1)  SSC Napoli
+  21.45  Torino FC                3-1 (0-1)  Brescia Calcio
+         AS Roma                  2-1 (1-1)  Parma Calcio 1913
+         Atalanta                 2-0 (0-0)  Sampdoria
+         Bologna FC               1-2 (0-1)  Sassuolo Calcio
+[Thu Jul/9]
+  21.45  Hellas Verona            2-2 (1-0)  Inter
+  19.30  SPAL 2013 Ferrara        0-3 (0-2)  Udinese Calcio
+
+
+Matchday 32
+[Sat Jul/11]
+  17.15  Lazio Roma               1-2 (1-0)  Sassuolo Calcio
+  19.30  Brescia Calcio           0-3 (0-0)  AS Roma
+  21.45  Juventus                 2-2 (0-1)  Atalanta
+[Sun Jul/12]
+  19.30  Parma Calcio 1913        2-2 (0-2)  Bologna FC
+         ACF Fiorentina           1-1 (0-1)  Hellas Verona
+         Cagliari Calcio          0-0  US Lecce
+         Udinese Calcio           1-3 (1-1)  Sampdoria
+  21.45  SSC Napoli               2-2 (1-1)  AC Milan
+  17.15  Genoa CFC                2-0 (1-0)  SPAL 2013 Ferrara
+[Mon Jul/13]
+  21.45  Inter                    3-1 (0-1)  Torino FC
+
+
+Matchday 33
+[Tue Jul/14]
+  21.45  Atalanta                 6-2 (4-1)  Brescia Calcio
+[Wed Jul/15]
+  19.30  Sampdoria                3-0 (2-0)  Cagliari Calcio
+         Bologna FC               1-1 (0-1)  SSC Napoli
+         AC Milan                 3-1 (0-1)  Parma Calcio 1913
+  21.45  US Lecce                 1-3 (0-3)  ACF Fiorentina
+         AS Roma                  2-1 (2-0)  Hellas Verona
+         Sassuolo Calcio          3-3 (1-2)  Juventus
+         Udinese Calcio           0-0  Lazio Roma
+[Thu Jul/16]
+  21.45  SPAL 2013 Ferrara        0-4 (0-1)  Inter
+  19.30  Torino FC                3-0 (1-0)  Genoa CFC
+
+
+Matchday 34
+[Sat Jul/18]
+  19.30  Cagliari Calcio          1-1 (0-1)  Sassuolo Calcio
+  21.45  AC Milan                 5-1 (2-1)  Bologna FC
+  17.15  Hellas Verona            1-1 (0-0)  Atalanta
+[Sun Jul/19]
+  17.15  Parma Calcio 1913        2-3 (2-0)  Sampdoria
+  19.30  Genoa CFC                2-1 (1-0)  US Lecce
+         Brescia Calcio           2-1 (0-1)  SPAL 2013 Ferrara
+         ACF Fiorentina           2-0 (1-0)  Torino FC
+         SSC Napoli               2-1 (1-1)  Udinese Calcio
+  21.45  AS Roma                  2-2 (1-1)  Inter
+[Mon Jul/20]
+  21.45  Juventus                 2-1 (0-0)  Lazio Roma
+
+
+Matchday 35
+[Tue Jul/21]
+  21.45  Sassuolo Calcio          1-2 (1-2)  AC Milan
+  19.30  Atalanta                 1-0 (0-0)  Bologna FC
+[Wed Jul/22]
+  19.30  Parma Calcio 1913        2-1 (1-0)  SSC Napoli
+  21.45  US Lecce                 3-1 (2-0)  Brescia Calcio
+         Inter                    0-0  ACF Fiorentina
+         Sampdoria                1-2 (1-1)  Genoa CFC
+         Torino FC                1-1 (0-0)  Hellas Verona
+         SPAL 2013 Ferrara        1-6 (1-2)  AS Roma
+[Thu Jul/23]
+  21.45  Lazio Roma               2-1 (0-1)  Cagliari Calcio
+  19.30  Udinese Calcio           2-1 (0-1)  Juventus
+
+
+Matchday 36
+[Fri Jul/24]
+  21.45  AC Milan                 1-1 (1-1)  Atalanta
+[Sat Jul/25]
+  19.30  Genoa CFC                0-3 (0-1)  Inter
+  21.45  SSC Napoli               2-0 (1-0)  Sassuolo Calcio
+  17.15  Brescia Calcio           1-2 (0-0)  Parma Calcio 1913
+[Sun Jul/26]
+  17.15  Bologna FC               3-2 (2-1)  US Lecce
+  19.30  AS Roma                  2-1 (1-0)  ACF Fiorentina
+         Hellas Verona            1-5 (1-1)  Lazio Roma
+         SPAL 2013 Ferrara        1-1 (0-0)  Torino FC
+         Cagliari Calcio          0-1 (0-1)  Udinese Calcio
+  21.45  Juventus                 2-0 (1-0)  Sampdoria
+
+
+Matchday 37
+[Tue Jul/28]
+  21.45  Inter                    2-0 (1-0)  SSC Napoli
+  19.30  Parma Calcio 1913        1-2 (1-0)  Atalanta
+[Wed Jul/29]
+  19.30  Lazio Roma               2-0 (1-0)  Brescia Calcio
+         Sassuolo Calcio          5-0 (2-0)  Genoa CFC
+         Udinese Calcio           1-2 (1-1)  US Lecce
+         Sampdoria                1-4 (0-1)  AC Milan
+         Hellas Verona            3-0 (2-0)  SPAL 2013 Ferrara
+  21.45  ACF Fiorentina           4-0 (0-0)  Bologna FC
+         Cagliari Calcio          2-0 (2-0)  Juventus
+         Torino FC                2-3 (1-2)  AS Roma
+
+
+Matchday 38
+[Sat Aug/1]
+  18.00  Brescia Calcio           1-1 (0-1)  Sampdoria
+  20.45  AC Milan                 3-0 (1-0)  Cagliari Calcio
+         Atalanta                 0-2 (0-2)  Inter
+         SSC Napoli               3-1 (1-1)  Lazio Roma
+         Juventus                 1-3 (1-2)  AS Roma
+[Sun Aug/2]
+  20.45  Genoa CFC                3-0 (3-0)  Hellas Verona
+         US Lecce                 3-4 (2-2)  Parma Calcio 1913
+         Bologna FC               1-1 (1-0)  Torino FC
+         Sassuolo Calcio          0-1 (0-0)  Udinese Calcio
+  18.00  SPAL 2013 Ferrara        1-3 (1-1)  ACF Fiorentina

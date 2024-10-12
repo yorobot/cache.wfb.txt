@@ -1,0 +1,518 @@
+= UY 1 2019
+
+# Date       Sat Feb/16 - Sun Dec/15 2019 (302d)
+# Teams      16
+# Matches    299
+# Stages     Apertura (120)  Clausura (120)  Clausura Finale (1)  Intermedio (56)  Intermedio Finale (1)  Playoffs (1)
+
+
+== Apertura
+
+Matchday 1
+[Sat Feb/16]
+  17.00  Liverpool                1-1 (1-0)  Nacional
+         Juventud de Las Piedras  1-2 (1-1)  Fénix
+         Rampla Juniors           3-4 (1-3)  Progreso
+  19.30  Montevideo Wanderers     1-1 (1-0)  River Plate
+[Sun Feb/17]
+  17.00  Cerro Largo              2-0 (2-0)  Danubio
+         Boston River             2-2 (0-0)  Plaza Colonia
+         Racing                   1-3 (0-1)  CA Cerro
+  19.30  Defensor Sporting        0-1 (0-0)  Peñarol
+
+
+Matchday 2
+[Sat Feb/23]
+  17.00  River Plate              4-1 (3-1)  Racing
+         CA Cerro                 0-1 (0-1)  Boston River
+         Plaza Colonia            0-1 (0-1)  Danubio
+  20.00  Peñarol                  5-0 (1-0)  Rampla Juniors
+[Sun Feb/24]
+  17.00  Progreso                 1-0 (1-0)  Juventud de Las Piedras
+         Fénix                    4-4 (3-2)  Liverpool
+  19.30  Defensor Sporting        0-3 (0-3)  Cerro Largo
+[Tue Feb/26]
+  20.00  Nacional                 1-4 (1-3)  Montevideo Wanderers
+
+
+Matchday 3
+[Fri Mar/1]
+  21.00  Cerro Largo              1-0 (1-0)  Plaza Colonia
+[Sat Mar/2]
+  16.30  Racing                   1-1 (0-0)  Nacional
+         Liverpool                3-5 (0-2)  Progreso
+[Sun Mar/3]
+  16.30  Danubio                  1-0 (0-0)  CA Cerro
+         Boston River             2-0 (1-0)  River Plate
+         Rampla Juniors           0-2 (0-1)  Defensor Sporting
+  19.00  Peñarol                  4-1 (2-1)  Juventud de Las Piedras
+  20.30  Montevideo Wanderers     0-2 (0-0)  Fénix
+
+
+Matchday 4
+[Sat Mar/9]
+  16.30  Defensor Sporting        1-4 (1-2)  Juventud de Las Piedras
+         Progreso                 2-2 (0-1)  Montevideo Wanderers
+         CA Cerro                 1-1 (0-1)  Plaza Colonia
+  19.00  Nacional                 2-2 (0-1)  Boston River
+[Sun Mar/10]
+  16.30  Rampla Juniors           2-1 (2-1)  Cerro Largo
+         Fénix                    2-0 (1-0)  Racing
+         River Plate              1-1 (1-0)  Danubio
+  19.00  Peñarol                  1-0 (1-0)  Liverpool
+
+
+Matchday 5
+[Sat Mar/16]
+  16.30  Danubio                  2-0 (1-0)  Nacional
+         Boston River             1-3 (0-1)  Fénix
+         Liverpool                6-2 (1-1)  Defensor Sporting
+  19.30  Cerro Largo              4-1 (1-1)  CA Cerro
+[Sun Mar/17]
+  16.30  Plaza Colonia            1-0 (0-0)  River Plate
+         Racing                   3-0 (0-0)  Progreso
+         Juventud de Las Piedras  1-1 (0-0)  Rampla Juniors
+  19.30  Montevideo Wanderers     2-0 (2-0)  Peñarol
+
+
+Matchday 6
+[Sat Mar/23]
+  16.00  Rampla Juniors           2-0 (1-0)  Liverpool
+         Fénix                    5-1 (2-1)  Danubio
+  19.00  Peñarol                  2-2 (1-0)  Racing
+[Sun Mar/24]
+  16.00  Juventud de Las Piedras  1-0 (1-0)  Cerro Largo
+         Defensor Sporting        1-1 (1-1)  Montevideo Wanderers
+         Progreso                 1-1 (1-1)  Boston River
+         Nacional                 3-0 (1-0)  Plaza Colonia
+         River Plate              2-1 (0-0)  CA Cerro
+
+
+Matchday 7
+[Sat Mar/30]
+  16.00  CA Cerro                 0-2 (0-1)  Nacional
+         Liverpool                2-1 (1-0)  Juventud de Las Piedras
+  19.00  Cerro Largo              2-0 (1-0)  River Plate
+         Boston River             0-4 (0-0)  Peñarol
+[Sun Mar/31]
+  16.00  Plaza Colonia            2-2 (1-1)  Fénix
+         Danubio                  3-2 (1-0)  Progreso
+         Racing                   4-2 (1-2)  Defensor Sporting
+         Montevideo Wanderers     1-0 (1-0)  Rampla Juniors
+
+
+Matchday 8
+[Sat Apr/6]
+  15.00  Rampla Juniors           2-0 (0-0)  Racing
+  16.00  Juventud de Las Piedras  4-1 (3-1)  Montevideo Wanderers
+         Nacional                 6-0 (4-0)  River Plate
+  19.00  Peñarol                  1-0 (1-0)  Danubio
+[Sun Apr/7]
+  16.00  Liverpool                3-2 (1-2)  Cerro Largo
+         Defensor Sporting        0-0  Boston River
+         Progreso                 0-1 (0-1)  Plaza Colonia
+         Fénix                    2-1 (1-1)  CA Cerro
+
+
+Matchday 9
+[Sat Apr/13]
+  16.00  CA Cerro                 0-2 (0-1)  Progreso
+         Danubio                  1-1 (0-1)  Defensor Sporting
+  19.00  Plaza Colonia            0-1 (0-1)  Peñarol
+         Montevideo Wanderers     2-1 (1-0)  Liverpool
+[Sun Apr/14]
+  10.00  River Plate              2-2 (2-2)  Fénix
+  16.00  Boston River             1-1 (0-0)  Rampla Juniors
+         Racing                   2-1 (2-1)  Juventud de Las Piedras
+  21.00  Cerro Largo              2-2 (1-0)  Nacional
+
+
+Matchday 10
+[Sat Apr/20]
+  16.00  Rampla Juniors           0-0  Danubio
+         Progreso                 4-0 (1-0)  River Plate
+         Fénix                    4-4 (3-2)  Nacional
+  19.00  Peñarol                  1-1 (0-0)  CA Cerro
+[Sun Apr/21]
+  16.00  Liverpool                1-1 (0-1)  Racing
+         Juventud de Las Piedras  0-1 (0-0)  Boston River
+  16.15  Defensor Sporting        4-1 (1-0)  Plaza Colonia
+[Tue Apr/23]
+  19.00  Montevideo Wanderers     0-0  Cerro Largo
+
+
+Matchday 11
+[Sat May/4]
+  15.00  River Plate              0-2 (0-2)  Peñarol
+  15.30  Plaza Colonia            0-1 (0-1)  Rampla Juniors
+         Boston River             0-4 (0-2)  Liverpool
+  20.00  Nacional                 4-0 (3-0)  Progreso
+[Sun May/5]
+  15.30  CA Cerro                 0-2 (0-1)  Defensor Sporting
+         Danubio                  4-3 (2-3)  Juventud de Las Piedras
+         Racing                   2-4 (1-2)  Montevideo Wanderers
+  18.15  Cerro Largo              2-0 (0-0)  Fénix
+
+
+Matchday 12
+[Sat May/11]
+  13.15  Progreso                 3-0 (1-0)  Fénix
+  15.30  Racing                   1-0 (0-0)  Cerro Largo
+         Montevideo Wanderers     0-3 (0-2)  Boston River
+         Liverpool                0-5 (0-2)  Danubio
+         Juventud de Las Piedras  0-0  Plaza Colonia
+         Rampla Juniors           2-0 (1-0)  CA Cerro
+         Defensor Sporting        1-1 (0-0)  River Plate
+[Sun May/12]
+  15.00  Peñarol                  1-1 (1-1)  Nacional
+
+
+Matchday 13
+[Sat May/18]
+  15.30  Fénix                    1-2 (1-2)  Peñarol
+         River Plate              2-1 (0-0)  Rampla Juniors
+         CA Cerro                 1-0 (0-0)  Juventud de Las Piedras
+         Plaza Colonia            1-2 (0-0)  Liverpool
+         Danubio                  0-2 (0-2)  Montevideo Wanderers
+[Sun May/19]
+  15.30  Cerro Largo              0-0  Progreso
+         Boston River             2-1 (0-1)  Racing
+  18.30  Nacional                 1-0 (0-0)  Defensor Sporting
+
+
+Matchday 14
+[Sat May/25]
+  15.00  Juventud de Las Piedras  4-1 (2-0)  River Plate
+         Rampla Juniors           0-3 (0-2)  Nacional
+         Defensor Sporting        2-4 (1-1)  Fénix
+[Sun May/26]
+  15.00  Boston River             2-3 (0-3)  Cerro Largo
+         Racing                   0-2 (0-1)  Danubio
+         Montevideo Wanderers     2-2 (0-0)  Plaza Colonia
+  18.00  Peñarol                  2-2 (1-2)  Progreso
+[Wed Jun/5]
+  15.00  Liverpool                2-2 (0-2)  CA Cerro
+
+
+Matchday 15
+[Fri May/31]
+  20.00  Nacional                 1-0 (0-0)  Juventud de Las Piedras
+[Sat Jun/1]
+  15.00  Progreso                 0-3 (0-3)  Defensor Sporting
+         Fénix                    3-1 (1-1)  Rampla Juniors
+         Plaza Colonia            4-1 (2-0)  Racing
+[Sun Jun/2]
+  15.00  River Plate              0-0  Liverpool
+         CA Cerro                 3-0 (2-0)  Montevideo Wanderers
+         Danubio                  1-0 (0-0)  Boston River
+  16.00  Cerro Largo              1-0 (1-0)  Peñarol
+
+
+== Clausura
+
+Matchday 1
+[Sat Sep/14]
+  16.00  CA Cerro                 1-0 (0-0)  Racing
+         Fénix                    2-2 (1-1)  Juventud de Las Piedras
+         River Plate              3-1 (3-0)  Montevideo Wanderers
+  19.00  Peñarol                  1-0 (1-0)  Defensor Sporting
+[Sun Sep/15]
+  16.00  Danubio                  1-2 (0-1)  Cerro Largo
+         Plaza Colonia            1-0 (0-0)  Boston River
+         Progreso                 2-2 (2-1)  Rampla Juniors
+  19.00  Nacional                 4-1 (3-1)  Liverpool
+
+
+Matchday 2
+[Wed Sep/18]
+  16.00  Juventud de Las Piedras  1-2 (0-1)  Progreso
+         Racing                   1-1 (1-1)  River Plate
+  19.00  Cerro Largo              1-4 (0-3)  Defensor Sporting
+  20.00  Rampla Juniors           1-2 (0-2)  Peñarol
+[Thu Sep/19]
+  16.00  Boston River             2-2 (2-1)  CA Cerro
+         Danubio                  0-1 (0-0)  Plaza Colonia
+         Liverpool                1-1 (1-0)  Fénix
+  20.00  Montevideo Wanderers     0-1 (0-1)  Nacional
+
+
+Matchday 3
+[Sat Sep/21]
+  16.00  Juventud de Las Piedras  1-1 (1-0)  Peñarol
+  20.00  Defensor Sporting        1-0 (1-0)  Rampla Juniors
+[Sun Sep/22]
+  16.00  CA Cerro                 0-1 (0-0)  Danubio
+         Fénix                    3-3 (3-1)  Montevideo Wanderers
+         Plaza Colonia            1-0 (0-0)  Cerro Largo
+         Progreso                 2-1 (0-0)  Liverpool
+         River Plate              1-4 (0-2)  Boston River
+  19.00  Nacional                 3-0 (1-0)  Racing
+
+
+Matchday 4
+[Sat Oct/5]
+  16.00  Boston River             0-2 (0-1)  Nacional
+         Cerro Largo              5-1 (4-0)  Rampla Juniors
+         Danubio                  1-1 (1-1)  River Plate
+         Racing                   4-1 (4-1)  Fénix
+  18.30  Montevideo Wanderers     0-1 (0-1)  Progreso
+[Sun Oct/6]
+  16.00  Juventud de Las Piedras  1-3 (0-1)  Defensor Sporting
+         Liverpool                1-0 (0-0)  Peñarol
+         Plaza Colonia            1-0 (0-0)  CA Cerro
+
+
+Matchday 5
+[Wed Oct/9]
+  16.00  Fénix                    1-2 (0-1)  Boston River
+         Progreso                 2-1 (2-0)  Racing
+         River Plate              0-0  Plaza Colonia
+  20.00  Nacional                 1-0 (1-0)  Danubio
+[Thu Oct/10]
+  16.00  CA Cerro                 0-2 (0-1)  Cerro Largo
+         Rampla Juniors           1-3 (0-1)  Juventud de Las Piedras
+  20.00  Defensor Sporting        0-0  Liverpool
+         Peñarol                  1-0 (0-0)  Montevideo Wanderers
+
+
+Matchday 6
+[Wed Oct/16]
+  16.00  Boston River             1-1 (0-0)  Progreso
+         CA Cerro                 3-2 (2-1)  River Plate
+         Cerro Largo              2-0 (0-0)  Juventud de Las Piedras
+         Danubio                  1-1 (0-0)  Fénix
+  20.00  Plaza Colonia            0-2 (0-1)  Nacional
+[Thu Oct/17]
+  16.00  Liverpool                1-0 (0-0)  Rampla Juniors
+         Racing                   3-3 (1-1)  Peñarol
+  19.30  Montevideo Wanderers     2-0 (2-0)  Defensor Sporting
+
+
+Matchday 7
+[Sat Oct/19]
+  16.00  Fénix                    0-2 (0-0)  Plaza Colonia
+         Progreso                 2-1 (0-1)  Danubio
+  19.00  Nacional                 2-0 (1-0)  CA Cerro
+[Sun Oct/20]
+  16.00  Defensor Sporting        4-0 (1-0)  Racing
+         Juventud de Las Piedras  0-0  Liverpool
+         Rampla Juniors           1-1 (1-0)  Montevideo Wanderers
+         River Plate              3-2 (3-0)  Cerro Largo
+  18.00  Peñarol                  1-0 (0-0)  Boston River
+
+
+Matchday 8
+[Thu Oct/24]
+  16.00  CA Cerro                 1-0 (0-0)  Fénix
+         Plaza Colonia            0-1 (0-0)  Progreso
+         River Plate              3-1 (2-1)  Nacional
+[Fri Oct/25]
+  16.00  Boston River             1-4 (1-1)  Defensor Sporting
+         Danubio                  0-2 (0-0)  Peñarol
+         Racing                   3-1 (1-0)  Rampla Juniors
+  19.00  Montevideo Wanderers     3-0 (1-0)  Juventud de Las Piedras
+  19.30  Cerro Largo              1-1 (0-1)  Liverpool
+
+
+Matchday 9
+[Sat Nov/2]
+  16.00  Defensor Sporting        1-2 (1-1)  Danubio
+         Juventud de Las Piedras  0-0  Racing
+         Rampla Juniors           0-1 (0-1)  Boston River
+  19.00  Peñarol                  2-1 (0-0)  Plaza Colonia
+[Sun Nov/3]
+  16.00  Fénix                    1-0 (1-0)  River Plate
+         Liverpool                2-2 (1-0)  Montevideo Wanderers
+         Progreso                 1-1 (1-1)  CA Cerro
+  19.00  Nacional                 0-1 (0-0)  Cerro Largo
+
+
+Matchday 10
+[Wed Nov/6]
+  16.00  Boston River             2-1 (0-1)  Juventud de Las Piedras
+         CA Cerro                 1-3 (0-1)  Peñarol
+         Danubio                  1-1 (0-1)  Rampla Juniors
+         Plaza Colonia            4-1 (1-0)  Defensor Sporting
+         River Plate              1-2 (1-0)  Progreso
+[Thu Nov/7]
+  16.00  Cerro Largo              0-2 (0-0)  Montevideo Wanderers
+         Racing                   0-2 (0-0)  Liverpool
+  20.00  Nacional                 2-0 (1-0)  Fénix
+
+
+Matchday 11
+[Sat Nov/9]
+  16.00  Juventud de Las Piedras  0-0  Danubio
+         Rampla Juniors           0-1 (0-0)  Plaza Colonia
+  19.00  Peñarol                  1-0 (0-0)  River Plate
+[Sun Nov/10]
+  16.00  Fénix                    1-1 (1-1)  Cerro Largo
+         Liverpool                0-0  Boston River
+         Progreso                 0-1 (0-0)  Nacional
+  18.30  Defensor Sporting        1-1 (0-1)  CA Cerro
+  19.00  Montevideo Wanderers     0-2 (0-1)  Racing
+
+
+Matchday 12
+[Sat Nov/16]
+  11.00  Fénix                    1-2 (0-0)  Progreso
+  16.00  Boston River             1-3 (0-0)  Montevideo Wanderers
+         CA Cerro                 0-1 (0-0)  Rampla Juniors
+         Cerro Largo              2-1 (2-0)  Racing
+         Danubio                  1-2 (1-0)  Liverpool
+         Plaza Colonia            1-0 (0-0)  Juventud de Las Piedras
+         River Plate              1-0 (1-0)  Defensor Sporting
+[Sun Nov/17]
+  16.00  Nacional                 0-0  Peñarol
+
+
+Matchday 13
+[Thu Nov/21]
+  16.30  Progreso                 0-1 (0-1)  Cerro Largo
+  19.00  Montevideo Wanderers     2-1 (2-1)  Danubio
+  20.30  Defensor Sporting        2-1 (1-1)  Nacional
+[Fri Nov/22]
+  16.30  Juventud de Las Piedras  4-2 (3-0)  CA Cerro
+         Liverpool                0-1 (0-0)  Plaza Colonia
+         Racing                   0-1 (0-0)  Boston River
+         Rampla Juniors           2-2 (1-0)  River Plate
+  20.30  Peñarol                  2-1 (1-1)  Fénix
+
+
+Matchday 14
+[Wed Nov/27]
+  17.00  CA Cerro                 0-2 (0-0)  Liverpool
+         Cerro Largo              1-0 (0-0)  Boston River
+         Danubio                  3-2 (1-0)  Racing
+         Plaza Colonia            0-0  Montevideo Wanderers
+         Progreso                 0-0  Peñarol
+         River Plate              1-0 (1-0)  Juventud de Las Piedras
+[Thu Nov/28]
+  17.00  Fénix                    3-2 (2-2)  Defensor Sporting
+  20.30  Nacional                 4-3 (2-1)  Rampla Juniors
+
+
+Matchday 15
+[Thu Dec/5]
+  17.00  Boston River             3-1 (1-0)  Danubio
+         Liverpool                0-1 (0-0)  River Plate
+         Racing                   3-2 (2-0)  Plaza Colonia
+         Rampla Juniors           2-1 (2-0)  Fénix
+         Montevideo Wanderers     0-2 (0-0)  CA Cerro
+  20.30  Defensor Sporting        2-4 (1-0)  Progreso
+         Juventud de Las Piedras  0-3 (0-0)  Nacional
+         Peñarol                  2-1 (1-0)  Cerro Largo
+
+
+== Clausura Finale
+
+Final
+[Wed Dec/11]
+  20.30  Peñarol                  0-2 (0-0)  Nacional
+
+
+== Intermedio
+
+Matchday 1
+[Sat Jul/13]
+  15.00  Cerro Largo              3-0 (1-0)  Racing
+         CA Cerro                 0-2 (0-2)  Liverpool
+         Juventud de Las Piedras  2-2 (1-1)  Danubio
+  18.00  Nacional                 1-2 (1-2)  Defensor Sporting
+[Sun Jul/14]
+  15.00  River Plate              0-0  Progreso
+         Fénix                    1-0 (1-0)  Rampla Juniors
+         Plaza Colonia            2-1 (1-0)  Montevideo Wanderers
+  18.00  Peñarol                  4-0 (2-0)  Boston River
+
+
+Matchday 2
+[Sat Jul/20]
+  15.00  Progreso                 1-1 (0-1)  Peñarol
+         Racing                   0-2 (0-1)  Plaza Colonia
+         Defensor Sporting        1-1 (0-0)  Juventud de Las Piedras
+         Montevideo Wanderers     1-2 (0-0)  Cerro Largo
+[Sun Jul/21]
+  12.00  Rampla Juniors           0-1 (0-0)  CA Cerro
+  15.00  Boston River             0-0  River Plate
+         Danubio                  1-2 (0-2)  Nacional
+         Liverpool                5-1 (2-1)  Fénix
+
+
+Matchday 3
+[Sat Jul/27]
+  15.00  Peñarol                  2-0 (0-0)  Danubio
+         Plaza Colonia            1-2 (0-1)  Rampla Juniors
+         River Plate              2-1 (1-1)  Defensor Sporting
+  19.30  Nacional                 4-2 (1-1)  Progreso
+[Sun Jul/28]
+  15.00  Fénix                    3-0 (1-0)  Montevideo Wanderers
+         Juventud de Las Piedras  1-0 (0-0)  Boston River
+         CA Cerro                 1-2 (1-2)  Racing
+  17.00  Cerro Largo              1-0 (1-0)  Liverpool
+
+
+Matchday 4
+[Sat Aug/10]
+  15.00  Rampla Juniors           1-1 (1-1)  Cerro Largo
+         Liverpool                3-1 (2-0)  Montevideo Wanderers
+         Juventud de Las Piedras  1-2 (1-0)  River Plate
+  18.00  Boston River             0-0  Nacional
+[Sun Aug/11]
+  15.00  Plaza Colonia            0-0  CA Cerro
+         Racing                   3-1 (2-0)  Fénix
+         Progreso                 2-0 (1-0)  Danubio
+  18.00  Defensor Sporting        2-2 (0-1)  Peñarol
+
+
+Matchday 5
+[Sat Aug/17]
+  15.00  Danubio                  1-2 (0-2)  Boston River
+         Cerro Largo              2-0 (1-0)  CA Cerro
+         Fénix                    0-1 (0-0)  Plaza Colonia
+         Nacional                 1-1 (0-0)  River Plate
+[Sun Aug/18]
+  15.00  Liverpool                3-1 (0-0)  Racing
+         Montevideo Wanderers     4-3 (1-3)  Rampla Juniors
+         Progreso                 3-1 (2-0)  Defensor Sporting
+  18.00  Peñarol                  0-0  Juventud de Las Piedras
+
+
+Matchday 6
+[Sat Aug/24]
+  15.00  River Plate              1-0 (1-0)  Peñarol
+         Boston River             1-1 (0-1)  Progreso
+         Plaza Colonia            3-1 (0-0)  Cerro Largo
+         Racing                   2-2 (0-1)  Montevideo Wanderers
+[Sun Aug/25]
+  15.00  Rampla Juniors           1-2 (0-2)  Liverpool
+         Juventud de Las Piedras  0-2 (0-1)  Nacional
+         CA Cerro                 0-1 (0-1)  Fénix
+  17.30  Defensor Sporting        3-1 (2-1)  Danubio
+
+
+Matchday 7
+[Sat Aug/31]
+  15.00  Racing                   2-4 (1-2)  Rampla Juniors
+         Liverpool                3-0 (2-0)  Plaza Colonia
+         Defensor Sporting        2-2 (1-1)  Boston River
+         Progreso                 0-0  Juventud de Las Piedras
+         Cerro Largo              1-0 (1-0)  Fénix
+  17.15  Montevideo Wanderers     0-1 (0-1)  CA Cerro
+[Sun Sep/1]
+  15.00  Nacional                 3-0 (2-0)  Peñarol
+         Danubio                  0-1 (0-0)  River Plate
+
+
+== Intermedio Finale
+
+Final
+[Sun Sep/8]
+  15.00  River Plate              4-5 pen. 2-2 a.e.t. (1-1, 0-1)  Liverpool
+
+
+== Playoffs
+
+Final
+[Sun Dec/15]
+  17.00  Nacional                 1-0 (0-0)  Peñarol

@@ -1,0 +1,324 @@
+= UEFA EL 2009/10
+
+# Date       Thu Sep/17 2009 - Wed May/12 2010 (237d)
+# Teams      56
+# Matches    205
+
+
+
+Group
+[Thu Sep/17]
+  19.00  AFC Ajax (NED)           0-0  FC Timişoara (ROU)
+         Dinamo Zagreb (CRO)      0-2 (0-0)  RSC Anderlecht (BEL)
+[Thu Oct/1]
+  21.05  RSC Anderlecht (BEL)     1-1 (0-0)  AFC Ajax (NED)
+         FC Timişoara (ROU)       0-3 (0-1)  Dinamo Zagreb (CRO)
+[Thu Oct/22]
+  21.05  AFC Ajax (NED)           2-1 (1-0)  Dinamo Zagreb (CRO)
+         FC Timişoara (ROU)       0-0  RSC Anderlecht (BEL)
+[Thu Nov/5]
+  19.00  Dinamo Zagreb (CRO)      0-2 (0-2)  AFC Ajax (NED)
+         RSC Anderlecht (BEL)     3-1 (1-0)  FC Timişoara (ROU)
+[Wed Dec/2]
+  21.05  FC Timişoara (ROU)       1-2 (1-1)  AFC Ajax (NED)
+         RSC Anderlecht (BEL)     0-1 (0-0)  Dinamo Zagreb (CRO)
+[Thu Dec/17]
+  19.00  AFC Ajax (NED)           1-3 (0-3)  RSC Anderlecht (BEL)
+         Dinamo Zagreb (CRO)      1-2 (0-0)  FC Timişoara (ROU)
+[Thu Sep/17]
+  19.00  Genoa CFC (ITA)          2-0 (2-0)  Slavia Praha (CZE)
+         Lille OSC (FRA)          1-1 (0-0)  Valencia CF (ESP)
+[Thu Oct/1]
+  21.05  Valencia CF (ESP)        3-2 (0-1)  Genoa CFC (ITA)
+         Slavia Praha (CZE)       1-5 (1-0)  Lille OSC (FRA)
+[Thu Oct/22]
+  21.05  Lille OSC (FRA)          3-0 (1-0)  Genoa CFC (ITA)
+         Valencia CF (ESP)        1-1 (0-1)  Slavia Praha (CZE)
+[Thu Nov/5]
+  19.00  Genoa CFC (ITA)          3-2 (1-0)  Lille OSC (FRA)
+         Slavia Praha (CZE)       2-2 (0-1)  Valencia CF (ESP)
+[Wed Dec/2]
+  21.05  Slavia Praha (CZE)       0-0  Genoa CFC (ITA)
+         Valencia CF (ESP)        3-1 (2-0)  Lille OSC (FRA)
+[Thu Dec/17]
+  19.00  Genoa CFC (ITA)          1-2 (0-1)  Valencia CF (ESP)
+         Lille OSC (FRA)          3-1 (2-0)  Slavia Praha (CZE)
+[Thu Sep/17]
+  19.00  Hapoel Tel Aviv (ISR)    2-1 (0-1)  Celtic FC (SCO)
+         Rapid Wien (AUT)         3-0 (2-0)  Hamburger SV (GER)
+[Thu Oct/1]
+  21.05  Celtic FC (SCO)          1-1 (1-1)  Rapid Wien (AUT)
+         Hamburger SV (GER)       4-2 (3-1)  Hapoel Tel Aviv (ISR)
+[Thu Oct/22]
+  21.05  Celtic FC (SCO)          0-1 (0-0)  Hamburger SV (GER)
+         Hapoel Tel Aviv (ISR)    5-1 (1-1)  Rapid Wien (AUT)
+[Thu Nov/5]
+  19.00  Hamburger SV (GER)       0-0  Celtic FC (SCO)
+         Rapid Wien (AUT)         0-3 (0-1)  Hapoel Tel Aviv (ISR)
+[Wed Dec/2]
+  21.05  Celtic FC (SCO)          2-0 (1-0)  Hapoel Tel Aviv (ISR)
+         Hamburger SV (GER)       2-0 (0-0)  Rapid Wien (AUT)
+[Thu Dec/17]
+  19.00  Rapid Wien (AUT)         3-3 (3-1)  Celtic FC (SCO)
+         Hapoel Tel Aviv (ISR)    1-0 (1-0)  Hamburger SV (GER)
+[Thu Sep/17]
+  19.00  Hertha BSC (GER)         1-1 (1-0)  FK Ventspils (LVA)
+         sc Heerenveen (NED)      2-3 (1-2)  Sporting CP (POR)
+[Thu Oct/1]
+  21.05  FK Ventspils (LVA)       0-0  sc Heerenveen (NED)
+         Sporting CP (POR)        1-0 (1-0)  Hertha BSC (GER)
+[Thu Oct/22]
+  21.05  FK Ventspils (LVA)       1-2 (0-1)  Sporting CP (POR)
+         Hertha BSC (GER)         0-1 (0-1)  sc Heerenveen (NED)
+[Thu Nov/5]
+  19.00  Sporting CP (POR)        1-1 (1-1)  FK Ventspils (LVA)
+         sc Heerenveen (NED)      2-3 (2-1)  Hertha BSC (GER)
+[Thu Dec/3]
+  21.05  FK Ventspils (LVA)       0-1 (0-1)  Hertha BSC (GER)
+         Sporting CP (POR)        1-1 (0-0)  sc Heerenveen (NED)
+[Wed Dec/16]
+  19.00  sc Heerenveen (NED)      5-0 (0-0)  FK Ventspils (LVA)
+         Hertha BSC (GER)         1-0 (0-0)  Sporting CP (POR)
+[Thu Sep/17]
+  19.00  FC Basel 1893 (SUI)      2-0 (1-0)  AS Roma (ITA)
+         CSKA Sofia (BUL)         1-1 (0-0)  Fulham FC (ENG)
+[Thu Oct/1]
+  21.05  AS Roma (ITA)            2-0 (2-0)  CSKA Sofia (BUL)
+         Fulham FC (ENG)          1-0 (0-0)  FC Basel 1893 (SUI)
+[Thu Oct/22]
+  21.05  Fulham FC (ENG)          1-1 (1-0)  AS Roma (ITA)
+         CSKA Sofia (BUL)         0-2 (0-1)  FC Basel 1893 (SUI)
+[Thu Nov/5]
+  19.00  AS Roma (ITA)            2-1 (0-1)  Fulham FC (ENG)
+         FC Basel 1893 (SUI)      3-1 (2-0)  CSKA Sofia (BUL)
+[Thu Dec/3]
+  21.05  AS Roma (ITA)            2-1 (1-1)  FC Basel 1893 (SUI)
+         Fulham FC (ENG)          1-0 (1-0)  CSKA Sofia (BUL)
+[Wed Dec/16]
+  19.00  CSKA Sofia (BUL)         0-3 (0-1)  AS Roma (ITA)
+         FC Basel 1893 (SUI)      2-3 (0-2)  Fulham FC (ENG)
+[Thu Sep/17]
+  19.00  Sturm Graz (AUT)         0-1 (0-0)  Dinamo Bucureşti (ROU)
+         Panathinaikos (GRE)      1-3 (0-1)  Galatasaray (TUR)
+[Thu Oct/1]
+  21.05  Dinamo Bucureşti (ROU)   0-1 (0-0)  Panathinaikos (GRE)
+         Galatasaray (TUR)        1-1 (0-1)  Sturm Graz (AUT)
+[Thu Oct/22]
+  21.05  Galatasaray (TUR)        4-1 (2-0)  Dinamo Bucureşti (ROU)
+         Panathinaikos (GRE)      1-0 (0-0)  Sturm Graz (AUT)
+[Thu Nov/5]
+  19.00  Dinamo Bucureşti (ROU)   0-3 (0-2)  Galatasaray (TUR)
+         Sturm Graz (AUT)         0-1 (0-0)  Panathinaikos (GRE)
+[Thu Dec/3]
+  21.05  Dinamo Bucureşti (ROU)   2-1 (1-1)  Sturm Graz (AUT)
+         Galatasaray (TUR)        1-0 (0-0)  Panathinaikos (GRE)
+[Wed Dec/16]
+  19.00  Panathinaikos (GRE)      3-0 (0-0)  Dinamo Bucureşti (ROU)
+         Sturm Graz (AUT)         1-0 (1-0)  Galatasaray (TUR)
+[Thu Sep/17]
+  21.05  Lazio Roma (ITA)         1-2 (0-0)  RB Salzburg (AUT)
+         Villarreal CF (ESP)      1-0 (0-0)  Levski Sofia (BUL)
+[Thu Oct/1]
+  19.00  Levski Sofia (BUL)       0-4 (0-2)  Lazio Roma (ITA)
+         RB Salzburg (AUT)        2-0 (1-0)  Villarreal CF (ESP)
+[Thu Oct/22]
+  19.00  Lazio Roma (ITA)         2-1 (1-1)  Villarreal CF (ESP)
+         RB Salzburg (AUT)        1-0 (1-0)  Levski Sofia (BUL)
+[Thu Nov/5]
+  21.05  Villarreal CF (ESP)      4-1 (3-0)  Lazio Roma (ITA)
+         Levski Sofia (BUL)       0-1 (0-0)  RB Salzburg (AUT)
+[Wed Dec/2]
+  19.00  RB Salzburg (AUT)        2-1 (0-0)  Lazio Roma (ITA)
+         Levski Sofia (BUL)       0-2 (0-1)  Villarreal CF (ESP)
+[Thu Dec/17]
+  21.05  Lazio Roma (ITA)         0-1 (0-0)  Levski Sofia (BUL)
+         Villarreal CF (ESP)      0-1 (0-1)  RB Salzburg (AUT)
+[Thu Sep/17]
+  21.05  Fenerbahçe (TUR)         1-2 (0-0)  FC Twente (NED)
+         FC Steaua Bucureşti (ROU)  0-0  FC Sheriff (MDA)
+[Thu Oct/1]
+  19.00  FC Sheriff (MDA)         0-1 (0-0)  Fenerbahçe (TUR)
+         FC Twente (NED)          0-0  FC Steaua Bucureşti (ROU)
+[Thu Oct/22]
+  19.00  FC Steaua Bucureşti (ROU)  0-1 (0-0)  Fenerbahçe (TUR)
+         FC Sheriff (MDA)         2-0 (1-0)  FC Twente (NED)
+[Thu Nov/5]
+  21.05  Fenerbahçe (TUR)         3-1 (1-1)  FC Steaua Bucureşti (ROU)
+         FC Twente (NED)          2-1 (1-0)  FC Sheriff (MDA)
+[Wed Dec/2]
+  19.00  FC Twente (NED)          0-1 (0-0)  Fenerbahçe (TUR)
+         FC Sheriff (MDA)         1-1 (0-0)  FC Steaua Bucureşti (ROU)
+[Thu Dec/17]
+  21.05  Fenerbahçe (TUR)         1-0 (1-0)  FC Sheriff (MDA)
+         FC Steaua Bucureşti (ROU)  1-1 (1-1)  FC Twente (NED)
+
+
+Gruppe I
+[Thu Sep/17]
+  21.05  Everton FC (ENG)         4-0 (3-0)  AEK Athen (GRE)
+         SL Benfica (POR)         2-0 (2-0)  BATE Borisov (BLR)
+[Thu Oct/1]
+  19.00  AEK Athen (GRE)          1-0 (1-0)  SL Benfica (POR)
+         BATE Borisov (BLR)       1-2 (1-0)  Everton FC (ENG)
+[Thu Oct/22]
+  19.00  BATE Borisov (BLR)       2-1 (0-1)  AEK Athen (GRE)
+         SL Benfica (POR)         5-0 (1-0)  Everton FC (ENG)
+[Thu Nov/5]
+  21.05  AEK Athen (GRE)          2-2 (2-2)  BATE Borisov (BLR)
+         Everton FC (ENG)         0-2 (0-0)  SL Benfica (POR)
+[Wed Dec/2]
+  19.00  AEK Athen (GRE)          0-1 (0-1)  Everton FC (ENG)
+         BATE Borisov (BLR)       1-2 (0-0)  SL Benfica (POR)
+[Thu Dec/17]
+  21.05  SL Benfica (POR)         2-1 (1-0)  AEK Athen (GRE)
+         Everton FC (ENG)         0-1 (0-0)  BATE Borisov (BLR)
+
+
+Gruppe J
+[Thu Sep/17]
+  21.05  Club Brugge KV (BEL)     1-4 (0-3)  Shakhtar Donetsk (UKR)
+         Partizan (SRB)           2-3 (1-2)  Toulouse FC (FRA)
+[Thu Oct/1]
+  19.00  Toulouse FC (FRA)        2-2 (0-0)  Club Brugge KV (BEL)
+         Shakhtar Donetsk (UKR)   4-1 (2-0)  Partizan (SRB)
+[Thu Oct/22]
+  19.00  Club Brugge KV (BEL)     2-0 (1-0)  Partizan (SRB)
+         Shakhtar Donetsk (UKR)   4-0 (3-0)  Toulouse FC (FRA)
+[Thu Nov/5]
+  21.05  Partizan (SRB)           2-4 (0-2)  Club Brugge KV (BEL)
+         Toulouse FC (FRA)        0-2 (0-0)  Shakhtar Donetsk (UKR)
+[Thu Dec/3]
+  19.00  Shakhtar Donetsk (UKR)   0-0  Club Brugge KV (BEL)
+         Toulouse FC (FRA)        1-0 (0-0)  Partizan (SRB)
+[Wed Dec/16]
+  21.05  Club Brugge KV (BEL)     1-0 (0-0)  Toulouse FC (FRA)
+         Partizan (SRB)           1-0 (1-0)  Shakhtar Donetsk (UKR)
+
+
+Gruppe K
+[Thu Sep/17]
+  21.05  CFR Cluj (ROU)           2-0 (0-0)  FC København (DEN)
+         AC Sparta Praha (CZE)    2-2 (0-0)  PSV Eindhoven (NED)
+[Thu Oct/1]
+  19.00  PSV Eindhoven (NED)      1-0 (1-0)  CFR Cluj (ROU)
+         FC København (DEN)       1-0 (1-0)  AC Sparta Praha (CZE)
+[Thu Oct/22]
+  19.00  AC Sparta Praha (CZE)    2-0 (2-0)  CFR Cluj (ROU)
+         PSV Eindhoven (NED)      1-0 (0-0)  FC København (DEN)
+[Thu Nov/5]
+  21.05  CFR Cluj (ROU)           2-3 (1-2)  AC Sparta Praha (CZE)
+         FC København (DEN)       1-1 (1-0)  PSV Eindhoven (NED)
+[Thu Dec/3]
+  19.00  FC København (DEN)       2-0 (2-0)  CFR Cluj (ROU)
+         PSV Eindhoven (NED)      1-0 (0-0)  AC Sparta Praha (CZE)
+[Wed Dec/16]
+  21.05  CFR Cluj (ROU)           0-2 (0-1)  PSV Eindhoven (NED)
+         AC Sparta Praha (CZE)    0-3 (0-2)  FC København (DEN)
+
+
+Gruppe L
+[Thu Sep/17]
+  21.05  Athletic Bilbao (ESP)    3-0 (2-0)  Austria Wien (AUT)
+         CD Nacional (POR)        2-3 (0-1)  Werder Bremen (GER)
+[Thu Oct/1]
+  19.00  Werder Bremen (GER)      3-1 (2-0)  Athletic Bilbao (ESP)
+         Austria Wien (AUT)       1-1 (0-1)  CD Nacional (POR)
+[Thu Oct/22]
+  19.00  Athletic Bilbao (ESP)    2-1 (0-1)  CD Nacional (POR)
+         Austria Wien (AUT)       2-2 (0-1)  Werder Bremen (GER)
+[Thu Nov/5]
+  21.05  CD Nacional (POR)        1-1 (0-0)  Athletic Bilbao (ESP)
+         Werder Bremen (GER)      2-0 (0-0)  Austria Wien (AUT)
+[Thu Dec/3]
+  19.00  Austria Wien (AUT)       0-3 (0-1)  Athletic Bilbao (ESP)
+         Werder Bremen (GER)      4-1 (2-0)  CD Nacional (POR)
+[Wed Dec/16]
+  21.05  Athletic Bilbao (ESP)    0-3 (0-3)  Werder Bremen (GER)
+         CD Nacional (POR)        5-1 (2-1)  Austria Wien (AUT)
+
+
+Round 2
+[Tue Feb/16]
+  18.45  Everton FC (ENG)         2-1 (1-0)  Sporting CP (POR)
+[Thu Feb/18]
+  15.00  Rubin Kazan (RUS)        3-0 (2-0)  Hapoel Tel Aviv (ISR)
+  19.00  AFC Ajax (NED)           1-2 (1-1)  Juventus (ITA)
+         Club Brugge KV (BEL)     1-0 (0-0)  Valencia CF (ESP)
+         Villarreal CF (ESP)      2-2 (1-0)  VfL Wolfsburg (GER)
+         Standard Liège (BEL)     3-2 (0-2)  RB Salzburg (AUT)
+         FC Twente (NED)          1-0 (1-0)  Werder Bremen (GER)
+         Lille OSC (FRA)          2-1 (1-1)  Fenerbahçe (TUR)
+  21.05  Athletic Bilbao (ESP)    1-1 (0-1)  RSC Anderlecht (BEL)
+         FC København (DEN)       1-3 (0-0)  Olympique Marseille (FRA)
+         Panathinaikos (GRE)      3-2 (0-1)  AS Roma (ITA)
+         Atlético Madrid (ESP)    1-1 (1-0)  Galatasaray (TUR)
+         Fulham FC (ENG)          2-1 (1-1)  Shakhtar Donetsk (UKR)
+         Liverpool FC (ENG)       1-0 (0-0)  FC Unirea (ROU)
+         Hamburger SV (GER)       1-0 (1-0)  PSV Eindhoven (NED)
+         Hertha BSC (GER)         1-1 (1-1)  SL Benfica (POR)
+[Tue Feb/23]
+  18.00  SL Benfica (POR)         4-0 (1-0)  Hertha BSC (GER)
+[Thu Feb/25]
+  19.00  RSC Anderlecht (BEL)     4-0 (2-0)  Athletic Bilbao (ESP)
+         Olympique Marseille (FRA)  3-1 (1-0)  FC København (DEN)
+         AS Roma (ITA)            2-3 (1-3)  Panathinaikos (GRE)
+         Galatasaray (TUR)        1-2 (0-0)  Atlético Madrid (ESP)
+         Shakhtar Donetsk (UKR)   1-1 (0-1)  Fulham FC (ENG)
+         FC Unirea (ROU)          1-3 (1-2)  Liverpool FC (ENG)
+         PSV Eindhoven (NED)      3-2 (2-0)  Hamburger SV (GER)
+  21.05  Hapoel Tel Aviv (ISR)    0-0  Rubin Kazan (RUS)
+         Juventus (ITA)           0-0  AFC Ajax (NED)
+         Valencia CF (ESP)        3-0 a.e.t. (1-0, 1-0)  Club Brugge KV (BEL)
+         VfL Wolfsburg (GER)      4-1 (3-1)  Villarreal CF (ESP)
+         RB Salzburg (AUT)        0-0  Standard Liège (BEL)
+         Werder Bremen (GER)      4-1 (3-1)  FC Twente (NED)
+         Fenerbahçe (TUR)         1-1 (1-0)  Lille OSC (FRA)
+         Sporting CP (POR)        3-0 (0-0)  Everton FC (ENG)
+
+
+Round of 16
+[Thu Mar/11]
+  19.00  Hamburger SV (GER)       3-1 (2-1)  RSC Anderlecht (BEL)
+         Rubin Kazan (RUS)        1-1 (1-0)  VfL Wolfsburg (GER)
+         Atlético Madrid (ESP)    0-0  Sporting CP (POR)
+         Lille OSC (FRA)          1-0 (0-0)  Liverpool FC (ENG)
+  21.05  SL Benfica (POR)         1-1 (0-0)  Olympique Marseille (FRA)
+         Panathinaikos (GRE)      1-3 (0-2)  Standard Liège (BEL)
+         Juventus (ITA)           3-1 (3-1)  Fulham FC (ENG)
+         Valencia CF (ESP)        1-1 (0-1)  Werder Bremen (GER)
+[Thu Mar/18]
+  19.00  Olympique Marseille (FRA)  1-2 (0-0)  SL Benfica (POR)
+         Standard Liège (BEL)     1-0 (1-0)  Panathinaikos (GRE)
+         Fulham FC (ENG)          4-1 (2-1)  Juventus (ITA)
+         Werder Bremen (GER)      4-4 (1-3)  Valencia CF (ESP)
+  21.05  RSC Anderlecht (BEL)     4-3 (2-1)  Hamburger SV (GER)
+         VfL Wolfsburg (GER)      2-1 a.e.t. (1-1, 0-1)  Rubin Kazan (RUS)
+         Sporting CP (POR)        2-2 (2-2)  Atlético Madrid (ESP)
+         Liverpool FC (ENG)       3-0 (1-0)  Lille OSC (FRA)
+
+
+Quarterfinals
+[Thu Apr/1]
+  21.05  Fulham FC (ENG)          2-1 (0-0)  VfL Wolfsburg (GER)
+         Hamburger SV (GER)       2-1 (2-1)  Standard Liège (BEL)
+         Valencia CF (ESP)        2-2 (0-0)  Atlético Madrid (ESP)
+         SL Benfica (POR)         2-1 (0-1)  Liverpool FC (ENG)
+[Thu Apr/8]
+  21.05  VfL Wolfsburg (GER)      0-1 (0-1)  Fulham FC (ENG)
+         Standard Liège (BEL)     1-3 (1-2)  Hamburger SV (GER)
+         Atlético Madrid (ESP)    0-0  Valencia CF (ESP)
+         Liverpool FC (ENG)       4-1 (2-0)  SL Benfica (POR)
+
+
+Semifinals
+[Thu Apr/22]
+  21.05  Hamburger SV (GER)       0-0  Fulham FC (ENG)
+         Atlético Madrid (ESP)    1-0 (1-0)  Liverpool FC (ENG)
+[Thu Apr/29]
+  21.05  Fulham FC (ENG)          2-1 (0-1)  Hamburger SV (GER)
+         Liverpool FC (ENG)       2-1 a.e.t. (1-0, 1-0)  Atlético Madrid (ESP)
+
+
+Final
+[Wed May/12]
+  20.45  Atlético Madrid (ESP)    2-1 a.e.t. (1-1, 1-1)  Fulham FC (ENG)

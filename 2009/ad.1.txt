@@ -1,0 +1,83 @@
+= AD 1 2009
+
+# Date       Sun Mar/22 - Thu May/7 2009 (46d)
+# Teams      8
+# Matches    24
+# Stages     Relegation (12)  Playoff (12)
+
+
+== Relegation
+
+Matchday 1
+[Sun Mar/22]
+  18.00  FC Rànger's              0-4  UE Engordany
+  20.00  UE Santa Coloma          3-0  Inter Club d'Escaldes
+
+
+Matchday 2
+[Sun Mar/29]
+  18.00  UE Santa Coloma          8-0  FC Rànger's
+  14.00  Inter Club d'Escaldes    2-4  UE Engordany
+
+
+Matchday 3
+[Sun Apr/5]
+  14.00  Inter Club d'Escaldes    4-2  FC Rànger's
+  18.00  UE Engordany             2-3  UE Santa Coloma
+
+
+Matchday 4
+[Sun Apr/19]
+  12.00  UE Engordany             4-0  FC Rànger's
+  14.00  Inter Club d'Escaldes    1-5  UE Santa Coloma
+
+
+Matchday 5
+[Sun Apr/26]
+  18.00  UE Engordany             4-2  Inter Club d'Escaldes
+  12.00  FC Rànger's              0-5  UE Santa Coloma
+
+
+Matchday 6
+[Sun May/3]
+  14.00  UE Santa Coloma          6-0  UE Engordany
+[Thu May/7]
+  21.30  FC Rànger's              2-4  Inter Club d'Escaldes
+
+
+== Playoff
+
+Matchday 1
+[Sun Mar/22]
+  16.00  FC Lusitanos             0-2  FC Santa Coloma
+  14.00  CE Principat             0-2  UE Sant Julià
+
+
+Matchday 2
+[Sun Mar/29]
+  16.00  FC Santa Coloma          3-1  UE Sant Julià
+  12.00  FC Lusitanos             1-2  CE Principat
+
+
+Matchday 3
+[Sun Apr/5]
+  12.00  FC Santa Coloma          3-1  CE Principat
+  16.00  UE Sant Julià            3-0  FC Lusitanos
+
+
+Matchday 4
+[Sun Apr/19]
+  12.00  FC Santa Coloma          3-1  FC Lusitanos
+  16.00  UE Sant Julià            5-0  CE Principat
+
+
+Matchday 5
+[Sun Apr/26]
+  16.00  UE Sant Julià            3-2  FC Santa Coloma
+  14.00  CE Principat             2-1  FC Lusitanos
+
+
+Matchday 6
+[Sun May/3]
+  12.00  FC Lusitanos             0-1  UE Sant Julià
+         CE Principat             1-4  FC Santa Coloma

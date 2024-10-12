@@ -1,0 +1,538 @@
+= ES 2 1989/90
+
+# Date       Sun Sep/3 1989 - Sun May/27 1990 (266d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Sun Sep/3]
+         Racing Santander         1-2  Bilbao Athletic Club
+         UE Figueres              4-2  Elche CF
+         CE Sabadell              1-0  SD Eibar
+         Espanyol Barcelona       0-1  UD Salamanca
+         Real Burgos              3-0  Castilla CF
+         Real Murcia              1-2  Palamós CF
+         UD Las Palmas            1-0  Real Betis
+         Levante UD               1-4  Xerez CD
+         Atlético Madrileño       2-2  Recreativo Huelva
+         Deportivo La Coruña      1-0  Sestao SC
+
+
+Matchday 2
+[Sun Sep/10]
+         Castilla CF              0-0  UE Figueres
+         Bilbao Athletic Club     3-1  UD Las Palmas
+         Real Betis               1-0  Deportivo La Coruña
+         SD Eibar                 0-2  Racing Santander
+         Palamós CF               1-1  Levante UD
+         Sestao SC                1-1  Real Murcia
+         UD Salamanca             0-1  CE Sabadell
+         Elche CF                 0-1  Espanyol Barcelona
+         Xerez CD                 0-0  Atlético Madrileño
+         Recreativo Huelva        1-2  Real Burgos
+
+
+Matchday 3
+[Sun Sep/17]
+         Racing Santander         1-0  UD Salamanca
+         UE Figueres              0-1  Recreativo Huelva
+         CE Sabadell              0-2  Elche CF
+         Espanyol Barcelona       1-1  Castilla CF
+         Real Murcia              0-1  Real Betis
+         UD Las Palmas            3-0  SD Eibar
+         Levante UD               2-0  Sestao SC
+         Atlético Madrileño       1-1  Real Burgos
+         Xerez CD                 1-1  Palamós CF
+         Deportivo La Coruña      0-0  Bilbao Athletic Club
+
+
+Matchday 4
+[Sun Sep/24]
+         Castilla CF              1-1  CE Sabadell
+         Bilbao Athletic Club     3-1  Real Murcia
+         Real Betis               0-0  Levante UD
+         SD Eibar                 0-1  Deportivo La Coruña
+         Palamós CF               2-0  Atlético Madrileño
+         Sestao SC                0-0  Xerez CD
+         Real Burgos              5-0  UE Figueres
+         UD Salamanca             3-0  UD Las Palmas
+         Elche CF                 0-0  Racing Santander
+         Recreativo Huelva        1-1  Espanyol Barcelona
+
+
+Matchday 5
+[Sun Oct/1]
+         Racing Santander         2-1  Castilla CF
+         Palamós CF               1-0  Sestao SC
+         CE Sabadell              3-0  Recreativo Huelva
+         Espanyol Barcelona       4-1  Real Burgos
+         Real Murcia              1-0  SD Eibar
+         UD Las Palmas            1-1  Elche CF
+         Levante UD               0-0  Bilbao Athletic Club
+         Atlético Madrileño       1-1  UE Figueres
+         Xerez CD                 1-3  Real Betis
+         Deportivo La Coruña      3-0  UD Salamanca
+
+
+Matchday 6
+[Sun Oct/8]
+         Castilla CF              0-0  UD Las Palmas
+         Bilbao Athletic Club     3-0  Xerez CD
+         Real Betis               1-0  Palamós CF
+         SD Eibar                 4-2  Levante UD
+         UE Figueres              1-0  Espanyol Barcelona
+         Sestao SC                0-0  Atlético Madrileño
+         Real Burgos              2-1  CE Sabadell
+         UD Salamanca             0-0  Real Murcia
+         Elche CF                 3-1  Deportivo La Coruña
+         Recreativo Huelva        1-2  Racing Santander
+
+
+Matchday 7
+[Sun Oct/15]
+         Racing Santander         0-0  Real Burgos
+         Palamós CF               0-1  Bilbao Athletic Club
+         Sestao SC                0-2  Real Betis
+         CE Sabadell              2-1  UE Figueres
+         Real Murcia              1-0  Elche CF
+         UD Las Palmas            2-1  Recreativo Huelva
+         Levante UD               1-2  UD Salamanca
+         Atlético Madrileño       2-1  Espanyol Barcelona
+         Xerez CD                 1-0  SD Eibar
+         Deportivo La Coruña      0-1  Castilla CF
+
+
+Matchday 8
+[Sun Oct/22]
+         Castilla CF              3-1  Real Murcia
+         Bilbao Athletic Club     0-1  Sestao SC
+         Real Betis               1-0  Atlético Madrileño
+         SD Eibar                 1-1  Palamós CF
+         UE Figueres              1-0  Racing Santander
+         Espanyol Barcelona       3-0  CE Sabadell
+         Real Burgos              3-0  UD Las Palmas
+         UD Salamanca             0-2  Xerez CD
+         Elche CF                 2-0  Levante UD
+         Recreativo Huelva        1-0  Deportivo La Coruña
+
+
+Matchday 9
+[Sun Oct/29]
+         Racing Santander         1-0  Espanyol Barcelona
+         Real Betis               2-3  Bilbao Athletic Club
+         Palamós CF               0-0  UD Salamanca
+         Sestao SC                2-1  SD Eibar
+         Real Murcia              1-0  Recreativo Huelva
+         UD Las Palmas            1-1  UE Figueres
+         Levante UD               1-0  Castilla CF
+         Atlético Madrileño       2-2  CE Sabadell
+         Xerez CD                 2-0  Elche CF
+         Deportivo La Coruña      1-1  Real Burgos
+
+
+Matchday 10
+[Sun Nov/5]
+         Castilla CF              1-0  Xerez CD
+         Bilbao Athletic Club     1-1  Atlético Madrileño
+         SD Eibar                 1-3  Real Betis
+         UE Figueres              1-1  Deportivo La Coruña
+         CE Sabadell              1-1  Racing Santander
+         Espanyol Barcelona       2-1  UD Las Palmas
+         Real Burgos              2-1  Real Murcia
+         UD Salamanca             0-1  Sestao SC
+         Elche CF                 2-3  Palamós CF
+         Recreativo Huelva        1-1  Levante UD
+
+
+Matchday 11
+[Sun Nov/12]
+         Bilbao Athletic Club     2-0  SD Eibar
+         Real Betis               1-0  UD Salamanca
+         Palamós CF               1-0  Castilla CF
+         Sestao SC                3-0  Elche CF
+         Real Murcia              1-4  UE Figueres
+         UD Las Palmas            1-0  CE Sabadell
+         Levante UD               1-3  Real Burgos
+         Atlético Madrileño       1-3  Racing Santander
+         Xerez CD                 1-0  Recreativo Huelva
+         Deportivo La Coruña      2-3  Espanyol Barcelona
+
+
+Matchday 12
+[Sun Nov/19]
+         Castilla CF              0-1  Sestao SC
+         Racing Santander         1-1  UD Las Palmas
+         SD Eibar                 2-1  Atlético Madrileño
+         UE Figueres              1-1  Levante UD
+         CE Sabadell              4-0  Deportivo La Coruña
+         Espanyol Barcelona       1-1  Real Murcia
+         Real Burgos              1-0  Xerez CD
+         UD Salamanca             0-2  Bilbao Athletic Club
+         Elche CF                 2-2  Real Betis
+         Recreativo Huelva        0-1  Palamós CF
+
+
+Matchday 13
+[Sun Nov/26]
+         Bilbao Athletic Club     2-2  Elche CF
+         Real Betis               1-0  Castilla CF
+         SD Eibar                 3-2  UD Salamanca
+         Palamós CF               1-1  Real Burgos
+         Sestao SC                1-0  Recreativo Huelva
+         Real Murcia              1-1  CE Sabadell
+         Levante UD               0-0  Espanyol Barcelona
+         Atlético Madrileño       2-0  UD Las Palmas
+         Xerez CD                 0-0  UE Figueres
+         Deportivo La Coruña      1-0  Racing Santander
+
+
+Matchday 14
+[Sun Dec/3]
+         Castilla CF              0-1  Bilbao Athletic Club
+         Racing Santander         0-0  Real Murcia
+         UE Figueres              3-0  Palamós CF
+         CE Sabadell              3-1  Levante UD
+         Espanyol Barcelona       0-0  Xerez CD
+         Real Burgos              2-0  Sestao SC
+         UD Salamanca             4-0  Atlético Madrileño
+         UD Las Palmas            1-3  Deportivo La Coruña
+         Elche CF                 0-0  SD Eibar
+         Recreativo Huelva        2-1  Real Betis
+
+
+Matchday 15
+[Sun Dec/10]
+         Bilbao Athletic Club     3-1  Recreativo Huelva
+         Real Betis               0-0  Real Burgos
+         SD Eibar                 2-0  Castilla CF
+         Palamós CF               0-0  Espanyol Barcelona
+         Sestao SC                4-0  UE Figueres
+         Real Murcia              0-1  UD Las Palmas
+         UD Salamanca             1-0  Elche CF
+         Levante UD               3-0  Racing Santander
+         Atlético Madrileño       1-3  Deportivo La Coruña
+         Xerez CD                 1-1  CE Sabadell
+
+
+Matchday 16
+[Sun Dec/17]
+         Castilla CF              0-1  UD Salamanca
+         Racing Santander         3-0  Xerez CD
+         UE Figueres              1-1  Real Betis
+         CE Sabadell              2-0  Palamós CF
+         Espanyol Barcelona       1-0  Sestao SC
+         Real Burgos              0-0  Bilbao Athletic Club
+         UD Las Palmas            1-1  Levante UD
+         Elche CF                 0-0  Atlético Madrileño
+         Recreativo Huelva        2-2  SD Eibar
+         Deportivo La Coruña      1-0  Real Murcia
+
+
+Matchday 17
+[Sat Dec/30]
+         Bilbao Athletic Club     4-0  UE Figueres
+         Real Betis               1-0  Espanyol Barcelona
+         SD Eibar                 0-0  Real Burgos
+         Palamós CF               1-0  Racing Santander
+         Sestao SC                0-1  CE Sabadell
+         UD Salamanca             2-0  Recreativo Huelva
+         Levante UD               1-0  Deportivo La Coruña
+         Atlético Madrileño       4-1  Real Murcia
+         Elche CF                 2-3  Castilla CF
+         Xerez CD                 0-2  UD Las Palmas
+
+
+Matchday 18
+[Sun Jan/7]
+         Racing Santander         0-1  Sestao SC
+         UE Figueres              1-1  SD Eibar
+         CE Sabadell              0-2  Real Betis
+         Espanyol Barcelona       2-1  Bilbao Athletic Club
+         Real Burgos              1-0  UD Salamanca
+         Real Murcia              2-2  Levante UD
+         UD Las Palmas            0-0  Palamós CF
+         Atlético Madrileño       1-0  Castilla CF
+         Recreativo Huelva        0-2  Elche CF
+         Deportivo La Coruña      2-1  Xerez CD
+
+
+Matchday 19
+[Sun Jan/14]
+         Castilla CF              3-2  Recreativo Huelva
+         Bilbao Athletic Club     1-1  CE Sabadell
+         Real Betis               0-0  Racing Santander
+         SD Eibar                 0-0  Espanyol Barcelona
+         Palamós CF               0-1  Deportivo La Coruña
+         Sestao SC                0-0  UD Las Palmas
+         UD Salamanca             2-0  UE Figueres
+         Levante UD               1-1  Atlético Madrileño
+         Elche CF                 1-1  Real Burgos
+         Xerez CD                 0-4  Real Murcia
+
+
+Matchday 20
+[Sun Jan/21]
+         Castilla CF              0-0  Real Burgos
+         Bilbao Athletic Club     3-3  Racing Santander
+         Real Betis               1-0  UD Las Palmas
+         SD Eibar                 3-1  CE Sabadell
+         Palamós CF               1-1  Real Murcia
+         Sestao SC                2-2  Deportivo La Coruña
+         UD Salamanca             1-1  Espanyol Barcelona
+         Elche CF                 0-0  UE Figueres
+         Xerez CD                 0-0  Levante UD
+         Recreativo Huelva        2-1  Atlético Madrileño
+
+
+Matchday 21
+[Sun Jan/28]
+         Racing Santander         1-0  SD Eibar
+         UE Figueres              3-1  Castilla CF
+         CE Sabadell              0-0  UD Salamanca
+         Espanyol Barcelona       2-0  Elche CF
+         Real Burgos              1-0  Recreativo Huelva
+         Real Murcia              1-0  Sestao SC
+         UD Las Palmas            3-1  Bilbao Athletic Club
+         Levante UD               1-0  Palamós CF
+         Atlético Madrileño       0-0  Xerez CD
+         Deportivo La Coruña      2-0  Real Betis
+
+
+Matchday 22
+[Sun Feb/4]
+         Castilla CF              1-0  Espanyol Barcelona
+         Bilbao Athletic Club     1-0  Deportivo La Coruña
+         Real Betis               1-1  Real Murcia
+         SD Eibar                 1-2  UD Las Palmas
+         Palamós CF               0-0  Xerez CD
+         Sestao SC                1-1  Levante UD
+         Real Burgos              4-0  Atlético Madrileño
+         UD Salamanca             3-0  Racing Santander
+         Elche CF                 1-1  CE Sabadell
+         Recreativo Huelva        1-0  UE Figueres
+
+
+Matchday 23
+[Sun Feb/11]
+         Racing Santander         0-1  Elche CF
+         UE Figueres              1-0  Real Burgos
+         CE Sabadell              0-0  Castilla CF
+         Espanyol Barcelona       4-0  Recreativo Huelva
+         Real Murcia              2-2  Bilbao Athletic Club
+         UD Las Palmas            3-1  UD Salamanca
+         Levante UD               1-1  Real Betis
+         Atlético Madrileño       2-2  Palamós CF
+         Xerez CD                 0-1  Sestao SC
+         Deportivo La Coruña      0-1  SD Eibar
+
+
+Matchday 24
+[Sun Feb/18]
+         Castilla CF              1-2  Racing Santander
+         Bilbao Athletic Club     1-0  Levante UD
+         Real Betis               0-0  Xerez CD
+         SD Eibar                 0-2  Real Murcia
+         UE Figueres              2-1  Atlético Madrileño
+         Sestao SC                0-1  Palamós CF
+         Real Burgos              4-1  Espanyol Barcelona
+         UD Salamanca             2-0  Deportivo La Coruña
+         Elche CF                 2-0  UD Las Palmas
+         Recreativo Huelva        2-0  CE Sabadell
+
+
+Matchday 25
+[Sun Feb/25]
+         Racing Santander         1-2  Recreativo Huelva
+         Palamós CF               0-0  Real Betis
+         CE Sabadell              0-0  Real Burgos
+         Espanyol Barcelona       0-1  UE Figueres
+         Real Murcia              0-0  UD Salamanca
+         UD Las Palmas            4-1  Castilla CF
+         Levante UD               0-0  SD Eibar
+         Atlético Madrileño       1-1  Sestao SC
+         Xerez CD                 1-1  Bilbao Athletic Club
+         Deportivo La Coruña      1-0  Elche CF
+
+
+Matchday 26
+[Sun Mar/4]
+         Castilla CF              0-0  Deportivo La Coruña
+         Bilbao Athletic Club     1-2  Palamós CF
+         Real Betis               1-1  Sestao SC
+         SD Eibar                 1-1  Xerez CD
+         UE Figueres              1-3  CE Sabadell
+         Espanyol Barcelona       1-0  Atlético Madrileño
+         Real Burgos              0-2  Racing Santander
+         UD Salamanca             1-0  Levante UD
+         Elche CF                 0-0  Real Murcia
+         Recreativo Huelva        1-0  UD Las Palmas
+
+
+Matchday 27
+[Sun Mar/11]
+         Racing Santander         0-0  UE Figueres
+         Palamós CF               1-0  SD Eibar
+         Sestao SC                2-2  Bilbao Athletic Club
+         CE Sabadell              1-1  Espanyol Barcelona
+         Real Murcia              1-0  Castilla CF
+         UD Las Palmas            0-0  Real Burgos
+         Levante UD               1-1  Elche CF
+         Atlético Madrileño       2-1  Real Betis
+         Xerez CD                 1-0  UD Salamanca
+         Deportivo La Coruña      4-3  Recreativo Huelva
+
+
+Matchday 28
+[Sun Mar/18]
+         Castilla CF              3-1  Levante UD
+         Bilbao Athletic Club     0-0  Real Betis
+         SD Eibar                 1-0  Sestao SC
+         UE Figueres              1-1  UD Las Palmas
+         CE Sabadell              2-0  Atlético Madrileño
+         Espanyol Barcelona       1-0  Racing Santander
+         Real Burgos              3-0  Deportivo La Coruña
+         UD Salamanca             1-1  Palamós CF
+         Elche CF                 1-0  Xerez CD
+         Recreativo Huelva        0-1  Real Murcia
+
+
+Matchday 29
+[Sun Mar/25]
+         Racing Santander         4-0  CE Sabadell
+         Real Betis               1-1  SD Eibar
+         Palamós CF               2-0  Elche CF
+         Sestao SC                1-0  UD Salamanca
+         Real Murcia              2-0  Real Burgos
+         UD Las Palmas            2-1  Espanyol Barcelona
+         Levante UD               1-1  Recreativo Huelva
+         Atlético Madrileño       0-1  Bilbao Athletic Club
+         Xerez CD                 1-0  Castilla CF
+         Deportivo La Coruña      1-1  UE Figueres
+
+
+Matchday 30
+[Sun Apr/1]
+         Castilla CF              1-1  Palamós CF
+         Racing Santander         0-1  Atlético Madrileño
+         SD Eibar                 1-1  Bilbao Athletic Club
+         UE Figueres              0-2  Real Murcia
+         CE Sabadell              2-1  UD Las Palmas
+         Espanyol Barcelona       2-0  Deportivo La Coruña
+         Real Burgos              0-1  Levante UD
+         UD Salamanca             1-1  Real Betis
+         Elche CF                 2-1  Sestao SC
+         Recreativo Huelva        0-1  Xerez CD
+
+
+Matchday 31
+[Sun Apr/8]
+         Bilbao Athletic Club     0-0  UD Salamanca
+         Real Betis               2-0  Elche CF
+         Palamós CF               1-3  Recreativo Huelva
+         Sestao SC                2-0  Castilla CF
+         Real Murcia              1-2  Espanyol Barcelona
+         UD Las Palmas            1-0  Racing Santander
+         Levante UD               2-0  UE Figueres
+         Atlético Madrileño       2-0  SD Eibar
+         Xerez CD                 1-1  Real Burgos
+         Deportivo La Coruña      1-0  CE Sabadell
+
+
+Matchday 32
+[Sun Apr/15]
+         Castilla CF              3-1  Real Betis
+         Racing Santander         0-3  Deportivo La Coruña
+         UE Figueres              1-2  Xerez CD
+         CE Sabadell              2-2  Real Murcia
+         Espanyol Barcelona       6-0  Levante UD
+         Real Burgos              6-0  Palamós CF
+         UD Salamanca             1-0  SD Eibar
+         UD Las Palmas            2-0  Atlético Madrileño
+         Elche CF                 3-1  Bilbao Athletic Club
+         Recreativo Huelva        2-1  Sestao SC
+
+
+Matchday 33
+[Sun Apr/22]
+         Bilbao Athletic Club     0-0  Castilla CF
+         Real Betis               3-1  Recreativo Huelva
+         SD Eibar                 0-0  Elche CF
+         Palamós CF               1-0  UE Figueres
+         Sestao SC                0-1  Real Burgos
+         Real Murcia              1-0  Racing Santander
+         Levante UD               1-0  CE Sabadell
+         Atlético Madrileño       2-0  UD Salamanca
+         Xerez CD                 0-0  Espanyol Barcelona
+         Deportivo La Coruña      2-1  UD Las Palmas
+
+
+Matchday 34
+[Sun Apr/29]
+         Castilla CF              1-2  SD Eibar
+         Racing Santander         1-1  Levante UD
+         UE Figueres              2-1  Sestao SC
+         CE Sabadell              0-0  Xerez CD
+         Espanyol Barcelona       2-0  Palamós CF
+         Real Burgos              1-0  Real Betis
+         UD Las Palmas            1-0  Real Murcia
+         Elche CF                 2-1  UD Salamanca
+         Recreativo Huelva        1-0  Bilbao Athletic Club
+         Deportivo La Coruña      2-0  Atlético Madrileño
+
+
+Matchday 35
+[Sun May/6]
+         Bilbao Athletic Club     1-1  Real Burgos
+         Real Betis               2-0  UE Figueres
+         SD Eibar                 2-0  Recreativo Huelva
+         Palamós CF               1-0  CE Sabadell
+         Sestao SC                2-2  Espanyol Barcelona
+         Real Murcia              0-2  Deportivo La Coruña
+         UD Salamanca             1-3  Castilla CF
+         Levante UD               0-0  UD Las Palmas
+         Atlético Madrileño       0-1  Elche CF
+         Xerez CD                 0-0  Racing Santander
+
+
+Matchday 36
+[Sun May/13]
+         Castilla CF              2-1  Elche CF
+         Racing Santander         0-0  Palamós CF
+         UE Figueres              2-0  Bilbao Athletic Club
+         CE Sabadell              1-0  Sestao SC
+         Espanyol Barcelona       2-2  Real Betis
+         Real Burgos              0-0  SD Eibar
+         Real Murcia              1-0  Atlético Madrileño
+         UD Las Palmas            0-1  Xerez CD
+         Recreativo Huelva        1-2  UD Salamanca
+         Deportivo La Coruña      1-0  Levante UD
+
+
+Matchday 37
+[Sun May/20]
+         Castilla CF              4-0  Atlético Madrileño
+         Bilbao Athletic Club     1-0  Espanyol Barcelona
+         Real Betis               1-1  CE Sabadell
+         SD Eibar                 2-1  UE Figueres
+         Palamós CF               0-4  UD Las Palmas
+         Sestao SC                1-0  Racing Santander
+         UD Salamanca             2-0  Real Burgos
+         Levante UD               2-0  Real Murcia
+         Elche CF                 2-0  Recreativo Huelva
+         Xerez CD                 3-1  Deportivo La Coruña
+
+
+Matchday 38
+[Sun May/27]
+         Racing Santander         1-3  Real Betis
+         UE Figueres              1-0  UD Salamanca
+         CE Sabadell              2-1  Bilbao Athletic Club
+         Espanyol Barcelona       2-3  SD Eibar
+         Real Burgos              2-1  Elche CF
+         Real Murcia              2-0  Xerez CD
+         UD Las Palmas            0-1  Sestao SC
+         Atlético Madrileño       1-1  Levante UD
+         Recreativo Huelva        3-1  Castilla CF
+         Deportivo La Coruña      2-0  Palamós CF
