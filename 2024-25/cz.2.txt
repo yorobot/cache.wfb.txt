@@ -10,10 +10,10 @@ Matchday 1
 [Fri Jul/19]
   18.00  SFC Opava                3-3 (1-1)  FC Sellier & Bellot Vlašim
 [Sat Jul/20]
-  10.15  MFK Vyškov               0-0  1. SK Prostějov
+  10.15  MFK Chrudim              3-0 (2-0)  Sigma Olomouc B
+         MFK Vyškov               0-0  1. SK Prostějov
   16.30  SK Líšeň                 0-0  FC Zlín
   17.00  FK MAS Táborsko          3-1 (1-0)  Slavia Praha B
-  10.15  MFK Chrudim              3-0 (2-0)  Sigma Olomouc B
 [Sun Jul/21]
   10.30  AC Sparta Praha B        2-2 (2-0)  Baník Ostrava B
   17.00  FK Varnsdorf             1-1 (1-1)  Viktoria Žižkov
@@ -23,20 +23,21 @@ Matchday 1
 
 Matchday 2
 [Fri Jul/26]
-  18.00  FC Sellier & Bellot Vlašim  2-0 (1-0)  MFK Chrudim
+  18.00  FC Zlín                  1-0 (0-0)  FK MAS Táborsko
+         FC Sellier & Bellot Vlašim  2-0 (1-0)  MFK Chrudim
          Vysočina Jihlava         1-1 (1-0)  MFK Vyškov
          SFC Opava                1-1 (1-1)  Zbrojovka Brno
-         FC Zlín                  1-0 (0-0)  FK MAS Táborsko
 [Sat Jul/27]
   10.15  Sigma Olomouc B          0-0  1. SK Prostějov
 [Sun Jul/28]
-  10.30  Slavia Praha B           2-1 (1-1)  AC Sparta Praha B
   10.15  Viktoria Žižkov          1-4 (0-1)  SK Líšeň
+  10.30  Slavia Praha B           2-1 (1-1)  AC Sparta Praha B
+[Wed Aug/7]
+  17.00  Baník Ostrava B          2-0 (0-0)  FK Varnsdorf
 
 
 Matchday 3
 [Wed Jul/31]
-  18.00  FK MAS Táborsko          1-2 (1-1)  Baník Ostrava B
   17.00  MFK Vyškov               1-1 (1-0)  FC Sellier & Bellot Vlašim
          SK Líšeň                 0-4 (0-2)  Slavia Praha B
   17.30  1. SK Prostějov          0-2 (0-1)  FC Zlín
@@ -44,52 +45,50 @@ Matchday 3
          FK Varnsdorf             3-1 (1-0)  SFC Opava
          AC Sparta Praha B        4-0 (3-0)  Vysočina Jihlava
          MFK Chrudim              1-0 (1-0)  Zbrojovka Brno
+         FK MAS Táborsko          1-2 (1-1)  Baník Ostrava B
 
 
 Matchday 4
 [Sat Aug/3]
   18.00  Zbrojovka Brno           1-6 (0-4)  FK Varnsdorf
 [Sun Aug/4]
-  17.00  Vysočina Jihlava         1-1 (0-0)  FK MAS Táborsko
   10.15  Viktoria Žižkov          3-0 (1-0)  1. SK Prostějov
          Slavia Praha B           0-1 (0-1)  MFK Chrudim
          Baník Ostrava B          1-3 (0-1)  MFK Vyškov
   16.00  SFC Opava                4-2 (2-0)  AC Sparta Praha B
   17.00  FC Sellier & Bellot Vlašim  1-1 (1-1)  SK Líšeň
+         Vysočina Jihlava         1-1 (0-0)  FK MAS Táborsko
 [Mon Aug/5]
   17.30  FC Zlín                  1-0 (0-0)  Sigma Olomouc B
 
 
-Matchday 2
-[Wed Aug/7]
-  17.00  Baník Ostrava B          2-0 (0-0)  FK Varnsdorf
-
-
 Matchday 5
 [Fri Aug/9]
-  18.00  FC Zlín                  1-0 (1-0)  Viktoria Žižkov
-         1. SK Prostějov          1-1 (1-0)  FC Sellier & Bellot Vlašim
+  18.00  1. SK Prostějov          1-1 (1-0)  FC Sellier & Bellot Vlašim
+         FC Zlín                  1-0 (1-0)  Viktoria Žižkov
 [Sat Aug/10]
   10.15  MFK Chrudim              6-1 (4-0)  Baník Ostrava B
   15.00  FK MAS Táborsko          0-1 (0-0)  Zbrojovka Brno
   17.00  SK Líšeň                 0-1 (0-0)  SFC Opava
 [Sun Aug/11]
-  10.30  AC Sparta Praha B        1-1 (0-0)  FK Varnsdorf
   10.15  Sigma Olomouc B          3-1 (1-0)  Vysočina Jihlava
+  10.30  AC Sparta Praha B        1-1 (0-0)  FK Varnsdorf
 [Mon Aug/12]
   17.30  MFK Vyškov               1-0 (1-0)  Slavia Praha B
 
 
 Matchday 6
 [Fri Aug/16]
-  18.00  Vysočina Jihlava         2-2 (1-1)  SK Líšeň
+  18.00  FC Sellier & Bellot Vlašim  1-3 (0-1)  FC Zlín
+         Vysočina Jihlava         2-2 (1-1)  SK Líšeň
          SFC Opava                1-0 (1-0)  MFK Vyškov
-         FC Sellier & Bellot Vlašim  1-3 (0-1)  FC Zlín
 [Sun Aug/18]
   10.15  Viktoria Žižkov          3-1 (1-0)  FK MAS Táborsko
          Slavia Praha B           4-0 (2-0)  Sigma Olomouc B
          Baník Ostrava B          1-2 (1-1)  1. SK Prostějov
   18.00  Zbrojovka Brno           0-0  AC Sparta Praha B
+[Wed Sep/18]
+  16.30  FK Varnsdorf             0-3 (0-1)  MFK Chrudim
 
 
 Matchday 7
@@ -104,124 +103,122 @@ Matchday 7
   17.00  FK MAS Táborsko          0-1 (0-0)  SFC Opava
 [Mon Aug/26]
   17.30  MFK Vyškov               1-0 (1-0)  Zbrojovka Brno
+[Tue Sep/17]
+  17.30  FC Zlín                  2-1 (1-0)  Slavia Praha B
 
 
 Matchday 8
 [Fri Aug/30]
-  18.00  SFC Opava                1-2 (0-0)  MFK Chrudim
+  18.00  FC Sellier & Bellot Vlašim  3-0 (1-0)  Sigma Olomouc B
          Vysočina Jihlava         2-1 (1-1)  Viktoria Žižkov
-         FC Sellier & Bellot Vlašim  3-0 (1-0)  Sigma Olomouc B
+         SFC Opava                1-2 (0-0)  MFK Chrudim
 [Sun Sep/1]
-  18.00  Zbrojovka Brno           1-2 (0-0)  FC Zlín
-  17.30  FK Varnsdorf             1-2 (0-1)  MFK Vyškov
   10.15  Slavia Praha B           2-2 (1-1)  1. SK Prostějov
          Baník Ostrava B          0-2 (0-1)  SK Líšeň
   15.00  AC Sparta Praha B        1-2 (1-0)  FK MAS Táborsko
+  17.30  FK Varnsdorf             1-2 (0-1)  MFK Vyškov
+  18.00  Zbrojovka Brno           1-2 (0-0)  FC Zlín
 
 
 Matchday 9
-[Fri Sep/13]
-  18.00  FC Zlín                  -  Vysočina Jihlava
-         FC Sellier & Bellot Vlašim  -  Slavia Praha B
-[Sat Sep/14]
-  17.00  SK Líšeň                 -  AC Sparta Praha B
-  10.15  MFK Vyškov               -  MFK Chrudim
-  17.00  FK MAS Táborsko          -  FK Varnsdorf
-[Sun Sep/15]
-  10.15  Sigma Olomouc B          -  SFC Opava
-         Viktoria Žižkov          -  Baník Ostrava B
-[Mon Sep/16]
-  17.30  1. SK Prostějov          -  Zbrojovka Brno
-
-
-Matchday 6
-[Tue Sep/17]
-  16.30  FK Varnsdorf             -  MFK Chrudim
+[Wed Oct/2]
+  16.00  Sigma Olomouc B          0-0  SFC Opava
+         Viktoria Žižkov          0-1 (0-1)  Baník Ostrava B
+         MFK Vyškov               0-3 (0-2)  MFK Chrudim
+         FK MAS Táborsko          2-0 (1-0)  FK Varnsdorf
+         SK Líšeň                 2-2 (2-0)  AC Sparta Praha B
+  18.00  1. SK Prostějov          3-1 (0-0)  Zbrojovka Brno
+         FC Sellier & Bellot Vlašim  2-2 (1-2)  Slavia Praha B
+[Tue Oct/22]
+  17.30  FC Zlín                  -  Vysočina Jihlava
 
 
 Matchday 10
 [Fri Sep/20]
-  18.00  SFC Opava                -  1. SK Prostějov
+         SFC Opava                -  1. SK Prostějov          [postponed]
 [Sat Sep/21]
-  10.30  AC Sparta Praha B        -  MFK Vyškov
-         FK Varnsdorf             -  Sigma Olomouc B
-  10.15  MFK Chrudim              -  FK MAS Táborsko
-  17.00  Zbrojovka Brno           -  SK Líšeň
+  10.15  MFK Chrudim              0-0  FK MAS Táborsko
+  10.30  AC Sparta Praha B        1-0 (0-0)  MFK Vyškov
+  17.00  Zbrojovka Brno           1-1 (0-1)  SK Líšeň
 [Sun Sep/22]
-  10.15  Slavia Praha B           -  Viktoria Žižkov
-         Baník Ostrava B          -  FC Zlín
+  10.15  Slavia Praha B           2-2 (1-0)  Viktoria Žižkov
+         Baník Ostrava B          0-1 (0-0)  FC Zlín
+  16.30  FK Varnsdorf             2-3 (2-0)  Sigma Olomouc B
 [Mon Sep/23]
-  17.45  Vysočina Jihlava         -  FC Sellier & Bellot Vlašim
+  17.45  Vysočina Jihlava         2-2 (1-1)  FC Sellier & Bellot Vlašim
 
 
 Matchday 11
 [Fri Sep/27]
-  18.00  FC Sellier & Bellot Vlašim  -  Baník Ostrava B
+  18.00  FC Sellier & Bellot Vlašim  3-2 (0-1)  Baník Ostrava B
 [Sat Sep/28]
-  10.15  Viktoria Žižkov          -  SFC Opava
-  16.30  FK MAS Táborsko          -  MFK Vyškov
-  16.00  FC Zlín                  -  AC Sparta Praha B
-  16.30  SK Líšeň                 -  MFK Chrudim
+  10.15  Viktoria Žižkov          4-1 (3-0)  SFC Opava
+  16.00  FC Zlín                  2-0 (2-0)  AC Sparta Praha B
+  16.30  FK MAS Táborsko          0-0  MFK Vyškov
+         SK Líšeň                 0-2 (0-2)  MFK Chrudim
+  18.00  1. SK Prostějov          1-1 (0-0)  FK Varnsdorf
 [Sun Sep/29]
-  10.15  Slavia Praha B           -  Vysočina Jihlava
-         Sigma Olomouc B          -  Zbrojovka Brno
-[Mon Sep/30]
-  17.30  1. SK Prostějov          -  FK Varnsdorf
+  10.15  Sigma Olomouc B          4-1 (1-0)  Zbrojovka Brno
+         Slavia Praha B           2-0 (2-0)  Vysočina Jihlava
 
 
 Matchday 12
-[Fri Oct/4]
-  18.00  SFC Opava                -  Slavia Praha B
 [Sat Oct/5]
-  10.15  MFK Chrudim              -  Viktoria Žižkov
-         Zbrojovka Brno           -  FC Sellier & Bellot Vlašim
-         FK Varnsdorf             -  FC Zlín
-  16.00  FK MAS Táborsko          -  SK Líšeň
-  10.15  MFK Vyškov               -  Sigma Olomouc B
+  10.15  MFK Chrudim              1-5 (1-1)  Viktoria Žižkov
+  16.00  FK MAS Táborsko          1-1 (0-1)  SK Líšeň
+  17.00  Zbrojovka Brno           2-2 (1-0)  FC Sellier & Bellot Vlašim
 [Sun Oct/6]
-  10.15  Baník Ostrava B          -  Vysočina Jihlava
-  10.30  AC Sparta Praha B        -  1. SK Prostějov
+  10.15  Baník Ostrava B          1-2 (0-1)  Vysočina Jihlava
+         AC Sparta Praha B        5-2 (2-2)  1. SK Prostějov
+         MFK Vyškov               1-0 (0-0)  Sigma Olomouc B
+  14.00  SFC Opava                2-1 (1-1)  Slavia Praha B
+  16.00  FK Varnsdorf             0-2 (0-1)  FC Zlín
 
 
 Matchday 13
-[Sat Oct/19]
-         Vysočina Jihlava         -  FK Varnsdorf
-         1. SK Prostějov          -  MFK Chrudim
-         Sigma Olomouc B          -  AC Sparta Praha B
-         FC Zlín                  -  SFC Opava
-         Viktoria Žižkov          -  Zbrojovka Brno
+[Fri Oct/18]
+  18.00  FC Zlín                  -  SFC Opava
          FC Sellier & Bellot Vlašim  -  FK MAS Táborsko
+         Vysočina Jihlava         -  FK Varnsdorf
+[Sat Oct/19]
+  15.30  SK Líšeň                 -  MFK Vyškov
+[Sun Oct/20]
+  10.15  Sigma Olomouc B          -  AC Sparta Praha B
+         Viktoria Žižkov          -  Zbrojovka Brno
          Slavia Praha B           -  Baník Ostrava B
-         SK Líšeň                 -  MFK Vyškov
+[Mon Oct/21]
+  17.00  1. SK Prostějov          -  MFK Chrudim
 
 
 Matchday 14
-[Sat Oct/26]
-         SK Líšeň                 -  1. SK Prostějov
-         SFC Opava                -  Baník Ostrava B
+[Fri Oct/25]
+  18.00  SFC Opava                -  Baník Ostrava B
          Zbrojovka Brno           -  Slavia Praha B
+[Sat Oct/26]
          FK Varnsdorf             -  FC Sellier & Bellot Vlašim
-         AC Sparta Praha B        -  Viktoria Žižkov
-         MFK Chrudim              -  Vysočina Jihlava
+  10.15  MFK Chrudim              -  Vysočina Jihlava
          MFK Vyškov               -  FC Zlín
-         FK MAS Táborsko          -  Sigma Olomouc B
+  13.30  FK MAS Táborsko          -  Sigma Olomouc B
+  14.30  SK Líšeň                 -  1. SK Prostějov
+[Sun Oct/27]
+  10.30  AC Sparta Praha B        -  Viktoria Žižkov
 
 
 Matchday 15
-[Sat Nov/2]
-         Baník Ostrava B          -  Zbrojovka Brno
-         1. SK Prostějov          -  FK MAS Táborsko
-         Sigma Olomouc B          -  SK Líšeň
-         FC Zlín                  -  MFK Chrudim
-         Viktoria Žižkov          -  MFK Vyškov
+[Fri Nov/1]
+  17.00  1. SK Prostějov          -  FK MAS Táborsko
+  18.00  FC Zlín                  -  MFK Chrudim
          FC Sellier & Bellot Vlašim  -  AC Sparta Praha B
-         Slavia Praha B           -  FK Varnsdorf
          Vysočina Jihlava         -  SFC Opava
+[Sun Nov/3]
+  10.15  Sigma Olomouc B          -  SK Líšeň
+         Viktoria Žižkov          -  MFK Vyškov
+         Slavia Praha B           -  FK Varnsdorf
+         Baník Ostrava B          -  Zbrojovka Brno
 
 
 Matchday 16
 [Sat Nov/9]
-         Zbrojovka Brno           -  SFC Opava
          1. SK Prostějov          -  Sigma Olomouc B
          FK MAS Táborsko          -  FC Zlín
          SK Líšeň                 -  Viktoria Žižkov
@@ -229,11 +226,7 @@ Matchday 16
          AC Sparta Praha B        -  Slavia Praha B
          MFK Vyškov               -  Vysočina Jihlava
          FK Varnsdorf             -  Baník Ostrava B
-
-
-Matchday 7
-[Tue Dec/17]
-  17.30  FC Zlín                  -  Slavia Praha B
+         Zbrojovka Brno           -  SFC Opava
 
 
 Matchday 17
@@ -250,6 +243,7 @@ Matchday 17
 
 Matchday 18
 [Sat Mar/8]
+         Sigma Olomouc B          -  FC Zlín
          1. SK Prostějov          -  Viktoria Žižkov
          SK Líšeň                 -  FC Sellier & Bellot Vlašim
          MFK Chrudim              -  Slavia Praha B
@@ -257,7 +251,6 @@ Matchday 18
          MFK Vyškov               -  Baník Ostrava B
          AC Sparta Praha B        -  SFC Opava
          FK Varnsdorf             -  Zbrojovka Brno
-         Sigma Olomouc B          -  FC Zlín
 
 
 Matchday 19
@@ -274,6 +267,7 @@ Matchday 19
 
 Matchday 20
 [Sat Mar/29]
+         FK MAS Táborsko          -  Viktoria Žižkov
          FC Zlín                  -  FC Sellier & Bellot Vlašim
          Sigma Olomouc B          -  Slavia Praha B
          SK Líšeň                 -  Vysočina Jihlava
@@ -281,7 +275,6 @@ Matchday 20
          MFK Vyškov               -  SFC Opava
          AC Sparta Praha B        -  Zbrojovka Brno
          MFK Chrudim              -  FK Varnsdorf
-         FK MAS Táborsko          -  Viktoria Žižkov
 
 
 Matchday 21
@@ -298,6 +291,7 @@ Matchday 21
 
 Matchday 22
 [Sat Apr/12]
+         Sigma Olomouc B          -  FC Sellier & Bellot Vlašim
          1. SK Prostějov          -  Slavia Praha B
          Viktoria Žižkov          -  Vysočina Jihlava
          SK Líšeň                 -  Baník Ostrava B
@@ -305,7 +299,6 @@ Matchday 22
          FC Zlín                  -  Zbrojovka Brno
          MFK Vyškov               -  FK Varnsdorf
          FK MAS Táborsko          -  AC Sparta Praha B
-         Sigma Olomouc B          -  FC Sellier & Bellot Vlašim
 
 
 Matchday 23
@@ -322,6 +315,7 @@ Matchday 23
 
 Matchday 24
 [Sat Apr/19]
+         Viktoria Žižkov          -  Slavia Praha B
          FC Sellier & Bellot Vlašim  -  Vysočina Jihlava
          FC Zlín                  -  Baník Ostrava B
          1. SK Prostějov          -  SFC Opava
@@ -329,7 +323,6 @@ Matchday 24
          Sigma Olomouc B          -  FK Varnsdorf
          MFK Vyškov               -  AC Sparta Praha B
          FK MAS Táborsko          -  MFK Chrudim
-         Viktoria Žižkov          -  Slavia Praha B
 
 
 Matchday 25
@@ -346,6 +339,7 @@ Matchday 25
 
 Matchday 26
 [Sat May/3]
+         Vysočina Jihlava         -  Baník Ostrava B
          Slavia Praha B           -  SFC Opava
          FC Sellier & Bellot Vlašim  -  Zbrojovka Brno
          FC Zlín                  -  FK Varnsdorf
@@ -353,7 +347,6 @@ Matchday 26
          Viktoria Žižkov          -  MFK Chrudim
          Sigma Olomouc B          -  MFK Vyškov
          SK Líšeň                 -  FK MAS Táborsko
-         Vysočina Jihlava         -  Baník Ostrava B
 
 
 Matchday 27
@@ -370,6 +363,7 @@ Matchday 27
 
 Matchday 28
 [Sat May/10]
+         Baník Ostrava B          -  SFC Opava
          Slavia Praha B           -  Zbrojovka Brno
          FC Sellier & Bellot Vlašim  -  FK Varnsdorf
          Viktoria Žižkov          -  AC Sparta Praha B
@@ -377,7 +371,6 @@ Matchday 28
          FC Zlín                  -  MFK Vyškov
          Sigma Olomouc B          -  FK MAS Táborsko
          1. SK Prostějov          -  SK Líšeň
-         Baník Ostrava B          -  SFC Opava
 
 
 Matchday 29
@@ -394,6 +387,7 @@ Matchday 29
 
 Matchday 30
 [Sat May/24]
+         FC Sellier & Bellot Vlašim  -  SFC Opava
          Zbrojovka Brno           -  Vysočina Jihlava
          Viktoria Žižkov          -  FK Varnsdorf
          Baník Ostrava B          -  AC Sparta Praha B
@@ -401,4 +395,3 @@ Matchday 30
          1. SK Prostějov          -  MFK Vyškov
          Slavia Praha B           -  FK MAS Táborsko
          FC Zlín                  -  SK Líšeň
-         FC Sellier & Bellot Vlašim  -  SFC Opava
