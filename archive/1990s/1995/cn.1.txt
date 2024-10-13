@@ -8,7 +8,7 @@
 
 Matchday 1
 [Sun Apr/16]
-         August 1st (Army Team)   1-4  Liaoning FC
+         August 1st Army Team     1-4  Liaoning FC
          Dalian Wanda             1-0  Tianjin Samsung
          Guangzhou Taiyangshen    1-0  Qingdao Manatee
          Shandong Jinan Taishan General FC  2-1  Beijing Guoan
@@ -18,7 +18,7 @@ Matchday 1
 
 Matchday 2
 [Sun Apr/23]
-         August 1st (Army Team)   1-1  Guangzhou Taiyangshen
+         August 1st Army Team     1-1  Guangzhou Taiyangshen
          Beijing Guoan            2-0  Shanghai Shenhua
          Guangdong Hongyuan       4-2  Liaoning FC
          Qingdao Manatee          1-2  Dalian Wanda
@@ -32,13 +32,13 @@ Matchday 3
          Dalian Wanda             0-0  Changchun Yatai
          Guangdong Hongyuan       1-0  Guangzhou Taiyangshen
          Liaoning FC              1-1  Shandong Jinan Taishan General FC
-         Qingdao Manatee          1-1  August 1st (Army Team)
+         Qingdao Manatee          1-1  August 1st Army Team
          Shanghai Shenhua         2-0  Sichuan Quanxing
 
 
 Matchday 4
 [Sun May/7]
-         Dalian Wanda             2-1  August 1st (Army Team)
+         Dalian Wanda             2-1  August 1st Army Team
          Guangzhou Taiyangshen    1-1  Shandong Jinan Taishan General FC
          Liaoning FC              1-1  Shanghai Shenhua
          Qingdao Manatee          2-0  Guangdong Hongyuan
@@ -50,7 +50,7 @@ Matchday 5
 [Thu May/11]
          Guangzhou Taiyangshen    0-2  Shanghai Shenhua
 [Sun May/14]
-         August 1st (Army Team)   2-0  Guangdong Hongyuan
+         August 1st Army Team     2-0  Guangdong Hongyuan
          Beijing Guoan            2-1  Dalian Wanda
          Shandong Jinan Taishan General FC  0-0  Qingdao Manatee
          Tianjin Samsung          3-2  Liaoning FC
@@ -61,7 +61,7 @@ Matchday 6
 [Sun May/21]
          Beijing Guoan            2-0  Sichuan Quanxing
          Guangdong Hongyuan       2-0  Dalian Wanda
-         Shandong Jinan Taishan General FC  2-1  August 1st (Army Team)
+         Shandong Jinan Taishan General FC  2-1  August 1st Army Team
          Liaoning FC              0-1  Changchun Yatai
          Shanghai Shenhua         3-1  Qingdao Manatee
          Tianjin Samsung          2-0  Guangzhou Taiyangshen
@@ -69,7 +69,7 @@ Matchday 6
 
 Matchday 7
 [Sun May/28]
-         August 1st (Army Team)   4-2  Shanghai Shenhua
+         August 1st Army Team     4-2  Shanghai Shenhua
          Dalian Wanda             1-1  Sichuan Quanxing
          Guangdong Hongyuan       1-1  Shandong Jinan Taishan General FC
          Liaoning FC              0-1  Beijing Guoan
@@ -83,13 +83,13 @@ Matchday 8
          Guangzhou Taiyangshen    2-2  Beijing Guoan
          Shanghai Shenhua         2-0  Guangdong Hongyuan
          Sichuan Quanxing         4-1  Liaoning FC
-         Tianjin Samsung          1-0  August 1st (Army Team)
+         Tianjin Samsung          1-0  August 1st Army Team
          Changchun Yatai          3-3  Qingdao Manatee
 
 
 Matchday 9
 [Sun Aug/6]
-         August 1st (Army Team)   0-3  Changchun Yatai
+         August 1st Army Team     0-3  Changchun Yatai
          Beijing Guoan            4-0  Qingdao Manatee
          Guangdong Hongyuan       4-0  Tianjin Samsung
          Shandong Jinan Taishan General FC  0-4  Shanghai Shenhua
@@ -99,7 +99,7 @@ Matchday 9
 
 Matchday 10
 [Sun Aug/13]
-         Beijing Guoan            1-0  August 1st (Army Team)
+         Beijing Guoan            1-0  August 1st Army Team
          Guangzhou Taiyangshen    6-0  Liaoning FC
          Shandong Jinan Taishan General FC  1-0  Tianjin Samsung
          Qingdao Manatee          1-0  Sichuan Quanxing
@@ -109,7 +109,7 @@ Matchday 10
 
 Matchday 11
 [Sun Sep/3]
-         August 1st (Army Team)   0-0  Sichuan Quanxing
+         August 1st Army Team     0-0  Sichuan Quanxing
          Dalian Wanda             1-0  Guangzhou Taiyangshen
          Guangdong Hongyuan       3-0  Beijing Guoan
          Qingdao Manatee          0-1  Liaoning FC
@@ -121,7 +121,7 @@ Matchday 12
 [Sun Sep/10]
          Beijing Guoan            1-1  Shandong Jinan Taishan General FC
          Guangdong Hongyuan       1-0  Sichuan Quanxing
-         Liaoning FC              0-3  August 1st (Army Team)
+         Liaoning FC              0-3  August 1st Army Team
          Qingdao Manatee          1-1  Guangzhou Taiyangshen
          Tianjin Samsung          0-1  Dalian Wanda
          Changchun Yatai          0-1  Shanghai Shenhua
@@ -130,7 +130,7 @@ Matchday 12
 Matchday 13
 [Sun Sep/17]
          Dalian Wanda             1-0  Qingdao Manatee
-         Guangzhou Taiyangshen    1-1  August 1st (Army Team)
+         Guangzhou Taiyangshen    1-1  August 1st Army Team
          Shandong Jinan Taishan General FC  0-0  Sichuan Quanxing
          Liaoning FC              2-1  Guangdong Hongyuan
          Shanghai Shenhua         1-0  Beijing Guoan
@@ -139,7 +139,7 @@ Matchday 13
 
 Matchday 14
 [Sun Sep/24]
-         August 1st (Army Team)   1-1  Qingdao Manatee
+         August 1st Army Team     1-1  Qingdao Manatee
          Guangzhou Taiyangshen    1-1  Guangdong Hongyuan
          Shandong Jinan Taishan General FC  3-2  Liaoning FC
          Sichuan Quanxing         0-1  Shanghai Shenhua
@@ -149,7 +149,7 @@ Matchday 14
 
 Matchday 15
 [Sun Oct/1]
-         August 1st (Army Team)   0-0  Dalian Wanda
+         August 1st Army Team     0-0  Dalian Wanda
          Beijing Guoan            1-1  Changchun Yatai
          Guangdong Hongyuan       4-0  Qingdao Manatee
          Shandong Jinan Taishan General FC  4-0  Guangzhou Taiyangshen
@@ -160,7 +160,7 @@ Matchday 15
 Matchday 16
 [Sun Oct/8]
          Dalian Wanda             0-0  Beijing Guoan
-         Guangdong Hongyuan       1-0  August 1st (Army Team)
+         Guangdong Hongyuan       1-0  August 1st Army Team
          Liaoning FC              0-0  Tianjin Samsung
          Qingdao Manatee          1-1  Shandong Jinan Taishan General FC
          Shanghai Shenhua         2-0  Guangzhou Taiyangshen
@@ -169,7 +169,7 @@ Matchday 16
 
 Matchday 17
 [Sun Oct/15]
-         August 1st (Army Team)   1-0  Shandong Jinan Taishan General FC
+         August 1st Army Team     1-0  Shandong Jinan Taishan General FC
          Dalian Wanda             3-1  Guangdong Hongyuan
          Guangzhou Taiyangshen    5-1  Tianjin Samsung
          Qingdao Manatee          0-2  Shanghai Shenhua
@@ -182,14 +182,14 @@ Matchday 18
          Beijing Guoan            2-1  Liaoning FC
          Guangzhou Taiyangshen    0-0  Changchun Yatai
          Shandong Jinan Taishan General FC  0-0  Guangdong Hongyuan
-         Shanghai Shenhua         0-0  August 1st (Army Team)
+         Shanghai Shenhua         0-0  August 1st Army Team
          Sichuan Quanxing         1-2  Dalian Wanda
          Tianjin Samsung          2-1  Qingdao Manatee
 
 
 Matchday 19
 [Sun Oct/29]
-         August 1st (Army Team)   6-0  Tianjin Samsung
+         August 1st Army Team     6-0  Tianjin Samsung
          Beijing Guoan            3-1  Guangzhou Taiyangshen
          Guangdong Hongyuan       1-0  Shanghai Shenhua
          Shandong Jinan Taishan General FC  1-2  Dalian Wanda
@@ -204,12 +204,12 @@ Matchday 20
          Qingdao Manatee          0-0  Beijing Guoan
          Shanghai Shenhua         3-1  Shandong Jinan Taishan General FC
          Tianjin Samsung          0-1  Guangdong Hongyuan
-         Changchun Yatai          1-0  August 1st (Army Team)
+         Changchun Yatai          1-0  August 1st Army Team
 
 
 Matchday 21
 [Sun Nov/12]
-         August 1st (Army Team)   1-1  Beijing Guoan
+         August 1st Army Team     1-1  Beijing Guoan
          Dalian Wanda             1-0  Shanghai Shenhua
          Guangdong Hongyuan       2-2  Changchun Yatai
          Liaoning FC              1-2  Guangzhou Taiyangshen
@@ -224,4 +224,4 @@ Matchday 22
          Shandong Jinan Taishan General FC  1-2  Changchun Yatai
          Liaoning FC              2-3  Qingdao Manatee
          Shanghai Shenhua         2-2  Tianjin Samsung
-         Sichuan Quanxing         1-0  August 1st (Army Team)
+         Sichuan Quanxing         1-0  August 1st Army Team

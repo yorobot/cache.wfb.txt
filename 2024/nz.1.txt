@@ -8,7 +8,7 @@
 
 Matchday 1
 [Sat Sep/28]
-  12.30  Wellington Phoenix (R)   0-2 (0-0)  Eastern Suburbs AFC
+  12.30  Wellington Phoenix R     0-2 (0-0)  Eastern Suburbs AFC
   14.45  Coastal Spirit           0-0  Wellington Olympic
 [Sun Sep/29]
   12.30  Western Suburbs          0-4 (0-1)  Cashmere Technical
@@ -22,7 +22,7 @@ Matchday 2
   15.00  Western Springs AFC      6-2 (1-1)  Coastal Spirit
          Wellington Olympic       0-1 (0-1)  Auckland City FC
 [Sun Oct/6]
-  14.00  Cashmere Technical       0-4 (0-0)  Wellington Phoenix (R)
+  14.00  Cashmere Technical       0-4 (0-0)  Wellington Phoenix R
          Eastern Suburbs AFC      2-2 (1-1)  Napier City Rovers
 
 
@@ -31,14 +31,14 @@ Matchday 3
   15.00  Wellington Olympic       -  Eastern Suburbs AFC
   17.30  Western Springs AFC      -  Birkenhead United
 [Sun Oct/13]
-  14.00  Napier City Rovers       -  Wellington Phoenix (R)
+  14.00  Napier City Rovers       -  Wellington Phoenix R
          Auckland City FC         -  Cashmere Technical
   14.45  Coastal Spirit           -  Western Suburbs
 
 
 Matchday 4
 [Sat Oct/19]
-  12.30  Wellington Phoenix (R)   -  Coastal Spirit
+  12.30  Wellington Phoenix R     -  Coastal Spirit
   14.00  Cashmere Technical       -  Wellington Olympic
   14.30  Birkenhead United        -  Napier City Rovers
 [Sun Oct/20]
@@ -53,7 +53,7 @@ Matchday 5
   13.00  Cashmere Technical       -  Coastal Spirit
          Eastern Suburbs AFC      -  Auckland City FC
          Western Suburbs          -  Napier City Rovers
-  15.00  Birkenhead United        -  Wellington Phoenix (R)
+  15.00  Birkenhead United        -  Wellington Phoenix R
 
 
 Matchday 6
@@ -63,7 +63,7 @@ Matchday 6
   14.45  Coastal Spirit           -  Eastern Suburbs AFC
 [Sun Nov/3]
   14.00  Auckland City FC         -  Western Springs AFC
-  16.00  Wellington Phoenix (R)   -  Western Suburbs
+  16.00  Wellington Phoenix R     -  Western Suburbs
 
 
 Matchday 7
@@ -74,13 +74,13 @@ Matchday 7
   16.00  Western Springs AFC      -  Cashmere Technical
 [Sun Nov/10]
   14.00  Eastern Suburbs AFC      -  Birkenhead United
-         Auckland City FC         -  Wellington Phoenix (R)
+         Auckland City FC         -  Wellington Phoenix R
 
 
 Matchday 8
 [Sat Nov/16]
   13.00  Cashmere Technical       -  Eastern Suburbs AFC
-  16.00  Wellington Phoenix (R)   -  Wellington Olympic
+  16.00  Wellington Phoenix R     -  Wellington Olympic
 [Sun Nov/17]
   13.00  Napier City Rovers       -  Auckland City FC
   14.00  Western Suburbs          -  Western Springs AFC
@@ -90,7 +90,7 @@ Matchday 8
 Matchday 9
 [Sat Nov/23]
   14.00  Cashmere Technical       -  Birkenhead United
-  15.00  Western Springs AFC      -  Wellington Phoenix (R)
+  15.00  Western Springs AFC      -  Wellington Phoenix R
          Wellington Olympic       -  Napier City Rovers
 [Sun Nov/24]
   14.00  Eastern Suburbs AFC      -  Western Suburbs

@@ -11,7 +11,7 @@ Matchday 1
          Shanghai Zhongyuan       1-0  Qingdao Beilaite
          Shenzhen Jianlibao       1-1  Shenyang Haishi
 [Sun Mar/16]
-         August 1st (Army Team)   1-0  Tianjin Kangshifu
+         August 1st Army Team     1-0  Tianjin Kangshifu
          Beijing Hyundai          2-0  Liaoning FC
          Shaanxi Guoli            0-0  Sichuan Guancheng
          Shandong Taishan         2-2  Yunnan Hongta
@@ -22,7 +22,7 @@ Matchday 1
 Matchday 2
 [Sat Mar/22]
          Liaoning FC              1-0  Shaanxi Guoli
-         Qingdao Beilaite         1-1  August 1st (Army Team)
+         Qingdao Beilaite         1-1  August 1st Army Team
 [Sun Mar/23]
          Chongqing Lifan          0-1  Shanghai Zhongyuan
          Shenyang Haishi          2-0  Dalian Shide
@@ -33,7 +33,7 @@ Matchday 2
 
 Matchday 3
 [Wed Mar/26]
-         August 1st (Army Team)   2-1  Chongqing Lifan
+         August 1st Army Team     2-1  Chongqing Lifan
          Beijing Hyundai          0-0  Tianjin Kangshifu
          Dalian Shide             3-1  Sichuan Guancheng
          Shaanxi Guoli            0-3  Yunnan Hongta
@@ -50,7 +50,7 @@ Matchday 4
 [Sun Mar/30]
          Chongqing Lifan          1-0  Shandong Taishan
          Liaoning FC              0-1  Dalian Shide
-         Shanghai Zhongyuan       3-0  August 1st (Army Team)
+         Shanghai Zhongyuan       3-0  August 1st Army Team
          Tianjin Kangshifu        4-1  Shaanxi Guoli
          Yunnan Hongta            1-1  Shenzhen Jianlibao
 
@@ -70,7 +70,7 @@ Matchday 5
 
 Matchday 6
 [Sat Aug/9]
-         August 1st (Army Team)   0-0  Shandong Taishan
+         August 1st Army Team     0-0  Shandong Taishan
          Beijing Sanyaun          3-2  Shenyang Haishi
          Chongqing Lifan          2-0  Shaanxi Guoli
          Qingdao Beilaite         0-0  Shenzhen Jianlibao
@@ -82,7 +82,7 @@ Matchday 6
 
 Matchday 7
 [Wed Jul/2]
-         August 1st (Army Team)   2-0  Beijing Hyundai
+         August 1st Army Team     2-0  Beijing Hyundai
          Dalian Shide             6-2  Qingdao Beilaite
          Shaanxi Guoli            1-1  Shanghai Zhongyuan
          Shanghai Shenhua         4-1  Tianjin Kangshifu
@@ -97,7 +97,7 @@ Matchday 8
          Chongqing Lifan          0-0  Dalian Shide
          Shanghai Zhongyuan       1-1  Shenzhen Jianlibao
 [Sun Jul/6]
-         August 1st (Army Team)   0-4  Shaanxi Guoli
+         August 1st Army Team     0-4  Shaanxi Guoli
          Qingdao Beilaite         1-2  Shanghai Shenhua
          Shandong Taishan         0-0  Beijing Hyundai
          Tianjin Kangshifu        2-1  Shenyang Haishi
@@ -111,14 +111,14 @@ Matchday 9
          Dalian Shide             2-1  Shanghai Zhongyuan
          Shaanxi Guoli            3-3  Shandong Taishan
          Shenyang Haishi          0-1  Qingdao Beilaite
-         Shenzhen Jianlibao       5-0  August 1st (Army Team)
+         Shenzhen Jianlibao       5-0  August 1st Army Team
          Sichuan Guancheng        0-2  Tianjin Kangshifu
          Yunnan Hongta            1-1  Beijing Sanyaun
 
 
 Matchday 10
 [Wed Jul/16]
-         August 1st (Army Team)   0-2  Dalian Shide
+         August 1st Army Team     0-2  Dalian Shide
          Beijing Hyundai          3-0  Shaanxi Guoli
          Chongqing Lifan          0-1  Shenyang Haishi
          Qingdao Beilaite         1-3  Sichuan Guancheng
@@ -134,7 +134,7 @@ Matchday 11
 [Sun Jul/20]
          Dalian Shide             1-1  Shandong Taishan
          Beijing Sanyaun          3-1  Qingdao Beilaite
-         Shanghai Shenhua         1-3  August 1st (Army Team)
+         Shanghai Shenhua         1-3  August 1st Army Team
          Shenzhen Jianlibao       1-0  Beijing Hyundai
          Sichuan Guancheng        2-2  Chongqing Lifan
          Yunnan Hongta            1-0  Tianjin Kangshifu
@@ -148,7 +148,7 @@ Matchday 12
          Chongqing Lifan          1-1  Beijing Sanyaun
          Shanghai Zhongyuan       2-1  Sichuan Guancheng
 [Sun Jul/27]
-         August 1st (Army Team)   1-1  Shenyang Haishi
+         August 1st Army Team     1-1  Shenyang Haishi
          Shaanxi Guoli            1-1  Shenzhen Jianlibao
          Shandong Taishan         2-0  Shanghai Shenhua
 
@@ -158,7 +158,7 @@ Matchday 13
          Dalian Shide             4-1  Shaanxi Guoli
          Beijing Sanyaun          0-0  Shanghai Zhongyuan
          Shanghai Shenhua         1-0  Beijing Hyundai
-         Sichuan Guancheng        1-0  August 1st (Army Team)
+         Sichuan Guancheng        1-0  August 1st Army Team
          Tianjin Kangshifu        1-1  Qingdao Beilaite
          Yunnan Hongta            0-1  Chongqing Lifan
 [Thu Jul/31]
@@ -167,7 +167,7 @@ Matchday 13
 
 Matchday 14
 [Sat Aug/2]
-         August 1st (Army Team)   1-0  Beijing Sanyaun
+         August 1st Army Team     1-0  Beijing Sanyaun
          Shaanxi Guoli            1-3  Shanghai Shenhua
 [Sun Aug/3]
          Beijing Hyundai          1-3  Shenyang Haishi
@@ -187,7 +187,7 @@ Matchday 15
          Shenyang Haishi          1-0  Shaanxi Guoli
          Sichuan Guancheng        1-1  Beijing Hyundai
          Tianjin Kangshifu        0-0  Shanghai Zhongyuan
-         Yunnan Hongta            4-0  August 1st (Army Team)
+         Yunnan Hongta            4-0  August 1st Army Team
 
 
 Matchday 16
@@ -198,13 +198,13 @@ Matchday 16
          Qingdao Beilaite         2-1  Shanghai Zhongyuan
          Shanghai Shenhua         3-2  Dalian Shide
          Sichuan Guancheng        5-1  Shaanxi Guoli
-         Tianjin Kangshifu        3-1  August 1st (Army Team)
+         Tianjin Kangshifu        3-1  August 1st Army Team
          Yunnan Hongta            1-0  Shandong Taishan
 
 
 Matchday 17
 [Wed Sep/24]
-         August 1st (Army Team)   1-3  Qingdao Beilaite
+         August 1st Army Team     1-3  Qingdao Beilaite
          Beijing Hyundai          0-1  Yunnan Hongta
          Dalian Shide             0-1  Shenyang Haishi
          Shaanxi Guoli            4-3  Beijing Sanyaun
@@ -218,7 +218,7 @@ Matchday 18
          Beijing Sanyaun          1-1  Shenzhen Jianlibao
          Yunnan Hongta            0-0  Shaanxi Guoli
 [Sun Oct/5]
-         Chongqing Lifan          1-1  August 1st (Army Team)
+         Chongqing Lifan          1-1  August 1st Army Team
          Qingdao Beilaite         1-2  Shandong Taishan
          Shenyang Haishi          1-1  Shanghai Shenhua
          Sichuan Guancheng        2-0  Dalian Shide
@@ -227,7 +227,7 @@ Matchday 18
 
 Matchday 19
 [Sat Oct/11]
-         August 1st (Army Team)   1-2  Shanghai International
+         August 1st Army Team     1-2  Shanghai International
          Beijing Hyundai          4-1  Qingdao Beilaite
 [Sun Oct/12]
          Dalian Shide             1-1  Beijing Sanyaun
@@ -256,7 +256,7 @@ Matchday 21
 [Sun Oct/19]
          Dalian Shide             3-1  Tianjin Kangshifu
          Shaanxi Guoli            0-2  Chongqing Lifan
-         Shandong Taishan         2-1  August 1st (Army Team)
+         Shandong Taishan         2-1  August 1st Army Team
          Shanghai Shenhua         3-1  Yunnan Hongta
          Shenyang Haishi          1-1  Beijing Sanyaun
 
@@ -266,7 +266,7 @@ Matchday 22
          Beijing Sanyaun          1-2  Sichuan Guancheng
          Shanghai International   1-0  Shaanxi Guoli
 [Sun Oct/26]
-         Beijing Hyundai          5-0  August 1st (Army Team)
+         Beijing Hyundai          5-0  August 1st Army Team
          Chongqing Lifan          1-0  Shenzhen Jianlibao
          Qingdao Beilaite         0-1  Dalian Shide
          Tianjin Kangshifu        1-1  Shanghai Shenhua
@@ -277,7 +277,7 @@ Matchday 23
 [Wed Oct/29]
          Beijing Hyundai          3-2  Shandong Taishan
          Dalian Shide             3-0  Chongqing Lifan
-         Shaanxi Guoli            3-1  August 1st (Army Team)
+         Shaanxi Guoli            3-1  August 1st Army Team
          Shenyang Haishi          0-0  Tianjin Kangshifu
          Shenzhen Jianlibao       0-1  Shanghai International
          Sichuan Guancheng        2-1  Yunnan Hongta
@@ -290,7 +290,7 @@ Matchday 24
          Beijing Sanyaun          0-1  Yunnan Hongta
          Shanghai International   1-0  Dalian Shide
 [Sun Nov/2]
-         August 1st (Army Team)   1-5  Shenzhen Jianlibao
+         August 1st Army Team     1-5  Shenzhen Jianlibao
          Chongqing Lifan          0-1  Shanghai Shenhua
          Qingdao Beilaite         4-2  Shenyang Haishi
          Shandong Taishan         4-2  Shaanxi Guoli
@@ -301,7 +301,7 @@ Matchday 25
 [Sat Nov/8]
          Beijing Sanyaun          2-0  Tianjin Kangshifu
 [Sun Nov/9]
-         Dalian Shide             3-0  August 1st (Army Team)
+         Dalian Shide             3-0  August 1st Army Team
          Shaanxi Guoli            0-2  Beijing Hyundai
          Shanghai Shenhua         4-1  Shanghai International
          Shenyang Haishi          1-0  Chongqing Lifan
@@ -311,7 +311,7 @@ Matchday 25
 
 Matchday 26
 [Wed Nov/12]
-         August 1st (Army Team)   0-2  Shanghai Shenhua
+         August 1st Army Team     0-2  Shanghai Shenhua
          Beijing Hyundai          2-0  Shenzhen Jianlibao
          Chongqing Lifan          0-2  Sichuan Guancheng
          Qingdao Beilaite         1-4  Beijing Sanyaun
@@ -327,7 +327,7 @@ Matchday 27
          Shanghai Shenhua         4-2  Shandong Taishan
 [Sun Nov/16]
          Dalian Shide             0-0  Beijing Hyundai
-         Shenyang Haishi          2-1  August 1st (Army Team)
+         Shenyang Haishi          2-1  August 1st Army Team
          Shenzhen Jianlibao       4-0  Shaanxi Guoli
          Sichuan Guancheng        0-2  Shanghai International
          Yunnan Hongta            2-1  Qingdao Beilaite
@@ -335,7 +335,7 @@ Matchday 27
 
 Matchday 28
 [Sat Nov/22]
-         August 1st (Army Team)   1-2  Sichuan Guancheng
+         August 1st Army Team     1-2  Sichuan Guancheng
          Chongqing Lifan          2-1  Yunnan Hongta
          Beijing Hyundai          2-1  Shanghai Shenhua
          Qingdao Beilaite         0-0  Tianjin Kangshifu
@@ -348,7 +348,7 @@ Matchday 29
 [Wed Nov/26]
          Tianjin Kangshifu        0-0  Chongqing Lifan
          Yunnan Hongta            1-2  Shanghai International
-         Beijing Sanyaun          2-1  August 1st (Army Team)
+         Beijing Sanyaun          2-1  August 1st Army Team
          Sichuan Guancheng        4-4  Shandong Taishan
          Shenyang Haishi          0-0  Beijing Hyundai
          Shanghai Shenhua         2-0  Shaanxi Guoli
@@ -363,4 +363,4 @@ Matchday 30
          Shaanxi Guoli            1-2  Shenyang Haishi
          Beijing Hyundai          3-1  Sichuan Guancheng
          Shanghai International   1-2  Tianjin Kangshifu
-         August 1st (Army Team)   2-1  Yunnan Hongta
+         August 1st Army Team     2-1  Yunnan Hongta

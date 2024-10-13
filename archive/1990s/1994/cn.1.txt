@@ -8,7 +8,7 @@
 
 Matchday 1
 [Sun Apr/17]
-         August 1st (Army Team)   1-1  Jiangsu Maint
+         August 1st Army Team     1-1  Jiangsu Maint
          Guangdong Hongyuan       0-2  Beijing Guoan
          Changchun Yatai          1-3  Dalian Wanda
          Shandong Taishan FC      1-0  Guangzhou Taiyangshen
@@ -18,7 +18,7 @@ Matchday 1
 
 Matchday 2
 [Sun Apr/24]
-         Guangdong Hongyuan       0-1  August 1st (Army Team)
+         Guangdong Hongyuan       0-1  August 1st Army Team
          Jiangsu Maint            0-0  Guangzhou Taiyangshen
          Shandong Taishan FC      1-0  Liaoning Far East
          Shanghai Shenhua         4-3  Beijing Guoan
@@ -32,13 +32,13 @@ Matchday 3
          Guangzhou Taiyangshen    3-1  Guangdong Hongyuan
          Jiangsu Maint            0-1  Shandong Taishan FC
          Liaoning Far East        2-2  Changchun Yatai
-         Shanghai Shenhua         2-0  August 1st (Army Team)
+         Shanghai Shenhua         2-0  August 1st Army Team
          Sichuan Quanxing         2-0  Shenyang Huayang
 
 
 Matchday 4
 [Wed Jun/8]
-         August 1st (Army Team)   0-1  Dalian Wanda
+         August 1st Army Team     0-1  Dalian Wanda
          Beijing Guoan            0-1  Sichuan Quanxing
          Guangzhou Taiyangshen    2-5  Shanghai Shenhua
          Changchun Yatai          3-2  Shenyang Huayang
@@ -48,7 +48,7 @@ Matchday 4
 
 Matchday 5
 [Sun Jun/5]
-         August 1st (Army Team)   2-1  Sichuan Quanxing
+         August 1st Army Team     2-1  Sichuan Quanxing
          Dalian Wanda             2-1  Guangzhou Taiyangshen
          Guangdong Hongyuan       5-1  Jiangsu Maint
          Changchun Yatai          0-0  Beijing Guoan
@@ -58,7 +58,7 @@ Matchday 5
 
 Matchday 6
 [Sun Jun/12]
-         August 1st (Army Team)   2-1  Changchun Yatai
+         August 1st Army Team     2-1  Changchun Yatai
          Dalian Wanda             3-1  Shandong Taishan FC
          Guangdong Hongyuan       2-0  Liaoning Far East
          Jiangsu Maint            1-4  Shanghai Shenhua
@@ -72,13 +72,13 @@ Matchday 7
          Guangzhou Taiyangshen    1-0  Changchun Yatai
          Jiangsu Maint            1-3  Dalian Wanda
          Shanghai Shenhua         0-0  Guangdong Hongyuan
-         Shenyang Huayang         0-0  August 1st (Army Team)
+         Shenyang Huayang         0-0  August 1st Army Team
          Sichuan Quanxing         2-0  Shandong Taishan FC
 
 
 Matchday 8
 [Sun Jun/26]
-         Beijing Guoan            0-0  August 1st (Army Team)
+         Beijing Guoan            0-0  August 1st Army Team
          Guangdong Hongyuan       2-1  Dalian Wanda
          Jiangsu Maint            1-1  Sichuan Quanxing
          Changchun Yatai          1-1  Shandong Taishan FC
@@ -91,7 +91,7 @@ Matchday 9
          Dalian Wanda             2-2  Shanghai Shenhua
          Guangzhou Taiyangshen    3-2  Beijing Guoan
          Jiangsu Maint            1-0  Changchun Yatai
-         Liaoning Far East        2-1  August 1st (Army Team)
+         Liaoning Far East        2-1  August 1st Army Team
          Shandong Taishan FC      1-0  Shenyang Huayang
          Sichuan Quanxing         1-0  Guangdong Hongyuan
 
@@ -99,7 +99,7 @@ Matchday 9
 Matchday 10
 [Sun Jul/10]
          Dalian Wanda             2-1  Liaoning Far East
-         Guangzhou Taiyangshen    1-0  August 1st (Army Team)
+         Guangzhou Taiyangshen    1-0  August 1st Army Team
          Changchun Yatai          1-1  Guangdong Hongyuan
          Shandong Taishan FC      1-1  Beijing Guoan
          Shanghai Shenhua         2-1  Sichuan Quanxing
@@ -108,7 +108,7 @@ Matchday 10
 
 Matchday 11
 [Sun Jul/17]
-         August 1st (Army Team)   1-0  Shandong Taishan FC
+         August 1st Army Team     1-0  Shandong Taishan FC
          Beijing Guoan            4-1  Jiangsu Maint
          Dalian Wanda             1-0  Sichuan Quanxing
          Guangdong Hongyuan       1-1  Shenyang Huayang
@@ -121,14 +121,14 @@ Matchday 12
          Beijing Guoan            2-2  Guangdong Hongyuan
          Dalian Wanda             1-0  Changchun Yatai
          Guangzhou Taiyangshen    3-1  Shandong Taishan FC
-         Jiangsu Maint            0-0  August 1st (Army Team)
+         Jiangsu Maint            0-0  August 1st Army Team
          Liaoning Far East        6-3  Sichuan Quanxing
          Shanghai Shenhua         0-0  Shenyang Huayang
 
 
 Matchday 13
 [Sun Jul/31]
-         August 1st (Army Team)   0-0  Guangdong Hongyuan
+         August 1st Army Team     0-0  Guangdong Hongyuan
          Beijing Guoan            5-1  Shanghai Shenhua
          Dalian Wanda             4-0  Shenyang Huayang
          Guangzhou Taiyangshen    2-0  Jiangsu Maint
@@ -138,7 +138,7 @@ Matchday 13
 
 Matchday 14
 [Sun Aug/7]
-         August 1st (Army Team)   1-2  Shanghai Shenhua
+         August 1st Army Team     1-2  Shanghai Shenhua
          Dalian Wanda             4-1  Beijing Guoan
          Guangdong Hongyuan       0-2  Guangzhou Taiyangshen
          Changchun Yatai          3-2  Liaoning Far East
@@ -148,7 +148,7 @@ Matchday 14
 
 Matchday 15
 [Sun Aug/14]
-         Dalian Wanda             1-1  August 1st (Army Team)
+         Dalian Wanda             1-1  August 1st Army Team
          Guangdong Hongyuan       3-0  Shandong Taishan FC
          Jiangsu Maint            1-5  Liaoning Far East
          Shanghai Shenhua         1-6  Guangzhou Taiyangshen
@@ -163,14 +163,14 @@ Matchday 16
          Jiangsu Maint            0-0  Guangdong Hongyuan
          Shanghai Shenhua         0-0  Shandong Taishan FC
          Shenyang Huayang         3-4  Liaoning Far East
-         Sichuan Quanxing         0-0  August 1st (Army Team)
+         Sichuan Quanxing         0-0  August 1st Army Team
 
 
 Matchday 17
 [Sun Aug/28]
          Beijing Guoan            6-0  Shenyang Huayang
          Guangzhou Taiyangshen    1-0  Sichuan Quanxing
-         Changchun Yatai          3-0  August 1st (Army Team)
+         Changchun Yatai          3-0  August 1st Army Team
          Liaoning Far East        2-1  Guangdong Hongyuan
          Shandong Taishan FC      0-3  Dalian Wanda
          Shanghai Shenhua         2-0  Jiangsu Maint
@@ -178,7 +178,7 @@ Matchday 17
 
 Matchday 18
 [Sun Sep/4]
-         August 1st (Army Team)   0-0  Shenyang Huayang
+         August 1st Army Team     0-0  Shenyang Huayang
          Dalian Wanda             2-2  Jiangsu Maint
          Guangdong Hongyuan       2-0  Shanghai Shenhua
          Changchun Yatai          1-1  Guangzhou Taiyangshen
@@ -188,7 +188,7 @@ Matchday 18
 
 Matchday 19
 [Sun Oct/23]
-         August 1st (Army Team)   2-2  Beijing Guoan
+         August 1st Army Team     2-2  Beijing Guoan
          Dalian Wanda             1-0  Guangdong Hongyuan
          Guangzhou Taiyangshen    3-0  Shenyang Huayang
          Liaoning Far East        2-4  Shanghai Shenhua
@@ -198,7 +198,7 @@ Matchday 19
 
 Matchday 20
 [Sun Oct/30]
-         August 1st (Army Team)   2-1  Liaoning Far East
+         August 1st Army Team     2-1  Liaoning Far East
          Beijing Guoan            1-1  Guangzhou Taiyangshen
          Guangdong Hongyuan       2-2  Sichuan Quanxing
          Changchun Yatai          1-0  Jiangsu Maint
@@ -208,7 +208,7 @@ Matchday 20
 
 Matchday 21
 [Sun Nov/6]
-         August 1st (Army Team)   1-0  Guangzhou Taiyangshen
+         August 1st Army Team     1-0  Guangzhou Taiyangshen
          Beijing Guoan            2-2  Shandong Taishan FC
          Guangdong Hongyuan       2-0  Changchun Yatai
          Jiangsu Maint            1-1  Shenyang Huayang
@@ -220,7 +220,7 @@ Matchday 22
 [Sun Nov/13]
          Guangzhou Taiyangshen    2-3  Liaoning Far East
          Jiangsu Maint            0-2  Beijing Guoan
-         Shandong Taishan FC      1-0  August 1st (Army Team)
+         Shandong Taishan FC      1-0  August 1st Army Team
          Shanghai Shenhua         1-0  Changchun Yatai
          Shenyang Huayang         1-3  Guangdong Hongyuan
          Sichuan Quanxing         2-3  Dalian Wanda

@@ -27,7 +27,7 @@ Matchday 2
          Sichuan Dahe             1-1  Shaanxi Guoli
          Qingdao Yizhong          2-1  Shandong Taishan
          Shanghai Zhongyuan       2-2  Shenyang Haishi
-         August 1st (Army Team)   0-0  Shanghai Shenhua
+         August 1st Army Team     0-0  Shanghai Shenhua
 
 
 Matchday 3
@@ -37,7 +37,7 @@ Matchday 3
          Beijing Guoan            2-0  Sichuan Dahe
          Dalian Shide             3-2  Yunnan Hongta
          Shaanxi Guoli            3-3  Qingdao Yizhong
-         Shenyang Haishi          1-1  August 1st (Army Team)
+         Shenyang Haishi          1-1  August 1st Army Team
          Shenzhen Ping'an Insurance  3-4  Liaoning Bird
          Tianjin Teda             2-2  Shanghai Zhongyuan
 
@@ -46,7 +46,7 @@ Matchday 4
 [Sat Mar/30]
          Shanghai Zhongyuan       3-1  Shandong Taishan
 [Sun Mar/31]
-         August 1st (Army Team)   0-1  Tianjin Teda
+         August 1st Army Team     0-1  Tianjin Teda
          Qingdao Yizhong          1-1  Beijing Guoan
          Shanghai Shenhua         2-1  Shenyang Haishi
          Sichuan Dahe             2-3  Dalian Shide
@@ -61,7 +61,7 @@ Matchday 5
 [Sun Apr/7]
          Dalian Shide             2-1  Qingdao Yizhong
          Liaoning Bird            1-1  Yunnan Hongta
-         Shandong Taishan         3-0  August 1st (Army Team)
+         Shandong Taishan         3-0  August 1st Army Team
          Shanghai Zhongyuan       1-0  Shaanxi Guoli
          Shenzhen Ping'an Insurance  2-0  Sichuan Dahe
          Tianjin Teda             2-1  Shanghai Shenhua
@@ -71,7 +71,7 @@ Matchday 6
 [Sat Apr/13]
          Shanghai Shenhua         0-2  Shandong Taishan
 [Sun Apr/14]
-         August 1st (Army Team)   1-1  Shaanxi Guoli
+         August 1st Army Team     1-1  Shaanxi Guoli
          Chongqing Lifan          1-1  Dalian Shide
          Qingdao Yizhong          0-2  Shenzhen Ping'an Insurance
          Shanghai Zhongyuan       1-1  Beijing Guoan
@@ -81,7 +81,7 @@ Matchday 6
 
 Matchday 7
 [Wed Jul/3]
-         Beijing Guoan            1-1  August 1st (Army Team)
+         Beijing Guoan            1-1  August 1st Army Team
          Dalian Shide             4-0  Shanghai Zhongyuan
          Liaoning Bird            2-1  Qingdao Hademen
          Shaanxi Guoli            0-3  Shanghai Shenhua
@@ -94,7 +94,7 @@ Matchday 8
 [Sat Jul/6]
          Shanghai Shenhua         1-1  Beijing Guoan
 [Sun Jul/7]
-         August 1st (Army Team)   0-0  Dalian Shide
+         August 1st Army Team     0-0  Dalian Shide
          Chongqing Lifan          1-0  Liaoning Bird
          Qingdao Hademen          1-0  Yunnan Hongta
          Shanghai Zhongyuan       1-2  Shenzhen Ping'an Insurance
@@ -109,7 +109,7 @@ Matchday 9
          Beijing Guoan            0-1  Shenyang Haishi
          Dalian Shide             2-0  Shanghai Shenhua
          Shaanxi Guoli            0-2  Tianjin Teda
-         Shenzhen Ping'an Insurance  0-0  August 1st (Army Team)
+         Shenzhen Ping'an Insurance  0-0  August 1st Army Team
          Sichuan Dahe             0-0  Qingdao Hademen
          Yunnan Hongta            1-1  Chongqing Lifan
 
@@ -118,7 +118,7 @@ Matchday 10
 [Wed Jul/17]
          Shanghai Zhongyuan       2-1  Yunnan Hongta
 [Thu Jul/18]
-         August 1st (Army Team)   3-1  Liaoning Bird
+         August 1st Army Team     3-1  Liaoning Bird
          Chongqing Lifan          2-0  Sichuan Dahe
          Shandong Taishan         1-0  Shaanxi Guoli
          Shanghai Shenhua         1-5  Shenzhen Ping'an Insurance
@@ -134,14 +134,14 @@ Matchday 11
          Qingdao Hademen          0-0  Chongqing Lifan
          Shenzhen Ping'an Insurance  1-1  Shenyang Haishi
          Sichuan Dahe             2-1  Shanghai Zhongyuan
-         Yunnan Hongta            1-0  August 1st (Army Team)
+         Yunnan Hongta            1-0  August 1st Army Team
 
 
 Matchday 12
 [Sat Jul/27]
          Shanghai Zhongyuan       0-1  Qingdao Hademen
 [Sun Jul/28]
-         August 1st (Army Team)   2-2  Sichuan Dahe
+         August 1st Army Team     2-2  Sichuan Dahe
          Shaanxi Guoli            1-2  Beijing Guoan
          Shandong Taishan         2-1  Dalian Shide
          Shanghai Shenhua         0-1  Yunnan Hongta
@@ -151,7 +151,7 @@ Matchday 12
 
 Matchday 13
 [Wed Jul/31]
-         Qingdao Hademen          1-1  August 1st (Army Team)
+         Qingdao Hademen          1-1  August 1st Army Team
 [Thu Aug/1]
          Chongqing Lifan          1-1  Shanghai Zhongyuan
          Dalian Shide             2-2  Shaanxi Guoli
@@ -163,7 +163,7 @@ Matchday 13
 
 Matchday 14
 [Sun Aug/4]
-         August 1st (Army Team)   0-0  Chongqing Lifan
+         August 1st Army Team     0-0  Chongqing Lifan
          Beijing Guoan            1-2  Dalian Shide
          Shaanxi Guoli            1-1  Shenzhen Ping'an Insurance
          Shandong Taishan         1-0  Liaoning Bird
@@ -179,7 +179,7 @@ Matchday 15
          Chongqing Lifan          0-1  Shanghai Shenhua
          Liaoning Bird            2-0  Shaanxi Guoli
          Qingdao Hademen          2-0  Shenyang Haishi
-         Shanghai Zhongyuan       4-1  August 1st (Army Team)
+         Shanghai Zhongyuan       4-1  August 1st Army Team
          Sichuan Dahe             0-3  Tianjin Teda
          Yunnan Hongta            2-1  Shandong Taishan
 
@@ -202,14 +202,14 @@ Matchday 17
          Dalian Shide             5-2  Liaoning Bird
          Shaanxi Guoli            4-0  Sichuan Dahe
          Shandong Taishan         3-1  Qingdao Hademen
-         Shanghai Shenhua         7-1  August 1st (Army Team)
+         Shanghai Shenhua         7-1  August 1st Army Team
          Shenyang Haishi          4-2  Shanghai Zhongyuan
          Tianjin Teda             0-0  Chongqing Lifan
 
 
 Matchday 18
 [Sat Aug/24]
-         August 1st (Army Team)   0-1  Shenyang Haishi
+         August 1st Army Team     0-1  Shenyang Haishi
 [Sun Aug/25]
          Chongqing Lifan          1-0  Shandong Taishan
          Liaoning Bird            1-1  Shenzhen Ping'an Insurance
@@ -221,7 +221,7 @@ Matchday 18
 
 Matchday 19
 [Wed Aug/28]
-         August 1st (Army Team)   3-2  Shandong Taishan
+         August 1st Army Team     3-2  Shandong Taishan
          Chongqing Lifan          3-0  Beijing Guoan
          Qingdao Hademen          0-2  Dalian Shide
          Shanghai Shenhua         1-0  Tianjin Teda
@@ -239,7 +239,7 @@ Matchday 20
          Shaanxi Guoli            1-0  Chongqing Lifan
          Shandong Taishan         2-0  Shanghai Zhongyuan
          Shenzhen Ping'an Insurance  2-0  Yunnan Hongta
-         Tianjin Teda             1-2  August 1st (Army Team)
+         Tianjin Teda             1-2  August 1st Army Team
 
 
 Matchday 21
@@ -252,14 +252,14 @@ Matchday 21
          Shenzhen Ping'an Insurance  2-1  Qingdao Hademen
          Tianjin Teda             2-1  Shenyang Haishi
 [Wed Sep/11]
-         Shaanxi Guoli            2-2  August 1st (Army Team)
+         Shaanxi Guoli            2-2  August 1st Army Team
 
 
 Matchday 22
 [Sat Sep/14]
          Shanghai Shenhua         3-1  Shaanxi Guoli
 [Sun Sep/15]
-         August 1st (Army Team)   1-2  Beijing Guoan
+         August 1st Army Team     1-2  Beijing Guoan
          Chongqing Lifan          2-2  Shenzhen Ping'an Insurance
          Qingdao Hademen          1-2  Liaoning Bird
          Shanghai Zhongyuan       0-1  Dalian Shide
@@ -271,7 +271,7 @@ Matchday 23
 [Wed Oct/16]
          Beijing Guoan            2-1  Shanghai Shenhua
 [Thu Oct/17]
-         Dalian Shide             1-2  August 1st (Army Team)
+         Dalian Shide             1-2  August 1st Army Team
          Liaoning Bird            2-1  Chongqing Lifan
          Shaanxi Guoli            0-2  Shenyang Haishi
          Shandong Taishan         2-1  Tianjin Teda
@@ -281,7 +281,7 @@ Matchday 23
 
 Matchday 24
 [Sun Oct/20]
-         August 1st (Army Team)   1-2  Shenzhen Ping'an Insurance
+         August 1st Army Team     1-2  Shenzhen Ping'an Insurance
          Chongqing Lifan          1-0  Yunnan Hongta
          Qingdao Hademen          2-0  Sichuan Dahe
          Shanghai Shenhua         1-1  Dalian Shide
@@ -300,14 +300,14 @@ Matchday 25
          Sichuan Dahe             3-1  Chongqing Lifan
          Yunnan Hongta            1-1  Shanghai Zhongyuan
 [Thu Oct/31]
-         Liaoning Bird            1-1  August 1st (Army Team)
+         Liaoning Bird            1-1  August 1st Army Team
 
 
 Matchday 26
 [Sat Nov/2]
          Shanghai Zhongyuan       2-1  Sichuan Dahe
 [Sun Nov/3]
-         August 1st (Army Team)   1-0  Yunnan Hongta
+         August 1st Army Team     1-0  Yunnan Hongta
          Chongqing Lifan          1-1  Qingdao Hademen
          Shandong Taishan         2-1  Beijing Guoan
          Shanghai Shenhua         1-0  Liaoning Bird
@@ -323,7 +323,7 @@ Matchday 27
          Dalian Shide             3-2  Shandong Taishan
          Qingdao Hademen          3-1  Shanghai Zhongyuan
          Shenzhen Ping'an Insurance  1-0  Tianjin Teda
-         Sichuan Dahe             3-0  August 1st (Army Team)
+         Sichuan Dahe             3-0  August 1st Army Team
          Yunnan Hongta            2-1  Shanghai Shenhua
 
 
@@ -336,13 +336,13 @@ Matchday 28
          Shanghai Zhongyuan       0-1  Chongqing Lifan
          Shenyang Haishi          2-2  Yunnan Hongta
 [Wed Nov/20]
-         August 1st (Army Team)   3-1  Qingdao Hademen
+         August 1st Army Team     3-1  Qingdao Hademen
          Tianjin Teda             4-1  Liaoning Bird
 
 
 Matchday 29
 [Sun Nov/24]
-         Chongqing Lifan          2-0  August 1st (Army Team)
+         Chongqing Lifan          2-0  August 1st Army Team
          Dalian Shide             2-1  Beijing Guoan
          Liaoning Bird            2-3  Shandong Taishan
          Qingdao Hademen          2-0  Shanghai Shenhua
@@ -353,7 +353,7 @@ Matchday 29
 
 Matchday 30
 [Sat Nov/30]
-         August 1st (Army Team)   0-0  Shanghai Zhongyuan
+         August 1st Army Team     0-0  Shanghai Zhongyuan
          Beijing Guoan            2-0  Shenzhen Ping'an Insurance
          Shaanxi Guoli            1-3  Liaoning Bird
          Shandong Taishan         0-0  Yunnan Hongta
