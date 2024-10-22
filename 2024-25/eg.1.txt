@@ -1,0 +1,264 @@
+= EG 1 2024/25
+
+# Date       Wed Oct/30 2024 - Wed Mar/5 2025 (126d)
+# Teams      18
+# Matches    153
+
+
+
+Matchday 1
+[Wed Oct/30]
+  18.00  Haras El Hodood          -  Smouha Sporting Club
+  21.00  Tala'ea El Gaish SC      -  Al Masry Club
+[Thu Oct/31]
+  18.00  El Gouna                 -  ZED FC
+  21.00  Future FC                -  ENPPI
+[Fri Nov/1]
+  17.00  Pharco FC                -  Ittihad El Iskandary
+         Pyramids FC              -  PetroJet FC
+  20.00  Zamalek                  -  National Bank SC
+[Sat Nov/2]
+  17.00  Ismaily                  -  Ghazl Al Mehalla
+  20.00  Al Ahly SC               -  Ceramica Cleopatra
+
+
+Matchday 2
+[Thu Nov/7]
+  17.00  Ghazl Al Mehalla         -  Tala'ea El Gaish SC
+         Ittihad El Iskandary     -  Haras El Hodood
+  20.00  ZED FC                   -  Al Ahly SC
+[Fri Nov/8]
+  17.00  Smouha Sporting Club     -  Zamalek
+         PetroJet FC              -  Future FC
+  20.00  ENPPI                    -  Pyramids FC
+[Sat Nov/9]
+  17.00  National Bank SC         -  Pharco FC
+         Al Masry Club            -  El Gouna
+  20.00  Ceramica Cleopatra       -  Ismaily
+
+
+Matchday 3
+[Fri Nov/22]
+  17.00  Pharco FC                -  ENPPI
+         Pyramids FC              -  National Bank SC
+  20.00  Al Ahly SC               -  Ittihad El Iskandary
+[Sat Nov/23]
+  17.00  Tala'ea El Gaish SC      -  Smouha Sporting Club
+         El Gouna                 -  Ghazl Al Mehalla
+  20.00  Zamalek                  -  Al Masry Club
+[Sun Nov/24]
+  17.00  Ismaily                  -  PetroJet FC
+  20.00  Haras El Hodood          -  Ceramica Cleopatra
+         Future FC                -  ZED FC
+
+
+Matchday 4
+[Sat Nov/30]
+  17.00  ZED FC                   -  Haras El Hodood
+         Ceramica Cleopatra       -  Future FC
+  20.00  Ittihad El Iskandary     -  Tala'ea El Gaish SC
+[Sun Dec/1]
+  17.00  National Bank SC         -  Al Ahly SC
+  20.00  Smouha Sporting Club     -  El Gouna
+         ENPPI                    -  Ismaily
+[Mon Dec/2]
+  17.00  Al Masry Club            -  Pyramids FC
+         PetroJet FC              -  Pharco FC
+  20.00  Ghazl Al Mehalla         -  Zamalek
+
+
+Matchday 5
+[Thu Dec/19]
+  17.00  Tala'ea El Gaish SC      -  PetroJet FC
+         Haras El Hodood          -  Al Masry Club
+  20.00  Zamalek                  -  Ceramica Cleopatra
+[Fri Dec/20]
+  17.00  Future FC                -  National Bank SC
+         El Gouna                 -  ENPPI
+  20.00  Pharco FC                -  ZED FC
+[Sat Dec/21]
+  17.00  Ghazl Al Mehalla         -  Ittihad El Iskandary
+  20.00  Ismaily                  -  Pyramids FC
+[Sun Dec/22]
+  20.00  Al Ahly SC               -  Smouha Sporting Club
+
+
+Matchday 6
+[Tue Dec/24]
+  17.00  ZED FC                   -  ENPPI
+  20.00  Tala'ea El Gaish SC      -  Zamalek
+[Wed Dec/25]
+  17.00  Ittihad El Iskandary     -  Future FC
+         Ismaily                  -  Haras El Hodood
+  20.00  Pyramids FC              -  Pharco FC
+[Thu Dec/26]
+  17.00  National Bank SC         -  Ceramica Cleopatra
+         Smouha Sporting Club     -  Ghazl Al Mehalla
+  20.00  Al Masry Club            -  Al Ahly SC
+         PetroJet FC              -  El Gouna
+
+
+Matchday 7
+[Sun Dec/29]
+  17.00  Haras El Hodood          -  Tala'ea El Gaish SC
+  20.00  Zamalek                  -  Ittihad El Iskandary
+[Mon Dec/30]
+  17.00  ENPPI                    -  Al Ahly SC
+         El Gouna                 -  Pyramids FC
+  20.00  Pharco FC                -  Smouha Sporting Club
+         ZED FC                   -  PetroJet FC
+[Tue Dec/31]
+  17.00  Ceramica Cleopatra       -  Al Masry Club
+  20.00  Future FC                -  Ismaily
+         Ghazl Al Mehalla         -  National Bank SC
+
+
+Matchday 8
+[Fri Jan/10]
+  17.00  PetroJet FC              -  ENPPI
+  20.00  Smouha Sporting Club     -  Future FC
+         Tala'ea El Gaish SC      -  Ceramica Cleopatra
+[Sat Jan/11]
+  17.00  National Bank SC         -  Ismaily
+  20.00  Ittihad El Iskandary     -  ZED FC
+[Tue Jan/14]
+  17.00  Pyramids FC              -  Ghazl Al Mehalla
+  20.00  Al Ahly SC               -  El Gouna
+[Wed Jan/15]
+  17.00  Zamalek                  -  Haras El Hodood
+  20.00  Al Masry Club            -  Pharco FC
+
+
+Matchday 9
+[Tue Jan/21]
+  17.00  El Gouna                 -  National Bank SC
+         Ghazl Al Mehalla         -  Haras El Hodood
+  20.00  ENPPI                    -  Tala'ea El Gaish SC
+         Ismaily                  -  Smouha Sporting Club
+[Wed Jan/22]
+  17.00  Pharco FC                -  Al Ahly SC
+  20.00  Ceramica Cleopatra       -  Ittihad El Iskandary
+         ZED FC                   -  Pyramids FC
+[Thu Jan/23]
+  17.00  PetroJet FC              -  Al Masry Club
+  20.00  Future FC                -  Zamalek
+
+
+Matchday 10
+[Sun Jan/26]
+  17.00  Tala'ea El Gaish SC      -  Pharco FC
+         Ittihad El Iskandary     -  Ismaily
+  20.00  Ghazl Al Mehalla         -  Ceramica Cleopatra
+         Al Ahly SC               -  Pyramids FC
+[Mon Jan/27]
+  17.00  Zamalek                  -  El Gouna
+  20.00  Haras El Hodood          -  Future FC
+         Al Masry Club            -  ENPPI
+[Tue Jan/28]
+  17.00  National Bank SC         -  PetroJet FC
+  20.00  Smouha Sporting Club     -  ZED FC
+
+
+Matchday 11
+[Fri Jan/31]
+  17.00  Ismaily                  -  Tala'ea El Gaish SC
+         El Gouna                 -  Haras El Hodood
+  20.00  Pyramids FC              -  Zamalek
+[Sat Feb/1]
+  17.00  ENPPI                    -  National Bank SC
+         ZED FC                   -  Al Masry Club
+  20.00  Pharco FC                -  Ghazl Al Mehalla
+         PetroJet FC              -  Ittihad El Iskandary
+[Sun Feb/2]
+  17.00  Ceramica Cleopatra       -  Smouha Sporting Club
+  20.00  Future FC                -  Al Ahly SC
+
+
+Matchday 12
+[Thu Feb/6]
+  17.00  Ghazl Al Mehalla         -  Future FC
+         Ceramica Cleopatra       -  Pharco FC
+  20.00  Al Ahly SC               -  PetroJet FC
+[Fri Feb/7]
+  17.00  Smouha Sporting Club     -  Pyramids FC
+         Haras El Hodood          -  ENPPI
+  20.00  Tala'ea El Gaish SC      -  El Gouna
+         Zamalek                  -  Ismaily
+[Sat Feb/8]
+  17.00  Ittihad El Iskandary     -  Al Masry Club
+  20.00  National Bank SC         -  ZED FC
+
+
+Matchday 13
+[Tue Feb/11]
+  17.00  Pharco FC                -  Zamalek
+         PetroJet FC              -  Smouha Sporting Club
+  20.00  Al Ahly SC               -  Ghazl Al Mehalla
+[Wed Feb/12]
+  17.00  ZED FC                   -  Ceramica Cleopatra
+         El Gouna                 -  Ismaily
+  20.00  Al Masry Club            -  National Bank SC
+         Pyramids FC              -  Haras El Hodood
+[Thu Feb/13]
+  17.00  Future FC                -  Tala'ea El Gaish SC
+  20.00  ENPPI                    -  Ittihad El Iskandary
+
+
+Matchday 14
+[Sun Feb/16]
+  17.00  Zamalek                  -  PetroJet FC
+         Smouha Sporting Club     -  National Bank SC
+  20.00  Haras El Hodood          -  Pharco FC
+         Ismaily                  -  Al Ahly SC
+[Mon Feb/17]
+  17.00  Ceramica Cleopatra       -  ENPPI
+  20.00  Ittihad El Iskandary     -  El Gouna
+         Future FC                -  Pyramids FC
+[Tue Feb/18]
+  17.00  Tala'ea El Gaish SC      -  ZED FC
+  20.00  Ghazl Al Mehalla         -  Al Masry Club
+
+
+Matchday 15
+[Fri Feb/21]
+  17.00  ENPPI                    -  Smouha Sporting Club
+         Pharco FC                -  Future FC
+  20.00  PetroJet FC              -  Haras El Hodood
+         National Bank SC         -  Ittihad El Iskandary
+[Sat Feb/22]
+  17.00  Al Masry Club            -  Ismaily
+         El Gouna                 -  Ceramica Cleopatra
+  20.00  Al Ahly SC               -  Zamalek
+[Sun Feb/23]
+  17.00  ZED FC                   -  Ghazl Al Mehalla
+  20.00  Pyramids FC              -  Tala'ea El Gaish SC
+
+
+Matchday 16
+[Wed Feb/26]
+  17.00  Future FC                -  El Gouna
+         Haras El Hodood          -  Al Ahly SC
+  20.00  Ismaily                  -  Pharco FC
+[Thu Feb/27]
+  17.00  Smouha Sporting Club     -  Al Masry Club
+  20.00  Tala'ea El Gaish SC      -  National Bank SC
+         Zamalek                  -  ZED FC
+[Fri Feb/28]
+  17.00  Ghazl Al Mehalla         -  ENPPI
+  20.00  Ceramica Cleopatra       -  PetroJet FC
+         Ittihad El Iskandary     -  Pyramids FC
+
+
+Matchday 17
+[Mon Mar/3]
+  21.00  National Bank SC         -  Haras El Hodood
+         Pharco FC                -  El Gouna
+         Al Masry Club            -  Future FC
+[Tue Mar/4]
+  21.00  ENPPI                    -  Zamalek
+         ZED FC                   -  Ismaily
+         Ittihad El Iskandary     -  Smouha Sporting Club
+[Wed Mar/5]
+  21.00  Al Ahly SC               -  Tala'ea El Gaish SC
+         PetroJet FC              -  Ghazl Al Mehalla
+         Pyramids FC              -  Ceramica Cleopatra
